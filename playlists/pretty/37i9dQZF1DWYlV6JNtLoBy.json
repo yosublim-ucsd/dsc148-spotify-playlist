@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1491,
+  "num_followers": 1503,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjg1OWM2YjczNTc2NzgyODJhZThiNmY3NjNlZTk4YzRhYTM4MDU3",
+  "snapshot_id": "MCw1MjRmZjM0NzNiZmE2NmRjYjVmMDUzODc5NzJkZDJlYWViMjNkMmZk",
   "tracks": [
     {
       "added_at": "2023-07-07 00:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Bwana Ni Ngome Yangu",
-        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
-      },
-      "artists": [
-        {
-          "name": "St. Joseph's Choir Kendu Bay Parish",
-          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Huyu Ni Nani",
-      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Tulia",
         "url": "https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 216607,
       "name": "Mwanake (feat. Kaberere)",
       "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Bwana Ni Ngome Yangu",
+        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
+      },
+      "artists": [
+        {
+          "name": "St. Joseph's Choir Kendu Bay Parish",
+          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Huyu Ni Nani",
+      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Ipo Siku",
-        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
-      },
-      "artists": [
-        {
-          "name": "Goodluck Gozbert",
-          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
-        }
-      ],
-      "duration_ms": 347593,
-      "name": "Ipo Siku",
-      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Kirathimo",
         "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Na Gode (Swahili)",
-        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
+        "name": "Ipo Siku",
+        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
       },
       "artists": [
         {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Na Gode - Swahili",
-      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
+      "duration_ms": 347593,
+      "name": "Ipo Siku",
+      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -655,6 +639,22 @@
       "duration_ms": 507425,
       "name": "Mungu Ni Mungu Tu",
       "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Na Gode (Swahili)",
+        "url": "https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Na Gode - Swahili",
+      "url": "https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Yatupasa Kushukuru",
-        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
+        "name": "Hapa Nilipo",
+        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
       },
       "artists": [
         {
-          "name": "Ambassadors Of Christ Choir",
-          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
+          "name": "UPENDO NKONE",
+          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
         }
       ],
-      "duration_ms": 283469,
-      "name": "Yatupasa Kushukuru",
-      "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
+      "duration_ms": 261355,
+      "name": "Upendo Wa Yesu",
+      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Hapa Nilipo",
-        "url": "https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz"
+        "name": "Yatupasa Kushukuru",
+        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
       "artists": [
         {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
+          "name": "Ambassadors Of Christ Choir",
+          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
         }
       ],
-      "duration_ms": 261355,
-      "name": "Upendo Wa Yesu",
-      "url": "https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer"
+      "duration_ms": 283469,
+      "name": "Yatupasa Kushukuru",
+      "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "KELELE ZA USHINDI",
+        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
+      },
+      "artists": [
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "ZORAVO",
+          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
+        }
+      ],
+      "duration_ms": 221936,
+      "name": "KELELE ZA USHINDI",
+      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Yatupasa Kushukuru",
         "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 204042,
       "name": "NADEKA",
       "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "KELELE ZA USHINDI",
-        "url": "https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp"
-      },
-      "artists": [
-        {
-          "name": "PAUL CLEMENT",
-          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
-        },
-        {
-          "name": "ZORAVO",
-          "url": "https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ"
-        }
-      ],
-      "duration_ms": 221936,
-      "name": "KELELE ZA USHINDI",
-      "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
     },
     {
       "added_at": "2023-04-06 20:59:00",

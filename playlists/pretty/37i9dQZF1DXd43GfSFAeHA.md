@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip\-Hop tracks from the illest Arab Rappers\. Cover: Tagne
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,039 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,090 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 28 | [KATAFAST](https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:30 |
 | 29 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 30 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
-| 31 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
-| 32 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 |
+| 31 | [Halloween](https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Halloween](https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd) | 3:42 |
+| 32 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 |
 | 33 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 |
 | 34 | [Toyota](https://open.spotify.com/track/2GtvTSPzrWKE4R2WFZpKYY) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [Toyota](https://open.spotify.com/album/1E3RzUHEM0xLPqIxNAEMRl) | 2:45 |
 | 35 | [Habebi](https://open.spotify.com/track/0KViukFxUz0qvgPoXBahXH) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Big Moe](https://open.spotify.com/artist/0onL6q1ADntaSpByqMhgtA) | [Habebi](https://open.spotify.com/album/3h2E9FqNEQYYr759vIgd0m) | 3:22 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 43 | [Masna3 \- مصنع](https://open.spotify.com/track/6xDb46g5ETNyA853muS6M3) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Masna3 \(مصنع\)](https://open.spotify.com/album/1jF8SmlOMQR93ePTpMbFi3) | 3:03 |
 | 44 | [LILA](https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [LILA](https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx) | 2:44 |
 | 45 | [Business](https://open.spotify.com/track/600N1qOhl74PSwlDKbrJ7x) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Moudja](https://open.spotify.com/album/3fxv4IPUjOdLKSWTEALktY) | 2:50 |
-| 46 | [Mashi El Hal](https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:28 |
-| 47 | [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 |
+| 46 | [KHABTA](https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF) | [La mass le vrai](https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk), [Phobia Isaac](https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3) | [KHABTA](https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU) | 4:24 |
+| 47 | [Mashi El Hal](https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:28 |
 | 48 | [Pulga](https://open.spotify.com/track/6vg38Y8X6Ly5nTICq5vawX) | [Nirmou](https://open.spotify.com/artist/4w4Iyllv9FAqkq5yNw04tN), [MVSS](https://open.spotify.com/artist/2ZpWTC3oHAjeDFEDTjCf6G) | [Pulga](https://open.spotify.com/album/2HSW9bTfxAN9szvbHBKp2i) | 3:25 |
 | 49 | [كلمنجي](https://open.spotify.com/track/07x8z9y3X8gQKF5rV1fTMP) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS) | [كلمنجي](https://open.spotify.com/album/3BZF4FaBAGvjGwyex5wCHj) | 2:47 |
 | 50 | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [EL\-NEGM EL\-SAHELY](https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK) | 2:13 |
 | 51 | [Niagara](https://open.spotify.com/track/4hPtfUDTbmXedQlQUCpIbg) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Niagara](https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV) | 2:05 |
 
-Snapshot ID: `MCxhNDQ5Yzc2OWEyMTMyOTFhMzljMmE2Mjg1ZmYyMjhhMmU4MGJlNmI3`
+Snapshot ID: `MCxhYjkzZjlmZGQ4M2JlZWU2MjhjNjlhNWRkYWI1ZjhiZmJhYjQyYjE4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 38 | [Black Woman](https://open.spotify.com/track/5tyD0d7gkhtVtiDZibjzem) | [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE) | [Black Woman](https://open.spotify.com/album/3Ek8F9NkwDbwcHGGw326Kb) | 4:09 |
 | 39 | [So Much Things to Say \- Live](https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:59 |
 | 40 | [No Woman No Cry \(Instrumental Version\)](https://open.spotify.com/track/21vKvJCRwHNw5c44CYSf7s) | [United Guitar Players](https://open.spotify.com/artist/0s7lr7BVm37JcjR9zNHRDx) | [Instrumental Bob Marley Renditions on Spanish Acoustic Guitars: Reggae Legend](https://open.spotify.com/album/3ThiyzIJh5ZBEyOnHNJ8DN) | 8:02 |
-| 41 | [Mean](https://open.spotify.com/track/54FJsCzX921AbmHchPluHd) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI), [Chris Oliver](https://open.spotify.com/artist/6NtlujLazDbrVqvm2YRtOS), [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:21 |
-| 42 | [What You Gave Me](https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Easy](https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ) | 2:47 |
+| 41 | [What You Gave Me](https://open.spotify.com/track/1yrZ0GevGt5HwBGH16MGBg) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Easy](https://open.spotify.com/album/4xWQy5s10Udgbqp0ZJQshJ) | 2:47 |
+| 42 | [Mean](https://open.spotify.com/track/54FJsCzX921AbmHchPluHd) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI), [Chris Oliver](https://open.spotify.com/artist/6NtlujLazDbrVqvm2YRtOS), [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:21 |
 | 43 | [Find Me](https://open.spotify.com/track/25x0SY1uAZsgP2ZzWrzsxV) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 4:17 |
 | 44 | [I Loves You, Porgy](https://open.spotify.com/track/2g3C9WXJ33RPdW18ZZGFlD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina with Strings](https://open.spotify.com/album/1wAn07zcivIIKWKAg2xIry) | 4:03 |
 | 45 | [Blame](https://open.spotify.com/track/7mQpC4igq6LyBjoNMiaXpm) | [Dhuwii](https://open.spotify.com/artist/4K99Xrq0vBtnKg1AAkSSxC) | [Blame](https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN) | 3:11 |
 | 46 | [Burning in Birmingham](https://open.spotify.com/track/0IAXIvpoVgk4QWxZ3iazyr) | [AMYRA](https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC) | [Something Melancholy](https://open.spotify.com/album/6IyDksveIfiFQqNyTq25Xy) | 6:32 |
-| 47 | [Bitter Sweet](https://open.spotify.com/track/5oZWMoyco56vs88S9GbWwU) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:26 |
-| 48 | [Selah](https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Divine Secrets Of The Ya\-Ya Sisterhood \- Music From The Motion Picture](https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ) | 5:54 |
-| 49 | [Gold](https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:27 |
-| 50 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |
+| 47 | [Selah](https://open.spotify.com/track/5HKjmf29Oym6yAUASbKtOs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Divine Secrets Of The Ya\-Ya Sisterhood \- Music From The Motion Picture](https://open.spotify.com/album/5N7fdHkKj57D2dmFEIDdgJ) | 5:54 |
+| 48 | [Gold](https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:27 |
+| 49 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |
+| 50 | [Bitter Sweet](https://open.spotify.com/track/5oZWMoyco56vs88S9GbWwU) | [Isea](https://open.spotify.com/artist/6zXvAqkCxo8BPDdLHhJQHI) | [Universe Ready](https://open.spotify.com/album/1ZY5SeMoAOtQ9G1n1s13Gl) | 2:26 |
 
-Snapshot ID: `MCwwZTYxNmQxN2YyZThlMjlhNGJhYWE1OTQzMTZiY2ZjMGQzZDk4MWI2`
+Snapshot ID: `MCxiNDcwMmRlMzhjNTllOWViZmFhYzEyMWFiM2FkZjExYWQ0NjVlZDk1`

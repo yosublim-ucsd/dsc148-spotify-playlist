@@ -4,7 +4,7 @@
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-49 songs - 2 hr 44 min
+50 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Karaoke \(feat\. Lizzo\)](https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [3rd Ward Bounce](https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj) | 3:05 | 2022-02-11 |  |
 | [Kool](https://open.spotify.com/track/0hwwIaWzXWeRLtGJ458gHu) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/1gvuirDIzJFcSqfrIn01Ld) | 2:48 | 2022-02-11 |  |
 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2022-02-11 |  |
-| [Living It Up](https://open.spotify.com/track/7xqb9V5dnp2wa9emncBBEt) | [Rough Nights](https://open.spotify.com/artist/6UCvu6CiBsiaCNwjDrYFiT) | [Living It Up](https://open.spotify.com/album/3XXsI2XS9LZbJj0h0nSr8Q) | 2:52 | 2022-02-11 |  |
+| [Living It Up](https://open.spotify.com/track/1rANXdrXTLAWxc0FGsV7BH) | [Rough Nights](https://open.spotify.com/artist/6UCvu6CiBsiaCNwjDrYFiT) | [Living It Up](https://open.spotify.com/album/2Secsr88jz925UBy9OetYH) | 2:52 | 2022-02-11 |  |
+| [Living It Up](https://open.spotify.com/track/7xqb9V5dnp2wa9emncBBEt) | [Rough Nights](https://open.spotify.com/artist/6UCvu6CiBsiaCNwjDrYFiT) | [Living It Up](https://open.spotify.com/album/3XXsI2XS9LZbJj0h0nSr8Q) | 2:52 | 2022-02-11 | 2023-07-13 |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2022-02-11 |  |
 | [Mariah](https://open.spotify.com/track/3CwAAsuZuy1HKtNQcXDD3o) | [lilbootycall](https://open.spotify.com/artist/4EPyKMgsR7JDuW9tL0AYZP) | [Mariah](https://open.spotify.com/album/3xWPfUqCOw29NDc6x71naf) | 2:00 | 2022-02-11 |  |
 | [Mayhem](https://open.spotify.com/track/1z3Gg0PF3qj81j4bOVtUU6) | [The Kemist](https://open.spotify.com/artist/1HvF89QVwGlk74nQZC6MCG), [Dj Braindead](https://open.spotify.com/artist/6KfuBqaNiLpb0cLc23Pnfq), [Nyanda](https://open.spotify.com/artist/5EgzuWPhhAurJc93qPTD3k) | [Mayhem](https://open.spotify.com/album/14yuL31T9JOO6HP5yMiA2a) | 3:30 | 2022-02-11 | 2022-07-29 |

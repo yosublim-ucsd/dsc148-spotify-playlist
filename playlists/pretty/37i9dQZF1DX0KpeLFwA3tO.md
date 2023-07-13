@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Sad Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,724 likes - 125 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,772 likes - 125 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Teeth](https://open.spotify.com/track/32ZKfUxISWjSTgeaPldd7l) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Teeth](https://open.spotify.com/album/4wLiI1xFR9EdYvJs6pF99n) | 3:46 |
 | 125 | [No Shoes in the Coffee Shop \(Or Socks\)](https://open.spotify.com/track/67BoLcQZhPok0yVe9J0Br8) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 3:20 |
 
-Snapshot ID: `MCw3NTAxMTc4ODAzYjJhNjhmODMwNzhmZTRiODY5ZWZmZTgzZDk5N2I0`
+Snapshot ID: `MCw0ZjkyMTBiM2NlYjVkZWIzMzBjOWVmNDg1N2YwZjQ4NGVjMTgzNDYz`

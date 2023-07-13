@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 344847,
+  "num_followers": 344887,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTA5YzU2YWU3MGQ1MjhlMGI1Y2NmNmMzNGZmZjE0NjA2MjQ2YmUx",
+  "snapshot_id": "MCxmM2UxNDcwNjAwZDg3M2MxYTNhMjA4YmEyNGRjNWMwOTlkMWNhMjVl",
   "tracks": [
     {
       "added_at": "2023-07-07 17:31:18",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-07-07 17:31:18",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Bad Company - Edit",
-      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
-    },
-    {
-      "added_at": "2023-07-07 17:31:18",
-      "album": {
         "name": "Ain't No Other Man (Rework)",
         "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
       },
@@ -167,18 +151,18 @@
     {
       "added_at": "2023-07-07 17:31:18",
       "album": {
-        "name": "Dancing Shoes (Take Me Higher)",
-        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 154831,
-      "name": "Dancing Shoes (Take Me Higher)",
-      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+      "duration_ms": 208596,
+      "name": "Bad Company - Edit",
+      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
     },
     {
       "added_at": "2023-07-07 17:31:18",
@@ -195,6 +179,22 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-07-07 17:31:18",
+      "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
       "added_at": "2023-07-07 17:31:18",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-07 17:31:18",
       "album": {
-        "name": "Bourgie Bourgie",
-        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 392812,
-      "name": "Bourgie Bourgie",
-      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
-    },
-    {
-      "added_at": "2023-07-07 17:31:18",
-      "album": {
         "name": "Rescue Me",
         "url": "https://open.spotify.com/album/6ltVvOxJSn1nAkeViLkOlo"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 147970,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/4Np57R3dz1W2A9WBbwuHpY"
+    },
+    {
+      "added_at": "2023-07-07 17:31:18",
+      "album": {
+        "name": "Bourgie Bourgie",
+        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 392812,
+      "name": "Bourgie Bourgie",
+      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
     },
     {
       "added_at": "2023-07-07 17:31:18",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-07-07 17:31:18",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
-    },
-    {
-      "added_at": "2023-07-07 17:31:18",
-      "album": {
         "name": "Disco Hearts",
         "url": "https://open.spotify.com/album/6Vo4WqFrhsw3syolQR4nAg"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 181500,
       "name": "Disco Hearts",
       "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
+    },
+    {
+      "added_at": "2023-07-07 17:31:18",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
     },
     {
       "added_at": "2023-07-07 17:31:18",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-07 17:31:18",
       "album": {
-        "name": "Back Tae Ayr",
-        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 332931,
-      "name": "Back Tae Ayr",
-      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
-    },
-    {
-      "added_at": "2023-07-07 17:31:18",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+    },
+    {
+      "added_at": "2023-07-07 17:31:18",
+      "album": {
+        "name": "Back Tae Ayr",
+        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 332931,
+      "name": "Back Tae Ayr",
+      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
     },
     {
       "added_at": "2023-07-07 17:31:18",

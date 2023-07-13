@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 264111,
+  "num_followers": 264380,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjkxMzgxZTE4N2U3MDBlNGI5N2Q1NjRmN2FkMDg4OWE1MGRiZDA1",
+  "snapshot_id": "MCw4ODA4MzY2MDYxNDk3ODg2Y2Q5MTFhYzIyM2FlYTIxZWM5YzM2MDZh",
   "tracks": [
     {
       "added_at": "2023-07-04 12:38:55",
@@ -567,22 +567,18 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Le Beirut",
-        "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s"
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
         }
       ],
-      "duration_ms": 431520,
-      "name": "Le Beirut",
-      "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -607,38 +603,22 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+        "name": "Le Beirut",
+        "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
       "artists": [
         {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
-        "name": "My Name Is Tokyo",
-        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
-      },
-      "artists": [
-        {
-          "name": "Ilkan Gunuc",
-          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         },
         {
-          "name": "Emrah Turken",
-          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s"
         }
       ],
-      "duration_ms": 172216,
-      "name": "My Name Is Tokyo",
-      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
+      "duration_ms": 431520,
+      "name": "Le Beirut",
+      "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -659,6 +639,26 @@
       "duration_ms": 273031,
       "name": "Arabic Soul",
       "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "My Name Is Tokyo",
+        "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
+      },
+      "artists": [
+        {
+          "name": "Ilkan Gunuc",
+          "url": "https://open.spotify.com/artist/02vT04WkgQ8dO4f1GLMTP9"
+        },
+        {
+          "name": "Emrah Turken",
+          "url": "https://open.spotify.com/artist/5J4Z1x3652wBUvuci5gVXe"
+        }
+      ],
+      "duration_ms": 172216,
+      "name": "My Name Is Tokyo",
+      "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Arabian Magic",
         "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 188000,
       "name": "Arabian Magic",
       "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
         "name": "Y\u00e2r",
         "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Che Danestam (Seventh Soul Remix)",
-        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
-      },
-      "artists": [
-        {
-          "name": "Homayoun Shajarian",
-          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
-        },
-        {
-          "name": "Seventh Soul",
-          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
-        }
-      ],
-      "duration_ms": 506666,
-      "name": "Che Danestam - Seventh Soul Remix",
-      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Love of You (The Violin Song)",
         "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 160575,
       "name": "Love of You (The Violin Song)",
       "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Che Danestam (Seventh Soul Remix)",
+        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
+      },
+      "artists": [
+        {
+          "name": "Homayoun Shajarian",
+          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
+        },
+        {
+          "name": "Seventh Soul",
+          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
+        }
+      ],
+      "duration_ms": 506666,
+      "name": "Che Danestam - Seventh Soul Remix",
+      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Sophonisbe",
-        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        },
-        {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
-        }
-      ],
-      "duration_ms": 396428,
-      "name": "Sophonisbe - Sahale Remix",
-      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "La Blanche",
         "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 332000,
       "name": "La Blanche",
       "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Sophonisbe",
+        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
+      },
+      "artists": [
+        {
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
+        },
+        {
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+        }
+      ],
+      "duration_ms": 396428,
+      "name": "Sophonisbe - Sahale Remix",
+      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 210132,
       "name": "3ala bali",
       "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
+        "name": "Sireli",
+        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
+      },
+      "artists": [
+        {
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+        }
+      ],
+      "duration_ms": 381818,
+      "name": "Souq",
+      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 179512,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
-        "name": "Sireli",
-        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
-      },
-      "artists": [
-        {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Souq",
-      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Buddha Bar XVII",
         "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 323720,
       "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
       "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "Mandala",
-        "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
-      },
-      "artists": [
-        {
-          "name": "Fady x Mina",
-          "url": "https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 237215,
-      "name": "Mandala",
-      "url": "https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR"
-    },
-    {
-      "added_at": "2023-07-04 12:38:55",
-      "album": {
         "name": "Arab Money",
         "url": "https://open.spotify.com/album/0jy3i5i7lVe7ZORloJg4L5"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
+    },
+    {
+      "added_at": "2023-07-04 12:38:55",
+      "album": {
+        "name": "Mandala",
+        "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
+      },
+      "artists": [
+        {
+          "name": "Fady x Mina",
+          "url": "https://open.spotify.com/artist/5d0bEn2xHaHZrXAnFDZaFL"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 237215,
+      "name": "Mandala",
+      "url": "https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR"
     },
     {
       "added_at": "2023-07-04 12:38:55",
@@ -1943,26 +1943,18 @@
     {
       "added_at": "2023-07-04 12:38:55",
       "album": {
-        "name": "The Fire",
-        "url": "https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ"
+        "name": "Mikail Aslan - \u00c7em Vano (HVMZA Remix)",
+        "url": "https://open.spotify.com/album/0mWKvv4QJX1ne4ZZHL0YPM"
       },
       "artists": [
         {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        },
-        {
-          "name": "Galwaro",
-          "url": "https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD"
+          "name": "HVMZA",
+          "url": "https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK"
         }
       ],
-      "duration_ms": 176164,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz"
+      "duration_ms": 359750,
+      "name": "\u00c7em Vano - Remix",
+      "url": "https://open.spotify.com/track/7zb0bX0Jd1xoL5lYxHzKta"
     }
   ],
   "unique_name": "mosaic",

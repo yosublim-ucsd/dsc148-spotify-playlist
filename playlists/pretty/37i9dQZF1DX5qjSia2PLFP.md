@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA?si=b865adea41ab4b5d">July 7</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,843 likes - 100 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,852 likes - 100 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 41 | [Check](https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Check](https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk) | 2:42 |
 | 42 | [My Ability](https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [My Ability](https://open.spotify.com/album/4ksFUZlag8pQV82WLLxivc) | 3:19 |
 | 43 | [Weeks \(feat\. NoCap\)](https://open.spotify.com/track/5dRKpEQl3T67smpyWGD7D4) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Weeks \(feat\. NoCap\)](https://open.spotify.com/album/1ljMmc8zAt3Ls7AW9JrAO0) | 3:02 |
-| 44 | [MESSY](https://open.spotify.com/track/3TlSPN33s03Tg89wS5EauK) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [MESSY](https://open.spotify.com/album/0Qdf4Ed05QWx8pMDMYRjnm) | 2:15 |
+| 44 | [MESSY](https://open.spotify.com/track/54rORcoTfb2HMayphGXsJo) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [HEAVEN CAN'T SAVE YOU](https://open.spotify.com/album/20oCaJ2RAoz2JzihIy9AA0) | 2:15 |
 | 45 | [hallelujah](https://open.spotify.com/track/2Ngjdn5Y5MKv4dTa024SF7) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [hallelujah](https://open.spotify.com/album/6mOTpOg5zP6ieYLe9LBJ00) | 2:20 |
 | 46 | [Back In Office](https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Back In Office](https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg) | 2:53 |
 | 47 | [GM3](https://open.spotify.com/track/1I9W17vDK31ZHAcLGHe4sR) | [LIL LO](https://open.spotify.com/artist/17SUtl275ibg2bA3c31cVj) | [HALL OF FAME](https://open.spotify.com/album/57AdmZb2MkF4GQzD9jJqSb) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Ain't On None \(feat\. 21 Savage\)](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 |
 | 100 | [Pelicans](https://open.spotify.com/track/1N4BtJIjNoaEtoBMjgri7j) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pelicans](https://open.spotify.com/album/70ORb8kKxoDAXwdSADTVII) | 3:50 |
 
-Snapshot ID: `MCxjMjY1MmM2YTA3OTEzMzUyNmU1MTJlYjVlZWY4MDFlM2FmOGIzNjgy`
+Snapshot ID: `MCwyMjIwOWJmYmNlOTEwOGE2MGM3YjZlZDQ3ZTAyODlhNTk5ZWNhNmE0`

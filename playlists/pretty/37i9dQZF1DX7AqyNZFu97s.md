@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Nxdia
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,153 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,171 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Glued](https://open.spotify.com/track/78qClqEjmVk8pn6hdiy32z) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [Glued](https://open.spotify.com/album/1oxco2A76wN3FMT98QBbUS) | 3:16 |
 | 80 | [Feelings](https://open.spotify.com/track/35lgENmxCZM0H2StqdksBk) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Feelings](https://open.spotify.com/album/1mXNE9oOFEyeQJI71JrLnb) | 2:33 |
 
-Snapshot ID: `MCxmM2QzZmVmMzg1ZmUyOTI0YWNiMGNiZjkzMWYwOTRmOWQ4OTcyZWMx`
+Snapshot ID: `MCxhNWIzZDBiY2FmMTNlOTFhZWU2ZTA1MWEwOTMwYmZiNWMwZjZlMjJk`

@@ -1098,7 +1098,7 @@
     {
       "album": {
         "name": "quite early one morning",
-        "url": "https://open.spotify.com/album/5a3kOqAT5oGo2zudSTlru9"
+        "url": "https://open.spotify.com/album/5ev27RCycmECWHoSg7w491"
       },
       "artists": [
         {
@@ -1109,6 +1109,24 @@
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 135124,
+      "name": "didn't you believe in me?",
+      "url": "https://open.spotify.com/track/3p2OiTxp4ZKJ157XwXUegV"
+    },
+    {
+      "album": {
+        "name": "quite early one morning",
+        "url": "https://open.spotify.com/album/5a3kOqAT5oGo2zudSTlru9"
+      },
+      "artists": [
+        {
+          "name": "Philip Brooks",
+          "url": "https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
       "duration_ms": 135124,
       "name": "didn't you believe in me?",
       "url": "https://open.spotify.com/track/6wHLcpbvq2HEz3fS7ik9IB"

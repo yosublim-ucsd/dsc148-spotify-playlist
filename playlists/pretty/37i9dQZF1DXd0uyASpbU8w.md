@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj?si=uD060DMQRRq6DTwxZg340w">Cici</a> & <a href="https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW?si=xy78nUYZQ2\-yy4PcFIWYew">DJ Zinhle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,217 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,229 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 49 | [I Won't Say No](https://open.spotify.com/track/3YTj8IYe4Ex0kfb1a0J8Kj) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [I Won't Say No](https://open.spotify.com/album/67fHJHgP1RkxVVPiiedIXd) | 2:29 |
 | 50 | [Call Me](https://open.spotify.com/track/1NOlini2sVaKWnQ9FS50hP) | [Cailyn Shelby](https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N) | [Call Me](https://open.spotify.com/album/19EEBtPzeF4hOlD5JabhLc) | 2:57 |
 
-Snapshot ID: `MCxlZmNhMDg2YjNkMTU5NTQ5ZjMyNWNmZjBhYzFhMTlmZjM4ZWFjODI5`
+Snapshot ID: `MCw3YWRjMGY2YzU1ZTk3ZWE2NGU5YTUxOTYyOTFkNjU4MjFkNmZjYTlh`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Talking Quietly of Anything With You",
+        "url": "https://open.spotify.com/album/65uA55viVzKnJ3veAi180n"
+      },
+      "artists": [
+        {
+          "name": "Free Cake For Every Creature",
+          "url": "https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146174,
+      "name": "All You Gotta Be When You're 23 Is Yourself",
+      "url": "https://open.spotify.com/track/0ppPrxfIry7uMvM7djyFX6"
+    },
+    {
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },

@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Zino Vinci",
-  "num_followers": 144185,
+  "num_followers": 144262,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODFlM2ZhZjNlMDlmODMzZmUzM2ViZGYzMjEwYWYzY2NjMTFmYzE2",
+  "snapshot_id": "MCxiMjAzNzlmYzI4ZTE4ZDVhY2U5ZmY0MzBiYTVjZDI5ZTgwOGE0NzFh",
   "tracks": [
     {
       "added_at": "2023-06-16 09:37:55",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
-      },
-      "artists": [
-        {
-          "name": "Digga D",
-          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Need Me",
         "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
       },
@@ -203,6 +203,26 @@
       "duration_ms": 138946,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "From The D 2 The LBC (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -231,26 +251,6 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "From The D 2 The LBC (with Snoop Dogg)",
-        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "From The D 2 The LBC (with Snoop Dogg)",
-      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "KANEKI",
-        "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
+        "name": "24's",
+        "url": "https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP"
       },
       "artists": [
         {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 170083,
-      "name": "KANEKI",
-      "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
+      "duration_ms": 166027,
+      "name": "24's",
+      "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "24's",
-        "url": "https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP"
+        "name": "KANEKI",
+        "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
         }
       ],
-      "duration_ms": 166027,
-      "name": "24's",
-      "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
+      "duration_ms": 170083,
+      "name": "KANEKI",
+      "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Leon the Professional",
-        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Leon the Professional",
-      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
         "name": "Rainforest",
         "url": "https://open.spotify.com/album/4S4uSDytC4AdsfHYPFhYT3"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "NEMZZZ TYPE BEAT",
-        "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
+        "name": "Leon the Professional",
+        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
       },
       "artists": [
         {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 161666,
-      "name": "FENTY BEAUTY",
-      "url": "https://open.spotify.com/track/6PtTA5brWv0ITzpMuW30s1"
+      "duration_ms": 181200,
+      "name": "Leon the Professional",
+      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -783,6 +767,22 @@
       "duration_ms": 202626,
       "name": "Antidote (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "NEMZZZ TYPE BEAT",
+        "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "FENTY BEAUTY",
+      "url": "https://open.spotify.com/track/6PtTA5brWv0ITzpMuW30s1"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -823,6 +823,26 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
+        "name": "Girl Eats Sun",
+        "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 183769,
+      "name": "Cherries",
+      "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
         "name": "Predicate",
         "url": "https://open.spotify.com/album/4EO6YGsWgMwC25qt0aZP4K"
       },
@@ -847,38 +867,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Girl Eats Sun",
-        "url": "https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps"
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 183769,
-      "name": "Cherries",
-      "url": "https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "GOD SAVE THE STREETS",
-        "url": "https://open.spotify.com/album/21lqmGSKdoWPHRZqCz6aEM"
-      },
-      "artists": [
-        {
-          "name": "Avelino",
-          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
-        }
-      ],
-      "duration_ms": 176672,
-      "name": "TWIN FLAME",
-      "url": "https://open.spotify.com/track/1ypCPdkZ5Woxk1llRwKkXg"
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -899,50 +899,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+        "name": "GOD SAVE THE STREETS",
+        "url": "https://open.spotify.com/album/21lqmGSKdoWPHRZqCz6aEM"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "Get Inspired",
-        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 173152,
-      "name": "Get Inspired",
-      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
-    },
-    {
-      "added_at": "2023-06-16 09:37:55",
-      "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+      "duration_ms": 176672,
+      "name": "TWIN FLAME",
+      "url": "https://open.spotify.com/track/1ypCPdkZ5Woxk1llRwKkXg"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -963,22 +931,18 @@
     {
       "added_at": "2023-06-16 09:37:55",
       "album": {
-        "name": "Chrome Bull",
-        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+        "name": "Get Inspired",
+        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 187938,
-      "name": "Sneaky",
-      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+      "duration_ms": 173152,
+      "name": "Get Inspired",
+      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
       "added_at": "2023-06-16 09:37:55",
@@ -1003,6 +967,42 @@
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "added_at": "2023-06-16 09:37:55",
+      "album": {
+        "name": "Chrome Bull",
+        "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 187938,
+      "name": "Sneaky",
+      "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
     },
     {
       "added_at": "2023-06-16 09:37:55",

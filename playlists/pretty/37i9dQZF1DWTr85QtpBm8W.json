@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 10025,
+  "num_followers": 10087,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWY3MTMxZTkzNmU1YmEzMDNjN2ZmMTFiNjY1Y2E5MmI1YWE1ODYw",
+  "snapshot_id": "MCxkNjc4ZjlkMGRhNDFkNmU1Y2VkMGRlM2I4NGM4ZTFjMmZlMWMyNjQw",
   "tracks": [
     {
       "added_at": "2023-06-07 15:22:01",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Harmony in Ultraviolet",
-        "url": "https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 91826,
-      "name": "Harmony in Blue I",
-      "url": "https://open.spotify.com/track/000xQBsBOXGbHzbOwWsTua"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Into The Blue Again",
         "url": "https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 269066,
       "name": "The Light",
       "url": "https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Harmony in Ultraviolet",
+        "url": "https://open.spotify.com/album/1U5x6wQtMJtbwM3NZRSvKT"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 91826,
+      "name": "Harmony in Blue I",
+      "url": "https://open.spotify.com/track/000xQBsBOXGbHzbOwWsTua"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 268051,
-      "name": "Dissolving Clouds",
-      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Ghosts I-IV",
         "url": "https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp"
       },
@@ -139,18 +123,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
       },
       "artists": [
         {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
-      "duration_ms": 126091,
-      "name": "In McDonalds",
-      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
+      "duration_ms": 268051,
+      "name": "Dissolving Clouds",
+      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -171,6 +155,38 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "The Dead Texan",
         "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
@@ -187,18 +203,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+        "name": "Ghosts I-IV",
+        "url": "https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+      "duration_ms": 168834,
+      "name": "01 Ghosts I",
+      "url": "https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -291,22 +307,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Ghosts I-IV",
-        "url": "https://open.spotify.com/album/0lOn8nKk4dzzRfnCCCRbwp"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 168834,
-      "name": "01 Ghosts I",
-      "url": "https://open.spotify.com/track/3M17PrywlQbpMskEKvdaea"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "92982",
         "url": "https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Corsair",
-      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -371,18 +355,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Copia",
-        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 198120,
-      "name": "Amreik",
-      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
+      "duration_ms": 172026,
+      "name": "Corsair",
+      "url": "https://open.spotify.com/track/4rRe3lijaWtTbLEtAmwGKH"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -399,6 +383,22 @@
       "duration_ms": 76106,
       "name": "V",
       "url": "https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Copia",
+        "url": "https://open.spotify.com/album/6P3NxDFmh6Ytuw7vFEwSgJ"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "Amreik",
+      "url": "https://open.spotify.com/track/0yqjpsNQvm0IZMtKqYVpMs"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+        "name": "Black One",
+        "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "sunn O)))",
+          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
         }
       ],
-      "duration_ms": 161853,
-      "name": "Sherbet Head",
-      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
+      "duration_ms": 137826,
+      "name": "Sin Nanna",
+      "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Sherbet Head",
+      "url": "https://open.spotify.com/track/4A14Tvo2k0Ty2RWHdwj1ZD"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 457146,
       "name": "Requiem for Dying Mothers, Pt. 2",
       "url": "https://open.spotify.com/track/7m2iqOIBuCT0XvMkv4wYNv"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Black One",
-        "url": "https://open.spotify.com/album/3oFLD6FiLtAe1Ykq3wWuPf"
-      },
-      "artists": [
-        {
-          "name": "sunn O)))",
-          "url": "https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "Sin Nanna",
-      "url": "https://open.spotify.com/track/5Io6W7GqRsXUZnl1O0fcb0"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Venice",
-        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
-      },
-      "artists": [
-        {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
-        }
-      ],
-      "duration_ms": 282106,
-      "name": "Rivers of Sand",
-      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "The Tired Sounds of Stars of the Lid",
         "url": "https://open.spotify.com/album/2TnJPCSX9i2etg8jbaMcbl"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 397813,
       "name": "Requiem for Dying Mothers, Pt. 1",
       "url": "https://open.spotify.com/track/4iCjh6ybA5uiLSIAlcrFuV"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
+      },
+      "artists": [
+        {
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+        }
+      ],
+      "duration_ms": 282106,
+      "name": "Rivers of Sand",
+      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
-      },
-      "artists": [
-        {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
-        }
-      ],
-      "duration_ms": 602933,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 315386,
       "name": "All The Big Trees - 2019 Remaster",
       "url": "https://open.spotify.com/track/1lkcrEmMddGE1c1pcY6hdQ"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        }
+      ],
+      "duration_ms": 602933,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
+      },
+      "artists": [
+        {
+          "name": "Philip Jeck",
+          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
+        }
+      ],
+      "duration_ms": 506760,
+      "name": "Wholesome",
+      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 236786,
       "name": "Von Schn\u00e4beln",
       "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
-        "name": "Variations: A Movement In Chrome Primitive",
-        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 558800,
-      "name": "Variation IV",
-      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
+        "name": "Variations: A Movement In Chrome Primitive",
+        "url": "https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd"
       },
       "artists": [
         {
-          "name": "Philip Jeck",
-          "url": "https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK"
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 506760,
-      "name": "Wholesome",
-      "url": "https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7"
+      "duration_ms": 558800,
+      "name": "Variation IV",
+      "url": "https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p"
     },
     {
       "added_at": "2023-06-07 15:22:01",

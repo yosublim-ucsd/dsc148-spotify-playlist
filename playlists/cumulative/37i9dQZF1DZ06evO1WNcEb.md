@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-51 songs - 4 hr 31 min
+52 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Fala Comigo](https://open.spotify.com/track/1IBWMbYSBLYX36tuMkqcKY) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:12 | 2023-07-09 |  |
 | [Fiel a Mim](https://open.spotify.com/track/45BbvslR0kdNkO79pDhAhM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 7:22 | 2023-07-09 |  |
 | [Filho](https://open.spotify.com/track/2R5kJSI0x5PN1glt96wpEy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Filho](https://open.spotify.com/album/51pxnOsLJxCY8wgUUbp5bo) | 4:10 | 2023-07-09 |  |
-| [Grande é o Nosso Deus \- Ao Vivo](https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus \(Ao Vivo\)](https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH) | 5:23 | 2023-07-09 |  |
+| [Grande é o Nosso Deus](https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus](https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd) | 5:19 | 2023-07-12 |  |
+| [Grande é o Nosso Deus \- Ao Vivo](https://open.spotify.com/track/08oVsSKDOUS7hctEGBR43L) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Grande é o Nosso Deus \(Ao Vivo\)](https://open.spotify.com/album/2d0vpD8e9BH5cSCRLHriUH) | 5:23 | 2023-07-09 | 2023-07-13 |
 | [Lázaro](https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Lázaro](https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs) | 5:22 | 2023-07-09 |  |
 | [Mais Grato a Ti](https://open.spotify.com/track/108wrxfPjUGLQG4UQgAAzF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:48 | 2023-07-10 | 2023-07-12 |
 | [Mais Que Uma Voz](https://open.spotify.com/track/25Hh17rnSPTIjoa4y9nBRN) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 4:02 | 2023-07-09 |  |

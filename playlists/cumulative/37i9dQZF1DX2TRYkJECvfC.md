@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-398 songs - 1 day 11 hr 5 min
+399 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Floss](https://open.spotify.com/track/3I7cvFHNwanYTnGiK6qrQ0) | [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE), [Ed Nine](https://open.spotify.com/artist/50QUJcqIIHO67CGSYDw0eI) | [Provide](https://open.spotify.com/album/47HMFd7cpiPHhTAw5Zp3cQ) | 6:50 | 2021-12-08 | 2022-07-14 |
 | [Flying Circles \- Original Mix](https://open.spotify.com/track/6Y2T0AmowuhVjMkopssmQY) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Flying Circles EP](https://open.spotify.com/album/0q8jwAjAe2kGkCI2HbvGLZ) | 6:50 | 2021-12-08 |  |
 | [Fogo](https://open.spotify.com/track/4HXpEQIUgWsrbe3Nj0yC3P) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [Fogo](https://open.spotify.com/album/5RiBmX1WzUSo82aXmnCAmC) | 6:37 | 2023-02-17 |  |
+| [Follow Me](https://open.spotify.com/track/4tHjizQIS9XyYnKBxID7b4) | [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3), [My Friend](https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Universal Language](https://open.spotify.com/album/7mPgkoMjQ5s5BE6XBiuIVH) | 3:54 | 2023-07-07 |  |
 | [Follow The Dark](https://open.spotify.com/track/3KiO6COi4F8INOuXU5Q1Wc) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Follow The Dark \- Part I](https://open.spotify.com/album/71NWTreHzqVqeSHrP6WmzU) | 4:06 | 2023-04-21 |  |
 | [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 | 2021-12-08 | 2023-06-03 |
 | [For Now](https://open.spotify.com/track/3EMGPuLLcXxJkT8wipZjy9) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [For Now](https://open.spotify.com/album/7J4MlpzikCgbTSvjxUnD0q) | 3:52 | 2021-12-08 |  |
@@ -196,9 +197,9 @@
 | [Magnetic](https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Magnetic](https://open.spotify.com/album/7GMaki32RP1IoRkqqxsTZZ) | 5:28 | 2021-12-08 | 2023-05-06 |
 | [Magnetic Generation](https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM) | [Pi\-Singer](https://open.spotify.com/artist/0laYghO0Z0yrzxgrWX0aD3) | [Magnetic Generation](https://open.spotify.com/album/2tArvO5RHUfeQkspt6OgNF) | 5:33 | 2021-12-08 | 2023-06-27 |
 | [Majika](https://open.spotify.com/track/61viWAXyKA61e0Gxv2j6Q6) | [Heliotype](https://open.spotify.com/artist/5N4dVbRP8Iu2sbKC8r8JeF) | [Majika](https://open.spotify.com/album/3MgAaIzurGwvNkOHh9ysyI) | 3:33 | 2021-12-08 | 2023-02-06 |
-| [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 | 2021-12-08 |  |
+| [Make a Wish](https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1) | [Arina Mur](https://open.spotify.com/artist/3xPmeowtzXszyBWz4DKKaJ) | [Make a Wish](https://open.spotify.com/album/1BPpzVH2HO9deeJiG34cAI) | 7:00 | 2021-12-08 | 2023-07-13 |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-21 |  |
-| [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 |  |
+| [Mamafaka](https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF) | [Sindres](https://open.spotify.com/artist/4jpZ2BeIvoV2L6KDoul2W5) | [Mamafaka](https://open.spotify.com/album/2DzUzsMHRBxQ7TZ5Ajy307) | 6:25 | 2021-12-08 | 2023-07-13 |
 | [Mancora](https://open.spotify.com/track/2pmbbUP1lTKZ7voVz0zwmP) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT) | [Anjunadeep Explorations 19](https://open.spotify.com/album/3nKb70XsqiQwCQQuLxZWpg) | 3:59 | 2023-01-06 |  |
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 |  |
 | [Mars 500](https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56) | 6:52 | 2022-10-28 |  |
@@ -317,7 +318,7 @@
 | [Something New](https://open.spotify.com/track/59PzMa6VuSz6AH3jdQD9w6) | [Damian Rausch](https://open.spotify.com/artist/4canJqeqGUKVyHKOpaDiol) | [About That](https://open.spotify.com/album/2bkK9rVU4m5bvoZn2BfZJg) | 5:58 | 2021-12-08 | 2022-07-21 |
 | [Somewhere \- Dream Dub](https://open.spotify.com/track/190I6kbDanvCla1KYDTojf) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG) | [Somewhere](https://open.spotify.com/album/5EjAbC1a6fYerVAEjziibT) | 8:02 | 2021-12-08 | 2023-06-10 |
 | [Sonthee](https://open.spotify.com/track/7fKAiHWnUcGeZ4BFFItpQy) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Sonthee](https://open.spotify.com/album/71lGWXKrdQAnoyS4KJNJSq) | 4:16 | 2022-10-28 |  |
-| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 | 2023-07-12 |
+| [Sorry I Hide in My Room](https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd) | [Oporia](https://open.spotify.com/artist/2V1GnrizbI7IYPfFtMBwNG) | [Sorry I Hide in My Room](https://open.spotify.com/album/3ItUn2XpV5dYmfXAVIziFh) | 2:56 | 2021-12-08 |  |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/0g8ndiFkgEg0qHC50VS4Zg) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/3nFcfPYNzV1ytsrHJOaZ5a) | 4:50 | 2023-01-06 | 2023-07-01 |
 | [Spectre \- Theo Kottis Remix](https://open.spotify.com/track/5cIOqCyQzGw9Im60Q7RlWS) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Spectre \(Theo Kottis Remix\)](https://open.spotify.com/album/5x1pmw6FPmCIy4AsHqc6cb) | 4:50 | 2022-05-03 | 2023-02-03 |
 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 | 2021-12-08 | 2022-07-28 |

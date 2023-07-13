@@ -4,10 +4,11 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-60 songs - 3 hr 29 min
+61 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 | 2023-07-03 |  |
 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 | 2023-07-03 |  |
 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 | 2023-07-03 |  |
 | [Be Where Your Feet Are](https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good \(Deluxe Edition\)](https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63) | 3:14 | 2023-07-03 |  |
@@ -23,7 +24,7 @@
 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 | 2023-07-03 |  |
 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 | 2023-07-03 |  |
 | [Fugir Com o Sol \- Acústico](https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Fugir Com o Sol \(Acústico\)](https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP) | 3:15 | 2023-07-03 |  |
-| [Garapuá \(Menina Linda\)](https://open.spotify.com/track/5ImZprMpF5w0sgaJpl3acM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Não Deixe Esse Instante Passar](https://open.spotify.com/album/3HqqzoqC8Es80AQAfcxsNn) | 3:04 | 2023-07-03 |  |
+| [Garapuá \(Menina Linda\)](https://open.spotify.com/track/5ImZprMpF5w0sgaJpl3acM) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Não Deixe Esse Instante Passar](https://open.spotify.com/album/3HqqzoqC8Es80AQAfcxsNn) | 3:04 | 2023-07-03 | 2023-07-13 |
 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 | 2023-07-03 |  |
 | [Jah Bless](https://open.spotify.com/track/5WTkJOM7RYui9Fj7OGzWch) | [Gaiuna](https://open.spotify.com/artist/7DbjEZyIXYZy7q7563s90d) | [Jah Bless](https://open.spotify.com/album/3DM0LwaeVcO4SrobtimYxB) | 3:27 | 2023-07-03 |  |
 | [LEVE](https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo) | [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [LEVE](https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr) | 2:23 | 2023-07-03 |  |

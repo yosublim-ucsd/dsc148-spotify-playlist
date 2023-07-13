@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Diljit
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,077 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,308 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 79 | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/track/31EqumBCMNGK3kt1sSL4gV) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [Laung Laachi Title Track \(From "Laung Laachi"\)](https://open.spotify.com/album/396twavEqFLIB2wPhSOVsl) | 2:40 |
 | 80 | [Ghalat Fehmi \- From "Superstar"](https://open.spotify.com/track/5mnvugwfFYnJm9zuyGkgqF) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Zenab Fatimah Sultan](https://open.spotify.com/artist/7xyGjFQhwVUrjYeGTzehMG) | [Ghalat Fehmi \(From "Superstar"\)](https://open.spotify.com/album/33syewuvoBtDNf93eSnnwj) | 4:46 |
 
-Snapshot ID: `MCwyYjAyNzgwYWViNWEzY2U3MzRkOTE5NjBiY2Y5NDcwM2Y0YWM3ZTYz`
+Snapshot ID: `MCwzYWRhYjM1MDA3OWMxNzAxZWJlMjFmNmRkZTljY2VmZGJmZTY4ODIy`

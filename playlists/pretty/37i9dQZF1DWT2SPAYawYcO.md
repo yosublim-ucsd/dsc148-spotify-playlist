@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 71 | [Bloodstream](https://open.spotify.com/track/2MnNsnpYNbvGN4QQ9oRoSe) | [Busby Marou](https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO) | [Bloodstream](https://open.spotify.com/album/0oPB7C5HuX0bETAYaC75yO) | 3:24 |
 | 72 | [Lwonesome Tonight](https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK) | 3:48 |
 | 73 | [i've got a bf \(best friend\)](https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA), [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [i've got a bf \(best friend\)](https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec) | 2:28 |
-| 74 | [Morocco](https://open.spotify.com/track/5kUamKIFu7LoTihkC0WEkE) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [Morocco](https://open.spotify.com/album/5kOApewWeRoHcuYXP4mBKP) | 2:17 |
+| 74 | [Morocco](https://open.spotify.com/track/5kUamKIFu7LoTihkC0WEkE) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [Swimgood](https://open.spotify.com/artist/24xfAzbGptMhkrHlYS8xsN) | [Morocco](https://open.spotify.com/album/5kOApewWeRoHcuYXP4mBKP) | 2:17 |
 | 75 | [Cloud Dancing](https://open.spotify.com/track/1osa9IosuISMYwkfOGguY5) | [Paige Valentine](https://open.spotify.com/artist/03CUg2BV0QxiYIq0IfAsBS) | [Cloud Dancing](https://open.spotify.com/album/7fkki65cI89IRPRiCaobTB) | 3:26 |
 | 76 | [Headrush](https://open.spotify.com/track/7at92pKxDnRVqngN6jb75V) | [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL) | [Headrush](https://open.spotify.com/album/2bw55yiNKKdhEPg4vNBEEp) | 3:12 |
 | 77 | [Look The Part](https://open.spotify.com/track/3fB4spGZQVRH8cmKPkSwJY) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Look The Part](https://open.spotify.com/album/1F2bkcOzxlfidtB2Qg4JpB) | 3:53 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 97 | [Heartbreak Hotel](https://open.spotify.com/track/37faWfUENSGfU9MxVwMbiM) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Heartbreak Hotel](https://open.spotify.com/album/126VxqlCE4mo3WJ9DXaYHb) | 3:23 |
 | 98 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 |
 
-Snapshot ID: `MCxiMDE4MjBlNjFlNjdkYmFmZDhhMTI5OWM0ZDA0NWJkZWQzNWVkOTMx`
+Snapshot ID: `MCw4ODc5OTNmMTAzYmMzYTE3ODUwMjRiZWI0MmQ3MTA3ZmVjNWE5NTdi`

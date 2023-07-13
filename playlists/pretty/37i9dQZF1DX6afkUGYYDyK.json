@@ -1,12 +1,12 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 17076,
+  "num_followers": 17082,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5",
+  "snapshot_id": "MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1",
   "tracks": [
     {
       "added_at": "2022-11-23 15:01:23",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Thank You For It All",
-        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 264430,
-      "name": "Thank You For It All",
-      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Be Glad",
         "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 299658,
       "name": "Be Glad",
       "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Thank You For It All",
+        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 264430,
+      "name": "Thank You For It All",
+      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD"
-      },
-      "artists": [
-        {
-          "name": "The Walls Group",
-          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "And You Don't Stop",
-      "url": "https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Faith Of My Father",
         "url": "https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "The Walls Group",
+          "url": "https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Give Thanks & Praises",
-      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
+      "duration_ms": 221173,
+      "name": "And You Don't Stop",
+      "url": "https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -279,6 +263,22 @@
       "duration_ms": 192775,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Give Thanks & Praises",
+      "url": "https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Beautiful Day (House of the Lord)",
-        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
-      },
-      "artists": [
-        {
-          "name": "FRVR FREE",
-          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Beautiful Day (House of the Lord)",
-      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Give Thanks",
         "url": "https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 305006,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Beautiful Day (House of the Lord)",
+        "url": "https://open.spotify.com/album/7yOXtwk3vprAVZla2WDpuv"
+      },
+      "artists": [
+        {
+          "name": "FRVR FREE",
+          "url": "https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Beautiful Day (House of the Lord)",
+      "url": "https://open.spotify.com/track/3Ox0AN8KFVec5GqUz0c2Vh"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "Give Thanks (Live)",
-        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        }
-      ],
-      "duration_ms": 254426,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Pour Your Spirit Out (Live)",
         "url": "https://open.spotify.com/album/0JkxjZEwrZxODIbQ1j5kGs"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 353282,
       "name": "Always So Good - Live",
       "url": "https://open.spotify.com/track/134HXcot9jJGRA7F6nbrtv"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "Give Thanks (Live)",
+        "url": "https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        }
+      ],
+      "duration_ms": 254426,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz"
     },
     {
       "added_at": "2022-11-23 15:01:23",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
+        "name": "Milk & Cookies: A Merry Crowder Christmas",
+        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 208243,
+      "name": "Thanks Giver",
+      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
         "name": "All Sons & Daughters",
         "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 335652,
       "name": "We Give You Thanks",
       "url": "https://open.spotify.com/track/7ophliTSArPbWKiydO5TRl"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
-        "name": "Milk & Cookies: A Merry Crowder Christmas",
-        "url": "https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 208243,
-      "name": "Thanks Giver",
-      "url": "https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC"
     },
     {
       "added_at": "2022-11-23 15:01:23",

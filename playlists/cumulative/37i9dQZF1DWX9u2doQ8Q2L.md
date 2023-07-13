@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-844 songs - 2 day 4 hr 19 min
+846 songs - 2 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [37.5°C](https://open.spotify.com/track/5XuCNgnDB3oFVz4pbPXFcJ) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [BLOOM](https://open.spotify.com/album/2vhItqUsvlJjaknJCjMuCG) | 2:47 | 2022-09-22 | 2022-09-28 |
 | [39 Minutes](https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [39 Minutes](https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf) | 3:33 | 2023-03-28 |  |
 | [440hz \(feat\. Daichi Yamamoto x Koh\)](https://open.spotify.com/track/1bWEsD4W8gClixY0NpZh91) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb) | [A440](https://open.spotify.com/album/2xTFImWVQRC1PfDMCOxwwe) | 4:27 | 2023-01-26 | 2023-04-14 |
-| [4ever](https://open.spotify.com/track/3ZzFyvGq7wOrrYeUA5JaG4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/1jVLQQkvJCTEVLMsUFLioI) | 3:18 | 2023-07-11 |  |
+| [4ever](https://open.spotify.com/track/051jX9kOL9l7dWCrrWfEA9) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/3eHDZxWPz3a4EwjO9DWm1Y) | 3:18 | 2023-07-11 |  |
+| [4ever](https://open.spotify.com/track/3ZzFyvGq7wOrrYeUA5JaG4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/1jVLQQkvJCTEVLMsUFLioI) | 3:18 | 2023-07-11 | 2023-07-13 |
 | [9 years old](https://open.spotify.com/track/2GFlgTjfnTg4VBUpRGGTrx) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [9 years old](https://open.spotify.com/album/0NiaZ19b8CG62gtHOKxehs) | 4:41 | 2023-04-18 | 2023-04-26 |
 | [a little question \- Shōtaro Aoyama Remix](https://open.spotify.com/track/32N789QPGczr0K0p5e9UvQ) | [NAGAN SERVER](https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Shōtaro Aoyama](https://open.spotify.com/artist/48nPAklNBehqatqsLAf2fR) | [a little question \(Shōtaro Aoyama Remix\)](https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq) | 6:03 | 2022-07-12 | 2022-07-20 |
 | [A.O.U](https://open.spotify.com/track/0660wv7yEysrDOlPawh9QK) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A.O.U](https://open.spotify.com/album/70bw8vjpWZbDxqEBqrOax8) | 3:19 | 2022-10-18 | 2022-10-26 |
@@ -80,7 +81,8 @@
 | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/track/6yEAhzjwBJHdOwZDUAAAK0) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Ill Japonia](https://open.spotify.com/artist/1cxPTyMdKqbPQBWhsZB8cT) | [BOUNCE DANCE \(Ill Japonia remix\)](https://open.spotify.com/album/4vDKz1QWLWg5wo3jRPLhiR) | 3:13 | 2022-10-11 | 2022-10-21 |
 | [Bouquet](https://open.spotify.com/track/45I57NjUhhZuGWS0j3DGkI) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Bouquet](https://open.spotify.com/album/1tCZ5EdMtSdaimvdhSafS9) | 1:34 | 2023-04-13 | 2023-06-07 |
 | [Boys, be ambitious](https://open.spotify.com/track/4vcHIzIDBsUllvqneWA6kD) | [TOKYO SHIOKOUJI](https://open.spotify.com/artist/0bnrNhhm8syLjMDOzqO0BL), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Boys, be ambitious](https://open.spotify.com/album/6aGMeoHhzvc5VIPtu3evWW) | 4:16 | 2023-01-17 | 2023-01-23 |
-| [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 |  |
+| [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 |  |
+| [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 | 2023-07-13 |
 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 | 2022-09-13 |  |
 | [brownie](https://open.spotify.com/track/0s2tWUZc1jyVEqAyr4QjsQ) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [brownie](https://open.spotify.com/album/0468hr7iadSW5ClfV2VrH4) | 2:32 | 2023-02-21 | 2023-04-16 |
 | [bud](https://open.spotify.com/track/6G2Y1XUqHlx3FMMML9Eczm) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [bud](https://open.spotify.com/album/1u7uQbPuJeaJk1VRE1feWG) | 2:46 | 2023-06-20 |  |

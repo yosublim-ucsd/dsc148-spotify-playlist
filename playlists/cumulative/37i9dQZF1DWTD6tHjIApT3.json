@@ -486,7 +486,7 @@
     {
       "album": {
         "name": "4ever",
-        "url": "https://open.spotify.com/album/1jVLQQkvJCTEVLMsUFLioI"
+        "url": "https://open.spotify.com/album/3eHDZxWPz3a4EwjO9DWm1Y"
       },
       "artists": [
         {
@@ -497,6 +497,24 @@
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198416,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/051jX9kOL9l7dWCrrWfEA9"
+    },
+    {
+      "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/1jVLQQkvJCTEVLMsUFLioI"
+      },
+      "artists": [
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
       "duration_ms": 198416,
       "name": "4ever",
       "url": "https://open.spotify.com/track/3ZzFyvGq7wOrrYeUA5JaG4"
@@ -5565,6 +5583,24 @@
     },
     {
       "album": {
+        "name": "Head Up!",
+        "url": "https://open.spotify.com/album/6bsTkfLSauKjmnRkrSIcJ4"
+      },
+      "artists": [
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260042,
+      "name": "Head Up!",
+      "url": "https://open.spotify.com/track/1Mddd5h0Dp5BXYAZJ6HgFG"
+    },
+    {
+      "album": {
         "name": "Head up!",
         "url": "https://open.spotify.com/album/3AWLesXuAFHP1YCrOLOoSl"
       },
@@ -5576,7 +5612,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 260042,
       "name": "Head up!",
       "url": "https://open.spotify.com/track/3n0g8ymrTbQ4NEH04K4MUG"
@@ -7506,6 +7542,24 @@
       "duration_ms": 265312,
       "name": "Konomama",
       "url": "https://open.spotify.com/track/0vSM0LhHlbtl1kXm8kclOd"
+    },
+    {
+      "album": {
+        "name": "Korigashi",
+        "url": "https://open.spotify.com/album/3OIAlcwdbGOlV1SVf44fwm"
+      },
+      "artists": [
+        {
+          "name": "Kayoko Yoshizawa",
+          "url": "https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317160,
+      "name": "Korigashi",
+      "url": "https://open.spotify.com/track/3ElHlaELxi1vvXZWQp5hBh"
     },
     {
       "album": {
@@ -9554,7 +9608,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 237115,
       "name": "n.o.y.b (feat. Furui Riho)",
       "url": "https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD"
@@ -10604,10 +10658,28 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 214391,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/0E4R5XIfw1W3IrLSNdLyBp"
+    },
+    {
+      "album": {
+        "name": "Our Way",
+        "url": "https://open.spotify.com/album/2TMh9ivlFfGvHYzQvjChKM"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214391,
+      "name": "Our Way",
+      "url": "https://open.spotify.com/track/7LNOiU5aq5o1jjXFCEjCY2"
     },
     {
       "album": {
@@ -11026,10 +11098,28 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 198813,
       "name": "plan",
       "url": "https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN"
+    },
+    {
+      "album": {
+        "name": "plan",
+        "url": "https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "plan",
+      "url": "https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN"
     },
     {
       "album": {
@@ -18440,7 +18530,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 205133,
       "name": "\u3072\u3053\u3046\u304d\u96f2 - 2022 mix",
       "url": "https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri"
@@ -24636,7 +24726,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 260720,
       "name": "\u604b",
       "url": "https://open.spotify.com/track/4PnksiyKIy8FrtK4UCoFSU"
@@ -26092,7 +26182,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 317160,
       "name": "\u6c37\u83d3\u5b50",
       "url": "https://open.spotify.com/track/6MF5izfGvk0tiA5wc1iRBd"
@@ -27874,6 +27964,24 @@
       "duration_ms": 313399,
       "name": "\u8cb4\u65b9\u306b\u4f1a\u3044\u305f\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/5kgk5e6TUEaBfzjL94gjVw"
+    },
+    {
+      "album": {
+        "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+        "url": "https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242321,
+      "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+      "url": "https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L"
     },
     {
       "album": {

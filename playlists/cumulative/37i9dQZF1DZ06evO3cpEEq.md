@@ -4,7 +4,7 @@
 
 > This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
-69 songs - 4 hr 10 min
+70 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Give](https://open.spotify.com/track/0KGleGbyZDjFW9NqCf6Hai) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Send It Down Hughie, Vol\. 2](https://open.spotify.com/album/5FcbXiBe7YMTsJBsvJRQgy) | 3:53 | 2023-06-17 |  |
 | [Goodbye](https://open.spotify.com/track/01vtpwiKWDZfTAsjO8Fpbp) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:10 | 2023-06-17 | 2023-07-03 |
 | [Hopscotch Sunday](https://open.spotify.com/track/6wZXs9O8fBFoDAe9Oer5nG) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:37 | 2023-06-21 |  |
-| [I Fall](https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:19 | 2023-06-17 |  |
+| [I Fall](https://open.spotify.com/track/6ePqet8kd7VImz7afVIGpk) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:19 | 2023-06-17 | 2023-07-13 |
 | [I Remember You](https://open.spotify.com/track/1cLgDaM4VxS45nETiCI424) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:38 | 2023-06-17 | 2023-07-04 |
 | [If You Were My Baby](https://open.spotify.com/track/2NPiQrtS4BUmXwTWKvUL9I) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Rick Price](https://open.spotify.com/artist/3A5jMjZqO0LZh3oPEuqL8q) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:05 | 2023-06-17 |  |
 | [In My Dreams](https://open.spotify.com/track/2iMbuC3ankWOtNRlKsgnzw) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:51 | 2023-07-03 |  |
@@ -59,13 +59,14 @@
 | [Sugarloaf Hill](https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:21 | 2023-06-22 | 2023-06-28 |
 | [Summerfly](https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:12 | 2023-06-20 |  |
 | [Sweet Music Man](https://open.spotify.com/track/5rMwZbObDXMfJPQsbCmbQ8) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Call of the Bellbird, Vol\. 2](https://open.spotify.com/album/1nKJZBHfyfBbCD7uUjxhu4) | 3:39 | 2023-06-17 | 2023-07-12 |
+| [Swingtown](https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:25 | 2023-07-12 |  |
 | [Take Me Back](https://open.spotify.com/track/1Uaddq5yoeTw1EGaUXeVqe) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:56 | 2023-07-06 | 2023-07-09 |
 | [Tears](https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Leave On A Light \(The Songs Of Karl Broadie\)](https://open.spotify.com/album/2REprfLuELHBfhQbGRuSJp) | 4:13 | 2023-06-17 |  |
 | [That Boy Sure Can Jump a Train](https://open.spotify.com/track/2wjpcNq46nxOdhjKJwWUT9) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:40 | 2023-06-17 |  |
 | [That's What I Call Love](https://open.spotify.com/track/2kab9AsEvFdnT1OeSn1U7W) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:32 | 2023-06-17 |  |
 | [The Flood](https://open.spotify.com/track/4ZV6Kp0kdbPqxilUuJ8hDP) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:55 | 2023-06-17 | 2023-07-12 |
 | [This Is Life](https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 4:51 | 2023-06-17 |  |
-| [Time for a Change](https://open.spotify.com/track/2KSbySbhDmJw6kROu7oSb1) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:43 | 2023-06-17 | 2023-07-12 |
+| [Time for a Change](https://open.spotify.com/track/2KSbySbhDmJw6kROu7oSb1) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:43 | 2023-06-17 |  |
 | [Too Many Secrets](https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:11 | 2023-06-17 |  |
 | [Tropical Fever](https://open.spotify.com/track/7h0GNlpLMYxRW78zFdRoIo) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:50 | 2023-06-28 | 2023-07-07 |
 | [Turn out the Light](https://open.spotify.com/track/2nPF1OqoEf149o7JKop0SX) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:13 | 2023-06-22 | 2023-07-12 |

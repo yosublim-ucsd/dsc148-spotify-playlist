@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 369880,
       "name": "Action",
       "url": "https://open.spotify.com/track/7xCFUkcVQiHiFFi6yfOJxm"
@@ -728,6 +728,24 @@
     {
       "album": {
         "name": "We Control",
+        "url": "https://open.spotify.com/album/2dWojT5wPowGSARgpHAENj"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/1ZRbpnhN6gxTJEnaCBlD0z"
+    },
+    {
+      "album": {
+        "name": "We Control",
         "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
       },
       "artists": [
@@ -778,7 +796,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 360007,
       "name": "Driving Mad",
       "url": "https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl"
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 392008,
       "name": "Hercules",
       "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"

@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Ryan Bingham
 
-334 songs - 20 hr 27 min
+335 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Ko'jua](https://open.spotify.com/track/4C7Lj6dioL1CbzjYFls0R6) | [Morgan Toney](https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv) | [Ko'jua](https://open.spotify.com/album/1sREECdv5BRRtA1qCpsiRE) | 3:30 | 2022-05-13 | 2022-10-01 |
 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 | 2022-05-20 | 2023-06-24 |
 | [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-05-05 | 2023-05-20 |
-| [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 | 2023-06-23 |  |
+| [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 | 2023-06-23 | 2023-07-13 |
 | [Let's All Help the Cowboys \(Sing the Blues\)](https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Lighthouse in Little Lorraine](https://open.spotify.com/track/5OoH1BWs8xVTvNNcARmP5R) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Concertos & Serenades](https://open.spotify.com/album/1lnm1yLB86rkOcThRb0iRG) | 6:07 | 2022-09-23 | 2023-04-22 |
 | [Little Red](https://open.spotify.com/track/2VaWteuuiYb4spgqgMqvXq) | [Vikki Gilmore](https://open.spotify.com/artist/7dRZclXkaEE73U3Tx1u9qV) | [Little Red](https://open.spotify.com/album/19haDyx2HW3RUE3B51HUhQ) | 3:31 | 2022-05-13 | 2022-10-29 |
@@ -258,6 +258,7 @@
 | [River Rain](https://open.spotify.com/track/4H8SuWRnIuMEO2S9HQJOeE) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [River Rain](https://open.spotify.com/album/0tnqzZJt70WBtxyTvC8u6W) | 4:58 | 2022-09-16 | 2022-10-29 |
 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 | 2023-04-21 |  |
 | [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-16 | 2022-10-01 |
+| [Sad All The Time \- Bonus Track](https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be \(Deluxe\)](https://open.spotify.com/album/7r5UvKF4coPqePysjqIHx9) | 2:40 | 2023-07-07 |  |
 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 | 2023-04-21 |  |
 | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/track/2X2KFZio004eItvRC9ECOZ) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/album/6unm7HfVeFeblNky9xXvp7) | 4:34 | 2022-08-05 | 2023-04-22 |
 | [Say What You Like](https://open.spotify.com/track/25i56zqjCrbeSWqV5z0Gki) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/6ondmI9JnDrxgTA3lIxkgD) | 2:47 | 2022-11-18 | 2023-04-29 |

@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 295273,
       "name": "Had It Happened",
       "url": "https://open.spotify.com/track/5Pnj7upUtbxav0LNu4v5lX"
@@ -3909,6 +3909,24 @@
     },
     {
       "album": {
+        "name": "Koreni",
+        "url": "https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B"
+      },
+      "artists": [
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344466,
+      "name": "Radio bo",
+      "url": "https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ"
+    },
+    {
+      "album": {
         "name": "Heartsongs",
         "url": "https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx"
       },
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 368856,
       "name": "September Song",
       "url": "https://open.spotify.com/track/6lf5rtLLUt2cNg3y6Bz39d"
@@ -4698,6 +4716,24 @@
       "duration_ms": 220329,
       "name": "The Best Thing for You (Would Be Me)",
       "url": "https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews"
+    },
+    {
+      "album": {
+        "name": "Bassic Instinct",
+        "url": "https://open.spotify.com/album/6mkewMQOCZeSIUzBppzpYy"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220329,
+      "name": "The Best Thing For You (Would Be Me)",
+      "url": "https://open.spotify.com/track/7vTiumy9uiLQ0nChRR0lCE"
     },
     {
       "album": {

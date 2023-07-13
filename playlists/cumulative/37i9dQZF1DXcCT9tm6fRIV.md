@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-142 songs - 8 hr 3 min
+143 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 | 2022-03-18 |  |
 | [Luna de Abril](https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF) | [Tute](https://open.spotify.com/artist/0dqZd1F2k9ZRZYakdUT3bn), [Hernán Lucero](https://open.spotify.com/artist/001b4VR8r9cFgS3vKTkTXs), [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Luna de Abril](https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT) | 3:47 | 2022-03-18 | 2023-04-26 |
 | [Malena](https://open.spotify.com/track/2DBs2vJlotXT1MvuipNVXc) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 2:55 | 2022-03-18 | 2023-07-02 |
-| [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 | 2022-03-18 |  |
+| [Malena](https://open.spotify.com/track/6ZyGdMuvQp8BHuMv70bPyj) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa) | 2:55 | 2023-06-09 |  |
+| [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 | 2022-03-18 | 2023-07-13 |
 | [Mano a Mano \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Tango Lo Siento Así](https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9) | 3:12 | 2022-03-18 |  |
 | [Maria](https://open.spotify.com/track/6WJkFnnV2nMIUqA6gbsQHN) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Daniel Ruggiero](https://open.spotify.com/artist/2UD4URrkIUokDksTRHVGHR) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:34 | 2022-03-18 | 2022-07-27 |
 | [Mariposita \- En Vivo](https://open.spotify.com/track/3eDlsR5h1xyImi09ulmjYK) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 3:44 | 2022-03-18 |  |

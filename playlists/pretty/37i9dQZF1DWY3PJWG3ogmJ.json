@@ -1,12 +1,12 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 583527,
+  "num_followers": 583820,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDQwZjM5NDA3YTZjOGFmMGI2ODVhZTY3MDFlZDUxOWFhM2YxYjZm",
+  "snapshot_id": "MCwzM2ViNTQ1MmFjMGJiOTljMDY3YmQ4NjQwNGQ3NzM1YmMwNmY4NDdh",
   "tracks": [
     {
       "added_at": "2023-01-18 15:54:17",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+        "name": "The Ghost Inside",
+        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
       },
       "artists": [
         {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
+      "duration_ms": 298825,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Ghost Inside",
-        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
       },
       "artists": [
         {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 298825,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Frozen In Time",
-        "url": "https://open.spotify.com/album/1fzDounFHdiVT5Zg9MKcFh"
-      },
-      "artists": [
-        {
-          "name": "Obituary",
-          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Redneck Stomp",
-      "url": "https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "The Path",
         "url": "https://open.spotify.com/album/48fYiT8XJSg4k77QQDS89q"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 187142,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/3T3HQbUNL5abOheRDENfOV"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Frozen In Time",
+        "url": "https://open.spotify.com/album/1fzDounFHdiVT5Zg9MKcFh"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Redneck Stomp",
+      "url": "https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 131142,
+      "name": "Pigs Ear",
+      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "A Different Shade of Blue",
         "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Hindsight",
-        "url": "https://open.spotify.com/album/55rUi0DIA1k24v7LdeAhKs"
-      },
-      "artists": [
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 131142,
-      "name": "Pigs Ear",
-      "url": "https://open.spotify.com/track/6K3loUQE0wrl8sa2KGFvL2"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Killing Season",
         "url": "https://open.spotify.com/album/4BshWHZrni9fCgIqKOD43f"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 212360,
       "name": "Killing Season",
       "url": "https://open.spotify.com/track/2p6sku9MUxNZZ2n9Fd4u69"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Ghost Inside",
+        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 230507,
+      "name": "Pressure Point",
+      "url": "https://open.spotify.com/track/1ZlOfxQ36tb3fYHU8DYbDv"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -563,18 +579,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Ghost Inside",
-        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
+        "name": "Anticult",
+        "url": "https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ"
       },
       "artists": [
         {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+          "name": "Decapitated",
+          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
         }
       ],
-      "duration_ms": 230507,
-      "name": "Pressure Point",
-      "url": "https://open.spotify.com/track/1ZlOfxQ36tb3fYHU8DYbDv"
+      "duration_ms": 309693,
+      "name": "Earth Scar",
+      "url": "https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -591,22 +607,6 @@
       "duration_ms": 254118,
       "name": "Visions in My Head",
       "url": "https://open.spotify.com/track/1JvMOOYZjXLQCZ5p5b0JJD"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Anticult",
-        "url": "https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ"
-      },
-      "artists": [
-        {
-          "name": "Decapitated",
-          "url": "https://open.spotify.com/artist/17MbhJOaaPHuWnRaWU9xkc"
-        }
-      ],
-      "duration_ms": 309693,
-      "name": "Earth Scar",
-      "url": "https://open.spotify.com/track/6ELePWpAnvr6YueTV3JlIu"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "You Will Never Be One of Us",
-        "url": "https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac"
-      },
-      "artists": [
-        {
-          "name": "Nails",
-          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
-        }
-      ],
-      "duration_ms": 89867,
-      "name": "You Will Never Be One of Us",
-      "url": "https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Anticult",
         "url": "https://open.spotify.com/album/0hW5Ys2f00hVcetT2aQdnJ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 280253,
       "name": "Kill the Cult",
       "url": "https://open.spotify.com/track/1NODkudB2DhHEe8H3X3iFG"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "You Will Never Be One of Us",
+        "url": "https://open.spotify.com/album/0mcy7rGwHhNsPQTaNbvaac"
+      },
+      "artists": [
+        {
+          "name": "Nails",
+          "url": "https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys"
+        }
+      ],
+      "duration_ms": 89867,
+      "name": "You Will Never Be One of Us",
+      "url": "https://open.spotify.com/track/3rjNoyEanqWA5znCy2rAdO"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV"
+      },
+      "artists": [
+        {
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        }
+      ],
+      "duration_ms": 190549,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
         "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 194307,
       "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
       "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/1NGoxSNqRAzHNr0BbfWlHV"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        }
-      ],
-      "duration_ms": 190549,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/4ugsTxjvUc7iGuY1fMNWzO"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Welcome to the West Coast II",
-        "url": "https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa"
-      },
-      "artists": [
-        {
-          "name": "Lionheart",
-          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
-        }
-      ],
-      "duration_ms": 197314,
-      "name": "Trial by Fire",
-      "url": "https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Welcome to the West Coast II",
+        "url": "https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        }
+      ],
+      "duration_ms": 197314,
+      "name": "Trial by Fire",
+      "url": "https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Splinters from an Ever-Changing Face",
-        "url": "https://open.spotify.com/album/6X3196GAOJl9oHyQC2YJNm"
-      },
-      "artists": [
-        {
-          "name": "END",
-          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
-        }
-      ],
-      "duration_ms": 209940,
-      "name": "Pariah",
-      "url": "https://open.spotify.com/track/4NaYTAuIouqO0uzJqlN5l2"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Elegy",
         "url": "https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 322153,
       "name": "Blood in the Sands of Time",
       "url": "https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Splinters from an Ever-Changing Face",
+        "url": "https://open.spotify.com/album/6X3196GAOJl9oHyQC2YJNm"
+      },
+      "artists": [
+        {
+          "name": "END",
+          "url": "https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p"
+        }
+      ],
+      "duration_ms": 209940,
+      "name": "Pariah",
+      "url": "https://open.spotify.com/track/4NaYTAuIouqO0uzJqlN5l2"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Built from War",
         "url": "https://open.spotify.com/album/4RHzq9PEBjoEvxf0gPBzbF"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 204661,
       "name": "Built from War",
       "url": "https://open.spotify.com/track/3ZgxVUl8xoSBb4XThOZ4HL"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 162439,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "With All Their Might",
         "url": "https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 295560,
       "name": "Preachers of Death",
       "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 162439,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
-      },
-      "artists": [
-        {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Endarkenment",
         "url": "https://open.spotify.com/album/5xReWyf922gGJUHZMale2w"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 235493,
       "name": "Endarkenment",
       "url": "https://open.spotify.com/track/3BNourqkaWoTaHoxS2LFfO"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
+      },
+      "artists": [
+        {
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Poverty of Self",
-        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
-      },
-      "artists": [
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 205669,
-      "name": "Poverty of Self",
-      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 198600,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Poverty of Self",
+        "url": "https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 205669,
+      "name": "Poverty of Self",
+      "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
     },
     {
       "added_at": "2023-01-18 15:54:17",

@@ -656,7 +656,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 207293,
       "name": "Cloudy",
       "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
@@ -4112,6 +4112,24 @@
       "duration_ms": 240000,
       "name": "Wouldn't have (Feat. pH-1, Hash Swan)",
       "url": "https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq"
+    },
+    {
+      "album": {
+        "name": "Write & Draw",
+        "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
+      },
+      "artists": [
+        {
+          "name": "Kim Boa",
+          "url": "https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232374,
+      "name": "Write & Draw",
+      "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
     },
     {
       "album": {

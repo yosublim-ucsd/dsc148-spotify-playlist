@@ -1836,10 +1836,28 @@
       ],
       "date_added": "2020-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 195706,
       "name": "Seven Year Ache",
       "url": "https://open.spotify.com/track/3pnRd3epmXjorMfOaG4qGd"
+    },
+    {
+      "album": {
+        "name": "Hits 1979 - 1989",
+        "url": "https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197266,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/1vNDmbf8AqmIys2RHBZmOo"
     },
     {
       "album": {

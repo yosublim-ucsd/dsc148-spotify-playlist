@@ -1,13 +1,77 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Savana Santos",
-  "num_followers": 189163,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Bentley Robles",
+  "num_followers": 189339,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzIwZDAxYTY2OTY2NzRlNmQ3N2NlMzY0NzBkNDE4MGQ1MmQzYjY2",
+  "snapshot_id": "MCxmZDQ1NmJlNmI3YTFmMzY3MWM1ZTE0Y2JlMmM1ZGU5YjNkNjQ0Yzcy",
   "tracks": [
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "HOPE U CRY",
+        "url": "https://open.spotify.com/album/6tyR9BZ9cpjVuLtIs6e2Ku"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "HOPE U CRY",
+      "url": "https://open.spotify.com/track/7aAdENPSgCLi9QBldQoep6"
+    },
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "BF",
+        "url": "https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C"
+      },
+      "artists": [
+        {
+          "name": "liza",
+          "url": "https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I"
+        }
+      ],
+      "duration_ms": 127963,
+      "name": "BF",
+      "url": "https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv"
+    },
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/3EEBiBdTon8zRDcWI30LPo"
+      },
+      "artists": [
+        {
+          "name": "Nicolina",
+          "url": "https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/7DpgZ3lHeulnpPPoSSLkqt"
+    },
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/5xBHQkM5oii0f9cq7BoXzj"
+      },
+      "artists": [
+        {
+          "name": "Magna",
+          "url": "https://open.spotify.com/artist/1pOWb7iXvk6ICKXwG7KL7P"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3KSZv9pmNcYyh6HDgYFBzu"
+    },
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
@@ -23,6 +87,38 @@
       "duration_ms": 129864,
       "name": "messy",
       "url": "https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719"
+    },
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/2u0O3AlDVxi93ZssURm4E5"
+      },
+      "artists": [
+        {
+          "name": "Khya",
+          "url": "https://open.spotify.com/artist/3PB3jNDI2PphEFIyNFqczr"
+        }
+      ],
+      "duration_ms": 212132,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/3gj7TmJVTjqVlO68IFc5BR"
+    },
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "Sly",
+        "url": "https://open.spotify.com/album/2fMsbU2mZHsA2kCwYQC9UA"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "duration_ms": 168031,
+      "name": "Sly",
+      "url": "https://open.spotify.com/track/7G0zhkkOduzMy5X4Re3743"
     },
     {
       "added_at": "2023-07-05 04:00:00",

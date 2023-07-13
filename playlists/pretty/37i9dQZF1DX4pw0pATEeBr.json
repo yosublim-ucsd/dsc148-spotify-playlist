@@ -1,12 +1,12 @@
 {
   "description": "Versos y barras de alto poder, con un takeover por Faruz Feet.",
-  "num_followers": 84577,
+  "num_followers": 84653,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmRkYjlkNWFmNWMzNjcxYTgyNjhkZjg3MDdjYjJkMWIyMjU4Njcx",
+  "snapshot_id": "MCw4ZWVjNzRkMjIxMTFmZWIwOWM1MWVhMDFlMzNkNTU5NTY1MmI3Njky",
   "tracks": [
     {
       "added_at": "2023-05-15 15:32:49",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-05-15 15:32:49",
       "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+      },
+      "artists": [
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Poppin' Them Thangs",
+      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
+    },
+    {
+      "added_at": "2023-05-15 15:32:49",
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
-    },
-    {
-      "added_at": "2023-05-15 15:32:49",
-      "album": {
-        "name": "Beg For Mercy",
-        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
-      },
-      "artists": [
-        {
-          "name": "G-Unit",
-          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Poppin' Them Thangs",
-      "url": "https://open.spotify.com/track/4E5IFAXCob6QqZaJMTw5YN"
     },
     {
       "added_at": "2023-05-15 15:32:49",
@@ -767,22 +767,18 @@
     {
       "added_at": "2023-05-15 15:32:49",
       "album": {
-        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 174178,
-      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
+      "duration_ms": 231240,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
     },
     {
       "added_at": "2023-05-15 15:32:49",
@@ -803,18 +799,22 @@
     {
       "added_at": "2023-05-15 15:32:49",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
+      "duration_ms": 174178,
+      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
     },
     {
       "added_at": "2023-05-15 15:32:49",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-05-15 15:32:49",
       "album": {
+        "name": "Laugh Now, Cry Later",
+        "url": "https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "Why We Thugs",
+      "url": "https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt"
+    },
+    {
+      "added_at": "2023-05-15 15:32:49",
+      "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 177442,
       "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
       "url": "https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI"
-    },
-    {
-      "added_at": "2023-05-15 15:32:49",
-      "album": {
-        "name": "Laugh Now, Cry Later",
-        "url": "https://open.spotify.com/album/6M1IwZsOOyBgmpKO75XPRj"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "Why We Thugs",
-      "url": "https://open.spotify.com/track/5880eYQmXx3c3oD22IljIt"
     },
     {
       "added_at": "2023-05-15 15:32:49",
@@ -1083,22 +1083,26 @@
     {
       "added_at": "2023-05-15 15:32:49",
       "album": {
-        "name": "Residente: Bzrp Music Sessions, Vol. 49",
-        "url": "https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj"
+        "name": "Voy Por El Sueno de Muchos",
+        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "Don Aero",
+          "url": "https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv"
         }
       ],
-      "duration_ms": 519289,
-      "name": "Residente: Bzrp Music Sessions, Vol. 49",
-      "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
+      "duration_ms": 309895,
+      "name": "Esta Vida Me Encanta (feat. Zimple & Don Aero)",
+      "url": "https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8"
     }
   ],
   "unique_name": "Ejercicio con Hip-Hop",

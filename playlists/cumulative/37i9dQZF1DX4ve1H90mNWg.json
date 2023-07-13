@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN CAN'T SAVE YOU",
+        "url": "https://open.spotify.com/album/20oCaJ2RAoz2JzihIy9AA0"
+      },
+      "artists": [
+        {
+          "name": "HVN",
+          "url": "https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139238,
+      "name": "BOOTED",
+      "url": "https://open.spotify.com/track/0t7I9fDnpFWB2VUW5j2JLF"
+    },
+    {
+      "album": {
         "name": "BOOTED",
         "url": "https://open.spotify.com/album/5I3vDpMGkkj8uthdLmtIal"
       },
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 139238,
       "name": "BOOTED",
       "url": "https://open.spotify.com/track/1FJftuSXRnWWOktss4GtRB"

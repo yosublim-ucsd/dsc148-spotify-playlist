@@ -2846,6 +2846,24 @@
     {
       "album": {
         "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+    },
+    {
+      "album": {
+        "name": "ecstacy (slowed)",
         "url": "https://open.spotify.com/album/4rb6MCGwPirFleypeOPuwd"
       },
       "artists": [
@@ -2856,7 +2874,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 119120,
       "name": "ecstacy - slowed",
       "url": "https://open.spotify.com/track/0AVOlM9vRTLw1tB5YPHMhg"
@@ -7260,6 +7278,24 @@
       "duration_ms": 162000,
       "name": "Nozzy Bossy",
       "url": "https://open.spotify.com/track/1llPAwXXqcuBGvd1WtFsot"
+    },
+    {
+      "album": {
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Nun id change",
+      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
     },
     {
       "album": {
@@ -16428,7 +16464,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 169500,
       "name": "\u041b\u044e\u0434\u0438",
       "url": "https://open.spotify.com/track/3mMPorZSb7rycKSyo0lLuB"
@@ -21256,7 +21292,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 149584,
       "name": "\u0425\u0432\u0438\u043b\u044f\u043c\u0438",
       "url": "https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI"
@@ -22258,7 +22294,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 144923,
       "name": "\u042f \u0443\u0451\u0431\u044b\u0432\u0430\u044e \u0432 \u0434\u0436\u0430\u0437",
       "url": "https://open.spotify.com/track/0olubSy8HbZBrCJlSHV7ex"

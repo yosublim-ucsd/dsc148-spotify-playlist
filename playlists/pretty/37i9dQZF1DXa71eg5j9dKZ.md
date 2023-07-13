@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Sampha
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,206 likes - 125 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,575 likes - 125 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 124 | [Reflections ft\. KiLLOWEN](https://open.spotify.com/track/0LtCpSLGkeHALMIIrbgAWs) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Reflections ft\. KiLLOWEN](https://open.spotify.com/album/565HXPzi2uPRVjcwHpFOBA) | 3:11 |
 | 125 | [Both](https://open.spotify.com/track/56rBmhBdKxLsFpfkMqRz5G) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Both](https://open.spotify.com/album/7q6KK2yQ6sGb3q3PJ0LiXY) | 2:53 |
 
-Snapshot ID: `MCw0Mzc4MTA4YmI3MmZkMTk4NTU0YzZhOGExMTIzMWRiOGMzZDRmNThj`
+Snapshot ID: `MCxmZGJjOWQwZjlmNjhhOTIwMjQxMjlkNzkyMWQyNTc1MWEyOTdlM2Zk`

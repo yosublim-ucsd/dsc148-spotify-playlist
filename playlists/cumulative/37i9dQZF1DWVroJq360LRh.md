@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-240 songs - 13 hr 22 min
+241 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,8 @@
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2022-01-12 | 2022-06-04 |
 | [Save Me from Myself](https://open.spotify.com/track/0nGDvPqbLFdAK6YSnup81H) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 2](https://open.spotify.com/album/1GcwB9rGjefLQTB99KuCyL) | 3:17 | 2022-08-29 | 2022-11-13 |
 | [Save Me from Myself](https://open.spotify.com/track/0oJdAKfEck3cQxi28lExu2) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/5Dwcw0QHLkYGoShk5qXiob) | 3:17 | 2022-01-12 | 2022-07-29 |
-| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-07-26 |  |
+| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-07-26 | 2023-07-13 |
+| [Save Me From Myself](https://open.spotify.com/track/39ldhlm119RIWwXICpBEkU) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me From Myself](https://open.spotify.com/album/59Y8SthRcQhmt3N5manpIb) | 3:17 | 2023-06-22 |  |
 | [Say Yes](https://open.spotify.com/track/4nYxHYLezGh4WWuEEjIoPs) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/4R2L1qKpRFHkpFdDbJlgE2) | 2:21 | 2022-01-12 | 2022-07-29 |
 | [Say Yes](https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/5l4P7N8kapeqHFOysjbj3H) | 2:21 | 2022-07-26 |  |
 | [Say you won't let go](https://open.spotify.com/track/3jUhEX67qxI3SNbfk6kMSH) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Say you won't let go](https://open.spotify.com/album/0U4G71eZFGgeMSlOZ3qDYF) | 3:19 | 2022-11-11 |  |

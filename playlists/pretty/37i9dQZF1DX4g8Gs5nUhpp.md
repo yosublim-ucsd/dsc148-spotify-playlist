@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,621 likes - 56 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,703 likes - 56 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 24 | [Anh Chưa Thương Em Đến Vậy Đâu](https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7) | [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Tập 12: The Masked Singer Vietnam](https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA) | 4:30 |
 | 25 | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 |
 | 26 | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Badbies](https://open.spotify.com/artist/2ZjO6APYelcHcLd2pWMx8x) | [Sinh Ra Đã Là Thứ Đối Lập Nhau \(feat\. Badbies\)](https://open.spotify.com/album/5vJ5JDNypTPlAc5yv3du8s) | 3:54 |
-| 27 | [Có Em \(feat\. Low G\)](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có Em \(feat\. Low G\)](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 |
+| 27 | [Có Em](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 |
 | 28 | [bao tiền một mớ bình yên?](https://open.spotify.com/track/3wn8HJNjkY4wzTBy35ZvQ6) | [14 Casper](https://open.spotify.com/artist/0zo8kCJVktn7oPnzpkbC2p), [Bon Nghiêm](https://open.spotify.com/artist/6hnfLIkvDl6pjlAe1YRGXY) | [bao tiền một mớ bình yên?](https://open.spotify.com/album/5O0csa2fMgpO8DwEhwThRV) | 5:00 |
 | 29 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 |
 | 30 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Như Anh Đã Thấy Em](https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V) | [PhucXP](https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO), [Freak D](https://open.spotify.com/artist/1yNjtowTJs05S2Xp2g7stg) | [Như Anh Đã Thấy Em](https://open.spotify.com/album/2FwiyoWhDcZlR7Cr6PMHLF) | 5:02 |
 | 56 | [Lan Man](https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Lan Man](https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx) | 3:36 |
 
-Snapshot ID: `MCwxN2IwZDI0ODBjOGJjMjk2NmY1MzcwZjA1YmM0MDg3YjM3MmNkY2Qw`
+Snapshot ID: `MCw2MmRlZGYyMjE4YTQyMjZjMGIzYTg1ZmQ0OWI4NzgzNTY3MWQwNjQy`

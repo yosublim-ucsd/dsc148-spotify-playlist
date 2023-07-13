@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 886867,
+  "num_followers": 886974,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yzk4OTEzMzE4MmQ0NmQyZmYwNDk5NzY4MTUyZTI1ZjE4MjhjN2Fk",
+  "snapshot_id": "MCxhMGU0Y2YyNTFlMzVkNzg0NjFkZjY0MmFhYmExODg5NjdhMjdlODhl",
   "tracks": [
     {
       "added_at": "2023-07-07 16:31:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
-    },
-    {
-      "added_at": "2023-07-07 16:31:53",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
+    },
+    {
+      "added_at": "2023-07-07 16:31:53",
+      "album": {
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+        "name": "Eden (feat. fussy)",
+        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
       },
       "artists": [
         {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
         }
       ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
+      "duration_ms": 176761,
+      "name": "Eden (feat. fussy)",
+      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1115,22 +1119,18 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "Eden (feat. fussy)",
-        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
       },
       "artists": [
         {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
         }
       ],
-      "duration_ms": 176761,
-      "name": "Eden (feat. fussy)",
-      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
+        "name": "Blow the Roof",
+        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 245090,
+      "name": "Do or Die (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
+    },
+    {
+      "added_at": "2023-07-07 16:31:53",
+      "album": {
         "name": "Came Up",
         "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 214929,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
-    },
-    {
-      "added_at": "2023-07-07 16:31:53",
-      "album": {
-        "name": "Blow the Roof",
-        "url": "https://open.spotify.com/album/1mpCVicVx2roKL7Bq2i6Vz"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 245090,
-      "name": "Do or Die (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/2BTPW7osibjN9gFDRY4mYN"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "Leisure Season Vol. 1",
-        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
-    },
-    {
-      "added_at": "2023-07-07 16:31:53",
-      "album": {
         "name": "People I Know",
         "url": "https://open.spotify.com/album/65WRyCsZ6Si9DdosdDyhBS"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 216428,
       "name": "People I Know",
       "url": "https://open.spotify.com/track/2pvS2qIkOSFlvLkGBAgQ2o"
+    },
+    {
+      "added_at": "2023-07-07 16:31:53",
+      "album": {
+        "name": "Leisure Season Vol. 1",
+        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "Trailblazer",
-        "url": "https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR"
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
       },
       "artists": [
         {
-          "name": "Hippie Sabotage",
-          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         }
       ],
-      "duration_ms": 314840,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "REDloop",
-        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/7AtoANo3rq2VChRB98SPfR"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+          "name": "Hippie Sabotage",
+          "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
         }
       ],
-      "duration_ms": 225230,
-      "name": "REDloop",
-      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
+      "duration_ms": 314840,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/3CLYGFWX1kUFMSXbpC5Qa5"
     },
     {
       "added_at": "2023-07-07 16:31:53",

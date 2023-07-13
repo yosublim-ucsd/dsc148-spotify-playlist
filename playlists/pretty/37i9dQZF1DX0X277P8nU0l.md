@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,122 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,139 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 18 | [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 |
 | 19 | [Start over](https://open.spotify.com/track/1VYWPQx1sOyByTKTOARHZs) | [Victor Mechanick](https://open.spotify.com/artist/3GVjKlC2DChNqIEgXjSYmr) | [YUMA](https://open.spotify.com/album/2vWf2mPJe2KIsQxyEmablS) | 3:31 |
 | 20 | [Country Gyal](https://open.spotify.com/track/5TVL1BMpJeXiDxm74LWVBb) | [Chelsea Russell](https://open.spotify.com/artist/5pHdxXO9K1Od0ZKP7Sh6iD) | [Country Gyal](https://open.spotify.com/album/6bn8dl0EeKUP3HlEhkg5r6) | 3:21 |
-| 21 | [Sun in June](https://open.spotify.com/track/5X33CqotQWpIYvC5XTTpGS) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Sun in June](https://open.spotify.com/album/5a0Rd79ItpxfDC3eHTMtmO) | 3:56 |
+| 21 | [Sun in June](https://open.spotify.com/track/5X33CqotQWpIYvC5XTTpGS) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Sun in June](https://open.spotify.com/album/5a0Rd79ItpxfDC3eHTMtmO) | 3:56 |
 | 22 | [Out on the weekend](https://open.spotify.com/track/0Gb9R3sEf8QQSQSLAkKpGQ) | [La Maison Tellier](https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze), [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [Out on the weekend](https://open.spotify.com/album/4Tj6Wk4DXEZxHUz2B9xOzW) | 4:28 |
 | 23 | [Astrology Poisoning](https://open.spotify.com/track/2vYd15dPYelxBESvyviVbf) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu) | 3:39 |
 | 24 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 |
 | 50 | [Just For Me](https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Lay It Down](https://open.spotify.com/album/1lanaz3WgCVv2brd64XVeK) | 3:58 |
 
-Snapshot ID: `MCw1ZmI0MzI5OTZkNzk5ODQ3NmY5ZjJhMzVjNzcwODc0OGFjM2Q1N2Yx`
+Snapshot ID: `MCwzNzllYmU0ZDM4ZWU0OGVkOWM4ZTdkZjg0NTYwOGExNDNmZjJjY2Iw`

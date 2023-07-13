@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 655653,
+  "num_followers": 655903,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjlhZjJlODJmNzBkOWQ0NGNjNjhkOGFmNTk5MzYxZDU1NmIxZDhm",
+  "snapshot_id": "MCw3ODBlYTRlZjhiZjQ3MTRlNTA0Y2NlZDQ1MzZjMTY3MTIwNGRmMzY1",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Llego La Salsa",
-        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Cara De Ni\u00f1o",
         "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
       },
@@ -259,18 +243,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+        "name": "Llego La Salsa",
+        "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
       },
       "artists": [
         {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -291,6 +275,22 @@
       "duration_ms": 294026,
       "name": "Hechizo De Luna",
       "url": "https://open.spotify.com/track/5qjSPrKTBqYpgVJSTcgKTd"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Edgar Joel",
+        "url": "https://open.spotify.com/album/1qUYwSVh93Qe3IHBAdk8lk"
+      },
+      "artists": [
+        {
+          "name": "Edgar Joel",
+          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
+        }
+      ],
+      "duration_ms": 284108,
+      "name": "Hasta el Sol de Hoy",
+      "url": "https://open.spotify.com/track/5Wa6Ve3VfV79Mng5MSBxAY"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Desde Un Principio / From The Beginning",
         "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Edgar Joel",
-        "url": "https://open.spotify.com/album/1qUYwSVh93Qe3IHBAdk8lk"
-      },
-      "artists": [
-        {
-          "name": "Edgar Joel",
-          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
-        }
-      ],
-      "duration_ms": 284108,
-      "name": "Hasta el Sol de Hoy",
-      "url": "https://open.spotify.com/track/5Wa6Ve3VfV79Mng5MSBxAY"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Uno Mismo",
-        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 316226,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
+      "duration_ms": 281773,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+        "name": "Uno Mismo",
+        "url": "https://open.spotify.com/album/01z0qSqxPmPHUZMLu1qbeD"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 281773,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
+      "duration_ms": 316226,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/0cLjHVBsx3bmdK1nwTMNZw"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Oro Salsero (20 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU"
-      },
-      "artists": [
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "A Coraz\u00f3n Abierto",
-      "url": "https://open.spotify.com/track/02YdtrTmmpo1HeEk9P4Ngl"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Otra Nota",
         "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 293266,
       "name": "Necesito Amarte",
       "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Oro Salsero (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU"
+      },
+      "artists": [
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "A Coraz\u00f3n Abierto",
+      "url": "https://open.spotify.com/track/02YdtrTmmpo1HeEk9P4Ngl"
     },
     {
       "added_at": "2023-03-17 00:48:14",

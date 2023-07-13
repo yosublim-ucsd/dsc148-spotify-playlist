@@ -6,7 +6,7 @@
     "name": "trin",
     "url": "https://open.spotify.com/user/tjoslin05"
   },
-  "snapshot_id": "NzgsMmY2MzNlODQ0ZTdkYzQwOTlhNDE0MGVkYWFhODg2MjNjYmM1YWQ0ZQ==",
+  "snapshot_id": "NzksODNlOTA5YjNmN2FmOWJjMWNiYTNlOTQxNzQ5MjI4OTZlYTQ3Y2I4YQ==",
   "tracks": [
     {
       "added_at": "2022-01-17 03:36:39",
@@ -687,6 +687,22 @@
       "duration_ms": 132461,
       "name": "No Rush",
       "url": "https://open.spotify.com/track/6uF872FviEDxImISjPD4Hs"
+    },
+    {
+      "added_at": "2023-07-12 05:12:03",
+      "album": {
+        "name": "Talking Quietly of Anything With You",
+        "url": "https://open.spotify.com/album/65uA55viVzKnJ3veAi180n"
+      },
+      "artists": [
+        {
+          "name": "Free Cake For Every Creature",
+          "url": "https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ"
+        }
+      ],
+      "duration_ms": 146174,
+      "name": "All You Gotta Be When You're 23 Is Yourself",
+      "url": "https://open.spotify.com/track/0ppPrxfIry7uMvM7djyFX6"
     }
   ],
   "unique_name": "hope is good",

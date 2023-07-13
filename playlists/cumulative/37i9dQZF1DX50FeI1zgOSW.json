@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Idhan Gaana",
+        "url": "https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ"
+      },
+      "artists": [
+        {
+          "name": "Gana Gokul",
+          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
+        },
+        {
+          "name": "Joy Sanjay",
+          "url": "https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173113,
+      "name": "Idhan Gaana",
+      "url": "https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs"
+    },
+    {
+      "album": {
         "name": "Idhayam - Tune In For Love",
         "url": "https://open.spotify.com/album/0q6MhFUORMR0rOaLM7tRKq"
       },
@@ -2136,6 +2158,24 @@
       "duration_ms": 210845,
       "name": "Vaanam Ellaye",
       "url": "https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes"
+    },
+    {
+      "album": {
+        "name": "Valithathey",
+        "url": "https://open.spotify.com/album/1mx2goQMmpZ4Xy08BMbo8F"
+      },
+      "artists": [
+        {
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "Valithathey",
+      "url": "https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl"
     },
     {
       "album": {

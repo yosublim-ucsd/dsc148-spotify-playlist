@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-222 songs - 12 hr 33 min
+223 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/6HTTnx9ogBcIu7XRShqbHW) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/5ZYLuV87rEvKSeef5BaGdV) | 3:48 | 2022-05-11 | 2022-07-21 |
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-04 |  |
 | [Cloud garden](https://open.spotify.com/track/3UO8a6vO4w9FSyuNsIsrkD) | [Son Chamchi](https://open.spotify.com/artist/1DQsSFmlJUKZuyKZjJMlN2), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR) | [Cloud garden](https://open.spotify.com/album/20gd11CxL5tzJb5ES4kCX8) | 2:26 | 2022-05-11 | 2022-06-29 |
-| [Cloudy](https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [bimil:ier vol.6 "Cloudy"](https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX) | 3:27 | 2022-06-18 |  |
+| [Cloudy](https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [bimil:ier vol.6 "Cloudy"](https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX) | 3:27 | 2022-06-18 | 2023-07-13 |
 | [Coffee](https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:42 | 2022-05-11 | 2022-07-27 |
 | [Cook \(Feat\. JONGHAN\)](https://open.spotify.com/track/2vBQWz8LbeSvVqwfVWPHUc) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:18 | 2022-05-11 | 2022-07-28 |
 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 | 2022-08-12 |  |
@@ -219,6 +219,7 @@
 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 | 2022-05-11 |  |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-07-29 |
 | [Wouldn't have \(Feat\. pH\-1, Hash Swan\)](https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Wouldn't have](https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj) | 4:00 | 2023-03-11 | 2023-04-15 |
+| [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 |  |
 | [Y \(feat\. Trade L\)](https://open.spotify.com/track/3X75yUy7C49NiFR936iml2) | [LONELEE](https://open.spotify.com/artist/3SX3uZa37fVUE6P3qq6y3X), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [SHOWER](https://open.spotify.com/album/7logqYXPokIQOBrmNXdrQW) | 4:40 | 2022-12-26 | 2023-01-13 |
 | [You don't know anything](https://open.spotify.com/track/2ggAuBMFt8d1fpyZiI8co8) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [You don't know anything](https://open.spotify.com/album/6rc9L3chfLEEwuB4cYGhpV) | 2:17 | 2022-05-11 | 2022-06-22 |
 | [YOUNG BOY](https://open.spotify.com/track/6dklP83kIZRmUYawxj7sqr) | [HELLO GLOOM](https://open.spotify.com/artist/7so3OJPxoYvfHVSeYDMdCQ) | [Because I Was Young Boy](https://open.spotify.com/album/74vHOExJIUhBqW6oQgL3BZ) | 2:56 | 2022-07-08 | 2022-07-19 |

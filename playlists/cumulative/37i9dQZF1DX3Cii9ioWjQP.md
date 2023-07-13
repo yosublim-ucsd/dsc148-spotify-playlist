@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Hanna Kim\(해나킴\)\)
+> All about Korean Jazz hits & new \(Cover: Jane\(재인\)\)
 
-146 songs - 10 hr 32 min
+147 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Lullaby](https://open.spotify.com/track/3c3budMk8QIYmmEM1YOcbl) | [Jung\-hee Cho](https://open.spotify.com/artist/2R4PolkYfSHK9KezOzR7aa) | [Jazz Children's Song 'Moon Pieces'](https://open.spotify.com/album/2zUaajNADVR2FC1aL2VDiy) | 3:46 | 2023-03-31 |  |
 | [Margarita](https://open.spotify.com/track/0lcoFS3nK9fZoWxUSMff0I) | [Dj.Girin](https://open.spotify.com/artist/1VBQE0jViVM4iR5xiBWG0V) | [Margarita](https://open.spotify.com/album/17DhYlOB1lSsYGwZI8GL3q) | 2:19 | 2022-11-11 |  |
 | [Midnight Cruise](https://open.spotify.com/track/52RMneuQNkjnITfpB3bRE5) | [Myung Hoon Sa](https://open.spotify.com/artist/1t4bWxgv1VozSq1nRH4BWp) | [Midnight Cruise](https://open.spotify.com/album/1iij2dOmTORLFT9xoiKCtp) | 4:44 | 2022-05-03 | 2022-05-19 |
+| [Miles N Miles \(with\. Senri Kawaguchi\)](https://open.spotify.com/track/6i4IY859rUWMQthlaDJ3Hp) | [Jane](https://open.spotify.com/artist/6S1pEId4oXUshfDpbIJHf5), [Senri Kawaguchi](https://open.spotify.com/artist/3Nxp13gGTys81Mpl041vJe) | [Miles N Miles](https://open.spotify.com/album/5TDMeo2xnGusqM44Wk0pj5) | 3:39 | 2023-07-12 |  |
 | [Mirror](https://open.spotify.com/track/6TiWBEcKGhuXrS6EW1fDpU) | [Yungon Kim](https://open.spotify.com/artist/3Ua8LIwG2GReKWV0wxjWHX) | [Painting](https://open.spotify.com/album/0yj1hWHxegggjpw5GW6wAo) | 8:01 | 2022-05-03 | 2022-05-19 |
 | [Mirror \(feat\. 최다솜\)](https://open.spotify.com/track/1V6jVxy3LuX53YqFgIurTr) | [Wooda](https://open.spotify.com/artist/6hIVvj068iQxFnK3unMCKG), [최다솜](https://open.spotify.com/artist/2SxOJ828hPLggxtKI6zMxd) | [Parallel](https://open.spotify.com/album/1gE3YvX3CA77ChVwyaaagk) | 3:16 | 2023-02-07 |  |
 | [Moonlight kiss](https://open.spotify.com/track/5KeSCEzu0vaeN6PlIEmZqZ) | [BUDY](https://open.spotify.com/artist/0pHO1D5Z1QoFCX801p8FA3) | [Moonlight kiss](https://open.spotify.com/album/5bTORuj2ausd5NCVfCGc6Q) | 3:02 | 2022-05-18 | 2023-02-08 |

@@ -4598,7 +4598,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 166344,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu"
@@ -4734,6 +4734,24 @@
       "duration_ms": 180115,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N"
+    },
+    {
+      "album": {
+        "name": "Lightyears",
+        "url": "https://open.spotify.com/album/03WgFefsd6L75SoRrpseoE"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245271,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/6mq6v7IIMG6aQR310ZoKew"
     },
     {
       "album": {

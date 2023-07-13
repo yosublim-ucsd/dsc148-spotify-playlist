@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 379767,
+  "num_followers": 379795,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzJiOWRmNDY4NzYzMzU4YmJkZWFlYWUyNWJhZjdkYWYyZGIwMDE3",
+  "snapshot_id": "MCw0YzJkNDc0NzQ2NmE1OTg1ZjQ1ZjRhNzk3OWI4MWEzM2UxZTc3MzNi",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 178476,
-      "name": "Thin",
-      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/7gvil4YLPC0BHyB2GXg8aJ"
       },
@@ -523,18 +507,34 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
         }
       ],
-      "duration_ms": 262400,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
+      "duration_ms": 178476,
+      "name": "Thin",
+      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Giving In To The Love",
+      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/1YKRI4Uqw9HNEqMoQvhQom"
+      "duration_ms": 262400,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Juicebox",
-        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 177409,
-      "name": "Bonafide (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Heiress",
         "url": "https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 232613,
       "name": "Silvery",
       "url": "https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 177409,
+      "name": "Bonafide (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1391,22 +1391,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
+        "name": "6 Letters",
+        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
       "artists": [
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Daktyl",
+          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
         },
         {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
         }
       ],
-      "duration_ms": 224113,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
+      "duration_ms": 166469,
+      "name": "6 Letters",
+      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "6 Letters",
-        "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
       },
       "artists": [
         {
-          "name": "Daktyl",
-          "url": "https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ"
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         },
         {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
         }
       ],
-      "duration_ms": 166469,
-      "name": "6 Letters",
-      "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
+      "duration_ms": 224113,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fraser",
-          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
-        }
-      ],
-      "duration_ms": 222885,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "WONDER (reimagined)",
         "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
@@ -1679,22 +1663,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "A Million Times (HONNE remix)",
-        "url": "https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt"
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "Dylan Fraser",
+          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
         }
       ],
-      "duration_ms": 246409,
-      "name": "A Million Times - HONNE remix",
-      "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
+      "duration_ms": 222885,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1719,6 +1699,26 @@
       "duration_ms": 205002,
       "name": "Run Run - Japanese Wallpaper Remix",
       "url": "https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "A Million Times (HONNE remix)",
+        "url": "https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 246409,
+      "name": "A Million Times - HONNE remix",
+      "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
     },
     {
       "added_at": "2023-01-11 21:01:15",

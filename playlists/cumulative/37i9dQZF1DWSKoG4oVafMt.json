@@ -8707,6 +8707,32 @@
     },
     {
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2"
+      },
+      "artists": [
+        {
+          "name": "Sharn",
+          "url": "https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv"
+        },
+        {
+          "name": "40k",
+          "url": "https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk"
+        },
+        {
+          "name": "The Paul",
+          "url": "https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203048,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/0fRXvOvU3BTzPs5zaccym1"
       },

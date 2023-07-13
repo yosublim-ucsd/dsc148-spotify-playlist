@@ -4,7 +4,7 @@
 
 > Music from "Bungo Stray Dogs"\. 文豪ストレイドッグスの楽曲を1つのプレイリストで。©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
 
-40 songs - 2 hr 28 min
+42 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,9 @@
 | [永遠未遂にグッド・バイ](https://open.spotify.com/track/36SgeorHbES9eOOY8NwmnE) | [太宰 治 \(CV.宮野真守\)](https://open.spotify.com/artist/67V4M0fBokE5dqx4vavdqS) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ壱](https://open.spotify.com/album/2s6eZiT6SBTPeZfJwAJ80f) | 5:02 | 2023-01-06 |  |
 | [状態変化実験における不可逆的事象の考察について](https://open.spotify.com/track/6r6IaErVpig8lqN4MV4ewP) | [梶井基次郎 \(CV.羽多野 渉\)](https://open.spotify.com/artist/7cFLMa2COfFgeIa7jxXPE1) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ参](https://open.spotify.com/album/2MJX899BiR6SszvUDKG09a) | 3:41 | 2023-01-06 |  |
 | [絵描き歌わん!](https://open.spotify.com/track/752XNVzyiVE1ioO0K6bpQh) | [中島 敦 \(CV.上村祐翔\)](https://open.spotify.com/artist/0yV4MhS5uohiPKoBijvIYE) | [TVアニメ『文豪ストレイドッグス わん!』オリジナルサウンドトラック](https://open.spotify.com/album/6mmm5LpRB6z1t1r6vMeX0r) | 0:43 | 2023-01-06 |  |
+| [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 | 2023-07-12 |  |
 | [迷宮解読遊戯](https://open.spotify.com/track/7MyGZBcRDb0BD71AeGx4mr) | [江戸川乱歩 \(CV.神谷浩史\)](https://open.spotify.com/artist/6vwWl8ohtbAARIBiZOU7fm) | [TVアニメ『文豪ストレイドッグス』キャラクターソングミニアルバム 其ノ弐](https://open.spotify.com/album/5kfFWC3c5VVnnmkFpWFCnY) | 3:35 | 2023-01-06 |  |
+| [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 | 2023-07-12 |  |
 | [風が吹く街](https://open.spotify.com/track/6XVkBZ5DTEpAUqJMtPNyJe) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [風が吹く街](https://open.spotify.com/album/1Z5ATd54A5twCvOEoduIiD) | 4:09 | 2023-01-06 |  |
 
 \*This playlist was first scraped on 2023-01-06. Prior content cannot be recovered.

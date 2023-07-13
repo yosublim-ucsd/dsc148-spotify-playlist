@@ -112,6 +112,32 @@
     {
       "album": {
         "name": "All Aces",
+        "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "All Aces",
+      "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
+    },
+    {
+      "album": {
+        "name": "All Aces",
         "url": "https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh"
       },
       "artists": [
@@ -598,7 +624,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 197224,
       "name": "Don't Dance",
       "url": "https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W"

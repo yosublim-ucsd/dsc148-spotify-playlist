@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > A bailar con la mejor cumbia sudamericana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,997 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,335 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 60 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 61 | [Llorarás Más de 10 Veces](https://open.spotify.com/track/10VUJfqV8GGuJovH0x9Q4e) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Llorarás Más de 10 Veces](https://open.spotify.com/album/5NmYayaP0sr0anmXO9D8hz) | 3:30 |
 | 62 | [Yo Te Esperare](https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ) | [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Sigo Mi Camino](https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw) | 2:44 |
-| 63 | [Quieres Ser Mi Amante](https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl) | [Nestor En Bloque](https://open.spotify.com/artist/7lvH8cYeGJuXa6e7Y7kPoK) | [Rompiendo el Silencio](https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB) | 2:56 |
+| 63 | [Quieres Ser Mi Amante](https://open.spotify.com/track/6ZIHXMuIfggpBH9vhpTusl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Rompiendo el Silencio](https://open.spotify.com/album/5tV5Ufq4DosqkKprcC3KFB) | 2:56 |
 | 64 | [Se Te Ve la Tanga](https://open.spotify.com/track/3GUMMzUB7Kk0BSqxEDyieS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:23 |
 | 65 | [Paisaje](https://open.spotify.com/track/4EDCymZo79P1adudaFnOmj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Paisaje](https://open.spotify.com/album/5L31DZVxy3JHpFalfYXKDp) | 4:36 |
 | 66 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 99 | [Roto](https://open.spotify.com/track/5SInsDoEw0bovpyJnVWfF8) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Roto](https://open.spotify.com/album/7nWdrfnpgCMWK4PoJdFvHn) | 3:40 |
 | 100 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 |
 
-Snapshot ID: `MCw0YzEwNzIxMDY5MmQ0YzAwZWYxMDU1NDRmOGY0YjM4MTM5NGRiYmFm`
+Snapshot ID: `MCw0M2JjNjVlNzY4MzlmOWZjYTFhYmExY2VhMmFkNGI1NDE5NjY4YzMw`

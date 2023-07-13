@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 76884,
+  "num_followers": 76993,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTk0ZDllNmVmYTliNDZlNTU4ODNjOTgwMGQ1MGU4NWM1ZDUyZGQy",
+  "snapshot_id": "MCwzNDYxYmRhMmIyNzQxYzQ5MGRhMjQyNzcxYmQ4Njk5MmY2ZjQxOGVh",
   "tracks": [
     {
       "added_at": "2023-05-23 12:45:45",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Fr\u00e9ro Delavega",
+        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Le chant des sir\u00e8nes",
+      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Fr\u00e9ro Delavega",
-        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9ro Delavega",
-          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "Le chant des sir\u00e8nes",
-      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "L'attrape-r\u00eaves",
         "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 239573,
-      "name": "A la Folie",
-      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "La vitesse",
         "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 198973,
       "name": "Mon c\u0153ur",
       "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 239573,
+      "name": "A la Folie",
+      "url": "https://open.spotify.com/track/6EkR0w8oSHHuONFPsZW485"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "L'Ange De Mon D\u00e9mon",
-        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
-      },
-      "artists": [
-        {
-          "name": "Ridan",
-          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ulysse",
-      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "la derniere annee",
         "url": "https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 221666,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "L'Ange De Mon D\u00e9mon",
+        "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
+      },
+      "artists": [
+        {
+          "name": "Ridan",
+          "url": "https://open.spotify.com/artist/3SsER7gGsy3a9LlfQ62oxz"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ulysse",
+      "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+        "name": "Cach\u00e9 derri\u00e8re",
+        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
       "artists": [
         {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Bonne id\u00e9e",
-      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
+      "duration_ms": 215160,
+      "name": "Le pouvoir des fleurs",
+      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Cach\u00e9 derri\u00e8re",
-        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
       },
       "artists": [
         {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
         }
       ],
-      "duration_ms": 215160,
-      "name": "Le pouvoir des fleurs",
-      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+      "duration_ms": 207400,
+      "name": "Bonne id\u00e9e",
+      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Derri\u00e8re l'amour",
-        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Gabrielle",
-      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "La recette",
-        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
+        "name": "Derri\u00e8re l'amour",
+        "url": "https://open.spotify.com/album/4zYFpEEJe1hH5a12DlgT6e"
       },
       "artists": [
         {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
         }
       ],
-      "duration_ms": 197691,
-      "name": "La recette",
-      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
+      "duration_ms": 173733,
+      "name": "Gabrielle",
+      "url": "https://open.spotify.com/track/5Ti7ocP3fdlsYo47rCk80P"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -823,22 +807,18 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Animaux fragiles",
-        "url": "https://open.spotify.com/album/0bM7IqCH0vPrYCrhFiScY6"
+        "name": "La recette",
+        "url": "https://open.spotify.com/album/5GbC8vKAEPFmMl40Wf0i8v"
       },
       "artists": [
         {
-          "name": "Ycare",
-          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
-        },
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
         }
       ],
-      "duration_ms": 195002,
-      "name": "Animaux fragiles",
-      "url": "https://open.spotify.com/track/4yWP2IC6gq5Hl8bVouCvMs"
+      "duration_ms": 197691,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/6ZujflJjESUbIV6LVgC9nY"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -875,18 +855,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Les Annees Barclay",
-        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
+        "name": "Animaux fragiles",
+        "url": "https://open.spotify.com/album/0bM7IqCH0vPrYCrhFiScY6"
       },
       "artists": [
         {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+          "name": "Ycare",
+          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
+        },
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
         }
       ],
-      "duration_ms": 189666,
-      "name": "Non non rien n'a chang\u00e9",
-      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
+      "duration_ms": 195002,
+      "name": "Animaux fragiles",
+      "url": "https://open.spotify.com/track/4yWP2IC6gq5Hl8bVouCvMs"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Les Annees Barclay",
+        "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
+      },
+      "artists": [
+        {
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Non non rien n'a chang\u00e9",
+      "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 250746,
       "name": "Rockollection",
       "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -971,6 +955,22 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Seul",
-        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
-      },
-      "artists": [
-        {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Seul",
-      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Seul",
+        "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Seul",
+      "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
     },
     {
       "added_at": "2023-05-23 12:45:45",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-23 12:45:45",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "La vie ne vaut rien",
-      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
-    },
-    {
-      "added_at": "2023-05-23 12:45:45",
-      "album": {
         "name": "Nos c\u00e9l\u00e9brations",
         "url": "https://open.spotify.com/album/7KvQlSvxXWsxKnEhOdWP6N"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 240200,
       "name": "Nos c\u00e9l\u00e9brations - Edit",
       "url": "https://open.spotify.com/track/50TIALxJW2k7XntjaVzrt1"
+    },
+    {
+      "added_at": "2023-05-23 12:45:45",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "La vie ne vaut rien",
+      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
     },
     {
       "added_at": "2023-05-23 12:45:45",

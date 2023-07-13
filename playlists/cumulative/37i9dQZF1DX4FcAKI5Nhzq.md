@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: ZEROBASEONE
 
-825 songs - 1 day 21 hr 40 min
+826 songs - 1 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-08 | 2022-12-14 |
 | [Shark](https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Shark](https://open.spotify.com/album/104jjlIreYgxI8FofxpaFz) | 3:23 | 2021-12-24 | 2022-01-20 |
 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 | 2022-10-12 | 2022-11-25 |
+| [Shhh](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 3:02 | 2023-07-12 |  |
 | [Shine Together](https://open.spotify.com/track/6Bj8o5vulKzrYmmaeCcBEe) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SPECIAL HISTORY BOOK](https://open.spotify.com/album/3XByrdCCU42SI5I9nxoA10) | 3:30 | 2020-10-13\* | 2020-11-16 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-09 | 2023-03-03 |
 | [Shut Up 받고 Crazy Hot!](https://open.spotify.com/track/1z7QyEi7KWDgqKr4MtnmAm) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [ONEUS THEATRE : Shut Up 받고 Crazy Hot!](https://open.spotify.com/album/0UXupM1TaPLQSTMkKwYEqQ) | 3:45 | 2021-08-11 | 2021-09-18 |
@@ -808,7 +809,7 @@
 | [Wings](https://open.spotify.com/track/12jfNawkTUb40C0iQ46u3W) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Wings](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) | 3:33 | 2021-03-18 | 2021-06-09 |
 | [WINNER \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0EUPVKyimfNPxAkF9bNCNx) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [LOVE & FIGHT](https://open.spotify.com/album/4fVtbWVZ9WIyuOc6cXKH1V) | 2:54 | 2022-02-10 | 2022-04-09 |
 | [Without You](https://open.spotify.com/track/5Yxizu2LeHTpSHvf3zANWY) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 5th EP Album ‘OK’ Episode 1 : OK Not](https://open.spotify.com/album/0awixD0tmDTgB6JWfQxwO0) | 3:01 | 2022-08-24 | 2022-12-10 |
-| [Without You](https://open.spotify.com/track/3UxfcEYFo3iU6WullUvM9x) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 3rd Digital Single 'Without You'](https://open.spotify.com/album/1m0yu7SisKNI9DJSIduL22) | 3:30 | 2023-04-13 |  |
+| [Without You](https://open.spotify.com/track/3UxfcEYFo3iU6WullUvM9x) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 3rd Digital Single 'Without You'](https://open.spotify.com/album/1m0yu7SisKNI9DJSIduL22) | 3:30 | 2023-04-13 | 2023-07-13 |
 | [WOLFGANG](https://open.spotify.com/track/5520a7iiRxB9bjf6mc7TyS) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:10 | 2021-06-09 | 2021-09-07 |
 | [WooAh HIP](https://open.spotify.com/track/4DKDfm5OLW1dIOEAH76Zmg) | [MAMADOL](https://open.spotify.com/artist/4RYQvLQe6W9FuaLp3x8hob) | [MAMA THE IDOL](https://open.spotify.com/album/5vcF3WhSZFnDO6oL1A4VNR) | 3:10 | 2022-01-31 | 2022-04-09 |
 | [WOULD YOU RUN](https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [VENI VIDI VICI](https://open.spotify.com/album/3mQBrnm5x439zf6Fa5Zhic) | 3:24 | 2021-10-13 | 2021-12-02 |

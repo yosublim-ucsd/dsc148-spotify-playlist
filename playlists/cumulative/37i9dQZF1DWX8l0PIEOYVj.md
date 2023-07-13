@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Dabin.
 
-391 songs - 23 hr 30 min
+392 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,13 +213,14 @@
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 | 2023-02-26 |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
-| [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 |  |
+| [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 | 2023-07-13 |
 | [Let You Down](https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Down](https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI) | 3:29 | 2023-05-19 |  |
 | [Lifeline](https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Lifeline](https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf) | 3:45 | 2023-07-07 |  |
 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 | 2023-05-08 |
 | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [Light Up The Sky \(feat\. Scott Stapp\)](https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw) | 4:44 | 2022-07-08 |  |
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-07-08 | 2023-02-18 |
 | [Lightspeed](https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Planet Oasis](https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG) | 3:00 | 2022-07-08 |  |
+| [Lightyears](https://open.spotify.com/track/6mq6v7IIMG6aQR310ZoKew) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Lightyears](https://open.spotify.com/album/03WgFefsd6L75SoRrpseoE) | 4:05 | 2023-07-07 |  |
 | [Like It Was](https://open.spotify.com/track/1QweGJzFRsHR5WtKtDvQoy) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Like It Was & Wait For Me](https://open.spotify.com/album/4gDsLPFCLXeQazU3e1qwk9) | 3:36 | 2023-04-28 | 2023-06-24 |
 | [Like Water](https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Jadelyn](https://open.spotify.com/artist/0nfU2YxUfRQxknJWo3mQit) | [Like Water](https://open.spotify.com/album/7mzTpyA0mRSC1yXGAsgAcS) | 4:30 | 2022-07-08 | 2022-08-06 |
 | [Lonely](https://open.spotify.com/track/0i9XzZElo5bpCCblQ3UpCS) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Leila Pari](https://open.spotify.com/artist/74psZWrKKzR4f9mplHXqJb) | [Lonely](https://open.spotify.com/album/5dXu6XuogLgDJJkb390Xnb) | 3:51 | 2022-12-02 |  |

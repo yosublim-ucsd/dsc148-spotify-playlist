@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 357655,
+  "num_followers": 357812,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2UzM2E2NDM3MWY4NDc1NmIxMDQzMzBhNzQwYjhlMWZmMTE0NmY1",
+  "snapshot_id": "MCw0NTAwZTQwOThkZDE1ZjM4ZTM1ZjEwNGZmZTgzZWJhNWMwMTE4NjNl",
   "tracks": [
     {
       "added_at": "2023-06-29 03:30:56",
@@ -59,34 +59,6 @@
     {
       "added_at": "2023-06-29 03:30:56",
       "album": {
-        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
-        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        },
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
-        }
-      ],
-      "duration_ms": 169153,
-      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
-      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2023-06-29 03:30:56",
-      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -111,6 +83,34 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2023-06-29 03:30:56",
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
       "added_at": "2023-06-29 03:30:56",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-06-29 03:30:56",
       "album": {
+        "name": "Adrenaline Rush",
+        "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "duration_ms": 184542,
+      "name": "Adrenaline Rush",
+      "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
+    },
+    {
+      "added_at": "2023-06-29 03:30:56",
+      "album": {
         "name": "Not So Bad (feat. Emie)",
         "url": "https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 153696,
       "name": "Not So Bad (feat. Emie)",
       "url": "https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3"
-    },
-    {
-      "added_at": "2023-06-29 03:30:56",
-      "album": {
-        "name": "Adrenaline Rush",
-        "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "MORGAN",
-          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
-        }
-      ],
-      "duration_ms": 184542,
-      "name": "Adrenaline Rush",
-      "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
     },
     {
       "added_at": "2023-06-29 03:30:56",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-06-29 03:30:56",
       "album": {
+        "name": "Money Sucks, Friends Rule",
+        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
+    },
+    {
+      "added_at": "2023-06-29 03:30:56",
+      "album": {
         "name": "Party Shaker",
         "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 159052,
       "name": "Party Shaker",
       "url": "https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4"
-    },
-    {
-      "added_at": "2023-06-29 03:30:56",
-      "album": {
-        "name": "Money Sucks, Friends Rule",
-        "url": "https://open.spotify.com/album/0GJ7jQJRIQNDjz54cPo2XI"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/3oZoXyU0SkDldgS7AcN4y4"
     },
     {
       "added_at": "2023-06-29 03:30:56",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-06-29 03:30:56",
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 140698,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
-    },
-    {
-      "added_at": "2023-06-29 03:30:56",
-      "album": {
         "name": "Que Calor (feat. J Balvin & El Alfa)",
         "url": "https://open.spotify.com/album/5AKSUA3pizhoVgfjW1ijVC"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
+    },
+    {
+      "added_at": "2023-06-29 03:30:56",
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 140698,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
     },
     {
       "added_at": "2023-06-29 03:30:56",

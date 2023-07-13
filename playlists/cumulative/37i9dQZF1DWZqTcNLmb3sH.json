@@ -381,6 +381,32 @@
     },
     {
       "album": {
+        "name": "Aasare (From \"Nimmellara Aashirvada \")",
+        "url": "https://open.spotify.com/album/48MQ48TQGcCQclseDhEW5e"
+      },
+      "artists": [
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        },
+        {
+          "name": "Sunaad Gowtham",
+          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
+        },
+        {
+          "name": "Ganapathi Diwan",
+          "url": "https://open.spotify.com/artist/0dRnjhvWhBiDnsKyabNepu"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300948,
+      "name": "Aasare - From \"Nimmellara Aashirvada \"",
+      "url": "https://open.spotify.com/track/2fquawD0QH7ALTaY5B7R2o"
+    },
+    {
+      "album": {
         "name": "Abhiramachandra First Glimpse (From \"ABHIRAMACHANDRA\")",
         "url": "https://open.spotify.com/album/2AI8RHTzskK9YS3zbqQ8zA"
       },
@@ -978,6 +1004,36 @@
       "duration_ms": 192000,
       "name": "Appa Ninnappugeyu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/7vREFU9tT4weQj3dE2xeAK"
+    },
+    {
+      "album": {
+        "name": "Aradhya (From \"Kushi\")",
+        "url": "https://open.spotify.com/album/6rDZOiSJPVqUAb0pCEZLCD"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281527,
+      "name": "Aradhya (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/7D9s7SGO3QjrDAWSEWVMED"
     },
     {
       "album": {
@@ -4556,7 +4612,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 238461,
       "name": "Endu Endendu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/4jgZ5UlWaXv0MQHOKNzH9o"
@@ -8550,7 +8606,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 155142,
       "name": "Kousalya Supraja Rama Title Track (From \"Kousalya Supraja Rama\")",
       "url": "https://open.spotify.com/track/1TMscod5OKfvsC1wtZQSGM"
@@ -10340,7 +10396,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 209078,
       "name": "Muddu Peddu Medulugalu",
       "url": "https://open.spotify.com/track/3i2pNybghzTQy8or2MOqjd"
@@ -12868,7 +12924,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 237250,
       "name": "Oh My Love - From \"Ambuja\"",
       "url": "https://open.spotify.com/track/51Vp53MR4How58rfSycArK"
@@ -15420,6 +15476,28 @@
       "duration_ms": 281364,
       "name": "Singara Siriye (From \"Kantara\")",
       "url": "https://open.spotify.com/track/0kfBKwOe5frtCXdi0mA8QM"
+    },
+    {
+      "album": {
+        "name": "Single Sevanthi (\"From 13\")",
+        "url": "https://open.spotify.com/album/62D3wY5QJnVmH6124MvbD1"
+      },
+      "artists": [
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        },
+        {
+          "name": "Shogun Babu",
+          "url": "https://open.spotify.com/artist/08H6McJyVcYplnrNd5duYU"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230869,
+      "name": "Single Sevanthi - \"From 13\"",
+      "url": "https://open.spotify.com/track/6h9yOHNYCa7CopH5XaJUws"
     },
     {
       "album": {

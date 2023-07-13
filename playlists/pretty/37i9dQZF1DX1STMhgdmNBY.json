@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 55866,
+  "num_followers": 55941,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWI3OTkyNDA2MDVkMzhkNDIyNThkOWVjNTY4ZDE4YTI3NzRkNjQw",
+  "snapshot_id": "MCwxYTI1ZTYzNGRhZjgwN2E4NDNjMjE0MzhiOTAwMWY3Nzk4ZWNiMDFh",
   "tracks": [
     {
       "added_at": "2023-06-16 14:15:56",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 300466,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
-    },
-    {
-      "added_at": "2023-06-16 14:15:56",
-      "album": {
         "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
         "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 385600,
       "name": "Lonesome In My Bedroom",
       "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
+    },
+    {
+      "added_at": "2023-06-16 14:15:56",
+      "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -227,22 +227,18 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+        "name": "The Genius Sings the Blues",
+        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 297893,
-      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+      "duration_ms": 175773,
+      "name": "Hard Times (No One Knows Better Than I)",
+      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -263,18 +259,22 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "The Genius Sings the Blues",
-        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Hard Times (No One Knows Better Than I)",
-      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
+      "duration_ms": 297893,
+      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "Rancho Texicano: The Very Best of ZZ Top",
-        "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 279173,
-      "name": "Blue Jean Blues",
-      "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
-    },
-    {
-      "added_at": "2023-06-16 14:15:56",
-      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 338333,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
+    },
+    {
+      "added_at": "2023-06-16 14:15:56",
+      "album": {
+        "name": "Rancho Texicano: The Very Best of ZZ Top",
+        "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 279173,
+      "name": "Blue Jean Blues",
+      "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
-    },
-    {
-      "added_at": "2023-06-16 14:15:56",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 290973,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+    },
+    {
+      "added_at": "2023-06-16 14:15:56",
+      "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "I Must Be In A Good Place Now",
-        "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
+        "name": "Big Walter Horton w/ Carey Bell",
+        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
       "artists": [
         {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+          "name": "Big Walter Horton",
+          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
         }
       ],
-      "duration_ms": 187265,
-      "name": "I Must Be In A Good Place Now",
-      "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
+      "duration_ms": 278266,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
+        "name": "I Must Be In A Good Place Now",
+        "url": "https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot"
       },
       "artists": [
         {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
         }
       ],
-      "duration_ms": 278266,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/3ZD1wkVJDQDBwbPcp198Bk"
+      "duration_ms": 187265,
+      "name": "I Must Be In A Good Place Now",
+      "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Uncloudy Day",
-      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
-    },
-    {
-      "added_at": "2023-06-16 14:15:56",
-      "album": {
         "name": "The Legendary Christine Perfect Album",
         "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 191355,
       "name": "I'm on My Way",
       "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
+    },
+    {
+      "added_at": "2023-06-16 14:15:56",
+      "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Uncloudy Day",
+      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
     },
     {
       "added_at": "2023-06-16 14:15:56",

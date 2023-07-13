@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-119 songs - 7 hr 57 min
+120 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 | 2022-02-04 |  |
 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 | 2022-02-04 | 2023-04-25 |
 | [Cerveza, Cerveza](https://open.spotify.com/track/2MwYotI5NsXGD7LazHfUX5) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/3wQqMBrsik0XtiDhTsWx9M) | 4:34 | 2022-02-04 | 2022-06-26 |
+| [Cerveza, Cerveza](https://open.spotify.com/track/2OqmtWMjw5Jm3BQxtzvMmu) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito Por Qué Me Dejaste..!](https://open.spotify.com/album/210Yb6y0gEDDRZd8EM3pAc) | 4:34 | 2022-02-04 |  |
 | [Cerveza, Cerveza](https://open.spotify.com/track/5wtuD6qC9x6NK3tdH7Rh2Y) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Papito por Qué Me Dejaste..!](https://open.spotify.com/album/0dmYa6GxBcTxBRJ5xZu7X1) | 4:34 | 2022-02-04 | 2023-07-02 |
 | [Chall Huaschallay](https://open.spotify.com/track/756FMK950mmLA7hFN05QT2) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Huayno, Vol\. 1](https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P) | 2:39 | 2022-02-04 |  |
 | [Challwaschallay](https://open.spotify.com/track/2n7NBbbEIyUo9tNZ963ivB) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0rrBats1rpEHyynw5YETSH) | 4:14 | 2022-02-04 |  |
@@ -126,6 +127,6 @@
 | [Vienes y Te Vas](https://open.spotify.com/track/20li7MK7ufX4MhYcVsGUIX) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1FNmNqN8zEi4TOuhQ4pxkK) | 4:47 | 2022-02-04 |  |
 | [Vienes y Te Vas](https://open.spotify.com/track/65UbyGpH5tP9AkmZAXV8aB) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/1Neoq9Qlrcv0pHVWZTmDky) | 4:47 | 2022-02-04 | 2022-07-29 |
 | [Vienes y Te Vas](https://open.spotify.com/track/6tp6NTptAjAdiayBTJnRbR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw) | [Mírame](https://open.spotify.com/album/0y0l5FMyFAuMDhhhnnXxW7) | 4:47 | 2022-02-04 | 2023-02-04 |
-| [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 | 2022-02-04 |  |
+| [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 | 2022-02-04 | 2023-07-13 |
 
 \*This playlist was first scraped on 2022-06-08. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 41973,
+  "num_followers": 41993,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTc0ZmE1ZmVmNjE4NDhkNjdmNDk0MmViMThhZDc2NDk3MDM2MjIx",
+  "snapshot_id": "MCw2ZWMzYzY3MjNhOWNjMjU0N2JkNTRhY2RjY2YxZmExZmNhNWNiMmY4",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
         "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 191306,
       "name": "Say Hey (The Willie Mays Song)",
       "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
     },
     {
       "added_at": "2022-03-28 19:44:25",

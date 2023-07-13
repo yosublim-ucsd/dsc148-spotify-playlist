@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-103 songs - 6 hr 54 min
+104 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Honey Forgive Me](https://open.spotify.com/track/3R4pTT2d7T4oWdDvU3jV4N) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/7ga1H9kXK01LOnwDGiRRNE) | 2:22 | 2020-08-21 |  |
 | [Hump Thru the Winter](https://open.spotify.com/track/1Y2zuzC8ScFpyvRaiK6QRR) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/0CNXnv7UOxzVEVvAmgwMGG) | 3:54 | 2020-08-21 | 2022-07-29 |
 | [Hump Thru the Winter](https://open.spotify.com/track/4ToOP7lFnj2kyU6L7xUwLB) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 3:54 | 2020-08-21 |  |
-| [I Was A Fool](https://open.spotify.com/track/0yLT3sSQU6TkLdlbq0mHm4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [I Was A Fool](https://open.spotify.com/album/3NvKMJA950Tz5xx1CwOoRH) | 3:23 | 2020-08-21 |  |
+| [I Was A Fool](https://open.spotify.com/track/0yLT3sSQU6TkLdlbq0mHm4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [I Was A Fool](https://open.spotify.com/album/3NvKMJA950Tz5xx1CwOoRH) | 3:23 | 2020-08-21 | 2023-07-13 |
+| [I Was a Fool](https://open.spotify.com/track/5d8OH4z7BCPCRq5wNIVTyY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:23 | 2020-08-21 |  |
 | [I Will Not Fall](https://open.spotify.com/track/0YLdPhWCwvYk3olzObwcZW) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [I Will Not Fall](https://open.spotify.com/album/4FF8p2iHolmxGXmkWpEBdJ) | 3:29 | 2020-08-21 |  |
 | [I Will Not Fall](https://open.spotify.com/track/1tTOz7GLFSObMxWJiCv8xx) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [I Will Not Fall](https://open.spotify.com/album/5WwQrLbHFyYbNUOCZZOKJc) | 3:29 | 2020-08-21 | 2022-11-09 |
 | [Ignite \(Light It Up\)](https://open.spotify.com/track/2Ta32R4qS5k2R4ZBEmVBtJ) | [Kris Barras Band](https://open.spotify.com/artist/241MOvr69jR2U48FW5WbKv) | [Light It Up](https://open.spotify.com/album/6Rqox5C3LdLdqOyd1kcdy3) | 3:16 | 2020-08-21 |  |

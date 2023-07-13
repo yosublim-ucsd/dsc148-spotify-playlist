@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-1,395 songs - 3 day 4 hr 24 min
+1,396 songs - 3 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-10-23 | 2022-04-21 |
 | [Come Over \(feat\. J\-Fizz\)](https://open.spotify.com/track/3MFqzC7BgAd3EIR6aXjz89) | [Cele Cortez](https://open.spotify.com/artist/7shzBWOcCafe8QdRnab2s2), [J\-Fizz](https://open.spotify.com/artist/6StJSssH1aFpS8CQBh7zUq) | [Come Over](https://open.spotify.com/album/3HDsASmioHLDOexVlsP0xA) | 3:21 | 2023-06-12 | 2023-06-15 |
 | [Come to Life](https://open.spotify.com/track/6DZz58CbF0AKw5PCKqNKcM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:10 | 2021-08-31 | 2021-09-05 |
-| [Comfortable](https://open.spotify.com/track/3leQrgOYf0HkQlqSVmjmYk) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0) | [Comfortable](https://open.spotify.com/album/7shxKOu9P3uVJNNq1e0AuQ) | 2:32 | 2023-06-20 |  |
+| [Comfortable](https://open.spotify.com/track/3leQrgOYf0HkQlqSVmjmYk) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0) | [Comfortable](https://open.spotify.com/album/7shxKOu9P3uVJNNq1e0AuQ) | 2:32 | 2023-06-20 | 2023-07-13 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 | 2022-06-04 | 2022-06-18 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-20 | 2022-05-22 |
 | [CORALINE](https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 5:00 | 2021-05-26 | 2021-06-05 |
@@ -1373,6 +1373,7 @@
 | [Í larí lei \(feat\. Ingi Bauer\)](https://open.spotify.com/track/7KsgpAXxuD7n3eOypldW5K) | [THØR](https://open.spotify.com/artist/3ObYhqbnVWAb1afotoMJTu), [Ingi Bauer](https://open.spotify.com/artist/4ynaUZA4BVF6d2XaNuflVz) | [Í larí lei \(feat\. Ingi Bauer\)](https://open.spotify.com/album/3Z2P5BxUalWlZrznLCTi4Q) | 2:56 | 2022-08-20 | 2022-11-01 |
 | [Í síðasta skipti](https://open.spotify.com/track/0s6wluanO3gDy0IU5wyQYW) | [Friðrik Dór](https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t) | [Segir ekki neitt](https://open.spotify.com/album/1rB7LCX78vQQ5yl97QeSEy) | 2:59 | 2023-02-26 | 2023-07-12 |
 | [Ó, þú](https://open.spotify.com/track/1gs1lAEoN5MqVhkrhngc0K) | [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb), [Magnús Jóhann](https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5) | [Tíu íslensk sönglög](https://open.spotify.com/album/6HTSPl3aLjmfBZPhcpIMKb) | 2:14 | 2022-09-17 | 2022-09-30 |
+| [ÓRALE](https://open.spotify.com/track/0zvDlWxShNTR3pzaHENvPb) | [Ver$io](https://open.spotify.com/artist/4bKGESq6kvy0FD9NjQTpp7), [Jayx](https://open.spotify.com/artist/6YJqRzgXW6MEhTLSi27oPf) | [ÓRALE](https://open.spotify.com/album/7tUY1shzmdeZrx2XZW7kWG) | 2:37 | 2023-07-12 |  |
 | [Óskasteinar](https://open.spotify.com/track/1EUZrgQT3KkJ5dBiYLAbVf) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Vögguvísur](https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew) | 1:39 | 2021-03-27\* | 2022-05-31 |
 | [Óskasteinar](https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Vögguvísur](https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l) | 1:39 | 2022-05-30 |  |
 | [Óviti](https://open.spotify.com/track/0sMUJJhfaGNqpeQbghflTs) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Bushido](https://open.spotify.com/album/2IB1JhcHO9T94RYr0aO2fv) | 1:57 | 2021-10-17 | 2021-11-19 |

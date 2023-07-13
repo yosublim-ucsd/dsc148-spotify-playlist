@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Chris Stussy",
-  "num_followers": 87832,
+  "num_followers": 87989,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDUwYWMzYzM3ODE5NDQ4NGNlZWMxYjRjOWRmMDU3OTMzZjU5ODll",
+  "snapshot_id": "MCwyYmI2Y2QzZTlmOTIwYjZmMDZhYWU2NjYyYjRhNzZkY2ZlNTQ2NzA4",
   "tracks": [
     {
       "added_at": "2023-07-03 17:19:48",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
+        "name": "Banho de Folhas (Maz Remix)",
+        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Banho de Folhas - Maz Remix",
+      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/2YL3vvVlPJlUNG1RaAzYzQ"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 199047,
       "name": "My City's On Fire - Anyma & Cassian Remix",
       "url": "https://open.spotify.com/track/5ncvfF5zykGdBMsfOKGkhi"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
-        "name": "Banho de Folhas (Maz Remix)",
-        "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Maz (BR)",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Banho de Folhas - Maz Remix",
-      "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Euphoria (Solomun Remix)",
-        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 173079,
-      "name": "Euphoria (Solomun Remix) - Edit",
-      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 354647,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "Euphoria (Solomun Remix)",
+        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 173079,
+      "name": "Euphoria (Solomun Remix) - Edit",
+      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Dreamcast",
-        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 325744,
-      "name": "Dreamcast",
-      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
         "name": "Ethnica",
         "url": "https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT"
       },
@@ -1459,6 +1443,38 @@
       "duration_ms": 174662,
       "name": "Ethnica",
       "url": "https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "Dreamcast",
+        "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 325744,
+      "name": "Dreamcast",
+      "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "Looking at Your Pager",
+        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
+        }
+      ],
+      "duration_ms": 174417,
+      "name": "Looking at Your Pager",
+      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1483,22 +1499,6 @@
       "duration_ms": 289171,
       "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
       "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
-        "name": "Looking at Your Pager",
-        "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
-      },
-      "artists": [
-        {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
-        }
-      ],
-      "duration_ms": 174417,
-      "name": "Looking at Your Pager",
-      "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Rumblah",
-        "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Rumblah",
-      "url": "https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
         "name": "Catuca",
         "url": "https://open.spotify.com/album/7lRZxqNeoloSjF6lna9lOK"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 398986,
       "name": "Catuca",
       "url": "https://open.spotify.com/track/0ukK2wdKAIP36g0gd5b3bF"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "Rumblah",
+        "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Rumblah",
+      "url": "https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1619,22 +1619,22 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Fuck what u heard",
-        "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
+        "name": "Florianopolis",
+        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
       },
       "artists": [
         {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         },
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 220166,
-      "name": "Fuck what u heard",
-      "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
+      "duration_ms": 141467,
+      "name": "Florianopolis",
+      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1659,22 +1659,22 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Florianopolis",
-        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
+        "name": "Fuck what u heard",
+        "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
       },
       "artists": [
         {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         },
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
         }
       ],
-      "duration_ms": 141467,
-      "name": "Florianopolis",
-      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
+      "duration_ms": 220166,
+      "name": "Fuck what u heard",
+      "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1707,6 +1707,22 @@
       "duration_ms": 301838,
       "name": "The One",
       "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/573E67JTIeDmpq9AySXAwT"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 236343,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
-      },
-      "artists": [
-        {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
-        }
-      ],
-      "duration_ms": 243125,
-      "name": "Ego Death",
-      "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/573E67JTIeDmpq9AySXAwT"
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/58un0KkqLJw7UyqtEbKZOO"
       },
       "artists": [
         {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
         }
       ],
-      "duration_ms": 236343,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2ThAIW2RkK0BwkBVNr7PN8"
+      "duration_ms": 243125,
+      "name": "Ego Death",
+      "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1811,6 +1811,22 @@
       "duration_ms": 371612,
       "name": "In White Rooms - 2023 Remix",
       "url": "https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1851,18 +1867,22 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
       },
       "artists": [
         {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1879,26 +1899,6 @@
       "duration_ms": 488920,
       "name": "Rej",
       "url": "https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
-        "name": "Talkin' Drums",
-        "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        },
-        {
-          "name": "Tour\u00e9 Kunda",
-          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Talkin' Drums",
-      "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
     }
   ],
   "unique_name": "Open Air",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 218375,
+  "num_followers": 218477,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc4Yjc0MGNlNjkwYTg0ODBlOWIxYzQ1ZThhOTc0NzdmNWRmY2Q4",
+  "snapshot_id": "MCw3YmUyZTMxMGE2OWUwMGIxNzJmMThjMTMyZmMzNGIzMTVlNmE3N2U4",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "De la Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
+      },
+      "artists": [
+        {
+          "name": "Barbaro Fines y su Mayimbe",
+          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "El Cuchi Cuchi",
+      "url": "https://open.spotify.com/track/6wH6KePkBihLwj6R82d2FL"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Pasaporte",
         "url": "https://open.spotify.com/album/55bxux5NGwsurOUlXfT2cv"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 300451,
       "name": "Pasaporte",
       "url": "https://open.spotify.com/track/14JmB4k9tBUcS5MYbi8y1M"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "De la Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
-      },
-      "artists": [
-        {
-          "name": "Barbaro Fines y su Mayimbe",
-          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
-        }
-      ],
-      "duration_ms": 302746,
-      "name": "El Cuchi Cuchi",
-      "url": "https://open.spotify.com/track/6wH6KePkBihLwj6R82d2FL"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -475,22 +475,18 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+        "name": "De la Habana a Per\u00fa",
+        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
       },
       "artists": [
         {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+          "name": "Barbaro Fines y su Mayimbe",
+          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
         }
       ],
-      "duration_ms": 298374,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+      "duration_ms": 330533,
+      "name": "El Tren Bala",
+      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -511,18 +507,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "De la Habana a Per\u00fa",
-        "url": "https://open.spotify.com/album/01U5RgaIfsSHyB6yw4nRj0"
+        "name": "Me Dicen Cuba / Rosa la Peligrosa",
+        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
       "artists": [
         {
-          "name": "Barbaro Fines y su Mayimbe",
-          "url": "https://open.spotify.com/artist/3U5KffZYriorcfC62Lca43"
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 330533,
-      "name": "El Tren Bala",
-      "url": "https://open.spotify.com/track/77yYv9YWmd8KLui0RRsTMF"
+      "duration_ms": 298374,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "Live In The USA",
+        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
+      },
+      "artists": [
+        {
+          "name": "David Calzado y su Charanga Habanera",
+          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
+        }
+      ],
+      "duration_ms": 476586,
+      "name": "Lola Lola",
+      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "La Vuelta al Mundo",
         "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 247226,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "Live In The USA",
-        "url": "https://open.spotify.com/album/6MtMZryAJrkwQAavMO3JJi"
-      },
-      "artists": [
-        {
-          "name": "David Calzado y su Charanga Habanera",
-          "url": "https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw"
-        }
-      ],
-      "duration_ms": 476586,
-      "name": "Lola Lola",
-      "url": "https://open.spotify.com/track/6fHZOWvumsFiRgThPknxlj"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
-        "name": "As\u00ed Somos",
-        "url": "https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF"
-      },
-      "artists": [
-        {
-          "name": "Los 4",
-          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Arreba\u0301tate",
-      "url": "https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
         "name": "Party Full Nasty (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01MOvDJDnOLpU47OT2zkFw"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "As\u00ed Somos",
+        "url": "https://open.spotify.com/album/1BrlB5l1v2yQLsGa2CrnRF"
+      },
+      "artists": [
+        {
+          "name": "Los 4",
+          "url": "https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Arreba\u0301tate",
+      "url": "https://open.spotify.com/track/4EtFaIAE21AfCd4dLDxcCi"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
         "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 342400,
       "name": "Marcando la Distancia",
       "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
+        "name": "De Vuelta al Barrio",
+        "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "La Cosa Mala",
+      "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
     },
     {
       "added_at": "2022-12-30 18:20:45",
@@ -843,22 +859,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "De Vuelta al Barrio",
-        "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o y la Verdad",
-          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "La Cosa Mala",
-      "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
     }
   ],
   "unique_name": "Salsa Cubana",

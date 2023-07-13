@@ -145,7 +145,7 @@
       "artists": [
         {
           "name": "Gana Gokul",
-          "url": "https://open.spotify.com/artist/3ORko4ywmPEs62KSqYQJAo"
+          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
         }
       ],
       "date_added": "2023-07-07",
@@ -368,6 +368,28 @@
       "duration_ms": 246340,
       "name": "Gumbala Suthuvom",
       "url": "https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY"
+    },
+    {
+      "album": {
+        "name": "Idhan Gaana",
+        "url": "https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ"
+      },
+      "artists": [
+        {
+          "name": "Gana Gokul",
+          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
+        },
+        {
+          "name": "Joy Sanjay",
+          "url": "https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173113,
+      "name": "Idhan Gaana",
+      "url": "https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs"
     },
     {
       "album": {

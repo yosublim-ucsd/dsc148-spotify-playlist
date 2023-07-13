@@ -4476,10 +4476,28 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 197310,
       "name": "Locomotive",
       "url": "https://open.spotify.com/track/1ZIfpuxWRddqs3hrX4mkso"
+    },
+    {
+      "album": {
+        "name": "THE AGONOS CONNECTION",
+        "url": "https://open.spotify.com/album/19gl6P5EJZb1KBTAzs1fm6"
+      },
+      "artists": [
+        {
+          "name": "thook",
+          "url": "https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112241,
+      "name": "lone idol",
+      "url": "https://open.spotify.com/track/08CMcVNAuetyhdwSwQCD9v"
     },
     {
       "album": {
@@ -6352,7 +6370,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-03",
+      "date_removed": null,
       "duration_ms": 298520,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl"
@@ -7790,7 +7808,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 189295,
       "name": "Submit",
       "url": "https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc"

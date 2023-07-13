@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 351263,
+  "num_followers": 351354,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGQwNzhiMzYxNjRiYTJjMWYzM2MzMmNlODk4NTZiMDczZmY5OWEx",
+  "snapshot_id": "MCxmNmYxMzdiMTZhY2Y1NTM5YzhkNzE3MDU4NjY0ZmRiZDg4ZTMzZGUy",
   "tracks": [
     {
       "added_at": "2023-06-22 14:21:46",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 METAL",
+        "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 338320,
+      "name": "Boyz-N-The-Hood",
+      "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
         "name": "Jam On Revenge",
         "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "RUN-DMC (Expanded Edition)",
         "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 290280,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -459,22 +475,6 @@
       "duration_ms": 325133,
       "name": "Rockit",
       "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4!80\u5e74\u4ee3 METAL",
-        "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 338320,
-      "name": "Boyz-N-The-Hood",
-      "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
         "name": "In Full Gear",
         "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 288053,
       "name": "Talkin' All That Jazz",
       "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "I Know You Got Soul",
+      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 204601,
       "name": "The Bridge Is Over",
       "url": "https://open.spotify.com/track/5jkjpSsMOfsxgdGScPZVq2"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "I Know You Got Soul",
-      "url": "https://open.spotify.com/track/5D2lp16FQ0VIfLGRDn5jcG"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -883,22 +883,6 @@
       "duration_ms": 266026,
       "name": "Colors - 2014 Remaster",
       "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-06-22 14:21:46",
       "album": {
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
         "name": "The Great Adventures Of Slick Rick",
         "url": "https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 248160,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5xc1DBXmB7MTajxDJ9cJcq"
-    },
-    {
-      "added_at": "2023-06-22 14:21:46",
-      "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 308558,
-      "name": "South Bronx",
-      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
     },
     {
       "added_at": "2023-06-22 14:21:46",
@@ -1123,6 +1107,22 @@
       "duration_ms": 388906,
       "name": "P.S.K. 'What Does It Mean'?",
       "url": "https://open.spotify.com/track/3StKzbpR9dRZB8epDx4KDW"
+    },
+    {
+      "added_at": "2023-06-22 14:21:46",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 308558,
+      "name": "South Bronx",
+      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
     },
     {
       "added_at": "2023-06-22 14:21:46",

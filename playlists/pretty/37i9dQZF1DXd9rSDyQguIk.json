@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1115800,
+  "num_followers": 1116364,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmM2ZDJiNWM4NTk2ZjJhYjZkMzI4MzA3NmZkMTk1ZjFiNWNiNmQ2",
+  "snapshot_id": "MCwwMzdjMTRjODY5Yjc1NjZkNjAwODA3NDUyZmQxYmQ3YjVjNTJmZDU5",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Do Right Woman, Do Right Man",
-      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "King Of The Boogie",
@@ -451,6 +435,22 @@
       "duration_ms": 189640,
       "name": "Boogie Chillen",
       "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Do Right Woman, Do Right Man",
+      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -615,22 +615,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 156397,
-      "name": "Crosscut Saw - Mono Mix",
-      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 247373,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -679,22 +679,6 @@
     {
       "added_at": "2018-03-29 19:44:07",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Stumble",
-      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
-    },
-    {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Stumble",
+      "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -933,22 +933,6 @@
       "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Easy Blues (France, 1978) [Blues Reference]",
-        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Leake",
-          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Short Dressed Woman",
-      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "The Alligator Records Years",
@@ -963,6 +947,22 @@
       "duration_ms": 304600,
       "name": "Should I Wait",
       "url": "https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Easy Blues (France, 1978) [Blues Reference]",
+        "url": "https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Leake",
+          "url": "https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Short Dressed Woman",
+      "url": "https://open.spotify.com/track/6tilCYbheGMHo3Hw4F22hF"
     },
     {
       "added_at": "2020-01-15 21:29:46",

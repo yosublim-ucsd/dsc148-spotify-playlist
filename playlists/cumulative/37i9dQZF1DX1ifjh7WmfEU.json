@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-20",
-  "description": "Piano music for your massage session.",
-  "name": "Piano Massage",
+  "description": "Affirmations. Intentions. Skin Care. Self Care. ",
+  "name": "self care vibes",
   "tracks": [
     {
       "album": {
@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Emerald of the East",
+        "url": "https://open.spotify.com/album/15h7O9HdnXjMmFgbDGggEh"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119878,
+      "name": "Emerald of the East",
+      "url": "https://open.spotify.com/track/6fo9G6qHkya3qFKRi5ujkp"
+    },
+    {
+      "album": {
         "name": "Valentina",
         "url": "https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW"
       },
@@ -830,6 +848,24 @@
       "duration_ms": 155374,
       "name": "Ex Nihilo Nihil Fit",
       "url": "https://open.spotify.com/track/3iyH2B4dcjufYE0ZjiUZsC"
+    },
+    {
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/2ZqV42eiZzfEGjrVfSh7NW"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170631,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/6aeSBXsEFl6ZA5oTs8LCEy"
     },
     {
       "album": {
@@ -1404,6 +1440,24 @@
       "duration_ms": 224000,
       "name": "In Essence",
       "url": "https://open.spotify.com/track/22wf4F0EwtjXyPbg0kioHm"
+    },
+    {
+      "album": {
+        "name": "In retrospect",
+        "url": "https://open.spotify.com/album/1fqcmYp1LNskW9AJX4WYMl"
+      },
+      "artists": [
+        {
+          "name": "Eberina",
+          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114871,
+      "name": "In retrospect",
+      "url": "https://open.spotify.com/track/793mOeLUue7vfLXSk7C8iN"
     },
     {
       "album": {
@@ -2649,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Star Canopy",
+        "url": "https://open.spotify.com/album/7ESxVY33u8rpG3jj7QZrtk"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115970,
+      "name": "Star Canopy",
+      "url": "https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy"
+    },
+    {
+      "album": {
         "name": "Statuette",
         "url": "https://open.spotify.com/album/3FH07fFtQxome3Cv8B0PYg"
       },
@@ -2718,6 +2790,24 @@
       "duration_ms": 136421,
       "name": "Suki Desu",
       "url": "https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa"
+    },
+    {
+      "album": {
+        "name": "Sun sinking at dusk",
+        "url": "https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153306,
+      "name": "Sun sinking at dusk",
+      "url": "https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0"
     },
     {
       "album": {
@@ -2901,6 +2991,28 @@
     },
     {
       "album": {
+        "name": "To The Mountain",
+        "url": "https://open.spotify.com/album/3oeXa4YitPTXSnMTRRbpOF"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sky",
+          "url": "https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L"
+        },
+        {
+          "name": "Kjell S\u00f8nksen",
+          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "To The Mountain",
+      "url": "https://open.spotify.com/track/4NsXmzeH7XZQx01TOF99zN"
+    },
+    {
+      "album": {
         "name": "Tra Di Noi",
         "url": "https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa"
       },
@@ -2934,6 +3046,24 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "album": {
+        "name": "traveling seeds",
+        "url": "https://open.spotify.com/album/0B3pXgY2U6ovq3gSO0UEdT"
+      },
+      "artists": [
+        {
+          "name": "Rowan Guthrie",
+          "url": "https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155742,
+      "name": "traveling seeds",
+      "url": "https://open.spotify.com/track/7lj7hNsw53XKUY1kHPgGre"
     },
     {
       "album": {
@@ -3172,6 +3302,24 @@
       "duration_ms": 187347,
       "name": "Where Stars Are Born",
       "url": "https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4"
+    },
+    {
+      "album": {
+        "name": "Where Stars Disappear Or Die",
+        "url": "https://open.spotify.com/album/65e4QkrKbLnDK3uP9LYEdi"
+      },
+      "artists": [
+        {
+          "name": "Christian Lindquist",
+          "url": "https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216915,
+      "name": "Where Stars Disappear Or Die",
+      "url": "https://open.spotify.com/track/2crQ5jYMnwwmZ9M04Wh4H1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New music from Dominic Fike, NewJeans, Skrillex, Lil Tjay, Rauw Alejandro, FIFTY FIFTY, Taylor Swift and more!",
-  "num_followers": 4132683,
+  "num_followers": 4133120,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njg3ZmFlMjU2NGQ3NDJlMmMxNmZjYzMzOTE0Y2Q1NGRjYjRkMmRl",
+  "snapshot_id": "MCwwZDFlOTJhZTBkOGZlNzg5NWE1ODgzODg4YWM5MDI4YWFhYTg3YzI2",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -411,7 +411,7 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Heartless (feat. Tee Grizzley)",
+        "name": "Heartless",
         "url": "https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ"
       },
       "artists": [
@@ -425,7 +425,7 @@
         }
       ],
       "duration_ms": 166032,
-      "name": "Heartless (feat. Tee Grizzley)",
+      "name": "Heartless",
       "url": "https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur"
     },
     {
@@ -978,22 +978,6 @@
         {
           "name": "Alice Phoebe Lou",
           "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        },
-        {
-          "name": "Ziv Yamin",
-          "url": "https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8"
-        },
-        {
-          "name": "Daklis",
-          "url": "https://open.spotify.com/artist/7hAW5Zcwt9UWJkbiAfrHHv"
-        },
-        {
-          "name": "David Parry",
-          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
-        },
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
         }
       ],
       "duration_ms": 210329,
@@ -1755,7 +1739,7 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Hell Of A Ride / High In Brighton",
+        "name": "Hell Of A Ride",
         "url": "https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l"
       },
       "artists": [

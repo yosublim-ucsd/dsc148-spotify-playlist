@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,080 likes - 180 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,223 likes - 180 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Antihero](https://open.spotify.com/track/6foxdC9JnsAR2qCAYTVQij) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Antihero](https://open.spotify.com/album/3bz82Jb3mGlYeHuTs87b2R) | 2:55 |
 | 2 | [You'll Be In My Heart](https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 4:48 |
 | 3 | [dancing in the moonlight](https://open.spotify.com/track/1ZlN7b6imuKQUQa7ZoRmvk) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [dancing in the moonlight](https://open.spotify.com/album/5r9jGo8HPdSpDJRW7ofhSv) | 2:17 |
-| 4 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
+| 4 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
 | 5 | [Pieces Of U](https://open.spotify.com/track/464gT9Omrj2KAnQvchtVoS) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Pieces Of U](https://open.spotify.com/album/2SJC9QOnplYH3L416wPkf8) | 2:01 |
 | 6 | [cake by the ocean](https://open.spotify.com/track/3PSfK8uljFKaWpFmhkUKjk) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [cake by the ocean](https://open.spotify.com/album/2UjrbW783efsL76eSx9BlX) | 2:14 |
 | 7 | [Riptide](https://open.spotify.com/track/0V9DUIw34dXOZBJ6NdJs5R) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Chill Fruits Music](https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB) | [Lofi Fruits Music 2021](https://open.spotify.com/album/35DIb6j45YmbHAfyN7HgaG) | 1:40 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nNmLlb3JR2.md) - [plain]
 | 179 | [Sunny](https://open.spotify.com/track/1LG2brYleAjyAbOgYDAjG8) | [AMV](https://open.spotify.com/artist/7lkaZYDiy9cgckUDibxHsn) | [Sunny](https://open.spotify.com/album/1a8VE2Tf2qQoEXldyBBDJz) | 2:29 |
 | 180 | [Jimmy Cooks \- Lofi Cover](https://open.spotify.com/track/0QtpzHpNX7piC7zuMFEHEK) | [Covers Unplugged](https://open.spotify.com/artist/7nh5TZodhwFh0CkAIFDDxl), [Wild Issues](https://open.spotify.com/artist/1m3Su2QS1BPQuE4SdHjb2S) | [Lo\-Fi Rap Caviar, Vol\. 4](https://open.spotify.com/album/6d59AcN0nULql52ea9ViNJ) | 1:09 |
 
-Snapshot ID: `MCwxZDNmNTc3MzU2Y2NlMDQwOTVlOGJjM2UxYTIxYmYwMzkyNzM1ODY0`
+Snapshot ID: `MCxmZWQ1OTE2Njc1ZTAzNzQzZTFjNTE0ZjFiZDU4ZmJhYzg3YTQ1MThk`

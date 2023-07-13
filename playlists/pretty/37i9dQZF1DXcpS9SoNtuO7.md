@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,413 likes - 32 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,421 likes - 32 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 31 | [Iden Teitei Meltdown](https://open.spotify.com/track/3ChPJQvs0HvyNy7j3AbBzK) | [Enako](https://open.spotify.com/artist/23Sh4LxrCSK3Or7uEjZ9Vy), [Pmarusama](https://open.spotify.com/artist/7G6CzEvibsxpjfOIktMQEO) | [Iden Teitei Meltdown](https://open.spotify.com/album/2tCVHP4OBLBnz3bT7fz0G7) | 4:03 |
 | 32 | [メニメニマニマニ](https://open.spotify.com/track/7EvzUhU6zpdJxAsjNQZ1gN) | [高宮なすの\(CV:鳴海杏子\)](https://open.spotify.com/artist/4YUQrz8swYxgcc9dWV0nIG) | [メニメニマニマニ](https://open.spotify.com/album/0OflLmwcweeJ90j3qShjth) | 4:29 |
 
-Snapshot ID: `MCw4ODlhOTMxYzBiMjBkYzJjOGZiYjAwMzlkNmQwMGUzNjA4Zjg5ZDlh`
+Snapshot ID: `MCw1OGY0MWM0MTJkODMzY2UzY2Y5ZGVjMTZiN2NmY2Y4M2U4OGQ5Mjli`

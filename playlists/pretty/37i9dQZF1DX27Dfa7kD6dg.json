@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 21155,
+  "num_followers": 21173,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY5OGRmNzgwYTM1ODkyZDhiYWM5MmI3MmVmYjUyYjM0NjhkZmRk",
+  "snapshot_id": "MCw2ZWZmOGQyMDI5MWQxMmU5YjM0MDY3OGQ1Yjg1MGMzNWVkNjFkZjUx",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        }
-      ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "El Sonero Quel El Pueblo Prefiere",
         "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 300106,
       "name": "Lady Laura",
       "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 297373,
-      "name": "Un Verano en NY",
-      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "CON PERMISO DE MIS MAYORES",
         "url": "https://open.spotify.com/album/1rOnROZrwtjRlBNfU55BSm"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 245434,
       "name": "Ran Kan Kan",
       "url": "https://open.spotify.com/track/1igx29PgdkqLO2JMxW17Je"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 297373,
+      "name": "Un Verano en NY",
+      "url": "https://open.spotify.com/track/7paJ4Dsm2SWJvqRwpDnxrL"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "35th Anniversary- 35 Years Around the World",
-        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301600,
-      "name": "Carbonerito",
-      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "El Gigante del Teclado",
         "url": "https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp"
       },
@@ -1035,22 +1019,6 @@
       "duration_ms": 272066,
       "name": "La Hija De Lola",
       "url": "https://open.spotify.com/track/5xS8g8E2mPuIjCbxQj2Yx4"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Descargando",
-        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        }
-      ],
-      "duration_ms": 294013,
-      "name": "Hermano",
-      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1071,6 +1039,38 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Descargando",
+        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        }
+      ],
+      "duration_ms": 294013,
+      "name": "Hermano",
+      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "35th Anniversary- 35 Years Around the World",
+        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "Carbonerito",
+      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Dos Imagenes",
         "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 174106,
       "name": "Vacil\u00f3 Con Tumbao",
       "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Regresando al Guaguanc\u00f2",
-        "url": "https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX"
-      },
-      "artists": [
-        {
-          "name": "La Maxima 79",
-          "url": "https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "No Sirvo Pa' Queso",
-      "url": "https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1119,6 +1103,22 @@
       "duration_ms": 247998,
       "name": "Presidente Dante",
       "url": "https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Regresando al Guaguanc\u00f2",
+        "url": "https://open.spotify.com/album/6hu4s5s92lZdXscKK45aaX"
+      },
+      "artists": [
+        {
+          "name": "La Maxima 79",
+          "url": "https://open.spotify.com/artist/7AcdT1dXIJEStRkbKmwS94"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "No Sirvo Pa' Queso",
+      "url": "https://open.spotify.com/track/4Bzp72GCbS8tWfR5BT3HLa"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Sorpresa La Flauta",
-        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Harlow",
-          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Sorpresa La Flauta",
+        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Harlow",
+          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Live in Berlin",
-        "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
-      },
-      "artists": [
-        {
-          "name": "Vocal Sampling",
-          "url": "https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD"
-        }
-      ],
-      "duration_ms": 259800,
-      "name": "La Negra Tomasa",
-      "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Con Bajo Y Todo",
         "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 215214,
       "name": "Para Chango",
       "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Live in Berlin",
+        "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
+      },
+      "artists": [
+        {
+          "name": "Vocal Sampling",
+          "url": "https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "La Negra Tomasa",
+      "url": "https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Mambo Madness",
-        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez & His Orchestra",
-          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Mambo La Libertad",
-      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 489000,
       "name": "Y Yo Ganga",
       "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Mambo Madness",
+        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez & His Orchestra",
+          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Mambo La Libertad",
+      "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Yo Soy La Rumba",
-        "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
-      },
-      "artists": [
-        {
-          "name": "Machito & His Orchestra",
-          "url": "https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Tanga",
-      "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "The Best Of The Concord Years",
         "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 315986,
       "name": "Tokyo Blues",
       "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Yo Soy La Rumba",
+        "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
+      },
+      "artists": [
+        {
+          "name": "Machito & His Orchestra",
+          "url": "https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Tanga",
+      "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Instant Party",
-        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 346520,
-      "name": "Fiesta A La King",
-      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Sabor a Salsa",
         "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 220333,
       "name": "Pachito Eche",
       "url": "https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Instant Party",
+        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 346520,
+      "name": "Fiesta A La King",
+      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
     },
     {
       "added_at": "2023-03-17 00:52:56",

@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 168655,
+  "num_followers": 168759,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTM0ZjYxZGI5NjJkMGMyZDgwNDIxZjZlNjVmOWE1OTkzYjBiN2E4",
+  "snapshot_id": "MCxlNzg4NTUwM2VhMTRiZTg3MjA2MmFkMWRjOTRhN2I2NWFjMmE3M2E1",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "La Historia Contin\u00faa...Parte IV",
-        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Para M\u00ed",
         "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 211373,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "La Historia Contin\u00faa...Parte IV",
+        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
         "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
         "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 186826,
       "name": "Nada Es Igual",
       "url": "https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Se Va Muriendo Mi Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Abriendo Caminos",
-        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Necesito Una Compa\u00f1era",
         "url": "https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 242007,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Abriendo Caminos",
+        "url": "https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Por Eso...Gracias",
-        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 210733,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Por Eso...Gracias",
+        "url": "https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 210733,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Si Me Recuerdas",
-        "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Desamor y Despecho",
         "url": "https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 213080,
       "name": "Inv\u00e9ntame",
       "url": "https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Si Me Recuerdas",
+        "url": "https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD"
     },
     {
       "added_at": "2023-02-24 16:30:36",

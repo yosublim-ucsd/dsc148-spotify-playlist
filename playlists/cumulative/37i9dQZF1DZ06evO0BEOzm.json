@@ -946,7 +946,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 149703,
       "name": "Realer",
       "url": "https://open.spotify.com/track/3qVNNJ7f9RQeNR4iPIeS0c"
@@ -990,6 +990,24 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124802,
+      "name": "Running Up Freestyle",
+      "url": "https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK"
     },
     {
       "album": {

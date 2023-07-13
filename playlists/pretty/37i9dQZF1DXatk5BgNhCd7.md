@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Combinación de la Habana & Tefi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,857 likes - 49 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,917 likes - 49 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 10 | [No\_se\_ve.mp3](https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [No\_se\_ve.mp3](https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV) | 2:15 |
 | 11 | [Que Escándalo](https://open.spotify.com/track/7kgAm5XKXTmi9QV2bfIKb4) | [Ezequiel Llanos](https://open.spotify.com/artist/3l4qjCL1496zAgprejycLi), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Dimelo Ismael](https://open.spotify.com/artist/0L42E3i2czZnCU0BYWdkor) | [Que Escándalo](https://open.spotify.com/album/2u7fyjldU6wCuuDgRyi9n1) | 2:30 |
 | 12 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
-| 13 | [Que Vuelva \(15 Aniversario\)](https://open.spotify.com/track/1o9IFUBR5B0G9H620RVYbY) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Que Vuelva \(15 Aniversario\)](https://open.spotify.com/album/4YzryVB95ZhcWv4qhnd6YQ) | 3:57 |
+| 13 | [Que Vuelvas \(15 Aniversario\)](https://open.spotify.com/track/1o9IFUBR5B0G9H620RVYbY) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Que Vuelvas \(15 Aniversario\)](https://open.spotify.com/album/4YzryVB95ZhcWv4qhnd6YQ) | 3:57 |
 | 14 | [Mercurio](https://open.spotify.com/track/3mWhYnfllsRVaVeN50Y9pi) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Mercurio](https://open.spotify.com/album/7c91BpxJH9995mdqGUOyJV) | 3:08 |
 | 15 | [Ya No Vuelvas](https://open.spotify.com/track/61M54oymhQwSsEIy1uMwK0) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Session de Barrio 807](https://open.spotify.com/album/43JXWLTx0s8oNpnXV61mie) | 2:05 |
 | 16 | [Lo Que Me Duele](https://open.spotify.com/track/14Wzstk2qP0LCh4kbGX4vG) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Lo Que Me Duele](https://open.spotify.com/album/63vlKyBxHBWStZDu47LGvh) | 3:19 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 48 | [Me Emborrachare 2.0](https://open.spotify.com/track/6c8Gwt0ij9Rbvke8udngu2) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [Me Emborrachare 2.0](https://open.spotify.com/album/3ddXtm9b4eieMqoIR6xB8d) | 2:58 |
 | 49 | [Ella Baila Sola \- Bachata](https://open.spotify.com/track/4bHzVlcRel2OxVJ4uBZLME) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Ella Baila Sola](https://open.spotify.com/album/18o1cHOnQ9JcksXGXSeQmr) | 2:45 |
 
-Snapshot ID: `MCxjNmZmZmZlN2U4Y2MxZDllNzZjNTllMzljMzk1OGFkOGQxZjhkZWJh`
+Snapshot ID: `MCw4ZjUxOGI4NjVhODk4MzEyMDc5YmViNDdjZmM1ZGIwODYyMmZiYzNk`

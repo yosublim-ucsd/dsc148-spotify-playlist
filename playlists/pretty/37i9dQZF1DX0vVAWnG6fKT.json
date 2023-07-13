@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 135142,
+  "num_followers": 135232,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm",
+  "snapshot_id": "MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Gene Autry",
-        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Deep In the Heart of Texas",
-      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 177626,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Deep In the Heart of Texas",
+      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Together Again",
-        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
       },
       "artists": [
         {
-          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
-          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
         }
       ],
-      "duration_ms": 140280,
-      "name": "Ida Red",
-      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -531,6 +531,22 @@
       "duration_ms": 176973,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "duration_ms": 140280,
+      "name": "Ida Red",
+      "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
       },
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 196293,
       "name": "Old Shep",
       "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 152733,
-      "name": "Bouquet of Roses",
-      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Bouquet of Roses",
+      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 157733,
       "name": "Jingle Jangle Jingle",
       "url": "https://open.spotify.com/track/2aBoUu846J4ILDXmgc9tQ3"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Nine Pound Hammer",
-      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Mule Train",
-      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "16 Great Songs of the Old West",
         "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Mule Train",
+      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "Columbia Historic Edition",
         "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 208066,
       "name": "Blue Yodel No. 4",
       "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Anytime - Remastered",
-      "url": "https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -855,6 +839,22 @@
       "duration_ms": 161933,
       "name": "I Love You So Much It Hurts",
       "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Anytime - Remastered",
+      "url": "https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Country Hoedown",
-        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee King",
-          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Slowpoke",
-      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 135933,
       "name": "Divorce Me C.O.D.",
       "url": "https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Country Hoedown",
+        "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee King",
+          "url": "https://open.spotify.com/artist/43GB9K58iB2fIEFVt5ZSp2"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "Slowpoke",
+      "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
-      },
-      "artists": [
-        {
-          "name": "Little Jimmy Dickens",
-          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Take an Old Cold 'Tater (and Wait)",
-      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Bill Monroe",
         "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 178226,
       "name": "So, Round, So Firm, So Fully Packed",
       "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q"
+      },
+      "artists": [
+        {
+          "name": "Little Jimmy Dickens",
+          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Take an Old Cold 'Tater (and Wait)",
+      "url": "https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv"
     },
     {
       "added_at": "2023-01-02 21:50:32",

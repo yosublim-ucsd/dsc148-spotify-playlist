@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Turnpike Troubadours",
-  "num_followers": 409580,
+  "num_followers": 409690,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjZhMTMwYzNjODdhMjUyMTdiMDg3MDUyMjNiNzJmNjE3NjU3ZWYx",
+  "snapshot_id": "MCxkMzgxODFhMTAxOTYwMjdhYmZjOTA1MDY5OTM0YThiMTgzY2RiNTM5",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -307,8 +307,8 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Highway Boys",
-        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
+        "name": "From Austin",
+        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 220035,
-      "name": "Highway Boys",
-      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
+      "duration_ms": 207453,
+      "name": "From Austin",
+      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -423,8 +423,8 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "From Austin",
-        "url": "https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG"
+        "name": "Highway Boys",
+        "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 207453,
-      "name": "From Austin",
-      "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+      "duration_ms": 220035,
+      "name": "Highway Boys",
+      "url": "https://open.spotify.com/track/77OK2W45f7DEYgUEQs00PY"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "'Til I See You Again",
-        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+        "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
       "artists": [
         {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 211515,
-      "name": "'Til I See You Again",
-      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
+      "duration_ms": 182090,
+      "name": "Real Damn Good",
+      "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "The Highway Kind",
-        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
         }
       ],
-      "duration_ms": 182090,
-      "name": "Real Damn Good",
-      "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "This Is For You",
+        "url": "https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Neon You",
+      "url": "https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 167512,
       "name": "Where the Wildflowers Lay",
       "url": "https://open.spotify.com/track/6UGVVw3Jpck5k3IVeUWK0X"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "This Is For You",
-        "url": "https://open.spotify.com/album/3PVjlBT5pTSG4YSLsB9oa8"
-      },
-      "artists": [
-        {
-          "name": "Don Louis",
-          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Neon You",
-      "url": "https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Different Now",
-        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
+        "name": "Breaking News",
+        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 189009,
-      "name": "Different Now",
-      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
+      "duration_ms": 220234,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Breaking News",
-        "url": "https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
         }
       ],
-      "duration_ms": 220234,
-      "name": "Breaking News",
-      "url": "https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v"
+      "duration_ms": 285525,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60"
+        "name": "Different Now",
+        "url": "https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7"
       },
       "artists": [
         {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
         }
       ],
-      "duration_ms": 285525,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy"
+      "duration_ms": 189009,
+      "name": "Different Now",
+      "url": "https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "We Ain't The Only Ones",
-        "url": "https://open.spotify.com/album/2kQxMZAAEZlWdQBRb50qN0"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 204293,
-      "name": "We Ain't The Only Ones",
-      "url": "https://open.spotify.com/track/60cBV9G1mutufLZ9J3uIIt"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1335,18 +1331,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1415,18 +1411,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "We Ain't The Only Ones",
+        "url": "https://open.spotify.com/album/2kQxMZAAEZlWdQBRb50qN0"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+      "duration_ms": 204293,
+      "name": "We Ain't The Only Ones",
+      "url": "https://open.spotify.com/track/60cBV9G1mutufLZ9J3uIIt"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Tears the Size of Texas",
         "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 238177,
       "name": "Tears the Size of Texas",
       "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-07-07 04:01:00",

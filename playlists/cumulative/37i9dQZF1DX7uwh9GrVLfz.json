@@ -3476,10 +3476,28 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 203930,
       "name": "Life is",
       "url": "https://open.spotify.com/track/1TWyvuvElJ57xCpsFD9ngs"
+    },
+    {
+      "album": {
+        "name": "LAST PARADISE",
+        "url": "https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx"
+      },
+      "artists": [
+        {
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203930,
+      "name": "Life is",
+      "url": "https://open.spotify.com/track/7fwrQ99Av65pJVvpvqaW41"
     },
     {
       "album": {
@@ -8406,7 +8424,7 @@
     {
       "album": {
         "name": "LAST PARADISE",
-        "url": "https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd"
+        "url": "https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx"
       },
       "artists": [
         {
@@ -8417,6 +8435,24 @@
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 124118,
+      "name": "\u30b7\u30e3\u30dc\u30f3\u2f5f",
+      "url": "https://open.spotify.com/track/0NVyYeiACnW0lnRSCFVtXs"
+    },
+    {
+      "album": {
+        "name": "LAST PARADISE",
+        "url": "https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd"
+      },
+      "artists": [
+        {
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
       "duration_ms": 124118,
       "name": "\u30b7\u30e3\u30dc\u30f3\u2f5f",
       "url": "https://open.spotify.com/track/0Nj3EQQvqNcmJI04CQgIKH"

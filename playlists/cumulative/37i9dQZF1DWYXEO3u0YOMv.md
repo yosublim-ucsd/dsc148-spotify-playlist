@@ -4,7 +4,7 @@
 
 > 設立10周年を迎えた<a href="http://www.mappa.co.jp/">MAPPA</a>作品の音楽をひとつのプレイリストに。Listen to the songs from 30+ anime shows MAPPA has produced in the last decade of its history!
 
-152 songs - 9 hr 47 min
+154 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,9 +139,10 @@
 | [火炎](https://open.spotify.com/track/3xVCQGla5LLhrwqNS2FcHo) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [Fire \(Full Edition\)](https://open.spotify.com/album/74Ml5uN949WSHheLQxgaeB) | 3:35 | 2022-05-10 | 2022-10-03 |
 | [火炎](https://open.spotify.com/track/4k2GMy34pt5rQT9aVEzEwq) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [火炎\(Full Edition\)](https://open.spotify.com/album/6DdJGNawJYKpYq6A9hwcfp) | 3:35 | 2022-05-10 |  |
 | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/track/2byhNUJkS3z214Q9TXKZr0) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [炎ノ刻印\-DIVINE FLAME\-](https://open.spotify.com/album/07qWWiZQ6qvwPSYvgDHBvx) | 4:21 | 2022-05-10 |  |
+| [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 |  |
 | [紅蓮ノ月〜隠されし闇物語〜 \- JAM Project Ver\. \(Full Size.\)](https://open.spotify.com/track/4DotUtWNjhF0AuV96DrWll) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [紅蓮ノ月〜隠されし闇物語〜](https://open.spotify.com/album/2qJwreO0uy4IRbTPhBDtwU) | 4:20 | 2022-05-10 |  |
 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 | 2023-04-15 |  |
-| [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 | 2022-05-10 |  |
+| [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 | 2022-05-10 |  |
 | [舞い降りてきた雪](https://open.spotify.com/track/7Cs9L0W6KFmGxysUzNq2Vi) | [Mr Love: Queen's Choice](https://open.spotify.com/artist/73oPDy7wVxHmG1HPfg8z8M), [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [舞い降りてきた雪](https://open.spotify.com/album/6oGPwk7LIifPlTp2pyhHu9) | 4:19 | 2022-05-10 | 2022-07-29 |
 | [花紋](https://open.spotify.com/track/20YssuuSa8wXqutXk0Kxms) | [佐咲紗花](https://open.spotify.com/artist/0Wc27lcAwtL8QYONiLd4b1), [三狐神囃子 \(鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/6LYxX4EaaVoTb6sY9EobVw) | [花紋](https://open.spotify.com/album/4t6a6ILakR0UAfpHhG27ZT) | 4:24 | 2022-05-10 |  |
 | [花蓮](https://open.spotify.com/track/6P1GY6LwSocFSOXxjbU33m) | [三狐神囃子 \(大橋彩香・佐咲紗花・鵜殿麻由・佐藤依莉子\)](https://open.spotify.com/artist/31cuTX9Vkgpxyi4B7BQHYY) | [牙狼<GARO>黄金歌集Ⅲ 牙狼響](https://open.spotify.com/album/0oY7KpdmpKmkN0micdzy78) | 4:26 | 2022-05-10 |  |
@@ -158,6 +159,7 @@
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2023-01-17 |  |
 | [闇夜](https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [闇夜](https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp) | 3:49 | 2022-05-10 |  |
 | [雷火](https://open.spotify.com/track/2g62Wfma6elPx8ZFGrLVuU) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [雷火](https://open.spotify.com/album/3zuVERiGEAwQtkbPmAJh4W) | 3:45 | 2022-05-10 |  |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-13 |  |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-05-10 |  |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-10 |  |
 

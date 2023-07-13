@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. lauran hibberd
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,766 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,831 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [Easier](https://open.spotify.com/track/6p2CaYsLkNeXpqFhA1RJRA) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Easier](https://open.spotify.com/album/4PnhLX8zjgFP9PTGEe6eyS) | 3:00 |
 | 85 | [Sick Of This](https://open.spotify.com/track/2HCQNsYEhghKOW0Ti47QQ1) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Sick Of This](https://open.spotify.com/album/00KwLaA4RT15QJPBAEdaGJ) | 3:13 |
 
-Snapshot ID: `MCxiMzQzYzczNTdkZGRiNDVhZDFlMzNkNWU2MGFhMDAxMWUwNmM2ODNk`
+Snapshot ID: `MCxlNTNkOTY4MzgyMzg5YTZlNDdkMTgxMzhkMjdlOGVhYWViZWRkMmQ4`

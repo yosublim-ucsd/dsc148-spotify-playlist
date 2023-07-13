@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-835 songs - 1 day 19 hr 20 min
+836 songs - 1 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Add Nekem](https://open.spotify.com/track/4Y4C89YbMhZqpOfu4wcmOp) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Rossz Ember](https://open.spotify.com/album/0Hvlnpy8DMbkC0gPkkmJsh) | 2:52 | 2022-03-01 | 2022-03-03 |
 | [Add Tovább \- Hóban Ébred](https://open.spotify.com/track/0u9d3S4SvsWhyrAUSRQak9) | [Csondor Kata](https://open.spotify.com/artist/6bMCVNXzD05FAXAQTENiP9) | [Hóban Ébred..\. \(Az Ünnep Dalai\)](https://open.spotify.com/album/2ODRdmlfGMVOdl5ekka8RL) | 3:06 | 2022-12-25 | 2022-12-27 |
 | [Adieu](https://open.spotify.com/track/2BUX7RHIJfxfK6LxfZBHtU) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Adieu](https://open.spotify.com/album/7LOO7LJKYJ2TD1nJyx1WZp) | 3:39 | 2022-05-06 | 2022-05-15 |
-| [Afro Beat](https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 3:12 | 2023-03-02 |  |
+| [Afro Beat](https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 3:12 | 2023-03-02 | 2023-07-13 |
+| [Afro Beat](https://open.spotify.com/track/1lfErXcHIp6Ail8bFuONMF) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/44FAquiBnYU5AnSXSsz4No) | 3:12 | 2023-07-12 |  |
 | [Aha\-Aha](https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Aha\-Aha](https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U) | 2:12 | 2022-05-20 | 2023-05-19 |
 | [aight](https://open.spotify.com/track/6aBPkT8tZnZZ6ILg67OuAh) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [aight](https://open.spotify.com/album/1C7pFblVVUtJ3fXFrpmscx) | 2:06 | 2021-04-18 | 2021-07-01 |
 | [aight](https://open.spotify.com/track/37kI8bPlN5iN37kSFTyKCY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:07 | 2021-07-01 | 2021-11-10 |
@@ -242,7 +243,7 @@
 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 | 2022-05-14 | 2022-05-17 |
 | [Fekete Bárány](https://open.spotify.com/track/4QwbxaTZ6E6dfgHArKHzMb) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Fekete Bárány](https://open.spotify.com/album/3LFPqOlOc3iV5tzUkPG3tP) | 3:12 | 2022-08-11 | 2023-02-01 |
 | [FELDOBOM A KÖVET](https://open.spotify.com/track/55pp0M1iFTL6sPPLTuD4Rf) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [FELDOBOM A KÖVET](https://open.spotify.com/album/1YqKHHgai670hZDWDzMBx5) | 5:11 | 2023-05-16 | 2023-06-03 |
-| [FELDOBOM A KÖVET](https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 5:11 | 2023-06-02 |  |
+| [FELDOBOM A KÖVET](https://open.spotify.com/track/69tDcXG8O8BZ8jTTzySi4Q) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [IV](https://open.spotify.com/album/0nPDuXV2pZFJbBcI7VNCw3) | 5:11 | 2023-06-02 | 2023-07-13 |
 | [Felednéd](https://open.spotify.com/track/3Mls3f2j9xGRqRRsoKA0Ef) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 3:01 | 2022-05-21 | 2022-09-03 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-07 | 2022-12-29 |
 | [Feminist](https://open.spotify.com/track/02NQsdQD0bz7N8DBp7lOwE) | [ibbigang](https://open.spotify.com/artist/2ravlrMiNARUWPDDnlUIyy), [gyuris](https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [PP2](https://open.spotify.com/album/6iziIXiyDFW5VSngLMRwWT) | 2:24 | 2022-10-30 | 2022-11-17 |
@@ -270,7 +271,7 @@
 | [Függő](https://open.spotify.com/track/2WO6S8AQfpwB7QVqvaOnDP) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [Függő](https://open.spotify.com/album/4sjnVOB3UFMS1WiZkKOgB6) | 3:20 | 2023-05-06 | 2023-06-12 |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2022-09-30 | 2022-10-04 |
 | [Gasoline](https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:32 | 2022-01-08 | 2022-01-13 |
-| [Gettó csirke](https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gettó csirke](https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4) | 2:16 | 2022-07-26 | 2023-06-24 |
+| [Gettó csirke](https://open.spotify.com/track/1PLekMr5mC9sf0n37TWv5G) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gettó csirke](https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4) | 2:16 | 2022-07-26 |  |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2022-08-13 | 2022-08-15 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2023-01-01 | 2023-01-03 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |

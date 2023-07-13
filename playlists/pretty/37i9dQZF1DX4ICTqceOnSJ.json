@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422204,
+  "num_followers": 422206,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzY4MGY5MjA2ZjM3MmNjNWEwZTEyMTJmNGM5NjgwMDhjZjBjYzBk",
+  "snapshot_id": "MCxiY2EwOTE0ZmI4NGM4ZjMyYjBhNjU0MjBmYTcxNDA4MGY5ZGYxMDFh",
   "tracks": [
+    {
+      "added_at": "2023-07-12 07:00:00",
+      "album": {
+        "name": "lo que no es sincero hoy",
+        "url": "https://open.spotify.com/album/5btwrK4Yktkg9xfhMReaD2"
+      },
+      "artists": [
+        {
+          "name": "El Alguacil",
+          "url": "https://open.spotify.com/artist/1vw7wq0QVG1i1kYEImW7xa"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "lo que no es sincero hoy",
+      "url": "https://open.spotify.com/track/5e3fTt5d30qgNspCWeyxtY"
+    },
     {
       "added_at": "2023-07-11 16:40:18",
       "album": {
@@ -875,22 +891,6 @@
       "duration_ms": 188507,
       "name": "Sed",
       "url": "https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z"
-    },
-    {
-      "added_at": "2023-06-25 03:00:00",
-      "album": {
-        "name": "Rayos X",
-        "url": "https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb"
-      },
-      "artists": [
-        {
-          "name": "Connie Isla",
-          "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Rayos X",
-      "url": "https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

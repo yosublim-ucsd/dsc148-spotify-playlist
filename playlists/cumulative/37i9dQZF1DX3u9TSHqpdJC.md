@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Savana Santos
+> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Bentley Robles
 
-3,050 songs - 6 day 11 hr 22 min
+3,056 songs - 6 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Between The Lines](https://open.spotify.com/track/55al6E0C7qaYRmTQM1GyhQ) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Between The Lines](https://open.spotify.com/album/4SGn2OkOQyeHI73obluwZv) | 4:07 | 2022-02-23 | 2022-03-24 |
 | [bev hills](https://open.spotify.com/track/6Z6lw4di2crppmBAP1GoKm) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bev hills](https://open.spotify.com/album/3mGakWpiAOq5aWhRC3MkYl) | 2:11 | 2020-10-17 | 2021-01-15 |
 | [Bev Hillz](https://open.spotify.com/track/2a8yWRNNIiCKgrilP0wjq5) | [Keni](https://open.spotify.com/artist/4sAlHma1cIiZvdcFwjrNYz) | [Bev Hillz](https://open.spotify.com/album/0wx0oFXcLcRH3mMQBnd7CB) | 3:04 | 2022-06-08 | 2022-07-28 |
+| [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 | 2023-07-12 |  |
 | [Big](https://open.spotify.com/track/2LXDBnBlnUHUtjnZWwWTEu) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Big](https://open.spotify.com/album/5cno0vHQd5PdLkMWikCtJs) | 2:32 | 2021-02-17 | 2021-03-18 |
 | [Big Blue Eyes](https://open.spotify.com/track/1Cox5kxqscSo0mkThhrPjr) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Big Blue Eyes](https://open.spotify.com/album/5XTebl7irP76lp52clZb0l) | 2:55 | 2022-06-29 | 2022-07-28 |
 | [Big City](https://open.spotify.com/track/71yvYjIXolclpnJjNsLLrb) | [Hugrún](https://open.spotify.com/artist/3wlMGf5fwUdSkxdjfiqcUo) | [Post\-Apocalyptic Love Songs](https://open.spotify.com/album/0WeVR0ZlWPylOMOo17x5EG) | 3:20 | 2022-07-27 | 2022-08-25 |
@@ -585,6 +586,7 @@
 | [Cri](https://open.spotify.com/track/4TqvcF4FJFcozwuF1QlVFn) | [Paige Kennedy](https://open.spotify.com/artist/0wgBKkAmvsMnlgsDr5n63R) | [4 Degrees](https://open.spotify.com/album/7mVUPAhS96CdLrmVViaGFk) | 2:55 | 2022-01-12 | 2022-02-24 |
 | [Crime Of Commitment](https://open.spotify.com/track/2CSOf58TcY3PA6tGjmm0t0) | [Nolä](https://open.spotify.com/artist/0cIFP4sdb952xIX2IqGiT5) | [Crime Of Commitment](https://open.spotify.com/album/6VE5AQvWZ6UjkMpo6IZ9yK) | 2:47 | 2021-06-18 | 2021-08-05 |
 | [Crime of the Century](https://open.spotify.com/track/6VLrRwqYS9tHYRdWdBlMAL) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Crime of the Century](https://open.spotify.com/album/3KFAfbgxPVWzvvENkeFxOv) | 2:49 | 2022-03-16 | 2022-04-28 |
+| [CRIMINAL](https://open.spotify.com/track/3gj7TmJVTjqVlO68IFc5BR) | [Khya](https://open.spotify.com/artist/3PB3jNDI2PphEFIyNFqczr) | [CRIMINAL](https://open.spotify.com/album/2u0O3AlDVxi93ZssURm4E5) | 3:32 | 2023-07-12 |  |
 | [Crooked Crown](https://open.spotify.com/track/0ot9Z6Y5zGZW5iOgkDNulq) | [Nathan Achilles](https://open.spotify.com/artist/6mnJ7JH7VyMMEaXOD8Cnmj) | [Crooked Crown](https://open.spotify.com/album/5nWsiOHNUJll7IwbZRegqz) | 4:33 | 2020-10-13\* | 2020-10-29 |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/2Zrmp1DHBdzm2zNk9rrQtQ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5Jrt9LhQqar39j3C0ORmSA) | 2:48 | 2021-12-01 | 2022-01-13 |
 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/45tm9TeTgbyLK0G12EgjXo) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/43NXcNeR8NkbchRo8dvXNb) | 2:48 | 2021-09-02 | 2021-11-11 |
@@ -1224,6 +1226,7 @@
 | [Honeysuckle](https://open.spotify.com/track/4157AcwhNQxFq1njFVx1eR) | [Austin Ward](https://open.spotify.com/artist/3iQH8Wnh2zRBvZEdoV2aHz) | [Side A](https://open.spotify.com/album/3sdLHcwdGfdgR1HwEbIVht) | 4:46 | 2020-10-22 | 2020-11-18 |
 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 | 2020-10-29 | 2022-01-13 |
 | [Hope It Lands](https://open.spotify.com/track/4OIxYAE4ITMbeYHhkXk5AX) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Hope It Lands](https://open.spotify.com/album/7JG5O2prtNIGptS42KmiFa) | 3:55 | 2021-07-16 | 2021-07-22 |
+| [HOPE U CRY](https://open.spotify.com/track/7aAdENPSgCLi9QBldQoep6) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [HOPE U CRY](https://open.spotify.com/album/6tyR9BZ9cpjVuLtIs6e2Ku) | 3:24 | 2023-07-12 |  |
 | [Hot in Miami](https://open.spotify.com/track/3Vr5p5XRkk7GHdjdmv8ynT) | [LAW](https://open.spotify.com/artist/2peoqu6iayFPQfiGkc9MsI) | [Hot in Miami](https://open.spotify.com/album/5maKxLdX4nf3NoC7aZmBGm) | 2:21 | 2020-10-13\* | 2020-11-12 |
 | [Hot In The Valley](https://open.spotify.com/track/7LWEJeL3lCweJUsXCufqcX) | [Julianne Hope](https://open.spotify.com/artist/2ToMcwd6c1EfzUi9LMyNSP) | [Hot In The Valley](https://open.spotify.com/album/5zcjN046WwEwgEq6oCX2wA) | 2:43 | 2020-11-05 | 2020-12-08 |
 | [Hotel Lobby](https://open.spotify.com/track/6iDOz3Eiq0LucNf2eHKoxt) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t), [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Together Alone](https://open.spotify.com/album/1sPejSJ9oRQu72BBEmLjZo) | 3:15 | 2021-07-02 | 2021-09-16 |
@@ -2293,6 +2296,7 @@
 | [Say You're In Love](https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Say You're In Love](https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL) | 4:00 | 2021-09-30 | 2022-01-13 |
 | [Scared of Getting What I Want](https://open.spotify.com/track/5BOysgMCvAHZajUaZy23Jm) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Scared of Getting What I Want](https://open.spotify.com/album/1eLiud6IlCM34WQM0s1ozp) | 2:46 | 2022-05-25 | 2022-07-21 |
 | [sea u n tea](https://open.spotify.com/track/3O582rGV8pd7pWKkmSm4bc) | [priestess](https://open.spotify.com/artist/3JDhZBUZGHTTc4Z6B1NzNj) | [sea u n tea](https://open.spotify.com/album/14kyx1y0yhOWqFfsNqWLKh) | 3:27 | 2022-04-13 | 2022-05-12 |
+| [Seasons](https://open.spotify.com/track/3KSZv9pmNcYyh6HDgYFBzu) | [Magna](https://open.spotify.com/artist/1pOWb7iXvk6ICKXwG7KL7P) | [Seasons](https://open.spotify.com/album/5xBHQkM5oii0f9cq7BoXzj) | 2:48 | 2023-07-12 |  |
 | [Seasons](https://open.spotify.com/track/4C4HQvKybvDoqg57TH4Ewk) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Seasons](https://open.spotify.com/album/1aHG0SOirWKX3R2mUNXfrt) | 2:51 | 2020-10-13\* | 2021-01-15 |
 | [Second Heartbeat \(Movin' On\)](https://open.spotify.com/track/5OGwAS9t9Zm7MK9ZK3bbbu) | [Samuel Mancini](https://open.spotify.com/artist/228S2X3CoyZl9klibKOTJt) | [Second Heartbeat \(Movin' On\)](https://open.spotify.com/album/62yV0NxefqhA4uTPisEIaP) | 2:39 | 2021-10-14 | 2021-11-11 |
 | [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 | 2021-10-28 | 2021-12-01 |
@@ -2393,6 +2397,7 @@
 | [Slow Motion](https://open.spotify.com/track/5j3Ipgq1HyrjrYbvTg6Jhc) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Slow Motion](https://open.spotify.com/album/52KR7xjSGks9TH2UkbOaFU) | 3:45 | 2021-02-04 | 2021-03-06 |
 | [Slowly](https://open.spotify.com/track/332lX69mn8LnOKGgpEeM61) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo) | [Slowly](https://open.spotify.com/album/5h4UNKn7eS5NhTgb0TwpCt) | 3:28 | 2021-10-07 | 2021-12-01 |
 | [SLUG SLUG SLUG](https://open.spotify.com/track/7IFqcJvqi9uf2GX8RxuZJC) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [SLUG SLUG SLUG](https://open.spotify.com/album/3eo0sE7mor2Lzkz7M9xZTF) | 2:11 | 2020-10-13\* | 2020-10-29 |
+| [Sly](https://open.spotify.com/track/7G0zhkkOduzMy5X4Re3743) | [Saibh Skelly](https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq) | [Sly](https://open.spotify.com/album/2fMsbU2mZHsA2kCwYQC9UA) | 2:48 | 2023-07-12 |  |
 | [Small Doses](https://open.spotify.com/track/3U1zgAed3FGsfb4bE2GOtn) | [Camille](https://open.spotify.com/artist/2X1AUAAyXLbTxQGfnvsNL6) | [Small Doses](https://open.spotify.com/album/32dtZ5mPoCxJZRaSBmihPU) | 2:48 | 2023-02-08 | 2023-03-23 |
 | [Small Talk](https://open.spotify.com/track/6ooMgHFDY9L67Wo2FQf62u) | [Soda Blonde](https://open.spotify.com/artist/665rcluWn9OCTGowMHNdS3) | [Small Talk](https://open.spotify.com/album/0n1GMdYHbiAwRU17H8rLRg) | 4:38 | 2021-04-01 | 2021-05-06 |
 | [Small Talks](https://open.spotify.com/track/5hrmGj3Tk3OS1TdJKwgXQo) | [Nightcars](https://open.spotify.com/artist/6tLxozROfaiZMoq2AL56d4) | [Small Talks](https://open.spotify.com/album/1tIL0phZRZlPUwYt3AoeCF) | 2:47 | 2023-04-26 |  |
@@ -2885,6 +2890,7 @@
 | [Waves](https://open.spotify.com/track/4YMSk1mVIn9R6OBhXy8EXg) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Waves](https://open.spotify.com/album/3GihWBWJFiGg8mDbgapuPg) | 2:46 | 2022-03-16 | 2022-04-28 |
 | [Wavey](https://open.spotify.com/track/5060mzQmUCgSgnq2O3LfYm) | [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt) | [Wavey](https://open.spotify.com/album/6yHwrRO0sZu1ZYaFfyKlNZ) | 3:22 | 2020-10-13\* | 2020-10-29 |
 | [Way Out](https://open.spotify.com/track/7Mne5Z9Xi6olZCkveX8KWn) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [Way Out](https://open.spotify.com/album/2gJEPcCWkTEUp3jX4HiTX1) | 3:36 | 2022-11-09 | 2023-02-09 |
+| [Way Out](https://open.spotify.com/track/7DpgZ3lHeulnpPPoSSLkqt) | [Nicolina](https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb) | [Way Out](https://open.spotify.com/album/3EEBiBdTon8zRDcWI30LPo) | 3:31 | 2023-07-12 |  |
 | [Way Too Long](https://open.spotify.com/track/1jSyduKn3DcvQOb8ZbKo8B) | [Health Club](https://open.spotify.com/artist/6JeJOgjsqpuq4ZY02Jzlua), [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Way Too Long](https://open.spotify.com/album/6oxvuZq6P9eXU2vsd2fESh) | 3:29 | 2020-10-13\* | 2020-12-08 |
 | [wayside](https://open.spotify.com/track/4aAieGm97YSnOvwiXP2Ddo) | [jackson lee morgan](https://open.spotify.com/artist/7B0upFhefvU2PuUCJBXBCz) | [wayside](https://open.spotify.com/album/2KF0vzY1mLhoUePUhC4P5f) | 3:55 | 2021-03-06 | 2021-04-01 |
 | [WDWG](https://open.spotify.com/track/5TmYNva5BaHcQjyxtOsfV5) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [WDWG](https://open.spotify.com/album/74r4ohqUI6ISrscnFIPdPm) | 3:14 | 2021-04-15 | 2021-05-13 |

@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2631892,
+  "num_followers": 2632091,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjZjYWNmMzhhNDcwOWIxMGUyOTA4NWE3ZmVkMWU2Y2Y1ZTJlNmYz",
+  "snapshot_id": "MCxlYmE3Nzc1YTgzZDBhZjM2ZTJlNTFmMDM3NjhhOWVkYjgyMTZiYjE2",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 300106,
       "name": "The Lady in My Life",
       "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
     },
     {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "The Deele: Greatest Hits",
+        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
+      },
+      "artists": [
+        {
+          "name": "The Deele",
+          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Two Occasions",
+      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
+    },
+    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "A Day in the Life",
@@ -291,22 +307,6 @@
       "duration_ms": 276013,
       "name": "Spend My Life With You",
       "url": "https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "The Deele: Greatest Hits",
-        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
-      },
-      "artists": [
-        {
-          "name": "The Deele",
-          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Two Occasions",
-      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -421,6 +421,22 @@
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
+    },
+    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "The Boy Is Mine",
@@ -451,22 +467,6 @@
       "duration_ms": 272560,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
         "name": "The Revival",
         "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 290933,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -675,22 +675,6 @@
       "duration_ms": 229053,
       "name": "All I Do Is Think of You",
       "url": "https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 384666,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -777,6 +761,22 @@
       "url": "https://open.spotify.com/track/2gQ3lDcFYa3yFOkaw8PtuO"
     },
     {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 384666,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2voXNGgRrosxCJA6foTVau"
+    },
+    {
       "added_at": "2023-02-02 23:04:07",
       "album": {
         "name": "Original Musiquarium",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
+      "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Forever My Lady",
-        "url": "https://open.spotify.com/album/2u41wsU4YVTbtOTCapKLe7"
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
       "artists": [
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
         }
       ],
-      "duration_ms": 312040,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0JukF7Yf5qF10ntu6lpJ5I"
+      "duration_ms": 377106,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
     }
   ],
   "unique_name": "Love Deluxe",

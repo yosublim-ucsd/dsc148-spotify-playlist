@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 76071,
+  "num_followers": 76076,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTE4NTdhMzYxZTk4MTE0Yzk4NWQ2Y2RiZTM2MDhhOGNmMWI5ZDQ5",
+  "snapshot_id": "MCw3OTY2ZGQ3NzNkOWZkMzMyY2U3ZGU5NDA3Njk2MzE3MmQ2ZjM1NTQ2",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "STRUT",
+        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 117727,
+      "name": "STRUT",
+      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "STRUT",
-        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 117727,
-      "name": "STRUT",
-      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Dolls",
-        "url": "https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 132793,
-      "name": "Dolls",
-      "url": "https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Dolls",
+        "url": "https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 132793,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "If I Can\u2019t Have Love, I Want Power",
-        "url": "https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 176413,
-      "name": "I am not a woman, I'm a god",
-      "url": "https://open.spotify.com/track/3XKjZcgNYtvCmBpE1nX7Wn"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "If I Can\u2019t Have Love, I Want Power",
+        "url": "https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 176413,
+      "name": "I am not a woman, I'm a god",
+      "url": "https://open.spotify.com/track/3XKjZcgNYtvCmBpE1nX7Wn"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -623,6 +623,26 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 145103,
+      "name": "Love It When You Hate Me (feat. blackbear)",
+      "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 155260,
       "name": "F U Anthem",
       "url": "https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 145103,
-      "name": "Love It When You Hate Me (feat. blackbear)",
-      "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Serpentina",
-        "url": "https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN"
-      },
-      "artists": [
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 232758,
-      "name": "Holding Back",
-      "url": "https://open.spotify.com/track/0X6hQ8VqX1bKNn5eyT9sNF"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
+        "name": "VOLUME I",
+        "url": "https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 180196,
+      "name": "HUSHH",
+      "url": "https://open.spotify.com/track/0K4pg20qcHoN8A1eWbwiOj"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
         "name": "Panic Attacks in Paradise / Maggots",
         "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "VOLUME I",
-        "url": "https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO"
+        "name": "Serpentina",
+        "url": "https://open.spotify.com/album/1Y9tVqcZW0ANQk7EFhy4TN"
       },
       "artists": [
         {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
         }
       ],
-      "duration_ms": 180196,
-      "name": "HUSHH",
-      "url": "https://open.spotify.com/track/0K4pg20qcHoN8A1eWbwiOj"
+      "duration_ms": 232758,
+      "name": "Holding Back",
+      "url": "https://open.spotify.com/track/0X6hQ8VqX1bKNn5eyT9sNF"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1139,22 +1139,18 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
       },
       "artists": [
         {
-          "name": "Mia Rodriguez",
-          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 188442,
-      "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW"
+      "duration_ms": 140880,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1187,6 +1183,26 @@
       "duration_ms": 186902,
       "name": "please put me in a medically induced coma",
       "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/3fuXDz3sxWe8k9Ny9iqB0O"
+      },
+      "artists": [
+        {
+          "name": "Mia Rodriguez",
+          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 188442,
+      "name": "Billion Dollar Bitch (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/2ERxhNVMT1Fd5fNyX6CIcW"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1267,22 +1283,6 @@
       "duration_ms": 192862,
       "name": "The Saint And The Sinner",
       "url": "https://open.spotify.com/track/0NglzykMdrtMzNzA6HuDyN"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A"
     },
     {
       "added_at": "2022-11-15 00:54:21",

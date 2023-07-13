@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف :حاتم العراقي
 
-239 songs - 13 hr 57 min
+240 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Nar](https://open.spotify.com/track/1KFRIHZppFpLIQXhyVjniO) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Nar](https://open.spotify.com/album/2Ls4sAGfO30G9Tuhsu3HKI) | 4:28 | 2022-06-08 | 2023-02-01 |
 | [Nareen](https://open.spotify.com/track/3pBjDopdAqXsLGdnUxkbzC) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Nareen](https://open.spotify.com/album/7IHpkI6UerJGlcLK0uII5e) | 3:32 | 2022-03-18 | 2022-07-20 |
 | [Nazel](https://open.spotify.com/track/6SEzeBRGe7ogNQixZzebDp) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu), [Moe](https://open.spotify.com/artist/4s03DfC6cLxCYirblvaKlO) | [Nazel](https://open.spotify.com/album/4Zyp8rzt5VCSyO7cz066QI) | 3:46 | 2022-05-13 | 2022-11-21 |
+| [Nebqa Sawa](https://open.spotify.com/track/5kzBFesuyoOY3XGlNpdqrB) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Nebqa Sawa](https://open.spotify.com/album/6zENml6NHJR1O93uc8Ya8J) | 3:29 | 2023-07-12 |  |
 | [Nekser El Khater](https://open.spotify.com/track/2vnApSgg3vhyzjbcxcww2h) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Nekser El Khater](https://open.spotify.com/album/1Hy6wVNw1CHqgvm0BKKfjc) | 3:04 | 2023-03-09 |  |
 | [Orsena Alyoum](https://open.spotify.com/track/0hQHz5CddvtQ3QQ9AxADjb) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Orsena Alyoum](https://open.spotify.com/album/5qMnnGDZzHpyyY2ti8YfWq) | 3:18 | 2023-05-05 |  |
 | [Ouf Youmah](https://open.spotify.com/track/0Oc9MU2mEItreIATvifcbc) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Ouf Youmah](https://open.spotify.com/album/6xnkSLR4OMgc3cKyvezA6L) | 2:04 | 2021-12-23 | 2022-01-06 |
@@ -206,7 +207,7 @@
 | [Tebee She Besoraa](https://open.spotify.com/track/6pAQGBvrQ44mrpAwKmvaNE) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Tebee She Besoraa](https://open.spotify.com/album/62UsjzxtWjP2U3dKhPUVKn) | 3:12 | 2021-12-23 | 2022-01-22 |
 | [Tejbrni](https://open.spotify.com/track/6GtORpXVbiyLiUBFkRkH4P) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Tejbrni](https://open.spotify.com/album/3QU4bV2dxK3F4lyIINpWDy) | 3:55 | 2023-04-22 |  |
 | [Tektbli W Aktblk](https://open.spotify.com/track/3WA0CwoDzefz4psnqrnM1I) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Tektbli W Aktblk](https://open.spotify.com/album/0vcGkTrQqdI2Zdb6PaJGyw) | 3:36 | 2022-06-03 | 2023-01-11 |
-| [Teqharni](https://open.spotify.com/track/4h9CNuscmTV86HN8tSHvqL) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Teqharni](https://open.spotify.com/album/4uFC4ZwPpCvWn6N1g4CNk9) | 3:32 | 2023-01-31 |  |
+| [Teqharni](https://open.spotify.com/track/4h9CNuscmTV86HN8tSHvqL) | [Habeeb Ali](https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj) | [Teqharni](https://open.spotify.com/album/4uFC4ZwPpCvWn6N1g4CNk9) | 3:32 | 2023-01-31 | 2023-07-13 |
 | [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 | 2022-07-04 | 2023-04-23 |
 | [Thawab Al Marajil](https://open.spotify.com/track/562C7AOXcdWOSbjKosv0Jy) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Thawab Al Marajil](https://open.spotify.com/album/336eJsYiToritUo974G0wr) | 2:25 | 2022-10-10 | 2023-05-05 |
 | [Tjy](https://open.spotify.com/track/0MUtxXORQKtmG4uV2v7hJ0) | [Waleed Al Aasal](https://open.spotify.com/artist/6kTNe99aqGfMsQDJjvpd7g), [Oras Sattar](https://open.spotify.com/artist/7CZtgfwlF64ys2ilQfhrkT) | [Tjy](https://open.spotify.com/album/0Dn0iMxW58HAEnmxXPG64q) | 2:52 | 2022-11-03 | 2023-05-23 |

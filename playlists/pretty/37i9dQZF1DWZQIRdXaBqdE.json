@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 366318,
+  "num_followers": 366506,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWJhZjU1MWRhMmMxODhhODA0OWVkMjAwM2M1ODZkMjg2ZTQwN2U0",
+  "snapshot_id": "MCw4YmY5ZDE4Mjc2MGMxYjk1NDAwNGM5ZjQ1NjJjMmJkZGQwMjI0ODVj",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Won't Be Blue Anymore",
+        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+      },
+      "artists": [
+        {
+          "name": "Dan Seals",
+          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
+        },
+        {
+          "name": "Marie Osmond",
+          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+        }
+      ],
+      "duration_ms": 236626,
+      "name": "Meet Me In Montana",
+      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Sentimentally Yours",
         "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
@@ -1035,22 +1055,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Won't Be Blue Anymore",
-        "url": "https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
       },
       "artists": [
         {
-          "name": "Dan Seals",
-          "url": "https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi"
-        },
-        {
-          "name": "Marie Osmond",
-          "url": "https://open.spotify.com/artist/3ijY78RxOagYo8FOgSEkWj"
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
         }
       ],
-      "duration_ms": 236626,
-      "name": "Meet Me In Montana",
-      "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+      "duration_ms": 186293,
+      "name": "I'm the Only Hell (Mama Ever Raised)",
+      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1067,22 +1083,6 @@
       "duration_ms": 271160,
       "name": "I Think I'll Just Stay Here And Drink",
       "url": "https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "I'm the Only Hell (Mama Ever Raised)",
-      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "duration_ms": 143306,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "The Family's Fine, But This One's All Mine!",
         "url": "https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "All-Time Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
       },
       "artists": [
         {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
         }
       ],
-      "duration_ms": 143306,
-      "name": "Act Naturally",
-      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+      "duration_ms": 146840,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1279,42 +1295,6 @@
       "duration_ms": 200640,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/5pdKPY4O9CHuzDDp557j4N"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "The Complete Capitol Hits Of Faron Young",
-        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
-      },
-      "artists": [
-        {
-          "name": "Faron Young",
-          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
-        }
-      ],
-      "duration_ms": 146840,
-      "name": "Hello Walls",
-      "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "Walking the Line",
-        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "Pancho and Lefty",
-      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1383,6 +1363,46 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Walking the Line",
+        "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 286066,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Very Best Of David Frizzell & Shelly West",
+        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
+      },
+      "artists": [
+        {
+          "name": "David Frizzell",
+          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
+        },
+        {
+          "name": "Shelly West",
+          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "You're The Reason God Made Oklahoma",
+      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 142893,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/2kfKzsVOdfeh778FtuT5bo"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "The Very Best Of David Frizzell & Shelly West",
-        "url": "https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI"
-      },
-      "artists": [
-        {
-          "name": "David Frizzell",
-          "url": "https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q"
-        },
-        {
-          "name": "Shelly West",
-          "url": "https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "You're The Reason God Made Oklahoma",
-      "url": "https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Essential Tammy Wynette",
-        "url": "https://open.spotify.com/album/0q0llpTYCmEoe5bBQ367Eu"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 175440,
-      "name": "D-I-V-O-R-C-E",
-      "url": "https://open.spotify.com/track/4JPEuPsDG3nNJMAvvQ2Rr3"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Just Good Ol' Boys",
         "url": "https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 158720,
       "name": "Just Good Ol' Boys",
       "url": "https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Essential Tammy Wynette",
+        "url": "https://open.spotify.com/album/0q0llpTYCmEoe5bBQ367Eu"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 175440,
+      "name": "D-I-V-O-R-C-E",
+      "url": "https://open.spotify.com/track/4JPEuPsDG3nNJMAvvQ2Rr3"
     },
     {
       "added_at": "2022-05-06 19:37:58",

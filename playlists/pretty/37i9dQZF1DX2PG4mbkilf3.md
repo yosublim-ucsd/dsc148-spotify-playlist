@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with JON VINYL.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,621 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,668 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 | 100 | [RN Interlude](https://open.spotify.com/track/2neaD0EL4EqsWyLCefrytF) | [July](https://open.spotify.com/artist/31gFvqSxh2pAlou6w8iOc5) | [RN Interlude](https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP) | 2:26 |
 
-Snapshot ID: `MCw4ZTM4Y2UxYzg0NGVjOTY4NzczZjY3MTk3ZDNhODg2Y2NlYmY4NzRk`
+Snapshot ID: `MCw3YzRhZjc5ZDkwY2RjZjM1ODJjZWIwNDMzYTVkZjBlOTJhMTNhMDQy`

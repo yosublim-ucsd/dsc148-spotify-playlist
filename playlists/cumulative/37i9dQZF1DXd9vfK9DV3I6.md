@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-254 songs - 18 hr 45 min
+255 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Tawada \- Saint Evo Remix](https://open.spotify.com/track/0cGExArMSYGaEE41Gu9WAO) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp), [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Anas Chlih](https://open.spotify.com/artist/0ezd2sTG5nyJdtHFzbdbZV), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Tawada](https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M) | 7:15 | 2023-04-28 |  |
 | [The Calling](https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o) | [Tyrvnt](https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J) | [The Calling](https://open.spotify.com/album/7KtI3AXJxhKdcHaNYJFndy) | 4:34 | 2021-12-16 | 2023-01-06 |
 | [The Clarinetto](https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771) | [Lele Cecchini](https://open.spotify.com/artist/2lvhSvoriYrwIlGJMTwj9E), [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q) | [The Clarinetto](https://open.spotify.com/album/635atptPBSgJZjOnYtcssp) | 4:43 | 2022-06-23 | 2023-03-18 |
-| [The Fire](https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD) | [The Fire](https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ) | 2:56 | 2020-10-18\* |  |
+| [The Fire](https://open.spotify.com/track/2YJNrFuG3LfjQQz8vodNtz) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1), [Behmer](https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9), [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD) | [The Fire](https://open.spotify.com/album/4GUph9nDll1opaq0SnxgBZ) | 2:56 | 2020-10-18\* | 2023-07-13 |
 | [The Long March \- Remix](https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Valentin Mussou](https://open.spotify.com/artist/6RwAD59ilMvWSnrNqzlRI6) | [The Long March \(Remix\)](https://open.spotify.com/album/1tFWncTkrPbL7eklHcNgR5) | 5:04 | 2020-10-18\* | 2023-03-18 |
 | [Time Flies](https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Murat Salman](https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn) | [Time Flies](https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO) | 2:59 | 2020-12-01 |  |
 | [Undersand](https://open.spotify.com/track/7cFwlRiqAjrF4V0ZSJlGMB) | [Princebaba](https://open.spotify.com/artist/6eA5XwY5JNBLqm3X8u2AqD), [Jugurtha](https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME) | [Dreaming](https://open.spotify.com/album/3MJqBrfWVW3uidL3XqviSk) | 5:35 | 2020-10-18\* | 2022-11-13 |
@@ -261,6 +261,7 @@
 | [Zamen \- Amine K Remix](https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr) | [Mario Bazouri](https://open.spotify.com/artist/1PW4Ka7Ui6PzpbWtxUI2k5), [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Sultan \(Inc\. Derun & Amine K Remix\)](https://open.spotify.com/album/13z2xBt6SaIvrkWtnOrp0G) | 6:51 | 2020-10-18\* | 2022-11-13 |
 | [Zid Lmel](https://open.spotify.com/track/3sqQqUMYB5HqyzIE9XRcyp) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Maalem Hammam](https://open.spotify.com/artist/29PS9kUTTCcpFIKaP9DAx2) | [Healing Rituals](https://open.spotify.com/album/4e7kuCNjfnklXTS1dsR53y) | 7:50 | 2020-10-18\* | 2022-06-29 |
 | [ZMAN](https://open.spotify.com/track/0Nr4L8pTEp0K9JxKLnXOSz) | [OSENS](https://open.spotify.com/artist/4FyZwiPpDuUYiMYZXsTQ4D), [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [The Universe of Buddha Bar](https://open.spotify.com/album/4p6iAl1zIqZD3RBa7p1snm) | 4:51 | 2022-12-13 | 2023-03-18 |
+| [Çem Vano \- Remix](https://open.spotify.com/track/7zb0bX0Jd1xoL5lYxHzKta) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Mikail Aslan \- Çem Vano \(HVMZA Remix\)](https://open.spotify.com/album/0mWKvv4QJX1ne4ZZHL0YPM) | 5:59 | 2023-07-04 |  |
 | [Детство \(Jad Halal Remix\)](https://open.spotify.com/track/2WilwAlTwOerWnvg6iYsPI) | [Rauf](https://open.spotify.com/artist/3p9D7WV7zSXawXq8qzSZLt), [Faik](https://open.spotify.com/artist/2QaHcHzbIucoNA73CkRaF2), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Детство \(Jad Halal Remix\)](https://open.spotify.com/album/4Lp4X2wQn6Ly27v85Vg7GB) | 3:11 | 2020-10-18\* | 2021-03-30 |
 
 \*This playlist was first scraped on 2020-10-18. Prior content cannot be recovered.

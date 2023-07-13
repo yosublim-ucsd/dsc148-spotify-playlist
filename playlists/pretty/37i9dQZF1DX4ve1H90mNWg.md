@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\.  Cover: Mike Dimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,862 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,891 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 8 | [Where the Fun Niggas At?](https://open.spotify.com/track/36jKiym1viZatX0tHDGDxM) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [Where the Fun Niggas At?](https://open.spotify.com/album/7BWW9riDewdKvAh0pz1Tza) | 2:44 |
 | 9 | [Rock Paper Strippers](https://open.spotify.com/track/1NPQItXYHsWC2MD9uZmFwj) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Rock Paper Strippers](https://open.spotify.com/album/4TPfKwZGp3q7CzSrFTzogy) | 2:48 |
 | 10 | [Diamond Tears](https://open.spotify.com/track/5J7PNSWdxtHnMm88365fP0) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Diamond Tears](https://open.spotify.com/album/2Y6U6rEuBaxjPdzu5gr8c3) | 2:26 |
-| 11 | [BOOTED](https://open.spotify.com/track/1FJftuSXRnWWOktss4GtRB) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [BOOTED](https://open.spotify.com/album/5I3vDpMGkkj8uthdLmtIal) | 2:19 |
+| 11 | [BOOTED](https://open.spotify.com/track/0t7I9fDnpFWB2VUW5j2JLF) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [HEAVEN CAN'T SAVE YOU](https://open.spotify.com/album/20oCaJ2RAoz2JzihIy9AA0) | 2:19 |
 | 12 | [JACKIE BROWN \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/track/2TqPcMoynCqfa7GbPQMIYA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [WASTELAND \- CHOPPED NOT SLOPPED](https://open.spotify.com/album/3DpamulE7VP1pDprRODb28) | 5:07 |
 | 13 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 |
 | 14 | [Replacement](https://open.spotify.com/track/4sesuIEYPhGwC2daNc0PkU) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Replacement](https://open.spotify.com/album/06t68XIDG4eI0cXsxZHEek) | 2:32 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 63 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 |
 | 64 | [fine now](https://open.spotify.com/track/0JqDi8LOuWRWtAXT0I33iG) | [rari!](https://open.spotify.com/artist/5R1AkKSoonPBWqJslyuJRC), [Forbiddenwillows](https://open.spotify.com/artist/5kl7QygFfeEjpsfxFqnTq5) | [fine now](https://open.spotify.com/album/3deQeyVDYrRu2ndjJqNa7u) | 2:04 |
 
-Snapshot ID: `MCw2NTMwZDQ4MDJkODhlZWM0NzI0MDA2OWY3YjhjMGIyOGEwNTQ3Zjk5`
+Snapshot ID: `MCw4MTRmNGFkNGNjNzUxZDViN2Y3NDA5OTU5N2M5M2RhMDVjY2E0YmYx`

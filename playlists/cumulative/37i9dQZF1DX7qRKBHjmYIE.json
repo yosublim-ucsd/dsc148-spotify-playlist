@@ -1798,8 +1798,8 @@
           "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         },
         {
-          "name": "Shrt_lyf",
-          "url": "https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re"
+          "name": "Short Life",
+          "url": "https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO"
         }
       ],
       "date_added": "2023-05-05",
@@ -1976,6 +1976,28 @@
       "duration_ms": 184669,
       "name": "DE REVERSA",
       "url": "https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW"
+    },
+    {
+      "album": {
+        "name": "DE REVERSA",
+        "url": "https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184669,
+      "name": "DE REVERSA",
+      "url": "https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp"
     },
     {
       "album": {
@@ -8806,7 +8828,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"

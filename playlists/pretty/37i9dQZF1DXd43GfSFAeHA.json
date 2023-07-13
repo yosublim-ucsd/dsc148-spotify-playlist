@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Tagne",
-  "num_followers": 121039,
+  "num_followers": 121090,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDQ5Yzc2OWEyMTMyOTFhMzljMmE2Mjg1ZmYyMjhhMmU4MGJlNmI3",
+  "snapshot_id": "MCxhYjkzZjlmZGQ4M2JlZWU2MjhjNjlhNWRkYWI1ZjhiZmJhYjQyYjE4",
   "tracks": [
     {
       "added_at": "2023-07-03 14:12:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-03 14:12:21",
       "album": {
-        "name": "Helma",
-        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 163527,
-      "name": "Helma",
-      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
-    },
-    {
-      "added_at": "2023-07-03 14:12:21",
-      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/0VdD8r7klztbY0Ilng4jxd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 222857,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/37TBQ5Mwx3SldaN03mMUru"
+    },
+    {
+      "added_at": "2023-07-03 14:12:21",
+      "album": {
+        "name": "Helma",
+        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Helma",
+      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
     },
     {
       "added_at": "2023-07-03 14:12:21",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-07-03 14:12:21",
       "album": {
+        "name": "KHABTA",
+        "url": "https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU"
+      },
+      "artists": [
+        {
+          "name": "La mass le vrai",
+          "url": "https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk"
+        },
+        {
+          "name": "Phobia Isaac",
+          "url": "https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3"
+        }
+      ],
+      "duration_ms": 264071,
+      "name": "KHABTA",
+      "url": "https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF"
+    },
+    {
+      "added_at": "2023-07-03 14:12:21",
+      "album": {
         "name": "Batn Al Shaer",
         "url": "https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 148500,
       "name": "Mashi El Hal",
       "url": "https://open.spotify.com/track/3EsdhFv69vVaBAAFlphMYb"
-    },
-    {
-      "added_at": "2023-07-03 14:12:21",
-      "album": {
-        "name": "KHABTA",
-        "url": "https://open.spotify.com/album/5WvYOZJbUHnsDF8FNPajiU"
-      },
-      "artists": [
-        {
-          "name": "La mass le vrai",
-          "url": "https://open.spotify.com/artist/1HPm1tMewqJhqjGkM7f5vk"
-        },
-        {
-          "name": "Phobia Isaac",
-          "url": "https://open.spotify.com/artist/2q4mJNyOd6lXVRR3DCdci3"
-        }
-      ],
-      "duration_ms": 264071,
-      "name": "KHABTA",
-      "url": "https://open.spotify.com/track/6p0nEcRHhxqTpEekVYhiPF"
     },
     {
       "added_at": "2023-07-03 14:12:21",

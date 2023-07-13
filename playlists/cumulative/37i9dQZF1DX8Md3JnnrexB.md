@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-316 songs - 22 hr 23 min
+317 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Do You Still Love Me?](https://open.spotify.com/track/05PRCV0UGxpwoopzCtp2zI) | [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [Do Me Baby](https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg) | 5:39 | 2022-02-21 | 2022-11-13 |
 | [Don't Ask My Neighbor](https://open.spotify.com/track/7n4dZXt5wfrS3ulpSszdSp) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Bobby Caldwell Sings Smooth Jazz Classics](https://open.spotify.com/album/2NeeTMtdKPsugLhlhNotvT) | 4:49 | 2023-02-21 | 2023-04-21 |
 | [Don't Ask My Neighbor](https://open.spotify.com/track/55HnSyUENRJAnAGEFjwYb0) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Soul Survivor](https://open.spotify.com/album/4b48wowrVEK5Wav4xqYUGm) | 4:50 | 2021-12-13 | 2022-07-29 |
-| [Don't Look Any Further \- Single Version](https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 4:03 | 2021-12-20 | 2023-07-07 |
+| [Don't Look Any Further \- Single Version](https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 4:03 | 2021-12-20 |  |
 | [Dreamin'](https://open.spotify.com/track/3jQCcmUSBL21Z8Csp96Y9Q) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Right Stuff](https://open.spotify.com/album/1b5oKQBjHUURlAWHO8EZEz) | 5:26 | 2022-01-20 | 2022-11-13 |
 | [Dynamite.](https://open.spotify.com/track/5Jg9DV3m2umJpoHXV2e6j8) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:31 | 2022-02-04 | 2023-04-21 |
 | [Easy](https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T) | [Bea Anderson](https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG) | [Easy](https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl) | 3:30 | 2021-12-13 | 2022-11-13 |
@@ -140,7 +140,7 @@
 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 | 2022-01-03 |  |
 | [I'll Come Running Back \(Mr Scruff Edit\)](https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj) | [Sandra Wright](https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER) | [I'll Come Running Back \(Mr Scruff Edit\) \- Single](https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl) | 2:05 | 2021-12-13 | 2022-07-29 |
 | [I'll Make Love To You](https://open.spotify.com/track/7dfl9X38RhIvB3oSmmneq3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7) | 3:56 | 2022-01-20 | 2022-04-20 |
-| [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 | 2022-05-11 |  |
+| [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 | 2022-05-11 | 2023-07-13 |
 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 | 2022-01-03 | 2023-04-21 |
 | [I've Got Dreams to Remember](https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 3:15 | 2021-12-13 | 2023-06-06 |
 | [I've Got Love On My Mind](https://open.spotify.com/track/5Zclj5e4Jv0Zo9FU9pDmPY) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unpredictable](https://open.spotify.com/album/4I4exZUNod9Mj4MOzxDtiS) | 4:20 | 2021-12-13 | 2022-07-24 |
@@ -188,9 +188,10 @@
 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 | 2021-12-13 | 2022-01-04 |
 | [Love, Love, Love](https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:24 | 2022-01-03 | 2023-04-21 |
 | [Love, Need and Want You](https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Beautiful Ballads](https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8) | 5:00 | 2021-12-13 | 2023-04-21 |
-| [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 | 2021-12-13 |  |
+| [Lovely Day](https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:15 | 2021-12-13 | 2023-07-13 |
 | [Lovin' You](https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 5:18 | 2021-12-20 |  |
 | [Lovin' you Is Easy](https://open.spotify.com/track/591hJcYCBItu3Io608n5fv) | [Maysa](https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC) | [Lovin' you Is Easy](https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa) | 4:05 | 2022-01-03 | 2022-07-29 |
+| [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 | 2023-07-10 |  |
 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 | 2021-12-13 |  |
 | [Me and Mrs\. Jones](https://open.spotify.com/track/4sj8qFcEDnRPNv3tBbUVUf) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees Of Billy Paul](https://open.spotify.com/album/3x36ONTtlbPuXrAjI3aNI6) | 4:45 | 2021-12-13 | 2021-12-30 |
 | [Mercury](https://open.spotify.com/track/535JHcpNMkS4w5coKaQUUX) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Golden Boy](https://open.spotify.com/album/78QVdljBHFLEkcJ0TmjixD) | 3:37 | 2022-03-29 | 2022-04-21 |

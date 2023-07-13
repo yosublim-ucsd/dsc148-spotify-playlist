@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 209797,
+  "num_followers": 210043,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTFjZTVhZTcyM2NmNDlhZTVmYTgxMDY2NzIwNjUwMDY4MzE4MTk0",
+  "snapshot_id": "MCw5NzYwYjZlOWY3MGU2MzZhYjBmOTBhMTY2MWU5NTAzODhmOWEyNzg5",
   "tracks": [
     {
       "added_at": "2023-07-07 14:20:35",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Bad Company - Edit",
-      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Bad Company - Edit",
+      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -295,6 +295,30 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -335,50 +359,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Lee Cabrera",
-          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
-        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 284886,
       "name": "Fresh - House of Prayers Poolside Edit",
       "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Lee Cabrera",
+          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
         "name": "Alfa",
         "url": "https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY"
       },
@@ -527,22 +527,6 @@
       "duration_ms": 285772,
       "name": "Alfa",
       "url": "https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -591,6 +575,22 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
         "name": "Open Market",
         "url": "https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "All The Things We Say / Move Me",
-        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231105,
-      "name": "All The Things We Say",
-      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "Little Miss Dynamite",
         "url": "https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO"
       },
@@ -647,38 +631,18 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "I Miss Having Someone To Talk To",
-        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
+        "name": "All The Things We Say / Move Me",
+        "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 223742,
-      "name": "I Miss Having Someone To Talk To",
-      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 204820,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
+      "duration_ms": 231105,
+      "name": "All The Things We Say",
+      "url": "https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -699,18 +663,38 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+      "duration_ms": 204820,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "I Miss Having Someone To Talk To",
+        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 223742,
+      "name": "I Miss Having Someone To Talk To",
+      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
         "name": "CAN'T GO HOME",
         "url": "https://open.spotify.com/album/4hyWuVrgGuuCvwIDkmmLuc"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Into the Ether",
-        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+        "name": "The Best Rapper Alive",
+        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
         }
       ],
-      "duration_ms": 191061,
-      "name": "Raining in LA",
-      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
+      "duration_ms": 487619,
+      "name": "The Best Rapper Alive",
+      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -899,22 +899,6 @@
       "duration_ms": 193106,
       "name": "Lifetime - Dimitri From Paris 'Cruising Attitude' Remix",
       "url": "https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -967,22 +951,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "You're in My System (Dennis Quin Remixes)",
         "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
       },
@@ -1007,6 +975,38 @@
       "duration_ms": 351219,
       "name": "You're in My System - Dennis Quin Club Mix",
       "url": "https://open.spotify.com/track/1Gak4gX5CGebdBvl8A89fz"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
+      },
+      "artists": [
+        {
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
+        }
+      ],
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "Into the Ether",
+        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 191061,
+      "name": "Raining in LA",
+      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
+        "name": "Colors (The Knocks Remix)",
+        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Colors - The Knocks Remix",
+      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
         "name": "Kiss of Life",
         "url": "https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
-        "name": "Colors (The Knocks Remix)",
-        "url": "https://open.spotify.com/album/0g92mDVGfKe09Nmf1vBoMU"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Colors - The Knocks Remix",
-      "url": "https://open.spotify.com/track/6fQzphRU30nVU3B1gEs9EB"
     },
     {
       "added_at": "2023-07-07 14:20:35",
@@ -1651,6 +1651,46 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "Fool For Love",
+        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
+      },
+      "artists": [
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Fool For Love - Chris Lake Edit",
+      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
         "name": "Lost In Space (feat. SG Lewis)",
         "url": "https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC"
       },
@@ -1775,30 +1815,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Fool For Love",
-        "url": "https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy"
-      },
-      "artists": [
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 239220,
-      "name": "Fool For Love - Chris Lake Edit",
-      "url": "https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "If You Want It",
-        "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/5rFEAVDRVOBZFATcZzmOLF"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "Aboutchu",
         "url": "https://open.spotify.com/album/1yJH7iGpEeE2F5QxBTYo4s"
       },
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-07-07 14:20:35",
       "album": {
-        "name": "Lola\u2019s Theme (VIP)",
-        "url": "https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        }
-      ],
-      "duration_ms": 438260,
-      "name": "Lola\u2019s Theme - VIP",
-      "url": "https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP"
-    },
-    {
-      "added_at": "2023-07-07 14:20:35",
-      "album": {
         "name": "why don't you come on over?",
         "url": "https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 205456,
       "name": "Just for the Night - Jean Tonique Remix",
       "url": "https://open.spotify.com/track/5sbK8z7M4GRaqUAzIdT9Ux"
+    },
+    {
+      "added_at": "2023-07-07 14:20:35",
+      "album": {
+        "name": "Lola\u2019s Theme (VIP)",
+        "url": "https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 438260,
+      "name": "Lola\u2019s Theme - VIP",
+      "url": "https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP"
     }
   ],
   "unique_name": "Poolside Disco",

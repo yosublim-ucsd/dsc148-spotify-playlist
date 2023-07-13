@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2418365,
+  "num_followers": 2418323,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzEzY2VkNmRlNWMwOWYwMTg4NDMzZjZkMTdiMTdhODE5YmU5MzBk",
+  "snapshot_id": "MCw5NmMwN2UxNWNjNzk4MDNmOThmNmRiY2NiY2FkNTFmODdlOTk1NmVj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 269083,
+      "name": "Letter to Madeline",
+      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Between the Country",
-        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 269083,
-      "name": "Letter to Madeline",
-      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Obviously",
-        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
+        "name": "Covers One",
+        "url": "https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "The Wind and The Wave",
+          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
         }
       ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO"
+      "duration_ms": 327853,
+      "name": "Edge of Seventeen",
+      "url": "https://open.spotify.com/track/42HGl10TZF0LLfLgMWNtfw"
     }
   ],
   "unique_name": "Run Wild",

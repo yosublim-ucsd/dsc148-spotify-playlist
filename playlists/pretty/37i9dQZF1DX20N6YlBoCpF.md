@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf?si=MFAdMVskQmuwuvCWvhDE7A">Georic Lomas</a> & <a href="https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=5e9k2j5vSoO\_YMlIxDV7wQ">Jemma Catherine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,096 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,103 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Vergeet My Hier](https://open.spotify.com/track/1MYJPZHmnRcoHemHr9Su8S) | [Stephan Visagie](https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds), [Henri Alant](https://open.spotify.com/artist/64Y5vIEzgTcde6q9zndRH4) | [Vergeet My Hier](https://open.spotify.com/album/45KsVqzl4HaaNrXOSaVHkN) | 3:17 |
 | 50 | [Klein Botteltjie Groot Gif](https://open.spotify.com/track/5GXXuXipaXZpZxdfieXzSg) | [Anzélle](https://open.spotify.com/artist/5z6yUIAu8Em61VSjf5oiBs) | [Klein Botteltjie Groot Gif](https://open.spotify.com/album/2DwrLebY1DbcGMT8QfGeOD) | 3:29 |
 
-Snapshot ID: `MCw3M2JlYTU1M2QxN2MwMzEwYjJiYzFkY2YzOGQxZjcxMTM0MGVmYjZi`
+Snapshot ID: `MCwxN2IzNzkyODJkNWZlMGUxYTFlNzcyNmY3NWNiZGI4ZmYwMjAwNDll`

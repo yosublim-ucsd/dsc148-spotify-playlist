@@ -4,7 +4,7 @@
 
 > Just chill.
 
-528 songs - 1 day 6 hr 22 min
+529 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Free Again](https://open.spotify.com/track/5waEuhjLJ2B5gZwYNOb8lj) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Free Again](https://open.spotify.com/album/2d1y23eHvch2vbp0Em8k5l) | 2:39 | 2022-10-08 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-05-12 |  |
 | [Frowning Friends](https://open.spotify.com/track/6EuFq2sY7h2KgF9ip5tmqR) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Frowning Friends](https://open.spotify.com/album/0RGkOLkr7Bap09GdvesEWV) | 2:10 | 2023-05-12 |  |
-| [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 | 2023-01-13 |  |
+| [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 | 2023-01-13 | 2023-07-13 |
 | [Futari](https://open.spotify.com/track/6NGOmfOqrMgEBDsu0D7iGn) | [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [Luv\-Fi Tape](https://open.spotify.com/album/0lmN3k9Q4MRga3tZxObCVK) | 2:00 | 2020-08-14 | 2022-01-22 |
 | [Futbol](https://open.spotify.com/track/1tBR4EX2S4YonuXB0mwRvT) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Futbol](https://open.spotify.com/album/22mAPVYMiTzEB2oe3llVGe) | 3:32 | 2023-05-22 |  |
 | [Game Over](https://open.spotify.com/track/1ud2UCQ3mDIKYxOTWvcZpM) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Game Over](https://open.spotify.com/album/3e91HWGq0MRSrivkscpoXZ) | 2:55 | 2023-05-12 |  |
@@ -337,7 +337,7 @@
 | [Of The Age](https://open.spotify.com/track/7FoA4uLN2FnUnOcDfNlX0C) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Violence in a Quiet Mind](https://open.spotify.com/album/12p8Tpkhv5tbW99wzGjP4D) | 4:13 | 2020-07-31 | 2022-01-22 |
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2022-11-11 |  |
 | [One Year Stand](https://open.spotify.com/track/3d295CXrZtRVRVMFzr7VP8) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [One Year Stand](https://open.spotify.com/album/2hKOa5tJbt1ZTvAeg5926d) | 2:35 | 2022-08-05 | 2022-10-13 |
-| [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Daklis](https://open.spotify.com/artist/7hAW5Zcwt9UWJkbiAfrHHv), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-04-28 |  |
+| [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-04-28 |  |
 | [Open Up](https://open.spotify.com/track/7CQ65pJJyym5gsmOmv3i0C) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Suite\)](https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob) | 4:49 | 2023-05-05 |  |
 | [Opiate](https://open.spotify.com/track/1iXho1Srl0akpZSSHfOFvP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Opiate](https://open.spotify.com/album/76XZv1ULphDrrtWPR37XQ7) | 2:31 | 2020-11-20 | 2022-07-29 |
 | [Opiate](https://open.spotify.com/track/6X4PNtfFJBOAkqUudR6ItT) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [In Praise Of Shadows](https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg) | 2:31 | 2022-06-10 | 2023-03-18 |
@@ -382,6 +382,7 @@
 | [sanctuary](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [sanctuary](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-22 |  |
 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 |  |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 |  |
+| [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-07-12 |  |
 | [Secrets](https://open.spotify.com/track/5ktGBmi2zJOqcoVxxuzmcD) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Secrets](https://open.spotify.com/album/50QXe7xHd3i6rhYYxeQAJF) | 2:53 | 2023-02-16 |  |
 | [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-17 |  |

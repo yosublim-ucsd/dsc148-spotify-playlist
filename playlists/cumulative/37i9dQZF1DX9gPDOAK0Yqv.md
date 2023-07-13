@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-276 songs - 1 day 0 hr 34 min
+278 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-12-16 |  |
 | [Accordia](https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:08 | 2022-11-23 |  |
 | [Acumulee](https://open.spotify.com/track/3Zros7lzYTaBOZTwV9Ex3u) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Four to the Floor 14](https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm) | 10:48 | 2022-11-23 | 2022-12-13 |
-| [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-11-23 |  |
+| [Affection](https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Affection](https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc) | 7:01 | 2022-11-23 | 2023-07-13 |
 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 | 2023-03-30 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
@@ -90,6 +90,7 @@
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-11-23 |  |
 | [Frustration](https://open.spotify.com/track/4QhQBj55JalsgKmjfLIT2w) | [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [X2](https://open.spotify.com/album/0dmvMXj4bh1YXwVKxfWcRK) | 6:32 | 2022-11-23 | 2022-11-28 |
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
+| [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 |  |
 | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 | 2023-07-03 |
 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 |  |
 | [Genie's Wish](https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Genie's Wish](https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C) | 6:07 | 2023-02-10 | 2023-02-18 |
@@ -130,7 +131,7 @@
 | [KIDS](https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh) | [KIDS](https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql) | 2:48 | 2023-03-21 | 2023-04-09 |
 | [Kurai](https://open.spotify.com/track/6cNSxZaBUwojTM7Ffx4IR9) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Kurai](https://open.spotify.com/album/1pH9PvhnJlKqViwecG48Zk) | 2:52 | 2023-06-09 | 2023-07-12 |
 | [La Niña De La Aldea \- widerberg Remix](https://open.spotify.com/track/0Z2NhrQwBef7xkXkMWkgil) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Maya!](https://open.spotify.com/album/5NZXGeTesiy9M71O7Eyeou) | 4:46 | 2023-03-21 | 2023-06-14 |
-| [Laminar \- Moonbootica Remix](https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Laminar \(Moonbootica Remix\)](https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD) | 6:35 | 2023-06-16 |  |
+| [Laminar \- Moonbootica Remix](https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Laminar \(Moonbootica Remix\)](https://open.spotify.com/album/4yED6qv5FOnQuqw7bmmPPD) | 6:35 | 2023-06-16 | 2023-07-13 |
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-11-23 |  |
 | [Last Call](https://open.spotify.com/track/3cyzzLSYKLoaYv1xt2asZJ) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/0kbgja4YAnLwNeGc8THZ75) | 6:55 | 2023-02-10 | 2023-02-16 |
 | [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-10 | 2023-04-10 |
@@ -198,6 +199,7 @@
 | [Reflections](https://open.spotify.com/track/6xNOV4axXIb0dvK9BPPbkC) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Renaissance](https://open.spotify.com/track/7oUPAECJUeHNDVaQ7tmE6r) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Renaissance](https://open.spotify.com/album/41niRA6vCMTukxuQrhVHCf) | 5:04 | 2022-11-23 | 2022-12-13 |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-11-23 | 2023-07-02 |
+| [Resonate](https://open.spotify.com/track/3uMmez8jeegK8HpgcwbA1V) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/0PcWgMMLJGtg1rdEtrF1fa) | 3:41 | 2023-07-07 |  |
 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 | 2022-12-09 | 2023-04-09 |
 | [Return to Forever](https://open.spotify.com/track/7l4p4jwpwtXgbJVZTjbU8s) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Return to Forever](https://open.spotify.com/album/47I45xg9PGxwy3k8kCeWUr) | 8:08 | 2022-11-23 | 2023-01-22 |
 | [Revision](https://open.spotify.com/track/6Sx4f9KKwMl2YRguEqiL0A) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Revision](https://open.spotify.com/album/5zfHOeT9bFwQQm8H95crzB) | 7:13 | 2022-12-16 | 2023-04-03 |

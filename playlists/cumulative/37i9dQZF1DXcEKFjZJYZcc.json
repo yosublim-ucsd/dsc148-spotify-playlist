@@ -809,6 +809,42 @@
     },
     {
       "album": {
+        "name": "dans mes r\u00eaves",
+        "url": "https://open.spotify.com/album/6e7jOATXTfMdLKTNUqtMEB"
+      },
+      "artists": [
+        {
+          "name": "Kj\u00f8pmann",
+          "url": "https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "dans mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6Hy7HXXIfWPtzCsKeEqDjM"
+    },
+    {
+      "album": {
+        "name": "Days from Before",
+        "url": "https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127938,
+      "name": "Days from Before",
+      "url": "https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD"
+    },
+    {
+      "album": {
         "name": "De Seu",
         "url": "https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl"
       },
@@ -2595,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Peggy's Cove",
+        "url": "https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135344,
+      "name": "Peggy's Cove",
+      "url": "https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3aN17LcVzjDKxp7FXowuhO"
       },
@@ -3179,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Si proche",
+        "url": "https://open.spotify.com/album/0KamlZdDERdY1kIwltXYwd"
+      },
+      "artists": [
+        {
+          "name": "Zdenek Lemelin",
+          "url": "https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135579,
+      "name": "Si proche",
+      "url": "https://open.spotify.com/track/6e1phFv1GIKRhmrYddDPWT"
+    },
+    {
+      "album": {
         "name": "Sichm",
         "url": "https://open.spotify.com/album/6RswTsIjkwCAJogdZRRJrK"
       },
@@ -3486,6 +3558,24 @@
       "duration_ms": 132864,
       "name": "Sonnenblume",
       "url": "https://open.spotify.com/track/5OwyqAz6sXFkq6Ny60M12h"
+    },
+    {
+      "album": {
+        "name": "Soothing Voices",
+        "url": "https://open.spotify.com/album/3Ig4ekBoU8pNembyEE3XTN"
+      },
+      "artists": [
+        {
+          "name": "Portia Price",
+          "url": "https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137799,
+      "name": "Soothing Voices",
+      "url": "https://open.spotify.com/track/7obdOKoRXgPGGMaYAbJQCV"
     },
     {
       "album": {

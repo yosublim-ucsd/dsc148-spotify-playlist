@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Yo",
+        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
+    },
+    {
+      "album": {
         "name": "Arroz Con Habichuela",
         "url": "https://open.spotify.com/album/2uLb1q19tjdf66SuNpOsda"
       },
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 246720,
       "name": "La Esencia Del Guaguanc\u00f3",
       "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"

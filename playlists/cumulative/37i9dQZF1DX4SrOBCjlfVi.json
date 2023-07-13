@@ -23760,24 +23760,6 @@
     {
       "album": {
         "name": "Heartless",
-        "url": "https://open.spotify.com/album/1Nly7X1upNVUkhAh2moGON"
-      },
-      "artists": [
-        {
-          "name": "Rot Ken",
-          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
-        }
-      ],
-      "date_added": "2022-09-30",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
-      "duration_ms": 118050,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4OlNg12AN84v3pGmQ5LgKJ"
-    },
-    {
-      "album": {
-        "name": "Heartless (feat. Tee Grizzley)",
         "url": "https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ"
       },
       "artists": [
@@ -23794,8 +23776,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166032,
-      "name": "Heartless (feat. Tee Grizzley)",
+      "name": "Heartless",
       "url": "https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur"
+    },
+    {
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/1Nly7X1upNVUkhAh2moGON"
+      },
+      "artists": [
+        {
+          "name": "Rot Ken",
+          "url": "https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 118050,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4OlNg12AN84v3pGmQ5LgKJ"
     },
     {
       "album": {

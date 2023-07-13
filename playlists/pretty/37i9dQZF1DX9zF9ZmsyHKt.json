@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 326048,
+  "num_followers": 326103,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm",
+  "snapshot_id": "MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "O Que Voc\u00ea Quer Saber de Verdade",
+        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ainda Bem",
+      "url": "https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 295106,
       "name": "Mania De Voc\u00ea",
       "url": "https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "O Que Voc\u00ea Quer Saber de Verdade",
-        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ainda Bem",
-      "url": "https://open.spotify.com/track/43BCxznTSBLcXzu4lJ8KW5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sol e Mar, Vol. 2",
-        "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
-      },
-      "artists": [
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        },
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "JBL",
-      "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 178105,
       "name": "S\u00f3 o Amor",
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sol e Mar, Vol. 2",
+        "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
+      },
+      "artists": [
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        },
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "JBL",
+      "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "De Cabe\u00e7a Pra Baixo",
         "url": "https://open.spotify.com/album/36mc8clQQYccyzD9HkzXPv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 191250,
       "name": "Cafe\u00edna",
       "url": "https://open.spotify.com/track/1c8PttPwJZCbgV1P9V5IOB"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Little Electric Chicken Heart",
-        "url": "https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 220451,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+        "name": "Little Electric Chicken Heart",
+        "url": "https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP"
       },
       "artists": [
         {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Nobre Vagabundo",
-      "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
+      "duration_ms": 220451,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1331,6 +1315,22 @@
       "duration_ms": 280756,
       "name": "As Mais Braba",
       "url": "https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/5ro9tttD1jyhJjfZzxsd1C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Nobre Vagabundo",
+      "url": "https://open.spotify.com/track/22LLjUNRN1fT4U5MlsB6wo"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Hitz\u00e3o da Porra",
-        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
-      },
-      "artists": [
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        }
-      ],
-      "duration_ms": 132224,
-      "name": "Hitz\u00e3o da Porra",
-      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Hitz\u00e3o da Porra",
+        "url": "https://open.spotify.com/album/5FnDUJMFoExQFtycmhg5dZ"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "duration_ms": 132224,
+      "name": "Hitz\u00e3o da Porra",
+      "url": "https://open.spotify.com/track/6WIP2ysmvfkPyAc4c2bD6O"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Rosa Amarela",
-        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 198603,
-      "name": "Rosa amarela",
-      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
         "url": "https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb"
       },
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Ciranda Sem Fim",
-        "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
+        "name": "Rosa Amarela",
+        "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
       },
       "artists": [
         {
-          "name": "Lia de Itamarac\u00e1",
-          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Meu S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
+      "duration_ms": 198603,
+      "name": "Rosa amarela",
+      "url": "https://open.spotify.com/track/22iCBN5WRQAIyRffYzQ4W4"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1707,6 +1691,22 @@
       "duration_ms": 205253,
       "name": "FLOW",
       "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Ciranda Sem Fim",
+        "url": "https://open.spotify.com/album/7HQ5LO7lg80CQsHE1eI8fs"
+      },
+      "artists": [
+        {
+          "name": "Lia de Itamarac\u00e1",
+          "url": "https://open.spotify.com/artist/7dtjhTXpBQ4cCf2GPLG6Qo"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Meu S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/7ERR92JTk2VsswMquOvOD5"
     },
     {
       "added_at": "2022-10-07 03:01:33",

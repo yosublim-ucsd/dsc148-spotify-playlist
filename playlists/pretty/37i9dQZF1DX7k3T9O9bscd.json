@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. L.A Priest on cover.",
-  "num_followers": 371677,
+  "num_followers": 371888,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGJjY2E1MzNkZDQ5ZTA5YmExYzdlNzYxOWM4YWJlODE1MGUyNGM0",
+  "snapshot_id": "MCw5NTg3MDZlNWY4MGUyZWJlOTBiYjRlM2MxNzFlYmE3Yjg3YWU1Mjg5",
   "tracks": [
     {
       "added_at": "2023-05-31 21:11:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Corsicana Lemonade",
         "url": "https://open.spotify.com/album/5Zisnw28sCEenTsdH1D8Hj"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 244346,
       "name": "At Night in Dreams",
       "url": "https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Joe Frazier",
-        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
-      },
-      "artists": [
-        {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
-        }
-      ],
-      "duration_ms": 338613,
-      "name": "Joe Frazier",
-      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Rose City Band",
         "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 219524,
       "name": "you\\me\\everyone",
       "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Joe Frazier",
+        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        }
+      ],
+      "duration_ms": 338613,
+      "name": "Joe Frazier",
+      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
-      },
-      "artists": [
-        {
-          "name": "Phafner",
-          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
-        }
-      ],
-      "duration_ms": 329693,
-      "name": "Plea From The Soul",
-      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
-    },
-    {
       "added_at": "2022-04-22 19:18:57",
       "album": {
         "name": "Spin",
@@ -923,22 +907,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "The Trip",
         "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
       },
@@ -951,6 +919,38 @@
       "duration_ms": 257972,
       "name": "The Trip",
       "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
+      },
+      "artists": [
+        {
+          "name": "Phafner",
+          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
+        }
+      ],
+      "duration_ms": 329693,
+      "name": "Plea From The Soul",
+      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1021,20 +1021,20 @@
       "url": "https://open.spotify.com/track/4YlOq4SkgNgI3gbSsUTDRl"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-04-06 03:33:39",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Time Bazaar",
+        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+      "duration_ms": 236000,
+      "name": "Time Bazaar",
+      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1053,36 +1053,20 @@
       "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
     },
     {
-      "added_at": "2022-04-06 03:33:39",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Time Bazaar",
-        "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
       "artists": [
         {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Time Bazaar",
-      "url": "https://open.spotify.com/track/4BO3RC8xxcf9Jpvkl6UVJg"
-    },
-    {
-      "added_at": "2023-01-12 01:50:42",
-      "album": {
-        "name": "Exotico",
-        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 260346,
-      "name": "Gamma Rays",
-      "url": "https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp"
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1101,6 +1085,22 @@
       "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
     },
     {
+      "added_at": "2023-03-16 20:50:19",
+      "album": {
+        "name": "Another Quiet Sunday",
+        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Another Quiet Sunday (Keep Moving On)",
+      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Sancocho Stereo",
@@ -1117,20 +1117,36 @@
       "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
     },
     {
-      "added_at": "2023-03-16 20:50:19",
+      "added_at": "2023-01-12 01:50:42",
       "album": {
-        "name": "Another Quiet Sunday",
-        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
+        "name": "Exotico",
+        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
       },
       "artists": [
         {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 267640,
-      "name": "Another Quiet Sunday (Keep Moving On)",
-      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
+      "duration_ms": 260346,
+      "name": "Gamma Rays",
+      "url": "https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp"
+    },
+    {
+      "added_at": "2023-05-22 18:33:08",
+      "album": {
+        "name": "Bud Spencer Blues Explosion",
+        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Hey Boy Hey Girl - Cover Version",
+      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1165,38 +1181,6 @@
       "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
     },
     {
-      "added_at": "2023-03-23 21:15:41",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
-    },
-    {
-      "added_at": "2023-05-22 18:33:08",
-      "album": {
-        "name": "Bud Spencer Blues Explosion",
-        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Hey Boy Hey Girl - Cover Version",
-      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
-    },
-    {
       "added_at": "2022-09-03 03:45:18",
       "album": {
         "name": "Los Estimados",
@@ -1211,6 +1195,22 @@
       "duration_ms": 277589,
       "name": "Los Estimados",
       "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
+    },
+    {
+      "added_at": "2023-03-23 21:15:41",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2022-11-15 16:39:12",
@@ -1229,6 +1229,22 @@
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
+      "added_at": "2022-07-06 13:53:37",
+      "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+    },
+    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Sacred Drugs",
@@ -1245,22 +1261,6 @@
       "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Hyper Super Mega",
-        "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
-      },
-      "artists": [
-        {
-          "name": "The Holydrug Couple",
-          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
-        }
-      ],
-      "duration_ms": 240468,
-      "name": "Forever End",
-      "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
-    },
-    {
       "added_at": "2022-08-31 03:54:09",
       "album": {
         "name": "World Music",
@@ -1275,6 +1275,22 @@
       "duration_ms": 176120,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Hyper Super Mega",
+        "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
+      },
+      "artists": [
+        {
+          "name": "The Holydrug Couple",
+          "url": "https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt"
+        }
+      ],
+      "duration_ms": 240468,
+      "name": "Forever End",
+      "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1341,22 +1357,6 @@
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Pascuales",
@@ -1371,6 +1371,22 @@
       "duration_ms": 217103,
       "name": "Pascuales",
       "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1407,6 +1423,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Guayabo de Agua Ardiente",
+        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 220287,
+      "name": "Marihuana",
+      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Phase Modulation Shuffle (Edit)",
         "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
       },
@@ -1423,18 +1455,34 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Guayabo de Agua Ardiente",
-        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
+        "name": "Victor's Belt",
+        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
       },
       "artists": [
         {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+          "name": "Jaialai",
+          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
         }
       ],
-      "duration_ms": 220287,
-      "name": "Marihuana",
-      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
+      "duration_ms": 192386,
+      "name": "Victor's Belt",
+      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Not Normal",
+        "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
+      },
+      "artists": [
+        {
+          "name": "moe.",
+          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+        }
+      ],
+      "duration_ms": 541122,
+      "name": "New Hope For The New Year",
+      "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1471,38 +1519,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Not Normal",
-        "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
-      },
-      "artists": [
-        {
-          "name": "moe.",
-          "url": "https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj"
-        }
-      ],
-      "duration_ms": 541122,
-      "name": "New Hope For The New Year",
-      "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
-    },
-    {
-      "added_at": "2022-07-06 13:53:37",
-      "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "A New Day Dawning",
         "url": "https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh"
       },
@@ -1517,20 +1533,20 @@
       "url": "https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2023-01-12 03:37:14",
       "album": {
-        "name": "Victor's Belt",
-        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
       "artists": [
         {
-          "name": "Jaialai",
-          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 192386,
-      "name": "Victor's Belt",
-      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1581,20 +1597,20 @@
       "url": "https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE"
     },
     {
-      "added_at": "2023-01-12 03:37:14",
+      "added_at": "2022-04-23 01:59:48",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+        "name": "Youth Accomplished",
+        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
       },
       "artists": [
         {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+          "name": "Seabiscuit",
+          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
         }
       ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+      "duration_ms": 225750,
+      "name": "Youth Accomplished",
+      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1611,22 +1627,6 @@
       "duration_ms": 205160,
       "name": "Indian Zone Drum Killer Inc.",
       "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
-      },
-      "artists": [
-        {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
-        }
-      ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

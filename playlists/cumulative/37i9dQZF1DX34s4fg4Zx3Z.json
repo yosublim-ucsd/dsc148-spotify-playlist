@@ -3863,6 +3863,28 @@
     },
     {
       "album": {
+        "name": "Ch\u1ec9 C\u1ea7n Th\u1ebf Th\u00f4i",
+        "url": "https://open.spotify.com/album/6ntaGDqgf4dyusmGvbcRuO"
+      },
+      "artists": [
+        {
+          "name": "Toof.P",
+          "url": "https://open.spotify.com/artist/7JTpNI2P6mbsVgWR5ql5TK"
+        },
+        {
+          "name": "Cheung",
+          "url": "https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Ch\u1ec9 C\u1ea7n Th\u1ebf Th\u00f4i",
+      "url": "https://open.spotify.com/track/3dArepG6Os1fJOMQ40FO8r"
+    },
+    {
+      "album": {
         "name": "Ch\u1ec9 L\u00e0 V\u00e0i C\u00e2u Th\u1ec1",
         "url": "https://open.spotify.com/album/0EJyEdMr9FnKD7he80dfwR"
       },

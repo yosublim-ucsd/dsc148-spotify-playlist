@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Jaws The Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,322 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,330 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Madman](https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP ii](https://open.spotify.com/album/557ntJoopjoyMhkeX40y9s) | 3:52 |
 | 80 | [Wish I Was You](https://open.spotify.com/track/1hZ78pAQTniUNnxIes68Jd) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [Wish I Was You](https://open.spotify.com/album/3ovvIDsSYjs0Op2SExhzWF) | 3:23 |
 
-Snapshot ID: `MCw4MjljNjViMjVlMzM0MDk3ZDkyM2ExYWQ4MTY0NTFjZTllOTNiZWFj`
+Snapshot ID: `MCw3MWQxZWEzM2E0MzFjYzk5OWE3YjkwNjNiYTlkMWQ4YmM1NmNkMWI1`

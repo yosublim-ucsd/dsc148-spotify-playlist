@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-112 songs - 6 hr 33 min
+113 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 | 2022-09-30 |  |
 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [OUTSIDER](https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v) | 2:16 | 2022-09-30 |  |
 | [Freak](https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/3BFvqaxKz98EXPcznmqpND) | 3:09 | 2022-09-30 | 2023-05-19 |
+| [Freak](https://open.spotify.com/track/3N91W3DTKztqbzPbOEw4Pf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/7u1ntC7BodnMAw78I502bN) | 3:09 | 2023-05-19 |  |
 | [Freedom](https://open.spotify.com/track/1kP8aDUnowfDgH1y1xLNVf) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Freedom](https://open.spotify.com/album/2Xh1gUIGFHqensYqIf96Cz) | 3:12 | 2022-09-30 |  |
 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 | 2022-09-30 |  |
 | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/track/7gh9OOo02MSvBSp3MPeg6E) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Ghost \(feat\. DJ Rae\)](https://open.spotify.com/album/0R7Q4f6wA3u1Zl50wdT3gH) | 2:46 | 2022-09-30 | 2023-05-27 |
@@ -87,7 +88,7 @@
 | [Renaissance \(Edit\)](https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX) | 3:29 | 2022-09-30 |  |
 | [Renegade](https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Renegade](https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8) | 2:34 | 2022-10-28 |  |
 | [Run Up \(Unknown T\)](https://open.spotify.com/track/2d4Opt89xsBbTSOEnl8WPn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:16 | 2022-09-30 |  |
-| [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-09-30 |  |
+| [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 | 2022-09-30 | 2023-07-13 |
 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 | 2023-04-13 |  |
 | [Special Powers \(feat\. Devilman & Local\) \- Remix](https://open.spotify.com/track/6YvrOZtZiZZEnkSw6t8q3l) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Ego Trippin](https://open.spotify.com/artist/5bdp2qyumzpzh4mJoLNilw), [Devilman](https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Special Powers \(feat\. Devilman & Local\) \[Remix\]](https://open.spotify.com/album/4BXt89QiijaIXI1WmDB6Kt) | 2:46 | 2022-09-30 | 2023-03-15 |
 | [SPECTACULAR](https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Problematik](https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy) | 2:55 | 2022-09-30 |  |

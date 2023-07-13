@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Israel e Rodolffo, Ana Castela, Lia Clark e Pabllo Vittar, Mc Don Juan e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,890,826 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,891,323 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 97 | [águas do futuro](https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [águas do futuro](https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg) | 4:02 |
 | 98 | [Criada no Morro](https://open.spotify.com/track/0VpQBuwTQd1AtGaey14UdK) | [OBerlim](https://open.spotify.com/artist/4HzBDo1A7nlf35EVYunj8B), [Lacerda Beats](https://open.spotify.com/artist/65R0huiH1wvnM2LMz7mKEf) | [Criada no Morro](https://open.spotify.com/album/6lspwVFowxesTmDJbibJ2G) | 2:49 |
 
-Snapshot ID: `MCwwOWRjYzljYjhmYzBhYWRlZmVjOWE0MDZlNTcwN2M4MDFhMGEzYTVm`
+Snapshot ID: `MCw2OTQ1NTgxYTJiNTEzZTZlMDc2MWU3YmM5YTg0ZjQ5NzUyYTk5N2Zl`

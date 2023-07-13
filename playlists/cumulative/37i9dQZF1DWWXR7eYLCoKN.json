@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 223799,
       "name": "Aprendi a Ser Feliz",
       "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 203907,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L"
@@ -128,6 +128,28 @@
       "duration_ms": 174493,
       "name": "As Rosas N\u00e3o Falam",
       "url": "https://open.spotify.com/track/0MMe6HyOCDo6GYBZZCwkyt"
+    },
+    {
+      "album": {
+        "name": "Pagode Novo",
+        "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Campos",
+          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
+        },
+        {
+          "name": "Mari Tavares",
+          "url": "https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205663,
+      "name": "Atraco",
+      "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
     },
     {
       "album": {
@@ -1146,7 +1168,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 202021,
       "name": "Santo Toque",
       "url": "https://open.spotify.com/track/1owJVm7Cbq3Fv68LPMON0v"

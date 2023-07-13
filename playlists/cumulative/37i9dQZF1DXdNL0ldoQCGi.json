@@ -2685,6 +2685,50 @@
     },
     {
       "album": {
+        "name": "Faz Completo Chefe",
+        "url": "https://open.spotify.com/album/5UowZknT0LGEi7Ab7g8q0N"
+      },
+      "artists": [
+        {
+          "name": "mc's kako",
+          "url": "https://open.spotify.com/artist/4lS5ZQgVUl47Nn3kI9wu7V"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142796,
+      "name": "Faz Completo Chefe",
+      "url": "https://open.spotify.com/track/57EfwoZAjGSLofnFea2bWY"
+    },
+    {
+      "album": {
+        "name": "Faz o Teu Nome",
+        "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
+      },
+      "artists": [
+        {
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99701,
+      "name": "Faz o Teu Nome",
+      "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
+    },
+    {
+      "album": {
         "name": "Fazendinha Sessions #2: Vai Ser B\u00e3o Pra l\u00e1",
         "url": "https://open.spotify.com/album/5qVaSgNivBuyXuvWBXyWbA"
       },
@@ -3570,6 +3614,24 @@
     {
       "album": {
         "name": "Em Cima Sempre",
+        "url": "https://open.spotify.com/album/0a9mgxCUSFdtsQlh0xfWgW"
+      },
+      "artists": [
+        {
+          "name": "O Er\u00f3tico",
+          "url": "https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145345,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/338zMeMeCbZMv31xC6YDso"
+    },
+    {
+      "album": {
+        "name": "Em Cima Sempre",
         "url": "https://open.spotify.com/album/0q7WkDth9XAIMyQYiTIkPt"
       },
       "artists": [
@@ -3598,7 +3660,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 146718,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8"

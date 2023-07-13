@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43n2dEAWJhy.md) - [plain]
 
 > Producer and DJ <a href="spotify:artist:4odLDriBk6oEZotzLPTSnD">Jessica Audiffred</a> has been captivating the crowd with her unique way of blending Bass & Trap, and this mix does not disappoint!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286 likes - 23 songs - 56 min 14 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,291 likes - 23 songs - 56 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43n2dEAWJhy.md) - [plain]
 | 22 | [Stupid Love \- Mixed](https://open.spotify.com/track/3ha4pG9L1Q2HzX7mRzxvdk) | [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Nia V](https://open.spotify.com/artist/1SfEO6H8Sp6ZZYUeZC3sJX) | [Stupid Love \(Mixed\)](https://open.spotify.com/album/2YqP4bmYmFUqwkfRLucA7o) | 2:55 |
 | 23 | [You and Me \- Mixed](https://open.spotify.com/track/2JQ8ZxjKIkKHEIJbUtQy1T) | [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [You and Me \(Mixed\)](https://open.spotify.com/album/2EdrVYft56TlCaSdJv1uBz) | 3:24 |
 
-Snapshot ID: `MCwzMTVjNWFmNTJmZmY3MzE0OWUwNWM0Nzk2N2UyZDY5MDY4ZGRhZDQ5`
+Snapshot ID: `MCwzYzhkZDIxMWY1ZjYxMGRjMTYxNmQ1MGZlN2MyZWYwNDNmNmQ5Y2Vh`

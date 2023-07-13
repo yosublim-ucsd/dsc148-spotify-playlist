@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Kuban
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,977 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,992 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 41 | [Futurama](https://open.spotify.com/track/34xLT6m2R7ww0xJZcMRBzK) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Futurama](https://open.spotify.com/album/5O80iVijdX4uJIF4iTWyp5) | 2:19 |
 | 42 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 |
 | 43 | [parole dette male](https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [parole dette male](https://open.spotify.com/album/2xfmbz3t4vbIQITzKJrmXd) | 3:06 |
-| 44 | [Hallelujah](https://open.spotify.com/track/3g40wAr31QX58ILTMUcu10) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [Hallelujah](https://open.spotify.com/album/5R8NfcNGbzZPibpzch9Vtu) | 3:21 |
+| 44 | [Hallelujah](https://open.spotify.com/track/3g40wAr31QX58ILTMUcu10) | [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg), [MDM](https://open.spotify.com/artist/032qvE1MP5hNKELAxsXwBI) | [Hallelujah](https://open.spotify.com/album/5R8NfcNGbzZPibpzch9Vtu) | 3:21 |
 | 45 | [r!va \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/1WzE7gJwVB4ELFUJes2Gm6) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:50 |
 | 46 | [GangstaBaby \(feat\. Rondodasosa\)](https://open.spotify.com/track/3fsDYD3B1niEm6qDpBWEHL) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [QUELLO VERO](https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg) | 2:46 |
 | 47 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 |
 | 65 | [Sabbie Mobili \(feat\. Davide Shorty\)](https://open.spotify.com/track/4S6OeZKXABkmQtVEebDNF7) | [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Sangò](https://open.spotify.com/album/4BfD7Clcx5oBmDfB0K5t2T) | 3:28 |
 
-Snapshot ID: `MCw3ZmUzZDZkNjA3ZmNjOWRiMTVjMDRiYjc3ZDUzZDNmMWQxYzBmYWEw`
+Snapshot ID: `MCxjOGIyOTFiYTQ2Njc3MWY3ODlmMzJiZGJlNjVkNGZiYWFlNmNkZDQw`

@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18484,
+  "num_followers": 18493,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDA5YzhhMzdlMzdkNjFhMWZjY2Q3ZWUyZTlmMjM2NzY0MDAzZjFl",
+  "snapshot_id": "MCw4OGEyYzQ5M2Y5ZDM1ZDIzNGNmMTI2YjcyZWM0YTVlMTJlMTQwZDEz",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Nadie Duerma",
-        "url": "https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc"
-      },
-      "artists": [
-        {
-          "name": "Los Besos",
-          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
-        }
-      ],
-      "duration_ms": 286998,
-      "name": "Nadie Duerma",
-      "url": "https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Deseo Permanente",
         "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 344434,
       "name": "Deseo Permanente",
       "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Nadie Duerma",
+        "url": "https://open.spotify.com/album/1GOWdMTp1ZciwipwKs7RHc"
+      },
+      "artists": [
+        {
+          "name": "Los Besos",
+          "url": "https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee"
+        }
+      ],
+      "duration_ms": 286998,
+      "name": "Nadie Duerma",
+      "url": "https://open.spotify.com/track/7Abe3NiiJJaj7NTEQAaCeG"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Cronos",
-        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
+        "name": "El Pr\u00f3ximo Verano",
+        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
       },
       "artists": [
         {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 229750,
-      "name": "Cronos",
-      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
+      "duration_ms": 269705,
+      "name": "El Pr\u00f3ximo Verano",
+      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "El Pr\u00f3ximo Verano",
-        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
+        "name": "Cronos",
+        "url": "https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
         }
       ],
-      "duration_ms": 269705,
-      "name": "El Pr\u00f3ximo Verano",
-      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
+      "duration_ms": 229750,
+      "name": "Cronos",
+      "url": "https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Regalos",
         "url": "https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 210266,
       "name": "Regalos",
       "url": "https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+        "name": "Algo Para Decirte",
+        "url": "https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T"
       },
       "artists": [
         {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+          "name": "Nina Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
         }
       ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+      "duration_ms": 255593,
+      "name": "Chinos Ojos Rojos",
+      "url": "https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1103,6 +1103,22 @@
       "duration_ms": 250517,
       "name": "800 Vueltas Envolventes",
       "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1151,6 +1167,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "De la Monarqu\u00eda a la Criptocracia",
+        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "De la Monarqu\u00eda a la Criptocracia",
+      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Lucy Patan\u00e9",
         "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
@@ -1163,22 +1195,6 @@
       "duration_ms": 246594,
       "name": "En Toneles",
       "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Zona de Fumadores",
-        "url": "https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 91500,
-      "name": "Zona de Fumadores",
-      "url": "https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1199,34 +1215,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Algo Para Decirte",
-        "url": "https://open.spotify.com/album/1QU6CvjNhR3S31mCnP5D4T"
+        "name": "Zona de Fumadores",
+        "url": "https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM"
       },
       "artists": [
         {
-          "name": "Nina Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV"
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
         }
       ],
-      "duration_ms": 255593,
-      "name": "Chinos Ojos Rojos",
-      "url": "https://open.spotify.com/track/0C1Xz2aSk4jzCaJExG2Ijm"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "De la Monarqu\u00eda a la Criptocracia",
-        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 167900,
-      "name": "De la Monarqu\u00eda a la Criptocracia",
-      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
+      "duration_ms": 91500,
+      "name": "Zona de Fumadores",
+      "url": "https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
-      },
-      "artists": [
-        {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "La Cena",
         "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Soy un Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
+      },
+      "artists": [
+        {
+          "name": "L E O",
+          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
+        }
+      ],
+      "duration_ms": 154411,
+      "name": "Qu\u00e9 Decir?",
+      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
@@ -1295,6 +1295,42 @@
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "ORDEN Y PROGRESO",
+        "url": "https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx"
+      },
+      "artists": [
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        },
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "ACUARIOS",
+      "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "El Disparo",
+        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 209241,
+      "name": "El Disparo",
+      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1323,42 +1359,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "El Disparo",
-        "url": "https://open.spotify.com/album/6UQDbLG4Ugo3s0RkwKO0pi"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 209241,
-      "name": "El Disparo",
-      "url": "https://open.spotify.com/track/7mTQouRQxzOyV3hsHRKnGu"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "ORDEN Y PROGRESO",
-        "url": "https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        },
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "ACUARIOS",
-      "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/7z8TypbmxIssYjPmB1yDsc"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 209032,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/161UJ1aTjzHXcI1J9sAV7S"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1487,42 +1503,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Curriculum Completo",
-        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        },
-        {
-          "name": "Lautaro Lopez",
-          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Curriculum Completo",
-      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "La Bruma",
-        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 173154,
-      "name": "La Bruma",
-      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "No Es Culpa del Fr\u00edo",
         "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
       },
@@ -1535,6 +1515,22 @@
       "duration_ms": 225001,
       "name": "No Es Culpa del Fr\u00edo",
       "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Egnaro",
+        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
+      },
+      "artists": [
+        {
+          "name": "Los Valses",
+          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Egnaro",
+      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Egnaro",
-        "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
       "artists": [
         {
-          "name": "Los Valses",
-          "url": "https://open.spotify.com/artist/5sZZ653SyHEsrxet9XZo47"
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Egnaro",
-      "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "En El Palacio de Las Almas",
-        "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
+        "name": "La Bruma",
+        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
       },
       "artists": [
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
         }
       ],
-      "duration_ms": 243934,
-      "name": "Nudos",
-      "url": "https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH"
+      "duration_ms": 173154,
+      "name": "La Bruma",
+      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "En El Palacio de Las Almas",
+        "url": "https://open.spotify.com/album/4XsbM55fQ2RpOriLDQZJtI"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Nudos",
+      "url": "https://open.spotify.com/track/2xbzDOzq3F9WnbHrgDhixH"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Fuera de Lugar",
         "url": "https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 203892,
       "name": "Fuera de Lugar",
       "url": "https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "S\u00faper Terror",
-        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 340200,
-      "name": "Medalla de Oro",
-      "url": "https://open.spotify.com/track/3foBo7v9p1AJQ26GgmTq4S"
     },
     {
       "added_at": "2023-07-07 03:00:00",

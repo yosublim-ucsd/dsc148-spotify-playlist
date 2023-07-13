@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 193770,
+  "num_followers": 194220,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjg2ZTZlNWJhNWQxNjk1M2IxMTUxMTA3ZTlmMmM5YjVjYzljOWYy",
+  "snapshot_id": "MCw1ZjFhMTc1ZWY4M2M0ZDY5NTU1M2E4YTgyZTI1ZWFmOTMwZjlmODVj",
   "tracks": [
     {
       "added_at": "2023-06-13 14:33:36",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-06-13 14:33:36",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+        "name": "Full Fathom Five",
+        "url": "https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "Sub Sub",
+          "url": "https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Big Fun",
-      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
+      "duration_ms": 175133,
+      "name": "Past",
+      "url": "https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ"
     },
     {
       "added_at": "2023-06-13 14:33:36",
@@ -699,34 +699,18 @@
     {
       "added_at": "2023-06-13 14:33:36",
       "album": {
-        "name": "Full Fathom Five",
-        "url": "https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
       "artists": [
         {
-          "name": "Sub Sub",
-          "url": "https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
         }
       ],
-      "duration_ms": 175133,
-      "name": "Past",
-      "url": "https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ"
-    },
-    {
-      "added_at": "2023-06-13 14:33:36",
-      "album": {
-        "name": "Everybody's Free",
-        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
-      },
-      "artists": [
-        {
-          "name": "Rozalla",
-          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Everybody's Free (Single Version)",
-      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
+      "duration_ms": 206160,
+      "name": "Big Fun",
+      "url": "https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr"
     },
     {
       "added_at": "2023-06-13 14:33:36",
@@ -743,6 +727,22 @@
       "duration_ms": 450912,
       "name": "Pjanoo - Club Mix",
       "url": "https://open.spotify.com/track/0noVd1VU93X8TEZMmpR3yN"
+    },
+    {
+      "added_at": "2023-06-13 14:33:36",
+      "album": {
+        "name": "Everybody's Free",
+        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
+      },
+      "artists": [
+        {
+          "name": "Rozalla",
+          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Everybody's Free (Single Version)",
+      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
     },
     {
       "added_at": "2023-06-13 14:33:36",

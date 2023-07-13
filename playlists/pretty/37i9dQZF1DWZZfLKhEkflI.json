@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 62711,
+  "num_followers": 62737,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2JiM2I3NTgyNmVlZTUyZmE2YzZlMzA2ZDI0Mjc5ZTBmZmNiZWZk",
+  "snapshot_id": "MCwyYTViNTMwZmJhYjQxMjI0MzcyYzcxODI0ZTMyNmFiN2JmYTlmYjUy",
   "tracks": [
     {
       "added_at": "2023-06-22 07:00:03",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
-        "name": "Cool Struttin\u2019",
-        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 617487,
-      "name": "Blue Minor - Remastered",
-      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
-    },
-    {
-      "added_at": "2023-06-22 07:00:03",
-      "album": {
         "name": "The Sidewinder (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 370160,
       "name": "Gary's Notebook - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/00dDsLgxoPzhbPD3owDfwT"
+    },
+    {
+      "added_at": "2023-06-22 07:00:03",
+      "album": {
+        "name": "Cool Struttin\u2019",
+        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 617487,
+      "name": "Blue Minor - Remastered",
+      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
     },
     {
       "added_at": "2023-06-22 07:00:03",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
+        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
+        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 304453,
+      "name": "The Joker - Remastered",
+      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
+    },
+    {
+      "added_at": "2023-06-22 07:00:03",
+      "album": {
         "name": "Caravan [Keepnews Collection]",
         "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 367826,
       "name": "The Rake",
       "url": "https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ"
-    },
-    {
-      "added_at": "2023-06-22 07:00:03",
-      "album": {
-        "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
-        "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 304453,
-      "name": "The Joker - Remastered",
-      "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
     },
     {
       "added_at": "2023-06-22 07:00:03",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 376666,
-      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
+      "duration_ms": 511853,
+      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
     },
     {
       "added_at": "2023-06-22 07:00:03",
@@ -711,6 +711,22 @@
       "duration_ms": 265893,
       "name": "Camouflage - Remastered 1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
+    },
+    {
+      "added_at": "2023-06-22 07:00:03",
+      "album": {
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
     },
     {
       "added_at": "2023-06-22 07:00:03",
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 511853,
-      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
-    },
-    {
-      "added_at": "2023-06-22 07:00:03",
-      "album": {
         "name": "Back To The Tracks",
         "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
       },
@@ -767,8 +767,8 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
     },
     {
       "added_at": "2023-06-22 07:00:03",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
-        "name": "Horace Silver And The Jazz Messengers",
-        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 446986,
-      "name": "Creepin' In - Remastered",
-      "url": "https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP"
-    },
-    {
-      "added_at": "2023-06-22 07:00:03",
-      "album": {
         "name": "My Conception",
         "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 446986,
+      "name": "Creepin' In - Remastered",
+      "url": "https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP"
+    },
+    {
+      "added_at": "2023-06-22 07:00:03",
+      "album": {
         "name": "Quartet / Quintet / Sextet",
         "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
@@ -911,8 +911,8 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2023-06-22 07:00:03",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-22 07:00:03",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
-    },
-    {
-      "added_at": "2023-06-22 07:00:03",
-      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 395213,
       "name": "Light Blue - Remastered",
       "url": "https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw"
+    },
+    {
+      "added_at": "2023-06-22 07:00:03",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2023-06-22 07:00:03",

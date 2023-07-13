@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY XVI soundtrack and stay tuned for the  upcoming theme song\. 最新作『FFXVI』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-219 songs - 12 hr 54 min
+220 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Calling for Rain](https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L) | [Neo Liu](https://open.spotify.com/artist/3tRSexEXQcKCP2GPWM0fl6), [Tu Hua Bing](https://open.spotify.com/artist/69utIloWXaEb6Aq03q0bYo) | [KINGSGLAIVE FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI) | 3:40 | 2023-06-08 |  |
 | [Character Creation](https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd) | [Masaharu Iwata](https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 1:45 | 2023-06-08 |  |
 | [Chocobo Theme](https://open.spotify.com/track/2Kqcwc0MlYkB53OJHZCbfq) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY II Original Soundtrack](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6) | 0:24 | 2021-05-21 | 2023-06-09 |
-| [Crazy Chocobo](https://open.spotify.com/track/1UYhWzTGVNLMTXetWCQxgN) | [ShootieHG](https://open.spotify.com/artist/3AmPUqTlN4yGPZF1G1eUSP) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:55 | 2023-06-25 |  |
+| [Crazy Chocobo](https://open.spotify.com/track/1UYhWzTGVNLMTXetWCQxgN) | [ShootieHG](https://open.spotify.com/artist/3AmPUqTlN4yGPZF1G1eUSP) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:55 | 2023-06-25 | 2023-07-13 |
 | [CRISIS CORE Theme \- Succession](https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 0:43 | 2023-06-08 |  |
 | [Dragonsong](https://open.spotify.com/track/0UVvQQdoeJeH7aDcgh9dVL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 5:42 | 2023-06-08 |  |
 | [DUEL!!](https://open.spotify.com/track/3MtnSqACBKYdvz5VgIAUJD) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:50 | 2023-06-09 |  |
@@ -104,6 +104,7 @@
 | [Melodies Of Life\~Final Fantasy](https://open.spotify.com/track/7AAgAhebg3jI3kY5Fh4gEL) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/3aMjbkNLCvOi1gr7uRxNJx) | 7:35 | 2021-05-21 | 2022-07-29 |
 | [Moment of Recall](https://open.spotify.com/track/3WpisYlhAtVgorb1ZQnBpm) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:47 | 2023-06-08 |  |
 | [My Lady](https://open.spotify.com/track/276sedtnIqaj5LM92cJkLf) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe) | [FINAL FANTASY XVI Original Soundtrack \(Prelude\)](https://open.spotify.com/album/4SKgLEaL1Zpj6gDrtJ0OHu) | 1:52 | 2023-07-06 |  |
+| [My Life to Live](https://open.spotify.com/track/4CkP7nDkSq5F14mIUy4dva) | [鈴木克崇](https://open.spotify.com/artist/7deF5okxPdwvOkzbtLg0xh) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【1/2】\)](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 1:04 | 2023-07-06 |  |
 | [New Bodhum](https://open.spotify.com/track/0i7fBwgtVxfYsWtEIro1Wz) | [ORIGA](https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 5:39 | 2023-06-08 | 2023-07-07 |
 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 | 2021-05-21 |  |
 | [Not Alone](https://open.spotify.com/track/3KpEErV5sFaraIYHGpWOOt) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 2:36 | 2021-05-21 | 2023-06-09 |

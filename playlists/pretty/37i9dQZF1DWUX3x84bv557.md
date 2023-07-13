@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Pommelien Thijs & MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,846 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,868 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Tokyo](https://open.spotify.com/track/78KoAAMz7rluCfPlAB9gnL) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Tokyo](https://open.spotify.com/album/0V9Bp6PlCoVds8NUTdCJb8) | 2:34 |
 | 90 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 
-Snapshot ID: `MCw4MDc0ZTk2MzY1ZjExYWZjNmRhNDdhMDA0YzI2NDQyYWZmNWQ1MzYx`
+Snapshot ID: `MCxhMWM5OTM1ZTJlMTE5ZmExNDUzYzMxZjViYjhkYTRmZDM2NTgyMjNk`

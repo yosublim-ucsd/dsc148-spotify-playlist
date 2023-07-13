@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-764 songs - 1 day 17 hr 31 min
+765 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Meri Jaan Meri Jaan \(From "Bachchhan Paandey"\)](https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL) | 4:08 | 2022-03-01 | 2022-04-29 |
 | [Meri Qismat](https://open.spotify.com/track/5Cc0D3BJf5xCzqeaTrkTwu) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM) | [Vich Bolunga Tere](https://open.spotify.com/album/5p88oOkwxlPr8F5gTEeJ5y) | 3:17 | 2022-10-13 | 2022-12-16 |
 | [Meri Zuban \(From "MOH"\)](https://open.spotify.com/track/5h0ths4OtpJMDkJpZrycQZ) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Meri Zuban \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2t9AwGoCQlroUmuTjXYehD) | 3:47 | 2022-09-06 | 2023-02-04 |
+| [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 | 2023-07-12 |  |
 | [Midnight](https://open.spotify.com/track/19bAA9kNKdMEh3xqFPqJT4) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hakeem](https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl) | [Midnight](https://open.spotify.com/album/0fRXvOvU3BTzPs5zaccym1) | 2:51 | 2022-04-04 | 2022-04-29 |
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-07-28 | 2023-02-04 |
 | [Mob N Love](https://open.spotify.com/track/0MZqrU16fpP4aE9INyYpD1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mob N Love](https://open.spotify.com/album/4jcpVLu1qPJRCthsocyMgX) | 3:22 | 2022-04-18 | 2022-07-06 |

@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-267 songs - 17 hr 6 min
+268 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Disappointed](https://open.spotify.com/track/5iEBZQZTvAAAJBFi4FwsRd) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/0LTjFQ67GmORc4ttbXWOJu) | 5:20 | 2022-06-30 | 2023-02-27 |
 | [Disappointed](https://open.spotify.com/track/6i6YwnjYh7v56DQsk2bcbv) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Big Picture](https://open.spotify.com/album/3V8iH2jIjtTBj1CBkTPSZA) | 5:20 | 2021-12-15 | 2022-07-29 |
 | [Don't Follow Me](https://open.spotify.com/track/5Xbwp8PT55iYMkoECvE3BQ) | [Another Five Minutes](https://open.spotify.com/artist/08F7kA02XWvTzcKus7ms2u) | [Don't Follow Me](https://open.spotify.com/album/4eTRhhvkB8cY1WQucZI5UU) | 4:29 | 2021-12-31 | 2022-07-19 |
-| [Drift](https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Motion Return](https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM) | 3:47 | 2023-02-02 | 2023-04-22 |
+| [Drift](https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Motion Return](https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM) | 3:47 | 2023-02-02 |  |
 | [Dropped By The Doves](https://open.spotify.com/track/3s8O2RnVyxDmm4zHELriYj) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 2:54 | 2022-04-17 |  |
 | [Déprime hostile](https://open.spotify.com/track/3aQjtAFl23kSadBxrVmrr1) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Déprime hostile](https://open.spotify.com/album/2yqWH1uIjg26bzGFNnV8RS) | 2:18 | 2021-12-15 | 2022-07-29 |
 | [Easy Living](https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 6:06 | 2022-03-24 |  |
@@ -78,7 +78,7 @@
 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 | 2022-02-14 | 2022-06-28 |
 | [Fall Away](https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m) | [Hype Lights](https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo) | [Fall Away](https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q) | 3:02 | 2021-12-31 | 2023-05-12 |
 | [Feeling](https://open.spotify.com/track/6CFMwf7AVVyh6i30NlcVwG) | [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Pas d'Accord !](https://open.spotify.com/album/3FmbPQ4RQOQOz2dZfLAw10) | 3:38 | 2023-06-29 |  |
-| [Fine](https://open.spotify.com/track/7xr1eQGbgOY3X3mxlBuNzP) | [Bornside](https://open.spotify.com/artist/2mjELQUXJT0zJmuuStveX3) | [Fine](https://open.spotify.com/album/7D4OScfr4c3qZDRFmrDgAA) | 3:49 | 2023-05-30 |  |
+| [Fine](https://open.spotify.com/track/7xr1eQGbgOY3X3mxlBuNzP) | [Bornside](https://open.spotify.com/artist/2mjELQUXJT0zJmuuStveX3) | [Fine](https://open.spotify.com/album/7D4OScfr4c3qZDRFmrDgAA) | 3:49 | 2023-05-30 | 2023-07-13 |
 | [Fire](https://open.spotify.com/track/7EZXYslJB5VZUbGma0kt9c) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 6:34 | 2023-03-30 | 2023-06-30 |
 | [Fire Fire](https://open.spotify.com/track/0mjEltYGiBBdJv0RKCWnke) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/0Sgit9uSQBgKTL1XoiN9SQ) | 3:52 | 2022-11-28 | 2023-02-01 |
 | [Fire Fire](https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Burning Bright](https://open.spotify.com/album/7lOutDr84PlBG1OAAylOAW) | 3:52 | 2021-12-15 | 2022-07-29 |
@@ -172,8 +172,9 @@
 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 | 2021-12-15 | 2023-05-08 |
 | [No Love](https://open.spotify.com/track/19njmJxhmdDqtR7YiFbm9v) | [Greyfell](https://open.spotify.com/artist/5spUgqt548nWET38ueJ7Kq) | [Horsepower](https://open.spotify.com/album/521jPvDr9aRITcZICFdTmc) | 6:12 | 2022-01-03 | 2022-07-27 |
 | [No Matter What](https://open.spotify.com/track/0XBjcu4H7ZHD7nZykpX2cN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [No Matter What](https://open.spotify.com/album/6YqquSBeAfT3M0znCqQnr5) | 4:20 | 2021-12-31 | 2022-07-22 |
-| [Nowhere Near Prepared](https://open.spotify.com/track/0gBOasbQ8wXhs0Ji3omdh1) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Nowhere Near Prepared](https://open.spotify.com/album/7ib5O00WC2qag2JBqNaPa5) | 3:23 | 2023-06-29 |  |
+| [Nowhere Near Prepared](https://open.spotify.com/track/0gBOasbQ8wXhs0Ji3omdh1) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Nowhere Near Prepared](https://open.spotify.com/album/7ib5O00WC2qag2JBqNaPa5) | 3:23 | 2023-06-29 | 2023-07-13 |
 | [NYE](https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY) | [Unschooling](https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs) | [Random Acts of Total Control](https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C) | 3:52 | 2022-01-27 |  |
+| [Néant](https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Néant](https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu) | 4:09 | 2023-07-05 |  |
 | [Néant](https://open.spotify.com/track/5YHPFzrnaP31PXYCirRS0y) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:09 | 2022-04-17 | 2023-07-09 |
 | [O.E.](https://open.spotify.com/track/5QbRcqJpmlDgN9VBCIpBPn) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [O.E.](https://open.spotify.com/album/4pJCbw5VR9tiDkAtV26XT8) | 3:39 | 2021-12-15 | 2022-07-28 |
 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 | 2022-02-07 | 2022-12-18 |

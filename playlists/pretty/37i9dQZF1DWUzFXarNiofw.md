@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,063 likes - 171 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,207 likes - 171 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 170 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 | 171 | [Familiar](https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Familiar](https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP) | 3:10 |
 
-Snapshot ID: `MCw4NTEzNmUyYjJhZWI2MDBiZGYwMmE1ZTRlYzY4OTBlNmQ3ZDE0Y2I1`
+Snapshot ID: `MCxkZWIzZTAwZTk4MzIxNjYwZWY4NWIwNzM2MmJlZWY5YzljZWJjNDM1`

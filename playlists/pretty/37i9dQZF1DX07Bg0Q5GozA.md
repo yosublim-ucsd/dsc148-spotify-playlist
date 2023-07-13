@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Metric
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,704 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,721 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 5 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 |
 | 6 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
 | 7 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
-| 8 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 |
+| 8 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 |
 | 9 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 10 | [Survivor](https://open.spotify.com/track/3IzfxJ3w7fDEjewRrSlSrS) | [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [C.A.R.](https://open.spotify.com/artist/0f5WhR4J5QIfykB15aOKNK) | [Survivor](https://open.spotify.com/album/4lV2QLJcoCFy8BNzFkJcQC) | 6:23 |
 | 11 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Into You \- Vienna Nights Mix](https://open.spotify.com/track/461hznkAq17ywDHFzqA34b) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH), [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Into You \(Vienna Nights Mix\)](https://open.spotify.com/album/62hKvNCLBrYA7z0zzSRKGj) | 2:45 |
 | 75 | [Summer & Smoke \- Trikk Selva Furia Remix](https://open.spotify.com/track/2hbIOgTUnun0uQqQFsgUOM) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU), [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Summer & Smoke \(The Remixes\)](https://open.spotify.com/album/6qNbDRjMcjbzkHqJVYjLga) | 3:44 |
 
-Snapshot ID: `MCxmOTFlZmRlNzA0ODFhNjhlZmVlMmEyZTZmMjNhOTdmOTQ4YWNhMWVh`
+Snapshot ID: `MCw1MGMxOTE5M2YwNjJhYmU0MDIwNDAyNzYwOWY4YTEwOTRkNjcwYTA4`

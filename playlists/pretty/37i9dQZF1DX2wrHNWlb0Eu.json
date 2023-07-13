@@ -1,12 +1,12 @@
 {
   "description": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 \u0e41\u0e15\u0e48\u0e17\u0e33\u0e44\u0e21\u0e21\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 93074,
+  "num_followers": 93123,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj",
+  "snapshot_id": "MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3",
   "tracks": [
     {
       "added_at": "2023-06-09 09:59:32",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
-        "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
-      },
-      "artists": [
-        {
-          "name": "Gemini Norawit",
-          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
-        }
-      ],
-      "duration_ms": 255957,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
-      "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19 - Single",
         "url": "https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 216969,
       "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19",
       "url": "https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+        "url": "https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS"
+      },
+      "artists": [
+        {
+          "name": "Gemini Norawit",
+          "url": "https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei"
+        }
+      ],
+      "duration_ms": 255957,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President",
+      "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
-      },
-      "artists": [
-        {
-          "name": "URBOYTJ",
-          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
-        }
-      ],
-      "duration_ms": 191392,
-      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
-      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF"
       },
@@ -647,18 +631,34 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
       },
       "artists": [
         {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
         }
       ],
-      "duration_ms": 237772,
-      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
+      "duration_ms": 261250,
+      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+        "url": "https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy"
+      },
+      "artists": [
+        {
+          "name": "URBOYTJ",
+          "url": "https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg"
+        }
+      ],
+      "duration_ms": 191392,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e14\u0e49\u0e17\u0e38\u0e01\u0e2d\u0e22\u0e48\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj"
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
       },
       "artists": [
         {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
         }
       ],
-      "duration_ms": 261250,
-      "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
+      "duration_ms": 237772,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "Melbourne",
-        "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
-      },
-      "artists": [
-        {
-          "name": "Morvasu",
-          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
-        },
-        {
-          "name": "TangBadVoice",
-          "url": "https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Melbourne",
-      "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23 (IF YOU LOVE)",
         "url": "https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM"
       },
@@ -951,18 +931,22 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
+        "name": "Melbourne",
+        "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
       },
       "artists": [
         {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        },
+        {
+          "name": "TangBadVoice",
+          "url": "https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe"
         }
       ],
-      "duration_ms": 205875,
-      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
-      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
+      "duration_ms": 182125,
+      "name": "Melbourne",
+      "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -979,6 +963,22 @@
       "duration_ms": 245853,
       "name": "\u0e1b\u0e23\u0e30\u0e01\u0e32\u0e28\u0e43\u0e2b\u0e49\u0e42\u0e25\u0e01\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e1c\u0e39\u0e49\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32 (Worth The Wait)",
+      "url": "https://open.spotify.com/track/6a5f2v5IlyeEXQRn65MFdS"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 240450,
-      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
-      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e17\u0e33\u0e44\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e04\u0e19\u0e19\u0e35\u0e49?",
         "url": "https://open.spotify.com/album/2E0mvHoOhKLRcewQLgd9ee"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 170655,
       "name": "\u0e17\u0e33\u0e44\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e04\u0e19\u0e19\u0e35\u0e49?",
       "url": "https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+        "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
+      "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e2b\u0e27\u0e07(You're Mine)",
-        "url": "https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa"
-      },
-      "artists": [
-        {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
-        }
-      ],
-      "duration_ms": 216162,
-      "name": "\u0e2b\u0e27\u0e07(You're Mine)",
-      "url": "https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "Nude",
         "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
+        "name": "\u0e2b\u0e27\u0e07(You're Mine)",
+        "url": "https://open.spotify.com/album/63GllsPcsHzVIelwhn5ZDa"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        }
+      ],
+      "duration_ms": 216162,
+      "name": "\u0e2b\u0e27\u0e07(You're Mine)",
+      "url": "https://open.spotify.com/track/0fHmpM00nb8arza6MMvM6i"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
         "name": "\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e01\u0e47\u0e42\u0e2d\u0e19\u0e34",
         "url": "https://open.spotify.com/album/30NpS3bdoQuLb6zhSuTC4H"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
-        "url": "https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF"
-      },
-      "artists": [
-        {
-          "name": "\u0e43\u0e2b\u0e21\u0e48 \u0e14\u0e32\u0e27\u0e34\u0e01\u0e32",
-          "url": "https://open.spotify.com/artist/6NZ39j1ffvaj6q2G9SCDuF"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
-      "url": "https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e40\u0e23\u0e32",
         "url": "https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 306104,
       "name": "\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
+        "url": "https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF"
+      },
+      "artists": [
+        {
+          "name": "\u0e43\u0e2b\u0e21\u0e48 \u0e14\u0e32\u0e27\u0e34\u0e01\u0e32",
+          "url": "https://open.spotify.com/artist/6NZ39j1ffvaj6q2G9SCDuF"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e1b\u0e48\u0e30\u0e40\u0e19\u0e35\u0e48\u0e22 (Can I Call You Mine)",
+      "url": "https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb"
     },
     {
       "added_at": "2023-06-09 09:59:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,549 likes - 71 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,590 likes - 71 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 4 | [Chicken Heads](https://open.spotify.com/track/0Mc5onRXu2mgLHgb0nfFxe) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Chicken Heads 50th Anniversary](https://open.spotify.com/album/6VOnwHoW4Hn2mxZt7HXzaR) | 5:19 |
 | 5 | [Funky Guitar Blues](https://open.spotify.com/track/2dqkDzJPwSIduZlKJh0lvB) | [Bryce Janey](https://open.spotify.com/artist/09ZFZmc7XNCwnDYB3R48qr) | [Blues In My Soul](https://open.spotify.com/album/1ULW18kqQ47Qp3YUATkvFQ) | 4:21 |
 | 6 | [True Lies](https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:48 |
-| 7 | [I Was A Fool](https://open.spotify.com/track/0yLT3sSQU6TkLdlbq0mHm4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [I Was A Fool](https://open.spotify.com/album/3NvKMJA950Tz5xx1CwOoRH) | 3:23 |
+| 7 | [I Was a Fool](https://open.spotify.com/track/5d8OH4z7BCPCRq5wNIVTyY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:23 |
 | 8 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
 | 9 | [Here it Comes](https://open.spotify.com/track/6h8p747HBdGCua6nTVpnYg) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Here it Comes](https://open.spotify.com/album/0BPIg1qCg8BVVQKTwYLOOU) | 3:06 |
 | 10 | [Woman Gonna take The Fear Away](https://open.spotify.com/track/1bk3JiDGZIRlU6iWperLGf) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Lay It Bare \(Taller Than 2021 Remix\)](https://open.spotify.com/album/4Kt5fmBWMROZNAEUTTS87P) | 3:26 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 70 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 71 | [In Time](https://open.spotify.com/track/4BVmZWmdjlmJTRBPfiGbjB) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 7:02 |
 
-Snapshot ID: `MCw1NDdkY2RiNmQwNTllZjUyNGU3YWFkNmY4NzA3NDU2YTQ3MTM0ODQ4`
+Snapshot ID: `MCw0ODUwZmIyOWUxM2RmZWQzZWQ4MDE5OGIxMWNjZGUwZGZlZTEyYjk3`

@@ -2135,6 +2135,32 @@
     },
     {
       "album": {
+        "name": "Universal Language",
+        "url": "https://open.spotify.com/album/7mPgkoMjQ5s5BE6XBiuIVH"
+      },
+      "artists": [
+        {
+          "name": "Simon Doty",
+          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
+        },
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234398,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4tHjizQIS9XyYnKBxID7b4"
+    },
+    {
+      "album": {
         "name": "Follow The Dark - Part I",
         "url": "https://open.spotify.com/album/71NWTreHzqVqeSHrP6WmzU"
       },
@@ -3720,7 +3746,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 420495,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1"
@@ -3760,7 +3786,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 385573,
       "name": "Mamafaka",
       "url": "https://open.spotify.com/track/7z3RKkPmLeskg7NE5SkueF"
@@ -6078,7 +6104,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Sorry I Hide in My Room",
       "url": "https://open.spotify.com/track/5pwScWoXXIPhAeY90OY8Sd"

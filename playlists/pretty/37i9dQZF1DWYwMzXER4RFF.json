@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 268828,
+  "num_followers": 268914,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh",
+  "snapshot_id": "MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "The Cleaner",
-        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 453211,
-      "name": "The Cleaner",
-      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Audio Drag for Ego Slobs",
         "url": "https://open.spotify.com/album/6bjTnQUluNGjl7SDJeE7n3"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 120268,
       "name": "Book",
       "url": "https://open.spotify.com/track/5bvR6HZsnbDPs1dGeuc0Vg"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "The Cleaner",
+        "url": "https://open.spotify.com/album/0IYwrkF0eNvYRrtUHZO7Bo"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 453211,
+      "name": "The Cleaner",
+      "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Bright Green Field",
-        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 483800,
-      "name": "Pamphlets",
-      "url": "https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "TRU",
         "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 202528,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Bright Green Field",
+        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 483800,
+      "name": "Pamphlets",
+      "url": "https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Rhythm Is Our Business (Edit)",
-        "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
-      },
-      "artists": [
-        {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rhythm Is Our Business - Edit",
-      "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Auto-Pain",
         "url": "https://open.spotify.com/album/0ysuZ27s6yTQDmREAaAp1I"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 204786,
       "name": "This Heat",
       "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Rhythm Is Our Business (Edit)",
+        "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Rhythm Is Our Business - Edit",
+      "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
     },
     {
       "added_at": "2023-02-24 00:00:00",

@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 209946,
       "name": "Christmas Tree",
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 197007,
       "name": "Chromosome - Edit",
       "url": "https://open.spotify.com/track/2QTO7F2Xr7cfAupY2ucqAp"
@@ -15640,7 +15640,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ"
@@ -16192,7 +16192,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 222818,
       "name": "\u0627\u0648\u0641 \u0627\u0648\u0641 \u0645\u0646\u0643 \u0627\u0648\u0641",
       "url": "https://open.spotify.com/track/55YDyt2GWhH0CN5zryW5c6"
@@ -16590,7 +16590,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 214296,
       "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628 | \u062a\u0628\u064a \u0627\u0644\u0635\u0631\u0627\u062d\u0629 \u062a\u0639\u0644\u0642\u062a \u060c \u0645\u0627\u0641\u064a \u0627\u0644\u064a\u062f \u062d\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/0NjEW2Cwca2WZNwsVF0EY4"
@@ -16648,6 +16648,24 @@
       "duration_ms": 220868,
       "name": "\u062e\u0644\u064a\u062c\u064a \u0637\u0631\u0628 | \u0647\u0644\u0627 \u0628\u0627\u0644\u0637\u064a\u0628 \u0627\u0644\u063a\u0627\u0644\u064a \u060c \u0639\u0632\u064a\u0632 \u0648 \u0634\u0648\u0641\u062a\u0643 \u0645\u0646\u0648\u0647 \u060c \u0645\u0643\u0633 \u062e\u0644\u064a\u062c\u064a",
       "url": "https://open.spotify.com/track/0bTAlDHgc92ygVA60kXw1L"
+    },
+    {
+      "album": {
+        "name": "\u062e\u0644\u064a\u062c\u064a \u0645\u0637\u0644\u0648\u0628 | \u062a\u062d\u062f\u0648\u0646\u0627 \u062a\u062d\u062f\u0648\u0646\u0627 \u060c \u0648\u0644\u0627 \u0642\u062f\u0631\u0648 \u064a\u0647\u0632\u0648\u0646\u0627",
+        "url": "https://open.spotify.com/album/7n0cJB3ncwwJShz9QbgDLr"
+      },
+      "artists": [
+        {
+          "name": "SRAG FM",
+          "url": "https://open.spotify.com/artist/6ABl2w57Uy3xxIb7XOXycd"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308778,
+      "name": "\u062e\u0644\u064a\u062c\u064a \u0645\u0637\u0644\u0648\u0628 | \u062a\u062d\u062f\u0648\u0646\u0627 \u062a\u062d\u062f\u0648\u0646\u0627 \u060c \u0648\u0644\u0627 \u0642\u062f\u0631\u0648 \u064a\u0647\u0632\u0648\u0646\u0627",
+      "url": "https://open.spotify.com/track/0aajYHsOTw8tfUmpn3r6Ih"
     },
     {
       "album": {
@@ -17275,6 +17293,24 @@
     },
     {
       "album": {
+        "name": "\u0645\u063a\u0631\u0628\u064a \u0647\u062c\u0648\u0644\u0647 | \u0639\u0646\u062f\u0648 \u0644\u062e\u064a\u0627\u0646\u0647 \u0645\u0648\u0636\u0647 \u060c \u0634\u062f\u064a \u0648\u0644\u062f\u0643 \u0639\u0644\u064a\u0627 - \u0645\u0637\u0644\u0648\u0628\u0647 \u0627\u0643\u062b\u0631 \u0634\u064a",
+        "url": "https://open.spotify.com/album/3th4r95wvh2VFi8tHDKLYt"
+      },
+      "artists": [
+        {
+          "name": "SOMA FM",
+          "url": "https://open.spotify.com/artist/3SoI7WIPPrMJKVvVwEx8Lc"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201534,
+      "name": "\u0645\u063a\u0631\u0628\u064a \u0647\u062c\u0648\u0644\u0647 | \u0639\u0646\u062f\u0648 \u0644\u062e\u064a\u0627\u0646\u0647 \u0645\u0648\u0636\u0647 \u060c \u0634\u062f\u064a \u0648\u0644\u062f\u0643 \u0639\u0644\u064a\u0627 - \u0645\u0637\u0644\u0648\u0628\u0647 \u0627\u0643\u062b\u0631 \u0634\u064a",
+      "url": "https://open.spotify.com/track/7uiVZHtBqbQmzcp2X7TNaW"
+    },
+    {
+      "album": {
         "name": "\u0645\u0643\u0633 \u062e\u0644\u064a\u062c\u064a (Acoustic Version)",
         "url": "https://open.spotify.com/album/4LVa8uAFcLzXex2dR9AF1y"
       },
@@ -17690,7 +17726,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 249427,
       "name": "\u064a\u0627\u0648\u0637\u0646 \u0637\u0627\u0647\u0631 \u062a\u0631\u0627\u0628\u0643",
       "url": "https://open.spotify.com/track/438ZRCqfXEltdzoRYEZAjf"

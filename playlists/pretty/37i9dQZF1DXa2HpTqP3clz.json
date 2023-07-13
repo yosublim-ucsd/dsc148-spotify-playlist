@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites Cover: Dan Tyminski",
-  "num_followers": 123029,
+  "num_followers": 123080,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDVkMGY2ZDIyZGUyNDMwM2NmNGZlZDdmNmRlMDI4MmVlYWMxNDlm",
+  "snapshot_id": "MCxkYjUyOTZkOTYxNmVmNWM3YzE3Mzk0YjQwNDNkOWU2NmNmYzczM2Ex",
   "tracks": [
     {
       "added_at": "2023-07-08 22:26:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Time We Made Time",
-      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 153327,
       "name": "Church Street Blues",
       "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Time We Made Time",
+      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Ink, Dust & Luck",
-        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
         }
       ],
-      "duration_ms": 190789,
-      "name": "Don't Make Me Get up and Go",
-      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
+      "duration_ms": 223404,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+        "name": "Ink, Dust & Luck",
+        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
       },
       "artists": [
         {
-          "name": "Mikele Buck Band",
-          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 223404,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
+      "duration_ms": 190789,
+      "name": "Don't Make Me Get up and Go",
+      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
+        "name": "Strange Fascination",
+        "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
+      },
+      "artists": [
+        {
+          "name": "Chatham County Line",
+          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 258930,
+      "name": "Strange Fascination",
+      "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
         "name": "Midnight on the Stormy Deep",
         "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
-        "name": "Strange Fascination",
-        "url": "https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs"
-      },
-      "artists": [
-        {
-          "name": "Chatham County Line",
-          "url": "https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 258930,
-      "name": "Strange Fascination",
-      "url": "https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 139893,
-      "name": "Super Moon",
-      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
         "name": "Message From Heaven",
         "url": "https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Laws Of Gravity",
-        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 275973,
-      "name": "1901: A Canyon Odyssey",
-      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1467,6 +1451,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
+        "name": "Laws Of Gravity",
+        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "1901: A Canyon Odyssey",
+      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
+        "name": "Rosa Lee McFall (Live)",
+        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain Boys",
+          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
+        },
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 150575,
+      "name": "Rosa Lee McFall - Live",
+      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+    },
+    {
+      "added_at": "2023-07-08 22:26:02",
+      "album": {
         "name": "Spirit to the Sea",
         "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
       },
@@ -1595,22 +1615,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Rosa Lee McFall (Live)",
-        "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
       },
       "artists": [
         {
-          "name": "Black Mountain Boys",
-          "url": "https://open.spotify.com/artist/1sz2PAcIPFpZR6Hpb2JMRR"
-        },
-        {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+          "name": "Volume Five",
+          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
         }
       ],
-      "duration_ms": 150575,
-      "name": "Rosa Lee McFall - Live",
-      "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
+      "duration_ms": 174773,
+      "name": "95 Years",
+      "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Drifter",
-        "url": "https://open.spotify.com/album/69UJfZuTLuRKsM9dLgsf40"
+        "name": "Live Sessions, Vol. 03",
+        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
       },
       "artists": [
         {
-          "name": "Volume Five",
-          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+          "name": "The Petersens",
+          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
         }
       ],
-      "duration_ms": 174773,
-      "name": "95 Years",
-      "url": "https://open.spotify.com/track/2FWHuUIYeGnboXO0PFaVc8"
+      "duration_ms": 160525,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1683,18 +1699,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Live Sessions, Vol. 03",
-        "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
       "artists": [
         {
-          "name": "The Petersens",
-          "url": "https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx"
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
         }
       ],
-      "duration_ms": 160525,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX"
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1727,22 +1743,6 @@
       "duration_ms": 178182,
       "name": "Alive With You",
       "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
-    },
-    {
-      "added_at": "2023-07-08 22:26:02",
-      "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2023-07-08 22:26:02",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2023-07-08 22:26:02",
       "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+        "name": "Twisted Pine",
+        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Twisted Pine",
+          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
         }
       ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+      "duration_ms": 252428,
+      "name": "When I Called Your Name",
+      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
     }
   ],
   "unique_name": "Grass Roots",

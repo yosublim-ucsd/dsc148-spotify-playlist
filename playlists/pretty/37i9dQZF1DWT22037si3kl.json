@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Major RD",
-  "num_followers": 114929,
+  "num_followers": 115067,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmYyYTkyYTA5MjBmZjFlMWMwYTY4N2ViMWVkMjAxYjE3Yjg4YzNj",
+  "snapshot_id": "MCw5OTY1M2FjODZkNzNmMGYxODIyOGJjNzIzMDUxMjc3OTczN2UzZmQ3",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -507,6 +507,34 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Gucci, Prada",
+        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Gucci, Prada",
+      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Vit\u00f3ria Dobrada",
         "url": "https://open.spotify.com/album/68ZbRbgtvH2JBiqC5nCx6f"
       },
@@ -543,30 +571,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Balmain",
-        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
-      },
-      "artists": [
-        {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "OGBEATZZ",
-          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Balmain",
-      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Vestido da Fendi",
         "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
       },
@@ -587,30 +591,26 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Gucci, Prada",
-        "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         },
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "OGBEATZZ",
+          "url": "https://open.spotify.com/artist/15v6FcwjMytlEEhsG6mcLU"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Gucci, Prada",
-      "url": "https://open.spotify.com/track/6iKT8x1sTotyl1ye0lgD5I"
+      "duration_ms": 197500,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -739,26 +739,22 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Trap Funk Star",
-        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
+        "name": "Posturad\u00e3o",
+        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
       },
       "artists": [
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
         },
         {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 206068,
-      "name": "Pe\u00e7as De Griffe",
-      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
+      "duration_ms": 162782,
+      "name": "Posturad\u00e3o",
+      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -787,22 +783,26 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Posturad\u00e3o",
-        "url": "https://open.spotify.com/album/2IH59QF9TV9xbbtRAQKhEO"
+        "name": "Trap Funk Star",
+        "url": "https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg"
       },
       "artists": [
         {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
         },
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         }
       ],
-      "duration_ms": 162782,
-      "name": "Posturad\u00e3o",
-      "url": "https://open.spotify.com/track/0ToPj749UPF7MGE6KDyrIp"
+      "duration_ms": 206068,
+      "name": "Pe\u00e7as De Griffe",
+      "url": "https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -867,22 +867,30 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
       "artists": [
         {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+      "duration_ms": 225600,
+      "name": "EU SOU O TREM",
+      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -943,6 +951,26 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Marid\u00e3o (feat. Borges & Orochi)",
         "url": "https://open.spotify.com/album/0aSsD1WItij77UITRQNCxP"
       },
@@ -971,34 +999,6 @@
       "duration_ms": 322622,
       "name": "Marid\u00e3o (feat. Borges & Orochi)",
       "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "EU SOU O TREM",
-      "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
     },
     {
       "added_at": "2023-06-30 03:01:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
         "name": "Melhor Gest\u00e3o",
         "url": "https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 206281,
       "name": "Melhor Gest\u00e3o",
       "url": "https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-06-30 03:01:00",

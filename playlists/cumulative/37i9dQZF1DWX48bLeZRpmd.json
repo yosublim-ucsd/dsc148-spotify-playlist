@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "Gotoubun no Mirai",
+        "url": "https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226573,
+      "name": "Sekaiju Tatta Hitotsu",
+      "url": "https://open.spotify.com/track/0ZzCuP5rRqL4wBg4b8Btn6"
+    },
+    {
+      "album": {
         "name": "Ephemera",
         "url": "https://open.spotify.com/album/4sZTfQPwOERRFZJ75QZgsO"
       },
@@ -1111,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Gotoubun no Mirai",
+        "url": "https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Takaramono",
+      "url": "https://open.spotify.com/track/3MklwvBKPAEC2RD8WMEay1"
+    },
+    {
+      "album": {
         "name": "The Quintessential Quintuplets 2 Character Song Mini Album",
         "url": "https://open.spotify.com/album/5NcwJM9AKowsYRQcIXW1Ix"
       },
@@ -1144,6 +1180,24 @@
       "duration_ms": 206160,
       "name": "Tokubetsu na Hito ~Lesson Five~",
       "url": "https://open.spotify.com/track/6k2vmanUMSUwK3OR59K9FG"
+    },
+    {
+      "album": {
+        "name": "Gotoubun no Mirai",
+        "url": "https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse"
+      },
+      "artists": [
+        {
+          "name": "Raiha Uesugi(CV:Natsumi Takamori)",
+          "url": "https://open.spotify.com/artist/7xkyAety9rplkifdQ5FgZV"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Watashi no Hero",
+      "url": "https://open.spotify.com/track/3LFvIFYmpKhdHr0KGffGeQ"
     },
     {
       "album": {
@@ -1212,7 +1266,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 207306,
       "name": "\u305f\u304b\u3089\u3082\u306e",
       "url": "https://open.spotify.com/track/0JqY1wJ5jrMat0cfNUb0g5"
@@ -1266,7 +1320,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 215640,
       "name": "\u308f\u305f\u3057\u306e\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/5C0bi7yIo1SX5VMNJfghnz"
@@ -1444,7 +1498,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 226573,
       "name": "\u4e16\u754c\u4e2d\u305f\u3063\u305f\u3072\u3068\u3064",
       "url": "https://open.spotify.com/track/7D0qr2nyUkyNLpRTh8nhbP"

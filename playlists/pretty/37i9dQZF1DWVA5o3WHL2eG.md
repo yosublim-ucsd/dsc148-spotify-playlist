@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Teven
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,704 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,705 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [grosse freiheit](https://open.spotify.com/track/6P4HmEGU2LaTMv6o4smUlc) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [grosse freiheit](https://open.spotify.com/album/7F1EntvuJk1qGmJenBCqJi) | 2:50 |
 | 15 | [Wann](https://open.spotify.com/track/4uyXyMAfJWO0bG4Q31hm7d) | [Dorentina](https://open.spotify.com/artist/4BMNa7OwCq14ikdVluvUP5) | [Wann](https://open.spotify.com/album/7aDSF6oPbVGr1AKmpoaGqL) | 2:32 |
 | 16 | [Das Leben ist schön](https://open.spotify.com/track/7cWUIbULyUxuKMS87ozGne) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Das Leben ist schön](https://open.spotify.com/album/0eYWMipurYOzRN6ms471iB) | 3:45 |
-| 17 | [Club](https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Club](https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs) | 1:51 |
-| 18 | [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 |
-| 19 | [Lost](https://open.spotify.com/track/2POqgTL1d4nnMZseUfoDvz) | [Elen](https://open.spotify.com/artist/7hR13E9Jt08a35Q2is8VvO) | [Lost](https://open.spotify.com/album/36vbMT1dSGU7KPnIE65wKS) | 2:48 |
-| 20 | [Teenage Dirtbag](https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Teenage Dirtbag](https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc) | 2:29 |
+| 17 | [Would Do It Again](https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Would Do It Again](https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl) | 3:06 |
+| 18 | [Club](https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3) | [PANTHA](https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8) | [Club](https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs) | 1:51 |
+| 19 | [Teenage Dirtbag](https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Teenage Dirtbag](https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc) | 2:29 |
+| 20 | [Lost](https://open.spotify.com/track/2POqgTL1d4nnMZseUfoDvz) | [Elen](https://open.spotify.com/artist/7hR13E9Jt08a35Q2is8VvO) | [Lost](https://open.spotify.com/album/36vbMT1dSGU7KPnIE65wKS) | 2:48 |
 | 21 | [SKELETON](https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SKELETON](https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO) | 2:48 |
 | 22 | [Cowgirl](https://open.spotify.com/track/5wW2bmnIVn2qPbAsK6BcDU) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Cowgirl](https://open.spotify.com/album/7l4MKPgYC1veEp2bqwFcAQ) | 3:11 |
 | 23 | [Wiedergänger](https://open.spotify.com/track/09eA2tcRXjPNA4ZcA0IGNu) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [Wiedergänger](https://open.spotify.com/album/6UvBPfOVwfFS9Sp6L4AG7n) | 3:05 |
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 28 | [LOSER](https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [LOSER](https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA) | 3:44 |
 | 29 | [Mirror](https://open.spotify.com/track/4GrfHweLpo4HeBrWDjvYTw) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Mirror](https://open.spotify.com/album/0yAcPumt8FhHVkK8IXX9Ks) | 2:24 |
 | 30 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 |
-| 31 | [narcissistic brain](https://open.spotify.com/track/471izAznueozJKIOax70bU) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [narcissistic brain](https://open.spotify.com/album/5OLoGreS9Ja506fg1xyfBt) | 3:13 |
-| 32 | [I'll Quit Music \(prod\. by Jinka\)](https://open.spotify.com/track/1qlnowCZe0rfUUiOHHBM6m) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT) | [I'll Quit Music \(prod\. by Jinka\)](https://open.spotify.com/album/3SQ7WDdEhigjfI4HFW1xZO) | 2:47 |
-| 33 | [alcohol](https://open.spotify.com/track/1Tpz8ZrUTUKPyMtW32wC02) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [alcohol](https://open.spotify.com/album/6algEDtcGdULM36s8ZXFvm) | 2:30 |
-| 34 | [Idaho](https://open.spotify.com/track/6Ar6r9U9usCDcAjzfgjzOY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Idaho](https://open.spotify.com/album/0Pnb5b2Ktexz42KLHmfdsl) | 4:16 |
-| 35 | [Milestone](https://open.spotify.com/track/1DU2tq1ekQubl7Kx1hWvTO) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Milestone](https://open.spotify.com/album/3mg8hCwVgYNPFuRM8l78AI) | 2:49 |
+| 31 | [alcohol](https://open.spotify.com/track/1Tpz8ZrUTUKPyMtW32wC02) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [alcohol](https://open.spotify.com/album/6algEDtcGdULM36s8ZXFvm) | 2:30 |
+| 32 | [narcissistic brain](https://open.spotify.com/track/471izAznueozJKIOax70bU) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [narcissistic brain](https://open.spotify.com/album/5OLoGreS9Ja506fg1xyfBt) | 3:13 |
+| 33 | [Milestone](https://open.spotify.com/track/1DU2tq1ekQubl7Kx1hWvTO) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Milestone](https://open.spotify.com/album/3mg8hCwVgYNPFuRM8l78AI) | 2:49 |
+| 34 | [I'll Quit Music \(prod\. by Jinka\)](https://open.spotify.com/track/1qlnowCZe0rfUUiOHHBM6m) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT) | [I'll Quit Music \(prod\. by Jinka\)](https://open.spotify.com/album/3SQ7WDdEhigjfI4HFW1xZO) | 2:47 |
+| 35 | [Idaho](https://open.spotify.com/track/6Ar6r9U9usCDcAjzfgjzOY) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Idaho](https://open.spotify.com/album/0Pnb5b2Ktexz42KLHmfdsl) | 4:16 |
 | 36 | [Why](https://open.spotify.com/track/2erhrSndmjXFoauEzbp0bB) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Why](https://open.spotify.com/album/3POKs5GkQlnzUtUSQAIsS4) | 3:13 |
 | 37 | [Nearly to the End](https://open.spotify.com/track/1jDqTmWI61O6frPRiK23K3) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Nearly to the End](https://open.spotify.com/album/4Gtl2P5U86fdLY8PoLaXO4) | 3:12 |
 | 38 | [Night Drive](https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [AM\_\_\_PM](https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Hoch hinaus](https://open.spotify.com/track/6qmdAMd9CBzBbEvSTxrMg6) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Blick](https://open.spotify.com/album/2566U2P8Irqyc5XDtkH59N) | 3:25 |
 | 50 | [Truth](https://open.spotify.com/track/75G4dU8eyZn2tUCJ26nkJp) | [Ella Ronen](https://open.spotify.com/artist/4WF8HMNJfUpjkG3KjBSje2) | [Truth](https://open.spotify.com/album/4AGdK44VHZj4bFfayimVg2) | 3:11 |
 
-Snapshot ID: `MCxkZTRjMjEyNmY0MTI0NWFlNjcwMzNjNTc1MGQ3NmQzN2E1ZjhmNmFl`
+Snapshot ID: `MCw0N2FkNzgxNzgyMjhiYzNkZDdkMmFiYmExMTc2NjliNjU1Njk4M2Iz`

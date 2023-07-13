@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
@@ -4898,10 +4898,32 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 170500,
       "name": "PERFECT BLUE - Partly Cloudy -",
       "url": "https://open.spotify.com/track/5qk44p7vX1REIGPRQEUFDI"
+    },
+    {
+      "album": {
+        "name": "PERFECT BLUE - Partly Cloudy -",
+        "url": "https://open.spotify.com/album/4PSu6PXR7jh0CnfcMWkVPU"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "Rikuto Nagira",
+          "url": "https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "PERFECT BLUE - Partly Cloudy -",
+      "url": "https://open.spotify.com/track/7iGV5TEZBWIgeP5NjJl79R"
     },
     {
       "album": {
@@ -9310,7 +9332,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 240000,
       "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/1u3yvu0EGWdYFXjUM53e8J"

@@ -1,12 +1,12 @@
 {
   "description": "New music off the beaten track. Cover: Metric",
-  "num_followers": 432704,
+  "num_followers": 432721,
   "original_name": "OFF POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTFlZmRlNzA0ODFhNjhlZmVlMmEyZTZmMjNhOTdmOTQ4YWNhMWVh",
+  "snapshot_id": "MCw1MGMxOTE5M2YwNjJhYmU0MDIwNDAyNzYwOWY4YTEwOTRkNjcwYTA4",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -140,12 +140,12 @@
       },
       "artists": [
         {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        },
-        {
           "name": "London Grammar",
           "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
         }
       ],
       "duration_ms": 220539,

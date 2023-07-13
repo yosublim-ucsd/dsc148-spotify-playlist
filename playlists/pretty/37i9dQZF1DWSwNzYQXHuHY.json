@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7779,
+  "num_followers": 7788,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDNlZTNkZjU2YTdiYjdjOTUwODU5NDQyNmYyMTMzM2E4OWYwNjQy",
+  "snapshot_id": "MCwwOTI4NjE4NjNlYmQ5NTE5ZWYzNDgxMTUwYzlhOGI2OTg0NWJmNmUw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:53:11",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Feel Like Falling In Love",
+      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2023-07-07 15:53:11",
+      "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
       },
@@ -483,18 +499,18 @@
     {
       "added_at": "2023-07-07 15:53:11",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
+        "name": "Can you stay (From Semantic Error)",
+        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
         }
       ],
-      "duration_ms": 194999,
-      "name": "Feel Like Falling In Love",
-      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+      "duration_ms": 182266,
+      "name": "Can you stay",
+      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
     },
     {
       "added_at": "2023-07-07 15:53:11",
@@ -527,22 +543,6 @@
       "duration_ms": 200077,
       "name": "Love to Hate You",
       "url": "https://open.spotify.com/track/3yyyNGcVpZiUydyaDJgegP"
-    },
-    {
-      "added_at": "2023-07-07 15:53:11",
-      "album": {
-        "name": "Can you stay (From Semantic Error)",
-        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Can you stay",
-      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
     },
     {
       "added_at": "2023-07-07 15:53:11",

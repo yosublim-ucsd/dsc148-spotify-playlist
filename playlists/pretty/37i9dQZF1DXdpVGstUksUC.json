@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 517786,
+  "num_followers": 518031,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjIzMDE5YWMxMTVlMzI1NGY3NGZiNGVhYTJmNTFkZGM0YTMxMzdl",
+  "snapshot_id": "MCw4MDU3ZDI2OWZlOTllNWRhZWIxZDgxZDY0ODE3MTZhOTBlM2U3NTJi",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
-      },
-      "artists": [
-        {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
-        }
-      ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Godzilla's / Eatin' Dust",
         "url": "https://open.spotify.com/album/7GyCk26ieCcV2CAtheDuYF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 190800,
       "name": "Eatin' Dust",
       "url": "https://open.spotify.com/track/2eHruBEy06Vt7VswO4ROhC"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+      },
+      "artists": [
+        {
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+        }
+      ],
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Sunrise On The Sufferbus",
-        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
-      },
-      "artists": [
-        {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Rabbit One",
-      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Sunrise On The Sufferbus",
+        "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Rabbit One",
+      "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+        "name": "Through The Eyes Of Heathens",
+        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
       },
       "artists": [
         {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
         }
       ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
+      "duration_ms": 508293,
+      "name": "Big Sky Theory",
+      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
-      },
-      "artists": [
-        {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
-        }
-      ],
-      "duration_ms": 508293,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Busse Woods",
         "url": "https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 384866,
       "name": "Electric Machine",
       "url": "https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "King of Cowards",
         "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 214600,
       "name": "Mississippi King",
       "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "No Comfort",
         "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 314656,
       "name": "The Last Leaf",
       "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
       },
       "artists": [
         {
-          "name": "Somali Yacht Club",
-          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
         }
       ],
-      "duration_ms": 492508,
-      "name": "Up in the Sky",
-      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
+      "duration_ms": 290949,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
+      },
+      "artists": [
+        {
+          "name": "Somali Yacht Club",
+          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
+        }
+      ],
+      "duration_ms": 492508,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Boxriff",
         "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 251973,
       "name": "So Come On",
       "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
-      },
-      "artists": [
-        {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
-        }
-      ],
-      "duration_ms": 290949,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Samsara",
-        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
-      },
-      "artists": [
-        {
-          "name": "The Well",
-          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
-        }
-      ],
-      "duration_ms": 331468,
-      "name": "Mortal Bones",
-      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Dopesmoker",
         "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
+      },
+      "artists": [
+        {
+          "name": "The Well",
+          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
+        }
+      ],
+      "duration_ms": 331468,
+      "name": "Mortal Bones",
+      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Acid Roulette",
         "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 349466,
       "name": "Acid Roulette",
       "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Buffalo Fuzz",
+        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Fuzz",
+          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
+        }
+      ],
+      "duration_ms": 325313,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "John Garcia and the Band of Gold",
         "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 222169,
       "name": "Jim's Whiskers",
       "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Gas Giant",
+          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
+        }
+      ],
+      "duration_ms": 371983,
+      "name": "Too Stoned",
+      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 318023,
       "name": "(If You Want the Smoke) Be the Fire",
       "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Gas Giant",
-          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
-        }
-      ],
-      "duration_ms": 371983,
-      "name": "Too Stoned",
-      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Wilderness Heart",
-        "url": "https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak"
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
       },
       "artists": [
         {
-          "name": "Black Mountain",
-          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
         }
       ],
-      "duration_ms": 315626,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8"
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Wilderness Heart",
+        "url": "https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain",
+          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+        }
+      ],
+      "duration_ms": 315626,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Sunrise on Slaughter Beach (The Complete Edition)",
         "url": "https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 221033,
       "name": "Slaughter Beach",
       "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Pentastar: In The Style of Demons",
-        "url": "https://open.spotify.com/album/4R2YY8UpLor3pY0HteIuTw"
-      },
-      "artists": [
-        {
-          "name": "Earth",
-          "url": "https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "High Command",
-      "url": "https://open.spotify.com/track/3vpSKqbQ2MY1SJODidxR6m"
     }
   ],
   "unique_name": "Stoner Rock",

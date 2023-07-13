@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Ashiato",
+        "url": "https://open.spotify.com/album/5ZJ1hxvXXQFrD1Ry32429t"
+      },
+      "artists": [
+        {
+          "name": "Boundary",
+          "url": "https://open.spotify.com/artist/7EYH7GNNmSQu0MqLFBupH9"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215190,
+      "name": "Ashiato",
+      "url": "https://open.spotify.com/track/1iAylyNZ2LkBl0zzSS8oig"
+    },
+    {
+      "album": {
         "name": "avalanche",
         "url": "https://open.spotify.com/album/3JOaflqklhuenlFoIBQAi5"
       },
@@ -666,6 +684,42 @@
       "duration_ms": 198775,
       "name": "bakemono",
       "url": "https://open.spotify.com/track/7B3AVIhaKGybUAYGhcAJnM"
+    },
+    {
+      "album": {
+        "name": "Bakuro",
+        "url": "https://open.spotify.com/album/0H4yqKnOHuLLyKHda6Vslu"
+      },
+      "artists": [
+        {
+          "name": "Pop Never Dies",
+          "url": "https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Bakuro",
+      "url": "https://open.spotify.com/track/4ORD2sXaYjEejCtWqzqf2e"
+    },
+    {
+      "album": {
+        "name": "Ball",
+        "url": "https://open.spotify.com/album/1NFiOAGqdZdMfuG1uWeGtP"
+      },
+      "artists": [
+        {
+          "name": "Nagakumo",
+          "url": "https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233327,
+      "name": "Ball",
+      "url": "https://open.spotify.com/track/0AXda5pFbkZJGPEZk5VJud"
     },
     {
       "album": {
@@ -5718,7 +5772,7 @@
     {
       "album": {
         "name": "PIP",
-        "url": "https://open.spotify.com/album/2Y2xII268RQBE4B4iplbO7"
+        "url": "https://open.spotify.com/album/43YJER5iJtpSQNrpDvJZBQ"
       },
       "artists": [
         {
@@ -5729,6 +5783,24 @@
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 185000,
+      "name": "PIP",
+      "url": "https://open.spotify.com/track/5do7C5GwLyh3ZnEHkhxdy2"
+    },
+    {
+      "album": {
+        "name": "PIP",
+        "url": "https://open.spotify.com/album/2Y2xII268RQBE4B4iplbO7"
+      },
+      "artists": [
+        {
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
       "duration_ms": 185000,
       "name": "PIP",
       "url": "https://open.spotify.com/track/6J6XYfPFeeOXlJ9BPyuPza"
@@ -12716,7 +12788,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 233327,
       "name": "\u30dc\u30fc\u30eb",
       "url": "https://open.spotify.com/track/76vMnUUHs3jq89Wkwu5mJ4"
@@ -16098,7 +16170,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 189453,
       "name": "\u66b4\u9732",
       "url": "https://open.spotify.com/track/7Moykyl5fw6tqXdjW4MFye"
@@ -17878,7 +17950,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 215190,
       "name": "\u8db3\u8de1",
       "url": "https://open.spotify.com/track/29Rv9ORH8fmC9A3pT0snWj"

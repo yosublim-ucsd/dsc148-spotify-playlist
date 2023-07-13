@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-216 songs - 12 hr 27 min
+217 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 | 2022-05-30 | 2022-07-29 |
 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 | 2022-06-24 |  |
 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 | 2022-05-30 | 2023-07-03 |
+| [T\-Shirts \- Acoustic](https://open.spotify.com/track/4TuldNZ6ojVCsvVh0yJyrw) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/6hqV9kF9ktgt9BFWz8oQTG) | 3:15 | 2023-02-10 |  |
 | [The Book Of Love \(Acoustic\)](https://open.spotify.com/track/0PDcChQq3nr8MQ9tQV7jib) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [The Book Of Love \(Acoustic\)](https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX) | 3:36 | 2022-05-30 | 2023-01-25 |
 | [The One I Love](https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [The One I Love](https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol) | 3:11 | 2022-05-30 |  |
 | [Think It Over](https://open.spotify.com/track/7u3rJLxEp9ZsQpSq5Pun79) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [Where the Roses Bloom](https://open.spotify.com/album/1MOwfsFWRW2suEzEnbo19Q) | 3:14 | 2022-05-30 | 2022-07-29 |
@@ -223,6 +224,6 @@
 | [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 | 2022-05-30 |  |
 | [Without You](https://open.spotify.com/track/7gQ0Ujx0iQ6yxNTFukpwFx) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/5gJz01RcHXsdy2IDWsnPtP) | 4:32 | 2022-05-30 | 2022-07-29 |
 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 | 2022-11-07 | 2023-06-24 |
-| [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 | 2022-05-30 |  |
+| [Wonderwall](https://open.spotify.com/track/1qGoOiTVjCJ3iEKkxqpuvX) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Wonderwall](https://open.spotify.com/album/3mkgZ2atNq2kp0nHphDhAG) | 3:56 | 2022-05-30 | 2023-07-13 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

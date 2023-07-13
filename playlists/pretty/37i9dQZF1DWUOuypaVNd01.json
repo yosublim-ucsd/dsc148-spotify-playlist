@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Sena Mc",
-  "num_followers": 31255,
+  "num_followers": 31267,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGM3ODU0MGRlZTU1MGVhYjI4ZGMyYjNhNDlmZTc1ZDg3ZjVhNzk1",
+  "snapshot_id": "MCwyNTg5MWU4MzhjM2JlMzQ1YjQwZGI3OGMyNmMwOGUwNzBkZDE3MmQ3",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -523,6 +523,30 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Rock Danger Worldwide/Chile",
         "url": "https://open.spotify.com/album/7KDJpZr4J1zydXWiefM39o"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 192223,
       "name": "Diz Quem Ta na Pista",
       "url": "https://open.spotify.com/track/3KzDrMpWiFJ1F9deXPWfCI"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Sirenes",
-        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Sirenes",
-      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -735,30 +735,6 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Rock Danger, Vol. 1",
-        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        }
-      ],
-      "duration_ms": 178005,
-      "name": "Dia de Baile",
-      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
         "name": "Armamento do Ir\u00e3",
         "url": "https://open.spotify.com/album/6QVvYXwwQNif3EUz652PY3"
       },
@@ -787,6 +763,46 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 123802,
+      "name": "Hip Hop Rare",
+      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
+        "name": "Rock Danger, Vol. 1",
+        "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "duration_ms": 178005,
+      "name": "Dia de Baile",
+      "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Ainda \u00c9 o Rap dos Novos Bandidos",
         "url": "https://open.spotify.com/album/1lO0DvPgCpUjgRj4Nh7cFy"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 125793,
       "name": "9mm",
       "url": "https://open.spotify.com/track/6XWrsV3IDY9E3h2FCN0a3O"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 123802,
-      "name": "Hip Hop Rare",
-      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -895,6 +895,30 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "RADDIM",
+        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 209738,
+      "name": "Raddim",
+      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Lado 13 Do Mapa",
         "url": "https://open.spotify.com/album/624lZw4mi8VgCcQpLtAoA1"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 145714,
       "name": "Lado 13 Do Mapa",
       "url": "https://open.spotify.com/track/0JjLELm0grDkpDp3T33A2V"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "RADDIM",
-        "url": "https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0"
-      },
-      "artists": [
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        },
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 209738,
-      "name": "Raddim",
-      "url": "https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
+        "name": "Runner (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy"
+      },
+      "artists": [
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "duration_ms": 132884,
+      "name": "Runner - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
         "name": "Versos Fortes",
         "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
-        "name": "Runner (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Hy0svsjfcaf93LGtJyfxy"
-      },
-      "artists": [
-        {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
-        },
-        {
-          "name": "Showlivre",
-          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
-        }
-      ],
-      "duration_ms": 132884,
-      "name": "Runner - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fZ2tJlUm4mzGWK8xRZxX9"
     },
     {
       "added_at": "2023-07-07 03:01:00",

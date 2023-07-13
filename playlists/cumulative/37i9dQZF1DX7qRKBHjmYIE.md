@@ -4,7 +4,7 @@
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Sinego
 
-465 songs - 1 day 1 hr 9 min
+466 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Dame La Fuerza](https://open.spotify.com/track/2wwR4qlbSQfis9aplck8uL) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Dame La Fuerza](https://open.spotify.com/album/3416M8gZILto23Fqxa7t9m) | 2:53 | 2021-12-02 | 2022-01-29 |
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2023-02-17 |  |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [DANCE CRIP](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2022-01-24 | 2022-04-09 |
-| [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Shrt\_lyf](https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 |  |
+| [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 |  |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-20 | 2023-05-20 |
 | [Dancing To Murder](https://open.spotify.com/track/3LvSqEfVDrBp6nNovO7tR5) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Dancing To Murder](https://open.spotify.com/album/5MZYJg0aZgMWv9iuGqbdDu) | 3:01 | 2021-12-02 | 2022-01-25 |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2022-05-11 | 2023-02-17 |
@@ -111,6 +111,7 @@
 | [De Más](https://open.spotify.com/track/4p19BdGQ1jlQiGSPutGe6J) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [De Más](https://open.spotify.com/album/5D40rsTMMrvxltrAHoil80) | 3:26 | 2021-12-02 | 2022-01-25 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2021-12-02 | 2022-01-25 |
 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 | 2023-02-17 | 2023-06-24 |
+| [DE REVERSA](https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR) | 3:04 | 2023-07-07 |  |
 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 | 2022-01-24 | 2022-04-09 |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-12-02 | 2022-10-28 |
 | [Del Amor Al Odio](https://open.spotify.com/track/3qBRVRm3dOA3RXVZPgBlqT) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Del Amor Al Odio](https://open.spotify.com/album/3jSsrpfRaecPJXr8bHHSUM) | 3:16 | 2022-11-04 | 2023-02-17 |
@@ -459,7 +460,7 @@
 | [WM \(Wifey Material\)](https://open.spotify.com/track/4QOgJKWvxw48Q97ETW7T6G) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [WM \(Wifey Material\)](https://open.spotify.com/album/1cOMZJ5XiWwPL2eDTo3IUT) | 2:41 | 2023-03-29 | 2023-05-20 |
 | [wonder](https://open.spotify.com/track/6d4J0NMFdQ8Y6dRCAc0Kzp) | [Angel Cintron](https://open.spotify.com/artist/6hZZbz6dn2lD5VvXUSeUs3) | [wonder](https://open.spotify.com/album/5YBrEKfnHHCPWoLSKl9L1d) | 2:54 | 2023-02-17 | 2023-03-09 |
 | [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-03-08 |  |
-| [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2023-01-10 |  |
+| [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2023-01-10 | 2023-07-13 |
 | [Y Se Va Se Va](https://open.spotify.com/track/41REIlLGInOYQpwcv9AH6x) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Y Se Va Se Va](https://open.spotify.com/album/31dwAkGkz6VQGfe7KXlMr6) | 3:34 | 2023-03-01 | 2023-03-29 |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2021-12-02 | 2022-03-22 |
 | [Ya no siento nada](https://open.spotify.com/track/1ltRCX8f708xUGyQaKlUNk) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Ya no siento nada](https://open.spotify.com/album/3eT2h0juVrYJQM4z7mn5EJ) | 3:12 | 2021-12-02 | 2022-01-29 |

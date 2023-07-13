@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,334,581 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,334,787 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
 | 50 | [Have A Good Summer \(Without Me\)](https://open.spotify.com/track/4A1GjAsAWjxBV4rzgOAOxR) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Have A Good Summer \(Without Me\)](https://open.spotify.com/album/6mYoXbJuW8w6wSQ5f6GMHs) | 3:30 |
 
-Snapshot ID: `MCxjY2U5OGYzMGViMjhhYTYwNDVjMWQzYmNkZjZiMWIzZTI4MzE3M2My`
+Snapshot ID: `MCwyZjRlMjZmMDc0ZDZhYzVjYTNlNmYwMmY2YWY5N2JkZjIyOTEyYmZl`

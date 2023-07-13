@@ -4,12 +4,13 @@
 
 > Lo mas pegao en Dembow\. <br/>Cover: Peso Pluma y El Alfa
 
-286 songs - 14 hr 38 min
+287 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3730](https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/6yu6Kvb4D7celQvI3eYj4t) | 2:17 | 2022-03-04 | 2022-09-15 |
 | [3730](https://open.spotify.com/track/2nlbKSzDPYUmU8F2npLFak) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [3730](https://open.spotify.com/album/3Q2EYfVHIPBtcwrs6IKkpP) | 2:17 | 2022-08-19 | 2023-05-27 |
+| [4K](https://open.spotify.com/track/4Ex9FAh4a8HVlMRCPdzRWe) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 3:21 | 2023-05-26 |  |
 | [4K](https://open.spotify.com/track/4xI3U4sDj1TPmO9Iz5TkYp) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [4K](https://open.spotify.com/album/2w8ok8XKZXEgyRozx2MNNQ) | 3:21 | 2021-11-19 | 2023-07-05 |
 | [A I O](https://open.spotify.com/track/2eJFFzezwWHCztF4cLKmB0) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3) | 2:58 | 2022-12-08 |  |
 | [A I O](https://open.spotify.com/track/5imSFd0G9WtsEfYRpaKHUr) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [A I O](https://open.spotify.com/album/5082P5BtVaz97uET2hhEIM) | 2:58 | 2022-11-11 | 2022-12-17 |
@@ -270,7 +271,7 @@
 | [Tomala](https://open.spotify.com/track/5iV1BZYErbIek3Q3dq20al) | [Geezly](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [Tomala](https://open.spotify.com/album/4xNmXT3QwleDdYM3Y9V0tJ) | 2:30 | 2023-06-27 |  |
 | [Tontoron Tonton](https://open.spotify.com/track/6ZhHAkeaTRNPKAENP9kxx8) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Tontoron Tonton](https://open.spotify.com/album/0K03lfwQZdNx4dborALNyM) | 3:57 | 2022-03-04 | 2023-03-11 |
 | [Totola](https://open.spotify.com/track/01obeUENTIoIHFo3bbzUQ7) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Totola](https://open.spotify.com/album/3yQoqF708rUa8sY5fzLcJ7) | 2:40 | 2022-03-18 | 2023-03-22 |
-| [Totola](https://open.spotify.com/track/2pKXFZUVQdVJIt5OfcC7sH) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Totola](https://open.spotify.com/album/78BkxNZpH8JBsGbcV7caIU) | 2:40 | 2023-03-10 |  |
+| [Totola](https://open.spotify.com/track/2pKXFZUVQdVJIt5OfcC7sH) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Totola](https://open.spotify.com/album/78BkxNZpH8JBsGbcV7caIU) | 2:40 | 2023-03-10 | 2023-07-13 |
 | [Toy a Mil](https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Toy a Mil](https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k) | 2:28 | 2023-05-26 |  |
 | [Toy Recho](https://open.spotify.com/track/7EaqF8I2orDLusjuPgMvXO) | [Ice P](https://open.spotify.com/artist/4U4AroE6G2rG04np8u2G95), [El Productor de oro](https://open.spotify.com/artist/02dM5RTHfMVIhCFfZZRHDa), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Bloonel](https://open.spotify.com/artist/78CU7fjwAyxSX6DJFT2khV), [Albert Diamond](https://open.spotify.com/artist/4mhdzOqGkzXjckKkBvZ5wA), [Maceo El Perro Blanco](https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6), [La Sabiduria](https://open.spotify.com/artist/0yHhVZZRkJNbKmWGq8nciC) | [Toy Recho](https://open.spotify.com/album/4ZsZyqUQhrjglhowlpQLje) | 4:07 | 2023-02-09 | 2023-05-27 |
 | [Trap Pea](https://open.spotify.com/track/7d9ybTfliQ5iOJB0i364OS) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Trap Pea](https://open.spotify.com/album/7c0cZeRY7STVHbapBKujen) | 3:48 | 2021-11-19 | 2022-03-18 |

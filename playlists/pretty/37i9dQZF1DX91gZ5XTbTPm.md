@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,485 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,531 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 3 | [Gorgeous](https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 2:33 |
 | 4 | [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
 | 5 | [One Time](https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [One Time](https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn) | 2:59 |
-| 6 | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
+| 6 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
 | 7 | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL) | 3:13 |
 | 8 | [Trynna Link](https://open.spotify.com/track/5rAOKx0KxlwG4UlFGDuRes) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trynna Link](https://open.spotify.com/album/1HLrcMUWGp8sfhI1yqwLtp) | 2:57 |
 | 9 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [PORSCHE TOPLESS](https://open.spotify.com/track/0XyLyJATYbD8eSyfqq72hx) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [PORSCHE TOPLESS](https://open.spotify.com/album/63fDdZN9I2Q55bwmwbUMYn) | 2:50 |
 | 50 | [Stiffly](https://open.spotify.com/track/4mKmzyigBgcn7Wu2PS3gll) | [Rory Fresco](https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [FANTASY CAMP](https://open.spotify.com/album/02RiJ9DIoxov4b6yvsiAHy) | 3:05 |
 
-Snapshot ID: `MCxiZmM0MDI1N2I2YWZjMDIxZGFlZWM4YzcyYTZjNGUyYTYwZDYwZDFl`
+Snapshot ID: `MCxlN2NkNzk3OWNjYWY4MWU1NjcyZGE0ZDM0MWRmMjQwOTE4NGQzMzZk`

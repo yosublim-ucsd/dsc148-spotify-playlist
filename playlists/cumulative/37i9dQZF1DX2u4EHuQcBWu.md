@@ -4,7 +4,7 @@
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-278 songs - 18 hr 14 min
+279 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [El Platanal](https://open.spotify.com/track/1mxZqUgZsaBbt4R6hmova4) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [La 22](https://open.spotify.com/album/3kv7qONi9RFW5RngcBN6Zj) | 3:15 | 2021-09-24 | 2022-07-29 |
 | [El Pueblo Unido Jamás Será Vencido](https://open.spotify.com/track/1hcVUv737WNoY1d9BRZpyQ) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN) | [Viva Italia](https://open.spotify.com/album/1g5vHoa3aMWXbVIlfhn7mb) | 4:52 | 2021-09-24 |  |
 | [El Wall](https://open.spotify.com/track/00MXsjYKxtLgohKqsXAAHA) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Ana Tijuox](https://open.spotify.com/artist/2TEJXR9asamFJ7EMuuFpKE), [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [El Wall](https://open.spotify.com/album/4L1giQreKUcrCX2gJo8O6A) | 2:54 | 2021-09-24 | 2022-07-28 |
-| [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 | 2021-09-24 |  |
+| [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 | 2021-09-24 | 2023-07-13 |
 | [En la Lucha](https://open.spotify.com/track/1kLszuJWePIjSPW6r9f7il) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [En la Lucha](https://open.spotify.com/album/05jjkEykkTgTt59mYV6ZUg) | 3:39 | 2021-09-24 | 2022-07-29 |
 | [En Paro](https://open.spotify.com/track/32RmkzFIiN9XDtYLUFfiNU) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 4:32 | 2021-09-24 |  |
 | [Escribo Rap Con R De Revolución](https://open.spotify.com/track/6vmrsiaeNq7LpiGdvB2bJT) | [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Escribo Rap Con R De Revolucion](https://open.spotify.com/album/4XvUXpek6UQmjm5ig49yL7) | 4:17 | 2021-09-24 |  |
@@ -212,6 +212,7 @@
 | [Plantón 420](https://open.spotify.com/track/0GoKLjwWBMuG2nslFqQOV5) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Plantón 420](https://open.spotify.com/album/2WbyYfVmw5HF9PphXWr2KU) | 3:23 | 2021-11-11 | 2022-07-17 |
 | [Plata Ta Tá](https://open.spotify.com/track/0937IXPkSlckRCq1WoHSEl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Plata Ta Tá](https://open.spotify.com/album/7HVCoZ2c1vfGjRXVPoGnkS) | 4:15 | 2021-09-24 |  |
 | [Plegaria A Un Labrador](https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [20 Grandes Exitos](https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN) | 3:13 | 2021-09-24 | 2022-07-29 |
+| [Plegaria A Un Labrador](https://open.spotify.com/track/1AD8C9GGDDvzm6i0r0v4c2) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Antología 1968\-1992](https://open.spotify.com/album/1rJ7VkFSDPEB9m27A8NAO4) | 3:14 | 2021-09-24 |  |
 | [Poder Elegir](https://open.spotify.com/track/6edlQ6CiXrbX8Y2zgsH9mS) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [La Cultura De La Basura](https://open.spotify.com/album/6F8tryCHsDT71FSpAyhoJF) | 8:02 | 2021-09-24 | 2022-07-29 |
 | [Politicos Paraliticos](https://open.spotify.com/track/68NE76Trr1bo28gDuqUL5h) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Desorden Publico](https://open.spotify.com/album/2yvlTPqKqzq1lDDTBpf1tz) | 3:58 | 2021-09-24 | 2022-07-29 |
 | [Politiquero](https://open.spotify.com/track/0us7ZHwOpYxMCKR2ZYRISA) | [Boomer & Sindicato de la Danza](https://open.spotify.com/artist/2YmfN2CUkuZrKsSiwiUyFp) | [Andanzas](https://open.spotify.com/album/5y5kapZHRmdEdUMIAlEqJd) | 3:39 | 2021-09-24 | 2022-07-16 |

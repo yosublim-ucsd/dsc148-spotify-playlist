@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 175764,
       "name": "A True Story",
       "url": "https://open.spotify.com/track/0FTKRr4nxCMdUPJcwJba8U"
@@ -7114,7 +7114,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 107671,
       "name": "Ava",
       "url": "https://open.spotify.com/track/3Fa2LOckLbjsv8UIidDiPD"
@@ -8032,7 +8032,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 103200,
       "name": "Balance",
       "url": "https://open.spotify.com/track/34Vv5EdnysfbPieVbEZRHT"
@@ -9902,7 +9902,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 129473,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/3LkLBX7EeqneuoPjObIiJG"
@@ -10000,7 +10000,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 175058,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5iSIHOwSfnjpwqyknu09Jl"
@@ -11370,6 +11370,32 @@
       "duration_ms": 124705,
       "name": "Bliss Through Repetition",
       "url": "https://open.spotify.com/track/7LIo9pXnB5aaLVeP2CwArz"
+    },
+    {
+      "album": {
+        "name": "Blissed Out",
+        "url": "https://open.spotify.com/album/7IYcGZwn1EgdW32DmDx4il"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        },
+        {
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157848,
+      "name": "Blissed Out",
+      "url": "https://open.spotify.com/track/3Y3FMJS7a3qQuAIZJqDa4K"
     },
     {
       "album": {
@@ -26722,7 +26748,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 109600,
       "name": "Down by the River",
       "url": "https://open.spotify.com/track/7A7LsOfLIvvhRq0okcY8P5"
@@ -39846,7 +39872,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 121538,
       "name": "Good Old Times",
       "url": "https://open.spotify.com/track/6hQbe6lnSwD0njnyuAAjek"
@@ -45860,7 +45886,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 116317,
       "name": "Ideal Image, Pt. 2",
       "url": "https://open.spotify.com/track/3VVkXqGbgpIIHPWAfwvNBH"
@@ -47746,7 +47772,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 153372,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/25xA4HhlrHCAsv81evjaWs"
@@ -63364,7 +63390,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 160127,
       "name": "Mood's Return",
       "url": "https://open.spotify.com/track/3ySL5T063YWf6X5msDJdkS"
@@ -64286,7 +64312,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 117162,
       "name": "Morning Rays",
       "url": "https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR"
@@ -70654,7 +70680,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 222614,
       "name": "Oh, automated",
       "url": "https://open.spotify.com/track/0UmIog09ds7C0GUCIQp7hK"
@@ -92212,7 +92238,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 143572,
       "name": "Strange Effect",
       "url": "https://open.spotify.com/track/3lKq4yMNV2eZXTb5AgQFY3"
@@ -107000,7 +107026,7 @@
           "url": "https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq"
         },
         {
-          "name": "Hugo",
+          "name": "Hugo Santini",
           "url": "https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos"
         }
       ],

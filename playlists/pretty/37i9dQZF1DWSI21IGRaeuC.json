@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 22022,
+  "num_followers": 22062,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmE5MjUxNjk2MWViM2FjODU2YWM1OGZiOTNhMDcxMjIxNGVlOTZm",
+  "snapshot_id": "MCxmMTU1NjU1MTEwMzZiZWNlNTY1NDY5ZGI2YzcwODgyODZjYmRmZTQz",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 341872,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
+      },
+      "artists": [
+        {
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "World Is Empty",
         "url": "https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
-      },
-      "artists": [
-        {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
-        }
-      ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "This Energy EP",
         "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
       },
@@ -803,38 +803,6 @@
       "duration_ms": 198750,
       "name": "This Energy",
       "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Lucky Bastard",
-        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Lucky Bastard",
-      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Picante EP",
-        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
-      },
-      "artists": [
-        {
-          "name": "Manda Moor",
-          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -855,6 +823,38 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Picante EP",
+        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
+      },
+      "artists": [
+        {
+          "name": "Manda Moor",
+          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Lucky Bastard",
+        "url": "https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Lucky Bastard",
+      "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "spring '23",
+        "url": "https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 364916,
+      "name": "can't stop the swing.",
+      "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "spring '23",
-        "url": "https://open.spotify.com/album/0sI5QLNxVfY8SeHGm70RZL"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 364916,
-      "name": "can't stop the swing.",
-      "url": "https://open.spotify.com/track/2mTNrZp8XBLay7hwwcAj81"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Clapped",
-        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "Clapped",
-      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Music4TheMasses (Andrea Oliva Remix)",
         "url": "https://open.spotify.com/album/3nfx8zp8LAUEQcYBpqdWh9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 187652,
       "name": "Music4TheMasses - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Clapped",
+        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "Clapped",
+      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1111,54 +1111,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Jump Ship",
-        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
-      },
-      "artists": [
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 381431,
-      "name": "Jump Ship",
-      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
-      },
-      "artists": [
-        {
-          "name": "Sam Paganini",
-          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
-        }
-      ],
-      "duration_ms": 420559,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
-      },
-      "artists": [
-        {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
-        }
-      ],
-      "duration_ms": 178609,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/1wxMJqso7xfb7IoGIzuz4B"
       },
@@ -1179,6 +1131,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Jump Ship",
+        "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 381431,
+      "name": "Jump Ship",
+      "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "winter '23",
         "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
       },
@@ -1191,6 +1159,38 @@
       "duration_ms": 370000,
       "name": "buss it.",
       "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs"
+      },
+      "artists": [
+        {
+          "name": "Sam Paganini",
+          "url": "https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl"
+        }
+      ],
+      "duration_ms": 420559,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1215,38 +1215,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Hydroponic EP",
-        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Hydroponic",
-      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
-      },
-      "artists": [
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        }
-      ],
-      "duration_ms": 321818,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Kill The Soundboy",
         "url": "https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH"
       },
@@ -1259,6 +1227,22 @@
       "duration_ms": 404000,
       "name": "Kill The Soundboy",
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Hydroponic EP",
+        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Hydroponic",
+      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Zigazigahhhh",
-        "url": "https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx"
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
       },
       "artists": [
         {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
         }
       ],
-      "duration_ms": 203487,
-      "name": "Zigazigahhhh",
-      "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
+      "duration_ms": 321818,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 243809,
       "name": "Flashback feat. Forrest",
       "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Zigazigahhhh",
+        "url": "https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 203487,
+      "name": "Zigazigahhhh",
+      "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
     },
     {
       "added_at": "2023-07-07 04:00:00",

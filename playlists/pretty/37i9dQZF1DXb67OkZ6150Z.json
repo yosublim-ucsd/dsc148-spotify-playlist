@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 282273,
+  "num_followers": 282324,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmJlOGEzMWRkZTQ2NWEwYzNiZDBlNzU0MDQyZjY2MWIwZTZhNjdm",
+  "snapshot_id": "MCwyNDJhOTIzZDA0MmU5ZDU5YjRhYWNkMzg2MmJiMTYyYjBkMTJjZGMw",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "I'm on Fire",
-        "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 309359,
       "name": "re: Stacks - Spotify Singles",
       "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "I'm on Fire",
+        "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Cooking",
         "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 201917,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/4a9VIksdlTfLwRkdDnycfd"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 126343,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
-        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
-      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Chandelier",
@@ -959,6 +943,22 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
+        "url": "https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "When You're Smiling - From \"A Small Light: Episode 5\"",
+      "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
+      },
+      "artists": [
+        {
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 172500,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe"
-      },
-      "artists": [
-        {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Never Tear Us Apart",
-        "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Home Again / It's Too Late",
         "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 197647,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Never Tear Us Apart",
+        "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Can I Call You Tonight? / Quarterback",
-        "url": "https://open.spotify.com/album/066JtnqQpY3WWGryF1HNZX"
-      },
-      "artists": [
-        {
-          "name": "Cal in Red",
-          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Can I Call You Tonight? / Quarterback",
-      "url": "https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Can't Take My Eyes Off You / 3BadSoSad - Edit",
         "url": "https://open.spotify.com/album/44PmpxWzjR4OvRa2Ok1RZP"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 209000,
       "name": "Can't Take My Eyes Off You",
       "url": "https://open.spotify.com/track/0akpudMz8aq9UgPTMUK0qq"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Can I Call You Tonight? / Quarterback",
+        "url": "https://open.spotify.com/album/066JtnqQpY3WWGryF1HNZX"
+      },
+      "artists": [
+        {
+          "name": "Cal in Red",
+          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Can I Call You Tonight? / Quarterback",
+      "url": "https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1291,6 +1291,22 @@
       "duration_ms": 239643,
       "name": "Come Give Me Love",
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Weird Fishes",
-        "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 354533,
-      "name": "Weird Fishes",
-      "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Siamese Dream",
         "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 255633,
       "name": "Today",
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Weird Fishes",
+        "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 354533,
+      "name": "Weird Fishes",
+      "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Music From The Pen Gala 1983",
+        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Steal My Sunshine / Novocaine For The Soul",
         "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
@@ -1539,38 +1555,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Music From The Pen Gala 1983",
-        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "You've Got a Woman",
         "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 205220,
       "name": "You've Got a Woman",
       "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Just the Two of Us",
-        "url": "https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 164211,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Nothing Else Matters",
         "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 274506,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Just the Two of Us",
+        "url": "https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 164211,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1677,38 +1677,6 @@
       "url": "https://open.spotify.com/track/1Ma1JqyeNg7RVdeTlYP5AN"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Line Of Fire (feat. Sharon Van Etten)",
-        "url": "https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        },
-        {
-          "name": "Elias Araya",
-          "url": "https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs"
-        },
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Tobias Winterkorn",
-          "url": "https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K"
-        }
-      ],
-      "duration_ms": 338733,
-      "name": "Line Of Fire (feat. Sharon Van Etten)",
-      "url": "https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Our House",
@@ -1723,6 +1691,26 @@
       "duration_ms": 182080,
       "name": "Our House",
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Horror Show",
+        "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        },
+        {
+          "name": "Nikki Flores",
+          "url": "https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Because The Night",
+      "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
     }
   ],
   "unique_name": "Indie Covers",

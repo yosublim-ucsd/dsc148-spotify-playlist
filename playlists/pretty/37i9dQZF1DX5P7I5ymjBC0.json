@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 62275,
+  "num_followers": 62307,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzU3OGNlYTY0OTgzYzNkYjhmYzRhNDljMTc1NGExMmMwOGFmMDVm",
+  "snapshot_id": "MCxmN2M0MWE1ZTNhYzBiNDhjZjBjMWE4YjJiNGFmZjM0MDhiZTM0MDZh",
   "tracks": [
     {
       "added_at": "2023-06-24 07:11:00",
@@ -207,30 +207,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Farid Hasan",
-          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
-        },
-        {
-          "name": "Mohammed Aman",
-          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
-        }
-      ],
-      "duration_ms": 330921,
-      "name": "Garaj Garaj Jugalbandi",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Samjhe Na",
         "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
       },
@@ -251,6 +227,30 @@
       "duration_ms": 197277,
       "name": "Samjhe Na",
       "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Farid Hasan",
+          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
+        },
+        {
+          "name": "Mohammed Aman",
+          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Garaj Garaj Jugalbandi",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -415,30 +415,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Radhe (From Songs of Faith)",
-        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Neeraj Arya",
-          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
-        },
-        {
-          "name": "Arunima Bhattacharya",
-          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
-        }
-      ],
-      "duration_ms": 218307,
-      "name": "Radhe (From Songs of Faith)",
-      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Bandish Bandits (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 158476,
       "name": "Garaj Garaj",
       "url": "https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Radhe (From Songs of Faith)",
+        "url": "https://open.spotify.com/album/4RmvdP8tqFsP5cfNXg7mxY"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Neeraj Arya",
+          "url": "https://open.spotify.com/artist/20QVF5WX7muxbyI8JqyRqo"
+        },
+        {
+          "name": "Arunima Bhattacharya",
+          "url": "https://open.spotify.com/artist/3xtandCKqKYKlwl8LQJzm3"
+        }
+      ],
+      "duration_ms": 218307,
+      "name": "Radhe (From Songs of Faith)",
+      "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Ghir Ghir",
+      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
         "name": "Sargam Surge",
         "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 141224,
       "name": "Sargam Surge",
       "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
-        "name": "Grounded in Space",
-        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Ghir Ghir",
-      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
         "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
         "url": "https://open.spotify.com/album/1a87DOMOSxUy66pUYGfx5S"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 440999,
       "name": "Shafqat with Shafqat (Lakh Jatan / Khamaj)",
       "url": "https://open.spotify.com/track/4oFTEI6Dmnca8HbpwdXQCL"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Coke Studio Season 8",
-        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
-      },
-      "artists": [
-        {
-          "name": "Mekaal Hassan Band",
-          "url": "https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR"
-        }
-      ],
-      "duration_ms": 261010,
-      "name": "Kinaray",
-      "url": "https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Rangderi",
         "url": "https://open.spotify.com/album/1voVa8VOHmYqhjpcZAiVOZ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 364796,
       "name": "Rangderi",
       "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Coke Studio Season 8",
+        "url": "https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7"
+      },
+      "artists": [
+        {
+          "name": "Mekaal Hassan Band",
+          "url": "https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR"
+        }
+      ],
+      "duration_ms": 261010,
+      "name": "Kinaray",
+      "url": "https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Savera - Single",
-        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
-      },
-      "artists": [
-        {
-          "name": "Anusha Mani",
-          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
-        }
-      ],
-      "duration_ms": 245510,
-      "name": "Savera",
-      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Mann Bheetar",
         "url": "https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 387099,
       "name": "Ithlati",
       "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Savera - Single",
+        "url": "https://open.spotify.com/album/01uQLmpmr0kXXW935hub2N"
+      },
+      "artists": [
+        {
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+        }
+      ],
+      "duration_ms": 245510,
+      "name": "Savera",
+      "url": "https://open.spotify.com/track/7zCNzMtqsYAFX5GC2TLin2"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -847,26 +847,6 @@
       "duration_ms": 243750,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
-      },
-      "artists": [
-        {
-          "name": "Ricky Kej",
-          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
-        },
-        {
-          "name": "Charanraj MR",
-          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
-        }
-      ],
-      "duration_ms": 141459,
-      "name": "The Awakening",
-      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -903,6 +883,26 @@
       "duration_ms": 254491,
       "name": "Rang Na",
       "url": "https://open.spotify.com/track/1FZTOS0J00x7DOZSPy7O4r"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        }
+      ],
+      "duration_ms": 141459,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
     },
     {
       "added_at": "2023-05-29 04:53:48",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-29 04:53:48",
       "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
-      },
-      "artists": [
-        {
-          "name": "Ustad Raees Khan",
-          "url": "https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh"
-        }
-      ],
-      "duration_ms": 239220,
-      "name": "Hans Dhuni",
-      "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
-    },
-    {
-      "added_at": "2023-05-29 04:53:48",
-      "album": {
         "name": "Night Song",
         "url": "https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 335600,
       "name": "Longing",
       "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
+    },
+    {
+      "added_at": "2023-05-29 04:53:48",
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Ustad Raees Khan",
+          "url": "https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh"
+        }
+      ],
+      "duration_ms": 239220,
+      "name": "Hans Dhuni",
+      "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
     },
     {
       "added_at": "2023-05-29 04:53:48",

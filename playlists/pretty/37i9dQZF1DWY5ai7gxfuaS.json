@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 248116,
+  "num_followers": 248318,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmRiNWVjZWRlYWI4YzlhMmNhNGI3YWFmZDE2MTc1ZWI0MWYwNjcz",
+  "snapshot_id": "MCxmOTdkMThkZWU3ZDhhNjVmNWJlN2Y0MzM5OTM2NDQ0NWNhYjkzZGU1",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -321,22 +321,6 @@
       "url": "https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "THE OTHER ONE",
-        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 244258,
-      "name": "Light and Darkness",
-      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "I Spit On Your Grave",
@@ -351,6 +335,22 @@
       "duration_ms": 219686,
       "name": "I Spit On Your Grave",
       "url": "https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "THE OTHER ONE",
+        "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 244258,
+      "name": "Light and Darkness",
+      "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Dead World",
-        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 276764,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu"
-    },
-    {
       "added_at": "2022-11-18 01:42:16",
       "album": {
         "name": "All Fine / eniF llA",
@@ -451,6 +435,22 @@
       "duration_ms": 217500,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/7fFp5wxVb3oJxthl73J1pT"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Dead World",
+        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 276764,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2zdtGFbUCmv0PhkylSQiHu"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "As They Bloom",
+        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 237259,
+      "name": "As They Bloom",
+      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Cheaper Than Therapy",
         "url": "https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb"
       },
@@ -515,38 +531,6 @@
       "duration_ms": 288002,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "As They Bloom",
-        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 237259,
-      "name": "As They Bloom",
-      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
-    },
-    {
-      "added_at": "2023-02-09 19:59:28",
-      "album": {
-        "name": "Dead World",
-        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 241311,
-      "name": "Dead World",
-      "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -579,6 +563,22 @@
       "duration_ms": 208360,
       "name": "Gatekeepers",
       "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
+    },
+    {
+      "added_at": "2023-02-09 19:59:28",
+      "album": {
+        "name": "Dead World",
+        "url": "https://open.spotify.com/album/3Fsmqpx2rM3ckv5ijsbDhF"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 241311,
+      "name": "Dead World",
+      "url": "https://open.spotify.com/track/3xafEn4vzr5HybW0uec4wS"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "All Fine / eniF llA",
+        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "LXVE",
+      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Whispers of Your Death",
         "url": "https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "All Fine / eniF llA",
-        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 191301,
-      "name": "LXVE",
-      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "WHATS UP?",
-        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
-      },
-      "artists": [
-        {
-          "name": "BVDLVD",
-          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "WHATS UP?",
-      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
@@ -1055,6 +1039,38 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "WHATS UP?",
+        "url": "https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ"
+      },
+      "artists": [
+        {
+          "name": "BVDLVD",
+          "url": "https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "WHATS UP?",
+      "url": "https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
       },
@@ -1067,6 +1083,22 @@
       "duration_ms": 491180,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "Wake of a Nation",
+        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 78531,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1103,22 +1135,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Wake of a Nation",
-        "url": "https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 78531,
-      "name": "I Can't Breathe",
-      "url": "https://open.spotify.com/track/2f9na3HI0nVqecagiV0vGO"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "Satellites (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 210927,
       "name": "Into The Void - Single Edit",
       "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",

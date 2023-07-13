@@ -4,13 +4,14 @@
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-311 songs - 17 hr 52 min
+313 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#DMTS](https://open.spotify.com/track/5g1OQq1LdPiPaRUgFKFvW3) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [40 Degrés](https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq) | 2:40 | 2022-05-25 | 2023-04-13 |
 | [+ La vie](https://open.spotify.com/track/7cGLbzrQw1Rxo0ZX9hOXiO) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:49 | 2022-05-25 | 2023-04-13 |
-| [+1](https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/2e4p5hzB4FstwusUaPg8w8) | 2:18 | 2023-05-25 |  |
+| [+1](https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/2e4p5hzB4FstwusUaPg8w8) | 2:18 | 2023-05-25 | 2023-07-13 |
+| [+1 \(feat\. Meggie Lennon & Virginie B\)](https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt) | 2:18 | 2023-05-25 |  |
 | [03.04.19](https://open.spotify.com/track/1rnnLXCZgFbnXw529B21H6) | [Vendôme](https://open.spotify.com/artist/0Ynccr9no1SvYRuIL8jKqJ) | [La fable de la grenouille dorée](https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5) | 3:44 | 2023-05-25 |  |
 | [3 accords](https://open.spotify.com/track/4Hsywq7qnQVsutWBFf8rPZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [3 accords](https://open.spotify.com/album/1IsJS2WEY8FGvmVdX0ehQU) | 2:42 | 2022-05-25 | 2023-04-13 |
 | [3 minutes 5 secondes](https://open.spotify.com/track/4TmF97A331kpuP0Lc3NEZp) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Gazoline III](https://open.spotify.com/album/4B7U0EHZb1JOYWpsklWYxs) | 3:05 | 2022-05-25 | 2022-07-29 |
@@ -223,7 +224,8 @@
 | [Oublie pas](https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/5HiUleHNA5jKXSzfoN65OB) | 4:57 | 2022-05-25 | 2022-07-29 |
 | [Oublie pas](https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s) | 4:57 | 2022-05-25 | 2023-04-13 |
 | [Où sera le monde](https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Où sera le monde](https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl) | 3:58 | 2022-05-25 | 2023-04-13 |
-| [Parler](https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO) | 3:38 | 2023-05-25 |  |
+| [Parler](https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol) | 3:38 | 2023-05-25 |  |
+| [Parler](https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR) | [SOCIAL DANCE](https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz) | [Parler](https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO) | 3:38 | 2023-05-25 | 2023-07-13 |
 | [Pas de limite](https://open.spotify.com/track/2XoYRNX6SJEZaVvP0aZ3sb) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Pas de limite](https://open.spotify.com/album/42r9Vjwpwvi6LCfC5FV3XT) | 2:38 | 2022-05-25 | 2023-04-13 |
 | [Pas le temps de jouer](https://open.spotify.com/track/5IYD6Jw0CdpEZTuQF3Jw0K) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Naomi](https://open.spotify.com/album/732MHsEpWkJRnAkrvXdtoi) | 2:58 | 2023-05-25 |  |
 | [Pas le temps de jouer](https://open.spotify.com/track/6oomlC7rQX4LpTXwXHe3aq) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Pas le temps de jouer](https://open.spotify.com/album/02M6nwxbFdK7DRgB5hxe1I) | 2:58 | 2022-05-25 | 2023-04-13 |

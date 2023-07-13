@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Yeek & Paris Texas make anti pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,720 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,699 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [WHERE FLOWERS GO TO DIE](https://open.spotify.com/track/41v1NkuMJPYcDhM9j2S2v5) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [ARENA](https://open.spotify.com/album/5rRo5aHnN90CeipzqdeRAJ) | 3:04 |
 | 100 | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/track/29MyBEvj2JpRQD4oDjk7Wa) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [DEATH KEEPS CALLING MY NAME \(feat\. Shrimp\)](https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6) | 2:51 |
 
-Snapshot ID: `MCxjODFmOWNlNDM1N2EwNTY1ZjkyNjU4ZDJlNzAyOWEzMDIzNzdhYjc1`
+Snapshot ID: `MCxjM2YyMmVmN2NkMmM2MWZjNDMzY2E4YjE4NDIxMjk3NTU4ZmU1ODI1`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Migrantes, Emanero, Ulises Bueno & Los Palmeras.",
-  "num_followers": 1205373,
+  "num_followers": 1205659,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTgzZjNiMWFiY2VjNjc2ZDVjMGYwZTcxMTllM2Y5YjdkYjAxOTEy",
+  "snapshot_id": "MCwwMjU3MTczMzNhMzIwN2ZiZTI3OTc1M2M5NDVlODQ5OGE1ZDU3OGRl",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "La Gira",
-        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "La Gira",
-      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -811,22 +791,6 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -863,6 +827,42 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "La Gira",
+        "url": "https://open.spotify.com/album/1r4macev7NFEbzNhsfSWft"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "La Gira",
+      "url": "https://open.spotify.com/track/0okUQOY50Ewk2qFUZM98C6"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -907,22 +907,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Tranquila",
-        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
+        "name": "Ya No Llora",
+        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 183430,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
+      "duration_ms": 120638,
+      "name": "Ya No Llora",
+      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -943,18 +939,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "A llorar a otra parte",
-        "url": "https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH"
+        "name": "Tranquila",
+        "url": "https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 156000,
-      "name": "A llorar a otra parte",
-      "url": "https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN"
+      "duration_ms": 183430,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "A llorar a otra parte",
+        "url": "https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "A llorar a otra parte",
+      "url": "https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "El Otro",
         "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 190813,
       "name": "Carnavalintro",
       "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Ya No Llora",
-        "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 120638,
-      "name": "Ya No Llora",
-      "url": "https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Copacabana (Remix)",
-        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Copacabana - Remix",
-      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "NO ES LO QUE PARECE",
         "url": "https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 124589,
       "name": "NO ES LO QUE PARECE",
       "url": "https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Copacabana (Remix)",
+        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Copacabana - Remix",
+      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "TQT",
-        "url": "https://open.spotify.com/album/5cmz8HfyenIdXjE6zIEi2s"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 151415,
-      "name": "TQT",
-      "url": "https://open.spotify.com/track/1JQ6X8VpXoSUxj9M6BOayg"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Que Rico Baila",
         "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "TQT",
+        "url": "https://open.spotify.com/album/5cmz8HfyenIdXjE6zIEi2s"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 151415,
+      "name": "TQT",
+      "url": "https://open.spotify.com/track/1JQ6X8VpXoSUxj9M6BOayg"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Bebe Dame",
-        "url": "https://open.spotify.com/album/0SLGJMpawwQIMjgQbEAhW0"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 224999,
-      "name": "Bebe Dame",
-      "url": "https://open.spotify.com/track/7hTNKOhg7i53zGvwWWalLG"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Lo Intentamos (feat. Grupo Play)",
         "url": "https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x"
       },
@@ -1775,30 +1759,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "A Chillar a Otra Parte (Remix)",
-        "url": "https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50"
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/0SLGJMpawwQIMjgQbEAhW0"
       },
       "artists": [
         {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        },
-        {
-          "name": "BANDIDO",
-          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
-        },
-        {
-          "name": "Santiago Ca\u00f1ete",
-          "url": "https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2"
-        },
-        {
-          "name": "JCKC",
-          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
         }
       ],
-      "duration_ms": 218117,
-      "name": "A Chillar a Otra Parte - Remix",
-      "url": "https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy"
+      "duration_ms": 224999,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/7hTNKOhg7i53zGvwWWalLG"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1843,6 +1815,34 @@
       "duration_ms": 144879,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "A Chillar a Otra Parte (Remix)",
+        "url": "https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        },
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        },
+        {
+          "name": "Santiago Ca\u00f1ete",
+          "url": "https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2"
+        },
+        {
+          "name": "JCKC",
+          "url": "https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu"
+        }
+      ],
+      "duration_ms": 218117,
+      "name": "A Chillar a Otra Parte - Remix",
+      "url": "https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy"
     },
     {
       "added_at": "2023-07-07 03:00:00",

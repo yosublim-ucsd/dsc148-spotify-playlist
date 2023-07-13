@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 168194,
+  "num_followers": 168186,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzZmNjNiODUxMDRjZWU5Y2NjOWFmYmEwMmQwYzZlODhmZTYyYjNh",
+  "snapshot_id": "MCw1YzgzOTEzMjdmMTg3ZTc5OTlhZjVjNTJhMmNlNmNhYThmMjgyMGZj",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Someday At Christmas",
-        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
       },
       "artists": [
         {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 203434,
-      "name": "Someday At Christmas",
-      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+      "duration_ms": 269866,
+      "name": "Deck the Halls / Silent Night",
+      "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "One Wish / The Holiday Album",
-        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
         }
       ],
-      "duration_ms": 269866,
-      "name": "Deck the Halls / Silent Night",
-      "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
+      "duration_ms": 203434,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Merry Like This",
-        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
       "artists": [
         {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
         }
       ],
-      "duration_ms": 180588,
-      "name": "Merry Like This",
-      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -809,20 +809,20 @@
       "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
       },
       "artists": [
         {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -895,26 +895,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The First Noel (feat. Cory Henry)",
-        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 190286,
-      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
-      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Motown Christmas",
         "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The First Noel (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
+      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1021,6 +1021,38 @@
       "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "A Timeless Christmas",
+        "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 308640,
+      "name": "O Come",
+      "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
+    },
+    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "This Christmas",
@@ -1039,22 +1071,6 @@
       "duration_ms": 242563,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "A Timeless Christmas",
-        "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 308640,
-      "name": "O Come",
-      "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+        "name": "Merry Christmas from Andra Day",
+        "url": "https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 193400,
+      "duration_ms": 194053,
       "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+      "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1159,22 +1175,6 @@
       "duration_ms": 249760,
       "name": "Give Love On Christmas Day",
       "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Merry Christmas from Andra Day",
-        "url": "https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 194053,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Spend Christmas With You",
-        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 195816,
-      "name": "Spend Christmas With You",
-      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas Soul 2020",
         "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 154920,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Spend Christmas With You",
+        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "duration_ms": 195816,
+      "name": "Spend Christmas With You",
+      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 214183,
-      "name": "Wrap Me Up",
-      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
         "name": "Christmas With Babyface",
         "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 276960,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 214183,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
     },
     {
       "added_at": "2022-11-25 20:23:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,489 likes - 81 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,545 likes - 81 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 51 | [Is That What Everybody Wants](https://open.spotify.com/track/3ZohDI0H3LUGKg43A5ne9f) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:48 |
 | 52 | [Back To Belgrade](https://open.spotify.com/track/5y7bCDAzB0rnTs7HJtdv75) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 3:39 |
 | 53 | [Ship In A Bottle \- From "The Lovely Bones"](https://open.spotify.com/track/2EUGYW7MBK972Q9qEvyx3N) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Brian Eno \- Film Music 1976 \~ 2020](https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq) | 2:40 |
-| 54 | [Imagining Buffalo](https://open.spotify.com/track/1vtQUwCYHqLouqhnKPCZAX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 2:39 |
+| 54 | [Imagining Buffalo](https://open.spotify.com/track/1vtQUwCYHqLouqhnKPCZAX) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR) | 2:39 |
 | 55 | [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 |
 | 56 | ["We're Not Programs, GERTY, We're People"](https://open.spotify.com/track/0X0kSqEp7Ow4BYSV1y1HTy) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 5:10 |
 | 57 | [Escape from New York](https://open.spotify.com/track/6T4OT1wFOwgNK9VysjaEAk) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Anthology: Movie Themes 1974\-1998](https://open.spotify.com/album/3ZqJGlPsvDsU1hlaeU2lr9) | 3:32 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SxUtY6PbgZ.md) - [plain]
 | 80 | [The Turing Test](https://open.spotify.com/track/24tp9KQWD7EVkPiHcO1pPE) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 4:34 |
 | 81 | [Joe's Life](https://open.spotify.com/track/6YQrZEPXUz18Bi5kyOAZgw) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:40 |
 
-Snapshot ID: `MCxhMGE3MGU0YWU4Zjg4YTliMjcyZTNjM2VlNjMzNjA1MzhhODZmZjRm`
+Snapshot ID: `MCw2NDQxZGMyYWRmYWQ1OTlkNThjZTU4NjBkNDMyN2QxYzE5NDhhZTll`

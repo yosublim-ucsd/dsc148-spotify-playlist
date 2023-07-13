@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Johnny Marsiglia in cover.",
-  "num_followers": 33529,
+  "num_followers": 33542,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODlkNmU0NGYwZDVhZGU4MzMyN2Q2OWJhMWRkMDdiZjhkNGRhMzQ1",
+  "snapshot_id": "MCxmNzJkYjZmYTE1YTllMTk4NjM5MjUzZjc1ZDA5Njg4ODFiNTVkNzIz",
   "tracks": [
     {
       "added_at": "2023-07-06 22:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-07-06 22:01:00",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+    },
+    {
+      "added_at": "2023-07-06 22:01:00",
+      "album": {
         "name": "Numero zero ep",
         "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 160574,
       "name": "Lasciami solo",
       "url": "https://open.spotify.com/track/4neRbVUtymiGGS8rhhofvB"
-    },
-    {
-      "added_at": "2023-07-06 22:01:00",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
     },
     {
       "added_at": "2023-07-06 22:01:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-07-06 22:01:00",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        },
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Narciso (feat. Murubutu)",
-      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
-    },
-    {
-      "added_at": "2023-07-06 22:01:00",
-      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 242378,
       "name": "Casse rotte (feat. Brokenspeakers)",
       "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
+    },
+    {
+      "added_at": "2023-07-06 22:01:00",
+      "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        },
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Narciso (feat. Murubutu)",
+      "url": "https://open.spotify.com/track/4iKdzpTULRZUTtuyTUpLYP"
     },
     {
       "added_at": "2023-07-06 22:01:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-06 22:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lontano 2036",
-      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
-    },
-    {
-      "added_at": "2023-07-06 22:01:00",
-      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 143892,
       "name": "Caramelle da uno sconosciuto",
       "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
+    },
+    {
+      "added_at": "2023-07-06 22:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Lontano 2036",
+      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
     },
     {
       "added_at": "2023-07-06 22:01:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-07-06 22:01:00",
       "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-07-06 22:01:00",
+      "album": {
         "name": "Iron Maiden",
         "url": "https://open.spotify.com/album/5r6SGHEkgZKiqV3KVw0awx"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 176774,
       "name": "B.U.F.",
       "url": "https://open.spotify.com/track/4wdow0OrNHyFJyAVG0knt3"
-    },
-    {
-      "added_at": "2023-07-06 22:01:00",
-      "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-07-06 22:01:00",
@@ -1923,18 +1923,22 @@
     {
       "added_at": "2023-07-06 22:01:00",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
+        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
       },
       "artists": [
         {
           "name": "Neffa",
           "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
         }
       ],
-      "duration_ms": 320493,
-      "name": "La Ballotta",
-      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+      "duration_ms": 311960,
+      "name": "Aspettando Il Sole - Remastered",
+      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
     },
     {
       "added_at": "2023-07-06 22:01:00",
@@ -1967,22 +1971,6 @@
     {
       "added_at": "2023-07-06 22:01:00",
       "album": {
-        "name": "LACRIME DI COCCODRILLO :'=8)",
-        "url": "https://open.spotify.com/album/3jFPcHd0xk4wFCeyeWfRXQ"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253913,
-      "name": "LACRIME DI COCCODRILLO :'=8)",
-      "url": "https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz"
-    },
-    {
-      "added_at": "2023-07-06 22:01:00",
-      "album": {
         "name": "Chi more pe' mme",
         "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
       },
@@ -1995,6 +1983,42 @@
       "duration_ms": 283480,
       "name": "Chi more pe' mme",
       "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
+    },
+    {
+      "added_at": "2023-07-06 22:01:00",
+      "album": {
+        "name": "4 MANI",
+        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
+      },
+      "artists": [
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        }
+      ],
+      "duration_ms": 191213,
+      "name": "SPUNTABLU",
+      "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
+    },
+    {
+      "added_at": "2023-07-06 22:01:00",
+      "album": {
+        "name": "LACRIME DI COCCODRILLO :'=8)",
+        "url": "https://open.spotify.com/album/3jFPcHd0xk4wFCeyeWfRXQ"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253913,
+      "name": "LACRIME DI COCCODRILLO :'=8)",
+      "url": "https://open.spotify.com/track/00S5r1e6pZOOxMBc2hjsVz"
     },
     {
       "added_at": "2023-07-06 22:01:00",
@@ -2019,6 +2043,22 @@
     {
       "added_at": "2023-07-06 22:01:00",
       "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "La Ballotta",
+      "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
+    },
+    {
+      "added_at": "2023-07-06 22:01:00",
+      "album": {
         "name": "Infernum",
         "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
       },
@@ -2039,46 +2079,6 @@
       "duration_ms": 180776,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
-    },
-    {
-      "added_at": "2023-07-06 22:01:00",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa (Remastered)",
-        "url": "https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "Aspettando Il Sole - Remastered",
-      "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
-    },
-    {
-      "added_at": "2023-07-06 22:01:00",
-      "album": {
-        "name": "4 MANI",
-        "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        }
-      ],
-      "duration_ms": 191213,
-      "name": "SPUNTABLU",
-      "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
     },
     {
       "added_at": "2023-07-06 22:01:00",

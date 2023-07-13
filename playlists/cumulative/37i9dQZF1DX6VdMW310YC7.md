@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,497 songs - 4 day 7 hr 12 min
+1,498 songs - 4 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,7 +740,7 @@
 | [Leave](https://open.spotify.com/track/5W94pLhDF7UsAY1UKe6uNJ) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Return Flight](https://open.spotify.com/album/3cDzRwvrbEqcaLOGJ7GOGc) | 6:56 | 2020-03-17 | 2021-03-06 |
 | [Leave A Trace \- Goldroom Remix](https://open.spotify.com/track/5Lt0L3Hc2eSZXPIOGWXcd8) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [Leave A Trace \(Goldroom Remix\)](https://open.spotify.com/album/66nNUID6ottsK8z046mMwb) | 4:59 | 2020-05-18 | 2020-07-03 |
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-01-13 |  |
-| [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 | 2022-01-21 |  |
+| [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 | 2022-01-21 | 2023-07-13 |
 | [Leaving \(feat\. Yuna\)](https://open.spotify.com/track/6UDrfHEnUWI3O03sacM3KO) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Crystal Eyes](https://open.spotify.com/album/7toy7pb6WIQAOWCMcwGBOQ) | 2:55 | 2020-03-20 | 2020-07-03 |
 | [Leaving Home](https://open.spotify.com/track/2S3UsA5sFyCGdpdWqkusTe) | [16BL](https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG) | [Vette / Leaving Home](https://open.spotify.com/album/4rDSAYMAsLVz7sJqxBCF1b) | 6:28 | 2020-03-20 | 2022-04-21 |
 | [Left Behind](https://open.spotify.com/track/3NQOEIsyMlYGgy0i1pbxlL) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Left Behind](https://open.spotify.com/album/3ahJz8yBkI9eUcKun7MDel) | 4:24 | 2022-09-23 | 2023-04-29 |
@@ -827,6 +827,7 @@
 | [Maker](https://open.spotify.com/track/4DP7DimT3KRKbsvjfIrcoX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 4:11 | 2022-07-01 | 2022-09-24 |
 | [Maker](https://open.spotify.com/track/6w32mXhIaosDV03bo216QI) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Joypunks / Maker](https://open.spotify.com/album/4nr116yOgerXCvvisMjZfa) | 4:11 | 2020-03-20 | 2022-04-20 |
 | [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 | 2023-01-13 | 2023-04-15 |
+| [Making Time x Cycles](https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time x Cycles](https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e) | 4:39 | 2023-07-07 |  |
 | [Mala](https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:01 | 2020-03-19 | 2022-06-30 |
 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 | 2020-03-21 | 2022-08-25 |
 | [Manila Palm](https://open.spotify.com/track/4AoQ3IvQqXjFhvtVyrGfGn) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Juno](https://open.spotify.com/album/1eQxkBCBAwikauTxmYDjB9) | 4:33 | 2021-07-16 |  |

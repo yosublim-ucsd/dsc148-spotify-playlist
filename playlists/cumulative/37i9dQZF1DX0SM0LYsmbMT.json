@@ -13520,7 +13520,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 115200,
       "name": "Cyanea",
       "url": "https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU"
@@ -23524,6 +23524,32 @@
       "duration_ms": 143272,
       "name": "gorilla glue",
       "url": "https://open.spotify.com/track/54hTBhEcW29Bt67Q0jYeQN"
+    },
+    {
+      "album": {
+        "name": "Got a light?",
+        "url": "https://open.spotify.com/album/4VBtkZPtQmqv7NtFyUPoAZ"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "DAO",
+          "url": "https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9"
+        },
+        {
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102968,
+      "name": "Got a light?",
+      "url": "https://open.spotify.com/track/6Jj7Fpe0RO5hsx4HuWPaUS"
     },
     {
       "album": {

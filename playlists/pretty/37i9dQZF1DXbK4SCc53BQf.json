@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 86692,
+  "num_followers": 86726,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjZiODJmNjY1NjVkZWQ3MGQ2YjM2YWI4NDA0ZDM2NDEzYmY1MzEz",
+  "snapshot_id": "MCwyZTBjN2FhNWJjMWZiNzc2OGRmN2I5MWFmYmQzN2E5YWFhNjQ4OTdh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -659,6 +659,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
+      },
+      "artists": [
+        {
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
+        }
+      ],
+      "duration_ms": 257650,
+      "name": "Yo Te Adoro",
+      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Vestida De Adoracion",
-        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
-      },
-      "artists": [
-        {
-          "name": "Kathy Cristina",
-          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
-        }
-      ],
-      "duration_ms": 257650,
-      "name": "Yo Te Adoro",
-      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
-      },
-      "artists": [
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
-        }
-      ],
-      "duration_ms": 203187,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
+        }
+      ],
+      "duration_ms": 203187,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Diez Mil Razones",
         "url": "https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H"
       },
@@ -747,54 +747,6 @@
       "duration_ms": 180069,
       "name": "Diez Mil Razones",
       "url": "https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Dios Te Bendiga",
-        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
-      },
-      "artists": [
-        {
-          "name": "Willy Rodriguez",
-          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
-        }
-      ],
-      "duration_ms": 232254,
-      "name": "Dios Te Bendiga",
-      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Te Entrego Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 207965,
-      "name": "Te Entrego Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Ven Te Estado Esperando",
-        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 349909,
-      "name": "Hermoso Nombre",
-      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -815,6 +767,54 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Te Entrego Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 207965,
+      "name": "Te Entrego Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Dios Te Bendiga",
+        "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
+      },
+      "artists": [
+        {
+          "name": "Willy Rodriguez",
+          "url": "https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Dios Te Bendiga",
+      "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Ven Te Estado Esperando",
+        "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 349909,
+      "name": "Hermoso Nombre",
+      "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "La Fe Que Dios Me Di\u00f3",
         "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 198599,
       "name": "La Fe Que Dios Me Di\u00f3",
       "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
+      },
+      "artists": [
+        {
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
+        }
+      ],
+      "duration_ms": 284378,
+      "name": "Hay Un Lugar",
+      "url": "https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -859,26 +875,6 @@
       "duration_ms": 190800,
       "name": "No Vaya a Ser",
       "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "United Kingdom 2 (Volumen 2)",
-        "url": "https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Michael Pratts",
-          "url": "https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp"
-        }
-      ],
-      "duration_ms": 231003,
-      "name": "Ritmo del Cielo",
-      "url": "https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

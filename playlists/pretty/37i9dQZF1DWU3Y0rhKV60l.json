@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 6614,
+  "num_followers": 6630,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjdiNmU4NGE1ZmI1Mjg4OGQzZjczN2Q5ZTM2ZDA3MzVjMDc3MDM2",
+  "snapshot_id": "MCxjZTE0YTY3MzE4N2IwODJmYjFlMWQ2MTE0ODAwYWYxNTcyY2EwODQw",
   "tracks": [
     {
       "added_at": "2023-06-19 08:59:16",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Stereo Waves",
-        "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
-      },
-      "artists": [
-        {
-          "name": "4D Nature Recordings",
-          "url": "https://open.spotify.com/artist/6EAXjip845wircvDzEImru"
-        }
-      ],
-      "duration_ms": 173422,
-      "name": "The Oceanic Beach Sound",
-      "url": "https://open.spotify.com/track/5mvw769FihTs6dokvzhosR"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "More waves From Scandinavia",
         "url": "https://open.spotify.com/album/6VSjNdgSi4EPpJF4aHIdGB"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 173808,
       "name": "Waves Loopable",
       "url": "https://open.spotify.com/track/1MEZXgooG2c5g84uaRbIn6"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Stereo Waves",
+        "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
+      },
+      "artists": [
+        {
+          "name": "4D Nature Recordings",
+          "url": "https://open.spotify.com/artist/6EAXjip845wircvDzEImru"
+        }
+      ],
+      "duration_ms": 173422,
+      "name": "The Oceanic Beach Sound",
+      "url": "https://open.spotify.com/track/5mvw769FihTs6dokvzhosR"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Epic Waves - vol.1",
-        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
-      },
-      "artists": [
-        {
-          "name": "Epic Soundscapes",
-          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
-        }
-      ],
-      "duration_ms": 229337,
-      "name": "Relaxing Waves",
-      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Nature Sleep",
         "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 122380,
       "name": "Naples Beach",
       "url": "https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Epic Waves - vol.1",
+        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "duration_ms": 229337,
+      "name": "Relaxing Waves",
+      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Summer Ocean Waves",
-        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
-      },
-      "artists": [
-        {
-          "name": "Hello Soundz",
-          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Summer Ocean Waves",
-      "url": "https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Oceanside Waves & Outer Channel Waves",
         "url": "https://open.spotify.com/album/4xzchEzzhXDViDHdQXEhre"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 244000,
       "name": "Oceanside Waves",
       "url": "https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+      },
+      "artists": [
+        {
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Summer Ocean Waves",
+      "url": "https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "The Mighty Ocean",
-        "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
-      },
-      "artists": [
-        {
-          "name": "Sea Kelp",
-          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
-        }
-      ],
-      "duration_ms": 213624,
-      "name": "The Mighty Ocean - Seamless",
-      "url": "https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2"
-    },
-    {
-      "added_at": "2023-06-19 08:59:16",
-      "album": {
         "name": "Mystic Oceanic Haze",
         "url": "https://open.spotify.com/album/4EMxafhgSM7uUpRc1cbhdL"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Dancing with the Sea",
-        "url": "https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7"
+        "name": "Waves of Bliss",
+        "url": "https://open.spotify.com/album/1GmylbiB9fL0N2L1mdQ9hC"
       },
       "artists": [
         {
-          "name": "Ocean Bank",
-          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+          "name": "Brainwave Samples",
+          "url": "https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7"
         }
       ],
-      "duration_ms": 124545,
-      "name": "Soothing Sirens",
-      "url": "https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky"
+      "duration_ms": 136434,
+      "name": "Waves of Bliss",
+      "url": "https://open.spotify.com/track/4yQ7BMMHa6aNV4cXYwg3oS"
     },
     {
       "added_at": "2023-06-19 08:59:16",
@@ -763,18 +747,34 @@
     {
       "added_at": "2023-06-19 08:59:16",
       "album": {
-        "name": "Waves of Bliss",
-        "url": "https://open.spotify.com/album/1GmylbiB9fL0N2L1mdQ9hC"
+        "name": "The Mighty Ocean",
+        "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
       },
       "artists": [
         {
-          "name": "Brainwave Samples",
-          "url": "https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7"
+          "name": "Sea Kelp",
+          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
         }
       ],
-      "duration_ms": 136434,
-      "name": "Waves of Bliss",
-      "url": "https://open.spotify.com/track/4yQ7BMMHa6aNV4cXYwg3oS"
+      "duration_ms": 213624,
+      "name": "The Mighty Ocean - Seamless",
+      "url": "https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2"
+    },
+    {
+      "added_at": "2023-06-19 08:59:16",
+      "album": {
+        "name": "Dancing with the Sea",
+        "url": "https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7"
+      },
+      "artists": [
+        {
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+        }
+      ],
+      "duration_ms": 124545,
+      "name": "Soothing Sirens",
+      "url": "https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky"
     },
     {
       "added_at": "2023-06-19 08:59:16",

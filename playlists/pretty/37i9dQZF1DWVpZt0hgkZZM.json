@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 20621,
+  "num_followers": 20641,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw",
+  "snapshot_id": "MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Pegame Tu Vicio",
+        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Senta Danada",
         "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 172621,
       "name": "Senta Danada",
       "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Pegame Tu Vicio",
-        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 303293,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Con Arena Nueva",
-        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Cuando el Amor se Da\u00f1a",
-      "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Aqui Esperandote (2022 Remastered)",
         "url": "https://open.spotify.com/album/6ApzwpEyl3kRuptjNKIqHW"
       },
@@ -531,18 +515,34 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+        "name": "Con Arena Nueva",
+        "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
         }
       ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+      "duration_ms": 261133,
+      "name": "Cuando el Amor se Da\u00f1a",
+      "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "35 A\u00f1os de Exitos",
+        "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
+      },
+      "artists": [
+        {
+          "name": "El Sonero de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ"
+        }
+      ],
+      "duration_ms": 263201,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/63Zi4b7Ko3wfHEShZbjJRA"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 220177,
       "name": "La Colegiada",
       "url": "https://open.spotify.com/track/0EYVTuGER9NV3k7FT5oX1E"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "35 A\u00f1os de Exitos",
-        "url": "https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja"
-      },
-      "artists": [
-        {
-          "name": "El Sonero de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ"
-        }
-      ],
-      "duration_ms": 263201,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 266762,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Bailando Lambada",
         "url": "https://open.spotify.com/album/4ilpZLrVk38MepODyBUjX6"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 262013,
       "name": "Z\u00fambalo",
       "url": "https://open.spotify.com/track/2Xn5o0MhShu0lOiWuw4Khr"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 266762,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Mar y Luna",
-        "url": "https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp"
-      },
-      "artists": [
-        {
-          "name": "Pecos Kanvas",
-          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Mar y Luna",
-      "url": "https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 269191,
       "name": "El Santo Cachon",
       "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Mar y Luna",
+        "url": "https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp"
+      },
+      "artists": [
+        {
+          "name": "Pecos Kanvas",
+          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Mar y Luna",
+      "url": "https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Orqu\u00eddea de Plata",
+        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
+      },
+      "artists": [
+        {
+          "name": "Nelson Y Sus Estrellas",
+          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "La Sirena",
+      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Los Dos Inseparables",
         "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 176533,
       "name": "Anhelos",
       "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Orqu\u00eddea de Plata",
-        "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
-      },
-      "artists": [
-        {
-          "name": "Nelson Y Sus Estrellas",
-          "url": "https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "La Sirena",
-      "url": "https://open.spotify.com/track/3KPNyfWQEF6EKAmbHfboZI"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Como en un Baile",
-        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 364617,
-      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "14 vallenatos sabroso",
         "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 283103,
       "name": "muero por verla luis mateus vallenato",
       "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 364617,
+      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
     },
     {
       "added_at": "2021-12-16 22:41:17",

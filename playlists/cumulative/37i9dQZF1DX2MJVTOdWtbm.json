@@ -2139,6 +2139,28 @@
     },
     {
       "album": {
+        "name": "ESQUE T\u00da",
+        "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "El Santi",
+          "url": "https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "ESQUE T\u00da",
+      "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
+    },
+    {
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -4758,7 +4780,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 168804,
       "name": "Qui\u00e9n Dir\u00eda",
       "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"

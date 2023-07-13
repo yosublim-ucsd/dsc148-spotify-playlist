@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,003 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,018 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 6 | [Kanasella \- Female Version](https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanasella \- Female Version](https://open.spotify.com/album/1WNn6I7B7eFbqzZCYDGbRf) | 4:28 |
 | 7 | [Yenaagide](https://open.spotify.com/track/2iO7QR9TKXGECiozwKR9yP) | [Swaroop](https://open.spotify.com/artist/0KnRzWyUIlpEw1yYrVWZum) | [Yenaagide](https://open.spotify.com/album/18gnmJSKZfTc8Pdkk1OrsE) | 3:36 |
 | 8 | [Anu Anuvaagi](https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/5C10KZmpA0P1MR1eiGxSgc) | 3:02 |
-| 9 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [Pavan Shetty KALKI\)](https://open.spotify.com/artist/13Qzmz9lZc9Sy85Ttk1OGE), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 |
+| 9 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 |
 | 10 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 |
 | 11 | [Careless](https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh) | [Raakki](https://open.spotify.com/artist/27nxoPW1MD0nRL7ZMu2khf) | [Careless](https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm) | 3:57 |
 | 12 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 |
 | 75 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 |
 
-Snapshot ID: `MCxhZWZmZTI0YTc4ZGUxMDNkMGFiMjI3YTc0OTlhMWExNTM4MWYxZjU3`
+Snapshot ID: `MCw4ZGY5MGI0YjNiYjk3NGNmMzJmMzQ2ZjY5MzI3NjlkODgzNjc4Yjhk`

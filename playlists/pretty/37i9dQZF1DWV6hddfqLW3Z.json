@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 765285,
+  "num_followers": 765474,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDI3NjMxZTg0ZjE4YjY4MWZmOTg4NWVkM2FjNDcxYjliMDdkZGJj",
+  "snapshot_id": "MCw3NjU3OTc2YmZmNjA3MjllZDc5Y2RkYjA0MzIyMDUzZDJhMDc4YTMw",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Arquivo II 1991 - 2000",
+        "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Aonde Quer Que Eu V\u00e1",
+      "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 214366,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Arquivo II 1991 - 2000",
-        "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Aonde Quer Que Eu V\u00e1",
-      "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 160238,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Lisboa-Madrid",
         "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 220031,
       "name": "Lisboa-Madrid",
       "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Samba",
-        "url": "https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 160238,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+        "name": "Reconstru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
       "artists": [
         {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 219728,
-      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
+      "duration_ms": 204895,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Reconstru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
       "artists": [
         {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
         }
       ],
-      "duration_ms": 204895,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+      "duration_ms": 219728,
+      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quase Sem Querer",
         "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 216842,
       "name": "Quase Sem Querer",
       "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Sou",
-        "url": "https://open.spotify.com/album/329FECZuSWB3DSS73KAT3A"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Camelo",
-          "url": "https://open.spotify.com/artist/2HubQ6TEbD7HknCNrBsqhR"
-        }
-      ],
-      "duration_ms": 204813,
-      "name": "Janta",
-      "url": "https://open.spotify.com/track/4utoXvhzZBIrsDKOEtApSl"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Tribalistas Ao Vivo",
         "url": "https://open.spotify.com/album/5cnwEGGZCmPx1f3mLQK90b"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 273727,
       "name": "Vilarejo - Ao Vivo",
       "url": "https://open.spotify.com/track/3E3jroGWmeblwYhW6YJvoK"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Sou",
+        "url": "https://open.spotify.com/album/329FECZuSWB3DSS73KAT3A"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Camelo",
+          "url": "https://open.spotify.com/artist/2HubQ6TEbD7HknCNrBsqhR"
+        }
+      ],
+      "duration_ms": 204813,
+      "name": "Janta",
+      "url": "https://open.spotify.com/track/4utoXvhzZBIrsDKOEtApSl"
     }
   ],
   "unique_name": "Cafezinho",

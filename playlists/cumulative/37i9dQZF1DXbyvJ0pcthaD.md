@@ -4,7 +4,7 @@
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-25 songs - 1 hr 37 min
+26 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2022-12-01 |  |
 | [Don't Worry Be Happy](https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY) | [Bobby McFerrin](https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid) | [Simple Pleasures](https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b) | 4:54 | 2022-12-01 |  |
 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2022-12-01 |  |
-| [If I Be Wrong](https://open.spotify.com/track/2wwko1N7dVjpsHt5Ca9be3) | [Wolf Larsen](https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc) | [Quiet at the Kitchen Door](https://open.spotify.com/album/5zQuH90HZTS3polThsRVG7) | 7:18 | 2022-12-01 |  |
+| [If I Be Wrong](https://open.spotify.com/track/2wwko1N7dVjpsHt5Ca9be3) | [Wolf Larsen](https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc) | [Quiet at the Kitchen Door](https://open.spotify.com/album/5zQuH90HZTS3polThsRVG7) | 7:18 | 2022-12-01 | 2023-07-13 |
+| [If I Be Wrong](https://open.spotify.com/track/4iFoLIJGlMzrKRHkmEb3Co) | [Wolf Larsen](https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc) | [Quiet at the Kitchen Door](https://open.spotify.com/album/6qDC8upBCUkyV0Fw2N5qVE) | 7:18 | 2022-12-01 |  |
 | [In Dreams](https://open.spotify.com/track/5YsyqcewwE0c1ukzHVciS3) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [In Dreams](https://open.spotify.com/album/1Mur3hTEWtYHqGku4d9ySm) | 2:49 | 2022-12-01 |  |
 | [It’s A Shame](https://open.spotify.com/track/4DoWwjW93HS2p0SahEQ2qR) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Pink Feathers](https://open.spotify.com/artist/5G46oA5vyTUNhJkAyqmGmW) | [EGO](https://open.spotify.com/album/4soSC3Y3hkAczeDVklfp34) | 3:00 | 2022-12-01 |  |
 | [Jinx](https://open.spotify.com/track/3t5htCiGucfhAQjm88U3K9) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:41 | 2022-12-01 |  |

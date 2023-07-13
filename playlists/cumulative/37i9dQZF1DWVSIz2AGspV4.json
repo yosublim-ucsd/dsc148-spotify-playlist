@@ -3087,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "Nebqa Sawa",
+        "url": "https://open.spotify.com/album/6zENml6NHJR1O93uc8Ya8J"
+      },
+      "artists": [
+        {
+          "name": "Habeeb Ali",
+          "url": "https://open.spotify.com/artist/7KArBbdJ0GLtkEM3LUv1Fj"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209255,
+      "name": "Nebqa Sawa",
+      "url": "https://open.spotify.com/track/5kzBFesuyoOY3XGlNpdqrB"
+    },
+    {
+      "album": {
         "name": "Nekser El Khater",
         "url": "https://open.spotify.com/album/1Hy6wVNw1CHqgvm0BKKfjc"
       },
@@ -3712,7 +3730,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 212973,
       "name": "Teqharni",
       "url": "https://open.spotify.com/track/4h9CNuscmTV86HN8tSHvqL"

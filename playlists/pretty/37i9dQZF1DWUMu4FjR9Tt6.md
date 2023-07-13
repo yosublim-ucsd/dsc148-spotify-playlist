@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 
 > Check out the official playlist from Umbrella Academy\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,337 likes - 86 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,417 likes - 86 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 40 | [Who's That Knocking](https://open.spotify.com/track/3eYHhoaTGFYJ5XAjRFduUd) | [A Look At Yesterday](https://open.spotify.com/artist/4RujBj5x2TPbUgjrdgPmSn), [The Genies](https://open.spotify.com/artist/0pxIV7HgczzPnHLTPQqsNu) | [Goodies Old Is New: Come Dance With Me](https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy) | 2:17 |
 | 41 | [I'm A Man](https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [The Best Of Spencer Davis Group](https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb) | 2:51 |
 | 42 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
-| 43 | [Bach, JS: Partita for Solo Violin No\. 2 in D Minor, BWV 1004: V\. Chaconne](https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Bach \- Solo Violin Sonatas](https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj) | 15:46 |
+| 43 | [Bach, JS: Partita for Solo Violin No\. 2 in D Minor, BWV 1004: V\. Chaconne](https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Bach: Solo Violin Sonatas](https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj) | 15:46 |
 | 44 | [I'll never do you wrong](https://open.spotify.com/track/6hG59WXc951utGHcrbhr4V) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [The Very Best of, Volume 1](https://open.spotify.com/album/4nctU0RFRsjiYDgnYNcix5) | 3:08 |
 | 45 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
 | 46 | [Love Is Blue](https://open.spotify.com/track/1X3QZcv5bSyuibFazrif9u) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [By the Time I Get to Phoenix](https://open.spotify.com/album/072n3mIrN6UKS5rkYAN9zR) | 2:27 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMu4FjR9Tt6.md) - [plain]
 | 85 | [Sinnerman](https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 10:22 |
 | 86 | [Hello](https://open.spotify.com/track/2ij8uf754WwccftaYn3kay) | [My Kullsvik](https://open.spotify.com/artist/5URiHHxjOuaGuNZPmccofu) | [Hello \(Swedish Cover\)](https://open.spotify.com/album/4HyNWn0hioQ8zyLbJVLa3i) | 4:22 |
 
-Snapshot ID: `MCw3ODAxYmI5NzkwN2M0MzQzYmRjZmYzMGU4ZDVkZjBiMTEzMTdiMDAw`
+Snapshot ID: `MCxhY2E5YjU5MDM3MzMyYWM5ZjZkY2IzOWVkYmY4MmU2YzA2OTdhM2I5`

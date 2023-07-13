@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 3471,
+  "num_followers": 3480,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWI1MzBlNmUxYjEyYTQzZTQwNGVjNjEwY2M3MzUwYTYxYzc2NjNm",
+  "snapshot_id": "MCw2NzMwNjM1M2Q4ZTcyNzNhNDQxYTdlMWUwMWI3Y2VkZTI3NDYzNTgy",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "King of a Land",
-        "url": "https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 273400,
-      "name": "Pagan Run",
-      "url": "https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "This World Is Our Home",
         "url": "https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 173731,
       "name": "This World Is Our Home",
       "url": "https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "King of a Land",
+        "url": "https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "Pagan Run",
+      "url": "https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Someone You Love",
-        "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
-      },
-      "artists": [
-        {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
-        }
-      ],
-      "duration_ms": 254174,
-      "name": "Someone You Love",
-      "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 173840,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Someone You Love",
+        "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 254174,
+      "name": "Someone You Love",
+      "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Priest From Terre Haute",
+        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
+      },
+      "artists": [
+        {
+          "name": "Marcos Cabanas",
+          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
+        }
+      ],
+      "duration_ms": 703561,
+      "name": "Priest From Terre Haute",
+      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Priest From Terre Haute",
-        "url": "https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH"
-      },
-      "artists": [
-        {
-          "name": "Marcos Cabanas",
-          "url": "https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402"
-        }
-      ],
-      "duration_ms": 703561,
-      "name": "Priest From Terre Haute",
-      "url": "https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Burlesque Desert Window",
+        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Burlesque Desert Window",
+      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 212139,
       "name": "Lola with the Light Eyes",
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Burlesque Desert Window",
-        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Burlesque Desert Window",
-      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
     },
     {
       "added_at": "2023-07-06 22:00:00",

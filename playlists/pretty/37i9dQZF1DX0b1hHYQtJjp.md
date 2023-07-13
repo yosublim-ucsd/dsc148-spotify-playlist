@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,385 likes - 62 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,518 likes - 62 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 61 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 |
 | 62 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 |
 
-Snapshot ID: `MCxlZTkyODQ4MjljMzFiNTcyMWRhYzNmNDI5MjFlYzUxOWE1OWJjNzQ3`
+Snapshot ID: `MCw4YjA1ODQ4N2ViZjZjMTdjOTNiZGYyMTE5MTMxNjkyNjA4MzI2OTFi`

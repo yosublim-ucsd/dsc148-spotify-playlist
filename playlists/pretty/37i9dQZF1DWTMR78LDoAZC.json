@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 128578,
+  "num_followers": 128695,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTUxMDhkZWFhMWRmYTBiY2Q0NDQ1NjFjMDhiYWNjNDAzMjUxMGQw",
+  "snapshot_id": "MCw4ZjU2YzY4YTkyNmY5Nzc5NThiNjNjNjFkOGY3NTliZWE1N2YzNjQ4",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221873,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/5Y5WLk0oI5MZSJMyK88upb"
     },
     {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
+    },
+    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Set My Heart On Fire Immediately",
@@ -927,22 +943,6 @@
       "duration_ms": 284960,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2FQ3g2BkBcJiuR9jHxZLWC"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb"
     },
     {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "So Clear",
-        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 212064,
-      "name": "So Clear",
-      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "How Many Times Have You Driven By",
@@ -1119,6 +1103,22 @@
       "duration_ms": 164169,
       "name": "Crying on the Subway",
       "url": "https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "So Clear",
+        "url": "https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 212064,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "California Girl",
         "url": "https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 237165,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
     },
     {
       "added_at": "2023-03-07 19:29:41",

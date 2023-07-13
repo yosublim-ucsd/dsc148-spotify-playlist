@@ -1,32 +1,40 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 97963,
+  "num_followers": 98127,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTRmNmM2YjBmOTFhYWQ1YmY2NGJkYzI5Mzc3MzU2ZGY4NzE1NDMx",
+  "snapshot_id": "MCxkZjQ4Y2UxYmQwNDY0NjY3MTRiODI0MWQ0NzBjZTQ3MTQ0ZDY2OGMz",
   "tracks": [
     {
-      "added_at": "2023-05-09 06:55:53",
+      "added_at": "2023-07-12 10:52:00",
       "album": {
-        "name": "Na Roja Nuvve (From \"Kushi\") - Single",
-        "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
+        "name": "Aradhya (From \"Kushi\")",
+        "url": "https://open.spotify.com/album/6QHLsHtaDPNeGcN4ujmEpT"
       },
       "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
         {
           "name": "Hesham Abdul Wahab",
           "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
         },
         {
-          "name": "Shiva Nirvana",
-          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
         }
       ],
-      "duration_ms": 242526,
-      "name": "Na Roja Nuvve (From \"Kushi\")",
-      "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
+      "duration_ms": 282500,
+      "name": "Aradhya (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/43iLKMSX7iSgniaoMJLgUK"
     },
     {
       "added_at": "2023-07-03 06:36:52",
@@ -143,6 +151,26 @@
       "duration_ms": 177130,
       "name": "Lalana (From \"LGM (Telugu)\")",
       "url": "https://open.spotify.com/track/5nClSarCW9enQgWpeblJfU"
+    },
+    {
+      "added_at": "2023-05-09 06:55:53",
+      "album": {
+        "name": "Na Roja Nuvve (From \"Kushi\") - Single",
+        "url": "https://open.spotify.com/album/7a4m6yhn2bdPSxTn0SXJLS"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Na Roja Nuvve (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/7s2yiftmEe1c5Q1wqIPsqr"
     },
     {
       "added_at": "2023-07-10 12:55:27",
@@ -983,22 +1011,6 @@
       "duration_ms": 215500,
       "name": "Ohho Puththadi Bommaa (From \"Thika Maka Thanda\")",
       "url": "https://open.spotify.com/track/7sJuKLiNYnFY9jW8OoMScp"
-    },
-    {
-      "added_at": "2023-02-03 08:23:44",
-      "album": {
-        "name": "Anukokunda Chusane (From \"Grandhalayam\") [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/5xT45T4YZGqg0QZNpE0xYV"
-      },
-      "artists": [
-        {
-          "name": "Sudheer Garapati",
-          "url": "https://open.spotify.com/artist/4DnO5jzKVRzq2daAqD5jWy"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Anukokunda Chusane (From \"Grandhalayam\")",
-      "url": "https://open.spotify.com/track/6cYvTUZIyGkkv7e19tW0AF"
     },
     {
       "added_at": "2023-01-19 14:38:53",

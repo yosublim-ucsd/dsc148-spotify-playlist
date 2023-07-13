@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain]
 
 > For time with family + friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794 likes - 37 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797 likes - 37 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain]
 | 36 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
 | 37 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 |
 
-Snapshot ID: `MCxkMDdjMTFiODU5MjIxOWRkMzc5MjkyNDAyMWViMjY4ZDg5MzQzZTk5`
+Snapshot ID: `MCw0MzdiMzQ4M2U2NjE0MTUwNTFmY2M4MTJmMWRlYmUxMGI2NTk5OTcz`

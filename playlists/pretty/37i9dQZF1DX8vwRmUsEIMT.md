@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,206 likes - 82 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,214 likes - 82 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 37 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 |
 | 38 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 |
 | 39 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
-| 40 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 |
+| 40 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 |
 | 41 | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/track/4L0T3usCoeUO85dJeuxbBf) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Good Morning \(feat\. Kojey Radical & Nile Rodgers\)](https://open.spotify.com/album/2uDherRYol1u5bCpwwyklG) | 2:53 |
 | 42 | [Leave Me Alone](https://open.spotify.com/track/0q4M1iTAmKYY0CcfEx6FOv) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Leave Me Alone](https://open.spotify.com/album/6kUjTPhLlAiW3obq3zdPS1) | 2:13 |
 | 43 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 |
 | 44 | [Jah](https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Jah](https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd) | 2:27 |
 | 45 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 46 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 |
-| 47 | [Hell Of A Ride](https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride / High In Brighton](https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l) | 2:59 |
+| 47 | [Hell Of A Ride](https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l) | 2:59 |
 | 48 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 49 | [My Big Day](https://open.spotify.com/track/5GXX6ynEUMy6FTJuyLviIb) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/5l1WChtDQQFQvKSMFfnaKD) | 2:47 |
 | 50 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 81 | [Where You Want](https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Where You Want](https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4) | 2:18 |
 | 82 | [Champagne Shit](https://open.spotify.com/track/5OhG7shUD0xgQMirbRAipe) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:23 |
 
-Snapshot ID: `MCwxYzFhNWNkNTdlMTMyN2EyNWYzNmYzYmVkZmMyMTc4YWQ5MGJjNzYw`
+Snapshot ID: `MCxhZTAxZGY0YzU5MmRkYTRmYWI1ODY1NGI3OWRlMDI2ZWFjZDdiNGUz`

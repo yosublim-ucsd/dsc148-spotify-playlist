@@ -440,6 +440,28 @@
     {
       "album": {
         "name": "Nuevo Comienzo",
+        "url": "https://open.spotify.com/album/5g3M3W1QqI4YYTFLjjnSfa"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230005,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/7ziyHwHIJ81y5uaw8la5q6"
+    },
+    {
+      "album": {
+        "name": "Nuevo Comienzo",
         "url": "https://open.spotify.com/album/3juDx944BMH0VvgVb33DU9"
       },
       "artists": [
@@ -2564,7 +2586,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 249519,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx"

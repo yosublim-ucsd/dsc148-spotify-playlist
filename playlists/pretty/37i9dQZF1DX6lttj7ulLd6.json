@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 128579,
+  "num_followers": 128796,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDIzNmQzNWIxOWEzOWVlZmJlNWE1ZjgxNDVjYmI3M2EyNDU5OTk2",
+  "snapshot_id": "MCxiNGU0Njk4YTRjZmZlOGQ5ZTMwNWU5MzA2YjU5ZDMyYzYyN2EwZThj",
   "tracks": [
     {
       "added_at": "2023-06-20 07:54:47",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
         }
       ],
-      "duration_ms": 270840,
-      "name": "West Coast Coolin'",
-      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
+      "duration_ms": 256853,
+      "name": "If I Could Fly",
+      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 256853,
-      "name": "If I Could Fly",
-      "url": "https://open.spotify.com/track/6ZrF3FEq8MQd1CN9MXTHqa"
+      "duration_ms": 270840,
+      "name": "West Coast Coolin'",
+      "url": "https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -491,6 +491,22 @@
       "duration_ms": 322306,
       "name": "In The City",
       "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Can't Stop Now",
+      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -559,38 +575,6 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Can't Stop Now",
-      "url": "https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Always There (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 282666,
       "name": "Surrender (feat. Boney James)",
       "url": "https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Always There (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Fuzzy Logic",
-        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
-      },
-      "artists": [
-        {
-          "name": "David Benoit",
-          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
-        }
-      ],
-      "duration_ms": 291520,
-      "name": "You Read My Mind",
-      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
         "name": "Force Field",
         "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 309826,
       "name": "Revelation Of The Heart",
       "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "Fuzzy Logic",
+        "url": "https://open.spotify.com/album/49ZeUMBQWLHtOvp1G0Os7m"
+      },
+      "artists": [
+        {
+          "name": "David Benoit",
+          "url": "https://open.spotify.com/artist/1OLWM7nUNcTjZ9ct4DEPZu"
+        }
+      ],
+      "duration_ms": 291520,
+      "name": "You Read My Mind",
+      "url": "https://open.spotify.com/track/7clQlmRcKRDWXWu9vmYexQ"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
+        "name": "Next Journey",
+        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
+      },
+      "artists": [
+        {
+          "name": "robomoque",
+          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Next Journey",
+      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 233666,
       "name": "Straight to the Heart",
       "url": "https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Midnight At The Oasis",
-      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Midnight At The Oasis",
+      "url": "https://open.spotify.com/track/3R2KtkNnblbd9icRjH04d8"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
         "name": "Under The Influence",
         "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
       },
@@ -931,34 +947,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Next Journey",
-        "url": "https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "robomoque",
-          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 183250,
-      "name": "Next Journey",
-      "url": "https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Love and Paragraphs",
-        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Have Your Cake And Eat It",
-      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -975,6 +975,22 @@
       "duration_ms": 274466,
       "name": "Autumn Day",
       "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "Love and Paragraphs",
+        "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Have Your Cake And Eat It",
+      "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+      "duration_ms": 291840,
+      "name": "Out'a Nowhere",
+      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG"
       },
       "artists": [
         {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Out'a Nowhere",
-      "url": "https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj"
+      "duration_ms": 318053,
+      "name": "Costa del Soul",
+      "url": "https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1063,54 +1079,6 @@
       "duration_ms": 249230,
       "name": "Find Someone Like You",
       "url": "https://open.spotify.com/track/0Y2ILiQA9YbWev5YpkzOu9"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/3puLLf4jLAjL7ji1cHU4WG"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 318053,
-      "name": "Costa del Soul",
-      "url": "https://open.spotify.com/track/4XdaRAkPSYQFaYA7UE6uAU"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Club 1600",
-        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
-      },
-      "artists": [
-        {
-          "name": "Club 1600",
-          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Still Euge",
-        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Love, Passion And Joy",
-      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1143,18 +1111,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+        "name": "Club 1600",
+        "url": "https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Club 1600",
+          "url": "https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn"
         }
       ],
-      "duration_ms": 324213,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+      "duration_ms": 283000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1175,18 +1143,34 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Urban Knights III",
-        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
+        "name": "Still Euge",
+        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
       },
       "artists": [
         {
-          "name": "Urban Knights",
-          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 242333,
-      "name": "You're The One For Me",
-      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
+      "duration_ms": 371773,
+      "name": "Love, Passion And Joy",
+      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 324213,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Smooth Jazz Radio Hits Volume Two",
-        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+        "name": "Urban Knights III",
+        "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
       },
       "artists": [
         {
-          "name": "Gota",
-          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+          "name": "Urban Knights",
+          "url": "https://open.spotify.com/artist/3aCeHneB4PHsdJFVkJzEM5"
         }
       ],
-      "duration_ms": 216293,
-      "name": "In The City Life",
-      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+      "duration_ms": 242333,
+      "name": "You're The One For Me",
+      "url": "https://open.spotify.com/track/6HtsA6ZSbdaLoYswmXfPiM"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1235,6 +1219,22 @@
       "duration_ms": 280866,
       "name": "Lover For Life",
       "url": "https://open.spotify.com/track/16FwzfpZJii63cnol8sDcA"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "Smooth Jazz Radio Hits Volume Two",
+        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+      },
+      "artists": [
+        {
+          "name": "Gota",
+          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "In The City Life",
+      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
       "artists": [
         {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 291226,
-      "name": "Miss Bane",
-      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+      "duration_ms": 291226,
+      "name": "Miss Bane",
+      "url": "https://open.spotify.com/track/4j8MxCB4MmB7gxAQeLfVbG"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1355,34 +1355,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+        "name": "Another Door Opens",
+        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
         }
       ],
-      "duration_ms": 266960,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+      "duration_ms": 284200,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -1419,18 +1419,34 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "Another Door Opens",
-        "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
       "artists": [
         {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 284200,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+      "duration_ms": 257373,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
         }
       ],
-      "duration_ms": 257373,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
+      "duration_ms": 332920,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1499,22 +1515,6 @@
       "duration_ms": 314760,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 332920,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
     },
     {
       "added_at": "2023-06-20 07:54:47",
@@ -1583,6 +1583,38 @@
     {
       "added_at": "2023-06-20 07:54:47",
       "album": {
+        "name": "Jazzmasters: The Greatest Hits",
+        "url": "https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "London Chimes",
+      "url": "https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 298266,
+      "name": "Moonlit Ocean",
+      "url": "https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423"
+    },
+    {
+      "added_at": "2023-06-20 07:54:47",
+      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 325373,
       "name": "Night Calls",
       "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 298266,
-      "name": "Moonlit Ocean",
-      "url": "https://open.spotify.com/track/2GjaIfajaXSN7nE4A8K423"
-    },
-    {
-      "added_at": "2023-06-20 07:54:47",
-      "album": {
-        "name": "Jazzmasters: The Greatest Hits",
-        "url": "https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "London Chimes",
-      "url": "https://open.spotify.com/track/4TjX5UTdTrdmnMCi5bcTwf"
     },
     {
       "added_at": "2023-06-20 07:54:47",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Billy Strings & Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,926 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,061 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Everything She Ain’t](https://open.spotify.com/track/0ENB9P6WtUEKYjQ3dKnK23) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 2:31 |
 | 100 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 |
 
-Snapshot ID: `MCxmZDljYjVhMDdiYzZmYzE0OGY3ODdmMDM2Yjk0NjhmMTc1MGYwOTFl`
+Snapshot ID: `MCxiZDlhM2EyMTgwNWQ5NjkwYTM3YWVlMjhlZDdlM2ExZjhkN2Y1ZGQ5`

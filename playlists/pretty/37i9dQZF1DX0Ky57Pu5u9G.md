@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 
 > Listen to all of the music from the Sing movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,009 likes - 67 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,117 likes - 67 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 | 39 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:37 |
 | 40 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/5cZcdbTpm0kwXbW1VMyAu4) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:54 |
 | 41 | [Hallelujah \- Duet Version / From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3ULIOaWZxZshMYcDwQBZ8J) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 3:28 |
-| 42 | [Tippy Toes \(with Fancy Feelings & DSCOSTU\) \- BONUS TRACK](https://open.spotify.com/track/02kiSpaHtIrkNCPjGndAI1) | [Adam Buxton](https://open.spotify.com/artist/1tELKM5wjfv7SlSNgVOdAq), [Fancy Feelings](https://open.spotify.com/artist/6PjDCeZZmEgmlenl4Bf5Pr), [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 2:08 |
+| 42 | [Tippy Toes \(with Fancy Feelings & DSCOSTU\) \- BONUS TRACK](https://open.spotify.com/track/02kiSpaHtIrkNCPjGndAI1) | [Adam Buxton](https://open.spotify.com/artist/1tELKM5wjfv7SlSNgVOdAq), [DSCOSTU](https://open.spotify.com/artist/4vg4AC4wgDKwGNV1xemLr1) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 2:08 |
 | 43 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 |
 | 44 | [My Way \- 2008 Remastered](https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nothing But The Best \(Remastered\)](https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2) | 4:36 |
 | 45 | [The Moon Theatre / Golden Slumbers](https://open.spotify.com/track/48wUweEK0UxaC7iewb7fhS) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 2:06 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Ky57Pu5u9G.md) - [plain]
 | 66 | [Out to Lunch \(End Titles\)](https://open.spotify.com/track/1XqKJRvvmU8xrNYkzMSITv) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 4:24 |
 | 67 | [Visiting Nana \(Eddie's Tune\)](https://open.spotify.com/track/2bgzgTD3qybYR2FPirkkH8) | [Joby Talbot](https://open.spotify.com/artist/6HEynH0LkoBhVStL2cDeF5) | [Sing \(Original Motion Picture Score\)](https://open.spotify.com/album/2y9VYOpp4YPlJ3HPiRxtqa) | 1:06 |
 
-Snapshot ID: `MCxkZjViOTIyOTE5NjA5OTkwOWZlZjg2ZGE1MzAzNTkwZGUwNmRhNzMx`
+Snapshot ID: `MCw2MzIxYjExNjA5ZjNiZGVhNTRlZDk3NmI3YWFjOTMzY2UwMTQ0YmVm`

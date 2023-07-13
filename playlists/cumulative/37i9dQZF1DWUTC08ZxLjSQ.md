@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ZOHUD\. Artwork: Isu Kim
 
-194 songs - 10 hr 49 min
+196 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Faqat Ala Bali](https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Faqat Ala Bali](https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P) | 6:43 | 2022-11-09 | 2023-05-10 |
 | [FARÄGH](https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [FARÄGH](https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ) | 1:53 | 2023-06-20 |  |
 | [Flight of Time](https://open.spotify.com/track/6jNFBaCURvVWBncn0GrZD2) | [Juno](https://open.spotify.com/artist/65cCRej79ekIxVA81UtCJD) | [Flight of Time](https://open.spotify.com/album/1RRhXcBViJOhNHSDeFKmhB) | 4:00 | 2022-11-08 | 2023-04-05 |
-| [Fo2 Ya 3bit](https://open.spotify.com/track/4IWoZNeHfnfG0ebqoxCRiu) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Fo2 Ya 3bit](https://open.spotify.com/album/6WJ6VxCzDUMbI2tWxoBA4C) | 2:39 | 2023-05-17 |  |
+| [Fo2 Ya 3bit](https://open.spotify.com/track/4IWoZNeHfnfG0ebqoxCRiu) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Fo2 Ya 3bit](https://open.spotify.com/album/6WJ6VxCzDUMbI2tWxoBA4C) | 2:39 | 2023-05-17 | 2023-07-13 |
+| [FO2 YA 3BIT](https://open.spotify.com/track/2z3q0My73fl8nE1VEncMBU) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [FO2 YA 3BIT](https://open.spotify.com/album/4qQI0tUcWS5Y6OYhyacuXs) | 2:39 | 2023-07-05 |  |
 | [Freecutter](https://open.spotify.com/track/25dZ0pb2Jut2LuDu5t1x8f) | [Taymour Khajah](https://open.spotify.com/artist/1MnMA1XfPZlCBx6i7VC3OP) | [Freecutter](https://open.spotify.com/album/373pGsj37jfjrtozC8AT89) | 3:40 | 2023-03-21 | 2023-07-06 |
 | [FRT](https://open.spotify.com/track/14wdMY6YXpn5YrdpYj4OKC) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [CAI](https://open.spotify.com/album/0L2EvkTjujikOMssqPXYLJ) | 2:48 | 2022-09-20 | 2022-11-02 |
 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 | 2022-09-20 | 2023-01-25 |
@@ -114,7 +115,8 @@
 | [Motivational Quote](https://open.spotify.com/track/4MhpTyGa1IH01zlFuy99aN) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Motivational Quote](https://open.spotify.com/album/0TNNXEi9P8wgb4g26VJ3om) | 3:33 | 2022-09-20 | 2022-10-19 |
 | [Moya wa Zait](https://open.spotify.com/track/4ZUU8c89Ut56X7ljfqqEHc) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [Moya wa Zait](https://open.spotify.com/album/6TlqV4YPrrt1X5qHUmZGxA) | 2:38 | 2022-09-20 | 2022-11-24 |
 | [Mr.Fancy pants](https://open.spotify.com/track/1aPgmpANFrfl3NIViRhuif) | [Soundsmudge](https://open.spotify.com/artist/2rNNLhzmcxJpgi6iofbrhj) | [Mr.Fancy pants](https://open.spotify.com/album/5S2wmqGNIEn1rYiZWUXkLh) | 4:21 | 2022-11-08 | 2023-01-25 |
-| [Mtgish](https://open.spotify.com/track/7bvLFia8U9lJmExtvgZncB) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Mtgish](https://open.spotify.com/album/7J3YFv6zkfp4gZPodBFIW7) | 2:17 | 2023-05-02 |  |
+| [Mtgish](https://open.spotify.com/track/6lcaJma2LGeeLZ37YNl1XS) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Mtgish](https://open.spotify.com/album/4CZkYILeBBtEHmQeJEqXli) | 2:17 | 2023-07-05 |  |
+| [Mtgish](https://open.spotify.com/track/7bvLFia8U9lJmExtvgZncB) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Mtgish](https://open.spotify.com/album/7J3YFv6zkfp4gZPodBFIW7) | 2:17 | 2023-05-02 | 2023-07-13 |
 | [Mudun](https://open.spotify.com/track/38xgKmvQlN5eazU7aW3JMI) | [Mayssa Jallad](https://open.spotify.com/artist/3gwo3aexDXLiYhWICS2Qm3) | [Marjaa: The Battle Of The Hotels](https://open.spotify.com/album/3FjodRJZR2gCVkN5mbY1TK) | 2:32 | 2023-03-07 | 2023-04-12 |
 | [Nar w Rosas](https://open.spotify.com/track/7L3TurwY1wZQuBAGlGP43V) | [Lagham](https://open.spotify.com/artist/3sy97UUvGVuFTNEwl6H409) | [Nar w Rosas](https://open.spotify.com/album/4vLQRhlcPxEbtA5q7Uv677) | 5:01 | 2022-11-08 | 2023-03-22 |
 | [Nobody but you](https://open.spotify.com/track/67aZFyP1HZYLgDgqphrP6q) | [Dina Stars](https://open.spotify.com/artist/672Rg2Kir00jUgMDP3lafa) | [Nobody but you](https://open.spotify.com/album/2gZPtzWqHtolrCgjvUZHF0) | 2:42 | 2023-03-01 | 2023-03-08 |

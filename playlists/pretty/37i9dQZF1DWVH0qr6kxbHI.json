@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 59874,
+  "num_followers": 59943,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGQxYWNjZDRlM2Q3YWJkMzJjNDhiMDhlODZjZGJlZDBjMzBlNzAz",
+  "snapshot_id": "MCw0M2QwMDBiYWZhMGU5MzI0OTNlMjBhNmIyMTRkNThkZmJjNGFkODVl",
   "tracks": [
     {
       "added_at": "2023-06-30 13:55:09",
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Gracias A Vosotros",
-        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
+        "name": "Grandes exitos",
+        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
       },
       "artists": [
         {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Miguel Poveda",
-          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
-      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
+      "duration_ms": 240200,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -675,18 +671,22 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Grandes exitos",
-        "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
+        "name": "Gracias A Vosotros",
+        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
       "artists": [
         {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Miguel Poveda",
+          "url": "https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj"
         }
       ],
-      "duration_ms": 240200,
-      "name": "Sarandonga",
-      "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
+      "duration_ms": 190000,
+      "name": "Fina Estampa (with Miguel Poveda) - Con Miguel Poveda",
+      "url": "https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
+    },
+    {
+      "added_at": "2023-06-30 13:55:09",
+      "album": {
         "name": "Una estrella en mi jard\u00edn",
         "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
-    },
-    {
-      "added_at": "2023-06-30 13:55:09",
-      "album": {
         "name": "Ni\u00f1a de fuego (Standard version)",
         "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
       },
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
+        "name": "De Un Mundo Raro (Cantes Por Chavela)",
+        "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "En Un Mundo Raro",
+      "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
+    },
+    {
+      "added_at": "2023-06-30 13:55:09",
+      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 184693,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"
-    },
-    {
-      "added_at": "2023-06-30 13:55:09",
-      "album": {
-        "name": "De Un Mundo Raro (Cantes Por Chavela)",
-        "url": "https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W"
-      },
-      "artists": [
-        {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "En Un Mundo Raro",
-      "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
+        "name": "HEY",
+        "url": "https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9"
+      },
+      "artists": [
+        {
+          "name": "Tamara Jerez",
+          "url": "https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "HEY",
+      "url": "https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck"
+    },
+    {
+      "added_at": "2023-06-30 13:55:09",
+      "album": {
         "name": "A Bola De Nieve",
         "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 262811,
       "name": "Alma M\u00eda",
       "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
-    },
-    {
-      "added_at": "2023-06-30 13:55:09",
-      "album": {
-        "name": "HEY",
-        "url": "https://open.spotify.com/album/7EP44d7bse5iPx1xv3LWK9"
-      },
-      "artists": [
-        {
-          "name": "Tamara Jerez",
-          "url": "https://open.spotify.com/artist/2FPHGOUBcRzwPfXwqt3Ie7"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "HEY",
-      "url": "https://open.spotify.com/track/1XxRrTL5TWbR5kuY5RB0Ck"
     },
     {
       "added_at": "2023-06-30 13:55:09",

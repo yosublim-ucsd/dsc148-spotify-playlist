@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-648 songs - 1 day 3 hr 19 min
+649 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Respire](https://open.spotify.com/track/0KBgZ0jaeEbRrpFIRLFg9D) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Respire](https://open.spotify.com/album/3u5HXH5FPELSLS7IQj6alu) | 2:09 | 2022-05-27 | 2022-09-24 |
 | [Retrouvailles](https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd) | [Gabriel Auer](https://open.spotify.com/artist/0K6PfxKmrBfId9GnQZADfM) | [Retrouvailles](https://open.spotify.com/album/4lDonUI9z7jnJosqAoH1S7) | 2:52 | 2022-05-27 | 2022-07-21 |
 | [Reverence](https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Reverence](https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI) | 2:18 | 2022-05-27 | 2023-05-04 |
+| [Reverie](https://open.spotify.com/track/4YbW3QbBHQzdtNKHnyyPqN) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Reverie](https://open.spotify.com/album/3A8lD4bNXWQpN8hXPml2rU) | 2:06 | 2023-07-10 |  |
 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 | 2022-05-27 | 2023-06-27 |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2022-05-27 | 2022-10-14 |
 | [Rise](https://open.spotify.com/track/2OQ6G0qZfRq0bCCRI6R0yi) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Rise](https://open.spotify.com/album/2Z7WHClmvuYM9HantsINBM) | 1:22 | 2023-04-18 | 2023-07-04 |
@@ -644,7 +645,7 @@
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-05-27 |  |
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-05-27 |  |
 | [Windschatten](https://open.spotify.com/track/2emuUPpnoo2sgpbBfbmkyt) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Windschatten](https://open.spotify.com/album/2gzltlb70rOTWRrj38ROWn) | 2:18 | 2022-05-27 |  |
-| [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 |  |
+| [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 | 2023-07-13 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-05-27 |  |
 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 | 2023-02-06 |  |
 | [With Ease](https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [With Ease](https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c) | 2:39 | 2023-04-18 |  |

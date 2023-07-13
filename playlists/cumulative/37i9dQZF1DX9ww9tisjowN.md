@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: imase
 
-128 songs - 7 hr 21 min
+129 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [PARA PARA](https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A) | 2:50 | 2023-07-04 |  |
 | [PEEK\-A\-BOO \- feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ](https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [鈴木優人](https://open.spotify.com/artist/5OcbTVDfV9qxI7va2CwpNX), [かてぃん\(角野隼斗\)](https://open.spotify.com/artist/3pFcOAkJezpIkzIFurpXA9) | [PEEK\-A\-BOO \[feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ\]](https://open.spotify.com/album/0scNuFoGoUmCWEC8VNHZiM) | 2:20 | 2023-06-27 | 2023-07-05 |
 | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:16 | 2023-05-09 | 2023-07-05 |
-| [plan](https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr) | 3:18 | 2023-07-11 |  |
+| [plan](https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr) | 3:18 | 2023-07-11 | 2023-07-13 |
+| [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 | 2023-07-11 |  |
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 |  |
 | [PUI PUI はとまらない](https://open.spotify.com/track/1uDXHWsB7EAPjHw8XKvm7c) | [Momoclochan Z](https://open.spotify.com/artist/0JUZrcVvxhJaCzc4mloocZ) | [PUI PUI はとまらない](https://open.spotify.com/album/2V1RiLuuBRbWoYRgdWc6bC) | 2:58 | 2023-05-09 |  |
 | [Q](https://open.spotify.com/track/51CXAV2GNNL3deCtcXpCeu) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Gawr Gura](https://open.spotify.com/artist/1Spm887PTszc2AoNYpoCld) | [Q](https://open.spotify.com/album/2tY2MPx2BIAwqK93HLYkR0) | 2:39 | 2023-07-06 |  |
@@ -134,7 +135,7 @@
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-06-08 |  |
 | [踊り子](https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/3qDlmj2bxxsDO7EdVgwb7j) | 3:50 | 2023-05-09 |  |
 | [運命共同体!](https://open.spotify.com/track/68UvIpHBuWCJop41Paz9ON) | [音莉飴](https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ) | [運命共同体!](https://open.spotify.com/album/4YUe2shq63CoC7jQGMgblW) | 3:51 | 2023-05-30 |  |
-| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-06 |  |
 
 \*This playlist was first scraped on 2023-05-09. Prior content cannot be recovered.

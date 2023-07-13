@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, Lil Tjay, King Von, and more\. Cover: LUCKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,935 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,012 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 |
-| 2 | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
+| 2 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
 | 3 | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR) | 2:31 |
 | 4 | [Trynna Link](https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trynna Link](https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK) | 2:57 |
 | 5 | [Wholeworldslatt \(feat\. Veeze\)](https://open.spotify.com/track/3fyWuJpGOok9xs2TxniPIn) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 3:25 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 |
 | 51 | [3 Point Stance \(Hands On The Floor\)](https://open.spotify.com/track/5sxEj4svg1490VUtgQ74yi) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kblast](https://open.spotify.com/artist/3WyzXUbSj6GlWl379WjHOU) | [3 Point Stance \(Hands On The Floor\)](https://open.spotify.com/album/7lEJB2XqcIHeU1pEUe85fI) | 2:41 |
 
-Snapshot ID: `MCxlYmNhNjk3YzEwNGU3MGEwODBmNzU4YjY3ZWJkYzhiYWUyNTFhYzFm`
+Snapshot ID: `MCxhOTZhNWVjNDM0YjZhZWJjMmI0MDhhNGIzMmQ4MmZhMjcyMTMxYzVk`

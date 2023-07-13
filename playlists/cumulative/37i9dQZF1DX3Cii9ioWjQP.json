@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Hanna Kim(\ud574\ub098\ud0b4))",
+  "description": "All about Korean Jazz hits & new (Cover: Jane(\uc7ac\uc778))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -1234,6 +1234,28 @@
       "duration_ms": 284526,
       "name": "Midnight Cruise",
       "url": "https://open.spotify.com/track/52RMneuQNkjnITfpB3bRE5"
+    },
+    {
+      "album": {
+        "name": "Miles N Miles",
+        "url": "https://open.spotify.com/album/5TDMeo2xnGusqM44Wk0pj5"
+      },
+      "artists": [
+        {
+          "name": "Jane",
+          "url": "https://open.spotify.com/artist/6S1pEId4oXUshfDpbIJHf5"
+        },
+        {
+          "name": "Senri Kawaguchi",
+          "url": "https://open.spotify.com/artist/3Nxp13gGTys81Mpl041vJe"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219051,
+      "name": "Miles N Miles (with. Senri Kawaguchi)",
+      "url": "https://open.spotify.com/track/6i4IY859rUWMQthlaDJ3Hp"
     },
     {
       "album": {

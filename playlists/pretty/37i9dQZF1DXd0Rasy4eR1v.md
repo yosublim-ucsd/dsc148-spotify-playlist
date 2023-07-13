@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zouqan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,062 likes - 68 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,068 likes - 68 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 67 | [Ghar agya main](https://open.spotify.com/track/0MZn47xb5MW7Ampv6cbTbv) | [Armaghan Saif](https://open.spotify.com/artist/5ggFPpZHswvNkWcgCUqEx6) | [Ghar agya main](https://open.spotify.com/album/47HaoQ183IYU9ajXzMdihI) | 4:17 |
 | 68 | [Haaye](https://open.spotify.com/track/4l8LmBbpkPSHqTPDyCWyKe) | [Numan Ahmed](https://open.spotify.com/artist/39PADEbNWbCf6hPIXu1BJz), [Majid Harris](https://open.spotify.com/artist/4ngRyxJ6ATsAax77HeAXA4) | [Haaye](https://open.spotify.com/album/0pZoyotOpwY1AuJAYs84kH) | 2:50 |
 
-Snapshot ID: `MCw3OTQ3MzU2ZmM5ZGVlYWM1MTQyMzJmZmMyNGFlNmUyMmFiZjYxODhi`
+Snapshot ID: `MCw0ZTBkNzg5YjA1NzY4NDg4NmVmZDAxNGYxNDJkMjA3NTM4YmM5NGU0`

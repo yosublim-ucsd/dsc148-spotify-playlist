@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Rebeca Carvalho
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,409 likes - 65 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,537 likes - 65 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 64 | [Desça Tua Presença \- Ao Vivo](https://open.spotify.com/track/3K4lHQ4pqCGeZzQxOyqOEd) | [Erica Oliveira](https://open.spotify.com/artist/1iUk0wFwpYdYcfyLZ9sxc1) | [Desça Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/6gnRiLirY35MlN9xHqrZ7d) | 4:58 |
 | 65 | [Em Fervente Oração](https://open.spotify.com/track/7uROflqtLSfFyMyRYM1f0k) | [Fabi Oliveira](https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs), [Maefe](https://open.spotify.com/artist/3RxVvaganelxfeNBjEJdTQ) | [Em Fervente Oração](https://open.spotify.com/album/76u0wLhgVtIsksQ185W1WN) | 4:28 |
 
-Snapshot ID: `MCw1ZGQyMDU3YWJiN2FmOWQ1YmIxOWE3ZWQ5YmNkOWFjYTA2OTgyMWE2`
+Snapshot ID: `MCwyYzFjYWZhMjFhNDIyNzM1NDIzMjU2OTAyZGY1N2MxZGE4ZDc2NjYx`

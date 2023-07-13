@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,942 likes - 49 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,948 likes - 49 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1m1kAx.md) - [plain]
 | 48 | [Geshomo](https://open.spotify.com/track/5UrFUR3rGEuDQaKTQi4RQR) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Geshomo](https://open.spotify.com/album/5kDSduetHJQi0aCLtrBaXm) | 3:46 |
 | 49 | [Thank You Lord](https://open.spotify.com/track/04DolW3ekpEkVDL5fb26Y3) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:07 |
 
-Snapshot ID: `MjgxNTEzMzMsMDAwMDAwMDAzNDQzMGE4NjFjZjJjODc3YjE3NGU1Y2YxMDZlYmY3NA==`
+Snapshot ID: `MjgxNTMwMDUsMDAwMDAwMDA4NjQ0NzBhZDI2ODA2ZTI4YTE4MzllZTJlNGE2NDgzZA==`

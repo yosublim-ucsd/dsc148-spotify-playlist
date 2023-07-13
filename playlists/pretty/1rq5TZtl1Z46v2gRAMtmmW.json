@@ -1,13 +1,29 @@
 {
   "description": "",
-  "num_followers": 28129,
+  "num_followers": 28134,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzM5NyxjOTk5NDFlOGJhMWZmOTk0N2QxY2ZiZTlmNmQwZmM0ZjNhMmI1NmRk",
+  "snapshot_id": "MzM5OSxhZDY5M2Y0NTgxNGUxYzNlN2U0NDBhMTVmNmM1OTE5ZTRlODI3MTMw",
   "tracks": [
+    {
+      "added_at": "2023-07-12 16:04:46",
+      "album": {
+        "name": "dazies",
+        "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 264854,
+      "name": "dazies",
+      "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
+    },
     {
       "added_at": "2023-07-11 11:10:49",
       "album": {
@@ -599,22 +615,6 @@
       "duration_ms": 207194,
       "name": "Plate",
       "url": "https://open.spotify.com/track/3vFG1ZcB68ACOdeY99aYIm"
-    },
-    {
-      "added_at": "2023-03-04 00:28:47",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7wfRiLLgR2anjPEaesqAtr"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 178138,
-      "name": "Is That How You Feel It",
-      "url": "https://open.spotify.com/track/1KjMr1ay272SjjNYKf9FY4"
     },
     {
       "added_at": "2023-02-22 01:38:11",

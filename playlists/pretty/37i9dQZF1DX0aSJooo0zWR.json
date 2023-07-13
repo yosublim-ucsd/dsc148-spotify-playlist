@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 184747,
+  "num_followers": 184823,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
+  "snapshot_id": "MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Septet",
+        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 251643,
+      "name": "P64 By My Side",
+      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Collisions",
@@ -339,22 +355,6 @@
       "duration_ms": 352466,
       "name": "Dolemite",
       "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Septet",
-        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 251643,
-      "name": "P64 By My Side",
-      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Hard-Wired",
-        "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
-      },
-      "artists": [
-        {
-          "name": "Dave Weckl",
-          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Hard-Wired",
-      "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Wired",
         "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 354053,
       "name": "Blue Wind",
       "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Hard-Wired",
+        "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
+      },
+      "artists": [
+        {
+          "name": "Dave Weckl",
+          "url": "https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Hard-Wired",
+      "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 360053,
-      "name": "Teki",
-      "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Chapter One: Shredemption",
@@ -555,6 +539,22 @@
       "duration_ms": 207625,
       "name": "U.T.F.F.",
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
+    },
+    {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 360053,
+      "name": "Teki",
+      "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
       "added_at": "2021-10-29 04:02:00",
       "album": {
         "name": "Blue Macaw",
@@ -803,6 +787,22 @@
       "duration_ms": 274000,
       "name": "Blue Macaw",
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
+      },
+      "artists": [
+        {
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
-      },
-      "artists": [
-        {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
-        }
-      ],
-      "duration_ms": 297359,
-      "name": "You Gotta Get It While You Can",
-      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Morse Code",
@@ -999,6 +983,22 @@
       "duration_ms": 184545,
       "name": "Morse Code",
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+      },
+      "artists": [
+        {
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+        }
+      ],
+      "duration_ms": 297359,
+      "name": "You Gotta Get It While You Can",
+      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Seventh String",
-      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Now You See It ... (Now You Don't)",
@@ -1175,6 +1159,22 @@
       "duration_ms": 326000,
       "name": "Escher Sketch (A Tale Of Two Rhythms)",
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 185191,
+      "name": "Seventh String",
+      "url": "https://open.spotify.com/track/5IpYVNEehkKq993WQSGyJh"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Meltdown",
-        "url": "https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI"
-      },
-      "artists": [
-        {
-          "name": "Tangible Jazz Dreams",
-          "url": "https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN"
-        }
-      ],
-      "duration_ms": 423179,
-      "name": "JosHUA!",
-      "url": "https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE"
-    },
-    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -1439,6 +1423,22 @@
       "duration_ms": 356243,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jlF4rXXNxK8JRMkfwRYcc"
+    },
+    {
+      "added_at": "2022-04-01 04:02:00",
+      "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI"
+      },
+      "artists": [
+        {
+          "name": "Tangible Jazz Dreams",
+          "url": "https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN"
+        }
+      ],
+      "duration_ms": 423179,
+      "name": "JosHUA!",
+      "url": "https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE"
     },
     {
       "added_at": "2021-04-30 04:01:00",

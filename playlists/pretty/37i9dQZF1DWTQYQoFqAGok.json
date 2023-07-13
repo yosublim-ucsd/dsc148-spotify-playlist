@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 56521,
+  "num_followers": 56537,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ4ZDY4MzMzMTg1MzkzMTgyNDc5ZmI4OTFlMzhlZTg4OGI4MjUx",
+  "snapshot_id": "MCwyM2RjODY2MDVkZWUxNmRmYTQ3Nzk0ZjliNTE0OGExYmYwYTFjZTEy",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz Vinil",
+        "url": "https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX"
+      },
+      "artists": [
+        {
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Fijate Que Suave",
+      "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
+    },
+    {
       "added_at": "2022-08-09 18:38:23",
       "album": {
         "name": "Tukumtak",
@@ -221,22 +237,6 @@
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Tino Contreras",
-        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 168198,
-      "name": "Orfeo en los Tambores",
-      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
-    },
-    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -255,18 +255,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Vinil",
-        "url": "https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX"
+        "name": "Tino Contreras",
+        "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
       "artists": [
         {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
         }
       ],
-      "duration_ms": 251586,
-      "name": "Fijate Que Suave",
-      "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
+      "duration_ms": 168198,
+      "name": "Orfeo en los Tambores",
+      "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Grandes de la Musica Instrumental",
+        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Rodriguez Y Su Saxofon Magico",
+          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
+        }
+      ],
+      "duration_ms": 113613,
+      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
+      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -299,22 +315,6 @@
       "duration_ms": 370613,
       "name": "Al son de la marimba",
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Grandes de la Musica Instrumental",
-        "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
-      },
-      "artists": [
-        {
-          "name": "Tommy Rodriguez Y Su Saxofon Magico",
-          "url": "https://open.spotify.com/artist/4a4AdYSuTDT446pbyqJYZJ"
-        }
-      ],
-      "duration_ms": 113613,
-      "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
-      "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
       },
       "artists": [
         {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
         }
       ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
       },
       "artists": [
         {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
         }
       ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "\u00a1Oh! Mi Amor",
-        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
       },
       "artists": [
         {
-          "name": "DaJuana Band",
-          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
         }
       ],
-      "duration_ms": 318122,
-      "name": "Trato De Asimilar",
-      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -687,18 +687,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+        "name": "\u00a1Oh! Mi Amor",
+        "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
       },
       "artists": [
         {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+          "name": "DaJuana Band",
+          "url": "https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm"
         }
       ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+      "duration_ms": 318122,
+      "name": "Trato De Asimilar",
+      "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -855,18 +855,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Vientos Del Norte",
-        "url": "https://open.spotify.com/album/6Sfs0wgPGMi3F4fKtKwFXg"
+        "name": "Nuevas Relaciones: Atardecer",
+        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
+          "name": "Freddy Marichal",
+          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
+        },
+        {
+          "name": "Nuevas Relaciones, Las",
+          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
         }
       ],
-      "duration_ms": 236840,
-      "name": "Valor De Volar",
-      "url": "https://open.spotify.com/track/4itnQy1yJ28BHvCqihGCgH"
+      "duration_ms": 370586,
+      "name": "La vida tiene que seguir, amor",
+      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
     }
   ],
   "unique_name": "Jazz en M\u00e9xico",

@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "\u8ecc\u8de1",
+        "url": "https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30c3\u30af\u30e9\u30a4\u30d5",
+          "url": "https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "\u8ecc\u8de1",
+      "url": "https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u6587\u8c6a\u30b9\u30c8\u30ec\u30a4\u30c9\u30c3\u30b0\u30b9\u300f\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30df\u30cb\u30a2\u30eb\u30d0\u30e0 \u5176\u30ce\u5f10",
         "url": "https://open.spotify.com/album/5kfFWC3c5VVnnmkFpWFCnY"
       },
@@ -704,6 +722,24 @@
       "duration_ms": 215106,
       "name": "\u8ff7\u5bae\u89e3\u8aad\u904a\u622f",
       "url": "https://open.spotify.com/track/7MyGZBcRDb0BD71AeGx4mr"
+    },
+    {
+      "album": {
+        "name": "\u9244\u306e\u6abb",
+        "url": "https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC"
+      },
+      "artists": [
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265400,
+      "name": "\u9244\u306e\u6abb",
+      "url": "https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R"
     },
     {
       "album": {

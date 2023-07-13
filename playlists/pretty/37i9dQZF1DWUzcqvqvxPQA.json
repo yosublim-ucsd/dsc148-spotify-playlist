@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25749,
+  "num_followers": 25759,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1",
+  "snapshot_id": "MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "You Still Do",
+        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 231641,
+      "name": "You Still Do",
+      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Over And Over",
         "url": "https://open.spotify.com/album/6JSGQXaNZyITJBTMTWGseO"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 218813,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/5AjM1AF3Gy3W5Mr4ZG7zgI"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "You Still Do",
-        "url": "https://open.spotify.com/album/5ohqgYhe54iCx2e9VG0VDc"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 231641,
-      "name": "You Still Do",
-      "url": "https://open.spotify.com/track/0MxfrTKkWB8JDW2qASFUDY"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Symphony",
-        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 228960,
-      "name": "Count Me In",
-      "url": "https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Don't Wanna Wake Up",
         "url": "https://open.spotify.com/album/2aojIQzbgnZasTUk6PpGOj"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 201040,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
+      "duration_ms": 228960,
+      "name": "Count Me In",
+      "url": "https://open.spotify.com/track/1251WepWbxP2Nq4qV5J6BB"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -591,6 +575,22 @@
       "duration_ms": 194798,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "BRKNHRT.",
-        "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 213674,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "THIS MOMENT",
         "url": "https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 176624,
       "name": "THIS MOMENT",
       "url": "https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "BRKNHRT.",
+        "url": "https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 213674,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
-      },
-      "artists": [
-        {
-          "name": "Bonray",
-          "url": "https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/46jicEgCHc3Zxh4TKaRuCN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 228564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/6O8Q77DLdXZTdciVeU2Aak"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U"
+      },
+      "artists": [
+        {
+          "name": "Bonray",
+          "url": "https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg"
+        }
+      ],
+      "duration_ms": 193148,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 181733,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "20XX",
-        "url": "https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK"
-      },
-      "artists": [
-        {
-          "name": "Joshua Micah",
-          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
-        }
-      ],
-      "duration_ms": 244032,
-      "name": "Heart Stops Beating",
-      "url": "https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Peopled with Dreams",
         "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 234558,
       "name": "Juggernaut",
       "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "20XX",
+        "url": "https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK"
+      },
+      "artists": [
+        {
+          "name": "Joshua Micah",
+          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
+        }
+      ],
+      "duration_ms": 244032,
+      "name": "Heart Stops Beating",
+      "url": "https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 193978,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "North Point Worship",
         "url": "https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 217386,
       "name": "On My Way Back Home (feat. Seth Condrey & Desi Raines)",
       "url": "https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 193978,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
     },
     {
       "added_at": "2020-08-13 14:39:00",

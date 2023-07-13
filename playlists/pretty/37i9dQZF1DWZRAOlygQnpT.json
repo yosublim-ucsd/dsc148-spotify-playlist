@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 70559,
+  "num_followers": 70628,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWI1ZTgxYjJiMzg4MTBjZDIzNDkyYWRjNjBlNjI2ZmUyMzBiODVl",
+  "snapshot_id": "MCxmYjAwN2Q4NTc4YjYyMDUzNDJiYzlmMjViMjUzMzkyNjZjMmU2NDUy",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -451,6 +451,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "P\u00f3lvora",
+        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 116715,
+      "name": "P\u00f3lvora",
+      "url": "https://open.spotify.com/track/0ZOq50OYzTgdhELqOoawz8"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 140026,
       "name": "Al Ritmo De La Lluvia",
       "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "100 A\u00f1os de Musica",
-        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
-      },
-      "artists": [
-        {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
-        }
-      ],
-      "duration_ms": 142785,
-      "name": "Bule Bule",
-      "url": "https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -519,18 +519,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "P\u00f3lvora",
-        "url": "https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a"
+        "name": "100 A\u00f1os de Musica",
+        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
       },
       "artists": [
         {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
         }
       ],
-      "duration_ms": 116715,
-      "name": "P\u00f3lvora",
-      "url": "https://open.spotify.com/track/0ZOq50OYzTgdhELqOoawz8"
+      "duration_ms": 142785,
+      "name": "Bule Bule",
+      "url": "https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -551,8 +551,8 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Plaga",
-        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
+        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 143699,
-      "name": "La Plaga",
-      "url": "https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId"
+      "duration_ms": 128626,
+      "name": "Presumida - High Class Baby [Remasterizado]",
+      "url": "https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -595,6 +595,22 @@
       "duration_ms": 156395,
       "name": "Historia de Tommy",
       "url": "https://open.spotify.com/track/3fCWiuel6FcFwWKV4RTmdh"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 193910,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -647,6 +663,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "La Plaga",
+        "url": "https://open.spotify.com/album/5XGOSEvpopRia9Qoil4OId"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 143699,
+      "name": "La Plaga",
+      "url": "https://open.spotify.com/track/2auNSn5gZXZBzn2wxpRjId"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "Amores Incomparables, Vol. 3",
         "url": "https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n"
       },
@@ -659,38 +691,6 @@
       "duration_ms": 165840,
       "name": "Cuando Era un Jovencito",
       "url": "https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Serie De Colecci\u00f3n 16 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 128626,
-      "name": "Presumida - High Class Baby [Remasterizado]",
-      "url": "https://open.spotify.com/track/6U3Az2TWNkjzeqV5RztJw7"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 193910,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -875,18 +875,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "12 Grandes exitos Vol. 2",
-        "url": "https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe"
+        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
+        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
       },
       "artists": [
         {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+          "name": "Los Belmonts",
+          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
         }
       ],
-      "duration_ms": 164093,
-      "name": "Atras de la Raya",
-      "url": "https://open.spotify.com/track/6wQBqxOwJd6e2csv5y2qjF"
+      "duration_ms": 167453,
+      "name": "Aprietalo",
+      "url": "https://open.spotify.com/track/52whxdjzl7LRzELK6T9Tse"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -907,18 +907,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
-        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/6FS5v5fmOjAjsMKriFMLqe"
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
         }
       ],
-      "duration_ms": 140199,
-      "name": "Speedy Gonz\u00e1lez",
-      "url": "https://open.spotify.com/track/1DhtNyT3rs89OSgcAgmeSZ"
+      "duration_ms": 164093,
+      "name": "Atras de la Raya",
+      "url": "https://open.spotify.com/track/6wQBqxOwJd6e2csv5y2qjF"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -939,18 +939,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
-        "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
+        "name": "Rock Con Manolo Mu\u00f1oz, Vol. 1",
+        "url": "https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp"
       },
       "artists": [
         {
-          "name": "Los Belmonts",
-          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 167453,
-      "name": "Aprietalo",
-      "url": "https://open.spotify.com/track/52whxdjzl7LRzELK6T9Tse"
+      "duration_ms": 140199,
+      "name": "Speedy Gonz\u00e1lez",
+      "url": "https://open.spotify.com/track/1DhtNyT3rs89OSgcAgmeSZ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "15 Exitos del Rock & Roll",
-        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
-      },
-      "artists": [
-        {
-          "name": "Los Llopis",
-          "url": "https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE"
-        }
-      ],
-      "duration_ms": 191738,
-      "name": "Estremecete",
-      "url": "https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Los Exitos de Oro de Los Crazy Boy's",
         "url": "https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 146390,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/4TnE3U1ZKmbhhbK13t1HPO"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "15 Exitos del Rock & Roll",
+        "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
+      },
+      "artists": [
+        {
+          "name": "Los Llopis",
+          "url": "https://open.spotify.com/artist/35OEkYqpkHK4ZWBktloFnE"
+        }
+      ],
+      "duration_ms": 191738,
+      "name": "Estremecete",
+      "url": "https://open.spotify.com/track/3IgqJHPKQUI3hJou7tYDAp"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Hooligans",
-          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
-        }
-      ],
-      "duration_ms": 134746,
-      "name": "Adios A Jamaica [Album Version]",
-      "url": "https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "20 Exitos Colleccion de Oro",
         "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 198733,
       "name": "Lanza a tus Penas al Viento",
       "url": "https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Hooligans",
+          "url": "https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka"
+        }
+      ],
+      "duration_ms": 134746,
+      "name": "Adios A Jamaica [Album Version]",
+      "url": "https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 142306,
-      "name": "Creo Estar Son\u0303ando",
-      "url": "https://open.spotify.com/track/2Rte0v50YrZVasNMoU9Wxv"
+      "duration_ms": 169266,
+      "name": "Lagrimas de Cristal",
+      "url": "https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Los Ovnis",
-          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "100 A\u00f1os de Musica",
         "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Los Ovnis",
+          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "20 Exitos Colleccion de Oro",
         "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
       },
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Lagrimas de Cristal",
-      "url": "https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6"
+      "duration_ms": 142306,
+      "name": "Creo Estar Son\u0303ando",
+      "url": "https://open.spotify.com/track/2Rte0v50YrZVasNMoU9Wxv"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK"
         }
       ],
-      "duration_ms": 165573,
-      "name": "El Esqueleto",
-      "url": "https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7"
+      "duration_ms": 172480,
+      "name": "Hanky Panky",
+      "url": "https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT"
     }
   ],
   "unique_name": "Rock & Roll en Espa\u00f1ol",

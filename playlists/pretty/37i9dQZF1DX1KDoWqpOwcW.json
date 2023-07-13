@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack oficial de la Liga Mexicana de Beisbol \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
-  "num_followers": 7901,
+  "num_followers": 7927,
   "original_name": "Liga Mexicana de Beisbol - Playlist Oficial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDI3YzE5MDdkMDAwMWE0NTE4NTc5NWMxZjllZjgyYzA0ZTYwYjgw",
+  "snapshot_id": "MCwyYzJjOWNhMDVlNDNhNTE2YzZhNDM0M2RmYTE3YzEzYmMyYThhNDM3",
   "tracks": [
     {
       "added_at": "2022-09-07 17:15:21",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
+        "name": "SAGITARIO",
+        "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "La Mam\u00e1 de la Mam\u00e1",
+      "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
         "name": "Who Let The Dogs Out",
         "url": "https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd"
       },
@@ -1275,30 +1299,6 @@
       "duration_ms": 182559,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
-        "name": "SAGITARIO",
-        "url": "https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "La Mam\u00e1 de la Mam\u00e1",
-      "url": "https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
+        "name": "Contigo Aprend\u00ed",
+        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Adoro (with Armando Manzanero)",
+      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
         "name": "K\u00f3digos",
         "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 188693,
       "name": "La culebra",
       "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
-        "name": "Contigo Aprend\u00ed",
-        "url": "https://open.spotify.com/album/0FBVWxpOmjm5TnmJRTflyb"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Adoro (with Armando Manzanero)",
-      "url": "https://open.spotify.com/track/0DIDL9wmrSRMViRqsmZfmB"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Se Menea Se Menea",
-        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
-      },
-      "artists": [
-        {
-          "name": "Los Karkik's",
-          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "Desqu\u00edtate Conmigo",
         "url": "https://open.spotify.com/album/3khJ0CsPZTkhU2PidmUk6S"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 210910,
       "name": "Jinetes en el Cielo",
       "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Se Menea Se Menea",
+        "url": "https://open.spotify.com/album/2E8WzqhyEL9SqioQ5Fgg8D"
+      },
+      "artists": [
+        {
+          "name": "Los Karkik's",
+          "url": "https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/6uhEqYTqhEkSH6Rlf3ILpj"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
+        "name": "Fondo Fondo",
+        "url": "https://open.spotify.com/album/5KQtr7BEmt8TH8IcUw27eP"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "duration_ms": 181670,
+      "name": "Fondo Fondo",
+      "url": "https://open.spotify.com/track/3qPp2UgTYiGXxphydlrXSF"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
         "name": "Home Run",
         "url": "https://open.spotify.com/album/2r3lhz9lFzhX9eWZTivN7t"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 217570,
       "name": "El Pasito Perr\u00f3n",
       "url": "https://open.spotify.com/track/5R5ue1RaZEVnMpHYkvNkfR"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
-        "name": "Fondo Fondo",
-        "url": "https://open.spotify.com/album/5KQtr7BEmt8TH8IcUw27eP"
-      },
-      "artists": [
-        {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
-        }
-      ],
-      "duration_ms": 181670,
-      "name": "Fondo Fondo",
-      "url": "https://open.spotify.com/track/3qPp2UgTYiGXxphydlrXSF"
     },
     {
       "added_at": "2022-09-07 17:15:21",

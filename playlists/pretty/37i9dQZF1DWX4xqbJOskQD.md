@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,663 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 7 | [Three Coins In The Fountain](https://open.spotify.com/track/2vZNvA8PEvBdeWr4EkZjLG) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy), [Al Alberts](https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq) | [The Four Aces' Greatest Hits](https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL) | 3:00 |
 | 8 | [Ac\-Cent\-Tchu\-Ate The Positive \- Single Version](https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [Bing\-His Legendary Years 1931\-1957](https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw) | 2:42 |
 | 9 | [Istanbul \(Not Constantinople\)](https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE) | [The Four Lads](https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3) | [16 Most Requested Songs Of The 1950s\. Volume One](https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB) | 2:21 |
-| 10 | [Red Roses For A Blue lady](https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv) | [The Ray Conniff Singers](https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy) | [SOMEWHERE MY LOVE \(Love Theme from "Dr\. Zhivago"\) And Other Great Hits](https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7) | 2:29 |
-| 11 | [Let's Have Another Cup Of Coffee \(From "Face The Music"\) \- 2002 Remastered](https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc), [Ernie Caceres](https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc), [Marion Hutton](https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My), [The Modernaires](https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw) | [America's Bandleader](https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT) | 3:03 |
+| 10 | [Let's Have Another Cup Of Coffee \(From "Face The Music"\) \- 2002 Remastered](https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc), [Ernie Caceres](https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc), [Marion Hutton](https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My), [The Modernaires](https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw) | [America's Bandleader](https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT) | 3:03 |
+| 11 | [Red Roses For A Blue lady](https://open.spotify.com/track/2DmaZOeu9YazJTYnG7Uadv) | [The Ray Conniff Singers](https://open.spotify.com/artist/6WtWmLPWn1imbcisSfmBvy) | [SOMEWHERE MY LOVE \(Love Theme from "Dr\. Zhivago"\) And Other Great Hits](https://open.spotify.com/album/69McWz1Og4ZOjEeupHfpw7) | 2:29 |
 | 12 | [Sincerely](https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 13 | [It's A Blue World](https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU) | [The Four Freshmen](https://open.spotify.com/artist/7eAF64ZiDwK2rDPSrr97D9) | [Voices In Modern](https://open.spotify.com/album/6kckztjIdIEv1gLYa9Wyn8) | 2:58 |
 | 14 | [Straighten Up And Fly Right \- Single Version](https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Vic Schoen & His Orchestra](https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42) | [50th Anniversary Collection \(Vol\. 2\)](https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L) | 2:29 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
 | 45 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 
-Snapshot ID: `MCw5ZDI2MDNmYWM0NDM0OTZmYTAxNDQxOGY5Y2IxZDRkZWJmMTU2NGRi`
+Snapshot ID: `MCxiYmM5NDk3YzViZTA0NzBiMTI1MThlOTEyNzcyMzFjYjNiODQyMjlj`

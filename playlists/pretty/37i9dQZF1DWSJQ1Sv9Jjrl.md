@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,865 likes - 39 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,867 likes - 39 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 | 13 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 |
 | 14 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 15 | [As Long as You Love Me](https://open.spotify.com/track/0U009cDlGPpshpotu9bSgS) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [We Got You Covered, Vol\. 2](https://open.spotify.com/album/4vE6sKhkUJxZ1Bxgya5sUv) | 3:04 |
-| 16 | [Living It Up](https://open.spotify.com/track/7xqb9V5dnp2wa9emncBBEt) | [Rough Nights](https://open.spotify.com/artist/6UCvu6CiBsiaCNwjDrYFiT) | [Living It Up](https://open.spotify.com/album/3XXsI2XS9LZbJj0h0nSr8Q) | 2:52 |
+| 16 | [Living It Up](https://open.spotify.com/track/1rANXdrXTLAWxc0FGsV7BH) | [Rough Nights](https://open.spotify.com/artist/6UCvu6CiBsiaCNwjDrYFiT) | [Living It Up](https://open.spotify.com/album/2Secsr88jz925UBy9OetYH) | 2:52 |
 | 17 | [Stand Tall \("Tall Girl" Version\)](https://open.spotify.com/track/10NS45JEegLhHNwU24WITE) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z) | [Stand Tall \(from Netflix’s “Tall Girl”\)](https://open.spotify.com/album/25GTeYaatZ09n71mGhfyZ1) | 3:29 |
 | 18 | [Figure You Out](https://open.spotify.com/track/2bFGGsScXp2Tu10jKMCKO6) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Long Story Short](https://open.spotify.com/album/0fsUPGZdjtXb5F7KJ4FSzk) | 2:43 |
 | 19 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 | 38 | [It Takes Two](https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty) | [Rob Base & DJ EZ Rock](https://open.spotify.com/artist/6vwFR7NilfrQ4AX0d41fWu) | [Profilin': The Hits](https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU) | 5:01 |
 | 39 | [Stand Tall \("Tall Girl" Version \- Remix\)](https://open.spotify.com/track/0Vz8K8KIJfSFYt9n0Ifvl4) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Ava Michelle](https://open.spotify.com/artist/6euN0qAjCYkM3kcJYGMN2Z) | [Stand Tall \(from Netflix’s “Tall Girl”\)](https://open.spotify.com/album/25GTeYaatZ09n71mGhfyZ1) | 3:42 |
 
-Snapshot ID: `MCxhMzZlZDA4ODlhYWQyNmY2ZWJiYjY3YThhMGQwMTAxYjIzYzlmYTgw`
+Snapshot ID: `MCxjYzdlMDkyM2FkODdlYTg4MzBiZTIzNTBiNjllZWJjZmY2ZWMwMGY0`

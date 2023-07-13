@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-57 songs - 3 hr 56 min
+58 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All In Allu Beauty](https://open.spotify.com/track/4WycRfs3ibeHRiJL38K6EU) | [Gana Hari](https://open.spotify.com/artist/4x67D7VuInlKD9UKbrPPAW) | [All In Allu Beauty](https://open.spotify.com/album/0WLaNZ6MDMRbtcyr9oJtrJ) | 3:48 | 2022-11-05 |  |
 | [Amakkalam \- From "Think Originals"](https://open.spotify.com/track/49vfyaR7KxgTEqpFtn3XPg) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Keya Pothen](https://open.spotify.com/artist/3aRvYgNaKNnAiJHjWJEyIk) | [Amakkalam \(From "Think Originals"\)](https://open.spotify.com/album/6NYPqaUrwTKneOjnJK6kAp) | 2:37 | 2023-06-27 |  |
 | [Bhae Bhae](https://open.spotify.com/track/0CXcyPWFkcGqLsQ9e07YNG) | [AG Maggy](https://open.spotify.com/artist/3I4Vemt9tNQnBG7apbbMJY) | [Bhae Bhae](https://open.spotify.com/album/4qP8WhOmeSmMuuaY3WTkHr) | 4:09 | 2023-01-11 |  |
-| [Butterfly Pola](https://open.spotify.com/track/3vRRPomvHC3ySQGJGuRVqR) | [Gana Gokul](https://open.spotify.com/artist/3ORko4ywmPEs62KSqYQJAo) | [Butterfly Pola](https://open.spotify.com/album/2AaOjj3PBD5IE66IqgFIdw) | 3:15 | 2023-07-07 |  |
+| [Butterfly Pola](https://open.spotify.com/track/3vRRPomvHC3ySQGJGuRVqR) | [Gana Gokul](https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r) | [Butterfly Pola](https://open.spotify.com/album/2AaOjj3PBD5IE66IqgFIdw) | 3:15 | 2023-07-07 |  |
 | [Chikkom](https://open.spotify.com/track/2auqkXYwA848ortEvX88m7) | [Thiruvallur Gana Akash](https://open.spotify.com/artist/2aFQWgQ2qM5dhyP6RGzeOQ) | [Chikkom](https://open.spotify.com/album/0nOGQn9LPxeMRTaKl6K9zY) | 4:23 | 2023-03-22 |  |
 | [Ciroc](https://open.spotify.com/track/6oP9lZa4DcHeCXyGMbEAjA) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3) | [Vaeraan](https://open.spotify.com/album/51k2UGRpwrrCD6ooIvwfYa) | 4:37 | 2023-01-11 |  |
 | [Daavula Darling](https://open.spotify.com/track/0lFMi29egMLARQNudPnuzo) | [Gana Ulaganathan](https://open.spotify.com/artist/0xtvx5hHw1uN34pEC6euTe), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Daavula Darling](https://open.spotify.com/album/2dmsXLOxnl5f0jlUFk7ISX) | 4:01 | 2023-06-21 |  |
@@ -27,6 +27,7 @@
 | [Ennoda necha Etho Etho Senjaa](https://open.spotify.com/track/7K2agO7ZGgDxhCA3YlNn9i) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:24 | 2023-01-11 | 2023-05-25 |
 | [Friendship Song](https://open.spotify.com/track/6R3IMqONC1BuPIfG1J4HbO) | [Gana Guna](https://open.spotify.com/artist/3xaAlrhQIwIUzoim09APaW), [Asalt Raju](https://open.spotify.com/artist/3h9hYhWY2cYTSRztEMemEG) | [Friendship Song](https://open.spotify.com/album/3LZvL35Zk9QT6UAK42Ekpz) | 4:43 | 2023-01-13 |  |
 | [Gumbala Suthuvom](https://open.spotify.com/track/6X7jmbWjNkgvIrNtrlOwsY) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gumbala Suthuvom](https://open.spotify.com/album/1lDXZ8L0DR5dfRWH2k63u3) | 4:06 | 2022-11-05 |  |
+| [Idhan Gaana](https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs) | [Gana Gokul](https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r), [Joy Sanjay](https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB) | [Idhan Gaana](https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ) | 2:53 | 2023-07-12 |  |
 | [Ithakka Thambakka Tha](https://open.spotify.com/track/0HBWoMOjQEJiIylD1CfnWD) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Ithakka Thambakka Tha](https://open.spotify.com/album/6WQDEX8jJHGlBcKJoPJDML) | 3:30 | 2022-11-05 |  |
 | [Jorthaale](https://open.spotify.com/track/39g4GmzPyDLTdtnhu24r2H) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jorthaale](https://open.spotify.com/album/6ubFX2BkueKqYDxkQUpVb9) | 1:50 | 2022-11-05 |  |
 | [Kaimalu Potu Ennaku Kaivali](https://open.spotify.com/track/70NBOOstkJOP69N2teD0Ln) | [Gana Gokul](https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r) | [Kaimalu Potu Ennaku Kaivali](https://open.spotify.com/album/1Y29YKrWNf5oDUCYVMYQIn) | 4:08 | 2022-11-05 |  |

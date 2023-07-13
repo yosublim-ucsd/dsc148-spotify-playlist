@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 151036,
+  "num_followers": 151179,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTQwYThlYjYwYzQyMTUyYzdkODliYTdkZjIyM2U2ODlhODU0NDQz",
+  "snapshot_id": "MCw4MmY3MDlkYWViODZjMzMzMGZiOWZjN2Q3NGIzMGMwMDNjZGYwNDUy",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "C'Mon C'Mon",
-        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "C'Mon C'Mon",
+        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "The Invisible Band",
-        "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Side",
-      "url": "https://open.spotify.com/track/5gfmEhfgMIcV3He1wgDGJY"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 223853,
       "name": "Stop And Stare",
       "url": "https://open.spotify.com/track/48s0QHJgmiNsth3WEO6U4M"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "The Invisible Band",
+        "url": "https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Side",
+      "url": "https://open.spotify.com/track/5gfmEhfgMIcV3He1wgDGJY"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Sugar Ray",
-        "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "When It's Over - David Kahne Main",
-      "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Learning To Breathe",
         "url": "https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 247893,
       "name": "Dare You To Move",
       "url": "https://open.spotify.com/track/4x3381mYJqptPqT6OKUfmu"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Sugar Ray",
+        "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "When It's Over - David Kahne Main",
+      "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "Shut Your Eyes",
-      "url": "https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Reveal",
         "url": "https://open.spotify.com/album/43goi7G5yXOoI7bLaowtpy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 236626,
       "name": "Imitation Of Life",
       "url": "https://open.spotify.com/track/32kmXl5F8I3XDVKNfwwM4J"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "Shut Your Eyes",
+      "url": "https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg"
     },
     {
       "added_at": "2023-01-18 21:26:30",

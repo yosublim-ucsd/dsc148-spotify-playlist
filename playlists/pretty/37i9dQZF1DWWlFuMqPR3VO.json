@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 12149,
+  "num_followers": 12158,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWY1MjkxMDlkZDM4NzQyOWRiOTI2YzQ4MmQ2ZGE0M2Y4MDFlNTc5",
+  "snapshot_id": "MCxhYmVlN2RkMmY4M2YzNzkzNmJiMTNmMGIzMzYwZTFhMTRlMDUzNWUw",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "Baby Scratch My Back - Single Version",
-      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "Crawfish Fiesta (Remastered with Bonus Track)",
         "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 194666,
       "name": "Big Chief - Remastered",
       "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Baby Scratch My Back - Single Version",
+      "url": "https://open.spotify.com/track/4BbLz6pVP5oXl2plR7HLMZ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+        "name": "New Orleans Piano (Mono)",
+        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
       "artists": [
         {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
         }
       ],
-      "duration_ms": 149800,
-      "name": "Shake Your Hips - Single Version",
-      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
+      "duration_ms": 158902,
+      "name": "Tipitina - Mono",
+      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Piano (Mono)",
-        "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
       "artists": [
         {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 158902,
-      "name": "Tipitina - Mono",
-      "url": "https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4"
+      "duration_ms": 149800,
+      "name": "Shake Your Hips - Single Version",
+      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
-        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
+        "name": "Sufferin' Mind",
+        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
       },
       "artists": [
         {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+          "name": "Guitar Slim",
+          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
         }
       ],
-      "duration_ms": 199893,
-      "name": "I'm Coming Home (To See My Mother)",
-      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
+      "duration_ms": 147440,
+      "name": "Well I Done Got Over It",
+      "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Sufferin' Mind",
-        "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
+        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
+        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
       },
       "artists": [
         {
-          "name": "Guitar Slim",
-          "url": "https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s"
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
         }
       ],
-      "duration_ms": 147440,
-      "name": "Well I Done Got Over It",
-      "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
+      "duration_ms": 199893,
+      "name": "I'm Coming Home (To See My Mother)",
+      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Blues",
-        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
-      },
-      "artists": [
-        {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "I Hear You Knockin'!",
         "url": "https://open.spotify.com/album/5Ch6Uc0OTpBUI9LvPrQDsk"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Zodico Blues & Boogie",
-        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+        "name": "New Orleans Blues",
+        "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
       },
       "artists": [
         {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Boppin' The Rock",
-      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+      "duration_ms": 163293,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -407,6 +391,22 @@
       "duration_ms": 180360,
       "name": "Hey Now Baby",
       "url": "https://open.spotify.com/track/66fgQCgrVrzuGwgOygTh5w"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Zodico Blues & Boogie",
+        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+      },
+      "artists": [
+        {
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Boppin' The Rock",
+      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -475,22 +475,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
+        "name": "Louis Armstrong Plays W. C. Handy",
+        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
       },
       "artists": [
         {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        },
-        {
-          "name": "Sam Charters",
-          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Trick Bag",
-      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
+      "duration_ms": 255933,
+      "name": "Yellow Dog Blues",
+      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -527,18 +523,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Louis Armstrong Plays W. C. Handy",
-        "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Earl King",
+          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
+        },
+        {
+          "name": "Sam Charters",
+          "url": "https://open.spotify.com/artist/4P62HkfjQe9Ojf6YkILrbP"
         }
       ],
-      "duration_ms": 255933,
-      "name": "Yellow Dog Blues",
-      "url": "https://open.spotify.com/track/2kqpPGtxRatQsFrQWM4gLb"
+      "duration_ms": 188600,
+      "name": "Trick Bag",
+      "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
     },
     {
       "added_at": "2022-03-28 20:10:01",

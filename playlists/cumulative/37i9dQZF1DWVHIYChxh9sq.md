@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-387 songs - 21 hr 27 min
+388 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [La Camioneta Gris \- Live](https://open.spotify.com/track/7melVMedjk3K0AVUHx8w8n) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Lo Que No Escuchaste MTV Unplugged \(Live\)](https://open.spotify.com/album/5aO37RIIgwkTZ5t0uejh78) | 3:16 | 2022-05-12 | 2023-03-18 |
 | [La Celda De Un Loco \(En Vivo\)](https://open.spotify.com/track/3MvQ657hApJ3FtzBsYsZzP) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [La Celda De Un Loco \(En Vivo\)](https://open.spotify.com/album/4SHMB4zr37XxbLhZPOOEfC) | 2:47 | 2022-05-12 | 2022-12-19 |
 | [La Celda De Un Loco \- En vivo](https://open.spotify.com/track/3X1A33hXb3b5CBOVCZJRuW) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Videos En Vivo Desde El Rancho El Pinolillo \(En vivo\)](https://open.spotify.com/album/5MQCTTOantPqxwoySpnw36) | 3:12 | 2022-12-08 | 2023-07-03 |
+| [La Celda De Un Loco \- En Vivo](https://open.spotify.com/track/3llMXLV7hFkXxf3qXvqmdg) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp) | [Videos En Vivo Desde El Rancho El Pinolillo](https://open.spotify.com/album/2J5VFfHfdh2ROSnnGX4QiY) | 3:12 | 2023-06-16 |  |
 | [La Chapiza \- En Vivo](https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [La Chapiza \(En Vivo\)](https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6) | 2:05 | 2022-12-08 |  |
 | [La Cosecha del Charapo \- En Vivo](https://open.spotify.com/track/3Z8kE28lSKjjhhzdUJBK0B) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [La Cosecha del Charapo \(En Vivo\)](https://open.spotify.com/album/5hZzBvDpfnYWWuHgP9Fpda) | 3:02 | 2022-05-12 | 2022-07-29 |
 | [La Cosecha del Charapo \- En Vivo](https://open.spotify.com/track/5VrzZPIqU2NNPtZLTQTzc1) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [La Cosecha del Charapo \(En Vivo\)](https://open.spotify.com/album/0zf2ql0nip0LaSL6fsolGs) | 3:02 | 2022-05-12 | 2022-12-09 |
@@ -322,7 +323,7 @@
 | [Popurrí de Los Morros \(Chivo Tatemado/ Los Primos/ El Ultimo Billete\)](https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw) | [Milicia Del Rancho](https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi) | [La Vieja Escuela](https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD) | 2:51 | 2022-12-08 |  |
 | [Popurrí De Los Tigres Del Norte \- En Vivo](https://open.spotify.com/track/2AtUcoBaExy62jqza3rXE9) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR) | [En Vivo Desde El Rancho](https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N) | 5:18 | 2022-05-12 | 2022-12-09 |
 | [Popurrí El Primer Tonto / Eres Mi Droga](https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Los De La Noria En Vivo](https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF) | 4:17 | 2023-03-17 |  |
-| [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 | 2022-05-12 |  |
+| [Popurrí Y Llegaste Tú/Te Quiero A Morir \- En Vivo](https://open.spotify.com/track/29xpuvcM2swZXOIQ49q6zQ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Concierto Mundial Digital Live](https://open.spotify.com/album/2gijh9dOUhi9ZmovGBDD3f) | 6:03 | 2022-05-12 | 2023-07-13 |
 | [Por Las Calles De Chihuahua](https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:42 | 2023-03-17 |  |
 | [Por Que Te Vas De Mi \- En Vivo](https://open.spotify.com/track/17gXGLgaVeONySly2voFIY) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Recuerdos Para Pistear \(En Vivo\)](https://open.spotify.com/album/16fN59xr7T4jknYJRfiH2F) | 3:22 | 2023-03-17 |  |
 | [Por Tu Amor \- En Vivo](https://open.spotify.com/track/46KqzlChHmjRmZQvvxk5dn) | [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Por Tu Amor \(En Vivo\)](https://open.spotify.com/album/5ops1wzh5py3wKUkqQBcKQ) | 3:36 | 2022-05-12 | 2022-12-09 |

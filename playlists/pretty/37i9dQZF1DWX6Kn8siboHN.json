@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 544434,
+  "num_followers": 544980,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTIxNmZjODFjZTRmMjEzNzYxZWIzZDI3MzE4OTM3OTU3YjE5Y2Ew",
+  "snapshot_id": "MCxjMGJkNmJmOGVjOGQ4ZjNmYzc4NTRhN2VhZDQ3YWJlNWQzYjczZmRh",
   "tracks": [
     {
       "added_at": "2023-06-07 23:06:26",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-06-07 23:06:26",
       "album": {
+        "name": "Tu Sombra",
+        "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "A chillar a otra parte",
+      "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
+    },
+    {
+      "added_at": "2023-06-07 23:06:26",
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO"
-    },
-    {
-      "added_at": "2023-06-07 23:06:26",
-      "album": {
-        "name": "Tu Sombra",
-        "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "A chillar a otra parte",
-      "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
     },
     {
       "added_at": "2023-06-07 23:06:26",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-06-07 23:06:26",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
-    },
-    {
-      "added_at": "2023-06-07 23:06:26",
-      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 178186,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+    },
+    {
+      "added_at": "2023-06-07 23:06:26",
+      "album": {
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2023-06-07 23:06:26",
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2023-06-07 23:06:26",
       "album": {
-        "name": "Celos del Viento y Corridos Impactantes",
-        "url": "https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow"
+        "name": "Cada Dia Mas",
+        "url": "https://open.spotify.com/album/4ml7wBSms9VuXVR8KGKgdg"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
         }
       ],
-      "duration_ms": 167493,
-      "name": "Celos del Viento",
-      "url": "https://open.spotify.com/track/2l7STJBQ626zUw7cK40ioX"
+      "duration_ms": 136600,
+      "name": "Como Quisiera",
+      "url": "https://open.spotify.com/track/2v3Ehmw1UQ3LcAWlywJNJU"
     },
     {
       "added_at": "2023-06-07 23:06:26",
@@ -1335,8 +1335,8 @@
     {
       "added_at": "2023-06-07 23:06:26",
       "album": {
-        "name": "Cada Dia Mas",
-        "url": "https://open.spotify.com/album/4ml7wBSms9VuXVR8KGKgdg"
+        "name": "Celos del Viento y Corridos Impactantes",
+        "url": "https://open.spotify.com/album/0taQnd9YyP7HL8nKc1buow"
       },
       "artists": [
         {
@@ -1344,25 +1344,9 @@
           "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
         }
       ],
-      "duration_ms": 136600,
-      "name": "Como Quisiera",
-      "url": "https://open.spotify.com/track/2v3Ehmw1UQ3LcAWlywJNJU"
-    },
-    {
-      "added_at": "2023-06-07 23:06:26",
-      "album": {
-        "name": "30 Primeros Exitos",
-        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
-      },
-      "artists": [
-        {
-          "name": "Los Dinamicos Del Norte",
-          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Amigos Tuve Una Novia",
-      "url": "https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW"
+      "duration_ms": 167493,
+      "name": "Celos del Viento",
+      "url": "https://open.spotify.com/track/2l7STJBQ626zUw7cK40ioX"
     },
     {
       "added_at": "2023-06-07 23:06:26",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-06-07 23:06:26",
       "album": {
-        "name": "Solamente T\u00fa",
-        "url": "https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej"
+        "name": "30 Primeros Exitos",
+        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Los Dinamicos Del Norte",
+          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
         }
       ],
-      "duration_ms": 186626,
-      "name": "La Ley Del Desprecio",
-      "url": "https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f"
+      "duration_ms": 217600,
+      "name": "Amigos Tuve Una Novia",
+      "url": "https://open.spotify.com/track/3Q5URFgTK8gBA7EwsSlatW"
     },
     {
       "added_at": "2023-06-07 23:06:26",
@@ -1411,6 +1395,22 @@
       "duration_ms": 209293,
       "name": "Acepto Mi Derrota",
       "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
+    },
+    {
+      "added_at": "2023-06-07 23:06:26",
+      "album": {
+        "name": "Solamente T\u00fa",
+        "url": "https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "La Ley Del Desprecio",
+      "url": "https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f"
     },
     {
       "added_at": "2023-06-07 23:06:26",

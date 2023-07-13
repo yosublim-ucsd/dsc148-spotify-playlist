@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 31537,
+  "num_followers": 31603,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDQzNjQ2ZjBiM2UyYmVjMjViNzI2YTJiNzgzNWMyYmNjZWM1NWM1",
+  "snapshot_id": "MCxjMzRiYWE5MjEzODk0OGI2NzI2ZWYwZjExNDk0Njc5OTkyYzhiZmQz",
   "tracks": [
     {
       "added_at": "2023-06-30 15:22:50",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
-        "name": "No.1 (Jubil\u00e4ums Edition)",
-        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
-      },
-      "artists": [
-        {
-          "name": "Silent Circle",
-          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
-        }
-      ],
-      "duration_ms": 217669,
-      "name": "Touch in the Night - Radio Version",
-      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 398150,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
+        "name": "No.1 (Jubil\u00e4ums Edition)",
+        "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
+      },
+      "artists": [
+        {
+          "name": "Silent Circle",
+          "url": "https://open.spotify.com/artist/0ha8Qlns3CfrrLNI8CVIie"
+        }
+      ],
+      "duration_ms": 217669,
+      "name": "Touch in the Night - Radio Version",
+      "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
-        "name": "Players Theme",
-        "url": "https://open.spotify.com/album/6Ce256upxpicVQuZCebMlo"
-      },
-      "artists": [
-        {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/0QHgoeTQNQmyA1bNoUhZD3"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
         "name": "Nuova Napoli",
         "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 288280,
       "name": "Je Vulesse",
       "url": "https://open.spotify.com/track/7FPtdpiBHIFyiUoFTEDfRd"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
+        "name": "Players Theme",
+        "url": "https://open.spotify.com/album/6Ce256upxpicVQuZCebMlo"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/0QHgoeTQNQmyA1bNoUhZD3"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
         "name": "Thank You for Letting Me Be Myself",
         "url": "https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 413315,
       "name": "The Shit Baby",
       "url": "https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
-        "name": "Mars 500",
-        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
-      },
-      "artists": [
-        {
-          "name": "CHLOE (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
-        }
-      ],
-      "duration_ms": 412257,
-      "name": "Mars 500",
-      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
         "name": "Mandar All Day 001",
         "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 278110,
       "name": "Chantal",
       "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
+        "name": "Mars 500",
+        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
+      },
+      "artists": [
+        {
+          "name": "CHLOE (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 412257,
+      "name": "Mars 500",
+      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
     },
     {
       "added_at": "2023-06-30 15:22:50",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-06-30 15:22:50",
       "album": {
+        "name": "Weekends and Beginnings",
+        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        },
+        {
+          "name": "Maurice Fulton",
+          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
+        }
+      ],
+      "duration_ms": 332777,
+      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
+      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
+    },
+    {
+      "added_at": "2023-06-30 15:22:50",
+      "album": {
         "name": "For the Beasts",
         "url": "https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 212682,
       "name": "Figure of Jazz",
       "url": "https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1"
-    },
-    {
-      "added_at": "2023-06-30 15:22:50",
-      "album": {
-        "name": "Weekends and Beginnings",
-        "url": "https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C"
-      },
-      "artists": [
-        {
-          "name": "Alice Smith",
-          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
-        },
-        {
-          "name": "Maurice Fulton",
-          "url": "https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD"
-        }
-      ],
-      "duration_ms": 332777,
-      "name": "Love Endeavor (Maurice Fulton Remix) - Mixed",
-      "url": "https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ"
     },
     {
       "added_at": "2023-06-30 15:22:50",

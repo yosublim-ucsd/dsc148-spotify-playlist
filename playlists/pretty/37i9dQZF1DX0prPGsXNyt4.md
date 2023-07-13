@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 
 > você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,601 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,631 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 28 | [Sobre Nós](https://open.spotify.com/track/5K1n3LwCVZg2TE9SLgIwem) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Lobo](https://open.spotify.com/album/7g1gfivaZsOOuf0a6Z1vsj) | 3:32 |
 | 29 | [Todo Tímido](https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:56 |
 | 30 | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Medley Lud Session \- Gato Siamês / Poesia Acústica 10: Recomeçar / Poesia Acústica Paris](https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7) | 5:53 |
-| 31 | [Morena](https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Morena](https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0) | 3:17 |
-| 32 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
+| 31 | [Baby Cê é Gata](https://open.spotify.com/track/2gmFueqqH3YAPjqWD079NW) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Baby Cê é Gata](https://open.spotify.com/album/5f2JmFWYRce089Q0TTl0De) | 1:58 |
+| 32 | [Morena](https://open.spotify.com/track/2W0VenqvlMW4c65YsxT5zu) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Morena](https://open.spotify.com/album/7v5z2GBVV7qcIv3Amvn1l0) | 3:17 |
 | 33 | [Plano Perfeito](https://open.spotify.com/track/0pihhHbzZ3EhrQj2brZpep) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Plano Perfeito](https://open.spotify.com/album/3r50qLuSjGVwtSBCAmcRx2) | 3:11 |
 | 34 | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Lance Criminoso \(feat\. BK\)](https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy) | 3:54 |
 | 35 | [Poesia Acústica \- Paris](https://open.spotify.com/track/5JKaHAt4atuNoLqpyDgbyK) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Poesia Acústica \- Paris](https://open.spotify.com/album/4k8pamcdDRM5PQGkAqhvjS) | 7:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0prPGsXNyt4.md) - [plain]
 | 49 | [Te Escolhi](https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Te Escolhi](https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0) | 1:48 |
 | 50 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 |
 
-Snapshot ID: `MCxjNDEyNGRiMjBjMjQ5MjZmNTczYjIyMTA0ZTVlMzFiZjExMzhlZmRl`
+Snapshot ID: `MCw3ZDBjYjhjOTI4MjE5OGM1MmE5MzcwNWFmMjA2MWYzMmViMjEyN2Fi`

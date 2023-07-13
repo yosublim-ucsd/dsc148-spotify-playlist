@@ -808,6 +808,24 @@
     {
       "album": {
         "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213051,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/3ohfBBas5ITo850guSphua"
+    },
+    {
+      "album": {
+        "name": "The Anecdote",
         "url": "https://open.spotify.com/album/1ZzV8Yt4fDGrbmLC7BC3yn"
       },
       "artists": [
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 140411,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"

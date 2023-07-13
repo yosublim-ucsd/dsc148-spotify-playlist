@@ -8303,6 +8303,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/3A8lD4bNXWQpN8hXPml2rU"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4YbW3QbBHQzdtNKHnyyPqN"
+    },
+    {
+      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR"
       },
@@ -11508,7 +11526,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 180407,
       "name": "Winter Blossoms",
       "url": "https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P"

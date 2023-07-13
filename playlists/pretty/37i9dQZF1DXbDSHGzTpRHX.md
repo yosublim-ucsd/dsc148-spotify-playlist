@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,575 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,578 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 10 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 |
 | 11 | [Gone](https://open.spotify.com/track/0Ly2USSlv6gnBItSVuhhhS) | [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [RESET](https://open.spotify.com/album/53W9i1T6OTOEvLuKfUTzfr) | 3:10 |
 | 12 | [Dreams](https://open.spotify.com/track/7n6hs80v9v1HEfKsD9Y0Na) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 2:42 |
-| 13 | [dying together](https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn) | 2:36 |
+| 13 | [dying together](https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN) | [Joshua Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [dying together](https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn) | 2:36 |
 | 14 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
 | 15 | [i don't think i love you anymore](https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [i don't think i love you anymore](https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01) | 3:49 |
 | 16 | [Wiggle](https://open.spotify.com/track/6SsbCH6SPFGKezh81mEseT) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Wiggle](https://open.spotify.com/album/7M0hwRTi6xLfbmv91PRXBb) | 2:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/2JpU0BvQsFRJ6tukhc3ENx) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Then We Fall](https://open.spotify.com/album/741BgLLV8HHyGWkDkKMC1h) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MCw1ZmQ4NjgwYmQ3MTg1NmU1YjJiNWQxYTMyZDA5YzMwNWMyMjZlOTYz`
+Snapshot ID: `MCw5MGUyYWRlYTRkM2Y4MTRhYmQ0ZTg1MDhjNTc1OWFlNTZhMTQ0NjEz`

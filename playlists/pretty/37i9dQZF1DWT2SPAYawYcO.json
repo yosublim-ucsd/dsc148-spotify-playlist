@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDE4MjBlNjFlNjdkYmFmZDhhMTI5OWM0ZDA0NWJkZWQzNWVkOTMx",
+  "snapshot_id": "MCw4ODc5OTNmMTAzYmMzYTE3ODUwMjRiZWI0MmQ3MTA3ZmVjNWE5NTdi",
   "tracks": [
     {
       "added_at": "2023-07-07 00:58:27",
@@ -1330,6 +1330,10 @@
         {
           "name": "Jalmar",
           "url": "https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb"
+        },
+        {
+          "name": "Swimgood",
+          "url": "https://open.spotify.com/artist/24xfAzbGptMhkrHlYS8xsN"
         }
       ],
       "duration_ms": 137739,

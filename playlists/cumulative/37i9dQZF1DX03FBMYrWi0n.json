@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 204413,
       "name": "Doux doux",
       "url": "https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D"
@@ -1412,6 +1412,24 @@
       "duration_ms": 219080,
       "name": "Nos corps",
       "url": "https://open.spotify.com/track/2l8apbCCTwY4XpAjR57JW8"
+    },
+    {
+      "album": {
+        "name": "Sade Sati (Deluxe)",
+        "url": "https://open.spotify.com/album/3PXo9tdk59o5O8VHJcrR6K"
+      },
+      "artists": [
+        {
+          "name": "Paupi\u00e8re",
+          "url": "https://open.spotify.com/artist/7tzLFQFi3BoEjtMMLztOwq"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208754,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/1U4WYnIEBbwPxuLHwrves6"
     },
     {
       "album": {

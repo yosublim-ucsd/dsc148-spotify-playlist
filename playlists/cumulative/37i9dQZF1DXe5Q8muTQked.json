@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
@@ -6016,6 +6016,24 @@
       "duration_ms": 154290,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
+    },
+    {
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/5eAqisChf22yDfAABxciv1"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3510,
+  "num_followers": 3512,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2ZiZDc3OGY5YTk0MzM5MzY4OTUwYjBmMDBmYzI3MDUwN2Y2YWIy",
+  "snapshot_id": "MCwwMWM4OGZlY2RiZmRlNDgxZGQyYWEwMDNhYWZhYzhhNjJmNjhkNzZj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Plus tard qu'on pense",
-        "url": "https://open.spotify.com/album/1OZOYHMEITu3Lg4HtBh4Op"
-      },
-      "artists": [
-        {
-          "name": "Fred Pellerin",
-          "url": "https://open.spotify.com/artist/4mmbxcnICvLE3Z3FC3YFh9"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "J\u2019esp\u00e8re de pas tomber en amour avec toi",
-      "url": "https://open.spotify.com/track/5JOzQOsTPEbyXc0BNpD37H"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "L'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/6hZRVhMV2YLf4bQkAaLthC"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 268077,
       "name": "Je veux de la lumi\u00e8re",
       "url": "https://open.spotify.com/track/5W7sHs6RBdwjgHbw4svh50"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Plus tard qu'on pense",
+        "url": "https://open.spotify.com/album/1OZOYHMEITu3Lg4HtBh4Op"
+      },
+      "artists": [
+        {
+          "name": "Fred Pellerin",
+          "url": "https://open.spotify.com/artist/4mmbxcnICvLE3Z3FC3YFh9"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "J\u2019esp\u00e8re de pas tomber en amour avec toi",
+      "url": "https://open.spotify.com/track/5JOzQOsTPEbyXc0BNpD37H"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -863,6 +863,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Ubiquit\u00e9",
+        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
+      },
+      "artists": [
+        {
+          "name": "Martin Lizotte",
+          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Voltige",
+      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "La grande nuit vid\u00e9o",
         "url": "https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 191853,
       "name": "Vers le sud",
       "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Ubiquit\u00e9",
-        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
-      },
-      "artists": [
-        {
-          "name": "Martin Lizotte",
-          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Voltige",
-      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Himalaya mon amour",
-        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
-      },
-      "artists": [
-        {
-          "name": "Alex Nevsky",
-          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "Si tu restes",
-      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Hisser haut",
         "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 202333,
       "name": "L'atelier",
       "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Himalaya mon amour",
+        "url": "https://open.spotify.com/album/6pr1J7ekJbaOIPELBTmGVb"
+      },
+      "artists": [
+        {
+          "name": "Alex Nevsky",
+          "url": "https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "Si tu restes",
+      "url": "https://open.spotify.com/track/47RDT6K7pUYnO1NWWCw1z7"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Vingt",
         "url": "https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
       },
       "artists": [
         {
-          "name": "Gabrielle Shonk",
-          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 196613,
-      "name": "Trop tard",
-      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1171,22 +1187,6 @@
       "duration_ms": 203253,
       "name": "Domenico",
       "url": "https://open.spotify.com/track/7EDpfVvpvhHYztOSLci2ZL"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
-      },
-      "artists": [
-        {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
-        }
-      ],
-      "duration_ms": 304040,
-      "name": "Les derniers jours",
-      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "EP de malade",
         "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 206693,
       "name": "Madame (Version douce)",
       "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 304040,
+      "name": "Les derniers jours",
+      "url": "https://open.spotify.com/track/0q8AKo2LxhJeJDgGQammi3"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Le long chemin (version acoustique)",
+        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
+      },
+      "artists": [
+        {
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+        }
+      ],
+      "duration_ms": 220146,
+      "name": "Le long chemin - version acoustique",
+      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
       },
@@ -1431,18 +1447,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le long chemin (version acoustique)",
-        "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
+        "name": "Politesses",
+        "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
       },
       "artists": [
         {
-          "name": "Nicola Ciccone",
-          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
+        },
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
         }
       ],
-      "duration_ms": 220146,
-      "name": "Le long chemin - version acoustique",
-      "url": "https://open.spotify.com/track/6WQ0syAVuov3xfTl20l5ne"
+      "duration_ms": 278653,
+      "name": "Pour ce que valent tes larmes",
+      "url": "https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1479,22 +1499,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Politesses",
-        "url": "https://open.spotify.com/album/3iCs4w50p4r4PY9ZKF9800"
+        "name": "T\u00f6lt",
+        "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
       },
       "artists": [
         {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        },
-        {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+          "name": "Flying H\u00f3rses",
+          "url": "https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq"
         }
       ],
-      "duration_ms": 278653,
-      "name": "Pour ce que valent tes larmes",
-      "url": "https://open.spotify.com/track/3MWmd6jWckpNjW5PjJxHxA"
+      "duration_ms": 344346,
+      "name": "Oubliette",
+      "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "T\u00f6lt",
-        "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
-      },
-      "artists": [
-        {
-          "name": "Flying H\u00f3rses",
-          "url": "https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq"
-        }
-      ],
-      "duration_ms": 344346,
-      "name": "Oubliette",
-      "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "M\u00e9lodica",
         "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Voix de No\u00ebl",
-        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
-      },
-      "artists": [
-        {
-          "name": "May Wells",
-          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
-        }
-      ],
-      "duration_ms": 211915,
-      "name": "Je ne t'oublie pas - Bonus",
-      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le courant",
         "url": "https://open.spotify.com/album/18fIvNQnnJHX3eYrx38lwr"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 194042,
       "name": "Le courant",
       "url": "https://open.spotify.com/track/2tWRlqt2xme7IoJaaKjTvW"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Voix de No\u00ebl",
+        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
+      },
+      "artists": [
+        {
+          "name": "May Wells",
+          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+        }
+      ],
+      "duration_ms": 211915,
+      "name": "Je ne t'oublie pas - Bonus",
+      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1660,21 +1660,9 @@
       "added_at": "2021-02-06 03:12:40",
       "album": {
         "name": "Kirchner",
-        "url": "https://open.spotify.com/album/2OxNLJ1bSn8tIxlIdUuvRi"
+        "url": "https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p"
       },
       "artists": [
-        {
-          "name": "Pierre-Luc B\u00e9gin",
-          "url": "https://open.spotify.com/artist/1Rm7zYm9yskPYPDuaIwtj4"
-        },
-        {
-          "name": "Julia Daigle",
-          "url": "https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x"
-        },
-        {
-          "name": "Eliane Pr\u00e9fontaine",
-          "url": "https://open.spotify.com/artist/3HSPxXzUPTM2POFM5P7lxr"
-        },
         {
           "name": "Julien Manaud",
           "url": "https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f"
@@ -1682,7 +1670,7 @@
       ],
       "duration_ms": 180215,
       "name": "Kirchner",
-      "url": "https://open.spotify.com/track/21eM5pe7tcdFC6tuMsWUcT"
+      "url": "https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq"
     },
     {
       "added_at": "2021-02-06 03:12:40",

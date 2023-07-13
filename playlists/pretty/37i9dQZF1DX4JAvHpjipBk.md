@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dominic Fike, NewJeans, Skrillex, Lil Tjay, Rauw Alejandro, FIFTY FIFTY, Taylor Swift and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,132,683 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,133,120 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 19 | [Cheese](https://open.spotify.com/track/5GCSN4N9KzycSf5FD0wtWF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:12 |
 | 20 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 |
 | 21 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
-| 22 | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
+| 22 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
 | 23 | [Trynna Link](https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trynna Link](https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK) | 2:57 |
 | 24 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 |
 | 25 | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/track/3FUbt6McYmAEx3vQusM97c) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/album/6pRTGGtSp7KcnT7qOo2PLn) | 2:45 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 51 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 |
 | 52 | [F'd Up](https://open.spotify.com/track/3sUIEofdt4yPN9IkczVEsF) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [F'd Up](https://open.spotify.com/album/39lgXxNWtwNzm1oiXoZDe9) | 3:53 |
 | 53 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 |
-| 54 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Daklis](https://open.spotify.com/artist/7hAW5Zcwt9UWJkbiAfrHHv), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
+| 54 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 55 | [Portrait Of A Clear Day](https://open.spotify.com/track/61NuERgW2NGX37TcCcoVfm) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 3:20 |
 | 56 | [Kind](https://open.spotify.com/track/2SLtt8zr8BMh1D2twQ4bcX) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Kind](https://open.spotify.com/album/6lJ9AWcHqRRW7SUTBfSZbZ) | 3:17 |
 | 57 | [your place](https://open.spotify.com/track/2aOeccIiwICrH0n3pNvFMi) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark \- Extended Sampler](https://open.spotify.com/album/5VAc7H2Al4nVNQqLeyypMZ) | 3:02 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 95 | [If You Knew](https://open.spotify.com/track/5xzCYXaVqacjaJoDvKEjcu) | [Lance Redeker](https://open.spotify.com/artist/1F8HRVc2bSFoyrzKZgRh7M) | [If You Knew](https://open.spotify.com/album/6ciqbqY8gyK3AAwNoYBlDV) | 3:19 |
 | 96 | [comfort, texas](https://open.spotify.com/track/5G4dllapO3PVyuIy2XYZQG) | [Buppy.](https://open.spotify.com/artist/3ycfZfYaqEN0PpZ2nB89k4) | [comfort, texas](https://open.spotify.com/album/0XnxJHLlceYWMWNRWjzd2H) | 2:11 |
 | 97 | [Rainbow Sweater](https://open.spotify.com/track/6eaICYjC9Ve8CwjsfQ1frR) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Rainbow Sweater](https://open.spotify.com/album/5f0mRp3G0J4hXTLHncGNZ5) | 2:47 |
-| 98 | [Hell Of A Ride](https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride / High In Brighton](https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l) | 2:59 |
+| 98 | [Hell Of A Ride](https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l) | 2:59 |
 | 99 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
 | 100 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 
-Snapshot ID: `MCw3Njg3ZmFlMjU2NGQ3NDJlMmMxNmZjYzMzOTE0Y2Q1NGRjYjRkMmRl`
+Snapshot ID: `MCwwZDFlOTJhZTBkOGZlNzg5NWE1ODgzODg4YWM5MDI4YWFhYTg3YzI2`

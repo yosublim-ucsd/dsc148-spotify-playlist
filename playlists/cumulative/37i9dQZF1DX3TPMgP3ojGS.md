@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,718 songs - 3 day 5 hr 4 min
+1,719 songs - 3 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1096,7 +1096,7 @@
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-09-25 | 2022-08-10 |
 | [Peace Of Mind](https://open.spotify.com/track/7pGfuq7ffLt0UbAX8xki74) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:17 | 2021-03-18 | 2021-05-20 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2021-04-02 | 2021-11-16 |
-| [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 | 2023-04-15 |  |
+| [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 | 2023-04-15 | 2023-07-13 |
 | [Pearly White](https://open.spotify.com/track/32e2eC33BCyektlkaYjYIS) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Pearly White](https://open.spotify.com/album/5JkhzfBjn2jzwTozpuCrS9) | 2:25 | 2021-04-23 | 2022-04-16 |
 | [Peinture](https://open.spotify.com/track/4qgftOOU3U9AuzH8Cidlbm) | [Rachmano](https://open.spotify.com/artist/1GRFB3CNdhiQTCVLOMgW4I) | [Peinture](https://open.spotify.com/album/2qrNNJcWzPFI8TmpwkxZZG) | 2:34 | 2022-03-24 | 2022-03-30 |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-03-29 | 2022-04-07 |
@@ -1664,6 +1664,7 @@
 | [When I come home](https://open.spotify.com/track/14Qvotdfgm5KUHaNVwzMnq) | [Ava Decker](https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu) | [Serene](https://open.spotify.com/album/6e6Lz7s9FemU6bGDlN1nNm) | 3:04 | 2022-06-22 | 2022-07-29 |
 | [When in doubt](https://open.spotify.com/track/13V4NNRiIRykKWJACBgrUP) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [When in doubt](https://open.spotify.com/album/2PDnAHcHGiWy9fEjLhF9YM) | 1:52 | 2021-04-24 | 2022-04-21 |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2022-05-31 | 2022-12-24 |
+| [When It´s Love](https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [When It´s Love](https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz) | 2:42 | 2023-07-06 |  |
 | [When the Dust Clears](https://open.spotify.com/track/0q9CCKa9n8AwCmPOj3x8R4) | [Henry Hume](https://open.spotify.com/artist/6dR74cAYERzcSzcSC3OI9L) | [Alone EP](https://open.spotify.com/album/03Zdoss482kyRF4VQlGq9I) | 3:19 | 2021-05-11 | 2022-04-03 |
 | [When the ground was white with snow](https://open.spotify.com/track/5ohIpIEwS0iQUjZ1yVG3Fj) | [Whitten sisters](https://open.spotify.com/artist/5jmcyJWTdKmU56N0g7fuiW) | [When the ground was white with snow](https://open.spotify.com/album/3P5tnDlhhTRLha1RfnlbaE) | 1:43 | 2021-05-17 | 2022-04-05 |
 | [When We Dance](https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [When We Dance](https://open.spotify.com/album/7EX5b7L0MzsxnOF5mluc2C) | 2:37 | 2021-10-08 | 2022-07-29 |

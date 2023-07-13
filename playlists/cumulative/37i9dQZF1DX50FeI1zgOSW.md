@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-100 songs - 5 hr 40 min
+102 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Hey Mudhal Siripey](https://open.spotify.com/track/1dOy2vIAWMPR3pUWrUp0E8) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6), [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Hey Mudhal Siripey](https://open.spotify.com/album/4yHFrEJp5lyht4Z1NwvpL5) | 3:45 | 2023-06-15 |  |
 | [i Aval](https://open.spotify.com/track/22eCEOuOXu7gMA40IDhnzU) | [Uday Prakash](https://open.spotify.com/artist/6Y7lBl6s5oiZNgyCKYdqfW) | [i Aval](https://open.spotify.com/album/5mA7g4MIR3WHIZVTiRyDsJ) | 2:49 | 2023-04-06 |  |
 | [Idhan da Life\-u](https://open.spotify.com/track/24G2oiRwA28lHKPte7z9qp) | [Shridhar Ramesh](https://open.spotify.com/artist/5IvPVTWTxfqev2qJ2Ti00Y) | [Idhan da Life\-u](https://open.spotify.com/album/4wjpUrReORkoVTriAQbRNq) | 2:58 | 2023-03-21 |  |
+| [Idhan Gaana](https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs) | [Gana Gokul](https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r), [Joy Sanjay](https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB) | [Idhan Gaana](https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ) | 2:53 | 2023-07-12 |  |
 | [Idhayam \- Tune In For Love](https://open.spotify.com/track/3BfXgDsVD042HtzGkuVbjR) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Tamil Mani](https://open.spotify.com/artist/5GQclhWiFwYsMfPMMsdwx8) | [Idhayam \- Tune In For Love](https://open.spotify.com/album/0q6MhFUORMR0rOaLM7tRKq) | 3:31 | 2023-05-26 | 2023-05-28 |
 | [Ilanthalizhe](https://open.spotify.com/track/3WHTMsgJEdVAaNk4C4KUjn) | [Nouf Aloufiz](https://open.spotify.com/artist/0lhgeOIYdvd6JVX5Qqrd04), [Athithyan](https://open.spotify.com/artist/7luB4uNlhp3lGJAf9xVmpQ) | [Ilanthalizhe](https://open.spotify.com/album/13kI9nQ3eCTr4BqTzkeumw) | 3:10 | 2023-04-24 | 2023-06-24 |
 | [Jinukku Jikka](https://open.spotify.com/track/595MCW6XYXF10IBVpLBPrV) | [Lak](https://open.spotify.com/artist/3kNbpMF08hTkUfVQLH3zPN), [K R Soundarya](https://open.spotify.com/artist/4f9IuGiCtB0c4bWHIJnQLq) | [Jinukku Jikka](https://open.spotify.com/album/5vmnvHJgGKa3RyOpOjBJ1I) | 3:51 | 2023-03-21 |  |
@@ -105,6 +106,7 @@
 | [Tholayure Naane](https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH) | [Julius Gnanagar](https://open.spotify.com/artist/6mg9ayapkEgFgnjP71yi1V), [Melvin Miranda](https://open.spotify.com/artist/3MExCdgEfpNZSuyTNpSOoM), [Ramya Thayaparan](https://open.spotify.com/artist/6KYB4Y0VbDZctjudPJW64n) | [Tholayure Naane](https://open.spotify.com/album/0p0gT8n4fce9bX7mvElJpN) | 3:07 | 2023-03-21 |  |
 | [Vaa Poola](https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Vaa Poola](https://open.spotify.com/album/5zmj9MOy7GegpfEyoivwcv) | 2:35 | 2023-05-08 |  |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
+| [Valithathey](https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Valithathey](https://open.spotify.com/album/1mx2goQMmpZ4Xy08BMbo8F) | 2:01 | 2023-07-12 |  |
 | [Vannamayilae](https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf) | [A K PRRIYAN](https://open.spotify.com/artist/0awt0os7KJ5wBgHD5RV58o), [Akshaya Shivkumar](https://open.spotify.com/artist/3XQCmyhNSMPYoTRE7VVKWJ) | [Vannamayilae](https://open.spotify.com/album/6hcO0cW28GJfY0rWj0hqMU) | 3:07 | 2023-06-16 |  |
 | [Vengai Penne](https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Vengai Penne](https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB) | 3:22 | 2023-05-22 |  |
 | [Veruthu Pochu](https://open.spotify.com/track/5G8ax76K5ZmOgi2KRkaaDk) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:04 | 2023-03-21 |  |

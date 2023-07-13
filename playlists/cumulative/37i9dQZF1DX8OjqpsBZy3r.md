@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-160 songs - 8 hr 49 min
+161 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 | 2021-12-03 |  |
 | [Freight Train](https://open.spotify.com/track/6oo0HD3mrcYtzApYeYsS4L) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Freight Train](https://open.spotify.com/album/6oCWzZ0s3QMp1MJLKUV8QG) | 4:39 | 2022-02-11 |  |
 | [Gone Too Soon](https://open.spotify.com/track/07mnxqYqssab1EEBynCuQ4) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon](https://open.spotify.com/album/7gWVQxnmBpNv9ZacenAgd8) | 2:49 | 2021-12-03 | 2022-09-15 |
+| [Good Lookin'](https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr) | [Dixon Dallas](https://open.spotify.com/artist/2xmmjD4GfeJ5BRueLvPqec) | [Good Lookin'](https://open.spotify.com/album/1kqhSP2z6ZJJtYhEZYVZ0w) | 2:46 | 2023-07-12 |  |
 | [Good Riddance](https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [Good Riddance](https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz) | 2:22 | 2022-11-25 |  |
 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 | 2022-07-20 |  |
 | [Good Times Go By Too Fast](https://open.spotify.com/track/7INk3focyW89pATBgageU7) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Livin' My Best Life](https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0) | 2:49 | 2023-06-22 |  |

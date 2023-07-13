@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-281 songs - 14 hr 59 min
+282 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-07-26 | 2023-01-24 |
 | [Ritmo](https://open.spotify.com/track/6cl8QDkk4dwykg7XwXvNET) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/5kzBtWUO1HftW3QAdiUs0t) | 3:03 | 2022-05-25 | 2022-07-24 |
 | [Rubini \(feat\. Elisa\)](https://open.spotify.com/track/0LgTs0nP7zgSaCMQHGsnEh) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Ghettolimpo](https://open.spotify.com/album/28udVAojmZw3D133MwlQer) | 3:48 | 2022-04-27 | 2022-07-29 |
-| [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2022-04-27 |  |
+| [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2022-04-27 | 2023-07-13 |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p) | 3:57 | 2022-09-29 | 2022-12-17 |
 | [SAMSARA](https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [SAMSARA](https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2) | 2:28 | 2022-06-10 | 2022-07-27 |
 | [SaN LoREnZo \(feat\. Annalisa\) \- prod\. Yanomi](https://open.spotify.com/track/0sTiM4EWUkJe1em8SZCs8t) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [SaN LoREnZo \(feat\. Annalisa\) \- prod\. Yanomi](https://open.spotify.com/album/6tRd8BlJsTN7IW9MvNNeNZ) | 3:22 | 2022-04-27 | 2022-07-29 |
@@ -242,6 +242,7 @@
 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2022-07-26 |  |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-07-26 | 2023-06-24 |
 | [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-07-03 |  |
+| [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-12 |  |
 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 | 2022-04-27 | 2022-07-29 |
 | [SUPEREROI](https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPEREROI](https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn) | 3:15 | 2023-02-23 |  |
 | [SUPEREROI](https://open.spotify.com/track/42koUxIEdY4kVqcLRjp6uE) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPEREROI](https://open.spotify.com/album/1wCM2lec05I4cZ2u7dV7xU) | 3:15 | 2023-02-08 | 2023-02-24 |

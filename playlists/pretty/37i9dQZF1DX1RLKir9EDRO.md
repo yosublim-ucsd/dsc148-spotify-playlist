@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Bulutlar  Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,397 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,398 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yokuş](https://open.spotify.com/track/6FxhMQhVcb4BNkCB2lnDEF) | [nisan](https://open.spotify.com/artist/3aQGRAu09wYHPR1u9bVn2U) | [Yokuş](https://open.spotify.com/album/3CrnaIMOdwLov14sydUrm4) | 2:06 |
-| 2 | [Çok Anlamsız](https://open.spotify.com/track/3Bz93QnhOw06YkllvUokHE) | [Taş Kağıt Makas](https://open.spotify.com/artist/3XmqOy6FTEkvvm0fDz11Oe) | [Çok Anlamsız](https://open.spotify.com/album/5rlUyw8fGM2pyHtyaal7jk) | 4:40 |
-| 3 | [Kayboldum](https://open.spotify.com/track/3ybD8itWhQ6tAhvsij6exP) | [Bulutlar](https://open.spotify.com/artist/25MrrXb71oupZ8MHi6t61E) | [Kayboldum](https://open.spotify.com/album/0gYl4JaPvq3Et1tpL4AFBA) | 3:56 |
+| 1 | [Çok Anlamsız](https://open.spotify.com/track/3Bz93QnhOw06YkllvUokHE) | [Taş Kağıt Makas](https://open.spotify.com/artist/3XmqOy6FTEkvvm0fDz11Oe) | [Çok Anlamsız](https://open.spotify.com/album/5rlUyw8fGM2pyHtyaal7jk) | 4:40 |
+| 2 | [Kayboldum](https://open.spotify.com/track/3ybD8itWhQ6tAhvsij6exP) | [Bulutlar](https://open.spotify.com/artist/25MrrXb71oupZ8MHi6t61E) | [Kayboldum](https://open.spotify.com/album/0gYl4JaPvq3Et1tpL4AFBA) | 3:56 |
+| 3 | [Bitti Mi?](https://open.spotify.com/track/3Ih7lhLIyw0ufMeBg8lw0F) | [Ceren Kaan](https://open.spotify.com/artist/3n4DDdWeJRXjFev2FNFlrG) | [Bitti Mi?](https://open.spotify.com/album/3Q4mbsc3VQQSqKjCSsUe3m) | 1:56 |
 | 4 | [Ağaç Kabukları](https://open.spotify.com/track/0h12XwODRtzhQ7NlG9uR3R) | [GOSS](https://open.spotify.com/artist/4Jg1d2IdzvSjuOzbIRMu2f) | [Ağaç Kabukları](https://open.spotify.com/album/5FfYlSH73NT8QgZ2yQU6xV) | 2:56 |
-| 5 | [Bitti Mi?](https://open.spotify.com/track/3Ih7lhLIyw0ufMeBg8lw0F) | [Ceren Kaan](https://open.spotify.com/artist/3n4DDdWeJRXjFev2FNFlrG) | [Bitti Mi?](https://open.spotify.com/album/3Q4mbsc3VQQSqKjCSsUe3m) | 1:56 |
-| 6 | [Dikenler](https://open.spotify.com/track/2f6aKMd4YgaT0sqfhLfgak) | [Kübra Yiğit](https://open.spotify.com/artist/3EvlpiQA7Pehvl3MP9tY9n), [Sado](https://open.spotify.com/artist/1M7nOZMmTRlBUGXkPiVnGe) | [Dikenler](https://open.spotify.com/album/6czou3N2oJp06sEWL33yoG) | 2:39 |
-| 7 | [Bulamazlar Seni](https://open.spotify.com/track/3j2fugPFm1f8koPEBcX3ot) | [Nabıcaz](https://open.spotify.com/artist/78k8fo1xwd4ec0telN59Lu) | [Bulamazlar Seni](https://open.spotify.com/album/66Ucmc9rIFI4PGhUIx1q1a) | 4:00 |
-| 8 | [DELİRDİM](https://open.spotify.com/track/4yhXRYiezb6XpZONKjH17b) | [Mert Berkay](https://open.spotify.com/artist/2HwYO8TsT3lMjPwSy0rPK8) | [DELİRDİM](https://open.spotify.com/album/7lPuTJrbBhVl7Xm0YqirVh) | 2:44 |
-| 9 | [Yeter Anla](https://open.spotify.com/track/7HVaYtj4Tseh3QhA8L6NYS) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Yeter Anla](https://open.spotify.com/album/3AXaq3WedBOvZ56jbBKnsq) | 2:50 |
-| 10 | [Hipnotize](https://open.spotify.com/track/7baHcxIywll0SnQ58Yun6N) | [VAYT](https://open.spotify.com/artist/6KsFwZYaFE0jLzAD4Toasv) | [Hipnotize](https://open.spotify.com/album/0k14mDtFV3g6lOiQvbDKQu) | 3:23 |
-| 11 | [F\*ckboi](https://open.spotify.com/track/4nBHmlbfWlDQcMw4bo5tMn) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [F\*ckboi](https://open.spotify.com/album/4lPE4yWVsTDCivhSwM8AtN) | 3:43 |
+| 5 | [Dikenler](https://open.spotify.com/track/2f6aKMd4YgaT0sqfhLfgak) | [Kübra Yiğit](https://open.spotify.com/artist/3EvlpiQA7Pehvl3MP9tY9n), [Sado](https://open.spotify.com/artist/1M7nOZMmTRlBUGXkPiVnGe) | [Dikenler](https://open.spotify.com/album/6czou3N2oJp06sEWL33yoG) | 2:39 |
+| 6 | [Bulamazlar Seni](https://open.spotify.com/track/3j2fugPFm1f8koPEBcX3ot) | [Nabıcaz](https://open.spotify.com/artist/78k8fo1xwd4ec0telN59Lu) | [Bulamazlar Seni](https://open.spotify.com/album/66Ucmc9rIFI4PGhUIx1q1a) | 4:00 |
+| 7 | [Yeter Anla](https://open.spotify.com/track/7HVaYtj4Tseh3QhA8L6NYS) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Yeter Anla](https://open.spotify.com/album/3AXaq3WedBOvZ56jbBKnsq) | 2:50 |
+| 8 | [Hipnotize](https://open.spotify.com/track/7baHcxIywll0SnQ58Yun6N) | [VAYT](https://open.spotify.com/artist/6KsFwZYaFE0jLzAD4Toasv) | [Hipnotize](https://open.spotify.com/album/0k14mDtFV3g6lOiQvbDKQu) | 3:23 |
+| 9 | [F\*ckboi](https://open.spotify.com/track/4nBHmlbfWlDQcMw4bo5tMn) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [F\*ckboi](https://open.spotify.com/album/4lPE4yWVsTDCivhSwM8AtN) | 3:43 |
+| 10 | [Yokuş](https://open.spotify.com/track/6FxhMQhVcb4BNkCB2lnDEF) | [nisan](https://open.spotify.com/artist/3aQGRAu09wYHPR1u9bVn2U) | [Yokuş](https://open.spotify.com/album/3CrnaIMOdwLov14sydUrm4) | 2:06 |
+| 11 | [DELİRDİM](https://open.spotify.com/track/4yhXRYiezb6XpZONKjH17b) | [Mert Berkay](https://open.spotify.com/artist/2HwYO8TsT3lMjPwSy0rPK8) | [DELİRDİM](https://open.spotify.com/album/7lPuTJrbBhVl7Xm0YqirVh) | 2:44 |
 | 12 | [Ten](https://open.spotify.com/track/4YoEK5Q7xEEMKKUXqJGBBd) | [İnsan Mıyız](https://open.spotify.com/artist/6rhzUB6lAmzEpEDVkBIi7T) | [Ten](https://open.spotify.com/album/2hTodoOvZQYj3Yxpff46JW) | 3:30 |
 | 13 | [Sabah Altı](https://open.spotify.com/track/5KkIrkEC2ckANnhS4SZkoV) | [neptün’ün rüyası](https://open.spotify.com/artist/5vLs8u6ZXGddPTrJN0EjUK) | [Sabah Altı](https://open.spotify.com/album/51pGuESuzHVxZxPLn3mxGc) | 4:45 |
 | 14 | [Neden](https://open.spotify.com/track/6pLhHqfrzl7jqNaUlR4CeA) | [Dila Uzun](https://open.spotify.com/artist/6pRSJWlvCaNW3YOfk1pmx1) | [Neden](https://open.spotify.com/album/03IlNgchMUH2YbCUtn8SYF) | 1:55 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 73 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 | 74 | [Kuşat İçimi](https://open.spotify.com/track/3A5Rfhp00HX4r4RiMgkhCp) | [Gökhan Bayındır](https://open.spotify.com/artist/0JKjrjf9BmI7a5hI1ckUg0) | [Kuşat İçimi](https://open.spotify.com/album/6rVsYZmaZ6yOarutpHaTTw) | 4:18 |
 
-Snapshot ID: `MCxiMGU3OWQ4ZDJiMGEzZDAxMWE2NzRjMjkzMmVhM2IyMTJiYjZmMzI2`
+Snapshot ID: `MCw3NTBjOGNmNzEzYTk1OWNkMDM1YmY0YzA4M2M1ODE1ZTgyMTQyYzM4`

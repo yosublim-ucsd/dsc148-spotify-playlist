@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-314 songs - 1 day 3 hr 15 min
+315 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [On](https://open.spotify.com/track/2arFCnIZKZnFFl1OxQJCqV) | [The Soft Pink Truth](https://open.spotify.com/artist/1TzvxOvPV19Pr7UiCne5Ei) | [On](https://open.spotify.com/album/555B251cduEoLSwUfspLxF) | 4:42 | 2021-10-06 | 2022-07-21 |
 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/5oE9k6fuMgWqpGltV7zfsc) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/3OtMIEV8K692kqcjrlDbo9) | 3:36 | 2021-10-06 | 2023-06-28 |
 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/7ltD8Tp0wKA34z8ExG0YJI) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [On a Hilltop Sat the Moon](https://open.spotify.com/album/6ZpR1gHwplLNlSSzcRQlUY) | 3:36 | 2021-10-06 | 2022-07-28 |
+| [One Shy Morning](https://open.spotify.com/track/2e68tZQs1ZqhHYf60mwlEK) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Long Stories](https://open.spotify.com/album/0X9PhyGtg7jJ6Ry4uOfkFa) | 3:40 | 2023-04-21 |  |
 | [One Shy Morning](https://open.spotify.com/track/5qCu4qgbfF0781HAYBNd2z) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [One Shy Morning](https://open.spotify.com/album/4xe8D8bZ84cwgZ6BvTLyJD) | 3:40 | 2021-10-06 | 2022-07-29 |
 | [One Shy Morning](https://open.spotify.com/track/7i2bZi9EjbtOBWulvQikWm) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Long Stories](https://open.spotify.com/album/0MFiKAWcLvom0JfbFPBtu6) | 3:40 | 2021-10-06 | 2023-06-28 |
 | [Opaque Ke](https://open.spotify.com/track/7BSqF8wy4gbUhGCuIkxcRY) | [Richard Devine](https://open.spotify.com/artist/4GELr4GU5inBcvzDntZhvv) | [Sort\\Lave](https://open.spotify.com/album/3vOksFwYOLDvqvXbBBef6Z) | 4:03 | 2021-10-06 | 2022-06-05 |
@@ -242,7 +243,7 @@
 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 | 2021-10-06 | 2022-07-28 |
 | [Snowflakes](https://open.spotify.com/track/3PryCUaKSzRhMB0D1xr1Tt) | [Zabala](https://open.spotify.com/artist/1XsGvEIqRwfXb3iZ8Jq5cr) | [Vik](https://open.spotify.com/album/09VRYoZ63rZQujaRMwJO1w) | 2:54 | 2021-10-06 | 2022-07-22 |
 | [Solidarity Theme \(Release\)](https://open.spotify.com/track/1Qf5pKkuNCXCRz4OfHK5Ll) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/3YbEtVUAk5nfY4ZVSpdjJ6) | 3:25 | 2021-10-06 | 2022-07-25 |
-| [Solidarity Theme \(Release\)](https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD) | 3:25 | 2021-10-06 |  |
+| [Solidarity Theme \(Release\)](https://open.spotify.com/track/1yfM8QbSyuKL8XF9HcejBV) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [A Cambodian Spring OST](https://open.spotify.com/album/2fl8CRGeDa3JCX7RHP9lgD) | 3:25 | 2021-10-06 | 2023-07-13 |
 | [Solidit](https://open.spotify.com/track/1nfZXgLSdbR188vL2P7vrF) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Solidit](https://open.spotify.com/album/4Iu295PX9PaSbEpgcjdTAb) | 3:50 | 2021-10-06 | 2022-07-28 |
 | [Spirit](https://open.spotify.com/track/5ju6xqK60MEA8mxAnGQGFR) | [Tomas Nordmark](https://open.spotify.com/artist/0TBCJYEeBoQspLmeXE6Ixy) | [Spirit](https://open.spotify.com/album/6OefUdFlXkiUdNlh2QYJLG) | 6:22 | 2021-10-06 | 2022-07-29 |
 | [Spopolatore](https://open.spotify.com/track/6m0hPtzLEFhZcZqAIHlqUI) | [Valerio Tricoli](https://open.spotify.com/artist/5pgG0WAfRftFGmj05N0LsD) | [Say Goodbye To The Wind](https://open.spotify.com/album/2S9IkYjEwf2vNfu7B9HEJJ) | 25:44 | 2022-09-03 | 2022-12-04 |
@@ -255,7 +256,7 @@
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-06 | 2023-01-25 |
 | [Subtractive Skies](https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:46 | 2021-10-06 |  |
 | [Subtractive Skies](https://open.spotify.com/track/5TTxqNygjuZTh5ILVDN33r) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Subtractive Skies](https://open.spotify.com/album/3XbdBcwI4SE64f49Y92V54) | 6:46 | 2021-10-06 | 2022-07-29 |
-| [Sugi](https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ) | 3:52 | 2021-10-06 |  |
+| [Sugi](https://open.spotify.com/track/7hRCR3RepAA1LEK0iJfRoS) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/43Ut1iwUFTz52uVQPh8BIJ) | 3:52 | 2021-10-06 | 2023-07-13 |
 | [Suspension](https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j) | [Blue Carbon](https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j) | [Control Voltage](https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL) | 4:54 | 2022-01-07 |  |
 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 | 2021-10-06 | 2022-07-29 |
 | [Tape Loops and Expired Film](https://open.spotify.com/track/6DroDiBF5mmxH4YWctAyRP) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS), [Simonel](https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR) | [Endlessness](https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE) | 4:20 | 2022-12-21 | 2023-02-24 |
@@ -321,6 +322,6 @@
 | [You Were Always an Island](https://open.spotify.com/track/6e0Qx4lJaPmOUOVAOi9EWQ) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/0uegy8HcbYlg5k3TgImGu7) | 5:54 | 2021-10-06 | 2022-07-29 |
 | [You Were Always an Island](https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM) | 5:54 | 2023-04-21 |  |
 | [Zorza](https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/6c4KbagJQzxCyefFMUbRCi) | 5:36 | 2022-02-18 | 2022-10-18 |
-| [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 | 2023-04-10 |
+| [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 |  |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

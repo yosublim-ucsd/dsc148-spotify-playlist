@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Good Lookin'",
+        "url": "https://open.spotify.com/album/1kqhSP2z6ZJJtYhEZYVZ0w"
+      },
+      "artists": [
+        {
+          "name": "Dixon Dallas",
+          "url": "https://open.spotify.com/artist/2xmmjD4GfeJ5BRueLvPqec"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166839,
+      "name": "Good Lookin'",
+      "url": "https://open.spotify.com/track/1BHse4ulQefGTZZIeziZqr"
+    },
+    {
+      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/0wsFRTnDflqysvqN2YQ8dz"
       },

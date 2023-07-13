@@ -75,6 +75,32 @@
     },
     {
       "album": {
+        "name": "Acche Hain",
+        "url": "https://open.spotify.com/album/5Q875wNYcM8u0jQJav8mDt"
+      },
+      "artists": [
+        {
+          "name": "Raghav Sachar",
+          "url": "https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Acche Hain",
+      "url": "https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl"
+    },
+    {
+      "album": {
         "name": "Ajib Dastan Hai Yeh (Unplugged) - Single",
         "url": "https://open.spotify.com/album/2t1xnQ9YDu1awbshgKv8JU"
       },
@@ -112,7 +138,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 108648,
       "name": "Akela Rasta",
       "url": "https://open.spotify.com/track/6s7nj6WHYqpn8Ywm1rqFIx"
@@ -957,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Kaheen Dur",
+        "url": "https://open.spotify.com/album/1qSuMszKzt2pQUnBD4ZiDD"
+      },
+      "artists": [
+        {
+          "name": "Keshuv Huria",
+          "url": "https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Kaheen Dur",
+      "url": "https://open.spotify.com/track/3aao7Ivw6dX2JwadKVB86f"
+    },
+    {
+      "album": {
         "name": "Kaisi Jadugari",
         "url": "https://open.spotify.com/album/157Zl2ubrkwXp4w73P1uhL"
       },
@@ -1126,7 +1170,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 134686,
       "name": "Khidki - Acoustic",
       "url": "https://open.spotify.com/track/5PPlJZOvGzyMCNvE7bew43"
@@ -1330,7 +1374,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 152727,
       "name": "Kuch Kam",
       "url": "https://open.spotify.com/track/3sHxLZsqf3wGMMm80O0mWM"
@@ -1730,7 +1774,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 225391,
       "name": "Pahadon Mein",
       "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
@@ -2003,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Rehbara",
+        "url": "https://open.spotify.com/album/29zfqRveC9l8ngiYfVgszo"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        },
+        {
+          "name": "Gaurav Pahuja",
+          "url": "https://open.spotify.com/artist/25WsKcwA4b5G1OCONyIrit"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Rehbara",
+      "url": "https://open.spotify.com/track/2cE44TVmzUyCWBKM7qHmKo"
+    },
+    {
+      "album": {
         "name": "Roshni Ka Sira",
         "url": "https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo"
       },
@@ -2142,6 +2208,28 @@
       "duration_ms": 138387,
       "name": "Tabaahi (Stripped Down Version)",
       "url": "https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX"
+    },
+    {
+      "album": {
+        "name": "Tera Aasra",
+        "url": "https://open.spotify.com/album/0FVTyISjP50lQI9nLKLgG9"
+      },
+      "artists": [
+        {
+          "name": "Xeede",
+          "url": "https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu"
+        },
+        {
+          "name": "F Kaze",
+          "url": "https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "Tera Aasra",
+      "url": "https://open.spotify.com/track/2bt46Wc1gdlwLq4WA34Lwf"
     },
     {
       "album": {

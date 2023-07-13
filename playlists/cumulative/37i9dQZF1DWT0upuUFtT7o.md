@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Malcolm Todd
 
-1,671 songs - 3 day 19 hr 25 min
+1,672 songs - 3 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Celle\-là](https://open.spotify.com/track/3hm9gts2ixxMsPEn0MiH9G) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Grand Eugène](https://open.spotify.com/album/60doKMH86BYnApXvT5jeic) | 3:19 | 2023-06-14 |  |
 | [Cellophane Clocks](https://open.spotify.com/track/7zesRsb7TGqWL9jQGW51Pr) | [Pastel Blank](https://open.spotify.com/artist/4v8MCErhmubUGQhwRVbnlN) | [Pastel Blanc](https://open.spotify.com/album/49k68kE48gC9GrxjnW2FW9) | 2:58 | 2022-06-15 | 2022-08-04 |
 | [Centerfold](https://open.spotify.com/track/3WvZkJtLeLmfSTqKdkCEKf) | [Lino City](https://open.spotify.com/artist/5CsXFUltfWQoIvYyTm0esr) | [Centerfold](https://open.spotify.com/album/5OYVm1nMnlDoBXQlhq8EGw) | 3:21 | 2023-04-05 | 2023-05-11 |
+| [Centurion](https://open.spotify.com/track/7fiJNhbMnYNv9jbFFaPQ0l) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [Radial Gate](https://open.spotify.com/album/71rikQrO1rt7hMQlDBBliD) | 3:14 | 2023-07-12 |  |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2021-12-01 | 2022-01-13 |
 | [Chalet](https://open.spotify.com/track/3SnK4cLU1vts5ne0mOdO7b) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Access Music 2](https://open.spotify.com/album/6HOSH8Iw3DtsXIld2avr76) | 1:42 | 2023-07-11 |  |
 | [changes](https://open.spotify.com/track/7J3dgWROCXy7RwM19W7fhU) | [sqip](https://open.spotify.com/artist/6DL4rhjtux4udnPtjnFy1B) | [battery](https://open.spotify.com/album/6qj4cOCtxW37c5uFNrztZS) | 2:27 | 2022-02-22 | 2023-01-12 |
@@ -753,7 +754,7 @@
 | [I'm the Worst](https://open.spotify.com/track/2I4xh0vVMx8s4oYKUzEP9X) | [George Walter](https://open.spotify.com/artist/74j8oazVmb4zM1gmwvrc55) | [I'm the Worst](https://open.spotify.com/album/7gpZjRx5cCeyMxOIgio5zc) | 3:25 | 2022-06-15 | 2022-07-28 |
 | [I've Been Down](https://open.spotify.com/track/6s348P3lE2BG407uh6O14O) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [I've Been Down](https://open.spotify.com/album/2Y2JywTnozozQlbCT3pHby) | 4:18 | 2022-08-10 | 2022-09-29 |
 | [I've Been Saying This](https://open.spotify.com/track/54GwQeaUnlH84uG0tNRvmT) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [I've Been Saying This](https://open.spotify.com/album/2mrVRburW7kKYjl8hX9AaF) | 3:38 | 2023-01-11 | 2023-02-02 |
-| [I've Got Me](https://open.spotify.com/track/3ycUiQlR8oJVxHAisll4a3) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [People Are Toys to You](https://open.spotify.com/album/6Yg2tFy4jutgIkuNMkd6yL) | 2:16 | 2023-06-20 |  |
+| [I've Got Me](https://open.spotify.com/track/3ycUiQlR8oJVxHAisll4a3) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [People Are Toys to You](https://open.spotify.com/album/6Yg2tFy4jutgIkuNMkd6yL) | 2:16 | 2023-06-20 | 2023-07-13 |
 | [Ice Sandwich](https://open.spotify.com/track/3rZ2D1enCn9fij6u1MJofp) | [Cave Story](https://open.spotify.com/artist/1VJmUKy8XJ1gecAv2KRUDx) | [Wide Wall, Tree Tall](https://open.spotify.com/album/0cmItgB2WpuedJqKKTxhqC) | 1:44 | 2023-04-12 | 2023-05-18 |
 | [Iceberg](https://open.spotify.com/track/6cnzQLG56RY55Uff8BGR3j) | [Headband Henny](https://open.spotify.com/artist/5TVg3o43tfrceLxSCPTvro) | [Iceberg](https://open.spotify.com/album/0MIlv8Z9218XtPNw6kcVq4) | 3:10 | 2023-03-01 | 2023-03-23 |
 | [IDK YOU](https://open.spotify.com/track/22Zey6Vk0e2lAkS1dsJ2CR) | [Caroline & Claude](https://open.spotify.com/artist/31KYVnV5N4VuzjfBXPZMMl) | [IDK YOU](https://open.spotify.com/album/2l9ESmzg5WmxwBCYkaTAHz) | 2:46 | 2022-06-15 | 2022-07-28 |

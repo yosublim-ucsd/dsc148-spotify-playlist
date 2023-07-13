@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 88426,
+  "num_followers": 88495,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjJhMGQ1MTQ4NjUyYjgzNWU0MzRjMDJkNDgzZjUyMWM2YmM2ZmI1",
+  "snapshot_id": "MCxkNzNmMzE1NjFiNTY0NDEzMzBmNjI3MjIyNmQyMTA3NzE3ZjRjMDY4",
   "tracks": [
     {
       "added_at": "2023-04-12 09:27:22",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Yashak Amar",
-        "url": "https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 372295,
-      "name": "Malhomsh Fel Tayeb",
-      "url": "https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Rege'et Wahdi",
         "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 193375,
       "name": "Al Yadi El Yadi",
       "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Yashak Amar",
+        "url": "https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 372295,
+      "name": "Malhomsh Fel Tayeb",
+      "url": "https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Lolaki",
-        "url": "https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow"
-      },
-      "artists": [
-        {
-          "name": "Ali Hemeida",
-          "url": "https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af"
-        }
-      ],
-      "duration_ms": 280099,
-      "name": "Lolaki",
-      "url": "https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Sahrany",
         "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 259613,
       "name": "Sahrany",
       "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Lolaki",
+        "url": "https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow"
+      },
+      "artists": [
+        {
+          "name": "Ali Hemeida",
+          "url": "https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af"
+        }
+      ],
+      "duration_ms": 280099,
+      "name": "Lolaki",
+      "url": "https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl"
     },
     {
       "added_at": "2023-04-12 09:27:22",

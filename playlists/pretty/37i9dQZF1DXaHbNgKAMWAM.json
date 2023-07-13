@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11991,
+  "num_followers": 12003,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDhjMjU3NGMzZmRmYzA0YTM0MDQyMGUyYmQ4ZGEyMzJiYTM2ZGZl",
+  "snapshot_id": "MCw1MGYzODhmYWZkZDE1MDI1OTg1ZWVkNGU4OWJmY2Q4NWYzZjhmMjMy",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:59",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "duration_ms": 231001,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "While You Were Sleeping, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3YjVFUQz5w1bXIi3QfqVmx"
-      },
-      "artists": [
-        {
-          "name": "HENRY",
-          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
-        }
-      ],
-      "duration_ms": 231001,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/61OtYav1fiUCr73JwZD2Sb"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Twenty (Prod. Jung Key)",
+        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
+      },
+      "artists": [
+        {
+          "name": "SWAN",
+          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "Twenty (Prod. Jung Key)",
+      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
-        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "With me",
-      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Beige coat",
         "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
       },
@@ -455,6 +455,42 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "With me",
+      "url": "https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "World Peace Project Vol.2",
+        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
       },
@@ -467,22 +503,6 @@
       "duration_ms": 189575,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Twenty (Prod. Jung Key)",
-        "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
-      },
-      "artists": [
-        {
-          "name": "SWAN",
-          "url": "https://open.spotify.com/artist/0f6RsSHeOqHSYInigIXD0g"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "Twenty (Prod. Jung Key)",
-      "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -515,22 +535,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
-        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
-      },
-      "artists": [
-        {
-          "name": "SECRET NUMBER",
-          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
@@ -547,22 +551,18 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "World Peace Project Vol.2",
-        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
+        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
+        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
         }
       ],
-      "duration_ms": 220040,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
+      "duration_ms": 250293,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "1,2,3..",
-        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 156560,
-      "name": "ANYWHERE ANYTIME",
-      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 237030,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
-      },
-      "artists": [
-        {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
-        }
-      ],
-      "duration_ms": 169930,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
       },
@@ -863,6 +863,26 @@
       "duration_ms": 224394,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "with you (feat. g0nny)",
+        "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
+      },
+      "artists": [
+        {
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "with you (feat. g0nny)",
+      "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -931,22 +951,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "FRR",
         "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
       },
@@ -963,6 +967,38 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "SummerSweet",
+        "url": "https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "SummerSweet",
+      "url": "https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
       },
@@ -975,42 +1011,6 @@
       "duration_ms": 244764,
       "name": "I Will Be By Your Side",
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "You Move Me (feat. SUNG SI KYUNG)",
-      "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "INTERVIEW",
-        "url": "https://open.spotify.com/album/0woMyvkTKuCuiMLvUi3BsH"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Good For You",
-      "url": "https://open.spotify.com/track/1L9X1uzSZoPwyVzFOIOKDh"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

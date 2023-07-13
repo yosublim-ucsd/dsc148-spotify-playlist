@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: glaive
 
-2,293 songs - 5 day 3 hr 16 min
+2,294 songs - 5 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 | 2022-09-23 | 2022-11-05 |
 | [Dance For You](https://open.spotify.com/track/4FYwIzkDDhbNOUavfsznEA) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Dance For You](https://open.spotify.com/album/6Hlc4DZJeIgTCVeAFJnB9W) | 3:21 | 2022-05-27 | 2022-06-22 |
 | [Dance Like U](https://open.spotify.com/track/1xCwzlJ0pXrAQfh5B09eZ3) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Both](https://open.spotify.com/album/0hox2EUyClXESGW5BupW8F) | 2:50 | 2022-05-31 | 2022-06-16 |
-| [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Shrt\_lyf](https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 |  |
+| [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 |  |
 | [dancefloor](https://open.spotify.com/track/18pa8bezpm5gRKLI7kKkZX) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [dancefloor](https://open.spotify.com/album/14JBNBCOzUUt96BtB7ak0k) | 3:18 | 2019-11-16 | 2020-02-05 |
 | [Dancing in My Room](https://open.spotify.com/track/7CCCX50zGHMTuHsyKQy03l) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Dancing in My Room](https://open.spotify.com/album/0dwXkSf1hMjZgqKUkeoR4l) | 3:00 | 2020-10-30 | 2021-12-02 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 | 2023-06-24 |
@@ -533,7 +533,7 @@
 | [dio](https://open.spotify.com/track/5bW37bLG2ILFlcLYRK8AU6) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [dio](https://open.spotify.com/album/29An9NhsVyvryv1cob9ou8) | 3:30 | 2020-05-28 | 2020-07-01 |
 | [Dipshit](https://open.spotify.com/track/4cIWpQMGFZWEuGW0TWMDjT) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Dipshit](https://open.spotify.com/album/06tbprIHnAibGPy6s6mkPI) | 2:37 | 2022-01-07 | 2022-02-26 |
 | [Dirty AF1s](https://open.spotify.com/track/6fFSDDBO5Gc9Y2i2CA8vZI) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Dirty AF1s](https://open.spotify.com/album/7kmC7MX2wr5FvAqUrcQqsU) | 2:17 | 2019-07-30\* | 2019-08-08 |
-| [Dirty Work](https://open.spotify.com/track/3DkUgVtUFy1LLbncWgsMHA) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Energy \(Expanded Edition\)](https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH) | 3:35 | 2023-07-07 |  |
+| [Dirty Work](https://open.spotify.com/track/3DkUgVtUFy1LLbncWgsMHA) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Energy \(Expanded Edition\)](https://open.spotify.com/album/1aKaiiPUuycMQa4ugZXArH) | 3:35 | 2023-07-07 | 2023-07-13 |
 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2019-07-30\* | 2020-10-20 |
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-06-11 | 2021-08-14 |
 | [Disbeliever](https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL) | 1:55 | 2022-07-27 | 2022-09-10 |
@@ -1195,6 +1195,7 @@
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-25 | 2021-12-02 |
 | [Liz](https://open.spotify.com/track/5wJ9sSG7NItwu34jMnyxqa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liz](https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC) | 2:55 | 2021-06-02 | 2022-04-21 |
 | [LMK](https://open.spotify.com/track/0ZnlOLCEgWytG4MXmOJ8ek) | [Drauve](https://open.spotify.com/artist/3amCA9U9lgity9TZs1MENn) | [LMK](https://open.spotify.com/album/1j30wLUJBclPt1yCmdlaQR) | 2:46 | 2020-08-20 | 2020-09-12 |
+| [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [Locals \(Girls like us\) \[with gabby start\]](https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX) | 4:18 | 2023-07-12 |  |
 | [Loneliness](https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loneliness](https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx) | 3:27 | 2022-06-24 | 2022-08-06 |
 | [Loneliness Pt\. II](https://open.spotify.com/track/1JeMiZSw82XdNMuDjFKHrR) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Loneliness Pt\. II](https://open.spotify.com/album/14EzL3QxMBzbzZdrjtFy31) | 3:32 | 2020-09-04 | 2020-09-15 |
 | [Lonely](https://open.spotify.com/track/4Biop1OnRXnezWWm0NlFQC) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura \(Extended\)](https://open.spotify.com/album/6zmVEzMyhSJCqggKxTtFJY) | 3:33 | 2021-06-05 | 2021-06-11 |
@@ -2018,7 +2019,7 @@
 | [The 1975](https://open.spotify.com/track/6sQeHBkvilt6ycKfnJMki4) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/5djTpOucD83kTKF9ETjBwW) | 4:55 | 2020-05-22 | 2020-05-27 |
 | [The Afterparty](https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty](https://open.spotify.com/album/62WN4KZgA7iRqzx5lbOMNi) | 3:34 | 2023-03-17 | 2023-04-09 |
 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 | 2022-12-07 | 2023-03-18 |
-| [The Blonde](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:47 | 2023-04-05 |  |
+| [The Blonde](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:47 | 2023-04-05 | 2023-07-13 |
 | [THE BOTTOM](https://open.spotify.com/track/5q4fICuQraX0rP42UrTWop) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Sofia D'Angelo](https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5) | [HEATWAVE](https://open.spotify.com/album/2w2EaxZJZx4xXXBh813SRB) | 3:39 | 2019-09-27 | 2020-04-02 |
 | [the car](https://open.spotify.com/track/32XLmgI34ifOm9UAzq3RFS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [the car](https://open.spotify.com/album/2oOjAHADWlfAfYTFlWhcVl) | 2:59 | 2023-06-30 |  |
 | [The Door](https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [The Door](https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5) | 3:31 | 2021-12-11 | 2022-02-26 |

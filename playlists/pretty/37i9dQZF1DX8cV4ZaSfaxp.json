@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: \bChoi HEART(\ucd5c\ud558\ud2b8)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 43071,
+  "num_followers": 43124,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWViMmVkMWJhNWJmMmUwZmQ2MjAyMDk0ZDIzNTBiYjcyODlhZjZk",
+  "snapshot_id": "MCw4OWI0ZTEyZDJmOTE3Y2YxM2M5MzM3ZDA0NGM4MmJlOWU2YWFhMTEw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:50:56",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
-      },
-      "artists": [
-        {
-          "name": "JuJu Secret",
-          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "Perfect Velvet - The 2nd Album",
         "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 245598,
       "name": "Look",
       "url": "https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
+      },
+      "artists": [
+        {
+          "name": "JuJu Secret",
+          "url": "https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
-      },
-      "artists": [
-        {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "FREE`SM",
         "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 252903,
       "name": "After a long time(Digging Club Seoul Ver.)",
       "url": "https://open.spotify.com/track/6PJ1sh2oLgYQE9hpUivC8k"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
+      },
+      "artists": [
+        {
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -775,6 +775,26 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
+        "name": "Color of Night",
+        "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
+      },
+      "artists": [
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 209156,
+      "name": "Thinking About You (feat. SUMIN)",
+      "url": "https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -823,22 +843,18 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Color of Night",
-        "url": "https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN"
+        "name": "[#]",
+        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
       },
       "artists": [
         {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
-        },
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
         }
       ],
-      "duration_ms": 209156,
-      "name": "Thinking About You (feat. SUMIN)",
-      "url": "https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT"
+      "duration_ms": 202893,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -855,22 +871,6 @@
       "duration_ms": 188573,
       "name": "Why",
       "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
-        "name": "[#]",
-        "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/1W9fuK1bUimZRvyckkQR05"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
         "name": "A song from the past",
         "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 235293,
       "name": "A song from the past",
       "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
         "name": "THIS CITY",
         "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+        "name": "AOA 4th Mini Album Good Luck",
+        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
       },
       "artists": [
         {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
         }
       ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+      "duration_ms": 236031,
+      "name": "10 Seconds",
+      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1291,18 +1307,34 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "AOA 4th Mini Album Good Luck",
-        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
+        "name": "I ZIP",
+        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
       },
       "artists": [
         {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
         }
       ],
-      "duration_ms": 236031,
-      "name": "10 Seconds",
-      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+      "duration_ms": 190287,
+      "name": "Diver",
+      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1379,38 +1411,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "I ZIP",
-        "url": "https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 190287,
-      "name": "Diver",
-      "url": "https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "[COSMOS]",
         "url": "https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "\uc120\ub370\uc774\uc11c\uc6b8 Ep.1 Sunday Seoul Ep.1",
         "url": "https://open.spotify.com/album/0e1xGcRS9hvmVjfDRaFK6V"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 190363,
       "name": "\ubd88\uc744 \ubc1d\ud600\uc918 Give Me The Light",
       "url": "https://open.spotify.com/track/1kTFcaOrSmY4XqneDu3oRm"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2023-07-07 15:50:56",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-07 15:50:56",
       "album": {
-        "name": "Shining Love Song",
-        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Shining Love Song",
-      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
-    },
-    {
-      "added_at": "2023-07-07 15:50:56",
-      "album": {
         "name": "RE_vive",
         "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 232906,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
+    },
+    {
+      "added_at": "2023-07-07 15:50:56",
+      "album": {
+        "name": "Shining Love Song",
+        "url": "https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Shining Love Song",
+      "url": "https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5"
     },
     {
       "added_at": "2023-07-07 15:50:56",

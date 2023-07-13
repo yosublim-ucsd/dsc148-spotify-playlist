@@ -1108,10 +1108,28 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 241890,
       "name": "call your name",
       "url": "https://open.spotify.com/track/1snkssvlrMIAtqv4ADS4IL"
+    },
+    {
+      "album": {
+        "name": "Call Your Name",
+        "url": "https://open.spotify.com/album/3p7SxKPzfrVf5ipQyhZpDH"
+      },
+      "artists": [
+        {
+          "name": "Katagiri",
+          "url": "https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241890,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/3pRl5QoiepOfraAbXTRvkN"
     },
     {
       "album": {
@@ -2796,6 +2814,24 @@
       "duration_ms": 221626,
       "name": "Guide",
       "url": "https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN"
+    },
+    {
+      "album": {
+        "name": "Guruguru Live",
+        "url": "https://open.spotify.com/album/3bkqSeYL7wnAqEvDr7zRYc"
+      },
+      "artists": [
+        {
+          "name": "\u7531\u5d0e\u53f8(CV:\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/3DZPDkF2LcgJBefu3J1k6k"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232266,
+      "name": "Guruguru Live",
+      "url": "https://open.spotify.com/track/1vdYPvIKC9ekIGbUWmTP2z"
     },
     {
       "album": {
@@ -4623,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "Masquerade Parade",
+        "url": "https://open.spotify.com/album/7v57E9Kbu6Di4AXnCBkqm5"
+      },
+      "artists": [
+        {
+          "name": "Qujila Yoluno Machi",
+          "url": "https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234768,
+      "name": "Masquerade Parade",
+      "url": "https://open.spotify.com/track/5WXr7EX614ZvEPgsAIBScz"
+    },
+    {
+      "album": {
         "name": "Mayonakano Love",
         "url": "https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65"
       },
@@ -4638,6 +4692,24 @@
       "duration_ms": 203007,
       "name": "Mayonakano Love",
       "url": "https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr"
+    },
+    {
+      "album": {
+        "name": "Megane-Go-Round \"TV Size ver.\"",
+        "url": "https://open.spotify.com/album/1Li5RK1m4HTSlZffbbzk66"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30b5\u30e8\u30b7\u304c\u3081\u304c\u306d\u3092\u5fd8\u308c\u305f(\u5c0f\u6751\u304f\u3093\u3068\u4e09\u91cd\u3055\u3093\u3068\u30aa\u30fc\u30a4\u30b7\u30de\u30b5\u30e8\u30b7)",
+          "url": "https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89999,
+      "name": "Megane-Go-Round (TV Size ver.)",
+      "url": "https://open.spotify.com/track/2ujULpZIqhy51LfAlScicJ"
     },
     {
       "album": {
@@ -4981,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "NAME \"TV Size ver.\"",
+        "url": "https://open.spotify.com/album/3q9yB2HwObUmITSbTmdMV6"
+      },
+      "artists": [
+        {
+          "name": "\u7db4",
+          "url": "https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89180,
+      "name": "NAME (TV Size ver.)",
+      "url": "https://open.spotify.com/track/3va1rkFz1ARYv4TffRBDfo"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u597d\u304d\u306a\u5b50\u304c\u3081\u304c\u306d\u3092\u5fd8\u308c\u305f\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u4e3b\u984c\u6b4c\u300cNAME(TV Size ver.)\u300d",
         "url": "https://open.spotify.com/album/6iOoHdDciwgHuPUcopPrJe"
       },
@@ -4992,7 +5082,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 89180,
       "name": "NAME(TV Size ver.)",
       "url": "https://open.spotify.com/track/0cBvsNgb7JqPpxRrBCcM8m"
@@ -5584,10 +5674,28 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 198813,
       "name": "plan",
       "url": "https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN"
+    },
+    {
+      "album": {
+        "name": "plan",
+        "url": "https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198813,
+      "name": "plan",
+      "url": "https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN"
     },
     {
       "album": {
@@ -8510,7 +8618,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 232266,
       "name": "\u3050\u308b\u3050\u308b\u30e9\u30a4\u30d6",
       "url": "https://open.spotify.com/track/0W0oIMDkidj8ARTrj3uDnR"
@@ -10838,7 +10946,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 234768,
       "name": "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/11yqHR8bPt3tiHNX3oYh9F"
@@ -10948,7 +11056,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 89999,
       "name": "\u30e1\u30ac\u30cd\u30b4\u30fc\u30e9\u30a6\u30f3\u30c9(TV Size ver.)",
       "url": "https://open.spotify.com/track/3Ri3m65bLBgqSQjOPftACw"
@@ -14410,7 +14518,7 @@
       },
       "artists": [
         {
-          "name": "\u30ad\u30bf\u30cb\u30bf\u30c4\u30e4",
+          "name": "Tatsuya Kitani",
           "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],

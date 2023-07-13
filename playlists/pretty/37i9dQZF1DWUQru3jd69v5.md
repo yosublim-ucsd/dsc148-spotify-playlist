@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Tony Boy in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,403 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,422 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Nme](https://open.spotify.com/track/6VrAWtlbVpcbDTfvnqDDE2) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [Ngaaka Blinde](https://open.spotify.com/artist/6JBweZ5NTBmZ8rJhDrb902) | [Nme](https://open.spotify.com/album/1zciW0jZ81O6sslkqDkkNb) | 3:32 |
 | 50 | [Il mio mestiere](https://open.spotify.com/track/0M8OyJXJdKSULM0gSubhUZ) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [GREZZO 4](https://open.spotify.com/album/2sNjVoJDdwgsKmhxX44rJJ) | 2:21 |
 
-Snapshot ID: `MCw4NjFlMWVjOGMwOGE5YjljNGE2ODg1OWEzOTJiMzg3MzBhY2U4ZDRj`
+Snapshot ID: `MCw5NTkxMzFkZDI4NmEwYzQ3YWJlZGM0NDNkMzkwNzM5YjQ3YjU0ZjYz`

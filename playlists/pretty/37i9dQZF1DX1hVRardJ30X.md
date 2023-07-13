@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Nicky Jam, Maluma & The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,156 likes - 54 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,249 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [EN LA MIA](https://open.spotify.com/track/1TfqRVmFP6vAWKrnsXvoiV) | [D2OS](https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz) | [EN LA MIA](https://open.spotify.com/album/2HpneKcoRlNwTe5UFlQOqJ) | 3:44 |
 | 54 | [Pégate A Mí](https://open.spotify.com/track/5VkcxCJw61fpIUTMdB2uMe) | [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM) | [Pégate A Mí](https://open.spotify.com/album/7DIDO6wJAZ7xg9FqHb3Us9) | 3:52 |
 
-Snapshot ID: `MCw4NzcxMWEyMmU5YjhiNTA4MGRkMzY3ZjY1Y2MwODA3ZmJhMjVjODM3`
+Snapshot ID: `MCxmOTBmNDkwYzUzNWI5NTJmZGYxNzk0YTNlM2M5NzRkOGQ0M2VkMDIy`

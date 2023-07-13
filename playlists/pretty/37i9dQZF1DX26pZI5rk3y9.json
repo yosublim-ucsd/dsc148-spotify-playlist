@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5829,
+  "num_followers": 5834,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTkzOGU2OWVjZjcyMDg4YzMzYzFhNzU1ODkwNzZiMjFmNWQwMjE4",
+  "snapshot_id": "MCw3NmEwZGVkMTVjYzEwNWVmMThjZTI2ZTFhODhmOWNiZDA4MjJjN2Y0",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "What Goes Around (Comes Around)",
         "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 216845,
       "name": "What Goes Around (Comes Around)",
       "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "What Can I Do?",
-        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
+        "name": "Dirt Woman Blues",
+        "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
       },
       "artists": [
         {
-          "name": "The Black Belles",
-          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
         }
       ],
-      "duration_ms": 186013,
-      "name": "What Can I Do?",
-      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
+      "duration_ms": 247319,
+      "name": "Well Well Well",
+      "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Dirt Woman Blues",
-        "url": "https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum"
+        "name": "What Can I Do?",
+        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
       },
       "artists": [
         {
-          "name": "Gr\u00e1inne Duffy",
-          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
+          "name": "The Black Belles",
+          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
         }
       ],
-      "duration_ms": 247319,
-      "name": "Well Well Well",
-      "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
+      "duration_ms": 186013,
+      "name": "What Can I Do?",
+      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Unhinged",
+        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+      },
+      "artists": [
+        {
+          "name": "Dom Martin",
+          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+        }
+      ],
+      "duration_ms": 203338,
+      "name": "Unhinged",
+      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Eric (Long Live The King)",
         "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR"
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
       },
       "artists": [
         {
-          "name": "Dom Martin",
-          "url": "https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ"
+          "name": "Jonathan Plevyak",
+          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
         }
       ],
-      "duration_ms": 203338,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/41N74tDfqzG242pQe16lSE"
+      "duration_ms": 131354,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -427,22 +443,6 @@
       "duration_ms": 214500,
       "name": "Gotta Bleed - Remix",
       "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Plevyak",
-          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
-        }
-      ],
-      "duration_ms": 131354,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Mexico (I Want You Back)",
+        "url": "https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 248555,
       "name": "Can Opener",
       "url": "https://open.spotify.com/track/0g9eLW4RaSBuAJU0XtA6nc"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Mexico (I Want You Back)",
-        "url": "https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Stop Signs and Fence Lines",
-        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
-      },
-      "artists": [
-        {
-          "name": "Jericho Woods",
-          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
-        }
-      ],
-      "duration_ms": 170854,
-      "name": "Ten Beer Job",
-      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Roads Go On Forever",
         "url": "https://open.spotify.com/album/2uUkCyIKlmyuuubILslx2o"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237613,
       "name": "Keep On Rocking",
       "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Stop Signs and Fence Lines",
+        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
+      },
+      "artists": [
+        {
+          "name": "Jericho Woods",
+          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
+        }
+      ],
+      "duration_ms": 170854,
+      "name": "Ten Beer Job",
+      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
     },
     {
       "added_at": "2023-06-30 00:01:00",

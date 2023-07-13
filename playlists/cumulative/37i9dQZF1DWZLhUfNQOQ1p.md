@@ -4,7 +4,7 @@
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-265 songs - 17 hr 2 min
+266 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2023-05-14 | 2023-05-30 |
 | [Curious Eyes](https://open.spotify.com/track/7F0wdlppROi8NADjQvsql6) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Runnin' With Curious Eyes](https://open.spotify.com/album/7jm9usCJVL352gaZxZmhS2) | 3:25 | 2021-08-05 | 2022-07-28 |
 | [Dance Boys \(Feat\. Paulita Demaíz\)](https://open.spotify.com/track/0h7r57THNIdUrOYmPT7Zya) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Tonight](https://open.spotify.com/album/7FPRkvo8RatLUCmByPgmFT) | 3:45 | 2023-05-14 | 2023-05-30 |
+| [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-07 |  |
 | [Danza Organica](https://open.spotify.com/track/4bLuMAVUgd6nATmUt6K65p) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Italianissimo EP](https://open.spotify.com/album/0nHgSQx4sKmFItKIm8M8rt) | 3:00 | 2023-05-14 | 2023-05-30 |
 | [Domicile Conjugal](https://open.spotify.com/track/4zFn08n1iWgWZhcn8HYE0g) | [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Domicile Conjugal](https://open.spotify.com/album/4BltUMukeIAR8Gw3F3jB8H) | 2:46 | 2023-05-14 | 2023-05-30 |
 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 | 2021-08-05 | 2023-05-31 |
@@ -120,7 +121,7 @@
 | [It's alright](https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [It's alright](https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML) | 3:16 | 2021-08-05 | 2023-05-31 |
 | [It's Not Over](https://open.spotify.com/track/3Wwb6lBoMKXTPoB5xdmI7S) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [It's Not Over \- Single](https://open.spotify.com/album/4QJpwFdMAo1dRVgviLV855) | 5:48 | 2021-08-05 | 2022-07-26 |
 | [Ithaque](https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [Ithaque](https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp) | 3:09 | 2023-05-30 |  |
-| [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2023-05-30 |  |
+| [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 | 2023-05-30 | 2023-07-13 |
 | [Joys](https://open.spotify.com/track/2owws8NRqfPUdIn3Uag7Yp) | [Roberto Surace](https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G) | [Joys](https://open.spotify.com/album/5dwpmQPOTG6rm25LfSXOR0) | 2:15 | 2023-06-21 |  |
 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2023-05-30 |  |
 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 | 2021-08-05 | 2023-05-31 |

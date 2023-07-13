@@ -4,7 +4,7 @@
 
 > Let your stress melt away while you work up a sweat.
 
-247 songs - 13 hr 47 min
+248 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,8 @@
 | [Santa Monica](https://open.spotify.com/track/5cEJdYcgOYcW6dzeDyVbpf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Santa Monica](https://open.spotify.com/album/3MEMNDcqRk8bKprYrIbEHW) | 3:50 | 2022-03-03 | 2023-06-02 |
 | [Save Me from Myself](https://open.spotify.com/track/0nGDvPqbLFdAK6YSnup81H) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 2](https://open.spotify.com/album/1GcwB9rGjefLQTB99KuCyL) | 3:17 | 2022-10-14 | 2022-11-13 |
 | [Save Me from Myself](https://open.spotify.com/track/0oJdAKfEck3cQxi28lExu2) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/5Dwcw0QHLkYGoShk5qXiob) | 3:17 | 2022-03-03 | 2022-07-29 |
-| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-06-03 |  |
+| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-06-03 | 2023-07-13 |
+| [Save Me From Myself](https://open.spotify.com/track/39ldhlm119RIWwXICpBEkU) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me From Myself](https://open.spotify.com/album/59Y8SthRcQhmt3N5manpIb) | 3:17 | 2023-06-22 |  |
 | [Say](https://open.spotify.com/track/2kowzxt2lnJhw9yQqOOG2n) | [The Albertson Duo](https://open.spotify.com/artist/0jbFImQ3Ja4NWpzob434nE) | [Say](https://open.spotify.com/album/5gOVhTYiwAK8EbmgaPWVfB) | 3:22 | 2022-03-03 | 2022-12-10 |
 | [Say Yes](https://open.spotify.com/track/4nYxHYLezGh4WWuEEjIoPs) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/4R2L1qKpRFHkpFdDbJlgE2) | 2:21 | 2022-03-03 | 2022-07-29 |
 | [Say Yes](https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/5l4P7N8kapeqHFOysjbj3H) | 2:21 | 2022-06-03 |  |

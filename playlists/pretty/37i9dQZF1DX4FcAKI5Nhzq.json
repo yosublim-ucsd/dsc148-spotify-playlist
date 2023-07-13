@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: ZEROBASEONE",
-  "num_followers": 767471,
+  "num_followers": 767655,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDc3MThmZjYyNDZlZTYyNDBjN2I3OGJmZDk3ZGY2ZjY5OGRiZDhi",
+  "snapshot_id": "MCwyN2RmZmNkZmFhODAwNjcyMTQ4N2RjYjMzMWQyYjUzZjZmZTRiYWY3",
   "tracks": [
+    {
+      "added_at": "2023-07-12 08:26:11",
+      "album": {
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 182240,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
+    },
     {
       "added_at": "2023-07-10 09:21:21",
       "album": {
@@ -775,22 +791,6 @@
       "duration_ms": 202053,
       "name": "Groovy",
       "url": "https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph"
-    },
-    {
-      "added_at": "2023-07-10 09:21:21",
-      "album": {
-        "name": "KARD 3rd Digital Single 'Without You'",
-        "url": "https://open.spotify.com/album/1m0yu7SisKNI9DJSIduL22"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 210053,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/3UxfcEYFo3iU6WullUvM9x"
     },
     {
       "added_at": "2023-07-10 09:21:21",

@@ -1,12 +1,12 @@
 {
   "description": "Las canciones alternativas que definieron el 2022 en Hispanoam\u00e9rica. Marilina Bertoldi y Javiera Mena en portada.",
-  "num_followers": 2606,
+  "num_followers": 2613,
   "original_name": "Lo mejor del Indie y Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2ZhM2ZjYmQzMDYzMzJjYWZlMTNjNzEyM2JmMGI0MThkZmM0NjA2",
+  "snapshot_id": "MCwxMDk3NGQ0ZjA3NWI1MTJhODM0NDEyMTgxOGM4N2M0ZDMyZDFjN2Y5",
   "tracks": [
     {
       "added_at": "2022-11-30 14:18:55",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "Charly Garc\u00eda",
+        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 157467,
+      "name": "Charly Garc\u00eda",
+      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Chao",
         "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 309221,
       "name": "Viento",
       "url": "https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "Charly Garc\u00eda",
-        "url": "https://open.spotify.com/album/7ERhEhcsKfABtn61YSBeYF"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 157467,
-      "name": "Charly Garc\u00eda",
-      "url": "https://open.spotify.com/track/1V3ZWPnKVDkNCP2nJNfYhP"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
-        "name": "Me Olvido / Te Sigo",
-        "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
-      },
-      "artists": [
-        {
-          "name": "Da Pawn",
-          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
-        }
-      ],
-      "duration_ms": 218684,
-      "name": "Me Olvido / Te Sigo",
-      "url": "https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
         "name": "Horas Contigo",
         "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 159254,
       "name": "Horas Contigo",
       "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
+        "name": "Me Olvido / Te Sigo",
+        "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
+      },
+      "artists": [
+        {
+          "name": "Da Pawn",
+          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+        }
+      ],
+      "duration_ms": 218684,
+      "name": "Me Olvido / Te Sigo",
+      "url": "https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs"
     },
     {
       "added_at": "2022-11-30 14:18:55",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-11-30 14:18:55",
       "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 238722,
+      "name": "Tantas Cosas Buenas",
+      "url": "https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK"
+    },
+    {
+      "added_at": "2022-11-30 14:18:55",
+      "album": {
         "name": "Anhedonia",
         "url": "https://open.spotify.com/album/4mFzkhis1q3DVpQ86GhJv9"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 161002,
       "name": "Lamentar",
       "url": "https://open.spotify.com/track/4VUO4tl0mGNhz2zoQ2EZd0"
-    },
-    {
-      "added_at": "2022-11-30 14:18:55",
-      "album": {
-        "name": "S\u00faper Terror",
-        "url": "https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 238722,
-      "name": "Tantas Cosas Buenas",
-      "url": "https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK"
     }
   ],
   "unique_name": "Lo mejor del Indie y Rock 2022",

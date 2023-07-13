@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from PARTYNEXTDOOR, Taylor Swift, Dominic Fike and 347aidan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,660 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,657 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 22 | [Noell](https://open.spotify.com/track/0uPXXAew9PzPPUN67eQi8f) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Noell](https://open.spotify.com/album/6y5GQupAA2wwzu3uGuehKW) | 3:21 |
 | 23 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
 | 24 | [Cheese](https://open.spotify.com/track/5GCSN4N9KzycSf5FD0wtWF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:12 |
-| 25 | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
+| 25 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
 | 26 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
 | 27 | [Celular](https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Celular](https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd) | 2:56 |
 | 28 | [ROI](https://open.spotify.com/track/57PdidKlKLiTtyJapoN111) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [NOMAD \- EP](https://open.spotify.com/album/1QFTJyV7Hqu3RzDAcnIiDF) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Slow Whine](https://open.spotify.com/track/5WDhz13Rkr3h2xKW7jz75T) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp), [Xanni](https://open.spotify.com/artist/6aTEaMf07T3LH7YGJcMYtS) | [Slow Whine](https://open.spotify.com/album/1Qq7L1lfyqNt37n5Hc3Hy4) | 3:11 |
 | 100 | [Highkey](https://open.spotify.com/track/2d7X4LdyqkjB01dTaqxkzV) | [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45), [Taxsaal](https://open.spotify.com/artist/7hiTkXJusWkbN3YyTFLkjz) | [Highkey](https://open.spotify.com/album/12vjvK4yZb4H6gABve3vIj) | 2:52 |
 
-Snapshot ID: `MCw3ZjQzYjA0MGM0YjdmZTkwMzhhYTdiZmE2NGNjZmMzMjRjZTExN2Rk`
+Snapshot ID: `MCwzMTQ2M2Q4MWY3YzU0Nzc1OTQwYmZlZTM1Njc4NzIyOTNmNGJkNDYx`

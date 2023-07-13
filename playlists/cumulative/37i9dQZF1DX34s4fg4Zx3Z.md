@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Linh Ka; thiết kế: Isu Kim
 
-1,091 songs - 2 day 16 hr 9 min
+1,092 songs - 2 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Chỉ còn Mary Jane](https://open.spotify.com/track/2FHM7MYPQOsKMO045Feh1K) | [$ativa](https://open.spotify.com/artist/4MHq627pFLlhqrdQTamHtm), [Buford](https://open.spotify.com/artist/1DxMYqEhE2kFdVI9mrxUJf), [Poo](https://open.spotify.com/artist/5lDuZWXhAWrHvrBQTtbwEa) | [Chỉ còn Mary Jane](https://open.spotify.com/album/44l2dcIRdrbFzYPUfqQ3UJ) | 2:56 | 2022-04-29 | 2022-05-25 |
 | [Chỉ Còn Ta Và Ta Giữa Trời](https://open.spotify.com/track/3BwFxsC7QpRejdE9GXFQI4) | [D Blue](https://open.spotify.com/artist/7JRDlOAUMJuLKmapm6H2VG), [Killic](https://open.spotify.com/artist/5Zosih1NRDj5W7mruPqfpu) | [Chỉ Còn Ta Và Ta Giữa Trời](https://open.spotify.com/album/0izHbyAAjxFR60XtvPiz0u) | 3:06 | 2022-07-21 | 2023-02-07 |
 | [Chỉ Cần Em Biết](https://open.spotify.com/track/6QzM9dmoDRaPEwTenp5Ipc) | [Dani D](https://open.spotify.com/artist/0I6jb4RjMkF84T2e5VsjlG), [Tama](https://open.spotify.com/artist/4npVRqpqmmM0MYHXTzu0o1), [Lil Tian](https://open.spotify.com/artist/5PycWaugD9Q5dyWytEihtR) | [Chỉ Cần Em Biết](https://open.spotify.com/album/6Fg7xD0n3EbvAhnAW9CjlR) | 4:15 | 2023-01-12 | 2023-02-07 |
+| [Chỉ Cần Thế Thôi](https://open.spotify.com/track/3dArepG6Os1fJOMQ40FO8r) | [Toof.P](https://open.spotify.com/artist/7JTpNI2P6mbsVgWR5ql5TK), [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Chỉ Cần Thế Thôi](https://open.spotify.com/album/6ntaGDqgf4dyusmGvbcRuO) | 3:39 | 2023-07-12 |  |
 | [Chỉ Là Vài Câu Thề](https://open.spotify.com/track/3IYz5eRGqdpNOWgxmlW97z) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Chỉ Là Vài Câu Thề](https://open.spotify.com/album/0EJyEdMr9FnKD7he80dfwR) | 3:34 | 2022-09-13 | 2022-09-21 |
 | [Chỉ Là...](https://open.spotify.com/track/749exxPW7YEKoHG3t37KT3) | [Reddy](https://open.spotify.com/artist/6QfCxUkMNgOYA4dswW2ZWN) | [Chỉ Là...](https://open.spotify.com/album/0UkE5xVgAO800v9NZXyleZ) | 3:42 | 2022-06-19 | 2022-09-18 |
 | [Chỉ Muốn Bên Em Thật Gần \- Remix](https://open.spotify.com/track/2EBGONLivfuwbSTf8XmnMi) | [YLing](https://open.spotify.com/artist/5uFx186LoZqUu2oo7OakjJ), [Star Online](https://open.spotify.com/artist/1lMI4zXuNgD2J4GWFkSv5Z) | [Chỉ Muốn Bên Em Thật Gần](https://open.spotify.com/album/06jkVYMP7A3NWptpY6PGzW) | 3:43 | 2022-02-28 | 2023-01-06 |

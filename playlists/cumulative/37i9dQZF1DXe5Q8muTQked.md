@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-649 songs - 1 day 15 hr 51 min
+650 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Creep](https://open.spotify.com/track/3TiWLK8KWhklkau2hVxBif) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/6RFSLPW06Z3yjzewDi6oiA) | 3:54 | 2023-02-24 |  |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2021-10-20 | 2023-06-08 |
 | [Crossing Muddy Waters](https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Crossing Muddy Waters](https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz) | 3:48 | 2021-10-20 | 2022-07-22 |
-| [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 | 2023-02-24 |  |
+| [Crossing Muddy Waters](https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Crossing Muddy Waters / Be My Husband](https://open.spotify.com/album/7dereZG0ayP3TOQJ3pqvqO) | 3:48 | 2023-02-24 | 2023-07-13 |
 | [Crush](https://open.spotify.com/track/09zy05TC3lWtGl1YRky16r) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Crush](https://open.spotify.com/album/0RTz9szRDyx9LXQYlWXATZ) | 3:41 | 2021-10-20 | 2022-07-09 |
 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 | 2022-06-10 |  |
 | [Dakota](https://open.spotify.com/track/6zUVhz0qHuwtZETMf7vgUT) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/5veDybiqNFwSXdDtheoXDD) | 4:54 | 2021-10-20 | 2022-07-29 |
@@ -329,6 +329,7 @@
 | [In Bloom](https://open.spotify.com/track/5StrN0F4XI5e0BHP32THhl) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 4:00 | 2022-06-10 |  |
 | [In My Life](https://open.spotify.com/track/3P5PjBDgbYzumxnbuahZqn) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/2bW3haSRmwMkq1UBXArTuX) | 2:34 | 2021-10-20 | 2022-07-29 |
 | [In My Life](https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7) | 2:34 | 2022-06-10 | 2023-06-11 |
+| [In My Life](https://open.spotify.com/track/75ysa8MFPtBmESXm8bcgvd) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [In My Life](https://open.spotify.com/album/5eAqisChf22yDfAABxciv1) | 2:34 | 2023-02-24 |  |
 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 | 2021-10-20 |  |
 | [In My Life](https://open.spotify.com/track/3QGTAH2zBXS0EgLdrouSgF) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:23 | 2023-02-24 | 2023-06-17 |
 | [In My Life](https://open.spotify.com/track/6IZOM0mpvqxtHXngtLdwJ7) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, em Qualquer Lugar](https://open.spotify.com/album/25gF6m29zFfS7NRTZ9SMq6) | 2:23 | 2021-10-20 | 2022-07-29 |

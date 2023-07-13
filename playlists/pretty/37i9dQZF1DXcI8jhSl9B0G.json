@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72856,
+  "num_followers": 72860,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdiN2YzMzg5NjRlMWU0NDIyNDliZGU2NmUxYWMzZmRlYmJjNjUw",
+  "snapshot_id": "MCxhMjhhMzc3NDdlZjRlMDc1ZTFiYjA4YzcyOGEyZmFhOGJhNGFmYzBk",
   "tracks": [
     {
       "added_at": "2023-03-08 13:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 218999,
-      "name": "don't get caught up",
-      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Jan Juc Moon",
         "url": "https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 277053,
       "name": "Stoney Creek",
       "url": "https://open.spotify.com/track/0ik7YpGVcjTkXBrUv4SaqR"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 218999,
+      "name": "don't get caught up",
+      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Inappropriate Behaviour",
-        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "Inappropriate Behaviour",
-      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "Inappropriate Behaviour",
+        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 271999,
-      "name": "heartbeat",
-      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
+      "duration_ms": 196772,
+      "name": "Inappropriate Behaviour",
+      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -375,6 +359,38 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Home to You",
+        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 213629,
+      "name": "Home to You",
+      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 219533,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1NDRPRFMVnmjqfyfokw2Kq"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
-        "name": "DANCING IN THE DARK",
-        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CAMPFIRE",
-      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
+        "name": "DANCING IN THE DARK",
+        "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CAMPFIRE",
+      "url": "https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 223445,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
-        "name": "Home to You",
-        "url": "https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 213629,
-      "name": "Home to You",
-      "url": "https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Hold You Tapes",
         "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 191032,
       "name": "Liquid Love",
       "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
-      },
-      "artists": [
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "The Future of an End",
         "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 194453,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/6vkGHTJudIfYpkQPqTHS6K"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 188544,
-      "name": "The Coffee Song",
-      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 257160,
       "name": "Friend",
       "url": "https://open.spotify.com/track/58IgTQTvqjMWLiVxkNVZxe"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 188544,
+      "name": "The Coffee Song",
+      "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "DANCING IN THE DARK",
         "url": "https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG"
       },
@@ -835,22 +819,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0"
-      },
-      "artists": [
-        {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
-        }
-      ],
-      "duration_ms": 213276,
-      "name": "After the Sun",
-      "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Carry You With Me",
         "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
@@ -863,6 +831,54 @@
       "duration_ms": 258053,
       "name": "Carry You With Me",
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 213276,
+      "name": "After the Sun",
+      "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -899,18 +915,18 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "Love Shack",
+        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Luke Morris",
+          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+      "duration_ms": 249489,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -927,22 +943,6 @@
       "duration_ms": 195299,
       "name": "Outside Kinda Kids",
       "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
-        "name": "Love Shack",
-        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
-      },
-      "artists": [
-        {
-          "name": "Luke Morris",
-          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
+        "name": "The Sweetest Days",
+        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "The Sweetest Days",
+      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
         "name": "Feel Like Clarity",
         "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 188004,
       "name": "Feel Like Clarity",
       "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/1qjSdvNNmUPF9MBYe4gezU"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 238174,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
     }
   ],
   "unique_name": "Summer Daze",

@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Varese.",
-  "num_followers": 15980,
+  "num_followers": 15982,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDczYjFjMjAyYTRkNWU2YzE3ZDBiYzdmYzkyYTlkZTcyYmUyMDRh",
+  "snapshot_id": "MCw5Y2YyNzJkZTE1ODVjNTNkNGQyYWZkMjI1ZWVkZjYzYWRhZWRhYzcx",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "LLUVIA",
-        "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 218171,
-      "name": "LLUVIA",
-      "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/0upQNva6VzLG68XrIDJMS1"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 197750,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/3pBq1csYqJNKdN6pejHFqY"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "LLUVIA",
+        "url": "https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 218171,
+      "name": "LLUVIA",
+      "url": "https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "mejor me voy: )",
-        "url": "https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 182591,
-      "name": "mejor me voy :)",
-      "url": "https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Ave",
         "url": "https://open.spotify.com/album/4T0IRlEKZih1pz0EvVppCj"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 246136,
       "name": "Ave",
       "url": "https://open.spotify.com/track/19NEe1Xv7k2KKq0yN8VQhS"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "mejor me voy: )",
+        "url": "https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 182591,
+      "name": "mejor me voy :)",
+      "url": "https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "BESO",
-        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "BESO",
-      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "BESO",
+        "url": "https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Hyperreal",
-        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 180867,
-      "name": "HYPERREAL",
-      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Luz de perla",
         "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 161173,
       "name": "Pido 1 deseo",
       "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 180867,
+      "name": "HYPERREAL",
+      "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Sur",
-        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
-      },
-      "artists": [
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 220081,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Viernes",
         "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
       },
@@ -903,22 +887,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
       },
       "artists": [
         {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
+      "duration_ms": 220081,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -947,18 +927,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "En el Palacio (REMIX)",
-        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
       "artists": [
         {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
         }
       ],
-      "duration_ms": 246144,
-      "name": "En la Torre - AV Remix",
-      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 149950,
       "name": "Cicuta",
       "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "En el Palacio (REMIX)",
+        "url": "https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 246144,
+      "name": "En la Torre - AV Remix",
+      "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Aviones De Papel",
-        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 193336,
-      "name": "Aviones De Papel",
-      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Good Fortune",
         "url": "https://open.spotify.com/album/6zVkGOcuB0tTe7g37nhRci"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 164815,
       "name": "Good Fortune",
       "url": "https://open.spotify.com/track/4D1NdEyO3B9dJsLDybQnX9"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Aviones De Papel",
+        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 193336,
+      "name": "Aviones De Papel",
+      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Sombra",
+        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
+      },
+      "artists": [
+        {
+          "name": "Gianna Sotera",
+          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Caracoles (Remix)",
         "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 197810,
       "name": "Caracoles - Remix",
       "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Sombra",
-        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
-      },
-      "artists": [
-        {
-          "name": "Gianna Sotera",
-          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "LA FRONTERA",
-        "url": "https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1"
+        "name": "Bum (Chocamos un Auto)",
+        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
       },
       "artists": [
         {
-          "name": "DAKOTA",
-          "url": "https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG"
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
         }
       ],
-      "duration_ms": 163000,
-      "name": "LA FRONTERA",
-      "url": "https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR"
+      "duration_ms": 226250,
+      "name": "Bum (Chocamos un Auto)",
+      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Bum (Chocamos un Auto)",
-        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
+        "name": "LA FRONTERA",
+        "url": "https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+          "name": "DAKOTA",
+          "url": "https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Bum (Chocamos un Auto)",
-      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
+      "duration_ms": 163000,
+      "name": "LA FRONTERA",
+      "url": "https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Estrellas, Piernas y Serpientes",
+        "url": "https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl"
+      },
+      "artists": [
+        {
+          "name": "Las Preguntas",
+          "url": "https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP"
+        },
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Autorretrato en Blanco",
         "url": "https://open.spotify.com/album/0QdA8t27p18rv47csXx7ZR"
       },
@@ -1311,6 +1331,26 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Eco",
+        "url": "https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU"
+      },
+      "artists": [
+        {
+          "name": "Hausi Kuta",
+          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
+        },
+        {
+          "name": "Mart\u00edn Berr\u00edos",
+          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
+        }
+      ],
+      "duration_ms": 277942,
+      "name": "Eco",
+      "url": "https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Solitario",
         "url": "https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq"
       },
@@ -1323,26 +1363,6 @@
       "duration_ms": 208400,
       "name": "NO TE KIERO OLVIDAR",
       "url": "https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Secreto a Voces",
-        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
-      },
-      "artists": [
-        {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 231569,
-      "name": "Secreto a Voces",
-      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1375,6 +1395,26 @@
       "duration_ms": 211032,
       "name": "Espiral",
       "url": "https://open.spotify.com/track/0uJ2VWcXhHWcH9ABkPMVpE"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Secreto a Voces",
+        "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 231569,
+      "name": "Secreto a Voces",
+      "url": "https://open.spotify.com/track/6N9vUjcRG2OPvVXSxlyT2c"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1471,26 +1511,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Estrellas, Piernas y Serpientes",
-        "url": "https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl"
-      },
-      "artists": [
-        {
-          "name": "Las Preguntas",
-          "url": "https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP"
-        },
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Moto",
-      "url": "https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "Las Fuerzas Almadas",
         "url": "https://open.spotify.com/album/1YAdvCKLUF12puHah2NxdW"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 272384,
       "name": "Todo es Conectividad",
       "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Eco",
-        "url": "https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU"
-      },
-      "artists": [
-        {
-          "name": "Hausi Kuta",
-          "url": "https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF"
-        },
-        {
-          "name": "Mart\u00edn Berr\u00edos",
-          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
-        }
-      ],
-      "duration_ms": 277942,
-      "name": "Eco",
-      "url": "https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "San Menace",
+        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
+      },
+      "artists": [
+        {
+          "name": "Pao Pestana",
+          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
+        }
+      ],
+      "duration_ms": 193957,
+      "name": "San Menace",
+      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "mondomamba",
         "url": "https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 212474,
       "name": "hambre",
       "url": "https://open.spotify.com/track/2tZflzxvr7gqNqkKlOl0M4"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "San Menace",
-        "url": "https://open.spotify.com/album/1v6oE7tLRyJzqICFA4hgQW"
-      },
-      "artists": [
-        {
-          "name": "Pao Pestana",
-          "url": "https://open.spotify.com/artist/7bTBThJWVUPhdFbvnDEK53"
-        }
-      ],
-      "duration_ms": 193957,
-      "name": "San Menace",
-      "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Sin Prisa No Quiero Morir",
-        "url": "https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01"
-      },
-      "artists": [
-        {
-          "name": "DORA",
-          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
-        }
-      ],
-      "duration_ms": 333853,
-      "name": "Nana para Mam\u00e1",
-      "url": "https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "CASI ANGELES <3",
         "url": "https://open.spotify.com/album/3vi4ZvttJXaVu4wZVwr3Qd"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 225493,
       "name": "@CLOSEFRIENDS",
       "url": "https://open.spotify.com/track/6Fx5kFcfK0ttt4RlN8dJUU"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Sin Prisa No Quiero Morir",
+        "url": "https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01"
+      },
+      "artists": [
+        {
+          "name": "DORA",
+          "url": "https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj"
+        }
+      ],
+      "duration_ms": 333853,
+      "name": "Nana para Mam\u00e1",
+      "url": "https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi"
     },
     {
       "added_at": "2023-07-07 03:00:00",

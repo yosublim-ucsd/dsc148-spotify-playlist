@@ -4,11 +4,12 @@
 
 > 
 
-51 songs - 3 hr 1 min
+52 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acolyte](https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 5:16 | 2022-08-14 |  |
+| [All You Gotta Be When You're 23 Is Yourself](https://open.spotify.com/track/0ppPrxfIry7uMvM7djyFX6) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:26 | 2023-07-12 |  |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2022-08-14 |  |
 | [Apple Pie](https://open.spotify.com/track/5FKNq0lLJnP3iZzBTD0PZj) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 4:19 | 2022-04-07 |  |
 | [Book Club](https://open.spotify.com/track/7K9Xfq9bN1yeSVotMWGZSp) | [Lili Trifilio](https://open.spotify.com/artist/2vVwxy0e99VQzinIJhaifB) | [Book Club](https://open.spotify.com/album/6VqQx1ZdHbxcsw1z9GPejp) | 3:49 | 2022-10-18 |  |

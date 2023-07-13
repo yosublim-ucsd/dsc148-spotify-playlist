@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MNEK
 
-831 songs - 1 day 21 hr 17 min
+833 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Be Free](https://open.spotify.com/track/2qTtGNOnV1qDCRKpte2ena) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 5:17 | 2023-04-18 | 2023-05-10 |
 | [Be In Her Bedroom](https://open.spotify.com/track/77yU8cXphr0D15KKJBMidV) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part One](https://open.spotify.com/album/0Mzy64DaJ2GTdPHStsn1qf) | 2:49 | 2021-12-17 | 2022-07-29 |
 | [BE ME](https://open.spotify.com/track/6YXgarWY2jY2f1F7VVUE0Z) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [BE ME](https://open.spotify.com/album/0nJ24ELPglbislYG5leab8) | 3:31 | 2023-01-24 | 2023-03-08 |
-| [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2023-05-23 |  |
+| [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2023-05-23 | 2023-07-13 |
 | [Because Of You](https://open.spotify.com/track/320jqrATpl9762bCQkmLDf) | [Gustaph](https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7) | [Because Of You](https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu) | 2:59 | 2023-01-26 | 2023-04-01 |
 | [Becky's So Hot](https://open.spotify.com/track/2EcCA2kB4yOrlmv3qjsvQc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 2:42 | 2023-01-24 | 2023-05-24 |
 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 | 2022-11-30 | 2023-01-25 |
@@ -191,6 +191,7 @@
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2022-02-25 | 2022-03-26 |
 | [Dark Bird \- St\. Lucia Remix](https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Dark Bird \(St\. Lucia Remix\)](https://open.spotify.com/album/2LsVPQR7vtkpPmq6zb7y0x) | 4:43 | 2022-06-24 | 2022-07-22 |
 | [day to day](https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:57 | 2022-10-07 | 2022-12-01 |
+| [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-12 |  |
 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 | 2023-03-31 | 2023-04-14 |
 | [De Nacht](https://open.spotify.com/track/5yPCi5PpDO9vbc6CVWfgDK) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Lichaam](https://open.spotify.com/album/36G6GJ8nqlF6jdTQEmQoEJ) | 3:34 | 2023-03-07 | 2023-04-01 |
 | [Dear Child In Me](https://open.spotify.com/track/4arxAuDQk4Fwhjv7MyRIHR) | [Eyemèr](https://open.spotify.com/artist/68A1tXqAVvbSsXjZKklxwN) | [Dear Child In Me](https://open.spotify.com/album/4lLHhVyxeo7A32FpVXvcnt) | 3:13 | 2023-07-11 |  |
@@ -790,6 +791,7 @@
 | [Whisky Vagabund0 \- Ao Vivo](https://open.spotify.com/track/0AXfTPzrAMfHchWf2aOVfA) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:33 | 2023-05-16 | 2023-06-02 |
 | [White Dress](https://open.spotify.com/track/0kUgg5DmwFSEs1uMqyiaW8) | [ELKAE](https://open.spotify.com/artist/0mMKz56OAupiiK0WmnLEtr) | [White Dress](https://open.spotify.com/album/3cMim0qTXPRZtY4edlnfyR) | 3:42 | 2022-05-27 | 2022-07-29 |
 | [White Rabbit \(feat\. Michelle Branch\)](https://open.spotify.com/track/3vytvFuEeRHKgmgNA0Ur7X) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:55 | 2022-06-24 | 2022-07-25 |
+| [Why Am I Alive Now?](https://open.spotify.com/track/0qAFlAyvkr9iZHLg1c8xJb) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [My Back Was A Bridge For You To Cross](https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz) | 5:59 | 2023-07-12 |  |
 | [Wish That I Could Tell Me](https://open.spotify.com/track/2KIaV1i6atL8QHTGNhhPHu) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Wish That I Could Tell Me](https://open.spotify.com/album/2BgA7q06Jq8dgK9bphiBsm) | 4:09 | 2023-03-07 | 2023-04-01 |
 | [Wishes](https://open.spotify.com/track/203two1At4kMewDcqlWMEv) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Wishes](https://open.spotify.com/album/0H827J0CQa5apQsW5xcc0M) | 3:05 | 2023-06-01 | 2023-07-12 |
 | [With You](https://open.spotify.com/track/60OOrdAxlAwamsHAhoJwBa) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/2wNEyDCJp051ozAuYkIH1w) | 3:44 | 2021-12-17 | 2022-01-15 |

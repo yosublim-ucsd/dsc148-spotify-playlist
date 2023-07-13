@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: れん
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,438 likes - 69 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,521 likes - 69 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [正論さん](https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [正論さん](https://open.spotify.com/album/0p8hciFFok7dzHLV0LukjH) | 3:39 |
 | 2 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
 | 3 | [Pacific Line](https://open.spotify.com/track/0rwbiEv4W9yAgtumneO8OM) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [The Miseducation of Kidella](https://open.spotify.com/album/228W8YwNPHPSnWe4ebP6jr) | 4:14 |
-| 4 | [4ever](https://open.spotify.com/track/3ZzFyvGq7wOrrYeUA5JaG4) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/1jVLQQkvJCTEVLMsUFLioI) | 3:18 |
+| 4 | [4ever](https://open.spotify.com/track/051jX9kOL9l7dWCrrWfEA9) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [4ever](https://open.spotify.com/album/3eHDZxWPz3a4EwjO9DWm1Y) | 3:18 |
 | 5 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 |
 | 6 | [TOKIDOKI](https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [TOKIDOKI](https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe) | 3:20 |
 | 7 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 |
 | 8 | [All to Myself](https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [All to Myself](https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2) | 3:18 |
-| 9 | [夏に願いを](https://open.spotify.com/track/4pb8LEHZGvygnrq1fmFoNn) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [夏に願いを](https://open.spotify.com/album/6skgWhfs8YhK8mPhLosuQe) | 3:01 |
+| 9 | [Wish upon the Summer](https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Wish upon the Summer](https://open.spotify.com/album/00Ye5zlkyQbYj23OqKv0xe) | 3:01 |
 | 10 | [Tokyo Addiction](https://open.spotify.com/track/1XC8TY0mBH8BiC5jU6ts4e) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [Tokyo Addiction](https://open.spotify.com/album/3r7J3qNWiYvmSi13vOi1yo) | 2:47 |
 | 11 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
 | 12 | [カナヅチ](https://open.spotify.com/track/4LaEWDdKrmU2x3BXMvjSDB) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [カナヅチ](https://open.spotify.com/album/5OVzZm40lG4u43p0XBcYfm) | 3:33 |
-| 13 | [PIP](https://open.spotify.com/track/6J6XYfPFeeOXlJ9BPyuPza) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/2Y2xII268RQBE4B4iplbO7) | 3:05 |
+| 13 | [PIP](https://open.spotify.com/track/5do7C5GwLyh3ZnEHkhxdy2) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [PIP](https://open.spotify.com/album/43YJER5iJtpSQNrpDvJZBQ) | 3:05 |
 | 14 | [Water](https://open.spotify.com/track/4sba5qIowhVDigPPykIP5U) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Water](https://open.spotify.com/album/4otlBo4eNFe03fjYmvumZG) | 3:50 |
 | 15 | [Yoake no Kimi e](https://open.spotify.com/track/0urrl38MfteFNwyfwnlEyP) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yoake no Kimi e](https://open.spotify.com/album/1edZyxFVUxuXKsNb2kuexd) | 3:59 |
 | 16 | [Melody](https://open.spotify.com/track/18IkQ9FJd7BW261aQAbH9Z) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Bouquet](https://open.spotify.com/album/4w5XnMaC67Apk06K1eDd7s) | 3:46 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 56 | [room](https://open.spotify.com/track/4YSVAmT5iefWe7ijK2whVJ) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [room](https://open.spotify.com/album/5hzQTrpg7auHz2yZDCH84v) | 3:45 |
 | 57 | [Broken Song](https://open.spotify.com/track/1G6A1ymQOop6o0V0imT2Gl) | [SAGOSAID](https://open.spotify.com/artist/63ojIZR5KasJ1PaouPVdsD) | [Tough Love Therapy](https://open.spotify.com/album/0WAe0aNKZkj8QW8QY77d4k) | 3:33 |
 | 58 | [UTOPIA](https://open.spotify.com/track/7sUomyof9ou8XfSi8irv2i) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [UTOPIA](https://open.spotify.com/album/58p4LspfYRwGqixVW1QhPf) | 2:45 |
-| 59 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 |
+| 59 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 |
 | 60 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 |
 | 61 | [or.or.](https://open.spotify.com/track/6E6EqZBia9Ug3dgrg7vkkw) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [or.or.](https://open.spotify.com/album/3VkjctQEPVVJvBVCcfxwGU) | 3:35 |
-| 62 | [ボール](https://open.spotify.com/track/76vMnUUHs3jq89Wkwu5mJ4) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [ボール](https://open.spotify.com/album/1Qypcf0ZLxn8JwtJXBC3LP) | 3:53 |
+| 62 | [Ball](https://open.spotify.com/track/0AXda5pFbkZJGPEZk5VJud) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Ball](https://open.spotify.com/album/1NFiOAGqdZdMfuG1uWeGtP) | 3:53 |
 | 63 | [misunderstanding](https://open.spotify.com/track/1L83QqUdy4uf6dwLuFPh8D) | [nozawadesu](https://open.spotify.com/artist/0RqNNlbG3uSGy2rFz4RO7F) | [misunderstanding](https://open.spotify.com/album/23k2d1ZEOCTJUCQQrPGlhM) | 4:54 |
 | 64 | [潮風](https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [潮風](https://open.spotify.com/album/4XkrdSm52HgNHCzDv2o9UN) | 4:01 |
 | 65 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [嘘だって](https://open.spotify.com/track/74zMAaCvLN676H91h1R9k6) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [嘘だって](https://open.spotify.com/album/6nVWOqetgZiIWuqIW0WIxu) | 3:32 |
 | 69 | [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 |
 
-Snapshot ID: `MCxjZjViNjZiZTYxMjlhMzg4ZTBlMzhhMjVmMmE2OTdkOWI0ZDc5N2Yw`
+Snapshot ID: `MCxiMmI1YzkyNDZlMmY5MWY3ZGI0M2MxMzFlYmRhNTFmMTNlNjdlMjIy`

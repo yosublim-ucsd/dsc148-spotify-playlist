@@ -4,7 +4,7 @@
 
 > Texas music breaking waves\.  Cover: Mike Dimes
 
-481 songs - 23 hr 25 min
+482 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Block Me](https://open.spotify.com/track/2BS2o5Y5Rff94m3pRP6fYq) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Block Me](https://open.spotify.com/album/0mNtRfqGNVSHQ1MsWh9x3X) | 2:46 | 2022-07-01 | 2022-07-23 |
 | [Block Starz](https://open.spotify.com/track/5UrDXte2UVXRFT7DpAR0IB) | [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO), [D Flowers](https://open.spotify.com/artist/7rnjmw51Muflmf5IFVY8eF), [Yung Ro](https://open.spotify.com/artist/1mQWZPciU2mObkw2Fpgbxg) | [Block Starz](https://open.spotify.com/album/6q6ju55W8yLasXSvNbOJxD) | 2:05 | 2023-06-11 | 2023-06-24 |
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-25 | 2023-01-14 |
-| [BOOTED](https://open.spotify.com/track/1FJftuSXRnWWOktss4GtRB) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [BOOTED](https://open.spotify.com/album/5I3vDpMGkkj8uthdLmtIal) | 2:19 | 2023-06-11 |  |
+| [BOOTED](https://open.spotify.com/track/0t7I9fDnpFWB2VUW5j2JLF) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [HEAVEN CAN'T SAVE YOU](https://open.spotify.com/album/20oCaJ2RAoz2JzihIy9AA0) | 2:19 | 2023-06-23 |  |
+| [BOOTED](https://open.spotify.com/track/1FJftuSXRnWWOktss4GtRB) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [BOOTED](https://open.spotify.com/album/5I3vDpMGkkj8uthdLmtIal) | 2:19 | 2023-06-11 | 2023-07-13 |
 | [Bounce It](https://open.spotify.com/track/4iUhFAJUcZYw7w6i63bpky) | [Mosa](https://open.spotify.com/artist/1cyaSULWtI17yYEk4301Pe) | [Bounce It](https://open.spotify.com/album/0e18d6wm7aFWfgTHiyPVfU) | 2:29 | 2022-04-29 | 2022-06-08 |
 | [Boy](https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Boy](https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe) | 2:12 | 2023-06-23 |  |
 | [Bright](https://open.spotify.com/track/1LePiEsqQ0bs9fNJFxSTXM) | [Judah](https://open.spotify.com/artist/2YkXfqinng308qa5WVYUn2), [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Bright](https://open.spotify.com/album/0YPq77qE1oZ3WIVyEeO1mn) | 3:31 | 2023-04-24 | 2023-05-19 |

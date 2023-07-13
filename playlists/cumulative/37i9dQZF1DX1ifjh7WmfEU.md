@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1ifjh7WmfEU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ifjh7WmfEU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ifjh7WmfEU)
 
-### [Piano Massage](https://open.spotify.com/playlist/37i9dQZF1DX1ifjh7WmfEU)
+### [self care vibes](https://open.spotify.com/playlist/37i9dQZF1DX1ifjh7WmfEU)
 
-> Piano music for your massage session.
+> Affirmations\. Intentions\. Skin Care\. Self Care.
 
-185 songs - 8 hr 13 min
+193 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-05-27 | 2022-07-28 |
 | [Dreamscapes](https://open.spotify.com/track/3qCse5xGHiXH2gK3MfgMeJ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Dreamscapes](https://open.spotify.com/album/1rzs3lnJsaooPXtDFzStzw) | 3:23 | 2022-07-27 |  |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2022-09-15 |  |
+| [Emerald of the East](https://open.spotify.com/track/6fo9G6qHkya3qFKRi5ujkp) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Emerald of the East](https://open.spotify.com/album/15h7O9HdnXjMmFgbDGggEh) | 1:59 | 2023-07-12 |  |
 | [Emollient](https://open.spotify.com/track/3Dq9w7HbtqlVHzTCQebVcl) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:35 | 2022-09-15 |  |
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-05-27 |  |
 | [Epenthesis](https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav) | [Lauren Hawley](https://open.spotify.com/artist/5UDWPRjs2Qvdp65nqY3f2r) | [Epenthesis](https://open.spotify.com/album/0aH8bPdKkSPIAyTGi7mM3D) | 2:51 | 2022-05-27 |  |
@@ -54,6 +55,7 @@
 | [Everlasting Glow](https://open.spotify.com/track/35eNrTAGVEwyxr2g4sjLqv) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [Everlasting Glow](https://open.spotify.com/album/3mEBexZNw2FiVuKwNDCLCz) | 2:17 | 2022-05-27 |  |
 | [Evermore](https://open.spotify.com/track/0H7xrDoYtdxiWGlghRw7Ai) | [Roman Nadler](https://open.spotify.com/artist/6PJNmKUT1INuhRkWesPjLK) | [Evermore](https://open.spotify.com/album/65jiZXLY6ewxF0Xw7jpL94) | 2:06 | 2022-05-27 |  |
 | [Ex Nihilo Nihil Fit](https://open.spotify.com/track/3iyH2B4dcjufYE0ZjiUZsC) | [Elder Lockhart](https://open.spotify.com/artist/4E0ctBJaB32wQSdYHmIsxU) | [Ex Nihilo Nihil Fit](https://open.spotify.com/album/4UGoF6BHCz2xclaI3J74Zf) | 2:35 | 2022-05-27 |  |
+| [Farewell](https://open.spotify.com/track/6aeSBXsEFl6ZA5oTs8LCEy) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Farewell](https://open.spotify.com/album/2ZqV42eiZzfEGjrVfSh7NW) | 2:50 | 2023-07-12 |  |
 | [Feels like home](https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Feels like home](https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz) | 2:33 | 2022-05-27 | 2022-07-28 |
 | [Finding Peace](https://open.spotify.com/track/7nszzgsBZi9NS6F89xZeAz) | [Joel Harous](https://open.spotify.com/artist/4IUERw4YRt35ijw9Nvfqba) | [Finding Peace](https://open.spotify.com/album/2oKNblsxDmO5nVgYukb26A) | 1:42 | 2023-03-01 |  |
 | [First Light](https://open.spotify.com/track/4yuDrAv22L2WhLaNQVBn8t) | [Garreth Brooke](https://open.spotify.com/artist/2zkBE2h0e4LHHWRWHNL1bw), [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [First Light](https://open.spotify.com/album/6GHHSY1QQPCTO5ium5ec2R) | 2:06 | 2022-05-27 |  |
@@ -85,6 +87,7 @@
 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 | 2022-05-27 |  |
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-05-27 |  |
 | [In Essence](https://open.spotify.com/track/22wf4F0EwtjXyPbg0kioHm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Quiet Conversation](https://open.spotify.com/album/4U8TIDkfNdGeuKcFw8SgoB) | 3:44 | 2022-05-27 |  |
+| [In retrospect](https://open.spotify.com/track/793mOeLUue7vfLXSk7C8iN) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [In retrospect](https://open.spotify.com/album/1fqcmYp1LNskW9AJX4WYMl) | 1:54 | 2023-07-12 |  |
 | [In the break of dawn](https://open.spotify.com/track/6IB2ZyzLmfydwyjnkdFSLZ) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [In the break of dawn](https://open.spotify.com/album/7I4yr1cj7ZXkis8vCvgX3R) | 3:04 | 2022-05-27 |  |
 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-05-27 |  |
 | [In Those Years](https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [In Those Years](https://open.spotify.com/album/2YLWbPKyE27RsWLdpTnht3) | 2:20 | 2022-11-14 |  |
@@ -154,10 +157,12 @@
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2022-05-27 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-05-27 |  |
 | [Spots](https://open.spotify.com/track/1DzIfBEPXivn7orD1D7eiO) | [Mila Duran](https://open.spotify.com/artist/4V0PWkhjqKmj5gDW50Vryl) | [Spots](https://open.spotify.com/album/6YjQbkMUI8xOjyKIFacfBk) | 3:04 | 2022-05-27 | 2022-07-28 |
+| [Star Canopy](https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Star Canopy](https://open.spotify.com/album/7ESxVY33u8rpG3jj7QZrtk) | 1:55 | 2023-07-12 |  |
 | [Statuette](https://open.spotify.com/track/5zoMbgXYkKymbUeCWP6p3o) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Statuette](https://open.spotify.com/album/3FH07fFtQxome3Cv8B0PYg) | 3:47 | 2022-05-27 |  |
 | [Stay By My Side](https://open.spotify.com/track/5kMhF1IhkSty2NFj6LCYJ1) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Stay By My Side](https://open.spotify.com/album/7o9fu8n1lNe3ML4ktRE65U) | 2:13 | 2022-07-27 |  |
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-05-27 | 2022-07-28 |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2022-05-27 |  |
+| [Sun sinking at dusk](https://open.spotify.com/track/5Y223UTPJjOIDVS2vs73g0) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Sun sinking at dusk](https://open.spotify.com/album/0L7qsF3GOm7oJg68rmbWMI) | 2:33 | 2023-07-12 |  |
 | [Synchronicity](https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Synchronicity](https://open.spotify.com/album/3K5o4pXNsxdxW8MEn2jtel) | 2:30 | 2022-05-27 |  |
 | [Take Me Back](https://open.spotify.com/track/4u8aNYQTJdyBvpsSwz05I6) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Take Me Back](https://open.spotify.com/album/69tYSDWT80qmZXsBRaYlhG) | 2:21 | 2022-05-27 |  |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2022-05-27 |  |
@@ -168,8 +173,10 @@
 | [Theme from The Angel](https://open.spotify.com/track/7LRdotxT5OK5kUOPvzlv4i) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Theme from The Angel](https://open.spotify.com/album/15fvKVkNpLCtwHCXhlzhqG) | 1:45 | 2023-01-26 |  |
 | [Through The Fields](https://open.spotify.com/track/73eFWqvfD6zbttdkmydJ2z) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Through The Fields](https://open.spotify.com/album/1edcP1iOeSvZTFg4PxMZhB) | 2:20 | 2022-05-27 |  |
 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 | 2022-05-27 |  |
+| [To The Mountain](https://open.spotify.com/track/4NsXmzeH7XZQx01TOF99zN) | [Astrid Sky](https://open.spotify.com/artist/1Kk2yuiHX31YmnpMTgrP4L), [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [To The Mountain](https://open.spotify.com/album/3oeXa4YitPTXSnMTRRbpOF) | 2:52 | 2023-07-12 |  |
 | [Tra Di Noi](https://open.spotify.com/track/7yJJuCckCfvjuIVDK96KlL) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Tra Di Noi](https://open.spotify.com/album/0J5qqU8x786MCP07FHgJGa) | 2:30 | 2022-05-27 |  |
 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 | 2022-05-27 |  |
+| [traveling seeds](https://open.spotify.com/track/7lj7hNsw53XKUY1kHPgGre) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [traveling seeds](https://open.spotify.com/album/0B3pXgY2U6ovq3gSO0UEdT) | 2:35 | 2023-07-12 |  |
 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2022-05-27 |  |
 | [Undisturbed](https://open.spotify.com/track/2sDskIxP9gdYKo0L2WCBLR) | [Bryn Williams](https://open.spotify.com/artist/2EYQUBVJqp5CH3lOSj5FLJ) | [Undisturbed](https://open.spotify.com/album/2CpPAqdJrVVvFnDEV373Td) | 2:34 | 2022-05-27 |  |
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2022-05-27 |  |
@@ -183,6 +190,7 @@
 | [We Contain Multitudes — piano reworks](https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes — piano reworks](https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH) | 4:24 | 2022-11-14 |  |
 | [When We Dance](https://open.spotify.com/track/1XkTvyqh9ECRpqwbnxoZCv) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [When We Dance](https://open.spotify.com/album/7EX5b7L0MzsxnOF5mluc2C) | 2:37 | 2022-05-27 | 2022-09-16 |
 | [Where Stars Are Born](https://open.spotify.com/track/5hWiDRCRKtf8TDpoX1Idk4) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [Where Stars Are Born](https://open.spotify.com/album/37eYaKUwjBSJaO15PIrc7L) | 3:07 | 2022-05-27 |  |
+| [Where Stars Disappear Or Die](https://open.spotify.com/track/2crQ5jYMnwwmZ9M04Wh4H1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Where Stars Disappear Or Die](https://open.spotify.com/album/65e4QkrKbLnDK3uP9LYEdi) | 3:36 | 2023-07-12 |  |
 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2022-05-27 |  |
 | [Whole Breaths](https://open.spotify.com/track/2kUno3T4aQEZcX96iRWxTO) | [Genevieve Harding](https://open.spotify.com/artist/5bQclaUyw221JG0BsDceAS) | [Whole Breaths](https://open.spotify.com/album/2qHWi9gDsue0bh7C490ENt) | 2:58 | 2022-05-27 |  |
 | [Wiegenlieden](https://open.spotify.com/track/3U6R2JSOzgPzQo57fZFsDZ) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Wiegenlieden](https://open.spotify.com/album/55EUDdrVTg81REpnhuSwVl) | 2:38 | 2022-05-27 | 2023-06-29 |

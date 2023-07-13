@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Enrique Bunbury en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,323 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,383 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 100 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 | 101 | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/track/6RHZSLB6QwibxtmDHM8Yrv) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [IGLESIAS, SHAKESPEARE Y EL SÍNDROME DE TRAUMA RELIGIOSO](https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ) | 3:52 |
 
-Snapshot ID: `MCxlNzAzZjIzYjEwZmFhNDM2MWY1YjYyYTgzNWM2M2MyYzNlYzcwYjEx`
+Snapshot ID: `MCw4MjVjNDBjOTQ1YzQ5Y2MyYTg0YmI4YTA4NDI2MGU3ZDM0YTZiNzA2`

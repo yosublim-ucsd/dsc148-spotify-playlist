@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Neeraj Rajawat , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Aanchal Tyagi , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Oh, How Everything Changes",
+        "url": "https://open.spotify.com/album/6oCJBhyMKD7ZbjqsGRs52w"
+      },
+      "artists": [
+        {
+          "name": "Hush Panda",
+          "url": "https://open.spotify.com/artist/2TRVdahNjiForArjDj1ZBy"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147441,
+      "name": "Bag Of Stuff For You",
+      "url": "https://open.spotify.com/track/2gIisNoejyUgYXEEfpAdLS"
+    },
+    {
+      "album": {
         "name": "Bairagi",
         "url": "https://open.spotify.com/album/4JcawIAmMgqdkLTDl94sHy"
       },
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 240000,
       "name": "Chal Phir Wahin",
       "url": "https://open.spotify.com/track/4kSiTJu50XxwaAzpbIyov2"
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 192245,
       "name": "Dil Da Pecha",
       "url": "https://open.spotify.com/track/01RBxV5NhoOft5qsYwbPLj"
@@ -5067,6 +5085,24 @@
     },
     {
       "album": {
+        "name": "Hindi Bole",
+        "url": "https://open.spotify.com/album/2JEuEUNMkTd7eUzHVBpmmV"
+      },
+      "artists": [
+        {
+          "name": "Kavish Seth",
+          "url": "https://open.spotify.com/artist/4CBseQM3qyCTbkDqxTDTsV"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271701,
+      "name": "Hindi Bole",
+      "url": "https://open.spotify.com/track/6yAVgyH1iGHeN1ycvETTVb"
+    },
+    {
+      "album": {
         "name": "Ho Tum Yahan",
         "url": "https://open.spotify.com/album/0S7xlyq1eUe6eOp2tpNqFu"
       },
@@ -6300,7 +6336,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 138154,
       "name": "Jaga De",
       "url": "https://open.spotify.com/track/7H5TVKnIme6vDZsfgqPbZG"
@@ -10119,6 +10155,24 @@
     },
     {
       "album": {
+        "name": "Nazar Na Lage",
+        "url": "https://open.spotify.com/album/4p96wEkeH38EIXcZ1yQHZb"
+      },
+      "artists": [
+        {
+          "name": "Aayush Srivastava",
+          "url": "https://open.spotify.com/artist/1dzCaBzz8xeOaAitp5Ct5h"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266719,
+      "name": "Nazar Na Lage",
+      "url": "https://open.spotify.com/track/75wydS6vTYsOCudjkrAlcj"
+    },
+    {
+      "album": {
         "name": "Nazara",
         "url": "https://open.spotify.com/album/1KQllcO7cnYYnmGIE4erxF"
       },
@@ -10320,7 +10374,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 262025,
       "name": "Oh Rangreza",
       "url": "https://open.spotify.com/track/4JrTCU3JOJoGgu46aSMB4M"
@@ -11616,6 +11670,28 @@
       "duration_ms": 208005,
       "name": "Rehbar",
       "url": "https://open.spotify.com/track/4BT28UT2DMBDCsRqAWY3Nz"
+    },
+    {
+      "album": {
+        "name": "Rehna Tu Kareeb",
+        "url": "https://open.spotify.com/album/7lFJKCUgL6tek0w5Ay43II"
+      },
+      "artists": [
+        {
+          "name": "Sagar Dhote",
+          "url": "https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a"
+        },
+        {
+          "name": "Sneha Astunkar",
+          "url": "https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "Rehna Tu Kareeb",
+      "url": "https://open.spotify.com/track/648WuB3HUVIAYXLd1u7Mpf"
     },
     {
       "album": {

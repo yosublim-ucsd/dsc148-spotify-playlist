@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 305,513 likes - 46 songs - 2 hr 39 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 305,501 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 23 | [r&r](https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/4WGxcr3aYMv1Dm6Xl1bwRN) | 3:27 |
 | 24 | [Growing Pains](https://open.spotify.com/track/1XUcmMksyUn0HwGaE7smrz) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Growing Pains](https://open.spotify.com/album/2jXg4NPRQFiJRoQtuEoh3H) | 3:36 |
 | 25 | [nice 2 me \- Tommy Villiers Remix](https://open.spotify.com/track/0hZZol2G1lulSNyH25Y4ME) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me \(Tommy Villiers Remix\)](https://open.spotify.com/album/42UVqaUtnmdCX252SAAorc) | 3:26 |
-| 26 | [give it back \(feat\. sir Was\)](https://open.spotify.com/track/2xUhfHj289gLmDn41JhSpB) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [give it back \(feat\. sir Was\)](https://open.spotify.com/album/4u7hAdEyd7mNczAsfjVBYP) | 3:29 |
+| 26 | [give it back](https://open.spotify.com/track/2xUhfHj289gLmDn41JhSpB) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [give it back](https://open.spotify.com/album/4u7hAdEyd7mNczAsfjVBYP) | 3:29 |
 | 27 | [Killer Flex](https://open.spotify.com/track/0TBTzAhlZKFjUvs24w8YAZ) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [Domper](https://open.spotify.com/artist/3NUPBDmnVgy6LIyy3IpZSO) | [Killer Flex](https://open.spotify.com/album/4cQfADMKaG6QcTht3ZjRwD) | 3:54 |
 | 28 | [I Remember \- John Summit Remix](https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a) | 4:00 |
 | 29 | [Fool For Love \- Chris Lake Edit](https://open.spotify.com/track/6H8ddHe7Bpbiy5Gp7lVlBe) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Fool For Love \(Chris Lake Edit\)](https://open.spotify.com/album/4kCcxdrbnQUJmWjvYoYVRf) | 3:59 |

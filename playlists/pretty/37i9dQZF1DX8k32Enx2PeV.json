@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 6575,
+  "num_followers": 6591,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTUyZDgwN2I1MGNjZTc4YWMzOWY2MzhmZjlhNmM4YzVmMWVjNTA3",
+  "snapshot_id": "MCxjY2M2NjU0NjM3ZjE3N2NjZWU3Y2YwYWNlNGIwNjBiNmY1MDJhZjQy",
   "tracks": [
     {
       "added_at": "2023-06-30 05:46:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
+        "name": "Corolla 94",
+        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Corolla 94",
+      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
         "name": "Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 167215,
       "name": "Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
-        "name": "Corolla 94",
-        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Corolla 94",
-      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Lo Bueno Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 260678,
       "name": "Dale Mel\u00f3n",
       "url": "https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 221346,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Camino al Mar",
         "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 215280,
       "name": "Soy la Fuerza",
       "url": "https://open.spotify.com/track/1Tt53jSkqWtGzmn0qJBwjf"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/5VCpCHyZO5LzLGgN4399D4"
     },
     {
       "added_at": "2023-06-30 05:46:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-06-30 05:46:00",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
-      },
-      "artists": [
-        {
-          "name": "Para\u00edsos",
-          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 195317,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
-    },
-    {
-      "added_at": "2023-06-30 05:46:00",
-      "album": {
         "name": "Tierra de Promesas (Sierra Nevada)",
         "url": "https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 217366,
       "name": "Loco Playa",
       "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
+    },
+    {
+      "added_at": "2023-06-30 05:46:00",
+      "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edsos",
+          "url": "https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
     },
     {
       "added_at": "2023-06-30 05:46:00",

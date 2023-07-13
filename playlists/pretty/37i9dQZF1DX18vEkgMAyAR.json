@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 59352,
+  "num_followers": 59379,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2",
+  "snapshot_id": "MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1",
   "tracks": [
     {
       "added_at": "2023-04-21 11:39:07",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "echo: dawn",
-        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
-      },
-      "artists": [
-        {
-          "name": "Just a Band",
-          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
-        }
-      ],
-      "duration_ms": 187375,
-      "name": "Thank You/Rebel and a Cause - from ech0",
-      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
-    },
-    {
-      "added_at": "2023-04-21 11:39:07",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 183500,
       "name": "My Tribe",
       "url": "https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU"
+    },
+    {
+      "added_at": "2023-04-21 11:39:07",
+      "album": {
+        "name": "echo: dawn",
+        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
+      },
+      "artists": [
+        {
+          "name": "Just a Band",
+          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+        }
+      ],
+      "duration_ms": 187375,
+      "name": "Thank You/Rebel and a Cause - from ech0",
+      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
     },
     {
       "added_at": "2023-04-21 11:39:07",

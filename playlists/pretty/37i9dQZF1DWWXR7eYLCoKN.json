@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 121823,
+  "num_followers": 121877,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2U5OThmYTI3OWZhZDg3MWY3ZTBjMmQzNmMwNTA5YmIzZWQ5MWY0",
+  "snapshot_id": "MCwyN2Q3YTkxMDRlOGNlMTkxNGM4NjQ3YWQ1YmE2M2FkNDY0NmFlNTRm",
   "tracks": [
     {
       "added_at": "2023-04-28 21:19:13",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
+        "name": "Chico Buarque De Hollanda N\u00ba4",
+        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0"
+    },
+    {
+      "added_at": "2023-04-28 21:19:13",
+      "album": {
         "name": "Nossa Onda \u00c9 Essa!",
         "url": "https://open.spotify.com/album/1sRJ6meQzUDBK0vDRMsk74"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 226733,
       "name": "Deixa pra L\u00e1",
       "url": "https://open.spotify.com/track/4iH8g2F3ygsoRoGpnMOsI3"
-    },
-    {
-      "added_at": "2023-04-28 21:19:13",
-      "album": {
-        "name": "Chico Buarque De Hollanda N\u00ba4",
-        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Samba E Amor",
-      "url": "https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
+        "name": "J\u00e1 ouviu falar de amor?",
+        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
       },
       "artists": [
         {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+          "name": "Lucas Mamede",
+          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
         }
       ],
-      "duration_ms": 140706,
-      "name": "Saudosa Maloca",
-      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
+      "duration_ms": 184617,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "J\u00e1 ouviu falar de amor?",
-        "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
       },
       "artists": [
         {
-          "name": "Lucas Mamede",
-          "url": "https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD"
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
         }
       ],
-      "duration_ms": 184617,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R"
+      "duration_ms": 140706,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
     },
     {
       "added_at": "2023-04-28 21:19:13",
@@ -1239,58 +1239,38 @@
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Santo Toque",
-        "url": "https://open.spotify.com/album/3BeLqGYy2LVtNpE9KuhHuy"
+        "name": "Sarav\u00e1, Paz e Bem",
+        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
       },
       "artists": [
         {
-          "name": "Sambaiana",
-          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
-        },
-        {
-          "name": "Mar\u00edlia Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh"
-        },
-        {
-          "name": "Ju Moraes",
-          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
-        },
-        {
-          "name": "Rayra Mayara",
-          "url": "https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb"
-        },
-        {
-          "name": "Lal\u00e1 Evangelista",
-          "url": "https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr"
-        },
-        {
-          "name": "Grace Profeta",
-          "url": "https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko"
-        },
-        {
-          "name": "Marcinha BB",
-          "url": "https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7"
+          "name": "Elisa Fernandes",
+          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
         }
       ],
-      "duration_ms": 202021,
-      "name": "Santo Toque",
-      "url": "https://open.spotify.com/track/1owJVm7Cbq3Fv68LPMON0v"
+      "duration_ms": 223799,
+      "name": "Aprendi a Ser Feliz",
+      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
     },
     {
       "added_at": "2023-04-28 21:19:13",
       "album": {
-        "name": "Aquarela",
-        "url": "https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy"
+        "name": "Pagode Novo",
+        "url": "https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf"
       },
       "artists": [
         {
-          "name": "KARINE",
-          "url": "https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8"
+          "name": "Rodrigo Campos",
+          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
+        },
+        {
+          "name": "Mari Tavares",
+          "url": "https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR"
         }
       ],
-      "duration_ms": 203907,
-      "name": "Aquarela",
-      "url": "https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L"
+      "duration_ms": 205663,
+      "name": "Atraco",
+      "url": "https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM"
     }
   ],
   "unique_name": "Samba & \u00e1gua fresca",

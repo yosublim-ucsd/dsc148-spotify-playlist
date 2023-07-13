@@ -3642,10 +3642,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 135499,
       "name": "MESSY",
       "url": "https://open.spotify.com/track/3TlSPN33s03Tg89wS5EauK"
+    },
+    {
+      "album": {
+        "name": "HEAVEN CAN'T SAVE YOU",
+        "url": "https://open.spotify.com/album/20oCaJ2RAoz2JzihIy9AA0"
+      },
+      "artists": [
+        {
+          "name": "HVN",
+          "url": "https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135499,
+      "name": "MESSY",
+      "url": "https://open.spotify.com/track/54rORcoTfb2HMayphGXsJo"
     },
     {
       "album": {

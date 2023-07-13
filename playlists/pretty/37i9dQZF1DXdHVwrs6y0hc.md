@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,009 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,078 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 20 | [Cry of a Dreamer](https://open.spotify.com/track/4I7Oz5upkSNM4UzvyMkBVN) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [Cry of a Dreamer](https://open.spotify.com/album/06rprGquuwrn4HOrV7W3Rc) | 3:24 |
 | 21 | [The Craic Was Ninety](https://open.spotify.com/track/2AoTVSqG54KUwFyhu4wPzw) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 3:16 |
 | 22 | [Come Up the Stairs](https://open.spotify.com/track/0y8YLiCQmsmG1PLaQGk4gp) | [Lonely Stranded Band](https://open.spotify.com/artist/2SEZuwzh7YLEnD6go7gk2W) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:05 |
-| 23 | [Handsome Molly](https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:09 |
-| 24 | [Spancil Hill](https://open.spotify.com/track/7GBFFTfwfS0vTHFacPUDjr) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:02 |
+| 23 | [Spancil Hill](https://open.spotify.com/track/7GBFFTfwfS0vTHFacPUDjr) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:02 |
+| 24 | [Handsome Molly](https://open.spotify.com/track/6na8yhbibdnCNDiQwq1yCF) | [House Devils, The](https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw) | [Irish Folk: Adieu to Old Ireland](https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK) | 3:09 |
 | 25 | [Paddy Dreaming](https://open.spotify.com/track/4TmmeeYNQ0tD1jIo0u6Wck) | [Tara](https://open.spotify.com/artist/24JAAnBviO3vTMZ5N9taj8) | [Tara: Irish Songs \(Paddy Dreaming\)](https://open.spotify.com/album/6gmemevzCugRlnRC1YmQPr) | 2:54 |
 | 26 | [The Lads O' The Fair](https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM) | [Ed Miller](https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M) | [Many's The Fine Tale](https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz) | 3:41 |
 | 27 | [Dicey Reilly](https://open.spotify.com/track/7czr5O1j7nTBqDLrNvMLYH) | [The Dicey Rileys](https://open.spotify.com/artist/5KsT5LtDfBCCqh5qrcA6ZD) | [The Craic Is Mighty](https://open.spotify.com/album/6w8gxnTh1C8wRG7Ky9D6Qt) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [The Old Dungarvan Oak](https://open.spotify.com/track/0I16G9QzUo5AmEsIKsAAhI) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Denis Carey](https://open.spotify.com/artist/4dDlG6nuYNnruh0tdGvzkY) | [Home Is the Rover](https://open.spotify.com/album/0hFiauwFSsPWXQyzv29SRU) | 2:42 |
 | 50 | [The Boys of Killibegs](https://open.spotify.com/track/6D16cmDXBDSvs7V9IXkdYD) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best Irish Pub Songs](https://open.spotify.com/album/1bse1I86JVJ2edZUa55xXl) | 3:13 |
 
-Snapshot ID: `MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0`
+Snapshot ID: `MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw`

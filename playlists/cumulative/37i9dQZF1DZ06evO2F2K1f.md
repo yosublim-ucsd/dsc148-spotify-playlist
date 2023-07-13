@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 7 min
+113 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Getaway](https://open.spotify.com/track/4QbHgvorkRqnZPwnW8gyE0) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 2:37 | 2023-01-10 | 2023-06-11 |
 | [Getting It Together](https://open.spotify.com/track/0pzDuoJHPdyanUR95VEm1z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 4:12 | 2022-05-29 |  |
 | [Gingerbread](https://open.spotify.com/track/4lIVwUYL7ZmTjXs8hUWiab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:17 | 2022-05-29 |  |
+| [Girl at the Top \(A\)](https://open.spotify.com/track/4UYAoMvtpEch02JYlfXSEv) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:54 | 2023-07-12 |  |
 | [Girl in a Sportscar](https://open.spotify.com/track/3YT4KUgun2us1WLg3f0T9z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:42 | 2022-05-29 |  |
 | [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 | 2023-06-20 |
 | [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 | 2023-06-30 |
@@ -90,7 +91,7 @@
 | [Reminiscences](https://open.spotify.com/track/6vAqNQAPjqzx5ztO88PQX9) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [High Drama](https://open.spotify.com/album/6nVKvvfOnN3rB2lui1tMZr) | 3:24 | 2022-08-12 | 2022-11-24 |
 | [Rocky Mountain Runabout](https://open.spotify.com/track/0onhMFZBampcxMxkIDxmU0) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:15 | 2022-06-26 | 2022-09-09 |
 | [Roving Reporter](https://open.spotify.com/track/70ilfw7o4EekgZt3P8EgDz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 1:40 | 2022-06-06 |  |
-| [Scooter Girl](https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:41 | 2022-10-12 |  |
+| [Scooter Girl](https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:41 | 2022-10-12 | 2023-07-13 |
 | [Senior Thump](https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:52 | 2022-05-29 | 2023-07-09 |
 | [Serengeti](https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:02 | 2022-05-29 | 2023-07-12 |
 | [Sheer Elegance](https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:37 | 2022-05-30 | 2023-07-07 |

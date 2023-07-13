@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,571 likes - 135 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,733 likes - 135 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 67 | [The One I Love](https://open.spotify.com/track/2hSxdCbXOIUMdCl6raQ1uX) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [The One I Love](https://open.spotify.com/album/4VOm59A2nywXEZlYF5ocBa) | 3:41 |
 | 68 | [Grow as We Go](https://open.spotify.com/track/5M6FVA0CEuN7iNqcq6LkG3) | [Finding Us](https://open.spotify.com/artist/3tuF9lI7xxtzNKt33uqxho), [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep) | [Grow as We Go](https://open.spotify.com/album/19VfOkSCXKOQM5yvYOiWCX) | 4:23 |
 | 69 | [I Ain't Worried](https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k) | [I Ain't Worried](https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb) | 2:44 |
-| 70 | [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 |
+| 70 | [Save Me From Myself](https://open.spotify.com/track/39ldhlm119RIWwXICpBEkU) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me From Myself](https://open.spotify.com/album/59Y8SthRcQhmt3N5manpIb) | 3:17 |
 | 71 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 |
 | 72 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 |
 | 73 | [I'm On Fire](https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [I'm On Fire](https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo) | 2:54 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 134 | [Silence](https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Silence](https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk) | 2:54 |
 | 135 | [Steal My Sunshine](https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Steal My Sunshine](https://open.spotify.com/album/5mo1IZa96A4BsJ6AKHGHMw) | 3:42 |
 
-Snapshot ID: `MCw5NjYyYTY4N2IyMjM1ZTkwMzJlMTAwMzYzYmQ2M2M5MjU4MWFiMTU4`
+Snapshot ID: `MCwxZTAxN2FlZTNjYmZmNDFhYmU3NmZhOWY2ZTgwNjEyMmJkYmJhZDNk`

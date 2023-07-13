@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from D\-Block Europe \(pictured\), Taylor Swift, Declan McKenna and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,565 likes - 114 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,594 likes - 114 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 27 | [Money Moves \(feat\. M1llionz\)](https://open.spotify.com/track/489YFKTcNzCRp3Q1RVjlAV) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Money Moves \(feat\. M1llionz\)](https://open.spotify.com/album/1nMTHx2OuRtlmJuXHliBeh) | 2:54 |
 | 28 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
 | 29 | [A Strange Kind Of Beautiful](https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Strange Kind Of Beautiful](https://open.spotify.com/album/3JJA08FKmwkI2tW7NQ1Hzx) | 3:32 |
-| 30 | [Hell Of A Ride](https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride / High In Brighton](https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l) | 2:59 |
+| 30 | [Hell Of A Ride](https://open.spotify.com/track/0m2FDSa8vPgAz4lbBqOttK) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Hell Of A Ride](https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l) | 2:59 |
 | 31 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 |
 | 32 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 33 | [Amp It Up](https://open.spotify.com/track/7t39GSotkidFbLQuhsdx9W) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Amp It Up](https://open.spotify.com/album/14eQSyXK3ldf3P2ovyOT1M) | 2:23 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 40 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 |
 | 41 | [Ooh La La](https://open.spotify.com/track/3WPGHDCDGohWrIjYJ2RqDQ) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Ooh La La](https://open.spotify.com/album/1GwdzkT2RqG2Gt9J7gPhd1) | 2:16 |
 | 42 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/1Dm5maHjhhmcdqS5hK61Ut) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/album/28glrS4PZTYh2VfqX1mP6H) | 2:47 |
-| 43 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 |
+| 43 | [Dancing By Night](https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Dancing By Night](https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp) | 3:40 |
 | 44 | [switching tongues](https://open.spotify.com/track/0oscvFSKOFlJSnRYOYmlZu) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [switching tongues](https://open.spotify.com/album/28EXVEcrRvzNyp7BpLJ6S8) | 2:29 |
 | 45 | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp) | [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Trenchezzz \(with Nemzzz\)](https://open.spotify.com/album/7wyYuu1EwLTHzqJuDtqBnZ) | 2:38 |
 | 46 | [03:00](https://open.spotify.com/track/6ExPkK54X5esz5KS6MJwzb) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [In Time](https://open.spotify.com/album/6QJ7Cga7NSvbgIQuobc2BD) | 3:00 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 113 | [Broke](https://open.spotify.com/track/7xRu6tG7amIcv7znsuDGgz) | [Calper](https://open.spotify.com/artist/7AWqSYIArMX7XVqDIKW7Nw), [Flownn](https://open.spotify.com/artist/2cCuAsfwl1oYhN6yovKdv8) | [Broke](https://open.spotify.com/album/1wnCUmsPZAnuctfIjKetYr) | 2:44 |
 | 114 | [Beehive](https://open.spotify.com/track/1bEiUxVyv9mVqZGXDj3EQ4) | [Niamh Bury](https://open.spotify.com/artist/44VP4ZxUIYVngSNENOGRme) | [Beehive](https://open.spotify.com/album/37gkwbGYPnIkMhGokeeJCu) | 5:24 |
 
-Snapshot ID: `MCwzZmVjYzhhNWU3ZWIzY2JkY2I5NjBmYWViMjY2NDNiYWNiZTQ1ZGJk`
+Snapshot ID: `MCwwMWZkNmJlNDcwYTAwYjkwNjIyZDRlOWU5MzAyOGUwYWM3ODM5Y2M0`

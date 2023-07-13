@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,671 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,061 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [LA Dank](https://open.spotify.com/track/1yuO5XZmlvwGk9VtSoEhzW) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [LA Dank](https://open.spotify.com/album/0TRaJBVbMxyxbI5TkDvX88) | 2:27 |
 | 75 | [Juan Ayon](https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Rolitas De Oro](https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox) | 4:18 |
 
-Snapshot ID: `MCwxOTUyN2VlNjllODQ3YmRlYWEwY2E5OWFlOTlkNjZkZWNjZGQ3ODll`
+Snapshot ID: `MCxlMmY0ZDc4M2RkYjI4ODY5ZGU2NmVjMDIyZWU4ZDY5ODBhZjY2MWYw`

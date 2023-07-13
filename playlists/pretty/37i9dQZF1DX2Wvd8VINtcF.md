@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,778 likes - 98 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,799 likes - 98 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 51 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
 | 52 | [All That She Wants \- Axel Boman X Off The Meds Remix](https://open.spotify.com/track/4tmkNreV0nlayzaEOBwLJf) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Off The Meds](https://open.spotify.com/artist/6XHiqDJIKWxSMQLsjFsiFM) | [All That She Wants \(Axel Boman X Off The Meds Remix\)](https://open.spotify.com/album/3Au6S3ZAxiIZX9SpFhK8sX) | 3:24 |
 | 53 | [Need 4 Speed](https://open.spotify.com/track/01F51oF3JauljiAek7Dp8O) | [jahanam](https://open.spotify.com/artist/0dFS2JcZHhNxg3bxjvHXXa), [DJ HAYDN](https://open.spotify.com/artist/4XC4oNp1V0YjK1Z4ryzaf2) | [Need 4 Speed](https://open.spotify.com/album/0cK3MaoFjVRkGk8Ej8WxVh) | 4:54 |
-| 54 | [give it back \(feat\. sir Was\)](https://open.spotify.com/track/2xUhfHj289gLmDn41JhSpB) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [give it back \(feat\. sir Was\)](https://open.spotify.com/album/4u7hAdEyd7mNczAsfjVBYP) | 3:29 |
+| 54 | [give it back](https://open.spotify.com/track/2xUhfHj289gLmDn41JhSpB) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [sir Was](https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT) | [give it back](https://open.spotify.com/album/4u7hAdEyd7mNczAsfjVBYP) | 3:29 |
 | 55 | [shy girl](https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [shy girl](https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac) | 2:36 |
 | 56 | [White Wine in the Shower](https://open.spotify.com/track/4vxXarFM1XhQMgkSaN76BE) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [White Wine in the Shower](https://open.spotify.com/album/7dhuqpDHRNzHQVvrXxkm86) | 1:59 |
 | 57 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 97 | [CONSTELLATIONS \(feat\. NAO\)](https://open.spotify.com/track/6B6FxQxSSVwvSgcNUe5QZQ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:52 |
 | 98 | [Rebuke](https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Rebuke](https://open.spotify.com/album/4dWpQRkca47a9fA7W78rY3) | 1:58 |
 
-Snapshot ID: `MCw3NDMyOTNjNjIzMGRiOTJiZGYxYmZlMjU1MDg4YTk4YWZjZWZiZDk5`
+Snapshot ID: `MCxkOGQwZDRiMWZkNTMzM2QzMTBkNmQ5NWNkNmQzYTM1OWZkMTU2MzRh`

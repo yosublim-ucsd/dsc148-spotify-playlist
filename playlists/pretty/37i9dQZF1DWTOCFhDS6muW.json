@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 20135,
+  "num_followers": 20151,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTY1NTVkNTcxOGVjMDZlZjk1ZTUzYzFhMGIyNDY0ZTgxMmEwMzFj",
+  "snapshot_id": "MCxhNmMyNTYwODkxZTNiMGRlN2QwMDY5ZTYyZDYyYTUxNzk5OTVhMmEw",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -455,6 +455,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "El Encarguito",
+      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Quemala",
         "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 145321,
       "name": "Quemala",
       "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Encarguitos Del Caribe",
-        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "El Encarguito",
-      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -607,22 +607,18 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Mete Y Saca",
-        "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
       },
       "artists": [
         {
-          "name": "Punta Cartel",
-          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
-        },
-        {
-          "name": "Nuru Ellis",
-          "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
         }
       ],
-      "duration_ms": 371135,
-      "name": "Cartel Mix",
-      "url": "https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT"
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -643,18 +639,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Bunabou Live",
-        "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
+        "name": "Mete Y Saca",
+        "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
       },
       "artists": [
         {
-          "name": "Xcstacy",
-          "url": "https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi"
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+        },
+        {
+          "name": "Nuru Ellis",
+          "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
         }
       ],
-      "duration_ms": 449201,
-      "name": "Bunabou Live - Live",
-      "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
+      "duration_ms": 371135,
+      "name": "Cartel Mix",
+      "url": "https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT"
     }
   ],
   "unique_name": "Punta",

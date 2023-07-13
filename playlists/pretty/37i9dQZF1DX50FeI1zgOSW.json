@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall Robinson",
-  "num_followers": 2435,
+  "num_followers": 2449,
   "original_name": "Radar Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjE1YjA0OGU1ZTlhMzg0MDgwMDJkOGM5ZmQwMTIwODk4NmYxNDMy",
+  "snapshot_id": "MCxjNmZmNDIyZDhiZTE1OTA1OWQwMWNmNzk5NDdiNWViMGVmOWRiYmJl",
   "tracks": [
     {
       "added_at": "2023-04-14 07:22:27",
@@ -45,40 +45,24 @@
       "url": "https://open.spotify.com/track/2lg7V9oIEcJsM0BUhmXJHd"
     },
     {
-      "added_at": "2023-06-30 11:18:44",
+      "added_at": "2023-03-28 04:43:31",
       "album": {
-        "name": "Puppy Shame",
-        "url": "https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u"
+        "name": "Aasa Dhan",
+        "url": "https://open.spotify.com/album/6ynGIWcXwy4sD2VohRGM8p"
       },
       "artists": [
         {
-          "name": "Niranjan Babu",
-          "url": "https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Puppy Shame",
-      "url": "https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs"
-    },
-    {
-      "added_at": "2023-07-07 10:45:06",
-      "album": {
-        "name": "Pongal Puliyodharai",
-        "url": "https://open.spotify.com/album/5wViXAX88oexvwv18gE447"
-      },
-      "artists": [
-        {
-          "name": "Vetti Payan Venkat",
-          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
+          "name": "Prags",
+          "url": "https://open.spotify.com/artist/3lEBrr4ctHFkjkLUNJNcCR"
         },
         {
-          "name": "RamGanesh K",
-          "url": "https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M"
+          "name": "Sudarson Murali",
+          "url": "https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Pongal Puliyodharai",
-      "url": "https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1"
+      "duration_ms": 222000,
+      "name": "Aasa Dhan",
+      "url": "https://open.spotify.com/track/7Ag6nMoZNfsK7yf9p670nn"
     },
     {
       "added_at": "2023-07-04 11:25:29",
@@ -165,24 +149,40 @@
       "url": "https://open.spotify.com/track/6K9UX4O0gJDWB5WA2yKZ8F"
     },
     {
-      "added_at": "2023-03-28 04:43:31",
+      "added_at": "2023-07-12 08:19:12",
       "album": {
-        "name": "Aasa Dhan",
-        "url": "https://open.spotify.com/album/6ynGIWcXwy4sD2VohRGM8p"
+        "name": "Valithathey",
+        "url": "https://open.spotify.com/album/1mx2goQMmpZ4Xy08BMbo8F"
       },
       "artists": [
         {
-          "name": "Prags",
-          "url": "https://open.spotify.com/artist/3lEBrr4ctHFkjkLUNJNcCR"
-        },
-        {
-          "name": "Sudarson Murali",
-          "url": "https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2"
+          "name": "Allan Preetham",
+          "url": "https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Aasa Dhan",
-      "url": "https://open.spotify.com/track/7Ag6nMoZNfsK7yf9p670nn"
+      "duration_ms": 121874,
+      "name": "Valithathey",
+      "url": "https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl"
+    },
+    {
+      "added_at": "2023-07-07 10:45:06",
+      "album": {
+        "name": "Pongal Puliyodharai",
+        "url": "https://open.spotify.com/album/5wViXAX88oexvwv18gE447"
+      },
+      "artists": [
+        {
+          "name": "Vetti Payan Venkat",
+          "url": "https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e"
+        },
+        {
+          "name": "RamGanesh K",
+          "url": "https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Pongal Puliyodharai",
+      "url": "https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1"
     },
     {
       "added_at": "2023-06-16 08:57:15",
@@ -225,6 +225,26 @@
       "url": "https://open.spotify.com/track/2eB6gQjZdls4ZGckkf20Gw"
     },
     {
+      "added_at": "2023-07-12 08:24:04",
+      "album": {
+        "name": "Idhan Gaana",
+        "url": "https://open.spotify.com/album/747Azf5u7bpSWTWUSZ0FiQ"
+      },
+      "artists": [
+        {
+          "name": "Gana Gokul",
+          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
+        },
+        {
+          "name": "Joy Sanjay",
+          "url": "https://open.spotify.com/artist/3fFpEhwwEtLCMoUUJLKcYB"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "Idhan Gaana",
+      "url": "https://open.spotify.com/track/1naa4iFduSjQxX8b0lCpKs"
+    },
+    {
       "added_at": "2023-06-16 08:57:15",
       "album": {
         "name": "Vannamayilae",
@@ -243,6 +263,22 @@
       "duration_ms": 187384,
       "name": "Vannamayilae",
       "url": "https://open.spotify.com/track/5cgiw1qjyjnrmP8Xmm4LFf"
+    },
+    {
+      "added_at": "2023-06-30 11:18:44",
+      "album": {
+        "name": "Puppy Shame",
+        "url": "https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u"
+      },
+      "artists": [
+        {
+          "name": "Niranjan Babu",
+          "url": "https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Puppy Shame",
+      "url": "https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs"
     },
     {
       "added_at": "2023-06-26 10:09:28",

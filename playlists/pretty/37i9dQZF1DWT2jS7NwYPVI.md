@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover:  Petey
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,957 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,024 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 98 | [Phone Booth](https://open.spotify.com/track/221dIk4DHWGGLNzlQmmOwG) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Phone Booth](https://open.spotify.com/album/1L3cueTE6Y6YkxHW2K5e4r) | 3:01 |
 | 99 | [Daydrinker](https://open.spotify.com/track/7FHcWjWcUiVPohKZcC5WTn) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Daydrinker](https://open.spotify.com/album/0YDXq4cjU2ygFh6RFBbqhY) | 2:45 |
 
-Snapshot ID: `MCw2YTA1ODgxZGQzOGI4NTlkZWYyNzdhNWQ3OWQ3MmQ1YmRhNWJjZDYz`
+Snapshot ID: `MCwyZmY1NzdkODczMDU5OGE2YzhkMWIyOTJkNDQxMGZhNjc2OWM3NTA0`

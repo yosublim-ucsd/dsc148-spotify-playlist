@@ -630,6 +630,24 @@
     {
       "album": {
         "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71826,
+      "name": "Discovering River",
+      "url": "https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/73G16hzvmWQD4wgcqFrX5H"
       },
       "artists": [
@@ -644,28 +662,6 @@
       "duration_ms": 71826,
       "name": "Discovering River",
       "url": "https://open.spotify.com/track/4nNFaPF3JRJdDoltCGZRVX"
-    },
-    {
-      "album": {
-        "name": "The Revenant (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        },
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 71826,
-      "name": "Discovering River",
-      "url": "https://open.spotify.com/track/2WuDHuqqedCB2jqZgGm5Om"
     },
     {
       "album": {

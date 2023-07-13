@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,832 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,934 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 | 57 | [Yadorigi](https://open.spotify.com/track/1PrTeEDCnjZdlfQFl97rkp) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 3:50 |
 | 58 | [Asa Ga Furu](https://open.spotify.com/track/3BDZyESMdsPvAdSfdTBmAv) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:04 |
 | 59 | [Mellow](https://open.spotify.com/track/3w5kFSmtOVC5XAifIwR9Xz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:46 |
-| 60 | [インスタントヘヴン](https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [フライングベスト〜知らないの?巷で噂のダメ天使〜](https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC) | 3:50 |
+| 60 | [インスタントヘヴン](https://open.spotify.com/track/1R8Md1Ol88i2Ilm7qpMXZk) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn), [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [フライングベスト〜知らないの？巷で噂のダメ天使〜](https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC) | 3:50 |
 
-Snapshot ID: `MCwzMDgxYmE0N2ZlMTA3YWM1MDUyNTUwZjM2OWFkMTQ4MDcwODc4N2Ew`
+Snapshot ID: `MCxmYjU1Y2Y3YmVlNTgxYTdhZTU1ZjA4NjQyNTA3OTkyMDVmZjI5NjUx`

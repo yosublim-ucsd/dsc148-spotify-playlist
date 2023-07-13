@@ -145,6 +145,24 @@
     },
     {
       "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2GGdcif99IqBhZ7m9401eZ"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3a19KaPgaijBm1yOmqsxf9"
+    },
+    {
+      "album": {
         "name": "ATTNTN",
         "url": "https://open.spotify.com/album/6OE9lvvKzTkXjWQafV4rjU"
       },
@@ -526,7 +544,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 321428,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 150857,
       "name": "Jo",
       "url": "https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H"
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 212210,
       "name": "Made Whole",
       "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
@@ -2330,6 +2348,10 @@
         {
           "name": "Nathanael",
           "url": "https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
         }
       ],
       "date_added": "2022-07-30",

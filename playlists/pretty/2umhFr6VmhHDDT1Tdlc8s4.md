@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 
 > 
 
-[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 41 songs - 2 hr 27 min
+[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 42 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 | 39 | [Hold U](https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/3Q7cvRxPP6gbPZf2u7AM2e) | 4:16 |
 | 40 | [Hearteyes](https://open.spotify.com/track/5XAUmbxKfJn6zbuAyzJtkg) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 3:17 |
 | 41 | [No Rush](https://open.spotify.com/track/6uF872FviEDxImISjPD4Hs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 2:12 |
+| 42 | [All You Gotta Be When You're 23 Is Yourself](https://open.spotify.com/track/0ppPrxfIry7uMvM7djyFX6) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:26 |
 
-Snapshot ID: `NzgsMmY2MzNlODQ0ZTdkYzQwOTlhNDE0MGVkYWFhODg2MjNjYmM1YWQ0ZQ==`
+Snapshot ID: `NzksODNlOTA5YjNmN2FmOWJjMWNiYTNlOTQxNzQ5MjI4OTZlYTQ3Y2I4YQ==`

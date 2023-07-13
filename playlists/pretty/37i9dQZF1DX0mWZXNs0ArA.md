@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,615,207 likes - 103 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,421 likes - 103 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 102 | [Red Ruby Da Sleeze \- Sped Up](https://open.spotify.com/track/5J1vxba3jtIW9s8fQdf0rh) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Red Ruby Da Sleeze \(Sped Up\)](https://open.spotify.com/album/5HCvLKZPNfrztoLv2fPs48) | 2:59 |
 | 103 | [universe \(sped up\)](https://open.spotify.com/track/24kdDAmUUDwElZJ9NClVfP) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [universe \(sped up\)](https://open.spotify.com/album/3GfD4UP3CVhJTsGt5ygHi1) | 2:12 |
 
-Snapshot ID: `MCwzNzc3MzEzY2U3OGY3NjU2OWY5MjkzYTNmMDgzNTU2MTZhMTRiMjBk`
+Snapshot ID: `MCxlYTI3NWQzMWI1OGIyOGQ4NzUxNGU2MzhmMzQ0Nzk5YzVhNzZhNGQw`

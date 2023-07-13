@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A\"> Nasty C</a>",
-  "num_followers": 122646,
+  "num_followers": 122716,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2FmM2E5NDg1ZDA1ZjhlZWIyNTAwNmE2M2Q0ZDlmOGM3M2NiNDJk",
+  "snapshot_id": "MCw4MmMwM2VkMzY5ZjQ3MDMzMmZhYTIwN2RkZDAzYzE0MzcxNGZlNzQ0",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/1DuDPjQW38GF4bpZ4GgPR5"
       },
@@ -987,18 +1003,38 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "Penny",
-        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
       },
       "artists": [
         {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+          "name": "A-Q",
+          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Penny",
-      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
+      "duration_ms": 201897,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1031,42 +1067,6 @@
       "duration_ms": 209148,
       "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
       "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/3ndmcE1AyI4Ajku42lKPXN"
-      },
-      "artists": [
-        {
-          "name": "A-Q",
-          "url": "https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 201897,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 132765,
+      "name": "4 Door Jeep",
+      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
         "name": "Ball Till We Fall",
         "url": "https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 143220,
       "name": "Ball Till We Fall",
       "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "Sex Over Love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 132765,
-      "name": "4 Door Jeep",
-      "url": "https://open.spotify.com/track/6ePSJX6heXGhQGPVbS0gso"
     },
     {
       "added_at": "2023-06-29 23:00:00",

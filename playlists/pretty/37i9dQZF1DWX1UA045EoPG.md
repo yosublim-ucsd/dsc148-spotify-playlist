@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,669 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,666 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 34 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 |
 | 35 | [Way Out](https://open.spotify.com/track/3CiBI1yRg9oUygxCOXlxUq) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Way Out](https://open.spotify.com/album/0mZWmkD3zpDu8qEnGHl5oI) | 3:19 |
 | 36 | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/track/1YItRRQXVa3GtFSZ0RmgXA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Goodbyes \(feat\. Method Man\)](https://open.spotify.com/album/4mo8TcrCcCfn4bjZmpgyIC) | 3:21 |
-| 37 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [iamalex](https://open.spotify.com/artist/1VGj7BaUru5Te0iAl36oXm), [Hip Dozer](https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 |
+| 37 | [Changed](https://open.spotify.com/track/1eqUhiAigR4rtx5EmZkiNl) | [Hip Dozer](https://open.spotify.com/artist/4MtoPS2GV2hUxacTHz9J6p), [Gildas](https://open.spotify.com/artist/59E4oYHMyZKbP1B0MRdZU5) | [Changed](https://open.spotify.com/album/1PyVw5kgM8EZGH0BABIvTK) | 3:50 |
 | 38 | [Disco Yes](https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:40 |
 | 39 | [MPH](https://open.spotify.com/track/7tzRTFrsbmx9M4O8iQug7H) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [MPH](https://open.spotify.com/album/7MBwB6nRv4cikVJEWevUHU) | 3:33 |
 | 40 | [Change](https://open.spotify.com/track/7HPoNHUAZaXkMFoKUL8Dah) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Joy, Ease, Lightness](https://open.spotify.com/album/5ybMFVNupOM0QpV9d8hciD) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 |
 
-Snapshot ID: `MCw2OTdjMTY0MjJjMGM0MWQwMzE1N2FhYTY2NmM0MDQ0NjQzY2MwNjJi`
+Snapshot ID: `MCw4MjhlNDg2Yzk4ZDZlZDI2NGNlZjc3YzU4MjgxNDk2YjdlMGE1NjYx`

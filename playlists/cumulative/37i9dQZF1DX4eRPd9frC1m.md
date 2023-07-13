@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-274 songs - 15 hr 6 min
+275 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [FOOTWORK](https://open.spotify.com/track/1LDAyB24s26kvMt6hXFBks) | [Dropwizz](https://open.spotify.com/artist/3t4Po0hp4Vi8XqKipK3WJQ) | [FOOTWORK](https://open.spotify.com/album/0oi8NQS13uy43aHcy3xSFi) | 3:53 | 2021-11-19 | 2022-01-08 |
 | [Forever](https://open.spotify.com/track/0gWQBwxwQRum86Rx4DaDHL) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Forever](https://open.spotify.com/album/3NkRNGqhU0WONr1ob77DKD) | 3:25 | 2021-11-19 | 2022-01-08 |
 | [FUCK IT UP](https://open.spotify.com/track/5s5Iv5IJ0hz0KDLXi14jRY) | [M?STIC](https://open.spotify.com/artist/0xlnHj0LM8ohKxoVEu56L4), [808GONG](https://open.spotify.com/artist/0JjEnXvT2nZMKYGmkZY5qC), [KEWL JERK](https://open.spotify.com/artist/0OCxBT7jOo0arczn7H4aKT) | [FUCK IT UP](https://open.spotify.com/album/3lnshycm7c7Kv24RpPTXWb) | 2:53 | 2021-11-19 | 2022-01-08 |
-| [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 |  |
+| [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-27 | 2023-07-13 |
 | [Gainz](https://open.spotify.com/track/3Jn9sa1NMDRLMnJX1eGpBU) | [Deadlyft](https://open.spotify.com/artist/4GGTNnm1vsvXSqQIemBWsY) | [Gainz](https://open.spotify.com/album/1Qq854uHnFk9KidM0uACSr) | 3:53 | 2021-11-19 | 2023-06-08 |
 | [Gang Shit](https://open.spotify.com/track/2dDDwAvdVHHNTnfRFzGMgK) | [Dotcom](https://open.spotify.com/artist/3mS6BpiviqsTL1uuYghf3s), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Gang Shit](https://open.spotify.com/album/5mQTotzqXAyEpQXiWrXaDV) | 3:20 | 2021-11-19 | 2022-01-08 |
 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 | 2022-01-07 |  |
@@ -111,6 +111,7 @@
 | [Heads Or Tails](https://open.spotify.com/track/2o5GJ6ODpzswofGKNI2ZYv) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Heads or Tails](https://open.spotify.com/album/2Vwyw648RQRBunjOXcG6oW) | 3:47 | 2021-11-19 | 2022-01-08 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-05-26 |  |
 | [Heartbroken Twenty Twenty](https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z) | [Mike Zombie](https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ), [DJ Jayhood](https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G) | [Heartbroken Twenty Twenty](https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4) | 2:51 | 2021-11-19 | 2022-08-27 |
+| [HEAT](https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [HEAT](https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR) | 3:15 | 2023-07-07 |  |
 | [Here With Me](https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Here With Me](https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN) | 3:43 | 2021-11-19 |  |
 | [Hideaway](https://open.spotify.com/track/7wwin4Zrs6dB9waWnVZqZa) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Hideaway](https://open.spotify.com/album/0SzzJuc02s0uKGsS89eqF9) | 2:23 | 2021-11-19 | 2022-10-06 |
 | [High Life](https://open.spotify.com/track/2N6qMBL0E2G55pKKmkCDce) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [High Life](https://open.spotify.com/album/05zUsDDYlLrK2A0YDr0NOl) | 2:35 | 2022-04-15 | 2022-07-29 |

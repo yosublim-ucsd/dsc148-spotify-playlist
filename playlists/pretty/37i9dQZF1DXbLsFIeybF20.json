@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141541,
+  "num_followers": 141543,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmU4NWE5NTAzMzk0ZmUzM2RmOTIxNTY0NTVkOGU3YzEwY2U5YzIx",
+  "snapshot_id": "MCwwZTM2NGVlYmZhNGY2ZDhkY2UxYzAwY2EzOWMzMmMyOTZlNzNhMjY3",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -63,22 +63,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "Do Whatcha Wanna",
-      "url": "https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "This is Jazz 30: The Dirty Dozen Brass Band",
         "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 296400,
       "name": "It's All Over Now",
       "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "Do Whatcha Wanna",
+      "url": "https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Jazz King Of New Orleans",
         "url": "https://open.spotify.com/album/0Ba5A8yCUvwWPfA34dO7Do"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 192426,
       "name": "Black Bottom Stomp - 2002 Remastered",
       "url": "https://open.spotify.com/track/1aSEXfmjaaCigbzLLtZlAm"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Do Watcha Wanna",
         "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 335506,
       "name": "I Feel Like Funkin' It Up - Extended Mix",
       "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -311,22 +311,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Mr. New Orleans",
-        "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
-      },
-      "artists": [
-        {
-          "name": "Pete Fountain",
-          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
-        }
-      ],
-      "duration_ms": 169026,
-      "name": "Walking Through New Orleans",
-      "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Presenting Johnny Dodds",
         "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 179600,
       "name": "I'm Goin' Huntin'",
       "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Mr. New Orleans",
+        "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
+      },
+      "artists": [
+        {
+          "name": "Pete Fountain",
+          "url": "https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "Walking Through New Orleans",
+      "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -391,22 +391,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
         "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 219666,
       "name": "Careless Love",
       "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
-      },
-      "artists": [
-        {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "My Feet Can't Fail Me Now",
         "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 312640,
       "name": "Do It Fluid",
       "url": "https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Our New Orleans (Expanded Edition)",
         "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 220080,
       "name": "Canal Street Blues",
       "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Atlantic Jazz: New Orleans",
-        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Shreveport Stomp",
-      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Back to My Roots",
         "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 254885,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Atlantic Jazz: New Orleans",
+        "url": "https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Shreveport Stomp",
+      "url": "https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN"
     },
     {
       "added_at": "2021-04-26 16:53:52",

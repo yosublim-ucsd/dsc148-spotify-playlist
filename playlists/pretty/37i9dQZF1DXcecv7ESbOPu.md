@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,565 likes - 116 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,575 likes - 116 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 96 | [Mi Lova](https://open.spotify.com/track/6qUfKsUPGERMdhOwPIqhsS) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Mi Lova](https://open.spotify.com/album/1jgDrpTOxsETxJfJfZYHmV) | 3:40 |
 | 97 | [HANDS UP!](https://open.spotify.com/track/4yyrqAE18WygbNJhVW91g7) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [HANDS UP!](https://open.spotify.com/album/0sewRJupZ1zkzYo6h3X388) | 1:29 |
 | 98 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/1Dm5maHjhhmcdqS5hK61Ut) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/album/28glrS4PZTYh2VfqX1mP6H) | 2:47 |
-| 99 | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless \(feat\. Tee Grizzley\)](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
+| 99 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 |
 | 100 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 |
 | 101 | [Vibrant](https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vibrant](https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1) | 2:03 |
 | 102 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 115 | [En riktig Volvo EPA](https://open.spotify.com/track/0OKmG2oBxxMaJzHzFdaL5S) | [Larz\-Kristerz](https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3) | [En riktig Volvo EPA](https://open.spotify.com/album/3i28l4ihW86rsTsjPX4pRf) | 3:13 |
 | 116 | [Besatt](https://open.spotify.com/track/5Luc1MxPaCA6pASWag5Bm8) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Besatt](https://open.spotify.com/album/3CJZcCzy5KCqYpCKdrMxxt) | 3:49 |
 
-Snapshot ID: `MCwwYjRmOGQ4Njk1MjZmOTg4ODZkY2JkMTcwZmZlNzQ5ZmMzNWVhNTEz`
+Snapshot ID: `MCxhZWQzZDI3ZDQ2YTRiZDc4NzE0NmVlZjk3MTE2MGJhNTczNjA0YmNm`

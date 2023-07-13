@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 173652,
       "name": "Always Dancin'",
       "url": "https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 217606,
       "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
       "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
@@ -973,6 +973,36 @@
     },
     {
       "album": {
+        "name": "Disco Numberwang (Yuksek Remix)",
+        "url": "https://open.spotify.com/album/49JAzmywAauTwh8SfYpHvI"
+      },
+      "artists": [
+        {
+          "name": "Jean Aubergine",
+          "url": "https://open.spotify.com/artist/4LNUiwpws2ESftZoKF4ltM"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        },
+        {
+          "name": "Amy Douglas",
+          "url": "https://open.spotify.com/artist/75mkVqy2sFZhH6ZdVW3n96"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288240,
+      "name": "Disco Numberwang - Yuksek Remix",
+      "url": "https://open.spotify.com/track/6nQeJbbByQsUHqHHHaaYln"
+    },
+    {
+      "album": {
         "name": "DNT STP MY LV",
         "url": "https://open.spotify.com/album/1LkHkL1oSK6BvhDe76pLx8"
       },
@@ -1490,6 +1520,24 @@
       "duration_ms": 217407,
       "name": "Freedom (Never Let You Go)",
       "url": "https://open.spotify.com/track/0AobTeawzXgsGlVnmFtIR7"
+    },
+    {
+      "album": {
+        "name": "Giodisco",
+        "url": "https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "Giodisco",
+      "url": "https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM"
     },
     {
       "album": {
@@ -2852,7 +2900,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 204823,
       "name": "Love If You Need It (feat. Fi McCluskey) - Mousse T.'s Classic Shizzle",
       "url": "https://open.spotify.com/track/1MQ1gkmAvEE0hIuPlyeaCz"
@@ -2968,6 +3016,24 @@
       "duration_ms": 413926,
       "name": "Lubek",
       "url": "https://open.spotify.com/track/6NYJCaipqD2Q0KgRmFXJ2t"
+    },
+    {
+      "album": {
+        "name": "Lucky Charm",
+        "url": "https://open.spotify.com/album/4YXAM5k4xYCv0OamC7Oqw4"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Lucky Charm",
+      "url": "https://open.spotify.com/track/2erFbCr8uI3HIXEKcf3qoD"
     },
     {
       "album": {
@@ -3224,7 +3290,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks"
@@ -3250,6 +3316,28 @@
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
+    },
+    {
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/4jbeFKSMNmFKKx03qSNSXJ"
+      },
+      "artists": [
+        {
+          "name": "HOT M3SS",
+          "url": "https://open.spotify.com/artist/2qCgEw55iZlYeiqPwz9L1i"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Movin' On",
+      "url": "https://open.spotify.com/track/3k11yfFTcHQtSkFY70wOX5"
     },
     {
       "album": {
@@ -4028,7 +4116,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 224865,
       "name": "Pretty Girl Era - Super Disco Mix",
       "url": "https://open.spotify.com/track/6AXNXza0OnkcpL1eZRDRFB"
@@ -4204,7 +4292,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 169523,
       "name": "Rules Of Love",
       "url": "https://open.spotify.com/track/5ltPxMRV198CleQMdjwd1R"

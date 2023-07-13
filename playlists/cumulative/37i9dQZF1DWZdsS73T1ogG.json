@@ -4167,6 +4167,28 @@
     },
     {
       "album": {
+        "name": "Enigma (Remix)",
+        "url": "https://open.spotify.com/album/5HwvdJEkRPiVg5BNbpzXuk"
+      },
+      "artists": [
+        {
+          "name": "Deimi",
+          "url": "https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194525,
+      "name": "Enigma - Remix",
+      "url": "https://open.spotify.com/track/59MDxtaOcMfx1kGbkw4BIQ"
+    },
+    {
+      "album": {
         "name": "Envidia",
         "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
       },
@@ -9386,7 +9408,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 223389,
       "name": "Orgullo",
       "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"

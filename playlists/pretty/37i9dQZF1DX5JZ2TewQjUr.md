@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lydia Pau
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,658 likes - 185 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,661 likes - 185 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,7 +165,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 155 | [ONE WAY TICKET](https://open.spotify.com/track/3FNKClHn7kEIXkN5ow9KcJ) | [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [ONE WAY TICKET](https://open.spotify.com/album/70GYbQtWYzGYQQDT9IIYhT) | 3:14 |
 | 156 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 157 | [ME U](https://open.spotify.com/track/3BztdQlSChX0PUeFinnsYr) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [XANADU](https://open.spotify.com/album/05pgDUmktdenplVwZwkEn5) | 1:51 |
-| 158 | [Forest](https://open.spotify.com/track/304SYYFETQyIXPHana8jaU) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Kevin Chau](https://open.spotify.com/artist/1S9Z4YjELnR5xyi1l2GQc4), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/11Kvjk7Z8dC8QSmpfnzqsD) | 5:27 |
+| 158 | [Forest](https://open.spotify.com/track/304SYYFETQyIXPHana8jaU) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/11Kvjk7Z8dC8QSmpfnzqsD) | 5:27 |
 | 159 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 |
 | 160 | [轉生友誼戰隊](https://open.spotify.com/track/2y0FdmpncYoiJhPXa16ziY) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV), [FUNGMADE 卓峰整嘅](https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I), [KRAY](https://open.spotify.com/artist/1Vknqy3noTujdCjbI3xxF1) | [00](https://open.spotify.com/album/1GXxkt7bWKXlCzl6yADbOa) | 2:27 |
 | 161 | [魚蛋燒賣](https://open.spotify.com/track/4lSKRgNrR3x8nnLSTXpFI1) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva), [N\-Free](https://open.spotify.com/artist/0or4a5LZi0qF0shTXnTNvZ) | [魚蛋燒賣](https://open.spotify.com/album/3EMwOR2jUzFD08ncmVCpnw) | 2:35 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 184 | [火海](https://open.spotify.com/track/2A4bsoid4UOsxaxZFdfV73) | [留香瓊](https://open.spotify.com/artist/58zAtNxBTtRpnwe9bwQaQN) | [火海](https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi) | 4:55 |
 | 185 | [唔開心即食麵](https://open.spotify.com/track/7jO1vj4cDMRWvU1A1Lk5ap) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [唔開心即食麵](https://open.spotify.com/album/364NeJ3OjhOuFiLCeFkR2R) | 3:06 |
 
-Snapshot ID: `MCxmMzI4NGE1YjZkZTk1ZGFkNTJlMGNjYWVkZTE4MDg3MjkxMTJiMjkw`
+Snapshot ID: `MCw5MWJkYTIxN2MwOGY2MDc5OTk3NWJjMGZkMjdmNDJlNTYzYTJkOTAw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH?si=vsG7T0ZgTzylx9yw4LLy4Q"> Ninho</a> and  <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=Og6QcHE6SM6qv9Ifeds6hg"> Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,364 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,489 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Slow Motion \(feat\. Wizkid\)](https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 2:48 |
 | 80 | [Designer](https://open.spotify.com/track/7dZsdVRJOf5SVRZN2LH6EH) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 |
 
-Snapshot ID: `MCw4NTQxMjNmNzBjMWI1OTc1NjU1MTMyN2FhMGIwOTgzM2YwZTE0YzNh`
+Snapshot ID: `MCw0NTA0YzJkMTg3YmFjNGZmMDMwOWFhZDUzODBlZTBkZjRjOTQ0ZmFh`

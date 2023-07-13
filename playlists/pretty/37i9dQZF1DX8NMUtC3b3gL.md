@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,853 likes - 283 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,627 likes - 283 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 56 | [Gero\-Gero](https://open.spotify.com/track/6WEsTVSuRZR3Ru1rA3WRMt) | [Lime Nyorobon](https://open.spotify.com/artist/5JYFvN3c7qDJyLruTdkyPq) | [Gero\-Gero](https://open.spotify.com/album/6LWvcYh0KxQe7y08YhjBcK) | 2:03 |
 | 57 | [Urban Chillax](https://open.spotify.com/track/26xKW0AN8JMF2muG39F8UR) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Cozy Cafe Chronicles](https://open.spotify.com/album/1p9LKWRXihREGQJFsYcHZW) | 2:16 |
 | 58 | [Mooging Away](https://open.spotify.com/track/5UjCCzHAYZhSuTXHdfnk5G) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Mooging Away](https://open.spotify.com/album/3tGIr44JP55wqynE8EbUE4) | 2:25 |
-| 59 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
+| 59 | [Euá](https://open.spotify.com/track/5mLHyg1Ljqvo1lZlDgYhdc) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Euá](https://open.spotify.com/album/4PsJG28AZlO1BehvVQVHBj) | 2:44 |
 | 60 | [Inner Peace](https://open.spotify.com/track/0eUF2e0MbDLjn3q6oAozI3) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Inner Peace](https://open.spotify.com/album/3WSaq9ZPAbpmybrccwdxbc) | 2:05 |
 | 61 | [Mystiqa](https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Mystiqa](https://open.spotify.com/album/6M3oABRnIDaxJs6K6g0NJ4) | 2:21 |
 | 62 | [In My Lifetime](https://open.spotify.com/track/4xnUnOJbzbWZEVY4Ktublu) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [In My Lifetime](https://open.spotify.com/album/4I8emTVXQz9SwQJ4n0sDio) | 1:49 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 282 | [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 |
 | 283 | [Summer Nights](https://open.spotify.com/track/4ie8E16PC1VHVESsUXUfYx) | [Louis Woods](https://open.spotify.com/artist/2vVChmDdarQ6uVWL5QpIOq) | [Summer Nights](https://open.spotify.com/album/4rTQm79IK5yrJDJkTz9uNE) | 2:02 |
 
-Snapshot ID: `MCxjZjRlYmRkNmM0OTVjY2ExM2U4ODhmNjMyMDhkZTczNTFiNTQzZWJi`
+Snapshot ID: `MCwxY2MwYWM4N2E0MzRiMjM2ZjRiNTJlYTNhOTcxNWQyYTNlODUzODJl`

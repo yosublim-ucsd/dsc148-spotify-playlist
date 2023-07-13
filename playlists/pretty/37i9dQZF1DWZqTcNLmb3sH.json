@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50086,
+  "num_followers": 50096,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTZmMTNlODRiYWI0MDE0MmYwYmRkNzIyMmNlYTE5OWJhNWQ1NDIx",
+  "snapshot_id": "MCw4NWNjZDViNDUxZjY5NGUwMjkzYWNmODcxMzc1MmMzMzc1ZjVhOTBk",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -79,6 +79,34 @@
       "duration_ms": 212985,
       "name": "Arrere - From \"Tales of Mahanagara\"",
       "url": "https://open.spotify.com/track/2grYgChOuQAzGW8fI5Ww9p"
+    },
+    {
+      "added_at": "2023-07-12 11:22:29",
+      "album": {
+        "name": "Aradhya (From \"Kushi\")",
+        "url": "https://open.spotify.com/album/6rDZOiSJPVqUAb0pCEZLCD"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 281527,
+      "name": "Aradhya (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/7D9s7SGO3QjrDAWSEWVMED"
     },
     {
       "added_at": "2023-07-04 11:00:31",
@@ -173,6 +201,30 @@
       "url": "https://open.spotify.com/track/3Kd7x5XgQN6Arj7Mv50sCY"
     },
     {
+      "added_at": "2023-07-12 11:22:29",
+      "album": {
+        "name": "Aasare (From \"Nimmellara Aashirvada \")",
+        "url": "https://open.spotify.com/album/48MQ48TQGcCQclseDhEW5e"
+      },
+      "artists": [
+        {
+          "name": "Rajath Hegde",
+          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
+        },
+        {
+          "name": "Sunaad Gowtham",
+          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
+        },
+        {
+          "name": "Ganapathi Diwan",
+          "url": "https://open.spotify.com/artist/0dRnjhvWhBiDnsKyabNepu"
+        }
+      ],
+      "duration_ms": 300948,
+      "name": "Aasare - From \"Nimmellara Aashirvada \"",
+      "url": "https://open.spotify.com/track/2fquawD0QH7ALTaY5B7R2o"
+    },
+    {
       "added_at": "2023-05-20 08:05:14",
       "album": {
         "name": "Preethisuve (From \"Kousalya Supraja Rama\") - Single",
@@ -265,24 +317,24 @@
       "url": "https://open.spotify.com/track/1SXRBzjHxxHfoPne3ibmRL"
     },
     {
-      "added_at": "2023-07-03 10:32:24",
+      "added_at": "2023-07-12 11:22:29",
       "album": {
-        "name": "Damayana",
-        "url": "https://open.spotify.com/album/7FyBN0JUMBxjm5hVmvNKIp"
+        "name": "Single Sevanthi (\"From 13\")",
+        "url": "https://open.spotify.com/album/62D3wY5QJnVmH6124MvbD1"
       },
       "artists": [
         {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
         },
         {
-          "name": "Ninada U Nayak",
-          "url": "https://open.spotify.com/artist/6OHKmmbUtWcy8ETZIQ11Rz"
+          "name": "Shogun Babu",
+          "url": "https://open.spotify.com/artist/08H6McJyVcYplnrNd5duYU"
         }
       ],
-      "duration_ms": 209078,
-      "name": "Muddu Peddu Medulugalu",
-      "url": "https://open.spotify.com/track/3i2pNybghzTQy8or2MOqjd"
+      "duration_ms": 230869,
+      "name": "Single Sevanthi - \"From 13\"",
+      "url": "https://open.spotify.com/track/6h9yOHNYCa7CopH5XaJUws"
     },
     {
       "added_at": "2023-07-08 12:44:18",
@@ -307,30 +359,6 @@
       "duration_ms": 237818,
       "name": "Vasundharadevi (Title Song) - From \"Vasundharadevi\"",
       "url": "https://open.spotify.com/track/3wmCotziSIGCU1vu7fZd3j"
-    },
-    {
-      "added_at": "2023-06-02 08:38:27",
-      "album": {
-        "name": "Endu Endendu (From \"Melody Drama\")",
-        "url": "https://open.spotify.com/album/06DaLhtUFfH7oYPyqXu9tN"
-      },
-      "artists": [
-        {
-          "name": "Kiran Ravindranath",
-          "url": "https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        }
-      ],
-      "duration_ms": 238461,
-      "name": "Endu Endendu (From \"Melody Drama\")",
-      "url": "https://open.spotify.com/track/4jgZ5UlWaXv0MQHOKNzH9o"
     },
     {
       "added_at": "2023-07-06 12:25:07",
@@ -441,30 +469,6 @@
       "url": "https://open.spotify.com/track/45i6Oq0aD0EZJ3PLG2IRP4"
     },
     {
-      "added_at": "2023-07-03 10:32:24",
-      "album": {
-        "name": "Oh My Love (From \"Ambuja\")",
-        "url": "https://open.spotify.com/album/7dtx3ahcyU90I6YYA6Rvp0"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Prasanna Kumar M S",
-          "url": "https://open.spotify.com/artist/4tgEJqEEB2jSPmD3qhzp84"
-        },
-        {
-          "name": "Kashinath D Madiwalar",
-          "url": "https://open.spotify.com/artist/5FgMCC5kXWNwU3ChcHNuPx"
-        }
-      ],
-      "duration_ms": 237250,
-      "name": "Oh My Love - From \"Ambuja\"",
-      "url": "https://open.spotify.com/track/51Vp53MR4How58rfSycArK"
-    },
-    {
       "added_at": "2023-06-30 11:28:38",
       "album": {
         "name": "Love (Original Motion Picture Soundtrack)",
@@ -503,34 +507,6 @@
       "duration_ms": 220235,
       "name": "Hodirale Halagi (From \"Garadi\")",
       "url": "https://open.spotify.com/track/4Enl1qWy0is6vI7fEqi5MH"
-    },
-    {
-      "added_at": "2023-06-13 09:32:52",
-      "album": {
-        "name": "Kousalya Supraja Rama Title Track (From \"Kousalya Supraja Rama\")",
-        "url": "https://open.spotify.com/album/0Er80ezv0fvfWkiHKCmCku"
-      },
-      "artists": [
-        {
-          "name": "Prithwi Bhat",
-          "url": "https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21"
-        },
-        {
-          "name": "Pooja Rao",
-          "url": "https://open.spotify.com/artist/6VngqEcZilQLW9DSLl10dS"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Shashank",
-          "url": "https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Kousalya Supraja Rama Title Track (From \"Kousalya Supraja Rama\")",
-      "url": "https://open.spotify.com/track/1TMscod5OKfvsC1wtZQSGM"
     },
     {
       "added_at": "2023-06-12 06:59:06",

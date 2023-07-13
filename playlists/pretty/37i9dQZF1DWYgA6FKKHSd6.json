@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 213984,
+  "num_followers": 214006,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzY2NmY4YTM2Njg5ZDE4YTI5NTkzNDcyMjA5N2FhYzUwNzViYzBj",
+  "snapshot_id": "MCwwZTZiZjIzZmRkMGU5MDVmNmU1YmFjM2I1YjE2MDFmMjdhNWM2MzRj",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 304360,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "The Sax Pack",
         "url": "https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 214986,
       "name": "The Sax Pack",
       "url": "https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 304360,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -339,26 +339,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        },
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        }
-      ],
-      "duration_ms": 285893,
-      "name": "Stone Groove",
-      "url": "https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "The Golden Hour",
         "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 202129,
       "name": "Frobidden Fruit",
       "url": "https://open.spotify.com/track/5AtQKKuYkuGbdQOXAvxGCN"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "duration_ms": 285893,
+      "name": "Stone Groove",
+      "url": "https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -513,20 +513,24 @@
       "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        },
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo"
         }
       ],
-      "duration_ms": 248573,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
+      "duration_ms": 253946,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -549,24 +553,20 @@
       "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2022-09-23 04:01:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        },
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
+      "duration_ms": 248573,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -691,38 +691,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Full Effect",
-      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "And Coffee",
         "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
       },
@@ -739,6 +707,22 @@
       "duration_ms": 212325,
       "name": "Espresso Shot",
       "url": "https://open.spotify.com/track/04G8syWNtbjgFSto01d7kd"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Full Effect",
+      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -771,6 +755,22 @@
       "duration_ms": 264148,
       "name": "Lean Into It",
       "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "Right Back Atcha",
-      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "The Goddess",
@@ -843,6 +827,22 @@
       "duration_ms": 246458,
       "name": "The Goddess",
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 289586,
+      "name": "Right Back Atcha",
+      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -879,6 +879,22 @@
       "duration_ms": 280613,
       "name": "Stratosphere",
       "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 258275,
+      "name": "Issa Party",
+      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -931,22 +947,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 258275,
-      "name": "Issa Party",
-      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "As the Days Go by...",
-        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
-      },
-      "artists": [
-        {
-          "name": "Alfonzo Blackwell",
-          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
-        }
-      ],
-      "duration_ms": 309827,
-      "name": "As the Days Go by...",
-      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Breakin' thru",
         "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
       },
@@ -1007,6 +991,54 @@
       "duration_ms": 270968,
       "name": "Breakin' thru",
       "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 261401,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "As the Days Go by...",
+        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+      },
+      "artists": [
+        {
+          "name": "Alfonzo Blackwell",
+          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+        }
+      ],
+      "duration_ms": 309827,
+      "name": "As the Days Go by...",
+      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1039,22 +1071,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "I'm Back",
         "url": "https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 252946,
       "name": "Hard Work (feat. Michael O'Hara)",
       "url": "https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Soho",
-      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Quintastic",
-        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        }
-      ],
-      "duration_ms": 243685,
-      "name": "Quintastic",
-      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Shades",
         "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
       },
@@ -1203,6 +1171,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO"
+      },
+      "artists": [
+        {
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "Soho",
+      "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 292320,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Quintastic",
+        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        }
+      ],
+      "duration_ms": 243685,
+      "name": "Quintastic",
+      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Smooth Jazz SAX Showcase",
+        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
+      },
+      "artists": [
+        {
+          "name": "Uko",
+          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
+        }
+      ],
+      "duration_ms": 296475,
+      "name": "Got To Be Real",
+      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "City Beat",
         "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Smooth Jazz SAX Showcase",
-        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
+        "name": "Church Boy",
+        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
       },
       "artists": [
         {
-          "name": "Uko",
-          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         }
       ],
-      "duration_ms": 296475,
-      "name": "Got To Be Real",
-      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
+      "duration_ms": 324453,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1327,6 +1343,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
@@ -1347,22 +1379,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Church Boy",
-        "url": "https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "I Smile",
-      "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Chocolate Vibez",
         "url": "https://open.spotify.com/album/61Ky4kdiJLMwg78uyXeZpk"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 254011,
       "name": "Crown Royal",
       "url": "https://open.spotify.com/track/4mZbsrWprSBCb61ZSMI6XR"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp"
-      },
-      "artists": [
-        {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Heat",
@@ -1623,6 +1607,22 @@
       "duration_ms": 237005,
       "name": "Dare 2 Dream",
       "url": "https://open.spotify.com/track/6YD15Hzv3d1oEE6eiw9CJV"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1677,6 +1677,22 @@
       "url": "https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4"
     },
     {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Serenity",
@@ -1707,22 +1723,6 @@
       "duration_ms": 211226,
       "name": "Laws Of Attraction",
       "url": "https://open.spotify.com/track/5yNJqzRzeZvrG5bEyb2u7Z"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Essence",
-        "url": "https://open.spotify.com/album/3quqcEs11KQm0IpKDGBbsW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Allen",
-          "url": "https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce"
-        }
-      ],
-      "duration_ms": 259019,
-      "name": "Essence",
-      "url": "https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I"
     }
   ],
   "unique_name": "Sax and the City",

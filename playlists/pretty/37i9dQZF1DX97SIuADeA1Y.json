@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 309161,
+  "num_followers": 309300,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjhhMDM5MzkyMWU2NmYyZjMxNDE0OGVkMDQzMDI4MzEzYzhmYzYw",
+  "snapshot_id": "MCxlZWFmYjYzNTU2NGVhMTEzYzkxNDE4OTA2OGIxODZjZmY5MGZhNDJm",
   "tracks": [
     {
       "added_at": "2023-06-16 16:02:51",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-06-16 16:02:51",
       "album": {
-        "name": "Ring of Ice (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Rush",
-          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 216344,
-      "name": "Ring of Ice - Stereoact Remix",
-      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
-    },
-    {
-      "added_at": "2023-06-16 16:02:51",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
+    },
+    {
+      "added_at": "2023-06-16 16:02:51",
+      "album": {
+        "name": "Ring of Ice (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rush",
+          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 216344,
+      "name": "Ring of Ice - Stereoact Remix",
+      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
     },
     {
       "added_at": "2023-06-16 16:02:51",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-16 16:02:51",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ"
-      },
-      "artists": [
-        {
-          "name": "MistaJam",
-          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
-        }
-      ],
-      "duration_ms": 156916,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88"
-    },
-    {
-      "added_at": "2023-06-16 16:02:51",
-      "album": {
         "name": "Skippin",
         "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 162580,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
+    },
+    {
+      "added_at": "2023-06-16 16:02:51",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/1MTAPqxvOAo54UcBZLD2AQ"
+      },
+      "artists": [
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        }
+      ],
+      "duration_ms": 156916,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/7AFgtsFcRfvXd2sUKd9o88"
     },
     {
       "added_at": "2023-06-16 16:02:51",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-06-16 16:02:51",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
+      },
+      "artists": [
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        },
+        {
+          "name": "RED5",
+          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
+    },
+    {
+      "added_at": "2023-06-16 16:02:51",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2023-06-16 16:02:51",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
-      },
-      "artists": [
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "RED5",
-          "url": "https://open.spotify.com/artist/6jOp1yLYpqfTIUmsNL89N7"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/6x3XjDTncGsIhsaLt3EDMx"
-    },
-    {
-      "added_at": "2023-06-16 16:02:51",
-      "album": {
         "name": "Under the Influence",
         "url": "https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx"
       },
@@ -1107,6 +1107,30 @@
     {
       "added_at": "2023-06-16 16:02:51",
       "album": {
+        "name": "Moonlight Shadow",
+        "url": "https://open.spotify.com/album/6lzT6YsquWyRwQlooAOWGM"
+      },
+      "artists": [
+        {
+          "name": "stay:us",
+          "url": "https://open.spotify.com/artist/698f11Z5HHN4S9VHdNV4is"
+        },
+        {
+          "name": "WhiteCapMusic",
+          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        }
+      ],
+      "duration_ms": 151777,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/1rGFJSczQrjMYHi62OR8vH"
+    },
+    {
+      "added_at": "2023-06-16 16:02:51",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/43cG9azowZhe7oSA5plrtU"
       },
@@ -1131,30 +1155,6 @@
       "duration_ms": 123711,
       "name": "Changes",
       "url": "https://open.spotify.com/track/42ab6M2Xm2Jkuo3nMUVgj3"
-    },
-    {
-      "added_at": "2023-06-16 16:02:51",
-      "album": {
-        "name": "Moonlight Shadow",
-        "url": "https://open.spotify.com/album/6lzT6YsquWyRwQlooAOWGM"
-      },
-      "artists": [
-        {
-          "name": "stay:us",
-          "url": "https://open.spotify.com/artist/698f11Z5HHN4S9VHdNV4is"
-        },
-        {
-          "name": "WhiteCapMusic",
-          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
-        },
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        }
-      ],
-      "duration_ms": 151777,
-      "name": "Moonlight Shadow",
-      "url": "https://open.spotify.com/track/1rGFJSczQrjMYHi62OR8vH"
     },
     {
       "added_at": "2023-06-16 16:02:51",

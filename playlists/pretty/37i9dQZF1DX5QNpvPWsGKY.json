@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 92546,
+  "num_followers": 92667,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Q2YjE4ZmZlMDQ4NjFhNDk1OWJhNTI1NzcyNDlkNjg2NjAxYjFi",
+  "snapshot_id": "MCw4MThhOGMzY2M1ZTcyZmIwMWUxYjcxNGZhMTZmYTIyMTlmOWIzOWM4",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -509,22 +509,6 @@
       "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Sergio El Bailador",
-        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Sergio el Bailador",
-      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
-    },
-    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "Los Felinos",
@@ -539,22 +523,6 @@
       "duration_ms": 226417,
       "name": "Morena",
       "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. 3",
-        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 281129,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -575,18 +543,34 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "Sergio El Bailador",
+        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+      "duration_ms": 169600,
+      "name": "Sergio el Bailador",
+      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. 3",
+        "url": "https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 281129,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -603,6 +587,22 @@
       "duration_ms": 228680,
       "name": "Quiero Saber De Ti",
       "url": "https://open.spotify.com/track/6St9CXbwvRkP9gHgbuC0mY"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "16 Exitos Super Tropicales",
-        "url": "https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4"
-      },
-      "artists": [
-        {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
-        }
-      ],
-      "duration_ms": 124995,
-      "name": "El Zancudito Loco",
-      "url": "https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj"
-    },
-    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Y Para Siempre ...",
@@ -1167,6 +1151,22 @@
       "duration_ms": 190053,
       "name": "Mi Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2W1H5fQD5rGHq0SduYaTbM"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "16 Exitos Super Tropicales",
+        "url": "https://open.spotify.com/album/3f4RJ24ZEtH5lgMy9hrTb4"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124995,
+      "name": "El Zancudito Loco",
+      "url": "https://open.spotify.com/track/0B6dN8EPnrZmM8OJGwlcRj"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Exitos Para Amanecer Bailando",
-        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
-      },
-      "artists": [
-        {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
-        }
-      ],
-      "duration_ms": 124604,
-      "name": "El Pipiripau",
-      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Sus M\u00e1s Grandes \u00c9xitos Volume 2",
         "url": "https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Exitos Para Amanecer Bailando",
+        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124604,
+      "name": "El Pipiripau",
+      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Cumbias Con Amor",
         "url": "https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 208266,
       "name": "Culpable O No",
       "url": "https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Serie Sensacional: Tropicalisimo Apache",
-        "url": "https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "La Hierba Se Mov\u00eda",
-      "url": "https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Serie Sensacional: Tropicalisimo Apache",
+        "url": "https://open.spotify.com/album/1pZ4Bc8s9h7rPzAHsXfx6b"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "La Hierba Se Mov\u00eda",
+      "url": "https://open.spotify.com/track/58F3513Tw8RUvF0kX3GOOU"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Amor Vendido, Vol. 4",
         "url": "https://open.spotify.com/album/6iC3acGZhPbKigho8pZNU3"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 199807,
       "name": "Hola, \u00bfC\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/3z3BcSmA92dr3J8LP51Kit"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Y Es por Ti",
-        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1411,6 +1395,22 @@
       "duration_ms": 154052,
       "name": "Pero Tu No Estas",
       "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
     },
     {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Rel\u00e1mpago De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Un Amor Como El M\u00edo",
+      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
+    },
+    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Lo Mejor De Guardianes Del Amor",
@@ -1561,22 +1577,6 @@
       "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Rel\u00e1mpago De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Un Amor Como El M\u00edo",
-      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
-    },
-    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Tongoneaito",
@@ -1625,24 +1625,20 @@
       "url": "https://open.spotify.com/track/5PHoBye30ufJ8xMcSDGEA0"
     },
     {
-      "added_at": "2022-01-25 19:05:16",
+      "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
-        "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/0300057YTq7KtpJL3Q454p"
       },
       "artists": [
         {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        },
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
         }
       ],
-      "duration_ms": 248373,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+      "duration_ms": 142640,
+      "name": "Ritmo Facil",
+      "url": "https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1665,6 +1661,26 @@
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
     },
     {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Nelson Henr\u00edquez vs. Pastor L\u00f3pez",
+        "url": "https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW"
+      },
+      "artists": [
+        {
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        },
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb"
+    },
+    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "Serie 32",
@@ -1681,22 +1697,6 @@
       "url": "https://open.spotify.com/track/4LtDqOqFiaXkR4AOpSFdbR"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 2",
-        "url": "https://open.spotify.com/album/7rv6OZsuVcX67G62GjpFvI"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 193677,
-      "name": "Endulzame El Caf\u00e9 Mar\u00eda",
-      "url": "https://open.spotify.com/track/0tKWbYtMGFaAjVLChc6rSS"
-    },
-    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Ron Y Coca Cola",
@@ -1711,42 +1711,6 @@
       "duration_ms": 194840,
       "name": "Ron Y Coca Cola",
       "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
-        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Margarita",
-          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Capullo y Sorullo",
-      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/0300057YTq7KtpJL3Q454p"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Ritmo Facil",
-      "url": "https://open.spotify.com/track/0sWGUO2EJrDvVsz3AVlRDF"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1775,6 +1739,42 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "M\u00fasica Tropical de Colombia, Vol. 3",
+        "url": "https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Margarita",
+          "url": "https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Capullo y Sorullo",
+      "url": "https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Colecci\u00f3n De Oro, Vol. 2",
+        "url": "https://open.spotify.com/album/7rv6OZsuVcX67G62GjpFvI"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 193677,
+      "name": "Endulzame El Caf\u00e9 Mar\u00eda",
+      "url": "https://open.spotify.com/track/0tKWbYtMGFaAjVLChc6rSS"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
       },
@@ -1789,20 +1789,20 @@
       "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
+      "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
       "artists": [
         {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Se Le Ve",
-      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+      "duration_ms": 149160,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/7cRV3X1VcYkgeyp4WrJgqa"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Las 20 N\u00famero 1",
         "url": "https://open.spotify.com/album/59NP8wzLJzFNaJAjRFHP8H"
       },
@@ -1867,6 +1851,38 @@
       "duration_ms": 193893,
       "name": "Por volverte a ver",
       "url": "https://open.spotify.com/track/23Fn6sIQVjJYwgtMYDbEd0"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Se Le Ve",
+      "url": "https://open.spotify.com/track/3iL9tmKDG1vgSvuALf9miJ"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "La Coloreteada",
+        "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "D\u00e9jala Que Se Divierta",
+      "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1915,22 +1931,6 @@
       "duration_ms": 324280,
       "name": "Cumbia En La Playa",
       "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "La Coloreteada",
-        "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "D\u00e9jala Que Se Divierta",
-      "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
     },
     {
       "added_at": "2022-01-25 19:05:16",

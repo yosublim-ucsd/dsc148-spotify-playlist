@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-299 songs - 18 hr 5 min
+300 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2021-12-03 | 2023-04-29 |
 | [Goodnight](https://open.spotify.com/track/37m5aARFOt3ArB5rbzxCXX) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 2:08 | 2023-05-12 | 2023-05-27 |
 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 | 2023-06-02 |  |
+| [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 | 2023-07-07 |  |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2022-03-11 |  |
 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 | 2021-12-03 | 2022-10-13 |
 | [Growth](https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Under the Sun](https://open.spotify.com/album/6pX51CcNApLFwXeyMKrRXO) | 3:21 | 2022-09-09 | 2022-09-16 |
@@ -267,7 +268,7 @@
 | [The Gym](https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [The Gym](https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks) | 3:19 | 2023-04-21 | 2023-05-23 |
 | [The List \- Acoustic](https://open.spotify.com/track/1j5n8L8OiDeBsTQhNu1xHD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The List \(Acoustic\)](https://open.spotify.com/album/3eEAn7oPPZVL1Zzb1vYfQv) | 4:55 | 2023-02-24 | 2023-03-04 |
 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 | 2022-10-13 |
-| [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-08-26 |  |
+| [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-08-26 | 2023-07-13 |
 | [The Same](https://open.spotify.com/track/21mNm6PDVvo5XwXzkZ36bF) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [The Same](https://open.spotify.com/album/63dxyobOSlFhNwWulcC4Sv) | 3:48 | 2023-02-24 | 2023-04-01 |
 | [The Truth](https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd) | [D.Folks](https://open.spotify.com/artist/4tQP0JjpxmNplCt2HFzZmI) | [The Truth](https://open.spotify.com/album/7pkzpOwaF7sgUQqbeneNnJ) | 3:19 | 2021-12-03 | 2022-07-27 |
 | [There'll Never Be](https://open.spotify.com/track/0AhfJf1WvL61ipcVsL8Xs8) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Make Me Say It Again, Girl](https://open.spotify.com/album/3NmEbqCKjPjDQHlnTflXfj) | 5:29 | 2022-09-30 | 2022-10-04 |

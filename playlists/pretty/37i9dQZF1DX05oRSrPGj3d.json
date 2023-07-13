@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 231834,
+  "num_followers": 231939,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk",
+  "snapshot_id": "MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -351,6 +351,38 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "duration_ms": 346333,
+      "name": "Broken Window Serenade",
+      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "A Different Day",
+        "url": "https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 196906,
+      "name": "Diamond In My Pocket",
+      "url": "https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -379,38 +411,6 @@
       "duration_ms": 182653,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "A Different Day",
-        "url": "https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 196906,
-      "name": "Diamond In My Pocket",
-      "url": "https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 346333,
-      "name": "Broken Window Serenade",
-      "url": "https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Less Wise",
+        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 300680,
+      "name": "Hippies and Cowboys",
+      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 335622,
       "name": "Stone",
       "url": "https://open.spotify.com/track/4rJesaufMl2xD0f2G8Xgnd"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Cowboy Like Me",
-        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Dance Her Home",
-      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Less Wise",
-        "url": "https://open.spotify.com/album/4TeULghzyCR6UEe2Y2wgHa"
+        "name": "Cowboy Like Me",
+        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 300680,
-      "name": "Hippies and Cowboys",
-      "url": "https://open.spotify.com/track/0G7pjeHX2TDqw6mx14puWg"
+      "duration_ms": 174680,
+      "name": "Dance Her Home",
+      "url": "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "'Til You Can\u2019t / Longer Than She Did",
-        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
+        "name": "Firewater",
+        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 224773,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
+      "duration_ms": 220186,
+      "name": "Ballad Of A Southern Man",
+      "url": "https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -643,18 +643,34 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
+      "duration_ms": 197997,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "'Til You Can\u2019t / Longer Than She Did",
+        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Firewater",
-        "url": "https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5"
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 220186,
-      "name": "Ballad Of A Southern Man",
-      "url": "https://open.spotify.com/track/6P7kZB7hSJFyaYJcu3cYQJ"
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -707,34 +723,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+        "name": "Pecos & the Rooftops",
+        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
       },
       "artists": [
         {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 197997,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 252480,
-      "name": "Long Hot Summer Day",
-      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
+      "duration_ms": 280000,
+      "name": "This Damn Song",
+      "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -755,50 +755,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 233685,
-      "name": "February 28, 2016",
-      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Pecos & the Rooftops",
-        "url": "https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "This Damn Song",
-      "url": "https://open.spotify.com/track/7hSdspr7RBzq8VYOSVwALb"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Pretty Heart",
-        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 244797,
-      "name": "Pretty Heart",
-      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
+      "duration_ms": 252480,
+      "name": "Long Hot Summer Day",
+      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -819,6 +787,38 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Pretty Heart",
+        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 244797,
+      "name": "Pretty Heart",
+      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 233685,
+      "name": "February 28, 2016",
+      "url": "https://open.spotify.com/track/6frDW68Xjjg6WRVvo0zZFk"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Come May",
         "url": "https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i"
       },
@@ -835,22 +835,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Noise Complaint",
-        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 223062,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
+      "duration_ms": 234400,
+      "name": "Diamonds & Gasoline",
+      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -887,18 +883,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+        "name": "Noise Complaint",
+        "url": "https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 234400,
-      "name": "Diamonds & Gasoline",
-      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
+      "duration_ms": 223062,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 274716,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
+      "duration_ms": 289653,
+      "name": "7 & 7",
+      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/0JvVboA2Yvci4CuBMgyifG"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 289653,
-      "name": "7 & 7",
-      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
+      "duration_ms": 274716,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/0IQVTeD4kcuyLKmAF5h03b"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+        "name": "Goodbye Normal Street",
+        "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
       },
       "artists": [
         {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+      "duration_ms": 301000,
+      "name": "Good Lord Lorrie",
+      "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 234240,
       "name": "New Year's Day",
       "url": "https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "After the Fire",
-        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 185247,
-      "name": "Ain't a Train",
-      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "After the Fire",
+        "url": "https://open.spotify.com/album/6fdC5dNZIRssH16hpkZF5a"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 185247,
+      "name": "Ain't a Train",
+      "url": "https://open.spotify.com/track/26rNkQarR1C3XItosI6P3i"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 190226,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Resurrection EP",
-        "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
-      },
-      "artists": [
-        {
-          "name": "Seven Miles South",
-          "url": "https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Texas Rain",
-      "url": "https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Goodbye Normal Street",
-        "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
+        "name": "Resurrection EP",
+        "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Seven Miles South",
+          "url": "https://open.spotify.com/artist/72c21aY4syGrlEpu82lXqd"
         }
       ],
-      "duration_ms": 301000,
-      "name": "Good Lord Lorrie",
-      "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
+      "duration_ms": 211973,
+      "name": "Texas Rain",
+      "url": "https://open.spotify.com/track/04HenXWHfLUlsRsLPiBd0k"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Green",
-        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
-      },
-      "artists": [
-        {
-          "name": "Kody West",
-          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "Shine Out",
-      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Live at Billy Bob's Texas",
         "url": "https://open.spotify.com/album/6csMrzyN5ZpLcwxBWH9XeQ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 179691,
       "name": "Lovin' Where It's Goin'",
       "url": "https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
+      },
+      "artists": [
+        {
+          "name": "Kody West",
+          "url": "https://open.spotify.com/artist/0tiMRuAR7sxuiSmC6Mf4Ek"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "Shine Out",
+      "url": "https://open.spotify.com/track/03Urb1JlysmjtjNUNNOrsP"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+      },
+      "artists": [
+        {
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
         "name": "Hold My Beer, Vol. 1",
         "url": "https://open.spotify.com/album/0fEg7eJ2ev0c0UOztpxBra"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 216782,
       "name": "'Til It Does",
       "url": "https://open.spotify.com/track/2cUR2tZlH6fAlNpIjZ9RlQ"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
-      },
-      "artists": [
-        {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "West Textures",
-        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 303000,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Any Night in Texas",
         "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 238666,
       "name": "Boots on a Dance Floor",
       "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "West Textures",
+        "url": "https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 303000,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
     },
     {
       "added_at": "2023-06-09 04:01:00",

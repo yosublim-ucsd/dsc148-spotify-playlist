@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Head Up!",
+        "url": "https://open.spotify.com/album/6bsTkfLSauKjmnRkrSIcJ4"
+      },
+      "artists": [
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260042,
+      "name": "Head Up!",
+      "url": "https://open.spotify.com/track/1Mddd5h0Dp5BXYAZJ6HgFG"
+    },
+    {
+      "album": {
         "name": "Head up!",
         "url": "https://open.spotify.com/album/3AWLesXuAFHP1YCrOLOoSl"
       },
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 260042,
       "name": "Head up!",
       "url": "https://open.spotify.com/track/3n0g8ymrTbQ4NEH04K4MUG"

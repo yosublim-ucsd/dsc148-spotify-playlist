@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=OIg\_mIumQY\-yAohjU8OJ\_A">sGawD </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,147 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,210 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 69 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 |
 | 70 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 |
 
-Snapshot ID: `MCwzMmE3NTI5OTgzMzIyZTJiMTZhMmI2MTM3ZDJlMDhmNjQxMjEzNmQ2`
+Snapshot ID: `MCw0NDUzMGRmOTM0M2ZlNDFkMmEzZWVlMzYyYWQyOWM3MTI4NTliY2Mx`

@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 185479,
+  "num_followers": 185750,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjYwNzcwYzg1MDVlMDJkNmI0ZDJjNmVmM2Q2ZjgwNWQ1NmJjMTU4",
+  "snapshot_id": "MCw5ZDhhZTRjZjVjNDcxZjRlZWMwY2E5ZmNjNGNlZGI2YmMyZTdiMzFi",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 278080,
-      "name": "Dancing On My Own - Radio Edit",
-      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 234786,
       "name": "Crave You",
       "url": "https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 278080,
+      "name": "Dancing On My Own - Radio Edit",
+      "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -615,18 +615,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+      "duration_ms": 177426,
+      "name": "I Can Talk",
+      "url": "https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -647,18 +647,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 177426,
-      "name": "I Can Talk",
-      "url": "https://open.spotify.com/track/2OqI9fjaLeXnphj1Vcs1bi"
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Halcyon Digest",
-        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
-      },
-      "artists": [
-        {
-          "name": "Deerhunter",
-          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
-        }
-      ],
-      "duration_ms": 404413,
-      "name": "Desire Lines",
-      "url": "https://open.spotify.com/track/34OYZJDVLJC0HS401190FN"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 330306,
       "name": "Santa Monica Dream",
       "url": "https://open.spotify.com/track/2aaHkPnIpvGRD1FEnKYIte"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Halcyon Digest",
+        "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
+      },
+      "artists": [
+        {
+          "name": "Deerhunter",
+          "url": "https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3"
+        }
+      ],
+      "duration_ms": 404413,
+      "name": "Desire Lines",
+      "url": "https://open.spotify.com/track/34OYZJDVLJC0HS401190FN"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "/\\/\\ /\\ Y /\\",
-        "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "BORN FREE",
-      "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 395613,
       "name": "Draw Your Swords",
       "url": "https://open.spotify.com/track/0m6DFmtVCFmtAEdkO9KqUK"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "/\\/\\ /\\ Y /\\",
+        "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "BORN FREE",
+      "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Gorilla Manor",
-        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 237933,
-      "name": "Airplanes",
-      "url": "https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 319533,
       "name": "For You",
       "url": "https://open.spotify.com/track/60wcxIoRFqx9kVE87j562F"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Gorilla Manor",
+        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "Airplanes",
+      "url": "https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Gorilla Manor",
-        "url": "https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID"
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
       "artists": [
         {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 290986,
-      "name": "Sun Hands",
-      "url": "https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI"
+      "duration_ms": 344999,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es"
     }
   ],
   "unique_name": "Best of Indie 2010",

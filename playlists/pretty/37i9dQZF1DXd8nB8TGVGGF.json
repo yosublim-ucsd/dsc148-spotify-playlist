@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 21885,
+  "num_followers": 21937,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWYyYzA5MTRiZTdiMWI0YzlhMTJkOGE2MTJkYjljNTkwZDM3OTFm",
+  "snapshot_id": "MCxjNTQyYjM0ZWU0ZWRkMWZlZjNiZDk4ZmYwMGQ0NjgxOTQzMzdkOWQx",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Truckin' With Albert Collins",
-        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Frosty - Single Version",
-      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Big Walter Horton w/ Carey Bell",
         "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 228533,
       "name": "Have A Good Time",
       "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Truckin' With Albert Collins",
+        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Frosty - Single Version",
+      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
+        "name": "Let's Work Together",
+        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
         }
       ],
-      "duration_ms": 159866,
-      "name": "I'm a Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
+      "duration_ms": 335533,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -343,18 +339,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Let's Work Together",
-        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
+        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
       },
       "artists": [
         {
-          "name": "Wilbert Harrison",
-          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 335533,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
+      "duration_ms": 159866,
+      "name": "I'm a Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "It's My Life Baby",
+        "url": "https://open.spotify.com/album/5BO0YaOMf0isXQcVqr14XH"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "(I Got A) Stomach Ache",
+      "url": "https://open.spotify.com/track/4qHJ2Ap72rtcupZrn7f1do"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Blues For Greeny",
         "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Checkin' Up On My Baby",
-      "url": "https://open.spotify.com/track/02b0vxOu1dFKNoUR58YVnk"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "A Hard Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "It's My Life Baby",
-        "url": "https://open.spotify.com/album/5BO0YaOMf0isXQcVqr14XH"
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 206960,
-      "name": "(I Got A) Stomach Ache",
-      "url": "https://open.spotify.com/track/4qHJ2Ap72rtcupZrn7f1do"
+      "duration_ms": 294426,
+      "name": "Checkin' Up On My Baby",
+      "url": "https://open.spotify.com/track/02b0vxOu1dFKNoUR58YVnk"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
-        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 135640,
-      "name": "Blues In D Natural",
-      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Blues & Trouble (Blues Reference 1983-1985)",
         "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 211040,
       "name": "I Must Have A Hole In My Head",
       "url": "https://open.spotify.com/track/2SG7ES67oTwTNSxsMe3lo1"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Galloping Horses a Lazy Mule / Blues in D Natural",
+        "url": "https://open.spotify.com/album/2ueqyjt4N1XoXF1J21zNSQ"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 135640,
+      "name": "Blues In D Natural",
+      "url": "https://open.spotify.com/track/5h8HrCCGLOmhW3ufkRb2Dv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -971,22 +971,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Chicago Blues Session Volume 12",
-        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
+        "name": "Goin' To Chicago",
+        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
       },
       "artists": [
         {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        },
-        {
-          "name": "Pinetop Perkins",
-          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
         }
       ],
-      "duration_ms": 160853,
-      "name": "You Put the Heart on Me",
-      "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
+      "duration_ms": 154786,
+      "name": "Left My Happy Home",
+      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Goin' To Chicago",
-        "url": "https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K"
+        "name": "Chicago Blues Session Volume 12",
+        "url": "https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE"
       },
       "artists": [
         {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        },
+        {
+          "name": "Pinetop Perkins",
+          "url": "https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55"
         }
       ],
-      "duration_ms": 154786,
-      "name": "Left My Happy Home",
-      "url": "https://open.spotify.com/track/7j8M2LKnaM5onc0XtcGotq"
+      "duration_ms": 160853,
+      "name": "You Put the Heart on Me",
+      "url": "https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Texas Oil - The Complete Federal Recordings",
+        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Wash Out",
+      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Frijid Pink (Digitially Remastered)",
-        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
-      },
-      "artists": [
-        {
-          "name": "Frijid Pink",
-          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Drivin' Blues - Remastered",
-      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "I Was Walking Through The Woods (Expanded Edition)",
         "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Texas Oil - The Complete Federal Recordings",
-        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
+        "name": "Frijid Pink (Digitially Remastered)",
+        "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Frijid Pink",
+          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Wash Out",
-      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
+      "duration_ms": 228626,
+      "name": "Drivin' Blues - Remastered",
+      "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Vivid Sound",
-        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
-      },
-      "artists": [
-        {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
-        }
-      ],
-      "duration_ms": 150693,
-      "name": "Highway 60",
-      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 166506,
       "name": "Early One Morning",
       "url": "https://open.spotify.com/track/6mUSXLiUA398z4cpcRp7a5"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+      },
+      "artists": [
+        {
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+        }
+      ],
+      "duration_ms": 150693,
+      "name": "Highway 60",
+      "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Buzz Me Baby",
-      "url": "https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Rockin' At The Hops",
         "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 126226,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Buzz Me Baby",
+      "url": "https://open.spotify.com/track/03orX7fg8pH3tXBhJiuQC7"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Retrospective 1957-62",
-        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
       },
       "artists": [
         {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
         }
       ],
-      "duration_ms": 133866,
-      "name": "Don't Start Cryin' Now",
-      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
+      "duration_ms": 177160,
+      "name": "So Unkind - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+        "name": "Retrospective 1957-62",
+        "url": "https://open.spotify.com/album/6uWHkVI2uh6Dg2xvvZCwTe"
       },
       "artists": [
         {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 177160,
-      "name": "So Unkind - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ"
+      "duration_ms": 133866,
+      "name": "Don't Start Cryin' Now",
+      "url": "https://open.spotify.com/track/4ElJ84z6n86sNxbRpOrnMp"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1723,8 +1723,8 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
-        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
+        "name": "When Girls Do It",
+        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
       },
       "artists": [
         {
@@ -1732,9 +1732,9 @@
           "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
         }
       ],
-      "duration_ms": 102733,
-      "name": "She's so Fine",
-      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
+      "duration_ms": 172560,
+      "name": "When Girls Do It",
+      "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1851,8 +1851,8 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "When Girls Do It",
-        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
+        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
+        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
       },
       "artists": [
         {
@@ -1860,9 +1860,9 @@
           "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
         }
       ],
-      "duration_ms": 172560,
-      "name": "When Girls Do It",
-      "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
+      "duration_ms": 102733,
+      "name": "She's so Fine",
+      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
     },
     {
       "added_at": "2023-01-27 16:34:16",

@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Sinego",
-  "num_followers": 765107,
+  "num_followers": 765098,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGE1ODc4MTYyNDE2Yjg0N2NkMWI5OWE3MzJjZDBlOGQ4OGUxNTY3",
+  "snapshot_id": "MCw3ODExNmUzMDdmMDU1YzJlNzUzMmI4ZTM0NTc1NGRlNmY1ZTU0NDhk",
   "tracks": [
     {
       "added_at": "2023-07-07 16:29:52",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
         "name": "Bah\u00eda",
         "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
       },
@@ -443,22 +427,18 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Rakata",
-        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
       },
       "artists": [
         {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 182384,
-      "name": "Rakata",
-      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -475,6 +455,26 @@
       "duration_ms": 223621,
       "name": "Cortes Modernos",
       "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
+        "name": "Rakata",
+        "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 182384,
+      "name": "Rakata",
+      "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
         "name": "Contraluz",
         "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 212869,
       "name": "Contraluz",
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -656,8 +656,8 @@
           "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
         },
         {
-          "name": "Shrt_lyf",
-          "url": "https://open.spotify.com/artist/3Mw2KRss5x1sHoXQXOv1re"
+          "name": "Short Life",
+          "url": "https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO"
         }
       ],
       "duration_ms": 156850,
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Underbelly",
-        "url": "https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW"
-      },
-      "artists": [
-        {
-          "name": "Kiltro",
-          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
-        }
-      ],
-      "duration_ms": 358217,
-      "name": "Softy",
-      "url": "https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/0mu3YWwHifRp0U6Dd7ghgO"
       },
@@ -771,6 +755,38 @@
       "duration_ms": 181700,
       "name": "Toma Mi Mano",
       "url": "https://open.spotify.com/track/74LJQw9zLK4lzoM8XbMF5W"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
+        "name": "Underbelly",
+        "url": "https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW"
+      },
+      "artists": [
+        {
+          "name": "Kiltro",
+          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
+        }
+      ],
+      "duration_ms": 358217,
+      "name": "Softy",
+      "url": "https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
+        "name": "S\u00ed o No?",
+        "url": "https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf"
+      },
+      "artists": [
+        {
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "S\u00ed o No?",
+      "url": "https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -827,22 +843,6 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
         "name": "odio esta casa (cuando te vas)",
         "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
@@ -859,22 +859,18 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "me perdono",
-        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
       },
       "artists": [
         {
-          "name": "Georgel",
-          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
-        },
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 212685,
-      "name": "me perdono",
-      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -899,6 +895,26 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
+        "name": "me perdono",
+        "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
+      },
+      "artists": [
+        {
+          "name": "Georgel",
+          "url": "https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "duration_ms": 212685,
+      "name": "me perdono",
+      "url": "https://open.spotify.com/track/0Srk7bCTje83WDSiknSXQy"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
         "name": "No Eres Tu Soy Yo",
         "url": "https://open.spotify.com/album/5C4QoLSXHFPDn4qTAHUcd2"
       },
@@ -919,18 +935,18 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "S\u00ed o No?",
-        "url": "https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf"
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
       "artists": [
         {
-          "name": "K!ngdom",
-          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 181133,
-      "name": "S\u00ed o No?",
-      "url": "https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK"
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -951,38 +967,6 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
         "name": "Luna Villera",
         "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
       },
@@ -1055,34 +1071,22 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "DE REVERSA",
+        "url": "https://open.spotify.com/album/1Dcw9KQLD2KqrDENrUtjbR"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
         {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
         }
       ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+      "duration_ms": 184669,
+      "name": "DE REVERSA",
+      "url": "https://open.spotify.com/track/6w8cIvWOmJYE0RPXs6iySp"
     }
   ],
   "unique_name": "Mixto",

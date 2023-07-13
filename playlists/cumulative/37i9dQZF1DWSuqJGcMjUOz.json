@@ -60,10 +60,36 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 138855,
       "name": "+1",
       "url": "https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE"
+    },
+    {
+      "album": {
+        "name": "Magie \u00e0 minuit",
+        "url": "https://open.spotify.com/album/3K6FhP9DCUVPDGjNV0MMAt"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        },
+        {
+          "name": "Meggie Lennon",
+          "url": "https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq"
+        },
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138855,
+      "name": "+1 (feat. Meggie Lennon & Virginie B)",
+      "url": "https://open.spotify.com/track/3KwIovaWcKzi4zQpfMh1YS"
     },
     {
       "album": {
@@ -4028,7 +4054,7 @@
     {
       "album": {
         "name": "Parler",
-        "url": "https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO"
+        "url": "https://open.spotify.com/album/16AkdXaH7x32OT9RQm6pol"
       },
       "artists": [
         {
@@ -4039,6 +4065,24 @@
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218403,
+      "name": "Parler",
+      "url": "https://open.spotify.com/track/2uNHNErhFsnhlLvjFaufZT"
+    },
+    {
+      "album": {
+        "name": "Parler",
+        "url": "https://open.spotify.com/album/0OCn4bgtoQGfEUP1RjkQrO"
+      },
+      "artists": [
+        {
+          "name": "SOCIAL DANCE",
+          "url": "https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
       "duration_ms": 218482,
       "name": "Parler",
       "url": "https://open.spotify.com/track/42LuCktvePTTc8ukR82PbR"

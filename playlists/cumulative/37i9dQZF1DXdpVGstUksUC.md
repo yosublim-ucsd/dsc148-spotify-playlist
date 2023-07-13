@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-294 songs - 1 day 4 hr 13 min
+295 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Heavy Low](https://open.spotify.com/track/3lmUTqT4K2rPjtMgYRMB2P) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Heavy Low](https://open.spotify.com/album/6EZw5taKPaZUeY8IDbKZI0) | 4:50 | 2021-11-30 | 2022-07-29 |
 | [Heavy Low](https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw) | 4:50 | 2022-04-28 | 2023-06-30 |
 | [High Command](https://open.spotify.com/track/1734RWOrbbNC3mxE3EpE6H) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/5irr64FYBRKBiWjVCrJZij) | 5:50 | 2021-11-30 | 2022-07-25 |
-| [High Command](https://open.spotify.com/track/3vpSKqbQ2MY1SJODidxR6m) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/4R2YY8UpLor3pY0HteIuTw) | 5:50 | 2023-03-10 |  |
+| [High Command](https://open.spotify.com/track/3vpSKqbQ2MY1SJODidxR6m) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/4R2YY8UpLor3pY0HteIuTw) | 5:50 | 2023-03-10 | 2023-07-13 |
 | [Holy Mountain](https://open.spotify.com/track/1G7rpMjaBTqczxxzJdHToF) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 8:44 | 2022-02-14 | 2023-03-23 |
 | [Homage](https://open.spotify.com/track/7ztFsRXXKrkUjMaLn1siHJ) | [Causa Sui](https://open.spotify.com/artist/1TAcaMoUlvLpTUzh18TzDY) | [Euporie Tide](https://open.spotify.com/album/5Ylo2MVt7UMcv7gPGyC3hu) | 10:08 | 2021-11-30 | 2023-03-23 |
 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 | 2022-08-26 |  |
@@ -183,6 +183,7 @@
 | [Noses in Roses, Forever](https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 5:33 | 2021-11-30 |  |
 | [Of Sound and Fury](https://open.spotify.com/track/6R4bThwVgyRyDBaxNc1Ohl) | [Dead Quiet](https://open.spotify.com/artist/5zNDL3ziMKzDJ73D5jZYXS) | [Truth and Ruin](https://open.spotify.com/album/5taQxUxd6C8gcLacQ5Ykam) | 6:05 | 2022-02-14 | 2022-04-21 |
 | [Old Gods](https://open.spotify.com/track/4buxOh1uX0TNEtbFL8muft) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Black Harvest](https://open.spotify.com/album/6EwCQb8IyVWHX1l2u4v1kY) | 3:58 | 2021-11-30 | 2023-01-10 |
+| [Old Gods](https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80) | [Valley of the Sun](https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l) | [Old Gods](https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM) | 6:00 | 2023-06-23 |  |
 | [Old Gods](https://open.spotify.com/track/5tit45aIYPSC21vbHMlVsw) | [Valley of the Sun](https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l) | [Old Gods](https://open.spotify.com/album/07bwknliDapwEnYwMjOPV1) | 6:00 | 2021-11-30 | 2022-07-29 |
 | [Old Gods](https://open.spotify.com/track/79ZQrZiHAZZ38JLLYKI1VV) | [Valley of the Sun](https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l) | [Old Gods](https://open.spotify.com/album/5sCfgHic6iPLPzDW17CLpu) | 6:00 | 2022-04-28 | 2023-07-01 |
 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 | 2021-11-30 |  |

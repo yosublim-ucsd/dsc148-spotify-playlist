@@ -1,12 +1,12 @@
 {
   "description": "Check out the Latest Romance Tracks.\nCover : Maaveeran",
-  "num_followers": 59838,
+  "num_followers": 59872,
   "original_name": "Latest Love Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjViOWQ5NGRkZTlkODY3N2U0ZTBjNmRkZjA0ZjJlMzEzNTU0YzIw",
+  "snapshot_id": "MCxkOTY4ZTAwYjg1MmRhMmMzZDM3NWE4YjZjNDA1Mzc0MjY1YmVlODEw",
   "tracks": [
     {
       "added_at": "2023-06-14 10:43:45",
@@ -73,6 +73,34 @@
       "url": "https://open.spotify.com/track/2kt8pqyFNZ1eAfx44GNLH2"
     },
     {
+      "added_at": "2023-07-12 12:42:25",
+      "album": {
+        "name": "Aradhya (From \"Kushi\")",
+        "url": "https://open.spotify.com/album/6QHLsHtaDPNeGcN4ujmEpT"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "duration_ms": 282500,
+      "name": "Aradhya (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/43iLKMSX7iSgniaoMJLgUK"
+    },
+    {
       "added_at": "2023-06-14 10:43:45",
       "album": {
         "name": "Maamannan (Original Motion Picture Soundtrack)",
@@ -95,6 +123,46 @@
       "duration_ms": 410115,
       "name": "Nenjame Nenjame",
       "url": "https://open.spotify.com/track/5gpjup3L76P6ZNMu44eCyG"
+    },
+    {
+      "added_at": "2023-07-12 12:38:50",
+      "album": {
+        "name": "Aneethi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2u1lMoLC0x8N06974LzwwB"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Poo Naazhi Pon Naazhi",
+      "url": "https://open.spotify.com/track/2ddAL5odtsiKTfU6PecuyB"
+    },
+    {
+      "added_at": "2023-07-12 12:38:50",
+      "album": {
+        "name": "Mudhal Kaadhal (From \"Adiye\")",
+        "url": "https://open.spotify.com/album/4wfAJ7vn4VwAdTgvhs0AC0"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Bagavathy P K",
+          "url": "https://open.spotify.com/artist/0dFN2csM7engJcblm8Lx8H"
+        }
+      ],
+      "duration_ms": 230519,
+      "name": "Mudhal Kaadhal - From \"Adiye\"",
+      "url": "https://open.spotify.com/track/7E6g8wI3WIijYkLvZQ50hp"
     },
     {
       "added_at": "2023-03-20 13:19:12",
@@ -139,62 +207,6 @@
       "duration_ms": 236000,
       "name": "Mudhal Muththam",
       "url": "https://open.spotify.com/track/55m1HjFrEWyHnEfc7XmL6I"
-    },
-    {
-      "added_at": "2023-05-19 11:53:36",
-      "album": {
-        "name": "Modern Love (Chennai) [Original Series Soundtrack]",
-        "url": "https://open.spotify.com/album/3YdrTcu1YnQAcjJwnNeYgI"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Shivani Panneerselvam",
-          "url": "https://open.spotify.com/artist/26EEAR1XpJq1py9GI2xwSI"
-        }
-      ],
-      "duration_ms": 202282,
-      "name": "Yaayum Gnaayum",
-      "url": "https://open.spotify.com/track/0ttkcK75OlPsU4MUQ3temk"
-    },
-    {
-      "added_at": "2023-04-13 08:06:56",
-      "album": {
-        "name": "Paadatha Pattellam (From \"Rudhran\") - Single",
-        "url": "https://open.spotify.com/album/5l3eBNA5oU8nLlLty57mUT"
-      },
-      "artists": [
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Nithyashree Venkataramanan",
-          "url": "https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP"
-        },
-        {
-          "name": "Emcee D",
-          "url": "https://open.spotify.com/artist/3N64thkbF77oi0Dl3bGqN8"
-        },
-        {
-          "name": "Viswananthan - Ramamoorthy",
-          "url": "https://open.spotify.com/artist/4boLbuKNNyZVHPALfmbtN4"
-        },
-        {
-          "name": "Dharan Kumar",
-          "url": "https://open.spotify.com/artist/1IeJ7wOH2CgIca4B1CBikF"
-        },
-        {
-          "name": "Kannadasan",
-          "url": "https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB"
-        }
-      ],
-      "duration_ms": 287391,
-      "name": "Paadatha Pattellam (From \"Rudhran\")",
-      "url": "https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW"
     },
     {
       "added_at": "2023-03-09 13:17:08",

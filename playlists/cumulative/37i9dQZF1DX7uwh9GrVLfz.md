@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり\(Haru Nemuri\)
 
-585 songs - 1 day 7 hr 38 min
+587 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Lazy](https://open.spotify.com/track/4u05WMv0zg3Wya55tFvxyu) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/6kVvpVvLHWXcAWth37cDv1) | 3:43 | 2023-05-16 | 2023-06-10 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-06-09 | 2023-06-14 |
 | [Let The Beat Carry On](https://open.spotify.com/track/5aIxRbYvjSr5fYco54GbgA) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Four](https://open.spotify.com/album/1A2qh9qzsHSiN4jbRMSL7C) | 3:09 | 2022-05-12 | 2022-07-25 |
-| [Life is](https://open.spotify.com/track/1TWyvuvElJ57xCpsFD9ngs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:23 | 2023-07-11 |  |
+| [Life is](https://open.spotify.com/track/1TWyvuvElJ57xCpsFD9ngs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:23 | 2023-07-11 | 2023-07-13 |
+| [Life is](https://open.spotify.com/track/7fwrQ99Av65pJVvpvqaW41) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:23 | 2023-07-11 |  |
 | [Life Is A Suspense](https://open.spotify.com/track/72bDB4wY8ztaIG4MJqP5an) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-19 | 2022-07-28 |
 | [Light](https://open.spotify.com/track/6Icm9TrCRGE8My2nskUeiD) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [etc.works3](https://open.spotify.com/album/7sCrpXgXyEPQxA6xgebVIv) | 2:45 | 2022-05-17 | 2022-07-17 |
 | [LIGHT AND SHADOW](https://open.spotify.com/track/1s082mgoEEsahrOBoPQSFu) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [SOULS](https://open.spotify.com/album/3uxRIkRdH2sKNoEMqEYK7t) | 2:09 | 2022-05-17 | 2022-07-29 |
@@ -470,7 +471,8 @@
 | [サイコーサイコー](https://open.spotify.com/track/1oL4bX4VeHl3wgOPSXK7xQ) | [3SET\-BOB](https://open.spotify.com/artist/4WcDR835C8UDz2Ul0L7lt6) | [サイコーサイコー](https://open.spotify.com/album/19lzPEo30rzNkKUayXwmbe) | 3:58 | 2023-06-13 | 2023-06-28 |
 | [サラバ!](https://open.spotify.com/track/52UewcDEkdImgLW0C3F6L0) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [サラバ!](https://open.spotify.com/album/1NyAWXMA2vd5IJegmhQppV) | 3:11 | 2022-05-12 | 2022-07-25 |
 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 | 2022-08-16 |  |
-| [シャボン⽟](https://open.spotify.com/track/0Nj3EQQvqNcmJI04CQgIKH) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 2:04 | 2023-07-11 |  |
+| [シャボン⽟](https://open.spotify.com/track/0NVyYeiACnW0lnRSCFVtXs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 2:04 | 2023-07-11 |  |
+| [シャボン⽟](https://open.spotify.com/track/0Nj3EQQvqNcmJI04CQgIKH) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 2:04 | 2023-07-11 | 2023-07-13 |
 | [シングルアゲイン](https://open.spotify.com/track/36mQRKNKiZZ35mrCS6CfWh) | [SonoSheet](https://open.spotify.com/artist/2T82Zj0qxDDo9wEf5imuPC) | [シングルアゲイン](https://open.spotify.com/album/0tOIVvXVRzpSOwYlHvMGPk) | 3:03 | 2022-05-17 | 2022-07-28 |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2022-05-12 |  |
 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 | 2022-05-12 |  |

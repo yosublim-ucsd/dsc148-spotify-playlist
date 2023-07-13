@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,192 likes - 138 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,397 likes - 138 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 137 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 |
 | 138 | [Country Love Song](https://open.spotify.com/track/5vELSiqWSrJTOLuj4lTiPS) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH), [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Country Love Song](https://open.spotify.com/album/56zZX11mnTd4gJwcHR2aQl) | 3:12 |
 
-Snapshot ID: `MCw2MDc3MWY5NGIyOTNlYjQ1MzkxN2RjOGFmZTk1Mzg3MDNkNWM2MWFm`
+Snapshot ID: `MCwzNDAzNWQ2YjBlMmI5Mjg4Mzg1NjUzYTMyYWMxNjFiYzZhNWExMDNl`

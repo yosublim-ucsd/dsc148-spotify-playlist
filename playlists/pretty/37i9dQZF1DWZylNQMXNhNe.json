@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Jotta A",
-  "num_followers": 220736,
+  "num_followers": 220751,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTBlMjZkNDU1YmQ5YWNiNWVlY2Q4NTdjNmRkNDFhMGUyZmZkOTE5",
+  "snapshot_id": "MCxhYWFkNDhlYTkwYzdkOGM0ODBiOGNkNzYzNmM3MjM3MTBhYzBjMzQx",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -411,18 +411,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Gente Crazy",
-        "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
+        "name": "Eu Viciei",
+        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
       },
       "artists": [
         {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
         }
       ],
-      "duration_ms": 151472,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
+      "duration_ms": 134400,
+      "name": "Eu Viciei",
+      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -451,22 +455,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "NOITE DE CA\u00c7A",
-        "url": "https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH"
+        "name": "Gente Crazy",
+        "url": "https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC"
       },
       "artists": [
         {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
         }
       ],
-      "duration_ms": 158571,
-      "name": "NOITE DE CA\u00c7A",
-      "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
+      "duration_ms": 151472,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -543,22 +543,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Eu Viciei",
-        "url": "https://open.spotify.com/album/4GoAldSUHoIefEbIkY0aXF"
+        "name": "NOITE DE CA\u00c7A",
+        "url": "https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH"
       },
       "artists": [
         {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
         },
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Eu Viciei",
-      "url": "https://open.spotify.com/track/6eu0ufYZ5k4HkZqnceFsoc"
+      "duration_ms": 158571,
+      "name": "NOITE DE CA\u00c7A",
+      "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
     },
     {
       "added_at": "2023-06-23 03:00:00",

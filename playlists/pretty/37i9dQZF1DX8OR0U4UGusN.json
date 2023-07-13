@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 177361,
+  "num_followers": 177434,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzM4MDhiMGZhMWU1ODIwYTNiMGIxY2VlMWY4NjU5MTAzMWZhMzQ2",
+  "snapshot_id": "MCxmMzYxNDJhYmE0YzRlYzkzZmJhNzdkYTdmYThhOWY0NGIzYjZiNzAw",
   "tracks": [
     {
       "added_at": "2023-06-09 18:28:23",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-06-09 18:28:23",
       "album": {
-        "name": "You and Your Friends (Deluxe)",
-        "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
+        "name": "nice",
+        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Psychics in LA",
-      "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
+      "duration_ms": 101298,
+      "name": "slideshow",
+      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
     },
     {
       "added_at": "2023-06-09 18:28:23",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-06-09 18:28:23",
       "album": {
-        "name": "nice",
-        "url": "https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV"
+        "name": "You and Your Friends (Deluxe)",
+        "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
       },
       "artists": [
         {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 101298,
-      "name": "slideshow",
-      "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
+      "duration_ms": 206733,
+      "name": "Psychics in LA",
+      "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
     }
   ],
   "unique_name": "omw",

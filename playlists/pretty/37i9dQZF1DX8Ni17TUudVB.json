@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 137938,
+  "num_followers": 137955,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDJjMDc1MDQyYmE1ZTJkZmEwMTJkNjFkMWY0MDM5ZTU2ODg3YjQz",
+  "snapshot_id": "MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "Gold Skies",
         "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 294466,
       "name": "Tremor - Sensation 2014 Anthem",
       "url": "https://open.spotify.com/track/6AE0G24YXnDyEgE4L0efpB"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Bum Bum",
-        "url": "https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Monsters (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 174643,
-      "name": "Monsters (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Physical (Alok Remix)",
         "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 189000,
       "name": "Physical - Alok Remix",
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Monsters (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 174643,
+      "name": "Monsters (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Menage A Trois",
-        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 168508,
-      "name": "Menage A Trois",
-      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "Menage A Trois",
+        "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 168508,
+      "name": "Menage A Trois",
+      "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "Party On My Own (feat. FAULHABER)",
         "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
       },
@@ -1287,30 +1287,6 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Starrah",
-          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 195937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1343,6 +1319,30 @@
       "duration_ms": 207021,
       "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
       "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Starrah",
+          "url": "https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 195937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
-      },
-      "artists": [
-        {
-          "name": "Bancali",
-          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Check This Out",
         "url": "https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 151020,
       "name": "Check This Out",
       "url": "https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
+      },
+      "artists": [
+        {
+          "name": "Bancali",
+          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
     },
     {
       "added_at": "2023-05-15 15:50:08",

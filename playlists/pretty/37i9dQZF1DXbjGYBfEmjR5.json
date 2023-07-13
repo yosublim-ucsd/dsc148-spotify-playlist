@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 282305,
+  "num_followers": 282437,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTkyYjU5M2MwMWQ2MjAxYTFjOGQwYzJjOTA2YTk0MTllZjdlNTMw",
+  "snapshot_id": "MCw0ZGFmNWY0NmVhM2RhMzEzMGFmZTBhNGEyYzU1MDcyODRhZDZkYzk0",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Take Care of Yourself",
+        "url": "https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U"
+      },
+      "artists": [
+        {
+          "name": "Adrianwave",
+          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "It's Good to See You Again!!",
+      "url": "https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Royal Club, Vol. 3",
         "url": "https://open.spotify.com/album/6QY51ifImoOIngncUguYlp"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 216000,
       "name": "City Nightlife - Original Mix",
       "url": "https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Take Care of Yourself",
-        "url": "https://open.spotify.com/album/49Uf7IcxSbxYcigvSfD29U"
-      },
-      "artists": [
-        {
-          "name": "Adrianwave",
-          "url": "https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "It's Good to See You Again!!",
-      "url": "https://open.spotify.com/track/6LjEAMtB3INMAeUqyHnE2F"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
+      },
+      "artists": [
+        {
+          "name": "Lordsun",
+          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
+        }
+      ],
+      "duration_ms": 217370,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Pink Dance EP",
         "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 183536,
       "name": "Ganbare",
       "url": "https://open.spotify.com/track/5gWDF3OWHLMsl8MXbLbIAM"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/43H9kDMnSdgNWHFQNSUvPQ"
-      },
-      "artists": [
-        {
-          "name": "Lordsun",
-          "url": "https://open.spotify.com/artist/2qz2ih9s7guZ7SxIrmTCSL"
-        }
-      ],
-      "duration_ms": 217370,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Saturn St.",
-        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
+        "name": "DRENCH3D",
+        "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
       },
       "artists": [
         {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+          "name": "3d Blast",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
-      "duration_ms": 157500,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+      "duration_ms": 141873,
+      "name": "DRENCH3D",
+      "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
+        "name": "Saturn St.",
+        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
       "artists": [
         {
-          "name": "BAD4ALL",
-          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
         }
       ],
-      "duration_ms": 145920,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
+      "duration_ms": 157500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
+      },
+      "artists": [
+        {
+          "name": "BAD4ALL",
+          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 124363,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
-      },
-      "artists": [
-        {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1099,34 +1099,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
       },
       "artists": [
         {
-          "name": "K/92",
-          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
         }
       ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "DRENCH3D",
-        "url": "https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8"
-      },
-      "artists": [
-        {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
-        }
-      ],
-      "duration_ms": 141873,
-      "name": "DRENCH3D",
-      "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+      },
+      "artists": [
+        {
+          "name": "K/92",
+          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
+        }
+      ],
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Disco's Revenge",
         "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 80098,
       "name": "Disco's Revenge",
       "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Back By Popular Demand",
+        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
+      },
+      "artists": [
+        {
+          "name": "Proux",
+          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
+        }
+      ],
+      "duration_ms": 110313,
+      "name": "Funk Express",
+      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1179,22 +1195,6 @@
       "duration_ms": 195979,
       "name": "Shimmer City",
       "url": "https://open.spotify.com/track/5uwFzyBfdwU6r1JlrGwCRi"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Back By Popular Demand",
-        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
-      },
-      "artists": [
-        {
-          "name": "Proux",
-          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
-        }
-      ],
-      "duration_ms": 110313,
-      "name": "Funk Express",
-      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Why Future Funk ROCKED in '17",
+      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
+        "name": "Virtual World",
+        "url": "https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm"
       },
       "artists": [
         {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+          "name": "FIBRE",
+          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
         }
       ],
-      "duration_ms": 173374,
-      "name": "Why Future Funk ROCKED in '17",
-      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
+      "duration_ms": 245901,
+      "name": "Virtual World",
+      "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Virtual World",
-        "url": "https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm"
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
       },
       "artists": [
         {
-          "name": "FIBRE",
-          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 245901,
-      "name": "Virtual World",
-      "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1435,22 +1451,6 @@
       "duration_ms": 185750,
       "name": "Future Funk 2022",
       "url": "https://open.spotify.com/track/6GJorwXbRwCKi5qFH0IdPS"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Waterbed (Deluxe)",
-        "url": "https://open.spotify.com/album/7mcfqMQNLeoYBiEqwJvgW7"
-      },
-      "artists": [
-        {
-          "name": "Tendencies",
-          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Waterbed",
-      "url": "https://open.spotify.com/track/7o8SoQa3426I2kgHMAybTr"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Glimmer / Change",
         "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/2Kcqp44sybZLCjNxIgD322"
+      },
+      "artists": [
+        {
+          "name": "Shiruetto",
+          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
+        }
+      ],
+      "duration_ms": 191366,
+      "name": "La Musique",
+      "url": "https://open.spotify.com/track/1kT2lldHeWUXUzCWRql3ey"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1559,18 +1559,34 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "ERA",
-        "url": "https://open.spotify.com/album/2Kcqp44sybZLCjNxIgD322"
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/7mcfqMQNLeoYBiEqwJvgW7"
       },
       "artists": [
         {
-          "name": "Shiruetto",
-          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
         }
       ],
-      "duration_ms": 191366,
-      "name": "La Musique",
-      "url": "https://open.spotify.com/track/1kT2lldHeWUXUzCWRql3ey"
+      "duration_ms": 177479,
+      "name": "Waterbed",
+      "url": "https://open.spotify.com/track/7o8SoQa3426I2kgHMAybTr"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Sexy Times (3rd Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 225084,
+      "name": "Hot Chance",
+      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1607,22 +1623,6 @@
       "duration_ms": 161314,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/29ZQPtWGbifq9z4O8nJqfv"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Sexy Times (3rd Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1YKYKu69ByOZBTf0yqPwsd"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 225084,
-      "name": "Hot Chance",
-      "url": "https://open.spotify.com/track/2L0yofnQlwpiiELjKtUrXn"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "#TRUE FUTURE",
-        "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
+        "name": "Untold",
+        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
       },
       "artists": [
         {
-          "name": "Q-Rabbit",
-          "url": "https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF"
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
         }
       ],
-      "duration_ms": 138666,
-      "name": "keep down flyday",
-      "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+      "duration_ms": 221687,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
     },
     {
       "added_at": "2022-11-04 05:37:30",

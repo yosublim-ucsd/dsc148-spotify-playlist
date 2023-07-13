@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-482 songs - 1 day 11 hr 40 min
+483 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Listen](https://open.spotify.com/track/3xfAa34jsaoIIM5D2jFBEV) | [Mikrodot](https://open.spotify.com/artist/6VOHGnsTE8qraeCVr0B8Dg) | [Listen](https://open.spotify.com/album/7uKwNWBztstQsj9NNTHvwG) | 4:13 | 2022-07-08 | 2022-07-30 |
 | [Lo\-Fi](https://open.spotify.com/track/2auyi2Lqfjnm9MimapjeCM) | [Subreachers](https://open.spotify.com/artist/5anOQQB50KujZ5xRZjj7m8) | [Best of LW: Bass](https://open.spotify.com/album/2EipzG2vDMFLzBblQNzsYP) | 5:41 | 2022-02-17 | 2022-10-04 |
 | [Loan Shark](https://open.spotify.com/track/2zyugikoilcZwUYx6wWm7O) | [Commodo](https://open.spotify.com/artist/2ZUJPPIpRK31hReRC22ZmT) | [Loan Shark](https://open.spotify.com/album/53ph5Q7RAIoYT5n5HJUDeH) | 3:58 | 2022-02-17 | 2022-07-02 |
-| [Locomotive](https://open.spotify.com/track/1ZIfpuxWRddqs3hrX4mkso) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Full Flow](https://open.spotify.com/album/51F8dNpgxCMSWMY7iBIfoy) | 3:17 | 2022-02-17 |  |
+| [Locomotive](https://open.spotify.com/track/1ZIfpuxWRddqs3hrX4mkso) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Full Flow](https://open.spotify.com/album/51F8dNpgxCMSWMY7iBIfoy) | 3:17 | 2022-02-17 | 2023-07-13 |
+| [lone idol](https://open.spotify.com/track/08CMcVNAuetyhdwSwQCD9v) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [THE AGONOS CONNECTION](https://open.spotify.com/album/19gl6P5EJZb1KBTAzs1fm6) | 1:52 | 2023-06-30 |  |
 | [lone idol](https://open.spotify.com/track/1FXmnvZKJiACQxdMZeOwzK) | [thook](https://open.spotify.com/artist/1bbWYxMCoXqFtpwFTR66F3) | [THE AGONOS CONNECTION](https://open.spotify.com/album/2GsC00o8JLYM2YkfqQKyrQ) | 1:52 | 2023-02-13 | 2023-07-02 |
 | [Lovesick](https://open.spotify.com/track/7CYx2bRMpWsuIeGLGfog9A) | [mrshl](https://open.spotify.com/artist/6mx8GoLPC0J23haeLRGmsR) | [You Know](https://open.spotify.com/album/6Gi8S39rqMjwmBkC70hRzp) | 3:59 | 2022-02-17 | 2022-07-02 |
 | [Lowdown](https://open.spotify.com/track/4M0ULmmNzwm1ryAFcDr2t0) | [Dismantle](https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp) | [STN001](https://open.spotify.com/album/4LE6k9FLY4nYrX8uYfTLxJ) | 4:08 | 2022-07-15 | 2022-07-25 |
@@ -334,7 +335,7 @@
 | [Reaper \- Monty & Visages Remix](https://open.spotify.com/track/6efm793uEcSkkZkwdCWOKe) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Cartell II \(Remixes\)](https://open.spotify.com/album/6TQnDo98vbJhh29cuqNwVv) | 3:49 | 2022-07-08 |  |
 | [Reaper \- Monty & Visages Remix](https://open.spotify.com/track/1LgC92o5RrI1vPuqjk0ghh) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Reaper \(Monty & Visages Remix\)](https://open.spotify.com/album/4xNxin9Bw2xKQkcSVNHmJv) | 3:41 | 2022-07-01 | 2023-01-12 |
 | [Red Handed](https://open.spotify.com/track/0KwJGWguMPAmuVrctH6n3t) | [Mr.K](https://open.spotify.com/artist/5ouKVWUPDLS5gCQfvMHZ3T) | [Red Handed](https://open.spotify.com/album/3WvLuQdHBW3M8OlemgTO1p) | 4:12 | 2022-02-17 | 2022-07-30 |
-| [Reflection](https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:58 | 2022-02-17 | 2022-09-03 |
+| [Reflection](https://open.spotify.com/track/6ZR6ZDHBsCOcLdshPANYTl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:58 | 2022-02-17 |  |
 | [Remembrance](https://open.spotify.com/track/5fAhlkmF77TsVx3gUntbnB) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [View from the Edge EP](https://open.spotify.com/album/3AeRvuPNsF7YDLZ2eXhRxl) | 5:35 | 2022-02-17 | 2022-07-29 |
 | [Rent Request](https://open.spotify.com/track/4Od7jtoYfrMHteQ8CDH59j) | [DJ Plead](https://open.spotify.com/artist/3srk7xv520Ls9D09QMpEJg), [Stain](https://open.spotify.com/artist/1OX7sfFYYwIbyEBhszHx8Y) | [Rent Request](https://open.spotify.com/album/4B7LUTkhOYmEwi25XXhdAf) | 3:44 | 2022-12-16 | 2023-03-13 |
 | [Replay](https://open.spotify.com/track/47dkQqmCfAjtKGofoDyd7x) | [Buku](https://open.spotify.com/artist/0w2QFhEnPG6tLIvkogHbUi), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Replay](https://open.spotify.com/album/6R8buPuDpgqL0fgSsdUWXF) | 3:48 | 2023-06-23 |  |
@@ -407,7 +408,7 @@
 | [Strange Call](https://open.spotify.com/track/1ssN5Ja0kDaBQ3wwmYPIuR) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [The Phantasm](https://open.spotify.com/album/19zKSt4cHrS1rE4wbO4bnH) | 4:41 | 2022-02-17 | 2022-07-29 |
 | [Street Kings](https://open.spotify.com/track/6G1GL8ogg1So20UF5hDRoQ) | [Cimm](https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK) | [Street Kings](https://open.spotify.com/album/3skQEAcYkzsc0psswrD82w) | 5:02 | 2022-11-25 | 2023-04-19 |
 | [Stutter](https://open.spotify.com/track/5DbSkf9xg9f9M5A95zWoCZ) | [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Stutter](https://open.spotify.com/album/0j9BE8m8iJ9m0ZvjVYLnbX) | 3:42 | 2022-07-01 | 2023-04-22 |
-| [Submit](https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Submit](https://open.spotify.com/album/1F72TQHGzX9Qciy0Fe0E2n) | 3:09 | 2022-02-17 |  |
+| [Submit](https://open.spotify.com/track/7l73kJ7OkFSNwGq32urZDc) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Submit](https://open.spotify.com/album/1F72TQHGzX9Qciy0Fe0E2n) | 3:09 | 2022-02-17 | 2023-07-13 |
 | [Sufferin'](https://open.spotify.com/track/69Ot9SflmUSyZYIGhhbxKP) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7), [Megumi](https://open.spotify.com/artist/5ft4oJjrmtzmjlfMVxNYRU) | [Sufferin'](https://open.spotify.com/album/7DkG1ul2Z4BQfodvbOGWYZ) | 4:16 | 2022-02-17 | 2022-04-15 |
 | [Summoned](https://open.spotify.com/track/22Z581eoV561ar9Pt1hIdp) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Summoned](https://open.spotify.com/album/2srMMiyY1AbsnW6069V55h) | 5:36 | 2023-04-21 | 2023-04-30 |
 | [Super Echo](https://open.spotify.com/track/7pS9hknuGptkIKXxk23cfP) | [Egoless](https://open.spotify.com/artist/06kZZb0f2O9zUfFrkI7rKg) | [Like a Nuclear Bomb](https://open.spotify.com/album/4hAgBdP83bpgCmP3uTuePg) | 3:46 | 2022-02-17 | 2022-07-30 |

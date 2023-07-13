@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 
 > Welcome to the Hope World! 💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,224 likes - 27 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,686 likes - 27 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9owDoKZZXV5.md) - [plain]
 | 26 | [Blue Side \(Outro\)](https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Hope World](https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7) | 1:30 |
 | 27 | [Animal \(feat\. 정호석 Of 방탄소년단\)](https://open.spotify.com/track/40oks8fZ9XdDeJyuI44yCf) | [JO KWON](https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr) | [I'm Da One](https://open.spotify.com/album/0dsK6yub3rsqQLYaO7TDqf) | 3:22 |
 
-Snapshot ID: `MCxkZjVmN2IwNDRiMWFiYjcyMTIyODQ0OGQ1NjJlMzM5M2Y0NWRiZTQz`
+Snapshot ID: `MCwxOGQ1YmI2YjI4ZTc5Yjc0MmZjZGZiMjJmMGUzOTEyOGY3OTIzYmU1`

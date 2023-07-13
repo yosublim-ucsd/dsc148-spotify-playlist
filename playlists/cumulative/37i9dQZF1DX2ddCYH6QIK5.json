@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: TR\u00c4NEN, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Noth, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -486,6 +486,24 @@
       "duration_ms": 227082,
       "name": "Alle wollen Liebe",
       "url": "https://open.spotify.com/track/0GjDl76nzwVMxbCgsI52Ib"
+    },
+    {
+      "album": {
+        "name": "Alles ist verg\u00e4nglich",
+        "url": "https://open.spotify.com/album/6FXGMQ4cUPILGIlbN2gOfc"
+      },
+      "artists": [
+        {
+          "name": "Noth",
+          "url": "https://open.spotify.com/artist/0ZsVMqHyPgpAbpfSMnbcAC"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221744,
+      "name": "Alles ist verg\u00e4nglich",
+      "url": "https://open.spotify.com/track/7HlnQDVX07Gv4rQr1ExdMx"
     },
     {
       "album": {
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 219639,
       "name": "Bleachblonde",
       "url": "https://open.spotify.com/track/7ozg4jD3bctlxEawHrWhoP"
@@ -1792,6 +1810,24 @@
       "duration_ms": 215206,
       "name": "Blueberry Lips",
       "url": "https://open.spotify.com/track/44G9bqx6q9QVnGJ4mDAGMD"
+    },
+    {
+      "album": {
+        "name": "Blumen auf meiner Haut",
+        "url": "https://open.spotify.com/album/6WmNK68Ew5OhWx8Z07RffV"
+      },
+      "artists": [
+        {
+          "name": "Anton Verzani",
+          "url": "https://open.spotify.com/artist/0EdR71Cjo7i162DzwAmaBc"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Blumen auf meiner Haut",
+      "url": "https://open.spotify.com/track/56TP62SmsPdbGDcRmkP1ze"
     },
     {
       "album": {
@@ -2074,6 +2110,24 @@
       "duration_ms": 192012,
       "name": "Bring The Beat Back",
       "url": "https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX"
+    },
+    {
+      "album": {
+        "name": "Built For This",
+        "url": "https://open.spotify.com/album/43fSRuGKZtboo0MJwy9eGG"
+      },
+      "artists": [
+        {
+          "name": "KRYSTOF",
+          "url": "https://open.spotify.com/artist/7CF7fNQEs6zywjgKSLGE4R"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/6j5ZJ2jF4mPePeaBnGDqGt"
     },
     {
       "album": {
@@ -2400,6 +2454,24 @@
       "duration_ms": 212664,
       "name": "Cheerful Pessimist",
       "url": "https://open.spotify.com/track/1zRjEdR28LqVJDWYVYoTes"
+    },
+    {
+      "album": {
+        "name": "Click On It",
+        "url": "https://open.spotify.com/album/0GrqIQCOV2OLT9ZncfOHfy"
+      },
+      "artists": [
+        {
+          "name": "Schatz",
+          "url": "https://open.spotify.com/artist/4BNIGMgt7IvUs5y2DUQoCq"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Click On It",
+      "url": "https://open.spotify.com/track/1YQBSstf3y6GMI9ojqgolg"
     },
     {
       "album": {
@@ -3446,7 +3518,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 162666,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/5f4UxtW0BHmIXXgZfART7J"
@@ -4847,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer jung",
+        "url": "https://open.spotify.com/album/3QNTRmOXYfqYMVlGeoIIgI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e4rah",
+          "url": "https://open.spotify.com/artist/5Cyf2qncy7TYXlQE7MDBZg"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138692,
+      "name": "F\u00fcr immer jung",
+      "url": "https://open.spotify.com/track/7Jx8bguKv0bYJR3e4M3Z8v"
+    },
+    {
+      "album": {
         "name": "Gaslight",
         "url": "https://open.spotify.com/album/5QuZ8xgrOmR9BZcEyNauvs"
       },
@@ -5552,7 +5642,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 201400,
       "name": "Halleluja",
       "url": "https://open.spotify.com/track/2qz79enrg7v235wVrXJrdw"
@@ -7408,7 +7498,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 133062,
       "name": "Lass mich gehen",
       "url": "https://open.spotify.com/track/34GfArgwrSQQHocMFMapiA"
@@ -9183,7 +9273,7 @@
     },
     {
       "album": {
-        "name": "Nous Aimons On 80BPM",
+        "name": "Nous Aimons on 80BPM",
         "url": "https://open.spotify.com/album/3M2T4YAjtlU5Ow7LwOEnMt"
       },
       "artists": [
@@ -9196,7 +9286,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 238437,
-      "name": "Nous Aimons On 80BPM",
+      "name": "Nous Aimons on 80BPM",
       "url": "https://open.spotify.com/track/52s5tiYxchF1WJbYLv7E7e"
     },
     {
@@ -9223,6 +9313,24 @@
     },
     {
       "album": {
+        "name": "nuages",
+        "url": "https://open.spotify.com/album/64Fdw1Ui3CHikatrz7Y0vz"
+      },
+      "artists": [
+        {
+          "name": "alvva",
+          "url": "https://open.spotify.com/artist/5uPZ9j4MAaGMfW6HOMra4J"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241243,
+      "name": "nuages",
+      "url": "https://open.spotify.com/track/2WXmhnX5pDzeuXyrK3Rbba"
+    },
+    {
+      "album": {
         "name": "Nunc",
         "url": "https://open.spotify.com/album/4pSe5hlkdmJvaDCeJdMWCv"
       },
@@ -9234,7 +9342,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 325161,
       "name": "Nunc",
       "url": "https://open.spotify.com/track/3VXiFyqU64Vi1On5GQo5CG"
@@ -10662,7 +10770,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 153296,
       "name": "Rockstar Girl",
       "url": "https://open.spotify.com/track/3qjf9XVTewiGj4haOQimeB"
@@ -11343,6 +11451,24 @@
     },
     {
       "album": {
+        "name": "Sleep To Forget",
+        "url": "https://open.spotify.com/album/3RtBCkA14uI5TqVav8Qlqz"
+      },
+      "artists": [
+        {
+          "name": "KENAN",
+          "url": "https://open.spotify.com/artist/7aSbcEFawAoFzOnaZwluOx"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Sleep To Forget",
+      "url": "https://open.spotify.com/track/3mByoMjlxuaKOrPaBInh9A"
+    },
+    {
+      "album": {
         "name": "Slipper",
         "url": "https://open.spotify.com/album/7CxctPGPpZCHiGZ5kAz3X1"
       },
@@ -11592,7 +11718,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 223500,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/4kiTRXw20EkyxoAMb2fCeY"
@@ -12794,7 +12920,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 188531,
       "name": "too good to be alone",
       "url": "https://open.spotify.com/track/6jovJqluxcDmJSVDPUYSVP"
@@ -13794,6 +13920,24 @@
       "duration_ms": 219971,
       "name": "Wenn du da bist",
       "url": "https://open.spotify.com/track/0x13yawpacOhIdMytrL6Qy"
+    },
+    {
+      "album": {
+        "name": "What I Couldn't Say",
+        "url": "https://open.spotify.com/album/5AOPhCMi7q9Uu8kTSFFETI"
+      },
+      "artists": [
+        {
+          "name": "CRAYE",
+          "url": "https://open.spotify.com/artist/18se2QpkJ2rRim9uX2WKJ9"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204199,
+      "name": "What I Couldn't Say",
+      "url": "https://open.spotify.com/track/119IJyBIJ6EBCpzyBisJWe"
     },
     {
       "album": {

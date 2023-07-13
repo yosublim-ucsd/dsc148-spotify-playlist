@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: JiLL\-Decoy association
 
-175 songs - 14 hr 27 min
+176 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
 | [Happy Valley](https://open.spotify.com/track/3xlaQKI5hsy0WnUgGa49Tu) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 3:40 | 2023-05-02 | 2023-07-06 |
 | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3) | [SOIL & "PIMP" SESSIONS with RHYMESTER](https://open.spotify.com/artist/2lcYYmJQqNAPYrfpSeUYih), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF), [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ) | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la) | 3:10 | 2022-09-13 | 2022-10-19 |
-| [Head up!](https://open.spotify.com/track/3n0g8ymrTbQ4NEH04K4MUG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head up!](https://open.spotify.com/album/3AWLesXuAFHP1YCrOLOoSl) | 4:20 | 2023-07-11 |  |
+| [Head Up!](https://open.spotify.com/track/1Mddd5h0Dp5BXYAZJ6HgFG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head Up!](https://open.spotify.com/album/6bsTkfLSauKjmnRkrSIcJ4) | 4:20 | 2023-07-11 |  |
+| [Head up!](https://open.spotify.com/track/3n0g8ymrTbQ4NEH04K4MUG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head up!](https://open.spotify.com/album/3AWLesXuAFHP1YCrOLOoSl) | 4:20 | 2023-07-11 | 2023-07-13 |
 | [here](https://open.spotify.com/track/38AFhyf8NXJWsra76yd8m4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [gnome](https://open.spotify.com/album/5GoIKRfkH5A11hbwrJImVV) | 5:36 | 2022-10-18 | 2023-05-31 |
 | [Hey Ya!](https://open.spotify.com/track/4e6RFlmSuhmluhZBBhdvu2) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Hey Ya!](https://open.spotify.com/album/4oXsNBEkclwgGjX4zKRiDv) | 4:34 | 2023-03-07 | 2023-04-04 |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |

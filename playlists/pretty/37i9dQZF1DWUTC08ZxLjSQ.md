@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ZOHUD\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,564 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,568 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 19 | [Catch Your Drift](https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Catch Your Drift](https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3) | 3:00 |
 | 20 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
 | 21 | [101](https://open.spotify.com/track/2aaa4A0g1XurnQfFC0dpoE) | [Fairdose](https://open.spotify.com/artist/4Z9F1x2vbrOwFahUqqxThs) | [101](https://open.spotify.com/album/3BbCwU3PJTypB5bTQm20Y5) | 2:43 |
-| 22 | [Fo2 Ya 3bit](https://open.spotify.com/track/4IWoZNeHfnfG0ebqoxCRiu) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Fo2 Ya 3bit](https://open.spotify.com/album/6WJ6VxCzDUMbI2tWxoBA4C) | 2:39 |
+| 22 | [FO2 YA 3BIT](https://open.spotify.com/track/2z3q0My73fl8nE1VEncMBU) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [FO2 YA 3BIT](https://open.spotify.com/album/4qQI0tUcWS5Y6OYhyacuXs) | 2:39 |
 | 23 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 |
 | 24 | [Bashbah Emmbareh](https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq) | [ZOHUD](https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D) | [Bashbah Emmbareh](https://open.spotify.com/album/2kmOdp6ZKij22qnBLhhcRj) | 3:34 |
 | 25 | [High Hopes](https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [High Hopes](https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj) | 3:06 |
 | 26 | [Scorsese](https://open.spotify.com/track/750DwBev1112r16elo8Mom) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Scorsese](https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla) | 3:10 |
-| 27 | [Mtgish](https://open.spotify.com/track/7bvLFia8U9lJmExtvgZncB) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Mtgish](https://open.spotify.com/album/7J3YFv6zkfp4gZPodBFIW7) | 2:17 |
+| 27 | [Mtgish](https://open.spotify.com/track/6lcaJma2LGeeLZ37YNl1XS) | [ZIG ZVG](https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o) | [Mtgish](https://open.spotify.com/album/4CZkYILeBBtEHmQeJEqXli) | 2:17 |
 | 28 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 |
 | 29 | [Hindsight](https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h) | [BASYL](https://open.spotify.com/artist/2YWgtNh8oR97B93ZTpX0ol) | [Hindsight](https://open.spotify.com/album/54xZz8LpOA9gaYQLPRcE6M) | 2:37 |
 | 30 | [Complicated](https://open.spotify.com/track/12tZyFvHuaiIbP80ukDWH5) | [Katya](https://open.spotify.com/artist/4n6DGGztXErh3kCGC88aXy) | [Complicated](https://open.spotify.com/album/5S7iMl6Wfl4hHMKTzNxLPw) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [FAG2A](https://open.spotify.com/track/7mokTKlzN0a3zlBGZeSsdM) | [Malek](https://open.spotify.com/artist/3il7Rv594x5CYajnBuqIEv), [Sage](https://open.spotify.com/artist/4ipwFBBwR2qfKHEA9bcoHg) | [FAG2A](https://open.spotify.com/album/7tRGdl7s0qbaWAi47qeZjQ) | 2:54 |
 | 50 | [In the Music](https://open.spotify.com/track/5TQiZXRf45cJthdjbsmlYy) | [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Shqzu](https://open.spotify.com/artist/1aIKyRiP9H0H2IQ0RaWjbk), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [In the Music](https://open.spotify.com/album/5IjEWqasrST65LtDSo0gEJ) | 2:50 |
 
-Snapshot ID: `MCxhZDVmYzUyMTExMTFkZmZkN2VlZTZmM2I1N2EzY2U0Y2JhYjFjOTAx`
+Snapshot ID: `MCxkNGQ4NzFhYjliN2RiZmY2Nzk4MWU2YzRiNzMzNjM1NDc0N2ViOGVh`

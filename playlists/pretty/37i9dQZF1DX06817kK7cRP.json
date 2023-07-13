@@ -1,12 +1,12 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 80778,
+  "num_followers": 81032,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDFkNTY0NTVlYjk0NmQzMGZlZTBlNzY3MDFjNDI1NzJjYjIzOTVj",
+  "snapshot_id": "MCwxMTU2M2M1MDhkZDk2ZWJkN2E2NTYzMWFhYzliNDk0MzgyMTRmY2E3",
   "tracks": [
     {
       "added_at": "2023-06-20 07:53:37",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Battery Park",
-        "url": "https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq"
-      },
-      "artists": [
-        {
-          "name": "Zacky Yazz",
-          "url": "https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv"
-        }
-      ],
-      "duration_ms": 144729,
-      "name": "Battery Park",
-      "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Pouring Margarita",
         "url": "https://open.spotify.com/album/0dhtfQ82luu5zclu117YwH"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 90400,
       "name": "Pouring Margarita",
       "url": "https://open.spotify.com/track/0ibru2bNyCrClfqznOVXFI"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Battery Park",
+        "url": "https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq"
+      },
+      "artists": [
+        {
+          "name": "Zacky Yazz",
+          "url": "https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv"
+        }
+      ],
+      "duration_ms": 144729,
+      "name": "Battery Park",
+      "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Lithography Vol. 1",
-        "url": "https://open.spotify.com/album/3YSXfVKvNTn58sbkhDNPdb"
-      },
-      "artists": [
-        {
-          "name": "Intel Music",
-          "url": "https://open.spotify.com/artist/5FWeW4F0YAYHYqzW6iQdWA"
-        },
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 441818,
-      "name": "When You're In Love",
-      "url": "https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg"
       },
@@ -419,22 +399,22 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Passenger",
-        "url": "https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF"
+        "name": "Lithography Vol. 1",
+        "url": "https://open.spotify.com/album/3YSXfVKvNTn58sbkhDNPdb"
       },
       "artists": [
         {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+          "name": "Intel Music",
+          "url": "https://open.spotify.com/artist/5FWeW4F0YAYHYqzW6iQdWA"
         },
         {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
         }
       ],
-      "duration_ms": 155375,
-      "name": "Passenger",
-      "url": "https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa"
+      "duration_ms": 441818,
+      "name": "When You're In Love",
+      "url": "https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -475,6 +455,26 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
+        "name": "Passenger",
+        "url": "https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF"
+      },
+      "artists": [
+        {
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "duration_ms": 155375,
+      "name": "Passenger",
+      "url": "https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
         "name": "Modified Strat Mode",
         "url": "https://open.spotify.com/album/24ziSm20W3yM9ZGsqqawZG"
       },
@@ -491,6 +491,34 @@
       "duration_ms": 117864,
       "name": "Modified Strat Mode",
       "url": "https://open.spotify.com/track/3PPGiojAjFUI7nuaW3mNAY"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0eUrglnLadODz1h6yqu3io"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "c e c e l i e",
+          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
+        },
+        {
+          "name": "jazz_rabbit",
+          "url": "https://open.spotify.com/artist/2ljuC6YzA818simZ2TgEc2"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "duration_ms": 154527,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/1lZj8bgdCrkLFCd7WXjTyd"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -531,34 +559,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/0eUrglnLadODz1h6yqu3io"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "c e c e l i e",
-          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
-        },
-        {
-          "name": "jazz_rabbit",
-          "url": "https://open.spotify.com/artist/2ljuC6YzA818simZ2TgEc2"
-        },
-        {
-          "name": "Louk",
-          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
-        }
-      ],
-      "duration_ms": 154527,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/1lZj8bgdCrkLFCd7WXjTyd"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Nest Egg",
         "url": "https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ"
       },
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Imani",
-        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
+        "name": "Sunrays",
+        "url": "https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz"
       },
       "artists": [
         {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
+          "name": "khoa",
+          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
         },
         {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
         }
       ],
-      "duration_ms": 117987,
-      "name": "Imani",
-      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
+      "duration_ms": 132000,
+      "name": "Sunrays",
+      "url": "https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -627,22 +627,38 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Sunrays",
-        "url": "https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz"
+        "name": "Imani",
+        "url": "https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB"
       },
       "artists": [
         {
-          "name": "khoa",
-          "url": "https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj"
+          "name": "E-SWERVE",
+          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
         },
         {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Sunrays",
-      "url": "https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV"
+      "duration_ms": 117987,
+      "name": "Imani",
+      "url": "https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Keep Cruising",
+        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Keep Cruising",
+      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Keep Cruising",
-        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
-      },
-      "artists": [
-        {
-          "name": "Erik von Spreckelsen",
-          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Keep Cruising",
-      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Refractions",
         "url": "https://open.spotify.com/album/03KrQZCLUNTSaqnx1GHBsT"
       },
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Chardonnay Kisses",
-        "url": "https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48"
-      },
-      "artists": [
-        {
-          "name": "G Bliz",
-          "url": "https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt"
-        },
-        {
-          "name": "The Colleagues",
-          "url": "https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Chardonnay Kisses",
-      "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "places i have yet to see",
         "url": "https://open.spotify.com/album/1Uh4HKvQmuBWqaIshTEyiE"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "The Puzzle",
-        "url": "https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R"
+        "name": "Chardonnay Kisses",
+        "url": "https://open.spotify.com/album/60qoopjAfk8w2KZ0Modo48"
       },
       "artists": [
         {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+          "name": "G Bliz",
+          "url": "https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt"
+        },
+        {
+          "name": "The Colleagues",
+          "url": "https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT"
         }
       ],
-      "duration_ms": 153533,
-      "name": "The Puzzle",
-      "url": "https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq"
+      "duration_ms": 152195,
+      "name": "Chardonnay Kisses",
+      "url": "https://open.spotify.com/track/4Hpaw4ZNuFWZiEIam7T3Nd"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
+        "name": "The Puzzle",
+        "url": "https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "The Puzzle",
+      "url": "https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
         "name": "Thank You for Waiting",
         "url": "https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe"
       },
@@ -927,26 +927,6 @@
       "duration_ms": 123789,
       "name": "For the Homies",
       "url": "https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "get up and go",
-        "url": "https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "Mathien",
-          "url": "https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D"
-        }
-      ],
-      "duration_ms": 147141,
-      "name": "get up and go",
-      "url": "https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -987,6 +967,26 @@
       "duration_ms": 149123,
       "name": "Woodlander",
       "url": "https://open.spotify.com/track/577MuVDzCHjTASuPsU34Hs"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "get up and go",
+        "url": "https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "Mathien",
+          "url": "https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D"
+        }
+      ],
+      "duration_ms": 147141,
+      "name": "get up and go",
+      "url": "https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "SPRING",
-        "url": "https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Stuck Inside",
-      "url": "https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Green Memory Grass",
         "url": "https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Luminism",
-        "url": "https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy"
+        "name": "SPRING",
+        "url": "https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z"
       },
       "artists": [
         {
-          "name": "Blossum",
-          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Luminism",
-      "url": "https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk"
+      "duration_ms": 213333,
+      "name": "Stuck Inside",
+      "url": "https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1155,6 +1135,42 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
+        "name": "Luminism",
+        "url": "https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy"
+      },
+      "artists": [
+        {
+          "name": "Blossum",
+          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Luminism",
+      "url": "https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Hidden Paradise",
+        "url": "https://open.spotify.com/album/0GZnU5oouUt1kK02dzWrwt"
+      },
+      "artists": [
+        {
+          "name": "Rudy Raw",
+          "url": "https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Hidden Paradise",
+      "url": "https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
         "name": "Billow",
         "url": "https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog"
       },
@@ -1187,22 +1203,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Hidden Paradise",
-        "url": "https://open.spotify.com/album/0GZnU5oouUt1kK02dzWrwt"
-      },
-      "artists": [
-        {
-          "name": "Rudy Raw",
-          "url": "https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Hidden Paradise",
-      "url": "https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Class",
         "url": "https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo"
       },
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
-      },
-      "artists": [
-        {
-          "name": "skyswimming",
-          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
-        },
-        {
-          "name": "koolmonke",
-          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Dew Point",
         "url": "https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 134690,
       "name": "Dew Point",
       "url": "https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
+      },
+      "artists": [
+        {
+          "name": "skyswimming",
+          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+        },
+        {
+          "name": "koolmonke",
+          "url": "https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/0JOyBXKbIAMqYpjif4HxMX"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1351,46 +1351,6 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "New Levels",
-        "url": "https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m"
-      },
-      "artists": [
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "New Levels",
-      "url": "https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "Lost Travelers",
-        "url": "https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb"
-      },
-      "artists": [
-        {
-          "name": "Swink",
-          "url": "https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0"
-        },
-        {
-          "name": "another silent weekend",
-          "url": "https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Warm Light",
-      "url": "https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
         "name": "Brooklyn Brownstone",
         "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
       },
@@ -1419,6 +1379,26 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
+        "name": "Lost Travelers",
+        "url": "https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb"
+      },
+      "artists": [
+        {
+          "name": "Swink",
+          "url": "https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0"
+        },
+        {
+          "name": "another silent weekend",
+          "url": "https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Warm Light",
+      "url": "https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
         "name": "Fever, Fever",
         "url": "https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz"
       },
@@ -1443,6 +1423,26 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
+        "name": "New Levels",
+        "url": "https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m"
+      },
+      "artists": [
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "New Levels",
+      "url": "https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
         "name": "College Music Presents: In The Loop",
         "url": "https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya"
       },
@@ -1455,6 +1455,74 @@
       "duration_ms": 147000,
       "name": "The Great Beyond",
       "url": "https://open.spotify.com/track/0adBScenhPmsuAE8kd7vjQ"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Pyramids Revisited",
+        "url": "https://open.spotify.com/album/0B8x8wor9Hv9ahYC0naaTA"
+      },
+      "artists": [
+        {
+          "name": "Electrotastica",
+          "url": "https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Pyramids Revisited",
+      "url": "https://open.spotify.com/track/3vXrrNtaV8I6opIxPniy2j"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "The Jazz Art Of Relax",
+        "url": "https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd"
+      },
+      "artists": [
+        {
+          "name": "Soulstance",
+          "url": "https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur"
+        }
+      ],
+      "duration_ms": 320388,
+      "name": "As We Are",
+      "url": "https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Tiger Balm",
+        "url": "https://open.spotify.com/album/5gs6FZB6CxLfJI47Y6nLNm"
+      },
+      "artists": [
+        {
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        },
+        {
+          "name": "Howden",
+          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
+        }
+      ],
+      "duration_ms": 151232,
+      "name": "Tiger Balm",
+      "url": "https://open.spotify.com/track/6VziXuKwKUhpOi1odKcVT9"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Good feeling",
+        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
+      },
+      "artists": [
+        {
+          "name": "Moox",
+          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
+        }
+      ],
+      "duration_ms": 135987,
+      "name": "Good feeling",
+      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1496,77 +1564,9 @@
           "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Golden Age",
-      "url": "https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "Tiger Balm",
-        "url": "https://open.spotify.com/album/5gs6FZB6CxLfJI47Y6nLNm"
-      },
-      "artists": [
-        {
-          "name": "Clifford",
-          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
-        },
-        {
-          "name": "Howden",
-          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
-        }
-      ],
-      "duration_ms": 151232,
-      "name": "Tiger Balm",
-      "url": "https://open.spotify.com/track/6VziXuKwKUhpOi1odKcVT9"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "The Jazz Art Of Relax",
-        "url": "https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd"
-      },
-      "artists": [
-        {
-          "name": "Soulstance",
-          "url": "https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur"
-        }
-      ],
-      "duration_ms": 320388,
-      "name": "As We Are",
-      "url": "https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "Pyramids Revisited",
-        "url": "https://open.spotify.com/album/0B8x8wor9Hv9ahYC0naaTA"
-      },
-      "artists": [
-        {
-          "name": "Electrotastica",
-          "url": "https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Pyramids Revisited",
-      "url": "https://open.spotify.com/track/3vXrrNtaV8I6opIxPniy2j"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "Good feeling",
-        "url": "https://open.spotify.com/album/76RG25ONG8UTxEoQgNKF1s"
-      },
-      "artists": [
-        {
-          "name": "Moox",
-          "url": "https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq"
-        }
-      ],
-      "duration_ms": 135987,
-      "name": "Good feeling",
-      "url": "https://open.spotify.com/track/39kvnRTzzHJYq564oiuJjP"
+      "duration_ms": 180000,
+      "name": "Harvest Time",
+      "url": "https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
+        "name": "Central Park",
+        "url": "https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
-        },
-        {
-          "name": "Massaman",
-          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
+          "name": "Galva-Nice",
+          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Harvest Time",
-      "url": "https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z"
+      "duration_ms": 163500,
+      "name": "Central Park",
+      "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Central Park",
-        "url": "https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5"
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
       },
       "artists": [
         {
-          "name": "Galva-Nice",
-          "url": "https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj"
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        },
+        {
+          "name": "Massaman",
+          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Central Park",
-      "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
+      "duration_ms": 142000,
+      "name": "Golden Age",
+      "url": "https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1767,70 +1767,18 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Golden Age",
-        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
+        "name": "Gemstone",
+        "url": "https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ"
       },
       "artists": [
         {
-          "name": "Colombo",
-          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
-        },
-        {
-          "name": "Massaman",
-          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
         }
       ],
-      "duration_ms": 125590,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/3AN1XehfQNYZ1j0VUCezhU"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "A Bouquet of Flowers",
-        "url": "https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "c e c e l i e",
-          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
-        },
-        {
-          "name": "Louk",
-          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Sunflowers",
-      "url": "https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "Free for All",
-        "url": "https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k"
-      },
-      "artists": [
-        {
-          "name": "Clifford",
-          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
-        },
-        {
-          "name": "Hoffy Beats",
-          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Free for All",
-      "url": "https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz"
+      "duration_ms": 187647,
+      "name": "Gemstone",
+      "url": "https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1859,18 +1807,70 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
-        "name": "Gemstone",
-        "url": "https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ"
+        "name": "Free for All",
+        "url": "https://open.spotify.com/album/4pdkFcVxWjzUkh7VPYS03k"
       },
       "artists": [
         {
-          "name": "Keeth",
-          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        },
+        {
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
         }
       ],
-      "duration_ms": 187647,
-      "name": "Gemstone",
-      "url": "https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955"
+      "duration_ms": 163902,
+      "name": "Free for All",
+      "url": "https://open.spotify.com/track/5b4huQ1YuF8GiJXWlBGpjz"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "A Bouquet of Flowers",
+        "url": "https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "c e c e l i e",
+          "url": "https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Golden Age",
+        "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
+      },
+      "artists": [
+        {
+          "name": "Colombo",
+          "url": "https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF"
+        },
+        {
+          "name": "Massaman",
+          "url": "https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9"
+        }
+      ],
+      "duration_ms": 125590,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/3AN1XehfQNYZ1j0VUCezhU"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1887,22 +1887,6 @@
       "duration_ms": 101235,
       "name": "Mostly Toasted",
       "url": "https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke"
-      },
-      "artists": [
-        {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo"
     },
     {
       "added_at": "2023-06-20 07:53:37",
@@ -1951,6 +1935,42 @@
     {
       "added_at": "2023-06-20 07:53:37",
       "album": {
+        "name": "When Every Leaf Is A Flower",
+        "url": "https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Beyond Moments",
+          "url": "https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4"
+        }
+      ],
+      "duration_ms": 123636,
+      "name": "Lavanta",
+      "url": "https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo"
+    },
+    {
+      "added_at": "2023-06-20 07:53:37",
+      "album": {
         "name": "Heatwave",
         "url": "https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg"
       },
@@ -1971,22 +1991,6 @@
       "duration_ms": 191518,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX"
-    },
-    {
-      "added_at": "2023-06-20 07:53:37",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr"
-      },
-      "artists": [
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 260487,
-      "name": "Amethyst",
-      "url": "https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK"
     }
   ],
   "unique_name": "Smooth Jazz Beats",

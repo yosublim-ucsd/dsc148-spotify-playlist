@@ -1,31 +1,31 @@
 {
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: NMIXX (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 525236,
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Sandara Park(\uc0b0\ub2e4\ub77c\ubc15) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "num_followers": 525384,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDU3ZDYzNTZmMjdiZTMxNzQ5MzFkNDhiYTE0OTg4Y2U2Mzk1Yjll",
+  "snapshot_id": "MCwzZDBlYjQxZTQ2MzdkN2Y1OWQ2ZWQzM2U1OGU4NGE5NWRlZGI2NTRm",
   "tracks": [
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
-        "name": "A Midsummer NMIXX\u2019s Dream",
-        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
+        "name": "SANDARA PARK",
+        "url": "https://open.spotify.com/album/4OlfPaq5wGuzXHXioUAM4O"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "Sandara Park",
+          "url": "https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP"
         }
       ],
-      "duration_ms": 183546,
-      "name": "Party O'Clock",
-      "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
+      "duration_ms": 190893,
+      "name": "FESTIVAL",
+      "url": "https://open.spotify.com/track/5c1g69A9A2P9N6yCV4xvUo"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -41,10 +41,10 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+        "name": "A Midsummer NMIXX\u2019s Dream",
+        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
       },
       "artists": [
         {
@@ -52,12 +52,12 @@
           "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
+      "duration_ms": 183546,
+      "name": "Party O'Clock",
+      "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Unlock My World",
         "url": "https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
@@ -105,23 +121,7 @@
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -137,7 +137,23 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
         "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "We play",
         "url": "https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
@@ -201,23 +217,7 @@
       "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "What is Love",
-      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "One-reeler / Act IV",
         "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Young, Dumb, Stupid",
         "url": "https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2"
@@ -249,55 +249,7 @@
       "url": "https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "GREAT!",
-        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        }
-      ],
-      "duration_ms": 208863,
-      "name": "BBoom BBoom",
-      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "NewJeans 1st EP 'New Jeans'",
-        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 235562,
-      "name": "Cookie",
-      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Russian Roulette - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
@@ -313,7 +265,39 @@
       "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "What is Love",
+      "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
@@ -329,7 +313,23 @@
       "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "GREAT!",
+        "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 208863,
+      "name": "BBoom BBoom",
+      "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "\u02e3\u203f\u02e3 (SMiLEY)",
         "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
@@ -349,23 +349,23 @@
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
-        "name": "Midnight Guest",
-        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
       "artists": [
         {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 204293,
-      "name": "DM",
-      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
+      "duration_ms": 191139,
+      "name": "Red Flavor",
+      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "COLOR*IZ",
         "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
@@ -381,7 +381,23 @@
       "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Midnight Guest",
+        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
@@ -401,23 +417,7 @@
       "url": "https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "the Billage of perception: chapter three",
-        "url": "https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 203107,
-      "name": "EUNOIA",
-      "url": "https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "GFRIEND 2nd Mini Album 'Flower Bud'",
         "url": "https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7"
@@ -433,10 +433,10 @@
       "url": "https://open.spotify.com/track/6x7fux7bZEfnChKx3nhSZn"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
-        "name": "Taste of Love",
-        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF"
       },
       "artists": [
         {
@@ -444,12 +444,28 @@
           "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 210573,
-      "name": "Alcohol-Free",
-      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
+      "duration_ms": 213880,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "the Billage of perception: chapter three",
+        "url": "https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 203107,
+      "name": "EUNOIA",
+      "url": "https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "STEREOTYPE",
         "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
@@ -465,151 +481,7 @@
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 191139,
-      "name": "Red Flavor",
-      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "Hello - Special Album",
-        "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "Boys Like You",
-        "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Boys Like You",
-      "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "Life's Too Short",
-        "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Life's Too Short (English Version)",
-      "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "DUMDi DUMDi",
-        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "DUMDi DUMDi",
-      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
-        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 209104,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "Fun to The World",
-        "url": "https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3"
-      },
-      "artists": [
-        {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
-        }
-      ],
-      "duration_ms": 208474,
-      "name": "BAAM",
-      "url": "https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Dance The Night Away",
-      "url": "https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Queendom - The 6th Mini Album",
         "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
@@ -625,7 +497,135 @@
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Hello - Special Album",
+        "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Boys Like You",
+        "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/6Ihdn6wW2UBhfTKWbP29KA"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Life's Too Short",
+        "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Life's Too Short (English Version)",
+      "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "DUMDi DUMDi",
+        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "DUMDi DUMDi",
+      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "GFRIEND 3rd Mini Album 'SNOWFLAKE'",
+        "url": "https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 209104,
+      "name": "Rough",
+      "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Taste of Love",
+        "url": "https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 210573,
+      "name": "Alcohol-Free",
+      "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Fun to The World",
+        "url": "https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3"
+      },
+      "artists": [
+        {
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+        }
+      ],
+      "duration_ms": 208474,
+      "name": "BAAM",
+      "url": "https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Pink Blossom",
         "url": "https://open.spotify.com/album/5BrUPvAXYFeCqLKoTjSw3o"
@@ -673,7 +673,23 @@
       "url": "https://open.spotify.com/track/6fT9eZYgSvhu9v8wzrZkdG"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Dance The Night Away",
+      "url": "https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Dear OHMYGIRL",
         "url": "https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN"
@@ -705,39 +721,7 @@
       "url": "https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "9 WAY TICKET",
-        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "WE GO",
-      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "The 1st Mini Album 'Beam Of Prism'",
-        "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
-      },
-      "artists": [
-        {
-          "name": "VIVIZ",
-          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "BOP BOP!",
-      "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Summer Magic - Summer Mini Album",
         "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
@@ -753,7 +737,39 @@
       "url": "https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "9 WAY TICKET",
+        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "WE GO",
+      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "The 1st Mini Album 'Beam Of Prism'",
+        "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "BOP BOP!",
+      "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "Summer Special [Flip That]",
         "url": "https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "GFRIEND The 1st Album 'LOL'",
         "url": "https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg"
@@ -801,23 +817,7 @@
       "url": "https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "THE THIRD SINGLE CATALLENA",
-        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
-      },
-      "artists": [
-        {
-          "name": "Orange Caramel",
-          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
-        }
-      ],
-      "duration_ms": 193153,
-      "name": "Catallena",
-      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "LOOK",
         "url": "https://open.spotify.com/album/49NKBZDb92AQlMFypkZRTF"
@@ -833,23 +833,23 @@
       "url": "https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
-        "name": "From.9",
-        "url": "https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue"
+        "name": "THE THIRD SINGLE CATALLENA",
+        "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
       "artists": [
         {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+          "name": "Orange Caramel",
+          "url": "https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK"
         }
       ],
-      "duration_ms": 199965,
-      "name": "LOVE BOMB",
-      "url": "https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS"
+      "duration_ms": 193153,
+      "name": "Catallena",
+      "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "UNNATURAL",
         "url": "https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "+(KR)ystal Eyes <AESTHETIC>",
         "url": "https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp"
@@ -881,23 +881,7 @@
       "url": "https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
-      "album": {
-        "name": "GFRIEND The 2nd Album 'Time for us'",
-        "url": "https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 216488,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"
-    },
-    {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
         "name": "DELIGHT",
         "url": "https://open.spotify.com/album/7aTLF46tlKvNePZyUIf4e6"
@@ -913,20 +897,36 @@
       "url": "https://open.spotify.com/track/2E4E9jhBX8aAAACBG19Ked"
     },
     {
-      "added_at": "2023-07-11 16:21:43",
+      "added_at": "2023-07-12 09:53:17",
       "album": {
-        "name": "SMARTPHONE",
-        "url": "https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0"
+        "name": "From.9",
+        "url": "https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue"
       },
       "artists": [
         {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 198586,
-      "name": "SMARTPHONE",
-      "url": "https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY"
+      "duration_ms": 199965,
+      "name": "LOVE BOMB",
+      "url": "https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS"
+    },
+    {
+      "added_at": "2023-07-12 09:53:17",
+      "album": {
+        "name": "GFRIEND The 2nd Album 'Time for us'",
+        "url": "https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 216488,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"
     }
   ],
   "unique_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",

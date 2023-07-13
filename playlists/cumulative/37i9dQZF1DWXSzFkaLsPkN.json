@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 134199,
       "name": "Feel You Now",
       "url": "https://open.spotify.com/track/1qvG2HriblOKz5d6lMT81E"
@@ -666,6 +666,24 @@
       "duration_ms": 214000,
       "name": "Kabhi Kabhi",
       "url": "https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh"
+    },
+    {
+      "album": {
+        "name": "Kachha Ghada",
+        "url": "https://open.spotify.com/album/6KTVUqA1LVgnR5V2LmdeBK"
+      },
+      "artists": [
+        {
+          "name": "Rahgir",
+          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243815,
+      "name": "Kachha Ghada",
+      "url": "https://open.spotify.com/track/56ShzRBsODyylHvxsMycO1"
     },
     {
       "album": {
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 184207,
       "name": "Leher",
       "url": "https://open.spotify.com/track/2MgzGOwfEfWfi5W2EQwQaQ"
@@ -1358,6 +1376,28 @@
       "duration_ms": 219240,
       "name": "Roz",
       "url": "https://open.spotify.com/track/1rDQJd8kzwBRXeoTtojkQn"
+    },
+    {
+      "album": {
+        "name": "Ruko Na",
+        "url": "https://open.spotify.com/album/1WfBql1CYo4QBP28RoxS3v"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Avinash Chouhan",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225450,
+      "name": "Ruko Na",
+      "url": "https://open.spotify.com/track/1CZCN97RosXXOVicZzG4yY"
     },
     {
       "album": {

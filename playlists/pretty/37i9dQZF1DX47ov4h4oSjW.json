@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104068,
+  "num_followers": 104075,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQxMjM3YTYxY2EyYTA4N2IyZDkzOWY0NzM2MmFhZjhjYTc3MjI5",
+  "snapshot_id": "MCwwMDZiYmEyYjAzNmRiMmVkNzFiZTc0MGU3MTk1MjJhOGFmNDgwMzI2",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Air from Air",
-        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
-      },
-      "artists": [
-        {
-          "name": "Yasuo Zen",
-          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
-        }
-      ],
-      "duration_ms": 199428,
-      "name": "Air from Air",
-      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 137642,
       "name": "Release from silence",
       "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Air from Air",
+        "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "duration_ms": 199428,
+      "name": "Air from Air",
+      "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Seascape",
-        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
-      },
-      "artists": [
-        {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Seascape",
-      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 204461,
       "name": "Soffia la notte",
       "url": "https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Seascape",
+        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Seascape",
+      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Tient qu'a\u0300 un fil",
-        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Parentau",
-          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Tient qu'a\u0300 un fil",
-      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Visionaire",
         "url": "https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/061BZmW8qfNCy5a1VkqRMr"
+        "name": "Tient qu'a\u0300 un fil",
+        "url": "https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr"
       },
       "artists": [
         {
-          "name": "Piotr Wiese",
-          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+          "name": "Gaspar Parentau",
+          "url": "https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ"
         }
       ],
-      "duration_ms": 114697,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/4FWHZMgkRqos4JD0Y9UUDb"
+      "duration_ms": 167700,
+      "name": "Tient qu'a\u0300 un fil",
+      "url": "https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1003,6 +987,22 @@
       "duration_ms": 137000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/061BZmW8qfNCy5a1VkqRMr"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "duration_ms": 114697,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4FWHZMgkRqos4JD0Y9UUDb"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Branches \u00e9toil\u00e9es",
-        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
-      },
-      "artists": [
-        {
-          "name": "Leonard Czernay",
-          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
-        }
-      ],
-      "duration_ms": 166795,
-      "name": "Branches \u00e9toil\u00e9es",
-      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Szymanowski: Piano Works, Vol. 2",
         "url": "https://open.spotify.com/album/2PMbM22YPJ2jvqenwrY8qO"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 76933,
       "name": "Variations on a Polish Theme, Op. 10: No. 5 Andantino",
       "url": "https://open.spotify.com/track/3bcdLMrAxrfn5dxInjIdI2"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Branches \u00e9toil\u00e9es",
+        "url": "https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj"
+      },
+      "artists": [
+        {
+          "name": "Leonard Czernay",
+          "url": "https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM"
+        }
+      ],
+      "duration_ms": 166795,
+      "name": "Branches \u00e9toil\u00e9es",
+      "url": "https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Ember",
-        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
-      },
-      "artists": [
-        {
-          "name": "Albie Monroy",
-          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
-        }
-      ],
-      "duration_ms": 198298,
-      "name": "Trail of Light",
-      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Compromise",
         "url": "https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo"
       },
@@ -1183,38 +1167,6 @@
       "duration_ms": 151784,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Feels like home",
-        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 153902,
-      "name": "Feels like home",
-      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
-      },
-      "artists": [
-        {
-          "name": "Olivier DeGrasse",
-          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1235,6 +1187,54 @@
       "duration_ms": 122883,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Ember",
+        "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
+      },
+      "artists": [
+        {
+          "name": "Albie Monroy",
+          "url": "https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT"
+        }
+      ],
+      "duration_ms": 198298,
+      "name": "Trail of Light",
+      "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO"
+      },
+      "artists": [
+        {
+          "name": "Olivier DeGrasse",
+          "url": "https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Feels like home",
+        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 153902,
+      "name": "Feels like home",
+      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "/05",
         "url": "https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix"
       },
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Mosel Reflections (Solo Piano Version)",
         "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
+        "name": "For the Love of Love",
+        "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
       },
       "artists": [
         {
-          "name": "Carl Stark Willgold",
-          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
         }
       ],
-      "duration_ms": 135253,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
+      "duration_ms": 143251,
+      "name": "For the Love of Love",
+      "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1463,6 +1463,22 @@
       "duration_ms": 238588,
       "name": "Airbourne",
       "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
+      },
+      "artists": [
+        {
+          "name": "Carl Stark Willgold",
+          "url": "https://open.spotify.com/artist/6NlWW71ojh1uY2qoQorYr9"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/3kCv0qog8yLPc5P262zMOi"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "For the Love of Love",
-        "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
-      },
-      "artists": [
-        {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
-        }
-      ],
-      "duration_ms": 143251,
-      "name": "For the Love of Love",
-      "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Under Cold Water",
         "url": "https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq"
       },
@@ -1527,38 +1527,6 @@
       "duration_ms": 126124,
       "name": "Under Cold Water",
       "url": "https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
-      },
-      "artists": [
-        {
-          "name": "Anton Lebedev",
-          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Paragon",
-      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
-      },
-      "artists": [
-        {
-          "name": "Mary Steinbrecher",
-          "url": "https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1579,18 +1547,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Lonely Leslie",
-        "url": "https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0qlURxpEPDS25Wg74IAoeC"
       },
       "artists": [
         {
-          "name": "Thomas Preber",
-          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
+          "name": "Mary Steinbrecher",
+          "url": "https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa"
         }
       ],
-      "duration_ms": 159241,
-      "name": "Lonely Leslie",
-      "url": "https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC"
+      "duration_ms": 147874,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+      },
+      "artists": [
+        {
+          "name": "Anton Lebedev",
+          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Paragon",
+      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Isonzo",
-        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
+        "name": "Lonely Leslie",
+        "url": "https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg"
       },
       "artists": [
         {
-          "name": "Davorka Poljak",
-          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+          "name": "Thomas Preber",
+          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
         }
       ],
-      "duration_ms": 107500,
-      "name": "Isonzo",
-      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
+      "duration_ms": 159241,
+      "name": "Lonely Leslie",
+      "url": "https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1639,6 +1623,22 @@
       "duration_ms": 113000,
       "name": "Fin de l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Isonzo",
+        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
+      },
+      "artists": [
+        {
+          "name": "Davorka Poljak",
+          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+        }
+      ],
+      "duration_ms": 107500,
+      "name": "Isonzo",
+      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
     }
   ],
   "unique_name": "Piano Study",

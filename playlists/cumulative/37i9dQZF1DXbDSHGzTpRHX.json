@@ -744,24 +744,6 @@
     {
       "album": {
         "name": "dying together",
-        "url": "https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn"
-      },
-      "artists": [
-        {
-          "name": "Josh Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        }
-      ],
-      "date_added": "2019-12-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156217,
-      "name": "dying together",
-      "url": "https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN"
-    },
-    {
-      "album": {
-        "name": "dying together",
         "url": "https://open.spotify.com/album/31MiwOnaumhyDI1MloNrY3"
       },
       "artists": [
@@ -776,6 +758,24 @@
       "duration_ms": 156217,
       "name": "dying together",
       "url": "https://open.spotify.com/track/703SHNf8XtJnM3gtryjyJ6"
+    },
+    {
+      "album": {
+        "name": "dying together",
+        "url": "https://open.spotify.com/album/2a4x992loSNgqAdvP1LjOn"
+      },
+      "artists": [
+        {
+          "name": "Joshua Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156217,
+      "name": "dying together",
+      "url": "https://open.spotify.com/track/4rT2YF1iXeCemJhhee2pQN"
     },
     {
       "album": {

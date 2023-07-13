@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-250 songs - 10 hr 12 min
+255 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,8 @@
 | [Could It Be?](https://open.spotify.com/track/1BVWa7Qf9nN9eakpg13aF1) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [Could It Be?](https://open.spotify.com/album/1FtVHVt45fGkU5cHeyLgkP) | 1:51 | 2022-07-20 |  |
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2022-01-05 |  |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-14 | 2023-01-28 |
+| [dans mes rêves](https://open.spotify.com/track/6Hy7HXXIfWPtzCsKeEqDjM) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [dans mes rêves](https://open.spotify.com/album/6e7jOATXTfMdLKTNUqtMEB) | 2:24 | 2023-07-12 |  |
+| [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 | 2023-07-12 |  |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2021-12-14 |  |
 | [Dordogne Peace](https://open.spotify.com/track/6M7WZqI57fDaWnLXOJQjPv) | [Magnus Ludvigsson](https://open.spotify.com/artist/1ZdkboTg5bXbk7siTMxVc7) | [Dordogne Peace](https://open.spotify.com/album/6CmxYF8taQnE8hIEUGB0Ye) | 2:54 | 2021-12-14 |  |
 | [Du bist mîn, ich bin dîn](https://open.spotify.com/track/1J9Q9SKonrTjEfiktcBoJS) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Du bist mîn, ich bin dîn](https://open.spotify.com/album/3mUnkrH1LEQVNX93ES7zul) | 2:11 | 2022-05-20 |  |
@@ -151,6 +153,7 @@
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-03 |  |
 | [Peace In Water](https://open.spotify.com/track/6MOyr6CW5FmSSC3yWDOynt) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Peace In Water](https://open.spotify.com/album/41O9tKGlJ6FIIJemBI5qF1) | 2:12 | 2022-05-20 |  |
 | [Peaceful Plains](https://open.spotify.com/track/3LAyYOLbeCIndEEOb2ksSJ) | [Neon Riab](https://open.spotify.com/artist/0OkfroQB6K6gfa3TQ9ehim) | [Peaceful Plains](https://open.spotify.com/album/0KAtFzFkJOWnqhEbsEdZ74) | 1:55 | 2021-12-14 | 2022-04-29 |
+| [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-07-12 |  |
 | [Personne d'autre que toi](https://open.spotify.com/track/4M7jagkEBHpniJmWdntxNR) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Heaven](https://open.spotify.com/album/3aN17LcVzjDKxp7FXowuhO) | 3:05 | 2021-12-14 | 2022-07-21 |
 | [Perspectives](https://open.spotify.com/track/4NLORT4CrxkYaegK1ywz4v) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Perspectives](https://open.spotify.com/album/2gSOIVQHLgOt6Fh5lgUPeE) | 3:06 | 2021-12-14 |  |
 | [Place to Remember](https://open.spotify.com/track/235xEvc5AelB56CsNzYew3) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Place to Remember](https://open.spotify.com/album/57IkfgPpu5NwSW1AKeV9c8) | 1:38 | 2023-05-03 |  |
@@ -183,6 +186,7 @@
 | [Sehnsucht](https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v) | [Emma Hoffman](https://open.spotify.com/artist/0Ebn8VPkWUu1WsBPP1WwLl) | [Sehnsucht](https://open.spotify.com/album/5L6OxmJ5Ji42HSZSqoKUhl) | 2:11 | 2021-12-14 | 2022-10-27 |
 | [Shimmer](https://open.spotify.com/track/0n9z4lk3UOqimQ4HFlKO72) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Shimmer](https://open.spotify.com/album/0pAIe0jBV1WDL63LKGtInX) | 2:13 | 2023-01-09 |  |
 | [Shu's Sonata](https://open.spotify.com/track/2KOxgVJN5IGm8Of4IARigO) | [Mayumi Sasaki](https://open.spotify.com/artist/3A4RidZHkdgr2FEKZnjnmd) | [Shu's Sonata](https://open.spotify.com/album/16yTf06rnFkS8y0uM6nWPh) | 2:31 | 2022-04-28 |  |
+| [Si proche](https://open.spotify.com/track/6e1phFv1GIKRhmrYddDPWT) | [Zdenek Lemelin](https://open.spotify.com/artist/7z8fwNUZFxgizWrG2GDQt3) | [Si proche](https://open.spotify.com/album/0KamlZdDERdY1kIwltXYwd) | 2:15 | 2023-07-12 |  |
 | [Sichm](https://open.spotify.com/track/6pMJj2gSGimd2tWbBEs28V) | [Aenor](https://open.spotify.com/artist/23P5JvLFlmlLNsi9ntziQD) | [Sichm](https://open.spotify.com/album/6RswTsIjkwCAJogdZRRJrK) | 2:03 | 2021-12-14 | 2022-04-29 |
 | [Simpler Times](https://open.spotify.com/track/6RTgk5dsupZSeji1jh4zyB) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/01vBc9RVqwgUpsgI8qRWhY) | 2:21 | 2022-09-13 |  |
 | [Simpler Times](https://open.spotify.com/track/710MDsCIXocuZBLwGbdg4G) | [Christopher J\. Richardson](https://open.spotify.com/artist/3z56CNr5ke5G6zUf0FKgAf) | [Piano Music](https://open.spotify.com/album/198J7evKOaky47zE5WGbVj) | 2:21 | 2022-07-20 | 2022-09-18 |
@@ -200,6 +204,7 @@
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-14 |  |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-17 |  |
 | [Sonnenblume](https://open.spotify.com/track/5OwyqAz6sXFkq6Ny60M12h) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Sonnenblume](https://open.spotify.com/album/5fSmW7WWjIwYt5xtOgbu7t) | 2:12 | 2022-05-20 |  |
+| [Soothing Voices](https://open.spotify.com/track/7obdOKoRXgPGGMaYAbJQCV) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Soothing Voices](https://open.spotify.com/album/3Ig4ekBoU8pNembyEE3XTN) | 2:17 | 2023-07-12 |  |
 | [Sous le Pluie](https://open.spotify.com/track/2qCiBLziSnRIR3LXMQq798) | [Agatha Messina](https://open.spotify.com/artist/286xUM2HNGoiq5B1ym9cMI) | [Sous le Pluie](https://open.spotify.com/album/12qJxLu88yGkWK1ASI4QUp) | 1:42 | 2023-02-15 |  |
 | [Speicherstadt](https://open.spotify.com/track/59crmJpzPW64edZAmXNOn5) | [Stephan Neudorf](https://open.spotify.com/artist/3LTEyjfC2BYp3WdJhPJjm1) | [Speicherstadt](https://open.spotify.com/album/6Ecw3xAVbA82muBpmMLOKU) | 2:23 | 2021-12-14 |  |
 | [Spring](https://open.spotify.com/track/7gpOugvWq2g76J6bhXGlgy) | [Anna Sofia Nord](https://open.spotify.com/artist/1LMH92wmd895KpE0pdRSek) | [Spring](https://open.spotify.com/album/4edmrPlqJ175RiZfKxnEpX) | 2:03 | 2021-12-14 |  |

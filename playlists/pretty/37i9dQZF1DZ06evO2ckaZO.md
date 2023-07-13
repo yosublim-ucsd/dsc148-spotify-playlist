@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 
 > This is Ice Spice\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,207 likes - 15 songs - 32 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 32,356 likes - 15 songs - 32 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ckaZO.md) - [plain]
 | 14 | [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 |
 | 15 | [Actin A Smoochie](https://open.spotify.com/track/614PNsaI816SVsGQm4omXJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 2:13 |
 
-Snapshot ID: `MjgxNTEzMzMsMDAwMDAwMDA0MTU0OTNlYTlkNTQzZDk1M2UxMmI3MDlhM2VlM2ZkZA==`
+Snapshot ID: `MjgxNTMwMDUsMDAwMDAwMDBkYjYwOTdiNGY4NTY4MjBmOGNiOWM3YmU4ZTRlNmNiYg==`

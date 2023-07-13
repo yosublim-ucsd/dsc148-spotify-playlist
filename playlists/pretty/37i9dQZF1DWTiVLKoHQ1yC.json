@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 154840,
+  "num_followers": 154942,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODY3YjE1ZTE0MGQzYjFiNmQ4YTJjYTRmNTkyNDkwMDdhMGZhYTg2",
+  "snapshot_id": "MCxmMGNjMjFiN2VjMTgwYjM1ZjkxNjk5NmU3MzcyZmE3MDlkOGM4MWZi",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -679,8 +679,8 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
+        "name": "Brightest Lights Remixed",
+        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
       },
       "artists": [
         {
@@ -688,13 +688,17 @@
           "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+          "name": "Kauf",
+          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 249677,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+      "duration_ms": 295597,
+      "name": "How Often - Ben B\u00f6hmer Remix",
+      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -803,22 +807,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Hide",
-        "url": "https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd"
-      },
-      "artists": [
-        {
-          "name": "KARAAL",
-          "url": "https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b"
-        }
-      ],
-      "duration_ms": 206612,
-      "name": "Hide - Original Mix",
-      "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "All We Have Is Now / Stay The Same",
         "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
       },
@@ -831,6 +819,22 @@
       "duration_ms": 252125,
       "name": "All We Have Is Now",
       "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd"
+      },
+      "artists": [
+        {
+          "name": "KARAAL",
+          "url": "https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b"
+        }
+      ],
+      "duration_ms": 206612,
+      "name": "Hide - Original Mix",
+      "url": "https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -851,8 +855,8 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Brightest Lights Remixed",
-        "url": "https://open.spotify.com/album/70JL21ywMn2hLg3EyfwUPW"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
       },
       "artists": [
         {
@@ -860,17 +864,13 @@
           "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         },
         {
-          "name": "Kauf",
-          "url": "https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
         }
       ],
-      "duration_ms": 295597,
-      "name": "How Often - Ben B\u00f6hmer Remix",
-      "url": "https://open.spotify.com/track/6Lmm4yos2CGxFqPdhBy38x"
+      "duration_ms": 249677,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
     },
     {
       "added_at": "2022-11-25 16:56:36",

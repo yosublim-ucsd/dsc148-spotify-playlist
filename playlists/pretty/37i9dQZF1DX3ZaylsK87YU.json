@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 52940,
+  "num_followers": 53118,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDhhMWIxYjg3ZDhlZGEwZDJkN2U3M2UyYjk0MDRjMGU3M2I5ZTZl",
+  "snapshot_id": "MCwyOWVlMzYwZGM0ZGNmODlhODUwZjZlNWYwNTkwN2E4Zjk4MWQwMDkw",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Housefires III",
+        "url": "https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        }
+      ],
+      "duration_ms": 491690,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
       },
@@ -135,22 +151,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Housefires III",
-        "url": "https://open.spotify.com/album/4HCgEprGQ9xJdc80TF4fov"
-      },
-      "artists": [
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        }
-      ],
-      "duration_ms": 491690,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/0QatL1szZzMTAfZoJKWo0s"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
       },
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Neon Steeple",
-        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 289746,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Glory & Wonder",
         "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 309093,
       "name": "Tremble - Live",
       "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "The Longing EP No. 3",
+        "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "duration_ms": 355320,
+      "name": "Called Me Higher",
+      "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Yours Alone",
         "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "The Longing EP No. 3",
-        "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
+        "name": "Resurrecting - EP",
+        "url": "https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 355320,
-      "name": "Called Me Higher",
-      "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
+      "duration_ms": 264840,
+      "name": "Resurrecting (Studio Version)",
+      "url": "https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -863,22 +879,6 @@
       "duration_ms": 274080,
       "name": "My Worth Is Not In What I Own",
       "url": "https://open.spotify.com/track/2P4h4BnBsFxdMbHFr0jCo9"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Resurrecting - EP",
-        "url": "https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 264840,
-      "name": "Resurrecting (Studio Version)",
-      "url": "https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Speak O Lord",
-      "url": "https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 271906,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Speak O Lord",
+      "url": "https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
       "artists": [
         {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
         }
       ],
-      "duration_ms": 281866,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
+      "duration_ms": 394186,
+      "name": "Hidden (Live) [feat. Will Reagan]",
+      "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
       },
       "artists": [
         {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        },
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
         }
       ],
-      "duration_ms": 394186,
-      "name": "Hidden (Live) [feat. Will Reagan]",
-      "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
+      "duration_ms": 281866,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1119,6 +1119,22 @@
       "duration_ms": 350226,
       "name": "Satisfied in You (Psalm 42)",
       "url": "https://open.spotify.com/track/0ML25KciIhm4UgAVKrDjAo"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1143,34 +1159,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
         }
       ],
-      "duration_ms": 273293,
-      "name": "Do it Again (Acoustic)",
-      "url": "https://open.spotify.com/track/562a45H0hU2BkFcT0KDbse"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Limbs & Branches",
-        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "The House Of God, Forever",
-      "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
+      "duration_ms": 347853,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/2N7sEVVS3jKMJJuJi4v0UF"
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
       },
       "artists": [
         {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
         }
       ],
-      "duration_ms": 347853,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/7A0KE0lgddnjGIOry9AjOT"
+      "duration_ms": 283986,
+      "name": "The House Of God, Forever",
+      "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "At the Foot of the Cross - Acoustic",
-      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Fortunate Fall",
         "url": "https://open.spotify.com/album/76I8fqOA2ZEoASDzbifCMA"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 280666,
       "name": "I Shall Not Want",
       "url": "https://open.spotify.com/track/5rgukqlCowrFmIIAF4Cs8u"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "At the Foot of the Cross - Acoustic",
+      "url": "https://open.spotify.com/track/59dF79fypzaMFZYJCCPJbl"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 42373,
-      "name": "Doxology",
-      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/5BjcLlthKNZxElwEFd7sjc"
       },
@@ -1607,34 +1591,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
       },
       "artists": [
         {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 279253,
-      "name": "Doxology//Amen",
-      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "My Hope and Stay: Hymns Project, Vol. II",
-        "url": "https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO"
-      },
-      "artists": [
-        {
-          "name": "Norton Hall Band",
-          "url": "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "My Hope Is Built / The Solid Rock",
-      "url": "https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78"
+      "duration_ms": 42373,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1655,6 +1623,38 @@
       "duration_ms": 282160,
       "name": "Safe Retreat (feat. Braille)",
       "url": "https://open.spotify.com/track/6ygVhMeWmK6uW7IPQKdrnq"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "My Hope and Stay: Hymns Project, Vol. II",
+        "url": "https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO"
+      },
+      "artists": [
+        {
+          "name": "Norton Hall Band",
+          "url": "https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "My Hope Is Built / The Solid Rock",
+      "url": "https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "Doxology//Amen",
+      "url": "https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho"
     },
     {
       "added_at": "2023-02-18 04:59:55",

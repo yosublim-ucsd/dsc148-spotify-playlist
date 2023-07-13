@@ -4994,12 +4994,12 @@
       },
       "artists": [
         {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        },
-        {
           "name": "London Grammar",
           "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
         }
       ],
       "date_added": "2023-07-10",
@@ -9375,7 +9375,7 @@
     },
     {
       "album": {
-        "name": "Hell Of A Ride / High In Brighton",
+        "name": "Hell Of A Ride",
         "url": "https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l"
       },
       "artists": [

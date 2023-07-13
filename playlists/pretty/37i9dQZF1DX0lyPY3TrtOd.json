@@ -1,33 +1,13 @@
 {
   "description": "FEEL GOOD ALERT \ud83c\udf3c\ud83c\udf3b Beetje indie, beetje alternative en alles wat nog meer goed voelt.",
-  "num_followers": 29258,
+  "num_followers": 29257,
   "original_name": "EXTASE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjNlZmY4ZjFmYzBiYTVhZGJkZDg5NDdjZDAzZjhjYjgzODJiYzgz",
+  "snapshot_id": "MCw1ZjQyN2IyNGE3YTI0ODdhNzkxNzUzM2UzNmYwMDNmZjVlMTBkMTg1",
   "tracks": [
-    {
-      "added_at": "2023-07-07 09:19:42",
-      "album": {
-        "name": "Landscape",
-        "url": "https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "Banji",
-          "url": "https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc"
-        }
-      ],
-      "duration_ms": 160730,
-      "name": "Landscape",
-      "url": "https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK"
-    },
     {
       "added_at": "2023-07-07 09:19:42",
       "album": {
@@ -111,6 +91,42 @@
       "duration_ms": 148853,
       "name": "Easy Going",
       "url": "https://open.spotify.com/track/0m8VHcSNJmb7oVp6dsIVFu"
+    },
+    {
+      "added_at": "2023-07-07 09:19:42",
+      "album": {
+        "name": "Landscape",
+        "url": "https://open.spotify.com/album/3Wzgh6znehuaK9Yu2IdZ6s"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "Banji",
+          "url": "https://open.spotify.com/artist/1Wzrxc6IyOzgMhxtaUeLZc"
+        }
+      ],
+      "duration_ms": 160730,
+      "name": "Landscape",
+      "url": "https://open.spotify.com/track/3mhmsgWbnEex2qBUZEUnCK"
+    },
+    {
+      "added_at": "2023-07-07 09:19:42",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-07-07 09:19:42",
@@ -203,6 +219,22 @@
     {
       "added_at": "2023-07-07 09:19:42",
       "album": {
+        "name": "Echo Palace",
+        "url": "https://open.spotify.com/album/2GVqe5obMxcMojXO9Rsrkj"
+      },
+      "artists": [
+        {
+          "name": "Iguana Death Cult",
+          "url": "https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Paper Straws",
+      "url": "https://open.spotify.com/track/2gGseH8fhd7BIkQQdIBnHo"
+    },
+    {
+      "added_at": "2023-07-07 09:19:42",
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1hZFUyWzdmcMgD85mrPsCb"
       },
@@ -231,38 +263,6 @@
       "duration_ms": 187347,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/6GifVz1gA0lKGDAlez5iyP"
-    },
-    {
-      "added_at": "2023-07-07 09:19:42",
-      "album": {
-        "name": "Echo Palace",
-        "url": "https://open.spotify.com/album/2GVqe5obMxcMojXO9Rsrkj"
-      },
-      "artists": [
-        {
-          "name": "Iguana Death Cult",
-          "url": "https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Paper Straws",
-      "url": "https://open.spotify.com/track/2gGseH8fhd7BIkQQdIBnHo"
-    },
-    {
-      "added_at": "2023-07-07 09:19:42",
-      "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-07-07 09:19:42",

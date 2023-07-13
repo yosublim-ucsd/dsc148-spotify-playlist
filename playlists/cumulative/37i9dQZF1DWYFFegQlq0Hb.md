@@ -139,6 +139,6 @@
 | [虚式「茈」](https://open.spotify.com/track/1BO2xCMHbWzjNrLXM8V7zv) | [桶狭間ありさ](https://open.spotify.com/artist/4hvJ6gJeIAfiPDEoqqbZnQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 3:52 | 2022-03-07 | 2022-07-29 |
 | [迫る危険](https://open.spotify.com/track/2G5cjmuaaliaAnlVMvemnR) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 2:44 | 2022-03-07 | 2022-07-29 |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2022-03-07 |  |
-| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
+| [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-06 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

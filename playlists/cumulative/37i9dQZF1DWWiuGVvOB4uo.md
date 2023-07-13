@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-279 songs - 15 hr 16 min
+280 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Ruin My Life](https://open.spotify.com/track/2bl1hEoJTAAgbbw9u1U7wY) | [Eloise Kate](https://open.spotify.com/artist/5o8uKmI1GJP1DVCnt73oKE) | [Ruin My Life](https://open.spotify.com/album/4aid7u08MEo6TJTkShJFEN) | 3:28 | 2022-08-26 | 2023-02-15 |
 | [Salt And The Sea](https://open.spotify.com/track/1JWtd8xh4Q5dyvnpBKh8L0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/6GVE4CFlrukN6Od0AnWL0c) | 4:22 | 2022-08-26 | 2022-12-10 |
 | [Save Me from Myself](https://open.spotify.com/track/0nGDvPqbLFdAK6YSnup81H) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 2](https://open.spotify.com/album/1GcwB9rGjefLQTB99KuCyL) | 3:17 | 2022-10-28 | 2022-11-13 |
-| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-08-26 |  |
+| [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 | 2022-08-26 | 2023-07-13 |
+| [Save Me From Myself](https://open.spotify.com/track/39ldhlm119RIWwXICpBEkU) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me From Myself](https://open.spotify.com/album/59Y8SthRcQhmt3N5manpIb) | 3:17 | 2023-06-22 |  |
 | [Say](https://open.spotify.com/track/2kowzxt2lnJhw9yQqOOG2n) | [The Albertson Duo](https://open.spotify.com/artist/0jbFImQ3Ja4NWpzob434nE) | [Say](https://open.spotify.com/album/5gOVhTYiwAK8EbmgaPWVfB) | 3:22 | 2022-08-26 |  |
 | [Say Yes](https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Say Yes](https://open.spotify.com/album/5l4P7N8kapeqHFOysjbj3H) | 2:21 | 2022-08-26 | 2023-02-03 |
 | [Say you won't let go](https://open.spotify.com/track/3jUhEX67qxI3SNbfk6kMSH) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Say you won't let go](https://open.spotify.com/album/0U4G71eZFGgeMSlOZ3qDYF) | 3:19 | 2022-10-28 |  |

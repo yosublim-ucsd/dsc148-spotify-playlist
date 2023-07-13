@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabriels
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,634 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,701 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 15 | [Means The World](https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Means The World](https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5) | 3:01 |
 | 16 | [Nobody's fault but mine](https://open.spotify.com/track/07dvfTvxCzgQEf5jYRUqfX) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 2:39 |
 | 17 | [Clear Water \(feat\. Deantoni Parks, Jeff Parker, Sanford Biggers\)](https://open.spotify.com/track/3aeFAZzP1MrbbJTLzG9VI9) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Deantoni Parks](https://open.spotify.com/artist/1RLjVRaoIxtiVZiV6NNIBX), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt), [Sanford Biggers](https://open.spotify.com/artist/3gZXyYaWIgjAYpx8XdokiR) | [The Omnichord Real Book](https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA) | 4:35 |
-| 18 | [Good Morning](https://open.spotify.com/track/5l4hVrAgRkZHNQMx59hmk4) | [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe), [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Fabrice Martinez](https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D), [Drôles de Dames](https://open.spotify.com/artist/60UrGS7OunULLM2GBl6ocw) | [Good Morning](https://open.spotify.com/album/7Hbv1mHKgpwFux04jIqiAi) | 4:56 |
+| 18 | [Good Morning](https://open.spotify.com/track/5l4hVrAgRkZHNQMx59hmk4) | [Thomas de Pourquery](https://open.spotify.com/artist/1tMIosPVEqpXGdD8JW1tIe), [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Fabrice Martinez](https://open.spotify.com/artist/5Y5DWaaIaPXwKWTGJlK41D), [Drôles de Dames](https://open.spotify.com/artist/2RqB2FUoiFLQF7vEsE9FCM) | [Good Morning](https://open.spotify.com/album/7Hbv1mHKgpwFux04jIqiAi) | 4:56 |
 | 19 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 |
 | 20 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 |
 | 21 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Vuma \(feat\. Thandiswa, Joel Ross\)](https://open.spotify.com/track/1c3FhOIEZnKc0cmuZOqh6S) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [The Omnichord Real Book](https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA) | 3:00 |
 | 50 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 
-Snapshot ID: `MCw1Yzg5ZDJiZmNmYjBiYmYxMTRlZjYwMmUzZWQ4Zjk2YWIxYWViMGY0`
+Snapshot ID: `MCwxMDUwMzZlYzQ4YjRjZTM4NGNjYTc2OWE4Yzc4YzU5MjZmNmM0NTc4`

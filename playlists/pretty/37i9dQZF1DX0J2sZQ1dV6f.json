@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 82954,
+  "num_followers": 82982,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmYyNzMzNDMxYzllNDg4MDIyOGU4ZWU1MzgwYWIxYmVkOGE4ZDMw",
+  "snapshot_id": "MCw3OWU4MmRhODkzMWMwNDVjN2JlMzZjODg2YTg5NGFmNjM0NmM1MTU3",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Dale Mecha",
+        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 150829,
+      "name": "Dale Mecha",
+      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "MI EXXX",
         "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 194470,
       "name": "MI EXXX",
       "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Dale Mecha",
-        "url": "https://open.spotify.com/album/6EsqgjhvRGp1aIivu7ck8F"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 150829,
-      "name": "Dale Mecha",
-      "url": "https://open.spotify.com/track/3WndNMJo029mMO64l9hGFm"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+        "name": "LOS CULOS DE MEDALLO",
+        "url": "https://open.spotify.com/album/4KM5V40PZLMWbBcrzLlduL"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Kapla y Miky",
+          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
         }
       ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+      "duration_ms": 164210,
+      "name": "LOS CULOS DE MEDALLO",
+      "url": "https://open.spotify.com/track/2CvfXjMfoheLIdjlkIBjXA"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -443,6 +447,42 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "SI TE PEGAS",
+      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Millonarios Juntos",
         "url": "https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU"
       },
@@ -459,22 +499,6 @@
       "duration_ms": 182779,
       "name": "Millonarios Juntos",
       "url": "https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Sexo Virtual",
-      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -499,26 +523,6 @@
       "duration_ms": 151000,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "LOS CULOS DE MEDALLO",
-        "url": "https://open.spotify.com/album/4KM5V40PZLMWbBcrzLlduL"
-      },
-      "artists": [
-        {
-          "name": "Kapla y Miky",
-          "url": "https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "LOS CULOS DE MEDALLO",
-      "url": "https://open.spotify.com/track/2CvfXjMfoheLIdjlkIBjXA"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -595,46 +599,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "DA\u00d1AMOS LA AMISTAD",
-      "url": "https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "SI TE PEGAS",
-      "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Kitty",
         "url": "https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee"
       },
@@ -651,6 +615,42 @@
       "duration_ms": 200388,
       "name": "Kitty",
       "url": "https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Sexo Virtual",
+      "url": "https://open.spotify.com/track/1lV3QHHMAQt0Kc1ioZq2MP"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "DA\u00d1AMOS LA AMISTAD",
+      "url": "https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 125615,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "6.5",
         "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 177984,
       "name": "Traketo",
       "url": "https://open.spotify.com/track/7oF41tECrpN5kAoHzJhrhA"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 125615,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "te kiero ver",
+        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 147224,
+      "name": "te kiero ver",
+      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/7uCR5vxsTuVHaqd8nMWoDV"
       },
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "te kiero ver",
-        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 147224,
-      "name": "te kiero ver",
-      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Toma",
-        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 162330,
-      "name": "Toma",
-      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Papi Quiero Perrear",
         "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 135303,
       "name": "Papi Quiero Perrear",
       "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Aborrecio",
+        "url": "https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 268321,
+      "name": "Aborrecio",
+      "url": "https://open.spotify.com/track/3KSldp6Yh0XIvN0tyPJWK4"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Que Vuelta",
         "url": "https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 206958,
       "name": "Que Vuelta",
       "url": "https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Aborrecio",
-        "url": "https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 268321,
-      "name": "Aborrecio",
-      "url": "https://open.spotify.com/track/3KSldp6Yh0XIvN0tyPJWK4"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Mi Error",
+        "url": "https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj"
+      },
+      "artists": [
+        {
+          "name": "Betzabeth",
+          "url": "https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Es Culpa M\u00eda",
+      "url": "https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "MAMi QU\u00c9 FUE?",
         "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 167814,
       "name": "MAMi QU\u00c9 FUE?",
       "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Mi Error",
-        "url": "https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj"
-      },
-      "artists": [
-        {
-          "name": "Betzabeth",
-          "url": "https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Es Culpa M\u00eda",
-      "url": "https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1443,6 +1443,30 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Symon Dice",
+          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Perre\u00e1ndote",
+      "url": "https://open.spotify.com/track/5RgBJX31NEVDcGUSMGBWWO"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Bellaker\u00eda",
         "url": "https://open.spotify.com/album/7bm8HklkmN2f9ygwLymSTR"
       },
@@ -1487,30 +1511,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Symon Dice",
-          "url": "https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Perre\u00e1ndote",
-      "url": "https://open.spotify.com/track/5RgBJX31NEVDcGUSMGBWWO"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Mi real lova",
         "url": "https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn"
       },
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/1VgWLZOiwFv7JxmDibrnug"
-      },
-      "artists": [
-        {
-          "name": "RoyalLive",
-          "url": "https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx"
-        },
-        {
-          "name": "ADSO",
-          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
-        }
-      ],
-      "duration_ms": 161763,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/3oD9nLLXtfUm0ynRsjwC1E"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "TRIP 21",
         "url": "https://open.spotify.com/album/5qacSayUg0QNvxkVmJkATS"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 210412,
       "name": "CONECTARTE",
       "url": "https://open.spotify.com/track/7AsLUQMmbPcObJzifIK2et"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/1VgWLZOiwFv7JxmDibrnug"
+      },
+      "artists": [
+        {
+          "name": "RoyalLive",
+          "url": "https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx"
+        },
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        }
+      ],
+      "duration_ms": 161763,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/3oD9nLLXtfUm0ynRsjwC1E"
     }
   ],
   "unique_name": "4AM Perreo",

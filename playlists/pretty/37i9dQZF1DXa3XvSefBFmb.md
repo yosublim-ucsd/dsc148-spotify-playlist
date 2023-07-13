@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Cláudia Pascoal, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,896 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,899 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [A Tua Mão](https://open.spotify.com/track/3gAgzePTzvCOkLe4OwXrsD) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [A Tua Mão](https://open.spotify.com/album/5JHZf3hbQsy2IpFQVwBO49) | 3:41 |
 | 50 | [Mumentu](https://open.spotify.com/track/4JqmkeOi1wxgwlEi6uWUwJ) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Mumentu](https://open.spotify.com/album/6hzMAoYaLubJFu3NOWQKX6) | 2:59 |
 
-Snapshot ID: `MCw0YmI5NDQyMmFkYjQxMmRlYTJmYmYxZDNiODQ3NDM5YmY1ZDg5ZTVm`
+Snapshot ID: `MCwzYzg5YWYwZTI1Njc1ZjFlZWYzNzAyNmNhYzYzMmEyZjIzNjQyZWUy`

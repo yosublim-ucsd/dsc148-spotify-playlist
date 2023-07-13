@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist",
-  "num_followers": 1573,
+  "num_followers": 1574,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmNmZDkxMzFlYTMxZWUxYzBiOTU4ODc2YzE1ZjgwOGFkOGVjNzZj",
+  "snapshot_id": "MCwwOTgxZDhlZTBjODQ1M2Q4OTk4NzhkZDEyMGRhN2IyNzRhNzA0Mzk0",
   "tracks": [
     {
       "added_at": "2023-06-30 09:37:04",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
         "name": "From Uganda With Love",
         "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 110124,
       "name": "SUPAHAWT",
       "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 179762,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
-      },
-      "artists": [
-        {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
+        "name": "Bedroom Essentials",
+        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
+      },
+      "artists": [
+        {
+          "name": "ELIJAH KITAKA",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Tutu Mama",
+      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
         "name": "Your Number (Acoustic)",
         "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
       },
@@ -551,30 +571,6 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT"
-      },
-      "artists": [
-        {
-          "name": "Chwezimadeit",
-          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
-        },
-        {
-          "name": "Andy Muzic",
-          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
-        },
-        {
-          "name": "Kyvo Bouy",
-          "url": "https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky"
-        }
-      ],
-      "duration_ms": 173196,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
       },
@@ -595,22 +591,26 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
-        "name": "Bedroom Essentials",
-        "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT"
       },
       "artists": [
         {
-          "name": "ELIJAH KITAKA",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+          "name": "Chwezimadeit",
+          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
         },
         {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+          "name": "Andy Muzic",
+          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
+        },
+        {
+          "name": "Kyvo Bouy",
+          "url": "https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Tutu Mama",
-      "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
+      "duration_ms": 173196,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -651,6 +651,58 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
+        "name": "Nothing (Remix)",
+        "url": "https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl"
+      },
+      "artists": [
+        {
+          "name": "ELIJAH KITAKA",
+          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
+        },
+        {
+          "name": "The Mith",
+          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
+        },
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Wonder Jr",
+          "url": "https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs"
+        },
+        {
+          "name": "TimothyCODE",
+          "url": "https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA"
+        },
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "Nothing - Remix",
+      "url": "https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
+        "name": "Wanting Me",
+        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 165283,
+      "name": "Wanting Me",
+      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
         "name": "Kyaani",
         "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
       },
@@ -687,22 +739,6 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
-        "name": "Wanting Me",
-        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165283,
-      "name": "Wanting Me",
-      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
         "name": "Love Marijuana",
         "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
       },
@@ -719,42 +755,6 @@
       "duration_ms": 228040,
       "name": "Love Marijuana",
       "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Nothing (Remix)",
-        "url": "https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl"
-      },
-      "artists": [
-        {
-          "name": "ELIJAH KITAKA",
-          "url": "https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6"
-        },
-        {
-          "name": "The Mith",
-          "url": "https://open.spotify.com/artist/1xGpeTWvpYbkDTpP5dXyNf"
-        },
-        {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
-        },
-        {
-          "name": "Wonder Jr",
-          "url": "https://open.spotify.com/artist/4ZVv4tXo58qTVMrmHlvXBs"
-        },
-        {
-          "name": "TimothyCODE",
-          "url": "https://open.spotify.com/artist/60JDOqQkDDSJsJvj5YSGCA"
-        },
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        }
-      ],
-      "duration_ms": 290400,
-      "name": "Nothing - Remix",
-      "url": "https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
         "name": "Part2 (Dinner in Maui)",
         "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
       },
@@ -831,6 +815,38 @@
       "duration_ms": 193896,
       "name": "Part2 (Dinner in Maui)",
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "added_at": "2023-06-30 09:37:04",
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -863,22 +879,6 @@
       "duration_ms": 204289,
       "name": "Bbuba",
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
-      },
-      "artists": [
-        {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2023-06-30 09:37:04",
@@ -919,30 +919,18 @@
     {
       "added_at": "2023-06-30 09:37:04",
       "album": {
-        "name": "Longitude 20",
-        "url": "https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K"
+        "name": "Bulamu",
+        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
       "artists": [
         {
-          "name": "Kaboo",
-          "url": "https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD"
-        },
-        {
-          "name": "Baru",
-          "url": "https://open.spotify.com/artist/24SGSn5dBrSqZ4qzakxMrj"
-        },
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Likkle Bangi",
-          "url": "https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8"
+          "name": "Zulitums",
+          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
         }
       ],
-      "duration_ms": 222309,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/3aYlnF0Pwbhj0tB8WLfdvp"
+      "duration_ms": 193246,
+      "name": "Bulamu",
+      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
     }
   ],
   "unique_name": "Made In Uganda",

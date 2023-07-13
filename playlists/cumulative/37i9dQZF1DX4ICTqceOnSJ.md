@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-101 songs - 5 hr 42 min
+102 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 | 2023-03-19 | 2023-04-15 |
 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-05-23 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-03-19 | 2023-04-23 |
+| [lo que no es sincero hoy](https://open.spotify.com/track/5e3fTt5d30qgNspCWeyxtY) | [El Alguacil](https://open.spotify.com/artist/1vw7wq0QVG1i1kYEImW7xa) | [lo que no es sincero hoy](https://open.spotify.com/album/5btwrK4Yktkg9xfhMReaD2) | 3:14 | 2023-07-12 |  |
 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-27 |  |
 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 | 2023-03-19 | 2023-05-28 |
 | [Mala Mia](https://open.spotify.com/track/1gPDUmzf3TviGRmSUnwst0) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Mala Mia](https://open.spotify.com/album/3WJ1EoQn4vKUaafZQKIVqi) | 3:09 | 2023-03-19 | 2023-04-19 |
@@ -91,7 +92,7 @@
 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 | 2023-05-08 |  |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-13 |  |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-03-19 | 2023-06-03 |
-| [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 | 2023-04-01 |  |
+| [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 | 2023-04-01 | 2023-07-13 |
 | [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 | 2023-04-24 |  |
 | [Red Pill](https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH) | [Jass Reyes](https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF) | [Red Pill](https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m) | 2:58 | 2023-05-31 |  |
 | [Red Velvet](https://open.spotify.com/track/6VPXeQLMC7hpFdJjyeDMvW) | [El Arkeologo](https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre), [Gambeta](https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Arketipo Temporada 2](https://open.spotify.com/album/5zcLt8Qw4QCNH48l0CBjyu) | 3:09 | 2023-03-19 | 2023-04-18 |

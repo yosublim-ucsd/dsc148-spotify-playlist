@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 120376,
+  "num_followers": 120433,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzZiYWU5ZmNiMmY0OWI0YjA4YWNkNTlhZmIxMDE0NTYyYzE4YjBj",
+  "snapshot_id": "MCw2MzUyMDIyMjJlMTY5NjIyZGZjNTE5YmNhYzE3MGQ2Y2I2MjhiZjMx",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Walk In My Shadow",
-      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
+      "duration_ms": 178359,
+      "name": "I'm A Mover",
+      "url": "https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
         }
       ],
-      "duration_ms": 178359,
-      "name": "I'm A Mover",
-      "url": "https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx"
+      "duration_ms": 210426,
+      "name": "Walk In My Shadow",
+      "url": "https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Street Corner Talking",
-        "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 323733,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Diamonds In The Dirt",
@@ -455,6 +439,22 @@
       "duration_ms": 187245,
       "name": "Who Do You Love?",
       "url": "https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Street Corner Talking",
+        "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 323733,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/4tHfqhXZAnCFH5JiU6YId3"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "The Rolling Stones",
-        "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "Little By Little - Mono Version",
-      "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Reckless Heart",
@@ -615,6 +599,22 @@
       "duration_ms": 225125,
       "name": "In the Mood",
       "url": "https://open.spotify.com/track/0itImJ5657GoBZwFY6KcmI"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "The Rolling Stones",
+        "url": "https://open.spotify.com/album/0bJMFJ2XQwpO5nKTrYdUtX"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Little By Little - Mono Version",
+      "url": "https://open.spotify.com/track/1WLo0a2kvkcwTZ9x3r3MDt"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/5631mk9iLBe2y6adelMpcF"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "A Hard Road (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
-      },
-      "artists": [
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "A Hard Road",
-      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Thunder in the Sky",
@@ -715,6 +699,22 @@
       "duration_ms": 396106,
       "name": "Thunder in the Sky",
       "url": "https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "A Hard Road (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "A Hard Road",
+      "url": "https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "I Put a Spell on You",
-      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "The Climax Blues Band Plays On",
         "url": "https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 266120,
       "name": "Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh",
       "url": "https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -963,22 +963,6 @@
       "duration_ms": 268920,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/7A7DjkAK1MVYFuYRtqOvWm"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Don't Ask Me What I Say",
-      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -1047,6 +1031,22 @@
       "duration_ms": 251800,
       "name": "Still a Fool - Single Edit",
       "url": "https://open.spotify.com/track/4lYuosKr9Iux8wgkRkJGSN"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Don't Ask Me What I Say",
+      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
     },
     {
       "added_at": "2021-04-22 22:35:02",

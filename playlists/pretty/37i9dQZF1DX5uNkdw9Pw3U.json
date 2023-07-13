@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 65396,
+  "num_followers": 65451,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmM4ODc3Njc3NzYyMDM1NDEwZWIyY2IxMGRjZjEzNTliMTYwYTA1",
+  "snapshot_id": "MCw4ZGFiYmMwZWViMjkwNDcwN2JhNGZhZmU5ZmNjY2ZmY2Y1NWQ3ZTA2",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 266934,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Frank (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 301000,
       "name": "Help Yourself",
       "url": "https://open.spotify.com/track/5TImISmK9CQtBrt0rLbq0R"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 266934,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Seasons (with Khalid)",
-        "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
         }
       ],
-      "duration_ms": 250001,
-      "name": "Seasons (with Khalid)",
-      "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1391,18 +1387,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
+        "name": "Seasons (with Khalid)",
+        "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
       "artists": [
         {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
+      "duration_ms": 250001,
+      "name": "Seasons (with Khalid)",
+      "url": "https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1419,6 +1419,30 @@
       "duration_ms": 202960,
       "name": "who knew - from Grown-ish",
       "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
+        "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 211707,
+      "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
+      "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1447,26 +1471,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
-        "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 211707,
-      "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
-      "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1539,26 +1555,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Treat Me so Bad (feat. Beharie)",
-        "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dybdahl",
-          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
-        },
-        {
-          "name": "Beharie",
-          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
-        }
-      ],
-      "duration_ms": 171489,
-      "name": "Treat Me so Bad",
-      "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
       },
@@ -1591,6 +1587,26 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Treat Me so Bad (feat. Beharie)",
+        "url": "https://open.spotify.com/album/3yJ9I7HqAK2Jn2KBP1CcC3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Beharie",
+          "url": "https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M"
+        }
+      ],
+      "duration_ms": 171489,
+      "name": "Treat Me so Bad",
+      "url": "https://open.spotify.com/track/4dbDErIOj0ltVciVcuQUle"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/70CwzcT6ppJnMWxGDmnB9l"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 216837,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-07-06 22:00:00",

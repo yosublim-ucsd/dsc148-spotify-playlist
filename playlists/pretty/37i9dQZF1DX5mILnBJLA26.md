@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1?si=dst1s0qbQXCaNIdOwJjb2A">Njelic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,520 likes - 50 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,050 likes - 50 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Piano Ngijabulise](https://open.spotify.com/track/3Puq6i4xIRH4lrPvJxIC83) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [Janda\_K1](https://open.spotify.com/artist/2IEVvzZvFaT1Q1U2UQdOaT) | [Piano Ngijabulise](https://open.spotify.com/album/6wJ5Kb1e2gPqqXTgumyn8K) | 6:56 |
 | 50 | [Esangweni](https://open.spotify.com/track/1kKltSWkRUTB7LYVFJXS2w) | [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb) | [Horumar](https://open.spotify.com/album/5DKK3bppRikBo6LJtsoVWU) | 6:15 |
 
-Snapshot ID: `MCwxN2QxY2MyN2UwNWM5NjNkOGUzOTk3ODE3NGM5NWJmODlmYTFhMjJl`
+Snapshot ID: `MCxmMDU5NjY5ODA2OGVlYTRkNzI0ZWU4ZmU1MDY3MjJmNWFhYjk5OGZl`

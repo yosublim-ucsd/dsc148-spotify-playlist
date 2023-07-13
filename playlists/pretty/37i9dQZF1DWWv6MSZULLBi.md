@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: First Aid Kit
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,487 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,493 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 7 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
 | 8 | [Fake Happy](https://open.spotify.com/track/1u4UtokxGyLmPuzGFpaSst) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Fake Happy](https://open.spotify.com/album/5EA9Bq0FlAsygB92c3je5H) | 4:11 |
 | 9 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 |
-| 10 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [Ziv Yamin](https://open.spotify.com/artist/6f8V9OAsVSP2PUmsTyEZE8), [Daklis](https://open.spotify.com/artist/7hAW5Zcwt9UWJkbiAfrHHv), [David Parry](https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD), [Sam Burton](https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
+| 10 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 |
 | 11 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
 | 12 | [Ojalá](https://open.spotify.com/track/4faMpESfM79zvaCQLk77jt) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e) | 5:15 |
 | 13 | [Days That End](https://open.spotify.com/track/0nIZiFIOlLXd7buMxEUA5u) | [Jacob Weil](https://open.spotify.com/artist/4L50moKlrIfcueE7nTN237) | [Days That End](https://open.spotify.com/album/5EhfFqQIkVhhhfD4bifzzl) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/track/1cs14d3VfzeI4z94h30Pit) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB), [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Homesick for the Place I Don't Even Know \(feat\. Sam Valdez\)](https://open.spotify.com/album/3hM4HF7GpNYbrHzgXbrOdu) | 4:41 |
 | 100 | [Michigan](https://open.spotify.com/track/3aKIwhm12lkuZAp0AjalYy) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Michigan](https://open.spotify.com/album/0gILM2JR7Hx68yyU2SWSGm) | 3:55 |
 
-Snapshot ID: `MCw3ZDZhYTk3NjFlNThiMzFhZWFiOWMxZWVlMjMxYzgwODg0NjY0YzI0`
+Snapshot ID: `MCw0MTdlM2JmNjUxNDJjYTM3YzA4ODNkZDY0NDNmOGNjZTRhMDEyNjk1`

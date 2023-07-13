@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,635 likes - 25 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,867 likes - 25 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 20 | [Sciuri Sciura](https://open.spotify.com/track/69KrUizJaQziApPaMTL0yc) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Blonde Redhead](https://open.spotify.com/album/4oQTioeIg4j1jMyhUvX6tp) | 3:22 |
 | 21 | [Cello Concerto in E Minor, Op\. 85: III\. Adagio](https://open.spotify.com/track/1H8N7ONl0vFj3gJiAe0h36) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Sir Simon Rattle](https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp) | [Elgar](https://open.spotify.com/album/3PwJLGFcKrecmaRbJQYMSg) | 4:53 |
 | 22 | [Jinx](https://open.spotify.com/track/3t5htCiGucfhAQjm88U3K9) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:41 |
-| 23 | [If I Be Wrong](https://open.spotify.com/track/2wwko1N7dVjpsHt5Ca9be3) | [Wolf Larsen](https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc) | [Quiet at the Kitchen Door](https://open.spotify.com/album/5zQuH90HZTS3polThsRVG7) | 7:18 |
+| 23 | [If I Be Wrong](https://open.spotify.com/track/4iFoLIJGlMzrKRHkmEb3Co) | [Wolf Larsen](https://open.spotify.com/artist/1din3PtISOIqZrcNvGLoyc) | [Quiet at the Kitchen Door](https://open.spotify.com/album/6qDC8upBCUkyV0Fw2N5qVE) | 7:18 |
 | 24 | [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 |
 | 25 | [Perfect Day \- Chris Lord Alge Mix](https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Legally Blonde](https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE) | 3:26 |
 
-Snapshot ID: `MCw5YTk4N2MzNTg0NTJkZGUyZjc2M2MwMjEyNmNkZDYzNDY2NzZjYjU2`
+Snapshot ID: `MCwwMWEwMzNjNDYzZDU0YzczYzBkZDgyMWJlYWZjMDRiYWUzZjNlMzA0`

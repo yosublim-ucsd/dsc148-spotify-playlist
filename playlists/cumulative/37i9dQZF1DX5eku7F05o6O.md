@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-162 songs - 10 hr 28 min
+163 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Je veux de la lumière](https://open.spotify.com/track/5W7sHs6RBdwjgHbw4svh50) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'été](https://open.spotify.com/album/6hZRVhMV2YLf4bQkAaLthC) | 4:28 | 2021-02-06 |  |
 | [J’espère de pas tomber en amour avec toi](https://open.spotify.com/track/5JOzQOsTPEbyXc0BNpD37H) | [Fred Pellerin](https://open.spotify.com/artist/4mmbxcnICvLE3Z3FC3YFh9) | [Plus tard qu'on pense](https://open.spotify.com/album/1OZOYHMEITu3Lg4HtBh4Op) | 4:27 | 2021-02-06 |  |
 | [Kirchner](https://open.spotify.com/track/09V0UyNXPmh42wyZKuXN5u) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f) | [Kirchner](https://open.spotify.com/album/7liiZjV93hTameQ0eOyhWW) | 3:00 | 2021-02-06 | 2022-07-29 |
-| [Kirchner](https://open.spotify.com/track/21eM5pe7tcdFC6tuMsWUcT) | [Pierre\-Luc Bégin](https://open.spotify.com/artist/1Rm7zYm9yskPYPDuaIwtj4), [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x), [Eliane Préfontaine](https://open.spotify.com/artist/3HSPxXzUPTM2POFM5P7lxr), [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f) | [Kirchner](https://open.spotify.com/album/2OxNLJ1bSn8tIxlIdUuvRi) | 3:00 | 2021-02-06 |  |
+| [Kirchner](https://open.spotify.com/track/21amYb20XPokNPMsyQHHZq) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f) | [Kirchner](https://open.spotify.com/album/6XwqIP029mhVPAiNKTdX5p) | 3:00 | 2021-02-06 |  |
+| [Kirchner](https://open.spotify.com/track/21eM5pe7tcdFC6tuMsWUcT) | [Pierre\-Luc Bégin](https://open.spotify.com/artist/1Rm7zYm9yskPYPDuaIwtj4), [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x), [Eliane Préfontaine](https://open.spotify.com/artist/3HSPxXzUPTM2POFM5P7lxr), [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f) | [Kirchner](https://open.spotify.com/album/2OxNLJ1bSn8tIxlIdUuvRi) | 3:00 | 2021-02-06 | 2023-07-13 |
 | [Kirchner](https://open.spotify.com/track/0sF0jzNy6zlU6eU67nP84A) | [Pierre\-Luc Bégin](https://open.spotify.com/artist/1Rm7zYm9yskPYPDuaIwtj4), [Julia Daigle](https://open.spotify.com/artist/2rO9smzz3qf6qGNoKIbE6x), [Eliane Préfontaine](https://open.spotify.com/artist/3HSPxXzUPTM2POFM5P7lxr), [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Adaptation, Vol\. 1](https://open.spotify.com/album/3b6Gb6YdWDsWEW89PQbFNM) | 3:00 | 2021-02-06 | 2022-11-13 |
 | [L'atelier](https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2) | [David Giguère](https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B) | [Hisser haut](https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8) | 3:22 | 2021-02-06 |  |
 | [L'atelier](https://open.spotify.com/track/23KqejV4S6EAAHtQzqtq1q) | [David Giguère](https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B) | [Hisser haut](https://open.spotify.com/album/2HDkdbOkHEZ9AtNRBxBIvR) | 3:22 | 2021-02-06 | 2022-07-29 |

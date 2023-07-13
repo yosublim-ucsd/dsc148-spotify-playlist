@@ -2601,6 +2601,32 @@
     },
     {
       "album": {
+        "name": "Faz o Teu Nome",
+        "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
+      },
+      "artists": [
+        {
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99701,
+      "name": "Faz o Teu Nome",
+      "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
+    },
+    {
+      "album": {
         "name": "Festa em 4 Rodas",
         "url": "https://open.spotify.com/album/1ZLjmOti4547ALMx2hVqIw"
       },
@@ -3126,6 +3152,24 @@
     {
       "album": {
         "name": "Em Cima Sempre",
+        "url": "https://open.spotify.com/album/0a9mgxCUSFdtsQlh0xfWgW"
+      },
+      "artists": [
+        {
+          "name": "O Er\u00f3tico",
+          "url": "https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145345,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/338zMeMeCbZMv31xC6YDso"
+    },
+    {
+      "album": {
+        "name": "Em Cima Sempre",
         "url": "https://open.spotify.com/album/0q7WkDth9XAIMyQYiTIkPt"
       },
       "artists": [
@@ -3154,7 +3198,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 146718,
       "name": "Karolina",
       "url": "https://open.spotify.com/track/2Z52oCyaTe0QlliyIjHZh8"
@@ -3419,6 +3463,28 @@
     },
     {
       "album": {
+        "name": "Macho Preferido",
+        "url": "https://open.spotify.com/album/3srxNt9v8dZbep7Ha9CWE8"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131318,
+      "name": "Macho Preferido",
+      "url": "https://open.spotify.com/track/4D4yBfKqS2aBblJyVlpA7i"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -3576,16 +3642,16 @@
           "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
           "name": "Leo Justi",
           "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         },
         {
           "name": "Pedro Bala",
           "url": "https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
       "date_added": "2023-05-09",

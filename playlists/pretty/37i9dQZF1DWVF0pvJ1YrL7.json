@@ -1,12 +1,12 @@
 {
   "description": "Chaos in electronic form.",
-  "num_followers": 19574,
+  "num_followers": 19611,
   "original_name": "Virtual Reality",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjU5NTBmMDRlMDBiNTJmY2ZhNTM0ZmYxNWNkNWUzODY0ZTRmNDkx",
+  "snapshot_id": "MCwyMjJhYWY5ZWRiNmNhMDM0OTExZDExMDcxY2NlNWNkNzNmNDAwNWU4",
   "tracks": [
     {
       "added_at": "2023-04-13 19:39:44",
@@ -89,6 +89,26 @@
       "url": "https://open.spotify.com/track/4aoXyc65wTNDw4kQE8cS0V"
     },
     {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "West Coast Love Stories",
+        "url": "https://open.spotify.com/album/5wQIX8UTy8aPbxUnen3324"
+      },
+      "artists": [
+        {
+          "name": "Stone Giants",
+          "url": "https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI"
+        },
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Metropole",
+      "url": "https://open.spotify.com/track/4CuUaiTclsHkpsYTfS7g0J"
+    },
+    {
       "added_at": "2022-09-21 02:30:23",
       "album": {
         "name": "The Metallic Index",
@@ -111,42 +131,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Hong Kong Express",
-        "url": "https://open.spotify.com/album/1NPtLS8zjq1Z6giQzAJtiB"
-      },
-      "artists": [
-        {
-          "name": "Hong Kong Express",
-          "url": "https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf"
-        }
-      ],
-      "duration_ms": 207232,
-      "name": "Unfinished Business",
-      "url": "https://open.spotify.com/track/7xB6q501pjADLOIBO55NPp"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "West Coast Love Stories",
-        "url": "https://open.spotify.com/album/5wQIX8UTy8aPbxUnen3324"
-      },
-      "artists": [
-        {
-          "name": "Stone Giants",
-          "url": "https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI"
-        },
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Metropole",
-      "url": "https://open.spotify.com/track/4CuUaiTclsHkpsYTfS7g0J"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 255747,
       "name": "Eden Transit",
       "url": "https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Hong Kong Express",
+        "url": "https://open.spotify.com/album/1NPtLS8zjq1Z6giQzAJtiB"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Express",
+          "url": "https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf"
+        }
+      ],
+      "duration_ms": 207232,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/7xB6q501pjADLOIBO55NPp"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -243,22 +243,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Fenella",
-        "url": "https://open.spotify.com/album/2sN4bZ62m6lmfZp9J3JqDg"
-      },
-      "artists": [
-        {
-          "name": "Fenella",
-          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Bright Curse",
-      "url": "https://open.spotify.com/track/5alGyitAXv0hCk5aRw5JZP"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Dub Protection & The Sportswear Mystics",
         "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Fenella",
+        "url": "https://open.spotify.com/album/2sN4bZ62m6lmfZp9J3JqDg"
+      },
+      "artists": [
+        {
+          "name": "Fenella",
+          "url": "https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Bright Curse",
+      "url": "https://open.spotify.com/track/5alGyitAXv0hCk5aRw5JZP"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Room For The Moon",
         "url": "https://open.spotify.com/album/5KduXFab1jkKushmutNYbq"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 336000,
       "name": "Expanding Electricity - Single Edit",
       "url": "https://open.spotify.com/track/0CeoyRkeTUuZQk93GBH8B7"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Fear in a Handful of Dust",
+        "url": "https://open.spotify.com/album/5JntKJacrklh6D69IsETO7"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 216892,
+      "name": "On a Hilltop Sat the Moon",
+      "url": "https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -363,22 +379,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Fear in a Handful of Dust",
-        "url": "https://open.spotify.com/album/5JntKJacrklh6D69IsETO7"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 216892,
-      "name": "On a Hilltop Sat the Moon",
-      "url": "https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Brainfeeder X",
         "url": "https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 335205,
       "name": "Squaz",
       "url": "https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Wild Chamber",
-        "url": "https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 261677,
-      "name": "Wild Chamber",
-      "url": "https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -447,6 +431,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Wild Chamber",
+        "url": "https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 261677,
+      "name": "Wild Chamber",
+      "url": "https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Urban Myth",
         "url": "https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 253708,
       "name": "Urban Myth",
       "url": "https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Zon Zon Zon",
+        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
+      },
+      "artists": [
+        {
+          "name": "Shelter",
+          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
+        }
+      ],
+      "duration_ms": 308614,
+      "name": "Senhor Zalla",
+      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -495,22 +511,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Zon Zon Zon",
-        "url": "https://open.spotify.com/album/7fUIL0vt55dn93nWfRgBWj"
-      },
-      "artists": [
-        {
-          "name": "Shelter",
-          "url": "https://open.spotify.com/artist/3k2mZ2vmhiARdgLHAuCkGT"
-        }
-      ],
-      "duration_ms": 308614,
-      "name": "Senhor Zalla",
-      "url": "https://open.spotify.com/track/2veEIrSGcCszmVKyEuiIVd"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -543,22 +543,6 @@
       "duration_ms": 348000,
       "name": "Loba",
       "url": "https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Cocoon Crush",
-        "url": "https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE"
-      },
-      "artists": [
-        {
-          "name": "Objekt",
-          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
-        }
-      ],
-      "duration_ms": 216606,
-      "name": "Dazzle Anew",
-      "url": "https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -625,6 +609,22 @@
       "url": "https://open.spotify.com/track/1VJC2cp8lqk8zTEujQDWPu"
     },
     {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Cocoon Crush",
+        "url": "https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE"
+      },
+      "artists": [
+        {
+          "name": "Objekt",
+          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+        }
+      ],
+      "duration_ms": 216606,
+      "name": "Dazzle Anew",
+      "url": "https://open.spotify.com/track/4jPGf8NTH7H5L9zbH8r7KK"
+    },
+    {
       "added_at": "2022-08-09 01:08:51",
       "album": {
         "name": "Castle In The Sky",
@@ -655,6 +655,22 @@
       "duration_ms": 270620,
       "name": "Hypogean",
       "url": "https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Sublunar Oracles",
+        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
+      },
+      "artists": [
+        {
+          "name": "Trans-4M",
+          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
+        }
+      ],
+      "duration_ms": 367320,
+      "name": "Dencity",
+      "url": "https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -707,22 +723,6 @@
       "duration_ms": 269500,
       "name": "Fallen Angels",
       "url": "https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Sublunar Oracles",
-        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
-      },
-      "artists": [
-        {
-          "name": "Trans-4M",
-          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
-        }
-      ],
-      "duration_ms": 367320,
-      "name": "Dencity",
-      "url": "https://open.spotify.com/track/76IRaPhfYRF9xVZC3qTdR7"
     },
     {
       "added_at": "2021-10-06 02:11:31",

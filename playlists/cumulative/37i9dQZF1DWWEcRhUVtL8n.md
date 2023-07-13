@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,614 songs - 3 day 13 hr 9 min
+1,615 songs - 3 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,6 +1089,7 @@
 | [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-06-17 | 2023-01-24 |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-15 | 2022-08-06 |
 | [PAIN](https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [PAIN](https://open.spotify.com/album/6npMxPQjBYL8FQAX7USLp3) | 3:38 | 2020-12-12 | 2021-05-29 |
+| [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 | 2023-07-07 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-07 |  |
 | [Pancakes for Dinner](https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:55 | 2022-09-23 | 2022-10-13 |
 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 | 2023-04-01 |
@@ -1221,7 +1222,7 @@
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2021-06-02 | 2022-04-03 |
 | [Save Me From Myself](https://open.spotify.com/track/29fw7pUEE0AOsv2EmfY0Bm) | [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Save Me From Myself, Pt\. 2](https://open.spotify.com/album/2Rtmp7ULUAN96u1RyP8W5D) | 4:56 | 2020-10-13\* | 2021-05-28 |
 | [Save Myself](https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Save Myself](https://open.spotify.com/album/1xqgvYXcHZvCr9VthrD4mn) | 3:44 | 2020-11-20 | 2022-06-01 |
-| [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 |  |
+| [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 | 2023-07-13 |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-06-02 | 2022-04-15 |
 | [Say It Again](https://open.spotify.com/track/3DF9XSRvf0dFT3Om0Rj4KJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Say It Again](https://open.spotify.com/album/1mgTS0tdQowCQkrOPxMVOG) | 3:36 | 2020-10-16 | 2021-05-20 |
 | [Say It's Over](https://open.spotify.com/track/3mmOZNLF9RwO85BD37j4A1) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Say It's Over](https://open.spotify.com/album/38qdPjDavVVwc4x21z2jEh) | 3:35 | 2022-10-21 | 2022-11-12 |

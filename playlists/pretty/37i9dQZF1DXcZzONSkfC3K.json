@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 140213,
+  "num_followers": 140260,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjRjZDlkNjZkM2E0YjgwMzRlOTllMmE0M2E2MGMyYzc1OTQ4MzM2",
+  "snapshot_id": "MCw5ZTRmODZlYmQwZmQ1ZTRhZTBmMGQwNGE2MDU1NTc1MDRjMTUwZWVj",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/15w229yWe9GblGtWjJC753"
+        "name": "Yo",
+        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Pete \"El Conde\" Rodriguez",
-          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
         }
       ],
-      "duration_ms": 246720,
-      "name": "La Esencia Del Guaguanc\u00f3",
-      "url": "https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL"
+      "duration_ms": 204500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
     }
   ],
   "unique_name": "Salsa Boricua",

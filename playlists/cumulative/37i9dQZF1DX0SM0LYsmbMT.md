@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,555 songs - 5 day 16 hr 25 min
+3,556 songs - 5 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,7 +686,7 @@
 | [Currents](https://open.spotify.com/track/1GSIehO11qXUnvCveqrwMX) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Currents](https://open.spotify.com/album/7FYOOzLJ6eNKN4N61o7dLK) | 2:06 | 2020-03-13 | 2020-06-05 |
 | [Cute](https://open.spotify.com/track/55YsnzdFe3aoRRCTUZgpJF) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Cute](https://open.spotify.com/album/2j7JbEPXDkjTSaJFh4J4BK) | 2:32 | 2019-05-26\* | 2019-08-13 |
 | [cuuurt](https://open.spotify.com/track/067IFuK8YLMVdi3LjgrZsr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [cuuurt](https://open.spotify.com/album/0xfcolcImNKNMAr7bUTse9) | 2:28 | 2021-06-01 | 2021-07-16 |
-| [Cyanea](https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Cyanea](https://open.spotify.com/album/7B0J92Q3arDhnC5Vf3eRFh) | 1:55 | 2023-06-01 |  |
+| [Cyanea](https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Cyanea](https://open.spotify.com/album/7B0J92Q3arDhnC5Vf3eRFh) | 1:55 | 2023-06-01 | 2023-07-13 |
 | [cycles](https://open.spotify.com/track/5qWtEiW3RdcnP1MFmObsYH) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [cycles](https://open.spotify.com/album/4qhlNGAtRLJ0hbMheZ8BvR) | 2:28 | 2021-07-09 | 2021-08-13 |
 | [Cypress](https://open.spotify.com/track/3oQPMwQ6eoAdfYmLSV54DW) | [Middle School](https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Chillhop Essentials Fall 2019](https://open.spotify.com/album/5rkRqokaqegqzawViUDpQT) | 3:30 | 2019-09-27 | 2020-03-04 |
 | [Cyprus Rain](https://open.spotify.com/track/4TvKpBIfYJEQH02nAknQEh) | [Butter](https://open.spotify.com/artist/2K113zxCwp0w4JrGBlbMHj) | [Drive Slow](https://open.spotify.com/album/3xyRycYwthOnMm3DqJge5k) | 1:48 | 2022-11-03 |  |
@@ -1183,6 +1183,7 @@
 | [Goodbyes](https://open.spotify.com/track/7k4G7zjXizDftj7xUBexTK) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Ais.hill](https://open.spotify.com/artist/28dh7looSsKFTCvQrPgotI) | [Goodbyes](https://open.spotify.com/album/0Mlp0fQb7FTj1GcMxxgWxZ) | 2:21 | 2020-03-10 | 2020-05-25 |
 | [Goodnight](https://open.spotify.com/track/3TvhKiqTMRNPQ1Af0pWD46) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Retro'd 3](https://open.spotify.com/album/50E56mYjjJHee6FONEyA2P) | 1:49 | 2023-03-30 | 2023-06-23 |
 | [gorilla glue](https://open.spotify.com/track/54hTBhEcW29Bt67Q0jYeQN) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [gorilla glue](https://open.spotify.com/album/15WESVrhkXInUHLX9gEhrd) | 2:23 | 2019-08-02 | 2019-10-25 |
+| [Got a light?](https://open.spotify.com/track/6Jj7Fpe0RO5hsx4HuWPaUS) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Adam Friedman](https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1) | [Got a light?](https://open.spotify.com/album/4VBtkZPtQmqv7NtFyUPoAZ) | 1:42 | 2023-07-06 |  |
 | [got it](https://open.spotify.com/track/6tgwuK35lNS8dR5mvl8fyK) | [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [got it](https://open.spotify.com/album/2Tcd2BRnbv99mPUtamIqdI) | 2:19 | 2022-01-06 | 2022-02-11 |
 | [Got Ur Money](https://open.spotify.com/track/0MsnVLxfQ4A7169fI9uCDU) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [Got Ur Money](https://open.spotify.com/album/60WsJneUEGhUYWSn70acFe) | 2:10 | 2019-05-26\* | 2019-08-13 |
 | [Gouache](https://open.spotify.com/track/0eot6cEtb0xOaQPahTsx4Q) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Gouache](https://open.spotify.com/album/0MX9laVyuprCFhQEDJMPsI) | 2:37 | 2021-04-30 | 2023-01-27 |

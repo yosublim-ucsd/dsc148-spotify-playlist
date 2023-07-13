@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: Texas King
 
-354 songs - 19 hr 29 min
+355 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Angelcover](https://open.spotify.com/track/2OMmR7z317VmvoVAP2dq2i) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Angelcover](https://open.spotify.com/album/0p4PQzcnWzvXRUQZE5CnED) | 3:30 | 2023-02-17 | 2023-04-01 |
 | [Another Level](https://open.spotify.com/track/3BMZN1R28esRnGmus37h08) | [Hyaenas](https://open.spotify.com/artist/3WURoSXW6bsmAW6JtgYiYU) | [Another Level](https://open.spotify.com/album/29aNB5ZkbDjfQ2HrqfMdIF) | 3:34 | 2023-02-10 | 2023-02-18 |
 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 | 2023-03-03 | 2023-04-29 |
-| [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 | 2023-04-14 |  |
+| [Anyway](https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 3:45 | 2023-07-07 |  |
+| [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 | 2023-04-14 | 2023-07-13 |
 | [AUTOMATIC](https://open.spotify.com/track/3npR6Dg8NmwbEW9gU7jGCX) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [AUTOMATIC](https://open.spotify.com/album/5qEofzKKcDkOe2mcThqUco) | 2:33 | 2023-02-17 | 2023-04-01 |
 | [Awake](https://open.spotify.com/track/0UPLh2XSDDUcZfMv2CUG4j) | [Ninety Foot Stone](https://open.spotify.com/artist/1Cs8hg9atNHO56HXrXoDTM) | [Awake](https://open.spotify.com/album/18Gufd0soWltaf5njkOFMf) | 3:24 | 2023-04-21 | 2023-07-08 |
 | [Baby Don't feat\. DijahSB](https://open.spotify.com/track/2qn1zSlVYp6Q8D8BdUS2t6) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Baby Don't feat\. DijahSB](https://open.spotify.com/album/27YKNgXkIlYURmfTDtZJCp) | 3:10 | 2023-04-07 | 2023-06-24 |

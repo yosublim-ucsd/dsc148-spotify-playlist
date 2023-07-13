@@ -789,6 +789,32 @@
     },
     {
       "album": {
+        "name": "Madhuvaayi",
+        "url": "https://open.spotify.com/album/1UAvkaesQecVkIFNHULXWc"
+      },
+      "artists": [
+        {
+          "name": "Joyal Tojo",
+          "url": "https://open.spotify.com/artist/2gCwrqrvsSzBQyZ6r5HNEM"
+        },
+        {
+          "name": "Jyothis Jens",
+          "url": "https://open.spotify.com/artist/33gSTavbpTQgqHzrLZegmJ"
+        },
+        {
+          "name": "Alapana Bagirath",
+          "url": "https://open.spotify.com/artist/2BWrhgob1gLJCRsvds83yI"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183022,
+      "name": "Madhuvaayi",
+      "url": "https://open.spotify.com/track/6cBeo0QSPoZIpbWdNKNhfL"
+    },
+    {
+      "album": {
         "name": "Malhaar",
         "url": "https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI"
       },

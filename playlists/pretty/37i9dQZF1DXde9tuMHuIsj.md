@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Chris Jedi, YOVNGCHIMI & Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,013 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,012 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 47 | [Dame Luz](https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 3:47 |
 | 48 | [Drippin](https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Drippin](https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA) | 3:38 |
 | 49 | [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 |
-| 50 | [en guerra](https://open.spotify.com/track/5pM0jZXU3EQPMCWHJayzbx) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [en guerra](https://open.spotify.com/album/5bhBAmEWQVdI4p9zbJtax1) | 3:11 |
+| 50 | [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 |
 
-Snapshot ID: `MCxhYjM4MWFjZGQ3MmUyZjhmYTcxNDg2ZWQ3N2E0OWMyZGEwN2JmNmMx`
+Snapshot ID: `MCw3YzExNDk2NmI5MzRlZjQ3ZWUyYjc3OTQ0Mzk4YWExNDVhZDNkMjQ1`

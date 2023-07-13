@@ -4,7 +4,7 @@
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: TOBi
 
-94 songs - 4 hr 42 min
+95 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 | 2023-03-03 |  |
 | [401](https://open.spotify.com/track/3mej8S2elvgSBwZMoWzMjr) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [401](https://open.spotify.com/album/7GayrcbuLwu1t9VE0CMd6Z) | 2:42 | 2023-05-25 | 2023-06-26 |
 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 | 2023-03-03 | 2023-06-16 |
+| [All Aces](https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg) | 3:21 | 2023-07-07 |  |
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2023-03-03 | 2023-07-01 |
 | [Attachments](https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Taliban Glizzy](https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:51 | 2023-03-03 |  |
 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 | 2023-04-21 |  |
@@ -35,7 +36,7 @@
 | [Control](https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [BLU](https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1) | 3:28 | 2023-03-03 | 2023-07-08 |
 | [Dead Or Alive](https://open.spotify.com/track/6ekV6MGnPTuCOnjB4VcWGc) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Dead Or Alive](https://open.spotify.com/album/3TDEhWhq4igbjoquhj8NOp) | 3:14 | 2023-03-03 |  |
 | [DnF \(feat\. Drake & Future\)](https://open.spotify.com/track/5EMKS6mLi4JprJxy8IGdhT) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 3:25 | 2023-03-03 |  |
-| [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 | 2023-03-17 |  |
+| [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 | 2023-03-17 | 2023-07-13 |
 | [Dwayne Carter Flow](https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Dwayne Carter Flow](https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d) | 2:10 | 2023-03-03 |  |
 | [Everywhere We Go](https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF) | [Everywhere We Go Single](https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2) | 3:18 | 2023-03-03 |  |
 | [Examples](https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [T\-jin](https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN) | [Examples](https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq) | 2:36 | 2023-03-03 |  |

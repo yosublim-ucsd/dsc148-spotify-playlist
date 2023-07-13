@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1514765,
+  "num_followers": 1515071,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy",
+  "snapshot_id": "MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
       "artists": [
         {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
       "artists": [
         {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Clash (Remastered)",
-        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 116440,
-      "name": "White Riot - Remastered",
-      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Marquee Moon",
         "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 638426,
       "name": "Marquee Moon",
       "url": "https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 116440,
+      "name": "White Riot - Remastered",
+      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Happy House",
-      "url": "https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 119826,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Happy House",
+      "url": "https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Operation Ivy (2007 Remaster)",
         "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
       },
@@ -775,18 +759,34 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Pink Flag (2006 Remastered Version)",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
       "artists": [
         {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
         }
       ],
-      "duration_ms": 157360,
-      "name": "Mannequin - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+        "name": "Pink Flag (2006 Remastered Version)",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
       "artists": [
         {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
         }
       ],
-      "duration_ms": 206786,
-      "name": "Damaged Goods",
-      "url": "https://open.spotify.com/track/0Nn4RrvVfwSSLDvkhdRc1n"
+      "duration_ms": 157360,
+      "name": "Mannequin - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5LEwYNnwG1RSVseSmMZQpo"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Candy Apple Grey",
-        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
-      },
-      "artists": [
-        {
-          "name": "H\u00fcsker D\u00fc",
-          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Don't Want to Know If You Are Lonely",
-      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Tim (Expanded)",
         "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Candy Apple Grey",
+        "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "Don't Want to Know If You Are Lonely",
+      "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Pink Flag (2006 Remastered Version)",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
-      },
-      "artists": [
-        {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
-        }
-      ],
-      "duration_ms": 139693,
-      "name": "Ex Lion Tamer - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 162346,
       "name": "New Rose",
       "url": "https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Pink Flag (2006 Remastered Version)",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
+      },
+      "artists": [
+        {
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
+        }
+      ],
+      "duration_ms": 139693,
+      "name": "Ex Lion Tamer - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Angels With Dirty Faces",
-        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
-      },
-      "artists": [
-        {
-          "name": "Sham 69",
-          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Hurry Up Harry",
-      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 235653,
       "name": "Typical Girls",
       "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Angels With Dirty Faces",
+        "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
+      },
+      "artists": [
+        {
+          "name": "Sham 69",
+          "url": "https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Hurry Up Harry",
+      "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Best Of The First 10 Years",
-        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Radio, Radio",
-      "url": "https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "The Record",
         "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 125040,
       "name": "I Love Livin' in the City",
       "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Best Of The First 10 Years",
+        "url": "https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Radio, Radio",
+      "url": "https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg"
     },
     {
       "added_at": "2022-11-28 15:26:19",

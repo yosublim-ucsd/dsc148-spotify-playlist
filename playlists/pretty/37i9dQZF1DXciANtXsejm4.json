@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 183371,
+  "num_followers": 183525,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjI2OWNmMjMzNjJmN2JjOTE1ZGJhMmNkMmNmYTkzZThmYzc0MzA4",
+  "snapshot_id": "MCwxZmE5NzU5N2VkMzUzZDFhNTA5ZWEwNDkzOGI5NWM4ZTZiMDI3NGFl",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Hay Contra para Rato",
-        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
-      },
-      "artists": [
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 245877,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Hay Contra para Rato",
+        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
+      },
+      "artists": [
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 245877,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Mi \u00danica Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT"
-      },
-      "artists": [
-        {
-          "name": "Kaniche",
-          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "Hum\u00edllate",
-      "url": "https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Por Amor A La M\u00fasica",
         "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
@@ -831,22 +815,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L"
+        "name": "Mi \u00danica Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT"
       },
       "artists": [
         {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        },
-        {
-          "name": "Ezequiel El Brujo",
-          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
+          "name": "Kaniche",
+          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
         }
       ],
-      "duration_ms": 222723,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA"
+      "duration_ms": 162186,
+      "name": "Hum\u00edllate",
+      "url": "https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -883,6 +863,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L"
+      },
+      "artists": [
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        },
+        {
+          "name": "Ezequiel El Brujo",
+          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
+        }
+      ],
+      "duration_ms": 222723,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1PsM5kAMF5E7EgLfeY3xdA"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "No se va",
         "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "La Gorda Me Quiere",
-        "url": "https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel El Brujo",
-          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Ojal\u00e1 Que No Puedas",
-      "url": "https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Exitos de oro",
         "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 186986,
       "name": "Vuelve Mi Amor",
       "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "La Gorda Me Quiere",
+        "url": "https://open.spotify.com/album/3i1Lfo5HXErBC2AIq9RN63"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel El Brujo",
+          "url": "https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Ojal\u00e1 Que No Puedas",
+      "url": "https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Simplemente Nag\u00fcel",
+        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+      },
+      "artists": [
+        {
+          "name": "Simplemente Naguel",
+          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Te So\u00f1\u00e9 una Vez",
+      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "\u00c9xitos Santafesinos Enganchados ATR",
         "url": "https://open.spotify.com/album/0k6pbTWKg8k9qeAdYpTfzH"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Simplemente Nag\u00fcel",
-        "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
       },
       "artists": [
         {
-          "name": "Simplemente Naguel",
-          "url": "https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh"
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Te So\u00f1\u00e9 una Vez",
-      "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
+      "duration_ms": 219434,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 176786,
       "name": "Un Velero Llamado Libertad",
       "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2HYbtLvbsiMkRMCIWOIR3R"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 219434,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/0FAkM72jn2VQNu1YztHwx1"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Mensajes del Corazon",
+        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 262803,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Una Eterna Pasi\u00f3n",
         "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 211408,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Mensajes del Corazon",
-        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 262803,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Volvi\u00f3 el Parrandero!!!",
+        "url": "https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Distancia",
+      "url": "https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Dile",
         "url": "https://open.spotify.com/album/0sKLgiXbjiyjIhK2XzANd9"
       },
@@ -1319,34 +1335,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Volvi\u00f3 el Parrandero!!!",
-        "url": "https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7"
+        "name": "Alta Revoluci\u00f3n, Pt. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1g2pbUcnkHCem0Lu6Qb3RJ"
       },
       "artists": [
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Los Lirios De Santa Fe",
+          "url": "https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Distancia",
-      "url": "https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Cl\u00e1sicos Vivos",
-        "url": "https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo"
-      },
-      "artists": [
-        {
-          "name": "Walter Encina",
-          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "Dos Hombres y un Destino",
-      "url": "https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT"
+      "duration_ms": 235226,
+      "name": "Duele (En Vivo)",
+      "url": "https://open.spotify.com/track/14JHCa6cBpKibif7SeWzcW"
     }
   ],
   "unique_name": "Cumbia Santafesina",

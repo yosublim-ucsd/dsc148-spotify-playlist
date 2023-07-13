@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDFmYmI0ODk5ZWE1NDE1ZGRiNTAyNTVkNGRmYzI1YzAxYzQwYjc2",
+  "snapshot_id": "MCw1ODcwYjRmZGMwZWI1OTYwNDZhYzFmY2Q1NGIxMDZjMWM1NmU5Njk0",
   "tracks": [
     {
       "added_at": "2023-05-01 21:42:06",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-05-01 21:42:06",
       "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "M\u00e9xico En La Piel",
+      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
+    },
+    {
+      "added_at": "2023-05-01 21:42:06",
+      "album": {
         "name": "Soy El Diablo (Remix)",
         "url": "https://open.spotify.com/album/37zRKUEX9zhmGThutsr2Fo"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 161660,
       "name": "Y Ahora",
       "url": "https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ"
-    },
-    {
-      "added_at": "2023-05-01 21:42:06",
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "M\u00e9xico En La Piel",
-      "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
       "added_at": "2023-05-01 21:42:06",

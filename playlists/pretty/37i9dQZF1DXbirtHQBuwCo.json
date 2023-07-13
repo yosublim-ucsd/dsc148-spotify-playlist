@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: JUNNY)",
-  "num_followers": 862215,
+  "num_followers": 862327,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzBlMzljY2JmODVmY2U3NDZlMzg2YTJkOGIxZjZlOGU0MDk2NTFm",
+  "snapshot_id": "MCxjOTBjYjMzMTEyNzNhYzcwZGI3Mjk3MjhkYmRjNGMwOTRjNTEzN2Q3",
   "tracks": [
     {
       "added_at": "2023-07-07 15:35:26",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
-        "name": "I AM SHAMPOO",
-        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 141259,
-      "name": "I AM SHAMPOO",
-      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
-    },
-    {
-      "added_at": "2023-07-07 15:35:26",
-      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
+    },
+    {
+      "added_at": "2023-07-07 15:35:26",
+      "album": {
+        "name": "I AM SHAMPOO",
+        "url": "https://open.spotify.com/album/2MH5K8RTLoLzkpgtIYWFUe"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 141259,
+      "name": "I AM SHAMPOO",
+      "url": "https://open.spotify.com/track/164rrRJLHNzPKIR82BCDQU"
     },
     {
       "added_at": "2023-07-07 15:35:26",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
-        "name": "LISTEN 035 Restless",
-        "url": "https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
-    },
-    {
-      "added_at": "2023-07-07 15:35:26",
-      "album": {
         "name": "Your Dog Loves You",
         "url": "https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 270003,
       "name": "Your Dog Loves You (Feat. Crush)",
       "url": "https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ"
+    },
+    {
+      "added_at": "2023-07-07 15:35:26",
+      "album": {
+        "name": "LISTEN 035 Restless",
+        "url": "https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
     },
     {
       "added_at": "2023-07-07 15:35:26",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-07-07 15:35:26",
       "album": {
+        "name": "What Do I Call You - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "What Do I Call You",
+      "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
+    },
+    {
+      "added_at": "2023-07-07 15:35:26",
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2023-07-07 15:35:26",
-      "album": {
-        "name": "What Do I Call You - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "What Do I Call You",
-      "url": "https://open.spotify.com/track/3Wu4lFjkhcXxB6WWaX9gtr"
     },
     {
       "added_at": "2023-07-07 15:35:26",

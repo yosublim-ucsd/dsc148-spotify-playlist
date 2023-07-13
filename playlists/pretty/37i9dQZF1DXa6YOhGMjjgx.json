@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: P\u00c6RISH",
-  "num_followers": 473516,
+  "num_followers": 473538,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjI4N2JiMjlhODQwZWM2ZTIxMTkxNmJiMzkwNDE4MGJiMWY0YTFm",
+  "snapshot_id": "MCxmNTYwMzEwMzg4YTBhMWNhNzVlMzk3MDlhYThlYWI2NTllMGIyNDUz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Gila Monster",
-        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 275774,
-      "name": "Gila Monster",
-      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "-!- (Deluxe)",
         "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Gila Monster",
+        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Gila Monster",
+      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Black Box",
         "url": "https://open.spotify.com/album/6mvff3ZBKcQlXaZrTT0fs5"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 212621,
       "name": "Like A Drug",
       "url": "https://open.spotify.com/track/0eW2eEXedTyfGXZkuppSPh"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Amazing Things",
+        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 238783,
+      "name": "One True Prince",
+      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Amazing Things",
-        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 238783,
-      "name": "One True Prince",
-      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "-!- (Deluxe)",
-        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
+        "name": "Cramps",
+        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
       },
       "artists": [
         {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 261680,
-      "name": "I Never Loved Myself Like I Loved You",
-      "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
+      "duration_ms": 171493,
+      "name": "Cramps",
+      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Cramps",
-        "url": "https://open.spotify.com/album/0MT3P8dKhbeI7XwNi21OHE"
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
       "artists": [
         {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         }
       ],
-      "duration_ms": 171493,
-      "name": "Cramps",
-      "url": "https://open.spotify.com/track/4mfPMfuy0fq025OaoPBKSL"
+      "duration_ms": 261680,
+      "name": "I Never Loved Myself Like I Loved You",
+      "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Hooves",
-        "url": "https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Hooves",
-      "url": "https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Leader of the Pack",
         "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Hooves",
+        "url": "https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Hooves",
+      "url": "https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Elimination Dances",
-        "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Elimination Dances",
-      "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "i heard they found you face down inside your living room",
         "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
+        "name": "MYSTERY",
+        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
       },
       "artists": [
         {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 224580,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1087,18 +1071,50 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "MYSTERY",
-        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
         }
       ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
+      "duration_ms": 224580,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Elimination Dances",
+        "url": "https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Elimination Dances",
+      "url": "https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/2rJ83ZqFCb09JCpa1GnNUQ"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/6aZ4oJHt5zq9dM3Qb9o2Yq"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Nowhere Generation [with Meg Myers]",
         "url": "https://open.spotify.com/album/2g1iPboxaw0IV4zRhA2Scl"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
-      },
-      "artists": [
-        {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
-        }
-      ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 204560,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+        "name": "Common Chaos",
+        "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
         }
       ],
-      "duration_ms": 181593,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
+      "duration_ms": 171426,
+      "name": "Common Chaos",
+      "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Seven White Horses",
         "url": "https://open.spotify.com/album/5LmBmJwqcsNY449vAXp4fB"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 220816,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/6u8CUELC9atvWHvioAZeKI"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Nightmare Daydream",
-        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 257398,
-      "name": "Father Of Lies",
-      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Common Chaos",
-        "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
       "artists": [
         {
-          "name": "IRONTOM",
-          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
         }
       ],
-      "duration_ms": 171426,
-      "name": "Common Chaos",
-      "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
+      "duration_ms": 257398,
+      "name": "Father Of Lies",
+      "url": "https://open.spotify.com/track/2Ow2S3k1Ggr2Ek76a7YoCe"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Draw Down The Moon",
+        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "If I Believed In Love",
+      "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Nightmare Daydream",
         "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 192013,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/7eEBCtr3cEEQiWn0pXOj18"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Draw Down The Moon",
-        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "If I Believed In Love",
-      "url": "https://open.spotify.com/track/051k1srOqbQ6bTaCGUdrmj"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Head First",
-        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
-      },
-      "artists": [
-        {
-          "name": "Superbloom",
-          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
-        }
-      ],
-      "duration_ms": 212228,
-      "name": "Head First",
-      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Rich",
         "url": "https://open.spotify.com/album/5ImkIruicv0jQFE6jv2bbA"
       },
@@ -1527,34 +1511,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Eye For An Eye",
-        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
+        "name": "Head First",
+        "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
       },
       "artists": [
         {
-          "name": "Loose Lips",
-          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+          "name": "Superbloom",
+          "url": "https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL"
         }
       ],
-      "duration_ms": 184931,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Stop Beating on My Heart (Like a Bass Drum)",
-        "url": "https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "Stop Beating on My Heart (Like a Bass Drum)",
-      "url": "https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre"
+      "duration_ms": 212228,
+      "name": "Head First",
+      "url": "https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1575,18 +1543,34 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "OMG I MADE IT",
-        "url": "https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp"
+        "name": "Stop Beating on My Heart (Like a Bass Drum)",
+        "url": "https://open.spotify.com/album/6N9Bxp8BX6qg4BMzl0e56v"
       },
       "artists": [
         {
-          "name": "PRONOUN",
-          "url": "https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg"
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
         }
       ],
-      "duration_ms": 170080,
-      "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
-      "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
+      "duration_ms": 225068,
+      "name": "Stop Beating on My Heart (Like a Bass Drum)",
+      "url": "https://open.spotify.com/track/04HJIfLxIrxYsIHneUuDre"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Eye For An Eye",
+        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
+      },
+      "artists": [
+        {
+          "name": "Loose Lips",
+          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+        }
+      ],
+      "duration_ms": 184931,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1607,6 +1591,38 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "OMG I MADE IT",
+        "url": "https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp"
+      },
+      "artists": [
+        {
+          "name": "PRONOUN",
+          "url": "https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "I WANNA DIE BUT I CAN\u2019T (CUZ I GOTTA KEEP LIVING)",
+      "url": "https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Around the Bend",
+        "url": "https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz"
+      },
+      "artists": [
+        {
+          "name": "Strata",
+          "url": "https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv"
+        }
+      ],
+      "duration_ms": 214109,
+      "name": "Around the Bend",
+      "url": "https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Plus Ultra",
         "url": "https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 194026,
       "name": "My Fall",
       "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Apologies",
-        "url": "https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6"
-      },
-      "artists": [
-        {
-          "name": "The Hunna",
-          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
-        }
-      ],
-      "duration_ms": 173276,
-      "name": "Apologies",
-      "url": "https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK"
     }
   ],
   "unique_name": "New  Alt-Rock Mixtape",

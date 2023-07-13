@@ -324,10 +324,32 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-13",
       "duration_ms": 140572,
       "name": "Internet Trolls",
       "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "album": {
+        "name": "Internet Trolls (feat. Hitkidd)",
+        "url": "https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140572,
+      "name": "Internet Trolls (feat. Hitkidd)",
+      "url": "https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk"
     },
     {
       "album": {

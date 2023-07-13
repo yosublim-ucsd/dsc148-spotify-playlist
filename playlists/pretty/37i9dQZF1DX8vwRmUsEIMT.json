@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Dominic Fike",
-  "num_followers": 545206,
+  "num_followers": 545214,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzFhNWNkNTdlMTMyN2EyNWYzNmYzYmVkZmMyMTc4YWQ5MGJjNzYw",
+  "snapshot_id": "MCxhZTAxZGY0YzU5MmRkYTRmYWI1ODY1NGI3OWRlMDI2ZWFjZDdiNGUz",
   "tracks": [
     {
       "added_at": "2023-07-06 23:00:00",
@@ -728,12 +728,12 @@
       },
       "artists": [
         {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        },
-        {
           "name": "London Grammar",
           "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
         }
       ],
       "duration_ms": 220539,
@@ -851,7 +851,7 @@
     {
       "added_at": "2023-07-06 23:00:00",
       "album": {
-        "name": "Hell Of A Ride / High In Brighton",
+        "name": "Hell Of A Ride",
         "url": "https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l"
       },
       "artists": [

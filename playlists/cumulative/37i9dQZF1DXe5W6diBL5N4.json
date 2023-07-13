@@ -14667,6 +14667,24 @@
     },
     {
       "album": {
+        "name": "California Beach",
+        "url": "https://open.spotify.com/album/3BLRjWDXl4NetmiRn7i7U2"
+      },
+      "artists": [
+        {
+          "name": "Monni",
+          "url": "https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "California Beach",
+      "url": "https://open.spotify.com/track/7AKbDd8XPXa1FiZbx9gqoT"
+    },
+    {
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/3e707HKdA5Wk57BH2UhsVf"
       },
@@ -25713,6 +25731,24 @@
     },
     {
       "album": {
+        "name": "NAK! H!",
+        "url": "https://open.spotify.com/album/4Tgbdc7Y1qaJGppZKAwfb2"
+      },
+      "artists": [
+        {
+          "name": "Choi Nakta",
+          "url": "https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235229,
+      "name": "DRIVER",
+      "url": "https://open.spotify.com/track/7GnT5gQOV6rHVgBrnO6gmE"
+    },
+    {
+      "album": {
         "name": "Drivin'",
         "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
       },
@@ -29223,6 +29259,24 @@
     },
     {
       "album": {
+        "name": "fallen angel",
+        "url": "https://open.spotify.com/album/6nEe3QFeGUxAR5gy186VVp"
+      },
+      "artists": [
+        {
+          "name": "AVOKID",
+          "url": "https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193416,
+      "name": "fallen angel",
+      "url": "https://open.spotify.com/track/41OWlhKxxlkwYk3kgeEZrO"
+    },
+    {
+      "album": {
         "name": "FALLIN",
         "url": "https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf"
       },
@@ -30394,6 +30448,24 @@
       "duration_ms": 166829,
       "name": "Ferrari R (feat. DANI OWL)",
       "url": "https://open.spotify.com/track/1KXdQ2hjBLAfgJSyBRsr38"
+    },
+    {
+      "album": {
+        "name": "SANDARA PARK",
+        "url": "https://open.spotify.com/album/4OlfPaq5wGuzXHXioUAM4O"
+      },
+      "artists": [
+        {
+          "name": "Sandara Park",
+          "url": "https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "FESTIVAL",
+      "url": "https://open.spotify.com/track/5c1g69A9A2P9N6yCV4xvUo"
     },
     {
       "album": {
@@ -38772,6 +38844,24 @@
       "duration_ms": 217000,
       "name": "Her",
       "url": "https://open.spotify.com/track/13gWrdSFDvHlSdgKPG0ODm"
+    },
+    {
+      "album": {
+        "name": "mimicry",
+        "url": "https://open.spotify.com/album/5zH1lS1lEuOkCX2HXHJfWO"
+      },
+      "artists": [
+        {
+          "name": "Coa White",
+          "url": "https://open.spotify.com/artist/6cHHFikz4JtK0BmU86vnvo"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235499,
+      "name": "herb",
+      "url": "https://open.spotify.com/track/2EoWwyVrh40Ucl1sMlTEAG"
     },
     {
       "album": {
@@ -49043,7 +49133,7 @@
         },
         {
           "name": "YEL",
-          "url": "https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj"
+          "url": "https://open.spotify.com/artist/2LZ1LHZovO9ew1bAPRf4Nr"
         }
       ],
       "date_added": "2023-06-29",
@@ -51984,6 +52074,24 @@
       "duration_ms": 186062,
       "name": "Last Pure Luv",
       "url": "https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA"
+    },
+    {
+      "album": {
+        "name": "Last Request",
+        "url": "https://open.spotify.com/album/7r7F7mMxjQJNtxYlTiYO0T"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/3qSmDSkSj65nqF6A1dfuvk"
     },
     {
       "album": {
@@ -54958,6 +55066,24 @@
       "duration_ms": 203937,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/0kADvU9QgtZz35MnlF5Cjn"
+    },
+    {
+      "album": {
+        "name": "If, Vol. 2",
+        "url": "https://open.spotify.com/album/3pksH8fPhGtWjzkrKbWuAr"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313613,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/2NB95RCOrwngiLxBEAea0P"
     },
     {
       "album": {
@@ -77267,6 +77393,24 @@
     },
     {
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/72cHlzyEdov5bSTfqh3wLL"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148833,
+      "name": "River",
+      "url": "https://open.spotify.com/track/5XtV5qYSMjesoyrkqyJwrK"
+    },
+    {
+      "album": {
         "name": "River Boy",
         "url": "https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp"
       },
@@ -81672,6 +81816,24 @@
       "duration_ms": 183231,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/5YxoJzZTVwtms0E9Kp1234"
+    },
+    {
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/6toZTTf4HYYlCelJQIMkEG"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191720,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/1mOT5xAUT2Kb6nGBoGM0RT"
     },
     {
       "album": {
@@ -94165,6 +94327,28 @@
     },
     {
       "album": {
+        "name": "This love (feat. Paul Blanco)",
+        "url": "https://open.spotify.com/album/2XYKNORkUW6lPluYIZodpf"
+      },
+      "artists": [
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "This love (feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/7vgvV8dD2L0l7pMSOBPD26"
+    },
+    {
+      "album": {
         "name": "THIS MOMENT",
         "url": "https://open.spotify.com/album/1cMjJHHOOZSib6wI6acGvH"
       },
@@ -100173,6 +100357,40 @@
     },
     {
       "album": {
+        "name": "QUEENDOM PUZZLE ALL-ROUNDER BATTLE 1",
+        "url": "https://open.spotify.com/album/7u3IiEZQ21HaU5FeV68KMq"
+      },
+      "artists": [
+        {
+          "name": "RIINA",
+          "url": "https://open.spotify.com/artist/4dJjCjVOU3vHNEDZc731KG"
+        },
+        {
+          "name": "SANGAH",
+          "url": "https://open.spotify.com/artist/08lQf5DjLYmWOHoUFSasJy"
+        },
+        {
+          "name": "WOOYEON",
+          "url": "https://open.spotify.com/artist/32v1AQMVgVG4PJ9jXWQS5l"
+        },
+        {
+          "name": "JIWON",
+          "url": "https://open.spotify.com/artist/4mDcTdOaWwmoydsQUGyEH2"
+        },
+        {
+          "name": "Jihan",
+          "url": "https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/0ZtmW9inBUxyRvw1zBrSgB"
+    },
+    {
+      "album": {
         "name": "WANT",
         "url": "https://open.spotify.com/album/4lUydTC6Svd5qh6Mi95PBV"
       },
@@ -104249,6 +104467,28 @@
     },
     {
       "album": {
+        "name": "Wild Thoughts (Feat. Jade)",
+        "url": "https://open.spotify.com/album/3RF4xYiS6zmrZ3qmEv9YLL"
+      },
+      "artists": [
+        {
+          "name": "Lym en",
+          "url": "https://open.spotify.com/artist/3iezENWrsyQSutsDx3dXD5"
+        },
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Wild Thoughts (Feat. Jade)",
+      "url": "https://open.spotify.com/track/58tmDrxylNC9V25Nw8foZw"
+    },
+    {
+      "album": {
         "name": "Trilogy",
         "url": "https://open.spotify.com/album/3hLEZ6v2AKJS9IqIoLHqn3"
       },
@@ -104632,6 +104872,24 @@
       "duration_ms": 102900,
       "name": "wisdom tooth",
       "url": "https://open.spotify.com/track/671eZOlTnyZgX0V7VPXZiw"
+    },
+    {
+      "album": {
+        "name": "WISH",
+        "url": "https://open.spotify.com/album/0mjavvG2b036848v9ij08P"
+      },
+      "artists": [
+        {
+          "name": "KOYOTE",
+          "url": "https://open.spotify.com/artist/3Xp2BCax4mS6EgstD0OyZR"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210986,
+      "name": "WISH",
+      "url": "https://open.spotify.com/track/6BBcz7GQMvjQk6Flf6dWDW"
     },
     {
       "album": {

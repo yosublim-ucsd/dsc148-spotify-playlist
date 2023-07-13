@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-337 songs - 20 hr 27 min
+338 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [I Love You More.](https://open.spotify.com/track/5Id0x8wRZVso2GLqzofDAB) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nisenhyakunen](https://open.spotify.com/album/2CnyO0qAA0Cw2Otdtk0J2n) | 2:00 | 2023-01-03 | 2023-02-15 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2022-10-20 | 2022-10-26 |
 | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/track/6CqB5fiJw1yKnytkAPprxr) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [I Miss My Friends \(feat\. Phum Viphurit\)](https://open.spotify.com/album/33HFtu7PiE4xTeV3FFGoOD) | 3:43 | 2022-11-11 | 2022-11-16 |
-| [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/track/7jjAGqJKlVoFn0BdrO82N5) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/album/1wxJQzcAPwAvEI0LD1foQW) | 3:11 | 2023-07-11 |  |
+| [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/track/7jjAGqJKlVoFn0BdrO82N5) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/album/1wxJQzcAPwAvEI0LD1foQW) | 3:11 | 2023-07-11 | 2023-07-13 |
+| [I Told You That I Was Afraid \- Acoustic](https://open.spotify.com/track/2xI0fHshnUbLnKGB66Mc3c) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [I Told You That I Was Afraid \(Acoustic\)](https://open.spotify.com/album/1hIGg6MAd0unvfdCRpqCVU) | 3:11 | 2023-07-11 |  |
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-01-12 | 2023-03-25 |
 | [I'm Not In Love \- Edit](https://open.spotify.com/track/6AZ4O5q9B4nMQVghTfTBe3) | [Monique Klemann](https://open.spotify.com/artist/4GJnr4GfSEBcsjMiyE67Uf) | [I'm Not In Love \(Edit\)](https://open.spotify.com/album/3CgRVSjpSnD9g08WQCLytz) | 3:25 | 2022-12-06 | 2023-02-22 |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-10-20 | 2023-03-22 |

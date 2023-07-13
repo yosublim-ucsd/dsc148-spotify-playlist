@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20844,
+  "num_followers": 20849,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
+  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Mango Negro",
         "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 272513,
       "name": "IR",
       "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "El equilibrio",
-      "url": "https://open.spotify.com/track/13LiYjx7tgdqjMxAt3pgtG"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 194555,
       "name": "Abriendo Latidos",
       "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "El equilibrio",
+      "url": "https://open.spotify.com/track/13LiYjx7tgdqjMxAt3pgtG"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "veinte",
-        "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
-      },
-      "artists": [
-        {
-          "name": "dani",
-          "url": "https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y"
-        }
-      ],
-      "duration_ms": 223018,
-      "name": "Si te vas",
-      "url": "https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Hijos del Sol",
         "url": "https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190640,
       "name": "Danza de Sol",
       "url": "https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "veinte",
+        "url": "https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5"
+      },
+      "artists": [
+        {
+          "name": "dani",
+          "url": "https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y"
+        }
+      ],
+      "duration_ms": 223018,
+      "name": "Si te vas",
+      "url": "https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
-      },
-      "artists": [
-        {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Cristales",
         "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 225362,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Joderlo Todo",
-        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 227079,
-      "name": "Joderlo Todo",
-      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Hay Mal Que Dure una Vida",
         "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 215287,
       "name": "Qu\u00e9date Cerca",
       "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Joderlo Todo",
+        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 227079,
+      "name": "Joderlo Todo",
+      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
       },
       "artists": [
         {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 217002,
       "name": "Momento de Escapar",
       "url": "https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+      },
+      "artists": [
+        {
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Se Parece A",
-        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 228574,
-      "name": "Alguien Detra\u0301s de Mi",
-      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Fantas\u00eda Moral",
         "url": "https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 305940,
       "name": "Semana Sata\u0301n",
       "url": "https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Se Parece A",
+        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 228574,
+      "name": "Alguien Detra\u0301s de Mi",
+      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
     },
     {
       "added_at": "2020-12-01 05:03:00",

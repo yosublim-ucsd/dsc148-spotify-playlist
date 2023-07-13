@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-470 songs - 1 day 8 hr 6 min
+472 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [bluegray road](https://open.spotify.com/track/3LVwuGAbkIpsEwQFCdky9J) | [林正樹](https://open.spotify.com/artist/406asAfsZHb4zHPlw2wYq7) | [PENDULUM](https://open.spotify.com/album/36TSAIGrby0XakOvWub8a6) | 5:37 | 2023-06-13 |  |
 | [bookmark](https://open.spotify.com/track/4NhoEQs4w05qi3zVcdV3NZ) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [bookmarks \(I can be \*\*\* with some chalky candys.\)](https://open.spotify.com/album/43ZRPyuX7FsWolN8XtMOyz) | 2:52 | 2022-12-13 | 2023-01-18 |
 | [Borderland](https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Borderland](https://open.spotify.com/album/4Oj5YTqVP7ZyiYnpnY9ntA) | 3:22 | 2022-10-20 | 2022-12-02 |
-| [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 |  |
+| [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 | 2023-07-11 |  |
+| [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 | 2023-07-11 | 2023-07-13 |
 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 | 2022-11-15 | 2022-12-02 |
 | [building site outside](https://open.spotify.com/track/74UprT08Tdk1qnRldqwsbE) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [building site outside](https://open.spotify.com/album/1i2ep4HPrmAIM7xe3dmHs7) | 3:37 | 2023-03-23 | 2023-05-26 |
 | [Burden of Proof](https://open.spotify.com/track/2Gb79176OYCC8lbLtC5L1o) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Burden Of Proof \- \(Opening Titles/Interrogation\)](https://open.spotify.com/album/6zWpQCSCFj30HykptrIlfZ) | 3:01 | 2023-06-06 | 2023-06-14 |
@@ -356,7 +357,7 @@
 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 | 2022-10-20 |  |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-10-20 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-15 | 2023-06-14 |
-| [Tableaux タブローズ](https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 4:29 | 2023-05-23 |  |
+| [Tableaux タブローズ](https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 4:29 | 2023-05-23 | 2023-07-13 |
 | [Take Your Time \- Haruomi Hosono Remix](https://open.spotify.com/track/1DN5nFDJYO0UFKOI9OeiSZ) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Take Your Time\(Haruomi Hosono Remix\)](https://open.spotify.com/album/15Xt6Ru30ddbjQMxTDWRDY) | 4:31 | 2022-10-25 | 2022-12-02 |
 | [tandem ii](https://open.spotify.com/track/0Nu6gw1W83em50FluWzGRq) | [Fuyuni wakarete](https://open.spotify.com/artist/46ZmKgBKBAlVL5jP8P3Wqi) | [flow](https://open.spotify.com/album/0EiXrwXffN7ACOHt6kRBkf) | 3:00 | 2023-05-29 | 2023-06-14 |
 | [tasogare](https://open.spotify.com/track/3tDQvzH52bu9gXmTtMSboM) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [tasogare](https://open.spotify.com/album/6vkWYfXeLfiSenOG4BouTR) | 2:16 | 2022-10-20 | 2023-03-28 |
@@ -475,6 +476,7 @@
 | [赤と青](https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [赤と青](https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ) | 3:13 | 2022-10-20 | 2022-11-09 |
 | [遠く](https://open.spotify.com/track/6C9aG68VyWYP3aUbh9jMTQ) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [遠く](https://open.spotify.com/album/3fSSUK0Z5FZytj9JJFHA3j) | 8:22 | 2023-04-18 | 2023-06-14 |
 | [針葉樹](https://open.spotify.com/track/3tFPO0zoU0TgsfhZUdgfuZ) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [針葉樹](https://open.spotify.com/album/7bpwfJnwg8tdSlhKlV8vC2) | 4:09 | 2022-10-20 | 2022-11-16 |
+| [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-07-11 |  |
 | [風笛](https://open.spotify.com/track/4OBIKEvUBXnI8i5PO9XCX7) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr), [Emiri Miyamoto](https://open.spotify.com/artist/29aWsI0zQQ53hKuM2V19ti) | [tears](https://open.spotify.com/album/6Veb3ZyuDiMx59SrvxSAAv) | 3:45 | 2022-12-01 | 2023-03-01 |
 | [魔法のお弁当](https://open.spotify.com/track/71vs9OtgxMkbkqlfvEfOFZ) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [HTB「弁当屋さんのおもてなし」オリジナル・サウンドトラック](https://open.spotify.com/album/3SZt4QnQUgZYaRcxF5LzT9) | 2:38 | 2023-03-28 | 2023-04-05 |
 | [黄昏のワルツ](https://open.spotify.com/track/3icP9Lq6SWh3n2Dq0fYBzJ) | [Taro Hakase](https://open.spotify.com/artist/6vJFQLD25Df5uZW77gVv0k) | [My Favorite Songs](https://open.spotify.com/album/0qrZGRDb1jfDjQfNt0CkdX) | 3:29 | 2022-10-20 | 2022-11-23 |

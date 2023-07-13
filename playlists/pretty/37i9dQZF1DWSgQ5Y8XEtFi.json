@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 199346,
+  "num_followers": 199419,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTViZjQ5NzMyYmU2ZWI1NDJlZDVjMWYxYTUyZTBkMDJhMmFhN2Y0",
+  "snapshot_id": "MCxjZWNiNTc4ZjM1Y2IyOWM4ZGQ2N2ZkNWI5MWZiNTFiNDQzNDg3YjU0",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -23,6 +23,42 @@
       "duration_ms": 140579,
       "name": "PANIC!!!",
       "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 142825,
+      "name": "SCARING THE HOES",
+      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
+    },
+    {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 136572,
+      "name": "vent",
+      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
     },
     {
       "added_at": "2023-06-01 18:45:33",
@@ -45,24 +81,24 @@
       "url": "https://open.spotify.com/track/0NB13pqRneKt5kotOZZ9ux"
     },
     {
-      "added_at": "2023-03-27 19:11:13",
+      "added_at": "2023-06-16 14:18:34",
       "album": {
-        "name": "SCARING THE HOES",
-        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+        "name": "RUFFS",
+        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
       },
       "artists": [
         {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
         },
         {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 142825,
-      "name": "SCARING THE HOES",
-      "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
+      "duration_ms": 203533,
+      "name": "NOSEDIVE (feat. Jean Dawson)",
+      "url": "https://open.spotify.com/track/5gDlJ4UOC7QHOm3X1rqPYk"
     },
     {
       "added_at": "2023-06-16 14:18:34",
@@ -97,40 +133,24 @@
       "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
     },
     {
-      "added_at": "2023-06-01 18:45:33",
+      "added_at": "2023-04-11 14:55:07",
       "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 136572,
-      "name": "vent",
-      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
-    },
-    {
-      "added_at": "2023-06-16 14:18:34",
-      "album": {
-        "name": "RUFFS",
-        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 203533,
-      "name": "NOSEDIVE (feat. Jean Dawson)",
-      "url": "https://open.spotify.com/track/5gDlJ4UOC7QHOm3X1rqPYk"
+      "duration_ms": 199742,
+      "name": "STUNTMAN (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -147,6 +167,38 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": "2023-06-16 14:18:34",
+      "album": {
+        "name": "the color grey.",
+        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 138177,
+      "name": "aitd - demo",
+      "url": "https://open.spotify.com/track/5070HIdWFU8bwoh5aSmxHI"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "2MORE",
+        "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 131913,
+      "name": "aorta",
+      "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
     },
     {
       "added_at": "2023-04-20 18:57:32",
@@ -169,42 +221,6 @@
       "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
     },
     {
-      "added_at": "2023-06-16 14:18:34",
-      "album": {
-        "name": "the color grey.",
-        "url": "https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg"
-      },
-      "artists": [
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 138177,
-      "name": "aitd - demo",
-      "url": "https://open.spotify.com/track/5070HIdWFU8bwoh5aSmxHI"
-    },
-    {
-      "added_at": "2023-04-11 14:55:07",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "STUNTMAN (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Freak Mode",
@@ -219,22 +235,6 @@
       "duration_ms": 157669,
       "name": "Freak Mode",
       "url": "https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "2MORE",
-        "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        }
-      ],
-      "duration_ms": 131913,
-      "name": "aorta",
-      "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -255,22 +255,6 @@
       "duration_ms": 147118,
       "name": "ELECTRO_SHOCK_THERAPY",
       "url": "https://open.spotify.com/track/0LKCYdFKSwCtRsw7yd1u3h"
-    },
-    {
-      "added_at": "2023-06-16 14:18:34",
-      "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 80624,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/03yR4z1jANazJTWMjX3rtw"
     },
     {
       "added_at": "2023-04-27 20:36:18",
@@ -333,22 +317,6 @@
       "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
     },
     {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Centipede",
-        "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 157704,
-      "name": "Centipede",
-      "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
-    },
-    {
       "added_at": "2023-06-01 18:45:33",
       "album": {
         "name": "BUZZCUT (feat. Danny Brown)",
@@ -371,18 +339,18 @@
     {
       "added_at": "2023-06-16 14:18:34",
       "album": {
-        "name": "Ran Outta Ones",
-        "url": "https://open.spotify.com/album/6Q5WfB4ZX4q0qUl0gyFFpS"
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
       },
       "artists": [
         {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 128923,
-      "name": "Ran Outta Ones",
-      "url": "https://open.spotify.com/track/7dMsGIkUH39T1xfaZBdbro"
+      "duration_ms": 80624,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/03yR4z1jANazJTWMjX3rtw"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -403,34 +371,18 @@
     {
       "added_at": "2023-06-16 14:18:34",
       "album": {
-        "name": "FYK",
-        "url": "https://open.spotify.com/album/5uemOo8DaDrXtMDiNZa4mU"
+        "name": "Ran Outta Ones",
+        "url": "https://open.spotify.com/album/6Q5WfB4ZX4q0qUl0gyFFpS"
       },
       "artists": [
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
         }
       ],
-      "duration_ms": 102786,
-      "name": "FYK",
-      "url": "https://open.spotify.com/track/0CnQ7O3i1qJBPBUMdVbpsS"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "bullseye",
-        "url": "https://open.spotify.com/album/6ZPNyRhfoQ9hojx3MMndrn"
-      },
-      "artists": [
-        {
-          "name": "girl_irl",
-          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
-        }
-      ],
-      "duration_ms": 146220,
-      "name": "bullseye",
-      "url": "https://open.spotify.com/track/0b25AYlOTrn1WhwPNTKBDE"
+      "duration_ms": 128923,
+      "name": "Ran Outta Ones",
+      "url": "https://open.spotify.com/track/7dMsGIkUH39T1xfaZBdbro"
     },
     {
       "added_at": "2023-04-11 14:55:07",
@@ -457,56 +409,36 @@
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
     },
     {
-      "added_at": "2023-06-01 18:45:33",
-      "album": {
-        "name": "Hot Gum",
-        "url": "https://open.spotify.com/album/2OajtROrr8awCu9utpvGFz"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "Hot Gum",
-      "url": "https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8"
-    },
-    {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "PROTOTYPE",
-        "url": "https://open.spotify.com/album/3zDPDMSzPQ7qqVqZ8CDxaA"
+        "name": "Centipede",
+        "url": "https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj"
       },
       "artists": [
         {
-          "name": "Danny Singh",
-          "url": "https://open.spotify.com/artist/7Bf3aMOg613pAzkrloHfdx"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 148062,
-      "name": "PROTOTYPE",
-      "url": "https://open.spotify.com/track/3MyAW2AC16qS7JeAIyEIY5"
+      "duration_ms": 157704,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
     },
     {
-      "added_at": "2023-03-27 19:11:13",
+      "added_at": "2023-06-16 14:18:34",
       "album": {
-        "name": "GNARLY! (WITH ARMANI WHITE)",
-        "url": "https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5"
+        "name": "FYK",
+        "url": "https://open.spotify.com/album/5uemOo8DaDrXtMDiNZa4mU"
       },
       "artists": [
         {
-          "name": "JELEEL!",
-          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
-        },
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
         }
       ],
-      "duration_ms": 147695,
-      "name": "GNARLY! (WITH ARMANI WHITE)",
-      "url": "https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu"
+      "duration_ms": 102786,
+      "name": "FYK",
+      "url": "https://open.spotify.com/track/0CnQ7O3i1qJBPBUMdVbpsS"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -547,6 +479,98 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
+        "name": "SCARING THE HOES",
+        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 141089,
+      "name": "Burfict!",
+      "url": "https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8"
+    },
+    {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "Hot Gum",
+        "url": "https://open.spotify.com/album/2OajtROrr8awCu9utpvGFz"
+      },
+      "artists": [
+        {
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Hot Gum",
+      "url": "https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "BOBBY BOUCHER (ADAM SANDLER)",
+        "url": "https://open.spotify.com/album/4nW6f33uT4j0sES9cf2So2"
+      },
+      "artists": [
+        {
+          "name": "Pertinence",
+          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
+        },
+        {
+          "name": "DDK",
+          "url": "https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq"
+        }
+      ],
+      "duration_ms": 179182,
+      "name": "BOBBY BOUCHER (ADAM SANDLER)",
+      "url": "https://open.spotify.com/track/2GChAFitjWgYHoXUS7TZiE"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "bullseye",
+        "url": "https://open.spotify.com/album/6ZPNyRhfoQ9hojx3MMndrn"
+      },
+      "artists": [
+        {
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
+        }
+      ],
+      "duration_ms": 146220,
+      "name": "bullseye",
+      "url": "https://open.spotify.com/track/0b25AYlOTrn1WhwPNTKBDE"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 108013,
+      "name": "Want (feat. prodby668)",
+      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
         "name": "BOY OF THE YEAR",
         "url": "https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ"
       },
@@ -559,6 +583,158 @@
       "duration_ms": 126962,
       "name": "HANDSOME",
       "url": "https://open.spotify.com/track/58z1hY9hrwliXRIvQe8UOX"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "GNARLY! (WITH ARMANI WHITE)",
+        "url": "https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        },
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "GNARLY! (WITH ARMANI WHITE)",
+      "url": "https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "The Plug",
+        "url": "https://open.spotify.com/album/0yf9wxPXrA8bP1yB4iFpAP"
+      },
+      "artists": [
+        {
+          "name": "Belaganas",
+          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "The Plug",
+      "url": "https://open.spotify.com/track/39hVR792uDgkDS14wLWmBy"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "PROTOTYPE",
+        "url": "https://open.spotify.com/album/3zDPDMSzPQ7qqVqZ8CDxaA"
+      },
+      "artists": [
+        {
+          "name": "Danny Singh",
+          "url": "https://open.spotify.com/artist/7Bf3aMOg613pAzkrloHfdx"
+        }
+      ],
+      "duration_ms": 148062,
+      "name": "PROTOTYPE",
+      "url": "https://open.spotify.com/track/3MyAW2AC16qS7JeAIyEIY5"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "CRYPT",
+        "url": "https://open.spotify.com/album/4dvognytsyyoFKrV9lW5F6"
+      },
+      "artists": [
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 105612,
+      "name": "CRYPT",
+      "url": "https://open.spotify.com/track/3ja23IMkvBSzyvCMmyV6Fq"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "Keep Your Distance",
+        "url": "https://open.spotify.com/album/6OKwocf1zHfEtNdUzf3nCb"
+      },
+      "artists": [
+        {
+          "name": "Ameer Vann",
+          "url": "https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH"
+        }
+      ],
+      "duration_ms": 118627,
+      "name": "Keep Your Distance",
+      "url": "https://open.spotify.com/track/5dfMZKLa5AmXmsMmkQgu0t"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "duration_ms": 163600,
+      "name": "Billy Knows Jamie",
+      "url": "https://open.spotify.com/track/6fXeuZAQ00BjrOxFtoFS9S"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "Watch Yo Step",
+        "url": "https://open.spotify.com/album/0O4uz1CxHyAJG2AJSUq0w5"
+      },
+      "artists": [
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "duration_ms": 140726,
+      "name": "Watch Yo Step",
+      "url": "https://open.spotify.com/track/7rjjSiMQvTlDcrE5J84F8N"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/5tCYwml6XCzWbbhZwNsw8I"
+      },
+      "artists": [
+        {
+          "name": "99 Neighbors",
+          "url": "https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0"
+        },
+        {
+          "name": "Wahid",
+          "url": "https://open.spotify.com/artist/1kiX1oBF90ZSWJoXSiFy8x"
+        }
+      ],
+      "duration_ms": 140304,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/7fAyZGPp22pbGMZQgJuf1C"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "Big Fish Theory",
+        "url": "https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -587,122 +763,18 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "SCARING THE HOES",
-        "url": "https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq"
+        "name": "Green Honda",
+        "url": "https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq"
       },
       "artists": [
         {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
         }
       ],
-      "duration_ms": 141089,
-      "name": "Burfict!",
-      "url": "https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        }
-      ],
-      "duration_ms": 163600,
-      "name": "Billy Knows Jamie",
-      "url": "https://open.spotify.com/track/6fXeuZAQ00BjrOxFtoFS9S"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "BOBBY BOUCHER (ADAM SANDLER)",
-        "url": "https://open.spotify.com/album/4nW6f33uT4j0sES9cf2So2"
-      },
-      "artists": [
-        {
-          "name": "Pertinence",
-          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
-        },
-        {
-          "name": "DDK",
-          "url": "https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq"
-        }
-      ],
-      "duration_ms": 179182,
-      "name": "BOBBY BOUCHER (ADAM SANDLER)",
-      "url": "https://open.spotify.com/track/2GChAFitjWgYHoXUS7TZiE"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "The Plug",
-        "url": "https://open.spotify.com/album/0yf9wxPXrA8bP1yB4iFpAP"
-      },
-      "artists": [
-        {
-          "name": "Belaganas",
-          "url": "https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "The Plug",
-      "url": "https://open.spotify.com/track/39hVR792uDgkDS14wLWmBy"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "SUPERCALAFRAGIVICIOUS",
-        "url": "https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx"
-      },
-      "artists": [
-        {
-          "name": "steve breaux",
-          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
-        }
-      ],
-      "duration_ms": 106046,
-      "name": "SUPERCALAFRAGIVICIOUS",
-      "url": "https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "CRYPT",
-        "url": "https://open.spotify.com/album/4dvognytsyyoFKrV9lW5F6"
-      },
-      "artists": [
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 105612,
-      "name": "CRYPT",
-      "url": "https://open.spotify.com/track/3ja23IMkvBSzyvCMmyV6Fq"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "OMG BRITT",
-        "url": "https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "OMG BRITT",
-      "url": "https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE"
+      "duration_ms": 166981,
+      "name": "Green Honda",
+      "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -723,110 +795,6 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
-        }
-      ],
-      "duration_ms": 108013,
-      "name": "Want (feat. prodby668)",
-      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/5tCYwml6XCzWbbhZwNsw8I"
-      },
-      "artists": [
-        {
-          "name": "99 Neighbors",
-          "url": "https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0"
-        },
-        {
-          "name": "Wahid",
-          "url": "https://open.spotify.com/artist/1kiX1oBF90ZSWJoXSiFy8x"
-        }
-      ],
-      "duration_ms": 140304,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/7fAyZGPp22pbGMZQgJuf1C"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Watch Yo Step",
-        "url": "https://open.spotify.com/album/0O4uz1CxHyAJG2AJSUq0w5"
-      },
-      "artists": [
-        {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
-        }
-      ],
-      "duration_ms": 140726,
-      "name": "Watch Yo Step",
-      "url": "https://open.spotify.com/track/7rjjSiMQvTlDcrE5J84F8N"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Green Honda",
-        "url": "https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166981,
-      "name": "Green Honda",
-      "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "the actor",
-        "url": "https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC"
-      },
-      "artists": [
-        {
-          "name": "dynastic",
-          "url": "https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "seeker missile",
-      "url": "https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/3qBxCPF6tXFzBrCGAioasB"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 154458,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/223AWrYBuPJwm3oy9phMiS"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
         "name": "BACKSTAB",
         "url": "https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN"
       },
@@ -843,18 +811,18 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "Keep Your Distance",
-        "url": "https://open.spotify.com/album/6OKwocf1zHfEtNdUzf3nCb"
+        "name": "SUPERCALAFRAGIVICIOUS",
+        "url": "https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx"
       },
       "artists": [
         {
-          "name": "Ameer Vann",
-          "url": "https://open.spotify.com/artist/7kIbB1pdDyehFj8aNgfzfH"
+          "name": "steve breaux",
+          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
         }
       ],
-      "duration_ms": 118627,
-      "name": "Keep Your Distance",
-      "url": "https://open.spotify.com/track/5dfMZKLa5AmXmsMmkQgu0t"
+      "duration_ms": 106046,
+      "name": "SUPERCALAFRAGIVICIOUS",
+      "url": "https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -875,18 +843,50 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "Big Fish Theory",
-        "url": "https://open.spotify.com/album/5h3WJG0aZjNOrayFu3MhCS"
+        "name": "the actor",
+        "url": "https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC"
       },
       "artists": [
         {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+          "name": "dynastic",
+          "url": "https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z"
         }
       ],
-      "duration_ms": 188946,
-      "name": "Yeah Right",
-      "url": "https://open.spotify.com/track/35tWhD29yvWwB0IDRr6zsL"
+      "duration_ms": 192800,
+      "name": "seeker missile",
+      "url": "https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "OMG BRITT",
+        "url": "https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "OMG BRITT",
+      "url": "https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/3qBxCPF6tXFzBrCGAioasB"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 154458,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/223AWrYBuPJwm3oy9phMiS"
     }
   ],
   "unique_name": "LOCKJAW",

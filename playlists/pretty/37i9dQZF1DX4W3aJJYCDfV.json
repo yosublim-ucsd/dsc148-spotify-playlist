@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from D-Block Europe (pictured), Taylor Swift, Declan McKenna and more!",
-  "num_followers": 834565,
+  "num_followers": 834594,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmVjYzhhNWU3ZWIzY2JkY2I5NjBmYWViMjY2NDNiYWNiZTQ1ZGJk",
+  "snapshot_id": "MCwwMWZkNmJlNDcwYTAwYjkwNjIyZDRlOWU5MzAyOGUwYWM3ODM5Y2M0",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -547,7 +547,7 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Hell Of A Ride / High In Brighton",
+        "name": "Hell Of A Ride",
         "url": "https://open.spotify.com/album/2lhR2LG4Lx2IBa4o5Kj69l"
       },
       "artists": [
@@ -780,12 +780,12 @@
       },
       "artists": [
         {
-          "name": "SebastiAn",
-          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
-        },
-        {
           "name": "London Grammar",
           "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
         }
       ],
       "duration_ms": 220539,

@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 13396,
+  "num_followers": 13450,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE1Y2Q1MmI4ZjNmMjVjYjliODQ3OTFiZWIyYWM5YTYxMGQ3MjUy",
+  "snapshot_id": "MCxhM2NjZWUzYzljOWIxMGJlZWMwMzI1ZWNiZTQxMTcyZmM3ZDBlNGY4",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 211281,
-      "name": "Gobi\u00e9rname",
-      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "CAMALOVE",
         "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 254492,
       "name": "Asturi\u00f3n",
       "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 211281,
+      "name": "Gobi\u00e9rname",
+      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
+      },
+      "artists": [
+        {
+          "name": "MNKYBSNSS",
+          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Mi Necedad",
+      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
-      },
-      "artists": [
-        {
-          "name": "MNKYBSNSS",
-          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Mi Necedad",
-      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Terciopelo",
-        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Terciopelo",
-      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Multicolor",
         "url": "https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 332546,
       "name": "Rompecabezas",
       "url": "https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Terciopelo",
+        "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Terciopelo",
+      "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -891,18 +891,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "En el club",
-        "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
+        "name": "Ritmo y Poes\u00eda",
+        "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
       },
       "artists": [
         {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        },
+        {
+          "name": "iQlover",
+          "url": "https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq"
         }
       ],
-      "duration_ms": 259799,
-      "name": "En el club",
-      "url": "https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp"
+      "duration_ms": 218580,
+      "name": "Ritmo y Poes\u00eda",
+      "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -927,22 +931,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Ritmo y Poes\u00eda",
-        "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
+        "name": "En el club",
+        "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
       },
       "artists": [
         {
-          "name": "Mike Diaz",
-          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
-        },
-        {
-          "name": "iQlover",
-          "url": "https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq"
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
         }
       ],
-      "duration_ms": 218580,
-      "name": "Ritmo y Poes\u00eda",
-      "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
+      "duration_ms": 259799,
+      "name": "En el club",
+      "url": "https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Precipicio",
-        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        }
-      ],
-      "duration_ms": 247430,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "JUAN PABLO VEGA",
         "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Precipicio",
+        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 247430,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
     },
     {
       "added_at": "2023-07-07 04:00:00",

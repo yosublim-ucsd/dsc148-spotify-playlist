@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,734 likes - 115 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,760 likes - 115 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 31 | [Head & Heart](https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Head & Heart](https://open.spotify.com/album/5hfPG3jbnlrl5mu8KU7ZuG) | 2:47 |
 | 32 | [lonely together](https://open.spotify.com/track/1qKOTnd7iewqEKfJxMFcWn) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [lonely together](https://open.spotify.com/album/7CBEGifKjpuEP6MZZzEV1G) | 3:21 |
 | 33 | [Anti\-Hero](https://open.spotify.com/track/4BwDXIHlk3bLJYZFnysm3b) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Anti\-Hero](https://open.spotify.com/album/5r43uFC78gwhlk54OUekf9) | 3:19 |
-| 34 | [Save Me from Myself](https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me from Myself](https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil) | 3:17 |
+| 34 | [Save Me From Myself](https://open.spotify.com/track/39ldhlm119RIWwXICpBEkU) | [Julien Manaud](https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f), [Alexis Dumais](https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY) | [Save Me From Myself](https://open.spotify.com/album/59Y8SthRcQhmt3N5manpIb) | 3:17 |
 | 35 | [Cold Heart](https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Cold Heart](https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl) | 3:08 |
 | 36 | [apologize](https://open.spotify.com/track/2UQJXhcg7d7pY80VMknAUs) | [who's heather](https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8) | [apologize](https://open.spotify.com/album/5nuhZCXLzUKCcknWkmsFS7) | 2:58 |
 | 37 | [The Middle \- Acoustic](https://open.spotify.com/track/3ndoPpeiNjwEtIltH9oxyX) | [Jay Filson](https://open.spotify.com/artist/7uRzmsDR6QQL4zYgHv2O6p) | [The Middle \(Acoustic\)](https://open.spotify.com/album/4VoP3Vq8EEiu5wmWFULmaM) | 3:43 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 114 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
 | 115 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |
 
-Snapshot ID: `MCw2ODIyN2VlNjMxY2I5ODA3OTU0NzA3MDY4ODhkNmNmNThlNTAxNjE4`
+Snapshot ID: `MCwxMGNhYTZmOTE3ODk0ZWJjMDA3MzRlM2U2YWI0MTMzY2FhY2Q1ZThh`

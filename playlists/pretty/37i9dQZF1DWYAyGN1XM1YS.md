@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,927 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,088 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Golden Brown](https://open.spotify.com/track/74qgrn0YAo3cgRcH4xQBsA) | [Drive Like Jehu](https://open.spotify.com/artist/7FbdCzKUwoZs1v9bCl43Ev) | [Yank Crime](https://open.spotify.com/album/7AHbaRIYnilUwe981nZpmi) | 3:14 |
 | 50 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 |
 
-Snapshot ID: `MCw2M2IzMGE0YWU1MDBmZGNhODMwZDc2OGQwYzJlMTQ3YmNlZjg5NmZi`
+Snapshot ID: `MCw1MjZiNjcyNTZjNTQ2NjFiMGY5M2RlNWNlY2RkY2Y2M2NmMTkxMmNj`
