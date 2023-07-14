@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: MONGOL800",
-  "num_followers": 260814,
+  "num_followers": 260934,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWU3YjcyNmNkYTk2ZmU4MjRiZGNhNGE3MTExYzY3Yzk0MWYwNzYx",
+  "snapshot_id": "MCxlOWQ4N2UyMGQwODVmNTZmN2VmZGFhOGY2ODdkMjYwNDhiYTJhNjZi",
   "tracks": [
     {
       "added_at": "2023-07-11 15:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "The Rumbling (TV Size)",
-        "url": "https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu"
+        "name": "\u511a\u304f\u306a\u3044",
+        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
       },
       "artists": [
         {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 90265,
-      "name": "The Rumbling (TV Size)",
-      "url": "https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV"
+      "duration_ms": 310560,
+      "name": "\u511a\u304f\u306a\u3044",
+      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "\u511a\u304f\u306a\u3044",
-        "url": "https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2"
+        "name": "The Rumbling (TV Size)",
+        "url": "https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
         }
       ],
-      "duration_ms": 310560,
-      "name": "\u511a\u304f\u306a\u3044",
-      "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
+      "duration_ms": 90265,
+      "name": "The Rumbling (TV Size)",
+      "url": "https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "Stray Hearts",
-        "url": "https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su"
-      },
-      "artists": [
-        {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "Stray Hearts",
-      "url": "https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "The World's On Fire",
         "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 207000,
       "name": "Seven Deadly Sins",
       "url": "https://open.spotify.com/track/2s2fORtcrwKwsmC4jNc8mJ"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "Stray Hearts",
+        "url": "https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su"
+      },
+      "artists": [
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "Stray Hearts",
+      "url": "https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP"
     },
     {
       "added_at": "2023-07-11 15:00:00",

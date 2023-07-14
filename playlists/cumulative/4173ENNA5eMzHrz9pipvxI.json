@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover:  Francis Mercier",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gianluca Vacchi",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -53,6 +53,24 @@
     },
     {
       "album": {
+        "name": "123 Round Again",
+        "url": "https://open.spotify.com/album/0vEbniv3VNZ8wMPSRHUcdm"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123809,
+      "name": "123 Round Again",
+      "url": "https://open.spotify.com/track/79uPlIsoReDVUWIH9aB0YA"
+    },
+    {
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/0aFwFwf7V1cXqefElALhJu"
       },
@@ -68,7 +86,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 184250,
       "name": "1995",
       "url": "https://open.spotify.com/track/17w2wuWpKr9iTr6cH2AFlT"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 202857,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6t4KvBSTG8J4u50RZiEob6"
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 383057,
       "name": "Awakened Dreamers",
       "url": "https://open.spotify.com/track/5ScQHpRsHcws4gmjVob491"
@@ -2215,6 +2233,24 @@
     },
     {
       "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/06ylSMA5HfHGtXAkGrC1Hf"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/6seHytVZJPtJyH5X6QUKqJ"
+    },
+    {
+      "album": {
         "name": "Bring It Back",
         "url": "https://open.spotify.com/album/6N9ITWVJx76I2La3Q32Wop"
       },
@@ -2248,7 +2284,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 157734,
       "name": "Bring The Fire",
       "url": "https://open.spotify.com/track/1sNsnt3mx7yPHDrKcV2OYh"
@@ -2859,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Civic",
+        "url": "https://open.spotify.com/album/5e1gtkXawki92Bg44QBCyP"
+      },
+      "artists": [
+        {
+          "name": "Raumakustik",
+          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+        },
+        {
+          "name": "Juliet Sikora",
+          "url": "https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176279,
+      "name": "Civic",
+      "url": "https://open.spotify.com/track/5gyssr3m6179oVKKpFe5xw"
+    },
+    {
+      "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/6YBmROG6hXhDUpOfS3nYpJ"
       },
@@ -2948,6 +3006,28 @@
       "duration_ms": 171081,
       "name": "CLIMAX",
       "url": "https://open.spotify.com/track/51XSvEjVLxOkpePuoF5rWQ"
+    },
+    {
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ"
     },
     {
       "album": {
@@ -3374,7 +3454,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 143885,
       "name": "Dance (With That Groove)",
       "url": "https://open.spotify.com/track/1YWu1NVT1coA5QUPay0EpX"
@@ -3814,7 +3894,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 150480,
       "name": "Different",
       "url": "https://open.spotify.com/track/2hqy4SNABSUX2yWrtlNt3b"
@@ -4472,7 +4552,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 221030,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/13TklxzA1yxtGHY5LDWWLx"
@@ -4916,6 +4996,24 @@
       "duration_ms": 165120,
       "name": "Everynight",
       "url": "https://open.spotify.com/track/06EWUJBiD16WAyhJdv6PHu"
+    },
+    {
+      "album": {
+        "name": "Everything Black",
+        "url": "https://open.spotify.com/album/6TBgBbpnjINlYwURchKo4j"
+      },
+      "artists": [
+        {
+          "name": "32Stitches",
+          "url": "https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Everything Black",
+      "url": "https://open.spotify.com/track/1Yhyqa0muaTvjRZJAzlLND"
     },
     {
       "album": {
@@ -6292,7 +6390,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 152812,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/7E8IZjrD6QwTf1pS3KJCfG"
@@ -7899,6 +7997,28 @@
     },
     {
       "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "album": {
         "name": "I'm Still In Love",
         "url": "https://open.spotify.com/album/6Ym5WHF7p9E7JXsc1EVMkv"
       },
@@ -8726,7 +8846,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 240000,
       "name": "Just Dancing",
       "url": "https://open.spotify.com/track/54NKZVHQAqofe3Dase2P0j"
@@ -11146,7 +11266,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 152000,
       "name": "Me Loco",
       "url": "https://open.spotify.com/track/2jBmMdhZEgOhMAnpoXqtxD"
@@ -11464,6 +11584,28 @@
       "duration_ms": 104888,
       "name": "Mortal Kombat",
       "url": "https://open.spotify.com/track/43Y71sYfC2zIXdi6ghgOeH"
+    },
+    {
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "album": {
@@ -12672,7 +12814,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 195268,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz"
@@ -12996,6 +13138,24 @@
       "duration_ms": 127619,
       "name": "Oh My Gosh (feat. Belami)",
       "url": "https://open.spotify.com/track/1C3jJJO71BL5hlHhWNMdp6"
+    },
+    {
+      "album": {
+        "name": "Oh My Johnny (Banks Of The Roses)",
+        "url": "https://open.spotify.com/album/2HzBb8vVeCfYFwNR86YyTo"
+      },
+      "artists": [
+        {
+          "name": "Chasing Abbey",
+          "url": "https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "Oh My Johnny (Banks Of The Roses)",
+      "url": "https://open.spotify.com/track/4WQgGqa0b8i05URFCW7FYD"
     },
     {
       "album": {
@@ -13688,6 +13848,32 @@
       "duration_ms": 168184,
       "name": "Partly Cloudy",
       "url": "https://open.spotify.com/track/5hhVwJPPEB0gUvcohcx90K"
+    },
+    {
+      "album": {
+        "name": "Party ID (feat. Mister Pancho)",
+        "url": "https://open.spotify.com/album/2vijFA879oEb9oq9vXeLs4"
+      },
+      "artists": [
+        {
+          "name": "Versus",
+          "url": "https://open.spotify.com/artist/3QycjSeZMvNChMMk1YEhUo"
+        },
+        {
+          "name": "Kremerk",
+          "url": "https://open.spotify.com/artist/4IzWCf1t8wVKTzfkrNK66K"
+        },
+        {
+          "name": "Mister Pancho",
+          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Party ID (feat. Mister Pancho)",
+      "url": "https://open.spotify.com/track/0UQLfrMrDXQrNpdBe5EMsk"
     },
     {
       "album": {
@@ -14650,7 +14836,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 159360,
       "name": "Ricky Bobby",
       "url": "https://open.spotify.com/track/7jXnm5I7MaFuxj950O9mef"
@@ -15180,7 +15366,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 162363,
       "name": "Safe & Sound",
       "url": "https://open.spotify.com/track/2KTOYyhh0oZg5o1KNlSi7G"
@@ -15341,6 +15527,24 @@
     },
     {
       "album": {
+        "name": "Schemer",
+        "url": "https://open.spotify.com/album/6peDhpkTBae0aIs1n9fHbx"
+      },
+      "artists": [
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298064,
+      "name": "Schemer",
+      "url": "https://open.spotify.com/track/5Vd2Y0u0IgKUBssZhXlMYi"
+    },
+    {
+      "album": {
         "name": "Scottica",
         "url": "https://open.spotify.com/album/3pKmpzJ7iCdS2aWqGZItxy"
       },
@@ -15484,6 +15688,24 @@
       "duration_ms": 134736,
       "name": "Shadow (Phonk Remix)",
       "url": "https://open.spotify.com/track/4MY2EUZIoXyzrhUiUNXFR5"
+    },
+    {
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/5dGkQKQnKdudraHu4oHMZy"
+      },
+      "artists": [
+        {
+          "name": "Teseo",
+          "url": "https://open.spotify.com/artist/6gSabAzENJyMQuuvKROv2Q"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/0rwKr38vNJtqljLyTJneIw"
     },
     {
       "album": {
@@ -15788,7 +16010,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 247619,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3LakWxXfyJkveLGXV0n4yT"
@@ -16024,6 +16246,28 @@
       "duration_ms": 199680,
       "name": "Solar",
       "url": "https://open.spotify.com/track/66jq8nhahv1FDsFuXScI1P"
+    },
+    {
+      "album": {
+        "name": "Sombrerito Blanco (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/4zOM4kzBkTCyuG7ir43PBW"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Sombrerito Blanco (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/33Ng2YiuWTAeDF59efvMOv"
     },
     {
       "album": {
@@ -16503,6 +16747,28 @@
     },
     {
       "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/6liQP8Z2oGupwYcM8V5y6o"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cartier",
+          "url": "https://open.spotify.com/artist/0Iyc9gAnfeZEwZntRBD4IS"
+        },
+        {
+          "name": "Dylan Soares",
+          "url": "https://open.spotify.com/artist/37KuhDG8ixnGZwtiPHzUEe"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/5XfJOhc3H1XXIcqReg8eQ2"
+    },
+    {
+      "album": {
         "name": "Summer Jams",
         "url": "https://open.spotify.com/album/3joHydRaKKBO8Z6HRq3asQ"
       },
@@ -16710,6 +16976,24 @@
       "duration_ms": 138240,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a"
+    },
+    {
+      "album": {
+        "name": "Sunrise (Club Mix)",
+        "url": "https://open.spotify.com/album/6KN6uHKN0og1gY1uaowVAm"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166640,
+      "name": "Sunrise (Club Mix)",
+      "url": "https://open.spotify.com/track/0yLc1YtZgSvkcl6uZI4ozn"
     },
     {
       "album": {
@@ -18393,6 +18677,32 @@
     },
     {
       "album": {
+        "name": "Triple A (feat. NLE Choppa) [Mike Williams Remix]",
+        "url": "https://open.spotify.com/album/0BVQrXwg7aNAO5YJgWWwrh"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Triple A (feat. NLE Choppa) - Mike Williams Remix",
+      "url": "https://open.spotify.com/track/6boRRUtgR78Xmm7HIEjWA7"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/79Q2grbyd17S315LBoIJrz"
       },
@@ -18404,7 +18714,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 251803,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2v4ThaklAOx8CqAcZGwdKh"
@@ -18744,7 +19054,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 152238,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6dnWU3ZywAIalucAAqjKlk"
@@ -19185,6 +19495,28 @@
     },
     {
       "album": {
+        "name": "We Ride (feat. Teddy Bee)",
+        "url": "https://open.spotify.com/album/3yKdq0HWKiF25WjWAqTUAK"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Teddy Bee",
+          "url": "https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "We Ride (feat. Teddy Bee)",
+      "url": "https://open.spotify.com/track/5Owz0Wkb3XgaADAm6dEr2O"
+    },
+    {
+      "album": {
         "name": "Welcome Back Home (feat. MC Ambush)",
         "url": "https://open.spotify.com/album/06s3KEW6ZJaGlCxCO1rl5y"
       },
@@ -19485,6 +19817,28 @@
     },
     {
       "album": {
+        "name": "Whistle",
+        "url": "https://open.spotify.com/album/74ewEdzLaaLzrLvQumG2bC"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/0DElhSwX8CocYF16W34qZj"
+    },
+    {
+      "album": {
         "name": "Who Are You",
         "url": "https://open.spotify.com/album/0be51mT6qzL6TYtXZMXVMe"
       },
@@ -19500,7 +19854,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 243278,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/3jMDNYL3ZhiBWIOIIVqbf1"
@@ -20068,6 +20422,32 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "album": {
+        "name": "You Shine",
+        "url": "https://open.spotify.com/album/0dRNR7C2LH7sY4p2TkY876"
+      },
+      "artists": [
+        {
+          "name": "Wave Wave",
+          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
+        },
+        {
+          "name": "Jake Silva",
+          "url": "https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL"
+        },
+        {
+          "name": "Sirona",
+          "url": "https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "You Shine",
+      "url": "https://open.spotify.com/track/5bma6TqnM5GOLszuqUztNX"
     },
     {
       "album": {

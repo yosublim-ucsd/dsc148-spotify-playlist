@@ -7268,7 +7268,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 286399,
       "name": "Jhoom Jhoom (From \"Spy\")",
       "url": "https://open.spotify.com/track/3hX6uJV2RoDs1POWofzHeA"
@@ -8016,7 +8016,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 308944,
       "name": "Kanmani - from \"Love\"",
       "url": "https://open.spotify.com/track/5PUELtgAuAFmkWT8DENtJv"
@@ -8222,6 +8222,28 @@
       "duration_ms": 238082,
       "name": "Karabath",
       "url": "https://open.spotify.com/track/0dvNCa168bHxi2A1Yzob0S"
+    },
+    {
+      "album": {
+        "name": "Guilt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
+      },
+      "artists": [
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Adithi Akash",
+          "url": "https://open.spotify.com/artist/6rkIqmWukoPqE7iS49n3BY"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104511,
+      "name": "Karago Chandrana Nambi (from \"Guilt\")",
+      "url": "https://open.spotify.com/track/0yLHWDYyFi5dbJOBLQeuKm"
     },
     {
       "album": {
@@ -9300,8 +9322,8 @@
           "url": "https://open.spotify.com/artist/07sMsv3cwvQp3pi8zxR08S"
         },
         {
-          "name": "S. P. Balasubramanyam",
-          "url": "https://open.spotify.com/artist/4Rg1q6cx7uNPRbquQdLgyu"
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
         }
       ],
       "date_added": "2023-04-22",
@@ -9704,6 +9726,28 @@
       "duration_ms": 177619,
       "name": "Marakastra - Title Song (From \"Marakastra\")",
       "url": "https://open.spotify.com/track/3F3xIdSVTq98lMqPpqnqf6"
+    },
+    {
+      "album": {
+        "name": "Guilt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
+      },
+      "artists": [
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Vijeth Urs",
+          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67176,
+      "name": "Marali Baruveya Churu",
+      "url": "https://open.spotify.com/track/1WIZDAlF92EP4frsti7rjp"
     },
     {
       "album": {
@@ -10796,6 +10840,28 @@
       "duration_ms": 294253,
       "name": "Naguvantha Thaareye (From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/688fqqXZqenHk5OYWDWYiJ"
+    },
+    {
+      "album": {
+        "name": "Guilt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
+      },
+      "artists": [
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Vijeth Urs",
+          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260917,
+      "name": "Naguve Summane (from \"Guilt\")",
+      "url": "https://open.spotify.com/track/1ICkq8Oj1mhv14oz0tqjd5"
     },
     {
       "album": {
@@ -15712,7 +15778,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 202474,
       "name": "Sukha Summane - Naalkane Aayama",
       "url": "https://open.spotify.com/track/0iEGDA9Ot5fncgk6NRBuwv"

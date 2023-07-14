@@ -3052,6 +3052,24 @@
     {
       "album": {
         "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+    },
+    {
+      "album": {
+        "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
       "artists": [
@@ -3308,6 +3326,28 @@
       "duration_ms": 172695,
       "name": "Nentori (feat. Arilena Ara)",
       "url": "https://open.spotify.com/track/6IluCTRwb67xmoxSKu5MyK"
+    },
+    {
+      "album": {
+        "name": "Neyin U\u011fruna",
+        "url": "https://open.spotify.com/album/6EAzhQWAAMmYvM4jldbtP0"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Reyes Burak",
+          "url": "https://open.spotify.com/artist/5JBpIhVknRa4fN3yger41Q"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Neyin U\u011fruna",
+      "url": "https://open.spotify.com/track/19EqyJzpbD8QAGxEbZClUt"
     },
     {
       "album": {
@@ -3900,7 +3940,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 434181,
       "name": "Poison",
       "url": "https://open.spotify.com/track/7vTLn0nVmaOjRCc3Xx6NR7"
@@ -4908,7 +4948,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 386844,
       "name": "Weyna - DJ Phellix Remix",
       "url": "https://open.spotify.com/track/6ukHZyw9OSWYb4xnxjamB6"

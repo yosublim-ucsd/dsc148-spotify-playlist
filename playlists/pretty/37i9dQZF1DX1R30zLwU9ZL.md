@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 
 > Reverse the curse! Listen to the official playlist for Freeridge and On My Block, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,604 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,618 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 8 | [Jheeze](https://open.spotify.com/track/1gcbrVKjdNkp0iDNdmKKAH) | [Zines](https://open.spotify.com/artist/3dKDLrcOBAqhFM0Btokf3c) | [Jheeze](https://open.spotify.com/album/5fzeK1GldcR3Y1pGL8CBAr) | 2:42 |
 | 9 | [Somos Chulas \(No Somos Pendejas\)](https://open.spotify.com/track/1kPzZGjU0mcL6Hh2DLI0of) | [Downtown Boys](https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC) | [Cost of Living](https://open.spotify.com/album/2L3KXGq3u2VpVTFMwPyPrb) | 3:23 |
 | 10 | [Muzzle](https://open.spotify.com/track/5SQX4pwdAOTsoAmLO6RqZY) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 1:05 |
-| 11 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 |
+| 11 | [The Cheek](https://open.spotify.com/track/7lvC3m1uYeK3DZj0yRAg1X) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [The Cheek](https://open.spotify.com/album/6MufAu0w7hndXQjLwbDuCW) | 3:43 |
 | 12 | [ALONG THE WAY](https://open.spotify.com/track/1Vs6ls1E9OFuSt6yXsBjNY) | [Swayyvo](https://open.spotify.com/artist/2vd6N0yWTqEdvio3oCSfAt) | [ALONG THE WAY](https://open.spotify.com/album/5mjlZlgpbSxtRcVXH4tx7H) | 3:29 |
 | 13 | [Cocoon](https://open.spotify.com/track/069mlD5el7f9hcN4Wh4YXb) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 3:21 |
 | 14 | [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/track/5kmrgsolftnZzuLHnUsC3M) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Puedes Decir De Mi \(feat\. Gaby Moreno\)](https://open.spotify.com/album/7zWsjjc1JsY5SGYBC8nXzT) | 2:49 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1R30zLwU9ZL.md) - [plain]
 | 65 | [You Do](https://open.spotify.com/track/5A6wPSr9yWhVs53a8Id6vL) | [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya) | [Rumble Pack](https://open.spotify.com/album/13TYR6W2v5bAxqY094wL07) | 2:28 |
 | 66 | [On My Block](https://open.spotify.com/track/5qPkEnq2wSbnLJTK31mZy4) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Fix](https://open.spotify.com/album/0Kahsu5SG9FX1mBhLuiA8L) | 3:34 |
 
-Snapshot ID: `MCw1MTFmMTY3NTRjMTdhMTQ1ZTM2M2EwMzNmZTcxNTUyNTg2MTY2NDc1`
+Snapshot ID: `MCw4YTI4MjczZDM4NTAzZDgyYzM0NzBhNTliYzExYjI5MjZkMjA2NDRj`

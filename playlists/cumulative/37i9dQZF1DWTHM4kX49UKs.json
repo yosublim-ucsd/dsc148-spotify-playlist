@@ -670,24 +670,6 @@
     {
       "album": {
         "name": "Half Free",
-        "url": "https://open.spotify.com/album/6J0S5axsvUCr69kYZ0GkAT"
-      },
-      "artists": [
-        {
-          "name": "U.S. Girls",
-          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
-        }
-      ],
-      "date_added": "2019-12-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190373,
-      "name": "Damn That Valley",
-      "url": "https://open.spotify.com/track/5BGtx4fGtjOzNEYNBRNQZN"
-    },
-    {
-      "album": {
-        "name": "Half Free",
         "url": "https://open.spotify.com/album/7DQbNDsFFpOhgXSRHFuzVF"
       },
       "artists": [
@@ -702,6 +684,24 @@
       "duration_ms": 190386,
       "name": "Damn That Valley",
       "url": "https://open.spotify.com/track/1cWVUrMhaVcLLW8nRz1wgR"
+    },
+    {
+      "album": {
+        "name": "Half Free",
+        "url": "https://open.spotify.com/album/6J0S5axsvUCr69kYZ0GkAT"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "date_added": "2019-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190386,
+      "name": "Damn That Valley",
+      "url": "https://open.spotify.com/track/5BGtx4fGtjOzNEYNBRNQZN"
     },
     {
       "album": {

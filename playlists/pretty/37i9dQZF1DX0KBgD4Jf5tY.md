@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0eoUjdIgU7Heid0Mv3EjLB">Elteep</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,079 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,083 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Semafori arancioni](https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB) | [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Semafori arancioni](https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R) | 2:34 |
 | 50 | [Il tuo nome](https://open.spotify.com/track/668OpnQUUI0zGPjshTKTIa) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Il tuo nome](https://open.spotify.com/album/0xmkTJhWG3ClWTaMAGHPKG) | 2:42 |
 
-Snapshot ID: `MCxiZGI0Y2NkZDcxY2U0OTA1OWFlNzdiOTY2YjAyMmEyODkyZjVkMzA4`
+Snapshot ID: `MCwwMWFjYWEyYWYxNDY1ZTE1NjYzZTM5Y2JiY2M5YTVkNDYyOWQxODk2`

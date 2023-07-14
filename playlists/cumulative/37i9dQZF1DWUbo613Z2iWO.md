@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Nippa
 
-620 songs - 1 day 7 hr 59 min
+621 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,8 @@
 | [Southside](https://open.spotify.com/track/7irMmdmwqEZvsqnepDXJGw) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Southside](https://open.spotify.com/album/136E0FzmsWqfjBbiT29CMW) | 3:22 | 2022-02-25 | 2022-03-26 |
 | [Soweto](https://open.spotify.com/track/3IQT2MM49GkXfHF9eemaw5) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:28 | 2023-01-26 | 2023-01-28 |
 | [SPF](https://open.spotify.com/track/1CONbh9I0awPEZ6VUVowW1) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [SPF](https://open.spotify.com/album/1hmZCRXu4CDl7DfxIOEo2U) | 2:43 | 2022-03-11 | 2022-03-26 |
-| [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 |  |
+| [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 | 2023-07-14 |
+| [Spin the Block](https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/0WIyWP0I9sOm5zZkvFdc0u) | 3:49 | 2022-12-02 |  |
 | [Spoon & Bang](https://open.spotify.com/track/2RkvnSmAzC49zlXmzKfisn) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Spoon & Bang](https://open.spotify.com/album/4lBjA3mBpNpZpYh52mtvjF) | 2:09 | 2022-07-09 | 2022-07-23 |
 | [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 | 2022-10-03 | 2022-10-08 |
 | [Spring Cleaning](https://open.spotify.com/track/2JkXhRy52nxXS6Fgx8kimn) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Spring Cleaning](https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ) | 2:12 | 2022-03-25 | 2022-05-07 |

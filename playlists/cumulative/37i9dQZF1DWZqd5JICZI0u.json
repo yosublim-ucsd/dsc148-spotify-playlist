@@ -4794,7 +4794,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185000,
       "name": "My Horizon",
       "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
@@ -5252,6 +5252,24 @@
       "duration_ms": 227500,
       "name": "Oscitancy",
       "url": "https://open.spotify.com/track/64CajkmsGoNAefmvK8pYpY"
+    },
+    {
+      "album": {
+        "name": "Other Existence",
+        "url": "https://open.spotify.com/album/1SuY40xqu9iaN3HQX5GwIv"
+      },
+      "artists": [
+        {
+          "name": "Juno Reed",
+          "url": "https://open.spotify.com/artist/5Ouz17H301vQh6K1snZRln"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141837,
+      "name": "Other Existence",
+      "url": "https://open.spotify.com/track/5vrx4NkFNaawdXnCbsOU00"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-188 songs - 9 hr 19 min
+189 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Phat Brahms \- Coone Remix 2.0](https://open.spotify.com/track/5OfH7V42xRGpeOuJ5p0tZY) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Phat Brahms \(Coone Remix 2.0\)](https://open.spotify.com/album/47bfgSSEuMdUIGtHT0KGFw) | 2:59 | 2023-01-13 | 2023-03-25 |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-01 | 2023-01-21 |
 | [Pill](https://open.spotify.com/track/5qa0Vd1RbFfryPALhL1d3x) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill](https://open.spotify.com/album/2xmmJIoFBCPvhtAIKfgoPm) | 2:09 | 2022-05-06 | 2022-08-13 |
+| [Play With You](https://open.spotify.com/track/5RKUtMvMl1VhCVDHg20fP4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Play With You](https://open.spotify.com/album/79U6oOr7Qhoizl1CIyOkpE) | 3:03 | 2023-07-13 |  |
 | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP) | 3:09 | 2022-05-06 | 2023-02-18 |
 | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx) | 3:20 | 2022-05-13 | 2023-04-09 |
 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2022-11-04 |  |

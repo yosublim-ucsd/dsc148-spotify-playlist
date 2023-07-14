@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Paris Texas
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,625 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,850 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 48 | [Rock Paper Strippers](https://open.spotify.com/track/1NPQItXYHsWC2MD9uZmFwj) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Rock Paper Strippers](https://open.spotify.com/album/4TPfKwZGp3q7CzSrFTzogy) | 2:48 |
 | 49 | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [ETA2 \(feat\. Paris Texas\)](https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22) | 2:09 |
 | 50 | [Arbyz](https://open.spotify.com/track/49mGa4XOjQgNVHQ9G4RdA7) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Microphone Fiend](https://open.spotify.com/album/5aPjS4Zc36QyqJghUfexQ8) | 2:14 |
-| 51 | [brackish \- cd.mp3 remix](https://open.spotify.com/track/4SvuhyEpzCVgYj3zxHc8N9) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [brackish \(cd.mp3 remix\)](https://open.spotify.com/album/4ol1hhNYFORftxqjL54Xqv) | 2:34 |
+| 51 | [brackish \(cd.mp3 remix\)](https://open.spotify.com/track/3fZqGvQpz9bCnXRMtSS8Bu) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [brackish \(cd.mp3 remix\)](https://open.spotify.com/album/12YqrnR5VVtGW80vk73obU) | 2:34 |
 | 52 | [In The Room \(with JID, Tierra Whack & BJ The Chicago Kid\)](https://open.spotify.com/track/22hdnPB5hmyzOJLQQrcDSS) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:52 |
 | 53 | [killstreaks \(with Don Toliver & PinkPantheress\)](https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:35 |
 | 54 | [In the Cut](https://open.spotify.com/track/4wGRRrz95y8fqUvsnKCGZH) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [Holy Smokes!](https://open.spotify.com/album/7CfSUHEBCbDbwjVy8eevFG) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [cracked screen](https://open.spotify.com/track/74iw3OCAb3it0SjOVw4Dnq) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [cracked screen](https://open.spotify.com/album/5JzrI4ObDjPuTLfD84VmAm) | 3:32 |
 | 100 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MCwzOTJhYWM4YThmMzIwODQ5MjQxMWVmMmMzNTNlY2JjODhmOTMwZmE3`
+Snapshot ID: `MCw4NGM4NzcyZmJjM2E2OWIxNDFlM2ZmMTIwMTVjOWZmZmJmNTJjZTRi`

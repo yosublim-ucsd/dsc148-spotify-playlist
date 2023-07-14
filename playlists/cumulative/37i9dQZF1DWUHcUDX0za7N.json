@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=W3NSYfh1SI26GxE7urqz6A\"> Blaqbonez</a> ",
+  "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=t7JJXl1yQUCioA8ywXwUaA\"> Psycho YP</a> ",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 155000,
       "name": "All I Please",
       "url": "https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz"
@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Z Pack",
+        "url": "https://open.spotify.com/album/5Ck8mMUb5nvnbNIKYTUjXF"
+      },
+      "artists": [
+        {
+          "name": "Zilla Oaks",
+          "url": "https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165454,
+      "name": "Bank Alert",
+      "url": "https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve"
+    },
+    {
+      "album": {
         "name": "Barawo",
         "url": "https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK"
       },
@@ -682,6 +700,24 @@
       "duration_ms": 207037,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
+    },
+    {
+      "album": {
+        "name": "Boytoy",
+        "url": "https://open.spotify.com/album/3FrtQZ6SzVEnCu8jebdrP7"
+      },
+      "artists": [
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139459,
+      "name": "Boytoy",
+      "url": "https://open.spotify.com/track/26JP5SQwytblnVcW1x9kGc"
     },
     {
       "album": {
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 168000,
       "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
       "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
@@ -3842,7 +3878,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 168960,
       "name": "Slomotion",
       "url": "https://open.spotify.com/track/5r53idwy7v6wuFUd3TeU3e"
@@ -4038,6 +4074,28 @@
       "duration_ms": 152142,
       "name": "STAMINA",
       "url": "https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ"
+    },
+    {
+      "album": {
+        "name": "Osapa London",
+        "url": "https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186358,
+      "name": "STAND ATTENTION",
+      "url": "https://open.spotify.com/track/5oJXi8943xjgqoYUtdhiPS"
     },
     {
       "album": {

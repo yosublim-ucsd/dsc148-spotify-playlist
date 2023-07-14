@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Brooke McClymont & Adam Eckersley",
+  "description": "The cream of today's Country crop. Cover: Jelly Roll",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 198386,
       "name": "Bar Stool",
       "url": "https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL"
@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Country Boy's Dream Girl",
+        "url": "https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "Country Boy's Dream Girl",
+      "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
+    },
+    {
+      "album": {
         "name": "COUNTRY BOYS",
         "url": "https://open.spotify.com/album/0uv3K6d43lJfJ5rShBv9C3"
       },
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 190666,
       "name": "Damn Love",
       "url": "https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI"
@@ -1986,6 +2004,24 @@
       "duration_ms": 196162,
       "name": "Feel Like This",
       "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
+    },
+    {
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/6SGcCXdXGP0W86zUIgVnXM"
+      },
+      "artists": [
+        {
+          "name": "Tori Darke",
+          "url": "https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174524,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/2LZerC9PBL5iYq1VgODEQ9"
     },
     {
       "album": {
@@ -3361,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Lake Rules",
+        "url": "https://open.spotify.com/album/3xWvsXQdKGhpKbOj3j6UgU"
+      },
+      "artists": [
+        {
+          "name": "Troy Kemp",
+          "url": "https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214891,
+      "name": "Lake Rules",
+      "url": "https://open.spotify.com/track/3PtUd7f5pWdCC1DlUiqIvs"
+    },
+    {
+      "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
       },
@@ -4328,7 +4382,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 193851,
       "name": "Note To Self",
       "url": "https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N"
@@ -4461,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "One More Song",
+        "url": "https://open.spotify.com/album/3GE6w1AAf5NOm7fKWXK8Rm"
+      },
+      "artists": [
+        {
+          "name": "Cassidy-Rae",
+          "url": "https://open.spotify.com/artist/5oWZYAyXkZ5Ks8UstmT3uM"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226558,
+      "name": "One More Song",
+      "url": "https://open.spotify.com/track/5Qe3FZ4tEgTyoD493M5YlS"
+    },
+    {
+      "album": {
         "name": "One Of Them Nights",
         "url": "https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue"
       },
@@ -4476,6 +4548,24 @@
       "duration_ms": 185444,
       "name": "One Of Them Nights",
       "url": "https://open.spotify.com/track/5nCsSiaW9gjTaobQ8Hj6zW"
+    },
+    {
+      "album": {
+        "name": "One Song Brings You Back",
+        "url": "https://open.spotify.com/album/1uC6mBrguAa1nakTHissII"
+      },
+      "artists": [
+        {
+          "name": "Kaylens Rain",
+          "url": "https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216293,
+      "name": "One Song Brings You Back",
+      "url": "https://open.spotify.com/track/3e6zezdTqFa2oAIxbGFOyS"
     },
     {
       "album": {
@@ -4852,7 +4942,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 172861,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2Dx0UA8OwEqrZbQIs0yKXv"
@@ -7172,7 +7262,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 179626,
       "name": "Wildfires (feat. Ian Moss)",
       "url": "https://open.spotify.com/track/1tzga9gxw04e70G72qMtd3"

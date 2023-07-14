@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-172 songs - 11 hr 31 min
+173 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Asleep on a Faded Moss Patch](https://open.spotify.com/track/0x3LRhwpiBfVPLoqXbjXgG) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Arboretum](https://open.spotify.com/album/7mE1OdcrOz5ZNQ1CjOGeLo) | 6:30 | 2022-08-05 |  |
 | [Astral](https://open.spotify.com/track/25Eazeq2jR3OAXKVyn5A46) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg), [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Astral](https://open.spotify.com/album/5wSkF4kNNzlYaSpbpCXO3o) | 2:27 | 2022-09-08 |  |
 | [Astral Plane](https://open.spotify.com/track/5RJra53XMmKPR3VBCkYh7G) | [Back 2 Sleep](https://open.spotify.com/artist/1mbXts9rQTQvSfO4wN6HiY) | [Soothing Ambient Sleep](https://open.spotify.com/album/2pwOmopA3nknPWsgtO3o4i) | 3:02 | 2023-02-24 |  |
+| [axtupaku](https://open.spotify.com/track/6E1tkX5vsU0vJQ9e57eKBD) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Sei](https://open.spotify.com/album/067nCk1Y6niI3HwdR2d2q3) | 2:33 | 2023-07-13 |  |
 | [Be Still My Gentle Dream](https://open.spotify.com/track/5CNClGUyb9WXVGJf1xRhoC) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Slumbertrain](https://open.spotify.com/album/39aJDQNU5JJUlCI3NH485F) | 3:22 | 2022-09-08 |  |
 | [Being](https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Being](https://open.spotify.com/album/2XuXdx0PWF9MRZ6jI1jJrR) | 3:21 | 2022-11-11 |  |
 | [Beyond Infinity](https://open.spotify.com/track/07Ugt4jjKXkCfmVZEbQ55a) | [SerenitySounds](https://open.spotify.com/artist/5IxUd3eKUM5TboSJkc5cVQ) | [Beyond Infinity](https://open.spotify.com/album/1NbO4sSRArJd0qqUKM1LWD) | 4:37 | 2022-11-11 |  |

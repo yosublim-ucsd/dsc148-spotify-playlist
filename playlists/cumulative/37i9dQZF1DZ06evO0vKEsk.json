@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 324104,
       "name": "Eu Quero Minha B\u00ean\u00e7\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/2Nb9mgW0c83TKElErV1hur"
@@ -680,6 +680,24 @@
       "duration_ms": 429290,
       "name": "Pensou em Mim",
       "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
+    },
+    {
+      "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244970,
+      "name": "Por Tuas M\u00e3os",
+      "url": "https://open.spotify.com/track/41HzNQNqNMQ7CEUoI5avFy"
     },
     {
       "album": {

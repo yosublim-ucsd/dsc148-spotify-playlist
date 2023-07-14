@@ -434,7 +434,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 203599,
       "name": "Cassanova Kirk Daniel",
       "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Devil Claims His Prize",
+        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162176,
+      "name": "Devil Claims His Prize",
+      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
+    },
+    {
+      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -798,7 +816,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 162612,
       "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
       "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
@@ -842,6 +860,24 @@
       "duration_ms": 204666,
       "name": "Eric (Long Live The King)",
       "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
+    },
+    {
+      "album": {
+        "name": "Every Chance I Get (I Want You In The Flesh)",
+        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248004,
+      "name": "Every Chance I Get (I Want You In The Flesh)",
+      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
     },
     {
       "album": {
@@ -964,7 +1000,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 239904,
       "name": "Flood of 2019",
       "url": "https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq"
@@ -1130,7 +1166,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 228857,
       "name": "Got till it's gone",
       "url": "https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR"
@@ -1174,6 +1210,24 @@
       "duration_ms": 145000,
       "name": "Gumbo Blues",
       "url": "https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG"
+    },
+    {
+      "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
+      },
+      "artists": [
+        {
+          "name": "Ash Lambe & The 32-20's",
+          "url": "https://open.spotify.com/artist/1PYQHnrVYww26xUopjV3s2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294327,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs"
     },
     {
       "album": {
@@ -1661,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Jam With Me",
+        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
+      },
+      "artists": [
+        {
+          "name": "Lance Lopez",
+          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201233,
+      "name": "Jam With Me",
+      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
+    },
+    {
+      "album": {
         "name": "Mississippi Blues",
         "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
       },
@@ -1694,6 +1766,24 @@
       "duration_ms": 237613,
       "name": "Keep On Rocking",
       "url": "https://open.spotify.com/track/5OMNYgValFRs0a0UamQpDl"
+    },
+    {
+      "album": {
+        "name": "Last Train To Nowhere",
+        "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216613,
+      "name": "Last Train To Nowhere",
+      "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
     },
     {
       "album": {
@@ -1816,7 +1906,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 204862,
       "name": "Make It Easy",
       "url": "https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw"
@@ -2048,7 +2138,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 169841,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/4iRo9KrAseDp7rhkDqulYT"
@@ -2708,6 +2798,24 @@
       "duration_ms": 247319,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
+    },
+    {
+      "album": {
+        "name": "Well, I Done Got Over It",
+        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
     },
     {
       "album": {

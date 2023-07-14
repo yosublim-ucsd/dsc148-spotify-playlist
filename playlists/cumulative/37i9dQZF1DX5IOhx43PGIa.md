@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Audrey Nuna.
 
-481 songs - 1 day 0 hr 57 min
+482 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anytime, Anywhere](https://open.spotify.com/track/5HsMafas66Rt5mTidyhUtm) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [RUI](https://open.spotify.com/artist/2wLXzAFAYWE9KilQt7Zpg2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP) | [15th Dream](https://open.spotify.com/album/6GPi7wmWKl6cKpnDhgSSYS) | 2:56 | 2022-07-22 | 2022-11-13 |
 | [apart of me](https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [apart of me](https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2) | 1:16 | 2023-05-22 |  |
 | [At Least I Had You](https://open.spotify.com/track/3hpR0IWUJMvtlq3aAyKPqz) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [At Least I Had You](https://open.spotify.com/album/3A68xuHs3jOElQqx87Ae1O) | 3:23 | 2022-05-27 | 2023-05-06 |
-| [Atmosphere](https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Atmosphere](https://open.spotify.com/album/0nN8ZEm4l9LU8dKLMDponC) | 2:11 | 2023-05-12 |  |
+| [Atmosphere](https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Atmosphere](https://open.spotify.com/album/0nN8ZEm4l9LU8dKLMDponC) | 2:11 | 2023-05-12 | 2023-07-14 |
 | [B.T.W \(feat\. Jay Park\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:12 | 2022-05-27 | 2023-05-06 |
 | [Backhouse Ballin' \(feat\. James Reid\)](https://open.spotify.com/track/24yMI9O8GEdADu3hj4axGS) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 3:36 | 2022-05-27 | 2022-11-12 |
 | [BAD DECISIONS](https://open.spotify.com/track/6DukD7rUREAMZV05R4QJj3) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [BAD DECISIONS](https://open.spotify.com/album/61WyYQC1peEOTLBFlCC1I9) | 3:24 | 2022-05-27 | 2022-07-28 |
@@ -105,6 +105,7 @@
 | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/track/5RqwjQWDwxQ3HTkOfXTrS6) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e), [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [Dive with you \(feat\. eaJ\)](https://open.spotify.com/album/4Ax41uyC6zscjAXjYd6cq8) | 3:38 | 2022-05-27 |  |
 | [Dizzy](https://open.spotify.com/track/5JLSZoonTDUwaMdoptjPWe) | [oksami](https://open.spotify.com/artist/1b0Xogb0sa1XfgUXFWPb26), [Julian Blu](https://open.spotify.com/artist/6BsjFgYJowKhLY39sTcyrC) | [Dizzy](https://open.spotify.com/album/6TRF2Nocx2RnqthSu6bFlK) | 2:54 | 2022-05-27 | 2022-09-19 |
 | [do it right \(feat\. Aminé\)](https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [do it right \(feat\. Aminé\)](https://open.spotify.com/album/3n1Yy29B8hAPS3X3K3YGgP) | 2:49 | 2022-05-27 | 2023-05-13 |
+| [Doesn't Matter](https://open.spotify.com/track/4WFIPUgCBQdDpg4S5lvrKl) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Doesn't Matter](https://open.spotify.com/album/7EQam9angfCYD0jnTwiurs) | 3:01 | 2023-07-07 |  |
 | [Don't](https://open.spotify.com/track/7nJ8SIKyOBlIpPY07GVZEq) | [Simu Liu](https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP) | [Don't](https://open.spotify.com/album/6SwvmOnyxjuidSGIVtktXD) | 3:44 | 2023-04-07 |  |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-05-27 | 2022-11-12 |
 | [Don't Blame It On Love](https://open.spotify.com/track/2Z4kEzYRGKCKRv9QttvBrW) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Don't Blame It On Love](https://open.spotify.com/album/5RLZKkvBO2cJWJ7ZeiyqYv) | 3:17 | 2022-05-27 | 2022-09-03 |

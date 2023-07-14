@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. Meet the '10 Korean hip-hop songs that you think are experimental and creative' selected by Beenzino! (\ube48\uc9c0\ub178\uac00 \uc120\uc815\ud55c '\uc2e4\ud5d8\uc801\uc774\uace0 \ucc3d\uc758\uc801\uc774\ub77c\uace0 \uc0dd\uac01\ud558\ub294 \uad6d\ub0b4 \ud799\ud569\uace1' 10\uace1\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!) (Cover:\bBeenzino)",
-  "name": "KrOWN: Beenzino Takeover",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bE-SENS)",
+  "name": "KrOWN",
   "tracks": [
     {
       "album": {
@@ -816,6 +816,28 @@
       "duration_ms": 324211,
       "name": "A Long Day (Feat. Zion.T) (Prod. Fisherman)",
       "url": "https://open.spotify.com/track/6LXNnUjcOBVyov7bH0NNnM"
+    },
+    {
+      "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "A Yo (Feat. Beenzino)",
+      "url": "https://open.spotify.com/track/3fO6bY9AZndZu8ltaNexBz"
     },
     {
       "album": {
@@ -1876,7 +1898,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 287424,
       "name": "Bi-elijah",
       "url": "https://open.spotify.com/track/7ew0KJ2Z6d2wpoYFTriF8C"
@@ -3400,7 +3422,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 212040,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/3hArB0uSLrGt27uAFdFgd6"
@@ -5483,7 +5505,7 @@
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 314634,
+      "duration_ms": 163902,
       "name": "EASY",
       "url": "https://open.spotify.com/track/4thopfiFNea6D31uMXsmRv"
     },
@@ -9585,6 +9607,24 @@
     },
     {
       "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138374,
+      "name": "Jeogeumtong",
+      "url": "https://open.spotify.com/track/4GvyA3KLY4S83khi5kLsiP"
+    },
+    {
+      "album": {
         "name": "A-Team",
         "url": "https://open.spotify.com/album/54B2x0KQdI9HiVfmtpsxbL"
       },
@@ -10790,7 +10830,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 202013,
       "name": "Like A Fool (Feat. Y2K92)",
       "url": "https://open.spotify.com/track/6IBVgRiEsCo3XkUK7IzaCX"
@@ -14312,7 +14352,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 223466,
       "name": "Overclass",
       "url": "https://open.spotify.com/track/0TonzjCZUWODRE6wzLTTqr"

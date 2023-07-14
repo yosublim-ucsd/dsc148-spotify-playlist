@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Wynne\. Artwork by Isu Kim\. Updates every Wednesday.
 
-4,469 songs - 10 day 4 hr 7 min
+4,474 songs - 10 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1185,6 +1185,7 @@
 | [EGOmania!](https://open.spotify.com/track/4rOrXeEFy7wFl80R3sl7Qr) | [FIVE6ix](https://open.spotify.com/artist/1ihWVUtDpeIPbYJtKZyM0s) | [EGOmania!](https://open.spotify.com/album/7y69ghGZD6M0vMXN0J4dTk) | 2:11 | 2023-06-21 | 2023-06-29 |
 | [Eight Hours](https://open.spotify.com/track/0G6I2K2DU70tZkrdVZ3hxZ) | [Fruit Junior](https://open.spotify.com/artist/4qNHQ7M4r3z1jEKUyH8NiN) | [How About This Picture Of A Cat](https://open.spotify.com/album/7es9gg8c5hl6lgy7HsgbgU) | 3:43 | 2023-01-11 | 2023-01-19 |
 | [eighteen](https://open.spotify.com/track/5uMkaBsallKqRteHGUOjtY) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j), [Cole Bauer](https://open.spotify.com/artist/57gW9421NHL1WJjJ82Qdn1) | [eighteen](https://open.spotify.com/album/0y9L01zTXkz4ogsNCX2cA6) | 1:51 | 2023-02-08 | 2023-02-16 |
+| [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 | 2023-07-13 |  |
 | [El sol](https://open.spotify.com/track/2RODpFAidPFNc5G7MIl6WG) | [Tinta China](https://open.spotify.com/artist/5QIkFTv1UBzV4tIvM87mG8) | [Todo menos el presente](https://open.spotify.com/album/7DGcnb68CIbysKO4E53FdA) | 4:52 | 2022-05-11 | 2022-05-19 |
 | [Elder Garden](https://open.spotify.com/track/0Vvp9sJydb4zJsanPA77By) | [boys be kko](https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D) | [Elder Garden](https://open.spotify.com/album/49PD5X1YxwhA5BYj4wuLQV) | 5:29 | 2022-08-24 | 2022-09-01 |
 | [Electric Connect](https://open.spotify.com/track/72UFN3URrwusWbigHJd9zS) | [Milo Clare](https://open.spotify.com/artist/1m3q3h3I9cMdSEbREVwvJR) | [Electric Connect](https://open.spotify.com/album/3kenR9Bok0L3Oc53ZfIr1d) | 3:45 | 2022-01-26 | 2022-02-03 |
@@ -3234,6 +3235,7 @@
 | [Redwoods](https://open.spotify.com/track/14FWm9OKkbfQbnlOVmX4sJ) | [Veni Sun](https://open.spotify.com/artist/2FLqR4YXPurY27vtZEIwqB) | [Artifacts of Summer](https://open.spotify.com/album/5Hr9XshNla8vcCNtvEQYsN) | 3:32 | 2022-02-02 | 2022-02-10 |
 | [Refuse \- Refazer](https://open.spotify.com/track/2gBF0PS5g9eKICWuKiDWHS) | [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII), [Chediak](https://open.spotify.com/artist/0FALK05ICiGAQ1QZGkLnsK) | [Refuse \(Refazer\)](https://open.spotify.com/album/64YI4ZVWfFAmMK6uCRaXwF) | 4:07 | 2023-02-08 | 2023-02-16 |
 | [Regado](https://open.spotify.com/track/4v6sh0roVtsDwDLCCRIFeV) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Regado](https://open.spotify.com/album/2fOtyH0xBYLXZInmq1KItS) | 5:07 | 2023-01-18 | 2023-01-26 |
+| [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 | 2023-07-13 |  |
 | [Regatta](https://open.spotify.com/track/0LQkcsB52twNpTHLcFFZlv) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Regatta](https://open.spotify.com/album/1elRylOT3nBjSgeeSWv3xQ) | 4:55 | 2022-04-27 | 2022-05-05 |
 | [Regrets](https://open.spotify.com/track/2RuOxSKuPvJmIgBEWUUTio) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Regrets](https://open.spotify.com/album/48sL5JqeLIfdHLKtogMGWx) | 3:45 | 2022-01-19 | 2022-01-27 |
 | [REHAB?](https://open.spotify.com/track/3r886NNQL7iOK1CXEKH2lx) | [Jessiqa Jones](https://open.spotify.com/artist/3jt2Xvzm0RHCW962b1N1qT) | [REHAB?](https://open.spotify.com/album/4RPqmtRv2kylEzmL9ralKZ) | 3:37 | 2022-05-11 | 2022-05-19 |
@@ -3294,6 +3296,7 @@
 | [Rockin' & Rollin](https://open.spotify.com/track/4U8PK5lwaOTMITmRlsH15n) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Rockin' & Rollin](https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY) | 2:12 | 2023-03-08 | 2023-03-16 |
 | [Rocks](https://open.spotify.com/track/33q5GW1JOMiCtW6FCVZo0g) | [Buck Raines](https://open.spotify.com/artist/0uhS2Dm4iv3qukaycmPbNF) | [Rocks](https://open.spotify.com/album/5tnRNJMyuCZxxfTIIL1Fxz) | 3:03 | 2023-04-05 | 2023-04-13 |
 | [Rodeo Money](https://open.spotify.com/track/1cSjK6jDelAxuBypzWsJ7R) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Rodeo Money](https://open.spotify.com/album/2f2ENXEtPErgBXvvhTCBH2) | 3:47 | 2023-02-22 | 2023-03-02 |
+| [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí \(Rompiendo La Cadera\)](https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs) | 3:25 | 2023-07-13 |  |
 | [ROLEPLAYER](https://open.spotify.com/track/4HXBbooAJBt5tJypc5aF2Z) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R), [Tyler Lauren](https://open.spotify.com/artist/6SsJjCvJ9juy5EpW8NH4VZ) | [ROLEPLAYER](https://open.spotify.com/album/34wggQxKdsMy7UKJuJ2wZ4) | 3:41 | 2022-07-27 | 2022-08-04 |
 | [Rollercoaster](https://open.spotify.com/track/235DaOrBzwO7y1OlTYiR8t) | [LT](https://open.spotify.com/artist/1H9tC3HHjabSLu8rbq9ECA) | [Rollercoaster](https://open.spotify.com/album/5zpox4jHqalRfiNvdZigc7) | 3:25 | 2022-07-27 | 2022-08-04 |
 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 | 2022-10-05 | 2022-10-13 |
@@ -3882,6 +3885,7 @@
 | [Tequila](https://open.spotify.com/track/7oIkhniXc7nqFejXFrgM5j) | [Jeffers Insley](https://open.spotify.com/artist/5Kl5hPE1d877AIBR4O0kQ2) | [Tequila](https://open.spotify.com/album/1sroqnaDwtAI3WytaisYBr) | 2:42 | 2022-01-12 | 2022-01-20 |
 | [Tequila for Two](https://open.spotify.com/track/1eAiavN1GgIM1xqzVOZZdW) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Tequila for Two](https://open.spotify.com/album/3Qh3PpaELJq9ypvqeNOSMJ) | 3:29 | 2022-04-13 | 2022-04-28 |
 | [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 | 2022-09-21 | 2022-09-29 |
+| [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 | 2023-07-13 |  |
 | [Terra](https://open.spotify.com/track/6YuYFcFId4QJSKRJIlQ0Mv) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Terra](https://open.spotify.com/album/428oCUhlcJu90Riw93VHWV) | 5:51 | 2022-07-27 | 2022-08-04 |
 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-14 | 2023-06-29 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-18 | 2023-01-26 |
@@ -4181,6 +4185,7 @@
 | [Vegas](https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Vegas](https://open.spotify.com/album/0c6bbJ2dKB8ojrBjOX4h6e) | 3:20 | 2022-03-23 | 2022-03-31 |
 | [Vegetal Passivity](https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Vegetal Passivity](https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW) | 3:58 | 2023-03-01 | 2023-03-23 |
 | [vent](https://open.spotify.com/track/4fvsrtA2vCNTlfT3wHlxJ7) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [vent](https://open.spotify.com/album/5h90kCMnNxDUOsrP2JM7yr) | 2:31 | 2022-08-10 | 2022-08-25 |
+| [Verano Rosé](https://open.spotify.com/track/1TBV0PsJHHORzbn0AluTKj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Verano Rosé](https://open.spotify.com/album/07Ase5Emf9f6k8VfpRSSHZ) | 2:45 | 2023-07-13 |  |
 | [Vertigo](https://open.spotify.com/track/4fQTa68yjwRRBditzmCrZ9) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [Vertigo](https://open.spotify.com/album/3mywgogoLOFHCCzZxLO5DR) | 3:12 | 2022-08-31 | 2022-09-09 |
 | [Vertiko](https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Vertiko](https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB) | 4:59 | 2022-09-07 | 2022-09-15 |
 | [Viajes](https://open.spotify.com/track/6XaQLfoH2ux5QUChQyYZrh) | [Sweet Honesty](https://open.spotify.com/artist/0u8uFvusH51hxqYVnRT3gl) | [Viajes](https://open.spotify.com/album/427VteQWWdzaPn0MvBT4kc) | 2:24 | 2023-04-26 | 2023-05-04 |

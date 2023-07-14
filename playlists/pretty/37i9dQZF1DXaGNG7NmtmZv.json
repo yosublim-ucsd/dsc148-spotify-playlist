@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 190507,
+  "num_followers": 190600,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTdhZjQ3MDA4NDcwYzM3NDIxNzQ1ZDRhNjI3OWNkM2Q0YTQ1ZjM0",
+  "snapshot_id": "MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -123,18 +123,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "The Current Will Carry Us",
-        "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
+        "name": "Progression Through Unlearning",
+        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
       },
       "artists": [
         {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
         }
       ],
-      "duration_ms": 236746,
-      "name": "The Disconnect",
-      "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
+      "duration_ms": 153586,
+      "name": "Caboose",
+      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -155,18 +155,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Progression Through Unlearning",
-        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
+        "name": "The Current Will Carry Us",
+        "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
       },
       "artists": [
         {
-          "name": "Snapcase",
-          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
         }
       ],
-      "duration_ms": 153586,
-      "name": "Caboose",
-      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
+      "duration_ms": 236746,
+      "name": "The Disconnect",
+      "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 124373,
-      "name": "Break Down the Walls",
-      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 121360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/3jxtdFRy3VX71AbEPEjKgq"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 124373,
+      "name": "Break Down the Walls",
+      "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Break Down The Walls",
-        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
-      },
-      "artists": [
-        {
-          "name": "Youth Of Today",
-          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "Take a Stand",
-      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 238333,
       "name": "Let's Pretend",
       "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Break Down The Walls",
+        "url": "https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX"
+      },
+      "artists": [
+        {
+          "name": "Youth Of Today",
+          "url": "https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL"
+        }
+      ],
+      "duration_ms": 100800,
+      "name": "Take a Stand",
+      "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
     },
     {
       "added_at": "2020-12-08 15:12:11",

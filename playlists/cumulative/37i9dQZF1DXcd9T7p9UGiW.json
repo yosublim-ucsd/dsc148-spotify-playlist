@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH?si=vsG7T0ZgTzylx9yw4LLy4Q\"> Ninho</a> and  <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=Og6QcHE6SM6qv9Ifeds6hg\"> Ayra Starr</a>  ",
+  "description": "Catching flights and going global. Cover:  <a href=\"https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr?si=YwdnOCzqT0-5fcgtAs3FpA\"> J Hus</a>  ",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -2219,6 +2219,32 @@
     },
     {
       "album": {
+        "name": "Drink Water",
+        "url": "https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169708,
+      "name": "Drink Water (feat. Jon Bellion and Fireboy DML)",
+      "url": "https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1"
+    },
+    {
+      "album": {
         "name": "F65",
         "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
       },
@@ -4423,6 +4449,28 @@
     },
     {
       "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
+    },
+    {
+      "album": {
         "name": "As Above, So Below (Deluxe)",
         "url": "https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm"
       },
@@ -4512,6 +4560,28 @@
       "duration_ms": 202886,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1"
+    },
+    {
+      "album": {
+        "name": "Militerian (feat. Naira Marley)",
+        "url": "https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44"
     },
     {
       "album": {
@@ -6013,6 +6083,36 @@
     },
     {
       "album": {
+        "name": "Raha",
+        "url": "https://open.spotify.com/album/2NSwQZjB3Abd8NS2uUouBQ"
+      },
+      "artists": [
+        {
+          "name": "HSKE",
+          "url": "https://open.spotify.com/artist/0GHHtw39P3sS8MqYuuR4j8"
+        },
+        {
+          "name": "Mayonde",
+          "url": "https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr"
+        },
+        {
+          "name": "Muthoni Drummer Queen",
+          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220206,
+      "name": "Raha",
+      "url": "https://open.spotify.com/track/7uLsJ8BMEi78BNMUFJgsZq"
+    },
+    {
+      "album": {
         "name": "Random",
         "url": "https://open.spotify.com/album/0rnsTIkGzCYnd10aDwy7Rl"
       },
@@ -6184,6 +6284,28 @@
       "duration_ms": 238815,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/0hM8sp03CyYE0KzFcLd65I"
+    },
+    {
+      "album": {
+        "name": "Rowanda",
+        "url": "https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5"
+      },
+      "artists": [
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212631,
+      "name": "Rowanda",
+      "url": "https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r"
     },
     {
       "album": {
@@ -7782,6 +7904,28 @@
       "duration_ms": 175677,
       "name": "Toni-Ann Singh (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7tO7xKsLqBQFnQzsPC2MpR"
+    },
+    {
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
     },
     {
       "album": {

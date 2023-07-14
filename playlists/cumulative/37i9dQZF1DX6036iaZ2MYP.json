@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Ind\u00e9cis",
+        "url": "https://open.spotify.com/album/7FM8BBRn9LhLW8AFMp61Dd"
+      },
+      "artists": [
+        {
+          "name": "Axelence",
+          "url": "https://open.spotify.com/artist/1AHYy1rAuCOfdbdxgh1dyo"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132063,
+      "name": "Ind\u00e9cis",
+      "url": "https://open.spotify.com/track/7AC89GUw6Iju5Y96mNJ7BW"
+    },
+    {
+      "album": {
         "name": "Injabulo",
         "url": "https://open.spotify.com/album/2dL3uqWC31vpb9RwvMSJD1"
       },
@@ -2592,7 +2610,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 150534,
       "name": "Ogogoro (with Bas & Ayra Starr)",
       "url": "https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 149387,
       "name": "RDV",
       "url": "https://open.spotify.com/track/5bHQArgWUfUkpVgUeebG2V"
@@ -2844,6 +2862,28 @@
       "duration_ms": 149812,
       "name": "Rora",
       "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
+    },
+    {
+      "album": {
+        "name": "Rowanda",
+        "url": "https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5"
+      },
+      "artists": [
+        {
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212631,
+      "name": "Rowanda",
+      "url": "https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r"
     },
     {
       "album": {
@@ -3128,6 +3168,24 @@
       "duration_ms": 148000,
       "name": "Soweto",
       "url": "https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8"
+    },
+    {
+      "album": {
+        "name": "Spaceman",
+        "url": "https://open.spotify.com/album/0kzjlNkQod4euXNcTbxqF1"
+      },
+      "artists": [
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203198,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/32CfjCFQicppSwgwm7idbF"
     },
     {
       "album": {

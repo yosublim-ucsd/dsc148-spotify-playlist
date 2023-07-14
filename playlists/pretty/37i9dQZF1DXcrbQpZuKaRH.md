@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Ambient with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,814 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,848 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 23 | [Marigold Chain](https://open.spotify.com/track/6DGIQf8liKwdwrPISYOqpH) | [Rose Schwartz](https://open.spotify.com/artist/0qVKo0IM22oSsFlWSHKgmZ) | [Marigold Chain](https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA) | 3:24 |
 | 24 | [Gentle Sail](https://open.spotify.com/track/0jk7Cda4qWk0f4zxShEDim) | [Highland Falls](https://open.spotify.com/artist/52WuJ5gqkSx8o5QIeJBMWl) | [Gentle Sail](https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD) | 2:57 |
 | 25 | [The Spirit](https://open.spotify.com/track/2HtDHyZuRJYPnKLar3dMBZ) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [The Spirit](https://open.spotify.com/album/639d267k0gorMiPC2zbTlH) | 3:05 |
-| 26 | [Unto Nothing](https://open.spotify.com/track/5cLtfV0IzXgQmYXC2e6dm1) | [Sonic Being](https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36) | [Unto Nothing](https://open.spotify.com/album/06eFwXIBHDiut7njFtruKF) | 2:39 |
-| 27 | [Planet X](https://open.spotify.com/track/1VtyLawVwNXPAZAfkxxGrt) | [Cafia](https://open.spotify.com/artist/0euoBJrICwz0xXf5UCemWh) | [Planet X](https://open.spotify.com/album/5odMYG74StGRhjLZQAXRe7) | 2:58 |
-| 28 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 |
-| 29 | [Adrift](https://open.spotify.com/track/57hiSUzsN2wvEkVoNLItUf) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Adrift](https://open.spotify.com/album/7JLMbBSZYkNpc5Z3IWoVB8) | 3:04 |
+| 26 | [Planet X](https://open.spotify.com/track/1VtyLawVwNXPAZAfkxxGrt) | [Cafia](https://open.spotify.com/artist/0euoBJrICwz0xXf5UCemWh) | [Planet X](https://open.spotify.com/album/5odMYG74StGRhjLZQAXRe7) | 2:58 |
+| 27 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 |
+| 28 | [Adrift](https://open.spotify.com/track/57hiSUzsN2wvEkVoNLItUf) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Adrift](https://open.spotify.com/album/7JLMbBSZYkNpc5Z3IWoVB8) | 3:04 |
+| 29 | [Midnight Shoreline](https://open.spotify.com/track/5efJPDxGLNB0h6niF1AXNP) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Midnight Shoreline](https://open.spotify.com/album/1E0JXRIEt2SeGocrN2ZIpL) | 2:40 |
 | 30 | [Waves](https://open.spotify.com/track/3krSmuVk00tFuJiTuNSZoO) | [IPHTA](https://open.spotify.com/artist/4VTQyY0a941xnmyoZT2GsH) | [Waves](https://open.spotify.com/album/3xjngxMowsTDMJD4WOaMLv) | 3:06 |
 | 31 | [Sea Waves](https://open.spotify.com/track/16OA2Oc9beh2NUkhbWTmA5) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:36 |
 | 32 | [Satyavaadita](https://open.spotify.com/track/23fzziAhNAz6zuPMqndNoL) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Satyavaadita](https://open.spotify.com/album/7ohTqhejJ53V6uciizB2qU) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 59 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 |
 | 60 | [Rolling into the light](https://open.spotify.com/track/0Jf9uL7m2ORhA4b8HDi8FW) | [Counting Time](https://open.spotify.com/artist/7oVcqa9bulSHVTI8pqJ6ah) | [Piano in Another Room by the Ocean](https://open.spotify.com/album/36agYkfZ6jXT330sY5Au9t) | 2:52 |
 
-Snapshot ID: `MCxjZWI5NDc3YTg2NzI2ZmM5NmVhNzFmOWJkZWY0MjQwMDYyZDg1OWUx`
+Snapshot ID: `MCxjOTZjMDQyMzI3NDNjMDEzZmJiODcwZGQwNDAyMzNmYTlkYzQzOGM4`

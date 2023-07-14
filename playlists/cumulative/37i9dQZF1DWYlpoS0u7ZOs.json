@@ -64,7 +64,7 @@
       },
       "artists": [
         {
-          "name": "Sprints",
+          "name": "SPRINTS",
           "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "anymore",
+        "url": "https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68"
+      },
+      "artists": [
+        {
+          "name": "OC Saint",
+          "url": "https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278884,
+      "name": "anymore",
+      "url": "https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk"
+    },
+    {
+      "album": {
         "name": "Hookey",
         "url": "https://open.spotify.com/album/7KknC9RikxSrgFy83Kv6Dj"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 181714,
       "name": "Back and Forth",
       "url": "https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/53NMyyTEnOAWWaFoZ9t9HE"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251700,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1XckAV94cXSzpKSRjFc6eY"
     },
     {
       "album": {
@@ -639,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Do It So Good",
+        "url": "https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202466,
+      "name": "Do It So Good",
+      "url": "https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt"
+    },
+    {
+      "album": {
         "name": "Knockoffs & Dummies",
         "url": "https://open.spotify.com/album/6R58sdlUiciF4uVrCu0Fyy"
       },
@@ -848,7 +902,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 233223,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5"
@@ -1846,7 +1900,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 195688,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
@@ -2300,7 +2354,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 172477,
       "name": "Reno",
       "url": "https://open.spotify.com/track/6NFQr0WZWtlYWm8S45MGkB"
@@ -3233,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "What's The Point In Life",
+        "url": "https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg"
+    },
+    {
+      "album": {
         "name": "Whatever Helps You Sleep",
         "url": "https://open.spotify.com/album/5mhvUUmhAWAo5niRe6kaAH"
       },
@@ -3244,7 +3316,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 154495,
       "name": "Whatever Helps You Sleep",
       "url": "https://open.spotify.com/track/54REUcGs6ZgGNe5qV9oiNr"

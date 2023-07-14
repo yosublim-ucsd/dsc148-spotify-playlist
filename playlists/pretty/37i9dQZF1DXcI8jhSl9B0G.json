@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72860,
+  "num_followers": 72858,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjhhMzc3NDdlZjRlMDc1ZTFiYjA4YzcyOGEyZmFhOGJhNGFmYzBk",
+  "snapshot_id": "MCw1NTdiN2YzMzg5NjRlMWU0NDIyNDliZGU2NmUxYWMzZmRlYmJjNjUw",
   "tracks": [
     {
       "added_at": "2023-03-08 13:00:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Carry You With Me",
-        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
       "artists": [
         {
-          "name": "Voyageur",
-          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 258053,
-      "name": "Carry You With Me",
-      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -851,18 +851,34 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "Carry You With Me",
+        "url": "https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Voyageur",
+          "url": "https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+      "duration_ms": 258053,
+      "name": "Carry You With Me",
+      "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "this is how you fall in love",
+        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
+      },
+      "artists": [
+        {
+          "name": "Parker Rose",
+          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -895,22 +911,6 @@
       "duration_ms": 190546,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
-        "name": "this is how you fall in love",
-        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
-      },
-      "artists": [
-        {
-          "name": "Parker Rose",
-          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "The Sweetest Days",
-        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "The Sweetest Days",
-      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Feel Like Clarity",
         "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 188004,
       "name": "Feel Like Clarity",
       "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "The Sweetest Days",
+        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "The Sweetest Days",
+      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
     }
   ],
   "unique_name": "Summer Daze",

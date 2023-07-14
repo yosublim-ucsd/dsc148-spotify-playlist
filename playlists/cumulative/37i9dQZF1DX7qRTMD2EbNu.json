@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "A Gain",
+        "url": "https://open.spotify.com/album/6sPWwdMfE085fLpKL7erHf"
+      },
+      "artists": [
+        {
+          "name": "Nasa Nassa",
+          "url": "https://open.spotify.com/artist/1LKGSEPso33OnJ1fZxsQVP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126723,
+      "name": "A Gain",
+      "url": "https://open.spotify.com/track/0pTGDutWcuhsHv7GFbPtJF"
+    },
+    {
+      "album": {
         "name": "A-Liens",
         "url": "https://open.spotify.com/album/74TSApsNw3pwcNsrrwKuUA"
       },
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 220076,
       "name": "DOPE & FAMOUS",
       "url": "https://open.spotify.com/track/1z6psh0SkdgbwmEauu9MSR"
@@ -1666,6 +1684,28 @@
       "duration_ms": 159268,
       "name": "Fall",
       "url": "https://open.spotify.com/track/7l9vMTJJpeRwCJh5dSSAkW"
+    },
+    {
+      "album": {
+        "name": "Trenches Babies; Kid Kwesi - Mary Jane",
+        "url": "https://open.spotify.com/album/6sBHhJTvCUeqTlyLgu1WeT"
+      },
+      "artists": [
+        {
+          "name": "Ground Up Chale",
+          "url": "https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh"
+        },
+        {
+          "name": "Kid Kwesi",
+          "url": "https://open.spotify.com/artist/2k5bJbEP7zZz1vK1p7jRPj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104680,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/0fg9wPWAwHRPg2lccpwo8o"
     },
     {
       "album": {
@@ -2001,6 +2041,28 @@
     },
     {
       "album": {
+        "name": "G-Story",
+        "url": "https://open.spotify.com/album/15Q01N2ssH6U5cMABEOquf"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170172,
+      "name": "G-Story",
+      "url": "https://open.spotify.com/track/1hpWizyPRVLB0TkuGY8DD8"
+    },
+    {
+      "album": {
         "name": "Gbedu",
         "url": "https://open.spotify.com/album/2yitQbZzLOU5MhydiXzzC0"
       },
@@ -2112,7 +2174,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 207134,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/71rECXgwu9iMFo5BdJ5ETa"
@@ -3370,7 +3432,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 200275,
       "name": "No Off Days",
       "url": "https://open.spotify.com/track/1e3fEe1Aiqs6pLWQSDrtkj"
@@ -3731,6 +3793,36 @@
     },
     {
       "album": {
+        "name": "Most High",
+        "url": "https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176770,
+      "name": "Oh Ma Linda",
+      "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
+    },
+    {
+      "album": {
         "name": "Oh Ma Linda",
         "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
       },
@@ -3754,7 +3846,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
@@ -4141,6 +4233,28 @@
     },
     {
       "album": {
+        "name": "Rap Is Still Alive",
+        "url": "https://open.spotify.com/album/72jffZIGRgX96vgyyGN04B"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281379,
+      "name": "Rap Is Still Alive",
+      "url": "https://open.spotify.com/track/1XTEByYw9AC6Xod5HAPt8f"
+    },
+    {
+      "album": {
         "name": "Rapapam",
         "url": "https://open.spotify.com/album/1poN8zaH8JCnozsI9QuWhY"
       },
@@ -4236,7 +4350,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 221105,
       "name": "Road To 5th August 7",
       "url": "https://open.spotify.com/track/060XIeSnPiGVgvGl1Osrte"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,909 songs - 3 day 21 hr 37 min
+1,910 songs - 3 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1612,6 +1612,7 @@
 | [Sunnyside Moneymakerz](https://open.spotify.com/track/6d3RrJEUhqGk4zxH48jtpS) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [High & Hungrig 3](https://open.spotify.com/album/5GhY9fvnvljahZOM4tWkHD) | 2:38 | 2023-04-29 | 2023-05-07 |
 | [SUNRISE](https://open.spotify.com/track/1L5sM725KI9QN87Eit4l37) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [SUNRISE](https://open.spotify.com/album/4ITYki0xI8vbbAMKpA5mIr) | 2:47 | 2022-09-03 | 2022-09-05 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-24 | 2022-09-18 |
+| [Sunshine](https://open.spotify.com/track/4NzErsS5WlVRFxRORXKWch) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Sunshine](https://open.spotify.com/album/7flCp6O0wRPgmG14Ip6QT9) | 2:10 | 2023-07-13 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-18 | 2022-05-18 |
 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 | 2022-08-29 | 2022-10-15 |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-23 | 2022-08-28 |
@@ -1803,7 +1804,7 @@
 | [We Made It](https://open.spotify.com/track/5IQvs70wHdurk63TnCV6ZP) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [We Made It](https://open.spotify.com/album/2jLe7prEEx98NNGjyWrYAh) | 3:31 | 2022-04-23 | 2022-05-22 |
 | [We Too Deep](https://open.spotify.com/track/49yltQawwVb9gjxIpWG7Bu) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [We Too Deep](https://open.spotify.com/album/77i1SEBqUyYo4D4Lapp4iN) | 2:22 | 2023-06-24 | 2023-07-13 |
 | [WEEE](https://open.spotify.com/track/5R2HaFZUDpMNo9RslRAkSf) | [Scorpion Gang](https://open.spotify.com/artist/4CD6drviDJ8wccEAZuc9y4), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [WEEE](https://open.spotify.com/album/1mYsebL1JtT7QkfwgTt3QK) | 2:16 | 2021-05-30 | 2021-06-06 |
-| [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-04-06 |  |
+| [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-04-06 | 2023-07-14 |
 | [Weg von mir](https://open.spotify.com/track/0h14I7cPYi1RZG6GmVpMso) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Weg von mir](https://open.spotify.com/album/2YZ136w4VENx6JTJ3cIoE6) | 2:16 | 2022-02-09 | 2022-07-31 |
 | [Weg von mir](https://open.spotify.com/track/123R3phQiND3XIiyuhPSLt) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Weg von mir](https://open.spotify.com/album/2dPHSUPDfHS1lXNs7mu6yt) | 2:16 | 2022-01-30 | 2022-02-10 |
 | [Weihnachtsbäckerei](https://open.spotify.com/track/7G46zumjrtpzV138vMfDb1) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Weihnachtsbäckerei](https://open.spotify.com/album/3PzE51Xsx8tmLkmTIeZljx) | 1:57 | 2022-12-24 | 2023-01-02 |

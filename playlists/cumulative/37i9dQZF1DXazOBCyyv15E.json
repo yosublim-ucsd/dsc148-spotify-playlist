@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: PJ Harvey",
+  "description": "The home of the best new alternative music. Cover: Jacob Collier",
   "name": "The Other List",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 161524,
       "name": "17suns",
       "url": "https://open.spotify.com/track/0UCZd39helCanZAlsWbrR1"
@@ -1866,6 +1866,24 @@
       "duration_ms": 318718,
       "name": "Any Dreams?",
       "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
+    },
+    {
+      "album": {
+        "name": "anymore",
+        "url": "https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68"
+      },
+      "artists": [
+        {
+          "name": "OC Saint",
+          "url": "https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278884,
+      "name": "anymore",
+      "url": "https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk"
     },
     {
       "album": {
@@ -6102,7 +6120,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 142870,
       "name": "Cut Too Deep",
       "url": "https://open.spotify.com/track/590j4wMJFm1tujyOW517WI"
@@ -6437,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "dazies",
+        "url": "https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264854,
+      "name": "dazies",
+      "url": "https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM"
+    },
+    {
+      "album": {
         "name": "Deadman Deadman Deadman",
         "url": "https://open.spotify.com/album/6kGZlSN6C6At36Hcxk3y84"
       },
@@ -6654,7 +6690,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 254311,
       "name": "Delicate People",
       "url": "https://open.spotify.com/track/7kIESeQJRLusBUExD0eOL6"
@@ -11767,6 +11803,24 @@
     },
     {
       "album": {
+        "name": "Hide To Seek",
+        "url": "https://open.spotify.com/album/22Ojaa8G95NjIiNigsmyeU"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286890,
+      "name": "Hide To Seek",
+      "url": "https://open.spotify.com/track/6UNqHOA9AkwZqZ0PEVbWfE"
+    },
+    {
+      "album": {
         "name": "Hideous",
         "url": "https://open.spotify.com/album/6s5GbyGHzt8qXx0eb0IAN0"
       },
@@ -15747,6 +15801,24 @@
     },
     {
       "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/3UigxFdu9hQd7rL33dAJCq"
+      },
+      "artists": [
+        {
+          "name": "Belle Mt.",
+          "url": "https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194982,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/763i2o35BkME4KKnHysIty"
+    },
+    {
+      "album": {
         "name": "u the real star here",
         "url": "https://open.spotify.com/album/0luZl88eJJKPPGq4W4ITUf"
       },
@@ -17596,7 +17668,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 226505,
       "name": "My Lover Is Sleeping",
       "url": "https://open.spotify.com/track/0Y6DKikmdIIpDBUhUuxa8R"
@@ -18364,7 +18436,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
@@ -18606,7 +18678,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
@@ -21380,7 +21452,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 260133,
       "name": "Rich Girls",
       "url": "https://open.spotify.com/track/0MIEzHpnNmr0ymtJe5m2kt"
@@ -22532,7 +22604,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 183557,
       "name": "see u later x",
       "url": "https://open.spotify.com/track/2VAu4On7GaTlJ88T2fXx1S"
@@ -23521,6 +23593,24 @@
     },
     {
       "album": {
+        "name": "Snakes",
+        "url": "https://open.spotify.com/album/7N2epZ72hbE1JzrezuOwp1"
+      },
+      "artists": [
+        {
+          "name": "TTRRUUCES",
+          "url": "https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247769,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/5DynpF8hwm3QYiaRr4V4S4"
+    },
+    {
+      "album": {
         "name": "Snow Globes",
         "url": "https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s"
       },
@@ -23673,6 +23763,24 @@
     },
     {
       "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
+      },
+      "artists": [
+        {
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155906,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
+    },
+    {
+      "album": {
         "name": "Sofa Kings",
         "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
@@ -23706,6 +23814,24 @@
       "duration_ms": 196317,
       "name": "Sofa King",
       "url": "https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J"
+    },
+    {
+      "album": {
+        "name": "Soft Like a Flower",
+        "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196273,
+      "name": "Soft Like a Flower",
+      "url": "https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj"
     },
     {
       "album": {
@@ -24544,7 +24670,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 248760,
       "name": "STFU",
       "url": "https://open.spotify.com/track/2joicPcq4DNcgO5NedEsNW"
@@ -25285,6 +25411,24 @@
     },
     {
       "album": {
+        "name": "Sweet Bonita",
+        "url": "https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "Sweet Bonita",
+      "url": "https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83"
+    },
+    {
+      "album": {
         "name": "Sweet Isolation (Metropole Orkest)",
         "url": "https://open.spotify.com/album/1Bfdlb132DDKkNK946T9rC"
       },
@@ -25732,6 +25876,24 @@
       "duration_ms": 277726,
       "name": "Tectonic",
       "url": "https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY"
+    },
+    {
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "album": {
@@ -26281,6 +26443,24 @@
     },
     {
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
+    },
+    {
+      "album": {
         "name": "The Hearse",
         "url": "https://open.spotify.com/album/1yXGBtlnQWKE7EoK9Wo42S"
       },
@@ -26596,6 +26776,24 @@
       "duration_ms": 214305,
       "name": "The Starlight Lounge",
       "url": "https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK"
+    },
+    {
+      "album": {
+        "name": "The Trench Coat Museum",
+        "url": "https://open.spotify.com/album/08m3R76Yfe2weYDQ4sMmtG"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491538,
+      "name": "The Trench Coat Museum",
+      "url": "https://open.spotify.com/track/784HPjRj1dFr1XfdEnJfI0"
     },
     {
       "album": {
@@ -27206,7 +27404,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 218586,
       "name": "To Be Honest with You",
       "url": "https://open.spotify.com/track/5ZmN049Brq1Gv6NUAJK75w"
@@ -28825,6 +29023,24 @@
     },
     {
       "album": {
+        "name": "We're on an Island, but it's the UK",
+        "url": "https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168860,
+      "name": "We're on an Island, but it's the UK",
+      "url": "https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB"
+    },
+    {
+      "album": {
         "name": "we2assume2many2roles",
         "url": "https://open.spotify.com/album/76inNEGXLfga5cPynImgfy"
       },
@@ -28898,6 +29114,24 @@
       "duration_ms": 151194,
       "name": "Well",
       "url": "https://open.spotify.com/track/0rU1if6k3vfA6wigLMbxln"
+    },
+    {
+      "album": {
+        "name": "WELLLL",
+        "url": "https://open.spotify.com/album/6RFuKQSGuvj6f0l9A7wnbm"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "WELLLL",
+      "url": "https://open.spotify.com/track/4rPv8eZH6ABfkrtxxHHtV4"
     },
     {
       "album": {
@@ -28992,6 +29226,24 @@
       "duration_ms": 209999,
       "name": "What I Won't Do",
       "url": "https://open.spotify.com/track/0KywJzh7skxpY4Rc4N5Ygy"
+    },
+    {
+      "album": {
+        "name": "What if I jump from a Bridge?",
+        "url": "https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124861,
+      "name": "What if I jump from a Bridge?",
+      "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
     },
     {
       "album": {
@@ -29194,6 +29446,28 @@
       "duration_ms": 206734,
       "name": "When You Dress Up",
       "url": "https://open.spotify.com/track/1dy0yjSUuYOqirPLWm2sXy"
+    },
+    {
+      "album": {
+        "name": "Where Are Your Kids Tonight? (feat. John Grant)",
+        "url": "https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        },
+        {
+          "name": "John Grant",
+          "url": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326093,
+      "name": "Where Are Your Kids Tonight? (feat. John Grant)",
+      "url": "https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Paris Texas
 
-505 songs - 1 day 0 hr 49 min
+506 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Bobby Portis](https://open.spotify.com/track/3bycwKBsruOfef54KaR45G) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Bobby Portis](https://open.spotify.com/album/63OMbxWlmp6Ei2nmNnZDoL) | 1:37 | 2023-04-28 | 2023-06-17 |
 | [Bossier City Kidnap Victims](https://open.spotify.com/track/0prOblscRTUplNzf9DabhP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Winter Season \(1989\-1990\)](https://open.spotify.com/album/0mcxayFL3acXH5hbwe4VVK) | 2:43 | 2023-05-26 | 2023-06-10 |
 | [Bout It](https://open.spotify.com/track/16erTWf60Z0oSaL1t1Mb2D) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [vol\. ii](https://open.spotify.com/album/514gRyBabmSml58MSBwNHG) | 3:39 | 2023-02-10 | 2023-04-01 |
-| [brackish \- cd.mp3 remix](https://open.spotify.com/track/4SvuhyEpzCVgYj3zxHc8N9) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [brackish \(cd.mp3 remix\)](https://open.spotify.com/album/4ol1hhNYFORftxqjL54Xqv) | 2:34 | 2023-05-12 |  |
+| [brackish \(cd.mp3 remix\)](https://open.spotify.com/track/3fZqGvQpz9bCnXRMtSS8Bu) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [brackish \(cd.mp3 remix\)](https://open.spotify.com/album/12YqrnR5VVtGW80vk73obU) | 2:34 | 2023-07-07 |  |
+| [brackish \- cd.mp3 remix](https://open.spotify.com/track/4SvuhyEpzCVgYj3zxHc8N9) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj) | [brackish \(cd.mp3 remix\)](https://open.spotify.com/album/4ol1hhNYFORftxqjL54Xqv) | 2:34 | 2023-05-12 | 2023-07-14 |
 | [Brand New!](https://open.spotify.com/track/0YMec1FtMPynDbCGsRhONl) | [Hudi](https://open.spotify.com/artist/6yeLse5F06fsz7hzqDIn5y) | [Brand New!](https://open.spotify.com/album/36RkGGsGlRzGQyrw025EAs) | 1:34 | 2023-02-03 | 2023-05-06 |
 | [Brandy, Aaliyah](https://open.spotify.com/track/1k4MZpPP7oMgBrAr2WzF6z) | [B\. Cool\-Aid](https://open.spotify.com/artist/2Ng5YIxfFxELV3scQVISlB), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Ahwlee](https://open.spotify.com/artist/5vNXUBHObHA5ToiPJjtmxh), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi), [Denmark Vessey](https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ), [Jimetta Rose](https://open.spotify.com/artist/7FjGU7aqZcwNk3ICLLmcSX), [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw), [MoRuf](https://open.spotify.com/artist/4CDdX65xiVUgqF6VfoXXzz), [Kamilah](https://open.spotify.com/artist/4cdHZ6W44hy0a0cyylUAXn) | [Leather Blvd.](https://open.spotify.com/album/5wXKwBJT6rmrT0uuGngQtj) | 4:54 | 2023-03-31 | 2023-06-10 |
 | [Breath Control \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/560mGiZ4IfyqFf6MUfxjsq) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Breath Control](https://open.spotify.com/album/6mrRq7eWSz9KRZZ5jdiUx1) | 2:27 | 2022-07-01 | 2022-10-08 |

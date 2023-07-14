@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,104 likes - 176 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,261 likes - 176 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,19 +18,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 8 | [On The Pull](https://open.spotify.com/track/6zKrDm8h18jJxPMbMSUGMs) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [On The Pull](https://open.spotify.com/album/5mHSvzcAKCPYR9Nm07SMMW) | 2:35 |
 | 9 | [Shizaru](https://open.spotify.com/track/2vi8nrpy6kb7rJ1ZMN3Ces) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Shizaru](https://open.spotify.com/album/6lITOJOFvq5HUGwWIBIe3r) | 2:22 |
 | 10 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 |
-| 11 | [flirty talk](https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [flirty talk](https://open.spotify.com/album/7AFrOWKoPKNhLpbwqJPbLz) | 2:19 |
-| 12 | [Always A Princess](https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Always A Princess](https://open.spotify.com/album/0zdJKeVbgqW1sMtIg4a0I9) | 2:36 |
-| 13 | [come with me](https://open.spotify.com/track/5RtDrJTocq5ubb0znUUYAP) | [SUNSY](https://open.spotify.com/artist/6QTuqSeb1X7zUghAQO8312) | [come with me](https://open.spotify.com/album/0x5nHYKK9ZxwOG638YmkSj) | 2:32 |
-| 14 | [Santorini](https://open.spotify.com/track/1bWVXB3toBwp4mFsH1VxKY) | [Blé Hill](https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX) | [Santorini](https://open.spotify.com/album/3JaHqvBeTANBv0UVZnThmn) | 2:24 |
-| 15 | [Mellow Mojito](https://open.spotify.com/track/60MRrmns8voj2NjwuwYiSB) | [Nelvita](https://open.spotify.com/artist/5V3TWBqxSeIr2NcvPMketf) | [Mellow Mojito](https://open.spotify.com/album/208kSvo3QEBAPGovMnLz41) | 2:40 |
-| 16 | [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 |
-| 17 | [Northshire](https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Northshire](https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN) | 2:30 |
-| 18 | [bite](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [bite](https://open.spotify.com/album/5wXCltGIpBkxiLxnXk6NNb) | 3:08 |
-| 19 | [Flight Home](https://open.spotify.com/track/0T6hXxaVQ3SKvnMweUX9P8) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Flight Home](https://open.spotify.com/album/4x8lHP9jnahY4epxlwpG5P) | 4:06 |
-| 20 | [Ciel Bleu](https://open.spotify.com/track/7pynYKHTiuz0ORzknVt6Pw) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Ciel Bleu](https://open.spotify.com/album/1YuuqxsJZFD7QvsGhDfZSV) | 2:45 |
-| 21 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 |
-| 22 | [That kind](https://open.spotify.com/track/3ehPq3MgiAnHVovfD72gDz) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [That kind](https://open.spotify.com/album/0Q784JzKwcsJ3uGNNFJSxO) | 3:02 |
-| 23 | [Unmistakable](https://open.spotify.com/track/6K4L9S8gnO3tXmlghu58Wf) | [Mauro Bocci](https://open.spotify.com/artist/5AjW1zukyf8YxUHVWOyd8s) | [Unmistakable](https://open.spotify.com/album/2aeyKiQSO6Ja0pq9WVP6IL) | 3:49 |
+| 11 | [Port Ella](https://open.spotify.com/track/6Q6gpf2CqaZU3on49r1NcU) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Pomaque](https://open.spotify.com/album/7ya9jIowdJzZlk01WLo2IX) | 3:46 |
+| 12 | [flirty talk](https://open.spotify.com/track/212O37gB5Oh2RIKOhXXn8m) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [flirty talk](https://open.spotify.com/album/7AFrOWKoPKNhLpbwqJPbLz) | 2:19 |
+| 13 | [Always A Princess](https://open.spotify.com/track/5jNtuDKtevlFf9FT51ETsU) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Always A Princess](https://open.spotify.com/album/0zdJKeVbgqW1sMtIg4a0I9) | 2:36 |
+| 14 | [come with me](https://open.spotify.com/track/5RtDrJTocq5ubb0znUUYAP) | [SUNSY](https://open.spotify.com/artist/6QTuqSeb1X7zUghAQO8312) | [come with me](https://open.spotify.com/album/0x5nHYKK9ZxwOG638YmkSj) | 2:32 |
+| 15 | [Santorini](https://open.spotify.com/track/1bWVXB3toBwp4mFsH1VxKY) | [Blé Hill](https://open.spotify.com/artist/2Hv0rhYRdL06odAza3vamX) | [Santorini](https://open.spotify.com/album/3JaHqvBeTANBv0UVZnThmn) | 2:24 |
+| 16 | [Mellow Mojito](https://open.spotify.com/track/60MRrmns8voj2NjwuwYiSB) | [Nelvita](https://open.spotify.com/artist/5V3TWBqxSeIr2NcvPMketf) | [Mellow Mojito](https://open.spotify.com/album/208kSvo3QEBAPGovMnLz41) | 2:40 |
+| 17 | [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 |
+| 18 | [Northshire](https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Northshire](https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN) | 2:30 |
+| 19 | [bite](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [bite](https://open.spotify.com/album/5wXCltGIpBkxiLxnXk6NNb) | 3:08 |
+| 20 | [Flight Home](https://open.spotify.com/track/0T6hXxaVQ3SKvnMweUX9P8) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Flight Home](https://open.spotify.com/album/4x8lHP9jnahY4epxlwpG5P) | 4:06 |
+| 21 | [Ciel Bleu](https://open.spotify.com/track/7pynYKHTiuz0ORzknVt6Pw) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Ciel Bleu](https://open.spotify.com/album/1YuuqxsJZFD7QvsGhDfZSV) | 2:45 |
+| 22 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 |
+| 23 | [That kind](https://open.spotify.com/track/3ehPq3MgiAnHVovfD72gDz) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [That kind](https://open.spotify.com/album/0Q784JzKwcsJ3uGNNFJSxO) | 3:02 |
 | 24 | [twisted torso](https://open.spotify.com/track/2sZOurwf8lDWXIeYYDLq7n) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [twisted torso](https://open.spotify.com/album/1WGMMXqaSQleZByPkk3rp7) | 2:46 |
 | 25 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 |
 | 26 | [FourTwenty](https://open.spotify.com/track/59nnEAlpfTItpuIfhsucbf) | [Mijjo](https://open.spotify.com/artist/0RCnXaNg2V72pjh7szTSNG) | [FourTwenty](https://open.spotify.com/album/7iKEO0B7yXtgFoJtCxkxRY) | 3:00 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 175 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 |
 | 176 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 |
 
-Snapshot ID: `MCxiMDgyNWI3Njg0Y2ZhNzQ2YzZlMmMzYzVkMTkyOTU5Y2UxMDE2NWJj`
+Snapshot ID: `MCw1MjI1NTVlMGIyMmQwY2U3YzlhZWFmODNiY2NhMjlkMGRjNDFiZjI5`

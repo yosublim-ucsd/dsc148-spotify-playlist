@@ -4,7 +4,7 @@
 
 > Beautiful bansuri flute and sitar from India.
 
-76 songs - 6 hr 12 min
+77 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ganga Bliss](https://open.spotify.com/track/1sjQBblq55bICdWYxXWmSQ) | [Harshit Shankar](https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R) | [Ganga Bliss](https://open.spotify.com/album/2zfyDcGE7MzVVU7k0hlQwG) | 2:02 | 2023-03-09 |  |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-03-09 |  |
 | [Kirwani](https://open.spotify.com/track/4UEde1mdBJZhBkK36imngG) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x), [Abhishek Borkar](https://open.spotify.com/artist/0gasFSqcbjVLnwk4pAeaD8) | [Relaxing Ragas, Vol\. 2](https://open.spotify.com/album/6Z0jzXiQFhTwGAjd7IWVNe) | 3:07 | 2023-03-09 |  |
+| [Krishna's Bansuri](https://open.spotify.com/track/5UkTQNURKXrJ0lKRns4Vxi) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Krishna's Bansuri](https://open.spotify.com/album/2AqZxQZwDWHCcFbLqrPunj) | 3:53 | 2023-07-13 |  |
 | [Light of Life](https://open.spotify.com/track/7I3kU9x5m9fRjaD65u7KjD) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Gift of Love](https://open.spotify.com/album/5U3YRKw8YVOjw6Rl6N2O6m) | 3:08 | 2023-03-09 |  |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-03-09 |  |
 | [Love Is My Cure](https://open.spotify.com/track/4kqekA8aWuYbvbn2WGecPW) | [Iftekharul Anam](https://open.spotify.com/artist/49tDgukB5sliWr6MfgS0SY), [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Love Is My Cure](https://open.spotify.com/album/3CQJtBcKv6o2yz7UrYLoV8) | 5:08 | 2023-03-09 |  |
@@ -51,7 +52,7 @@
 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 | 2023-03-09 |  |
 | [Peaceful Morning](https://open.spotify.com/track/0kJ4jlKhL4yJsfhwRwbZI9) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Peaceful Morning](https://open.spotify.com/album/72kI5WG5xYa1YwFhVzC868) | 6:08 | 2023-03-09 |  |
 | [Peaceful Rest](https://open.spotify.com/track/0qtRtaSRRt95J7X7W8BLa6) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Sleep Relaxation for Babies](https://open.spotify.com/album/3GVJJCdEvoFlnho1uHKKLh) | 5:12 | 2023-03-09 |  |
-| [Pranayama](https://open.spotify.com/track/7rgoLtRGUqOZYXMYuhdiiZ) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Pranayama](https://open.spotify.com/album/5nda23NcNAPAuzs3j8gKkK) | 3:58 | 2023-03-09 |  |
+| [Pranayama](https://open.spotify.com/track/7rgoLtRGUqOZYXMYuhdiiZ) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Pranayama](https://open.spotify.com/album/5nda23NcNAPAuzs3j8gKkK) | 3:58 | 2023-03-09 | 2023-07-14 |
 | [Puriya Dhanashri](https://open.spotify.com/track/4sLPOn5JQyXvdmFxk7M877) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 3](https://open.spotify.com/album/38BIm4DMyHnJhj4c0tjumL) | 2:19 | 2023-03-09 |  |
 | [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 | 2023-03-09 |  |
 | [Raag Bhairavi \- Alap](https://open.spotify.com/track/5OwdGNpfx8D74GtHK3aaiH) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Ghate](https://open.spotify.com/artist/7ETcoV7VniCB1EvWjtbMMU), [Pt\. Bhawani Shankar](https://open.spotify.com/artist/483a0T0I96l0BLsJILbOVF) | [Call of the Divine \- Magical Flute of Rakesh Chaurasia](https://open.spotify.com/album/599KZQj3bgW8DtIVaxNSjB) | 3:37 | 2023-03-09 |  |

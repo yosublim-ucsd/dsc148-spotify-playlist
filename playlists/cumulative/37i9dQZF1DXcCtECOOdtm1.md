@@ -4,7 +4,7 @@
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-76 songs - 6 hr 13 min
+77 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [昨日見た夢のように](https://open.spotify.com/track/5BLthvYT3hObKCrkfYBmeM) | [Eiko Hiraiwa](https://open.spotify.com/artist/4VPCefGLDWC3ACrhMytyKS) | [Airium](https://open.spotify.com/album/4B6cyk7nZNcUYV5Bxerxyo) | 5:32 | 2021-04-15 | 2022-07-29 |
 | [淡い季節のサングラス](https://open.spotify.com/track/2LVc1ovrUpZiB7Q2SY7BvV) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/710F6Uqw8f953NxyS3V4iK) | 4:47 | 2021-04-15 |  |
 | [私達を信じていて](https://open.spotify.com/track/4xu0gZ96zx1G7UdajUGDqD) | [Cindy](https://open.spotify.com/artist/2ZMPUpiuAKAkzPdMj6qEX0) | [Angel Touch](https://open.spotify.com/album/1Cm55AdMDqdZv9dxiJmB5m) | 5:52 | 2021-04-15 |  |
-| [素直になりたい](https://open.spotify.com/track/67dgiLbwMnKvey0fy4rJgW) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [DRAWING](https://open.spotify.com/album/1yLXjq2T0UZdk2iCY1Qor5) | 4:38 | 2021-04-15 |  |
+| [素直になりたい](https://open.spotify.com/track/4aapfga5ZFZrFbFbjU2YTA) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [City Pop Essetials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 4:38 | 2021-04-15 |  |
+| [素直になりたい](https://open.spotify.com/track/67dgiLbwMnKvey0fy4rJgW) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [DRAWING](https://open.spotify.com/album/1yLXjq2T0UZdk2iCY1Qor5) | 4:38 | 2021-04-15 | 2023-07-14 |
 | [花を買う](https://open.spotify.com/track/249dVAKEIQIoDgffbaosC3) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/6rMkwzwdk57svdp48vmecg) | 3:59 | 2021-04-15 | 2022-07-29 |
 | [花を買う](https://open.spotify.com/track/4U1UGoETmiVkDWYjvXozy0) | [Mikiko Noda](https://open.spotify.com/artist/6rAxZysBIWlwb9wTPPyXwp) | [Rose C'est La Vie](https://open.spotify.com/album/710F6Uqw8f953NxyS3V4iK) | 3:59 | 2021-04-15 |  |
 | [陽の当たる大通り](https://open.spotify.com/track/5sKcnKSG99NlP0mahUAwx8) | [ピチカート・ファイヴ](https://open.spotify.com/artist/0IQalWuw5NBk1xXG5GK0Bv) | [THE BAND OF 20TH CENTURY: Nippon Columbia Years 1991\-2001](https://open.spotify.com/album/6XXYHc8PtLy885hQNeA4gC) | 4:14 | 2021-04-15 |  |

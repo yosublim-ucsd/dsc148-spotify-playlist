@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,862 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,928 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 40 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 |
 | 41 | [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 |
 | 42 | [Vem Me Encontrar](https://open.spotify.com/track/2jAmXEIGktQSy53MXns4G2) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Vem Me Encontrar](https://open.spotify.com/album/78KW27Ao3Z0xeoWY9Q9xpz) | 2:53 |
-| 43 | [te decorei em mim](https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [te decorei em mim](https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy) | 2:57 |
+| 43 | [Eu, Você e Essa Canção](https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Eu, Você e Essa Canção](https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg) | 2:47 |
 | 44 | [Terminei](https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Terminei](https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g) | 2:47 |
-| 45 | [Eu, Você e Essa Canção](https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC) | [Pedro Pascual](https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Eu, Você e Essa Canção](https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg) | 2:47 |
+| 45 | [te decorei em mim](https://open.spotify.com/track/1wcQ2sOqMhFzLQwyHKwV4r) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [te decorei em mim](https://open.spotify.com/album/2k8NmU11Sr7oF9QTQKAVxy) | 2:57 |
 | 46 | [Virginiana](https://open.spotify.com/track/6tR1f269nLcaN5bSVimgT8) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/2p5dEvoXbC6XmakeJg1Vur) | 2:33 |
-| 47 | [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 |
-| 48 | [isso é tão a gente :\)](https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [isso é tão a gente :\)](https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2) | 3:10 |
-| 49 | [Amanhã](https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Amanhã](https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT) | 2:38 |
+| 47 | [Amanhã](https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Amanhã](https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT) | 2:38 |
+| 48 | [Mundo de Papel](https://open.spotify.com/track/0ZRsxwz6faJVZrdUyz6Hmj) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar](https://open.spotify.com/album/4yPnrxjHCZCMrxtnZICrZQ) | 2:13 |
+| 49 | [isso é tão a gente :\)](https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [isso é tão a gente :\)](https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2) | 3:10 |
 | 50 | [nós](https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [nós](https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC) | 2:46 |
 | 51 | [Saudade](https://open.spotify.com/track/42gnV9JE50pObR1USs9v4b) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Saudade](https://open.spotify.com/album/4cK5SEawAvb3fL5lPlhJiX) | 2:39 |
 | 52 | [Boate Qualquer](https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Paixão Nacional](https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz) | 3:07 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 54 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
 | 55 | [Esperando Cê Voltar](https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Esperando Cê Voltar](https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q) | 2:15 |
 | 56 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 |
-| 57 | [foi no são joão](https://open.spotify.com/track/0CVlp2hDhmhkN5ugXDipFy) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [foi no são joão](https://open.spotify.com/album/1k1DFfnqkWOXKcUdWAllhl) | 3:10 |
-| 58 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
+| 57 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
+| 58 | [foi no são joão](https://open.spotify.com/track/0CVlp2hDhmhkN5ugXDipFy) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [foi no são joão](https://open.spotify.com/album/1k1DFfnqkWOXKcUdWAllhl) | 3:10 |
 | 59 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 |
 | 60 | [Lua Vai, Lua Vem](https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS) | [Thaïs Morell](https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB) | [Lua Vai, Lua Vem](https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX) | 3:36 |
 | 61 | [Como cê tá?](https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Friozinho](https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 69 | [Foge de Casa](https://open.spotify.com/track/2st8aw34g1c7PCAG97qou7) | [Rebeca](https://open.spotify.com/artist/1n50LGC4ZlJrgHFjsurNWN) | [Foge de Casa](https://open.spotify.com/album/6y4GeN8TM5siNNU3M8TG8T) | 3:39 |
 | 70 | [sempre com você](https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [sempre com você](https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf) | 3:11 |
 
-Snapshot ID: `MCxjNmM2ZWM0ZDhhODVmZDVjYmM2OTY5ZGM1MjU5ZDExZmViMmZiN2Nk`
+Snapshot ID: `MCw3MTZjZWY4ZGE1MjI2OTRiZjVhYTI5ZjExZDNhOTQ0Yjg5NzZjNTQ1`

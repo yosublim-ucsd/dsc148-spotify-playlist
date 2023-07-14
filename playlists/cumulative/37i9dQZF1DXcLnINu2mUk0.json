@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197142,
       "name": "A Minha Rua",
       "url": "https://open.spotify.com/track/4oITMTM8zu3ZhHqecdshb1"
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 176000,
       "name": "Foca Em Mim",
       "url": "https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV"
@@ -3671,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/1sOcSfwkwJjWF2Bu3gL8eO"
+      },
+      "artists": [
+        {
+          "name": "Parras",
+          "url": "https://open.spotify.com/artist/4kbPiFbjQFAshuG6rioE8u"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178313,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/7ivBImfhmqXKUIF3pR0rFk"
+    },
+    {
+      "album": {
         "name": "Madruga",
         "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
       },
@@ -4246,7 +4264,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 231168,
       "name": "N1",
       "url": "https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw"
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "N\u00e3o Consigo",
       "url": "https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l"
@@ -5002,7 +5020,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 141818,
       "name": "Parque",
       "url": "https://open.spotify.com/track/1VWBwCl2jdElZfRuwqjP5c"
@@ -5050,6 +5068,24 @@
       "duration_ms": 216000,
       "name": "Party Hard",
       "url": "https://open.spotify.com/track/3x1lrn6EKBSM6yRXQwgzQX"
+    },
+    {
+      "album": {
+        "name": "Pick Up The Phone",
+        "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215730,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ"
     },
     {
       "album": {
@@ -6800,7 +6836,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 147351,
       "name": "T\u00e1 Pedir",
       "url": "https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd"

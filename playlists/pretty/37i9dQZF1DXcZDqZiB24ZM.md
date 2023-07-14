@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,704 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,710 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 56 | [Badman](https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Bonhomme Pendu \(Chapitre 3\)](https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn) | 3:26 |
 | 57 | [Saint Laurent](https://open.spotify.com/track/3alXnI2ImIwAUoTYMjm26H) | [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [Saint Laurent](https://open.spotify.com/album/6uqW9dsiR5MDJcRTzhw3MD) | 3:35 |
 | 58 | [Éléphant](https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 4:43 |
-| 59 | [Entre toi et moi](https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Silence de mort](https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU) | 3:09 |
-| 60 | [Dis Moi](https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Dis moi](https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW) | 4:07 |
+| 59 | [Dis Moi](https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Dis moi](https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW) | 4:07 |
+| 60 | [Entre toi et moi](https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8) | [Silence de mort](https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU) | 3:09 |
 | 61 | [Légendaire](https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB) | [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [ÉlévaZIIION \(Société distincte\)](https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8) | 4:53 |
 | 62 | [5 dans la whip](https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [5 dans la whip](https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C) | 3:26 |
 | 63 | [OuinOuin](https://open.spotify.com/track/0XAwYJTIEkEiyvSgvWdLYV) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb) | [Bateaux Colombiens](https://open.spotify.com/album/1BK5xX91CkmNJK5VmyZ4wT) | 4:11 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 65 | [On Fouette](https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Soft](https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF) | [51tr4p Fr4p50](https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG) | 3:46 |
 | 66 | [Oh Ma Loca](https://open.spotify.com/track/3RcwT1owoV6QE9zrXUk0b6) | [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Oh Ma Loca](https://open.spotify.com/album/4lkzEyFaYSXp5pTm1W2VRC) | 3:28 |
 | 67 | [G\-code](https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Cash Out](https://open.spotify.com/album/0IylneHtusMBsWufSs54aE) | 2:51 |
-| 68 | [Explosif](https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Gesamtkunstwerk](https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW) | 8:01 |
-| 69 | [Non Merci](https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Non Merci](https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA) | 3:31 |
+| 68 | [Non Merci](https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC) | [Corops](https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s) | [Non Merci](https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA) | 3:31 |
+| 69 | [Explosif](https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Gesamtkunstwerk](https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW) | 8:01 |
 | 70 | [La purge](https://open.spotify.com/track/4IsyXZc89MKb0AgjiejaYB) | [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Silence de mort](https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU) | 3:28 |
 | 71 | [Pavel Bure](https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5) | [LES ANTICIPATEURS](https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [T1zzo](https://open.spotify.com/artist/4n4dNfR2DGdbQSIgasNHby) | [Temple de la Renommée](https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A) | 3:24 |
 | 72 | [La famille](https://open.spotify.com/track/4HfhNCdKL34i9y118KS41T) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Le sens des paroles](https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
 | 100 | [Loin](https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:33 |
 
-Snapshot ID: `MCw3Nzc5ZWFjOWU1M2FlMjg1NDk3NTk2OTgxOGY5MzUxYjc5OWFlNjgz`
+Snapshot ID: `MCw3MTY3ODkyOTE4YjBlZTJhMDk1ZjBmMzJkMjU2Njg3NDRlNTVjMjkx`

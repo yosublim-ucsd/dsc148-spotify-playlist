@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY?si=s3yceP5XSAy96iqbxRfhGQ\">Bravo Le Roux</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT?si=63H1p_2FQb28BOIIZUZL9w\">Doctor Dope</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -390,7 +390,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 210207,
       "name": "Amatshe",
       "url": "https://open.spotify.com/track/1aiAtLoft4PcGAUjoZbzBI"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 277048,
       "name": "Ezantsi",
       "url": "https://open.spotify.com/track/31hEwgmv5Mqn7djV4b7hfk"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 164196,
       "name": "Give A Little Kindness",
       "url": "https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj"
@@ -3508,7 +3508,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 373999,
       "name": "Kula Ku Nghena Mani",
       "url": "https://open.spotify.com/track/70xrzHgJPZkobd8e64c8GW"
@@ -6001,6 +6001,28 @@
     },
     {
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/5xQIpRYzTsw80u0oXSW4rA"
+      },
+      "artists": [
+        {
+          "name": "Oufadafada",
+          "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325872,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/4OfvnDgvA6yP6en7jJM752"
+    },
+    {
+      "album": {
         "name": "Pula",
         "url": "https://open.spotify.com/album/7BdWpojZ2rYzLZUeMXOJtv"
       },
@@ -6144,7 +6166,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 298821,
       "name": "Remake",
       "url": "https://open.spotify.com/track/4G5XT0rNMKVm1pkLjcED51"
@@ -6188,6 +6210,28 @@
       "duration_ms": 300773,
       "name": "S'bali",
       "url": "https://open.spotify.com/track/3iCc4j2qlTvUmsVAtjpx2H"
+    },
+    {
+      "album": {
+        "name": "S'thandwasam",
+        "url": "https://open.spotify.com/album/0xbXELr8inqTojtgjDRz9g"
+      },
+      "artists": [
+        {
+          "name": "Philisiwe Ntintili",
+          "url": "https://open.spotify.com/artist/1lTnVO0bKFKuWb9ddFmai9"
+        },
+        {
+          "name": "Novexbeats",
+          "url": "https://open.spotify.com/artist/213bIAt6ywdlreUnYyV6Db"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247578,
+      "name": "S'thandwasam",
+      "url": "https://open.spotify.com/track/41Ja01RLcrxmoU18IecKJA"
     },
     {
       "album": {
@@ -6734,7 +6778,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 439224,
       "name": "SizoPhumelela",
       "url": "https://open.spotify.com/track/482Lu9U8xddaJYA6rpgOjm"
@@ -8031,6 +8075,24 @@
     },
     {
       "album": {
+        "name": "Wam",
+        "url": "https://open.spotify.com/album/3Ob96QPttduONODAgtmSFO"
+      },
+      "artists": [
+        {
+          "name": "Darkie Fiction",
+          "url": "https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ungowam",
+      "url": "https://open.spotify.com/track/751GvmaHmkKabdGXgYNZfj"
+    },
+    {
+      "album": {
         "name": "Unobubele",
         "url": "https://open.spotify.com/album/055MfShFsEJ6bfXh2vPVkM"
       },
@@ -8124,6 +8186,28 @@
       "duration_ms": 250434,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/4eGBrIPFNNILwvHU5THfQj"
+    },
+    {
+      "album": {
+        "name": "Uthando Aluboni",
+        "url": "https://open.spotify.com/album/1GYtvOSYmQ2nUcWRg0zzsH"
+      },
+      "artists": [
+        {
+          "name": "Blaq Major",
+          "url": "https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc"
+        },
+        {
+          "name": "Charlotte Lyf",
+          "url": "https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293694,
+      "name": "Uthando Aluboni",
+      "url": "https://open.spotify.com/track/3d9HoMtIQEC1PktOg2ownJ"
     },
     {
       "album": {
@@ -8517,6 +8601,32 @@
     },
     {
       "album": {
+        "name": "Wanele",
+        "url": "https://open.spotify.com/album/1ptuvBAQZJfLgIyC2W4iQ1"
+      },
+      "artists": [
+        {
+          "name": "Blaqnick & MasterBlaq",
+          "url": "https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF"
+        },
+        {
+          "name": "Paula Sibiya",
+          "url": "https://open.spotify.com/artist/5mEZ8Btz4Qm529ID3lpoUv"
+        },
+        {
+          "name": "DSax",
+          "url": "https://open.spotify.com/artist/1kMLqA8FdK8kAp25mPmhgd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Wanele",
+      "url": "https://open.spotify.com/track/4OAAdlGqGBfTmKszKEuWj2"
+    },
+    {
+      "album": {
         "name": "Wela (Unplugged)",
         "url": "https://open.spotify.com/album/2uM4vgqnUgypsZOzFTQg52"
       },
@@ -8854,6 +8964,36 @@
       "duration_ms": 184746,
       "name": "Zibonakalise - Radio Edit",
       "url": "https://open.spotify.com/track/2gT7Xwkd5S5xkbLfGAvMuA"
+    },
+    {
+      "album": {
+        "name": "Zinyanya Zami",
+        "url": "https://open.spotify.com/album/4rfdkFgKUyyqbavnQrxcMM"
+      },
+      "artists": [
+        {
+          "name": "Omit ST",
+          "url": "https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        },
+        {
+          "name": "Stacy",
+          "url": "https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454369,
+      "name": "Zinyanya Zami",
+      "url": "https://open.spotify.com/track/0B0UNUK5N6bqtMYQBGd6oD"
     },
     {
       "album": {

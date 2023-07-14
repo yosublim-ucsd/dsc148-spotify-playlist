@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf?si=MFAdMVskQmuwuvCWvhDE7A\">Georic Lomas</a> & <a href=\"https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ?si=5e9k2j5vSoO_YMlIxDV7wQ\">Jemma Catherine</a>",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=rD3Hdnv7R2ODs0awLsZH5g\">JAN JAN JAN</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 240000,
       "name": "Bella Musica (feat. Charlize Berg)",
       "url": "https://open.spotify.com/track/5awsdr979EXsuEwNASLExi"
@@ -682,6 +682,24 @@
       "duration_ms": 252452,
       "name": "Bittereinder",
       "url": "https://open.spotify.com/track/4sQp6xzP0lGJs1B1oQ9WtU"
+    },
+    {
+      "album": {
+        "name": "Bittermaan",
+        "url": "https://open.spotify.com/album/7xUAcOBHXp17f9eXXaYE0V"
+      },
+      "artists": [
+        {
+          "name": "Die donker kind",
+          "url": "https://open.spotify.com/artist/75DO8t7I030BGm8Ga9dh6v"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182496,
+      "name": "Bittermaan",
+      "url": "https://open.spotify.com/track/75oNKMzTCqD4VyY6Rog14Q"
     },
     {
       "album": {
@@ -826,6 +844,24 @@
       "duration_ms": 209410,
       "name": "Boerenooi",
       "url": "https://open.spotify.com/track/6wkvjsw6zfFdWLwcEH12E8"
+    },
+    {
+      "album": {
+        "name": "Bokke",
+        "url": "https://open.spotify.com/album/1H5nFZEkb4hE2FYqWdUz18"
+      },
+      "artists": [
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232330,
+      "name": "Bokke",
+      "url": "https://open.spotify.com/track/4yu5rGWvXcv6Yih8NC3iL7"
     },
     {
       "album": {
@@ -1224,7 +1260,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 176872,
       "name": "Dans In Afrikaans",
       "url": "https://open.spotify.com/track/7LTcfYh5Ueh7JCdfT1tuZ8"
@@ -1362,6 +1398,24 @@
       "duration_ms": 224693,
       "name": "Die Een",
       "url": "https://open.spotify.com/track/6M8I6dVjwXVdzJaQ3TjBh8"
+    },
+    {
+      "album": {
+        "name": "Die Een Wat Ek Liefhet",
+        "url": "https://open.spotify.com/album/0TmmdquKZCcoGHAbNFLRjn"
+      },
+      "artists": [
+        {
+          "name": "RICHELLE GRANT",
+          "url": "https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292453,
+      "name": "Die Een Wat Ek Liefhet",
+      "url": "https://open.spotify.com/track/4bNu09KaKRYXcOj5Ehd1Nl"
     },
     {
       "album": {
@@ -2198,7 +2252,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 237823,
       "name": "Gebore Vir Kuns",
       "url": "https://open.spotify.com/track/2tgxEdHbSnieZ0oDvwwHuh"
@@ -2553,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Hier's My Hand",
+        "url": "https://open.spotify.com/album/1cWLHjozlvuew7Fllu989w"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227614,
+      "name": "Hier's My Hand",
+      "url": "https://open.spotify.com/track/1TlBRWlwuyZ7witxWCMPBZ"
+    },
+    {
+      "album": {
         "name": "Hierdie Is Nie Liefde Nie",
         "url": "https://open.spotify.com/album/2oqy6xdyCXRaiMiNqBKNdm"
       },
@@ -2694,7 +2766,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 260526,
       "name": "Hou Net Vas",
       "url": "https://open.spotify.com/track/5dc4tPt623wzxVNwF4cG9F"
@@ -2810,6 +2882,24 @@
       "duration_ms": 266521,
       "name": "Illusie Revolusie",
       "url": "https://open.spotify.com/track/2nDlYXVq5advI81WJ958vY"
+    },
+    {
+      "album": {
+        "name": "Immergroen",
+        "url": "https://open.spotify.com/album/5MLuvsPdtc8m2fGhV15fru"
+      },
+      "artists": [
+        {
+          "name": "Rehbart",
+          "url": "https://open.spotify.com/artist/0F7ZjF5OzmFhOAtszeEhpJ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276176,
+      "name": "Immergroen",
+      "url": "https://open.spotify.com/track/74nVZSIPtZJPfJjLWNbTXj"
     },
     {
       "album": {
@@ -4114,7 +4204,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185062,
       "name": "Lyntjie",
       "url": "https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2"
@@ -4513,6 +4603,24 @@
     },
     {
       "album": {
+        "name": "Wit & Swart",
+        "url": "https://open.spotify.com/album/2EhKUsAhmhbwWGyTaeNZRD"
+      },
+      "artists": [
+        {
+          "name": "Emil Paul",
+          "url": "https://open.spotify.com/artist/1eLGnVNTlowcmg1Hhjv8os"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207656,
+      "name": "My Tipe Dronk",
+      "url": "https://open.spotify.com/track/48S2n4oh2TXCkuFeKvcmvp"
+    },
+    {
+      "album": {
         "name": "My Wolf",
         "url": "https://open.spotify.com/album/1zLCBWxCWdinLZLX9KMiCf"
       },
@@ -4766,7 +4874,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 165584,
       "name": "Nog Een (Vir die Seer)",
       "url": "https://open.spotify.com/track/3nvvdSz5ZuCCM7lgRRXEUE"
@@ -5334,7 +5442,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 198687,
       "name": "Plaasmeisie",
       "url": "https://open.spotify.com/track/41mzUxUcEAY5XxpSVQk7Nm"
@@ -5392,6 +5500,24 @@
       "duration_ms": 203197,
       "name": "Plett My Net",
       "url": "https://open.spotify.com/track/1PGWHOYPHxed0rl9JAWk5v"
+    },
+    {
+      "album": {
+        "name": "Praising Jesus",
+        "url": "https://open.spotify.com/album/0XswV8OshXtMKaEcpuhAIf"
+      },
+      "artists": [
+        {
+          "name": "Arnold de Wet",
+          "url": "https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214569,
+      "name": "Praising Jesus",
+      "url": "https://open.spotify.com/track/29cn55k3uwNpslNcXQGdUV"
     },
     {
       "album": {
@@ -5590,7 +5716,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 213392,
       "name": "Saam Is Beter",
       "url": "https://open.spotify.com/track/4EBQrGsaK0yuNPK9b7SLf6"
@@ -5638,6 +5764,24 @@
       "duration_ms": 187233,
       "name": "Sal Jy Vir My Wag",
       "url": "https://open.spotify.com/track/0iNTHA6vIhJN671nqIFISV"
+    },
+    {
+      "album": {
+        "name": "Sal Jy Vir My Wag (Demo Version)",
+        "url": "https://open.spotify.com/album/2npaHYAgXlHbhc965xfJmw"
+      },
+      "artists": [
+        {
+          "name": "Tasch\u00e9",
+          "url": "https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "Sal Jy Vir My Wag - Demo Version",
+      "url": "https://open.spotify.com/track/6BRv5v535Nd2ohKQQ4SrI6"
     },
     {
       "album": {
@@ -6064,7 +6208,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 201391,
       "name": "Sonde",
       "url": "https://open.spotify.com/track/53MI4qOPltd52BM47sRZwU"
@@ -6282,6 +6426,28 @@
       "duration_ms": 205173,
       "name": "Stella",
       "url": "https://open.spotify.com/track/7i6NZDKEjS9esM2FVUxgf0"
+    },
+    {
+      "album": {
+        "name": "Stellenpotch",
+        "url": "https://open.spotify.com/album/7iEr0RWnBeu6G8WlHQ6RqQ"
+      },
+      "artists": [
+        {
+          "name": "Kevboii",
+          "url": "https://open.spotify.com/artist/4Mp36UE9keQ7vXLcVLWzmN"
+        },
+        {
+          "name": "Wian",
+          "url": "https://open.spotify.com/artist/2hCzV79fXHGVB6E1klk284"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188442,
+      "name": "Stellenpotch",
+      "url": "https://open.spotify.com/track/3cCrymy2s0f2cafWtY3O86"
     },
     {
       "album": {
@@ -6769,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "Klein W\u00eareld",
+        "url": "https://open.spotify.com/album/1GH5KV0DZzHDTPgf4UTs9A"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218398,
+      "name": "Tyd",
+      "url": "https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0"
+    },
+    {
+      "album": {
         "name": "Tydloos",
         "url": "https://open.spotify.com/album/6EKUmZzOH1I1gn4OuqkkFs"
       },
@@ -7016,7 +7200,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197454,
       "name": "Vergeet My Hier",
       "url": "https://open.spotify.com/track/1MYJPZHmnRcoHemHr9Su8S"
@@ -7052,7 +7236,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 141600,
       "name": "Vet Diamante",
       "url": "https://open.spotify.com/track/68ixoIiKpbBXvJISsQUqAa"
@@ -7200,7 +7384,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 165798,
       "name": "Vrydagaand",
       "url": "https://open.spotify.com/track/4tX5lIMfEy79aBQn7otBQd"
@@ -7503,6 +7687,24 @@
     },
     {
       "album": {
+        "name": "Wat nou?",
+        "url": "https://open.spotify.com/album/1Jj5WCIH5SQXLKTfJ3VLwM"
+      },
+      "artists": [
+        {
+          "name": "Riana Nel",
+          "url": "https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Wat nou?",
+      "url": "https://open.spotify.com/track/736z0fpLePveyPW7cdzCDJ"
+    },
+    {
+      "album": {
         "name": "Die Onbekende",
         "url": "https://open.spotify.com/album/5DQ6KesEHKfwfO2AUjzkvc"
       },
@@ -7522,6 +7724,24 @@
       "duration_ms": 206398,
       "name": "Wees Net Beter",
       "url": "https://open.spotify.com/track/5AXAgPFHnFzv8pz9ZOffct"
+    },
+    {
+      "album": {
+        "name": "Weskus Wyn",
+        "url": "https://open.spotify.com/album/1DDWVBKCXgZDv4C672D6up"
+      },
+      "artists": [
+        {
+          "name": "Len Muller",
+          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173357,
+      "name": "Weskus Wyn",
+      "url": "https://open.spotify.com/track/0OBxUSpC7q7KlJZ7EbusfC"
     },
     {
       "album": {

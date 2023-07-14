@@ -6998,7 +6998,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 233500,
       "name": "Looking For Love - Spotify Singles",
       "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
@@ -11822,6 +11822,24 @@
       "duration_ms": 180574,
       "name": "The End",
       "url": "https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm"
+    },
+    {
+      "album": {
+        "name": "The Ick",
+        "url": "https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN"
+      },
+      "artists": [
+        {
+          "name": "SVEA",
+          "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158987,
+      "name": "The Ick",
+      "url": "https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id"
     },
     {
       "album": {

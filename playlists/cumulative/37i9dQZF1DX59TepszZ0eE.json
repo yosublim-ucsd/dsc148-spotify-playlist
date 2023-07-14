@@ -90,7 +90,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 258000,
       "name": "Basheshe Bahleke",
       "url": "https://open.spotify.com/track/32PnVMQXGPHviFa7T4qRct"
@@ -872,6 +872,46 @@
       "duration_ms": 293316,
       "name": "KE SIKILOE KE JESU",
       "url": "https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG"
+    },
+    {
+      "album": {
+        "name": "Ke Tshepile Wena (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8"
+      },
+      "artists": [
+        {
+          "name": "Oufadafada",
+          "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136226,
+      "name": "Ke Tshepile Wena - Acoustic Mix",
+      "url": "https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin"
+    },
+    {
+      "album": {
+        "name": "Khuleka",
+        "url": "https://open.spotify.com/album/2S6MKMPIAnSbCXezzGrGIA"
+      },
+      "artists": [
+        {
+          "name": "Nhlanhla Dube",
+          "url": "https://open.spotify.com/artist/4POG2vYRKNJB5gcA877Qcp"
+        },
+        {
+          "name": "MoloJazz",
+          "url": "https://open.spotify.com/artist/5V3o6bBGtNacZHJ2wbHiSn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231841,
+      "name": "Khuleka",
+      "url": "https://open.spotify.com/track/39EpmzDoVvefX1XssjF5jx"
     },
     {
       "album": {
@@ -1810,6 +1850,24 @@
       "duration_ms": 406410,
       "name": "Udumo - Live at Pont De Val",
       "url": "https://open.spotify.com/track/1sZAiagVPE4eQwaw056YaM"
+    },
+    {
+      "album": {
+        "name": "Ukholo Lwam (A Song of Hope)",
+        "url": "https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf"
+      },
+      "artists": [
+        {
+          "name": "Intimate Worshippers",
+          "url": "https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Ukholo Lwam (A Song of Hope)",
+      "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
     },
     {
       "album": {

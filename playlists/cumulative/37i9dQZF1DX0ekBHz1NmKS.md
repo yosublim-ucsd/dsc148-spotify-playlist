@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-731 songs - 1 day 14 hr 40 min
+732 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [Live and Let Live](https://open.spotify.com/track/4GN2qtuJ4a4EbO325Lpf4y) | [Kristofer Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Live and Let Live](https://open.spotify.com/album/4rNhhdwFHL6qahcOqVY948) | 3:14 | 2022-02-26 | 2022-05-12 |
 | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/track/2y18WlxpQwH5CMCA0S7Osx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Lonely In A Crowd \(feat\. Joakim Berg\)](https://open.spotify.com/album/2V9nF6dNZq234xpICGqeuK) | 3:39 | 2021-12-16 | 2022-03-11 |
 | [Long Gone](https://open.spotify.com/track/4vz7ZHKiBy0WcdE5aTRfT1) | [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Long Gone](https://open.spotify.com/album/2H0zi4Ne3mxQY8hYeywMiG) | 3:03 | 2022-06-09 | 2022-07-15 |
-| [Looking For Love \- Spotify Singles](https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Spotify Singles](https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA) | 3:53 | 2023-06-08 |  |
+| [Looking For Love \- Spotify Singles](https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Spotify Singles](https://open.spotify.com/album/7iyzv9iKc8gLKMsiCIecWA) | 3:53 | 2023-06-08 | 2023-07-14 |
 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 | 2021-12-16 | 2022-03-11 |
 | [LOSE YOU](https://open.spotify.com/track/54OIzoPpuWIzSluMIMnchp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [LOSE YOU](https://open.spotify.com/album/5NeqXYuu7ER0POYf9UH4u4) | 3:01 | 2022-06-02 | 2022-07-29 |
 | [loser](https://open.spotify.com/track/7AHDOIQv2eb2mbaj7lqYYp) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [loser](https://open.spotify.com/album/7KKcM8Cm8dCosCtUJ4DHT6) | 3:13 | 2022-03-24 | 2022-04-21 |
@@ -640,6 +640,7 @@
 | [The Closer I Get to You](https://open.spotify.com/track/6W6jIB4PuRCzDXUp8jqsFH) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6), [Jessica Curran](https://open.spotify.com/artist/35rx7faGtSDlHnEeUO1ROV) | [The Closer I Get to You](https://open.spotify.com/album/5bfes7y0TpA4doKDUnfK5G) | 3:39 | 2022-03-24 | 2022-04-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-04 | 2022-09-16 |
 | [The End](https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [The End](https://open.spotify.com/album/3NjjdMOVHXBu7IEG3jZ3AA) | 3:00 | 2022-03-03 | 2022-05-13 |
+| [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 |  |
 | [The One That Got Away](https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ) | [The One That Got Away](https://open.spotify.com/album/61rig1QszCo1eXuuej4aGD) | 2:40 | 2022-03-10 | 2022-05-08 |
 | [The River](https://open.spotify.com/track/2wBy3s54lq5HmJgUIp9SBA) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The River](https://open.spotify.com/album/2BfuSNlZYVmszJzluzFTkb) | 3:20 | 2022-03-17 | 2022-07-29 |
 | [The Terrace](https://open.spotify.com/track/7IbQF9e3Lz1LBPsCxTnBF3) | [Jolina Elísh](https://open.spotify.com/artist/36XHszB4UC3UDGGcamfclK) | [The Terrace](https://open.spotify.com/album/7I3sbs1SUZU7VGKIQEOxSz) | 2:55 | 2021-12-16 | 2021-12-23 |

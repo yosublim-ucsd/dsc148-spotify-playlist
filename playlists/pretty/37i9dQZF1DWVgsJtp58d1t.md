@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV?si=KMXNmzYmTsKL1pC\_ULIzQA">PARTYNEXTDOOR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,214 likes - 120 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,194 likes - 120 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 120 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 
-Snapshot ID: `MCw1NGY1MWIzNGU2M2MzNTZhZjA0ZjI3MGQ0NjJiYjM3NzhmMWEyYTc0`
+Snapshot ID: `MCw2ZjAyZGQ3OTM1YmY2Mjc5NzdjMzZkMmZjZGVjMGJiZTg0NzEwODQ1`

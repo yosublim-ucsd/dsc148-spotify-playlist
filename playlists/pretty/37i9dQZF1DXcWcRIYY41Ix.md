@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Feli Colina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,703 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,744 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 60 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
 | 61 | [Temes](https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:16 |
 | 62 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 |
-| 63 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
-| 64 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
+| 63 | [Todo Lo Que No Está](https://open.spotify.com/track/4bAiMF8czABeBuz7rKla1Z) | [Luisa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Todo Lo Que No Está](https://open.spotify.com/album/0qVBsWgV60mxtja3ObOaD5) | 3:36 |
+| 64 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
 | 65 | [Tu Casa](https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Tu Casa](https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH) | 3:20 |
 | 66 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 |
 | 67 | [Luciérnagas](https://open.spotify.com/track/0B5NDIEAL9q0vpkuAIkA3o) | [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [La Vuelta a Casa](https://open.spotify.com/album/7sUcR3eGAWPgek9ghZKSpI) | 3:30 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 78 | [Dame Más \(En Acústico\)](https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo) | 3:39 |
 | 79 | [Inmensamente Frágil](https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [Inmensamente Frágil](https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa) | 3:39 |
 | 80 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 |
-| 81 | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \- Live on Pardelion Music](https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Sebastián Prada](https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6) | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \[Live on Pardelion Music\]](https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af) | 2:41 |
-| 82 | [El don de la ternura](https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5) | 4:57 |
+| 81 | [El don de la ternura](https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Mundos inmóviles derrumbándose](https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5) | 4:57 |
+| 82 | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \- Live on Pardelion Music](https://open.spotify.com/track/0fAmpdONIYsxiP27CwnzLJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Sebastián Prada](https://open.spotify.com/artist/3sKZkGBDzeqXtOzKGzMaS6) | [Milonga de Ojos Dorados \(Alfredo Zitarrosa\) \[Live on Pardelion Music\]](https://open.spotify.com/album/3ArBdhbnE1kVG9BpqUA6af) | 2:41 |
 | 83 | [Rumba en Cahuita](https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf) | 2:47 |
 | 84 | [Que fácil](https://open.spotify.com/track/1QUYvBpZnkjJfdxwvHRkma) | [Nico Bereciartua](https://open.spotify.com/artist/79KJ0gUMjDNnDWrT9szmZM), [Felipe Agote](https://open.spotify.com/artist/6rndegDL7G9OKSuYeDef6F) | [Que fácil](https://open.spotify.com/album/6gsLr8mGa6KbDUsIvtHbKg) | 4:05 |
 | 85 | [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Despiértame Cuando Llegues](https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [El Mundo y la Nada](https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1) | 2:02 |
 | 100 | [Visiones Doradas](https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/5RcL7gPipFECCe8MAAZRUS) | 2:46 |
 
-Snapshot ID: `MCwwMjc0NDZkZTYxOWM4ZjdiYzFlZTg0NWI5YWIyODc2NzFmMDg0MTM5`
+Snapshot ID: `MCw5YjE0MWJkNWYxZjc5MGVmMzBjMGYwZWFjNDNkYTI0OTMzN2EyMDE4`

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. John C en portada.
+> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Yoss Bones en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,625 likes - 114 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,708 likes - 114 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ambición](https://open.spotify.com/track/3qUrm7bzZbweXp3PhjnT39) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Ambición](https://open.spotify.com/album/0cMNuOwFj3ymoxZsO3OxDX) | 3:44 |
-| 2 | [ENVIDIA](https://open.spotify.com/track/05vtKZQr8tdZamjmC753dG) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx), [Gegga](https://open.spotify.com/artist/4jdNWDjWnPON9mk3gHV2Ep) | [ENVIDIA](https://open.spotify.com/album/1rnQTScM9t7Rvz2XS8hADj) | 3:45 |
-| 3 | [Alzypher Vol\. 12](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 |
-| 4 | [Cuando Ya Esté Muerto](https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Cuando Ya Esté Muerto](https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v) | 3:28 |
-| 5 | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM) | 2:49 |
-| 6 | [Perseverancia](https://open.spotify.com/track/1YfRiuIjPlAQagj1AoqAew) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Perseverancia](https://open.spotify.com/album/5vLJoj4LdKC4MsqXHmYyRj) | 3:16 |
-| 7 | [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 |
-| 8 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
+| 1 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 |
+| 2 | [Ambición](https://open.spotify.com/track/3qUrm7bzZbweXp3PhjnT39) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Ambición](https://open.spotify.com/album/0cMNuOwFj3ymoxZsO3OxDX) | 3:44 |
+| 3 | [ENVIDIA](https://open.spotify.com/track/05vtKZQr8tdZamjmC753dG) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [N\-Wise Allah](https://open.spotify.com/artist/4NGPHzbZNLMQkjtrJ2a2Sx), [Gegga](https://open.spotify.com/artist/4jdNWDjWnPON9mk3gHV2Ep) | [ENVIDIA](https://open.spotify.com/album/1rnQTScM9t7Rvz2XS8hADj) | 3:45 |
+| 4 | [Alzypher Vol\. 12](https://open.spotify.com/track/0hJ1WnpQNJwaLioiG8kc4N) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv) | [Alzypher Vol\. 12](https://open.spotify.com/album/1WjW44rJhg4ZShTGwqT8oH) | 2:20 |
+| 5 | [Cuando Ya Esté Muerto](https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Cuando Ya Esté Muerto](https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v) | 3:28 |
+| 6 | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/track/2WXPCiwCzoH71JESAImTKE) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Akapellah Hotline: Cobuz & Bustta](https://open.spotify.com/album/1B0ue14v9AHXSYloaqeMDM) | 2:49 |
+| 7 | [Perseverancia](https://open.spotify.com/track/1YfRiuIjPlAQagj1AoqAew) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Perseverancia](https://open.spotify.com/album/5vLJoj4LdKC4MsqXHmYyRj) | 3:16 |
+| 8 | [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 |
 | 9 | [PASAR EL ROLO](https://open.spotify.com/track/0TFQ7UThwlokHls2vxTxb2) | [Lopes](https://open.spotify.com/artist/2C1KWrmE57M3riWQArK4kz), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [PASAR EL ROLO](https://open.spotify.com/album/6BaTUVSblCrSozjzwQIBkb) | 3:05 |
 | 10 | [Será posible?](https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B) | [Será posible?](https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB) | 2:38 |
 | 11 | [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 113 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 |
 | 114 | [Las Horas Pasan](https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Las Horas Pasan](https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi) | 3:30 |
 
-Snapshot ID: `MCxkMmExMDQ0MDc4ZDE3OTUzYzY4NGRiMWRkODVkNDkxMWZjZjNhNTJm`
+Snapshot ID: `MCwyYmQxOTFiZTc5NWRiNGMzNWFlY2Y1YjY2MjhmNDg5ZWJjNTlmNjI3`

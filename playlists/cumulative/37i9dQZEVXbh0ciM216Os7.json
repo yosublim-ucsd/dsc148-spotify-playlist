@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 211468,
       "name": "DOWN BY LAW",
       "url": "https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 285859,
       "name": "Happy - Live Acoustic From Space",
       "url": "https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3"
@@ -4756,6 +4756,32 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6Oh551AttVfI5DBLP4rgGX"
+      },
+      "artists": [
+        {
+          "name": "Party Pip",
+          "url": "https://open.spotify.com/artist/5CCfvsh8dTaGyz4ApaRJV2"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Young Cash",
+          "url": "https://open.spotify.com/artist/0SY9EobiFWDqxhC2h1RNNg"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171094,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2xXhpbLvgBtZYUsYd4Hpbx"
     },
     {
       "album": {
@@ -5931,6 +5957,28 @@
     },
     {
       "album": {
+        "name": "Patience (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/1N36aG06vSw0jiZkYqDhhZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262429,
+      "name": "Patience (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2qTzVCeWC2OY28r7gHagAa"
+    },
+    {
+      "album": {
         "name": "El Patio de la C\u00e1rcel & Delincuente (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4hILNMCUpweNbayMaLPetD"
       },
@@ -6962,6 +7010,28 @@
       "duration_ms": 121317,
       "name": "Slide Again",
       "url": "https://open.spotify.com/track/680UAnBzIM0mKkXUpT5OyS"
+    },
+    {
+      "album": {
+        "name": "MICHAEL",
+        "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275899,
+      "name": "SLUMMER",
+      "url": "https://open.spotify.com/track/17K5opp9TO1OANv36IWsCh"
     },
     {
       "album": {
@@ -8892,7 +8962,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 239863,
       "name": "Werewolf (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"

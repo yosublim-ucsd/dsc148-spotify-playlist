@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 155993,
       "name": "Cloud5",
       "url": "https://open.spotify.com/track/1rfbQdf8AYt7qZOIzaP5PP"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 152625,
       "name": "cold start",
       "url": "https://open.spotify.com/track/1oRYeH614gcXBYZMjjvnOz"
@@ -2142,6 +2142,24 @@
       "duration_ms": 229657,
       "name": "Den inre skogen",
       "url": "https://open.spotify.com/track/0Zl6KnmirT1PeGZvAZY9T1"
+    },
+    {
+      "album": {
+        "name": "Desert Sunset",
+        "url": "https://open.spotify.com/album/6w3DV7iiKFdCXedJZJClaO"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Oasis",
+          "url": "https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149707,
+      "name": "Desert Sunset",
+      "url": "https://open.spotify.com/track/3ECCf01lcaoLsIR9wRkcRO"
     },
     {
       "album": {
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 167142,
       "name": "Focus",
       "url": "https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f"
@@ -3236,7 +3254,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 204624,
       "name": "Follow me",
       "url": "https://open.spotify.com/track/7d44sL4znFm5HZ6ltUVqbI"
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 191975,
       "name": "In the Beginning of Time",
       "url": "https://open.spotify.com/track/5I9kd3U6qhnuO3WWX5Le8l"
@@ -4446,7 +4464,7 @@
       ],
       "date_added": "2020-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 158176,
       "name": "Ing\u00e9nue",
       "url": "https://open.spotify.com/track/6mgKP4yo57GTSMc3fJlyWm"
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 187385,
       "name": "Just Look at You",
       "url": "https://open.spotify.com/track/62X7ld1sa8RHl4zRtSvfHf"
@@ -4626,7 +4644,7 @@
       ],
       "date_added": "2019-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 180689,
       "name": "Kaolnite",
       "url": "https://open.spotify.com/track/4fItBSHKBcgKWixN1Idie5"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 127093,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/0mEtQh163dmE6NjbaPqf6o"
@@ -5112,7 +5130,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 147307,
       "name": "Loosen Up",
       "url": "https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h"
@@ -6448,7 +6466,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 204827,
       "name": "Orbits",
       "url": "https://open.spotify.com/track/6jFX2sHOzh7tpIIOomlrqJ"
@@ -6891,6 +6909,24 @@
     },
     {
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4DbdKB9u4PTDO1FyoMAeZ4"
+      },
+      "artists": [
+        {
+          "name": "Lifou",
+          "url": "https://open.spotify.com/artist/30A8LRNZBq4B0GmcpvK0Cc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/5cQ5paC2idkxq0dP6bcCbA"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },
@@ -7010,7 +7046,7 @@
       ],
       "date_added": "2021-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 178701,
       "name": "Raga for HAL",
       "url": "https://open.spotify.com/track/5d3kpW56erBx62L5vhIl8y"
@@ -7550,7 +7586,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 155866,
       "name": "Seeming",
       "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
@@ -8732,6 +8768,24 @@
       "duration_ms": 178148,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/3XnQ3OqmfvP5Sh6gACEKnG"
+    },
+    {
+      "album": {
+        "name": "The End Is The Beginning",
+        "url": "https://open.spotify.com/album/71RCbEQhdAVVkzqKs4hcJu"
+      },
+      "artists": [
+        {
+          "name": "Search For Atlantis",
+          "url": "https://open.spotify.com/artist/35AOZRP5Z6yMNvFlfR6ixh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136442,
+      "name": "The End Is The Beginning",
+      "url": "https://open.spotify.com/track/5Hp8LPFg8DCp5rREjcgswX"
     },
     {
       "album": {

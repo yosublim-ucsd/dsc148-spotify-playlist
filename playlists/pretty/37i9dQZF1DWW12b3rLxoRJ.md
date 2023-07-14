@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain]
 
 > Súbele el volumen a La Firma\. Escucha los hits de esta competencia de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,938 likes - 73 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,828 likes - 73 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,19 +47,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain]
 | 37 | [Muñequita](https://open.spotify.com/track/6jk8uwRPUVZw0dMWuJ4A6A) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:35 |
 | 38 | [Inevitable](https://open.spotify.com/track/6RSy7km5kxiakrSCs8WNyp) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:44 |
 | 39 | [Luna Llena](https://open.spotify.com/track/2O3daDiFh6eM5yw4q0CF1C) | [Gigi Saldaña](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:29 |
-| 40 | [Pa' Chile](https://open.spotify.com/track/5UhOZgoHiABwpbFCQ68n5Q) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:39 |
+| 40 | [Pa' Chile](https://open.spotify.com/track/0xINw5OfMEFpgqfgVnN3Bu) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
 | 41 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
-| 42 | [HYPE](https://open.spotify.com/track/1IElcEU5eiVX6rfnzAIIYf) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:39 |
+| 42 | [HYPE](https://open.spotify.com/track/2r7Sq6fcnICSiGHw5RJkro) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
 | 43 | [Falsas Promesas](https://open.spotify.com/track/4iVmpDLh2cBdDKFRAtAa3E) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:42 |
 | 44 | [Dimensiones](https://open.spotify.com/track/5sOQoRJxRLOwnxyTDIPnze) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
-| 45 | [El Patio](https://open.spotify.com/track/46R6hzLoXGTl8HnPPRAOD4) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:38 |
+| 45 | [El Patio](https://open.spotify.com/track/1bOx45W02uPJF370I2cYnE) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:38 |
 | 46 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 |
 | 47 | [Poco Comercial](https://open.spotify.com/track/6GAy0g8xRgipvwEdosXmjR) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 |
 | 48 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
-| 49 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/2RiAAhn7kMrztEtDqW2gIC) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:46 |
+| 49 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 |
 | 50 | [Profesora](https://open.spotify.com/track/1g36G7v29GgqQQc5UQuSMe) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:34 |
 | 51 | [Roma](https://open.spotify.com/track/1W1StNdx32yp7SE97b7jrp) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 |
-| 52 | [Desde La H](https://open.spotify.com/track/6kwRRSL0brlfT1TyauSBjD) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:31 |
+| 52 | [Desde La H](https://open.spotify.com/track/5PdRrq6KAUKMqtPmDXhcQR) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:31 |
 | 53 | [Malas Decisiones](https://open.spotify.com/track/6hXohHZ4YIYQ46rd8HzTU1) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:37 |
 | 54 | [Dice Mami](https://open.spotify.com/track/2rceLllmbc2Db56L5pvoyX) | [Monique Hasbun](https://open.spotify.com/artist/1LGVDs34lXEN3dtog0f9Zq) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:35 |
 | 55 | [Voy Por El Millón](https://open.spotify.com/track/1yaEjkqoa0atDKaxfd9mie) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:41 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW12b3rLxoRJ.md) - [plain]
 | 72 | [Sabe](https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:57 |
 | 73 | [CANCIÓN CON YANDEL](https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 3:29 |
 
-Snapshot ID: `MCwyZmIxZDg3ZjU4OWIwNTc3N2M1MGExODQ5Zjg0YjNiYTY2YTBmODRh`
+Snapshot ID: `MCwyZWViNDQ4YWM0MTE3MjhiY2NlNmM1ODBhMjAwYmJjN2E4NzA3NzIy`

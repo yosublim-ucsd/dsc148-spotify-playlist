@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,190 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,198 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [産声とクラブ](https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa) | [Serika Hakozaki \(CV: Momo Asakura\)](https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7), [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv), [Umi Kousaka \(CV: Reina Ueda\)](https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS), [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv) | 4:00 |
 | 75 | [紙・心・ペン・心 \- SHISHINPENSHIN \-](https://open.spotify.com/track/2Utvk0X0sJPcrAltf1m5Ya) | [福田のり子 \(CV.浜崎奈々\)](https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo), [松田亜利沙 \(CV.村川梨衣\)](https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV), [如月千早 \(CV.今井麻美\)](https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ) | 3:47 |
 
-Snapshot ID: `MCwzMzE4YzNkMzdjOGU4ODJiYjgwMzgyYjA1MDA1OWM4NDU1NjFmZmM1`
+Snapshot ID: `MCwyMGU2YWI2MDBmNjQ5NzAwZDE0ZGMzZjQ5NGYxNzE1YTdiZmM3Yzgy`

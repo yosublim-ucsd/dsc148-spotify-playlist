@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Ethan Muziki",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bensoul & Muthaka",
   "name": "NairoBae",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185567,
       "name": "Amua",
       "url": "https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc"
@@ -1934,6 +1934,28 @@
       "duration_ms": 228983,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF"
+    },
+    {
+      "album": {
+        "name": "Secret Lover",
+        "url": "https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1"
+      },
+      "artists": [
+        {
+          "name": "Muthaka",
+          "url": "https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171765,
+      "name": "Secret Lover",
+      "url": "https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k"
     },
     {
       "album": {

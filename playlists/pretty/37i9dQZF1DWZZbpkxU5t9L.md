@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: オリヴィア・ロドリゴ
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,828 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,850 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 |
 | 50 | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Silhouette \(feat\. Asako Toki\)](https://open.spotify.com/album/3cXuQfb9T7Jge2sne0xbfl) | 4:21 |
 
-Snapshot ID: `MCwxYTRkMDQxODc1NTBlODc3NTM0ZWQwYzIzMTcxMWY1Yzg5ZDhiMDRk`
+Snapshot ID: `MCw2MDgzYWQ4ODliZDczN2RkNTVkYzkxY2M0N2RlMGExYjNlZTYyYjZm`

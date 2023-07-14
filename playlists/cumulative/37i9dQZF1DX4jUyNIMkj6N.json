@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220573,
+      "name": "Angel - Acoustic String Version",
+      "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
+    },
+    {
+      "album": {
         "name": "Sommerbarna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5EwLd11ZOFFaO0YLNgYHnn"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 182626,
       "name": "Buffy",
       "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"

@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring RPLK.",
-  "num_followers": 45352,
+  "num_followers": 45374,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTY2NDUxMDYyNjFkMmJhNTgyMDM2Y2E4MDFmOWE1ZTVlYTRkOTA1",
+  "snapshot_id": "MCxmMGZhOTM4MzFmZmRiMjRlMGNiNTBmZWYwZmVjOGRkYTEzNjM3MjJm",
   "tracks": [
     {
       "added_at": "2023-07-07 17:25:50",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "No Quiero Ser Tu Amiga",
-        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "No Quiero Ser Tu Amiga",
-      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 126923,
       "name": "dime",
       "url": "https://open.spotify.com/track/42UGcqh6NpVuEFHZekjrqJ"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "No Quiero Ser Tu Amiga",
+        "url": "https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "No Quiero Ser Tu Amiga",
+      "url": "https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 163095,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
         "name": "Nada Mal",
         "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 140952,
       "name": "Nada Mal",
       "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
-        "name": "Chill",
-        "url": "https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 163095,
-      "name": "Chill",
-      "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Bola Oro",
-        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 245245,
-      "name": "Bola Oro",
-      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "Ojos",
         "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 222099,
       "name": "Ojos",
       "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "Bola Oro",
+        "url": "https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 245245,
+      "name": "Bola Oro",
+      "url": "https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206018,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
         "name": "galleta de la suerte",
         "url": "https://open.spotify.com/album/0y3ClrFxeRlQOB82Ab4awS"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 144170,
       "name": "galleta de la suerte",
       "url": "https://open.spotify.com/track/59HnoaodyiRfatK5PbfUiU"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 206018,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "VCR",
-        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
-      },
-      "artists": [
-        {
-          "name": "Atomic Rose",
-          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
-        }
-      ],
-      "duration_ms": 215974,
-      "name": "VCR",
-      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
-    },
-    {
-      "added_at": "2023-07-07 17:25:50",
-      "album": {
         "name": "Lenguaje Universal",
         "url": "https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO"
       },
@@ -1279,22 +1263,18 @@
     {
       "added_at": "2023-07-07 17:25:50",
       "album": {
-        "name": "Sleep Alone",
-        "url": "https://open.spotify.com/album/01izvkpGOqU5WcnUgSiCpE"
+        "name": "VCR",
+        "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
       },
       "artists": [
         {
-          "name": "Dawn Haze",
-          "url": "https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U"
-        },
-        {
-          "name": "Mariana Taylor",
-          "url": "https://open.spotify.com/artist/3CCt5sS8zDpFbP9EKPH5Yt"
+          "name": "Atomic Rose",
+          "url": "https://open.spotify.com/artist/5FA4L7WoQmYt2OzskRBaoI"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Sleep Alone",
-      "url": "https://open.spotify.com/track/6ANq1HPXOlCxBwQGgOMwvU"
+      "duration_ms": 215974,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
     },
     {
       "added_at": "2023-07-07 17:25:50",
@@ -1327,6 +1307,26 @@
       "duration_ms": 259579,
       "name": "Prometimos No Hablar",
       "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
+    },
+    {
+      "added_at": "2023-07-07 17:25:50",
+      "album": {
+        "name": "Sleep Alone",
+        "url": "https://open.spotify.com/album/01izvkpGOqU5WcnUgSiCpE"
+      },
+      "artists": [
+        {
+          "name": "Dawn Haze",
+          "url": "https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U"
+        },
+        {
+          "name": "Mariana Taylor",
+          "url": "https://open.spotify.com/artist/3CCt5sS8zDpFbP9EKPH5Yt"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Sleep Alone",
+      "url": "https://open.spotify.com/track/6ANq1HPXOlCxBwQGgOMwvU"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

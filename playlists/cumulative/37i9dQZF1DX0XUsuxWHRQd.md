@@ -4,7 +4,7 @@
 
 > New music from Lil Uzi Vert, Lil Tjay and newcomer FendiDa Rappa featuring Cardi B.
 
-1,686 songs - 3 day 15 hr 0 min
+1,687 songs - 3 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [HO4ME](https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [HO4ME](https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0) | 3:55 | 2023-02-17 | 2023-04-01 |
 | [Hold On](https://open.spotify.com/track/03i4lR6ZZo0214WhmrE8t9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Hold On](https://open.spotify.com/album/6oFeA7Pda0jOC7jVNIAp9k) | 3:09 | 2019-10-11 | 2020-01-03 |
 | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hold That Heat \(feat\. Travis Scott\)](https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12) | 3:41 | 2022-04-22 | 2022-07-23 |
+| [Holidae In](https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 5:14 | 2023-07-13 |  |
 | [Holy Smokes](https://open.spotify.com/track/3EpF150nXMSNjiH0bbmXIL) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Holy Smokes \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0TysZSXUKnqnQMeY40eaqg) | 3:01 | 2021-07-17 | 2021-08-21 |
 | [Holy Water](https://open.spotify.com/track/7mYIHFA9OdlzLwWq4CRKlj) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Holy Water](https://open.spotify.com/album/3neKYpR4Z2fXRiYmDEIpHJ) | 2:12 | 2021-01-29 | 2021-02-17 |
 | [HOME](https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:54 | 2022-04-29 | 2022-05-20 |

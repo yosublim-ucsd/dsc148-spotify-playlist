@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Adieu",
+        "url": "https://open.spotify.com/album/52kcqfFjbEpWi94R4xbWFM"
+      },
+      "artists": [
+        {
+          "name": "Softo",
+          "url": "https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163478,
+      "name": "Adieu",
+      "url": "https://open.spotify.com/track/1ilokYv1QbIr23OtZ44qZx"
+    },
+    {
+      "album": {
         "name": "Aimons-nous vivants",
         "url": "https://open.spotify.com/album/4BRpzc1UlPvVUwT5OSGBLL"
       },
@@ -496,7 +514,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 139178,
       "name": "AVERSE",
       "url": "https://open.spotify.com/track/08S6rWmtM6L4xPpSjhm1g7"
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 100000,
       "name": "Logiciel #9 - Toplines",
       "url": "https://open.spotify.com/track/64Ufz9tYOHSzPjrXwndxX3"
@@ -3610,6 +3628,24 @@
       "duration_ms": 157837,
       "name": "QLT",
       "url": "https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT"
+    },
+    {
+      "album": {
+        "name": "Quali",
+        "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181649,
+      "name": "Quali",
+      "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
     },
     {
       "album": {

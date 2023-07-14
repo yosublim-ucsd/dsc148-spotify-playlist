@@ -458,6 +458,24 @@
     {
       "album": {
         "name": "Blaue Stunde",
+        "url": "https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197893,
+      "name": "Blaue Stunde",
+      "url": "https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K"
+    },
+    {
+      "album": {
+        "name": "Blaue Stunde",
         "url": "https://open.spotify.com/album/48VSW134REUVskHHy2laF0"
       },
       "artists": [
@@ -468,7 +486,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197893,
       "name": "Blaue Stunde",
       "url": "https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown"

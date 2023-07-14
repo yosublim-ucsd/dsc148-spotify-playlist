@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-346 songs - 1 day 10 hr 54 min
+347 songs - 1 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Chosen \- Radio Edit](https://open.spotify.com/track/0CGGKBx3XwiRpNlay6Os3e) | [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [Chosen](https://open.spotify.com/album/0oX9sFdgynY3lN9Gz4BiW5) | 4:20 | 2022-11-21 | 2023-03-18 |
 | [Circle of Life](https://open.spotify.com/track/2ckwGlnXK4PZ8mo7JYkJ5L) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Circle of Life](https://open.spotify.com/album/5lUuBsteQKFCLKeHNnZhwe) | 8:03 | 2022-11-11 | 2023-01-13 |
 | [Closure \- Da Capo Remix](https://open.spotify.com/track/7cu8ApnsJEQd55s5zLnnxv) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Lisa M](https://open.spotify.com/artist/5sHfCQraWdRFT6ctrXQU71), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Closure \(Da Capo Remix\)](https://open.spotify.com/album/2GeA9Jyw55B23Oza46uTrC) | 7:12 | 2023-06-19 |  |
-| [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Colorblind \(WhoMadeWho Remix\)](https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon) | 7:15 | 2023-02-17 |  |
+| [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/1dZybfK5AztMba3tqDvT7O) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK) | 7:15 | 2023-07-07 |  |
+| [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Colorblind \(WhoMadeWho Remix\)](https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon) | 7:15 | 2023-02-17 | 2023-07-14 |
 | [Common](https://open.spotify.com/track/5KVHIPg5KoDCFnDeU9eUeJ) | [Chopstar](https://open.spotify.com/artist/3bPJ3xJgrC92YtEAQJ3Eyc) | [My Testimony](https://open.spotify.com/album/1EdntZFB1xZSls3F4z7vf8) | 5:18 | 2023-02-02 | 2023-03-18 |
 | [Control \- Radio Edit](https://open.spotify.com/track/3kAyD8NYOjmeNCopdd28Iw) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Priscilla](https://open.spotify.com/artist/35dOlJVSlUnLCztw8UBNAx) | [Control \(Radio Edit\)](https://open.spotify.com/album/0pFC3iXgE4KY0wMBY3BADE) | 4:01 | 2022-11-11 | 2023-01-13 |
 | [Crush](https://open.spotify.com/track/69oXiXBdSLgPK9ayBdnE34) | [Cameron Jack](https://open.spotify.com/artist/3ZziXomLvLKvBpTDzxcypH) | [Crush](https://open.spotify.com/album/6cgpRG3y1okC2TUt2mCeQr) | 4:35 | 2023-02-17 | 2023-03-18 |

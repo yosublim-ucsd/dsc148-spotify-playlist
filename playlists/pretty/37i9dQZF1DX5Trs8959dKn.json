@@ -1,15 +1,15 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 6777,
+  "num_followers": 6839,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmQ1M2IyMmQ1N2RkMTk5NzgxMTY3ZTVlYmYxY2I0Y2ZlZjY1ZDYz",
+  "snapshot_id": "MCxkZjdiZTliZWQxNTc2OWEyNDZkOWNjYjE2ZGM0NTkwNzIyYjMzYTMx",
   "tracks": [
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Dependable God (Medley)",
         "url": "https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj"
@@ -25,7 +25,71 @@
       "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Faith is Rising",
+        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "You are Yahweh",
+      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Testimony Worship Medley",
+        "url": "https://open.spotify.com/album/2BuAF8tPTeBEuB4Az545gX"
+      },
+      "artists": [
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "duration_ms": 535296,
+      "name": "Testimony Worship Medley",
+      "url": "https://open.spotify.com/track/1Z1U6teGq96pTchS4pix5B"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 454829,
+      "name": "See What the Lord Has Done",
+      "url": "https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Jesus Oh",
         "url": "https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY"
@@ -45,75 +109,7 @@
       "url": "https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Faith is Rising",
-        "url": "https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "You are Yahweh",
-      "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 454829,
-      "name": "See What the Lord Has Done",
-      "url": "https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Suddenly + Amazing God (Double Single)",
         "url": "https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS"
@@ -129,7 +125,7 @@
       "url": "https://open.spotify.com/track/0NtWw4mWMpScT8b9m6unIu"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Kingdom Now",
         "url": "https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn"
@@ -145,7 +141,7 @@
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
@@ -161,7 +157,7 @@
       "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "The Kadosh (Live)",
         "url": "https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr"
@@ -181,7 +177,23 @@
       "url": "https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 318066,
+      "name": "You I Live For",
+      "url": "https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "The Son of God (& Imela)",
         "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
@@ -201,23 +213,7 @@
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 318066,
-      "name": "You I Live For",
-      "url": "https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
@@ -233,7 +229,7 @@
       "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
@@ -253,7 +249,7 @@
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "You are Great",
         "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
@@ -269,7 +265,7 @@
       "url": "https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
@@ -285,7 +281,7 @@
       "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
@@ -309,7 +305,7 @@
       "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Return Rev. 2:4",
         "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
@@ -325,7 +321,7 @@
       "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "There's an Overflow",
         "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
@@ -341,63 +337,7 @@
       "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "This God Is Too Good",
-        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Micah Stampley",
-          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
-        }
-      ],
-      "duration_ms": 366497,
-      "name": "Onise Iyanu (feat. Micah Stampley)",
-      "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "The Gospel of the Kingdom",
-        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 657059,
-      "name": "Fragrance to Fire",
-      "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "The Expression",
         "url": "https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm"
@@ -417,7 +357,63 @@
       "url": "https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "This God Is Too Good",
+        "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Micah Stampley",
+          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
+        }
+      ],
+      "duration_ms": 366497,
+      "name": "Onise Iyanu (feat. Micah Stampley)",
+      "url": "https://open.spotify.com/track/0S7l0Nz5MztXjkNTppknRp"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "The Gospel of the Kingdom",
+        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 657059,
+      "name": "Fragrance to Fire",
+      "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Kumama",
         "url": "https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "The Cross: My Gaze",
         "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
@@ -449,7 +445,7 @@
       "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "My Altar (Cover)",
         "url": "https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P"
@@ -465,7 +461,7 @@
       "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "The King Is Coming",
         "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
@@ -481,7 +477,7 @@
       "url": "https://open.spotify.com/track/64rX585EFtuNmqIwPERF7y"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Chapter One",
         "url": "https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ"
@@ -497,7 +493,7 @@
       "url": "https://open.spotify.com/track/5EZB6od9Xce4q2WinCfhIM"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
@@ -513,7 +509,7 @@
       "url": "https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "The Cross: My Gaze",
         "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
@@ -529,7 +525,7 @@
       "url": "https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Lost in His Glory",
         "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
@@ -545,7 +541,7 @@
       "url": "https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
@@ -573,7 +569,7 @@
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Spirit Chant",
         "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
@@ -589,7 +585,7 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Fearless Wrshp",
         "url": "https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd"
@@ -605,7 +601,7 @@
       "url": "https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "The Name of Jesus: Sinach Live in Concert",
         "url": "https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ"
@@ -621,7 +617,7 @@
       "url": "https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Journey To The Deep (Prayer Chants)",
         "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
@@ -637,7 +633,7 @@
       "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Unlimited Verse 2",
         "url": "https://open.spotify.com/album/20YMmzwkCTcSgbk4hB3Jj4"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Lara George",
         "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
@@ -669,7 +665,39 @@
       "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 317204,
+      "name": "All the Glory",
+      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Lost in His Glory",
+        "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 355800,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Out of My Belly (Live)",
         "url": "https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM"
@@ -693,39 +721,27 @@
       "url": "https://open.spotify.com/track/50nShU4u2162BawAOHjH03"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 317204,
-      "name": "All the Glory",
-      "url": "https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Lost in His Glory",
-        "url": "https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5"
-      },
-      "artists": [
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
         {
-          "name": "Sonnie Badu",
-          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 355800,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0H5lLW8qybOadIxSO730jY"
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Chapter One",
         "url": "https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/1ECetasD2CDQ9sCxlX9y6G"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "God of Miracles",
         "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Xperience with Love",
         "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
@@ -773,7 +789,23 @@
       "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Colours of Africa: Live in London",
+        "url": "https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd"
+      },
+      "artists": [
+        {
+          "name": "Sonnie Badu",
+          "url": "https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo"
+        }
+      ],
+      "duration_ms": 455206,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/79GIdsRB1B2nQ8RIWVpG1I"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Cindy's Messiah",
         "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Life and Worship Chapter 1",
         "url": "https://open.spotify.com/album/09CZxo7F03KAMVuGwKQz9X"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/7wvd86p1SSGKhb6iLRMCG2"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "IBUKA",
         "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
-      "added_at": "2023-06-30 06:20:28",
+      "added_at": "2023-07-13 23:00:00",
       "album": {
         "name": "Jesus",
         "url": "https://open.spotify.com/album/21HPnA3qQwwttWJm5vhQOB"
@@ -835,38 +867,6 @@
       "duration_ms": 530381,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "Wonders (Live)",
-        "url": "https://open.spotify.com/album/42imw6HApqycDjSpAhXpGQ"
-      },
-      "artists": [
-        {
-          "name": "Jedidiaah",
-          "url": "https://open.spotify.com/artist/38PprjtWjRZWei6vEZHTC7"
-        }
-      ],
-      "duration_ms": 581147,
-      "name": "Wonders - Live",
-      "url": "https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue"
-    },
-    {
-      "added_at": "2023-06-30 06:20:28",
-      "album": {
-        "name": "I No Dey Barb (Live)",
-        "url": "https://open.spotify.com/album/2Txpw7FNGiW196XcEyaymm"
-      },
-      "artists": [
-        {
-          "name": "Vessel Chordrick",
-          "url": "https://open.spotify.com/artist/6EGiCuki3lR2xk4PuoGCbr"
-        }
-      ],
-      "duration_ms": 503379,
-      "name": "I No Dey Barb - Live",
-      "url": "https://open.spotify.com/track/0uciaLe3hi9e3DajkIfgQ9"
     }
   ],
   "unique_name": "On Bended Knees",

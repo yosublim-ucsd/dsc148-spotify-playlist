@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Little Dragon
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,162 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,180 likes - 85 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 |
 | 2 | [TV LOVE](https://open.spotify.com/track/2MieJBlO7Tra8Vv9nsPy6w) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [OCPY](https://open.spotify.com/album/6mLweu3OdJUR6sEFf86ym2) | 3:19 |
-| 3 | [Tired Of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 |
+| 3 | [Tired of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 |
 | 4 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 |
 | 5 | [Empty Mansions](https://open.spotify.com/track/5GdSPrFUgE6bGpyVYxxqyK) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:25 |
 | 6 | [Mind is Light](https://open.spotify.com/track/4n5G4vTYpVOpgU1lQLnjSi) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Mind is Light](https://open.spotify.com/album/09xrm1F88FL1OI9kJ8pTkk) | 3:35 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 |
 | 85 | [Seeking For Connection](https://open.spotify.com/track/02lOqWWFVJ03uEf80YDrrk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Seeking For Connection](https://open.spotify.com/album/0mhtW9uXg47fTa35fFk72C) | 2:54 |
 
-Snapshot ID: `MCxlMzMzY2UxNzUwZWFlMjY3ZWIxY2FjNzA1MzQ0NDI4OTNlZTNlODk5`
+Snapshot ID: `MCw0N2Q0N2Q0NjdlYTMyYWNiYjE4YjA3NGU5MDNmZDBiYTNlMTgyODgw`

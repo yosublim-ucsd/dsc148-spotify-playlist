@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Chris Stussy",
-  "num_followers": 87989,
+  "num_followers": 88149,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmI2Y2QzZTlmOTIwYjZmMDZhYWU2NjYyYjRhNzZkY2ZlNTQ2NzA4",
+  "snapshot_id": "MCw5MDUwYWMzYzM3ODE5NDQ4NGNlZWMxYjRjOWRmMDU3OTMzZjU5ODll",
   "tracks": [
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
+        "name": "Zodiac",
+        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Zodiac",
+      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
         "name": "I Wanna (Tchami Remix)",
         "url": "https://open.spotify.com/album/2fOLNCoJ05kE14n4bXGDXr"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 215433,
       "name": "I Wanna - Tchami Remix",
       "url": "https://open.spotify.com/track/4eQiN1WgQ3Q8X7MF2okSTo"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
-        "name": "Zodiac",
-        "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Zodiac",
-      "url": "https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
+        "name": "Molfar",
+        "url": "https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Molfar",
+      "url": "https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
         "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
         "url": "https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 289171,
       "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
       "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
-        "name": "Molfar",
-        "url": "https://open.spotify.com/album/1j0XrEQ6r8bAeNmJj5aoON"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Molfar",
-      "url": "https://open.spotify.com/track/1MHO5ebuwaSgGaccdC5VPr"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Rumblah",
-        "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Rumblah",
-      "url": "https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
         "name": "Meadow (TH;EN Remix)",
         "url": "https://open.spotify.com/album/1ugdAMk8C2uhwiJKNXgppx"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 199196,
       "name": "Meadow - TH;EN Remix",
       "url": "https://open.spotify.com/track/6MPov1hDIHfNZLXmCuGE3D"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "Rumblah",
+        "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Rumblah",
+      "url": "https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Oxygen Levels Low EP",
-        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
-      },
-      "artists": [
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        }
-      ],
-      "duration_ms": 446280,
-      "name": "Oxygen Levels Low",
-      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 301838,
       "name": "The One",
       "url": "https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
+        "name": "Oxygen Levels Low EP",
+        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "duration_ms": 446280,
+      "name": "Oxygen Levels Low",
+      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "duration_ms": 464026,
+      "name": "Between Two Worlds",
+      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-07-03 17:19:48",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5dJxuHqAVPrkq96UrZp8kt"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 288780,
       "name": "Moonlight - Radio Edit",
       "url": "https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0"
-    },
-    {
-      "added_at": "2023-07-03 17:19:48",
-      "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        }
-      ],
-      "duration_ms": 464026,
-      "name": "Between Two Worlds",
-      "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
     },
     {
       "added_at": "2023-07-03 17:19:48",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2023-07-03 17:19:48",
       "album": {
-        "name": "Hand In Hand",
-        "url": "https://open.spotify.com/album/7o0zNST2JahsXsGG5Sa2La"
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/7kcV8TW3tkiXJhlwJStE39"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
         },
         {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
         }
       ],
-      "duration_ms": 231023,
-      "name": "Hand In Hand",
-      "url": "https://open.spotify.com/track/4GJZ5n1yMkRAKfhr2uSLim"
+      "duration_ms": 307141,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/4HSLPlVJBKKD0e6v3wrMNJ"
     },
     {
       "added_at": "2023-07-03 17:19:48",

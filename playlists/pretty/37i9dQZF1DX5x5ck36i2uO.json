@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8316,
+  "num_followers": 8331,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzM4MDAzMWE5Y2I3MjIyZDFiNWY4MGRkZjFjZjUyNzlhNGY2YTM1",
+  "snapshot_id": "MCwwMDljNzY1ZDM3YzRjZWEzZjY3NzBjM2I5Mzk2NjUxZDY4ZTgzNTk2",
   "tracks": [
     {
       "added_at": "2023-07-07 15:37:40",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-07 15:37:40",
       "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Roommate",
-      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
-    },
-    {
-      "added_at": "2023-07-07 15:37:40",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 159230,
       "name": "Color (Feat. youra)",
       "url": "https://open.spotify.com/track/1ruwBe8TgkNnlKUiwXTxWB"
+    },
+    {
+      "added_at": "2023-07-07 15:37:40",
+      "album": {
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Roommate",
+      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
     },
     {
       "added_at": "2023-07-07 15:37:40",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-07-07 15:37:40",
       "album": {
+        "name": "WALKIN', Vol. 1",
+        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        }
+      ],
+      "duration_ms": 257687,
+      "name": "I Get Lifted X Beenzino",
+      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+    },
+    {
+      "added_at": "2023-07-07 15:37:40",
+      "album": {
         "name": "SS",
         "url": "https://open.spotify.com/album/009trYzXkJyK7YSoXpHOyR"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 205818,
       "name": "SS (Prod. by KHYO)",
       "url": "https://open.spotify.com/track/7GltFE6DxuGvPH0mQ9Snlj"
-    },
-    {
-      "added_at": "2023-07-07 15:37:40",
-      "album": {
-        "name": "WALKIN', Vol. 1",
-        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
-      },
-      "artists": [
-        {
-          "name": "PEEJAY",
-          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
-        }
-      ],
-      "duration_ms": 257687,
-      "name": "I Get Lifted X Beenzino",
-      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
     },
     {
       "added_at": "2023-07-07 15:37:40",

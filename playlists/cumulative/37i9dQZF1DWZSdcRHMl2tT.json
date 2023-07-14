@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 187697,
       "name": "3 ways of summer",
       "url": "https://open.spotify.com/track/5YHH105qftz7WPDE6wkSwJ"
@@ -380,6 +380,24 @@
       "duration_ms": 186000,
       "name": "Balearic Dream",
       "url": "https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8"
+    },
+    {
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/78AcTNepM0678k7YasmNpe"
+      },
+      "artists": [
+        {
+          "name": "Salavant",
+          "url": "https://open.spotify.com/artist/4bPwvN46TZwzf5G00otLbO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143048,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR"
     },
     {
       "album": {
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185739,
       "name": "Flic-en-Flac",
       "url": "https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl"
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 172894,
       "name": "Infinite Twin",
       "url": "https://open.spotify.com/track/7wRn9WJMM6yGFobxdeRrBh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Hayden Coffman, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,001 likes - 152 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,084 likes - 152 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 151 | [Everybody's Got One](https://open.spotify.com/track/1QhDqP1U54odU2rzZDJLPV) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Everybody's Got One](https://open.spotify.com/album/7t5cYhYaSq9L0guSffDdtl) | 2:47 |
 | 152 | [Fine Without You](https://open.spotify.com/track/178n3WsHFIPeSDZoS70QD2) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Fine Without You](https://open.spotify.com/album/3PStd97C3cl4A5D491RWgK) | 2:05 |
 
-Snapshot ID: `MCw2NWYxZTBiMTgyOTM2ZDBhZTk3NWUxMzY2Mjg4NjJkM2UyZWYxY2U1`
+Snapshot ID: `MCw4Zjc0OTBlZWU3ZjkyNmU3YmU1MmMxMWQ5Yzk3YmVjODhhZmMyNDk1`

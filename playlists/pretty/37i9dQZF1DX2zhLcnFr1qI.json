@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 53630,
+  "num_followers": 53623,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWNhYTQwM2NmNjFlYmVjODY4Yjg4ZDM1YmFkMTIyYzBmYmM2NDNi",
+  "snapshot_id": "MCw3ZDNlZDYwN2U1MzBmODgxZjVjYTkwNjViZDBhOTIyZDRmMDYyOWQw",
   "tracks": [
     {
       "added_at": "2022-12-16 05:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "2020 Christmas",
-        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
-      },
-      "artists": [
-        {
-          "name": "Dominique",
-          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "2020 Christmas",
-      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
         "url": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 188264,
       "name": "All I Want for Christmas is You",
       "url": "https://open.spotify.com/track/7rO4mCUZoujb79lq314vCA"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "2020 Christmas",
+        "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
+      },
+      "artists": [
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "2020 Christmas",
+      "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Home Alone (On the Night Before Christmas)",
-        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 125039,
-      "name": "Santa Claus is Coming to Town",
-      "url": "https://open.spotify.com/track/1fsRifOL2vyZHPSrqFruo8"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Kaskade Christmas",
         "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 167373,
       "name": "Christmas is Here (feat. Late Night Alumni)",
       "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Home Alone (On the Night Before Christmas)",
+        "url": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 125039,
+      "name": "Santa Claus is Coming to Town",
+      "url": "https://open.spotify.com/track/1fsRifOL2vyZHPSrqFruo8"
     },
     {
       "added_at": "2022-12-16 05:00:00",
@@ -419,30 +419,6 @@
     {
       "added_at": "2022-12-16 05:00:00",
       "album": {
-        "name": "Battle (Cause & Affect Jingle Bells Remix)",
-        "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
-      },
-      "artists": [
-        {
-          "name": "Riddim Commission",
-          "url": "https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Cause & Affect",
-          "url": "https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Battle - Cause & Affect Jingle Bells Remix",
-      "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
-    },
-    {
-      "added_at": "2022-12-16 05:00:00",
-      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 207469,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb"
+    },
+    {
+      "added_at": "2022-12-16 05:00:00",
+      "album": {
+        "name": "Battle (Cause & Affect Jingle Bells Remix)",
+        "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
+      },
+      "artists": [
+        {
+          "name": "Riddim Commission",
+          "url": "https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Cause & Affect",
+          "url": "https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Battle - Cause & Affect Jingle Bells Remix",
+      "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
     },
     {
       "added_at": "2022-12-16 05:00:00",

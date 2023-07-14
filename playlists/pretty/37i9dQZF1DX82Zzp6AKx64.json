@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1132305,
+  "num_followers": 1132606,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWY3MDBkZGZkNzExYmZmZDNjY2NkYjkxNzRlY2FjNzY5MDU5Y2Y1",
+  "snapshot_id": "MCw4YzgyN2QzY2E1MDZhMGY3ZTE3ODQ2NzZmNGY4Zjk1NTQ3NTA4NDAx",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Steelheart",
-        "url": "https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ"
-      },
-      "artists": [
-        {
-          "name": "STEELHEART",
-          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "I'll Never Let You Go",
-      "url": "https://open.spotify.com/track/43v1rIzI5SvzVvXsvI8F9j"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
         "name": "The Lizard",
         "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
       },
@@ -1599,18 +1583,34 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Abbey Road (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
+        "name": "Steelheart",
+        "url": "https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "STEELHEART",
+          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
         }
       ],
-      "duration_ms": 207146,
-      "name": "Oh! Darling - 2019 Mix",
-      "url": "https://open.spotify.com/track/3UHv8SSIkNUDRBUHJx3Cg6"
+      "duration_ms": 306560,
+      "name": "I'll Never Let You Go",
+      "url": "https://open.spotify.com/track/43v1rIzI5SvzVvXsvI8F9j"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 335872,
+      "name": "Goodbye to Romance",
+      "url": "https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R"
     }
   ],
   "unique_name": "Rock Power Ballads",

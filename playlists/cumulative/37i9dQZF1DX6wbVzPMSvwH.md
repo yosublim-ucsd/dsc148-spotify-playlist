@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-99 songs - 6 hr 15 min
+100 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [There's a Light at the End of the Tunnel](https://open.spotify.com/track/1KtBupQOZA11CAiwl2VfoF) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ), [Rekti Yoewono](https://open.spotify.com/artist/5wg7167xaH0ILxlcDymFlM) | [Day by Day](https://open.spotify.com/album/3Fxba1JUppkx30LoFcWuz7) | 3:24 | 2022-12-13 |  |
 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 | 2022-12-13 |  |
 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 | 2022-12-13 |  |
+| [Tunggu Aku](https://open.spotify.com/track/1lIGMeQY4mQRZmiZCGukDl) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Sendiri](https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR) | 3:22 | 2023-07-13 |  |
 | [Tunggu Aku Di Jakarta](https://open.spotify.com/track/0Z0K5nZGqw8WuV4WOLxVnR) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 5:07 | 2022-12-13 |  |
 | [Yang Kusayang](https://open.spotify.com/track/07u51YjzguLY8v8XHQaBMd) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Yang Kusayang](https://open.spotify.com/album/4sZAdMtWkGYd1wI643Y2on) | 4:22 | 2022-12-13 |  |
 | [You](https://open.spotify.com/track/79xK6U9ebkeiE5W3n0ejAI) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [You](https://open.spotify.com/album/3PvrFFoalcNBqVhzrYPidR) | 4:04 | 2022-12-13 | 2023-01-10 |

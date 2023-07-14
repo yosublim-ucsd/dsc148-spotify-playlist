@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Aziz Hedra
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Awdella
 
-157 songs - 9 hr 50 min
+160 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [24 Jam](https://open.spotify.com/track/0TQbvVM5D5wAgbF3uhXEsQ) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [24 Jam](https://open.spotify.com/album/2uK6XYBT5Gsj5ej97qMWzr) | 3:36 | 2021-11-25 | 2022-03-25 |
 | [After School Sad Session](https://open.spotify.com/track/6TXFjtfLV3HvMna0mSoGEL) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [After School Sad Session](https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ) | 2:25 | 2023-04-13 |  |
 | [Ajur Mumur](https://open.spotify.com/track/30NDRknWvH6eRPIZwERRQJ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ajur Mumur](https://open.spotify.com/album/4pNFORxfVZ4gfBaaogJMFy) | 4:44 | 2021-11-25 | 2022-03-25 |
+| [Akhir Cerita Cinta](https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Akhir Cerita Cinta](https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem) | 5:04 | 2023-07-13 |  |
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2v3asiNSERjr0e9N37O62z) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/7tWVynEyRLO8eGVrkXl64l) | 3:35 | 2022-03-24 | 2022-07-29 |
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2yhAtx8uyIKRnxLX3ftu8I) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/2WbvbkUUDWh8yFKxzXNux1) | 3:35 | 2022-07-28 | 2023-04-14 |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2021-11-25 | 2022-03-25 |
@@ -44,6 +45,7 @@
 | [Favorite](https://open.spotify.com/track/6Nd7rc30EsFdGrwfeB8N2n) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Mirror](https://open.spotify.com/album/51etW6Ge46Vuuvhq5cgTQ6) | 3:25 | 2022-03-24 | 2023-04-14 |
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2021-11-25 | 2022-03-25 |
 | [Gem In I](https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Mouzect](https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu) | [Gem In I](https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3) | 3:08 | 2021-11-25 | 2022-03-25 |
+| [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 | 2023-07-13 |  |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2023-04-14 |
 | [goodbye \(but i love you so\)](https://open.spotify.com/track/11m4b4pLPkjREaA4p9CQGR) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [goodbye \(but i love you so\)](https://open.spotify.com/album/7cPgBJ1xi3QLgeLNtcDsmu) | 3:22 | 2022-03-24 | 2023-04-14 |
 | [Hahaha](https://open.spotify.com/track/6TeXaBY0c9lIG5x9Qs2s3H) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kumpulan Cerita Pendek](https://open.spotify.com/album/1YtbLVcymkCfIM5BzocDge) | 3:16 | 2022-01-27 | 2022-03-25 |
@@ -73,6 +75,7 @@
 | [Karma](https://open.spotify.com/track/5EdR4T0aRFTb18gtmbCNYL) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Karma](https://open.spotify.com/album/59BX9nwYcT4VuU9TbAf7HA) | 3:49 | 2022-10-06 | 2023-04-14 |
 | [Kau Rumahku](https://open.spotify.com/track/7IRi1d3Nsrww8mnGv1YW4l) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/4NAkOFSqThyy06ViavcOpQ) | 4:35 | 2022-03-24 | 2022-07-29 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-07-28 | 2023-04-14 |
+| [Kau Tawarkan Setia \- Live Ska Reggae](https://open.spotify.com/track/58oW9oFIX72doGmyE88ONZ) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kau Tawarkan Setia \(Live Ska Reggae\)](https://open.spotify.com/album/4vPsd3xq8zJIriTDHkxvhh) | 6:53 | 2023-07-13 |  |
 | [KAWASAKI](https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [KAWASAKI](https://open.spotify.com/album/44SgcdObjod1zClkfe5NoL) | 2:16 | 2023-04-13 |  |
 | [Kebal Kelaran](https://open.spotify.com/track/2PJt7EOOh92Khzjr9T7QTq) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/39PM31EBVu9TUyeql8wJhz) | 4:29 | 2021-11-25 | 2022-03-25 |
 | [Kebal Kelaran](https://open.spotify.com/track/6TcBc2Bs6PGYIl1oJMbzMR) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/0C4eIv3pgBnMJFrhcj8bt5) | 4:34 | 2021-11-25 | 2022-03-25 |

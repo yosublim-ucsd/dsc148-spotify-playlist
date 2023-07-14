@@ -6,7 +6,7 @@
     "name": "Johnny Le",
     "url": "https://open.spotify.com/user/12158668258"
   },
-  "snapshot_id": "MjkzLDE4ZTg4ZDViYjg4NGZlOWY0M2VkNGU4MDhiMjI4YWM5MjNmMzgyMjU=",
+  "snapshot_id": "Mjk1LDRjM2NiZjE4NzYyZjFhNTVjMjM1Mjk2YWQ3ZmE0N2MxNmQ3ZjJlNTI=",
   "tracks": [
     {
       "added_at": "2022-08-25 09:19:40",
@@ -3195,6 +3195,38 @@
       "duration_ms": 93520,
       "name": "pacman",
       "url": "https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc"
+    },
+    {
+      "added_at": "2023-07-11 07:09:00",
+      "album": {
+        "name": "Moodswings in This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "So Beautiful",
+      "url": "https://open.spotify.com/track/6syar8JKCt3R9ZBl11zmgI"
+    },
+    {
+      "added_at": "2023-07-12 07:54:55",
+      "album": {
+        "name": "scared of everything",
+        "url": "https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 60333,
+      "name": "could you love me while i hate myself",
+      "url": "https://open.spotify.com/track/7uo2L5FAja3pWIBa3HJVeC"
     }
   ],
   "unique_name": "//divided.",

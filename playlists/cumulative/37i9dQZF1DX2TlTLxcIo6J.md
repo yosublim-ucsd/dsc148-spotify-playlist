@@ -2,7 +2,7 @@
 
 ### [RADAR Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX2TlTLxcIo6J)
 
-> From across the globe\. New Songwriters on the horizon\. Cover: <a href="open.spotify.com/playlist/37i9dQZF1EFAAKtXkfKzuV?si=2c1e97566c3541ea">Stevie Bashir</a>
+> From across the globe\. New Songwriters on the horizon\. Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFAAKtXkfKzuV?si=3291eaa24799442c">Stevie Bashir</a>
 
 50 songs - 2 hr 38 min
 

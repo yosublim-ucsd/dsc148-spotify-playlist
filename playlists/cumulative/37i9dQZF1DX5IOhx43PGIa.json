@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 131140,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/7vxvK8mCE55uVSCRSHFvwB"
@@ -1872,6 +1872,28 @@
       "duration_ms": 169760,
       "name": "do it right (feat. Amin\u00e9)",
       "url": "https://open.spotify.com/track/6bKM56cyoz8kjiK7QKQ87i"
+    },
+    {
+      "album": {
+        "name": "Doesn't Matter",
+        "url": "https://open.spotify.com/album/7EQam9angfCYD0jnTwiurs"
+      },
+      "artists": [
+        {
+          "name": "Win and Woo",
+          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+        },
+        {
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Doesn't Matter",
+      "url": "https://open.spotify.com/track/4WFIPUgCBQdDpg4S5lvrKl"
     },
     {
       "album": {

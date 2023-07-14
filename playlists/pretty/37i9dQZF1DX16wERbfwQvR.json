@@ -1,12 +1,12 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 68499,
+  "num_followers": 68517,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDJiYmVjOGNhYTg3OTFkY2QwOTQyNzczNjcwM2JkMTI1OTA5ZTkz",
+  "snapshot_id": "MCw4MjhkNDJmYzU2YTllOTkyMzJmZGU0YmE4ZTYzMDQyZjhlZGI2YjBl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -367,50 +367,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: The Creation H.21",
-        "url": "https://open.spotify.com/album/03H4lvDW7nfpbgX0xE9yNr"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "G\u00f6sta Winbergh",
-          "url": "https://open.spotify.com/artist/7mKGVHZ08PYQA8UfvIrJb1"
-        },
-        {
-          "name": "Kurt Moll",
-          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Stockholm Radio Chorus",
-          "url": "https://open.spotify.com/artist/6RGJYfFuUFnXIo5xLK65Mo"
-        },
-        {
-          "name": "Stockholm Chamber Choir",
-          "url": "https://open.spotify.com/artist/2yQrhuWZTprpYn7VrpUjBR"
-        },
-        {
-          "name": "Gustav Sj\u00f6kvist",
-          "url": "https://open.spotify.com/artist/1Cq9G4NKJQmwy342M9JmCk"
-        }
-      ],
-      "duration_ms": 780826,
-      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: Einleitung - Rezitativ und Chor: \"Im Anfange\"",
-      "url": "https://open.spotify.com/track/5aNKYrgylkMhI0d51oYkHf"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "The Essential Wynton Marsalis",
         "url": "https://open.spotify.com/album/65NkAlSzLswzoFJ3SHezQa"
       },
@@ -455,6 +411,50 @@
       "duration_ms": 501533,
       "name": "The Seven Last Words of Christ, Hob.XX:2: Sonata II \"F\u00fcrwahr, ich sag' es dir\" (Grave e cantabile)",
       "url": "https://open.spotify.com/track/0b5ErGJr4brN0Es73O2BS3"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: The Creation H.21",
+        "url": "https://open.spotify.com/album/03H4lvDW7nfpbgX0xE9yNr"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "G\u00f6sta Winbergh",
+          "url": "https://open.spotify.com/artist/7mKGVHZ08PYQA8UfvIrJb1"
+        },
+        {
+          "name": "Kurt Moll",
+          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Stockholm Radio Chorus",
+          "url": "https://open.spotify.com/artist/6RGJYfFuUFnXIo5xLK65Mo"
+        },
+        {
+          "name": "Stockholm Chamber Choir",
+          "url": "https://open.spotify.com/artist/2yQrhuWZTprpYn7VrpUjBR"
+        },
+        {
+          "name": "Gustav Sj\u00f6kvist",
+          "url": "https://open.spotify.com/artist/1Cq9G4NKJQmwy342M9JmCk"
+        }
+      ],
+      "duration_ms": 780826,
+      "name": "Die Sch\u00f6pfung Hob. XXI:2 / Erster Teil: Einleitung - Rezitativ und Chor: \"Im Anfange\"",
+      "url": "https://open.spotify.com/track/5aNKYrgylkMhI0d51oYkHf"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Piano Trios, Vol. 1",
-        "url": "https://open.spotify.com/album/3TZzjLOg6FxUMuIm4DIImI"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Kungsbacka Piano Trio",
-          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
-        }
-      ],
-      "duration_ms": 158413,
-      "name": "Keyboard Trio No. 24 in D Major, Hob.XV:24: III. Allegro, ma dolce",
-      "url": "https://open.spotify.com/track/1ZAu3D1SvPysNxuXUrLv5h"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Masses",
         "url": "https://open.spotify.com/album/546Sw0Tal4QjDL77WH35T8"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 448503,
       "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": II. Adagio cantabile",
       "url": "https://open.spotify.com/track/1oStfg4y3wqWl7FK0SQ7yr"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Piano Trios, Vol. 1",
+        "url": "https://open.spotify.com/album/3TZzjLOg6FxUMuIm4DIImI"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kungsbacka Piano Trio",
+          "url": "https://open.spotify.com/artist/5gzVaS7L2VUMc3yv6Wfee1"
+        }
+      ],
+      "duration_ms": 158413,
+      "name": "Keyboard Trio No. 24 in D Major, Hob.XV:24: III. Allegro, ma dolce",
+      "url": "https://open.spotify.com/track/1ZAu3D1SvPysNxuXUrLv5h"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -875,30 +875,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: Symphonies, Vol. 5 (Nos. 85, 92, 103)",
-        "url": "https://open.spotify.com/album/2u04gxtAnTADbzKOc1OtW4"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Barry Wordsworth",
-          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
-        }
-      ],
-      "duration_ms": 554000,
-      "name": "Symphony No. 103 in E-Flat Major, Hob.I:103, \"Drumroll\"*: I. Adagio - Allegro con spirito",
-      "url": "https://open.spotify.com/track/5x0W4Ed2jjNJs9ztrzexft"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn: Grosse Orgelsolomesse - Heiligmesse",
         "url": "https://open.spotify.com/album/5KbXfDgAFnJub3fsW3ra6B"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 171840,
       "name": "Mass No. 5 in E-Flat Major, Hob.XXII:4, \"Missa in honorem BVM\", \"Missa Sancti Josephi\", \"Grosse Orgelsolomesse\": Agnus Dei",
       "url": "https://open.spotify.com/track/62rW7jeulBf0zH12HZxhhH"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: Symphonies, Vol. 5 (Nos. 85, 92, 103)",
+        "url": "https://open.spotify.com/album/2u04gxtAnTADbzKOc1OtW4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Barry Wordsworth",
+          "url": "https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN"
+        }
+      ],
+      "duration_ms": 554000,
+      "name": "Symphony No. 103 in E-Flat Major, Hob.I:103, \"Drumroll\"*: I. Adagio - Allegro con spirito",
+      "url": "https://open.spotify.com/track/5x0W4Ed2jjNJs9ztrzexft"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1099,6 +1099,50 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Haydn, J.: Masses, Vol. 4 - Masses Nos. 8, \"Mariazellermesse\" and 10, \"Paukenmesse\"",
+        "url": "https://open.spotify.com/album/6rlvbgO5kqFichwOfSiRV6"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Ann Hoyt",
+          "url": "https://open.spotify.com/artist/2PIMJFgmck2HDAFf5dwilT"
+        },
+        {
+          "name": "Kirsten Sollek",
+          "url": "https://open.spotify.com/artist/5wgYm38P8ERcYjIXyiVKeI"
+        },
+        {
+          "name": "Daniel Neer",
+          "url": "https://open.spotify.com/artist/0LQzHYQIj2P0ixNyroiQAi"
+        },
+        {
+          "name": "Richard Lippold",
+          "url": "https://open.spotify.com/artist/0FICCgOYtqr5BajM6qF5uG"
+        },
+        {
+          "name": "Trinity Church Choir, New York",
+          "url": "https://open.spotify.com/artist/0hrQY4jwTrs2mJ4F7lSCHY"
+        },
+        {
+          "name": "Rebel Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/2tziKFy9cXe4jtsa6W71bR"
+        },
+        {
+          "name": "Owen Burdick",
+          "url": "https://open.spotify.com/artist/02Zrt8ny3hMwE3D3R4O4sa"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Mass No. 10 in C Major, Hob. XXII:9, \"Paukenmesse\": Agnus Dei: Agnus Dei",
+      "url": "https://open.spotify.com/track/7I3yn19QqatCKJELo75Fls"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Haydn: The Creation H.21",
         "url": "https://open.spotify.com/album/03H4lvDW7nfpbgX0xE9yNr"
       },
@@ -1191,50 +1235,6 @@
       "duration_ms": 542853,
       "name": "Symphony No. 94 in G Major \"Surprise\": I. Adagio - vivace assai",
       "url": "https://open.spotify.com/track/3oTjim2aM0FtWB4ePX9JHh"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Haydn, J.: Masses, Vol. 4 - Masses Nos. 8, \"Mariazellermesse\" and 10, \"Paukenmesse\"",
-        "url": "https://open.spotify.com/album/6rlvbgO5kqFichwOfSiRV6"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Ann Hoyt",
-          "url": "https://open.spotify.com/artist/2PIMJFgmck2HDAFf5dwilT"
-        },
-        {
-          "name": "Kirsten Sollek",
-          "url": "https://open.spotify.com/artist/5wgYm38P8ERcYjIXyiVKeI"
-        },
-        {
-          "name": "Daniel Neer",
-          "url": "https://open.spotify.com/artist/0LQzHYQIj2P0ixNyroiQAi"
-        },
-        {
-          "name": "Richard Lippold",
-          "url": "https://open.spotify.com/artist/0FICCgOYtqr5BajM6qF5uG"
-        },
-        {
-          "name": "Trinity Church Choir, New York",
-          "url": "https://open.spotify.com/artist/0hrQY4jwTrs2mJ4F7lSCHY"
-        },
-        {
-          "name": "Rebel Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/2tziKFy9cXe4jtsa6W71bR"
-        },
-        {
-          "name": "Owen Burdick",
-          "url": "https://open.spotify.com/artist/02Zrt8ny3hMwE3D3R4O4sa"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Mass No. 10 in C Major, Hob. XXII:9, \"Paukenmesse\": Agnus Dei: Agnus Dei",
-      "url": "https://open.spotify.com/track/7I3yn19QqatCKJELo75Fls"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Haydn: String Quartets Op. 71",
-        "url": "https://open.spotify.com/album/2qz9Ev5UvGr8u9acNEVwhn"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "Maxwell Quartet",
-          "url": "https://open.spotify.com/artist/6EZc6HtsURkGf0IuXaLtkn"
-        }
-      ],
-      "duration_ms": 384836,
-      "name": "String Quartet in E-Flat Major, Op. 71 No. 3: I. Vivace",
-      "url": "https://open.spotify.com/track/00Q1vUaP6pafeNDqHZ8zVa"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Haydn Edition Volume 5 - Masses, Stabat Mater, Seven Last Words",
         "url": "https://open.spotify.com/album/6FNKlnUgxrjE4QFHWVYdVA"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 389226,
       "name": "Haydn: Stabat Mater, Hob. XXa:1: VIII. Sancta Mater istud agas",
       "url": "https://open.spotify.com/track/6XYs4SWR0uDPhTCK6cwNlD"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Haydn: String Quartets Op. 71",
+        "url": "https://open.spotify.com/album/2qz9Ev5UvGr8u9acNEVwhn"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Maxwell Quartet",
+          "url": "https://open.spotify.com/artist/6EZc6HtsURkGf0IuXaLtkn"
+        }
+      ],
+      "duration_ms": 384836,
+      "name": "String Quartet in E-Flat Major, Op. 71 No. 3: I. Vivace",
+      "url": "https://open.spotify.com/track/00Q1vUaP6pafeNDqHZ8zVa"
     },
     {
       "added_at": "2022-07-29 04:01:00",

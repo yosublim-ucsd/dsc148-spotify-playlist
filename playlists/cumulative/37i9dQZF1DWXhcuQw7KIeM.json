@@ -252,6 +252,24 @@
     {
       "album": {
         "name": "Kvitravn - First Flight of the White Raven",
+        "url": "https://open.spotify.com/album/4yyj6YMX3clychfKehjlRr"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328240,
+      "name": "Fehu - First Flight Of The White Raven LIVE",
+      "url": "https://open.spotify.com/track/6aYm5c6blHJKXV5GptM6bC"
+    },
+    {
+      "album": {
+        "name": "Kvitravn - First Flight of the White Raven",
         "url": "https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB"
       },
       "artists": [
@@ -262,7 +280,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 328240,
       "name": "Fehu - First Flight of the White Raven LIVE",
       "url": "https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E"
@@ -1246,10 +1264,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 398266,
       "name": "Skugge",
       "url": "https://open.spotify.com/track/3e271PjoGBvN2ALz5E55QY"
+    },
+    {
+      "album": {
+        "name": "Kvitravn",
+        "url": "https://open.spotify.com/album/5LNSX7ibqConJ2lAIM598L"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398266,
+      "name": "Skugge",
+      "url": "https://open.spotify.com/track/5E48z1EGgE93HoCpi94nzK"
     },
     {
       "album": {
@@ -1300,10 +1336,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 319292,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/3mAJGIX7q2XdMQzZ7gnew2"
+    },
+    {
+      "album": {
+        "name": "The Line",
+        "url": "https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319292,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/7JZxpUYXrzPCwYK4jlOL6M"
     },
     {
       "album": {
@@ -1318,10 +1372,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/4bJI9uGfjRCWVZnZHaHzuQ"
+    },
+    {
+      "album": {
+        "name": "Snake Pit Poetry",
+        "url": "https://open.spotify.com/album/2oFwWHzumvX0rYfBf1AXYh"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        },
+        {
+          "name": "Hilda Orvarsdottir",
+          "url": "https://open.spotify.com/artist/2R4voTSepmSRDdrN7W7H5Z"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428077,
+      "name": "Snake Pit Poetry",
+      "url": "https://open.spotify.com/track/6R6wY6SsjYZOBFrpYEHUa3"
     },
     {
       "album": {
@@ -2149,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Ferd",
+        "url": "https://open.spotify.com/album/2G0OFHDsL5aAyyuCjAQeMl"
+      },
+      "artists": [
+        {
+          "name": "Kjell Braaten",
+          "url": "https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193833,
+      "name": "\u00d8stavind",
+      "url": "https://open.spotify.com/track/27YMR1cUhUKWQavHL6ojOg"
+    },
+    {
+      "album": {
         "name": "\u00d8stavind",
         "url": "https://open.spotify.com/album/18Ga6kb55vcF8ZBLoonSCu"
       },
@@ -2178,7 +2272,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 193833,
       "name": "\u00d8stavind",
       "url": "https://open.spotify.com/track/7CPBfjEdpQGkaPcOFHr3Kw"

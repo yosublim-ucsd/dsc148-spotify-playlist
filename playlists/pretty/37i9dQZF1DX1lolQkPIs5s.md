@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪『リトル・マーメイド』『ミラベルと魔法だらけの家』『モアナと伝説の海』『アナと雪の女王』『塔の上のラプンツェル』のおなじみの曲から隠れた名曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,312 likes - 127 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,370 likes - 127 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 32 | [How Far I'll Go \- Japanese Version](https://open.spotify.com/track/5cUmp5Dx9FEKFG3UJaVQP7) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz) | [Moana/Vaiana/Oceania Multi\-Language Songs, Vol\. 2](https://open.spotify.com/album/5bNUCxcIfJrHeuPnBHoApQ) | 2:43 |
 | 33 | [Can You Feel the Love Tonight](https://open.spotify.com/track/1zSKtBze2IReYU44W0lDzd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Billy Eichner](https://open.spotify.com/artist/0FVsUxcFSlxwIM7Qs31s6J), [Seth Rogen](https://open.spotify.com/artist/7xX39IyguhWsTIg4eU2reH) | [The Lion King \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e8y48Z2fkJNGBOKSECCeS) | 3:02 |
 | 34 | [Starting Now](https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Starting Now](https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt) | 3:25 |
-| 35 | [レット・イット・ゴー\~ありのままで\~ \- Japanese Version](https://open.spotify.com/track/3uQWsXVaSbY6938V3tJQh3) | [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz) | [Let It Go The Complete Set \(From “Frozen”\)](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:43 |
+| 35 | [レット・イット・ゴー～ありのままで～ \- Japanese Version](https://open.spotify.com/track/3uQWsXVaSbY6938V3tJQh3) | [Takako Matsu](https://open.spotify.com/artist/1UDGHCGnWyikwidtaymNpz) | [Let It Go The Complete Set \(From “Frozen”\)](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:43 |
 | 36 | [Un Poco Loco \- Japanese Version](https://open.spotify.com/track/03F37JsyH3JNgBrRjAFEkT) | [Hiiro Ishibashi](https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Naohito Fujiki](https://open.spotify.com/artist/32C6qbd4GMDJMq6g1RaqaI), [Héctor](https://open.spotify.com/artist/3xjmQWrkwm5EvWN1NH1ArL) | [Coco \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ) | 1:52 |
 | 37 | [タイム・トゥ・シャイン! \- 東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング](https://open.spotify.com/track/4eyqMs4aOzKQTKs7iGJD8Y) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [タイム・トゥ・シャイン! \(東京ディズニーシー20周年:タイム・トゥ・シャイン!テーマソング\)](https://open.spotify.com/album/7se4Oq7PqvUJk24q3GFACl) | 3:21 |
 | 38 | [When Will My Life Begin?](https://open.spotify.com/track/5rL3JDnpLXp3DdkdkQsUW1) | [HARAMIchan](https://open.spotify.com/artist/0d28u7sLYPBfLxWwhiNX8h) | [Disney Happy Piano Tunes](https://open.spotify.com/album/7stNU1gFKceoC1MrANYV2x) | 2:45 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 126 | [Unbirthday Song](https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn) | [Camarata Chorus and Orchestra](https://open.spotify.com/artist/0iwhPeDYMRoXZYNvY8c4C9) | [Alice in Wonderland: Music from the Score, Conducted by Camarata](https://open.spotify.com/album/2gVjsjlMIrC4iXyRJF5IZj) | 2:12 |
 | 127 | [Ducky, Bunny & Tea](https://open.spotify.com/track/0SsRIXMqwZBRHlp1PdbXXn) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eKxK3GqHexeJvi8XLE2xD) | 2:16 |
 
-Snapshot ID: `MCw2MTY5MTI0Yzg3NGI1NGMyNzdjOGE3OGI3NWQwY2I5MmU4ODAyNzNj`
+Snapshot ID: `MCwzMTViYmM3ZDExMzVhYTVkNGUwODVjZWY5ZjYwYjIxOTViNDhkMjY5`

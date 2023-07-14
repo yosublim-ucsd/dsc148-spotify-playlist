@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-516 songs - 1 day 6 hr 7 min
+518 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [All Around Me](https://open.spotify.com/track/0upnL2PcB8zLkZf1q83TUg) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [All Around Me](https://open.spotify.com/album/7x03vOspUDZdFRmpJNwubO) | 3:36 | 2022-04-22 | 2022-07-02 |
 | [All But A Dream](https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [All But A Dream](https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz) | 3:39 | 2023-02-22 | 2023-05-18 |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
-| [All I Wanted](https://open.spotify.com/track/4igUplQuZyjVhgch6bQynh) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [All I Wanted](https://open.spotify.com/album/7FCiKLYYweE3cvqzh7C4ny) | 4:04 | 2023-04-18 |  |
+| [All I Wanted](https://open.spotify.com/track/4igUplQuZyjVhgch6bQynh) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [All I Wanted](https://open.spotify.com/album/7FCiKLYYweE3cvqzh7C4ny) | 4:04 | 2023-04-18 | 2023-07-14 |
 | [All I Wanted](https://open.spotify.com/track/3oKUgGEaQ5bFsYWu6Wc9Dp) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [WAILD](https://open.spotify.com/artist/1OHv2TAFTSsMg21dhyoyEH) | [All I Wanted](https://open.spotify.com/album/2PjrdQeP3ghvirjQBFETkV) | 2:27 | 2023-01-17 | 2023-04-01 |
 | [All In](https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Yury](https://open.spotify.com/artist/2XlwOcXssC0QnupEF3RLov) | [All In](https://open.spotify.com/album/2xtIgNQmBybaMsglf2gKMz) | 3:25 | 2022-03-24 | 2022-06-08 |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 | 2022-10-06 |
@@ -40,7 +40,7 @@
 | [Alpina](https://open.spotify.com/track/5MBs3DUwg497EOnhRJGULO) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Alpina](https://open.spotify.com/album/7rbaL9kGXZGIp7ZFM9zS7F) | 3:22 | 2022-09-14 | 2022-11-12 |
 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 | 2022-04-21 | 2022-07-01 |
 | [Always Running](https://open.spotify.com/track/3otra9el4GhzYrql7RGjGc) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Always Running](https://open.spotify.com/album/10EtmPqHir1tKuUlpT1gY4) | 2:58 | 2022-09-09 | 2022-11-11 |
-| [Amatista](https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Amatista](https://open.spotify.com/album/5w3tcd7riGxhbFSvjXdSp2) | 3:24 | 2023-04-18 |  |
+| [Amatista](https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Amatista](https://open.spotify.com/album/5w3tcd7riGxhbFSvjXdSp2) | 3:24 | 2023-04-18 | 2023-07-14 |
 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 | 2022-08-25 | 2022-11-01 |
 | [Anna](https://open.spotify.com/track/3IMhLID7oyBD0agguYFAkO) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Astroleaf](https://open.spotify.com/artist/0bt0mRWS5att8pFhUkToj4) | [Anna](https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz) | 4:27 | 2022-07-29 | 2022-10-11 |
 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 | 2023-06-19 |  |
@@ -377,7 +377,9 @@
 | [Renaissance](https://open.spotify.com/track/2O333FGzBWwOxg0dSrPplb) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 3:48 | 2022-11-04 | 2022-11-22 |
 | [Renaissance](https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Renaissance](https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1) | 3:48 | 2022-09-30 | 2022-12-04 |
 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 | 2023-05-25 |  |
+| [Rescue Me](https://open.spotify.com/track/2eO91mgRHGTS14QfUrTS1a) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [EMEL](https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr) | [Rescue Me](https://open.spotify.com/album/5zCwzfOhRQWg6iBZoUvCsi) | 4:01 | 2023-07-11 |  |
 | [Retrospective](https://open.spotify.com/track/3zzqGcRJJ4YoegJMnLMYnh) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Garden's Edge](https://open.spotify.com/album/495RJ4HV475juBo05YQXBh) | 3:47 | 2022-11-04 | 2023-01-26 |
+| [Revenge](https://open.spotify.com/track/0kfXOuVx3xUjVgwvxQewcb) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Revenge](https://open.spotify.com/album/62hbktNiahRLgciy8mgGRG) | 3:44 | 2023-07-13 |  |
 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 | 2023-03-08 | 2023-06-01 |
 | [Riders in the Sky](https://open.spotify.com/track/3a5TIKuvze6ZmmPSzElZru) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Riders in the Sky](https://open.spotify.com/album/0o2LL06MoSMePlWc4mVKGU) | 4:42 | 2023-03-27 | 2023-06-20 |
 | [Right Through](https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS) | [The Chase](https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG) | 3:22 | 2022-05-26 | 2022-08-06 |

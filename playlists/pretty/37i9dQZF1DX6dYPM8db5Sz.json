@@ -1,13 +1,205 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp?si=8zvqT4B3RmmGrbtY_vdCLw\">Cece Vee</a> ",
-  "num_followers": 6342,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX?si=lVs8wzTzQrWvdwe-v3w8sQ\">Alice Phoebe Lou</a> ",
+  "num_followers": 6361,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmJkMzE5MzMxY2ZjMzAxYmY5YmUxOGUxZDFiOTMzMzM4NDhmMTgx",
+  "snapshot_id": "MCw4MmJkNjMxMzFlZWMxNjU5MjVlZTU1MWI1YjY2Mzc3NjI5Y2M4NDE3",
   "tracks": [
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/6OvAFU5qsu1BjBxY8IjtkU"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "We're on an Island, but it's the UK",
+        "url": "https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 168860,
+      "name": "We're on an Island, but it's the UK",
+      "url": "https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "Appaloosa Bones",
+      "url": "https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "We Will Meet Again",
+        "url": "https://open.spotify.com/album/44gvqKoDEpsDC9QRE2sChM"
+      },
+      "artists": [
+        {
+          "name": "Hunter As a Horse",
+          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "We Will Meet Again",
+      "url": "https://open.spotify.com/track/7EZk8tmByNxbkr3oRNG369"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Purple Moon",
+        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
+      },
+      "artists": [
+        {
+          "name": "Ilgen-Nur",
+          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
+        }
+      ],
+      "duration_ms": 197203,
+      "name": "Purple Moon",
+      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Always Sunny in My Head",
+        "url": "https://open.spotify.com/album/4frHK8EKoxISElK0XjVQEO"
+      },
+      "artists": [
+        {
+          "name": "Yorxe",
+          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Always Sunny in My Head",
+      "url": "https://open.spotify.com/track/6ecHuWdQ1q1WVMgKp2Z9ni"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Golden Fever",
+        "url": "https://open.spotify.com/album/081UEwj98UG1Vw0yOKHPUc"
+      },
+      "artists": [
+        {
+          "name": "Keanan Eksteen",
+          "url": "https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Maze Of Me",
+      "url": "https://open.spotify.com/track/2SPjpXC6o2lVRZbnTEvu0P"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Comparison Is a Disease",
+        "url": "https://open.spotify.com/album/0TKvehUuvUfdTAD7UjxXJV"
+      },
+      "artists": [
+        {
+          "name": "Largo",
+          "url": "https://open.spotify.com/artist/7Ia8fV5s11Lpj9Fr8VoFZc"
+        }
+      ],
+      "duration_ms": 130134,
+      "name": "Comparison Is a Disease",
+      "url": "https://open.spotify.com/track/4fKIYbRlivll98Aiu3ZD9h"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Letter For You",
+        "url": "https://open.spotify.com/album/0M2LVk7whomCzdHEpvv9pa"
+      },
+      "artists": [
+        {
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+        }
+      ],
+      "duration_ms": 138507,
+      "name": "letter for you",
+      "url": "https://open.spotify.com/track/7vLA0SpjzlLLneMlfSIr3K"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Butter & Breezy",
+        "url": "https://open.spotify.com/album/0Vfdiwwc9rPnFrcSYarlA0"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Arnott",
+          "url": "https://open.spotify.com/artist/0wcIDgL72YoVi3dmCydELC"
+        }
+      ],
+      "duration_ms": 112770,
+      "name": "Butter & Breezy",
+      "url": "https://open.spotify.com/track/7Gcd88P9mHZOuAFNVmU8Xj"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "VIDEO GIRL",
+        "url": "https://open.spotify.com/album/5NMFGvtC0Y2z4FRzXWZodS"
+      },
+      "artists": [
+        {
+          "name": "Fentse.",
+          "url": "https://open.spotify.com/artist/4ze7a3Hlh8YVc31qs0EHHc"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "VIDEO GIRL",
+      "url": "https://open.spotify.com/track/0FlEwDwRmWA7naZtqbKhx9"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "These Four Walls",
+        "url": "https://open.spotify.com/album/6RqWWFYizLsT3eGEHUvyKy"
+      },
+      "artists": [
+        {
+          "name": "Alexx ONell",
+          "url": "https://open.spotify.com/artist/4nUGqAzV4AQgwmIbD499xV"
+        }
+      ],
+      "duration_ms": 192309,
+      "name": "These Four Walls",
+      "url": "https://open.spotify.com/track/7B9HQGF0JH49JYhFZClEM9"
+    },
     {
       "added_at": "2023-07-06 21:59:00",
       "album": {
@@ -389,22 +581,6 @@
       "url": "https://open.spotify.com/track/3BAHkbnoHNQi4EkvbOWmbT"
     },
     {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/2JvhdvKblz0NVv1G0HNsUN"
-      },
-      "artists": [
-        {
-          "name": "Anke Richards",
-          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
-        }
-      ],
-      "duration_ms": 212966,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/065dXQK2VPxThlb9qoOljB"
-    },
-    {
       "added_at": "2023-06-22 21:59:00",
       "album": {
         "name": "Unknown / Nth",
@@ -419,22 +595,6 @@
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Oceanside",
-        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Oceanside",
-      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
     },
     {
       "added_at": "2023-06-22 21:59:00",
@@ -517,26 +677,6 @@
       "url": "https://open.spotify.com/track/4q7Ta95N485EjD1fPXOkZ7"
     },
     {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "your love",
-        "url": "https://open.spotify.com/album/2brAfUAEkU6vYyaq6mWqES"
-      },
-      "artists": [
-        {
-          "name": "Conn",
-          "url": "https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7"
-        },
-        {
-          "name": "ZUBIN",
-          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
-        }
-      ],
-      "duration_ms": 149853,
-      "name": "your love",
-      "url": "https://open.spotify.com/track/5qecUAvO8gfPyheq3E7BFO"
-    },
-    {
       "added_at": "2023-06-22 21:59:00",
       "album": {
         "name": "Dear Host",
@@ -553,22 +693,6 @@
       "url": "https://open.spotify.com/track/7A7gXMYV7cqEYZjPzwwn90"
     },
     {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Feet Up",
-        "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
-      },
-      "artists": [
-        {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "Feet Up",
-      "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
-    },
-    {
       "added_at": "2023-06-22 21:59:00",
       "album": {
         "name": "Find You There",
@@ -583,22 +707,6 @@
       "duration_ms": 185000,
       "name": "Find You There",
       "url": "https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi"
-    },
-    {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "Monster Brain",
-        "url": "https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h"
-      },
-      "artists": [
-        {
-          "name": "Mia Wray",
-          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
-        }
-      ],
-      "duration_ms": 217737,
-      "name": "Monster Brain",
-      "url": "https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG"
     },
     {
       "added_at": "2023-06-22 21:59:00",
@@ -635,22 +743,6 @@
     {
       "added_at": "2023-06-15 21:59:00",
       "album": {
-        "name": "Is It?",
-        "url": "https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 315040,
-      "name": "Days Of Lantana",
-      "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
         "name": "The Seed",
         "url": "https://open.spotify.com/album/386dEHxWISrlTeyn94DSiT"
       },
@@ -681,74 +773,6 @@
       "url": "https://open.spotify.com/track/14J4NyAyHAirsN7SLunFT0"
     },
     {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "It Ain't Right",
-        "url": "https://open.spotify.com/album/3kCLDaqQ6oLxsugNrRIOCk"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Elani Boshoff",
-          "url": "https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9"
-        }
-      ],
-      "duration_ms": 225884,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/41v81LdoyjS0mg8Xk1wJZ5"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Blue Jean Skies",
-        "url": "https://open.spotify.com/album/5j7zYufEVIQPxldhknkSOD"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Skirts",
-          "url": "https://open.spotify.com/artist/2w4kZfcFXj8x2lTiZNaBBP"
-        }
-      ],
-      "duration_ms": 318688,
-      "name": "Blue Jean Skies",
-      "url": "https://open.spotify.com/track/1zmEkICdfC2g8nvJSjsOCq"
-    },
-    {
-      "added_at": "2023-06-08 21:59:00",
-      "album": {
-        "name": "PARANO\u00cfA, ANGELS, TRUE LOVE",
-        "url": "https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 241661,
-      "name": "A day in the water",
-      "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ"
-      },
-      "artists": [
-        {
-          "name": "Donna Missal",
-          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
-        }
-      ],
-      "duration_ms": 187552,
-      "name": "God Complex",
-      "url": "https://open.spotify.com/track/3ecSL8AUu6r0yIOrbABTdL"
-    },
-    {
       "added_at": "2023-06-08 21:59:00",
       "album": {
         "name": "Echo Chamber",
@@ -763,38 +787,6 @@
       "duration_ms": 188769,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/75ne9KISAYB2bD46rfk3R2"
-    },
-    {
-      "added_at": "2023-06-01 21:59:00",
-      "album": {
-        "name": "The Widow",
-        "url": "https://open.spotify.com/album/4rDuMolrVPma2RtBtLtBOB"
-      },
-      "artists": [
-        {
-          "name": "Damien",
-          "url": "https://open.spotify.com/artist/6cUDV8d4fLXOYrAfBghF3a"
-        }
-      ],
-      "duration_ms": 327698,
-      "name": "The Widow",
-      "url": "https://open.spotify.com/track/48TnwBY4pYURvhJ5LIRtHe"
-    },
-    {
-      "added_at": "2023-06-15 21:59:00",
-      "album": {
-        "name": "Sugar Free",
-        "url": "https://open.spotify.com/album/4eW7GfAVZmShJp83BBkIG9"
-      },
-      "artists": [
-        {
-          "name": "Liam Burger",
-          "url": "https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ"
-        }
-      ],
-      "duration_ms": 196719,
-      "name": "Sugar Free",
-      "url": "https://open.spotify.com/track/6JpZzdCcabEG2CQfUkZocz"
     },
     {
       "added_at": "2023-06-01 21:59:00",

@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 184377,
       "name": "Den fineste Tesla\u00b4n",
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
@@ -1176,6 +1176,24 @@
       "duration_ms": 174400,
       "name": "Distriktet",
       "url": "https://open.spotify.com/track/0tSNao38KTHqH4mNXywCEA"
+    },
+    {
+      "album": {
+        "name": "Do you know how much this cost in Norway?",
+        "url": "https://open.spotify.com/album/2qmzljoCTQKPNBaK0lYG7o"
+      },
+      "artists": [
+        {
+          "name": "Sl\u00e6m D\u00f8nk",
+          "url": "https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101896,
+      "name": "Do you know how much this cost in Norway?",
+      "url": "https://open.spotify.com/track/2mGGLNIDw7IrtxK3HpNhi6"
     },
     {
       "album": {
@@ -2062,6 +2080,24 @@
       "duration_ms": 160002,
       "name": "Ga\u030ardsgutt",
       "url": "https://open.spotify.com/track/4PZt3HFcJnC4QZQhBgEiQC"
+    },
+    {
+      "album": {
+        "name": "Gi Meg En Sjanse Til",
+        "url": "https://open.spotify.com/album/5c1TX10yAZCGhC0ar9YMAj"
+      },
+      "artists": [
+        {
+          "name": "Ole Evenrud",
+          "url": "https://open.spotify.com/artist/3eCnw9ALVckuWnJhXNuXNL"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146845,
+      "name": "Gi Meg En Sjanse Til",
+      "url": "https://open.spotify.com/track/3gf8Z0aUCru0UyYDx1WHuE"
     },
     {
       "album": {

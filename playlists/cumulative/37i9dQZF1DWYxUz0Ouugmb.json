@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Aziz Hedra",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Awdella",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 284005,
       "name": "Ajur Mumur",
       "url": "https://open.spotify.com/track/30NDRknWvH6eRPIZwERRQJ"
+    },
+    {
+      "album": {
+        "name": "Akhir Cerita Cinta",
+        "url": "https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem"
+      },
+      "artists": [
+        {
+          "name": "The Bakuucakar",
+          "url": "https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs"
+        },
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304768,
+      "name": "Akhir Cerita Cinta",
+      "url": "https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu"
     },
     {
       "album": {
@@ -685,6 +707,28 @@
     },
     {
       "album": {
+        "name": "Gerhana Dalam Cinta (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Ochi Alvira",
+          "url": "https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338419,
+      "name": "Gerhana Dalam Cinta - Live Ska Reggae",
+      "url": "https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP"
+    },
+    {
+      "album": {
         "name": "innerchild",
         "url": "https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9"
       },
@@ -1228,6 +1272,24 @@
       "duration_ms": 275250,
       "name": "Kau Rumahku",
       "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
+    },
+    {
+      "album": {
+        "name": "Kau Tawarkan Setia (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/4vPsd3xq8zJIriTDHkxvhh"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413138,
+      "name": "Kau Tawarkan Setia - Live Ska Reggae",
+      "url": "https://open.spotify.com/track/58oW9oFIX72doGmyE88ONZ"
     },
     {
       "album": {

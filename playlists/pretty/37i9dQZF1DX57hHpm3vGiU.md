@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 
 > Respira y medita con los sonidos de este ancestral instrumento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,118 likes - 88 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,191 likes - 88 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 11 | [Tibetan Bowl \- Samadhi](https://open.spotify.com/track/6BtCrX8kKFEdKwq2FwRwmX) | [Mindful Eclipse](https://open.spotify.com/artist/7AqjdmOiPPFzX6oy0Mfo1j) | [Mindful Eclipse](https://open.spotify.com/album/0CfC4UCQEihJ4hNUz2rF3A) | 2:40 |
 | 12 | [Awaken the Third Eye Chakra](https://open.spotify.com/track/7o7HUQi5RKGhdDRSjWprqg) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Light and Vibration](https://open.spotify.com/album/0BuTMBr9X9c6lc4VcMEDfW) | 4:05 |
 | 13 | [Sati Bowl](https://open.spotify.com/track/4jgvF7VdROvGudjZCFsQv7) | [Dhyāna One](https://open.spotify.com/artist/0UFdIjW2UB80v8wuOMUrYC) | [Dhyāna](https://open.spotify.com/album/4aJArtbJHKy4F88Wy2pMn9) | 3:53 |
-| 14 | [Microcosmic Healing](https://open.spotify.com/track/739e0bm8C7XCdApILgydcU) | [Inner Alchemy](https://open.spotify.com/artist/1cssfs3FIKu9TzchjcOyfn) | [Microcosmic Healing](https://open.spotify.com/album/0tgReg8ZkjMRzOQwKJSzbe) | 2:28 |
+| 14 | [Microcosmic Healing](https://open.spotify.com/track/739e0bm8C7XCdApILgydcU) | [Inner Alchemy](https://open.spotify.com/artist/48CGi0ceA91orAbl50ldR2) | [Microcosmic Healing](https://open.spotify.com/album/0tgReg8ZkjMRzOQwKJSzbe) | 2:28 |
 | 15 | [Be Love Now](https://open.spotify.com/track/2roRyBtlHkiCdrEksPTeGs) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Be Love Now](https://open.spotify.com/album/2tnkj3KcWroc1xF6h56X4V) | 1:57 |
 | 16 | [Serene Singing Bowls](https://open.spotify.com/track/7kY7MRu1KpEbFMf0sJkIV5) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Serene Singing Bowls](https://open.spotify.com/album/1kbWnC6BQS3wgxYBe9YN2O) | 2:54 |
 | 17 | [Meditative Tibetan Bowl Sounds](https://open.spotify.com/track/3b2p6mv0J6ltCC6F0mcDxs) | [Chime Dolma](https://open.spotify.com/artist/0ndav6EeWFjk6gBztWytIo) | [Gong Sound](https://open.spotify.com/album/5xwNm3xyqtJvxjtja4WKFa) | 2:58 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX57hHpm3vGiU.md) - [plain]
 | 87 | [528 Hz Singing Tibetan Bowl](https://open.spotify.com/track/5FlSEkinQuGnXatiZIs4XD) | [Chakra Shack](https://open.spotify.com/artist/3SeXI5wCsQRDEoReZONV4d) | [Awareness](https://open.spotify.com/album/6Sl36AMtt07HX5LVE6WG4a) | 2:15 |
 | 88 | [August](https://open.spotify.com/track/4ZbqtWFkXzlJS7HlmDmOrB) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Relaxing Tibetan Bowls](https://open.spotify.com/album/32WNC35kd87Lai664eZvwP) | 2:54 |
 
-Snapshot ID: `MCw4YTU2Nzg1YjU1Nzk1NzdlYTg0NGYwNWMxNzU5Y2UxYzA2ZWVmZmQ1`
+Snapshot ID: `MCxjNWJlNjAxODYwYTFmODI1ZTZlMzFlNDViZmE3NTY5MzQyOWE5Y2I2`

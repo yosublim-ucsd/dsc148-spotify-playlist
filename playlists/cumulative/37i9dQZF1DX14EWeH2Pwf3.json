@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Artie 5ive, ANNA",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Icy Subzero, Medy",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 168028,
       "name": "Ex (feat. Vegas Jones & Giaime)",
       "url": "https://open.spotify.com/track/7CaRiwlWGL99JQTCuUIbk9"
@@ -4052,7 +4052,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 231296,
       "name": "Mancanze Affettive (feat. Geolier)",
       "url": "https://open.spotify.com/track/3UWQoiOrlvHalgvyznur78"
@@ -4476,6 +4476,28 @@
       "duration_ms": 161739,
       "name": "Mujer (feat. Madame)",
       "url": "https://open.spotify.com/track/4jrroLcBiR5ZCT5C7Itd28"
+    },
+    {
+      "album": {
+        "name": "My Lova (feat. VillaBanks)",
+        "url": "https://open.spotify.com/album/2mvGS0owo2FHS5VrHo2sKF"
+      },
+      "artists": [
+        {
+          "name": "Slings",
+          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148030,
+      "name": "My Lova (feat. VillaBanks)",
+      "url": "https://open.spotify.com/track/4HM02MjJk4Mx5y2KDGBBe4"
     },
     {
       "album": {
@@ -7022,6 +7044,28 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "album": {
+        "name": "Umile",
+        "url": "https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Umile (feat. Shiva)",
+      "url": "https://open.spotify.com/track/0zwcUxnzdX6eSeaLKkrVPB"
     },
     {
       "album": {

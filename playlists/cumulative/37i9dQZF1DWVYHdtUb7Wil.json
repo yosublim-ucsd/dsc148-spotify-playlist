@@ -262,10 +262,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 178410,
       "name": "Come to Bed",
       "url": "https://open.spotify.com/track/5t37A6ItI7o15G5pkltHOd"
+    },
+    {
+      "album": {
+        "name": "Come to Bed",
+        "url": "https://open.spotify.com/album/3yu3jbEoKfF7kPBUjbXfAe"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178410,
+      "name": "Come to Bed",
+      "url": "https://open.spotify.com/track/75z8eUHzytgo02DPFsRAGB"
     },
     {
       "album": {

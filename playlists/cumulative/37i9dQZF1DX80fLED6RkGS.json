@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y?si=9lYn-K2JT5WSZmJjA0UVRg\">Boutross</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=NhJPqOBxQsWNLNpzz9Oplw\">Ssaru</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 219663,
       "name": "BALANCE",
       "url": "https://open.spotify.com/track/75WXBBxPMgXxcgMIQ04gF1"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 146938,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/2EpijqUEhO9qt04wLXR49F"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 205360,
       "name": "Freshi Barida - Remix",
       "url": "https://open.spotify.com/track/5YGdJhOjYHJsJgE9PGlCMF"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185521,
       "name": "Katanuka",
       "url": "https://open.spotify.com/track/1k7rJQ0f1ApSrKJ0deERhd"
@@ -2574,6 +2574,28 @@
       "duration_ms": 159940,
       "name": "KISHASH",
       "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
+    },
+    {
+      "album": {
+        "name": "Kiss N Tell",
+        "url": "https://open.spotify.com/album/11XXk49A9CjlxqZUAnRMLl"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "CHIR CHIR",
+          "url": "https://open.spotify.com/artist/7C4W8ZdCZ09bgVrkmCeBcZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223425,
+      "name": "Kiss N Tell",
+      "url": "https://open.spotify.com/track/6UjG1rkeqxQIQjgNum5TVf"
     },
     {
       "album": {
@@ -3508,6 +3530,36 @@
       "duration_ms": 136421,
       "name": "Naipenda",
       "url": "https://open.spotify.com/track/4zcZKjDkzrAqG1o8S1MG7U"
+    },
+    {
+      "album": {
+        "name": "Naipenda (Remix)",
+        "url": "https://open.spotify.com/album/2Z3RxKuQWN6Cga3C5CHpE0"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        },
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Naipenda - Remix",
+      "url": "https://open.spotify.com/track/4DtO8nYfN2sXIWpyzWU4CM"
     },
     {
       "album": {
@@ -5735,6 +5787,32 @@
     },
     {
       "album": {
+        "name": "Utam Flani",
+        "url": "https://open.spotify.com/album/4CoDewrdVftBcRsB46UOwZ"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Tricks Hr",
+          "url": "https://open.spotify.com/artist/59s1BDfupKwX4paIyzGMxA"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Utam Flani",
+      "url": "https://open.spotify.com/track/0uvrmmBRFUpK9Ur9IdJRnD"
+    },
+    {
+      "album": {
         "name": "Utamu (Remix)",
         "url": "https://open.spotify.com/album/7bBQWFllOTDLl1wcspTPuH"
       },
@@ -5925,6 +6003,24 @@
     },
     {
       "album": {
+        "name": "Watoto",
+        "url": "https://open.spotify.com/album/6zzlF1cZLfdxJlus1a4goT"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151560,
+      "name": "Watoto",
+      "url": "https://open.spotify.com/track/1jrmvHoBCmufoYYCAP6A92"
+    },
+    {
+      "album": {
         "name": "Yea Yea Yea",
         "url": "https://open.spotify.com/album/0Awx0OJ8SIMY98fLYB7ztT"
       },
@@ -6024,7 +6120,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 203728,
       "name": "Zimenyilo",
       "url": "https://open.spotify.com/track/2GNMxLvOFuxBV1b9NGzscD"

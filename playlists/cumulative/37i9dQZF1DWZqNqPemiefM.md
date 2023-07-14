@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-471 songs - 1 day 13 hr 34 min
+472 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-04 | 2022-12-24 |
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
+| [karen](https://open.spotify.com/track/2ITops8wfJv8pfWBftXdFp) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [karen](https://open.spotify.com/album/7HXUQ0wldUM1kHP6YIzlKu) | 2:17 | 2023-07-13 |  |
 | [koke](https://open.spotify.com/track/2dTFv9svbl63wUuuFcIE6e) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Moss](https://open.spotify.com/album/5t2mle95HjGO6NVPqXn6wD) | 3:47 | 2022-03-31 | 2022-06-04 |
 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 | 2022-03-31 |  |
 | [konpeito](https://open.spotify.com/track/16kYco2zMu85zQQEOa4sn7) | [UYUNI](https://open.spotify.com/artist/456fQGAt00AiCfXhNdZVU2) | [Ecosystem](https://open.spotify.com/album/2qSWvmGxWRCs3fdlyuBH0Q) | 5:14 | 2022-03-31 | 2022-07-29 |
@@ -287,7 +288,7 @@
 | [pause \(almost equal to\) play](https://open.spotify.com/track/4LB8iSej8QryIZ3Vk0XNmS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Pause \(almost equal to\) Play](https://open.spotify.com/album/634uEr8wlpH7CVq52UQTgW) | 4:45 | 2022-05-26 | 2023-07-12 |
 | [perfect drawing](https://open.spotify.com/track/6To87kWCF7WHTV1JnPuOVn) | [birds humming the beat](https://open.spotify.com/artist/1uDjTj9C93enyzFd5lJ0sZ) | [perfect drawing](https://open.spotify.com/album/1Bc92sRV3kRlmRaI80tnk1) | 4:51 | 2022-04-28 | 2022-07-29 |
 | [Photosynthese](https://open.spotify.com/track/5qYwa7b6oBMg3L1Lrr7bib) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 8:02 | 2022-03-31 | 2022-07-27 |
-| [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-09-22 |  |
+| [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-09-22 | 2023-07-14 |
 | [Pink Liquid Cotton Candy](https://open.spotify.com/track/2vAOthypGXJj4Tnu6F3Nm3) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [Hum](https://open.spotify.com/album/4sYguh1IQBO3eArXtcVQIG) | 5:55 | 2022-04-07 | 2022-04-20 |
 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 | 2022-03-31 | 2022-07-26 |
 | [Positive ID](https://open.spotify.com/track/23HGlosDhFrB0Ik5mSKpno) | [Serph](https://open.spotify.com/artist/1N0uTSN7HQpzJYmQIvsusL) | [Psychic Music](https://open.spotify.com/album/4jhyEiQeCLjOGM3tiGVRmD) | 3:58 | 2022-03-31 | 2022-07-28 |

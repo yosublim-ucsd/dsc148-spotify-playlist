@@ -1,15 +1,15 @@
 {
   "description": "Homegrown Ugandan hits in one playlist",
-  "num_followers": 1574,
+  "num_followers": 1576,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTgxZDhlZTBjODQ1M2Q4OTk4NzhkZDEyMGRhN2IyNzRhNzA0Mzk0",
+  "snapshot_id": "MCxlNDY4MGM4MWVlYzcwZGM2MzI4YzYxNjlmOTZmNGFjYmZiMzAzOWZm",
   "tracks": [
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Sam Wange",
         "url": "https://open.spotify.com/album/7DrWFE1PLDlV6LKavisV20"
@@ -29,23 +29,27 @@
       "url": "https://open.spotify.com/track/1jYqTG4ARaCyfFoy9bgpH8"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
-        "name": "Bwereere",
-        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
+        "name": "Ekyama",
+        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
       },
       "artists": [
         {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+        },
+        {
+          "name": "Will84",
+          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
         }
       ],
-      "duration_ms": 185939,
-      "name": "Bwereere",
-      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
+      "duration_ms": 217021,
+      "name": "Ekyama",
+      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Kimugunyu",
         "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
@@ -61,7 +65,7 @@
       "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "NANA (feat. Joeboy, King Promise & BIEN) [Remix]",
         "url": "https://open.spotify.com/album/6wJBlGByE21Q8v3Q3YiGs0"
@@ -89,7 +93,7 @@
       "url": "https://open.spotify.com/track/7opZfbxpDVfytlGZ8AgDQL"
     },
     {
-      "added_at": "2023-06-30 10:01:09",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/7t4A3s2p3zolibFnDwx1xY"
@@ -105,7 +109,23 @@
       "url": "https://open.spotify.com/track/5Kl68dPoUw00u2RvXLYFnn"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+      },
+      "artists": [
+        {
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+        }
+      ],
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "AFRICAN MUSIC",
         "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
@@ -125,7 +145,51 @@
       "url": "https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Bomboclat Boi",
+        "url": "https://open.spotify.com/album/2CA1hhHx5MGshhGf4o2hS4"
+      },
+      "artists": [
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        },
+        {
+          "name": "Lamu",
+          "url": "https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS"
+        },
+        {
+          "name": "Navio",
+          "url": "https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Bomboclat Boi",
+      "url": "https://open.spotify.com/track/1QDk4sKrNUirJkz1QlPuWc"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Mufaliso",
+        "url": "https://open.spotify.com/album/3KBtyfdRMk6CwwE1hp9ek6"
+      },
+      "artists": [
+        {
+          "name": "Hatim and Dokey",
+          "url": "https://open.spotify.com/artist/5Ei5mLhGXCY5Js2qznqUVJ"
+        },
+        {
+          "name": "Kodish",
+          "url": "https://open.spotify.com/artist/14Qge9gMzt7IBs6MsRhN2X"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "Mufaliso",
+      "url": "https://open.spotify.com/track/26Li04nrV5DfJUEWKkYYo6"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Biwamiel",
         "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
@@ -145,63 +209,7 @@
       "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
-      },
-      "artists": [
-        {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
-        }
-      ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "From Uganda With Love",
-        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 110124,
-      "name": "SUPAHAWT",
-      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/69aaJYIIfp9BILNlgVjd2Y"
@@ -221,7 +229,27 @@
       "url": "https://open.spotify.com/track/3KXmtXDQsT7QKCL90Pon4G"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "From Uganda With Love",
+        "url": "https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 110124,
+      "name": "SUPAHAWT",
+      "url": "https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/2zWi7EGBKMpwU8VDLib9r2"
@@ -241,23 +269,7 @@
       "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "One Bite",
         "url": "https://open.spotify.com/album/5806Vs0UN9KhUaJwKEc7TO"
@@ -273,7 +285,23 @@
       "url": "https://open.spotify.com/track/6OOi3c5ikce6w19EN5Mp1T"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Pretty Young Thing",
         "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
@@ -289,7 +317,7 @@
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Bitimba",
         "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
@@ -305,7 +333,7 @@
       "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Shabada",
         "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
@@ -325,7 +353,7 @@
       "url": "https://open.spotify.com/track/0MAjaeCdFkFDWZlewMv5w1"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Nfa",
         "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
@@ -341,7 +369,7 @@
       "url": "https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Stuck On You",
         "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
@@ -357,7 +385,43 @@
       "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Nkwata Bulungi (Bailamos)",
         "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
@@ -373,7 +437,23 @@
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Bwereere",
+        "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "Bwereere",
+      "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Singa",
         "url": "https://open.spotify.com/album/5riKKBkN3da2gAB13Hh3B9"
@@ -393,23 +473,7 @@
       "url": "https://open.spotify.com/track/0nnoC0HoYWuixdEfgMt0SB"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Omwana",
         "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
@@ -425,7 +489,7 @@
       "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
@@ -445,63 +509,7 @@
       "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Bedroom Essentials",
         "url": "https://open.spotify.com/album/1UNHyhwVrEpDXadpnPQeF4"
@@ -521,7 +529,63 @@
       "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Your Number (Acoustic)",
         "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
@@ -537,7 +601,7 @@
       "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
@@ -553,7 +617,7 @@
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
@@ -569,27 +633,7 @@
       "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It",
-      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/3TPSJTBY0UhdQNt7NSlYwT"
@@ -613,7 +657,7 @@
       "url": "https://open.spotify.com/track/2gmdaA7MrBs64moq2lJZzg"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Chai We Njaye",
         "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
@@ -629,7 +673,27 @@
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "CHERRY SWEET",
         "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
@@ -649,7 +713,7 @@
       "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Nothing (Remix)",
         "url": "https://open.spotify.com/album/5HXT6evuxXlZWxtlZfngUl"
@@ -685,7 +749,7 @@
       "url": "https://open.spotify.com/track/3N43i0lIHOir3AiR1ipwxf"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Wanting Me",
         "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
@@ -701,23 +765,7 @@
       "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Kyaani",
-        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Kyaani",
-      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
@@ -737,27 +785,23 @@
       "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
-        "name": "Love Marijuana",
-        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
+        "name": "Kyaani",
+        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
       },
       "artists": [
         {
-          "name": "C. Wyne Nalukalala",
-          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Love Marijuana",
-      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
+      "duration_ms": 178000,
+      "name": "Kyaani",
+      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Let Me Be",
         "url": "https://open.spotify.com/album/42moN4auHkzRwvmCe1IV03"
@@ -773,7 +817,7 @@
       "url": "https://open.spotify.com/track/4lRjzQQEmIHIJGOTC0EnMp"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
@@ -797,7 +841,43 @@
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "Love Marijuana",
+        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
+      },
+      "artists": [
+        {
+          "name": "C. Wyne Nalukalala",
+          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Love Marijuana",
+      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Part2 (Dinner in Maui)",
         "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
@@ -817,23 +897,7 @@
       "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Music for the Soul",
         "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
@@ -849,7 +913,7 @@
       "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Wangi",
         "url": "https://open.spotify.com/album/29C4HfzA6cLMNC7mttlUUT"
@@ -865,7 +929,7 @@
       "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
     },
     {
-      "added_at": "2023-06-30 09:37:04",
+      "added_at": "2023-07-13 20:59:00",
       "album": {
         "name": "Bbuba",
         "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
@@ -879,58 +943,6 @@
       "duration_ms": 204289,
       "name": "Bbuba",
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Fertilizer",
-        "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 175072,
-      "name": "Fertilizer",
-      "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/3MJB9ehVEovi0DhK19B4tS"
-      },
-      "artists": [
-        {
-          "name": "Jesse10s",
-          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/6v0S8ZVm5axCSsuoqcuB3J"
-    },
-    {
-      "added_at": "2023-06-30 09:37:04",
-      "album": {
-        "name": "Bulamu",
-        "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
-      },
-      "artists": [
-        {
-          "name": "Zulitums",
-          "url": "https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "Bulamu",
-      "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
     }
   ],
   "unique_name": "Made In Uganda",

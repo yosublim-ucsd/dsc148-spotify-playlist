@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 57 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 23 | [Sometimes \- Live 1974](https://open.spotify.com/track/4ieFvaF1uS6HG0ULAD5hoG) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [We're On Our Way \(Live\)](https://open.spotify.com/album/16mVmRH1aVa5eJBezfVo3J) | 2:40 |
 | 24 | [Selfish Side \- Alternate Early Mix](https://open.spotify.com/track/3kJq8PBv8ydTERkgj8ocjy) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Selfish Side \(Alternate Early Mix\)](https://open.spotify.com/album/0iYbEFbsI7ZKwIxjEvT7uh) | 2:36 |
 | 25 | [People Around Me](https://open.spotify.com/track/2HA6CdEuci6hDvzHXEmjY0) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Plein D'Amour](https://open.spotify.com/album/13CuZhFz03sBZ0pGP1guLM) | 4:07 |
-| 26 | [War Pigs \- Live](https://open.spotify.com/track/2z8dO7MP5goxiBEodwRwJg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Nuit Noire \(Live\)](https://open.spotify.com/album/7xzLCBOOea4LfGiO1KA0hj) | 7:23 |
+| 26 | [N.I.B\. \- Live](https://open.spotify.com/track/0bEe7YyeotUdveMd6g5fCW) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Nuit Noire \(Live\)](https://open.spotify.com/album/7xzLCBOOea4LfGiO1KA0hj) | 5:28 |
 | 27 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
 | 28 | [We Didn’t Start The Fire](https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [We Didn’t Start The Fire](https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja) | 3:35 |
 | 29 | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/track/38ODYA4I5jEhFr4xJJd1RG) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Spencer Charnas](https://open.spotify.com/artist/4iwMEyVQXJtGo512kLsUGe) | [Cheers To Goodbye \(feat\. Spencer Charnas\)](https://open.spotify.com/album/4RLmfkEmhjFeNYZ0hS2WB5) | 3:46 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 56 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 |
 | 57 | [Strange Things Happening Every Day](https://open.spotify.com/track/6GRmyRHooT9FHrDcwHrozr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Richard: I Am Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xR73ACoQV35rILeYhBM3w) | 2:52 |
 
-Snapshot ID: `MjgxNDUwNDAsMDAwMDAwMDBlYjFmZjYxMWU5NjcyZDBlN2E2OWM5MWM2ZjVkN2FhYw==`
+Snapshot ID: `MjgxNDUwNDAsMDAwMDAwMDA1YjM0ODAyMTM4M2VkNTNhNWFlNzhiNWVkZDJiYWMwMA==`

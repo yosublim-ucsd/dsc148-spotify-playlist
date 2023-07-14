@@ -2584,10 +2584,32 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 431282,
       "name": "Your Love - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/0E6jpoMTY07XeEipnuOIxm"
+    },
+    {
+      "album": {
+        "name": "Blood Moon (Remixes)",
+        "url": "https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431282,
+      "name": "Your Love - Frank Wiedemann Remix",
+      "url": "https://open.spotify.com/track/620NIawKYFYbRNkaKXjQlZ"
     },
     {
       "album": {

@@ -1,13 +1,81 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=\u201chttps://www.soundtrap.com/\u201d>Soundtrap, </a>  Spotify\u2019s online music studio for songwriters and beat makers. \n",
-  "num_followers": 217373,
+  "num_followers": 217388,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODc4N2MzNmE0NjY3NzMyOWY0NjIyNWQ0ZTU2ZDA5MDIzMmM3YTAy",
+  "snapshot_id": "MCxkMDVkYTk0NDM2ODI5NTZjZmY0MGRkYzllMDBhZTFkYTEwZGVkMjQ1",
   "tracks": [
+    {
+      "added_at": "2023-07-13 19:04:02",
+      "album": {
+        "name": "Kele Kele - Spotify Singles",
+        "url": "https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c"
+      },
+      "artists": [
+        {
+          "name": "Ria Sean",
+          "url": "https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "Kele Kele",
+      "url": "https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe"
+    },
+    {
+      "added_at": "2023-07-13 19:04:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        },
+        {
+          "name": "JONA XX",
+          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Human (feat. JONA XX) - Spotify Singles",
+      "url": "https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7"
+    },
+    {
+      "added_at": "2023-07-13 19:04:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 132305,
+      "name": "Chase - Spotify Singles",
+      "url": "https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs"
+    },
+    {
+      "added_at": "2023-07-13 19:04:02",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ"
+      },
+      "artists": [
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "Shchedrivka - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/5wSKOl9e4iCyCsDoOgBnrz"
+    },
     {
       "added_at": "2023-06-21 15:28:33",
       "album": {

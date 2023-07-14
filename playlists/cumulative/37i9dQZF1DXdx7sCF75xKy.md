@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: CLAUDIA
 
-788 songs - 1 day 21 hr 23 min
+789 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,7 +700,8 @@
 | [you should have said so](https://open.spotify.com/track/5WodEIKkgtFPmfqSB7Ve8e) | [RRILEY](https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj) | [you should have said so](https://open.spotify.com/album/5H8nls3xG7OgydbrNQ27Va) | 2:42 | 2021-12-07 | 2023-02-01 |
 | [You'll Only Love Me When I'm Gone \(Music from the Original TV Series, 'Ti Tou Dao'\)](https://open.spotify.com/track/6Hkslp46w0eTYul1qSV1n1) | [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB) | [You'll Only Love Me When I'm Gone \(Music from the Original TV Series, 'Ti Tou Dao'\)](https://open.spotify.com/album/4JJXKTZnWocV5SEolp1J9n) | 2:30 | 2021-12-07 | 2022-01-05 |
 | [You're Kinda Perfect](https://open.spotify.com/track/246Gn2iagw96Ii9gKU1EKN) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [The Fluke](https://open.spotify.com/album/0MgeachBtgPXXt00RWv5Yd) | 2:26 | 2022-06-01 | 2022-07-08 |
-| [Your Gentleman](https://open.spotify.com/track/4scxr2wnXaagNRjxxt37OK) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Your Gentleman](https://open.spotify.com/album/4GQj5GoYHFpMT8Wk89utQD) | 3:07 | 2022-10-04 |  |
+| [Your Gentleman](https://open.spotify.com/track/4scxr2wnXaagNRjxxt37OK) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Your Gentleman](https://open.spotify.com/album/4GQj5GoYHFpMT8Wk89utQD) | 3:07 | 2022-10-04 | 2023-07-14 |
+| [Your Gentleman](https://open.spotify.com/track/5ScLGJawVYnJAXlPmVvOKF) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Your Gentleman](https://open.spotify.com/album/6ZQFbRrUeO1Kk9Ky7XsvIL) | 3:07 | 2023-07-04 |  |
 | [Your Loss](https://open.spotify.com/track/24IE7WIUYYs9gmhbgPLULC) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Your Loss](https://open.spotify.com/album/7zWIsfNXYMTqckSbp21PjE) | 3:35 | 2022-08-02 | 2022-09-07 |
 | [一刹那花火](https://open.spotify.com/track/4wlVJSRfM8aJXbgLEJPPiW) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [一刹那花火](https://open.spotify.com/album/7hslljYtbnZlTheevJpUgf) | 3:02 | 2023-01-31 | 2023-03-01 |
 | [一而再再而三](https://open.spotify.com/track/7b2zRvcOi8pWqlXpKPxjfk) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [仙人掌](https://open.spotify.com/album/0Yoxxp6B6QLXtjaQJ1L4On) | 3:37 | 2022-01-04 | 2022-02-03 |

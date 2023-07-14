@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, Lil Tjay, King Von, and more\. Cover: LUCKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,012 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,065 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 |
 | 51 | [3 Point Stance \(Hands On The Floor\)](https://open.spotify.com/track/5sxEj4svg1490VUtgQ74yi) | [lil.eaarl](https://open.spotify.com/artist/4qNArONVuwcb76UTLYAEES), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kblast](https://open.spotify.com/artist/3WyzXUbSj6GlWl379WjHOU) | [3 Point Stance \(Hands On The Floor\)](https://open.spotify.com/album/7lEJB2XqcIHeU1pEUe85fI) | 2:41 |
 
-Snapshot ID: `MCxhOTZhNWVjNDM0YjZhZWJjMmI0MDhhNGIzMmQ4MmZhMjcyMTMxYzVk`
+Snapshot ID: `MCxlYmNhNjk3YzEwNGU3MGEwODBmNzU4YjY3ZWJkYzhiYWUyNTFhYzFm`

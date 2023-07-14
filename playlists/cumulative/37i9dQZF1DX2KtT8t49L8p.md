@@ -4,7 +4,7 @@
 
 > Awaken and connect through meditation with Theta frequencies.
 
-64 songs - 3 hr 27 min
+66 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,12 +32,14 @@
 | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/track/7pbiAcJ9s27XaPJDgeePok) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/74vYTUE07u6O7Cc2HdhzL0) | 3:31 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- 99 Hz Drone](https://open.spotify.com/track/494xMwyUCP3q99dYKkQ873) | [Ambient Tech](https://open.spotify.com/artist/08Ava0X5w3SgoLnrpJMZf8) | [Relaxing Theta Drones](https://open.spotify.com/album/3wyAWfCA8wUEFREHig6xQ8) | 3:38 | 2023-03-16 |  |
 | [Binaural Theta Sinus 95 Hz \- L 99 Hz \- R](https://open.spotify.com/track/5hl9D7QnQfGpwg4kuII1Ca) | [Theta Max](https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf) | [Cosmic Whispers: Theta Sinus Chronicles](https://open.spotify.com/album/3ykhspojUB17HqriakCRbM) | 3:39 | 2023-05-26 |  |
+| [bravery within \(theta state\)](https://open.spotify.com/track/1JGbmqkZ4xYI4zM5XgckDP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [slowed time & bravery within \(theta binaural\)](https://open.spotify.com/album/79lFMqK222Nb8KVQkkPzwS) | 4:18 | 2023-07-14 |  |
 | [Creativity Theta Drone](https://open.spotify.com/track/1bxUuXieTW8RVMF0Ga6qBC) | [Arctic Pads](https://open.spotify.com/artist/4AduPPid79418PHGKIodmw) | [Theta Binaural Meditation](https://open.spotify.com/album/21JtKIzMrJPjYmfJNJ8WZW) | 3:18 | 2023-03-16 |  |
 | [Deep Skies \(Binaural Theta 93.1 Hz \- 85.7 Hz\)](https://open.spotify.com/track/4OXSCEIY7gVDCW17nuRiRe) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:41 | 2023-03-16 |  |
 | [Deep Theta 4 Hz](https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:19 | 2023-03-16 |  |
 | [Deeply Asleep Theta](https://open.spotify.com/track/0Wt3S8qTtKY235HoHAfdt5) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Theta Binaural Beats](https://open.spotify.com/album/2mRSTgtIy2zAq1Ne3hxvSG) | 4:21 | 2023-03-16 |  |
 | [Doze Off \(Theta Waves\) 57 Hz \- 59 Hz](https://open.spotify.com/track/50bz3ncIMwkntk3Ohppy7e) | [Beyond Quantum](https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf) | [Binaural Bliss](https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo) | 2:53 | 2023-03-16 |  |
 | [For Dreaming \- Theta Binaural Beats](https://open.spotify.com/track/7Mq2z9K1rv9rhODKLhVZgO) | [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1) | [Binaural Beats](https://open.spotify.com/album/51VyjQNF0KhcJCjhAXBSAR) | 20:00 | 2023-03-16 |  |
+| [Inner Flow Serenity \(Theta Binaural\)](https://open.spotify.com/track/1MNAD1RGOli6bzQDaZK0tf) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Inner Flow Serenity & Sheltered Bliss \(Theta Binaural\)](https://open.spotify.com/album/1lRvTChClmHDRTP5ktfo7S) | 3:12 | 2023-07-14 |  |
 | [Lake Views \(Binaural Theta 104 Hz \- 98.5 Hz\)](https://open.spotify.com/track/4JfvAvu2mdZPM1s6d6sSXh) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Theta Wave Binaural Beats](https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp) | 2:27 | 2023-03-16 |  |
 | [Lotus \(Theta 198 Hz \- 206 Hz\)](https://open.spotify.com/track/1OTLWciJzBeXHKRycakcPS) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Nearby & Lotus \(Theta Binaural\)](https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu) | 2:48 | 2023-03-16 |  |
 | [Memory \(Theta 7 Hz\)](https://open.spotify.com/track/7G36qGQQHvi8Ez4WLeQGyq) | [Binaural Warrior](https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5) | [Binaural Warrior](https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL) | 3:12 | 2023-03-16 |  |

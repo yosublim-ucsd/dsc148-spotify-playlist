@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-130 songs - 7 hr 16 min
+131 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 |  |
 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
 | [Baarishein Lana](https://open.spotify.com/track/6RuodKizBBkchDPm4a39m0) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk) | [Baarishein Lana](https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ) | 3:08 | 2023-07-05 |  |
+| [Baarishon Mein](https://open.spotify.com/track/5vy3eZEsqsDH06DVtyvuLj) | [Gurashish Singh](https://open.spotify.com/artist/2HZX9rmB8FMz1C7Oq6q3Ir), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Baarishon Mein](https://open.spotify.com/album/28cnP6Q0Nk6D0Ty7spGDWq) | 3:43 | 2023-07-13 |  |
 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 | 2023-05-17 |  |
 | [Back To College](https://open.spotify.com/track/6UXNYzUEn7WMmdrA3d52vE) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Back To College](https://open.spotify.com/album/4YstqbeaEbhxWhZrihruzM) | 3:01 | 2023-05-17 | 2023-06-07 |
 | [Bade Achhe Lagte Hai](https://open.spotify.com/track/65qGnOwNU4odSdjL4gzx48) | [Ashish Khandal](https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF) | [Saregama Open Stage, Vol\. 15](https://open.spotify.com/album/32gAy0gxgW1ZEokDsNu76h) | 1:34 | 2023-05-17 |  |
@@ -78,7 +79,7 @@
 | [Kya Pata](https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G) | [Naheed](https://open.spotify.com/artist/43z0UwKntpjMtivlmq0BkI), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Kya Pata](https://open.spotify.com/album/0BIKCUslpeLuu5GDho6UYc) | 2:30 | 2023-05-17 | 2023-06-23 |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2023-05-17 | 2023-06-03 |
 | [Kyon Alag Huye](https://open.spotify.com/track/4sN3JE7LNUd5fM99QedzXY) | [Govinda Sarkar](https://open.spotify.com/artist/1hc9vww0TKHeWZOMkxC8kd) | [Kyon Alag Huye](https://open.spotify.com/album/7oPkwM4rULtTPoNIMHBAdT) | 1:21 | 2023-05-17 | 2023-05-27 |
-| [KYUN](https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [KYUN](https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ) | 3:56 | 2023-06-02 |  |
+| [KYUN](https://open.spotify.com/track/14cov9USWeOHrxA6eBeLpz) | [Siddharth Slathia](https://open.spotify.com/artist/3DYqdRwHGB8fjVO0JqAgN7) | [KYUN](https://open.spotify.com/album/3P3ouKXe5GLU8oVmpHmOnZ) | 3:56 | 2023-06-02 | 2023-07-14 |
 | [Kyun Dhunde](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Kyun Dhunde](https://open.spotify.com/album/0YRCWHHUxmIfBpHvgCt52R) | 3:33 | 2023-05-17 |  |
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:03 | 2023-07-01 |  |

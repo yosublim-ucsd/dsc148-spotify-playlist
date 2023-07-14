@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,303 likes - 126 songs - 12 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,429 likes - 126 songs - 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 84 | [Love Is The Way \- Pippi Ciez Retake](https://open.spotify.com/track/14tGjqtvgJ36h1oDNimiFr) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Pippi Ciez](https://open.spotify.com/artist/46aDUWf82wQR9U9G0k3J1v) | [Love Is The Way \(Pippi Ciez Retake\)](https://open.spotify.com/album/6nNS2YAzFy2xbDSisbbnH6) | 4:18 |
 | 85 | [Traps](https://open.spotify.com/track/251gYtF1RLhOhspRtYMcCR) | [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Traps](https://open.spotify.com/album/5FbON3pXzWlUeZt5JvXr5W) | 7:44 |
 | 86 | [Nothergram](https://open.spotify.com/track/3wuT61AZeCnXQOTtM8uefw) | [Obataiye](https://open.spotify.com/artist/3tIJxPEQ5mwQmfeHJ0fEnY) | [Nothergram](https://open.spotify.com/album/3tWgcfEP30hvqwGbS0KJqG) | 4:59 |
-| 87 | [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/6otJlwlxQNWiqkkSPIh5Ul) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Colorblind \(WhoMadeWho Remix\)](https://open.spotify.com/album/0mO8k3D70mgcLtMViioNon) | 7:15 |
+| 87 | [Colorblind \- WhoMadeWho Remix](https://open.spotify.com/track/1dZybfK5AztMba3tqDvT7O) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Blood Moon \(Remixes\)](https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK) | 7:15 |
 | 88 | [Pussy Power \- DESIREE Remix](https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Pussy Power \(Desiree Remix\)](https://open.spotify.com/album/1Rhg4uHx4AITp2cOnykPur) | 5:57 |
 | 89 | [Desire](https://open.spotify.com/track/6Kp8zJEmkmwKRz5mcV1NFv) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Desire](https://open.spotify.com/album/2WIZSjjXgACW2NjJZ68uNe) | 3:15 |
 | 90 | [Axel](https://open.spotify.com/track/3DKPOkUrUyloVq3lGmHfiV) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Axel](https://open.spotify.com/album/2p8asP7O6CErLIC1dqFFMb) | 4:40 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 125 | [Flava \(feat\. Una Rams & Tellaman\)](https://open.spotify.com/track/2mhkxRse3yU8bx6zJuiNI7) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:29 |
 | 126 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 |
 
-Snapshot ID: `MCxmOWE2OTA2NDk4OGQwZGQ5MjYxYTU3ZDZhZjJhZDBkMmQ5YmEyYzM3`
+Snapshot ID: `MCxhN2UwZTA3MTU1NDc3Y2FjYWU2ZjdjMmEwYzZjNDEyMGExNTUzNGIz`

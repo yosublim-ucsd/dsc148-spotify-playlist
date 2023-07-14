@@ -799,6 +799,28 @@
     },
     {
       "album": {
+        "name": "Carthage (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nyPhA6JpZjzhBXvyGU4ZG"
+      },
+      "artists": [
+        {
+          "name": "HunterSynth",
+          "url": "https://open.spotify.com/artist/3Age3mMsN1JeN7csgZ4BQU"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Carthage - Radio Edit",
+      "url": "https://open.spotify.com/track/25X66oOlwm9z6bPRAfs4mW"
+    },
+    {
+      "album": {
         "name": "Buddy System",
         "url": "https://open.spotify.com/album/5lVYQO63PD8UsrlzTY4hoD"
       },
@@ -2266,7 +2288,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 408000,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC"

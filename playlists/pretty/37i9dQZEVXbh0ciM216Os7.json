@@ -6,32 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNDUwNDAsMDAwMDAwMDBiMzgxMWUzNTZiYzczN2FiNTkzMzhkYTFmYzcyNjA5Mw==",
+  "snapshot_id": "MjgxNDUwNDAsMDAwMDAwMDA3ZGVkMGM4NWM5YmE0ZjI4NGM5ZDg2NzZkY2IzZDljMg==",
   "tracks": [
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
-    },
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
@@ -59,42 +35,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Werewolf (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/0vlK5wqy7Ptp2LUV0lnGaJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Werewolf (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/2EmdycMt8E0Wewga0Cruei"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Becoming A Coward",
-        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Becoming A Coward",
-      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "W H A T (We're Hungry And Thirsty)",
         "url": "https://open.spotify.com/album/4j2Z6v5dXeKjQ69q5awOc4"
       },
@@ -115,6 +55,66 @@
       "duration_ms": 184502,
       "name": "W H A T (We're Hungry And Thirsty)",
       "url": "https://open.spotify.com/track/4e2ySWd3bTj5KSiyJN3ndG"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Patience (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/1N36aG06vSw0jiZkYqDhhZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 262429,
+      "name": "Patience (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2qTzVCeWC2OY28r7gHagAa"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Becoming A Coward",
+        "url": "https://open.spotify.com/album/18qpnv4ldw269ZYjnJMGyK"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Becoming A Coward",
+      "url": "https://open.spotify.com/track/6Mg7IkMDwomqiVO7hBLPN8"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Making The Band (Danity Kane)",
-        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 105999,
-      "name": "Making The Band (Danity Kane)",
-      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Fine Tune",
         "url": "https://open.spotify.com/album/09UpRR73PXQlWjBnDvKoZZ"
       },
@@ -283,22 +267,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Freestyle Canal",
-        "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
-      },
-      "artists": [
-        {
-          "name": "Hopsin",
-          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
-        }
-      ],
-      "duration_ms": 144780,
-      "name": "Freestyle Canal",
-      "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Do Enough",
         "url": "https://open.spotify.com/album/4ksJIww1ljHV6BiJbkNwBy"
       },
@@ -323,6 +291,38 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Freestyle Canal",
+        "url": "https://open.spotify.com/album/3HTetg2RxMxnVAj3wOGDoS"
+      },
+      "artists": [
+        {
+          "name": "Hopsin",
+          "url": "https://open.spotify.com/artist/7EWU4FhUJM1sZQgQKdENeT"
+        }
+      ],
+      "duration_ms": 144780,
+      "name": "Freestyle Canal",
+      "url": "https://open.spotify.com/track/2jloceLTvAT8sOWJ4rNU6L"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "In My Heart (Moby Remix)",
         "url": "https://open.spotify.com/album/56neYC5Ezw9HcG9ohbAZ9Z"
       },
@@ -339,6 +339,30 @@
       "duration_ms": 236083,
       "name": "In My Heart - Moby Remix",
       "url": "https://open.spotify.com/track/77goYyhHEJTEyGocbP8u7W"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/6Oh551AttVfI5DBLP4rgGX"
+      },
+      "artists": [
+        {
+          "name": "Party Pip",
+          "url": "https://open.spotify.com/artist/5CCfvsh8dTaGyz4ApaRJV2"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Young Cash",
+          "url": "https://open.spotify.com/artist/0SY9EobiFWDqxhC2h1RNNg"
+        }
+      ],
+      "duration_ms": 171094,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2xXhpbLvgBtZYUsYd4Hpbx"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -395,22 +419,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Gag Order (Live Acoustic EP From Space)",
-        "url": "https://open.spotify.com/album/4tEMiCZRt2oKtEWOurF1Ht"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 285859,
-      "name": "Happy - Live Acoustic From Space",
-      "url": "https://open.spotify.com/track/6yHuumfZbANbUDAqFf8DC3"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Aortic Desecration",
         "url": "https://open.spotify.com/album/4PWETtMYDc04hUibeHCetD"
       },
@@ -443,6 +451,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "BANG BANG! (My Neurodivergent Anthem)",
+        "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "BANG BANG! (My Neurodivergent Anthem)",
+      "url": "https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Modern Day Miracle",
         "url": "https://open.spotify.com/album/3Hgr5iTzcifd9TibgdsSsm"
       },
@@ -459,22 +483,6 @@
       "duration_ms": 138800,
       "name": "Modern Day Miracle",
       "url": "https://open.spotify.com/track/2UPayNNp9jCGc4vpSJVyxr"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "BANG BANG! (My Neurodivergent Anthem)",
-        "url": "https://open.spotify.com/album/1xG4KabXFQ7qPyg90cHSZo"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "BANG BANG! (My Neurodivergent Anthem)",
-      "url": "https://open.spotify.com/track/7tEV3l3E7YM4tNkBe6UiVY"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -528,29 +536,13 @@
           "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         },
         {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
         }
       ],
-      "duration_ms": 211468,
-      "name": "DOWN BY LAW",
-      "url": "https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Drama Queen",
-        "url": "https://open.spotify.com/album/3XdUhlpyGPHEGCNuI4InfH"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 131616,
-      "name": "Drama Queen",
-      "url": "https://open.spotify.com/track/5wCrP8GA3lRH3ppITSWaPU"
+      "duration_ms": 275899,
+      "name": "SLUMMER",
+      "url": "https://open.spotify.com/track/17K5opp9TO1OANv36IWsCh"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -567,6 +559,22 @@
       "duration_ms": 206000,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/0KVEfvEaXzQIUGanQyK9E9"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/3XdUhlpyGPHEGCNuI4InfH"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 131616,
+      "name": "Drama Queen",
+      "url": "https://open.spotify.com/track/5wCrP8GA3lRH3ppITSWaPU"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

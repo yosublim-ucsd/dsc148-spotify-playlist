@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,786 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,803 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 32 | [Bones](https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Bones](https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb) | 2:41 |
 | 33 | [LASSO](https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [LASSO](https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba) | 2:58 |
 | 34 | [Stained](https://open.spotify.com/track/28Fhh3sLYSeqXij1PM9wHW) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Stained](https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy) | 3:36 |
-| 35 | [How Does The Story Go?](https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [How Does The Story Go?](https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ) | 2:28 |
+| 35 | [How Does The Story Go?](https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [How Does The Story Go?](https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ) | 2:28 |
 | 36 | [Bed/Head](https://open.spotify.com/track/0AahdtLMToYeUa0acVBzvS) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [A Human Reaction](https://open.spotify.com/album/2xI2LTSOB837dPnPLwXcx4) | 4:17 |
 | 37 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 |
 | 38 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 49 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
 | 50 | [Endgame](https://open.spotify.com/track/7y6bW9cd1UfttzwqU2lsti) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Endgame](https://open.spotify.com/album/4qqgxO477yvIgcKNL3PwfJ) | 2:36 |
 
-Snapshot ID: `MCw1ZmZhMzdlOGYzMjU1OTRlNmI5YjA3MzI0ZmUzODVmYzgxNjBkMjVh`
+Snapshot ID: `MCxmNjI4Y2UyN2I1YzFhMTY0ZDEwMTc2NjBkMzgyNTAwNWQ4Yjc3YTMx`

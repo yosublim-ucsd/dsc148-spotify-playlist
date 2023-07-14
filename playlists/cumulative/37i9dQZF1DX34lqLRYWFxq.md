@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: Texas King
 
-355 songs - 19 hr 33 min
+356 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Noise in the Forest](https://open.spotify.com/track/5jYpmSMc0KWcj8I2StBaNf) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Noise in the Forest](https://open.spotify.com/album/5RmlPHpfwvI64T3tXk5crf) | 3:28 | 2023-02-10 | 2023-02-25 |
 | [Normalize](https://open.spotify.com/track/6JPSFBLbPDHijTwrUtMhwA) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize](https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc) | 4:19 | 2023-06-30 |  |
 | [Nosebleed](https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Nosebleed](https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7) | 2:13 | 2023-03-31 | 2023-06-17 |
-| [Nothing For A While](https://open.spotify.com/track/4xObBwrIq6zo8QqUOne4UJ) | [Shred Kelly](https://open.spotify.com/artist/0TLkxB9Td2RXnmDEupHPQx) | [Nothing For A While](https://open.spotify.com/album/65o9495iq0A76kKS5xAk4k) | 6:41 | 2023-07-07 |  |
+| [Nothing For A While](https://open.spotify.com/track/2qDkYm6EmD6hkQKMDxF3ii) | [Shred Kelly](https://open.spotify.com/artist/0TLkxB9Td2RXnmDEupHPQx) | [Nothing For A While](https://open.spotify.com/album/7aqqryw0T7HQeHEZcMqmxQ) | 6:41 | 2023-07-07 |  |
+| [Nothing For A While](https://open.spotify.com/track/4xObBwrIq6zo8QqUOne4UJ) | [Shred Kelly](https://open.spotify.com/artist/0TLkxB9Td2RXnmDEupHPQx) | [Nothing For A While](https://open.spotify.com/album/65o9495iq0A76kKS5xAk4k) | 6:41 | 2023-07-07 | 2023-07-14 |
 | [O\-zone](https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Everything You Need](https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS) | 2:54 | 2023-02-10 | 2023-02-25 |
 | [OFF BAT](https://open.spotify.com/track/6QA42ZcBRWeLGH1DMwWILs) | [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv), [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [OFF BAT](https://open.spotify.com/album/53q6YzR84HesqPLahd1qRI) | 2:08 | 2023-06-16 |  |
 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 | 2023-02-10 | 2023-02-18 |

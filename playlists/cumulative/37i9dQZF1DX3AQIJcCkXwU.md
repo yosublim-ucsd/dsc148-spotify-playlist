@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-163 songs - 11 hr 52 min
+164 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Kirwani](https://open.spotify.com/track/3uEHOHPX2pDBLQ6QHWBpZs) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [Ragas from Lahore: Improvisations with Jaubi](https://open.spotify.com/album/7a3OBCH6fWKGb1MuKpIBKn) | 4:32 | 2022-04-04 | 2022-07-29 |
 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-04-04 |  |
 | [Kramina](https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:59 | 2022-12-09 |  |
+| [Krishna's Bansuri](https://open.spotify.com/track/5UkTQNURKXrJ0lKRns4Vxi) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Krishna's Bansuri](https://open.spotify.com/album/2AqZxQZwDWHCcFbLqrPunj) | 3:53 | 2023-07-13 |  |
 | [Let Go](https://open.spotify.com/track/25zCv1s82H8p5ZeK5XiVJ9) | [Tabla Trance](https://open.spotify.com/artist/0oQittCs5XPUfsdhUI5SAw) | [Let Go](https://open.spotify.com/album/1i7rkhXIJjHhSt2mJAQ8zq) | 2:48 | 2023-06-23 |  |
 | [Lok Samastha \- Instrumental Version](https://open.spotify.com/track/4l3rzdMhFlvk48wCQhAqyN) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 2:44 | 2022-10-08 |  |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-01-20 |  |
@@ -138,7 +139,7 @@
 | [Shakthi Ganapathy](https://open.spotify.com/track/03nIRan6UXhE1LauTQuEPG) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Garuda Sevai](https://open.spotify.com/album/3QjGleINdYDm4weNifzoyI) | 4:49 | 2022-10-05 |  |
 | [Sharad Rtu Hiran](https://open.spotify.com/track/3P5LCGwst6MHnfmCoDUqkq) | [Chand Adwani](https://open.spotify.com/artist/13fCAM11qEb6Jud1D48RLi) | [Aatma Momabattee](https://open.spotify.com/album/4vcltSZOJLMWgyomcNKHps) | 3:54 | 2022-05-24 |  |
 | [Shiva's Meditation](https://open.spotify.com/track/0TxmxoCQMiXvfFA6DPM1wT) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 5:09 | 2022-04-04 |  |
-| [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 |  |
+| [Sights in Sound \(Shiva\)](https://open.spotify.com/track/7CatPZZMG9tx1Crhy5oTgL) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [The Magnificent Hum](https://open.spotify.com/album/3UTW7AeSNDdZVKQBi8MjDM) | 4:22 | 2022-04-04 | 2023-07-14 |
 | [Silver Keys](https://open.spotify.com/track/0dTYfQD9vR39dLLv0TfXVl) | [Simon Shavi](https://open.spotify.com/artist/3bU7LIIa7VaEkMwmcqbZOK) | [Silver Keys](https://open.spotify.com/album/4GiYY8khJkt4Csn1I7NcID) | 3:40 | 2022-04-04 |  |
 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 | 2023-01-13 |  |
 | [Songs from the Seven Towers](https://open.spotify.com/track/6rYq40IMfNWoOSmHM6HLls) | [Bombay Dub Orchestra](https://open.spotify.com/artist/070RPr7Euzwf3yboA9Xp2U) | [Tales from the Grand Bazaar](https://open.spotify.com/album/1XlBWu2ANXdvk4t378lrqR) | 7:58 | 2022-07-18 | 2023-02-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring MAGNA\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,044 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,069 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 23 | [Verano Rosé](https://open.spotify.com/track/1TBV0PsJHHORzbn0AluTKj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Verano Rosé](https://open.spotify.com/album/07Ase5Emf9f6k8VfpRSSHZ) | 2:45 |
 | 24 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
 | 25 | [El Plan Mayor](https://open.spotify.com/track/7JlpH2WqjABcFULmtNIMeM) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [¿Juan Julian?](https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7) | [El Plan Mayor](https://open.spotify.com/album/3gwoxCZpCCpcWlmuoR0efY) | 2:52 |
-| 26 | [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 |
-| 27 | [Cuentas Pendientes](https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Cuentas Pendientes](https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI) | 2:43 |
-| 28 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 |
+| 26 | [Regalos](https://open.spotify.com/track/4VepBt1iPtAl252OTVWqzM) | [Cometas](https://open.spotify.com/artist/32239AWhqRXbc7gxJNounF) | [Regalos](https://open.spotify.com/album/6oAFSyabc4tjftTMDIwkyO) | 3:30 |
+| 27 | [bien](https://open.spotify.com/track/3alruzFLr4Umv1eSKhOdAb) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [bien](https://open.spotify.com/album/1471suMGCRkYG3GDjh7xCn) | 3:00 |
+| 28 | [Cuentas Pendientes](https://open.spotify.com/track/3YxoIY40PgKDBjKHDHUQAe) | [Letizia Vocos](https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8) | [Cuentas Pendientes](https://open.spotify.com/album/7vPKBes3WuXF8xfT5ZC3EI) | 2:43 |
 | 29 | [Media Luna](https://open.spotify.com/track/7CGKC2OL5jBy33fKDH5u5f) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [333](https://open.spotify.com/album/4z6cXeCAxqXOFZRXHLIUmj) | 2:46 |
 | 30 | [Dientes](https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Dientes](https://open.spotify.com/album/0Lzfz2swBfJWGJIAzZRgMV) | 4:46 |
 | 31 | [Otra vez](https://open.spotify.com/track/3Zf8qWkLGXCZk56jydscVp) | [Human Lemonade](https://open.spotify.com/artist/79fWU9PhoGDDgvlIdDM8AC) | [Your Favorite Music Lovers](https://open.spotify.com/album/5sEdFVcEBQ8NcicGefo5z2) | 4:09 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 35 | [CHORO](https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz) | [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [CHORO](https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj) | 3:17 |
 | 36 | [Conquistando](https://open.spotify.com/track/7MmLIb4J8HhdSphtI8Zl5z) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Sev's](https://open.spotify.com/artist/08vjFBcdq8P80pLAh89LCW), [Aymí](https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS) | [Conquistando](https://open.spotify.com/album/39CiO2Ugl1PFUwQkC3kOCm) | 2:46 |
 | 37 | [BESOS](https://open.spotify.com/track/0ffo9MbsIVbCNhM4Mh8Or2) | [Yeyo](https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw), [Lowrdes](https://open.spotify.com/artist/4q8AFCeSnIBsghRIeUScc3), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [ENEMIGO DEL FIN Vol\. 1](https://open.spotify.com/album/4H5cbuE4D5177oSVxrfvlk) | 2:40 |
-| 38 | [nada es 4 life](https://open.spotify.com/track/1RxCrKmIJcsjWzscUOqYy1) | [CONDY](https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3) | [PuDo HaBeR SidO](https://open.spotify.com/album/7q7kVUveKdto6uhyf8nbrZ) | 2:14 |
-| 39 | [Todas las Nubes](https://open.spotify.com/track/5vMs9SODiQdFHxkIfy5i1W) | [almanaques](https://open.spotify.com/artist/5s21kUHcl27S6FKsCEhskk) | [Todas las Nubes](https://open.spotify.com/album/3M372tMWYHEr8m5rsIknB1) | 2:51 |
+| 38 | [Todas las Nubes](https://open.spotify.com/track/5vMs9SODiQdFHxkIfy5i1W) | [almanaques](https://open.spotify.com/artist/5s21kUHcl27S6FKsCEhskk) | [Todas las Nubes](https://open.spotify.com/album/3M372tMWYHEr8m5rsIknB1) | 2:51 |
+| 39 | [nada es 4 life](https://open.spotify.com/track/1RxCrKmIJcsjWzscUOqYy1) | [CONDY](https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3) | [PuDo HaBeR SidO](https://open.spotify.com/album/7q7kVUveKdto6uhyf8nbrZ) | 2:14 |
 | 40 | [Con la gata y tus mentiras](https://open.spotify.com/track/2jykCNG4QLzJGGawOcen0T) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Con la gata y tus mentiras](https://open.spotify.com/album/3jprgQy8G0ERjgQronO3cX) | 3:45 |
 | 41 | [Sin Equipaje](https://open.spotify.com/track/1D5k79Go7qwvOEuMKPdzBz) | [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Sin Equipaje](https://open.spotify.com/album/2DakiSbV5vQqJB0Jk0t4Iy) | 4:36 |
 | 42 | [Profundo](https://open.spotify.com/track/6S9C8Tv8SjtVf1oJ7ycaR9) | [Pacifika](https://open.spotify.com/artist/1THKuFOwUsISl3YdpVx5ke) | [Profundo](https://open.spotify.com/album/1VWwiIDL7IuGhwsnaCUYnj) | 4:45 |
 | 43 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 |
-| 44 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 |
-| 45 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 |
+| 44 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 |
+| 45 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 |
 | 46 | [VIP](https://open.spotify.com/track/5mUa1V9AT1VnB79xCfS1vw) | [Los Domblas](https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P) | [VIP](https://open.spotify.com/album/5MdKIHQ88sc6bt4ltzVZ5w) | 2:26 |
 | 47 | [Los 90's](https://open.spotify.com/track/4aT1GQFFUwTgG3lPyM0BsM) | [Alita Jugosita](https://open.spotify.com/artist/11CQZXyjJiI16TPWJmzS8Y) | [Los 90's](https://open.spotify.com/album/5BeFEFkNbndxCLF9DNc2US) | 2:09 |
-| 48 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 |
-| 49 | [Solo](https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs) | [Zenith](https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4) | [Solo](https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS) | 3:53 |
+| 48 | [Solo](https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs) | [Zenith](https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4) | [Solo](https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS) | 3:53 |
+| 49 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 |
 | 50 | [una y diez](https://open.spotify.com/track/5wuSHFYAS3kmPZBeWjts0v) | [LUANDA](https://open.spotify.com/artist/4uafDYiyPmfiBC9XJPxtsp) | [una y diez](https://open.spotify.com/album/3qUSxcib4jTzSGR2BFGRqa) | 2:39 |
 
-Snapshot ID: `MCxjODFmZjg2M2JmZmI3NDE0N2E0NDBhMWJhZGZhYzNjZmVkOTViNzZh`
+Snapshot ID: `MCw4NDU1ZjVkMTQ1YTU1NzljYTI0OTg5OGEyOTM3ZjI5Njk1YWFjNTBh`

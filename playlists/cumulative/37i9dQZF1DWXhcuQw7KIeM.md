@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-118 songs - 10 hr 46 min
+123 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Dronning Ellisiv](https://open.spotify.com/track/5QdO7aRLZEUhwti8gTM0qW) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Dronning Ellisiv](https://open.spotify.com/album/1VQkQ1tkn5lIVXTG1QjpEZ) | 4:32 | 2022-05-13 |  |
 | [Ella](https://open.spotify.com/track/6QXieDRlH4Ofjg864USffV) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Ella](https://open.spotify.com/album/4Bb09POxCDNaLQPXWO4qv9) | 3:54 | 2022-05-13 |  |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 | 2022-05-13 | 2022-07-29 |
-| [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 | 2022-07-08 |  |
+| [Fehu \- First Flight Of The White Raven LIVE](https://open.spotify.com/track/6aYm5c6blHJKXV5GptM6bC) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/4yyj6YMX3clychfKehjlRr) | 5:28 | 2023-02-17 |  |
+| [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 | 2022-07-08 | 2023-07-14 |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/7o2r2AYbKNQV1GE6Bmke6a) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven Live\)](https://open.spotify.com/album/0NKnjpBvXwcgscEcpTdxjx) | 5:28 | 2022-10-07 | 2022-11-14 |
 | [Fenris](https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Fenris](https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n) | 5:47 | 2022-05-13 |  |
 | [Fenrisulven](https://open.spotify.com/track/0f6xnKf22Ugw6soMLJpweE) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Eldens Boning](https://open.spotify.com/album/5kwVc4LpCnd6irdTaFR6OZ) | 5:14 | 2022-05-13 | 2022-07-29 |
@@ -75,11 +76,14 @@
 | [Rún](https://open.spotify.com/track/4YmSk5JhkXdiG0LbQgjXma) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Vikings Chant](https://open.spotify.com/album/2lA9qxoicTpczW6FyCySzH) | 2:40 | 2022-05-13 | 2022-07-29 |
 | [Seidfylgjur](https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl) | [Rúnahild](https://open.spotify.com/artist/6B28AjXpmQglsDG2hHAwg3) | [Seidfylgjur](https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e) | 4:20 | 2022-05-13 |  |
 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 | 2022-05-13 |  |
-| [Skugge](https://open.spotify.com/track/3e271PjoGBvN2ALz5E55QY) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn](https://open.spotify.com/album/6xMpbnSwIddBUx86hq2dTp) | 6:38 | 2022-07-08 |  |
+| [Skugge](https://open.spotify.com/track/3e271PjoGBvN2ALz5E55QY) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn](https://open.spotify.com/album/6xMpbnSwIddBUx86hq2dTp) | 6:38 | 2022-07-08 | 2023-07-14 |
+| [Skugge](https://open.spotify.com/track/5E48z1EGgE93HoCpi94nzK) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn](https://open.spotify.com/album/5LNSX7ibqConJ2lAIM598L) | 6:38 | 2023-02-17 |  |
 | [Skugge](https://open.spotify.com/track/6rDzCWPqu1HL68R17tTVlp) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Skugge](https://open.spotify.com/album/1bCZ0eqT2D5QvTE4NxoLS0) | 6:38 | 2022-05-13 | 2022-07-29 |
 | [Slow Motion](https://open.spotify.com/track/1MlFP727igtyqCqFcvEgng) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Slow Motion](https://open.spotify.com/album/5ev4zVppLL7mptzcvZWgAD) | 5:19 | 2022-05-13 | 2022-07-29 |
-| [Slow Motion](https://open.spotify.com/track/3mAJGIX7q2XdMQzZ7gnew2) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7M4DXCXYMaLKDWwdX9P6jC) | 5:19 | 2022-07-08 |  |
-| [Snake Pit Poetry](https://open.spotify.com/track/4bJI9uGfjRCWVZnZHaHzuQ) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Snake Pit Poetry](https://open.spotify.com/album/7MUGGBH196GiArjholsWGJ) | 7:08 | 2022-07-08 |  |
+| [Slow Motion](https://open.spotify.com/track/3mAJGIX7q2XdMQzZ7gnew2) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7M4DXCXYMaLKDWwdX9P6jC) | 5:19 | 2022-07-08 | 2023-07-14 |
+| [Slow Motion](https://open.spotify.com/track/7JZxpUYXrzPCwYK4jlOL6M) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [The Line](https://open.spotify.com/album/7bI5b4KEynXXnebLcBMPr1) | 5:19 | 2023-02-17 |  |
+| [Snake Pit Poetry](https://open.spotify.com/track/4bJI9uGfjRCWVZnZHaHzuQ) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Snake Pit Poetry](https://open.spotify.com/album/7MUGGBH196GiArjholsWGJ) | 7:08 | 2022-07-08 | 2023-07-14 |
+| [Snake Pit Poetry](https://open.spotify.com/track/6R6wY6SsjYZOBFrpYEHUa3) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Orvarsdottir](https://open.spotify.com/artist/2R4voTSepmSRDdrN7W7H5Z) | [Snake Pit Poetry](https://open.spotify.com/album/2oFwWHzumvX0rYfBf1AXYh) | 7:08 | 2023-02-17 |  |
 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 | 2022-05-13 | 2022-07-29 |
 | [Spatle Ǣghwas](https://open.spotify.com/track/19SiWAlY1HyTNqgUCEOvQi) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Spatle Ǣghwas](https://open.spotify.com/album/18QwVgSM6Ru8A8Sc1jO6xm) | 4:20 | 2022-05-13 |  |
 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 | 2022-05-13 |  |
@@ -124,7 +128,8 @@
 | [Zeit der Raben](https://open.spotify.com/track/2dsW7ufpe4Kzaai1oA2wR5) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Pagan](https://open.spotify.com/album/7lN8bCpi9N1shlyZiT5Cgr) | 3:36 | 2022-05-13 | 2023-02-18 |
 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 | 2022-05-13 |  |
 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 | 2022-05-13 |  |
+| [Østavind](https://open.spotify.com/track/27YMR1cUhUKWQavHL6ojOg) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Ferd](https://open.spotify.com/album/2G0OFHDsL5aAyyuCjAQeMl) | 3:13 | 2023-02-17 |  |
 | [Østavind](https://open.spotify.com/track/5iudG1J8VPUeTTtQDh6S2g) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Østavind](https://open.spotify.com/album/18Ga6kb55vcF8ZBLoonSCu) | 3:13 | 2022-05-13 | 2022-07-29 |
-| [Østavind](https://open.spotify.com/track/7CPBfjEdpQGkaPcOFHr3Kw) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Ferd](https://open.spotify.com/album/71g2ZM0Q6bqqV5ZAQoLk2y) | 3:13 | 2022-07-08 |  |
+| [Østavind](https://open.spotify.com/track/7CPBfjEdpQGkaPcOFHr3Kw) | [Kjell Braaten](https://open.spotify.com/artist/24APlr3M5upT8vsa6kpotC) | [Ferd](https://open.spotify.com/album/71g2ZM0Q6bqqV5ZAQoLk2y) | 3:13 | 2022-07-08 | 2023-07-14 |
 
 \*This playlist was first scraped on 2022-05-31. Prior content cannot be recovered.

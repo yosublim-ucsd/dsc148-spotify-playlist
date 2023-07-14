@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Dominic Fike, TREASURE, Harry Styles &amp; more! Cover: Dominic Fike
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,674 likes - 32 songs - 1 hr 48 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,673 likes - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

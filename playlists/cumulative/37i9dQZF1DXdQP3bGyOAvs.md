@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-309 songs - 15 hr 31 min
+310 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bar Batula](https://open.spotify.com/track/1Me4qHgHYSefiTPtOyMu02) | [Barbatula](https://open.spotify.com/artist/7hn07YGWIDqLjXljHGI6t9) | [Bar Batula](https://open.spotify.com/album/72DdVjIBSNJ6Qnk3BTSCMP) | 3:13 | 2022-05-20 | 2022-07-29 |
 | [beach smiles](https://open.spotify.com/track/7lncP7Wc3qmCtAGI5dQnVi) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [beach smiles](https://open.spotify.com/album/795CcUtAx66kawYnIlXqeA) | 3:12 | 2022-07-29 | 2022-10-07 |
 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 | 2022-05-20 |  |
-| [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2022-05-20 |  |
+| [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 | 2022-05-20 | 2023-07-14 |
 | [beautiful/sad](https://open.spotify.com/track/0YnNUpfCzBLRkFcNCheIkE) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [beautiful/sad](https://open.spotify.com/album/2rI68f5SMdUUv8KyxpyU0U) | 2:56 | 2022-06-03 | 2022-09-09 |
 | [Below Surface](https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1) | [Souvren](https://open.spotify.com/artist/1bK9FSWyc2AxzWyR9SEMlX) | [Below Surface](https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg) | 3:02 | 2022-05-20 |  |
 | [Bermuda](https://open.spotify.com/track/0g41bwAXfDCDbo0h0syFs9) | [Lenny Braam](https://open.spotify.com/artist/2gU6uUfseONHGxhEUmemej) | [Bermuda](https://open.spotify.com/album/6wQiu3oJP4kVoWoBNh3lK0) | 3:48 | 2022-05-20 | 2022-07-01 |
@@ -141,6 +141,7 @@
 | [Ibiza](https://open.spotify.com/track/2FMQyu4tjvLOAmdCucxrwP) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Ibiza](https://open.spotify.com/album/4i18ta3YiO4XES2hu8N4Wv) | 3:10 | 2022-05-20 | 2022-06-24 |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2022-05-20 | 2022-07-01 |
 | [Indigo](https://open.spotify.com/track/5v5pd290c4Gfdc8zFg7b31) | [Vee Jay](https://open.spotify.com/artist/7GC4nMn8SQcBeF5c66SmQl) | [Indigo](https://open.spotify.com/album/7FSDgHsFvuoSkLmJqWifn0) | 2:23 | 2022-08-05 |  |
+| [Infinity Pool](https://open.spotify.com/track/2H75Zqdlb6xdaUeP3RIPJA) | [Mandarin Low](https://open.spotify.com/artist/4oMzoetQDxMqMdmTSFFi3l) | [Infinity Pool](https://open.spotify.com/album/3NDIWo88vgH4nQUABf3GVx) | 2:20 | 2023-07-14 |  |
 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2022-05-20 | 2023-01-07 |
 | [Insation](https://open.spotify.com/track/56mA7OCBuuhlk2yJuRwGHz) | [Bongrand](https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j) | [Insation](https://open.spotify.com/album/4zsrkgH5j7WCURZObfxmLC) | 2:50 | 2022-05-20 |  |
 | [Introspection](https://open.spotify.com/track/4RTW25j0yGC8vtgsbbtZnw) | [Bongrand](https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j) | [Introspection](https://open.spotify.com/album/7hfyklD0oSkyDXyD4JtTyr) | 2:53 | 2022-05-20 |  |

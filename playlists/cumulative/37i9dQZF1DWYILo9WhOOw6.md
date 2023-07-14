@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-99 songs - 5 hr 7 min
+100 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Delta World 68Hz \- 70Hz](https://open.spotify.com/track/6qhCrnMWstV10d4FYP9xOt) | [Orbinaural](https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj) | [Binaural Dreams](https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6) | 3:01 | 2023-01-20 |  |
 | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/track/0kKvSsrcHaAv92QvNZFgrj) | [Oliver Skye](https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H) | [Diving \(Delta 130 Hz \- 134 Hz\)](https://open.spotify.com/album/3VpVkXeykUTFsYY3JPW3SM) | 3:01 | 2023-01-20 |  |
 | [Dormire Delta Sinus 129\-133 Hz](https://open.spotify.com/track/6kK5AFqknHFsF3HeSDW7rB) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Orbital Waves](https://open.spotify.com/album/1z42IoADYAnp3xKT0ir4FJ) | 3:33 | 2023-01-20 |  |
+| [Dormire Delta Sinus 67Hz \- 71Hz](https://open.spotify.com/track/3O0MpL9WEpAOnZjB9Fg6v7) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Dormire Delta Sinus 67Hz \- 71Hz](https://open.spotify.com/album/2QYkmmz6QsfIdbHymRi9Ug) | 2:58 | 2023-07-14 |  |
 | [Dream Wave Delta](https://open.spotify.com/track/6EHkpGkXUvSk1nSd2XlfnR) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:30 | 2023-01-20 |  |
 | [Dreamless Sleep Delta 2Hz](https://open.spotify.com/track/1TX678iIWG02qd6BRdrJR2) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 6:50 | 2023-01-20 |  |
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2023-01-20 |  |

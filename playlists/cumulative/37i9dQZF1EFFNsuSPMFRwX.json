@@ -235,6 +235,32 @@
     },
     {
       "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Made It from Nothing (feat. Teyana Taylor and Rick Ross)",
+      "url": "https://open.spotify.com/track/7yGJcaSJgpgXamjmXBCb6j"
+    },
+    {
+      "album": {
         "name": "Gold-Diggers Sound",
         "url": "https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn"
       },
@@ -352,6 +378,28 @@
       "duration_ms": 171137,
       "name": "Paid In Full",
       "url": "https://open.spotify.com/track/1RQ38nLe5BiB6SneqIPCpZ"
+    },
+    {
+      "album": {
+        "name": "White Friday (CM9)",
+        "url": "https://open.spotify.com/album/2NLkWfzw3YmRGBhqPqtAvW"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/3Fv2hilkIgkziuz8U1LeJk"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224653,
+      "name": "Power of Money (feat. Ink)",
+      "url": "https://open.spotify.com/track/26z0PyPWLQNDByatk2GRuJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : DJ Kawest",
+  "description": "Les hits dancehall du moment. Photo : Kima",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -2747,6 +2747,28 @@
     },
     {
       "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Killy (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG"
+    },
+    {
+      "album": {
         "name": "KIMPEMBE",
         "url": "https://open.spotify.com/album/5EBbXZDMWTfSBCGZL5ETAW"
       },
@@ -4320,7 +4342,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 140288,
       "name": "Real",
       "url": "https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W"
@@ -4452,6 +4474,28 @@
       "duration_ms": 172800,
       "name": "R\u00e9fl\u00e9chi",
       "url": "https://open.spotify.com/track/3dwR9UFLT4Yxm6RQZfYtVU"
+    },
+    {
+      "album": {
+        "name": "R\u00d2F",
+        "url": "https://open.spotify.com/album/5szFYY6FZ37IZTt1hqTHiJ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Beaubrun",
+          "url": "https://open.spotify.com/artist/4qUeDaQIX2u2rXnPQr9yuP"
+        },
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124157,
+      "name": "R\u00d2F",
+      "url": "https://open.spotify.com/track/1dubXvWIvaXigxfvQBX6MO"
     },
     {
       "album": {
@@ -4902,7 +4946,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 143440,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/12oJhyQtWydL1vEaUWHhdG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. Le Bambole di Pezza in cover di Rock Italia questa settimana!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Kuni in cover questa settimana!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -1650,7 +1650,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 309778,
       "name": "Circular",
       "url": "https://open.spotify.com/track/4iokmKzHidikwb92wvK2pz"
@@ -1784,6 +1784,24 @@
       "duration_ms": 208863,
       "name": "Come se tu",
       "url": "https://open.spotify.com/track/1gm14I6ZhJt2nZBLVv1slR"
+    },
+    {
+      "album": {
+        "name": "Come volevi essere",
+        "url": "https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220596,
+      "name": "Come volevi essere",
+      "url": "https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb"
     },
     {
       "album": {
@@ -2752,6 +2770,28 @@
       "duration_ms": 173010,
       "name": "Favole (mi hai rotto il caxxo)",
       "url": "https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX"
+    },
+    {
+      "album": {
+        "name": "Paratonia",
+        "url": "https://open.spotify.com/album/5AUvACOtNPegFib4dHTRVa"
+      },
+      "artists": [
+        {
+          "name": "Gegenhalt",
+          "url": "https://open.spotify.com/artist/2F1ebm9n9KIEB0gGbkhCCT"
+        },
+        {
+          "name": "AKA5HA",
+          "url": "https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Ferma il treno",
+      "url": "https://open.spotify.com/track/1eLE3CzvmEOJDSbPwxI0Sr"
     },
     {
       "album": {
@@ -4096,7 +4136,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 159716,
       "name": "Jello",
       "url": "https://open.spotify.com/track/53nhFKZZoeAtWPbSq3RxS4"
@@ -4114,7 +4154,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 168880,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/1VKEBaxiXIxdaqZ1pGvx8G"
@@ -4444,6 +4484,24 @@
       "duration_ms": 284999,
       "name": "La vita fa schifo",
       "url": "https://open.spotify.com/track/38OPZDQmw8dhrl63CafT14"
+    },
+    {
+      "album": {
+        "name": "Armonia//Silenzio",
+        "url": "https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205283,
+      "name": "Labbra in 3D",
+      "url": "https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1"
     },
     {
       "album": {
@@ -6196,7 +6254,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 184913,
       "name": "Pensieri dal sottoscala",
       "url": "https://open.spotify.com/track/21CXSmO5srLQaqNGpomeRQ"
@@ -6652,6 +6710,24 @@
       "duration_ms": 245720,
       "name": "Quando Il Sogno Si Avvera",
       "url": "https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl"
+    },
+    {
+      "album": {
+        "name": "Ti canto\u200b / \u200bQuando non c'\u00e8 nessuno",
+        "url": "https://open.spotify.com/album/1SUL3JTXeNNwqJOj7uQPj4"
+      },
+      "artists": [
+        {
+          "name": "Fine Before You Came",
+          "url": "https://open.spotify.com/artist/3TZ3WMTZ0zxiQw8cKTA4wA"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304099,
+      "name": "Quando non c'\u00e8 nessuno",
+      "url": "https://open.spotify.com/track/2vcdJqLYSoL2Uhrs6DlqkN"
     },
     {
       "album": {
@@ -7771,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "Strade Smarrite",
+        "url": "https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw"
+      },
+      "artists": [
+        {
+          "name": "Bull Brigade",
+          "url": "https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206921,
+      "name": "Strade Smarrite",
+      "url": "https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o"
+    },
+    {
+      "album": {
         "name": "Mendoza",
         "url": "https://open.spotify.com/album/06gLriJFCE05iO1fS7ri8L"
       },
@@ -8460,7 +8554,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 201925,
       "name": "Triggers",
       "url": "https://open.spotify.com/track/2KN01OwJaFesnL3SoDCxWu"

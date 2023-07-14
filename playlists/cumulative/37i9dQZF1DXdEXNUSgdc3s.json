@@ -862,7 +862,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 176864,
       "name": "Mind Medicine (Alpha Sinus)",
       "url": "https://open.spotify.com/track/36mzpOJQV2IsPXrONBRLUO"
@@ -1262,6 +1262,24 @@
       "duration_ms": 178437,
       "name": "Translucent - Alpha Sinus 71,7 Hz - 73,8 Hz",
       "url": "https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ"
+    },
+    {
+      "album": {
+        "name": "Water - Alpha Sinus 97Hz - 104Hz",
+        "url": "https://open.spotify.com/album/0Tfxcfud4NpOIj5oUWqZF9"
+      },
+      "artists": [
+        {
+          "name": "The Binaural Monk",
+          "url": "https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Water - Alpha Sinus 97Hz - 104Hz",
+      "url": "https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdEXNUSgdc3s"

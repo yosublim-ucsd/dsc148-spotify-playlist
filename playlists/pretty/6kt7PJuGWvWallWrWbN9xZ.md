@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > these equations aren&\#x27;t adding up.
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 191 songs - 11 hr 15 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 193 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,5 +199,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 189 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
 | 190 | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/track/2lNb0SzyOEHizMxlpT9HM6) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/album/3qLQdJWPOyV49WdLfuyVDV) | 2:13 |
 | 191 | [pacman](https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [medicated insomnia](https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z) | 1:33 |
+| 192 | [So Beautiful](https://open.spotify.com/track/6syar8JKCt3R9ZBl11zmgI) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:07 |
+| 193 | [could you love me while i hate myself](https://open.spotify.com/track/7uo2L5FAja3pWIBa3HJVeC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [scared of everything](https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9) | 1:00 |
 
-Snapshot ID: `MjkzLDE4ZTg4ZDViYjg4NGZlOWY0M2VkNGU4MDhiMjI4YWM5MjNmMzgyMjU=`
+Snapshot ID: `Mjk1LDRjM2NiZjE4NzYyZjFhNTVjMjM1Mjk2YWQ3ZmE0N2MxNmQ3ZjJlNTI=`

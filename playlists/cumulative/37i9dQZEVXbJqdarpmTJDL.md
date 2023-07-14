@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,224 songs - 2 day 17 hr 29 min
+1,225 songs - 2 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [ATH GANG](https://open.spotify.com/track/06KMoGZds8GbKOm8vtSbfD) | [Mef](https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC) | [ATH GANG](https://open.spotify.com/album/0ozAd3E1HypPZWMGVU6N52) | 2:02 | 2021-12-12 | 2021-12-14 |
 | [Athens City](https://open.spotify.com/track/1dJ8YWLJQjxShRx6Fscc1m) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Nateballing](https://open.spotify.com/artist/1A9YIGEAYljm5zFUMBK8Ot) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:10 | 2021-10-31 | 2021-11-08 |
 | [Atlanta](https://open.spotify.com/track/5YT0slA5sVnH8cwiJcpgx0) | [Raps On The Run](https://open.spotify.com/artist/2YFvN3qj5M2AMSQZ3jP1pD), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Electabaz](https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf) | [Atlanta](https://open.spotify.com/album/6Xo5JKOzABgk41MTZ8gBeu) | 1:00 | 2023-01-12 | 2023-01-22 |
+| [ATOUTALER](https://open.spotify.com/track/2ZTxf5fvD1tXEEyjUcYxN1) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [ATOUTALER](https://open.spotify.com/album/3sxEzMEqCbsQdlNmnATn5b) | 2:22 | 2023-07-13 |  |
 | [Aventador](https://open.spotify.com/track/5J9gOkJYkTTdZj8RF9UvZ4) | [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9), [MG](https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0) | [STATUS](https://open.spotify.com/album/3o4jrfejp2xzBi41YSwMrP) | 2:44 | 2022-06-25 | 2022-06-30 |
 | [Aya](https://open.spotify.com/track/1oa2VjfQHY3jOMhr4INBOf) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Poli\_Ploki](https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8) | 3:21 | 2022-06-04 | 2022-11-13 |
 | [Babies](https://open.spotify.com/track/4Xd8P7tZQzoeqOBMmEvZGc) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Psixi](https://open.spotify.com/album/3HtrMyrM7HfCicKZPUmSeU) | 4:14 | 2022-02-23 | 2022-02-26 |
@@ -804,7 +805,7 @@
 | [O Zontanos Nekros](https://open.spotify.com/track/6N7EuKl26BUiRiO00JM3PH) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV) | [To Paidi Tou Dromou 2](https://open.spotify.com/album/1OyYx0iiu2erp8ptykpPDl) | 3:00 | 2022-01-18 | 2022-01-20 |
 | [Ob$e$$ion](https://open.spotify.com/track/1LRCdHFCWJ8S1yi7VPJUU4) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Ob$e$$ion](https://open.spotify.com/album/3WkxenunNscofUmMj8p4We) | 5:15 | 2021-12-20 | 2021-12-26 |
 | [Obsessed](https://open.spotify.com/track/6ueP6ccf6H5h63WL9kfu23) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:36 | 2022-07-08 | 2022-07-17 |
-| [Obsessed](https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Obsessed](https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc) | 3:36 | 2022-07-16 |  |
+| [Obsessed](https://open.spotify.com/track/29kTgA9pGo9RYwhED65ZrS) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [Obsessed](https://open.spotify.com/album/3HX0kjaTKaBiwaBhlZbGNc) | 3:36 | 2022-07-16 | 2023-07-14 |
 | [Odos Monaxias](https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Odos Monaxias](https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS) | 4:16 | 2023-05-06 | 2023-05-12 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-04 |
 | [OG](https://open.spotify.com/track/1Ffn5uRzMCWWXE1reLK6L1) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Masla.G](https://open.spotify.com/artist/3SV2jrmhA3pDqHmPITbzD4) | [OG](https://open.spotify.com/album/3Y1EjzGaV0j2yU126fLzT3) | 3:25 | 2022-12-03 | 2022-12-05 |

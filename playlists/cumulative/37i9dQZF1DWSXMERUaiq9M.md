@@ -2,9 +2,9 @@
 
 ### [rave](https://open.spotify.com/playlist/37i9dQZF1DWSXMERUaiq9M)
 
-> love peace techno
+> celebrating a new generation of rave music feat\. southstar, DJ Gigola, Geo22, Charlotte Plank, TELESHOP & DJ Mell G
 
-130 songs - 9 hr 11 min
+133 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,12 +67,14 @@
 | [Italo Disco](https://open.spotify.com/track/7BnlmCIxJ9PKojxusCrgDB) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:18 | 2023-03-10 | 2023-04-16 |
 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 | 2023-04-06 |  |
 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 | 2023-03-10 |  |
-| [Juicy Beat](https://open.spotify.com/track/374NWxnd732Jd0lkEd9IqJ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [Juicy Beat](https://open.spotify.com/album/3Jq1Vry2U7XTMqmkj6857Q) | 4:32 | 2023-07-07 |  |
+| [Juicy Beat](https://open.spotify.com/track/374NWxnd732Jd0lkEd9IqJ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [Juicy Beat](https://open.spotify.com/album/3Jq1Vry2U7XTMqmkj6857Q) | 4:32 | 2023-07-07 | 2023-07-14 |
 | [Keine Liebe, Kein Rave](https://open.spotify.com/track/0UkGdrKm6PaVCxTwPzP2xX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Kiki Solvej](https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW) | [Keine Liebe, Kein Rave](https://open.spotify.com/album/2iL5gzdjVQsTsUI7i8KxDq) | 4:20 | 2023-03-21 | 2023-06-29 |
 | [Knife Talk](https://open.spotify.com/track/5zzf3tCyakWfASFtPs2mBl) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Knife Talk](https://open.spotify.com/album/0WYWT38s9EtYYatYZLiNvW) | 2:52 | 2023-03-10 | 2023-04-07 |
-| [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 |  |
+| [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-07-14 |
 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 | 2023-06-09 |
+| [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 | 2023-07-13 |  |
 | [Love Express](https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:41 | 2023-05-18 |  |
+| [Love Me](https://open.spotify.com/track/4GIvkMOZpVLXdruLT5ZAhv) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O) | [Love Me](https://open.spotify.com/album/0QCuHHMLxX7UOUUnpxJB3i) | 5:50 | 2023-07-13 |  |
 | [Love Song](https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7) | [Mausio](https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q) | [Love Song](https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU) | 2:56 | 2023-04-06 | 2023-05-09 |
 | [Luft \- Blue Hawaii, DJ Kirby Remix](https://open.spotify.com/track/4aqxIaQLsEkeqqKQC3jsAg) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ), [DJ Kirby](https://open.spotify.com/artist/5OaPThfnN888Dy4mpAEBcD) | [Luft \(Blue Hawaii, DJ Kirby Remix\)](https://open.spotify.com/album/7HBdKsAK6pjrkGi10GC3cz) | 3:26 | 2023-04-18 | 2023-04-28 |
 | [Luzifer \- feat\. Ufo361](https://open.spotify.com/track/5UnIFgOpnUaKsukuB66GXg) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [RK5](https://open.spotify.com/album/4wxcLVfRrCebsZaBdBctne) | 5:29 | 2023-03-10 | 2023-06-06 |
@@ -88,7 +90,7 @@
 | [My Little White Pony](https://open.spotify.com/track/25SHYrwpLLuVnsLsN39xYr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/4iQOiiyHbLlwLTnPUDZPEo) | 4:59 | 2023-03-10 | 2023-07-01 |
 | [Neo Eros](https://open.spotify.com/track/1OWIJ8oVoeoKto8vNKQs5R) | [BXTR](https://open.spotify.com/artist/5DVHsT32QqMheNUahCSEAA), [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [Neo Eros](https://open.spotify.com/album/6ouucH3hin2Y2IKUUAi3cD) | 5:27 | 2023-05-05 | 2023-05-11 |
 | [Never Let Me Go](https://open.spotify.com/track/23LmGBgZLAnBLxrEIYd16O) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Never Let Me Go](https://open.spotify.com/album/2GOR4HwqpYDUTlFP3Qb3JI) | 4:09 | 2023-03-10 | 2023-05-06 |
-| [No More \- Original Mix](https://open.spotify.com/track/21xponj6jDAFNyDv0VyJcT) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 7:01 | 2023-07-03 |  |
+| [No More \- Original Mix](https://open.spotify.com/track/21xponj6jDAFNyDv0VyJcT) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [slash 001](https://open.spotify.com/album/7mwCXIc5XkgaISn5UBQTwn) | 7:01 | 2023-07-03 | 2023-07-14 |
 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 | 2023-03-10 |  |
 | [Nothing Is Easy](https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Nothing Is Easy EP](https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW) | 3:11 | 2023-04-27 | 2023-06-10 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-09 |  |
@@ -117,6 +119,7 @@
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |
 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 | 2023-03-10 |  |
 | [SUV](https://open.spotify.com/track/0MuCieDCcqRjiIdwPtHsYM) | [NeuroBeatz](https://open.spotify.com/artist/3oVSD2qVvvT9HhWDlFk4Hv) | [SUV](https://open.spotify.com/album/3X319vPxofbppBTslLiPBX) | 2:15 | 2023-03-10 | 2023-03-22 |
+| [Sweet Disposition \- Mashd N Kutcher Remix](https://open.spotify.com/track/3uPsJSn7gDfThRFLGXo81u) | [Fitch](https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege), [Emile Battour](https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT), [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [Sweet Disposition \(Mashd N Kutcher Remix\)](https://open.spotify.com/album/76r9pHHYDvua8wjexXzKNV) | 3:35 | 2023-07-13 |  |
 | [Take That](https://open.spotify.com/track/1rRBOQnG1Y86iszGf4J7Px) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz), [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX) | [Take That](https://open.spotify.com/album/7cFPpACcw4uo8ioN0IY2Px) | 5:46 | 2023-04-18 | 2023-05-19 |
 | [Techno Installation](https://open.spotify.com/track/2FSqCe7FJvmFit3u1UXVHf) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Techno Installation](https://open.spotify.com/album/7snbKvrdJ6oCp4qmhUsEdO) | 6:48 | 2023-03-10 | 2023-03-25 |
 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 | 2023-03-10 |  |

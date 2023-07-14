@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 165055,
       "name": "4 Real",
       "url": "https://open.spotify.com/track/6Iq0mQAWUiarSWYE8Y8cdz"
@@ -173,6 +173,56 @@
     },
     {
       "album": {
+        "name": "Bigman Circle",
+        "url": "https://open.spotify.com/album/6hAm1D6ohuFfoBNo8YoLav"
+      },
+      "artists": [
+        {
+          "name": "Fid Q",
+          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
+        },
+        {
+          "name": "Salmin swaggz",
+          "url": "https://open.spotify.com/artist/3FzKgyxUs4cv76hQwiC1UB"
+        },
+        {
+          "name": "Noxie B",
+          "url": "https://open.spotify.com/artist/7qPud6qdQ4QPGKGbyg0pav"
+        },
+        {
+          "name": "Mloccoh Songzx",
+          "url": "https://open.spotify.com/artist/0LtVLq1Op6FGFkZlZBsklM"
+        },
+        {
+          "name": "Fresh like uhhh",
+          "url": "https://open.spotify.com/artist/5xxUxV7S3qqUgqdAfTnkhk"
+        },
+        {
+          "name": "Paapshboy",
+          "url": "https://open.spotify.com/artist/18IDdETI7QzKLKGOF6Iqax"
+        },
+        {
+          "name": "Oduma Essan",
+          "url": "https://open.spotify.com/artist/3QoRZ2F0uI8SzlXMjvmsps"
+        },
+        {
+          "name": "Friday Pol",
+          "url": "https://open.spotify.com/artist/2ZgfqQbGADsd5xm4rpcRDH"
+        },
+        {
+          "name": "Afande Ready",
+          "url": "https://open.spotify.com/artist/1uBYzB0JE3gi6XTJNtlubW"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341314,
+      "name": "Bigman Circle",
+      "url": "https://open.spotify.com/track/07oekwVYSeP83rz0uKTfJS"
+    },
+    {
+      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/1wWKlSTmgntpXq6NCRvxs5"
       },
@@ -268,7 +318,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 240813,
       "name": "Dear Gambe",
       "url": "https://open.spotify.com/track/2i37M0jQYvAZNvId6tZU30"
@@ -334,6 +384,24 @@
       "duration_ms": 182627,
       "name": "Drunk",
       "url": "https://open.spotify.com/track/4ce0jtsd45FzC16C6T1aBu"
+    },
+    {
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/5CVH1q3LmJwUkczJ6mtBd6"
+      },
+      "artists": [
+        {
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136294,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/2rmTN5WQoi1qVTgEpcunGO"
     },
     {
       "album": {
@@ -552,7 +620,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 236082,
       "name": "I Don't Give A Damn",
       "url": "https://open.spotify.com/track/4CswUHkWXUFGUKPVchrAXV"
@@ -809,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Mtafutaji II",
+        "url": "https://open.spotify.com/album/2EUdEsUS8gJM9NH2QozqHv"
+      },
+      "artists": [
+        {
+          "name": "Msodoki Young Killer",
+          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+        },
+        {
+          "name": "Barakah The Prince",
+          "url": "https://open.spotify.com/artist/3jWU2RvjUg1svsXaqyhGca"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Mtafutaji II",
+      "url": "https://open.spotify.com/track/2ITkqQOODTwRzdg5lOhZ85"
+    },
+    {
+      "album": {
         "name": "Mtu 3",
         "url": "https://open.spotify.com/album/43tG9iELXEZWUwgKZWTfs9"
       },
@@ -902,7 +992,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 216097,
       "name": "Mzee Mbuzi",
       "url": "https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8"
@@ -1517,6 +1607,36 @@
     },
     {
       "album": {
+        "name": "UTUH",
+        "url": "https://open.spotify.com/album/0wi5BSocK9MiTuA9QwM7eS"
+      },
+      "artists": [
+        {
+          "name": "EUGKEN",
+          "url": "https://open.spotify.com/artist/5c3Bdw6ZfisVBsFavzFPHV"
+        },
+        {
+          "name": "Ynnek",
+          "url": "https://open.spotify.com/artist/2wu6U4rf0z3MR6sIeWlghK"
+        },
+        {
+          "name": "Boy From L.A",
+          "url": "https://open.spotify.com/artist/2GRcvlKE6NhBN1KzJG83ji"
+        },
+        {
+          "name": "Lil Nason",
+          "url": "https://open.spotify.com/artist/4mbJSFISkE9C3JPdo5dOOb"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226976,
+      "name": "the Last of Us",
+      "url": "https://open.spotify.com/track/0KAwOdbsU8OKuGf0ka8iVx"
+    },
+    {
+      "album": {
         "name": "Threesome Feat. Chemical & Frida Amani",
         "url": "https://open.spotify.com/album/6ZglJvIv5Mh9U1du5mbP16"
       },
@@ -1678,7 +1798,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 192809,
       "name": "WE DID IT",
       "url": "https://open.spotify.com/track/4r9aeLsfgxk2kTf5VwFVoc"

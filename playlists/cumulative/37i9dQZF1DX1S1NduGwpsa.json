@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gabriels",
+  "description": "The best jazz new releases. Cover: Gabi Hartman",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/4vay9WmJyXHGkr6ayYUmRC"
+      },
+      "artists": [
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "Ascenseur pour l'\u00e9chafaud",
+      "url": "https://open.spotify.com/track/5TH6yctu7ZT6ns97mXrBH5"
+    },
+    {
+      "album": {
         "name": "ASTA 2",
         "url": "https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo"
       },
@@ -681,6 +699,32 @@
     },
     {
       "album": {
+        "name": "Black Crow",
+        "url": "https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "SuperBlue",
+          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214909,
+      "name": "Black Crow",
+      "url": "https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW"
+    },
+    {
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -714,6 +758,24 @@
       "duration_ms": 207682,
       "name": "Blossom's Blues",
       "url": "https://open.spotify.com/track/7mwxIlsW86NrePRjW19PZx"
+    },
+    {
+      "album": {
+        "name": "Body of Mine",
+        "url": "https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211186,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
     },
     {
       "album": {
@@ -1594,7 +1656,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 235757,
       "name": "Don't Fence Me In / Strollin'",
       "url": "https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk"
@@ -1704,7 +1766,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 314306,
       "name": "Easy come easy go - Edit",
       "url": "https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie"
@@ -2493,6 +2555,24 @@
     },
     {
       "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332262,
+      "name": "I Am What I Am",
+      "url": "https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8"
+    },
+    {
+      "album": {
         "name": "I Feel Foolish",
         "url": "https://open.spotify.com/album/6NBxi7pcmiS31iVIsq7AH3"
       },
@@ -2540,7 +2620,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
@@ -2598,7 +2678,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 257795,
       "name": "I Won't Dance",
       "url": "https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e"
@@ -3103,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318675,
+      "name": "Lean In",
+      "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx"
       },
@@ -3162,7 +3260,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 291891,
       "name": "Lights Away from Home",
       "url": "https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v"
@@ -3427,6 +3525,28 @@
     },
     {
       "album": {
+        "name": "Madrid",
+        "url": "https://open.spotify.com/album/7nPajU253ClFSt0PVMbBs1"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132592,
+      "name": "Madrid",
+      "url": "https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo"
+    },
+    {
+      "album": {
         "name": "Man At Heart",
         "url": "https://open.spotify.com/album/7I95wqu9JjuOepQI5zqlQ0"
       },
@@ -3442,6 +3562,28 @@
       "duration_ms": 134861,
       "name": "Man At Heart",
       "url": "https://open.spotify.com/track/36obvzkBpCzXGP0cohkZlZ"
+    },
+    {
+      "album": {
+        "name": "Marching Band (feat. Masego)",
+        "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284386,
+      "name": "Marching Band (feat. Masego)",
+      "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
     },
     {
       "album": {
@@ -3712,7 +3854,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185672,
       "name": "Momo",
       "url": "https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U"
@@ -4737,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "Safely Far",
+        "url": "https://open.spotify.com/album/66MMnVPMTFD2yRIApV7CDn"
+      },
+      "artists": [
+        {
+          "name": "Ed Motta",
+          "url": "https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185637,
+      "name": "Safely Far",
+      "url": "https://open.spotify.com/track/5zOImk9SuJVNISeMUd1m3y"
+    },
+    {
+      "album": {
         "name": "Sal Al Malec\u00f3n",
         "url": "https://open.spotify.com/album/1ybjgopLYNB9XbJBKRF8JS"
       },
@@ -5336,7 +5496,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 243314,
       "name": "Taking Me Higher",
       "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
@@ -6154,7 +6314,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 180540,
       "name": "Vuma (feat. Thandiswa, Joel Ross)",
       "url": "https://open.spotify.com/track/1c3FhOIEZnKc0cmuZOqh6S"

@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from DJ Seinfeld & Confidence Man.",
-  "num_followers": 443293,
+  "num_followers": 443424,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2YxOTYwOWE5ODU4YTIyZjJiYzMwYThmYjI3ZTQ2NWFjNGU0ZGRl",
+  "snapshot_id": "MCw5NDEyNzdjODljYjhlMzE4NTE1ZDI1ZGU2YzY4ZmJkOTZiZDVjOTdk",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "TINY FLOWERS",
-        "url": "https://open.spotify.com/album/2UPG7QpPTFwEhsgvxZ8mpD"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "PHEA",
+          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
         }
       ],
-      "duration_ms": 244063,
-      "name": "TINY FLOWERS",
-      "url": "https://open.spotify.com/track/4WFFyA0F7N0G2n58JlUvzP"
+      "duration_ms": 165961,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
+        "name": "TINY FLOWERS",
+        "url": "https://open.spotify.com/album/2UPG7QpPTFwEhsgvxZ8mpD"
       },
       "artists": [
         {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        },
-        {
-          "name": "PHEA",
-          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 165961,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
+      "duration_ms": 244063,
+      "name": "TINY FLOWERS",
+      "url": "https://open.spotify.com/track/4WFFyA0F7N0G2n58JlUvzP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -907,30 +907,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Give It To You Like",
-        "url": "https://open.spotify.com/album/5wxFWJWLCwv0m7dJAe1MQn"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Give It To You Like",
-      "url": "https://open.spotify.com/track/7GIEHK5wi5GaIR1YJu6TBI"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/4aOCSAYlQdAGDnvhOQTkjo"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 187648,
       "name": "Higher",
       "url": "https://open.spotify.com/track/10g3Hp8RheTQqJMrfyNgf1"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Give It To You Like",
+        "url": "https://open.spotify.com/album/5wxFWJWLCwv0m7dJAe1MQn"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Give It To You Like",
+      "url": "https://open.spotify.com/track/7GIEHK5wi5GaIR1YJu6TBI"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Now Work",
+        "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Now Work",
+      "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
       },
@@ -1047,6 +1063,22 @@
       "duration_ms": 256795,
       "name": "Yield",
       "url": "https://open.spotify.com/track/0nBj151JdB5Cp7RYM5pDU8"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "The Stutter",
+        "url": "https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "The Stutter",
+      "url": "https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1095,38 +1127,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "The Stutter",
-        "url": "https://open.spotify.com/album/77Q9sOBlstkdIyA2gmNbv4"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "The Stutter",
-      "url": "https://open.spotify.com/track/6TIZPCn9PQ9kmfK4SbhIKS"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Now Work",
-        "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Now Work",
-      "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Mind Trip",
         "url": "https://open.spotify.com/album/3rNc2OkY3q7FmEo3IVIl4I"
       },
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Move (feat. NEZ)",
-        "url": "https://open.spotify.com/album/7gJWg1i4VbnVVtl8ypECBJ"
+        "name": "d(-_-)b dreaming of your latte art d(-_-)b",
+        "url": "https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
         },
         {
-          "name": "NEZ",
-          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         }
       ],
-      "duration_ms": 182748,
-      "name": "Move (feat. NEZ)",
-      "url": "https://open.spotify.com/track/7IyIclEFVbKenXYwzHitcX"
+      "duration_ms": 133714,
+      "name": "d(-_-)b dreaming of your latte art d(-_-)b",
+      "url": "https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1195,6 +1195,26 @@
       "duration_ms": 207568,
       "name": "Hypnotic (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Move (feat. NEZ)",
+        "url": "https://open.spotify.com/album/7gJWg1i4VbnVVtl8ypECBJ"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "duration_ms": 182748,
+      "name": "Move (feat. NEZ)",
+      "url": "https://open.spotify.com/track/7IyIclEFVbKenXYwzHitcX"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1247,6 +1267,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "i need you baby!",
+        "url": "https://open.spotify.com/album/0AZi55uK1V2yhc6QCdSkIr"
+      },
+      "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "i need you baby!",
+      "url": "https://open.spotify.com/track/4xIgEiCTSD1qo7AkBFQ3HB"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Make You Scream (yun\u00e8 pinku Remix)",
         "url": "https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ"
       },
@@ -1287,22 +1323,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "i need you baby!",
-        "url": "https://open.spotify.com/album/0AZi55uK1V2yhc6QCdSkIr"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "i need you baby!",
-      "url": "https://open.spotify.com/track/4xIgEiCTSD1qo7AkBFQ3HB"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Freakiness",
         "url": "https://open.spotify.com/album/1RR8ncQaNVcN3VzEad2hVk"
       },
@@ -1315,22 +1335,6 @@
       "duration_ms": 220952,
       "name": "Freakiness",
       "url": "https://open.spotify.com/track/27teEuh9kHjCj4SOQWgkZy"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "D.F.A.M.",
-        "url": "https://open.spotify.com/album/11KmKB9EHNIKzyExEFHLLm"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 212939,
-      "name": "D.F.A.M.",
-      "url": "https://open.spotify.com/track/1fRiE2xw55PTKNpPk5c1gC"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1355,6 +1359,22 @@
       "duration_ms": 212682,
       "name": "Lazer Beams - Bontan Remix",
       "url": "https://open.spotify.com/track/5rXOdqkiMHXLuwCKoCfImt"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "D.F.A.M.",
+        "url": "https://open.spotify.com/album/11KmKB9EHNIKzyExEFHLLm"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 212939,
+      "name": "D.F.A.M.",
+      "url": "https://open.spotify.com/track/1fRiE2xw55PTKNpPk5c1gC"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "d(-_-)b dreaming of your latte art d(-_-)b",
-        "url": "https://open.spotify.com/album/2MAkKniWFXaXXXzEFDRQ8p"
-      },
-      "artists": [
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-        },
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "d(-_-)b dreaming of your latte art d(-_-)b",
-      "url": "https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Tr\u00e1gatelo",
         "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/1vBFOczvg1y2N9nmTW7FwT"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ferreri",
-          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
-        }
-      ],
-      "duration_ms": 181879,
-      "name": "Unicorn - Radio Edit",
-      "url": "https://open.spotify.com/track/5E5XRGxQ29PDDZy2zLlVGO"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/0lOJdHHS6BlHzLQWob7Zi7"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/1vBFOczvg1y2N9nmTW7FwT"
+      },
+      "artists": [
+        {
+          "name": "Angelo Ferreri",
+          "url": "https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ"
+        }
+      ],
+      "duration_ms": 181879,
+      "name": "Unicorn - Radio Edit",
+      "url": "https://open.spotify.com/track/5E5XRGxQ29PDDZy2zLlVGO"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Harmonie / Inside",
         "url": "https://open.spotify.com/album/2MjCbkRbHStRfI1xgDBtVC"
       },
@@ -1539,26 +1539,6 @@
       "duration_ms": 421576,
       "name": "Harmonie",
       "url": "https://open.spotify.com/track/12vVagVxsTg34LgxVxOSuS"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "WISH YOU WELL",
-        "url": "https://open.spotify.com/album/0tb42ecODs0ifhKGygHJia"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "ellie d.",
-          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
-        }
-      ],
-      "duration_ms": 120375,
-      "name": "WISH YOU WELL",
-      "url": "https://open.spotify.com/track/2ABecMfF7whpOkO7yuHJBn"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1591,34 +1571,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Lightyears",
-        "url": "https://open.spotify.com/album/03WgFefsd6L75SoRrpseoE"
+        "name": "WISH YOU WELL",
+        "url": "https://open.spotify.com/album/0tb42ecODs0ifhKGygHJia"
       },
       "artists": [
         {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 245271,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/6mq6v7IIMG6aQR310ZoKew"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "let you go",
-        "url": "https://open.spotify.com/album/3UzPE2AritxgXE3xVX5n5T"
-      },
-      "artists": [
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
         {
-          "name": "Maya Randle",
-          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
+          "name": "ellie d.",
+          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
         }
       ],
-      "duration_ms": 200244,
-      "name": "let you go",
-      "url": "https://open.spotify.com/track/2S7gtwp6NctXZqA413ZZBh"
+      "duration_ms": 120375,
+      "name": "WISH YOU WELL",
+      "url": "https://open.spotify.com/track/2ABecMfF7whpOkO7yuHJBn"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1643,6 +1611,38 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "let you go",
+        "url": "https://open.spotify.com/album/3UzPE2AritxgXE3xVX5n5T"
+      },
+      "artists": [
+        {
+          "name": "Maya Randle",
+          "url": "https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02"
+        }
+      ],
+      "duration_ms": 200244,
+      "name": "let you go",
+      "url": "https://open.spotify.com/track/2S7gtwp6NctXZqA413ZZBh"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Lightyears",
+        "url": "https://open.spotify.com/album/03WgFefsd6L75SoRrpseoE"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 245271,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/6mq6v7IIMG6aQR310ZoKew"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "NO RULES",
         "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
       },
@@ -1663,26 +1663,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Gimme Back Your Love",
-        "url": "https://open.spotify.com/album/733wVMKRPVzZFs50ibHBhz"
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
       },
       "artists": [
         {
-          "name": "Latroit",
-          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
+          "name": "MJ Nebreda",
+          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
         },
         {
-          "name": "Jonathan Mouton",
-          "url": "https://open.spotify.com/artist/5eILPzQ0aefUcuLlPF9609"
-        },
-        {
-          "name": "BKLYNN",
-          "url": "https://open.spotify.com/artist/1WynmN7no6V2Lq0WXGhHjB"
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
         }
       ],
-      "duration_ms": 193770,
-      "name": "Gimme Back Your Love",
-      "url": "https://open.spotify.com/track/35qcMJzvPdrBpGjA3PsKiB"
+      "duration_ms": 178252,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1707,22 +1703,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
+        "name": "Gimme Back Your Love",
+        "url": "https://open.spotify.com/album/733wVMKRPVzZFs50ibHBhz"
       },
       "artists": [
         {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
+          "name": "Latroit",
+          "url": "https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK"
         },
         {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+          "name": "Jonathan Mouton",
+          "url": "https://open.spotify.com/artist/5eILPzQ0aefUcuLlPF9609"
+        },
+        {
+          "name": "BKLYNN",
+          "url": "https://open.spotify.com/artist/1WynmN7no6V2Lq0WXGhHjB"
         }
       ],
-      "duration_ms": 178252,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
+      "duration_ms": 193770,
+      "name": "Gimme Back Your Love",
+      "url": "https://open.spotify.com/track/35qcMJzvPdrBpGjA3PsKiB"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "At Dawn",
-        "url": "https://open.spotify.com/album/5HKP35nkH6Jppj20ZSQKTZ"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 315052,
-      "name": "At Dawn",
-      "url": "https://open.spotify.com/track/5etJsEonRP7uJhpeDWUpQn"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/6gYLRchavuBGwx4RGtu3gc"
       },
@@ -1975,18 +1959,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "ULTRANCE",
-        "url": "https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv"
+        "name": "At Dawn",
+        "url": "https://open.spotify.com/album/5HKP35nkH6Jppj20ZSQKTZ"
       },
       "artists": [
         {
-          "name": "NZIRIA",
-          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
         }
       ],
-      "duration_ms": 339999,
-      "name": "ULTRANCE",
-      "url": "https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx"
+      "duration_ms": 315052,
+      "name": "At Dawn",
+      "url": "https://open.spotify.com/track/5etJsEonRP7uJhpeDWUpQn"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -2019,6 +2003,22 @@
       "duration_ms": 213333,
       "name": "It Goes Like",
       "url": "https://open.spotify.com/track/4zXiKDr6LZaEQ4ALbpkyJm"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "ULTRANCE",
+        "url": "https://open.spotify.com/album/0eqxXDKHDPPYIUs59r6Vvv"
+      },
+      "artists": [
+        {
+          "name": "NZIRIA",
+          "url": "https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe"
+        }
+      ],
+      "duration_ms": 339999,
+      "name": "ULTRANCE",
+      "url": "https://open.spotify.com/track/11O2CGvvumz63FcH4VYUMx"
     },
     {
       "added_at": "2023-07-07 04:00:00",

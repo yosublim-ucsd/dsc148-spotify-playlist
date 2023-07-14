@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=el7cesKCTjav8giRVJfIvQ"> عصام صاصا </a>
 
-163 songs - 9 hr 57 min
+164 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [امبابه خط احمر](https://open.spotify.com/track/3tHO4bS7JzQmvQ5oRkb9NG) | [Mido Gad](https://open.spotify.com/artist/6ZcugQ1o2uf7lkFEage28f), [Biano](https://open.spotify.com/artist/574o3MQdD1Elms1LrN7KKC) | [امبابه خط احمر](https://open.spotify.com/album/0IT9G5uKu2dJcxRRABWGo0) | 3:25 | 2021-12-16 | 2022-01-11 |
 | [انا ابن ابويا وامى](https://open.spotify.com/track/3QYMACVt8nWKbhUSeIIG9O) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [انا ابن ابويا وامى](https://open.spotify.com/album/20XKmOhwuqBTNeJumwYqv1) | 5:25 | 2022-01-10 | 2022-07-29 |
 | [انا ابن ابويا وامى](https://open.spotify.com/track/661ndLkk7B8QFmCeRpeWqc) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [عصام صاصا](https://open.spotify.com/artist/76QlRkE5afjaqYuqN4kufF) | [انا ابن ابويا وامى](https://open.spotify.com/album/228oDfy2FJciEJIn92PnMA) | 5:25 | 2022-07-19 | 2022-10-25 |
+| [انا الاسد سايق عريني](https://open.spotify.com/track/3cEPZWcFZiF6kkktcfBoH8) | [Hamada El Asmar](https://open.spotify.com/artist/0i0usxTXU7Aa98oSg4Dzlr) | [انا الاسد سايق عريني](https://open.spotify.com/album/1tg8bS34z7BXKAlKEPyCQY) | 4:16 | 2023-07-13 |  |
 | [انا خاظف الانظار انا اعلي من الدولار](https://open.spotify.com/track/0uR3R0iyWsomKkOFrjJPQe) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [اسلام الملاح](https://open.spotify.com/artist/373OyCSwtScIDXdVuY3FbG) | [انا خاظف الانظار انا اعلي من الدولار](https://open.spotify.com/album/3ghuJFhSa7c8kTmY5zJgXz) | 3:04 | 2023-06-07 | 2023-06-17 |
 | [انا راجع يا شوية جواجع](https://open.spotify.com/track/5oZ6qfK8eACA82PxhUKeN7) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [Nour Eltot](https://open.spotify.com/artist/73XccIf98HDXk4ZeJNe6Hq) | [انا راجع يا شوية جواجع](https://open.spotify.com/album/1j4Bs2KzSO65Aj7SQU6t1R) | 3:26 | 2022-11-23 |  |
 | [انا سيرتي يا خصمي مزولاك](https://open.spotify.com/track/3JBzFBmDt0pyRzZiCDCsUi) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [انا سيرتي يا خصمي مزولاك](https://open.spotify.com/album/1KklmmJko1LMjCaIjiKlrL) | 2:57 | 2023-02-07 | 2023-03-25 |
@@ -167,7 +168,7 @@
 | [يا اصفر](https://open.spotify.com/track/4zYPnTQw16Ep4dEEgvjQTu) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [يا اصفر](https://open.spotify.com/album/4enUdXXUFYoWg5I6TlKWE6) | 3:41 | 2022-02-24 | 2022-10-17 |
 | [يا اصفر](https://open.spotify.com/track/5GGtKquPqPbdlom5OBeLqT) | [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [يا اصفر](https://open.spotify.com/album/7ILwar3dYtlYcXn0RNhsdR) | 3:52 | 2022-03-09 |  |
 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 | 2021-12-16 |  |
-| [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-07 |  |
+| [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-07 | 2023-07-14 |
 | [يلا نفتح الحساب](https://open.spotify.com/track/3fTKJkqA0enU1iDrC3QM4H) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا نفتح الحساب](https://open.spotify.com/album/6F6ObdCsn6o5F4QYcSrR4i) | 3:48 | 2022-09-27 | 2023-01-06 |
 | [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 | 2022-01-10 | 2022-10-03 |
 | [يلا نفتح الحساب](https://open.spotify.com/track/12h9Zu7E5LG8pRj0XnPX9A) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/4x1nQ9tP0qe3ZclwgXdCNF) | 3:48 | 2022-07-19 | 2022-09-25 |

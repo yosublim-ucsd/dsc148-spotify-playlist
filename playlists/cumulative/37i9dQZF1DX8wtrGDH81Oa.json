@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 228397,
       "name": "Sunny Nelson (Edit)",
       "url": "https://open.spotify.com/track/7gLfZIkrjUTwypnhFp6Get"
@@ -3930,6 +3930,24 @@
       "duration_ms": 255135,
       "name": "When We Were Suns",
       "url": "https://open.spotify.com/track/51LgENjsl5N0jRYYBSOT0R"
+    },
+    {
+      "album": {
+        "name": "Time Goes On",
+        "url": "https://open.spotify.com/album/0VdC2Ekluyo1tMZCmwCFzp"
+      },
+      "artists": [
+        {
+          "name": "Nino The Dino",
+          "url": "https://open.spotify.com/artist/6Zf359QwgLxZM7Q2Fjkwhi"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Written on paper",
+      "url": "https://open.spotify.com/track/4NCTkLOi0BD0ODmpvCVthj"
     },
     {
       "album": {

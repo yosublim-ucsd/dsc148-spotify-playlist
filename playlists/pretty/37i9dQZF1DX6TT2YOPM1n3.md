@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Trending Pakistani tracks under one roof\. Cover: Asim Azhar, Shae Gill
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,025 likes - 51 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,066 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 50 | [Dard](https://open.spotify.com/track/3MqZKfZyzc9LEhMASXCtV8) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Dard](https://open.spotify.com/album/7s1DIgc6sYQunfkWFINPsD) | 3:50 |
 | 51 | [Introduction](https://open.spotify.com/track/62NkzAFZKNOe6arO1lSFm0) | [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [Introduction](https://open.spotify.com/album/0AhoKlF1bTECpWf8RUAys5) | 1:56 |
 
-Snapshot ID: `MCwyYzIzZGY4YzJhZDgwZjdlYWNkYzc0ZDBhMDQ5MjRjYmU4MWRlMmQ4`
+Snapshot ID: `MCwxZDIzYTAwYTExOGEyNTVhZGQ3NzczZTkxNWU2MTc4ZDNhNDU1NTY5`

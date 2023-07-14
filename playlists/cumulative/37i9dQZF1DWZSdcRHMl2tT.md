@@ -4,12 +4,12 @@
 
 > Chill house beats for hanging out in the sun.
 
-381 songs - 19 hr 23 min
+382 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10pm](https://open.spotify.com/track/2eKgDX8dvexRVHjQ9uq4KV) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [10pm](https://open.spotify.com/album/7MJsQ6xb1pxzQxwyjM3FbU) | 2:48 | 2023-02-24 |  |
-| [3 ways of summer](https://open.spotify.com/track/5YHH105qftz7WPDE6wkSwJ) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [3 ways of summer](https://open.spotify.com/album/0jFOGkyXQ5VpCzfJ6vr55C) | 3:07 | 2022-11-25 |  |
+| [3 ways of summer](https://open.spotify.com/track/5YHH105qftz7WPDE6wkSwJ) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [3 ways of summer](https://open.spotify.com/album/0jFOGkyXQ5VpCzfJ6vr55C) | 3:07 | 2022-11-25 | 2023-07-14 |
 | [a little extra brightness](https://open.spotify.com/track/15Ag3lDl7FaSC5vMS1PPV8) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [a little extra brightness](https://open.spotify.com/album/3F80QKlBhIsTywVpl6ZFtH) | 3:13 | 2022-10-28 |  |
 | [A long beat](https://open.spotify.com/track/6o8YW9donm5wXrwtOzLnTE) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [A long beat](https://open.spotify.com/album/2plRSqTfwrO8q5jS9UTS4B) | 3:05 | 2023-01-20 |  |
 | [A Moment Away](https://open.spotify.com/track/1aPsjaKgsrnkI5sFhAWOQ1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [A Moment Away](https://open.spotify.com/album/0QqAuhswFbp65DIjREV98p) | 2:56 | 2022-08-19 | 2023-07-06 |
@@ -29,6 +29,7 @@
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2022-04-05 |  |
 | [Back to Java](https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Back to Java](https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4) | 3:17 | 2022-04-05 |  |
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2022-04-05 |  |
+| [Barcelona](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR) | [Salavant](https://open.spotify.com/artist/4bPwvN46TZwzf5G00otLbO) | [Barcelona](https://open.spotify.com/album/78AcTNepM0678k7YasmNpe) | 2:23 | 2023-07-14 |  |
 | [beach sins](https://open.spotify.com/track/6AbbZin6hevFSL1kurmBbA) | [ftono](https://open.spotify.com/artist/161AbwCisiojaqrwqJf9Uu) | [beach sins](https://open.spotify.com/album/3NMdYsVz9daSXKyUu4aKnX) | 2:41 | 2022-08-12 |  |
 | [beach smiles](https://open.spotify.com/track/7lncP7Wc3qmCtAGI5dQnVi) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [beach smiles](https://open.spotify.com/album/795CcUtAx66kawYnIlXqeA) | 3:12 | 2022-07-29 |  |
 | [Beach Vacay](https://open.spotify.com/track/594cKAdPhzneZmpuOJRNQm) | [Pink Beaches](https://open.spotify.com/artist/4BD1682O6X6qea7XWlo6tq) | [Beach Vacay](https://open.spotify.com/album/3GCaSyRf0LPvVGj4s7n3mW) | 2:41 | 2022-04-05 |  |
@@ -120,7 +121,7 @@
 | [Five Minutes](https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0) | [Marzell Paris](https://open.spotify.com/artist/7qzHrRTMwAhRARXZ2v0rwc) | [Five Minutes](https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8) | 3:12 | 2022-04-05 | 2022-07-01 |
 | [Flawless](https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04) | [Beau Bailey\-Lang](https://open.spotify.com/artist/0HlA2jPYIXgwX8PhZwqmIH) | [Flawless](https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs) | 2:33 | 2022-04-05 |  |
 | [flen](https://open.spotify.com/track/04Tv9Yle3gJFfoAaLTfkl2) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [flen](https://open.spotify.com/album/3JNyew4yc6p7tSkQiaYPkR) | 1:57 | 2023-02-17 |  |
-| [Flic\-en\-Flac](https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Flic\-en\-Flac](https://open.spotify.com/album/2BynXAAYqXtPpbAclrbb7u) | 3:05 | 2022-04-05 |  |
+| [Flic\-en\-Flac](https://open.spotify.com/track/4xDeeLhlfZkp0fvEDirlvl) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Flic\-en\-Flac](https://open.spotify.com/album/2BynXAAYqXtPpbAclrbb7u) | 3:05 | 2022-04-05 | 2023-07-14 |
 | [Flickering](https://open.spotify.com/track/4VEUWkLdvL5TBDR4nHvorp) | [Pipo W](https://open.spotify.com/artist/6ZNEs0261UezCJ2TG0G0x0) | [Flickering](https://open.spotify.com/album/6WrJfmSsT3SkOajiVX54Ym) | 2:41 | 2022-04-05 |  |
 | [floatation](https://open.spotify.com/track/4olfg6tcZF9AZPbIKn4CKj) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [floatation](https://open.spotify.com/album/1dMH9o6LooryG5IgWy7q7J) | 3:17 | 2022-09-02 |  |
 | [Floating](https://open.spotify.com/track/7trcNSGxT8x26jcv93YbiY) | [MAXM2](https://open.spotify.com/artist/5H0WR0bBJr7k7UAanv28if) | [Floating](https://open.spotify.com/album/2mBPlc7WO70IayqZj2fxo1) | 2:34 | 2022-09-23 |  |
@@ -165,7 +166,7 @@
 | [Ibiza](https://open.spotify.com/track/2FMQyu4tjvLOAmdCucxrwP) | [NORRA](https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7), [four30](https://open.spotify.com/artist/2ZIBs9fjeieh0tVW1rnO0S) | [Ibiza](https://open.spotify.com/album/4i18ta3YiO4XES2hu8N4Wv) | 3:10 | 2022-04-05 | 2022-05-20 |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2022-04-05 | 2022-07-29 |
 | [In This Together](https://open.spotify.com/track/6I7lRMp9DcBxWQkUVY7kRW) | [Cedric Mercute](https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk) | [In This Together](https://open.spotify.com/album/3HZMaVLmEIXqSNjhsTjrmD) | 2:49 | 2022-04-05 | 2022-05-11 |
-| [Infinite Twin](https://open.spotify.com/track/7wRn9WJMM6yGFobxdeRrBh) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Infinite Twin](https://open.spotify.com/album/3MAH6xeGdAZB1tLDKeTBBB) | 2:52 | 2022-12-09 |  |
+| [Infinite Twin](https://open.spotify.com/track/7wRn9WJMM6yGFobxdeRrBh) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [Infinite Twin](https://open.spotify.com/album/3MAH6xeGdAZB1tLDKeTBBB) | 2:52 | 2022-12-09 | 2023-07-14 |
 | [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2022-04-05 |  |
 | [Intimo](https://open.spotify.com/track/3b28aZzvppPBqaa9JNPpZC) | [Sardelli](https://open.spotify.com/artist/5g1CI7OVvOrk6UfKcx0AYD) | [Intimo](https://open.spotify.com/album/4w4fHtSBXtGNGWrqxYp3j9) | 2:34 | 2022-04-05 | 2022-07-29 |
 | [Intuitive](https://open.spotify.com/track/2Qav8jC8iVrVpQBJwARKl2) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [Intuitive](https://open.spotify.com/album/5rrsU6UYKXhP1xr95neXZg) | 2:06 | 2022-10-07 |  |

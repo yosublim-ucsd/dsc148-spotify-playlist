@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 155888,
       "name": "A Feeling",
       "url": "https://open.spotify.com/track/2ZutXbnInegCq7HuzlowoU"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 226367,
       "name": "Abandon All Hope",
       "url": "https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx"
@@ -2274,7 +2274,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 150909,
       "name": "Feel It Coming",
       "url": "https://open.spotify.com/track/1388AD5R9YhE6ClacuHP7r"
@@ -3484,6 +3484,24 @@
       "duration_ms": 251480,
       "name": "I'll Make You Sorry",
       "url": "https://open.spotify.com/track/3d0BFjnCZeU2h3Dy7Ub56q"
+    },
+    {
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "album": {
@@ -6628,7 +6646,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 207733,
       "name": "Talking About Stuff",
       "url": "https://open.spotify.com/track/2q8XsCkVo9bHwmyDsRfODb"
@@ -6650,6 +6668,24 @@
       "duration_ms": 236650,
       "name": "Teacher's Pet",
       "url": "https://open.spotify.com/track/3fu8KKSxAmNCHnhJceJMtB"
+    },
+    {
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "album": {
@@ -6726,6 +6762,24 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/60fgp2GJAd5zdTelbURJSl"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293800,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/1nPphsH386vi13IEenaQi0"
     },
     {
       "album": {
@@ -7518,6 +7572,24 @@
       "duration_ms": 182719,
       "name": "What You Did",
       "url": "https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1"
+    },
+    {
+      "album": {
+        "name": "What's The Point In Life",
+        "url": "https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg"
     },
     {
       "album": {

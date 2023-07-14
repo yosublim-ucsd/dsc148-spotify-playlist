@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-572 songs - 1 day 8 hr 24 min
+573 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [French Press](https://open.spotify.com/track/77RHNGjtLP4UlIb7FW1uOu) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [The French Press](https://open.spotify.com/album/5k0144ExDJZEx03Pp7VeNn) | 5:26 | 2022-04-13 | 2022-04-20 |
 | [Fresh Squeezed](https://open.spotify.com/track/3W3YJYPXgzGeb6l8DnKLmY) | [Duncan Fellows](https://open.spotify.com/artist/0KHNqBQFBSJSTDRfvPfCbo) | [Both Sides of the Ceiling](https://open.spotify.com/album/1DprfD74WEpXZtUISY3y9H) | 3:29 | 2021-05-01 | 2022-07-29 |
 | [Friends](https://open.spotify.com/track/7Fz5HmwA5DIW65heDoVqPq) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Friends](https://open.spotify.com/album/0ULBNJxpO15p4hdGhBe5tK) | 2:47 | 2021-05-01 | 2022-04-14 |
+| [Frisky](https://open.spotify.com/track/3my33XXLpYUzVEeLOyftV2) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 1:55 | 2023-07-13 |  |
 | [From These Heights](https://open.spotify.com/track/74IoFNuC2nDDFkrt4MAgpS) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:26 | 2022-04-20 | 2022-07-29 |
 | [Fuckin 'n' Rollin](https://open.spotify.com/track/2xhR4MdMxkMrxC23Cy1M9f) | [Phantastic Ferniture](https://open.spotify.com/artist/6uHxXCSJUP50EgddL6eWNC) | [Phantastic Ferniture](https://open.spotify.com/album/5ikN2VcFcLn7JVxHuICT2K) | 3:23 | 2021-05-01 | 2022-06-03 |
 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 | 2021-05-01 | 2022-10-02 |
@@ -233,7 +234,7 @@
 | [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-05-01 | 2022-07-29 |
 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 | 2022-04-13 | 2022-07-29 |
 | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/track/0ylk0gZbTofpSVCsNe18BB) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/album/0dFesGsi1a0RRccrnYoi29) | 2:58 | 2021-05-01 | 2022-03-14 |
-| [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 | 2023-05-26 |  |
+| [Hold Me Down](https://open.spotify.com/track/1yhJdaC1kecHKUgGCChs4z) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:43 | 2023-05-26 | 2023-07-14 |
 | [Hold Me Down](https://open.spotify.com/track/2e62x0Mhv46Zx1ph0W4B3d) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:43 | 2021-05-01 | 2022-11-13 |
 | [Holidays](https://open.spotify.com/track/6jPJ8mwfq9A1j33ugXIL6I) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Holidays](https://open.spotify.com/album/45uEr0o0PLezR8klDixbyp) | 3:15 | 2021-05-01 | 2022-04-14 |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2022-07-22 | 2023-03-18 |

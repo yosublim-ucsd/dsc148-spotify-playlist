@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=dKnzhFKjQMa6Nb5_eCwxhQ\">Nasty C</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=5-2yVSZdSL2L8Wrqb81iQQ\">Wordz</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -921,6 +921,32 @@
     },
     {
       "album": {
+        "name": "PEOPLE FORGET TO BE PEOPLE",
+        "url": "https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V"
+      },
+      "artists": [
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
+        },
+        {
+          "name": "MAGLERA DOE BOY",
+          "url": "https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB"
+        },
+        {
+          "name": "MOCHEN",
+          "url": "https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "BARKER HAINES",
+      "url": "https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt"
+    },
+    {
+      "album": {
         "name": "Batshele",
         "url": "https://open.spotify.com/album/2KzInpMDqrEC0W1EAshBCq"
       },
@@ -1070,7 +1096,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 256695,
       "name": "Benjamins (feat. Emtee & HennyBeLit)",
       "url": "https://open.spotify.com/track/1vv7MgQQpK5PCu6F5MQ3Oo"
@@ -1422,6 +1448,28 @@
       "duration_ms": 160093,
       "name": "Bona",
       "url": "https://open.spotify.com/track/2kxIQnvSzTNOY2DqoCToPY"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/7hXYfIiJPD6HcL7PGZkvuC"
+      },
+      "artists": [
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/4EpiTWdpcsNV02xdeSGuUO"
     },
     {
       "album": {
@@ -2684,7 +2732,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 208988,
       "name": "EBBS & FLOWS:Hard Target",
       "url": "https://open.spotify.com/track/6ci97oIPl705hSswcbNqxv"
@@ -5177,6 +5225,28 @@
     },
     {
       "album": {
+        "name": "Kyashibilika (feat. Okmalumkoolkat)",
+        "url": "https://open.spotify.com/album/3KNOWVglCP4NVGxQQImnKc"
+      },
+      "artists": [
+        {
+          "name": "Bello no Gallo",
+          "url": "https://open.spotify.com/artist/10jCMXxrxSLEToXTKVJJWn"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261120,
+      "name": "Kyashibilika (feat. Okmalumkoolkat)",
+      "url": "https://open.spotify.com/track/4FzMruCiZijrutWFp7awuy"
+    },
+    {
+      "album": {
         "name": "l u v m e",
         "url": "https://open.spotify.com/album/1AnycoQTFrgxhOQYXMZKQG"
       },
@@ -5338,6 +5408,32 @@
       "duration_ms": 259591,
       "name": "Lemons (Lemonade)",
       "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
+    },
+    {
+      "album": {
+        "name": "Lepanta",
+        "url": "https://open.spotify.com/album/7J0C0dNRXYDAZCdCihuu3y"
+      },
+      "artists": [
+        {
+          "name": "G-TECH 2bit",
+          "url": "https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Freddy Mablomo",
+          "url": "https://open.spotify.com/artist/0VJZvHDSv4ktb31qkUEPXz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206571,
+      "name": "Lepanta",
+      "url": "https://open.spotify.com/track/1AtEgqOGijcATNpVd1IDLa"
     },
     {
       "album": {
@@ -5857,6 +5953,28 @@
     },
     {
       "album": {
+        "name": "CHOZEN REJECTboi",
+        "url": "https://open.spotify.com/album/0zchz5uDvRphDtLMQfEtpz"
+      },
+      "artists": [
+        {
+          "name": "BELO SALO",
+          "url": "https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "made it out (feat. A-Reece)",
+      "url": "https://open.spotify.com/track/6YFCllvSJMVTkXxcU71Eb1"
+    },
+    {
+      "album": {
         "name": "MAHLANYENG",
         "url": "https://open.spotify.com/album/7weilHsGU9tHfp6LXRkAbs"
       },
@@ -6014,7 +6132,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 178797,
       "name": "Mawubuye",
       "url": "https://open.spotify.com/track/26ZMcKyZVW1RIv8JsPlnOX"
@@ -6144,7 +6262,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 267610,
       "name": "Menzi Ngubane",
       "url": "https://open.spotify.com/track/4fozcNnXw2dJX5v45Z8vfO"
@@ -8020,7 +8138,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 167035,
       "name": "Remember the Name",
       "url": "https://open.spotify.com/track/6dV0UWHemAcwcT4EzXhJrR"
@@ -9367,6 +9485,32 @@
     },
     {
       "album": {
+        "name": "You Want Some More?",
+        "url": "https://open.spotify.com/album/254iOtG4PBeSKH1SuIdNtp"
+      },
+      "artists": [
+        {
+          "name": "Stino Le Thwenny",
+          "url": "https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195078,
+      "name": "Sporo",
+      "url": "https://open.spotify.com/track/5X6tKe5O4zaTnoqm2CUSyg"
+    },
+    {
+      "album": {
         "name": "Sta Soft",
         "url": "https://open.spotify.com/album/59Vl3fXba0pHYimUkuTzqV"
       },
@@ -9452,7 +9596,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 223247,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1JJrt2Xrj1cyNWIG6p4VqK"
@@ -10763,6 +10907,24 @@
     },
     {
       "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/5aSWvBpM2OVXGaT5ATSBWF"
+      },
+      "artists": [
+        {
+          "name": "Indigo Stella",
+          "url": "https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210863,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/1Po23ny87Sx3gMB9DFqf1B"
+    },
+    {
+      "album": {
         "name": "u$e to it",
         "url": "https://open.spotify.com/album/6kQe2nYuGYuBbBhnabH6uW"
       },
@@ -10988,7 +11150,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 144000,
       "name": "Ungowam",
       "url": "https://open.spotify.com/track/751GvmaHmkKabdGXgYNZfj"

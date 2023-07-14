@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 583532,
+  "num_followers": 583691,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTM0MjhiODIzNjViMjMzMDk0ZGU5MDdiZTk0NTBiNDk0MjBkN2M4",
+  "snapshot_id": "MCw2OTRmNjZhYjliYzk0ZjUyOTBhNzEyZTA2YWUyNjYyYTk1ODk4NzM3",
   "tracks": [
     {
       "added_at": "2023-06-30 15:00:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 276157,
+      "name": "Nation",
+      "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
         "name": "Voices Above",
         "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
       },
@@ -663,22 +683,18 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Mika Olson",
+          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
         }
       ],
-      "duration_ms": 276157,
-      "name": "Nation",
-      "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
+      "duration_ms": 196451,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -699,18 +715,22 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
+        "name": "Estaci\u00f3n Esperanza",
+        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
       "artists": [
         {
-          "name": "Mika Olson",
-          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         }
       ],
-      "duration_ms": 196451,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
+      "duration_ms": 316721,
+      "name": "Estaci\u00f3n Esperanza",
+      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -731,26 +751,6 @@
       "duration_ms": 189677,
       "name": "R U 4REAL (feat. Marina Maximilian)",
       "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
-        "name": "Estaci\u00f3n Esperanza",
-        "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 316721,
-      "name": "Estaci\u00f3n Esperanza",
-      "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
         "name": "Noso",
         "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Fact & Fiction / Can't Get Enough",
         "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 379356,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
-      },
-      "artists": [
-        {
-          "name": "Lexer",
-          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
-        },
-        {
-          "name": "Audrey Janssens",
-          "url": "https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB"
-        }
-      ],
-      "duration_ms": 219440,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Cold Shoulder (Helsloot Remix)",
         "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        },
+        {
+          "name": "Audrey Janssens",
+          "url": "https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB"
+        }
+      ],
+      "duration_ms": 219440,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
     },
     {
       "added_at": "2023-06-30 15:00:00",

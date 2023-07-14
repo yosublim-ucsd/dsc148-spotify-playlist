@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: FLO",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: tanny ng",
   "name": "mood.",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185951,
       "name": "always summertime",
       "url": "https://open.spotify.com/track/6DRhRdtVHMPnc2amhMiWSy"
@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Don't Get My Hopes Up",
+        "url": "https://open.spotify.com/album/5blqBnpp6Z4oMRAdBWu5Hl"
+      },
+      "artists": [
+        {
+          "name": "Chace",
+          "url": "https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196069,
+      "name": "Don't Get My Hopes Up",
+      "url": "https://open.spotify.com/track/5SjB72oQVhVI2QSwmSmRup"
+    },
+    {
+      "album": {
         "name": "Don't Love Me",
         "url": "https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G"
       },
@@ -2064,7 +2082,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 217931,
       "name": "feel / night",
       "url": "https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 201360,
       "name": "Flip A Switch. (feat. Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
@@ -2530,6 +2548,28 @@
       "duration_ms": 202825,
       "name": "GIMME",
       "url": "https://open.spotify.com/track/6NC5uGmxLwJi33P07eyxhk"
+    },
+    {
+      "album": {
+        "name": "Ginger Love",
+        "url": "https://open.spotify.com/album/3r1tOqzTJRglCxRsOXPWvq"
+      },
+      "artists": [
+        {
+          "name": "Letasya",
+          "url": "https://open.spotify.com/artist/2XTNh3vVat147xCQC51TE3"
+        },
+        {
+          "name": "Project Unlxcked",
+          "url": "https://open.spotify.com/artist/0AeVpC6PR2saBd3vdVeqoh"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Ginger Love",
+      "url": "https://open.spotify.com/track/4GQQIcVWrXKY0hZMx9V611"
     },
     {
       "album": {
@@ -3613,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
+    },
+    {
+      "album": {
         "name": "In The Joy (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/7jf5ctiKWBPBQ6vNrRTI7B"
       },
@@ -3715,6 +3773,28 @@
     },
     {
       "album": {
+        "name": "INTOXYCATED (feat. Dave)",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "INTOXYCATED (feat. Dave)",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+    },
+    {
+      "album": {
         "name": "Invincible (feat. Daniel Caesar)",
         "url": "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
       },
@@ -3792,7 +3872,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 158181,
       "name": "it\u2019s just life",
       "url": "https://open.spotify.com/track/4AYvEFaFesR6N6s8pxJERL"
@@ -4126,7 +4206,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 235880,
       "name": "Like No One's Done",
       "url": "https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J"
@@ -4710,6 +4790,32 @@
       "duration_ms": 193251,
       "name": "Mind Games (feat. Jackson Wang)",
       "url": "https://open.spotify.com/track/6JbxkCyeOto3xXjcFalZ3e"
+    },
+    {
+      "album": {
+        "name": "Mind Your Space",
+        "url": "https://open.spotify.com/album/30qUkyzXGSnb1iaKRbgRgz"
+      },
+      "artists": [
+        {
+          "name": "Kenny Gabriel",
+          "url": "https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu"
+        },
+        {
+          "name": "Syanine",
+          "url": "https://open.spotify.com/artist/3F1Aq3UZV5V3E9XBnbf5Vd"
+        },
+        {
+          "name": "Ezra Kunze",
+          "url": "https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216875,
+      "name": "Mind Your Space",
+      "url": "https://open.spotify.com/track/4Iao21dcXMdiUhg0bZupeI"
     },
     {
       "album": {
@@ -6429,6 +6535,28 @@
     },
     {
       "album": {
+        "name": "SHAME",
+        "url": "https://open.spotify.com/album/2Kt26AIMRk6hdkHfJ6csB5"
+      },
+      "artists": [
+        {
+          "name": "tanny ng",
+          "url": "https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei"
+        },
+        {
+          "name": "kinu",
+          "url": "https://open.spotify.com/artist/2P04gMM2tzgMQFKL3e4UTm"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "SHAME",
+      "url": "https://open.spotify.com/track/4dv6f5PpEIf5nt1vE1xu6M"
+    },
+    {
+      "album": {
         "name": "Shelter From The Rain",
         "url": "https://open.spotify.com/album/3p9jJToxnkDDqVtuPeuGSl"
       },
@@ -7978,7 +8106,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 198533,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
@@ -8276,7 +8404,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 206966,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0gjsVf6ueVVEBQ2X0Z8f5R"
@@ -8874,6 +9002,28 @@
       "duration_ms": 175504,
       "name": "you",
       "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
+    },
+    {
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/7rixXHKYaXdEkeS9EIGzAu"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "TENGY",
+          "url": "https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140506,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1Y3yYZKCbk9G6CiBxJ3BLT"
     },
     {
       "album": {

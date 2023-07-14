@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Suellen Lima",
-  "num_followers": 67771,
+  "num_followers": 67824,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTQ0MmMxNjE4NDk5NThjMDJlMjc5NzNkYTJlODQxODBjZGNhNGJl",
+  "snapshot_id": "MCxlNWRjNjEzYTgxNjkxNmYyODA0OTg4ZjI5YTZhODYzOGEzMzVmNGJj",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Assim Como Deus Quer",
-        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 163258,
-      "name": "Assim Como Deus Quer",
-      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "A Reforma",
         "url": "https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 287927,
       "name": "A Reforma",
       "url": "https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Assim Como Deus Quer",
+        "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 163258,
+      "name": "Assim Como Deus Quer",
+      "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 271166,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Deus \u00c9 Fiel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 269159,
-      "name": "Deus \u00c9 Fiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "\u00c9s Tudo Que Eu Preciso",
         "url": "https://open.spotify.com/album/2uKx5edF199099KBJClMWf"
       },
@@ -743,6 +727,38 @@
       "duration_ms": 319139,
       "name": "\u00c9s Tudo Que Eu Preciso",
       "url": "https://open.spotify.com/track/2rfL4HexD0Z2bcoYWZfRXD"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "A B\u00fassola",
+        "url": "https://open.spotify.com/album/0G0e0idklupBJO8R7v4IhO"
+      },
+      "artists": [
+        {
+          "name": "Jonas Maciel",
+          "url": "https://open.spotify.com/artist/3UiDvGmreSdFHLFAQmk5NY"
+        }
+      ],
+      "duration_ms": 298028,
+      "name": "A B\u00fassola",
+      "url": "https://open.spotify.com/track/03g4XkJDK5LRzWpEFbbx82"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Deus \u00c9 Fiel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 269159,
+      "name": "Deus \u00c9 Fiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 277514,
       "name": "Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "A B\u00fassola",
-        "url": "https://open.spotify.com/album/0G0e0idklupBJO8R7v4IhO"
-      },
-      "artists": [
-        {
-          "name": "Jonas Maciel",
-          "url": "https://open.spotify.com/artist/3UiDvGmreSdFHLFAQmk5NY"
-        }
-      ],
-      "duration_ms": 298028,
-      "name": "A B\u00fassola",
-      "url": "https://open.spotify.com/track/03g4XkJDK5LRzWpEFbbx82"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Al\u00e9m da Medicina",
-        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 286133,
-      "name": "Al\u00e9m da Medicina",
-      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Perfil de Adorador (Ao Vivo)",
         "url": "https://open.spotify.com/album/0RULBpiQoqkkAV34mDcufw"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 214494,
       "name": "T\u00f4 Te Querendo Demais",
       "url": "https://open.spotify.com/track/6s6d0KG0tFYr1WKMRnnF8q"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Al\u00e9m da Medicina",
+        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 286133,
+      "name": "Al\u00e9m da Medicina",
+      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
     },
     {
       "added_at": "2023-06-23 03:00:00",

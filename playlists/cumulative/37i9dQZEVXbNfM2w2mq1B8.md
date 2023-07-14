@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,154 songs - 2 day 16 hr 55 min
+1,155 songs - 2 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 | 2021-05-11 | 2021-05-12 |
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2021-06-19 | 2021-09-22 |
 | [FREESTYLE 1](https://open.spotify.com/track/6g12ki5xI3oUmz8yznhCxt) | [Dimoff](https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP) | [FREESTYLE 1](https://open.spotify.com/album/0NTHsDHK0ocVXHpOUSlyhN) | 2:01 | 2023-04-19 |  |
+| [FREESTYLE2](https://open.spotify.com/track/6WdB48ut73Y4Dx4swcZoxM) | [Dimoff](https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP) | [FREESTYLE2](https://open.spotify.com/album/5B0DBG2YvwBZgROJSyPWDf) | 2:04 | 2023-07-13 |  |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-01-03 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-06-25 | 2022-06-27 |
 | [FUCKBOY](https://open.spotify.com/track/1giNmoFbA8uFFgz2AESYie) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Tarikata](https://open.spotify.com/artist/6g2FqVaYfRyTgIAQbE3kNP) | [LOTUS](https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8) | 2:57 | 2022-06-04 | 2022-06-18 |
@@ -1077,7 +1078,7 @@
 | [Извинявай](https://open.spotify.com/track/7oM90DTfJTMtSB3DEJq42p) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Извинявай](https://open.spotify.com/album/3zYtY8ABs89W4xI6fp6wme) | 3:55 | 2022-11-12 | 2022-12-12 |
 | [Изкушение](https://open.spotify.com/track/6Fz0IEZ0qHeu3cEbRDqSnU) | [ToTo H](https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP), [Slavi Trifonov](https://open.spotify.com/artist/4hcbbb8RBjFjCuMhmVv1b9), [Ku\-Ku Band](https://open.spotify.com/artist/6dTTAcKWN7BmRGAmmAsdeX) | [Изкушение](https://open.spotify.com/album/2eMxdsV5UGrIDcaQKTUrLN) | 3:44 | 2021-03-27\* | 2021-08-25 |
 | [Има кой](https://open.spotify.com/track/2P06Kf0MWVRPQ0n1PQWEba) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Има кой](https://open.spotify.com/album/2Cg9b4OZogb6ETnVKf197m) | 3:30 | 2022-07-29 | 2022-07-31 |
-| [Името ти](https://open.spotify.com/track/2UPWn6Sjpmbq9FT8TXZkCp) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Името ти](https://open.spotify.com/album/6bXmjXUSflFKl42TejDZoR) | 3:10 | 2023-04-01 |  |
+| [Името ти](https://open.spotify.com/track/2UPWn6Sjpmbq9FT8TXZkCp) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [Името ти](https://open.spotify.com/album/6bXmjXUSflFKl42TejDZoR) | 3:10 | 2023-04-01 | 2023-07-14 |
 | [Името ти](https://open.spotify.com/track/5NiOXQipgtTWT7BSDJz8eg) | [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Името ти](https://open.spotify.com/album/7Jh9LuSFGZOghAGvFPsyTD) | 3:11 | 2023-03-25 | 2023-07-07 |
 | [Искат Да Падна](https://open.spotify.com/track/4P0FfsXHy77aIzR4HJCuZV) | [FYRE](https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F) | [Искат Да Падна](https://open.spotify.com/album/5hJfnjxVdAezOzSmnTcpeE) | 3:34 | 2022-01-18 | 2022-02-13 |
 | [Какво ми трябва](https://open.spotify.com/track/3B7LBJdFeaTFL9url5b7uG) | [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA) | [Какво ми трябва](https://open.spotify.com/album/55fjHXPiPhm0icSHiELVSp) | 3:02 | 2023-04-28 | 2023-05-16 |

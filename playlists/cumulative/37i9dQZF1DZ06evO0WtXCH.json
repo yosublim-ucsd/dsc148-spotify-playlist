@@ -106,10 +106,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 198241,
       "name": "Colossus",
       "url": "https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7"
+    },
+    {
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70704,
+      "name": "Compacted Infinity",
+      "url": "https://open.spotify.com/track/20EI8dSK9gLe3tYD82VXpj"
     },
     {
       "album": {

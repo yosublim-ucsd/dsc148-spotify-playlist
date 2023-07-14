@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-564 songs - 1 day 20 hr 42 min
+565 songs - 1 day 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 | 2023-05-11 |  |
 | [Grouplove](https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa) | 3:13 | 2022-11-24 |  |
 | [Guru](https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Guru](https://open.spotify.com/album/7cWNZrvfGYoVZULq6nP1r3) | 3:45 | 2023-04-13 |  |
-| [Hand In Hand](https://open.spotify.com/track/4GJZ5n1yMkRAKfhr2uSLim) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/7o0zNST2JahsXsGG5Sa2La) | 3:51 | 2023-06-22 |  |
+| [Hand In Hand](https://open.spotify.com/track/4GJZ5n1yMkRAKfhr2uSLim) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/7o0zNST2JahsXsGG5Sa2La) | 3:51 | 2023-06-22 | 2023-07-14 |
 | [Hannah](https://open.spotify.com/track/6ZXZmVgW4rqBMnSNa13wbv) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW), [KAIMO](https://open.spotify.com/artist/0EBSAnexI7q6UbW3JnGsoG) | [Hannah](https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw) | 6:52 | 2023-01-05 | 2023-03-10 |
 | [Hannah \- Reto Ardour Remix](https://open.spotify.com/track/1t6FhQnHlmox5OjLiASZfG) | [Phonique](https://open.spotify.com/artist/3pVm0ttbAah6dTDher8dSz), [NILU \(DK\)](https://open.spotify.com/artist/4FulSv3ssszcswo27nljmW), [KAIMO](https://open.spotify.com/artist/0EBSAnexI7q6UbW3JnGsoG), [Reto Ardour](https://open.spotify.com/artist/29FluI1TFyBYE4Qb9bl99D) | [Hannah](https://open.spotify.com/album/55j0n7BdIsWTNTyuS6Tkmw) | 6:28 | 2023-01-19 | 2023-03-10 |
 | [Happy](https://open.spotify.com/track/7arEqLvEPdAQ3yjEGgMBZt) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Help! I'm Lost...](https://open.spotify.com/album/2Wphh77GlQ14bQqBjQn0Gw) | 2:55 | 2022-12-08 | 2023-03-18 |
@@ -314,6 +314,7 @@
 | [Melancolía](https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Ácido Pantera](https://open.spotify.com/artist/1K3pfb1RjXkPG9mFRgqZxW) | [Melancolía](https://open.spotify.com/album/24guuOvrp5IVK4pB5gn3B9) | 3:42 | 2022-08-18 | 2022-08-20 |
 | [Milkshake](https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Milkshake](https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw) | 6:54 | 2023-04-20 | 2023-05-12 |
 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2022-11-10 | 2023-06-30 |
+| [Mind Control](https://open.spotify.com/track/4HSLPlVJBKKD0e6v3wrMNJ) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/7kcV8TW3tkiXJhlwJStE39) | 5:07 | 2023-07-03 |  |
 | [Mine O' Mine](https://open.spotify.com/track/5zyxYOyV7Bt4srefSOfJN8) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Mine O' Mine](https://open.spotify.com/album/23NpTRdC0H3XJbRoVZ7ZHB) | 3:13 | 2022-08-18 | 2023-03-10 |
 | [Mirage](https://open.spotify.com/track/7ebulpHSffs4Thc0VM0LHv) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Mirage](https://open.spotify.com/album/5ZwqPuurXv0oKEZXvfAHZc) | 4:20 | 2023-01-19 | 2023-03-10 |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-03-23 |  |

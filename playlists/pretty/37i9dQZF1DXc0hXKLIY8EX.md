@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Conneticut music breaking waves\. Cover: Ice Spice & Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,385 likes - 57 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,425 likes - 57 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 30 | [Window to the Soul \(feat\. Kelly Moonstone\)](https://open.spotify.com/track/3rZVkJwX3O54JTyXnipJ9f) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV), [Kelly Moonstone](https://open.spotify.com/artist/5TVQ1g9iOkpZUJrWgu21kj) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 4:03 |
 | 31 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 |
 | 32 | [Touch](https://open.spotify.com/track/3QuOtR4mzL4QFT0xJrIat4) | [Quinton Brock](https://open.spotify.com/artist/1abW5Py6b6FSSpirm5Fkqq) | [My Shadow](https://open.spotify.com/album/4MjD5GUwJ74gqc0u9qRUvW) | 2:46 |
-| 33 | [You & I \- DJ Smallz 732 Remix](https://open.spotify.com/track/0brIQcVVjqvkarkvBzwZgL) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [You & I \(DJ Smallz 732 Remix\)](https://open.spotify.com/album/6nOXRlIOq2zt1J2P8Ef4Ac) | 1:51 |
+| 33 | [YOU & I \- DJ Smallz 732 Remix](https://open.spotify.com/track/0brIQcVVjqvkarkvBzwZgL) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [YOU & I \(DJ Smallz 732 Remix\)](https://open.spotify.com/album/6nOXRlIOq2zt1J2P8Ef4Ac) | 1:51 |
 | 34 | [Move](https://open.spotify.com/track/5Md91V0JrdjpfjyCTk3u10) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Move](https://open.spotify.com/album/5gGGPT54RzsFtdyjtfxQrm) | 1:41 |
 | 35 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 |
 | 36 | [\(Please Don't\) Leave Me Now](https://open.spotify.com/track/0FsApA1lcgdcUHFlwEnTfE) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [\(Please Don't\) Leave Me Now](https://open.spotify.com/album/57rOrL0GoJfxl5BmigUTxv) | 3:03 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 56 | [Petty](https://open.spotify.com/track/1Tk4wX36rFsZZbwbIsS6t6) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Petty](https://open.spotify.com/album/0Vz0s198pFdXnXtoZDCEtQ) | 3:25 |
 | 57 | [WYA](https://open.spotify.com/track/4K7pG4OeQ3LRDlPFB2ht2Y) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [WYA](https://open.spotify.com/album/43nmGMEscmLqW5MGa6Sy04) | 1:41 |
 
-Snapshot ID: `MCxiNzA3MzBiN2E3MTkzYjJlYzQxOWMzYjRjN2NjZDVhMjFhOGE0ZDhh`
+Snapshot ID: `MCxlMmQ0MDkwOGNiNzI0ZGJkNjI3MjdjMzhhNjIxMWRlNzFiZDgyNzEz`

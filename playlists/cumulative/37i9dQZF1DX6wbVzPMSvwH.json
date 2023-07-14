@@ -1869,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Sendiri",
+        "url": "https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR"
+      },
+      "artists": [
+        {
+          "name": "Dikta Wicaksono",
+          "url": "https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202100,
+      "name": "Tunggu Aku",
+      "url": "https://open.spotify.com/track/1lIGMeQY4mQRZmiZCGukDl"
+    },
+    {
+      "album": {
         "name": "Kisah Klasik Untuk Masa Depan",
         "url": "https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm"
       },

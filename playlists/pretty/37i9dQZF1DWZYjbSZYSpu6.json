@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 390437,
+  "num_followers": 390492,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjM1YTdlY2ZjMzkzZDcxYzhmODM5N2UzMjBjZDdlZTQ2YzgxNzgy",
+  "snapshot_id": "MCw3OWFlMzljNjE0YWYyMDk4MTMyNjAwZGI1M2YwZWU2OTg3YWU4NTMw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:40:59",
@@ -583,22 +583,26 @@
     {
       "added_at": "2023-07-07 15:40:59",
       "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
+        "name": "Waves (feat. Simon Dominic & Jamie)",
+        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
       },
       "artists": [
         {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         },
         {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 232866,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
+      "duration_ms": 164920,
+      "name": "Waves (feat. Simon Dominic & Jamie)",
+      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
     },
     {
       "added_at": "2023-07-07 15:40:59",
@@ -643,26 +647,22 @@
     {
       "added_at": "2023-07-07 15:40:59",
       "album": {
-        "name": "Waves (feat. Simon Dominic & Jamie)",
-        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
+        "name": "Ordinary Love",
+        "url": "https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE"
       },
       "artists": [
         {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
         },
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Waves (feat. Simon Dominic & Jamie)",
-      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
+      "duration_ms": 232866,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
     },
     {
       "added_at": "2023-07-07 15:40:59",
@@ -767,30 +767,6 @@
     {
       "added_at": "2023-07-07 15:40:59",
       "album": {
-        "name": "THIS NIGHT",
-        "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Blue.D",
-          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
-        },
-        {
-          "name": "Jhnovr",
-          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "This Night (feat. Blue.D, Jhnovr)",
-      "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
-    },
-    {
-      "added_at": "2023-07-07 15:40:59",
-      "album": {
         "name": "Cave Me In",
         "url": "https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 214158,
       "name": "Cave Me In",
       "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
+    },
+    {
+      "added_at": "2023-07-07 15:40:59",
+      "album": {
+        "name": "THIS NIGHT",
+        "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        },
+        {
+          "name": "Jhnovr",
+          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "This Night (feat. Blue.D, Jhnovr)",
+      "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
     },
     {
       "added_at": "2023-07-07 15:40:59",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-07-07 15:40:59",
       "album": {
-        "name": "Way U Are (feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
-      },
-      "artists": [
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Way U Are (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
-    },
-    {
-      "added_at": "2023-07-07 15:40:59",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 9",
         "url": "https://open.spotify.com/album/3nl0nBHYgB06JpPrcsAYXd"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 205437,
       "name": "Like You",
       "url": "https://open.spotify.com/track/2HrzH60nFePfGF5RqFK5YW"
+    },
+    {
+      "added_at": "2023-07-07 15:40:59",
+      "album": {
+        "name": "Way U Are (feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Way U Are (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
       "added_at": "2023-07-07 15:40:59",
@@ -991,22 +991,22 @@
     {
       "added_at": "2023-07-07 15:40:59",
       "album": {
-        "name": "Flower Language",
-        "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
+        "name": "Still Our Love Continue (My love X KYUHYUN, Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z"
       },
       "artists": [
         {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
         },
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Freesia",
-      "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
+      "duration_ms": 260853,
+      "name": "Still Our Love Continue (My love X KYUHYUN, Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

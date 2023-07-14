@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-804 songs - 1 day 16 hr 32 min
+805 songs - 1 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [Silhouettes](https://open.spotify.com/track/5oTCj47iqYLxzE0fOxYbLL) | [Niebla Valley](https://open.spotify.com/artist/5eGdL4dsdzRs93HIWxtn5I) | [Silhouettes](https://open.spotify.com/album/2Im4LTWyWpEmEky5hpn1jz) | 3:08 | 2022-12-02 |  |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2021-06-16 | 2023-06-03 |
 | [Simplistica](https://open.spotify.com/track/6ZOmpmAGA1nM53YEvq8eLk) | [Celyn Awstin](https://open.spotify.com/artist/49ZdvwQyfD07dsEPH4LhTk) | [Simplistica](https://open.spotify.com/album/15GH2ZI0qwAeMTQdYI5VXx) | 2:07 | 2022-07-15 |  |
+| [Sincerely](https://open.spotify.com/track/4TRjCifQWpux6KRamNuNMz) | [Kelly Petersen](https://open.spotify.com/artist/50KqMF1pahD2xMCrkMKTr6) | [Layers](https://open.spotify.com/album/0q8iANuN19kvXeo0WTgol8) | 2:55 | 2023-07-13 |  |
 | [Sine One](https://open.spotify.com/track/0kCLXSE4bWhVdlUYis6oC5) | [Gentle States](https://open.spotify.com/artist/0BgcM7eignAv2PYIRlUTX0) | [Solaris](https://open.spotify.com/album/2SM2Fd7D38oQ9Ul3Io4nfE) | 2:57 | 2020-10-20\* | 2021-02-06 |
 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 | 2021-03-14 | 2023-05-20 |
 | [Sky Kissed Dreams](https://open.spotify.com/track/1ptiRc6sCWNKkEwLOS36vU) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Sky Kissed Dreams](https://open.spotify.com/album/4jQLB7E72UHMOPE4bBWFAI) | 2:29 | 2022-11-11 |  |

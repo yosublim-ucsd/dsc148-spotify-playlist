@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D996ZXujBy.md) - [plain]
 
 > Listen to the surprise songs from each night of Taylor Swift \| The Eras tour
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,537 likes - 81 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,239 likes - 81 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D996ZXujBy.md) - [plain]
 | 80 | [Invisible](https://open.spotify.com/track/5OOd01o2YS1QFwdpVLds3r) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 81 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 
-Snapshot ID: `MCwwMzQ5MTY0ZDRkNDc1ZTkzM2RiM2IxNDQyYjBjNmIyMDE1ZjFmYjBh`
+Snapshot ID: `MCxkZTI3Njg2ZmVmMmQ3ZTIxYzBkYmNhYTQxZTE5NDVmZjc2OWJmNDQ4`

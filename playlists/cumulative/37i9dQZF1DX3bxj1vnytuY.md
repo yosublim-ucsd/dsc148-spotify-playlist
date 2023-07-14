@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-218 songs - 21 hr 58 min
+219 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blind](https://open.spotify.com/track/5njYulCs6uy94s3zf5W3YP) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Blind](https://open.spotify.com/album/4a1U2aEn9PAkZ7xKvdR5fX) | 7:09 | 2023-06-01 |  |
 | [Borealis](https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Borealis](https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM) | 4:16 | 2022-09-15 | 2022-10-14 |
 | [Buya](https://open.spotify.com/track/5yXoXL2SrjM0XjFyGWPVkY) | [Chris IDH](https://open.spotify.com/artist/2z7bVSNugoW687HxM4eSa9), [Kwezi](https://open.spotify.com/artist/5tuitM1t2STg0mAoCxIpZp) | [Buya](https://open.spotify.com/album/2ivPFRRQwivgwnh9QqfOqE) | 8:12 | 2022-09-29 |  |
+| [Carthage \- Radio Edit](https://open.spotify.com/track/25X66oOlwm9z6bPRAfs4mW) | [HunterSynth](https://open.spotify.com/artist/3Age3mMsN1JeN7csgZ4BQU), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Carthage \(Radio Edit\)](https://open.spotify.com/album/0nyPhA6JpZjzhBXvyGU4ZG) | 3:36 | 2023-07-13 |  |
 | [Celebration Santoor](https://open.spotify.com/track/1UjdeuHHj8GKfHf29gaHfV) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Bahramji](https://open.spotify.com/artist/1TRLkR7OoXzEwUckYwHt5B) | [Buddy System](https://open.spotify.com/album/5lVYQO63PD8UsrlzTY4hoD) | 7:16 | 2022-04-13 | 2023-04-21 |
 | [Celestial \- Edu Schwartz Remix](https://open.spotify.com/track/2rDWBTZhpxHVYkIIIpffVV) | [Dare](https://open.spotify.com/artist/73Srcf2vQT6EyAuAO536UU), [Edu Schwartz](https://open.spotify.com/artist/0eS9ndin40R0au77Q5r1PU) | [Ambitions](https://open.spotify.com/album/63eAgVPWFSuZ4FPShxAabw) | 8:17 | 2022-04-13 | 2023-06-20 |
 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 | 2023-03-23 |  |
@@ -109,7 +110,7 @@
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-10-13 | 2023-06-25 |
 | [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-09 | 2022-10-16 |
 | [Jaffar](https://open.spotify.com/track/2hDT5xo6bgpLnqra8OZH7R) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Jaffar](https://open.spotify.com/album/1gGWOsCs7X7Ve7oABfBpZk) | 8:22 | 2022-07-13 |  |
-| [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 |  |
+| [Jordan](https://open.spotify.com/track/4bIXqc2fGtTHMq4aNFVjBC) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Jordan](https://open.spotify.com/album/73IkL6bBQTyRj2j26Ksry5) | 6:48 | 2022-05-19 | 2023-07-14 |
 | [Kaleta](https://open.spotify.com/track/2ldNIVLYlSnxKGSlpud8bU) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Kaleta](https://open.spotify.com/album/1DTpdbbsif7gLrpSOGDfVE) | 4:30 | 2023-03-03 |  |
 | [Kamili](https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kamili](https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG) | 3:46 | 2023-03-01 |  |
 | [Kaneba](https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [mo'vibes \(Various Artists\)](https://open.spotify.com/album/41wFtS7hhKWuI5U3GQdvs3) | 7:16 | 2022-04-13 | 2023-04-21 |

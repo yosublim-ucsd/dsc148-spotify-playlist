@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,863 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,037 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Impressions](https://open.spotify.com/track/23gpK7yn4WbIVmsIYpoR0H) | [Jean\-Michel Pilc](https://open.spotify.com/artist/4wvdJHmIvtoVKFgmeIScyM), [Francois Moutin](https://open.spotify.com/artist/7rOP6AtMakDvwh3fQXXBOp), [Ari Hoenig](https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz) | [YOU are the Song](https://open.spotify.com/album/2qbhhdGzYxQX5jKVsYCSlx) | 4:24 |
 | 100 | [Catalyst](https://open.spotify.com/track/751KTKDG30KIxUo2CHHas9) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Bryan Carter](https://open.spotify.com/artist/5d7XFMuRIawoRSLC7uYChJ), [Andrew Gould](https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0), [John Lake](https://open.spotify.com/artist/4dyFqMBXDGSMXAev9B0NGX) | [Catalyst](https://open.spotify.com/album/4HWL8RyCRoeoh6JK1TduJu) | 7:38 |
 
-Snapshot ID: `MCwxNjVkOTRjNmM0MDc0NGY0ZTMyOWQ2NjM4NWYwMWE3NDIwZmMyZDMx`
+Snapshot ID: `MCw1ZDhhYmY3YzdiMTAxNzQ3MTVmODQ0YzI1OWYzNzg5ZmM0NjdkYmEw`

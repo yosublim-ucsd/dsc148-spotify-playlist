@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-428 songs - 21 hr 16 min
+430 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Aurora](https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Aurora](https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP) | 3:05 | 2021-11-10 | 2023-05-06 |
 | [Aurora Borealis](https://open.spotify.com/track/0YTKlaMszVp6rja34CzUDs) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Aurora Borealis](https://open.spotify.com/album/2FKrLUaFsF2jWj1f0QEhGg) | 2:25 | 2022-02-09 |  |
 | [Awareness](https://open.spotify.com/track/4osn2bAHvnGlOab7xOak7Q) | [Isa Duwall](https://open.spotify.com/artist/3M97AbLFCPQV6dLLTfP1nD) | [Awareness](https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23) | 2:53 | 2021-11-10 |  |
+| [Azure](https://open.spotify.com/track/5yhFMyyzQKl9w3D4oWXPPt) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Highlights](https://open.spotify.com/album/2VR51P4HVXyUxmeBLCGx7q) | 2:47 | 2023-07-13 |  |
 | [Balm](https://open.spotify.com/track/0QluGNVWnSnUrc688kQwEN) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Balm](https://open.spotify.com/album/0kxlBRorKL49TM6f1VNnf2) | 3:12 | 2022-06-16 |  |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2021-11-10 |  |
 | [Becalming](https://open.spotify.com/track/0SHIkGcjuVoAuAbezjBfiT) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Becalming](https://open.spotify.com/album/69OXN86g9WZ04FvDs0Nlgp) | 3:10 | 2021-11-10 |  |
@@ -384,6 +385,7 @@
 | [Sueño](https://open.spotify.com/track/4PmZSLWRuKyMgAJuAgZ1T6) | [Abril Obrero](https://open.spotify.com/artist/2rQaa1vDzMh5dQOLdEiuVP) | [Sueño](https://open.spotify.com/album/6FkeiM3GYh142s7lbLX3bS) | 2:39 | 2021-11-10 |  |
 | [Sunsets](https://open.spotify.com/track/0gGV5b1xukai7PntTpPFBR) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Sunsets](https://open.spotify.com/album/0Mj9eUyWpxwOcCE387OpRl) | 2:44 | 2022-12-02 |  |
 | [Sweet Dreams](https://open.spotify.com/track/5awXJ7gr2qnEBIUmWieewJ) | [Simon Sebastienne](https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG) | [Sunset Beach](https://open.spotify.com/album/49ipMMgFH1ge5cIPqKZmwv) | 2:53 | 2022-09-13 |  |
+| [Szeretet](https://open.spotify.com/track/2DSwyVUVFR80p19iJe1q3G) | [Csaba Vitez](https://open.spotify.com/artist/1DSUjK31Vgu7ejMVSxhJfL) | [Szeretet](https://open.spotify.com/album/1zKgegS1nwzcAR0mW1ACHZ) | 3:01 | 2023-07-13 |  |
 | [Sálvora](https://open.spotify.com/track/4DQQVW7EsOWJKd4OMRBB0x) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Sálvora](https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb) | 2:53 | 2022-05-05 |  |
 | [Tallkrona](https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ) | [Luna S.](https://open.spotify.com/artist/3BJukNbWQs003mF3vawn5v) | [Tallkrona](https://open.spotify.com/album/7jMitu4DgKeE4o1twxUhyz) | 4:19 | 2021-11-10 | 2022-02-10 |
 | [Terdiam](https://open.spotify.com/track/2j1IXyTxl3Qhu8orYsj5LP) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Terdiam](https://open.spotify.com/album/1vb8fI3ouZ09XNPv0XW8wM) | 2:22 | 2022-09-13 |  |

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-169 songs - 15 hr 46 min
+170 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Anjuman](https://open.spotify.com/track/53JrlbZ5lgYzorgMJyIqXf) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Anjuman](https://open.spotify.com/album/5dJp1acdUGaHX9D3x0eKxC) | 3:38 | 2022-05-17 | 2023-03-11 |
 | [Azad](https://open.spotify.com/track/3mDv3HRVNlPyJGLJvg8y8T) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Azad](https://open.spotify.com/album/6LGwxJSIMkEa0kWDzaBEOT) | 4:40 | 2022-05-17 |  |
 | [Badi Dheere Jali](https://open.spotify.com/track/2VgmwOgWxNkfT4vvA7eJ5E) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 7:01 | 2022-05-17 | 2023-03-23 |
+| [Badra Chhaaye](https://open.spotify.com/track/0xaocSiKSgZdetM5onBTvz) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS) | [Badra Chhaaye](https://open.spotify.com/album/4Q4LYEVYMZZbOgEiksRxLa) | 2:50 | 2023-07-13 |  |
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Baras](https://open.spotify.com/track/2eJeQraCbVdmkFsLqPkBHP) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:58 | 2022-05-17 | 2023-03-23 |
 | [Bargat Ke Pedo Pe Shakhe Purani](https://open.spotify.com/track/1gFDuN2HElEtr030D5yDRs) | [Piyush Mishra](https://open.spotify.com/artist/0kttITJItx4bssbq6EcXCS) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 6:40 | 2023-02-01 |  |
@@ -140,7 +141,7 @@
 | [Ratiya](https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs) | [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY), [Rishav Tushar](https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl) | [Ratiya](https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y) | 3:13 | 2023-03-15 | 2023-05-19 |
 | [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 | 2023-03-03 | 2023-06-03 |
-| [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 |  |
+| [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 | 2023-07-14 |
 | [Sagariya](https://open.spotify.com/track/092NFcCnJaSbcZQd76IGSf) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Sagariya](https://open.spotify.com/album/1hDVhG2pylmO3ef4y15jD0) | 6:52 | 2022-05-17 |  |
 | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/track/3JMz4MfpBq6OOv5kfltzgL) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r) | 4:28 | 2022-05-17 |  |
 | [Saiyyan](https://open.spotify.com/track/4GSvSi4BA4Pddnjmmqmw49) | [Lagori](https://open.spotify.com/artist/1qnNpqNICqHeFjbBLD58M6) | [Lagori](https://open.spotify.com/album/0haROYCw0OBoA5wXki40tY) | 4:35 | 2022-05-17 | 2022-09-24 |

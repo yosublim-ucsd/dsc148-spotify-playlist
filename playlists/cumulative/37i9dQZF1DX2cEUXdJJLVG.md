@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-260 songs - 15 hr 42 min
+262 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 | 2022-09-09 | 2023-07-08 |
 | [Counterfeit](https://open.spotify.com/track/5qIRiXFqGI65EZuYtfyY53) | [HOLOW](https://open.spotify.com/artist/0iFmnAL0wjQU7r07tV4J09), [Eliza Roe](https://open.spotify.com/artist/1Y0jbCdHXiQlyV2fhxroqW) | [Counterfeit](https://open.spotify.com/album/24dCga7ILfqzQWDmAppQiy) | 2:49 | 2022-09-09 | 2022-10-15 |
 | [Curious](https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Curious](https://open.spotify.com/album/5hOKdnm5Aba2WQI7k64Pom) | 3:42 | 2022-09-09 | 2022-10-15 |
+| [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 | 2023-07-13 |  |
 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 | 2022-09-09 |  |
 | [Days Go On](https://open.spotify.com/track/0f7R9mBL8abGbqGVVidY8E) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Days Go On](https://open.spotify.com/album/6otzKZk8C7cIM7LyIaTQTP) | 3:29 | 2022-09-09 | 2022-10-15 |
 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 | 2022-09-29 |  |
@@ -204,6 +205,7 @@
 | [Running Away \- Vocal Remix](https://open.spotify.com/track/09SQixfCZZ9rUDoY1MZB2d) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/4UmlS91PmUrukRnM8x4JiR) | 1:51 | 2023-04-20 | 2023-05-12 |
 | [Satellite](https://open.spotify.com/track/4oHghaXlFoXhq8SZHjvIYr) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Satellite](https://open.spotify.com/album/0Zca5zGoxzM1HjLw9gMBgV) | 4:02 | 2022-09-09 | 2022-10-15 |
 | [SELFISH](https://open.spotify.com/track/2gdklwx9RchkYL2L8FeYMs) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [SELFISH](https://open.spotify.com/album/4yGpk1A8E6GYkekqwXqUVm) | 3:55 | 2022-09-09 |  |
+| [Settling](https://open.spotify.com/track/3ubrxuCaFCWDTIE0pcZH70) | [The Park](https://open.spotify.com/artist/4Y6lbDkzYvLHs91DVbpeUu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Settling](https://open.spotify.com/album/5QesinUPN06YX7UKR4xDQ7) | 3:57 | 2023-07-13 |  |
 | [SHAWTS](https://open.spotify.com/track/2K55xVGnOBFwIlZLsPlYp5) | [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF) | [SHAWTS](https://open.spotify.com/album/7dkctnbRQ9tsMauVbu4B6s) | 3:23 | 2022-09-09 |  |
 | [Shots](https://open.spotify.com/track/00pRQgbk4YSdyd4Do2RBDZ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/38qnXFBW26kjxrzLY3fRc5) | 4:31 | 2023-04-20 | 2023-05-26 |
 | [Shots](https://open.spotify.com/track/6bBjArs6x5oGYDPtF797DJ) | [The Goods](https://open.spotify.com/artist/4s1VGnynyXN1cZ4oKsyxEx), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Disco J](https://open.spotify.com/artist/5qX7mVsJNqHMppmcq9s7at) | [II](https://open.spotify.com/album/0oWbmnZr6PPQq582jT4bEV) | 4:31 | 2022-09-09 | 2023-04-29 |

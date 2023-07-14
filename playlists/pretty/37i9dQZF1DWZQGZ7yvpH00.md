@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,685 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,328 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 |
 | 50 | [Tu Verano <3](https://open.spotify.com/track/60FS4EkXM2t7odFb69Jfyv) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Tu Verano <3](https://open.spotify.com/album/0WctAvNJcLBLdQccvPrD1h) | 2:43 |
 
-Snapshot ID: `MCw4ODllZTQxZmEwNjIzOWM4N2Y5ZmUyZjczMWIwMGE1NjIwZjI5ZTVk`
+Snapshot ID: `MCwyMjlmMWY1ZjcxMjg0NWY0ZGRiMWY5OGJhMjkzM2VjM2U1MjY3YjQx`

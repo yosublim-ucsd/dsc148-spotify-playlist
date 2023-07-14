@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Tz da Coronel e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,200 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,425 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Questão de Honra](https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Questão de Honra](https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ) | 2:41 |
 | 50 | [Carta para mim mesma](https://open.spotify.com/track/6zCdC1Pr0eQADvSOPKUMR6) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Carta para mim mesma](https://open.spotify.com/album/3xCLWp2w1Lo921szlsz5cc) | 3:20 |
 
-Snapshot ID: `MCw0OGJhMTAyNGE3ZGRlOGMyNjUyZDFjZDc1Y2U5ZDlkN2U3N2Y0YWIx`
+Snapshot ID: `MCxlMTY0NWQxYjVjY2VjOGI5NTQxZTkzOGFmOGFkZTQ1MjcxMDQyZWZk`

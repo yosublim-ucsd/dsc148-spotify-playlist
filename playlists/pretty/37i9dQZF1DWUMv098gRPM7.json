@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: PARTYNEXTDOOR \u2013 celebrating 10 years of PND1 \ud83c\udf89 ",
-  "num_followers": 5117,
+  "num_followers": 5154,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjcwODNkOWE4YmQ3ZDM0MDNmYWM2MjVlNjI3OGJhN2Q1YzFhODhj",
+  "snapshot_id": "MCwyOThkOWIxOGIxMzMzYjhlNjU0ZGQ0ZmMyODQ3YmI1YTVhZGJhNWFl",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
       },
       "artists": [
         {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         }
       ],
-      "duration_ms": 226733,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+      "duration_ms": 169208,
+      "name": "Irrational",
+      "url": "https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -999,18 +995,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Solaris",
-        "url": "https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP"
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 169208,
-      "name": "Irrational",
-      "url": "https://open.spotify.com/track/3x0l10FNuvRcdudE36y6XK"
+      "duration_ms": 226733,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
     },
     {
       "added_at": "2023-06-30 04:01:00",

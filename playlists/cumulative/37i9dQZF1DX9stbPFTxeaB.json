@@ -16,10 +16,28 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 181218,
       "name": "Any Way The Wind Blows",
       "url": "https://open.spotify.com/track/06v3DtMzR1u8XwNkEy8OEp"
+    },
+    {
+      "album": {
+        "name": "Ways",
+        "url": "https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181218,
+      "name": "Any Way the Wind Blows",
+      "url": "https://open.spotify.com/track/5ECVygXKHN7Hqbutsa5bzJ"
     },
     {
       "album": {

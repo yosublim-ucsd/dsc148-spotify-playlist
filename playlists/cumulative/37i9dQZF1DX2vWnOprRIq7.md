@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Varese.
 
-151 songs - 9 hr 6 min
+152 songs - 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Arcoiris](https://open.spotify.com/track/6k9NhoSbRuVLofmhnjaA16) | [Elia Ezker](https://open.spotify.com/artist/4oXlT8L4CQfox2udsEFUHB) | [Arcoiris](https://open.spotify.com/album/6XaP7yGu872dZSBKiaVZjg) | 3:31 | 2023-03-17 | 2023-06-04 |
 | [Autorretrato en Blanco](https://open.spotify.com/track/6pKoQuCsJv82MSGN206O3U) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Autorretrato en Blanco](https://open.spotify.com/album/0QdA8t27p18rv47csXx7ZR) | 4:07 | 2023-03-17 |  |
 | [Autorretrato en Blanco \- Versión Lofi](https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS) | [Los Jardines De Bruselas](https://open.spotify.com/artist/2F4tyujNuSw8UiWfwujwP8) | [Autorretrato en Blanco \- Versión Lofi](https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY) | 3:52 | 2023-03-17 |  |
-| [Ave](https://open.spotify.com/track/19NEe1Xv7k2KKq0yN8VQhS) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn) | [Ave](https://open.spotify.com/album/4T0IRlEKZih1pz0EvVppCj) | 4:06 | 2023-06-16 |  |
+| [Ave](https://open.spotify.com/track/19NEe1Xv7k2KKq0yN8VQhS) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [María Ezquiaga](https://open.spotify.com/artist/5v8omMFYuqXgJxEHPpw7qn) | [Ave](https://open.spotify.com/album/4T0IRlEKZih1pz0EvVppCj) | 4:06 | 2023-06-16 | 2023-07-14 |
 | [Aviones De Papel](https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Aviones De Papel](https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF) | 3:13 | 2023-03-17 |  |
 | [BESO](https://open.spotify.com/track/3732J2lFfcBc6otsp87aKA) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [BESO](https://open.spotify.com/album/7GEfZW09vl961ZITVYQxYW) | 2:45 | 2023-06-02 |  |
 | [Bola Oro](https://open.spotify.com/track/7nPafRuFaZo7QxN1j1rpyJ) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Bola Oro](https://open.spotify.com/album/6tszCQ4PZkcHtkNdVM5Is2) | 4:05 | 2023-05-12 |  |
@@ -37,7 +37,7 @@
 | [Con la gata y tus mentiras](https://open.spotify.com/track/2jykCNG4QLzJGGawOcen0T) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Con la gata y tus mentiras](https://open.spotify.com/album/3jprgQy8G0ERjgQronO3cX) | 3:45 | 2023-07-07 |  |
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2023-03-17 | 2023-07-08 |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2023-03-17 | 2023-07-08 |
-| [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 | 2023-07-10 |
+| [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 |  |
 | [Cómplices](https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Cómplices](https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE) | 3:48 | 2023-05-19 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 |  |
 | [De Nada Sirve](https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [De Nada Sirve](https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE) | 6:45 | 2023-03-17 | 2023-03-25 |
@@ -85,7 +85,8 @@
 | [LLUVIA](https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd) | 3:38 | 2023-03-17 |  |
 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 | 2023-03-17 |  |
 | [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2023-03-17 | 2023-05-28 |
-| [Manual de una Pérdida](https://open.spotify.com/track/7hP1CtdqStqiXU91lWxmwV) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/0LhbhAzSSCCq3Wg6u969gc) | 3:18 | 2023-03-17 |  |
+| [Manual de una Pérdida](https://open.spotify.com/track/4FDqMu6PH1HT27nM9q21Uh) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/1fhFxoGDcw2tHuq7uaUAMY) | 3:18 | 2023-07-07 |  |
+| [Manual de una Pérdida](https://open.spotify.com/track/7hP1CtdqStqiXU91lWxmwV) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/0LhbhAzSSCCq3Wg6u969gc) | 3:18 | 2023-03-17 | 2023-07-14 |
 | [mejor me voy :\)](https://open.spotify.com/track/6gLruHcjm2ZS2JFMsLbBOY) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [mejor me voy: \)](https://open.spotify.com/album/0eCGqjEYwS7cAR0mUyi5cs) | 3:02 | 2023-05-12 |  |
 | [Mejor no hablar de ciertas cosas](https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Mejor no hablar de ciertas cosas](https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb) | 5:00 | 2023-03-17 | 2023-05-30 |
 | [MICROFRACTURAS](https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE) | [Vicu Villanueva](https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy) | [Victoria y las Máquinas](https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog) | 6:09 | 2023-04-14 |  |

@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 216073,
       "name": "3azezy Elakt2ab",
       "url": "https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 218571,
       "name": "Aalam Tani",
       "url": "https://open.spotify.com/track/2u7YPthKHdP2MHPDnpzNLm"
@@ -512,6 +512,24 @@
       "duration_ms": 164400,
       "name": "Ad Ay Sa\u2019ab (El Choclo)",
       "url": "https://open.spotify.com/track/3uWb9pRy167A3QgCMcAUwH"
+    },
+    {
+      "album": {
+        "name": "Admantak",
+        "url": "https://open.spotify.com/album/590ZPmndijZDDjeC4DiAkC"
+      },
+      "artists": [
+        {
+          "name": "Pascale Machaalani",
+          "url": "https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268872,
+      "name": "Admantak",
+      "url": "https://open.spotify.com/track/0tPxzBIbh3cPuwP56D2aiF"
     },
     {
       "album": {
@@ -998,7 +1016,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 232857,
       "name": "Ana Wein",
       "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 237857,
       "name": "Araftouh",
       "url": "https://open.spotify.com/track/24WcErJYoAR3jtWGiPsh3E"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 260164,
       "name": "Baaet Aada",
       "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 168680,
       "name": "Badal Madi",
       "url": "https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 256652,
       "name": "Baghanny",
       "url": "https://open.spotify.com/track/6268FVFOesGcamWngDzyqv"
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 184000,
       "name": "Dandana",
       "url": "https://open.spotify.com/track/0Jxc621ZPErwELUjuQCrXr"
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 199214,
       "name": "DOPAMINE",
       "url": "https://open.spotify.com/track/6Q3KOmzeEhkGcRxQpccaVO"
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 236574,
       "name": "El Tofah w El Farawla",
       "url": "https://open.spotify.com/track/5vU5TfXFf3cUFBSHzBiyqt"
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 181730,
       "name": "Helw Dah",
       "url": "https://open.spotify.com/track/1prDjlgIQI1V5ZJjEwipFx"
@@ -4302,7 +4320,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 233035,
       "name": "Li Ma Byehsob Ma Byeslam",
       "url": "https://open.spotify.com/track/4OvtRUrYCk65k6a8x6Fq6u"
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 256000,
       "name": "Makanak Khali",
       "url": "https://open.spotify.com/track/47fiFvcSChzOIrvh1BnRlR"
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 161298,
       "name": "Maksour Albi - \u0645\u0643\u0633\u0648\u0631 \u0642\u0644\u0628\u064a - From Eshret Omor Series - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0639\u0634\u0631\u0629 \u0639\u0645\u0631",
       "url": "https://open.spotify.com/track/7DrQNFN993CYcTZlUbY4ft"
@@ -4768,7 +4786,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 162941,
       "name": "Mamnounlak",
       "url": "https://open.spotify.com/track/48kZid7PsapGIxQ1HWq40C"
@@ -4952,7 +4970,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 218947,
       "name": "Meganeny",
       "url": "https://open.spotify.com/track/25s2qmlWFJDRU31NtsmNpX"
@@ -5388,7 +5406,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Nefrah Barsha - Aswatna",
       "url": "https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR"
@@ -6080,7 +6098,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 229200,
       "name": "Shof Galbi",
       "url": "https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK"
@@ -6286,7 +6304,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 181224,
       "name": "Sokkar",
       "url": "https://open.spotify.com/track/2BYTEkHsEa6BaFxvddYsee"
@@ -6783,6 +6801,24 @@
     },
     {
       "album": {
+        "name": "Welaane",
+        "url": "https://open.spotify.com/album/6QA0ySWUCTZCgdovGFfBUP"
+      },
+      "artists": [
+        {
+          "name": "Diana Karazon",
+          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232191,
+      "name": "Welaane",
+      "url": "https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK"
+    },
+    {
+      "album": {
         "name": "Wesh Jak",
         "url": "https://open.spotify.com/album/1L9YrwHLZizSXgvSyPQVUx"
       },
@@ -6974,7 +7010,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 209983,
       "name": "Ya Gamalak",
       "url": "https://open.spotify.com/track/50sZsJhllImZwUIDGq8Dzs"
@@ -7428,7 +7464,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 179110,
       "name": "\u0627\u0633\u062a\u0648\u0649",
       "url": "https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW"
@@ -7930,7 +7966,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 293071,
       "name": "\u0631\u062d\u064a\u0644",
       "url": "https://open.spotify.com/track/3JlGlUGcHXG2YXyykHGLWS"
@@ -8308,10 +8344,28 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 267652,
       "name": "\u0639\u0634\u0627\u0646 \u0627\u0631\u0636\u064a\u0643",
       "url": "https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0627\u0631\u064a\u0632\u0645\u0627",
+        "url": "https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF"
+      },
+      "artists": [
+        {
+          "name": "Najwa Karam",
+          "url": "https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223049,
+      "name": "\u0639\u0634\u0631 \u062f\u0642\u0627\u064a\u0642",
+      "url": "https://open.spotify.com/track/4AcfEkbQ8NxCvRbsh52Hcu"
     },
     {
       "album": {
@@ -8348,6 +8402,24 @@
       "duration_ms": 198000,
       "name": "\u0639\u0644\u0628\u0629 \u0628\u0642\u0644\u0628 \u0639\u0644\u0628\u0629",
       "url": "https://open.spotify.com/track/1o2AaN71DP2xeqFPRVlwqw"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0644\u0649 \u0643\u064a\u0641\u064a",
+        "url": "https://open.spotify.com/album/1KUd4Q4eTnblXlRJu9Ho1t"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "\u0639\u0644\u0649 \u0643\u064a\u0641\u064a",
+      "url": "https://open.spotify.com/track/4a6bLROaBRTXHvbOU4iUlL"
     },
     {
       "album": {
@@ -8842,7 +8914,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 195468,
       "name": "\u0646\u0633\u064a\u0646\u0627 \u0646\u0639\u064a\u0634",
       "url": "https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe"

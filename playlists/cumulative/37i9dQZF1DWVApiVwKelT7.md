@@ -4,7 +4,7 @@
 
 > Time to mend your broken heart with beautiful melodies!
 
-94 songs - 6 hr 55 min
+95 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Dhimu Dhimu](https://open.spotify.com/track/6old0mA1IHi5lw2yLv3ri6) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Engeyum Kadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DyPmer9GfEcRosw671Eaq) | 5:29 | 2021-09-15 |  |
 | [Edharkadi \- Male](https://open.spotify.com/track/4Jx9JX7oeFCUQ63tGLHI7n) | [Dhruv Vikram](https://open.spotify.com/artist/6ivte6aFersdzMprXpVDiO), [Banita Sandhu](https://open.spotify.com/artist/3bYGK3QTL74pMUVbcgkIza) | [Adithya Varma](https://open.spotify.com/album/3IvKduSq7d2SnZiwxA7hJK) | 4:09 | 2021-09-15 |  |
 | [En Kadhal \(From "Andhagan"\)](https://open.spotify.com/track/5dSxl1cCBhbslpWT7iXeWY) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [En Kadhal \(From "Andhagan"\)](https://open.spotify.com/album/3x5xVX4XGsKs6ZZbsufRyi) | 4:06 | 2022-03-07 | 2023-06-27 |
-| [Enadhuyire \(From "Bheema"\)](https://open.spotify.com/track/6veA8KjkbFRJp1NyG1hyxT) | [Nikkil Mathew](https://open.spotify.com/artist/573ztqV8yR6zZbRIurFqTP), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Hits of A.R.Rahman and Harris Jayaraj](https://open.spotify.com/album/5rPoHQXdWtloKmyBnPTb63) | 4:44 | 2021-09-15 |  |
+| [Enadhuyire \(From "Bheema"\)](https://open.spotify.com/track/50tSJbvj1bcvarL6rttvLQ) | [Nikkil Mathew](https://open.spotify.com/artist/573ztqV8yR6zZbRIurFqTP), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Chinmayi Special](https://open.spotify.com/album/38nZoYTaABbWqp4OQan3MY) | 4:44 | 2021-09-15 |  |
+| [Enadhuyire \(From "Bheema"\)](https://open.spotify.com/track/6veA8KjkbFRJp1NyG1hyxT) | [Nikkil Mathew](https://open.spotify.com/artist/573ztqV8yR6zZbRIurFqTP), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Hits of A.R.Rahman and Harris Jayaraj](https://open.spotify.com/album/5rPoHQXdWtloKmyBnPTb63) | 4:44 | 2021-09-15 | 2023-07-14 |
 | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/track/6sAdmaffuMijDszeFrGF1H) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/album/75VI8uBcagYXYBZMM3hqj7) | 4:20 | 2021-09-15 | 2023-05-03 |
 | [Engade Nee Ponae](https://open.spotify.com/track/4cHcqxoq2T2K7VuCxmNhLt) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Dev \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2MwP1d5L3bfBt48mdeDl75) | 5:12 | 2021-09-15 | 2023-05-03 |
 | [Engade Nee Ponae](https://open.spotify.com/track/5WPlDZ8Go3iEVW3LmwgZsi) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Dev](https://open.spotify.com/album/1F1qXtrIGKOAlcic1g2NNF) | 5:12 | 2021-09-15 | 2022-07-29 |

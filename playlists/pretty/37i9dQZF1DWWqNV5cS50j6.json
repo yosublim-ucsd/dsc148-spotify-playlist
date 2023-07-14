@@ -1,12 +1,12 @@
 {
   "description": "Yeek & Paris Texas make anti pop.",
-  "num_followers": 697699,
+  "num_followers": 697701,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2YyMmVmN2NkMmM2MWZjNDMzY2E4YjE4NDIxMjk3NTU4ZmU1ODI1",
+  "snapshot_id": "MCw3MDcxMGEwY2UyYzIyNDI3ZWM3OTE1NDQ5ZDI5Y2YzODJhOGU1MDBi",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -27,22 +27,6 @@
       "duration_ms": 129000,
       "name": "ETA2 (feat. Paris Texas)",
       "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
-    },
-    {
-      "added_at": "2023-06-02 16:53:02",
-      "album": {
-        "name": "Ant Pile",
-        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126233,
-      "name": "Ant Pile",
-      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -77,20 +61,36 @@
       "url": "https://open.spotify.com/track/4Cl0ism4qfwNTtDbk8K6qm"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-07-11 13:27:25",
       "album": {
-        "name": "sub 32",
-        "url": "https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ"
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
       "artists": [
         {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 108526,
-      "name": "sub 32",
-      "url": "https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT"
+      "duration_ms": 245819,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
+    },
+    {
+      "added_at": "2023-06-02 16:53:02",
+      "album": {
+        "name": "Ant Pile",
+        "url": "https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126233,
+      "name": "Ant Pile",
+      "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -109,38 +109,6 @@
       "url": "https://open.spotify.com/track/40tmc5Wjz7tmvtqmspCSp3"
     },
     {
-      "added_at": "2023-07-11 13:27:25",
-      "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 245819,
-      "name": "Gorilla",
-      "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "love deluxe",
-        "url": "https://open.spotify.com/album/7zBY4wnOahepVJdXRqxJlv"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 100704,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7"
-    },
-    {
       "added_at": "2023-06-20 14:12:05",
       "album": {
         "name": "Outta My Mind",
@@ -157,6 +125,22 @@
       "url": "https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "sub 32",
+        "url": "https://open.spotify.com/album/1ayf7TVmz3NSRUD1q36mMJ"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 108526,
+      "name": "sub 32",
+      "url": "https://open.spotify.com/track/5bJyWVbQjvHlA4eptnaHeT"
+    },
+    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "Boy Toy",
@@ -171,6 +155,22 @@
       "duration_ms": 215067,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/683VMYf2AuBE9QoiaBCsEW"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/7zBY4wnOahepVJdXRqxJlv"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 100704,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7"
     },
     {
       "added_at": "2023-07-07 18:29:24",

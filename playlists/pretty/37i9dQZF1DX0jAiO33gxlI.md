@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Nill
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,778 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,783 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sol](https://open.spotify.com/track/3nh2epfcWTwQIQdXDZbJIX) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Bonbap](https://open.spotify.com/artist/0I0iUZ8SnWxEFPhSDCMfrw), [Mbeattz](https://open.spotify.com/artist/1MDnJ2vb1OP6ytire9Ai5W) | [O Resgate do Maestro](https://open.spotify.com/album/63vTiNOR203fXij5mcZOo1) | 2:50 |
 | 2 | [Amor Virou Um Prêmio](https://open.spotify.com/track/20nEdTuTMTPITRyiaPNCnP) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [JD On Tha Track](https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4) | [Levante](https://open.spotify.com/album/2MXYDM2T3jC916CHUFuWoS) | 3:39 |
 | 3 | [40 Graus](https://open.spotify.com/track/1aqQWcSNFQYtp1bF7lziKI) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [40 Graus](https://open.spotify.com/album/67a0ihkgCAAMqzHruIqMku) | 2:40 |
-| 4 | [Gold, Pt\. 2](https://open.spotify.com/track/5Slpb6VFwhDtNRUmhgsXOO) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Erica Torquatto](https://open.spotify.com/artist/53K9I9NOSk3A0eb2kka8Fb), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Gold, Pt\. 2](https://open.spotify.com/album/3IUFRziRG25vymB2SKSJMW) | 3:19 |
+| 4 | [Gold, Pt\. 2](https://open.spotify.com/track/5Slpb6VFwhDtNRUmhgsXOO) | [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Erica Torquatto](https://open.spotify.com/artist/53K9I9NOSk3A0eb2kka8Fb), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [Delli Beatz](https://open.spotify.com/artist/7EaQWxFZ0tJfoXylyF4dSn) | [Gold, Pt\. 2](https://open.spotify.com/album/3IUFRziRG25vymB2SKSJMW) | 3:19 |
 | 5 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 |
 | 6 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
 | 7 | [Demanda](https://open.spotify.com/track/6XjT1pBSLzCJJ5hYSM54YY) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 | 75 | [Subiu o Voucher](https://open.spotify.com/track/3xYy4YTh4GC5ayMg5swQx6) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Subiu o Voucher](https://open.spotify.com/album/6DaCqBc20PZRMJw8qUbVTb) | 4:02 |
 
-Snapshot ID: `MCw5YzlkMjBkOGQ4NTNkOTgzMGZmNjgwZTA5NGNkYzdiNTQ0ODJlMGE3`
+Snapshot ID: `MCxlNWU2NTBiYzI5ZGZlNDUzZjlhYmFiNjY2YmY0ZmE3ZjUxYzU3Njkw`

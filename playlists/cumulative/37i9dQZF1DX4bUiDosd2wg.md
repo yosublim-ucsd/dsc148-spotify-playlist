@@ -4,7 +4,7 @@
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-208 songs - 15 hr 5 min
+209 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Missing you](https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:32 | 2021-04-21 |  |
 | [Missing you](https://open.spotify.com/track/3hvWpX7wY89END0v5M0XJX) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Missing you](https://open.spotify.com/album/2EJYbNNYlVxB1fWOw9Aj4N) | 4:17 | 2021-04-21 |  |
 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 | 2021-04-21 |  |
-| [My Love](https://open.spotify.com/track/4dhYkcEDPrZxy1CwDYMrLC) | [Lee Hyeon Seob](https://open.spotify.com/artist/4tYHDUgP15VkOzh67Q7ooC) | [발리에서 생긴 일 Original Television Soundtrack](https://open.spotify.com/album/1yE2OAtPK2m4u4JTEUp0fN) | 4:31 | 2021-04-21 |  |
+| [My Love](https://open.spotify.com/track/4dhYkcEDPrZxy1CwDYMrLC) | [Lee Hyeon Seob](https://open.spotify.com/artist/4tYHDUgP15VkOzh67Q7ooC) | [발리에서 생긴 일 Original Television Soundtrack](https://open.spotify.com/album/1yE2OAtPK2m4u4JTEUp0fN) | 4:31 | 2021-04-21 | 2023-07-14 |
+| [My Love](https://open.spotify.com/track/2Iff2ckHMviPey4GwwVmaG) | [Lee Hyeon Seob](https://open.spotify.com/artist/2HgECNGllE967H1E13aKA2) | [What Happened In Bali \(Original Television Soundtrack\)](https://open.spotify.com/album/1O1QcQCgwxnRAfojSrSKRG) | 4:34 | 2021-04-21 |  |
 | [No matter where](https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Pathos](https://open.spotify.com/album/42FCxz16YLTZ1nw5lVfpaR) | 5:31 | 2021-04-21 |  |
 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 | 2021-04-21 |  |
 | [Once Again](https://open.spotify.com/track/1lAslkkTfwHKus56NTNw6p) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Come Back Alive \(Original TV Soundtrack\) Pt\. 1](https://open.spotify.com/album/7f7RUXaKR4Z5SYpKCTBzEE) | 5:00 | 2021-04-21 |  |

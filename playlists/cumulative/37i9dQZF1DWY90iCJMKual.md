@@ -2,9 +2,9 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> Groove to the rhythm of OPM's R&B tunes\. Cover: James Reid
+> Groove to the rhythm of OPM's R&B tunes\. Cover: Nadine Lustre
 
-119 songs - 7 hr 6 min
+123 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,10 +33,13 @@
 | [Diggin On You](https://open.spotify.com/track/1U3eywESMeRvn6OSdh5HzU) | [Kiddo Chris](https://open.spotify.com/artist/4ZO0HvlndussEIrQsozD2G) | [Diggin On You](https://open.spotify.com/album/4nt0w0fvGSRWIIawUbeC1J) | 2:54 | 2022-12-14 |  |
 | [Drunk](https://open.spotify.com/track/3oF6MdGHiwi1okqanYETU8) | [Pisces.MN](https://open.spotify.com/artist/38Xmv6NoOX157hPeH5Tzsh), [David Daliva](https://open.spotify.com/artist/4O82yAA1c1eHsb0swmwxCp) | [Drunk](https://open.spotify.com/album/10JVIHH4p8FqDMfVPjTrpo) | 3:17 | 2022-10-12 | 2023-05-18 |
 | [Drunk Call](https://open.spotify.com/track/7wd49balhpP4KQVUh62jJt) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi), [Zo zo](https://open.spotify.com/artist/1UR0AuHJ2rt4Vl0RPLAS1R) | [Drunk Call](https://open.spotify.com/album/2isFpaRXWqu8wJeWCQpcec) | 2:49 | 2022-10-12 |  |
+| [Fallin](https://open.spotify.com/track/064sICng1UknPZvos5SLNs) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Fallin](https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21) | 2:51 | 2023-07-13 |  |
 | [Fight or Flight](https://open.spotify.com/track/1JTjcIK0OOwopIWkWfKUw2) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Fight or Flight](https://open.spotify.com/album/1ZwAq8ymX6JaWcAWLEq7GT) | 3:30 | 2023-04-06 |  |
 | [First Impressions \- Yuan Estrada x Dave Anonuevo Remix](https://open.spotify.com/track/2yzGqCVboYtsOUolarj6hd) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK), [Yuan Estrada](https://open.spotify.com/artist/4lip0Iq4MmA7pHujoaMWlN), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [Options \(Deluxe\)](https://open.spotify.com/album/6BiJmwF8oi2ZZIWYXbdU5O) | 4:03 | 2022-10-12 | 2022-12-15 |
 | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/track/3UPfHl6IoVopUu6wVHek4s) | [SHNTI](https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO) | [Fuck It \(I'm in Love Again\)](https://open.spotify.com/album/3uYvCGaqN8HgwYs4aM0nwb) | 4:20 | 2022-10-12 |  |
+| [Gunita](https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Gunita](https://open.spotify.com/album/26WdICKZG6NBoLvCXGtJkA) | 3:56 | 2023-07-13 |  |
 | [Gusto](https://open.spotify.com/track/5ojhdirBnBs8y1EXgkpSj1) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l) | [Gusto](https://open.spotify.com/album/4A5EzPzTX7nQVhMmKGc1dG) | 2:10 | 2022-10-12 |  |
+| [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 | 2023-07-13 |  |
 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2022-10-12 |  |
 | [Habambuhay](https://open.spotify.com/track/3HrN0lTrLtPGWopL1zP6Te) | [Arvy T](https://open.spotify.com/artist/5E1t9mWRm4znrI8w3cvuyN), [BTDTbeats](https://open.spotify.com/artist/0rCPgUfWXPdKYIvTeZcy7x) | [Habambuhay](https://open.spotify.com/album/1ZGsoTEtRDiE3jvo5sJg9p) | 3:11 | 2022-10-12 |  |
 | [Halaga](https://open.spotify.com/track/6c3IYRlvXLNwKKXIxq0XVP) | [Hicci](https://open.spotify.com/artist/3nEqPCHcNEUY3XeLQo7YuS) | [Halaga](https://open.spotify.com/album/0LxIE10nejpjJfW3naA1Zn) | 4:45 | 2022-10-12 | 2022-12-15 |
@@ -86,6 +89,7 @@
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-02-23 |  |
 | [On It](https://open.spotify.com/track/4Oa7hB0TLwbBOotG2Br45k) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9), [NER](https://open.spotify.com/artist/6QS2Yudp5FJMMVvrji5Rvs) | [On It](https://open.spotify.com/album/1Czy7pcqUGAfvtFYUIOnYt) | 3:32 | 2022-10-12 |  |
 | [Only One](https://open.spotify.com/track/4mHusVLmGSUywXjhU2zUBM) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Only One](https://open.spotify.com/album/6VMWV0ecrxgL7xCZeBKKZi) | 3:59 | 2023-04-06 |  |
+| [Overgrown](https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Overgrown](https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw) | 3:32 | 2023-07-13 |  |
 | [PABORITO](https://open.spotify.com/track/3IXhldrCfWEMBu11FLPRZa) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [PABORITO](https://open.spotify.com/album/2OHKhNRixy8JrMDJCHiLuI) | 3:36 | 2022-10-12 | 2023-05-18 |
 | [Pahalik](https://open.spotify.com/track/7ibgKml0Zy5M4kU9zBdsvY) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Curse One](https://open.spotify.com/artist/6TUcd6yXFC0qQ1xbaycJT4), [Vlync](https://open.spotify.com/artist/46QyyIgyd2KywJPeWAASA2) | [Pahalik](https://open.spotify.com/album/4DTQWoQA46pswKmobyuNd6) | 8:03 | 2022-10-12 | 2023-05-18 |
 | [PAHIMAKAS](https://open.spotify.com/track/4a4leAJpcU9fH2sFJs0jgn) | [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW) | [PAHIMAKAS](https://open.spotify.com/album/0buFGUKfBl1Spvg9oggzo7) | 4:07 | 2022-10-12 | 2023-05-18 |

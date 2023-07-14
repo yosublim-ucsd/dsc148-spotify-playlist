@@ -3238,7 +3238,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 182956,
       "name": "How You Like That",
       "url": "https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o"
@@ -11512,6 +11512,28 @@
       "duration_ms": 271567,
       "name": "\u0e40\u0e2a\u0e49\u0e19\u0e1a\u0e32\u0e07\u0e46",
       "url": "https://open.spotify.com/track/5n3UhHQI7SHKkhI69u69Yq"
+    },
+    {
+      "album": {
+        "name": "Boyd Kosiyabong Song Book",
+        "url": "https://open.spotify.com/album/0lRs7MSiZMImc3as9ES1xL"
+      },
+      "artists": [
+        {
+          "name": "Boyd Kosiyabong",
+          "url": "https://open.spotify.com/artist/7LiltnpnD4Q60750gWXrgB"
+        },
+        {
+          "name": "\u0e40\u0e28\u0e23\u0e29\u0e10\u0e32 \u0e28\u0e34\u0e23\u0e30\u0e09\u0e32\u0e22\u0e32",
+          "url": "https://open.spotify.com/artist/7Ks73bCI9nkDjG0WQpQatP"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334666,
+      "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e40\u0e04\u0e22 (feat. Seattha Sirachaya)",
+      "url": "https://open.spotify.com/track/7gKB3piJMHJPRxgpr8jSoB"
     },
     {
       "album": {

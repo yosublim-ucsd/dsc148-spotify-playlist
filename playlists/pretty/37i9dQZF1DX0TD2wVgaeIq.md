@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,326 likes - 76 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,476 likes - 76 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,22 +16,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 6 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 |
 | 7 | [Siddhartha's Flute Meditation](https://open.spotify.com/track/3thZ20hmRpxshSfudFwAd2) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Siddhartha's Flute Meditation](https://open.spotify.com/album/0kCldZYKrXXyK12XcQn4Bc) | 2:26 |
 | 8 | [Slowly Healing](https://open.spotify.com/track/7B6uXznIUsatvSuZujLlsk) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Slowly Healing](https://open.spotify.com/album/2a6QiYnjdRT9rclhvM2hQa) | 3:06 |
-| 9 | [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 |
-| 10 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 |
-| 11 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 |
-| 12 | [Dreamyness](https://open.spotify.com/track/0bHE2MBLK0BGpYIFklFILd) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Dreamyness](https://open.spotify.com/album/5TYDxt0ftsFpcLtfQIMvhm) | 3:18 |
-| 13 | [Restful Soul](https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Soul](https://open.spotify.com/album/5gLOfe4Vaf4mESWj1M65v6) | 3:07 |
-| 14 | [Samajhauta](https://open.spotify.com/track/3QH2cod0TPHpg12q2qBl7j) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Samajhauta](https://open.spotify.com/album/1Ge5uhuyA0O9JTyxYEMCNW) | 2:35 |
-| 15 | [Peaceful Rest](https://open.spotify.com/track/0qtRtaSRRt95J7X7W8BLa6) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Sleep Relaxation for Babies](https://open.spotify.com/album/3GVJJCdEvoFlnho1uHKKLh) | 5:12 |
-| 16 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
-| 17 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 |
-| 18 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 |
-| 19 | [Celestial](https://open.spotify.com/track/0zuW70H4BDayKr9bl5eIHa) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Celestial](https://open.spotify.com/album/3htC8VYLMehNJYtkMbRCUz) | 3:09 |
-| 20 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
-| 21 | [Restfulness](https://open.spotify.com/track/5ORh7rCujaHZVXNQyEWoIB) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Restfulness](https://open.spotify.com/album/7ei3rVMQEL0vgr5AsEXbsT) | 7:13 |
-| 22 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 |
-| 23 | [Yaman Flute Meditation](https://open.spotify.com/track/3K0NNBsqb34AbuEHfr0oSQ) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Yaman Flute Meditation](https://open.spotify.com/album/1gZjdrPfP4hhmUTvfXBIZW) | 2:42 |
-| 24 | [Pranayama](https://open.spotify.com/track/7rgoLtRGUqOZYXMYuhdiiZ) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Pranayama](https://open.spotify.com/album/5nda23NcNAPAuzs3j8gKkK) | 3:58 |
+| 9 | [Krishna's Bansuri](https://open.spotify.com/track/5UkTQNURKXrJ0lKRns4Vxi) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Krishna's Bansuri](https://open.spotify.com/album/2AqZxQZwDWHCcFbLqrPunj) | 3:53 |
+| 10 | [Quietness](https://open.spotify.com/track/5BU2yxv2XhQlTvkBoeGYZY) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Quietness](https://open.spotify.com/album/2M8w3Qj0dTaLPt1q0ZP4jR) | 3:46 |
+| 11 | [Meditation](https://open.spotify.com/track/5Z4lXr3SC43QgYmhXeHNaA) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Meditation](https://open.spotify.com/album/3LmunxZ9ihwNanicxMpqYl) | 2:11 |
+| 12 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 |
+| 13 | [Dreamyness](https://open.spotify.com/track/0bHE2MBLK0BGpYIFklFILd) | [Pavitr Udyaan](https://open.spotify.com/artist/7LK5H0UCpAQvUA90Ga3E5K) | [Dreamyness](https://open.spotify.com/album/5TYDxt0ftsFpcLtfQIMvhm) | 3:18 |
+| 14 | [Restful Soul](https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Soul](https://open.spotify.com/album/5gLOfe4Vaf4mESWj1M65v6) | 3:07 |
+| 15 | [Samajhauta](https://open.spotify.com/track/3QH2cod0TPHpg12q2qBl7j) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Samajhauta](https://open.spotify.com/album/1Ge5uhuyA0O9JTyxYEMCNW) | 2:35 |
+| 16 | [Peaceful Rest](https://open.spotify.com/track/0qtRtaSRRt95J7X7W8BLa6) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Sleep Relaxation for Babies](https://open.spotify.com/album/3GVJJCdEvoFlnho1uHKKLh) | 5:12 |
+| 17 | [The Sweetest Bansuri](https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv) | [Golgon Kami](https://open.spotify.com/artist/1tkEL3kkz3cp0QnCPKuomr) | [The Sweetest Bansuri](https://open.spotify.com/album/5Yq1yNWHSgiFFAcrKUu0JY) | 2:46 |
+| 18 | [Back to Sinharaja](https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB) | [LiKKma](https://open.spotify.com/artist/01q7ajYufxitw2xk6V6Sju) | [Back to Sinharaja](https://open.spotify.com/album/4nbkEPbJ8rqZVOGq6Qwwjq) | 2:28 |
+| 19 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 |
+| 20 | [Celestial](https://open.spotify.com/track/0zuW70H4BDayKr9bl5eIHa) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Celestial](https://open.spotify.com/album/3htC8VYLMehNJYtkMbRCUz) | 3:09 |
+| 21 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
+| 22 | [Restfulness](https://open.spotify.com/track/5ORh7rCujaHZVXNQyEWoIB) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Restfulness](https://open.spotify.com/album/7ei3rVMQEL0vgr5AsEXbsT) | 7:13 |
+| 23 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 |
+| 24 | [Yaman Flute Meditation](https://open.spotify.com/track/3K0NNBsqb34AbuEHfr0oSQ) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Yaman Flute Meditation](https://open.spotify.com/album/1gZjdrPfP4hhmUTvfXBIZW) | 2:42 |
 | 25 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
 | 26 | [Dreamy Sunsets](https://open.spotify.com/track/6EUsKAcQcCb01FKohlY1Cd) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Dreamy Sunsets](https://open.spotify.com/album/7ggkVAR9fFqLJFhOR0rhfx) | 6:39 |
 | 27 | [Breathing Space](https://open.spotify.com/track/53hZ7K9FClYjkTtrm6t1NK) | [Sacred Earth](https://open.spotify.com/artist/6c4PFTwVucnE0A6l219i99) | [Call to the Divine](https://open.spotify.com/album/6Lo6v2cqRdPC2vc59bAZaG) | 8:06 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 75 | [Tranquil Flute](https://open.spotify.com/track/5YjcMq9ULEIj5ocqhCMMmX) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Yoga Flute Meditation](https://open.spotify.com/album/71ntr9WalJNhrGxTF8DgoY) | 2:09 |
 | 76 | [Raag Saraswati \- Alap](https://open.spotify.com/track/53abiWUKbfA6lfMp3khetS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Ghate](https://open.spotify.com/artist/7ETcoV7VniCB1EvWjtbMMU), [Pt\. Bhawani Shankar](https://open.spotify.com/artist/483a0T0I96l0BLsJILbOVF) | [Call of the Divine \- Magical Flute of Rakesh Chaurasia](https://open.spotify.com/album/599KZQj3bgW8DtIVaxNSjB) | 5:46 |
 
-Snapshot ID: `MCwzYzRhYTQxMjkxY2NmMmQ4ODljYzk2ZTViNTc0NGI5OTQ0N2QzNzNj`
+Snapshot ID: `MCxjMTg1Zjg0MDc4YmQ2MzlkZmQ2MzJkZjM3YmE4NmI1NGJjMmNiNzQ4`

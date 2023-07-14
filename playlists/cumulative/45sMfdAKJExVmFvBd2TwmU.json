@@ -2633,6 +2633,28 @@
     },
     {
       "album": {
+        "name": "Shayad (Aaj Kal) [From \"Love Aaj Kal\"]",
+        "url": "https://open.spotify.com/album/2L3XNwkrdYWWi08k304lJM"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Shayad (Aaj Kal) - From \"Love Aaj Kal\"",
+      "url": "https://open.spotify.com/track/3WXvr6rwl4I8U3ancJ08Yy"
+    },
+    {
+      "album": {
         "name": "Kurbaan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7gJUjDpRvBRY5oCh4pC9d5"
       },

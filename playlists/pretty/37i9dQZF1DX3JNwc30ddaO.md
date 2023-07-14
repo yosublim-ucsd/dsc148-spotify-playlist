@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 
 > Meditative tones for clarity and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,254 likes - 86 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,398 likes - 86 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 | 9 | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/track/6YnrlA0CTrkrjLVToXK0Eq) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Immortal Grounds \(Tibetan Bowls\)](https://open.spotify.com/album/7mNJ2OhKnOiIuOAa61YzAb) | 2:53 |
 | 10 | [Be Love Now](https://open.spotify.com/track/2roRyBtlHkiCdrEksPTeGs) | [Larrek](https://open.spotify.com/artist/6VFekblOut967g4jD8w46E) | [Be Love Now](https://open.spotify.com/album/2tnkj3KcWroc1xF6h56X4V) | 1:57 |
 | 11 | [Tibetan Bowl Escape](https://open.spotify.com/track/2aHikc0squ4xiHaYEVR5N2) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 2:30 |
-| 12 | [Microcosmic Healing](https://open.spotify.com/track/739e0bm8C7XCdApILgydcU) | [Inner Alchemy](https://open.spotify.com/artist/1cssfs3FIKu9TzchjcOyfn) | [Microcosmic Healing](https://open.spotify.com/album/0tgReg8ZkjMRzOQwKJSzbe) | 2:28 |
+| 12 | [Microcosmic Healing](https://open.spotify.com/track/739e0bm8C7XCdApILgydcU) | [Inner Alchemy](https://open.spotify.com/artist/48CGi0ceA91orAbl50ldR2) | [Microcosmic Healing](https://open.spotify.com/album/0tgReg8ZkjMRzOQwKJSzbe) | 2:28 |
 | 13 | [340 Hz Crystal Bowl \(Sound Bath\)](https://open.spotify.com/track/5trb6HdVFr7zQ2FieN1tSo) | [Aum Pro](https://open.spotify.com/artist/6sxGvi2ZDbc3zzQGr0u3Bu) | [340 Hz Crystal Bowl \(Sound Bath\)](https://open.spotify.com/album/7ovrUCBeHq6AZm9QROOVQn) | 2:16 |
 | 14 | [340 H \- Crystal Bowl](https://open.spotify.com/track/2hA1rPR79a5rjSbyg51K5X) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [340 H \- Crystal Bowl](https://open.spotify.com/album/3zfg14zFZ9K15G9MddRvYZ) | 2:34 |
 | 15 | [Beta State](https://open.spotify.com/track/2sFfbLuR3Vo3HsCP6tHzRy) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Singing Bowls in Nature](https://open.spotify.com/album/6oiXg3npUhIWScCT9sz8wm) | 3:00 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JNwc30ddaO.md) - [plain]
 | 85 | [Root Chakra \(Muladhara\) \- 3 Octaves C](https://open.spotify.com/track/026nvVJ92VxqZCceoYKvJx) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 |
 | 86 | [Tibetan Bowl Mind Clarity](https://open.spotify.com/track/5SXk3qGtMOLUDVUttQLea0) | [Relaxing Tibetan Singing Bowls](https://open.spotify.com/artist/7eWhSlk1SPRRFkt9l6QE7R) | [Tibetan Bowl Escape](https://open.spotify.com/album/15YrBa9VbWVAPwiplCdgmf) | 4:06 |
 
-Snapshot ID: `MCw2Y2E0OGNmN2E5ZGZhNGE0MzkxN2NlY2ZkNzA1M2ZjM2MwOWYxM2Y4`
+Snapshot ID: `MCxkNTVkNTIxOTRmNmE1YmM5NDMzNjU1NGUwMWUzMWJhY2U1MDJhNzNk`

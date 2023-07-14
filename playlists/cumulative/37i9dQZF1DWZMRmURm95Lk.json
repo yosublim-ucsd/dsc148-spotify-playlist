@@ -659,6 +659,48 @@
     },
     {
       "album": {
+        "name": "Bolo Cypher",
+        "url": "https://open.spotify.com/album/0XvpiJEnT8m269XzMjAuvN"
+      },
+      "artists": [
+        {
+          "name": "DJ Fastcut",
+          "url": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+        },
+        {
+          "name": "Sgravo",
+          "url": "https://open.spotify.com/artist/0B8s7OlQtspkOrPzezZl3T"
+        },
+        {
+          "name": "Wiser Keegan",
+          "url": "https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur"
+        },
+        {
+          "name": "Sace",
+          "url": "https://open.spotify.com/artist/1DamepBKTBMlIbTNPyO5Lc"
+        },
+        {
+          "name": "Funky Nano",
+          "url": "https://open.spotify.com/artist/6TSfxHqdLfsHgAJ64mF7DH"
+        },
+        {
+          "name": "Buster Quito",
+          "url": "https://open.spotify.com/artist/6cD1ojjhlbWzlViZaPJ4Ui"
+        },
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/4mHcb0HQlOY5ZME2n2EX27"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297473,
+      "name": "Bolo Cypher",
+      "url": "https://open.spotify.com/track/79duT4nSjKtqP0PAjnzs4S"
+    },
+    {
+      "album": {
         "name": "Brothers Cavalera",
         "url": "https://open.spotify.com/album/1bH9kfwI27cy18IdV4cRZC"
       },
@@ -5370,7 +5412,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 149575,
       "name": "Showtime",
       "url": "https://open.spotify.com/track/5XHYgaxM41DzLDdPDgQhiS"

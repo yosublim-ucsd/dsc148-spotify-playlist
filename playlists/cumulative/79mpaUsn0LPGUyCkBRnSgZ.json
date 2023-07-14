@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Take It From The Dead",
+        "url": "https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48"
+      },
+      "artists": [
+        {
+          "name": "Acid Dad",
+          "url": "https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203135,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W"
+    },
+    {
+      "album": {
         "name": "Seven Psalms",
         "url": "https://open.spotify.com/album/2W88kNmADcEEvcaJPVGZHF"
       },

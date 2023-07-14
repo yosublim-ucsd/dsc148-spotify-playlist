@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-284 songs - 14 hr 30 min
+285 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/track/6DS5E7ovKpaSVM8H3hBjJd) | [Parascope Doll](https://open.spotify.com/artist/0W8rgH2l5fMLS6hdxNMT9y) | [Binaural Delta Sinus 160 Hz \- L 161 Hz \- R](https://open.spotify.com/album/0TJS3JB2pb5mXXrPN7oFer) | 2:16 | 2021-06-18 | 2021-08-18 |
 | [Binaural Gamma Sinus 70 Hz \- L 170 Hz \- R](https://open.spotify.com/track/43r2rgWiDsxqZwwOwbsY99) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:20 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6DLK0gTnZnWa1eh1oiFQri) | [Maroon Skies](https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um) | [Binaural Theta Sinus 95 Hz \- 99 Hz](https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU) | 2:24 | 2021-06-18 |  |
-| [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6qQukEFVsujJUsXqhcZhw3) | [QLR Post](https://open.spotify.com/artist/0hkSXsyLpvWpZBDzmlYHMX) | [Binaural Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/album/16gI5z8cO0fUcwHg9LicBr) | 2:31 | 2021-06-04 |  |
+| [Binaural Gamma Sinus 80 Hz \- 120 Hz](https://open.spotify.com/track/6qQukEFVsujJUsXqhcZhw3) | [QLR Post](https://open.spotify.com/artist/0hkSXsyLpvWpZBDzmlYHMX) | [Binaural Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/album/16gI5z8cO0fUcwHg9LicBr) | 2:31 | 2021-06-04 | 2023-07-14 |
 | [Binaural Gamma Sinus 80 Hz \- L 120 Hz \- R](https://open.spotify.com/track/1NtOid2GxikfUkQajrvWye) | [Brainstate](https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW) | [Gamma Drones](https://open.spotify.com/album/0xMbmD1DuvDfpiDwyIpPSO) | 3:26 | 2019-05-26\* | 2021-09-16 |
 | [Binaural Gamma Sinus 80 Hz \- L 120 Hz \- R](https://open.spotify.com/track/0xNB7V7YuTuhspC4VxzScY) | [Phascoi﻿](https://open.spotify.com/artist/4rP4SiSzg5lzgHn9qw4g7A) | [Gamma Brainwaves](https://open.spotify.com/album/2VjUMYURryhVfw79wYpTHI) | 3:28 | 2020-12-03 | 2020-12-10 |
 | [Binaural Gamma Sinus 90 Hz \- 190 Hz](https://open.spotify.com/track/1PPEy5m3ubtow8tdkuTaci) | [Mia Edgewater](https://open.spotify.com/artist/3HJ62s2BPJhSMpLg7HMXzT) | [Binaural Gamma Sinus 90 Hz \- 190 Hz](https://open.spotify.com/album/0VQjlrTWznfGDy1Ao31IYb) | 2:13 | 2021-06-18 |  |
@@ -289,6 +289,7 @@
 | [Under The Rainbow \- Alpha Sinus 95Hz \- 103Hz](https://open.spotify.com/track/4bFFRIFI3T3e03sLl6iG7W) | [Sonic Whales](https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH) | [The Art of Relaxation](https://open.spotify.com/album/1ZC4JDYNuHthr2RREXxKrA) | 3:42 | 2021-04-22 |  |
 | [Universal \- Alpha sinus 91 \- 95hz](https://open.spotify.com/track/6jiSCHhcbgjL64g3F1sSw3) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Binaural Fields](https://open.spotify.com/album/1WDadxIT9t8fskmLJYCVCe) | 4:01 | 2021-05-06 |  |
 | [Uqugella](https://open.spotify.com/track/1GC9GHrhIOKCnPDaSA4a8E) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Binaural Beats for Relaxation](https://open.spotify.com/album/3qxbSBbBsBWpCn7LO5I6TZ) | 3:18 | 2019-05-26\* | 2021-06-18 |
+| [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/album/0Tfxcfud4NpOIj5oUWqZF9) | 2:10 | 2023-07-14 |  |
 | [Winds \(Beta 65.9Hz \-93.3Hz\)](https://open.spotify.com/track/1MAM7gliyzT5W5ln6Qgml4) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Winds \(Beta 65.9Hz \-93.3Hz\)](https://open.spotify.com/album/6RcNZu9rkYu43JOaIDXGFY) | 4:21 | 2022-02-16 | 2022-03-19 |
 | [Wunder \- Alpha Sinus 91Hz \- 101Hz](https://open.spotify.com/track/1F2cWZlGbtQqV0TY43Coyz) | [Sea Turtles](https://open.spotify.com/artist/56IQtGAgwkHrQpBHEaEuiv) | [Soaking in Binaural](https://open.spotify.com/album/3msRxAwJuC451ZywXpNW2L) | 2:54 | 2021-09-02 |  |
 | [Zeit ist Gold \- Alpha Sinus 87Hz \- 94Hz](https://open.spotify.com/track/0pcQFGXlymeolv47TfIzn7) | [Hidden in Sound](https://open.spotify.com/artist/0AYaSjd2bSpMrGJfpLSqMU) | [Alpha Waves for Meditation](https://open.spotify.com/album/4jdJoSIgybWJYhITu6FbiY) | 3:20 | 2021-06-04 |  |

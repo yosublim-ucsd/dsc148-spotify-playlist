@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Alan Walker",
-  "num_followers": 755790,
+  "num_followers": 755827,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "NTE1NSwyNGZmNTM5NTA5ZDVhOThkNDU5NTg0Y2Q0OTgxZmYwMjIwMzg0YWVj",
+  "snapshot_id": "NTE1OSxiY2Y2Njc0ZTUzZTE1YzBlNjFlMGY5ZjA1NDc1ZTM4YTVhNjY0OGI2",
   "tracks": [
     {
       "added_at": "2023-06-30 11:20:02",
@@ -81,6 +81,46 @@
       "url": "https://open.spotify.com/track/22PGa3sM5Hb8B21u0iymi2"
     },
     {
+      "added_at": "2023-06-30 11:20:02",
+      "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4"
+    },
+    {
+      "added_at": "2023-07-13 09:57:58",
+      "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2"
+      },
+      "artists": [
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        },
+        {
+          "name": "Guy Arthur",
+          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
+        },
+        {
+          "name": "SGNLS",
+          "url": "https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq"
+    },
+    {
       "added_at": "2023-06-30 12:23:18",
       "album": {
         "name": "TumDaDaDum",
@@ -97,20 +137,36 @@
       "url": "https://open.spotify.com/track/7uQXHHfiHS6818O5a7ol5e"
     },
     {
-      "added_at": "2023-06-30 11:20:02",
+      "added_at": "2023-07-12 10:08:44",
       "album": {
-        "name": "Desperate",
-        "url": "https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv"
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/6D2SwvH7kPNxGFzyAYhiFZ"
       },
       "artists": [
         {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+          "name": "Rave New World",
+          "url": "https://open.spotify.com/artist/4ko7cVxrcdvwdRkkmiNcRI"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Desperate",
-      "url": "https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4"
+      "duration_ms": 167142,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/4IQujIjk2WNrUjwwv6yxuZ"
+    },
+    {
+      "added_at": "2023-07-12 10:06:08",
+      "album": {
+        "name": "Nothing at All",
+        "url": "https://open.spotify.com/album/2QTpt0kCQuTtZsb6bXH78u"
+      },
+      "artists": [
+        {
+          "name": "The Arc",
+          "url": "https://open.spotify.com/artist/1wEt2WqHchpbKIY2TsctFF"
+        }
+      ],
+      "duration_ms": 290009,
+      "name": "Nothing at All",
+      "url": "https://open.spotify.com/track/0fsEdr0Fwq0YN7aKY2elcZ"
     },
     {
       "added_at": "2023-07-07 07:01:42",

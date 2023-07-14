@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: L'Impératrice
+> The best French indie tracks right now\. Cover: Alice et Moi
 
 373 songs - 20 hr 28 min
 

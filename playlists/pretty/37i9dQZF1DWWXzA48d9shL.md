@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,108 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,529 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 |
-| 2 | [$ix $ix](https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$ix $ix](https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG) | 1:52 |
-| 3 | [Bossier City Kidnap Victims](https://open.spotify.com/track/0prOblscRTUplNzf9DabhP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Winter Season \(1989\-1990\)](https://open.spotify.com/album/0mcxayFL3acXH5hbwe4VVK) | 2:43 |
+| 2 | [Bossier City Kidnap Victims](https://open.spotify.com/track/0prOblscRTUplNzf9DabhP) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Winter Season \(1989\-1990\)](https://open.spotify.com/album/0mcxayFL3acXH5hbwe4VVK) | 2:43 |
+| 3 | [$ix $ix](https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$ix $ix](https://open.spotify.com/album/6jKq9Avinx5yz7MzcPHPRG) | 1:52 |
 | 4 | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/2PPp5gJJHW3AfLxyjaBlG7) | 2:29 |
 | 5 | [TOOLIE BEAM](https://open.spotify.com/track/6wjR1iV0PmJRBJGsRyukSY) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [TOOLIE BEAM](https://open.spotify.com/album/0hnk0FclQcfKpAbKc9Qsxv) | 2:35 |
-| 6 | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop) | 2:37 |
-| 7 | [Soul Stealer](https://open.spotify.com/track/7cTsg8KzAYHPU5lRRvUlYG) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Soul Stealer](https://open.spotify.com/album/6mmUNiogdOoskBRvMRIzi8) | 2:40 |
+| 6 | [Soul Stealer](https://open.spotify.com/track/7cTsg8KzAYHPU5lRRvUlYG) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Soul Stealer](https://open.spotify.com/album/6mmUNiogdOoskBRvMRIzi8) | 2:40 |
+| 7 | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [ghost in the shell \(feat\. SXMPRA and KAMAARA\)](https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop) | 2:37 |
 | 8 | [Coopa](https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI) | 1:29 |
 | 9 | [RIOT \(feat\. chlothegod\)](https://open.spotify.com/track/6VusBTuNTqDabs4P60FHvO) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [RIOT \(feat\. chlothegod\)](https://open.spotify.com/album/6KlBRG3rt0hHxArsQJfH79) | 2:56 |
 | 10 | [Provolone & Heroin \(Feat\. Freddie Dredd\)](https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Demons Around](https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0) | [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [Demons Around](https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf) | 2:45 |
 | 100 | [MORPHINE](https://open.spotify.com/track/3i0nLqskbxPXYAxosdZLz2) | [TWENTYTHREE](https://open.spotify.com/artist/1J6ppTy8BI7nS6bPjuobHL), [outsiderX](https://open.spotify.com/artist/6aAXv7UhOHDhgDB7fnhhOQ) | [MORPHINE](https://open.spotify.com/album/2XBkfvgQ4ZkC1jalljGcY4) | 2:04 |
 
-Snapshot ID: `MCxiMjE5MWY3ZWViMDQ2M2ExNTU4OTc0Y2Y5NWM1M2ZjOWQzNjMzNmQ2`
+Snapshot ID: `MCw1MzI2NTQ0OWMwZjIzZjBiYmM1ZTNjMTUxZWM5MGY2YjUxZGNhNDdi`

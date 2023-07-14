@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "Todo lo que es cultura pop. 'eso no es my fault' vibes \ud83d\udd78\ufe0f \ud83c\uddf5\ud83c\uddf7",
+  "description": "Todo lo que es cultura pop. Tiraera Season \ud83d\udd25\ud83c\uddf5\ud83c\uddf7",
   "name": "cultura.now",
   "tracks": [
+    {
+      "album": {
+        "name": "#Ren\u00e9Renuncia",
+        "url": "https://open.spotify.com/album/2xWE2Nusu9UjAvrdfaPnWa"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353165,
+      "name": "#Ren\u00e9Renuncia",
+      "url": "https://open.spotify.com/track/2Eq9sOF4dfdaAlPNMdIRwZ"
+    },
     {
       "album": {
         "name": "...baby one more time",
@@ -60,6 +78,24 @@
       "duration_ms": 147480,
       "name": "Addicted to You",
       "url": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
+    },
+    {
+      "album": {
+        "name": "MultiViral",
+        "url": "https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292920,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/5NOtC9vnvCuEy6IaNflffX"
     },
     {
       "album": {
@@ -154,7 +190,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 174066,
       "name": "Ansiedades",
       "url": "https://open.spotify.com/track/4GhaiN8g3mwCcbfDLGoYqy"
@@ -208,7 +244,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197742,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/02y0eITyfoRiujebMLIz4M"
@@ -343,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Calle Sin Salida",
+        "url": "https://open.spotify.com/album/1iX4ln1wHIIfXRpNJRDEhl"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285113,
+      "name": "Calle Sin Salida",
+      "url": "https://open.spotify.com/track/6H34FssBH74lGIsv6NwfnH"
+    },
+    {
+      "album": {
         "name": "Shakira. (Expanded Edition)",
         "url": "https://open.spotify.com/album/4nXeW6UwZGBnv6zops27k4"
       },
@@ -455,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Categor\u00eda Cos",
+        "url": "https://open.spotify.com/album/0dV5rHOP8LnIbLRg4dYthZ"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436149,
+      "name": "Categor\u00eda Cos",
+      "url": "https://open.spotify.com/track/2DVxi0NBbMkMEo0RjyUVJs"
+    },
+    {
+      "album": {
         "name": "Ch y la Pizza",
         "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
       },
@@ -550,7 +622,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 121720,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/6o20NaKRuPqpluh8DPRur1"
@@ -579,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Cosquillita",
+        "url": "https://open.spotify.com/album/5F8Spo48yeB5aOFa8810Mk"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565714,
+      "name": "Cosquillita",
+      "url": "https://open.spotify.com/track/69giqVlqD7Oe6c8XYEHJsD"
+    },
+    {
+      "album": {
         "name": "dale Play",
         "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
@@ -594,7 +684,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 226946,
       "name": "dale Play",
       "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
@@ -718,7 +808,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 200125,
       "name": "Dios #1",
       "url": "https://open.spotify.com/track/5xP4rmVm5frtwOPwbmZNQw"
@@ -766,6 +856,24 @@
       "duration_ms": 187225,
       "name": "El Azul",
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
+    },
+    {
+      "album": {
+        "name": "El Bruto",
+        "url": "https://open.spotify.com/album/7s2oQSh4Lh4pw6u1M5TMU8"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426844,
+      "name": "El Bruto",
+      "url": "https://open.spotify.com/track/6nJCrnHkZ2DjB3Tl4uhVbv"
     },
     {
       "album": {
@@ -938,7 +1046,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 174893,
       "name": "Familia (with Anuel Aa, feat. Bantu) - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/4Uy3kNxW2kB8AEoXljEcth"
@@ -978,7 +1086,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
@@ -1000,6 +1108,78 @@
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad 2",
+        "url": "https://open.spotify.com/album/7MpOJAlYlRW50nuc3kD89O"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369294,
+      "name": "Feliz Navidad 2",
+      "url": "https://open.spotify.com/track/2ZPljwVlezU9sYTavw57HW"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad 3",
+        "url": "https://open.spotify.com/album/2ZvKx13TLsQTvqNluFsmR5"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307774,
+      "name": "Feliz Navidad 3",
+      "url": "https://open.spotify.com/track/5JeWCwjgPvs47kMXD7iKTH"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad 4",
+        "url": "https://open.spotify.com/album/5ZKhUxqlfURSbPneRKV6AV"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352752,
+      "name": "Feliz Navidad 4",
+      "url": "https://open.spotify.com/track/12Mv7msTPLQbDdkpJ68ifR"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad 5",
+        "url": "https://open.spotify.com/album/27f6pIvx2ToX9tLJ9nSwJg"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443768,
+      "name": "Feliz Navidad 5",
+      "url": "https://open.spotify.com/track/0fAS39HM9P65ZQKbT9sOwB"
     },
     {
       "album": {
@@ -1146,7 +1326,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197374,
       "name": "Gladiador - Remix",
       "url": "https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO"
@@ -1168,7 +1348,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
@@ -1204,10 +1384,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 153258,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/5Q4SaYmdH63hto9fxkd300"
+    },
+    {
+      "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/5oRHH3Y0FTHMpkoQbUIa72"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/2CBUVYOUUvBLOQDz9ML8SB"
     },
     {
       "album": {
@@ -1226,7 +1424,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 133200,
       "name": "I Can't Stop (Big Boss Vette & Omah Lay)",
       "url": "https://open.spotify.com/track/4mkYFPebTKMAtcXdKQwcj6"
@@ -1248,7 +1446,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 133640,
       "name": "Infamous (Shenseea & Myke Towers) - Spider-Verse Remix",
       "url": "https://open.spotify.com/track/6JIIAbw9L5kmsGqimr9vUj"
@@ -1318,6 +1516,24 @@
       "duration_ms": 216000,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
+    },
+    {
+      "album": {
+        "name": "La C\u00e1tedra",
+        "url": "https://open.spotify.com/album/3MKb4ekNen2vqB3AimRKeZ"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 720000,
+      "name": "La C\u00e1tedra",
+      "url": "https://open.spotify.com/track/5iZxLtBUcoQPXSO2iDERp1"
     },
     {
       "album": {
@@ -1394,7 +1610,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 167442,
       "name": "LO TENGO",
       "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
@@ -1434,6 +1650,24 @@
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "album": {
+        "name": "La Maravilla",
+        "url": "https://open.spotify.com/album/6pUSFwkVAxwCgoRzLlqRbQ"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221048,
+      "name": "Masacre A Polaco (Tiraera)",
+      "url": "https://open.spotify.com/track/6TrOq19iEDsg4w0pCxZJGQ"
     },
     {
       "album": {
@@ -1492,7 +1726,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 220342,
       "name": "Mil Febreros",
       "url": "https://open.spotify.com/track/1QA87XZBkITHsUlH63p95S"
@@ -1510,10 +1744,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+    },
+    {
+      "album": {
+        "name": "Mis Disculpas",
+        "url": "https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488470,
+      "name": "Mis Disculpas",
+      "url": "https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6"
     },
     {
       "album": {
@@ -1528,7 +1780,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
@@ -1546,7 +1798,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
@@ -1604,6 +1856,24 @@
       "duration_ms": 124826,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67"
+    },
+    {
+      "album": {
+        "name": "No Hay Navidad Pa Nadie",
+        "url": "https://open.spotify.com/album/43Pn3713vRJwxwt1H1I4Dz"
+      },
+      "artists": [
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573794,
+      "name": "No Hay Navidad Pa Nadie",
+      "url": "https://open.spotify.com/track/0UMAIOqDQrXCVlAIQDB4Cc"
     },
     {
       "album": {
@@ -1901,6 +2171,28 @@
     },
     {
       "album": {
+        "name": "Querido Louis (feat. Trooko)",
+        "url": "https://open.spotify.com/album/6XUzl39e0Bf1egWZv7OQ6J"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Trooko",
+          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508235,
+      "name": "Querido Louis (feat. Trooko)",
+      "url": "https://open.spotify.com/track/5pVXylnrtf2kU8j23zua7j"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15"
       },
@@ -1934,7 +2226,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
@@ -1956,7 +2248,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"
@@ -2003,6 +2295,46 @@
     },
     {
       "album": {
+        "name": "Residente: Bzrp Music Sessions, Vol. 49",
+        "url": "https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519289,
+      "name": "Residente: Bzrp Music Sessions, Vol. 49",
+      "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
+    },
+    {
+      "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/7zyRPrpsYMYJjvCm3LA8Ex"
+      },
+      "artists": [
+        {
+          "name": "Polakan",
+          "url": "https://open.spotify.com/artist/66Q0sKoITOwDGz49FOVlBa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436883,
+      "name": "Rip Arcangel",
+      "url": "https://open.spotify.com/track/2GvkS0wK0IWsFWff1shdoM"
+    },
+    {
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -2022,6 +2354,24 @@
       "duration_ms": 186722,
       "name": "RON COLA",
       "url": "https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI"
+    },
+    {
+      "album": {
+        "name": "Santa Cos",
+        "url": "https://open.spotify.com/album/3H1TckMkRe18zNMPvY9laP"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386560,
+      "name": "Santa Cos",
+      "url": "https://open.spotify.com/track/0CJXFitqCbyYF8IHgoJRS3"
     },
     {
       "album": {
@@ -2058,7 +2408,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 198540,
       "name": "Sci-Fi",
       "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
@@ -2116,7 +2466,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 162280,
       "name": "Silk & Cologne (EI8HT & Offset) - Spider-Verse Remix",
       "url": "https://open.spotify.com/track/4v1NdP9omUeesYvYrVAv2I"
@@ -2141,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Sr. Residente",
+        "url": "https://open.spotify.com/album/1fKqEvFNwpFlg59yOERvkD"
+      },
+      "artists": [
+        {
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587052,
+      "name": "Sr. Residente",
+      "url": "https://open.spotify.com/track/1kDEpJi4G3pkrcl7NjUppd"
+    },
+    {
+      "album": {
         "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
         "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
       },
@@ -2152,7 +2520,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 161130,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
@@ -2174,7 +2542,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 125026,
       "name": "Take It To The Top (Becky G & Ayra Starr)",
       "url": "https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ"
@@ -2254,7 +2622,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
@@ -2418,7 +2786,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 194772,
       "name": "yo pr1mero",
       "url": "https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy"

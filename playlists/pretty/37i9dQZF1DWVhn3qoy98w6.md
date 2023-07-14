@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: BAJOCERO X.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,068 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,078 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Lo Que Sea Menos a Casa](https://open.spotify.com/track/4tS9GSHnxtGwMIYE282N8P) | [Mute](https://open.spotify.com/artist/74pPZbzQHcOt9PuvlFQeCJ) | [Lo Que Sea Menos a Casa](https://open.spotify.com/album/0OoDjTArEsezQIwuzoBSXK) | 4:02 |
 | 50 | [Gurugú](https://open.spotify.com/track/3FYP8inkdOFzBAX2IiLveM) | [Yeli Yeli](https://open.spotify.com/artist/0O1EvfNqika1WaElc26qlE) | [Gurugú](https://open.spotify.com/album/2cMFnwSk60Z7Bsy21QQzhD) | 3:25 |
 
-Snapshot ID: `MCwyOWY3ZmMwYTM5YzhkYTc1NzhkNjViMTg2YmI4ZDJlMDhiYzk1Yzg2`
+Snapshot ID: `MCw3YmUyMDM1ODQ3ODRiZTA4NjU1MzM2NmFmZGViYzRjZTE0ZDhkZTg4`

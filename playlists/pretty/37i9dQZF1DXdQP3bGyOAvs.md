@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,325 likes - 220 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,379 likes - 220 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 9 | [Blurry Sequence](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Blurry Sequence](https://open.spotify.com/album/373f1VkuNBKtI1rtXZBKDv) | 2:15 |
 | 10 | [Waipio](https://open.spotify.com/track/2cIwV2VqHn925sWcJ7Fmma) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Waipio](https://open.spotify.com/album/6JNHYe93hZDKHroRSX6jiB) | 2:15 |
 | 11 | [Express](https://open.spotify.com/track/6NPvYtR9Zi1uIZqTj9CU53) | [Zazzo](https://open.spotify.com/artist/0IqdMYI4CDJgVZiioR7t3k) | [Express](https://open.spotify.com/album/17U4iL5TD60vVhBE4EtD5V) | 2:20 |
-| 12 | [Beau](https://open.spotify.com/track/56xQeo2Z64CwjDGLi4OGni) | [Cámille](https://open.spotify.com/artist/2OXKCjjoMcM8FwpuaWKoRW) | [Beau](https://open.spotify.com/album/5BiZr5UfayYF60iP9624TT) | 2:32 |
+| 12 | [Infinity Pool](https://open.spotify.com/track/2H75Zqdlb6xdaUeP3RIPJA) | [Mandarin Low](https://open.spotify.com/artist/4oMzoetQDxMqMdmTSFFi3l) | [Infinity Pool](https://open.spotify.com/album/3NDIWo88vgH4nQUABf3GVx) | 2:20 |
 | 13 | [Salty](https://open.spotify.com/track/7MuWJI0X0XZAirfPZtRaSY) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Salty](https://open.spotify.com/album/3BsEoqw6j1PZzMfwNRQVXk) | 2:30 |
 | 14 | [Nichibotsu](https://open.spotify.com/track/2ut3yv3w4KneKNGw4rOp8G) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Nichibotsu](https://open.spotify.com/album/2ApQZi64DB2KLR4Oogv9x3) | 3:13 |
 | 15 | [Pillow](https://open.spotify.com/track/3k4M7XMIBhb1xfQn6XZwbd) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Pillow](https://open.spotify.com/album/4VJM2Dx7torhHoeZjEnZQB) | 2:19 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 219 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 |
 | 220 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 |
 
-Snapshot ID: `MCxhYTM4ZmIwOTI2YTg4ZWQ1OThjODBlMGYyZDQxZjkyNTI0MGQ4MGFi`
+Snapshot ID: `MCw1ODhiNDZiNWZiMDI2NTc2ZjAxNTM1ZWU3ODU4MGU2MzE5MTQ5Njgy`

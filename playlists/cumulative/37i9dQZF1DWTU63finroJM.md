@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,055 songs - 2 day 10 hr 56 min
+1,059 songs - 2 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Interesado](https://open.spotify.com/track/4PuQPOLtDH7ANkAGNaSbuK) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Interesado](https://open.spotify.com/album/4w7qp1VQ4O1yUKwvvUlLXK) | 3:51 | 2022-02-03 | 2022-08-02 |
 | [Internet Love](https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq) | [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59) | [Internet Love](https://open.spotify.com/album/12QGzRlojlxCuKAAjOPKAB) | 3:39 | 2022-03-21 | 2023-04-18 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-05-22 |  |
+| [Ironicamente](https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [No Cutty](https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ) | [Ironicamente](https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I) | 2:44 | 2023-07-13 |  |
 | [it takes two](https://open.spotify.com/track/0c8PbjfgiHKk1V0e8lgjvP) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 2:54 | 2022-06-07 | 2022-08-02 |
 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 | 2022-03-24 | 2023-04-18 |
 | [I’m okay, i’m just a little depressed](https://open.spotify.com/track/1O8LgRxgkJ8LUXyYohTcyZ) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SUPERBLOOM](https://open.spotify.com/album/3w8Ki3we6v5ClhTZwvXcqD) | 3:38 | 2022-02-03 | 2022-03-15 |
@@ -511,6 +512,7 @@
 | [make it okay \(change is terrifying\)](https://open.spotify.com/track/0T1SgBVcEkmqYRxyr1s9vo) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [make it okay \(change is terrifying\)](https://open.spotify.com/album/08s5jfhQc3usYnlOXhnvCD) | 4:34 | 2023-05-30 |  |
 | [MAKE MORE NOISE OF YOU](https://open.spotify.com/track/2luJ055CDIvQToqSJNSukm) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [harutosyura](https://open.spotify.com/album/6or18qH3INbHS0kyALV2HL) | 1:44 | 2023-01-20 | 2023-02-18 |
 | [MALA](https://open.spotify.com/track/7iVvmOpIfC7axJSK2oZNIJ) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [MALA](https://open.spotify.com/album/6RoObhqOeyhrhsMgG81MNZ) | 2:58 | 2022-03-24 | 2022-12-15 |
+| [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-07-13 |  |
 | [Malayo](https://open.spotify.com/track/55XlSI5d8hMVoNjVkpQpT7) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Malayo](https://open.spotify.com/album/5eeDd6LGXrzELl6YR6UvYb) | 4:36 | 2022-02-03 | 2022-03-17 |
 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 | 2022-03-31 | 2023-04-18 |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2022-02-03 | 2022-03-18 |
@@ -534,6 +536,7 @@
 | [Mi Bom Bom](https://open.spotify.com/track/1iUfBsWrQejyW8cgS2zUDb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Mi Bom Bom](https://open.spotify.com/album/3YiZkLFhpyZRQNju4VjNyW) | 2:55 | 2022-03-24 | 2022-04-19 |
 | [Mi Coche](https://open.spotify.com/track/3qwHCA1onB4XEJlIyhlD8q) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Mi Coche](https://open.spotify.com/album/0eRdsQJwCYZi9D7SlYYygD) | 2:00 | 2022-03-24 | 2022-04-13 |
 | [Mia Mia](https://open.spotify.com/track/3ayLYD0w5LXcNXnV0S0Cek) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Mia Mia](https://open.spotify.com/album/5r12pt8Lw8cf65c3aYOOT7) | 2:17 | 2022-03-24 | 2022-04-21 |
+| [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 | 2023-07-13 |  |
 | [Miniatur](https://open.spotify.com/track/4cEN5sk0J4YJfBpDkElP3S) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Suara Kita, Cerita Kamu](https://open.spotify.com/album/5XWEnuQVVXCf2EmxuYSRH0) | 3:15 | 2022-02-03 | 2022-03-01 |
 | [Mirror](https://open.spotify.com/track/1LOy12DFUui6vGKrwAsOrT) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Mirror](https://open.spotify.com/album/2DMTqije41arCKa5uH8i43) | 3:26 | 2022-02-03 | 2022-07-29 |
 | [Mirror](https://open.spotify.com/track/7b2StMEDfqTz6jqAq4AFKd) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Mirror](https://open.spotify.com/album/646PgovYenjULJ9zwOy9SC) | 3:26 | 2022-06-29 | 2022-08-02 |
@@ -828,6 +831,7 @@
 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 | 2022-11-15 | 2023-05-31 |
 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 | 2022-02-03 | 2022-03-18 |
 | [TIME](https://open.spotify.com/track/2z0bFKSQugLCVlgyTGFi2k) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [Astronormous](https://open.spotify.com/artist/10DVqLQppj5k4viGgo33Gj) | [TIME](https://open.spotify.com/album/6Q0NjakOu4W2uEyqgL2GC6) | 2:48 | 2022-03-24 | 2023-04-18 |
+| [Time Is Running](https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Time Is Running](https://open.spotify.com/album/3Tk9l82FUZyP6W6du57tXD) | 2:19 | 2023-07-13 |  |
 | [Timeframe](https://open.spotify.com/track/5MdWlO7u3WlAjLZzNKa2Ra) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Timeframe](https://open.spotify.com/album/4ljSTSK6n9BytmUMakhYlE) | 3:07 | 2022-02-03 | 2022-12-15 |
 | [Timeless](https://open.spotify.com/track/01DZmwlwEM41LThtOOapZM) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [The More](https://open.spotify.com/album/2LjnDM6eo9JKIJ7E9rn6Np) | 3:50 | 2022-03-21 | 2022-08-02 |
 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 | 2022-02-03 | 2022-03-09 |

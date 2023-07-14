@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
+  "description": "African dance party music from Paris to Abidjan. Photo : Roseline Layo",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 172650,
       "name": "En fantoya",
       "url": "https://open.spotify.com/track/19ZRXd0zqVCfXi92FeTcsL"
@@ -1976,6 +1976,24 @@
       "duration_ms": 220000,
       "name": "Mozo Dance",
       "url": "https://open.spotify.com/track/0dwgVvBmuaoiJJUOkNS8VX"
+    },
+    {
+      "album": {
+        "name": "M\u00f4g\u00f4 Fariman",
+        "url": "https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl"
+      },
+      "artists": [
+        {
+          "name": "Roseline Layo",
+          "url": "https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "M\u00f4g\u00f4 Fariman",
+      "url": "https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Pablito Calavera y Cartel de Santa en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,416 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,643 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pablito y el Pelon](https://open.spotify.com/track/2GFmz2XgfZcU0tUN4aMxRJ) | [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pablito y el Pelon \(Triple 7 \- Lado B\)](https://open.spotify.com/album/6qh2XoiQJTS2MlD70WxR90) | 3:09 |
+| 1 | [Pablito y el Pelon](https://open.spotify.com/track/2GFmz2XgfZcU0tUN4aMxRJ) | [Pablito Calavera](https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pablito y el Pelon](https://open.spotify.com/album/6qh2XoiQJTS2MlD70WxR90) | 3:09 |
 | 2 | [Mustang 65'](https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:10 |
 | 3 | [Bendito](https://open.spotify.com/track/452jgIQvMmcaVj2EZjeZRu) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Bajo Mundo](https://open.spotify.com/album/03trWbp7cIj02CukpUXNZo) | 3:36 |
 | 4 | [Alzypher Vol\. 13](https://open.spotify.com/track/6hF5GHmra3eBun6EwbCVFM) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Alzypher Vol\. 13](https://open.spotify.com/album/3ECiGqnRoKcmatFalPTO82) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 99 | [Fumo](https://open.spotify.com/track/24C2MOLBkeRL8Ew6EEgLXi) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Fumo](https://open.spotify.com/album/5uJ4IJlz3DLfXmnuFEaYcH) | 2:51 |
 | 100 | [Pyrena](https://open.spotify.com/track/7MKnsR724cqW116c2Dcmp2) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Pyrena](https://open.spotify.com/album/5IsEaU2WTXyGBT9OwiTx2B) | 3:46 |
 
-Snapshot ID: `MCw5MTFkZWJiMzY2Y2ZlYTdlMzM2MThlOTc3OTc1Njk2YzMzMjgyYmU1`
+Snapshot ID: `MCxkMmY4YmM0NTg0ODg1NWZjNzgzMTI2MDlhNDA3NDhiMzU4OTFhYTcz`

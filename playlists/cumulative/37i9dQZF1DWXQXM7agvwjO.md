@@ -2,9 +2,9 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds & the best new tracks from Asia\. Cover: Gordon Flanders, 鶴 The Crane
+> Hottest indie sounds & the best new tracks from Asia\. Cover: a kid named rufus
 
-857 songs - 2 day 3 hr 27 min
+858 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 | 2022-03-24 |  |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2022-11-24 | 2023-01-20 |
 | [Alright](https://open.spotify.com/track/1O6fh32Fqnk2otTyFDqn1b) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2) | [Alright](https://open.spotify.com/album/557PW1UPXfEczIHbBLJSPq) | 3:22 | 2022-03-24 | 2022-04-15 |
-| [Always](https://open.spotify.com/track/6T6nYHiFkFcy7XR6FD6B3K) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du) | [Sooner or Later](https://open.spotify.com/album/3KoCj5WIT671pWd0iZicua) | 3:29 | 2023-05-18 |  |
+| [Always](https://open.spotify.com/track/6T6nYHiFkFcy7XR6FD6B3K) | [TANJUNG](https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du) | [Sooner or Later](https://open.spotify.com/album/3KoCj5WIT671pWd0iZicua) | 3:29 | 2023-05-18 | 2023-07-14 |
 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 | 2022-04-07 | 2022-05-20 |
 | [ANDA KATAKAN](https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv) | 2:59 | 2023-04-27 | 2023-04-30 |
 | [ANDA KATAKAN](https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/5PWCeX696MJg6QerDf3UMw) | 2:59 | 2023-04-27 | 2023-05-05 |
@@ -573,6 +573,7 @@
 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 | 2023-06-29 |  |
 | [Rule The World](https://open.spotify.com/track/3GElb4cD3GkscbanLhYlQQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Rule The World](https://open.spotify.com/album/4D2GvlKXrCTl0WEDgzgjxe) | 2:27 | 2023-03-09 | 2023-04-21 |
 | [Run](https://open.spotify.com/track/6Lnb8cCLqHwpofO3o3pgzI) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 3:43 | 2023-03-23 | 2023-04-21 |
+| [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-13 |  |
 | [Rush](https://open.spotify.com/track/0zUw0nXudjwn9V9MoS6h4U) | [Echo Resort](https://open.spotify.com/artist/5DDzVl7PztpChpK9ZxTXZe) | [Rush](https://open.spotify.com/album/4Dv57kw9Y2U6MMJFcNiesU) | 5:15 | 2022-11-24 | 2023-02-17 |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-04-20 |  |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-26 | 2022-07-08 |

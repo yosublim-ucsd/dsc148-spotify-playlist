@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Kuban",
+  "description": "Il meglio dell'R&B italiano. Cover: MANDORLA",
   "name": "anima R&B",
   "tracks": [
     {
@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "CORALLO",
+        "url": "https://open.spotify.com/album/7BDC5UtwKfcuJFclLWDHMd"
+      },
+      "artists": [
+        {
+          "name": "Yosef",
+          "url": "https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "CORALLO",
+      "url": "https://open.spotify.com/track/7lcOsb2oHn2MIPGS3Kj1r2"
+    },
+    {
+      "album": {
         "name": "Corpi astrali",
         "url": "https://open.spotify.com/album/27V0XvfNzIv9eOF4IYT4sp"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 227558,
       "name": "FRAGILE (Affirmation) [feat. EIBI] - Radio Edit",
       "url": "https://open.spotify.com/track/6sNsIAYwgwDSqs60MxK0gL"
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 179779,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/7HIXGgggoGN2iBes7Ls4CY"
@@ -3740,7 +3758,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 158500,
       "name": "MaiMai",
       "url": "https://open.spotify.com/track/7wQw4FZ9Gx9Jsmsr9kuk18"
@@ -4274,6 +4292,28 @@
       "duration_ms": 207600,
       "name": "Non mi vuoi pi\u00f9 bene",
       "url": "https://open.spotify.com/track/1JDLPzD8ZfFR1sQN6enws4"
+    },
+    {
+      "album": {
+        "name": "non siamo crazy in love",
+        "url": "https://open.spotify.com/album/4w9xShJXyN7CWh1ShpkUFN"
+      },
+      "artists": [
+        {
+          "name": "Francesco Kairos",
+          "url": "https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M"
+        },
+        {
+          "name": "Kuban",
+          "url": "https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "non siamo crazy in love",
+      "url": "https://open.spotify.com/track/6Xv6BTZfLTsOQgkPIIg1Nd"
     },
     {
       "album": {
@@ -5586,6 +5626,24 @@
       "duration_ms": 154169,
       "name": "Semafori arancioni",
       "url": "https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB"
+    },
+    {
+      "album": {
+        "name": "SEMIMENTI",
+        "url": "https://open.spotify.com/album/0qLLBJDZK03y0W4RvlAuix"
+      },
+      "artists": [
+        {
+          "name": "Francesco Savini",
+          "url": "https://open.spotify.com/artist/1CmozCJgxvZvwClNMx48cc"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "SEMIMENTI",
+      "url": "https://open.spotify.com/track/4K6aRIb9AnPWGyvZeGAY1E"
     },
     {
       "album": {

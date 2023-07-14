@@ -1730,6 +1730,24 @@
     {
       "album": {
         "name": "The Complete Decca Singles Vol. 4: 1950-1955",
+        "url": "https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189497,
+      "name": "Santa Claus Got Stuck (In My Chimney)",
+      "url": "https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq"
+    },
+    {
+      "album": {
+        "name": "The Complete Decca Singles Vol. 4: 1950-1955",
         "url": "https://open.spotify.com/album/4FkA8KBzq4EfkdxM0x00bV"
       },
       "artists": [
@@ -1748,28 +1766,6 @@
       "duration_ms": 189497,
       "name": "Santa Claus Got Stuck (In My Chimney)",
       "url": "https://open.spotify.com/track/0ZgXBiDC9TW81HGVA0m7qz"
-    },
-    {
-      "album": {
-        "name": "The Complete Decca Singles Vol. 4: 1950-1955",
-        "url": "https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "The Ink Spots",
-          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
-        }
-      ],
-      "date_added": "2022-01-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 189497,
-      "name": "Santa Claus Got Stuck (In My Chimney)",
-      "url": "https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq"
     },
     {
       "album": {

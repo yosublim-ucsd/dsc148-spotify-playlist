@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 7 hr 20 min
+78 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Toxic Romance](https://open.spotify.com/track/6ek1tFLTZvWd2AC1EJjqVY) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Toxic Romance](https://open.spotify.com/album/2pRIzHq6pqMtaIQ5HVLmB6) | 6:55 | 2022-10-14 |  |
 | [VIP](https://open.spotify.com/track/1ZrCQtuN4BQBkCXxOzlIWz) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [It's You](https://open.spotify.com/album/5O7SS1r3GTrLWiPYVYLMQ7) | 4:41 | 2022-10-14 |  |
 | [West Avenue](https://open.spotify.com/track/5Yv8a3bhttCrxOtwgyfLep) | [Pirupa](https://open.spotify.com/artist/4UReeTRXK8iKWTmTWMRU60) | [West Avenue](https://open.spotify.com/album/3x1eX6GNGxw2FE3yep22t2) | 7:52 | 2022-10-14 |  |
-| [Yalla](https://open.spotify.com/track/1CkOrhvpzg86QIYD0ArBht) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [GHADA](https://open.spotify.com/artist/6wZOKFHZq2F5TbL5L8KI5O) | [Yalla](https://open.spotify.com/album/7aDGYTUYhb57ivzf6LMncN) | 3:02 | 2022-10-14 |  |
+| [Work It \- Edit](https://open.spotify.com/track/5EPN11F2wIv3TGfxg7PLj8) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Work It](https://open.spotify.com/album/1dAcZ9GeTOn5iJUg3rlDkZ) | 3:27 | 2023-07-13 |  |
+| [Yalla](https://open.spotify.com/track/1CkOrhvpzg86QIYD0ArBht) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU), [GHADA](https://open.spotify.com/artist/6wZOKFHZq2F5TbL5L8KI5O) | [Yalla](https://open.spotify.com/album/7aDGYTUYhb57ivzf6LMncN) | 3:02 | 2022-10-14 | 2023-07-14 |
 
 \*This playlist was first scraped on 2022-10-25. Prior content cannot be recovered.

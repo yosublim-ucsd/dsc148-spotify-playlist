@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4DRDPP7EENzMno9RQFVUJT"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135288,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/1RuFCAISlV8efK1q72xGe1"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/0uK4M0UW7k1CgDDJw9SDW4"
       },
@@ -1897,6 +1915,28 @@
     },
     {
       "album": {
+        "name": "Elven Dreams",
+        "url": "https://open.spotify.com/album/1hidOQ2duKze98WaERe7sE"
+      },
+      "artists": [
+        {
+          "name": "idylla",
+          "url": "https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL"
+        },
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Elven Dreams",
+      "url": "https://open.spotify.com/track/3wfro86nvNDJ4RrBonhvt2"
+    },
+    {
+      "album": {
         "name": "emergence",
         "url": "https://open.spotify.com/album/45F1JoyjqJ6EnMJPIRkq7t"
       },
@@ -2010,6 +2050,28 @@
       "duration_ms": 76850,
       "name": "equator",
       "url": "https://open.spotify.com/track/4132t2oYuNlgzSmsp1E9Tm"
+    },
+    {
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/7yM4TfZftPssf7rLdk0UF7"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Koala",
+          "url": "https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu"
+        },
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139243,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0ifMpOXlntHTc8GwMz5F7N"
     },
     {
       "album": {
@@ -3120,6 +3182,24 @@
       "duration_ms": 154093,
       "name": "Hermit's Dream",
       "url": "https://open.spotify.com/track/778xUSjqZsOEcgawnpbo79"
+    },
+    {
+      "album": {
+        "name": "hey there",
+        "url": "https://open.spotify.com/album/3KIlwKpgo3op5kfqQXuvXy"
+      },
+      "artists": [
+        {
+          "name": "Soulflu",
+          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "hey there",
+      "url": "https://open.spotify.com/track/68Zo3BRsxsowxAxwT1RC9I"
     },
     {
       "album": {
@@ -4400,6 +4480,24 @@
       "duration_ms": 116254,
       "name": "Magical Flowers",
       "url": "https://open.spotify.com/track/0HWebiXAg2lknOcP1wyUsx"
+    },
+    {
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/1iWCN1NjZYW4u7UUKoLH8Q"
+      },
+      "artists": [
+        {
+          "name": "James Jock Greinder",
+          "url": "https://open.spotify.com/artist/2pTJOkH2SbQ4YbneLCWV3O"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142173,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/1REvkbzHPHegDszWepx7Nl"
     },
     {
       "album": {
@@ -6729,6 +6827,24 @@
     },
     {
       "album": {
+        "name": "Snowfall",
+        "url": "https://open.spotify.com/album/27OzZLDN8GF6MbABKSLuzK"
+      },
+      "artists": [
+        {
+          "name": "Umha",
+          "url": "https://open.spotify.com/artist/4nCoGJfSn0GQZJ1GKawE14"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Snowfall",
+      "url": "https://open.spotify.com/track/6LMte3OwjV6DFhNkE68LWn"
+    },
+    {
+      "album": {
         "name": "Snowtime",
         "url": "https://open.spotify.com/album/3KqT93aR4uhuwboEzMMbg0"
       },
@@ -6744,6 +6860,24 @@
       "duration_ms": 123529,
       "name": "Snowtime",
       "url": "https://open.spotify.com/track/43cniiXl1ChIj4QFTS5fIV"
+    },
+    {
+      "album": {
+        "name": "So be it",
+        "url": "https://open.spotify.com/album/5Dj5k28Bnb3Wc2u6TEiWyD"
+      },
+      "artists": [
+        {
+          "name": "RainDear",
+          "url": "https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146330,
+      "name": "So be it",
+      "url": "https://open.spotify.com/track/6CY4goxKdCDKB8ZKB9EDIz"
     },
     {
       "album": {
@@ -7679,6 +7813,28 @@
     },
     {
       "album": {
+        "name": "Tuc\u00e1n",
+        "url": "https://open.spotify.com/album/4UbkMblaB4vzf8qf6iLJKs"
+      },
+      "artists": [
+        {
+          "name": "Wezt MAAD",
+          "url": "https://open.spotify.com/artist/1hwXiwb02GgcXPuAewKCmF"
+        },
+        {
+          "name": "Nikkito",
+          "url": "https://open.spotify.com/artist/6YvkUS9lekLZSFexDUrOfx"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Tuc\u00e1n",
+      "url": "https://open.spotify.com/track/5bkxwX9Z4ir10NF6NesxI9"
+    },
+    {
+      "album": {
         "name": "Tulip",
         "url": "https://open.spotify.com/album/4xCxi2nGsdrPmh7slDj1ow"
       },
@@ -8124,6 +8280,32 @@
       "duration_ms": 146930,
       "name": "wasabi flow",
       "url": "https://open.spotify.com/track/5dScI6hiDI0kYvVVzlr34Q"
+    },
+    {
+      "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/6zktaEDesPaLKmVpLNzWC1"
+      },
+      "artists": [
+        {
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+        },
+        {
+          "name": "OG Nuage",
+          "url": "https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd"
+        },
+        {
+          "name": "Future of Lofi",
+          "url": "https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198007,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/0DTdxoRtvMq4Xejvdds1sa"
     },
     {
       "album": {

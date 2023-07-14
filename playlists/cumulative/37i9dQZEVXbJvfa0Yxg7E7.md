@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,184 songs - 2 day 13 hr 15 min
+1,185 songs - 2 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -846,6 +846,7 @@
 | [Papi’s Home](https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:58 | 2021-09-05 | 2021-09-10 |
 | [Paradise](https://open.spotify.com/track/0QrLeOy3DCNBNQoEwZB1T3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Paradise](https://open.spotify.com/album/1Q87e3clmqscTVS9l5648V) | 3:04 | 2021-10-09 | 2021-10-10 |
 | [Paradise](https://open.spotify.com/track/60STJ5y9RdFsbFBVwsLpEP) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Paradise](https://open.spotify.com/album/6R6Q9qbwHVHTtS7J3jQSa6) | 3:04 | 2021-09-26 | 2021-10-09 |
+| [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2023-07-13 |  |
 | [Parents](https://open.spotify.com/track/7y3ezRhAx4dtgmNpEGeMDA) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Parents](https://open.spotify.com/album/7Ha2c9coxhtmmcZCdOX6b8) | 2:44 | 2023-03-04 | 2023-04-09 |
 | [Pause fra mæ sjøl](https://open.spotify.com/track/480JvLYE83nvigCc8TM8eS) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67) | [Pause fra mæ sjøl](https://open.spotify.com/album/2TUxdFPE1LNuTRvGXcn3He) | 3:35 | 2021-11-14 | 2021-11-21 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-28 |
@@ -966,7 +967,7 @@
 | [Side Effects](https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Side Effects](https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg) | 2:17 | 2023-02-18 | 2023-02-24 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-16 |
 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 | 2023-04-15 | 2023-05-14 |
-| [Sjanse](https://open.spotify.com/track/3BlC5oQOpIB9F6tsgjAT78) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sjanse](https://open.spotify.com/album/7DC2fbntLBHzWTjbkDoLxI) | 3:00 | 2023-07-01 |  |
+| [Sjanse](https://open.spotify.com/track/3BlC5oQOpIB9F6tsgjAT78) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sjanse](https://open.spotify.com/album/7DC2fbntLBHzWTjbkDoLxI) | 3:00 | 2023-07-01 | 2023-07-14 |
 | [Sju Fjell](https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sju Fjell](https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ) | 2:58 | 2021-03-27\* | 2021-10-12 |
 | [Skal ikke gråte](https://open.spotify.com/track/5cUqVMM5kxpkud2kKK7LCi) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Skal ikke gråte](https://open.spotify.com/album/6C9NqMXDFXBFbq8fI3tpFY) | 3:24 | 2023-01-23 | 2023-03-05 |
 | [Skyene](https://open.spotify.com/track/58M1sRcgw5Q1dp8t1qGjuQ) | [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Skyene](https://open.spotify.com/album/4T7NxnBRcIGVJWCSXbgoZt) | 2:26 | 2021-09-19 | 2021-09-20 |

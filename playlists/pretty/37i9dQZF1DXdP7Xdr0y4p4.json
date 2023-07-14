@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 8811,
+  "num_followers": 8830,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm",
+  "snapshot_id": "MCwyNjEzYjQyMzMwMTMzYzIzYjhlY2ZlODI5NjE3YWExYjkzYjAyNTJm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Overcome (Radio Edit)",
-        "url": "https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM"
+        "name": "You Are More",
+        "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
       },
       "artists": [
         {
-          "name": "Ernie Haase & Signature Sound",
-          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+          "name": "Tiffany Coburn",
+          "url": "https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt"
+        },
+        {
+          "name": "Point Of Grace",
+          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
         }
       ],
-      "duration_ms": 247254,
-      "name": "Overcome - Radio Edit",
-      "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
+      "duration_ms": 208893,
+      "name": "Matchless (feat. Point Of Grace)",
+      "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "You Are More",
-        "url": "https://open.spotify.com/album/0HpHgwxC0aBokDhE018SUO"
+        "name": "Overcome (Radio Edit)",
+        "url": "https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM"
       },
       "artists": [
         {
-          "name": "Tiffany Coburn",
-          "url": "https://open.spotify.com/artist/7G6drNZysjZcTxmpTo2vGt"
-        },
-        {
-          "name": "Point Of Grace",
-          "url": "https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6"
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
         }
       ],
-      "duration_ms": 208893,
-      "name": "Matchless (feat. Point Of Grace)",
-      "url": "https://open.spotify.com/track/1iiheCt1EQk8br6NV3f7Y1"
+      "duration_ms": 247254,
+      "name": "Overcome - Radio Edit",
+      "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Plenty Good Room",
-        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
-      },
-      "artists": [
-        {
-          "name": "Lynda Randle",
-          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Plenty Good Room",
-      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "A New Chapter",
         "url": "https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 198493,
       "name": "Steppin' out in Faith",
       "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Plenty Good Room",
+        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
+      },
+      "artists": [
+        {
+          "name": "Lynda Randle",
+          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Plenty Good Room",
+      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "I Have God to Thank for Everything",
+        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
+      },
+      "artists": [
+        {
+          "name": "The Inspirations",
+          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
+        }
+      ],
+      "duration_ms": 168058,
+      "name": "I Have God to Thank for Everything",
+      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Power In The Blood (We Give Thanks For The Blood)",
         "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Have God to Thank for Everything",
-        "url": "https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ"
-      },
-      "artists": [
-        {
-          "name": "The Inspirations",
-          "url": "https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3"
-        }
-      ],
-      "duration_ms": 168058,
-      "name": "I Have God to Thank for Everything",
-      "url": "https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Come and Dine",
         "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
       },
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
+        "name": "The Stories We Tell",
+        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
       },
       "artists": [
         {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
         }
       ],
-      "duration_ms": 241109,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
+      "duration_ms": 181000,
+      "name": "Good in the Good Times",
+      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Stories We Tell",
-        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl"
       },
       "artists": [
         {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Good in the Good Times",
-      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+      "duration_ms": 241109,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
       },
       "artists": [
         {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
         }
       ],
-      "duration_ms": 198099,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 198099,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Good The Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "How Good The Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "McKamey Legacy",
         "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 157000,
       "name": "God is Still Good",
       "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "How Good The Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "How Good The Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Music To Your Ears",
-        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
+        "name": "My Name Is Victory",
+        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+          "name": "The Wilbanks",
+          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
         }
       ],
-      "duration_ms": 247500,
-      "name": "Let the Rain Wash Your Troubles Away",
-      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
+      "duration_ms": 202710,
+      "name": "The Spirit and the Bride",
+      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "My Name Is Victory",
-        "url": "https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl"
-      },
-      "artists": [
-        {
-          "name": "The Wilbanks",
-          "url": "https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r"
-        }
-      ],
-      "duration_ms": 202710,
-      "name": "The Spirit and the Bride",
-      "url": "https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "I Am Not Alone",
         "url": "https://open.spotify.com/album/79NRt7O1NFN3Qs3AToLPlA"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Sings Greatest Country Gospel Hits",
-        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+        "name": "Music To Your Ears",
+        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
       },
       "artists": [
         {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Pass Me Not Oh Gentle Saviour",
-      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
+      "duration_ms": 247500,
+      "name": "Let the Rain Wash Your Troubles Away",
+      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1287,6 +1271,22 @@
       "duration_ms": 291693,
       "name": "I Don't Belong",
       "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Sings Greatest Country Gospel Hits",
+        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Pass Me Not Oh Gentle Saviour",
+      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
     },
     {
       "added_at": "2023-04-14 06:27:38",

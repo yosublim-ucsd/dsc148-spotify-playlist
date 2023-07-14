@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: DJ Seinfeld x Confidence Man",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Disclosure",
   "name": "Altar JP",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 292995,
       "name": "A New Light",
       "url": "https://open.spotify.com/track/6fn7tlBORXWaSLdACXVkuO"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 138080,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/19vrEdKIsUqKRRnCXE9M8j"
+      },
+      "artists": [
+        {
+          "name": "Crackazat",
+          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302596,
+      "name": "Freddie's Groove",
+      "url": "https://open.spotify.com/track/6WPDwF3t71KGfySuIfqmOH"
+    },
+    {
+      "album": {
         "name": "Free Bird",
         "url": "https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ"
       },
@@ -2315,6 +2333,28 @@
     },
     {
       "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/5cwPTjEWjgmGximXW8pyWk"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        },
+        {
+          "name": "A.Lonzo",
+          "url": "https://open.spotify.com/artist/0EfqGi3mvJGPkBvWfPbRVn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205704,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/0tYDIP8PeQyOWRDlnZvW3Z"
+    },
+    {
+      "album": {
         "name": "Higher Elevation",
         "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
       },
@@ -2348,6 +2388,24 @@
       "duration_ms": 373453,
       "name": "Higher Elevation",
       "url": "https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv"
+    },
+    {
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196598,
+      "name": "Higher Than Ever Before",
+      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
     },
     {
       "album": {
@@ -2662,7 +2720,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 349073,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/6LzvH9CzTOQ4zp8ZzL9Bk8"
@@ -2797,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Kanari",
+        "url": "https://open.spotify.com/album/19v0Nuj2D0D7ZAwnGNALH8"
+      },
+      "artists": [
+        {
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426393,
+      "name": "Kanari",
+      "url": "https://open.spotify.com/track/6GnZ0gpbHZ8RUK4fKo0qiX"
+    },
+    {
+      "album": {
         "name": "Karaoke Song",
         "url": "https://open.spotify.com/album/5TTTrEZ7oNZK10qmZp7MWw"
       },
@@ -2848,7 +2924,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
@@ -2940,6 +3016,32 @@
       "duration_ms": 213667,
       "name": "Ladybird",
       "url": "https://open.spotify.com/track/71OK6N7cJy8CO6TIBoKLSO"
+    },
+    {
+      "album": {
+        "name": "Lazy Days (feat. Emma-Jean Thackray) [Wallace Remix]",
+        "url": "https://open.spotify.com/album/3rUdaOm0d7NOvKsqn2Cy5H"
+      },
+      "artists": [
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        },
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm"
+        },
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313669,
+      "name": "Lazy Days (feat. Emma-Jean Thackray) [Wallace Remix]",
+      "url": "https://open.spotify.com/track/6x3NbTvf7CFhLfpHkcSK6G"
     },
     {
       "album": {
@@ -3118,7 +3220,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 604780,
       "name": "Locked To Heaven",
       "url": "https://open.spotify.com/track/1f8MIU7Mh8wuDk1pMICb38"
@@ -3264,7 +3366,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 206227,
       "name": "Loyly - Gimgigam Remix",
       "url": "https://open.spotify.com/track/3WyhSt2YyJnMv47hMEset5"
@@ -4606,7 +4708,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 249953,
       "name": "Scars",
       "url": "https://open.spotify.com/track/7jPYJuEboE1m568wOp5CTI"
@@ -5373,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Time To Run",
+        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Time To Run",
+      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
+    },
+    {
+      "album": {
         "name": "360 Pop Shove It",
         "url": "https://open.spotify.com/album/2q5edUjF1UctSXrxbg2M2U"
       },
@@ -5627,6 +5747,32 @@
     },
     {
       "album": {
+        "name": "Wait 4 U (DJ Phil Remix)",
+        "url": "https://open.spotify.com/album/4lYOaHLbCjP6YET1nIAXPq"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        },
+        {
+          "name": "DJ Phil",
+          "url": "https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216757,
+      "name": "Wait 4 U - DJ Phil Remix",
+      "url": "https://open.spotify.com/track/0pPOYxRMPT2puunY57ZFnH"
+    },
+    {
+      "album": {
         "name": "Wait For It",
         "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
       },
@@ -5722,7 +5868,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 230445,
       "name": "We Still Believe",
       "url": "https://open.spotify.com/track/0uoaYBn3prfGyWQR59wkeQ"
@@ -5748,6 +5894,28 @@
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI"
+    },
+    {
+      "album": {
+        "name": "Wespennest",
+        "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Wespennest - Edit",
+      "url": "https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV"
     },
     {
       "album": {
@@ -5842,6 +6010,24 @@
       "duration_ms": 202375,
       "name": "When She Dance",
       "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
+    },
+    {
+      "album": {
+        "name": "WHen She Dance",
+        "url": "https://open.spotify.com/album/7LucTmMAMBorAaOsojkEKi"
+      },
+      "artists": [
+        {
+          "name": "Keita Sano",
+          "url": "https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642500,
+      "name": "WHen She Dance",
+      "url": "https://open.spotify.com/track/410BvxZU6blJdbOVnbytzP"
     },
     {
       "album": {
@@ -6016,7 +6202,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 198127,
       "name": "\u2728 mum is calling \u2728",
       "url": "https://open.spotify.com/track/27fusRmYpex94O3REevU1F"

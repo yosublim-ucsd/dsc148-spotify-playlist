@@ -4,7 +4,7 @@
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-188 songs - 11 hr 11 min
+189 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Destemperado](https://open.spotify.com/track/6wg23d1pHboNW9vsmuIEpc) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Melanin](https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp) | 2:28 | 2021-12-06 | 2022-05-02 |
 | [Destine](https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk), [Jmd Tunes](https://open.spotify.com/artist/0W43bPKlWhooocqSrhzTXj) | [Destine](https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2) | 3:31 | 2021-12-06 |  |
 | [Djambo \- Gardy Girault Remix](https://open.spotify.com/track/2xDLz3zfFNUg2r7b0cCXzr) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI), [Gardy Girault](https://open.spotify.com/artist/0t3dfH6tVRLJFu1fz6z0Gb) | [Djambo Remixes](https://open.spotify.com/album/3semgKizfNk6uINata3Ugu) | 6:34 | 2021-12-06 | 2022-05-13 |
-| [Dlo Dous](https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7) | 5:13 | 2023-05-08 |  |
+| [Dlo Dous](https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/72xQw0tZDwDDl1uQ6ixpo7) | 5:13 | 2023-05-08 | 2023-07-14 |
+| [Dlo Dous](https://open.spotify.com/track/0JnnQ2ONBFYcPl451tyIHM) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/15L1z6E5DX2PIX62oy36k9) | 5:13 | 2023-06-09 |  |
 | [Dous pou Dous](https://open.spotify.com/track/3u3WacUgCuvmtqovOUbOij) | [Roody Roodboy](https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN) | [Dous pou Dous](https://open.spotify.com/album/3S31k8NVb2UzlOXldL876a) | 4:32 | 2023-05-08 |  |
 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 | 2022-05-12 |  |
 | [DWTG \(down with the gouyad remix\)](https://open.spotify.com/track/4HqqOAmToOjnfHyT1in0OE) | [Djmagickenny](https://open.spotify.com/artist/3KPTClQrtaVtQEhFkBFYA9), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [DWTG \(down with the gouyad remix\)](https://open.spotify.com/album/3tselS7WC7rhS4Q3E8yzjo) | 4:51 | 2022-04-15 | 2022-07-13 |

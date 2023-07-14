@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-332 songs - 23 hr 8 min
+333 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \- Tiësto Remix](https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [You Got The Love \(feat\. Jules Buckley & The Heritage Orchestra\) \[Tiësto Remix\]](https://open.spotify.com/album/1zlYl1OYOvf79RWXEc6NZb) | 3:06 | 2022-05-19 | 2023-04-20 |
 | [Young at Heart \- Angger Dimas Remix](https://open.spotify.com/track/2nZlfMFqhcAW1khLgdcn6A) | [Amy Meredith](https://open.spotify.com/artist/2ZmmVo9SlM8XJH97UWEu7l), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 4:14 | 2020-10-20\* | 2023-04-20 |
 | [Young Blood \(Tiësto & Hardwell Remix\)](https://open.spotify.com/track/6FTM7CGUOl8g3qZKHsYdQb) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 5:03 | 2020-10-20\* | 2023-04-20 |
+| [Yumi \- Tiësto Remix](https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Yumi \(Tiësto Remix\)](https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW) | 4:05 | 2023-07-13 |  |
 | [Zero 76 \- Original Mix](https://open.spotify.com/track/49QZutJ2Cc6wcjm6elYZYd) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Club Life \- Volume One Las Vegas \(Continuous DJ Mix\)](https://open.spotify.com/album/1Ufqq0yg7gEyRQ70ofgKXe) | 5:00 | 2020-10-20\* |  |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

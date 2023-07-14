@@ -4,7 +4,7 @@
 
 > Soft electronic music for your dinner.
 
-270 songs - 13 hr 12 min
+271 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Badlands](https://open.spotify.com/track/6sCPRdgnJOn6G4wCzK3w9M) | [Baron Malice](https://open.spotify.com/artist/4gfiUPAVRdak4CJ8RCxaxe) | [Badlands](https://open.spotify.com/album/6NB72FT20VgR36jf8ECIGr) | 2:53 | 2023-04-21 |  |
 | [Balearic Dream](https://open.spotify.com/track/5Xx03K2zK7onRYOVtWWoM8) | [Gueves](https://open.spotify.com/artist/5Rhg378B8w4Kg0dKNR3cNO) | [Balearic Dream](https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84) | 3:06 | 2021-11-11 | 2022-07-29 |
 | [Ballo Da Solo](https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Proto/Emotions](https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY) | 5:19 | 2022-05-10 | 2022-07-15 |
-| [Bansuri Whistle](https://open.spotify.com/track/6jwotT3mYVp7DPE8LQacEn) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Bansuri Whistle](https://open.spotify.com/album/1NDHHw6G5lhTpr2y6qBfun) | 5:42 | 2022-05-10 |  |
+| [Bansuri Whistle](https://open.spotify.com/track/6jwotT3mYVp7DPE8LQacEn) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Bansuri Whistle](https://open.spotify.com/album/1NDHHw6G5lhTpr2y6qBfun) | 5:42 | 2022-05-10 | 2023-07-14 |
 | [Bar](https://open.spotify.com/track/7EZSvOOlvauQDamANeoSOy) | [Del Mare](https://open.spotify.com/artist/2EzJoeY1p5s3JpM97YH67Y) | [Bar](https://open.spotify.com/album/1IYeFjTQK6XIlXesQNU8Ag) | 2:19 | 2023-06-02 |  |
 | [Barracudas](https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Barracudas EP](https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ) | 4:13 | 2021-11-11 | 2023-06-03 |
 | [Beach Dreams](https://open.spotify.com/track/7ENbMrxiwYrjJxElH7E7PE) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Odyssey](https://open.spotify.com/album/5pAu2RYZdpS8bo680Tm79r) | 2:08 | 2021-11-11 | 2022-05-11 |
@@ -57,6 +57,7 @@
 | [cirtuiterie](https://open.spotify.com/track/5MJe58AhGXxAXtLaizo9dC) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [cirtuiterie](https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs) | 3:54 | 2021-11-11 | 2022-09-02 |
 | [Citylights](https://open.spotify.com/track/6Sv69V6WY4k3Hx1SRipIaQ) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [Citylights](https://open.spotify.com/album/7ofNEjZd1bFVHL7yBmOdXF) | 3:12 | 2021-11-11 | 2022-09-02 |
 | [Clarity Theory](https://open.spotify.com/track/77o9BHh69uAY6pPy51kmPi) | [Miami Midnight](https://open.spotify.com/artist/6QLCMhIYdyMmf3vU58Pv63) | [Clarity Theory](https://open.spotify.com/album/6v7fBS8eORyqJmHMORKsML) | 2:38 | 2021-11-11 | 2022-05-11 |
+| [Clavicula](https://open.spotify.com/track/7eh9aE0YNF2qNY4LfRZmfA) | [Dec Léor](https://open.spotify.com/artist/6X7BrtwoFiGzjfYNrBHeeN) | [Clavicula](https://open.spotify.com/album/39dzg3N8B8DP4k7Am5p761) | 2:47 | 2023-07-14 |  |
 | [Close 2 You](https://open.spotify.com/track/6bHFhlpbNHRBhYZlDxpsi8) | [dim figure](https://open.spotify.com/artist/73aCJRcmbFDz9Z8hlt1Oq9) | [Close 2 You](https://open.spotify.com/album/5OkvqQZinScYm3CE3DVqO1) | 2:40 | 2023-02-03 |  |
 | [Coalesced](https://open.spotify.com/track/3yH4WIf5umBgIzgsyajkWH) | [Second Service](https://open.spotify.com/artist/6aWs9S4SEEXw4ZRLkcYliz) | [Coalesced](https://open.spotify.com/album/4nafINuhYshm1Npb3Wqamt) | 2:58 | 2021-11-11 | 2023-06-03 |
 | [Concession](https://open.spotify.com/track/24ad6v49HSgza51bogmg98) | [Ash Spark](https://open.spotify.com/artist/4nByMghGme4u8Zq4uSuh6w) | [Concession](https://open.spotify.com/album/0W9VfRzTmuPzJmoIb39wzf) | 2:49 | 2021-11-11 |  |

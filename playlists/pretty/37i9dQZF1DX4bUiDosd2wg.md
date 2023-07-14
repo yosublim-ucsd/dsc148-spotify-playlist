@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,259 likes - 201 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,270 likes - 201 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 130 | [마지막 내 숨소리](https://open.spotify.com/track/0JPCtu2uAgEhZIp0bOsYqo) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 4:22 |
 | 131 | [After You’ve Gone](https://open.spotify.com/track/6MbO4CpHNgsdV4dn2cGKWp) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Circular](https://open.spotify.com/album/4lRCZxpFrnsWWdeT0T0qVn) | 4:06 |
 | 132 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
-| 133 | [My Love](https://open.spotify.com/track/4dhYkcEDPrZxy1CwDYMrLC) | [Lee Hyeon Seob](https://open.spotify.com/artist/4tYHDUgP15VkOzh67Q7ooC) | [발리에서 생긴 일 Original Television Soundtrack](https://open.spotify.com/album/1yE2OAtPK2m4u4JTEUp0fN) | 4:31 |
+| 133 | [My Love](https://open.spotify.com/track/2Iff2ckHMviPey4GwwVmaG) | [Lee Hyeon Seob](https://open.spotify.com/artist/2HgECNGllE967H1E13aKA2) | [What Happened In Bali \(Original Television Soundtrack\)](https://open.spotify.com/album/1O1QcQCgwxnRAfojSrSKRG) | 4:34 |
 | 134 | [나 가거든](https://open.spotify.com/track/0SGuKc4H0O2APE0Kp4kXaL) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [Yangpa Best](https://open.spotify.com/album/3VHzOpvgNY4BpjlY1ypjZR) | 5:28 |
 | 135 | [체념](https://open.spotify.com/track/5xWiXwC6q5YQ9JaHB5ItLt) | [발라드 킹](https://open.spotify.com/artist/1UtCxV3b9LdwGZpF8GHfBM) | [발라드 인기 가요 베스트 1집](https://open.spotify.com/album/3uXVbrYyd9FhM0GwDvdxMs) | 4:56 |
 | 136 | [the moon of Seoul](https://open.spotify.com/track/33q2T6Bt6N1JKGQ4lSYjPm) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Be Like…](https://open.spotify.com/album/0MmooZaQHSHgGD0bH3p6CH) | 3:43 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 200 | [별 짓 다해봤는데](https://open.spotify.com/track/19tN2T7F6XUME4zDPd9YuO) | [Ali](https://open.spotify.com/artist/5QeXARPcuiXETSB2iPhaup) | [별 짓 다해봤는데](https://open.spotify.com/album/2fet23moXUqZE7up5vHRVa) | 4:09 |
 | 201 | [늦은 후회](https://open.spotify.com/track/46XH9XZwZKuISZZAieHmke) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [2011 김형석 With Friends Part.1](https://open.spotify.com/album/5VIZj07PjlySAdYgo28An9) | 4:42 |
 
-Snapshot ID: `MCw3MWNjNTVhOGYzZjEyZDVjZmIyOWQxZjRhMTllMTU0OWY0NDg5MTQy`
+Snapshot ID: `MCw3ZDUxN2FlNjA4OWIzYzY1ZTMxYzVhNGM5NmM5MDQ2NzA1MTg5MGQw`

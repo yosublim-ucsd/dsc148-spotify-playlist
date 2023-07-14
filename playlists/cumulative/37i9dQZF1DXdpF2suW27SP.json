@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Bispo e Ivandro entram na zona. ",
+  "description": "Mizzy Miles entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 148800,
       "name": "Chega",
       "url": "https://open.spotify.com/track/0Gul9wh1EQB8K7P9PjcIpi"
@@ -1284,6 +1284,28 @@
       "duration_ms": 148800,
       "name": "Chega",
       "url": "https://open.spotify.com/track/4xNWsL3jDUd5N40xqIyyYt"
+    },
+    {
+      "album": {
+        "name": "Tina Dance Mixtape (Sabor 2000)",
+        "url": "https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "TT",
+          "url": "https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Chega",
+      "url": "https://open.spotify.com/track/63uZ8PEoOPPCG5zR75AjaL"
     },
     {
       "album": {
@@ -1324,7 +1346,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 268260,
       "name": "Chelas",
       "url": "https://open.spotify.com/track/5x9bucCUnlTZnjpWwCRlSx"
@@ -1410,6 +1432,24 @@
       "duration_ms": 194782,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN"
+    },
+    {
+      "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/15axyA5TYLSMDDsUS64xIH"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/1FTuNyIwUs3srXdMIS1Lql"
     },
     {
       "album": {
@@ -1950,6 +1990,24 @@
     {
       "album": {
         "name": "Tina Dance Mixtape (Sabor 2000)",
+        "url": "https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Drill Cl\u00e1ssico",
+      "url": "https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN"
+    },
+    {
+      "album": {
+        "name": "Tina Dance Mixtape (Sabor 2000)",
         "url": "https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF"
       },
       "artists": [
@@ -1960,7 +2018,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 144000,
       "name": "Drill Cl\u00e1ssico",
       "url": "https://open.spotify.com/track/7c7vruftDkTBDv59lHW7VZ"
@@ -2386,6 +2444,24 @@
       "duration_ms": 165000,
       "name": "FAX",
       "url": "https://open.spotify.com/track/3f7DEE3i9IzH7ieoKOLdvr"
+    },
+    {
+      "album": {
+        "name": "Fazi Gossi",
+        "url": "https://open.spotify.com/album/7tzCB0q53jFKN0klR9NgXB"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Fazi Gossi",
+      "url": "https://open.spotify.com/track/3VsIoEAVGT3G2t9vsbD3SB"
     },
     {
       "album": {
@@ -2822,7 +2898,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 162947,
       "name": "Hey Bro",
       "url": "https://open.spotify.com/track/20YtqCFfqze8exaFyrp2Vc"
@@ -3592,7 +3668,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 248275,
       "name": "Metamorfose",
       "url": "https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5"
@@ -4110,7 +4186,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 289523,
       "name": "Nu Sta",
       "url": "https://open.spotify.com/track/41n9aagcBXCwwzIn9OUyH9"
@@ -6180,6 +6256,28 @@
       "duration_ms": 205451,
       "name": "Via L\u00e1ctea",
       "url": "https://open.spotify.com/track/5Bw2IRKXiwAA8rzBogkE5e"
+    },
+    {
+      "album": {
+        "name": "Tina Dance Mixtape (Sabor 2000)",
+        "url": "https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        },
+        {
+          "name": "David Bruno",
+          "url": "https://open.spotify.com/artist/4LOV7E9ZHPnxIDeFWtA6N9"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135145,
+      "name": "Viana Gaia",
+      "url": "https://open.spotify.com/track/02kK1yOMVo3fpgLNddPwOw"
     },
     {
       "album": {

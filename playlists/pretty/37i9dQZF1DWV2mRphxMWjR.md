@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 
 > The official playlist for "ONE PIECE FILM RED"\. <a href="https://www.onepiece\-film.jp/">『ONE PIECE FILM RED』</a>公式プレイリスト。「ONE PIECE」映画作品の主題歌集。 ©尾田栄一郎／2022「ワンピース」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,120 likes - 72 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,164 likes - 72 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 21 | [あの場所へ](https://open.spotify.com/track/3UMb7ixO3h2gRWlXUywGLa) | [晴晴゛](https://open.spotify.com/artist/7dUWtf36bq6UgxALM703pF) | [あの場所へ](https://open.spotify.com/album/2Ouwto4fMc59q99LjYp3eX) | 4:01 |
 | 22 | [夢見る頃を過ぎても](https://open.spotify.com/track/3AJFjE3EvPY8daYRK1JhsV) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [夢見る頃を過ぎても](https://open.spotify.com/album/3iBS6W3PHjN9MSU2nzkPsm) | 3:53 |
 | 23 | [compass](https://open.spotify.com/track/7BOwJxoRer4Ol0tDUdrkKe) | [Ai Kawashima](https://open.spotify.com/artist/56VTXSeHb276rD1lVKcfiw) | [SINGLE BEST \-A\-](https://open.spotify.com/album/0pIEJ9iEAHjW6JOK7f81sM) | 5:41 |
-| 24 | [またね](https://open.spotify.com/track/6cnxxH19Szo8CQO38HMoPd) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [AND I LOVE YOU \(DIGITAL Ver.\)](https://open.spotify.com/album/0t05o78TsDqFboiKRc5Tow) | 5:29 |
+| 24 | [またね](https://open.spotify.com/track/6cnxxH19Szo8CQO38HMoPd) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [AND I LOVE YOU （DIGITAL Ver．）](https://open.spotify.com/album/0t05o78TsDqFboiKRc5Tow) | 5:29 |
 | 25 | [fanfare](https://open.spotify.com/track/78thhWnYLGIBaEqNcmhyHL) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [SENSE](https://open.spotify.com/album/2AG5d3p14xkRoSQROC6O7k) | 6:15 |
 | 26 | [Break into the Light〜約束の帽子〜](https://open.spotify.com/track/58XinNr00MVez9TV323KJZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Break into the Light 〜約束の帽子〜/The Sharing Song 〜トリコのテーマ〜](https://open.spotify.com/album/2JBiEFSXLCs6NKsyktYOaW) | 3:40 |
 | 27 | [How You Remind Me](https://open.spotify.com/track/4H560RqZEEhrgOquGqTCvs) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Avril Lavigne \(Expanded Edition\)](https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l) | 4:05 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV2mRphxMWjR.md) - [plain]
 | 71 | [絶望トットムジカ](https://open.spotify.com/track/1481hejmBZuoeyZHOkARlM) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 1:09 |
 | 72 | [RED 海賊の生きざま](https://open.spotify.com/track/3ektWJ35SuVMvcMwrflilV) | [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 0:47 |
 
-Snapshot ID: `MCw0ZDZiOTZjZTRiZjkxNDkzNTcxY2U2N2IwNjM2ZTY2NWUzZGFhMDdi`
+Snapshot ID: `MCxjYjllYTljZTczOWNjYzczYmNjOTEwMzg2NDQ1NmVhYWI4ZDllNTFl`

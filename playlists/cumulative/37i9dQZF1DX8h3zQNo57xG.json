@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Endless Pool Delta",
+        "url": "https://open.spotify.com/album/5u1V01ovRlvdrM7JjZsobp"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "Endless Pool B Delta (122-124Hz)",
+      "url": "https://open.spotify.com/track/16YHUKfDTUaWwaptfHvsYl"
+    },
+    {
+      "album": {
         "name": "Entrainment Waves - Binaural Delta Sinus",
         "url": "https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1"
       },

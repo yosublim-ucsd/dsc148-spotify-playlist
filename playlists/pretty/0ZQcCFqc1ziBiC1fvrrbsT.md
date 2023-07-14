@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,043 likes - 18 songs - 1 hr 12 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 9,045 likes - 18 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 9 | [Wagging Tongue \- Wet Leg Remix](https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wagging Tongue \(Remixes\)](https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H) | 4:38 |
 | 10 | [A Song of Death on Winds of Dawn](https://open.spotify.com/track/2n8hjvJIzeMV9RoIQyELTf) | [Blackbraid](https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY) | [Blackbraid II](https://open.spotify.com/album/5CEfuHULnZDi68wT8mABle) | 11:04 |
 | 11 | [Sacrificial Participant](https://open.spotify.com/track/4JUFkrvuUXG9L6fmWbmlGS) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [God Made Me An Animal](https://open.spotify.com/album/5BhklHDhaR6bzbELNrNKU2) | 3:45 |
-| 12 | [Tired Of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 |
+| 12 | [Tired of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 |
 | 13 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |
 | 14 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 |
 | 15 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/1Dm5maHjhhmcdqS5hK61Ut) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/album/28glrS4PZTYh2VfqX1mP6H) | 2:47 |

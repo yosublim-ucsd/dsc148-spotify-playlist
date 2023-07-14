@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Toser One, Dharius, Lefty SM y Tiro Loko  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,014 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,051 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 100 | [Leyendas Urbanas](https://open.spotify.com/track/4dDofP6HpYPAqJmYBeYfHs) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3) | [Leyendas Urbanas](https://open.spotify.com/album/5OmXbLjATSwGq0x8fpyXa8) | 3:14 |
 | 101 | [PALO SANTO](https://open.spotify.com/track/2iu2Ozrm9ebrF4QbeA8J3d) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [PALO SANTO](https://open.spotify.com/album/0fVvlm6dL6M2GLqOvaQ86v) | 3:22 |
 
-Snapshot ID: `MCwzMDUxNjcxNWJmMGJmMGQzNTA1NDk0YmM4NGE1OGRhNDNjNzQ0NTMy`
+Snapshot ID: `MCxmNTBlYjFmODZjMjAwNTExZWI1NDllZDQ2MDYzYzg5Y2MxOTIwNDA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Julieta Laso.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,323 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,325 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 20 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
 | 21 | [Entre Algarroba y Durazno](https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM) | [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Entre Algarroba y Durazno](https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC) | 4:10 |
 | 22 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
-| 23 | [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 |
-| 24 | [El Muro](https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [El Muro](https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw) | 3:13 |
+| 23 | [El Muro](https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [El Muro](https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw) | 3:13 |
+| 24 | [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 |
 | 25 | [Muchacha Desquiciada](https://open.spotify.com/track/2o8rkyTAkqGWvHx2loRnkd) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:11 |
 | 26 | [Ay Paloma](https://open.spotify.com/track/3jZ1He4a5nBTcZL1YdPwpv) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Milagros Caliva](https://open.spotify.com/artist/5Zz0dRPQsCEPXJInndPonI) | [Material Urgente](https://open.spotify.com/album/0zvozZK0iHUxTq3DL7pncn) | 3:07 |
 | 27 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 36 | [Che Kamba resa jajái](https://open.spotify.com/track/5bMx7A1xUxsZFI43hdMiDW) | [Flor Bobadilla Oliva](https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j), [María Fernanda Peralta](https://open.spotify.com/artist/3mhJB57GL5sFjCMGqxlZSV) | [Solita Mi Alma](https://open.spotify.com/album/1kdV4tPrdi5k9Vdxv3ZnyO) | 2:35 |
 | 37 | [Run Run Se Fue Pa'l Norte \- En Vivo](https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Antigüedades \(En Vivo\)](https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B) | 5:03 |
 | 38 | [La negadora](https://open.spotify.com/track/03Ekc31yTXzIUXDLriI4UD) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Pablo Fraguela](https://open.spotify.com/artist/5xqQ8KPQ5qFXh1kJhnelT6) | [Mi ciudad y mi gente](https://open.spotify.com/album/2CHCaWAM3NDfXmY5JlAT1z) | 3:12 |
-| 39 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
-| 40 | [Marioneta](https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT) | [Noelia Moncada](https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC) | [Marioneta](https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz) | 3:56 |
-| 41 | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki) | [Gisela Magri](https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH), [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu) | 2:06 |
-| 42 | [Por un Cariño](https://open.spotify.com/track/1iKrl9ukZCJK3T1FJow9Nt) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 4:16 |
+| 39 | [Marioneta](https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT) | [Noelia Moncada](https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC) | [Marioneta](https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz) | 3:56 |
+| 40 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
+| 41 | [Por un Cariño](https://open.spotify.com/track/1iKrl9ukZCJK3T1FJow9Nt) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 4:16 |
+| 42 | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki) | [Gisela Magri](https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH), [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu) | 2:06 |
 | 43 | [La Prisionera](https://open.spotify.com/track/232PMMsYwfqDMNrKpezmdL) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Coraje](https://open.spotify.com/album/2tO7ZaLlQeCaPQQysrS3Wr) | 4:12 |
 | 44 | [Sin Pétalos](https://open.spotify.com/track/6h9GkF9LC4WYQVjpC29KXy) | [Chifladas Tango](https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB) | [Desborde](https://open.spotify.com/album/3DYnE5s0vrLYftm3IBu1rk) | 2:39 |
 | 45 | [Candombita](https://open.spotify.com/track/4uIH9ySiskrJ9HOBjx5W0O) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y), [Katie Viqueira](https://open.spotify.com/artist/0CqTvo11HQRpLEYnWt1pY3) | [Candombita](https://open.spotify.com/album/36SkDfZK3XpnB7JZzjfEO9) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Regin](https://open.spotify.com/track/2KphJrMkgWC5Zr0eJtcJRt) | [Natalia Lagos](https://open.spotify.com/artist/4gk95EEoOE495eGRhDjkEk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Tangos de Hoy en Piano y Voz](https://open.spotify.com/album/0QOyfC1anGXoHaSpCelJZV) | 3:22 |
 | 50 | [Se Muere de Amor](https://open.spotify.com/track/3J448k2V1yvKrL9wj40r1Z) | [Natalia Martinez](https://open.spotify.com/artist/3bp15d1mykEwAxzmnYtoyF), [El Palermo Trío](https://open.spotify.com/artist/78daqV2Z2YTNFL49Ssz2UF) | [Te Ha Dado una Cita el Tango](https://open.spotify.com/album/4yZ4ZV70jwnklcdoApDuAD) | 2:59 |
 
-Snapshot ID: `MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5`
+Snapshot ID: `MCwzMmE5NDYzOGVjYzQxN2MwMWY3Yjg2NjZhYWQwNWZjNWNkZmUwMTAy`

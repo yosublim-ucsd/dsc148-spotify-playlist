@@ -6,27 +6,39 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDY1M2Y3NjQ3NjBlOTAwZTI0NzViMTliNWE4MmVkYTZmYzEwMThm",
+  "snapshot_id": "MCw2YjAxYjdhOTEzN2MxYzM3NWMwODQ0OGZjNTg1NDU3NTFjNzY3Yjc4",
   "tracks": [
     {
-      "added_at": "2023-03-10 05:48:09",
+      "added_at": "2023-01-27 11:30:47",
       "album": {
-        "name": "Die Way Sy",
-        "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
+        "name": "Noem My 'n Goen",
+        "url": "https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp"
       },
       "artists": [
         {
-          "name": "Biggy",
-          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+          "name": "KRO-Barz",
+          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Die Way Sy",
-      "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
+      "duration_ms": 152054,
+      "name": "Noem My 'n Goen",
+      "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "My testimony",
+        "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
+      },
+      "artists": [
+        {
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+        }
+      ],
+      "duration_ms": 245764,
+      "name": "My testimony",
+      "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
     },
     {
       "added_at": "2023-07-06 21:59:00",
@@ -49,22 +61,6 @@
       "url": "https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Stap Soldaat",
-        "url": "https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ"
-      },
-      "artists": [
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 190327,
-      "name": "Stap Soldaat",
-      "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
-    },
-    {
       "added_at": "2023-05-05 04:30:19",
       "album": {
         "name": "Violence (Afrikaans Drill)",
@@ -85,20 +81,20 @@
       "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
     },
     {
-      "added_at": "2023-01-27 11:30:47",
+      "added_at": "2023-03-02 21:59:00",
       "album": {
-        "name": "Noem My 'n Goen",
-        "url": "https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp"
+        "name": "Stap Soldaat",
+        "url": "https://open.spotify.com/album/2sUtSXPHon83lBGW1ySsRZ"
       },
       "artists": [
         {
-          "name": "KRO-Barz",
-          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
         }
       ],
-      "duration_ms": 152054,
-      "name": "Noem My 'n Goen",
-      "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
+      "duration_ms": 190327,
+      "name": "Stap Soldaat",
+      "url": "https://open.spotify.com/track/5DiudyqBZhbPm6L5nKXGvJ"
     },
     {
       "added_at": "2023-03-23 21:59:00",
@@ -161,6 +157,26 @@
       "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
+      "added_at": "2023-03-10 05:48:09",
+      "album": {
+        "name": "Die Way Sy",
+        "url": "https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc"
+      },
+      "artists": [
+        {
+          "name": "Biggy",
+          "url": "https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I"
+        },
+        {
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Die Way Sy",
+      "url": "https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1"
+    },
+    {
       "added_at": "2022-09-08 21:59:00",
       "album": {
         "name": "Lewe Soos 'n Laanie",
@@ -199,6 +215,22 @@
       "duration_ms": 184407,
       "name": "Moola",
       "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
+    },
+    {
+      "added_at": "2023-07-13 21:59:00",
+      "album": {
+        "name": "Duidelik",
+        "url": "https://open.spotify.com/album/7iZV2Pb6drsJNfwxwUgHDh"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        }
+      ],
+      "duration_ms": 122435,
+      "name": "Duidelik",
+      "url": "https://open.spotify.com/track/0fzhyU8gk2lYMAzzyd2dg9"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -355,22 +387,6 @@
       "duration_ms": 330031,
       "name": "Passion Vir Die Game",
       "url": "https://open.spotify.com/track/5Bn47hs1QD5eByG6g11cKS"
-    },
-    {
-      "added_at": "2022-12-01 21:59:00",
-      "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq"
-      },
-      "artists": [
-        {
-          "name": "Harry CBY",
-          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
-        }
-      ],
-      "duration_ms": 169062,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/7oovNehysT0pyWphC78mnH"
     },
     {
       "added_at": "2022-09-08 21:59:00",
@@ -771,26 +787,6 @@
       "duration_ms": 159813,
       "name": "Rich Boy",
       "url": "https://open.spotify.com/track/3OPHM9E96Q138fPxyF8bcN"
-    },
-    {
-      "added_at": "2023-06-02 07:29:20",
-      "album": {
-        "name": "Dis Jou Wyfie (Remix)",
-        "url": "https://open.spotify.com/album/6AeXo59JDG0JoJOppnOJxw"
-      },
-      "artists": [
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        },
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Dis Jou Wyfie (Remix)",
-      "url": "https://open.spotify.com/track/5S50YUkum96QOyjy08EFF9"
     },
     {
       "added_at": "2022-09-08 21:59:00",

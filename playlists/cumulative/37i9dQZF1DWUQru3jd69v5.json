@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Tony Boy in cover. ",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Niky Savage in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -358,6 +358,24 @@
       "duration_ms": 116504,
       "name": "4LIFE",
       "url": "https://open.spotify.com/track/5DnrCph0cmu2eVZMmzsE1w"
+    },
+    {
+      "album": {
+        "name": "4LOCOS",
+        "url": "https://open.spotify.com/album/6fg87EmMuDXPDvYvM8BxJz"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149118,
+      "name": "4LOCOS",
+      "url": "https://open.spotify.com/track/2ikdZFKR2sEKlvbjwSs1ya"
     },
     {
       "album": {
@@ -1700,6 +1718,28 @@
       "duration_ms": 154960,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn"
+    },
+    {
+      "album": {
+        "name": "BLA",
+        "url": "https://open.spotify.com/album/7eKJ2EUwqxepLiIbPFFZ9n"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137684,
+      "name": "BLA",
+      "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
     },
     {
       "album": {
@@ -3979,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "EKL #1",
+        "url": "https://open.spotify.com/album/4G7U3Asn4Slh8d89FWe5ja"
+      },
+      "artists": [
+        {
+          "name": "Kero",
+          "url": "https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89379,
+      "name": "EKL #1",
+      "url": "https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987"
+    },
+    {
+      "album": {
         "name": "Entriamo d'abuso",
         "url": "https://open.spotify.com/album/7mW1GfBtSbbg57PTUi4Nvc"
       },
@@ -4367,6 +4425,28 @@
     },
     {
       "album": {
+        "name": "Love Storii",
+        "url": "https://open.spotify.com/album/6LbQhCuZ2ge0zbW6CiXD8V"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI"
+        },
+        {
+          "name": "Ervie",
+          "url": "https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160661,
+      "name": "Festa delle Streghe",
+      "url": "https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu"
+    },
+    {
+      "album": {
         "name": "Fid\u00e8le",
         "url": "https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3"
       },
@@ -4518,6 +4598,24 @@
       "duration_ms": 171000,
       "name": "FINISCIMI",
       "url": "https://open.spotify.com/track/1FQFjNMOuOOsCPmnanGRcu"
+    },
+    {
+      "album": {
+        "name": "Finta di niente",
+        "url": "https://open.spotify.com/album/5Pk7h4An85JI29zvO5qOzA"
+      },
+      "artists": [
+        {
+          "name": "Not Good",
+          "url": "https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156028,
+      "name": "Finta di niente",
+      "url": "https://open.spotify.com/track/4iicf5JOcfrr3uSBucgxo3"
     },
     {
       "album": {
@@ -4996,6 +5094,28 @@
       "duration_ms": 125706,
       "name": "Genesi",
       "url": "https://open.spotify.com/track/0suprmMnPMdF8y0o1GJ0hV"
+    },
+    {
+      "album": {
+        "name": "GENOVA",
+        "url": "https://open.spotify.com/album/3bgpYSxIVHDXkimNFiwhbP"
+      },
+      "artists": [
+        {
+          "name": "Guesan",
+          "url": "https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD"
+        },
+        {
+          "name": "Zero Vicious",
+          "url": "https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175670,
+      "name": "GENOVA",
+      "url": "https://open.spotify.com/track/1JcihIEZh4vFqJmN5sOpyD"
     },
     {
       "album": {
@@ -5482,6 +5602,28 @@
       "duration_ms": 158714,
       "name": "Hagra",
       "url": "https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv"
+    },
+    {
+      "album": {
+        "name": "HAHA",
+        "url": "https://open.spotify.com/album/0tjYg0AfX7eplMuykznGGV"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177900,
+      "name": "HAHA",
+      "url": "https://open.spotify.com/track/4eYUoNStca0EVkLhFYlO3b"
     },
     {
       "album": {
@@ -6507,6 +6649,24 @@
     },
     {
       "album": {
+        "name": "La cit\u00e8",
+        "url": "https://open.spotify.com/album/4yPMwt7qWlahYoM2oirc2e"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171598,
+      "name": "La cit\u00e8",
+      "url": "https://open.spotify.com/track/0rKCp9Obl3biQTNsuYRbcY"
+    },
+    {
+      "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
       },
@@ -6897,6 +7057,24 @@
     },
     {
       "album": {
+        "name": "Lakers",
+        "url": "https://open.spotify.com/album/4IuIiqKlLvLRBgiIZFN3OS"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Lakers",
+      "url": "https://open.spotify.com/track/2TrImm2A5atWdBUasb0wvt"
+    },
+    {
+      "album": {
         "name": "Lambo Viola",
         "url": "https://open.spotify.com/album/7jCNJqHnqtu6ZpSbA6NcZs"
       },
@@ -6952,7 +7130,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 125122,
       "name": "Lavapiatti",
       "url": "https://open.spotify.com/track/7dMNAgpoZHWFx7Hr5dS1cH"
@@ -7048,6 +7226,28 @@
       "duration_ms": 185433,
       "name": "LEBLOCK 2 (feat. BRESCO, MarZa, Flus Brain, Caesar & TOLKA)",
       "url": "https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3"
+    },
+    {
+      "album": {
+        "name": "LET IT GO (feat. Heartman)",
+        "url": "https://open.spotify.com/album/3T5u8KWl6ZhyvR9ST07EU5"
+      },
+      "artists": [
+        {
+          "name": "Zayre",
+          "url": "https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr"
+        },
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "LET IT GO (feat. Heartman)",
+      "url": "https://open.spotify.com/track/7963JSNlzDoXXOCbDj7a0U"
     },
     {
       "album": {
@@ -7550,7 +7750,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 134808,
       "name": "MAROCCO",
       "url": "https://open.spotify.com/track/5BfPmD1pXmC0Nl9bSUktSE"
@@ -8883,6 +9083,24 @@
     },
     {
       "album": {
+        "name": "Nueva Obsesi\u00f3n (160)",
+        "url": "https://open.spotify.com/album/6WBkDIDZxkIOo3juYr9zKT"
+      },
+      "artists": [
+        {
+          "name": "Fuera",
+          "url": "https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183455,
+      "name": "Nueva Obsesi\u00f3n (160)",
+      "url": "https://open.spotify.com/track/0h3RNZ9dUAVrlqxJpDSdxs"
+    },
+    {
+      "album": {
         "name": "NUMERO 10",
         "url": "https://open.spotify.com/album/6tBFWliuA5s3QVRNQM2wfF"
       },
@@ -9584,7 +9802,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 225000,
       "name": "Perch\u00e8?!",
       "url": "https://open.spotify.com/track/11oqcjXJqFCcmsHCZxhBm0"
@@ -9708,7 +9926,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 139300,
       "name": "Platino",
       "url": "https://open.spotify.com/track/0OYKG0Uhj7YDQXrKT1idYN"
@@ -11794,7 +12012,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 156857,
       "name": "Spoiler",
       "url": "https://open.spotify.com/track/2Qz0nR63jOUTXUI9CN18zV"
@@ -12170,7 +12388,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 126666,
       "name": "S\u00ec S\u00ec",
       "url": "https://open.spotify.com/track/1T4VXH94y9aKcg8NzaUhQ1"
@@ -12653,6 +12871,28 @@
     },
     {
       "album": {
+        "name": "TRAPPOLA",
+        "url": "https://open.spotify.com/album/63WLUEu89WyYU2HrfgcfLQ"
+      },
+      "artists": [
+        {
+          "name": "Misty",
+          "url": "https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0"
+        },
+        {
+          "name": "COMMI",
+          "url": "https://open.spotify.com/artist/53mmUN5p0CIelzJvmjHZqR"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128326,
+      "name": "TRAPPOLA",
+      "url": "https://open.spotify.com/track/1ztQeuaic7ZxTksIBcTn0l"
+    },
+    {
+      "album": {
         "name": "Traumi",
         "url": "https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF"
       },
@@ -13048,7 +13288,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 143816,
       "name": "VELENOSA",
       "url": "https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2"
@@ -13434,7 +13674,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 140465,
       "name": "Where U At (feat. PRACI, Luchetto, Enomoney & Prisoner)",
       "url": "https://open.spotify.com/track/7lq6dnZdi45tafw1XSDgwl"

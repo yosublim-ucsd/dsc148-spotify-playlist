@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[HftzStya](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 234 songs - 16 hr 18 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 234 songs - 16 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

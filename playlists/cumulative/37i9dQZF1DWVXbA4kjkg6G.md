@@ -4,7 +4,7 @@
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-152 songs - 14 hr 32 min
+153 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Deep Shit, Pt\. 1 & 2](https://open.spotify.com/track/4p2AbJiH4eso5TE3wVqbV4) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:21 | 2021-06-25 | 2023-06-21 |
 | [Dieu Reconnaitra Les Siens](https://open.spotify.com/track/4XLTegPY04UEUEateXBUg0) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 6:02 | 2021-06-25 |  |
 | [Dig This Vibe](https://open.spotify.com/track/2xtVHxXsBNADpdNUr8Owpa) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [DJ Krush](https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 4:54 | 2021-06-25 | 2022-07-29 |
+| [Dirt](https://open.spotify.com/track/4LOBq70NlI97iJ5wKwJW1D) | [Death In Vegas](https://open.spotify.com/artist/5aj3LEYRbuaabjjHkj5oE1) | [Dead Elvis](https://open.spotify.com/album/0sIneyoFWF20AD3YcWYZOn) | 5:52 | 2023-06-20 |  |
 | [Eine Kleine Hedmusik](https://open.spotify.com/track/3ViZpyzTm8JJ21Y7fSx2XK) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 4:10 | 2021-06-25 |  |
 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 | 2021-06-25 | 2023-07-03 |
 | [Empire](https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [Benjamin Zephaniah](https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6) | [Clear](https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV) | 5:51 | 2023-06-20 |  |
@@ -112,7 +113,7 @@
 | [Shaolin Satellite](https://open.spotify.com/track/7zr6d9QDDmpo0w0N5LPBjs) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi\-Fi](https://open.spotify.com/album/1kG4sGGeJC1JmB0qrrdcVK) | 6:24 | 2021-06-25 | 2022-10-09 |
 | [Shaolin Satellite](https://open.spotify.com/track/35uzCegY2dxHFkeUJ4sBxq) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi\-Fi](https://open.spotify.com/album/3aQCZj9daJ9DAhUs7xirdN) | 6:25 | 2021-06-25 | 2022-07-29 |
 | [Shaolin Satellite \- Remastered 2022](https://open.spotify.com/track/46Ezt0lIxCmEyO3F8yrc5V) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Sounds From The Thievery Hi Fi \(Remastered 2022\)](https://open.spotify.com/album/3YHE7w3WLUFyt1FGtvRP8t) | 6:24 | 2021-06-25 |  |
-| [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 | 2021-06-25 |  |
+| [Silver Dawn](https://open.spotify.com/track/49LEjOtuNavbyEDa81CgTX) | [Artemis](https://open.spotify.com/artist/4EPlTAt2kHslwke6grsplV) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 5:42 | 2021-06-25 | 2023-07-14 |
 | [Smoke & Mirrors](https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 4:26 | 2021-06-25 |  |
 | [Snapper](https://open.spotify.com/track/6J6chA8LOxFv2SoKmmKpEg) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Reeled And Skinned](https://open.spotify.com/album/2i1Kxf68oQX9HUXIO2yLuz) | 4:47 | 2021-06-25 |  |
 | [Snapper](https://open.spotify.com/track/1FQ62NYLf1RVlqx184ChCZ) | [Red Snapper feat\. Beth Orton](https://open.spotify.com/artist/4x2YXgUuMqX3hGgnKTtrvg) | [Reeled And Skinned](https://open.spotify.com/album/2MtDzggjJ3iLZjJyw6HIs4) | 4:47 | 2021-06-25 | 2023-02-02 |

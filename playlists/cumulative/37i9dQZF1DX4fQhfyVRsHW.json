@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Reverie",
+        "url": "https://open.spotify.com/album/4VJpmypDSNPRY670qLqbj0"
+      },
+      "artists": [
+        {
+          "name": "Yoo Woon",
+          "url": "https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Moonlit Reverie (Nature)",
+      "url": "https://open.spotify.com/track/5540oOqoUfpEoVOGiIPDFB"
+    },
+    {
+      "album": {
         "name": "Morning Birds",
         "url": "https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B"
       },
@@ -1550,6 +1568,24 @@
       "duration_ms": 180624,
       "name": "Over the Clouds",
       "url": "https://open.spotify.com/track/3I6s8eG7sjaba4kncQbqWJ"
+    },
+    {
+      "album": {
+        "name": "Peaceful Nature",
+        "url": "https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Peaceful Nature",
+      "url": "https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq"
     },
     {
       "album": {

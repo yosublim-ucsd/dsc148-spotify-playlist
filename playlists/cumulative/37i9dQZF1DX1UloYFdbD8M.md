@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-77 songs - 5 hr 5 min
+78 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Kanmani](https://open.spotify.com/track/17dvs9UHu9Jt1frTgvDAe9) | [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src) | [Kanmani](https://open.spotify.com/album/3uKFPae4mwrhLCZbSklXGe) | 5:29 | 2023-06-26 |  |
 | [Karukara](https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 6:20 | 2022-12-22 |  |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 |  |
+| [Luna](https://open.spotify.com/track/7yz02qAkI0vcw5Q9o0ISQw) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Luna](https://open.spotify.com/album/4gnIiBgaCnrA6bLfID5QuR) | 4:11 | 2023-07-13 |  |
 | [Maarane Thedum](https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Maarane Thedum](https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7) | 2:54 | 2023-06-22 |  |
 | [Madhuvaayi](https://open.spotify.com/track/6cBeo0QSPoZIpbWdNKNhfL) | [Joyal Tojo](https://open.spotify.com/artist/2gCwrqrvsSzBQyZ6r5HNEM), [Jyothis Jens](https://open.spotify.com/artist/33gSTavbpTQgqHzrLZegmJ), [Alapana Bagirath](https://open.spotify.com/artist/2BWrhgob1gLJCRsvds83yI) | [Madhuvaayi](https://open.spotify.com/album/1UAvkaesQecVkIFNHULXWc) | 3:03 | 2023-07-12 |  |
 | [Malhaar](https://open.spotify.com/track/5M4kAcCGMmfmYPMpW1BqiA) | [Arun Kamath](https://open.spotify.com/artist/1LhVMgynbTBbaAAExyqjFa), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN), [Vineeth Jayan](https://open.spotify.com/artist/0PzqycEyy9XO1Hziogna7S), [ZIA](https://open.spotify.com/artist/7553AusOIq9ylsYMZ1KO5y) | [Malhaar](https://open.spotify.com/album/1gmNKuzABsZI87jQOxJKEI) | 3:55 | 2022-06-23 |  |

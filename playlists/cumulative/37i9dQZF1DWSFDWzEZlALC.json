@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Auch ein Atze muss mal weinen",
+        "url": "https://open.spotify.com/album/2lY9XiTel43ofsXz4qsHI5"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115467,
+      "name": "Alle Farben",
+      "url": "https://open.spotify.com/track/3YGE4ji9cuQOpnPtCoNUYl"
+    },
+    {
+      "album": {
         "name": "Wie Fr\u00fchling Nach Dem Winter",
         "url": "https://open.spotify.com/album/0Z1Q9Og7qDEJ07SWadjj7G"
       },
@@ -696,6 +714,24 @@
     {
       "album": {
         "name": "Blaue Stunde",
+        "url": "https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197893,
+      "name": "Blaue Stunde",
+      "url": "https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K"
+    },
+    {
+      "album": {
+        "name": "Blaue Stunde",
         "url": "https://open.spotify.com/album/48VSW134REUVskHHy2laF0"
       },
       "artists": [
@@ -706,7 +742,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197893,
       "name": "Blaue Stunde",
       "url": "https://open.spotify.com/track/5OJDNeu3CDWxgfxu2BNown"
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 153473,
       "name": "Fall F\u00fcr Dich",
       "url": "https://open.spotify.com/track/0MgXzvMM4bq01XgEHMeEhF"
@@ -3404,7 +3440,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 180933,
       "name": "Nach Hause",
       "url": "https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n"
@@ -3466,6 +3502,24 @@
       "duration_ms": 221749,
       "name": "Nicht Gern Allein",
       "url": "https://open.spotify.com/track/0zcHQjv29G0w1fwkBTzMOs"
+    },
+    {
+      "album": {
+        "name": "Nichts gegen dich",
+        "url": "https://open.spotify.com/album/7KSmO9ijobNxMpaMhPM4HN"
+      },
+      "artists": [
+        {
+          "name": "JUPYTER",
+          "url": "https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Nichts gegen dich",
+      "url": "https://open.spotify.com/track/7CZyvxPwTO3pVvVHNw2qlP"
     },
     {
       "album": {
@@ -3892,7 +3946,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 174283,
       "name": "Regenbogen",
       "url": "https://open.spotify.com/track/6FTtryKq4A4j3Ic92Dhvw9"
@@ -4058,7 +4112,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197694,
       "name": "Sch**\u00df Stadt",
       "url": "https://open.spotify.com/track/6SmPXc1DxYdjcSWJQ5Exmx"
@@ -4522,6 +4576,24 @@
       "duration_ms": 149266,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI"
+    },
+    {
+      "album": {
+        "name": "Tempelhof",
+        "url": "https://open.spotify.com/album/2rvobaAp5tVDQEi63ukyEE"
+      },
+      "artists": [
+        {
+          "name": "Ronja",
+          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/2uVRcTm8tjQntOYcyr60J1"
     },
     {
       "album": {
@@ -5166,6 +5238,24 @@
       "duration_ms": 148000,
       "name": "Wein in Wien",
       "url": "https://open.spotify.com/track/45PyDjUsXPj5vGv2qX0N2W"
+    },
+    {
+      "album": {
+        "name": "Wenn das hier keine Liebe ist",
+        "url": "https://open.spotify.com/album/5Xp5C3rJsr1KaFnxaKuw3E"
+      },
+      "artists": [
+        {
+          "name": "Kicker Dibs",
+          "url": "https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171106,
+      "name": "Wenn das hier keine Liebe ist",
+      "url": "https://open.spotify.com/track/1oPFgR6LruHs8FgAv9skhG"
     },
     {
       "album": {

@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 193613,
       "name": "Affection Reflection",
       "url": "https://open.spotify.com/track/4Bom6DRearLyhau93DsSt3"
@@ -6404,6 +6404,24 @@
       "duration_ms": 166779,
       "name": "Lifeless Major",
       "url": "https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J"
+    },
+    {
+      "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/3aFsP5L0bi65KCip5gyghd"
+      },
+      "artists": [
+        {
+          "name": "Dahtona",
+          "url": "https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156606,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/4LmgY8iN3SqkDOPCNxmaGX"
     },
     {
       "album": {

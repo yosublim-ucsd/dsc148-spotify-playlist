@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Texas King
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,247 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,252 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 14 | [Cyanide Stories](https://open.spotify.com/track/66xTBU3pnLgq7oRKfpI4Nj) | [The Penske File](https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh) | [Cyanide Stories](https://open.spotify.com/album/4GLsZ5MIsfM1iw6m1fmFaZ) | 4:05 |
 | 15 | [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 |
 | 16 | [Blood Orange](https://open.spotify.com/track/3xBNQmaJhTG7Tg17wMy8U6) | [Jayli Wolf](https://open.spotify.com/artist/09AACzWu09h30NeqLRn4Tx) | [Blood Orange](https://open.spotify.com/album/3cS579KkBX0HJcWhi990CA) | 3:06 |
-| 17 | [Nothing For A While](https://open.spotify.com/track/4xObBwrIq6zo8QqUOne4UJ) | [Shred Kelly](https://open.spotify.com/artist/0TLkxB9Td2RXnmDEupHPQx) | [Nothing For A While](https://open.spotify.com/album/65o9495iq0A76kKS5xAk4k) | 6:41 |
+| 17 | [Nothing For A While](https://open.spotify.com/track/2qDkYm6EmD6hkQKMDxF3ii) | [Shred Kelly](https://open.spotify.com/artist/0TLkxB9Td2RXnmDEupHPQx) | [Nothing For A While](https://open.spotify.com/album/7aqqryw0T7HQeHEZcMqmxQ) | 6:41 |
 | 18 | [All The Love](https://open.spotify.com/track/4ojf7NC8Ga79gSSdfWzLWH) | [Liam Corcoran](https://open.spotify.com/artist/0zlEVpTGDVqx453JLiuA3d) | [Hints and Traces](https://open.spotify.com/album/2Ke8pIc4I4LgVVTLudrA5j) | 2:43 |
 | 19 | [Red Is My Favorite Color](https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i) | [JULES IS DEAD](https://open.spotify.com/artist/5inrtHsPByV845LcC1mDmM) | [Red Is My Favorite Color](https://open.spotify.com/album/45YaDxH88ruPMKjFvu6ozR) | 3:18 |
 | 20 | [Wet Dream](https://open.spotify.com/track/70haIg7OWunnGk67oY5UcN) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Wet Dream](https://open.spotify.com/album/2uERL4jIMLn3RPEmR071GO) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Rebuilding Year](https://open.spotify.com/track/5ENWw8fKaApzb9m7dYEQzy) | [Brutal Youth](https://open.spotify.com/artist/5BJrQw60XksRtVfwNVFu0W) | [Rebuilding Year](https://open.spotify.com/album/6V9J0hh6rAc1Rkl1RvTATV) | 2:30 |
 | 100 | [Anyway](https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Stay Safe!](https://open.spotify.com/album/5AOTO0vLGuaGk9Tim88zF1) | 3:45 |
 
-Snapshot ID: `MCw3YWUzMDhlNWM5OTU1NDZiZDNkM2E2NWVhNTg3YmZkYTc5Y2E0OWQy`
+Snapshot ID: `MCxmNWFjZTc1NjU0NGI0NDcyOWFlYzRmNjE0M2ZjZTgwM2VkZDgzYTYx`

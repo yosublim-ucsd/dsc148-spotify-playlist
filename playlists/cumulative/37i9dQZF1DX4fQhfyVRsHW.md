@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-137 songs - 7 hr 14 min
+139 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Mineral](https://open.spotify.com/track/4H4gOh4e8OlTr64rHJ7saG) | [Solandi](https://open.spotify.com/artist/4RfwbThCpe3mDfPgZYLhSB) | [Mineral](https://open.spotify.com/album/1fHqqyNXSVcFqSi8D6VnL2) | 3:07 | 2022-05-25 |  |
 | [Miracle Sleep](https://open.spotify.com/track/2D0wO44Z2VUSMrAdryCa9I) | [Sleepy Depp](https://open.spotify.com/artist/58g2tnD4W0qx5WjTenATUh) | [Miracle Sleep](https://open.spotify.com/album/6c2udN2pA555wHEp3oaehQ) | 2:32 | 2022-05-25 |  |
 | [Moonglow](https://open.spotify.com/track/6qPcMQn285Q0IsaHnskKqX) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Moonglow](https://open.spotify.com/album/5kKx3skFzMgYhtWHrucfFI) | 3:28 | 2022-07-15 |  |
+| [Moonlit Reverie \(Nature\)](https://open.spotify.com/track/5540oOqoUfpEoVOGiIPDFB) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Moonlit Reverie](https://open.spotify.com/album/4VJpmypDSNPRY670qLqbj0) | 3:02 | 2023-07-14 |  |
 | [Morning Birds](https://open.spotify.com/track/6RLN4bPw3Z8I7HAbY6mD37) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Morning Birds](https://open.spotify.com/album/5ckeXbLDEZNLgxavmsj00B) | 3:13 | 2022-05-25 |  |
 | [Nature of Illusion \- Meditation Version](https://open.spotify.com/track/4mLnypSRwLgf9i2qsaBHkd) | [Solen Taylor](https://open.spotify.com/artist/4p9by6GGMfgVGEBqiYhXqB) | [Nature of Illusion](https://open.spotify.com/album/58fIvjE46TGrQ6GiF97Vrp) | 2:07 | 2022-05-25 |  |
 | [Nature's Awakening](https://open.spotify.com/track/01VRlzhuv5LS1WLZsBJuek) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Nature's Awakening](https://open.spotify.com/album/5x2Ih98J99fFLaDRNFsPf0) | 2:51 | 2022-12-02 |  |
@@ -94,6 +95,7 @@
 | [Onsen Ritual](https://open.spotify.com/track/5J4hAza3Nkap5HxhKYiCqE) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Onsen Ritual](https://open.spotify.com/album/591tvOCJ2yo8NytfM6atla) | 4:01 | 2022-05-25 |  |
 | [Organic Peace](https://open.spotify.com/track/5WS9MN7qSwRF07eJLswCHu) | [Portrait of Nature](https://open.spotify.com/artist/5OQ80Fm55v0aCjLF7hXOwj) | [Natural Life](https://open.spotify.com/album/2dWhwh8lM31AKfywr2uDcA) | 3:36 | 2022-05-25 |  |
 | [Over the Clouds](https://open.spotify.com/track/3I6s8eG7sjaba4kncQbqWJ) | [The Golden Peas](https://open.spotify.com/artist/2O29EK5hLrDu3Pr5K3r250) | [Over the Clouds](https://open.spotify.com/album/0gs2T9fj1WaEl2IrHUCVhA) | 3:00 | 2022-05-25 |  |
+| [Peaceful Nature](https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Peaceful Nature](https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg) | 2:45 | 2023-07-14 |  |
 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 | 2022-05-25 |  |
 | [Perennial Waterflow](https://open.spotify.com/track/1y5VTWasp7vgqUxjaKUK0B) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Jillion](https://open.spotify.com/album/0Qi6IIzYtaFw3dr19FFPmr) | 4:01 | 2022-11-11 | 2023-06-03 |
 | [Perfect Stillness](https://open.spotify.com/track/0AHodj4ntSD8GHe9Amjjds) | [Moon Lakes](https://open.spotify.com/artist/46GLnKiAEhXShMrhcqYjWy) | [Perfect Stillness](https://open.spotify.com/album/6ICIXHDWpg5EHb9Jy0029R) | 3:45 | 2022-05-25 |  |

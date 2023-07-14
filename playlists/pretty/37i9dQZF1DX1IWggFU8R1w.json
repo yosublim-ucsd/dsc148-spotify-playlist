@@ -1,15 +1,479 @@
 {
-  "description": "Check out the official playlist from The Witcher. Watch The Witcher: Blood Origin, now streaming on Netflix.",
-  "num_followers": 18028,
+  "description": "The worst monsters are the ones we create. Listen to the music from The Witcher, now streaming on Netflix.",
+  "num_followers": 18087,
   "original_name": "The Witcher Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjQ5YWJlZTUzZjY0OWQ3NzZlNGE0NDA0ZmIxYjMyMjRjZDUyMTk0",
+  "snapshot_id": "MCw1Y2Q3OGE5Y2NjNzFlMjUyYjY1ZWFhOTUwNjcwOGZkYTczZjNlYWY3",
   "tracks": [
     {
-      "added_at": "2022-12-25 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 72658,
+      "name": "I Importune You (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/7AjH6bywEZga06Y3bEkyqh"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 359412,
+      "name": "A Time of Contempt (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/2KnBVrFN7RXO3DL7QRB7Uj"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 190084,
+      "name": "Shaerrawedd (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/0YMeq87I90jjT8MBifCVhS"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 128181,
+      "name": "Shaerrawedd Brawl (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/25ndjc8CmvWX6GmbutFAwt"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 262557,
+      "name": "Stay Together",
+      "url": "https://open.spotify.com/track/2hZESGcoZAmrGyjrl8FzyT"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 127965,
+      "name": "A Mission For You",
+      "url": "https://open.spotify.com/track/6X1W7c82bgsLD9GvOkbiH1"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 187049,
+      "name": "Changing Destiny is a Weighty Business (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/3W71Ur3hK0Nrkhr0Mbe8Wl"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joey Batey",
+          "url": "https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc"
+        }
+      ],
+      "duration_ms": 199569,
+      "name": "Extraordinary Things",
+      "url": "https://open.spotify.com/track/4Kce6WvWvXvyQQE8FW6WeT"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 229488,
+      "name": "Girl from Cintra (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/5lCDFxSa86U9quQFuerVUj"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 199289,
+      "name": "Vuilpanne (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/06ZKV4Vhv9k2Sh5XkiAmHw"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 269419,
+      "name": "Whispers of a Dozen Bounties",
+      "url": "https://open.spotify.com/track/4wpjYOY2ch1YNI05Fd2LSx"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 75966,
+      "name": "Death Itself",
+      "url": "https://open.spotify.com/track/4R9YjmogyxHwBqI0OCCAji"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 31216,
+      "name": "Let Me Guess, You Have A Plan? (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/46TZetqTOR4F1nfa2gf9Np"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 98381,
+      "name": "He's a Spoon",
+      "url": "https://open.spotify.com/track/0E3MbsJbnZ8aCwu9WfBKdz"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 151221,
+      "name": "Emhyr var Emreis",
+      "url": "https://open.spotify.com/track/1Ii144IgHqZFiBCFD4jCHk"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 67948,
+      "name": "Lessons in Smiling",
+      "url": "https://open.spotify.com/track/3iXQ7SAmNfjYrDspTMmm8z"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 118235,
+      "name": "Aeschna",
+      "url": "https://open.spotify.com/track/1RiuHNmkXfGOj8cp1nSEyv"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 181073,
+      "name": "She Was Gone (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/1s2wZbNb98hlUEiwp9SXXC"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 233159,
+      "name": "You Sure About This?",
+      "url": "https://open.spotify.com/track/2Kah8449beqRapO3lU7fs2"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 95984,
+      "name": "Alone at Last",
+      "url": "https://open.spotify.com/track/7KqYZ2dE95c9wiqh0SSItp"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Nathan Armarkwei Laryea",
+          "url": "https://open.spotify.com/artist/5akwaSLOWoZ8oPw5bq3H3E"
+        },
+        {
+          "name": "GLOR1A",
+          "url": "https://open.spotify.com/artist/2Xf1wbdyd9UKB8TFt95LTK"
+        },
+        {
+          "name": "Josh Weller",
+          "url": "https://open.spotify.com/artist/57El0Va2PEm0Su4wJ5rBwR"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 220298,
+      "name": "All Is Not As It Seems (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/1uX0j8dNEIkQflva2FtTij"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 215362,
+      "name": "War is Brewing",
+      "url": "https://open.spotify.com/track/4BHu4h8Vu0tpH6YtwDWMKM"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "duration_ms": 271915,
+      "name": "The Melange (A Witcher Tango) (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/5Ie0NEMltz0TqYuNSY6cP3"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 241843,
+      "name": "Serious Accusations",
+      "url": "https://open.spotify.com/track/1AImnrQhtdvzdWpkiQIVmM"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "duration_ms": 98476,
+      "name": "Should Have Chosen a Side",
+      "url": "https://open.spotify.com/track/3MUu7qjenSII7fOu1xE7Fn"
+    },
+    {
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "Song of the Seven (From the Netflix Series \"The Witcher: Blood Origin\")",
         "url": "https://open.spotify.com/album/13TT6VTNXuprXHRP6JpUXD"
@@ -29,7 +493,7 @@
       "url": "https://open.spotify.com/track/6h1nuPZk9fQjjgKEuiRJOf"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -45,7 +509,7 @@
       "url": "https://open.spotify.com/track/27IauLSoyh3hseoltgWrRP"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -65,7 +529,7 @@
       "url": "https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -81,7 +545,7 @@
       "url": "https://open.spotify.com/track/0zdtVmjnTk39XQNPuXP65x"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -97,7 +561,7 @@
       "url": "https://open.spotify.com/track/68V4LJ9rL8DwaWN0ajJMKt"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -113,7 +577,7 @@
       "url": "https://open.spotify.com/track/1wTjuEUY5Tsrg9lJjiu3jh"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -129,7 +593,7 @@
       "url": "https://open.spotify.com/track/4iTQ4eY8gKg7heomMnxAdj"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -149,7 +613,7 @@
       "url": "https://open.spotify.com/track/7L7rvdECkfKdGbonVM413x"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -165,7 +629,7 @@
       "url": "https://open.spotify.com/track/5seMmBWzwLEkcxKbezXan8"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -181,7 +645,7 @@
       "url": "https://open.spotify.com/track/3h9TScshQ3TMl6nLGvVUet"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -197,7 +661,7 @@
       "url": "https://open.spotify.com/track/3Peup5jnbgm7GfezqhM160"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -213,7 +677,7 @@
       "url": "https://open.spotify.com/track/1HSOCjveEHM9s20S1mAYcC"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -229,7 +693,7 @@
       "url": "https://open.spotify.com/track/75OtG83NvLHRE6LYMy9Hyx"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -245,7 +709,7 @@
       "url": "https://open.spotify.com/track/0USbo0aX8XOERkcM3NXyuI"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -261,7 +725,7 @@
       "url": "https://open.spotify.com/track/46WHvyPyirym87KKN6jGAe"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -277,7 +741,7 @@
       "url": "https://open.spotify.com/track/6c01DgxazfTvZJzJCsA5UG"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -297,7 +761,7 @@
       "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
     },
     {
-      "added_at": "2022-12-16 08:00:00",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
@@ -317,7 +781,7 @@
       "url": "https://open.spotify.com/track/1jSH1At6aK8iHruk2t4uGo"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -337,7 +801,7 @@
       "url": "https://open.spotify.com/track/5XY0TCgfr2MqwfByeZCoVs"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -353,7 +817,7 @@
       "url": "https://open.spotify.com/track/0bngtPi5C56c6IGB4h9XVS"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -369,7 +833,7 @@
       "url": "https://open.spotify.com/track/4unPYsOj9hWzLG9b39rnLn"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -385,7 +849,7 @@
       "url": "https://open.spotify.com/track/1QZZBOAzcMYVpKbG6WJx6b"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -401,7 +865,7 @@
       "url": "https://open.spotify.com/track/4KVoIrXeO4SVe4Cthl36LZ"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -417,7 +881,7 @@
       "url": "https://open.spotify.com/track/0JAclXDSMIi9NC9HtTpqx5"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -433,7 +897,7 @@
       "url": "https://open.spotify.com/track/2nP8z6THTm4DVaFDPD9IUK"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -449,7 +913,7 @@
       "url": "https://open.spotify.com/track/6sBieS2Go7uKoVW095ePs4"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -465,7 +929,7 @@
       "url": "https://open.spotify.com/track/6kSva3rEUBLkVKPoi7ND4I"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -481,7 +945,7 @@
       "url": "https://open.spotify.com/track/6zwhlb96RIzTUd5HIAlx1H"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -497,7 +961,7 @@
       "url": "https://open.spotify.com/track/2oSOPt3f284PQNB6JrPX06"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -513,7 +977,7 @@
       "url": "https://open.spotify.com/track/488afZ4YrlW3fh00NhLSWc"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -529,7 +993,7 @@
       "url": "https://open.spotify.com/track/3Urwzd1CPW3n9W1X7o5akj"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -545,7 +1009,7 @@
       "url": "https://open.spotify.com/track/7FUPXwT2dcCxuSbA0rAhpU"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -561,7 +1025,7 @@
       "url": "https://open.spotify.com/track/25f36zPqo9qO0F4VfWIOS4"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -581,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -605,7 +1069,7 @@
       "url": "https://open.spotify.com/track/6Rn95CtlE5cpNfDmjc5HqE"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -621,7 +1085,7 @@
       "url": "https://open.spotify.com/track/429wuVMhHX2fPtYPc9Shf4"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -637,7 +1101,7 @@
       "url": "https://open.spotify.com/track/5vIRylmVUI2TLBl4Z0vg15"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -653,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2DZRB61rdfkU1FfiP84X6Z"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -669,7 +1133,7 @@
       "url": "https://open.spotify.com/track/7wHWiSQ6dOkgGQ0rdqEZqX"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -689,7 +1153,7 @@
       "url": "https://open.spotify.com/track/1B2156X1TLuhzMcpaDt8f5"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -713,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0hMSKKA3zdckgDUjMk0pCw"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -729,7 +1193,7 @@
       "url": "https://open.spotify.com/track/3c3a0jVcm1QQV6NFHcE345"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -745,7 +1209,7 @@
       "url": "https://open.spotify.com/track/2WCYIyGsVIfXQ2rH6kN8IE"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -761,7 +1225,7 @@
       "url": "https://open.spotify.com/track/7K0WFtGwGgqqJ1NFFQxFRp"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -777,7 +1241,7 @@
       "url": "https://open.spotify.com/track/5On8t2uMbQ9mLVkrSPYnTB"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -793,7 +1257,7 @@
       "url": "https://open.spotify.com/track/6MoajpBjCJrSlvWeDR2qAP"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -809,7 +1273,7 @@
       "url": "https://open.spotify.com/track/4I4p1MpjsFyn8N11xRv40V"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -825,7 +1289,7 @@
       "url": "https://open.spotify.com/track/1MkLCKtcVLcc1mkAl08qHl"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -841,7 +1305,7 @@
       "url": "https://open.spotify.com/track/16Tuzk2qtm5Qch0mq65w0l"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Season 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA"
@@ -857,7 +1321,7 @@
       "url": "https://open.spotify.com/track/0qFcpGirlxoukfOyNA9meC"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -877,7 +1341,7 @@
       "url": "https://open.spotify.com/track/1hDwBeBz3G5xVYftAjK2BQ"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "Toss A Coin To Your Witcher",
         "url": "https://open.spotify.com/album/2zC7zR2MR9AvpM1hQCzGNG"
@@ -901,7 +1365,7 @@
       "url": "https://open.spotify.com/track/7iQM9DQUFKUSNjVt8GQZV2"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -925,7 +1389,7 @@
       "url": "https://open.spotify.com/track/1Ny6vWtIlFvPMFLZzUjrlB"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -953,7 +1417,7 @@
       "url": "https://open.spotify.com/track/6BTTmqavOi1KKpMBMRiYZ8"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -981,7 +1445,7 @@
       "url": "https://open.spotify.com/track/7euHyiqapZIQ08A4lerMOK"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1001,7 +1465,7 @@
       "url": "https://open.spotify.com/track/6eoXV1fjEBB9ussPSftEwA"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1025,7 +1489,7 @@
       "url": "https://open.spotify.com/track/5ifi01PWSK7Nx1FbIZ0jT8"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1045,7 +1509,7 @@
       "url": "https://open.spotify.com/track/0um7RSSiq1YiFkkYheLVuS"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1069,7 +1533,7 @@
       "url": "https://open.spotify.com/track/7gu99i0zbE2SIKzXkKW8ZA"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1089,7 +1553,7 @@
       "url": "https://open.spotify.com/track/4U6gIusvEnrkrSqJDQxCKA"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1113,7 +1577,7 @@
       "url": "https://open.spotify.com/track/52ifLFAEeFXYfQWMHe0X7y"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1137,7 +1601,7 @@
       "url": "https://open.spotify.com/track/6KZWM62G22AAOATjRKkHs9"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1157,7 +1621,7 @@
       "url": "https://open.spotify.com/track/4Q4OPuuuCJ4KHQ5EJvGLIz"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1181,7 +1645,7 @@
       "url": "https://open.spotify.com/track/0AYPWlZmdBqukG0OOp2Ine"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1205,7 +1669,7 @@
       "url": "https://open.spotify.com/track/2PPh5d93KFv70OUaUcqDtb"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1225,7 +1689,7 @@
       "url": "https://open.spotify.com/track/28eSkxyYbmE89HIeZTMnsC"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1249,7 +1713,7 @@
       "url": "https://open.spotify.com/track/4n3axXPWHMpFBMGZ4GMhgM"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1273,7 +1737,7 @@
       "url": "https://open.spotify.com/track/1iRG2KAY5bVz7HncTQF14h"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1293,7 +1757,7 @@
       "url": "https://open.spotify.com/track/3HHc8Vff5i1ogMlXHEoogb"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1317,7 +1781,7 @@
       "url": "https://open.spotify.com/track/2lL0L2vPfIZ9xdxpEJiQ3S"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1337,7 +1801,7 @@
       "url": "https://open.spotify.com/track/6Sorz09TdlUnyo2Ja4uNzb"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1357,7 +1821,7 @@
       "url": "https://open.spotify.com/track/4hD8Y7hZh8btoxflDyLugZ"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1381,7 +1845,7 @@
       "url": "https://open.spotify.com/track/3fcGcamR01XVSsV44qbNke"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1401,7 +1865,7 @@
       "url": "https://open.spotify.com/track/7LjkYjpf2uURgrZoCi5KOj"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1421,7 +1885,7 @@
       "url": "https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1445,7 +1909,7 @@
       "url": "https://open.spotify.com/track/6pktnzWEkli12iDo6Y1jTz"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1469,7 +1933,7 @@
       "url": "https://open.spotify.com/track/3hyZYDPhYpZx3IfrrlCEiV"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1493,7 +1957,7 @@
       "url": "https://open.spotify.com/track/7JY0CTHiOogxhmJBrTBcp0"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1517,7 +1981,7 @@
       "url": "https://open.spotify.com/track/47cmrLpx1evFKWVsgdLqnX"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1537,7 +2001,7 @@
       "url": "https://open.spotify.com/track/1tJDnftYNFy9KgDfW0V3Pl"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1557,7 +2021,7 @@
       "url": "https://open.spotify.com/track/1xYKGXZF1R1AmIO9sayi1b"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1577,7 +2041,7 @@
       "url": "https://open.spotify.com/track/6BF1zkgQllvTwu5LSl27MU"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1597,7 +2061,7 @@
       "url": "https://open.spotify.com/track/4qqw1sObbcCIbkg00armxj"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1617,7 +2081,7 @@
       "url": "https://open.spotify.com/track/1lE1kfzgoTKpWYYADYrwIe"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1637,7 +2101,7 @@
       "url": "https://open.spotify.com/track/6sdaGuPCEW4kOtOelRxZjX"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1661,7 +2125,7 @@
       "url": "https://open.spotify.com/track/3Lp49Ke7d6pjz7XTVMXwzV"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1681,7 +2145,7 @@
       "url": "https://open.spotify.com/track/6qqsCLb53W6dzqijbzAUrn"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1705,7 +2169,7 @@
       "url": "https://open.spotify.com/track/7CbQNZFLfSk4g0IcjhZRXi"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1729,7 +2193,7 @@
       "url": "https://open.spotify.com/track/0UHN6K1BofQn0yciyilJGT"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1749,7 +2213,7 @@
       "url": "https://open.spotify.com/track/41yC7uY7DcptdwNx1afHtv"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1769,7 +2233,7 @@
       "url": "https://open.spotify.com/track/6XdxafgMPNj7sPtDQPijPo"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1789,7 +2253,7 @@
       "url": "https://open.spotify.com/track/63oM1GngVrACWQdFdaWeSE"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1809,7 +2273,7 @@
       "url": "https://open.spotify.com/track/6kDxBKwbpmfzxbF9j9kFSk"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1829,7 +2293,7 @@
       "url": "https://open.spotify.com/track/5AbLAP2HPoEsK99RXsNL1a"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1849,7 +2313,7 @@
       "url": "https://open.spotify.com/track/6t7PLCmMFrAXkf1UCwpQz7"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1873,7 +2337,7 @@
       "url": "https://open.spotify.com/track/43fnC9EwpHeyHNPXXAxq71"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1893,7 +2357,7 @@
       "url": "https://open.spotify.com/track/5pDx2xXt8Bxu1KawK5X2IH"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1913,7 +2377,7 @@
       "url": "https://open.spotify.com/track/77HfdYVU9F9RiRJSeKPKPJ"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1937,7 +2401,7 @@
       "url": "https://open.spotify.com/track/4ppMrMWZB3RPJwaFp2DNm3"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1957,7 +2421,7 @@
       "url": "https://open.spotify.com/track/6yznYy0ivwdpMVXQ9vbN0d"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1977,7 +2441,7 @@
       "url": "https://open.spotify.com/track/4ukcO4njNNClwMnOP4BLQS"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -1997,7 +2461,7 @@
       "url": "https://open.spotify.com/track/052VQK13vE2FIuEuINOk74"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -2017,7 +2481,7 @@
       "url": "https://open.spotify.com/track/5rlZ3f5UuXmLc3WgLi4FoB"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -2037,7 +2501,7 @@
       "url": "https://open.spotify.com/track/27Yd1QeognuRmSQaKr5zRW"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS"
@@ -2061,7 +2525,7 @@
       "url": "https://open.spotify.com/track/3oEFh0g2JrawRNdlQm7NdZ"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2081,7 +2545,7 @@
       "url": "https://open.spotify.com/track/277m7fiKpjfeMgGLDzlqEO"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2105,7 +2569,7 @@
       "url": "https://open.spotify.com/track/2ZMnyGeKp9oGNepVIh6wdx"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2125,7 +2589,7 @@
       "url": "https://open.spotify.com/track/6QKpSl993xEJ8na3qTtepP"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2141,7 +2605,7 @@
       "url": "https://open.spotify.com/track/3Uu5NZaZWSdiPTwELoR2HK"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2157,7 +2621,7 @@
       "url": "https://open.spotify.com/track/437Xa31yqmoawBJ6aidR4O"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2173,7 +2637,7 @@
       "url": "https://open.spotify.com/track/0cEsgNhPiorB6u1lx7wii6"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2189,7 +2653,7 @@
       "url": "https://open.spotify.com/track/2AyN93eT2V2XmAePNiOpsb"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2205,7 +2669,7 @@
       "url": "https://open.spotify.com/track/0CI6x7s55Kvxaozhg5d5tw"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2221,7 +2685,7 @@
       "url": "https://open.spotify.com/track/2QXD3ES6qRPYtkDTYoqzWn"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2237,7 +2701,7 @@
       "url": "https://open.spotify.com/track/5dkHwDjtTfzkgdetpS0cj8"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2253,7 +2717,7 @@
       "url": "https://open.spotify.com/track/7mHOugOINhYlDTtSbW64Lm"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2269,7 +2733,7 @@
       "url": "https://open.spotify.com/track/13iDbXwqZieTXEL4TTcxPY"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2285,7 +2749,7 @@
       "url": "https://open.spotify.com/track/5vhtluOs7TUxmgaw9PpiVS"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2301,7 +2765,7 @@
       "url": "https://open.spotify.com/track/2qG8ZsJKANZlF7xAQtf8lc"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2317,7 +2781,7 @@
       "url": "https://open.spotify.com/track/6yVghatEAbDBWnmF6ytJ15"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2333,7 +2797,7 @@
       "url": "https://open.spotify.com/track/3JTmsWMP4aXOqwnZ19FicG"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2349,7 +2813,7 @@
       "url": "https://open.spotify.com/track/1z4w2h22Lx9vxUy1Em1SN5"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2365,7 +2829,7 @@
       "url": "https://open.spotify.com/track/08maeoY4mGYb6PMYeMyo7d"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2381,7 +2845,7 @@
       "url": "https://open.spotify.com/track/08jZwRS8oClmStiJVO06Xq"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2397,7 +2861,7 @@
       "url": "https://open.spotify.com/track/4EMtaGZqDBj2VmLvBcHyRq"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2413,7 +2877,7 @@
       "url": "https://open.spotify.com/track/6WSsD7mCahx2WAT3U4K5pC"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2429,7 +2893,7 @@
       "url": "https://open.spotify.com/track/1g2OuQptjpDb76W45mGkWD"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2445,7 +2909,7 @@
       "url": "https://open.spotify.com/track/5XTP8ZsvB2hpuMWmnbQ6WE"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2461,7 +2925,7 @@
       "url": "https://open.spotify.com/track/5ljbzK2xjOoOeiGWKbDJCJ"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2477,7 +2941,7 @@
       "url": "https://open.spotify.com/track/3VMKk1EYMToQyjyX2ivnAQ"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2493,7 +2957,7 @@
       "url": "https://open.spotify.com/track/6NWCPmcOGeaQgIimAfgjmI"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2509,7 +2973,7 @@
       "url": "https://open.spotify.com/track/33i9eCdDNsrU34CtbGhspC"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2525,7 +2989,7 @@
       "url": "https://open.spotify.com/track/1SlhQZ8kE7BdFDJo01noQB"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"
@@ -2541,7 +3005,7 @@
       "url": "https://open.spotify.com/track/5xTlXm9MgKYNZ324Vg3keT"
     },
     {
-      "added_at": "2022-05-20 18:41:13",
+      "added_at": "2023-07-14 00:04:04",
       "album": {
         "name": "The Witcher: Nightmare of the Wolf (Music from the Netflix Anime Film)",
         "url": "https://open.spotify.com/album/1tU5BoEJhrp2yDil507nMW"

@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 493876,
+  "num_followers": 494120,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODM3OGQ4ZTIyZTRkZWE4MmM1ZWZlZmEyOGFhMTllZGZkNDQ2ZTU5",
+  "snapshot_id": "MCwwOTdiYjgxNTFkNjQ2NzcxNjVhMDJkMmNjMGFhZGM2OTQyMjJkNzJl",
   "tracks": [
     {
       "added_at": "2023-05-26 09:00:00",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
-      },
-      "artists": [
-        {
-          "name": "Ghost Rider",
-          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
-        },
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "You Make Me Feel - Radio Version",
-      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Shiva Style, Pt. 2",
         "url": "https://open.spotify.com/album/6CZaPBFfSRM0uDuTSAUCKa"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 349764,
       "name": "Shiva Style, Pt. 2",
       "url": "https://open.spotify.com/track/0WLTMOUNg6zHjSlFR4Hv3m"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/1MbrZrYLnEb7PK28rX7Nug"
+      },
+      "artists": [
+        {
+          "name": "Ghost Rider",
+          "url": "https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi"
+        },
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "You Make Me Feel - Radio Version",
+      "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -855,18 +855,22 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+        "name": "LSD",
+        "url": "https://open.spotify.com/album/0mncgxb8z4FAFniIxHQ7Py"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Fresh Drop",
+          "url": "https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi"
+        },
+        {
+          "name": "Lil Umali",
+          "url": "https://open.spotify.com/artist/4j2Vv9jy5vVGyO18W42lmQ"
         }
       ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
+      "duration_ms": 250285,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/0o3w18l2cLJNZNJHwQySjO"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -895,22 +899,18 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/0mncgxb8z4FAFniIxHQ7Py"
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
       },
       "artists": [
         {
-          "name": "Fresh Drop",
-          "url": "https://open.spotify.com/artist/6wlfDafUCKXnI1czm6uXZi"
-        },
-        {
-          "name": "Lil Umali",
-          "url": "https://open.spotify.com/artist/4j2Vv9jy5vVGyO18W42lmQ"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 250285,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/0o3w18l2cLJNZNJHwQySjO"
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Transparent",
-        "url": "https://open.spotify.com/album/0xS7jOcqVLx6WgAFdapjSw"
-      },
-      "artists": [
-        {
-          "name": "Jason Nawty",
-          "url": "https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA"
-        },
-        {
-          "name": "NG Rezonance",
-          "url": "https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5"
-        },
-        {
-          "name": "Avaxx",
-          "url": "https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Transparent",
-      "url": "https://open.spotify.com/track/0GoFoDacevapONRmdyTmgh"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Music Is My Remedy",
         "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 343098,
       "name": "Crossroads (Remix)",
       "url": "https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Transparent",
+        "url": "https://open.spotify.com/album/0xS7jOcqVLx6WgAFdapjSw"
+      },
+      "artists": [
+        {
+          "name": "Jason Nawty",
+          "url": "https://open.spotify.com/artist/1nbB8VrSF57apiVkD91VIA"
+        },
+        {
+          "name": "NG Rezonance",
+          "url": "https://open.spotify.com/artist/4S3uwi4VXgUQNrLLetTBV5"
+        },
+        {
+          "name": "Avaxx",
+          "url": "https://open.spotify.com/artist/52HUx45BazsC0Ie5cjTwlJ"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Transparent",
+      "url": "https://open.spotify.com/track/0GoFoDacevapONRmdyTmgh"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Mystical Experience",
-        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Flegma",
-          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
-        }
-      ],
-      "duration_ms": 550985,
-      "name": "Mystical Experience",
-      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Other Days",
         "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 245357,
       "name": "Other Days",
       "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+        }
+      ],
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
     },
     {
       "added_at": "2023-05-26 09:00:00",

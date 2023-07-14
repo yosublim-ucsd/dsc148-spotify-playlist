@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4GTRpn0SBjf.md) - [plain]
 
 > Featuring Farruko, Cris Mj, Sech & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 672 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 677 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4GTRpn0SBjf.md) - [plain]
 | 20 | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [CXO \(A Quién No Le Gusta\)](https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu) | 3:56 |
 | 21 | [Privado](https://open.spotify.com/track/4Nu07kdmj2GDenygAFmuT8) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Privado](https://open.spotify.com/album/4mPO7JkT8H5B71Ij05x4mb) | 4:20 |
 | 22 | [K alegría](https://open.spotify.com/track/4FvJysAX0y4TfHE9CIprrx) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [K alegría](https://open.spotify.com/album/3Mi6EemjGymbATLNPisFee) | 2:39 |
-| 23 | [24 Horas](https://open.spotify.com/track/70chnez7P6TkD0eOdCcDWu) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [24 Horas \(24 Hours\)](https://open.spotify.com/album/1DECLfz4NYZ1OEupuuHZOK) | 4:03 |
+| 23 | [24 Horas](https://open.spotify.com/track/3LszjQpcPAysqjQEhsBl8R) | [Kele](https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [24 Horas](https://open.spotify.com/album/4ikbusuUXSqP5tfAzM6RGg) | 4:03 |
 | 24 | [Real](https://open.spotify.com/track/6o1lbf1Y5zdZfhhdloOgKZ) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [Real](https://open.spotify.com/album/3Q7g2iBYVBDOghZcNOuVK0) | 3:58 |
 | 25 | [2 X 3](https://open.spotify.com/track/4MAZS1p2qSSAbCJfhmQdzW) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Brujerías de Cantina](https://open.spotify.com/album/4wkcKHHjFk2ZK7ou5d3Woy) | 3:19 |
 
-Snapshot ID: `MCw3NzljODA2OTM0MWM0NGVhMjg1ZjJiZGQ1ZGFkNzA0MzJlYTI4MWRm`
+Snapshot ID: `MCwxNDNmOGY4MjBkODc2NTYyMmVhMmM1MzIxZDg5YjI3NTMyY2FjMzQw`

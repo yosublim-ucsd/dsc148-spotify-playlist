@@ -12748,10 +12748,28 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 187058,
       "name": "Your Gentleman",
       "url": "https://open.spotify.com/track/4scxr2wnXaagNRjxxt37OK"
+    },
+    {
+      "album": {
+        "name": "Your Gentleman",
+        "url": "https://open.spotify.com/album/6ZQFbRrUeO1Kk9Ky7XsvIL"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Your Gentleman",
+      "url": "https://open.spotify.com/track/5ScLGJawVYnJAXlPmVvOKF"
     },
     {
       "album": {

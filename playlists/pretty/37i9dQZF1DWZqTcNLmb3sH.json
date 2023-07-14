@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50096,
+  "num_followers": 50103,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWNjZDViNDUxZjY5NGUwMjkzYWNmODcxMzc1MmMzMzc1ZjVhOTBk",
+  "snapshot_id": "MCwyOTk4M2I1ODVkOWI0NTgwMGYzNWUwYzVhZDk4NzY5YWY0NDU3YTAw",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -175,6 +175,26 @@
       "duration_ms": 167051,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/6HhBDFjRAK28aqnb6Xyfc2"
+    },
+    {
+      "added_at": "2023-07-13 11:19:20",
+      "album": {
+        "name": "Guilt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
+      },
+      "artists": [
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Vijeth Urs",
+          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
+        }
+      ],
+      "duration_ms": 260917,
+      "name": "Naguve Summane (from \"Guilt\")",
+      "url": "https://open.spotify.com/track/1ICkq8Oj1mhv14oz0tqjd5"
     },
     {
       "added_at": "2023-07-08 12:44:18",
@@ -397,32 +417,24 @@
       "url": "https://open.spotify.com/track/6saPm4FZZStH4E4kbA2rgt"
     },
     {
-      "added_at": "2023-07-05 11:40:18",
+      "added_at": "2023-07-13 11:19:20",
       "album": {
-        "name": "Jhoom Jhoom (From \"Spy\")",
-        "url": "https://open.spotify.com/album/6580D3GpSQ4VwXflEH5NJ4"
+        "name": "Guilt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
       },
       "artists": [
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
         },
         {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        },
-        {
-          "name": "Vishal Chandrashekar",
-          "url": "https://open.spotify.com/artist/48roov0SxmfsyG07Z4lWPB"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+          "name": "Adithi Akash",
+          "url": "https://open.spotify.com/artist/6rkIqmWukoPqE7iS49n3BY"
         }
       ],
-      "duration_ms": 286399,
-      "name": "Jhoom Jhoom (From \"Spy\")",
-      "url": "https://open.spotify.com/track/3hX6uJV2RoDs1POWofzHeA"
+      "duration_ms": 104511,
+      "name": "Karago Chandrana Nambi (from \"Guilt\")",
+      "url": "https://open.spotify.com/track/0yLHWDYyFi5dbJOBLQeuKm"
     },
     {
       "added_at": "2023-07-06 12:25:07",
@@ -467,22 +479,6 @@
       "duration_ms": 201120,
       "name": "Ninna Araso Nanage (Kannada)",
       "url": "https://open.spotify.com/track/45i6Oq0aD0EZJ3PLG2IRP4"
-    },
-    {
-      "added_at": "2023-06-30 11:28:38",
-      "album": {
-        "name": "Love (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2iYZH3fkMqBobx1mek9tGl"
-      },
-      "artists": [
-        {
-          "name": "Roshith Vijayan",
-          "url": "https://open.spotify.com/artist/3TMU6ZIyskkKgYY2vPUm9r"
-        }
-      ],
-      "duration_ms": 308944,
-      "name": "Kanmani - from \"Love\"",
-      "url": "https://open.spotify.com/track/5PUELtgAuAFmkWT8DENtJv"
     },
     {
       "added_at": "2023-06-16 10:54:15",
@@ -551,30 +547,6 @@
       "duration_ms": 192000,
       "name": "Appa Ninnappugeyu (From \"Melody Drama\")",
       "url": "https://open.spotify.com/track/7vREFU9tT4weQj3dE2xeAK"
-    },
-    {
-      "added_at": "2023-06-09 06:29:08",
-      "album": {
-        "name": "Sukha Summane (Naalkane Aayama)",
-        "url": "https://open.spotify.com/album/2kyIMwPY4299jeSj1ZzBMD"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        }
-      ],
-      "duration_ms": 202474,
-      "name": "Sukha Summane - Naalkane Aayama",
-      "url": "https://open.spotify.com/track/0iEGDA9Ot5fncgk6NRBuwv"
     },
     {
       "added_at": "2023-06-09 06:29:08",
@@ -703,6 +675,26 @@
       "duration_ms": 174133,
       "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
       "url": "https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS"
+    },
+    {
+      "added_at": "2023-07-13 11:19:20",
+      "album": {
+        "name": "Guilt (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
+      },
+      "artists": [
+        {
+          "name": "Akash Parva",
+          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+        },
+        {
+          "name": "Vijeth Urs",
+          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
+        }
+      ],
+      "duration_ms": 67176,
+      "name": "Marali Baruveya Churu",
+      "url": "https://open.spotify.com/track/1WIZDAlF92EP4frsti7rjp"
     },
     {
       "added_at": "2023-05-24 12:20:30",
@@ -1096,8 +1088,8 @@
           "url": "https://open.spotify.com/artist/07sMsv3cwvQp3pi8zxR08S"
         },
         {
-          "name": "S. P. Balasubramanyam",
-          "url": "https://open.spotify.com/artist/4Rg1q6cx7uNPRbquQdLgyu"
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
         }
       ],
       "duration_ms": 311239,

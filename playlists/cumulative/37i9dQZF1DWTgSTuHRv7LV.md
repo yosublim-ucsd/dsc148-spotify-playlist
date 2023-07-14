@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: YOVNGCHIMI
 
-551 songs - 1 day 7 hr 23 min
+552 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2022-01-06 | 2022-01-20 |
 | [Se Terminó](https://open.spotify.com/track/6A960m4WHVWnraFxdKl79g) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ) | [Se Terminó](https://open.spotify.com/album/1xKVcal5ESjPnMmJGA88Mr) | 3:27 | 2022-01-06 | 2022-01-19 |
 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 | 2022-10-07 | 2023-07-05 |
+| [Seguimos Controlando](https://open.spotify.com/track/3E1WD6DTUTgIn5Tfpgg6Zz) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 2:55 | 2023-07-07 |  |
 | [Seres de Noche](https://open.spotify.com/track/4hRWp9ouazLXyfZpucb621) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Seres de Noche](https://open.spotify.com/album/7lmm7sVUgcVkSLlXD4hdi0) | 3:48 | 2022-10-07 | 2023-01-26 |
 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 | 2023-05-26 |  |
 | [SHUTTUP](https://open.spotify.com/track/6mVHBnsUG0a2XJHLl5Wfh7) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [SHUTTUP](https://open.spotify.com/album/3xYY0vRYERSiOYyddi1dmG) | 3:07 | 2022-01-19 | 2022-01-22 |
@@ -466,7 +467,7 @@
 | [Sprite](https://open.spotify.com/track/6ZJclxPNQ7ENAKLanZwQRu) | [Mauco](https://open.spotify.com/artist/3OzESUg9or4TuPNimZD3XC), [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU), [Elijah King](https://open.spotify.com/artist/4pdqUuVL0DtPf06XU0YkMr) | [Sprite](https://open.spotify.com/album/372LsHUhSFHSI0aPxHUxyX) | 3:37 | 2022-03-09 | 2022-10-08 |
 | [Standard](https://open.spotify.com/track/0G9vVO54iCyJwWth6nrDFT) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:31 | 2023-02-09 | 2023-05-27 |
 | [Standard](https://open.spotify.com/track/6NL2Lo67Xd7Zdnke6eWqa7) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:31 | 2022-12-09 | 2023-02-19 |
-| [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-05-13 |  |
+| [Standard](https://open.spotify.com/track/3wmuU2Mhvd3VRMRrd3EHjh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Standard](https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev) | 2:32 | 2022-05-13 | 2023-07-14 |
 | [Stripper X](https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Soñando en PR](https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5) | 2:38 | 2022-05-13 | 2023-05-27 |
 | [Stripper X](https://open.spotify.com/track/5UlAeEQEgkT8oVauCfbunJ) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Stripper X](https://open.spotify.com/album/5O3Z3LXXRc6QmdDerBMgaM) | 2:40 | 2023-05-26 |  |
 | [Stupid Love Story](https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx) | 4:42 | 2022-01-06 | 2022-01-20 |

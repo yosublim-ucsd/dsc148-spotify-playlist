@@ -231,6 +231,32 @@
     },
     {
       "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2"
+      },
+      "artists": [
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        },
+        {
+          "name": "Guy Arthur",
+          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
+        },
+        {
+          "name": "SGNLS",
+          "url": "https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX"
       },
@@ -3815,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/6D2SwvH7kPNxGFzyAYhiFZ"
+      },
+      "artists": [
+        {
+          "name": "Rave New World",
+          "url": "https://open.spotify.com/artist/4ko7cVxrcdvwdRkkmiNcRI"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/4IQujIjk2WNrUjwwv6yxuZ"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0msuqg81uxdZOmmFkS3ot7"
       },
@@ -4274,6 +4318,24 @@
       "duration_ms": 187200,
       "name": "Not Giving In",
       "url": "https://open.spotify.com/track/4BGisE3DH8PkP5ibmLkmQB"
+    },
+    {
+      "album": {
+        "name": "Nothing at All",
+        "url": "https://open.spotify.com/album/2QTpt0kCQuTtZsb6bXH78u"
+      },
+      "artists": [
+        {
+          "name": "The Arc",
+          "url": "https://open.spotify.com/artist/1wEt2WqHchpbKIY2TsctFF"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290009,
+      "name": "Nothing at All",
+      "url": "https://open.spotify.com/track/0fsEdr0Fwq0YN7aKY2elcZ"
     },
     {
       "album": {

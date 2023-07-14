@@ -951,6 +951,32 @@
     },
     {
       "album": {
+        "name": "Dancin Like a Fool",
+        "url": "https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G"
+      },
+      "artists": [
+        {
+          "name": "Souldrippin",
+          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+        },
+        {
+          "name": "Darius Dante",
+          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+        },
+        {
+          "name": "Hari Loco",
+          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184618,
+      "name": "Dancin Like a Fool",
+      "url": "https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM"
+    },
+    {
+      "album": {
         "name": "There is no Neil Frances",
         "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
@@ -4126,6 +4152,28 @@
       "duration_ms": 235219,
       "name": "SELFISH",
       "url": "https://open.spotify.com/track/2gdklwx9RchkYL2L8FeYMs"
+    },
+    {
+      "album": {
+        "name": "Settling",
+        "url": "https://open.spotify.com/album/5QesinUPN06YX7UKR4xDQ7"
+      },
+      "artists": [
+        {
+          "name": "The Park",
+          "url": "https://open.spotify.com/artist/4Y6lbDkzYvLHs91DVbpeUu"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/3ubrxuCaFCWDTIE0pcZH70"
     },
     {
       "album": {

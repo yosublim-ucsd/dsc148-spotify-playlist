@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Elmiene
 
-711 songs - 1 day 15 hr 57 min
+712 songs - 1 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,8 @@
 | [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 | 2023-06-23 | 2023-07-08 |
 | [Speak To Me \(Queen Mix\) \(feat\. Queen Naija\)](https://open.spotify.com/track/5e3VQH0pOjv9bSrbJhg4kf) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Speak To Me \(Queen Mix\) \(feat\. Queen Naija\)](https://open.spotify.com/album/0bTEIx8VmOj8z8B4SB7LmK) | 2:59 | 2021-03-06 | 2021-06-26 |
 | [Spell My Name](https://open.spotify.com/track/3Xbqqq0E6YbyIw8eIvVAQL) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Spell My Name](https://open.spotify.com/album/7cVfHcCdsGH28PMMRdTQg5) | 3:21 | 2020-09-04 | 2021-03-14 |
-| [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 |  |
+| [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 | 2023-07-14 |
+| [Spin the Block](https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/0WIyWP0I9sOm5zZkvFdc0u) | 3:49 | 2022-11-11 |  |
 | [Spit Up](https://open.spotify.com/track/5ninsjB30htfz4V2EHhT5F) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Spit Up](https://open.spotify.com/album/0qxXNClkynGMG0zKnMRb21) | 3:53 | 2022-08-21 | 2022-11-05 |
 | [SPLIT DECISION](https://open.spotify.com/track/4Rv5fDPvbbX0lNr3umOZSz) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [SPLIT DECISION](https://open.spotify.com/album/3w71Yh8MqONXOiv0B0hzP3) | 3:06 | 2020-02-28 | 2020-09-04 |
 | [Statistics](https://open.spotify.com/track/4MhO110MAsJJfTqwv5EVKY) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Black Mona Lisa](https://open.spotify.com/album/1FFEcyvXKJQEJ78DK2knZg) | 3:29 | 2022-09-16 | 2022-11-05 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,742 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,768 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ntinga Ntaka](https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk) | [Supta](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [THALITHA](https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg), [OBIE](https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC) | [Ntinga Ntaka](https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa) | 5:41 |
+| 1 | [Ntinga Ntaka](https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [THALITHA](https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg), [OBIE](https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC) | [Ntinga Ntaka](https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa) | 5:41 |
 | 2 | [Imikhuleko](https://open.spotify.com/track/1dztH332bWfzJLWLtjseLy) | [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Imikhuleko](https://open.spotify.com/album/6OhN5UxVkr2nR24cUkRvex) | 6:44 |
 | 3 | [Prayer](https://open.spotify.com/track/4hq89ojVRjGEvpHyQY4VGp) | [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Prayer](https://open.spotify.com/album/4AfrYoRVAlaH39vq5fHPpT) | 8:02 |
 | 4 | [Two Zulu Men In Ibiza](https://open.spotify.com/track/6CWJQvtLGj52iA7ulDljW8) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Two Zulu Men In Ibiza EP](https://open.spotify.com/album/5EbkVB9wNhdpHYOxSVY8Dz) | 7:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 49 | [Angimazi Ubabalo](https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Terrance Motsepe](https://open.spotify.com/artist/3TRjJTgBK1Mfb9exYwiq4C), [Eltonnick](https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G) | [Angimazi Ubabalo](https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP) | 7:39 |
 | 50 | [Clarity \- Shredded Mix](https://open.spotify.com/track/5oAaNT8wiuSjHoGLIbJnRU) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Clarity \(Shredded Mix\)](https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S) | 5:41 |
 
-Snapshot ID: `MCxjMWRiYjU4NzZhYTVmYzZmYWMwYjIzN2VjNDhkMWFhZWVhMzU1MzZm`
+Snapshot ID: `MCxkMTVkMzZjMWRlN2E0ZjM4NzQzNDIzMmNjODBhYjgxYzdlYzEwNWM4`

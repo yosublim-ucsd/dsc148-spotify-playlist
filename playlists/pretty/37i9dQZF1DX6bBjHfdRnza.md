@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Stuzzi\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,054 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,130 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Call Jane](https://open.spotify.com/track/2NGRFd7J0PdyDSMXvNsniW) | [Anna Amato](https://open.spotify.com/artist/244LldEKISk1ZWoBECOVcu) | [Call Jane](https://open.spotify.com/album/3SVXROaNwXao6vSnWorwgY) | 4:53 |
 | 100 | [Rapture](https://open.spotify.com/track/4xE4xQqsZILYGCnurQ0HP1) | [Shay De Castro](https://open.spotify.com/artist/0v9G2owf4WLwxKH95hc9gQ) | [Rapture](https://open.spotify.com/album/0LtLPY1kOsRJ1sDy4FGy4c) | 3:56 |
 
-Snapshot ID: `MCwyYzliODA1Yjc5YjRiYTVlNDAwNDc3ZDQ2NTg3NDhkMjgxZjhkZjg5`
+Snapshot ID: `MCw4YTMwYzQ3NTlmNDFlNjczZjlhOTE4NDMxOGEzYzFmNzBlZjc3MmQ2`

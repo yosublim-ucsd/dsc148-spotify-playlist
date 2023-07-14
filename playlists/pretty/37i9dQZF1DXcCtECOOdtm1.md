@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,372 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,405 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 12 | [SILENT SNOW STREAM](https://open.spotify.com/track/1bhJKv7Ou9rN9RYVD6YXUP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 6:32 |
 | 13 | [幸せな結末](https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [幸せな結末](https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf) | 4:36 |
 | 14 | [恋は流星 SHOOTING STAR OF LOVE](https://open.spotify.com/track/7DwgrtlxProoKzcjgW95Hs) | [米光 美保](https://open.spotify.com/artist/15asL053CFbu0Yd8l1z6Xr) | [FOREVER](https://open.spotify.com/album/40LzeiD8n5G9OddvHBu00H) | 5:48 |
-| 15 | [素直になりたい](https://open.spotify.com/track/67dgiLbwMnKvey0fy4rJgW) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [DRAWING](https://open.spotify.com/album/1yLXjq2T0UZdk2iCY1Qor5) | 4:38 |
+| 15 | [素直になりたい](https://open.spotify.com/track/4aapfga5ZFZrFbFbjU2YTA) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [City Pop Essetials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 4:38 |
 | 16 | [New Precious World](https://open.spotify.com/track/1fBvg4jelTmLWN9bTPKudL) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [Natural Agency](https://open.spotify.com/album/52maoIFHtoFwNFzqKLj33j) | 3:41 |
 | 17 | [DEEP FRENCH KISS](https://open.spotify.com/track/3840uavKqiGjuWZ32vu1b6) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [LOVE! LOVE! & LOVE!](https://open.spotify.com/album/2sbXsIxF3TUIuc4iVhSs1c) | 4:39 |
 | 18 | [あの時計の下で](https://open.spotify.com/track/21OTypqqi7JU5CrEpcIxhK) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Soul Kiss](https://open.spotify.com/album/0dXWAhAdGxGfbZ4MILNUFO) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MCwxYjNlMWZmODJmOGQ0MWJiNWQ3N2VkY2YwMzZhZjE4YjlmZDdiNzM4`
+Snapshot ID: `MCw5YmE3YmQ4OWM5ZDAyNTAzY2ZlMDEzY2E1OWZlYmFhNWYzMDFmMmFh`

@@ -1,15 +1,15 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Haloday\u0131",
-  "num_followers": 1256250,
+  "num_followers": 1257031,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mzg4NGRiZjM5OTQ4YTI2YjczOGYwYmU1YmMxMDlkNjIzZjgwNTg2",
+  "snapshot_id": "MCw1NDA1NWUwNGRkMzNmMzc1YjI0OTc5MGJjYWY1ZTA2NWI3YTI3Zjhl",
   "tracks": [
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
         "url": "https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "N'apt\u0131\u011f\u0131n\u0131 bilmesem de",
         "url": "https://open.spotify.com/album/7qgd2TX9kzFYbvBl9cavsK"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6uNSbvWZgNkBWw3MP7bpnf"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Caney",
         "url": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6ed4S0as5mj3nSK81HJuyz"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "A\u015fk Olsun",
         "url": "https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "F\u0131st\u0131k",
+        "url": "https://open.spotify.com/album/5BB0Bx6pmN3YknwBkF6rAU"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "duration_ms": 119023,
+      "name": "F\u0131st\u0131k",
+      "url": "https://open.spotify.com/track/6NUuqQJoZQULg0kX4wo1gL"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Ta\u015ftan",
         "url": "https://open.spotify.com/album/5OLMyZAcZTSmOPHnzeMKwc"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/4I2jzj5QIk4q0XWs1QcTnq"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "ARABA",
         "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
@@ -129,7 +145,27 @@
       "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "BAKSANA B\u0130LADER (Saz Mi Caz Mi)",
+        "url": "https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og"
+      },
+      "artists": [
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "Kuty",
+          "url": "https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1"
+        }
+      ],
+      "duration_ms": 176999,
+      "name": "BAKSANA B\u0130LADER - Saz Mi Caz Mi",
+      "url": "https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "DEFOL",
         "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
@@ -145,43 +181,7 @@
       "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "GMER",
-        "url": "https://open.spotify.com/album/04wjsDb4okF2gKvPmSACvm"
-      },
-      "artists": [
-        {
-          "name": "BEGE",
-          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
-        },
-        {
-          "name": "Reckol",
-          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
-        }
-      ],
-      "duration_ms": 112105,
-      "name": "GMER",
-      "url": "https://open.spotify.com/track/7fHqY4uBehhGc4e5oapLme"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "Yine Edemedik Dans",
-        "url": "https://open.spotify.com/album/7EOugSG5ValkBxcSNADSEj"
-      },
-      "artists": [
-        {
-          "name": "Gazapizm",
-          "url": "https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "Yine Edemedik Dans",
-      "url": "https://open.spotify.com/track/44WqaNeApwZN0KxMVhY8P2"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
@@ -197,43 +197,7 @@
       "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "Hermano",
-        "url": "https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4"
-      },
-      "artists": [
-        {
-          "name": "Heijan",
-          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
-        },
-        {
-          "name": "Muti",
-          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
-        }
-      ],
-      "duration_ms": 186950,
-      "name": "Aynen",
-      "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "HAFTASONU",
-        "url": "https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa"
-      },
-      "artists": [
-        {
-          "name": "cakal",
-          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
-        }
-      ],
-      "duration_ms": 130485,
-      "name": "Cuma",
-      "url": "https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
@@ -257,23 +221,95 @@
       "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
-        "name": "IMPARATOR",
-        "url": "https://open.spotify.com/album/4jnO704ysYulzHEMiY4AIy"
+        "name": "\u00d6zlesen Beni",
+        "url": "https://open.spotify.com/album/1ii0DgIUp0k3VPCpEUU6c7"
       },
       "artists": [
         {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
         }
       ],
-      "duration_ms": 129946,
-      "name": "IMPARATOR",
-      "url": "https://open.spotify.com/track/5LOnarDCzVh4YcN7EOTzRC"
+      "duration_ms": 138989,
+      "name": "\u00d6zlesen Beni",
+      "url": "https://open.spotify.com/track/7ET0F8bXWsF8glyEwMDeli"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "Hermano",
+        "url": "https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4"
+      },
+      "artists": [
+        {
+          "name": "Heijan",
+          "url": "https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca"
+        },
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        }
+      ],
+      "duration_ms": 186950,
+      "name": "Aynen",
+      "url": "https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "GMER",
+        "url": "https://open.spotify.com/album/04wjsDb4okF2gKvPmSACvm"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        },
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        }
+      ],
+      "duration_ms": 112105,
+      "name": "GMER",
+      "url": "https://open.spotify.com/track/7fHqY4uBehhGc4e5oapLme"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "Yine Edemedik Dans",
+        "url": "https://open.spotify.com/album/7EOugSG5ValkBxcSNADSEj"
+      },
+      "artists": [
+        {
+          "name": "Gazapizm",
+          "url": "https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "Yine Edemedik Dans",
+      "url": "https://open.spotify.com/track/44WqaNeApwZN0KxMVhY8P2"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "duration_ms": 101116,
+      "name": "\u0130ZLED\u0130 MAHALLE",
+      "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Ayna",
         "url": "https://open.spotify.com/album/6JPCXMFjZQDAswKxIekVsY"
@@ -289,7 +325,39 @@
       "url": "https://open.spotify.com/track/6iMkA2M2H8Dz318cAttaSS"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "HAFTASONU",
+        "url": "https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "duration_ms": 130485,
+      "name": "Cuma",
+      "url": "https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "IMPARATOR",
+        "url": "https://open.spotify.com/album/4jnO704ysYulzHEMiY4AIy"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "duration_ms": 129946,
+      "name": "IMPARATOR",
+      "url": "https://open.spotify.com/track/5LOnarDCzVh4YcN7EOTzRC"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Sor Bize",
         "url": "https://open.spotify.com/album/5u7KCV8aBJ6kHjFvqyROMm"
@@ -305,7 +373,7 @@
       "url": "https://open.spotify.com/track/5CaBkfl4rSKlXm91PZkNUV"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "BALENCIAGA",
         "url": "https://open.spotify.com/album/2rRbt9F9234nmA7LBWkwkt"
@@ -321,7 +389,7 @@
       "url": "https://open.spotify.com/track/2HQpdd5cVGGfyX1khL5BQP"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "OLEY",
         "url": "https://open.spotify.com/album/1DfTQGVNsHhPZ4a7QshWy9"
@@ -337,23 +405,55 @@
       "url": "https://open.spotify.com/track/7GJ0QYWfAdnJkgMShTRodn"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
-        "name": "Nasip",
-        "url": "https://open.spotify.com/album/4dogjv6Sivh3guZtKcDDGh"
+        "name": "Oynar",
+        "url": "https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm"
       },
       "artists": [
         {
-          "name": "Kum",
-          "url": "https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw"
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Nasip",
-      "url": "https://open.spotify.com/track/5EtvbFJ6zZ0XNVMJGzH6Cf"
+      "duration_ms": 167753,
+      "name": "Oynar",
+      "url": "https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "ROMANT\u0130K",
+        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "duration_ms": 135459,
+      "name": "HANIMEFEND\u0130",
+      "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
+      "album": {
+        "name": "YAPTIRICAZ TIRNAKLARINI",
+        "url": "https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 141072,
+      "name": "YAPTIRICAZ TIRNAKLARINI",
+      "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"
+    },
+    {
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY"
@@ -373,71 +473,7 @@
       "url": "https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "Oynar",
-        "url": "https://open.spotify.com/album/5FjxfxLLRpI9f7UrRFolpm"
-      },
-      "artists": [
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "Oynar",
-      "url": "https://open.spotify.com/track/1PLLIhyhOlnZvaxFPEQYsN"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "BABA",
-        "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        }
-      ],
-      "duration_ms": 101116,
-      "name": "\u0130ZLED\u0130 MAHALLE",
-      "url": "https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "ROMANT\u0130K",
-        "url": "https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB"
-      },
-      "artists": [
-        {
-          "name": "Motive",
-          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
-        }
-      ],
-      "duration_ms": 135459,
-      "name": "HANIMEFEND\u0130",
-      "url": "https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "YAPTIRICAZ TIRNAKLARINI",
-        "url": "https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 141072,
-      "name": "YAPTIRICAZ TIRNAKLARINI",
-      "url": "https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "YAN YANA",
         "url": "https://open.spotify.com/album/6XxwfM0hPQUoGOoblA5Su8"
@@ -461,27 +497,7 @@
       "url": "https://open.spotify.com/track/3IRtLsu2orU0gBnh6aEm5T"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "ORMAN",
-        "url": "https://open.spotify.com/album/0IfwuvQaScScjTfbcEOQ7C"
-      },
-      "artists": [
-        {
-          "name": "U\u011fur \u00d6zt\u00fcrk",
-          "url": "https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI"
-        },
-        {
-          "name": "Patron",
-          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
-        }
-      ],
-      "duration_ms": 136445,
-      "name": "ORMAN",
-      "url": "https://open.spotify.com/track/5l98UTqZFOoNaKWzgOtNkr"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "BAYBAY",
         "url": "https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Yolunda \"pavyon\"",
         "url": "https://open.spotify.com/album/55xd86fvi9qV5KT7oYAVnM"
@@ -533,31 +549,7 @@
       "url": "https://open.spotify.com/track/0i0kO2WYXFNkyB6aTJbPGo"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
-      "album": {
-        "name": "MENTAL BREAKDANCE",
-        "url": "https://open.spotify.com/album/5idCVO1O8V9xlFRGgR86Hn"
-      },
-      "artists": [
-        {
-          "name": "13 Killoki",
-          "url": "https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK"
-        },
-        {
-          "name": "BEGE",
-          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
-        },
-        {
-          "name": "Ege Ta\u015ftan",
-          "url": "https://open.spotify.com/artist/2L48zFZ46FyZQSd0dQoY6T"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "MENTAL BREAKDANCE",
-      "url": "https://open.spotify.com/track/6z6KfrFYUT6aD2DOVMwMJT"
-    },
-    {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "HAYRAN KALICAN",
         "url": "https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk"
@@ -573,7 +565,7 @@
       "url": "https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR"
@@ -597,7 +589,7 @@
       "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "YAKALARSAN",
         "url": "https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP"
@@ -613,7 +605,7 @@
       "url": "https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "AFFETMEM",
         "url": "https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg"
@@ -629,7 +621,7 @@
       "url": "https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "\u00d6z\u00fcr",
         "url": "https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg"
@@ -645,7 +637,7 @@
       "url": "https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "RANDEVU",
         "url": "https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b"
@@ -661,7 +653,7 @@
       "url": "https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "NKB\u0130 X YAPAMAM (Remix)",
         "url": "https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ"
@@ -681,7 +673,7 @@
       "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "\u0130ntikam",
         "url": "https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p"
@@ -705,7 +697,7 @@
       "url": "https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Paspartu",
         "url": "https://open.spotify.com/album/1UTwQbcpKHteAspEdAN0nc"
@@ -721,7 +713,7 @@
       "url": "https://open.spotify.com/track/0ufocYYqahx6pVSERRj4HL"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "\u0130mparator",
         "url": "https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre"
@@ -741,7 +733,7 @@
       "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "O Yeterdi Asl\u0131nda",
         "url": "https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF"
@@ -761,7 +753,7 @@
       "url": "https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Hermano",
         "url": "https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4"
@@ -785,7 +777,7 @@
       "url": "https://open.spotify.com/track/1h5VOGnSj6DIcAKXvybi01"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn"
@@ -801,7 +793,7 @@
       "url": "https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "VUR",
         "url": "https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr"
@@ -817,7 +809,7 @@
       "url": "https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Diyardan Diyara",
         "url": "https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP"
@@ -841,7 +833,7 @@
       "url": "https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "10MG",
         "url": "https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4"
@@ -857,7 +849,7 @@
       "url": "https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
@@ -877,7 +869,7 @@
       "url": "https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "C5MODE",
         "url": "https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu"
@@ -893,7 +885,7 @@
       "url": "https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN"
     },
     {
-      "added_at": "2023-07-11 10:21:46",
+      "added_at": "2023-07-13 21:23:18",
       "album": {
         "name": "Kalbin bana kald\u0131",
         "url": "https://open.spotify.com/album/16Zm67RcCCbtUDd1RrD8qW"

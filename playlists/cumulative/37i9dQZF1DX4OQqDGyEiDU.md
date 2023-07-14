@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-501 songs - 1 day 4 hr 41 min
+502 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [YOMI](https://open.spotify.com/track/3Mm9Cx5gCig9qeMm4eaUoI) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [YOMI](https://open.spotify.com/album/4IWge9TEfl1Kdc8P3FWJi2) | 3:37 | 2022-11-24 | 2022-12-14 |
 | [Yorutumugi](https://open.spotify.com/track/2k8j9gut9Sq6WCQNbjzY1U) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [Yorutumugi](https://open.spotify.com/album/1LXzmPBHWjcGUlS0Yhm7Ar) | 3:12 | 2022-06-21 | 2022-07-26 |
 | [Young Girl A](https://open.spotify.com/track/5sPKAEb7afrIMtdqEnI6H6) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD) | [Alive](https://open.spotify.com/album/0JzdeLGqbDXPBlDbV4Y0c3) | 3:41 | 2022-07-26 | 2022-10-14 |
-| [Young Girl A \- one day After Another Remix](https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Young Girl A \(one day After Another Remix\)](https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm) | 3:50 | 2023-03-09 |  |
+| [Young Girl A \- one day After Another Remix](https://open.spotify.com/track/3rzVcHw0hwVgDEq5udhUJS) | [Siinamota](https://open.spotify.com/artist/4qfQTMwNNuBKJ4rF9Lo4bD), [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [Young Girl A \(one day After Another Remix\)](https://open.spotify.com/album/1olPBlVuFykQpy25lUxxOm) | 3:50 | 2023-03-09 | 2023-07-14 |
 | [Yueni](https://open.spotify.com/track/4pmdaKyK4eHEa8aZANEyna) | [Yurry Canon](https://open.spotify.com/artist/1m34pv256vfYU7zY1vozJT) | [Yueni](https://open.spotify.com/album/6rYAK7nGD6gu58uXQD9aWs) | 2:25 | 2022-06-14 | 2022-07-11 |
 | [YY](https://open.spotify.com/track/7MREY03s67e2toH9h84oUO) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 3:11 | 2022-07-05 | 2022-07-12 |
 | [『±0』](https://open.spotify.com/track/5L9RRxcfNKVXUEEsbyReSR) | [ぺぽよ](https://open.spotify.com/artist/5rUE6efKX1ZFMAiSDEkzcS) | [『±0』](https://open.spotify.com/album/0TwJtdrGXBbFs8zhKkp8b6) | 4:25 | 2022-06-09 | 2022-07-08 |
@@ -325,6 +325,7 @@
 | [フロートプレイ](https://open.spotify.com/track/2T7Yky4Kmlq1xkY2paZVm9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [フロートプレイ](https://open.spotify.com/album/7tzYNbCa87y2zoWBbcFCs1) | 4:02 | 2023-01-12 | 2023-04-11 |
 | [ブリキノダンス](https://open.spotify.com/track/3ZXkNy6OVQsdSc3hXs7yi1) | [日向電工](https://open.spotify.com/artist/7tOWLqvZMnDRMSceKrAwP8) | [ブラックホールディスク](https://open.spotify.com/album/7CIIILjU0gQUYJO4V4btfd) | 3:22 | 2022-06-09 | 2022-07-28 |
 | [ブレス・ユア・ブレス](https://open.spotify.com/track/5rqn19oB0lGKgTxHkIEChk) | [和田たけあき](https://open.spotify.com/artist/6qayQS8CjcEBPMLdWAZEMK) | [ブレス・ユア・ブレス](https://open.spotify.com/album/1La2cKbROZIPjIL3tluXHQ) | 4:13 | 2022-06-09 | 2022-07-17 |
+| [ブーケガルニ](https://open.spotify.com/track/4HBcVPMS3Qj5rxeAFf58Ic) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [ブーケガルニ](https://open.spotify.com/album/1G1qJPkglIofGfsZ9WXA4U) | 2:57 | 2023-07-13 |  |
 | [プルメリア](https://open.spotify.com/track/7B9ChayKhfOOCUa22YOas8) | [にっけい](https://open.spotify.com/artist/1HYeWkut46GCdzJNklFiDH) | [プルメリア](https://open.spotify.com/album/2DG8Q797XWlJNM49aH3c4W) | 4:26 | 2022-06-23 | 2022-07-05 |
 | [プルーヴェ](https://open.spotify.com/track/3irhzt4XzHJL4BL7HJlhym) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [プルーヴェ](https://open.spotify.com/album/0KjPmVz3whYFS5XJ8GEK71) | 3:03 | 2022-10-12 | 2022-10-21 |
 | [プレデター](https://open.spotify.com/track/0E5rkxhDvozrBTNRNptqBP) | [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [プレデター](https://open.spotify.com/album/08JwMkdLLIUjZdWpqTRBO1) | 3:30 | 2022-06-30 | 2022-07-13 |

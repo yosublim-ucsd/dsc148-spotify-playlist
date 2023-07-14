@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Rita Tila",
+  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Rizky Febian",
   "name": "Suara Dari Jawa Barat",
   "tracks": [
     {
@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Berona",
+        "url": "https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Berona",
+      "url": "https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY"
+    },
+    {
+      "album": {
         "name": "Bertaruh Pada Api",
         "url": "https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 275686,
       "name": "Bubuy Bulan",
       "url": "https://open.spotify.com/track/2Xs2Bu0gQ0mLFDwa26Sx7j"

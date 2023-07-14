@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 57657,
+  "num_followers": 57693,
   "original_name": "Lo-Fi Cool Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTA1ZjJkYzljZjRiOTg4OTI4MmJkMWY3ZTQ0OTI5NTQ4NjMxZjY0",
+  "snapshot_id": "MCxjMGVkNmE2NGJhNjdkNWQyOTU3N2E5OWQ5Mjc5YzVkNTAyZjI5ZTUw",
   "tracks": [
     {
       "added_at": "2020-11-12 22:28:34",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Meditations on Silence",
-        "url": "https://open.spotify.com/album/5x21oAOWxgh2zIg3ORfAdw"
-      },
-      "artists": [
-        {
-          "name": "J. Roosevelt",
-          "url": "https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW"
-        }
-      ],
-      "duration_ms": 168607,
-      "name": "Sandalwood",
-      "url": "https://open.spotify.com/track/1mU5tbLwcCYs64FhTTEQ4U"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Chillhop Essentials Spring 2017",
         "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 163805,
       "name": "Haru",
       "url": "https://open.spotify.com/track/0fLIRPJy4J2JXZXy80Oaek"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Meditations on Silence",
+        "url": "https://open.spotify.com/album/5x21oAOWxgh2zIg3ORfAdw"
+      },
+      "artists": [
+        {
+          "name": "J. Roosevelt",
+          "url": "https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW"
+        }
+      ],
+      "duration_ms": 168607,
+      "name": "Sandalwood",
+      "url": "https://open.spotify.com/track/1mU5tbLwcCYs64FhTTEQ4U"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -699,26 +699,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Bopatron",
-        "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
-      },
-      "artists": [
-        {
-          "name": "Cloudchord",
-          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Bopatron",
-      "url": "https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Sun Will Rise",
         "url": "https://open.spotify.com/album/2HL9SfddGTaBRMxw0akpav"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 129081,
       "name": "Sun Will Rise",
       "url": "https://open.spotify.com/track/7oFTdwHXmhYDwRW1QXqf8j"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Bopatron",
+        "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
+      },
+      "artists": [
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Bopatron",
+      "url": "https://open.spotify.com/track/3VYPsUPZMaf6lYOFoYwoB6"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "weak",
-        "url": "https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA"
-      },
-      "artists": [
-        {
-          "name": "Milkz",
-          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
-        }
-      ],
-      "duration_ms": 71111,
-      "name": "weak",
-      "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 130370,
       "name": "Gin",
       "url": "https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "weak",
+        "url": "https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA"
+      },
+      "artists": [
+        {
+          "name": "Milkz",
+          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
+        }
+      ],
+      "duration_ms": 71111,
+      "name": "weak",
+      "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -951,22 +951,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/56A7kmD6LKvf6BXwCSYcDn"
-      },
-      "artists": [
-        {
-          "name": "Kudasaibeats",
-          "url": "https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Chillhop Essentials Fall 2018",
         "url": "https://open.spotify.com/album/2YWGJnubyNg6IkFtaZKBCl"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 132058,
       "name": "mochus",
       "url": "https://open.spotify.com/track/3HDMX7NqmyPYmTfBgmCJlO"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/56A7kmD6LKvf6BXwCSYcDn"
+      },
+      "artists": [
+        {
+          "name": "Kudasaibeats",
+          "url": "https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/56Q5Wdwc0zILGWfdBzPfao"
     },
     {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
+      },
+      "artists": [
+        {
+          "name": "Yestalgia",
+          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
+        }
+      ],
+      "duration_ms": 143376,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "Sunny in Saint Lucia",
@@ -1095,22 +1111,6 @@
       "duration_ms": 186666,
       "name": "Sunny in Saint Lucia",
       "url": "https://open.spotify.com/track/5L6RFPXEfm9YBCMUVEi3bE"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
-      },
-      "artists": [
-        {
-          "name": "Yestalgia",
-          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
-        }
-      ],
-      "duration_ms": 143376,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/60ka7YNcrwXJOqxdgmytaz"
     },
     {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
-      },
-      "artists": [
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 78120,
-      "name": "makeuseofthetime",
-      "url": "https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "NightSky",
@@ -1319,6 +1303,22 @@
       "duration_ms": 184615,
       "name": "NightSky",
       "url": "https://open.spotify.com/track/5fpsn9LdAGXQbZcOwTs0WV"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
+      },
+      "artists": [
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 78120,
+      "name": "makeuseofthetime",
+      "url": "https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1361,26 +1361,6 @@
       "url": "https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "timestamp",
-        "url": "https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh"
-      },
-      "artists": [
-        {
-          "name": "walzy",
-          "url": "https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS"
-        },
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        }
-      ],
-      "duration_ms": 147300,
-      "name": "timestamp",
-      "url": "https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa"
-    },
-    {
       "added_at": "2020-11-12 22:28:34",
       "album": {
         "name": "Sonar",
@@ -1399,6 +1379,26 @@
       "duration_ms": 118518,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/2WqVy95w7d9XloMp9zUsjG"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "timestamp",
+        "url": "https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh"
+      },
+      "artists": [
+        {
+          "name": "walzy",
+          "url": "https://open.spotify.com/artist/0FdfALVZs2DXZB7WazJzOS"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        }
+      ],
+      "duration_ms": 147300,
+      "name": "timestamp",
+      "url": "https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -1473,20 +1473,28 @@
       "url": "https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T"
     },
     {
-      "added_at": "2020-11-12 22:28:34",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "Distune",
-        "url": "https://open.spotify.com/album/4RXlSA1QjJgT7IgpyqG7vc"
+        "name": "Chasing Sunsets",
+        "url": "https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi"
       },
       "artists": [
         {
-          "name": "JinSei",
-          "url": "https://open.spotify.com/artist/3wptMvKU4cdKcFcEp5qpXM"
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Distune",
-      "url": "https://open.spotify.com/track/2jeMAj7vVNbhhZdWNCDe51"
+      "duration_ms": 120000,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe"
     }
   ],
   "unique_name": "Lo-Fi Cool Down",

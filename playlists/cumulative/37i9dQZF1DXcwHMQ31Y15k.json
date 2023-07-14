@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Dike Sabrina",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Hendra Kumbara",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 255789,
       "name": "Aduh Biyung - From \"Cidro Asmoro\"",
       "url": "https://open.spotify.com/track/3cXIS43BQZtXN9CBe7s2di"
@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Dumes",
+        "url": "https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd"
+      },
+      "artists": [
+        {
+          "name": "OMWAWES",
+          "url": "https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A"
+        },
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5B5aSdWGySF3MXFEguHCvz"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Dumes",
+      "url": "https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg"
+    },
+    {
+      "album": {
         "name": "Durung Ikhlas",
         "url": "https://open.spotify.com/album/03bt7cjECUUsUrcrGDBwHr"
       },
@@ -642,7 +664,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 232615,
       "name": "Eman Eman - Keroncong",
       "url": "https://open.spotify.com/track/0H3B3cCIQPCs6jjmwhW1A0"
@@ -804,7 +826,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 234754,
       "name": "Iki Uripku",
       "url": "https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM"
@@ -1049,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Kok Iso Yo?",
+        "url": "https://open.spotify.com/album/54wJfSjpNpNSC9lFPb9DVO"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332888,
+      "name": "Kok Iso Yo?",
+      "url": "https://open.spotify.com/track/38ns4gqe16w0gAGWgvKfLS"
+    },
+    {
+      "album": {
         "name": "Nella Kharisma Special NDX",
         "url": "https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD"
       },
@@ -1132,7 +1172,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 232320,
       "name": "Koyo Koyo - From \"Cidro Asmoro\"",
       "url": "https://open.spotify.com/track/7pp3cqcPEetjynnprldgSd"
@@ -1360,7 +1400,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 359342,
       "name": "Lungaku",
       "url": "https://open.spotify.com/track/5laQzcP5GJcT0lF5R7HpBr"
@@ -1537,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Nemen",
+        "url": "https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288522,
+      "name": "Nemen",
+      "url": "https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR"
+    },
+    {
+      "album": {
         "name": "NEMEN",
         "url": "https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn"
       },
@@ -1710,7 +1768,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 320520,
       "name": "Ninggal Cerito (Purwokerto) [Live Orchestra]",
       "url": "https://open.spotify.com/track/6Jgs44v1wA7KIenP41TXUo"
@@ -2057,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Pengangguran Yo Lumayan (Keroncong)",
+        "url": "https://open.spotify.com/album/0twUn01gTREHP0tPtX2bnA"
+      },
+      "artists": [
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256285,
+      "name": "Pengangguran Yo Lumayan - Keroncong",
+      "url": "https://open.spotify.com/track/77XmujDpcFtBeBMXzqNjls"
+    },
+    {
+      "album": {
         "name": "Penting Yakin (From \"Cidro Asmoro\")",
         "url": "https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt"
       },
@@ -2325,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Rasah Nyangkem 3 (Gak Bahaya Ta?)",
+        "url": "https://open.spotify.com/album/2EgeXFbynVOAoscuiblzmZ"
+      },
+      "artists": [
+        {
+          "name": "Pakdhe Baz",
+          "url": "https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285886,
+      "name": "Rasah Nyangkem 3 (Gak Bahaya Ta?)",
+      "url": "https://open.spotify.com/track/2aueDPar55SYxa2zFn17PZ"
+    },
+    {
+      "album": {
         "name": "RASAKNO",
         "url": "https://open.spotify.com/album/43wdc2mBasJtCauaGxph3C"
       },
@@ -2482,6 +2576,24 @@
       "duration_ms": 316470,
       "name": "Rungokno Aku",
       "url": "https://open.spotify.com/track/0FzsdBtp14KszsGY8NuCcY"
+    },
+    {
+      "album": {
+        "name": "Geni Sun Pamah",
+        "url": "https://open.spotify.com/album/4VJpuG28gAvdyt4dqmqrct"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299912,
+      "name": "Sadar Posisi",
+      "url": "https://open.spotify.com/track/2zfMeqWy62AiZtgMNMrplj"
     },
     {
       "album": {
@@ -3190,7 +3302,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 296100,
       "name": "Widodari",
       "url": "https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV"

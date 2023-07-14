@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 > Party like it's the early 2000s\. ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,230 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,588 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 56 | [Young'n](https://open.spotify.com/track/0jdkdbnRwNVHJQ6zL84pQs) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Ghetto Fabolous](https://open.spotify.com/album/6hl66Nlqoeppdm0dRpYA02) | 3:26 |
 | 57 | [Let's Get Married \(feat\. Run\) \- ReMarqable Remix](https://open.spotify.com/track/18CODOzJ5DWzWh6kAeKiSC) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie), [Lamarquis Jefferson](https://open.spotify.com/artist/6eZD2i7kAelKt5z1ytH0Me) | [The Hits](https://open.spotify.com/album/72phYQZz7SLAT9xwK6LMO6) | 4:09 |
 | 58 | [You Owe Me \(feat\. Ginuwine\)](https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Nastradamus](https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5) | 4:47 |
-| 59 | [Drop \(feat\. Fatman Scoop\)](https://open.spotify.com/track/5ra5c4NPCA4szK6hBbMs4u) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Indecent Proposal](https://open.spotify.com/album/1CQyN4iheuFankpvxYuLPD) | 6:00 |
+| 59 | [Drop \(feat\. Fatman Scoop\)](https://open.spotify.com/track/5ra5c4NPCA4szK6hBbMs4u) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Magoo](https://open.spotify.com/artist/3zVQJ3L7xUlFqPpmi16Lim), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Indecent Proposal](https://open.spotify.com/album/1CQyN4iheuFankpvxYuLPD) | 6:00 |
 | 60 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 61 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
 | 62 | [B R Right \(feat\. Ludacris\)](https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Diamond Princess](https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 99 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:47 |
 | 100 | [Bounce With Me \(feat\. Xscape\) \- Edited Album Version](https://open.spotify.com/track/5jZfGxZDayFA1HzYmyOG3a) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Beware Of Dog](https://open.spotify.com/album/5KATmrEcK3H89geDdPBzLO) | 2:55 |
 
-Snapshot ID: `MCxlMDQyZDIxM2ExMzhlOGNlODFjMWVjNzlhNjMzZDk0Yzc2MTNiODZk`
+Snapshot ID: `MCxjZWJhODNiMzMxMGFiOTY5NmI4N2IyODJhMTdkNjRlOGFhMzQxM2Zh`

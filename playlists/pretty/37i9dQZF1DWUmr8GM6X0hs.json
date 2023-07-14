@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 67864,
+  "num_followers": 67917,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTI4ZTI0MTVjODg5YzlkYTA1MjdiNWY5NWRlZjU1YzBjZTJjYTgy",
+  "snapshot_id": "MCwxNTYyMzI3ZjVmZDU0ZTAxZDM4ZTg1OGUwNGFiYzE1NDVkOTYzNDky",
   "tracks": [
     {
       "added_at": "2023-07-10 17:39:44",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-07-10 17:39:44",
       "album": {
+        "name": "50 A\u00f1os Live",
+        "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Y Despu\u00e9s Del Amor",
+      "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
+    },
+    {
+      "added_at": "2023-07-10 17:39:44",
+      "album": {
         "name": "La Tierna, Conmovedora, Bamboleadora",
         "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
-        "name": "50 A\u00f1os Live",
-        "url": "https://open.spotify.com/album/58aXd3xlsqShN3YqfOM3kS"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Y Despu\u00e9s Del Amor",
-      "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
     },
     {
       "added_at": "2023-07-10 17:39:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-10 17:39:44",
       "album": {
-        "name": "La Dama del Bolero",
-        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
-      },
-      "artists": [
-        {
-          "name": "Gaby Zevallos",
-          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
-        }
-      ],
-      "duration_ms": 266196,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q"
-    },
-    {
-      "added_at": "2023-07-10 17:39:44",
-      "album": {
         "name": "Loca Ansiedad",
         "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 175333,
       "name": "Loca Ansiedad",
       "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
+    },
+    {
+      "added_at": "2023-07-10 17:39:44",
+      "album": {
+        "name": "La Dama del Bolero",
+        "url": "https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF"
+      },
+      "artists": [
+        {
+          "name": "Gaby Zevallos",
+          "url": "https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo"
+        }
+      ],
+      "duration_ms": 266196,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/6CsNX5wEhQwMlfyvK6e82q"
     },
     {
       "added_at": "2023-07-10 17:39:44",

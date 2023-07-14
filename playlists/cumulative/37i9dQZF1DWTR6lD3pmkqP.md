@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-502 songs - 1 day 18 hr 26 min
+503 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-21 |  |
 | [Durban Poison 19](https://open.spotify.com/track/7h757UHOqWOei8OunNrnQc) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Durban Poison 19](https://open.spotify.com/album/4G63XNZEeBFcBC88fQfvPq) | 3:34 | 2021-12-16 | 2023-05-18 |
 | [Dusk](https://open.spotify.com/track/55z90vMs98qGROIPgzYFn6) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Dusk](https://open.spotify.com/album/7lw1w4ErqC5qob1cbXTLEp) | 12:05 | 2022-04-01 | 2022-07-20 |
+| [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/3wOJMc1ZfyADUmuiwUIz1C) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto](https://open.spotify.com/album/5eEK0KN6FwX0al3T1NskPc) | 4:01 | 2022-02-10 |  |
 | [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/6PfUV08i2dfwa5FYsTkZiT) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto \(Single Version\)](https://open.spotify.com/album/5EL379oEpD5fBdlU8xydPb) | 4:01 | 2022-02-03 | 2022-09-12 |
 | [EAST CROYDON feat\. James Maddren](https://open.spotify.com/track/350BnjEWhEBFeY5djjWmXq) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [Projekt Drums Vol\. 1](https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH) | 6:22 | 2021-12-16 |  |
 | [Ekuté](https://open.spotify.com/track/5pnRPRVNAnT90B3xR4mPKj) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Ekuté](https://open.spotify.com/album/2nbEJaz1IfXxWt4C7xNsTf) | 5:30 | 2021-12-16 |  |
@@ -308,7 +309,7 @@
 | [Oni](https://open.spotify.com/track/2fU8bwQtPJyAHuw6QpSjPN) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Oni / Lantern](https://open.spotify.com/album/7GJKVke6czVnfjIee76TYz) | 6:36 | 2022-02-10 |  |
 | [Oni](https://open.spotify.com/track/2j2lqP2WGJptkmqYauGJX6) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Oni](https://open.spotify.com/album/7GTrTOtOWJGxQFuUpNl8Cz) | 6:36 | 2021-12-16 | 2022-07-29 |
 | [Orbit](https://open.spotify.com/track/0I8VJcDYdGgPowFb8sL7R3) | [Andorra](https://open.spotify.com/artist/4DrXu8nq8uEec9f1jFjuRa) | [Orbit](https://open.spotify.com/album/5auD1akFEurjBUL2S8eSPv) | 7:33 | 2021-12-16 | 2022-07-25 |
-| [Orlo](https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Orlo](https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh) | 4:55 | 2021-12-16 |  |
+| [Orlo](https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Orlo](https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh) | 4:55 | 2021-12-16 | 2023-07-14 |
 | [Outlaws](https://open.spotify.com/track/6XpcNZVkuSlurCExNOUNhG) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 7:55 | 2022-04-01 |  |
 | [OUTSIDE](https://open.spotify.com/track/3zBQ9zRSdhjHYRO0Cf3qSc) | [KALEIIDO](https://open.spotify.com/artist/053i0P5lMUJN5zBmcQbLd9), [Jakob Høyer](https://open.spotify.com/artist/0DqbgnqV1ln3Z0kkEXK7OD), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Kasper Tranberg](https://open.spotify.com/artist/5asffRDuhmMbyKKC4nxXlt), [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [OUTSIDE](https://open.spotify.com/album/2Gt5jkhUX77sl2m1NqK0zv) | 6:13 | 2021-12-16 | 2022-07-29 |
 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 | 2021-12-16 |  |

@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-77 songs - 4 hr 56 min
+78 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 | 2023-06-23 |  |
 | [Rap Conciencia](https://open.spotify.com/track/3M48BctVohfGJzssuAkAQQ) | [Rap Mexicano](https://open.spotify.com/artist/5E9kASoi5uJLs9viQAqZtq) | [Rap Conciencia](https://open.spotify.com/album/5YEwp3uA18quk8jO4w9klu) | 2:30 | 2023-04-14 |  |
 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 | 2023-04-14 |  |
+| [REPRE$ENT](https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e) | [Nero Lvigi](https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx), [Don\-J HH](https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3), [Der Enyel](https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC) | [REPRE$ENT](https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA) | 4:05 | 2023-07-14 |  |
 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 | 2023-04-14 |  |
 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 | 2023-04-14 |  |
 | [Será posible?](https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B) | [Será posible?](https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB) | 2:38 | 2023-07-07 |  |

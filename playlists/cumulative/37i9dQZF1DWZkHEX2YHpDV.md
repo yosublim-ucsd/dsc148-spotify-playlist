@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-986 songs - 2 day 4 hr 12 min
+987 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -942,6 +942,7 @@
 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 | 2021-12-10 | 2022-04-24 |
 | [What Do You Gotta Lose?](https://open.spotify.com/track/3t3rnRd26jLl1SajTgPkSY) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [What Do You Gotta Lose?](https://open.spotify.com/album/0hryjAJGUKTJib7l3CICra) | 3:41 | 2021-12-10 | 2022-07-25 |
 | [What Hurts the Most](https://open.spotify.com/track/0wsNK27DKBwXXOC1JK6s4D) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [What Hurts the Most](https://open.spotify.com/album/78JT0gQD3Ff5p7ixbxzgdw) | 3:25 | 2023-04-23 | 2023-07-09 |
+| [What Hurts the Most](https://open.spotify.com/track/1EzFc3EvqEMRSClh4FPmhH) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Suicide and Sunshine](https://open.spotify.com/album/2UI2oA0YxNgDB2Zbm7HCaH) | 3:25 | 2023-06-09 |  |
 | [What's Left of Me](https://open.spotify.com/track/0G3ZCzAYZD29pzb3eH28Cy) | [Percy Bluu](https://open.spotify.com/artist/2PmcmJA18f9Pa9gT440EYy) | [What's Left of Me](https://open.spotify.com/album/2zf2xViTgY8tVjscTiysVA) | 3:14 | 2021-12-10 | 2022-07-25 |
 | [Whatever, Who Cares](https://open.spotify.com/track/5NlkbhyJBy2WNJsl4hHpIB) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Whatever, Who Cares](https://open.spotify.com/album/1nAB5FeTy2zIHu3AEdlZtk) | 2:55 | 2022-08-05 | 2022-10-01 |
 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 | 2022-07-08 | 2023-04-11 |
@@ -968,7 +969,7 @@
 | [Wishing You Hell](https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Wishing You Hell](https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa) | 3:14 | 2022-10-21 |  |
 | [WITCH HVNT](https://open.spotify.com/track/1mkDFLxzMR5FiEisymYLpq) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [WITCH HVNT](https://open.spotify.com/album/4oDfyYVfvM1RX349xgaWBJ) | 3:55 | 2022-01-14 | 2022-07-06 |
 | [Wolf Boy](https://open.spotify.com/track/7uv654mZzZWHY7Lj9pnXsl) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA) | [Wolf Boy](https://open.spotify.com/album/4oCld1YIYyaxHKz2xiYsJG) | 2:56 | 2021-12-10 | 2022-07-09 |
-| [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-05-12 |  |
+| [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-05-12 | 2023-07-14 |
 | [Worth It](https://open.spotify.com/track/22uRfgnUlPZXfd4BCaretS) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Worth It](https://open.spotify.com/album/065aiQ08pX7qfmkRr912fL) | 3:53 | 2021-12-10 | 2022-07-27 |
 | [Wouldn't That Be Nice](https://open.spotify.com/track/4kcH1pBf54ctgrPXPsrCCY) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Wouldn't That Be Nice](https://open.spotify.com/album/0IiIfDeoBAKWnp2Uokdrp1) | 3:06 | 2022-05-20 | 2023-04-11 |
 | [WOW!](https://open.spotify.com/track/3B7PiImMLehZ18ZhZ6KAc3) | [promiser](https://open.spotify.com/artist/4OTKGQdkkR6iOn3BOzxps5) | [Clarity](https://open.spotify.com/album/6ECqLPoPb2sBwaJXLL1hRU) | 3:46 | 2022-02-04 | 2022-04-21 |

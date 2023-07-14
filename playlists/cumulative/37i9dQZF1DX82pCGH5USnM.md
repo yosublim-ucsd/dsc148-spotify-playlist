@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-724 songs - 1 day 17 hr 23 min
+725 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Adíos!](https://open.spotify.com/track/0uyboVC4XZ3dfXEKZjNKgW) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Adíos!](https://open.spotify.com/album/5B9C5ZNB207HOCHfPgkIzY) | 4:33 | 2021-02-19 | 2021-08-20 |
 | [Adventum](https://open.spotify.com/track/7vpCYtQSePi6rdgWSByixm) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Adventum](https://open.spotify.com/album/18UFPRyd8Tnn4DAuMBBJ48) | 2:29 | 2020-05-22 | 2020-07-10 |
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-02-10 | 2023-05-27 |
-| [Affection Reflection](https://open.spotify.com/track/4Bom6DRearLyhau93DsSt3) | [Lhaw](https://open.spotify.com/artist/3UwfNxtuc0VZg4YniqFgnI) | [Affection Reflection](https://open.spotify.com/album/3IAEw6178vpkPKJZajvtZ0) | 3:13 | 2022-01-21 |  |
+| [Affection Reflection](https://open.spotify.com/track/4Bom6DRearLyhau93DsSt3) | [Lhaw](https://open.spotify.com/artist/3UwfNxtuc0VZg4YniqFgnI) | [Affection Reflection](https://open.spotify.com/album/3IAEw6178vpkPKJZajvtZ0) | 3:13 | 2022-01-21 | 2023-07-14 |
 | [Afrodeziac](https://open.spotify.com/track/42c7uR5Uz4piO3okWVQMFC) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO), [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Caelitum](https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP) | 5:00 | 2020-12-24 | 2021-02-04 |
 | [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-08 |  |
 | [Afternoon in Stereo](https://open.spotify.com/track/0cqWk8s2KJglPnuojyhYCQ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Afternoon in Stereo](https://open.spotify.com/album/4H25UhNaAxBmNdSmfxJSXa) | 3:04 | 2020-04-03\* | 2020-10-27 |
@@ -359,6 +359,7 @@
 | [Life Is So Beautiful](https://open.spotify.com/track/6luAShpeqHTE84A4pY6Zcg) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [Life Is So Beautiful](https://open.spotify.com/album/5TDlvVG8byo9mRv80j9Zsg) | 2:02 | 2020-04-03\* | 2021-03-18 |
 | [Life Should Be \(Easy\)](https://open.spotify.com/track/55lEo1OXIh57bA9qTIpmxA) | [D\. Bailed](https://open.spotify.com/artist/5N5LNdCxE7DlBojEneu0Hu) | [Life Should Be \(Easy\)](https://open.spotify.com/album/5297D0O6pcL9C1vSJz5mH6) | 6:27 | 2021-03-18 | 2021-06-02 |
 | [Lifeless Major](https://open.spotify.com/track/7n9n0v33mqEMniNMTmxv1J) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Lifeless Major](https://open.spotify.com/album/2lV37OXeIK3GBP5vTAevLp) | 2:46 | 2022-07-01 |  |
+| [Lifelike](https://open.spotify.com/track/4LmgY8iN3SqkDOPCNxmaGX) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Lifelike](https://open.spotify.com/album/3aFsP5L0bi65KCip5gyghd) | 2:36 | 2023-07-14 |  |
 | [Like Water](https://open.spotify.com/track/2ift2AgfPD8mCOjxIfg58t) | [Atlantis Dove](https://open.spotify.com/artist/4lWGfxuk3gXKG0v4fI4mqi) | [Like Water](https://open.spotify.com/album/73FvBQLSD3kC9tR8rH7wMe) | 2:47 | 2020-04-03\* | 2020-07-22 |
 | [Liquid Dust](https://open.spotify.com/track/1dLB5DEAqbjUPc9C8W7Nfb) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Liquid Dust](https://open.spotify.com/album/5C6uyXdkPilcqLLEvmkSi2) | 3:33 | 2022-08-19 |  |
 | [Lofi Nights](https://open.spotify.com/track/1G56aVJLUwhQVO0Ke6QwWD) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Lofi Nights](https://open.spotify.com/album/2dhHvSNxPaA9laI6oyAHaC) | 4:25 | 2020-11-19 | 2021-04-15 |

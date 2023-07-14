@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Lauran Hibberd
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,575 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,732 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 19 | [Capsize](https://open.spotify.com/track/3adgTn3xnZ4NgAt17b2OiH) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Capsize](https://open.spotify.com/album/3ENP27pZX86pRtAPmzaprD) | 3:41 |
 | 20 | [Melt](https://open.spotify.com/track/41kgbvc2t0U8g1H2yDU9P2) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite EP](https://open.spotify.com/album/0tK8eY4V3CywBybDvu8P1N) | 3:04 |
 | 21 | [Down Here Waiting](https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Down Here Waiting](https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz) | 3:35 |
-| 22 | [Tired Of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired Of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 |
+| 22 | [Tired of Being Alone](https://open.spotify.com/track/1GTm4UPyy4VsCmGIuWKglS) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Tired of Being Alone](https://open.spotify.com/album/7qBemiQttOz66ehbUkfM70) | 4:43 |
 | 23 | [Spiral City](https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Spiral City](https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5) | 2:29 |
 | 24 | [Young & In Love](https://open.spotify.com/track/1dj8VrsGGLhBGuQctmL58F) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Young & In Love](https://open.spotify.com/album/6l4uNHIP9IoOl8AwTdY2Nc) | 2:18 |
 | 25 | [Reconcile](https://open.spotify.com/track/5zKSAeW37infPkROOsspcl) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Reconcile](https://open.spotify.com/album/2y3qKglDxxrKcVaYSFq2jo) | 3:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 48 | [Monsters](https://open.spotify.com/track/12sh7voB9W5VSfLQOJ25rO) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA) | [Monsters](https://open.spotify.com/album/2lt23Jml3vjyvnmprbMHYo) | 3:06 |
 | 49 | [All Bark, No Bite](https://open.spotify.com/track/0ApZ4n9ZWUDqJarN4EfTum) | [The Blamers](https://open.spotify.com/artist/0Vn8d65WWn2J6xAvyoMAux) | [All Bark, No Bite](https://open.spotify.com/album/5T0WuYoXNd3xisYHQlYmc1) | 2:56 |
 
-Snapshot ID: `MCwyNWY4ZTJmNzNmOWRhZjJkMmIzZmYxZDI5MDQ4MmRkMmI3YmZlMGJh`
+Snapshot ID: `MCxjODFhMjQxMzRjNTE4NTViZmFhN2NjN2FmOWE2MTM4OTBmODQ5NmIw`

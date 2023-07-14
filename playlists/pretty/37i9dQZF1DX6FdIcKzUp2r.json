@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 204259,
+  "num_followers": 204324,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGZjNGNkYTRhMDFkOGRjYWQ2NTI3ZGNjZGZjMGNkNmNiMzJjZmE3",
+  "snapshot_id": "MCxkYTUwYzVkOTZjYWUyZmVkMGEzODE5YTliZjNlZGQyOWYxNDQxZWU5",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "This Woman's Work - 2018 Remaster",
-      "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "A Real Hero EP",
         "url": "https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 267859,
       "name": "A Real Hero",
       "url": "https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "This Woman's Work - 2018 Remaster",
+      "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -591,22 +591,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "Wherever I Lay My Hat (That's My Home)",
-      "url": "https://open.spotify.com/track/3yzM3pkIF5rlllUAAhFPx7"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "...But Seriously (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 320293,
       "name": "That's Just the Way It Is - 2016 Remaster",
       "url": "https://open.spotify.com/track/5R1VlOafxN2pqpiEuFr1Hi"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Wherever I Lay My Hat (That's My Home)",
+      "url": "https://open.spotify.com/track/3yzM3pkIF5rlllUAAhFPx7"
     },
     {
       "added_at": "2018-12-12 11:36:39",

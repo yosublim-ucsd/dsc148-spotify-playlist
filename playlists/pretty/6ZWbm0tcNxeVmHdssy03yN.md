@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,664 likes - 101 songs - 5 hr 14 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,679 likes - 101 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 62 | [TNSQ](https://open.spotify.com/track/7yJjsQsCbiHf1N3n6MKbk5) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId), [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [TNSQ](https://open.spotify.com/album/3Qsimzjgd58kC21qu1LFDV) | 2:30 |
 | 63 | [La Energía de la Playa](https://open.spotify.com/track/3i1zn1hjCNXYgrKrUMTXI4) | [Juls Cattáneo](https://open.spotify.com/artist/3GGuxaBVYQDOJjImFOXYkW) | [La Energía de la Playa](https://open.spotify.com/album/0oeOZPQDkyyAaRrPr6TKgo) | 2:45 |
 | 64 | [Geordie](https://open.spotify.com/track/1pvyA3x37pWeaniq8a4oar) | [Dany Bpm](https://open.spotify.com/artist/3E6p5In4n4lbmS6oVipW8R) | [Geordie](https://open.spotify.com/album/4WvoswLH4GI0C5ZgWJPAxU) | 2:53 |
-| 65 | [Inf3rnal](https://open.spotify.com/track/1U5Encwp5P3ShDm4O1PjBO) | [Dafresito](https://open.spotify.com/artist/6wvnfHL3AZG64t14KbNrhG) | [Inf3rnal](https://open.spotify.com/album/04iM8YIjSW0y0RwnNmYtEB) | 2:04 |
+| 65 | [Inf3rnal](https://open.spotify.com/track/1U5Encwp5P3ShDm4O1PjBO) | [Dafresito](https://open.spotify.com/artist/6wvnfHL3AZG64t14KbNrhG), [Sar1m](https://open.spotify.com/artist/2ATalJDz42B6SoDQ0GLU0k) | [Inf3rnal](https://open.spotify.com/album/04iM8YIjSW0y0RwnNmYtEB) | 2:04 |
 | 66 | [Anino](https://open.spotify.com/track/7lTZb3mPteOYHteBLIvoji) | [Comic's Trip](https://open.spotify.com/artist/310zOlUDYa8Q9kLGhB0PSN) | [Anino](https://open.spotify.com/album/0LZ38AgMCooD5v0ZyfIIiM) | 5:26 |
 | 67 | [r&r](https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [jazz is for ordinary people](https://open.spotify.com/album/4WGxcr3aYMv1Dm6Xl1bwRN) | 3:27 |
 | 68 | [it's a part of human nature](https://open.spotify.com/track/1ebjmaTFktH8ElGYhCTcP2) | [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [it's a part of human nature](https://open.spotify.com/album/6525k2bMvxV6oU2Q75OE8f) | 2:24 |

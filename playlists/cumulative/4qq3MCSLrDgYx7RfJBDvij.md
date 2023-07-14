@@ -35,6 +35,6 @@
 | [The Traveling Kind](https://open.spotify.com/track/6lGmKc3sNITRFVmtp2xvEx) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/1G0R4FDSV8aCIGcO6vSdL3) | 3:40 | 2015-07-23 |  |
 | [Today Today Today](https://open.spotify.com/track/353SNIIxSolCN1Uhae1EJJ) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Today Today Today](https://open.spotify.com/album/4hIwvgRdkOWKcktaqciSt5) | 3:09 | 2015-07-23 |  |
 | [Wild Horses \- Acoustic Version](https://open.spotify.com/track/5kEg9ZuAHEe7UeOYJk8ldF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Wild Horses \(Acoustic Version\)](https://open.spotify.com/album/3J7MdrfzVZuf9KyO1WAbGN) | 5:47 | 2015-07-23 |  |
-| [You're so Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2015-07-23 |  |
+| [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2015-07-23 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

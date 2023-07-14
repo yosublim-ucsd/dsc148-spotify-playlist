@@ -4,7 +4,7 @@
 
 > Put yourself to sleep with delta frequencies.
 
-131 songs - 7 hr 1 min
+132 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Dream Wave Delta](https://open.spotify.com/track/6EHkpGkXUvSk1nSd2XlfnR) | [Oxling](https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ) | [Momentum](https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P) | 2:30 | 2022-09-13 |  |
 | [Dreamless Sleep \- Delta Sinus 115Hz \- 117Hz](https://open.spotify.com/track/18MJgVKd0JPTw8eL8GSf2Z) | [Sleeping Stars](https://open.spotify.com/artist/54dYMs8urBZyC8MDEifWuc) | [Subconcious](https://open.spotify.com/album/0PR5aydbGJutcoABq6Ja3o) | 3:09 | 2021-12-22 |  |
 | [Dreamless Sleep Delta 2Hz](https://open.spotify.com/track/1TX678iIWG02qd6BRdrJR2) | [Sonic Gateway](https://open.spotify.com/artist/7k8bVHxTFUtko95PtysFOY) | [Subconscious Bliss](https://open.spotify.com/album/1cx79V42UvggJV8k6GUFxv) | 6:50 | 2021-12-22 |  |
+| [Endless Pool B Delta \(122\-124Hz\)](https://open.spotify.com/track/16YHUKfDTUaWwaptfHvsYl) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Endless Pool Delta](https://open.spotify.com/album/5u1V01ovRlvdrM7JjZsobp) | 2:34 | 2023-07-13 |  |
 | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/track/6OgawKBL0hdxQPNC2BDn3H) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [Entrainment Waves \- Binaural Delta Sinus](https://open.spotify.com/album/5NJ7IKxcgVqYosTgL3RYX1) | 1:40 | 2021-12-22 |  |
 | [Finally Reaching \(3 Hz Delta Wave\)](https://open.spotify.com/track/7LMGjCEVFqPsHCeRHu1YNV) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Binarual Beats for Deep Sleep](https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up) | 4:57 | 2021-12-22 | 2022-12-24 |
 | [Gamma Sinus 70 Hz \- 170 Hz](https://open.spotify.com/track/5mWrcUdd6VebJRdvuRiXM9) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Theta Aum](https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit) | 3:16 | 2021-12-22 |  |

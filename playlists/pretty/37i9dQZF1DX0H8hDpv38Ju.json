@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 778745,
+  "num_followers": 779000,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODM5YTE0NWM2NGUyZmE4NGJhOTNkZDcyOWFiNzUzZjUzNWM0MjY2",
+  "snapshot_id": "MCxmMmQ3MDZiZDdkZTAwM2ZkYjc3NmYyMzE3YmQzM2E2ZDNmNGFiNmEz",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -447,6 +447,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Ice Cream Castle",
+        "url": "https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4"
+      },
+      "artists": [
+        {
+          "name": "The Time",
+          "url": "https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv"
+        }
+      ],
+      "duration_ms": 333360,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Ready For The World",
         "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 240093,
       "name": "Oh Sheila",
       "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Best Of/20th Century",
-        "url": "https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7"
-      },
-      "artists": [
-        {
-          "name": "Teena Marie",
-          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Square Biz",
-      "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Ice Cream Castle",
-        "url": "https://open.spotify.com/album/6U9fEF6ZUIDM8M03JNB9I4"
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/0kCD8uT94URPZcr2vZOhW7"
       },
       "artists": [
         {
-          "name": "The Time",
-          "url": "https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv"
+          "name": "Teena Marie",
+          "url": "https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb"
         }
       ],
-      "duration_ms": 333360,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/0QUpBXTOdB4JJyTGFN6dH1"
+      "duration_ms": 383706,
+      "name": "Square Biz",
+      "url": "https://open.spotify.com/track/52bz3fOCyr6GgkJQsLK9PM"
     },
     {
       "added_at": "2021-04-01 19:37:56",

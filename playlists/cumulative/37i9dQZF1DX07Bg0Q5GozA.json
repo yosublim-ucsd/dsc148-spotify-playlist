@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Metric",
+  "description": "New music off the beaten track. Cover: DJ Koze, Sophia Kennedy",
   "name": "OFF POP",
   "tracks": [
     {
@@ -408,7 +408,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 207800,
       "name": "Always",
       "url": "https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma"
@@ -2093,6 +2093,28 @@
     },
     {
       "album": {
+        "name": "Ether",
+        "url": "https://open.spotify.com/album/2GA2x8SLtSQLz0GNiK6b5D"
+      },
+      "artists": [
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190019,
+      "name": "Ether",
+      "url": "https://open.spotify.com/track/5IyOYclKa9w9sjEeewNDmu"
+    },
+    {
+      "album": {
         "name": "Radical Romantics",
         "url": "https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe"
       },
@@ -2206,7 +2228,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 144149,
       "name": "Fader - Edit",
       "url": "https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP"
@@ -2356,7 +2378,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 310340,
       "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
       "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
@@ -3043,6 +3065,28 @@
     },
     {
       "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/5cwPTjEWjgmGximXW8pyWk"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        },
+        {
+          "name": "A.Lonzo",
+          "url": "https://open.spotify.com/artist/0EfqGi3mvJGPkBvWfPbRVn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205704,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/0tYDIP8PeQyOWRDlnZvW3Z"
+    },
+    {
+      "album": {
         "name": "Hidden in the Mist",
         "url": "https://open.spotify.com/album/2KAx9enhJClrgz24lvejBy"
       },
@@ -3516,7 +3560,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 165978,
       "name": "Into You - Vienna Nights Mix",
       "url": "https://open.spotify.com/track/461hznkAq17ywDHFzqA34b"
@@ -3744,7 +3788,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 168750,
       "name": "Keep It Secret",
       "url": "https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN"
@@ -3964,6 +4008,28 @@
       "duration_ms": 235000,
       "name": "Let Yoself Go - Edit",
       "url": "https://open.spotify.com/track/3DH2EGnxAuunk59UDFs9EA"
+    },
+    {
+      "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
       "album": {
@@ -6102,7 +6168,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 307406,
       "name": "Slipstream",
       "url": "https://open.spotify.com/track/7yygpnlQyzmy0zXiMTpoZv"
@@ -6284,7 +6350,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 314777,
       "name": "Still There",
       "url": "https://open.spotify.com/track/68Lyc2FM0k5S5uVM7RlEYM"
@@ -6390,6 +6456,24 @@
       "duration_ms": 190714,
       "name": "Sunliight",
       "url": "https://open.spotify.com/track/5jcih933VV9IAx2EbadFXQ"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4tAYC8O702Uag2ILdlPkqj"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167601,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6"
     },
     {
       "album": {
@@ -6899,6 +6983,24 @@
     },
     {
       "album": {
+        "name": "Troubled Waters",
+        "url": "https://open.spotify.com/album/4qGnakmFR0KXlnRoFgdb7h"
+      },
+      "artists": [
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234482,
+      "name": "Troubled Waters",
+      "url": "https://open.spotify.com/track/1Uuljx1HOfRmi3dvHJ6Yi6"
+    },
+    {
+      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -7012,6 +7114,24 @@
       "duration_ms": 248421,
       "name": "Twennies - The Knocks Remix",
       "url": "https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS"
+    },
+    {
+      "album": {
+        "name": "Hello Hi / Un Deux Trois",
+        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
+      },
+      "artists": [
+        {
+          "name": "MUNYA",
+          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "Un Deux Trois",
+      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     },
     {
       "album": {
@@ -7270,6 +7390,28 @@
       "duration_ms": 175500,
       "name": "Wenn Die Welt Weint",
       "url": "https://open.spotify.com/track/4Nu3ioTzEbCC48lD2UX4co"
+    },
+    {
+      "album": {
+        "name": "Wespennest",
+        "url": "https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Wespennest - Edit",
+      "url": "https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV"
     },
     {
       "album": {

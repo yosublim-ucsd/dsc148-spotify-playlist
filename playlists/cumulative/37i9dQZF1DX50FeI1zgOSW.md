@@ -4,13 +4,14 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-102 songs - 5 hr 44 min
+103 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aasa Dhan](https://open.spotify.com/track/7Ag6nMoZNfsK7yf9p670nn) | [Prags](https://open.spotify.com/artist/3lEBrr4ctHFkjkLUNJNcCR), [Sudarson Murali](https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2) | [Aasa Dhan](https://open.spotify.com/album/6ynGIWcXwy4sD2VohRGM8p) | 3:42 | 2023-03-28 |  |
 | [Aasaigal](https://open.spotify.com/track/5CV1PudVJ0iNAhSWkl9iKD) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Aasaigal](https://open.spotify.com/album/4cglbrEgdH16IKpcD2sb2z) | 3:33 | 2023-03-21 |  |
 | [Adada Amma](https://open.spotify.com/track/39aXi6kBNGjoVJNGyVPQyo) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Adada Amma](https://open.spotify.com/album/3ulTXAt4H5S2Cv8Mo7mGTk) | 2:44 | 2023-05-13 |  |
+| [Alavilla Azhagiye](https://open.spotify.com/track/07eegSrNoTXO1EZhBEJsdr) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [Inzy](https://open.spotify.com/artist/07XxDCSIhiEvcAtxPm0uWV) | [Alavilla Azhagiye](https://open.spotify.com/album/0m5QDfTQuK0gz9h1hHsDMd) | 4:14 | 2023-07-13 |  |
 | [All Star Dancer](https://open.spotify.com/track/0wlv59Trb8ALs2Gws9dXLH) | [Baha Mista\-B](https://open.spotify.com/artist/1pkIXc0pidcuYpGgYUaU4g), [Whit](https://open.spotify.com/artist/035QHIg786p1aSadep5XsC), [Pavithra Nair](https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [All Star Dancer](https://open.spotify.com/album/2Xw58cOidG6fZI83o1hN4U) | 3:52 | 2023-03-21 |  |
 | [Azhagai Oru Matram](https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd) | [Sanjit Lucksman](https://open.spotify.com/artist/2dny6Q7OeJFg2Dh2Xwud9C), [Nirushka Paiva](https://open.spotify.com/artist/5aNpNoS5ntHTUIEvGcCBc7), [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI) | [Azhagai Oru Matram](https://open.spotify.com/album/6GrbtoW90L2SVgNN5a8veW) | 3:13 | 2023-03-21 |  |
 | [Azhagale](https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf) | [NGM](https://open.spotify.com/artist/2SAvDnhjvSzEBz0XGKed01), [Ishita Premnath](https://open.spotify.com/artist/6GdS9YEjh6oCoyARskMTt9), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Azhagale](https://open.spotify.com/album/6YhqkTX8SmTCD9C6XZZ7c4) | 3:52 | 2023-03-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 25503,
+  "num_followers": 25562,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWQyYTJiZGRjOTcwNTQwZTNmODc5MzI3YTYxMmU0YjliMzI4MDkw",
+  "snapshot_id": "MCxlMWNhMGE4ZDU1NGYyMzE1MzdiMjJhYjcyNmM1YWFlNWQ1YjY0NDM4",
   "tracks": [
     {
       "added_at": "2023-05-29 03:38:14",
@@ -735,26 +735,22 @@
     {
       "added_at": "2023-05-29 03:38:14",
       "album": {
-        "name": "B.A.R.S, Vol. 1",
-        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
+        "name": "Son Malas (Feat. Jay Park)",
+        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
       },
       "artists": [
         {
-          "name": "$tupid Young",
-          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
-        },
-        {
-          "name": "B.A.R.S",
-          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 164250,
-      "name": "Sho Nuff",
-      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
+      "duration_ms": 148640,
+      "name": "Son Malas",
+      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
     },
     {
       "added_at": "2023-05-29 03:38:14",
@@ -783,22 +779,26 @@
     {
       "added_at": "2023-05-29 03:38:14",
       "album": {
-        "name": "Son Malas (Feat. Jay Park)",
-        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
+        "name": "B.A.R.S, Vol. 1",
+        "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
       },
       "artists": [
         {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
+        },
+        {
+          "name": "B.A.R.S",
+          "url": "https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 148640,
-      "name": "Son Malas",
-      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
+      "duration_ms": 164250,
+      "name": "Sho Nuff",
+      "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
     },
     {
       "added_at": "2023-05-29 03:38:14",

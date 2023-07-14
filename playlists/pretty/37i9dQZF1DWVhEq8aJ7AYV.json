@@ -1,12 +1,12 @@
 {
   "description": "Tengan a la mano las m\u00e1scaras de lucha libre y la tabla de surf.",
-  "num_followers": 65815,
+  "num_followers": 65845,
   "original_name": "Rockabilly Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTJlMmFiNGUzMDM5OWQ2MjBjMWZmOTlhZjMwMzU4MDk5NDc2YjNl",
+  "snapshot_id": "MCw1ZjZjZDQ0MzRkOTgyODczYzZlMGNjZjU5NjI3M2VlMjczZjk0OGE3",
   "tracks": [
     {
       "added_at": "2022-08-19 01:14:23",
@@ -635,6 +635,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Aquellos Maravillosos 90",
+        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Dra\u0301cula \u201dYe-ye\u201d",
+      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Surf Riders from the Swamp Lagoon",
         "url": "https://open.spotify.com/album/1PvhsuI9Rp7UA0Y4aFaeGp"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 142000,
       "name": "Haulin' Hearse",
       "url": "https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Aquellos Maravillosos 90",
-        "url": "https://open.spotify.com/album/5m7J3RUeI099XYUzjlajT5"
-      },
-      "artists": [
-        {
-          "name": "Doctor Explosion",
-          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Dra\u0301cula \u201dYe-ye\u201d",
-      "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -783,6 +783,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "El Loco Mundo De Los Jovenes",
+        "url": "https://open.spotify.com/album/48P6nJlSaE2zMSSZvD4oSg"
+      },
+      "artists": [
+        {
+          "name": "Doctor Explosion",
+          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Eres Feo, Chaval",
+      "url": "https://open.spotify.com/track/5DXKOjEC1pDOcAwnYMz9uO"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Taste the Blood of Guitaracula",
         "url": "https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB"
       },
@@ -799,34 +815,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Quake!",
-        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
       },
       "artists": [
         {
-          "name": "The Volcanos",
-          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
         }
       ],
-      "duration_ms": 126026,
-      "name": "Whirlpool",
-      "url": "https://open.spotify.com/track/4uUyxCK28787qPada57VMI"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "El Loco Mundo De Los Jovenes",
-        "url": "https://open.spotify.com/album/48P6nJlSaE2zMSSZvD4oSg"
-      },
-      "artists": [
-        {
-          "name": "Doctor Explosion",
-          "url": "https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Eres Feo, Chaval",
-      "url": "https://open.spotify.com/track/5DXKOjEC1pDOcAwnYMz9uO"
+      "duration_ms": 116013,
+      "name": "Tiki Surf",
+      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+        "name": "Surf Quake!",
+        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
       },
       "artists": [
         {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+          "name": "The Volcanos",
+          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
         }
       ],
-      "duration_ms": 116013,
-      "name": "Tiki Surf",
-      "url": "https://open.spotify.com/track/1OAcBwfDqJXWOawfaSfark"
+      "duration_ms": 126026,
+      "name": "Whirlpool",
+      "url": "https://open.spotify.com/track/4uUyxCK28787qPada57VMI"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -923,6 +923,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Surf Extremo",
+        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "duration_ms": 126626,
+      "name": "Surfin Beer",
+      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Rock en Espanol, Vol. 1",
         "url": "https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 199266,
       "name": "Hey Lupe",
       "url": "https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Organ Grinder",
-        "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
-      },
-      "artists": [
-        {
-          "name": "The Bomboras",
-          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
-        }
-      ],
-      "duration_ms": 120866,
-      "name": "Return Of The Death Ray",
-      "url": "https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -975,6 +975,22 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
+        "name": "Organ Grinder",
+        "url": "https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR"
+      },
+      "artists": [
+        {
+          "name": "The Bomboras",
+          "url": "https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD"
+        }
+      ],
+      "duration_ms": 120866,
+      "name": "Return Of The Death Ray",
+      "url": "https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
         "name": "Canten en Espanol",
         "url": "https://open.spotify.com/album/2HpUINC7m9OS5B5hpPi5OO"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 155840,
       "name": "Demolicion",
       "url": "https://open.spotify.com/track/4pRfLTRysjmc0gDRg9pRjr"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
-        "name": "Surf Quake!",
-        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
-      },
-      "artists": [
-        {
-          "name": "The Volcanos",
-          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
-        }
-      ],
-      "duration_ms": 127760,
-      "name": "The Last Wave",
-      "url": "https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1039,8 +1039,24 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Surf Extremo",
-        "url": "https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK"
+        "name": "Surf Quake!",
+        "url": "https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz"
+      },
+      "artists": [
+        {
+          "name": "The Volcanos",
+          "url": "https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i"
+        }
+      ],
+      "duration_ms": 127760,
+      "name": "The Last Wave",
+      "url": "https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Bomber Man",
+        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
       },
       "artists": [
         {
@@ -1048,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
         }
       ],
-      "duration_ms": 126626,
-      "name": "Surfin Beer",
-      "url": "https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv"
+      "duration_ms": 134443,
+      "name": "Bomber Man",
+      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
     },
     {
       "added_at": "2021-09-03 04:14:33",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Bomber Man",
-        "url": "https://open.spotify.com/album/0qr2U0eP1wOtJ8xRJHxsVe"
-      },
-      "artists": [
-        {
-          "name": "Sr. Bikini",
-          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
-        }
-      ],
-      "duration_ms": 134443,
-      "name": "Bomber Man",
-      "url": "https://open.spotify.com/track/3Df8hnLQLwribk4gDnwcKU"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Daddy-O Grande In Mexico",
         "url": "https://open.spotify.com/album/7jOrFMu39xWwTIKvhGwlDj"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Mondo Zombie Boogaloo",
-        "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
-      },
-      "artists": [
-        {
-          "name": "Los Straitjackets",
-          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "It's Monster Surfing Time",
-      "url": "https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Cosmopolis 1988-2008",
         "url": "https://open.spotify.com/album/6bqafutEdknOXRTPcdGuLC"
       },
@@ -1223,22 +1207,6 @@
     {
       "added_at": "2021-09-03 04:14:33",
       "album": {
-        "name": "Guadalupe Plata 2017",
-        "url": "https://open.spotify.com/album/1KhotXvIwJzIUmnWVt5d4H"
-      },
-      "artists": [
-        {
-          "name": "Guadalupe Plata",
-          "url": "https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK"
-        }
-      ],
-      "duration_ms": 297942,
-      "name": "Qu\u00e9 He Sacado Con Quererte (aka Violeta Parra)",
-      "url": "https://open.spotify.com/track/2dyvq27rii2hF8sAZCGXf5"
-    },
-    {
-      "added_at": "2021-09-03 04:14:33",
-      "album": {
         "name": "Savage Island!",
         "url": "https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN"
       },
@@ -1251,6 +1219,42 @@
       "duration_ms": 130479,
       "name": "Lord Hunt Surf Party",
       "url": "https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "Abulon",
+          "url": "https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6"
+        }
+      ],
+      "duration_ms": 115293,
+      "name": "La Chica Rockabilly",
+      "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
+    },
+    {
+      "added_at": "2021-09-03 04:14:33",
+      "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets",
+          "url": "https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "It's Monster Surfing Time",
+      "url": "https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM"
     }
   ],
   "unique_name": "Rockabilly Surf",

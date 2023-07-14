@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7GcrOxvmFto5inXwr5Asm7.md) - [plain]
 
 > Welcome to our curated playlist of lofi beats, chillhop, and jazzhop \- the perfect background music for studying, relaxing, and sleeping\. If you&\#x27;re looking to study for hours on end, or simply need to chill and get some rest, our playlist is here to help you find your zen\. From classic to new tracks
 
-[Melted Beatz](https://open.spotify.com/user/1270603891) - 440 likes - 15 songs - 31 min 57 sec
+[Melted Beatz](https://open.spotify.com/user/1270603891) - 441 likes - 15 songs - 31 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

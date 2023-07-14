@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 96696,
+  "num_followers": 96758,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDlhZjE5MDhiMjVlNmJjM2YzMmIxMDA3MTRkZWM0MWQ2ZGRkNTMw",
+  "snapshot_id": "MCxmNTliOWMxZjFiNWI3OWJkMTY3ZDdkMTA2M2ZmOTQ0Y2M3ZjJjZjQ4",
   "tracks": [
     {
       "added_at": "2023-07-07 12:39:00",
@@ -59,22 +59,18 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Loom (Sunrise Session II)",
-        "url": "https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5"
+        "name": "Hafursey (Yfir)",
+        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
       },
       "artists": [
         {
           "name": "\u00d3lafur Arnalds",
           "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Reykjav\u00edk Recording Orchestra",
-          "url": "https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Loom - Sunrise Session II",
-      "url": "https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe"
+      "duration_ms": 299441,
+      "name": "Hafursey (Yfir)",
+      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -223,18 +219,22 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Hafursey (Yfir)",
-        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+        "name": "Loom (Sunrise Session II)",
+        "url": "https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5"
       },
       "artists": [
         {
           "name": "\u00d3lafur Arnalds",
           "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Reykjav\u00edk Recording Orchestra",
+          "url": "https://open.spotify.com/artist/2vv6MgWm0GauKxYJXA4TFN"
         }
       ],
-      "duration_ms": 299441,
-      "name": "Hafursey (Yfir)",
-      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
+      "duration_ms": 226000,
+      "name": "Loom - Sunrise Session II",
+      "url": "https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
+        "name": "Post-Svalbard",
+        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+        }
+      ],
+      "duration_ms": 270874,
+      "name": "Season Shifting - Robert Lippok Rework",
+      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
+    },
+    {
+      "added_at": "2023-07-07 12:39:00",
+      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
-    },
-    {
-      "added_at": "2023-07-07 12:39:00",
-      "album": {
-        "name": "Post-Svalbard",
-        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Robert Lippok",
-          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
-        }
-      ],
-      "duration_ms": 270874,
-      "name": "Season Shifting - Robert Lippok Rework",
-      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Thaw",
-        "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Thaw",
-      "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
-    },
-    {
-      "added_at": "2023-07-07 12:39:00",
-      "album": {
         "name": "In Memory Of A Honey Bee",
         "url": "https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP"
       },
@@ -771,22 +755,6 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
-    },
-    {
-      "added_at": "2023-07-07 12:39:00",
-      "album": {
         "name": "Building Blocks, Pt. 5",
         "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2023-07-07 12:39:00",
+      "album": {
+        "name": "Thaw",
+        "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Thaw",
+      "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
+    },
+    {
+      "added_at": "2023-07-07 12:39:00",
+      "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Satori by the Sea",
-        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
-      },
-      "artists": [
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Satori by the Sea",
-      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
-    },
-    {
-      "added_at": "2023-07-07 12:39:00",
-      "album": {
         "name": "Mists Inhabit This Place",
         "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 230213,
       "name": "Mists Inhabit This Place",
       "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+    },
+    {
+      "added_at": "2023-07-07 12:39:00",
+      "album": {
+        "name": "Satori by the Sea",
+        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
+      },
+      "artists": [
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Satori by the Sea",
+      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -983,22 +983,18 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
       },
       "artists": [
         {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
         }
       ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
       },
       "artists": [
         {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
         }
       ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Icaro (Remix)",
-        "url": "https://open.spotify.com/album/0vLsnNQI3KcX5xvdKeTAuU"
-      },
-      "artists": [
-        {
-          "name": "Bryan Senti",
-          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 348400,
-      "name": "Icaro - Remix",
-      "url": "https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw"
-    },
-    {
-      "added_at": "2023-07-07 12:39:00",
-      "album": {
         "name": "Riva",
         "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 238602,
       "name": "Riva",
       "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
+    },
+    {
+      "added_at": "2023-07-07 12:39:00",
+      "album": {
+        "name": "Icaro (Remix)",
+        "url": "https://open.spotify.com/album/0vLsnNQI3KcX5xvdKeTAuU"
+      },
+      "artists": [
+        {
+          "name": "Bryan Senti",
+          "url": "https://open.spotify.com/artist/4QSmk1Bll3nbQfsjTe7vIR"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 348400,
+      "name": "Icaro - Remix",
+      "url": "https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
+        "name": "Unity (Mike Lazarev CrO2 Reduction)",
+        "url": "https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR"
+      },
+      "artists": [
+        {
+          "name": "Diana Yukawa",
+          "url": "https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7"
+        },
+        {
+          "name": "Mike Lazarev",
+          "url": "https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc"
+        }
+      ],
+      "duration_ms": 230119,
+      "name": "Unity - Mike Lazarev CrO2 Reduction",
+      "url": "https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9"
+    },
+    {
+      "added_at": "2023-07-07 12:39:00",
+      "album": {
         "name": "Step Step Step",
         "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 241390,
       "name": "Step Step Step",
       "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
-    },
-    {
-      "added_at": "2023-07-07 12:39:00",
-      "album": {
-        "name": "Unity (Mike Lazarev CrO2 Reduction)",
-        "url": "https://open.spotify.com/album/11um7vO1M4HjxDYQS6wnFR"
-      },
-      "artists": [
-        {
-          "name": "Diana Yukawa",
-          "url": "https://open.spotify.com/artist/2EeY0lNrhbKPNSM8VQHTn7"
-        },
-        {
-          "name": "Mike Lazarev",
-          "url": "https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc"
-        }
-      ],
-      "duration_ms": 230119,
-      "name": "Unity - Mike Lazarev CrO2 Reduction",
-      "url": "https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9"
     },
     {
       "added_at": "2023-07-07 12:39:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-07-07 12:39:00",
       "album": {
-        "name": "Human Reworked",
-        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
-    },
-    {
-      "added_at": "2023-07-07 12:39:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 267871,
       "name": "Enerhodar",
       "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+    },
+    {
+      "added_at": "2023-07-07 12:39:00",
+      "album": {
+        "name": "Human Reworked",
+        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        },
+        {
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
     }
   ],
   "unique_name": "Classical X",

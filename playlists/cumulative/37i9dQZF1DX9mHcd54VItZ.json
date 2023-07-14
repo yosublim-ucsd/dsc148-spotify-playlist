@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0lWcirgozFoMaWPo9jZXHD?si=C3Djz6JJRD24ZLIaaMdV9Q\">Skelm</a> ",
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX?si=qsqmr240Tz2lC8OEr3UJVA\">Vrede</a> ",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -1874,10 +1874,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 219401,
       "name": "Free to Be Me",
       "url": "https://open.spotify.com/track/6k4VU38pmcRDCn2mRJIpQK"
+    },
+    {
+      "album": {
+        "name": "Garden of the Snake",
+        "url": "https://open.spotify.com/album/47mJM6v3R4rrJoDiQ1Pgji"
+      },
+      "artists": [
+        {
+          "name": "McCully/Mackay",
+          "url": "https://open.spotify.com/artist/61kkxrTkgSTpFjsSr3uWhe"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224476,
+      "name": "Garden of the Snake",
+      "url": "https://open.spotify.com/track/2tykrr9Rl5xR3Mb7IoNjMG"
     },
     {
       "album": {
@@ -2080,7 +2098,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 159652,
       "name": "Hey Jy",
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
@@ -3315,6 +3333,24 @@
     },
     {
       "album": {
+        "name": "Linker Knie",
+        "url": "https://open.spotify.com/album/4qp7fZPuuzzFm9KXJx0VgT"
+      },
+      "artists": [
+        {
+          "name": "Kabaal Klankbaan",
+          "url": "https://open.spotify.com/artist/4HrNCPJFdxokdkYcRHk4mb"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Old-fashioned Liefde",
+      "url": "https://open.spotify.com/track/0f1shqFGToy3RJzZBojBli"
+    },
+    {
+      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/6I10aJiMRq2h1jqF1zhYtF"
       },
@@ -3640,7 +3676,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 237057,
       "name": "Queen of the Gorgons",
       "url": "https://open.spotify.com/track/3JltkTjsMZvzZnfZ5IaGCf"
@@ -4060,7 +4096,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 155818,
       "name": "Shopping Bags",
       "url": "https://open.spotify.com/track/1LQlATnTQZvPyXwzjPb83e"
@@ -4669,6 +4705,28 @@
     },
     {
       "album": {
+        "name": "The Colour and the Shape",
+        "url": "https://open.spotify.com/album/7B8zs7JZhKDW91ETEoajgN"
+      },
+      "artists": [
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        },
+        {
+          "name": "Andi Cappo",
+          "url": "https://open.spotify.com/artist/0nVE9BZlGecwePu02YZXbP"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167679,
+      "name": "The Colour and the Shape",
+      "url": "https://open.spotify.com/track/6SCNjryU6mK5Fm1St3YcHG"
+    },
+    {
+      "album": {
         "name": "The Day I Gave My Sister Away",
         "url": "https://open.spotify.com/album/6Eh0WwpG6PnUsVXPoVEc2W"
       },
@@ -4684,6 +4742,24 @@
       "duration_ms": 179893,
       "name": "The Day I Gave My Sister Away",
       "url": "https://open.spotify.com/track/5xtq7iINMAphuyAaimsut7"
+    },
+    {
+      "album": {
+        "name": "The Fever",
+        "url": "https://open.spotify.com/album/2KnXdLN8jsRC7BcMjzkWUu"
+      },
+      "artists": [
+        {
+          "name": "The Man Motels",
+          "url": "https://open.spotify.com/artist/4LvYhXU9ZIFnMCmmhgSEhw"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "The Fever",
+      "url": "https://open.spotify.com/track/6FuzR5Bt1XlzlGoMK4sOC3"
     },
     {
       "album": {
@@ -4981,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Klein W\u00eareld",
+        "url": "https://open.spotify.com/album/1GH5KV0DZzHDTPgf4UTs9A"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218398,
+      "name": "Tyd",
+      "url": "https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0"
+    },
+    {
+      "album": {
         "name": "Unbroken",
         "url": "https://open.spotify.com/album/6Yf1kD6cBNBqRSPbVWgaGm"
       },
@@ -5100,7 +5194,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 190066,
       "name": "Verlede",
       "url": "https://open.spotify.com/track/4Rv72ElRdcLDMi7r5ENtRz"

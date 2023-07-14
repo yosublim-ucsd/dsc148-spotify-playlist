@@ -5265,6 +5265,24 @@
     },
     {
       "album": {
+        "name": "Spectral Vibrations",
+        "url": "https://open.spotify.com/album/1HUU66yCQafwrpIxzyDsrF"
+      },
+      "artists": [
+        {
+          "name": "Paulo May",
+          "url": "https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Spectral Vibrations",
+      "url": "https://open.spotify.com/track/364Yxnly3Q1XvxWZRwFtS1"
+    },
+    {
+      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/1tFb4gpyJ8AxTbAyvgMOob"
       },
@@ -5892,6 +5910,24 @@
       "duration_ms": 201600,
       "name": "Undiscovered",
       "url": "https://open.spotify.com/track/6GjsF3MDIoYYawgIOXnXJW"
+    },
+    {
+      "album": {
+        "name": "Unification",
+        "url": "https://open.spotify.com/album/3u5JQDrID6d6ZUTgm9XHac"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sine",
+          "url": "https://open.spotify.com/artist/0JIVfIfdmw45EoZuIWSZqa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173619,
+      "name": "Unification",
+      "url": "https://open.spotify.com/track/5dUtiQaiCzaagfh67mBJdp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Cool beats for homework time!
 
-189 songs - 7 hr 6 min
+190 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Jeux D’eau](https://open.spotify.com/track/6COEtOPrRjUzd7HUQZC6x6) | [sadtoi](https://open.spotify.com/artist/7G6bYv9rdldB4mNddVd2yy) | [Chillhop Daydreams](https://open.spotify.com/album/5Tv8LWNku2lmWXxAy4xYhI) | 2:24 | 2022-07-08 |  |
 | [just relax](https://open.spotify.com/track/0POolioSzFOWb0n0it50Lz) | [stilistics](https://open.spotify.com/artist/4UexprKNraCvro4K4XYzut) | [ready set go](https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze) | 1:36 | 2022-04-08 |  |
 | [kyoto calling](https://open.spotify.com/track/3Bepjm4vgBBfbLzS0KBTlt) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [kyoto calling](https://open.spotify.com/album/0MWZAefCAhCIkpwtZFsBYv) | 1:58 | 2022-04-08 | 2022-04-22 |
-| [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:01 | 2022-04-08 |  |
+| [Last Chance](https://open.spotify.com/track/00hvIih24hny87nA7TVO4z) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 2:01 | 2022-04-08 | 2023-07-14 |
+| [Last Chance](https://open.spotify.com/track/4Dk38EtWuCEv9XIES350re) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy), [elzie](https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU) | [Harvest](https://open.spotify.com/album/6a2P7s6eBxxIUW8LiXcNM9) | 2:01 | 2023-07-06 |  |
 | [Late Night Jam](https://open.spotify.com/track/73yXOxZAK9FymtlXDfLVnR) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [Late Night Jam](https://open.spotify.com/album/09VmKc1VmrrFGMVc3SvXd4) | 2:27 | 2022-04-08 |  |
 | [lemon](https://open.spotify.com/track/3Ca0cl4Qs3IhEBJpjVf53x) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [old fruits](https://open.spotify.com/album/3ksNu0rBR7M7nPfsUTxyQA) | 1:54 | 2022-07-08 |  |
 | [lemon](https://open.spotify.com/track/5ACcn12wzLSQb7OqfXvX0w) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [lemon](https://open.spotify.com/album/5k0NV7xszABRC2JSFcE5Lz) | 1:54 | 2022-04-08 | 2022-11-28 |

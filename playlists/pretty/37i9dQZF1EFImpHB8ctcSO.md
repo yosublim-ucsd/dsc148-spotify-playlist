@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3PDg3S0MIP0ktidASSh27r">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 72 | [I Could Get Used to This](https://open.spotify.com/track/6qskiiPakXAiR3j0T6YLfv) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:04 |
 | 73 | [Goodbye Caroline](https://open.spotify.com/track/5aABtI9bsAwnDGMHUntGYJ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:53 |
 | 74 | [Video](https://open.spotify.com/track/54NqcWLY90zwlaUOJFoP1i) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:35 |
-| 75 | [It's Over](https://open.spotify.com/track/7d1E2TWy25iE21IJ2xYBRp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:58 |
-| 76 | [Living A Lie](https://open.spotify.com/track/7mOWs4uoSzkLNkpmx5qz1G) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:26 |
+| 75 | [Living A Lie](https://open.spotify.com/track/7mOWs4uoSzkLNkpmx5qz1G) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:26 |
+| 76 | [It's Over](https://open.spotify.com/track/7d1E2TWy25iE21IJ2xYBRp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:58 |
 | 77 | [Great Beyond](https://open.spotify.com/track/1pU9kp6s5nNGGHXnHdZ2pH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:12 |
 | 78 | [Stupid Thing](https://open.spotify.com/track/5LAinADvuYtEaX1ejM9IdO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:27 |
 | 79 | [Choice In The Matter](https://open.spotify.com/track/25zizz5F5JkXFddjsWFIYE) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:13 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 81 | [I See You](https://open.spotify.com/track/2ZIFYxsLlHNCFVTLwZHw3L) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:36 |
 | 82 | [It Takes All Kinds](https://open.spotify.com/track/77QWSeLEVCmoLSlCwVdgIy) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 4:06 |
 | 83 | [Don't Watch Me Bleed](https://open.spotify.com/track/7aoVLav5YuqmAyd5PnEX5z) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:30 |
-| 84 | [Ballantines](https://open.spotify.com/track/0xC8kQIZt4MY12LmKeZb8C) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 2:21 |
-| 85 | [No More Crying](https://open.spotify.com/track/1wUpTyNv2aA4r8TR3RIviG) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:21 |
+| 84 | [No More Crying](https://open.spotify.com/track/1wUpTyNv2aA4r8TR3RIviG) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:21 |
+| 85 | [Ballantines](https://open.spotify.com/track/0xC8kQIZt4MY12LmKeZb8C) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 2:21 |
 | 86 | [Put Me On Top](https://open.spotify.com/track/2bbzJzaNSdOHECnc2uKnV7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:28 |
 | 87 | [Medicine Wheel](https://open.spotify.com/track/2uMidV9vh9zHb7CxlI1ezp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 4:08 |
 | 88 | [Looking Over My Shoulder](https://open.spotify.com/track/6cKVs98HYwa4yNqx8I6lFT) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:17 |
@@ -136,11 +136,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 126 | [No One Is Watching You Now](https://open.spotify.com/track/1ko1dRz3L0wj0AWqsoCbQ1) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 3:53 |
 | 127 | [Rip In Heaven](https://open.spotify.com/track/0BKslA1XqG8HBUKBl4d7EN) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:31 |
 | 128 | [J For Jules](https://open.spotify.com/track/0J6nZDgEuwXtECq8Pukn1n) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:25 |
-| 129 | [Say Anything](https://open.spotify.com/track/455wWMvRblV4B5RYTCZavI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:57 |
-| 130 | [Jacob Marley's Chain](https://open.spotify.com/track/3MvkWS2gAegv8zPhci1oVL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:01 |
+| 129 | [Jacob Marley's Chain](https://open.spotify.com/track/3MvkWS2gAegv8zPhci1oVL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:01 |
+| 130 | [Say Anything](https://open.spotify.com/track/455wWMvRblV4B5RYTCZavI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:57 |
 | 131 | [Brother's Keeper](https://open.spotify.com/track/7jTgrxio0BhMkyVSGwMXUz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:01 |
-| 132 | [At the Edge of the World](https://open.spotify.com/track/0EqurOMqYE3WWzjpGOJIi1) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk), [Zach Gill](https://open.spotify.com/artist/5HMFK1o5Bl9qY10PgavMhT) | [Arctic Tale \(Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/1h2jAmHIod6LY6v8IJrpEX) | 2:53 |
-| 133 | [Long Gone \(Buddy\)](https://open.spotify.com/track/0cAdYBuFObbGN42H0cXaye) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:31 |
+| 132 | [Long Gone \(Buddy\)](https://open.spotify.com/track/0cAdYBuFObbGN42H0cXaye) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 4:31 |
+| 133 | [At the Edge of the World](https://open.spotify.com/track/0EqurOMqYE3WWzjpGOJIi1) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk), [Zach Gill](https://open.spotify.com/artist/5HMFK1o5Bl9qY10PgavMhT) | [Arctic Tale \(Music from and Inspired by the Motion Picture\)](https://open.spotify.com/album/1h2jAmHIod6LY6v8IJrpEX) | 2:53 |
 | 134 | [Par For The Course](https://open.spotify.com/track/4bGXy2S9unA288Pf4IVRfU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 6:01 |
 | 135 | [You Could Have Been a Roosevelt](https://open.spotify.com/track/2dU0Wk5jvZmygM7qobHZ2n) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:07 |
 | 136 | [In Mexico](https://open.spotify.com/track/2yv6OpHx8wi1vrytkoGVhj) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:33 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `MjgxNTIxNDAsMDAwMDAwMDA2OTA0Nzg5OGMwNjAwZjFmMDdkZDVjNzUwYmI3ZjVhYg==`
+Snapshot ID: `MjgxNTUwMDAsMDAwMDAwMDBmNTQwZWZmNzA5MDM2NDUxNjQ2NmVjMmIyODQ0MzEwNA==`

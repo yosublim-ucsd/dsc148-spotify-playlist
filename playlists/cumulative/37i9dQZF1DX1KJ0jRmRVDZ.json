@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 182029,
       "name": "Gyakutengeki",
       "url": "https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 261045,
       "name": "Ibara",
       "url": "https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 194515,
       "name": "I\u2019m a Controversy",
       "url": "https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM"
@@ -4270,7 +4270,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 165042,
       "name": "Spica",
       "url": "https://open.spotify.com/track/3cwEY2BH2SALUHFeHLW4VM"
@@ -5938,7 +5938,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 149863,
       "name": "\u3072\u304b\u308a\u3092\u305f\u3081\u308b",
       "url": "https://open.spotify.com/track/5lorTN19XPlsMwrNy3V7Mg"
@@ -6440,7 +6440,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
       "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
@@ -9833,6 +9833,24 @@
     },
     {
       "album": {
+        "name": "\u4e2d\u6bd2\u6027\u306e\u30c1\u30e5\u30a6",
+        "url": "https://open.spotify.com/album/1Up7ACJBmb4EWm3HFfkGo2"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u308a\u3043",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u4e2d\u6bd2\u6027\u306e\u30c1\u30e5\u30a6",
+      "url": "https://open.spotify.com/track/3hm6IL84H9yNoth64sIgDx"
+    },
+    {
+      "album": {
         "name": "\u4e3b\u4eba\u516c",
         "url": "https://open.spotify.com/album/5cb1ouz68nSwFy2DkXvAlU"
       },
@@ -10156,7 +10174,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 251353,
       "name": "\u51e1\u4eba\u69d8",
       "url": "https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je"
@@ -10824,6 +10842,28 @@
       "duration_ms": 79448,
       "name": "\u591c\u884c\u4e2d",
       "url": "https://open.spotify.com/track/2Nw2EABynlmscrA3kE4FE7"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306e\u7d9a\u304d (feat. \u3086\u3046\u3002)",
+        "url": "https://open.spotify.com/album/41r9D1ckdZ1CatV7NnBAME"
+      },
+      "artists": [
+        {
+          "name": "\u5802\u6751\u7483\u7fbd",
+          "url": "https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp"
+        },
+        {
+          "name": "Yuu.",
+          "url": "https://open.spotify.com/artist/1shqQfIa52VAFKrKe3tHPm"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "\u5922\u306e\u7d9a\u304d (feat. \u3086\u3046\u3002)",
+      "url": "https://open.spotify.com/track/5II0rU4pUkeeWchtCpdbR8"
     },
     {
       "album": {
@@ -14518,7 +14558,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 180266,
       "name": "\u98a8 - feat. \u7406\u82bd",
       "url": "https://open.spotify.com/track/6LioUhDe4oEGIr4WAJRnu5"

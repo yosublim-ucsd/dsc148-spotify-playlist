@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b $uicide Gvng in cover!",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  Simone Panetti in cover!",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 181732,
       "name": "17 anni (PANICO)",
       "url": "https://open.spotify.com/track/5nlJwV1jDu4hhQdY3YsG8W"
+    },
+    {
+      "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151863,
+      "name": "17250",
+      "url": "https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7"
     },
     {
       "album": {
@@ -446,7 +464,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 182062,
       "name": "ACD",
       "url": "https://open.spotify.com/track/0IFRfiTJCtPSjkNT7XD1na"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 170992,
       "name": "AMORE SINCERO",
       "url": "https://open.spotify.com/track/6mCCQi7sX67qK4ltIBYdQN"
@@ -2681,6 +2699,36 @@
     },
     {
       "album": {
+        "name": "DISTURBO OSSESSIVO COMPULSIVO",
+        "url": "https://open.spotify.com/album/2BhLKzOBZOfhX5GqADIhQG"
+      },
+      "artists": [
+        {
+          "name": "Zame",
+          "url": "https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb"
+        },
+        {
+          "name": "Mr. Ugo",
+          "url": "https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H"
+        },
+        {
+          "name": "Peri",
+          "url": "https://open.spotify.com/artist/4EjAFy3j6t7pYae8voXN4D"
+        },
+        {
+          "name": "Frasca",
+          "url": "https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "DISTURBO OSSESSIVO COMPULSIVO",
+      "url": "https://open.spotify.com/track/6csZ81pslxZ2R49oqhuHMW"
+    },
+    {
+      "album": {
         "name": "Bart Forever",
         "url": "https://open.spotify.com/album/3ev1xSnhoKNPS45C7LL1pc"
       },
@@ -3120,7 +3168,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 137440,
       "name": "Dumbest Girl Alive",
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
@@ -3290,7 +3338,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 122823,
       "name": "EX",
       "url": "https://open.spotify.com/track/0s2a4lDkvChIBsDfoa69ET"
@@ -3712,7 +3760,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 151234,
       "name": "Fotogrammi",
       "url": "https://open.spotify.com/track/4Cw2S49cbRBOZiBZ34hOcd"
@@ -4300,7 +4348,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 148000,
       "name": "GUAI",
       "url": "https://open.spotify.com/track/6iJprhy6IZE3Yb7JbuViXV"
@@ -4857,6 +4905,24 @@
     },
     {
       "album": {
+        "name": "I RAGAZZI STANNO BENE",
+        "url": "https://open.spotify.com/album/3oZ7hp7zsXsKhdPTmXjW4g"
+      },
+      "artists": [
+        {
+          "name": "DIRTY S\u00d6CKS",
+          "url": "https://open.spotify.com/artist/3xImYOasFmUbn3ngECT1fI"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199301,
+      "name": "IRSB",
+      "url": "https://open.spotify.com/track/7atwRZgIdrIKUF5LqRrRNE"
+    },
+    {
+      "album": {
         "name": "JAMES DEAN",
         "url": "https://open.spotify.com/album/7hihiCYSTCRKAGcX7hSUXJ"
       },
@@ -5255,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Armonia//Silenzio",
+        "url": "https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq"
+      },
+      "artists": [
+        {
+          "name": "Schiuma",
+          "url": "https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205283,
+      "name": "Labbra in 3D",
+      "url": "https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1"
+    },
+    {
+      "album": {
         "name": "LACRIME",
         "url": "https://open.spotify.com/album/3VNariQYcnXLuIP9tAJkDD"
       },
@@ -5274,6 +5358,28 @@
       "duration_ms": 209790,
       "name": "LACRIME",
       "url": "https://open.spotify.com/track/7vk8Z4eaJGAnYG11sE7zZ1"
+    },
+    {
+      "album": {
+        "name": "Lacrime di coccodrillo",
+        "url": "https://open.spotify.com/album/70sRCUeP9eNCT1GnoRQ6Qh"
+      },
+      "artists": [
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+        },
+        {
+          "name": "AnnicK",
+          "url": "https://open.spotify.com/artist/2J8TklMXojpcXK0PsN9sU6"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127792,
+      "name": "Lacrime di coccodrillo",
+      "url": "https://open.spotify.com/track/1a5uVTIFE8rCUOj4kOxBTo"
     },
     {
       "album": {
@@ -6234,7 +6340,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 170852,
       "name": "Meteoropatica",
       "url": "https://open.spotify.com/track/6vdQV0iH7Fd362gxre1Z6n"
@@ -7084,7 +7190,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 142962,
       "name": "Nuda nei miei panni",
       "url": "https://open.spotify.com/track/27A4gpdZ1nkEYxRBA73cKT"
@@ -9262,7 +9368,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 166336,
       "name": "sotto sotto",
       "url": "https://open.spotify.com/track/10gwf4dDvntcxFpBE2opUe"
@@ -9564,7 +9670,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 159000,
       "name": "Stai Ancora Guardando?",
       "url": "https://open.spotify.com/track/4OoEv2zLhguZK7BclOHjUP"
@@ -9790,7 +9896,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 142109,
       "name": "Strappami il Cuore",
       "url": "https://open.spotify.com/track/1Y5D0a5RatG4WXjGWqfFF7"
@@ -9878,6 +9984,28 @@
       "duration_ms": 181801,
       "name": "Stupida scusa",
       "url": "https://open.spotify.com/track/23LV89m2teIc59m3lejM2a"
+    },
+    {
+      "album": {
+        "name": "Stupida vita (feat. 2nd Roof)",
+        "url": "https://open.spotify.com/album/3nxytjfeneppD6nOIDuadB"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Stupida vita (feat. 2nd Roof)",
+      "url": "https://open.spotify.com/track/4iRetHGYzDUyKVRyqn4rDb"
     },
     {
       "album": {
@@ -10018,6 +10146,24 @@
       "duration_ms": 135854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14"
+    },
+    {
+      "album": {
+        "name": "superficiale",
+        "url": "https://open.spotify.com/album/4SjOQkU222XKjmZlOzEPk9"
+      },
+      "artists": [
+        {
+          "name": "mich<3",
+          "url": "https://open.spotify.com/artist/60TrKa4pL7M9VGcFqa1n9F"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160344,
+      "name": "superficiale",
+      "url": "https://open.spotify.com/track/4QxxIqzqXWQ1nvsK6iJBNV"
     },
     {
       "album": {
@@ -10174,7 +10320,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 168866,
       "name": "TEMPESTA",
       "url": "https://open.spotify.com/track/2SPWmeeJFV39qI4PVu9caj"

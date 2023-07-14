@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "NzgyLDg0YTBmNTA1MTMxOWY3OTAzMGEwODgxZDQwNGU3OTczNGIyNzRmZjI=",
+  "snapshot_id": "Nzg0LDVlMzEwYzIyN2MyOGQ0YWQ4Y2Q5MjAwZmNhM2RkMGIyYWM1MzBmNTk=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -11779,6 +11779,50 @@
       "duration_ms": 157198,
       "name": "World Is Yours (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/0p0jvYdazuWBMC8QacxpUH"
+    },
+    {
+      "added_at": "2023-07-13 23:49:42",
+      "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157557,
+      "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
+      "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
+    },
+    {
+      "added_at": "2023-07-13 23:51:05",
+      "album": {
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

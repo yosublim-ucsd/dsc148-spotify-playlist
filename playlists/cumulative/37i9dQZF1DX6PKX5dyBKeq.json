@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Mist & M1llionz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: J Hus",
   "name": "Rap UK",
   "tracks": [
     {
@@ -725,7 +725,7 @@
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 240002,
+      "duration_ms": 205943,
       "name": "3 Dimensions",
       "url": "https://open.spotify.com/track/0EOMZzZ4Czq4B1yVvjHvBb"
     },
@@ -5380,7 +5380,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 147748,
       "name": "Call Her",
       "url": "https://open.spotify.com/track/4bH6l2rtVZSrS1BITl8AtZ"
@@ -6529,6 +6529,28 @@
     },
     {
       "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Villz",
+          "url": "https://open.spotify.com/artist/7EdWhwj3ewGqWR54uJsftf"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230866,
+      "name": "Comeback (feat. Villz)",
+      "url": "https://open.spotify.com/track/4O7J8AN1eE1MOfPhXM5z76"
+    },
+    {
+      "album": {
         "name": "Coming for You (feat. A1 x J1)",
         "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
       },
@@ -6908,6 +6930,28 @@
       "duration_ms": 192000,
       "name": "Crazy Year",
       "url": "https://open.spotify.com/track/00QPsHjXJewkwHtwqYRKyO"
+    },
+    {
+      "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "CB",
+          "url": "https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Cream (feat. CB)",
+      "url": "https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c"
     },
     {
       "album": {
@@ -11233,6 +11277,24 @@
     },
     {
       "album": {
+        "name": "NEMZZZ TYPE BEAT",
+        "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "FYP",
+      "url": "https://open.spotify.com/track/6YtWDeoQ5lJCkQ3uAQ1gZg"
+    },
+    {
+      "album": {
         "name": "G Lock",
         "url": "https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE"
       },
@@ -13702,7 +13764,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 200440,
       "name": "It's Crazy - Single Version",
       "url": "https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG"
@@ -14457,6 +14519,28 @@
     },
     {
       "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Killy (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG"
+    },
+    {
+      "album": {
         "name": "Killy Killy",
         "url": "https://open.spotify.com/album/2r7hkpcdLvzE30eleq3VC8"
       },
@@ -14902,6 +14986,28 @@
       "duration_ms": 201398,
       "name": "Leave Dat Trap",
       "url": "https://open.spotify.com/track/5vR65o6UhwcmQqaNtLzNOX"
+    },
+    {
+      "album": {
+        "name": "Leeds Town",
+        "url": "https://open.spotify.com/album/0FXYoRSbSliqHQDxqH1DhI"
+      },
+      "artists": [
+        {
+          "name": "Temz",
+          "url": "https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg"
+        },
+        {
+          "name": "Caution",
+          "url": "https://open.spotify.com/artist/4ibBdkHVvSRnTRZok0ezBz"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Leeds Town",
+      "url": "https://open.spotify.com/track/6Vab7BOaIXufeOfzikCeDb"
     },
     {
       "album": {
@@ -22347,6 +22453,24 @@
     },
     {
       "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/3mbLvE8zzHD3uhFGTPA3qC"
+      },
+      "artists": [
+        {
+          "name": "Nolay",
+          "url": "https://open.spotify.com/artist/5DBQ8zSyCGuMkg52bhRG5X"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221001,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/67d06dwsaf897D0dJl4nGz"
+    },
+    {
+      "album": {
         "name": "Respect The Come Up",
         "url": "https://open.spotify.com/album/5DS0IEL4i4jRBY7JjIgFK3"
       },
@@ -22580,7 +22704,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 165067,
       "name": "Right Hand",
       "url": "https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm"
@@ -23676,6 +23800,28 @@
       "duration_ms": 161562,
       "name": "Science",
       "url": "https://open.spotify.com/track/2DgOdU1X4K7ZGRRuLiwwaz"
+    },
+    {
+      "album": {
+        "name": "Scoreboard",
+        "url": "https://open.spotify.com/album/1vyZt4IduBURqZBerz1KUA"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Tiggs Da Author",
+          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169700,
+      "name": "Scoreboard",
+      "url": "https://open.spotify.com/track/1Dx7WrUk8TFGSuxKIRTAZO"
     },
     {
       "album": {
@@ -25078,7 +25224,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 189405,
       "name": "Spaceships",
       "url": "https://open.spotify.com/track/1oPC0IuWI0GXadTlIVfnWw"
@@ -28526,7 +28672,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 202580,
       "name": "Up It",
       "url": "https://open.spotify.com/track/3zjsQW2D3HrKvUeCIk2MPT"

@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 172391,
+  "num_followers": 172541,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTNiNjI4ZmM3NDE5ODAyMjM4YzYxYzY4Y2YyNmNjMGJhNWYwMTkx",
+  "snapshot_id": "MCwxMzkzZWFkM2ViYThkMTc5YTAwNzI1Njg5MGNiYzA1ZTM2Mjc3MmY3",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "10 A\u00f1os",
+        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 230945,
+      "name": "Chica del Este",
+      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Me Encanta",
         "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "10 A\u00f1os",
-        "url": "https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Chica del Este",
-      "url": "https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
-        "name": "Tu Despertador",
-        "url": "https://open.spotify.com/album/7efCiTMRpq47SzseKDbIzS"
-      },
-      "artists": [
-        {
-          "name": "Mat\u00edas Valdez",
-          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 150101,
-      "name": "Tu Despertador",
-      "url": "https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
         "name": "A Morir",
         "url": "https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 234626,
       "name": "M\u00e1rchate ahora",
       "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
+        "name": "Tu Despertador",
+        "url": "https://open.spotify.com/album/7efCiTMRpq47SzseKDbIzS"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 150101,
+      "name": "Tu Despertador",
+      "url": "https://open.spotify.com/track/30GjEhGOgIcZwqMUi0x9sW"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Vete de Mi Lado",
+        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
+      },
+      "artists": [
+        {
+          "name": "Los Chakales",
+          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Vete de Mi Lado",
+      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Lo Que Son las Cosas",
         "url": "https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 235035,
       "name": "Lo Que Son las Cosas",
       "url": "https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Vete de Mi Lado",
-        "url": "https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr"
-      },
-      "artists": [
-        {
-          "name": "Los Chakales",
-          "url": "https://open.spotify.com/artist/643YpbScVr0u07i276NRiP"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Vete de Mi Lado",
-      "url": "https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl"
     },
     {
       "added_at": "2023-07-07 03:00:00",

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "AMENIWEKA HURU KWELI (Nyimbo za wokovu) ALBUM 2",
+        "url": "https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu"
+      },
+      "artists": [
+        {
+          "name": "Papi Clever & Dorcas",
+          "url": "https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398000,
+      "name": "Ameniweka huru kweli",
+      "url": "https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9"
+    },
+    {
+      "album": {
         "name": "Nations Will Rise and Sing",
         "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 229715,
       "name": "Kuna Sauti Yaita",
       "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
@@ -765,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Ndio",
+        "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
+      },
+      "artists": [
+        {
+          "name": "Rehema Simfukwe",
+          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563252,
+      "name": "Ndio",
+      "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
+    },
+    {
+      "album": {
         "name": "Nikumbushe Wema Wako",
         "url": "https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX"
       },
@@ -918,7 +954,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 299920,
       "name": "Racing Up",
       "url": "https://open.spotify.com/track/6uJ8mhRbvODOmvGgyHPGve"
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 291657,
       "name": "Tasted Of Your Power",
       "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
@@ -1356,6 +1392,28 @@
       "duration_ms": 306780,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc"
+    },
+    {
+      "album": {
+        "name": "The Sound of Redemption",
+        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
+      },
+      "artists": [
+        {
+          "name": "Mabongi",
+          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403568,
+      "name": "We Worship",
+      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
     },
     {
       "album": {

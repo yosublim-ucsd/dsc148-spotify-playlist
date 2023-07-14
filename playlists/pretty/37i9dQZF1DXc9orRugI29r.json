@@ -1,13 +1,29 @@
 {
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 358326,
-  "original_name": "HOT NOW - Rauw Alejandro",
+  "num_followers": 358570,
+  "original_name": "HOT NOW - Billie Eilish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTg4OWExMmI3ZTU5ZTBiZDU5Y2E4NjJhYjlhNjA1NzhiMTVmNTQ0",
+  "snapshot_id": "MCxjMjMyNWY4OGQ3YmZhMTZjYTg4Njg3MTVhM2M0N2Q3NWJhZWM1ZDE2",
   "tracks": [
+    {
+      "added_at": "2023-07-13 14:12:21",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
@@ -929,22 +945,6 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Funk Rave",
-        "url": "https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 147201,
-      "name": "Funk Rave",
-      "url": "https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0"
-    },
-    {
       "added_at": "2023-03-24 06:00:00",
       "album": {
         "name": "RR",
@@ -997,6 +997,6 @@
       "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     }
   ],
-  "unique_name": "HOT NOW - Rauw Alejandro",
+  "unique_name": "HOT NOW - Billie Eilish",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

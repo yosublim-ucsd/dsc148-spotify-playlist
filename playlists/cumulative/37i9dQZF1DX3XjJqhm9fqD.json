@@ -940,10 +940,28 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 313421,
       "name": "Dlo Dous",
       "url": "https://open.spotify.com/track/092nVwXDBvlff4H9p71rOh"
+    },
+    {
+      "album": {
+        "name": "LAS",
+        "url": "https://open.spotify.com/album/15L1z6E5DX2PIX62oy36k9"
+      },
+      "artists": [
+        {
+          "name": "Zafem",
+          "url": "https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313421,
+      "name": "Dlo Dous",
+      "url": "https://open.spotify.com/track/0JnnQ2ONBFYcPl451tyIHM"
     },
     {
       "album": {

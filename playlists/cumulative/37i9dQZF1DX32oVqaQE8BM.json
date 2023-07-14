@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 240806,
       "name": "Anna's Guesthouse",
       "url": "https://open.spotify.com/track/5MT9dKhdTy2bg6dvxKxhvO"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 165230,
       "name": "Drone Me",
       "url": "https://open.spotify.com/track/5tX4UdxQ95Rho2LZOsb8K5"
@@ -4539,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "light box",
+        "url": "https://open.spotify.com/album/61DJLb9LpPHQZ8Wks6g6Ln"
+      },
+      "artists": [
+        {
+          "name": "ORGANIK",
+          "url": "https://open.spotify.com/artist/6u1yiRYU1JXHQhQDiFBw7L"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135789,
+      "name": "light box",
+      "url": "https://open.spotify.com/track/5VFDfHbNOJbUGQMUTFoJ2D"
+    },
+    {
+      "album": {
         "name": "Elephas",
         "url": "https://open.spotify.com/album/44bw9KEoZgoFje5AmuyIzw"
       },
@@ -5700,6 +5718,24 @@
       "duration_ms": 134662,
       "name": "Night Bloom",
       "url": "https://open.spotify.com/track/3on8oXhnggDUYrReqwSUlp"
+    },
+    {
+      "album": {
+        "name": "night glow",
+        "url": "https://open.spotify.com/album/1yjeyxBSpIoRtp80LybMDk"
+      },
+      "artists": [
+        {
+          "name": "bed beats",
+          "url": "https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182686,
+      "name": "night glow",
+      "url": "https://open.spotify.com/track/6zuONyWDSMIccbX2ZpwOvR"
     },
     {
       "album": {
@@ -8659,6 +8695,24 @@
     },
     {
       "album": {
+        "name": "The Sweetness",
+        "url": "https://open.spotify.com/album/4HaSVgLxdob2oS542H1RGA"
+      },
+      "artists": [
+        {
+          "name": "Peacefullie",
+          "url": "https://open.spotify.com/artist/699wO8JuLWNzO8PSVMPgFC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "The Sweetness",
+      "url": "https://open.spotify.com/track/1845FL0Rp89SWsjxYKJgS6"
+    },
+    {
+      "album": {
         "name": "Left on Read",
         "url": "https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq"
       },
@@ -9232,7 +9286,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 121000,
       "name": "Vacay lets gooo",
       "url": "https://open.spotify.com/track/2xCtE1orl0wVEhSI1fDMDY"

@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,038 songs - 2 day 8 hr 1 min
+1,040 songs - 2 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,8 @@
 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 | 2023-02-23 |  |
 | [Hummingbird \(Metro Boomin & James Blake\)](https://open.spotify.com/track/6HexNTb392JS071DoTGo0y) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 5:19 | 2023-06-07 |  |
 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [Yall](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 | 2023-01-18 | 2023-04-22 |
-| [Hurts Me](https://open.spotify.com/track/0MGcVD2mf0mGE5mS5z8GGm) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hurts Me](https://open.spotify.com/album/33BXBC0h5W3wDiiNDOTuHr) | 2:35 | 2023-07-12 |  |
+| [Hurts Me](https://open.spotify.com/track/0MGcVD2mf0mGE5mS5z8GGm) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Hurts Me](https://open.spotify.com/album/33BXBC0h5W3wDiiNDOTuHr) | 2:35 | 2023-07-12 | 2023-07-14 |
+| [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:35 | 2023-07-13 |  |
 | [I Believe to My Soul](https://open.spotify.com/track/0gutAUZDhQ7jHEOLaez0JL) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius!](https://open.spotify.com/album/7bhXn5Yp33frMmShpp7DMR) | 3:02 | 2022-03-11 | 2022-04-01 |
 | [I Bet U Won't](https://open.spotify.com/track/4jpU6zDVX7KS2w9A7t9vGZ) | [Mouse and Level](https://open.spotify.com/artist/3rXP9cC5RG73e6Z6oipYQ6) | [Get It While Its Hot](https://open.spotify.com/album/1xyK3dQaiA3pGoNnVyTCXQ) | 3:22 | 2022-03-26 | 2022-04-11 |
 | [I Can't](https://open.spotify.com/track/0Zo8a2oMdEKCBPFszXtxqN) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't](https://open.spotify.com/album/4DZWXg7CmxlSFgIt83wTYr) | 2:29 | 2022-12-13 | 2023-01-28 |
@@ -784,6 +785,7 @@
 | [Run This Town](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:27 | 2023-02-13 | 2023-06-06 |
 | [RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:57 | 2023-04-19 |  |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-29 | 2022-09-17 |
+| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-13 |  |
 | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/track/54cV7pqcoIUDftaczXuGKt) | [Davi Richie](https://open.spotify.com/artist/4IjrryLh4NjxN8KC6CZijI), [Anymorph](https://open.spotify.com/artist/4WBEDrp1bZE719F3a9Wz7R) | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/album/5M2IeqXTl3cDizfj0pWj3h) | 1:18 | 2022-04-25 | 2022-05-04 |
 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 | 2022-03-19 | 2022-04-01 |
 | [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 3:20 | 2022-11-13 | 2022-11-29 |

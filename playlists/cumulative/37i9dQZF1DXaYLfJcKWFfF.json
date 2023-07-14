@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=QhfQ3TpCQ6KhVigAP4CU5g\"> Lady Donli </a> ",
+  "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD?si=r5kjzgqjQLCtNdqZxymWTw\"> The Cavemen. </a> ",
   "name": "Afro Indie",
   "tracks": [
     {
@@ -162,6 +162,24 @@
       "duration_ms": 262956,
       "name": "Alunamehlo",
       "url": "https://open.spotify.com/track/3m4vlH8tRa4JU3498Qzkkj"
+    },
+    {
+      "album": {
+        "name": "Berlin Lights",
+        "url": "https://open.spotify.com/album/7EMfdp4BsQiS1HZGxpvBYJ"
+      },
+      "artists": [
+        {
+          "name": "Alisha Popat",
+          "url": "https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228088,
+      "name": "Berlin Lights",
+      "url": "https://open.spotify.com/track/75Fv87zEHrKOKG8KvxFjQB"
     },
     {
       "album": {
@@ -1437,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Open Your Mind / Saviour (Single)",
+        "url": "https://open.spotify.com/album/6Amfc8tTRMRzwsWWip8dYX"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143086,
+      "name": "Open Your Mind",
+      "url": "https://open.spotify.com/track/4xdexoL0fs2yljXSzVrnYj"
+    },
+    {
+      "album": {
         "name": "Outplayed",
         "url": "https://open.spotify.com/album/2pyWphlMKiZA7GMRkfiitk"
       },
@@ -1702,6 +1738,28 @@
       "duration_ms": 194285,
       "name": "Secret",
       "url": "https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw"
+    },
+    {
+      "album": {
+        "name": "See Me (Remix)",
+        "url": "https://open.spotify.com/album/1uV8jqGi34ZR4doIvsxkLH"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "BasicCity",
+          "url": "https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170033,
+      "name": "See Me - Remix",
+      "url": "https://open.spotify.com/track/7nYcbjV7zOrwHaXU1Qzqio"
     },
     {
       "album": {

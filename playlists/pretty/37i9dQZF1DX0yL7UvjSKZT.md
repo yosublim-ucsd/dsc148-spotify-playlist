@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Caitlin Canty
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,230 likes - 141 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,252 likes - 141 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 140 | [Junkie](https://open.spotify.com/track/6xkRKNcvCyXuOianBHpm2K) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Junkie](https://open.spotify.com/album/12trB8fFs5uPO2oIOvcHwm) | 4:04 |
 | 141 | [Abigail](https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Abigail](https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3) | 3:17 |
 
-Snapshot ID: `MCw5NmYyNjAzNjgyOTA0ZGIzY2Q3YjdjNGY2YmI5MmJjYzkwMTNjOTMz`
+Snapshot ID: `MCxjNzE0MTE4YzA1ZDVjMzZkNjhhMmFhMGQwYmE0YmQ2NDY5OTkyNGM1`

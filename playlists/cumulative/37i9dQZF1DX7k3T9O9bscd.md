@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
 
-286 songs - 23 hr 8 min
+288 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [At Night in Dreams](https://open.spotify.com/track/6ZeOVOdxz0Sf0o9yf6imUX) | [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Corsicana Lemonade](https://open.spotify.com/album/6BcETfqZtiIw2TmpQGvAGS) | 4:04 | 2021-11-12 | 2022-07-29 |
 | [attention](https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:05 | 2023-06-26 |  |
 | [Automation](https://open.spotify.com/track/2xrOwkZ4t3qMTaP3oti1Xx) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Automation](https://open.spotify.com/album/7h72n5kHGmCYkoXkBoL3II) | 3:29 | 2021-11-12 | 2022-07-29 |
+| [Azure](https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV) | [Kaleydo](https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur) | [Azure](https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv) | 2:35 | 2023-07-14 |  |
 | [Back to Land](https://open.spotify.com/track/6ylxuxxLEcbZKtVTf0Feg2) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/1VyWvAkunNZTJ0PCUv81dj) | 5:17 | 2021-11-12 | 2022-07-15 |
 | [Back to Land](https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:17 | 2021-11-12 |  |
 | [Bademler](https://open.spotify.com/track/5vQXGCSst0vWgWgawny6o4) | [Danslı Parti](https://open.spotify.com/artist/1Nuj3jFpl3udnJpo6Qb8z4) | [iii](https://open.spotify.com/album/2ntL9EJiAMldoCL3iONxsO) | 4:10 | 2022-02-18 | 2022-07-29 |
@@ -75,6 +76,7 @@
 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 | 2021-11-12 |  |
 | [Egypt](https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy) | [KYANOS](https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD) | [Egypt](https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc) | 4:21 | 2022-04-12 |  |
 | [Ejefjallajökull](https://open.spotify.com/track/4gE0qgEcL3lxiiCnnenhC4) | [Flowers Must Die](https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I) | [Där blommor dör](https://open.spotify.com/album/7jVX2uZskYhrvViAPqEQVq) | 8:49 | 2021-11-12 | 2022-07-23 |
+| [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [EL ELIXIR DE TUS LABIOS](https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4) | 4:02 | 2023-07-14 |  |
 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 | 2022-08-29 | 2022-10-18 |
 | [El Valle](https://open.spotify.com/track/20mxHuTlg65fP3sFB2zqBr) | [Derby Motoreta’s Burrito Kachimba](https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4) | [El Valle](https://open.spotify.com/album/7gN1tO9yniNjUwdJC3HBSa) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 | 2022-08-19 | 2022-08-30 |
@@ -130,7 +132,7 @@
 | [Imperio](https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [Imperio](https://open.spotify.com/album/4xSIqrDjct43Ts9y0p2Foj) | 3:39 | 2021-11-12 | 2022-06-13 |
 | [In The Eve](https://open.spotify.com/track/4rVD839xJRAk4jRqB2UzND) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/7zxPsrcn1bbLrGgzUQo3qg) | 3:56 | 2021-11-12 | 2022-07-24 |
 | [In The Eve](https://open.spotify.com/track/5VQq8M6cGARgFSLnialsvJ) | [Stonefield](https://open.spotify.com/artist/2xhrgovPiJBMN8cyW2iflu) | [Far From Earth](https://open.spotify.com/album/0Q8ULMJnNCjkLErAEgysO6) | 3:56 | 2021-11-12 | 2023-07-02 |
-| [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 | 2021-11-12 |  |
+| [Indian Zone Drum Killer Inc.](https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP) | [Tandy Love](https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P) | [Turk Jerk](https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4) | 3:25 | 2021-11-12 | 2023-07-14 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-11-12 |  |
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-11-12 | 2022-11-13 |
 | [It Might Be Time](https://open.spotify.com/track/2P0NiuAfypaw5UZJoo0n0o) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [It Might Be Time](https://open.spotify.com/album/0xUNJrjy4ORR3xQKH93n3a) | 4:33 | 2021-11-12 | 2022-07-24 |
@@ -242,7 +244,7 @@
 | [Strange Secrets Worth Knowing](https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W) | [Improvement Movement](https://open.spotify.com/artist/18S4ntNsQ8TCG80wpOsxWZ) | [Don't Delay, Join Today!](https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi) | 2:08 | 2022-08-03 |  |
 | [String Theory](https://open.spotify.com/track/6kmzMsSKCFfx0lYQgospLN) | [Fabriccio De La Mora](https://open.spotify.com/artist/7pLfqIgR1knxojsSQmmONZ) | [Grand Unified Theories](https://open.spotify.com/album/4jrPtdrkLT5tz4OUcrHn4c) | 5:23 | 2022-06-29 | 2022-08-04 |
 | [Su Sızıyor](https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Su Sızıyor](https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd) | 4:04 | 2023-03-31 | 2023-06-02 |
-| [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 | 2021-11-12 |  |
+| [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 | 2021-11-12 | 2023-07-14 |
 | [Tense Soup](https://open.spotify.com/track/73ghPgeqN9YLa2XJva3rS7) | [Modern Ruin](https://open.spotify.com/artist/4cKQl1wHAssze6XTKQwPJm) | [Unemployment Line Disco](https://open.spotify.com/album/00xfuXJwBODesUybW1GouI) | 5:24 | 2021-11-12 | 2022-07-22 |
 | [The Ark](https://open.spotify.com/track/35WcyVjvnNmShTVxWpzqBX) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Spirals / The Ark](https://open.spotify.com/album/42PQd5ADHI5PEoxRgsO0AL) | 2:45 | 2021-11-12 | 2022-07-02 |
 | [The Blue Marble](https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [The Underdog](https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof) | 4:45 | 2021-11-12 |  |

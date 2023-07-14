@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-92 songs - 5 hr 1 min
+93 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Help Me](https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6xzTGXUxiDgdIH9TZiHKz8) | 3:58 | 2022-07-04 |  |
 | [How To Love \(with NEON PAPRIKA\) \- Special Track Version](https://open.spotify.com/track/5avhK56czNLazDtqXEKrHa) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [NEON PAPRIKA](https://open.spotify.com/artist/7jlt93QGTuUEdDhhTuJj2i) | [Replay \(Original Television Soundtrack\)](https://open.spotify.com/album/6Mpb0VFJvRT8EpifN9sjKk) | 3:30 | 2022-05-22 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2022-05-22 |  |
+| [I DO](https://open.spotify.com/track/6SePnvTZkIXZznc8Ftc6vM) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I DO](https://open.spotify.com/album/62lN1efwf3MajWlzsSlYFN) | 3:10 | 2023-07-14 |  |
 | [i'M THE TREND](https://open.spotify.com/track/5Fkkhd5Sy1dCBkKdXLQl4U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [i'M THE TREND](https://open.spotify.com/album/03TbZLPSRsHWX11umzK4qf) | 3:25 | 2022-05-22 |  |
 | [Idle song](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Idle song](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) | 3:08 | 2022-05-22 |  |
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordy Waelauruw",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Littlefingers",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -32,7 +32,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 579060,
       "name": "1 Year After",
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 206935,
       "name": "A Little Girl",
       "url": "https://open.spotify.com/track/19t8VlFHLBQDhRm1XUW1Bj"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 216264,
       "name": "bitterlove",
       "url": "https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 156466,
       "name": "Even Rain",
       "url": "https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD"
@@ -1178,6 +1178,32 @@
       "duration_ms": 303300,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot"
+    },
+    {
+      "album": {
+        "name": "GYMNASIUM",
+        "url": "https://open.spotify.com/album/04hDXHNlGH50mEs2aSI0D2"
+      },
+      "artists": [
+        {
+          "name": "Littlefingers",
+          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
+        },
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/2hiaJ5v1B9HiftMeHcDmht"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229530,
+      "name": "GYMNASIUM",
+      "url": "https://open.spotify.com/track/3gXpHM1ZcUKF5Kn3CtuT0q"
     },
     {
       "album": {
@@ -1448,7 +1474,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 133913,
       "name": "Irene",
       "url": "https://open.spotify.com/track/7mwr8KXoJ4x5Cdq3p6LypD"
@@ -1848,7 +1874,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 196363,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0RwY80gFnRo9noKMipeFXi"
@@ -2088,7 +2114,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 215581,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/68axzsHTzuRwz7taOKwh3r"
@@ -2146,7 +2172,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 285354,
       "name": "Perjumpaan Kita",
       "url": "https://open.spotify.com/track/0XrhqWIImjM7MlImOZUXZX"
@@ -2667,6 +2693,24 @@
     },
     {
       "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0x2ihg2RFYa7ESUnJzEdcq"
+      },
+      "artists": [
+        {
+          "name": "Nathania Jualim",
+          "url": "https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232362,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/51OGFJwTPrfY4CMWX8plAh"
+    },
+    {
+      "album": {
         "name": "Suntatonic",
         "url": "https://open.spotify.com/album/7DLzTbD9cEldnceLy7JFjn"
       },
@@ -2760,6 +2804,24 @@
       "duration_ms": 203976,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/72hbDZ7MMYjweTu3ItXysl"
+    },
+    {
+      "album": {
+        "name": "Tarian Panen",
+        "url": "https://open.spotify.com/album/1lMep6P15PRNw9N8TG5yst"
+      },
+      "artists": [
+        {
+          "name": "5Petani",
+          "url": "https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346397,
+      "name": "Tarian Panen",
+      "url": "https://open.spotify.com/track/3GhczFPojHhZ6XmxDTiDv2"
     },
     {
       "album": {

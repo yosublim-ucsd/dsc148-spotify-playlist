@@ -2753,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Inner River",
+        "url": "https://open.spotify.com/album/25tcfPh3NVHPR7kdPnXL38"
+      },
+      "artists": [
+        {
+          "name": "Juliana Stipe",
+          "url": "https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Inner River",
+      "url": "https://open.spotify.com/track/2ZHtE6Gdq09hEV4YdKurd5"
+    },
+    {
+      "album": {
         "name": "Spirituale",
         "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
       },
@@ -4780,7 +4798,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 153962,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"

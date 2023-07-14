@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "OTQ3LDA1ZGQ3MmZiZTdhNTZiYTU5MmI5NjY0ZTk5ZDk4OTQxMWJiOTVmNmU=",
+  "snapshot_id": "OTQ4LDU0OTgwZjA3OWM4MDdiYzA4YTIzZDQ1MWMwNmY1Yzg2YmQzNTMzMmE=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3895,6 +3895,22 @@
       "duration_ms": 442106,
       "name": "Farewell Transmission",
       "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
+    },
+    {
+      "added_at": "2023-07-12 15:46:39",
+      "album": {
+        "name": "Take It From The Dead",
+        "url": "https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48"
+      },
+      "artists": [
+        {
+          "name": "Acid Dad",
+          "url": "https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm"
+        }
+      ],
+      "duration_ms": 203135,
+      "name": "Searchin'",
+      "url": "https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W"
     }
   ],
   "unique_name": "Zacklog",

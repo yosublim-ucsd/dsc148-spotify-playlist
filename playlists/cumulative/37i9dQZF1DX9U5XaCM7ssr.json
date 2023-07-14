@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Sendiri",
+        "url": "https://open.spotify.com/album/3QIzUyXYgnKHDcPmoch1MR"
+      },
+      "artists": [
+        {
+          "name": "Dikta Wicaksono",
+          "url": "https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249235,
+      "name": "Cinta Tak Pada Waktunya",
+      "url": "https://open.spotify.com/track/3QqZEiJytmm7Av6FRoknRQ"
+    },
+    {
+      "album": {
         "name": "Sheila On 7",
         "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
       },
@@ -770,7 +788,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 229500,
       "name": "Menjadi Dia",
       "url": "https://open.spotify.com/track/3Z0K4sFU1fOiBOe7Nf3kix"

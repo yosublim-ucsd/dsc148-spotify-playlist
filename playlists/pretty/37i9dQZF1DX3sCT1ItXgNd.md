@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Adiós Pop con Ñ, hola Pop del Top\. Lo mejor y lo último del pop\. Foto: Abraham Mateo
 
-[Spotify](https://open.spotify.com/user/spotify) - 985,199 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 985,305 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 79 | [Tu Nombre](https://open.spotify.com/track/0Mb1fm62mIKntgbZFFYpRF) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Tu Nombre](https://open.spotify.com/album/6pKnIlwJfXJxqHjDmpvABs) | 3:00 |
 | 80 | [Querernos De Nuevo](https://open.spotify.com/track/1FfSInK2AKyrvKLjKJNQFe) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Querernos De Nuevo](https://open.spotify.com/album/4KOE4Zl1O25anbQ6EunSSk) | 3:51 |
 
-Snapshot ID: `MCwwNGJhNjVkY2Q1ZGFiNDEwYmJiZDI3OTIyY2QwYWE1MTBiY2VlMThi`
+Snapshot ID: `MCwyNjI5OWU3MjcxZTczOTk2MTkxMDJkMjY3NmFhODIyNmNkOThmOWU2`

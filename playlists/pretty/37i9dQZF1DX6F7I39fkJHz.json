@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas del party featuring AKRIILA.",
-  "num_followers": 28887,
+  "num_followers": 28912,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzhjODJlYWE1NzFiODc4NDc2ZThhYTQwMDJlYjhiYTk2MTYzM2Vj",
+  "snapshot_id": "MCxiMGY0YWY0ZWQ3OThiNGZlOTk2NDc3YzM1ZGRhY2IyYmYwMWI0NzA5",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Ser\u00e1 Mi Culpa?",
+        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Ser\u00e1 Mi Culpa?",
+      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "ACTIVA",
         "url": "https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 261527,
       "name": "ACTIVA",
       "url": "https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Ser\u00e1 Mi Culpa?",
-        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Ser\u00e1 Mi Culpa?",
-      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Te cargo la 9",
+        "url": "https://open.spotify.com/album/4vhWwdEMvazQMJbrgXsQpp"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        }
+      ],
+      "duration_ms": 157422,
+      "name": "Te cargo la 9",
+      "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Mala Mala",
         "url": "https://open.spotify.com/album/1frlcT5Y4gcNgIW2v1ZXyL"
       },
@@ -1567,30 +1583,6 @@
       "duration_ms": 152000,
       "name": "Mala Mala",
       "url": "https://open.spotify.com/track/3L7xk3OegOjSmBSJ6P0W7g"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Solita (Remix)",
-        "url": "https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C"
-      },
-      "artists": [
-        {
-          "name": "Mechi Pieretti",
-          "url": "https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Solita - Remix",
-      "url": "https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8"
     }
   ],
   "unique_name": "EQUAL Urbano",

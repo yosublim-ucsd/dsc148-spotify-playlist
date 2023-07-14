@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/4ikbusuUXSqP5tfAzM6RGg"
+      },
+      "artists": [
+        {
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/6JkIfzAcnjeyUx6aQh3Pbi"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/3LszjQpcPAysqjQEhsBl8R"
+    },
+    {
+      "album": {
         "name": "24 Horas (24 Hours)",
         "url": "https://open.spotify.com/album/1DECLfz4NYZ1OEupuuHZOK"
       },
@@ -46,7 +68,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 243200,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/70chnez7P6TkD0eOdCcDWu"

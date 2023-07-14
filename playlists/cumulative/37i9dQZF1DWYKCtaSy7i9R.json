@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 208409,
       "name": "Cuckoo & Other Birds",
       "url": "https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9"
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Dreams & Bird Song",
+        "url": "https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88"
+      },
+      "artists": [
+        {
+          "name": "Dreamy Nature",
+          "url": "https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144207,
+      "name": "Meadow Birds Chirp",
+      "url": "https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh"
+    },
+    {
+      "album": {
         "name": "Soothing Birds",
         "url": "https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 182000,
       "name": "Raindrops In The Forest - Seamless",
       "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 153488,
       "name": "When calm comes",
       "url": "https://open.spotify.com/track/5COk5epl3t3rGjivwQVY9U"

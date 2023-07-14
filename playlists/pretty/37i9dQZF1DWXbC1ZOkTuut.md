@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Marca MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,234 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 98 | [El Yuko \(En Vivo\)](https://open.spotify.com/track/2tTHGLNxwZ4vIL3hYppWvl) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q) | 2:43 |
 | 99 | [Que Las Cuartitos No Falten \(En Vivo\)](https://open.spotify.com/track/3Dz3FiHQmANJ8iUKPdiqqd) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Desde La Capital Del Corrido, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q) | 3:13 |
 
-Snapshot ID: `MCw4Y2Q5OTJmNTk5Y2Q2MDg3ZjE5ZTM2NjQzMjZhYjE4YmU2Yjk5NzE3`
+Snapshot ID: `MCw4MDZlZjYxMzY5NTM0MDIwNjY3YmFjNmJiNjIwMzAyMWViYjBmZjgx`

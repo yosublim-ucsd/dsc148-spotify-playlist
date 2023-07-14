@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-441 songs - 19 hr 41 min
+443 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Cuddle](https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Cuddle](https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa) | 2:19 | 2022-02-10 |  |
 | [Daisy\-Chain](https://open.spotify.com/track/6Bk42XX8jPED540IlNEvsr) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [vlows](https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt) | [Daisy\-Chain](https://open.spotify.com/album/3cKoDYDdo4OnTRWydsyWCt) | 2:10 | 2022-09-16 |  |
 | [Dancing With Ghosts](https://open.spotify.com/track/2oRtlVAnhakWxItbGeopID) | [J Gov](https://open.spotify.com/artist/5PhC3eQ7MXDtQK6PhcuoTx) | [A Good Place To Hide](https://open.spotify.com/album/2INkfFj1vBZsdDRWImey95) | 3:16 | 2022-04-05 |  |
+| [Dayjob Dreamer](https://open.spotify.com/track/5TXy3ox3nZkGsGRyuzWT49) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Dayjob Dreamer](https://open.spotify.com/album/4h1KFwadqyZXnMkhOvZgxj) | 2:28 | 2023-07-14 |  |
 | [Del Verano](https://open.spotify.com/track/0NZHdtUCE4jjl1y0PPNbDh) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Del Verano](https://open.spotify.com/album/4rrysSQHvK6rSJAiiAUppe) | 3:02 | 2022-11-25 |  |
 | [Dim Eyes](https://open.spotify.com/track/12c2Ttzw2pzF95V7NcGil6) | [Bagnio](https://open.spotify.com/artist/4ILDYx71BU6WiKLptF6IJQ) | [Dim Eyes](https://open.spotify.com/album/1GsILIyXFnCifMHBVPUiec) | 3:22 | 2021-11-10 |  |
 | [Ditty](https://open.spotify.com/track/71WxHp7zJA2MEmc2sqDTpI) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:45 | 2022-05-10 |  |
@@ -318,6 +319,7 @@
 | [Promenade](https://open.spotify.com/track/63rzio9vBJ1bbPe0cgEB6t) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Promenade](https://open.spotify.com/album/49GAo5ev28Zt1LVphgjaJZ) | 2:30 | 2021-11-10 | 2022-07-08 |
 | [Pulse](https://open.spotify.com/track/4Wei2xM1ylJMPC8m4gS7jb) | [Kripto](https://open.spotify.com/artist/0VdlvJNWbvKfguCf7tdgop) | [Pulse](https://open.spotify.com/album/0qw2Z5e22Ncizew1ilSAX9) | 2:06 | 2021-11-10 | 2022-09-02 |
 | [Purity](https://open.spotify.com/track/4Tb8x8lYQsKzXHsC71Xm20) | [Xack](https://open.spotify.com/artist/3Tg2AlVypH64iuYosDtyHj) | [Purity](https://open.spotify.com/album/7MqAJ6JKmdhqgb5TZyNK5u) | 3:45 | 2022-09-16 |  |
+| [Quiet Is Peace](https://open.spotify.com/track/1K7PVOmVIJebM48oJqPTJc) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Quiet Is Peace](https://open.spotify.com/album/3nlNbaXgF4CJss2ZiOJCsr) | 2:27 | 2023-07-14 |  |
 | [Rainy Scent](https://open.spotify.com/track/5eDRDh6NIH7nfrEHFPLH4k) | [Elenja](https://open.spotify.com/artist/3BdWZWn9zFZxBgamS91DJ8) | [Above And Under](https://open.spotify.com/album/6MhDonImkRWQrCvpYb3EHa) | 2:17 | 2021-11-10 | 2022-05-11 |
 | [Real space](https://open.spotify.com/track/5vaFORH4cfFX5z3qerjAVk) | [Etherealz](https://open.spotify.com/artist/0aIHVgvyg6RLaXkbg52RN8) | [Real space](https://open.spotify.com/album/3y8sIzjrmZe2UEQ2QV3RRg) | 1:59 | 2021-11-10 | 2022-04-06 |
 | [Recession](https://open.spotify.com/track/7cayqs4BnxtUMuPfrj3if8) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [Recession](https://open.spotify.com/album/1tBpP6NT0HmFqqOTTQ5cNT) | 2:24 | 2022-10-07 |  |

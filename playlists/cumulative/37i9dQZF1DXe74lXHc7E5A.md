@@ -2,7 +2,7 @@
 
 ### [Hype List](https://open.spotify.com/playlist/37i9dQZF1DXe74lXHc7E5A)
 
-> Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Nasty C
+> Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Psycho YP
 
 244 songs - 12 hr 31 min
 

@@ -1380,10 +1380,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 121714,
       "name": "Last Chance",
       "url": "https://open.spotify.com/track/00hvIih24hny87nA7TVO4z"
+    },
+    {
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/6a2P7s6eBxxIUW8LiXcNM9"
+      },
+      "artists": [
+        {
+          "name": "autumn keys",
+          "url": "https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy"
+        },
+        {
+          "name": "elzie",
+          "url": "https://open.spotify.com/artist/6OxcKGnT51U56mZOdOo7fU"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121714,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/4Dk38EtWuCEv9XIES350re"
     },
     {
       "album": {

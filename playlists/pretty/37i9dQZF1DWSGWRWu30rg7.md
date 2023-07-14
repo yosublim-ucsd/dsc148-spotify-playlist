@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Naykilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,004 likes - 73 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,002 likes - 73 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 72 | [Euphoria](https://open.spotify.com/track/52MjfmXjO9qwQuUwGHqSeX) | [Boysyaka](https://open.spotify.com/artist/20hML6oHWY66gYeTyDFr8R), [HellaOccupied](https://open.spotify.com/artist/1DL3xd3NqTDjOU7Me5QQ75) | [Euphoria](https://open.spotify.com/album/16woIodv0wspNiQo82yPL0) | 3:30 |
 | 73 | [Won't Last](https://open.spotify.com/track/7qTbNmxivYCjz7vQDdeAmH) | [Aknostra](https://open.spotify.com/artist/1wNK9u0V8X7sqDr3P9rlbs), [Bigtrutha](https://open.spotify.com/artist/0YKcz5ea5ITbe8BoY1Vanp) | [Won't Last](https://open.spotify.com/album/2F6hZKFMru2AFJA3RWdmtu) | 2:38 |
 
-Snapshot ID: `MCxkODQ4ZTBhMmVhMmU0ZDljMDVlZDJjMjg3OGZmNWY4MTcwNDBiODZi`
+Snapshot ID: `MCw4NTk1NGZlZDNmODA2M2M5MzZkNTVlOWYzMzZkMDRiZDU4ZmI2MjE1`

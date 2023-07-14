@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,409 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,488 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [How High](https://open.spotify.com/track/08NFZVtZhIbblmPGvH7HK2) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [A Life For Two](https://open.spotify.com/album/2EkGUhLIGG7M5ji8stWrgw) | 2:18 |
 | 100 | [Don't Text Don't Call \(feat\. Snoop Dogg\)](https://open.spotify.com/track/1JBLJThaI8h99wgfeH6qQL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Don't Text Don't Call \(feat\. Snoop Dogg\)](https://open.spotify.com/album/6j8bA1BklsGI0sxhrq3Q2Y) | 3:55 |
 
-Snapshot ID: `MCw0ZWIwMGNhNWFjZDRmNTdiOTliYTZiNjdhNDY5YjEzNWMwNzk2NWNj`
+Snapshot ID: `MCwxMWYzNGY5ZjNjZWNhMWQ1MjI4MDM1YTE5ODYzMjg4NmIxNGUyY2Fi`

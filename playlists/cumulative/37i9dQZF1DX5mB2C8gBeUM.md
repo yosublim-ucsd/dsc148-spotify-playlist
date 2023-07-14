@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Tanner Adell
 
-364 songs - 18 hr 23 min
+365 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 |  |
 | [What Goes Around Comes Around](https://open.spotify.com/track/2qNSWj0RK7vcWBy7bBQKjR) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO) | [What Goes Around Comes Around](https://open.spotify.com/album/1In7ivLqLjKBVPPAbj5g8r) | 2:57 | 2023-05-19 |  |
 | [What If We Never Met](https://open.spotify.com/track/4qao4AOEDlrKRL8HVsSrp6) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [What If We Never Met](https://open.spotify.com/album/6A8oaHU3swEB7fl0nD5nyk) | 3:51 | 2022-02-18 | 2022-10-02 |
-| [What You Waiting On](https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO) | 2:38 | 2022-10-28 |  |
+| [What You Waiting On](https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO) | 2:38 | 2022-10-28 | 2023-07-14 |
+| [What You Waiting On](https://open.spotify.com/track/6UMzFiks3D219xoEpOMhE6) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/6TQFztXy1Rg091afSj8xBA) | 2:38 | 2023-07-07 |  |
 | [When the Party's Over](https://open.spotify.com/track/044EoWO4Z6BLhGrK3R5k9h) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People \(Deluxe\)](https://open.spotify.com/album/61s6rViH39OjqfrPigQ3cy) | 3:31 | 2021-12-10 | 2022-01-08 |
 | [When's It Gonna Happen](https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [When's It Gonna Happen](https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad) | 3:37 | 2022-01-14 | 2023-05-04 |
 | [Where There’s Smoke](https://open.spotify.com/track/6qGS1Co26eZamo8HvcRkt5) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Where There’s Smoke](https://open.spotify.com/album/6IejL7qAaA6R1ysk9APTN3) | 2:42 | 2023-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Zeynep Bastık
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,280 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,277 likes - 59 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 58 | [Sarı Gelin](https://open.spotify.com/track/78WXzOrub2P9QKjj6bGYHA) | [Glasxs](https://open.spotify.com/artist/4p3A5De4v6Pu6L3sVG7020) | [Sarı Gelin](https://open.spotify.com/album/7LwmWkITPdHQzJzxYfoOm4) | 3:34 |
 | 59 | [Hayalimdeki Resim \- Fecri Ebcioğlu 100 Yıllık Şarkılar](https://open.spotify.com/track/4isjU4ox8UeVXoU0AClGic) | [Gökçe Kasacı](https://open.spotify.com/artist/7HWPcCJNmAs6EoYZbeKXP3) | [Hayalimdeki Resim \(Fecri Ebcioğlu 100 Yıllık Şarkılar\)](https://open.spotify.com/album/7fSOpZSBb6nnxtNefBwDMb) | 2:50 |
 
-Snapshot ID: `MCxjYmI5Njk2ODVlNTI2Y2YxZmNkYTVjYjMyYTY4MjI1MmZhZWU5NGM2`
+Snapshot ID: `MCw2YWM1YzZlZDg2ODRiZDdhNWM1YzcwNWZhOTY4NTcyY2MyODZlYjY3`

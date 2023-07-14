@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Malcolm Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,884 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,045 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Know By Now](https://open.spotify.com/track/3nYqmICyGii40PTygL6CHj) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Know By Now](https://open.spotify.com/album/4lYRRdG0ECeakOmdnSPJAE) | 4:25 |
 | 100 | [Shut The Door](https://open.spotify.com/track/73YaGEEXnUoXd8cDHMbxdG) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Multi Adolescence](https://open.spotify.com/album/5Q7BRGEFzlIlEjiBzqWxNz) | 2:22 |
 
-Snapshot ID: `MCw3OGJlZDE1YTE0OTllYzE4MjkxOTFkN2Q2NTA5ZmYxYjVhNzZiNjRj`
+Snapshot ID: `MCwxMjExYTY0ZTExNTAzNTRhMzMwOGVlMGUzMjBhM2JlM2YxMjEyZTY5`

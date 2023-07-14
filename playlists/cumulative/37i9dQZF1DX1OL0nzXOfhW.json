@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c2023\u5e74\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u4e0a\u5834\uff01Cover: Gordon Flanders",
+  "description": "\u6301\u7e8c\u767c\u6398\u4e16\u4e00\u8d85\u65b0\u8072\uff0c2023\u5e74\u9999\u6e2fRADAR\u8d85\u65b0\u8072\u6b63\u5f0f\u4e0a\u5834\uff01Cover: Lewsz \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
   "name": "RADAR HK",
   "tracks": [
     {
@@ -1334,6 +1334,24 @@
       "duration_ms": 192000,
       "name": "This Is Our Time",
       "url": "https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol"
+    },
+    {
+      "album": {
+        "name": "Time Is Running",
+        "url": "https://open.spotify.com/album/3Tk9l82FUZyP6W6du57tXD"
+      },
+      "artists": [
+        {
+          "name": "Lewsz",
+          "url": "https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139469,
+      "name": "Time Is Running",
+      "url": "https://open.spotify.com/track/1nKZqPS4cg1gbZAdqxQEcN"
     },
     {
       "album": {

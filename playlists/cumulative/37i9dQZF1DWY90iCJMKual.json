@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Groove to the rhythm of OPM's R&B tunes. Cover: James Reid",
+  "description": "Groove to the rhythm of OPM's R&B tunes. Cover: Nadine Lustre",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -503,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/5SeKMJeh7DFJAZhcuiFU21"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171152,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/064sICng1UknPZvos5SLNs"
+    },
+    {
+      "album": {
         "name": "Fight or Flight",
         "url": "https://open.spotify.com/album/1ZwAq8ymX6JaWcAWLEq7GT"
       },
@@ -565,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Gunita",
+        "url": "https://open.spotify.com/album/26WdICKZG6NBoLvCXGtJkA"
+      },
+      "artists": [
+        {
+          "name": "$ho",
+          "url": "https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236444,
+      "name": "Gunita",
+      "url": "https://open.spotify.com/track/6BgwDTBvewo3waE0LhfSUT"
+    },
+    {
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/4A5EzPzTX7nQVhMmKGc1dG"
       },
@@ -580,6 +620,28 @@
       "duration_ms": 130000,
       "name": "Gusto",
       "url": "https://open.spotify.com/track/5ojhdirBnBs8y1EXgkpSj1"
+    },
+    {
+      "album": {
+        "name": "Gusto",
+        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Gusto feat. Al James",
+      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
     },
     {
       "album": {
@@ -1570,6 +1632,28 @@
       "duration_ms": 239840,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4mHusVLmGSUywXjhU2zUBM"
+    },
+    {
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw"
+      },
+      "artists": [
+        {
+          "name": "Nadine Lustre",
+          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212054,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q"
     },
     {
       "album": {

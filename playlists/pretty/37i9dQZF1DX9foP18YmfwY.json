@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Aline Brasil",
-  "num_followers": 303574,
+  "num_followers": 303698,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGRhY2EzZjQ5ZWNmOTFlZTc2OTVlNzRhYWNiMjFiOWRmMDNkODg3",
+  "snapshot_id": "MCxkZTNiMWJjZjY4ODQ2ZDBhZDFkYmQwZTY3MzE3MDFiYzQ3MDM2NDQz",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Transgressor",
-        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Cora\u00e7\u00e3o de Transgressor",
-      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "DNA de Maria",
         "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 218830,
       "name": "DNA de Maria",
       "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o de Transgressor",
+        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 250456,
+      "name": "Cora\u00e7\u00e3o de Transgressor",
+      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Vocacional Shalom 2023",
-        "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
+        "name": "Acalma Minha Tempestade",
+        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
       "artists": [
         {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
         }
       ],
-      "duration_ms": 238430,
-      "name": "Com Tua M\u00e3o",
-      "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
+      "duration_ms": 322512,
+      "name": "Acalma Minha Tempestade",
+      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Acalma Minha Tempestade",
-        "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
+        "name": "Vocacional Shalom 2023",
+        "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
       },
       "artists": [
         {
-          "name": "Banda Quinta Esta\u00e7\u00e3o - M\u00fasica Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l"
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
         }
       ],
-      "duration_ms": 322512,
-      "name": "Acalma Minha Tempestade",
-      "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+      "duration_ms": 238430,
+      "name": "Com Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Minha Voca\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
+      },
+      "artists": [
+        {
+          "name": "Juliana de Paula",
+          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
+        },
+        {
+          "name": "Pitter",
+          "url": "https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2"
+        },
+        {
+          "name": "Ana L\u00facia",
+          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
+        }
+      ],
+      "duration_ms": 254964,
+      "name": "Minha Voca\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -1183,30 +1207,6 @@
       "duration_ms": 224000,
       "name": "Bom \u00c9 Estarmos Aqui",
       "url": "https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Minha Voca\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
-      },
-      "artists": [
-        {
-          "name": "Juliana de Paula",
-          "url": "https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481"
-        },
-        {
-          "name": "Pitter",
-          "url": "https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2"
-        },
-        {
-          "name": "Ana L\u00facia",
-          "url": "https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi"
-        }
-      ],
-      "duration_ms": 254964,
-      "name": "Minha Voca\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
     },
     {
       "added_at": "2023-06-02 03:00:00",

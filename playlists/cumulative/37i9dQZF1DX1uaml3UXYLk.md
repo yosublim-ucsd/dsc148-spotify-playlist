@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-544 songs - 1 day 10 hr 35 min
+545 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Garlic Express \- Original](https://open.spotify.com/track/3jWaDnLrXfWr4x8rGYxbwz) | [Pistol Pete](https://open.spotify.com/artist/2D2jiryTMamF09LqDyLAOW) | [Lampuka 002](https://open.spotify.com/album/2ihoDpND1PA5HjpQ05Q16U) | 6:33 | 2021-01-15 | 2021-10-16 |
 | [Gazelle](https://open.spotify.com/track/1s5PLF8Iee6VMbDGb9ekPK) | [Bæn Gen](https://open.spotify.com/artist/0fQecWmbvA6CIixG0HOsK2) | [Heat Gun](https://open.spotify.com/album/10wynnQcCVPuizFzZQxqD7) | 9:20 | 2020-12-11 | 2021-01-15 |
 | [George \- Cristi Cons Remix](https://open.spotify.com/track/0tWRUSVKekFXrc6bh1azRE) | [Kashawar](https://open.spotify.com/artist/6RlBM1MpOfM9dWsgcl20rT), [Cristi Cons](https://open.spotify.com/artist/0Jof7VpAuJqmcl12LgsgK1) | [Trouble EP](https://open.spotify.com/album/2fNgw5pZLWKDnAelsRbwh5) | 7:29 | 2020-11-13 | 2020-11-21 |
+| [Get a move on](https://open.spotify.com/track/0ZbFzJKy4WKUagLJzJNLzT) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Get a move on](https://open.spotify.com/album/3lhXHBKUEsoxrJWhDAYav5) | 3:26 | 2023-07-14 |  |
 | [Get Me](https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T) | [Blueed](https://open.spotify.com/artist/3VM1OpWhRhfnGRiXbeo2Yt) | [Get Me](https://open.spotify.com/album/5PL8RWZBETAnwHhrAxkEET) | 2:22 | 2021-05-13 | 2022-08-05 |
 | [Get Over](https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y) | [Chigali](https://open.spotify.com/artist/2lj8o2lWicGYd4qY2jWKmz) | [Get Over](https://open.spotify.com/album/3ZyU5uKTIk3cJe4lnuZX1X) | 3:05 | 2021-11-10 | 2022-07-01 |
 | [getting ideas](https://open.spotify.com/track/4g5zahq9MIoBxji1q0YF5F) | [incovent](https://open.spotify.com/artist/7hxdstSD0iqnJwgwERrdDd) | [getting ideas](https://open.spotify.com/album/10lwP63JZMKOnydAJ2o8uI) | 3:12 | 2022-08-19 |  |

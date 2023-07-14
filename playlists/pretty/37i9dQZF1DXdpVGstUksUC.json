@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 518031,
+  "num_followers": 518257,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDU3ZDI2OWZlOTllNWRhZWIxZDgxZDY0ODE3MTZhOTBlM2U3NTJi",
+  "snapshot_id": "MCxhYjIzMDE5YWMxMTVlMzI1NGY3NGZiNGVhYTJmNTFkZGM0YTMxMzdl",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Super Van Vacation",
         "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 529232,
       "name": "Road to Burn",
       "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -919,6 +919,22 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 526293,
       "name": "Aquamaria",
       "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Trance States in Tongues",
-        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
-      },
-      "artists": [
-        {
-          "name": "Zen Guerrilla",
-          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Moonage Daydream",
-      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Moonage Daydream",
+      "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
-        }
-      ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 316777,
       "name": "Desert God",
       "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "John Garcia and the Band of Gold",
-        "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
-      },
-      "artists": [
-        {
-          "name": "John Garcia",
-          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
-        }
-      ],
-      "duration_ms": 222169,
-      "name": "Jim's Whiskers",
-      "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "High Volume: The Stoner Rock Collection",
         "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
       },
@@ -1435,18 +1419,34 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Superjudge",
-        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
+        "name": "John Garcia and the Band of Gold",
+        "url": "https://open.spotify.com/album/5s5EncuU0bCNgjGOfiqtuF"
       },
       "artists": [
         {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+          "name": "John Garcia",
+          "url": "https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8"
         }
       ],
-      "duration_ms": 409466,
-      "name": "Superjudge",
-      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
+      "duration_ms": 222169,
+      "name": "Jim's Whiskers",
+      "url": "https://open.spotify.com/track/3A5l4HNqqA4w0VvsPX9A8e"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "To the Center",
+        "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
+      },
+      "artists": [
+        {
+          "name": "Nebula",
+          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+        }
+      ],
+      "duration_ms": 391160,
+      "name": "To the Center",
+      "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "To the Center",
-        "url": "https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ"
+        "name": "Superjudge",
+        "url": "https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt"
       },
       "artists": [
         {
-          "name": "Nebula",
-          "url": "https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE"
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
         }
       ],
-      "duration_ms": 391160,
-      "name": "To the Center",
-      "url": "https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY"
+      "duration_ms": 409466,
+      "name": "Superjudge",
+      "url": "https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Diablerie",
-        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
-      },
-      "artists": [
-        {
-          "name": "Windhand",
-          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
-        }
-      ],
-      "duration_ms": 320988,
-      "name": "Diablerie",
-      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 360800,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Diablerie",
+        "url": "https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5"
+      },
+      "artists": [
+        {
+          "name": "Windhand",
+          "url": "https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv"
+        }
+      ],
+      "duration_ms": 320988,
+      "name": "Diablerie",
+      "url": "https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh"
     },
     {
       "added_at": "2023-06-23 04:00:00",

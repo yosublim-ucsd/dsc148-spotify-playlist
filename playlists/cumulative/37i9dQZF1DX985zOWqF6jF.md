@@ -4,7 +4,7 @@
 
 > Y es que cuando nos comemo' hacemo' unas pose que los do' desconocemo'
 
-103 songs - 6 hr 13 min
+104 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bellaquita \- Remix](https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Bellaquita \(Remix\)](https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB) | 5:04 | 2023-06-23 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-06-23 |  |
 | [Bora Bora](https://open.spotify.com/track/0DlxKvlTkBtWr6vnHVcWQm) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Bora Bora](https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f) | 2:31 | 2023-06-23 | 2023-07-07 |
+| [Bora Bora](https://open.spotify.com/track/7AdDZQQNj19gZ2vVJnL1tj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 2:31 | 2023-07-07 |  |
 | [Caliente](https://open.spotify.com/track/0RA29eVOn8cPy3aVXA7Hur) | [Cheka](https://open.spotify.com/artist/68KZ4vm3B5yAZutdy2RvIE) | [YSM Cap\. 2](https://open.spotify.com/album/4ysORPv6OI0DjqjS8z0SKt) | 3:57 | 2023-06-23 |  |
 | [Canciones de Don](https://open.spotify.com/track/578E0MbbgdwDuUTqpWbeOD) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [Canciones de Don](https://open.spotify.com/album/0S6czlAGW5ByZaUEKCKVzz) | 2:44 | 2023-06-23 |  |
 | [Caramelo \- Remix](https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Caramelo \(Remix\)](https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ) | 3:53 | 2023-06-23 |  |
@@ -44,7 +45,7 @@
 | [Encima De Mi](https://open.spotify.com/track/0hAxyVU6Nro3equjEQdFq2) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Trap Cake, Vol\. 1](https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam) | 3:44 | 2023-06-23 |  |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2023-06-23 |  |
 | [Entre Tantas](https://open.spotify.com/track/2YmfDsnIEfNyGwaYSAUZqX) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Entre Tantas](https://open.spotify.com/album/0C4ze97qK6EtWz9QimLm7u) | 3:59 | 2023-06-23 |  |
-| [Esclava](https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X) | 4:41 | 2023-06-23 |  |
+| [Esclava](https://open.spotify.com/track/3zhk1SwBQ2VseHfywkIBPX) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [A Young Past](https://open.spotify.com/album/0KVXsAjVpVFY8ZvafXpd2X) | 4:41 | 2023-06-23 | 2023-07-14 |
 | [Extasy](https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Para Mi Ex](https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u) | 3:07 | 2023-06-23 |  |
 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 | 2023-06-23 |  |
 | [Hace Mucho Tiempo](https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Maldad](https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe) | 2:51 | 2023-06-23 |  |

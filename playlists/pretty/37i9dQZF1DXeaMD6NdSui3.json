@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 123095,
+  "num_followers": 123213,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWU4NDZkMGVhZTQ4ZmFiZTdiYWYxMGNlNjdiZGU0NzMxZDc1YzE1",
+  "snapshot_id": "MCxhOWQ4Y2JiYWUxMzQwYTg1N2ExOWVlOWMxZmM5MjYyNjRhMDIxYzkw",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -239,18 +239,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Have Blues, Will Travel",
-        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
+        "name": "We The People",
+        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
       },
       "artists": [
         {
-          "name": "Smokin' Joe Kubek & Bnois King",
-          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
+          "name": "Guitar Shorty",
+          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Have Blues, Will Travel",
-      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
+      "duration_ms": 260200,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -271,18 +271,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "We The People",
-        "url": "https://open.spotify.com/album/0JtSUetZ1fNYg3V23qaYxV"
+        "name": "Have Blues, Will Travel",
+        "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
       },
       "artists": [
         {
-          "name": "Guitar Shorty",
-          "url": "https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc"
+          "name": "Smokin' Joe Kubek & Bnois King",
+          "url": "https://open.spotify.com/artist/0nMA4cLQjSiZspsoI70aut"
         }
       ],
-      "duration_ms": 260200,
-      "name": "We The People",
-      "url": "https://open.spotify.com/track/6IzjmyZYMTrokokG0C5n9R"
+      "duration_ms": 247373,
+      "name": "Have Blues, Will Travel",
+      "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
     },
     {
       "added_at": "2016-03-18 21:56:19",

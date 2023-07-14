@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Isolate",
+        "url": "https://open.spotify.com/album/2lkmlImaHA6RPzCfkSbmQz"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e9v Asto",
+          "url": "https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230550,
+      "name": "Aquiver",
+      "url": "https://open.spotify.com/track/3Dm8skAbA9W4ufmCESqlDg"
+    },
+    {
+      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/0g3jCPVm6E6dkbepOlFUft"
       },
@@ -1478,6 +1496,24 @@
       "duration_ms": 169250,
       "name": "Fairy Glen",
       "url": "https://open.spotify.com/track/5wqIlPSJHeUZn34gcS7KQR"
+    },
+    {
+      "album": {
+        "name": "Yiello",
+        "url": "https://open.spotify.com/album/2KpkJdTYL35sdjvEPnasY4"
+      },
+      "artists": [
+        {
+          "name": "Xiliah Roth",
+          "url": "https://open.spotify.com/artist/47PP7w0Qi4HaeIQgWPEW25"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252833,
+      "name": "Falling Slowly",
+      "url": "https://open.spotify.com/track/24V8enhnywr1fyy2msnQfu"
     },
     {
       "album": {

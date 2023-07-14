@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Radical Redemption",
+  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Sefa",
   "name": "Hardstyle Adrenaline! 2023",
   "tracks": [
     {
@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 140812,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5MnWyrdtbs9iRv54D1bVvx"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 205351,
       "name": "Blast In Your Face",
       "url": "https://open.spotify.com/track/3RMOpfwLZ3h41bqG0Mq7Gg"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 210400,
       "name": "Blue Night Sky",
       "url": "https://open.spotify.com/track/186VP99dYJ4ism7IXIQaKd"
@@ -1297,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "Code Of The Warrior",
+        "url": "https://open.spotify.com/album/6OFww3bgGwytoKjLUJbCca"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "E-Life",
+          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "Code Of The Warrior",
+      "url": "https://open.spotify.com/track/1jpg0FjnPxm9WxszLJ60b2"
+    },
+    {
+      "album": {
         "name": "Come As One (Sefa Remix)",
         "url": "https://open.spotify.com/album/1UDp8nOIXoL7B8qVaVrzgR"
       },
@@ -1450,7 +1472,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 176000,
       "name": "Constellations",
       "url": "https://open.spotify.com/track/5mF8Iw9L1AolQ7xi2Z4c4H"
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 243096,
       "name": "Dark Side Of The Wall",
       "url": "https://open.spotify.com/track/0pYJTUbeFC82dHKGmAjONp"
@@ -2530,7 +2552,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 182903,
       "name": "Feel Love",
       "url": "https://open.spotify.com/track/4ZTJg1dnfr2hkFG8LAi3sQ"
@@ -2766,7 +2788,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 164261,
       "name": "Force Of Will",
       "url": "https://open.spotify.com/track/3ZtsSSrYUSWSlH6QVmtsOT"
@@ -2949,6 +2971,32 @@
     },
     {
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/0Goq9xAACLk1g7OkyjQt5S"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        },
+        {
+          "name": "Lost Identity",
+          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/16ji1BU5uDmBUgZoWS4SpU"
+    },
+    {
+      "album": {
         "name": "Get Closer",
         "url": "https://open.spotify.com/album/3vfngD3K6etqNllADtfaTi"
       },
@@ -3030,7 +3078,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 246800,
       "name": "Glorious",
       "url": "https://open.spotify.com/track/2ZG18NphRGHN4zJKt5lKtO"
@@ -3341,6 +3389,32 @@
     },
     {
       "album": {
+        "name": "Heartache",
+        "url": "https://open.spotify.com/album/3l79VbT1LAHSIVB3Scrsk4"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191518,
+      "name": "Heartache",
+      "url": "https://open.spotify.com/track/6D58y0FkssslpxMqC2UfB9"
+    },
+    {
+      "album": {
         "name": "HEJA HEJO",
         "url": "https://open.spotify.com/album/2UdqNNGRtMMSAS7tfKmuwe"
       },
@@ -3586,7 +3660,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 181548,
       "name": "Holy Grounds (The Gathering 2023 OST)",
       "url": "https://open.spotify.com/track/32AESwf5P1txRsUWEbjNys"
@@ -4092,7 +4166,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 209032,
       "name": "Into Ecstasy",
       "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
@@ -4443,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "Kyrie Eleison (Hallelujah)",
+        "url": "https://open.spotify.com/album/6WY1AeKKdUqHH8msHQL8MU"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Kyrie Eleison (Hallelujah)",
+      "url": "https://open.spotify.com/track/5hbfYoo1ziR0T2qcmMSVy5"
+    },
+    {
+      "album": {
         "name": "La Colegiala",
         "url": "https://open.spotify.com/album/5St2aiydKvThR9AR0fHSpO"
       },
@@ -4756,7 +4848,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 133846,
       "name": "Live 4 Ever",
       "url": "https://open.spotify.com/track/2J8f89cDYoFuEVZAXKN3sH"
@@ -6735,6 +6827,28 @@
     },
     {
       "album": {
+        "name": "Rebels Of Shutdown (Shutdown Festival 2023 Anthem)",
+        "url": "https://open.spotify.com/album/4hCGqMZtwaKkZSGCkiDLGR"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "ATILAX",
+          "url": "https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251608,
+      "name": "Rebels of Shutdown - Shutdown Festival 2023 Anthem",
+      "url": "https://open.spotify.com/track/0Raijnkot4p3ecu5p57zRd"
+    },
+    {
+      "album": {
         "name": "Reevolution EP",
         "url": "https://open.spotify.com/album/1vTwPGPGjp0xIdOsaSqUY4"
       },
@@ -6750,7 +6864,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 219870,
       "name": "Reevolution",
       "url": "https://open.spotify.com/track/6fBjnNhmNgAAVt5D30mFtQ"
@@ -7437,6 +7551,32 @@
     },
     {
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/75NHhqvk0Q2CO9jK6snNKZ"
+      },
+      "artists": [
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        },
+        {
+          "name": "SteelniX",
+          "url": "https://open.spotify.com/artist/4F3gw5Br6AsEtT2RWIqmm6"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206524,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/5lfwREI237PpvLjIKvN34u"
+    },
+    {
+      "album": {
         "name": "Shabaka (A Wasteland Anthem) [VIP]",
         "url": "https://open.spotify.com/album/014MMy5nzIpwzAmHnXDS6C"
       },
@@ -7747,6 +7887,32 @@
     },
     {
       "album": {
+        "name": "Stars Of Destiny (feat. Alexa Ray)",
+        "url": "https://open.spotify.com/album/1IXi0DCgcnupvmdnia7GsW"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Sogma",
+          "url": "https://open.spotify.com/artist/1aQ5RklusunvA9N3kqbbJA"
+        },
+        {
+          "name": "Alexa Ray",
+          "url": "https://open.spotify.com/artist/7KRlMHf9err2cWhAiYpkIv"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258303,
+      "name": "Stars Of Destiny",
+      "url": "https://open.spotify.com/track/4Ew0CksQd8681M60HWDJj0"
+    },
+    {
+      "album": {
         "name": "Stop the Time",
         "url": "https://open.spotify.com/album/7MEWDIupZlzznyiH3aMH7L"
       },
@@ -7906,7 +8072,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 197468,
       "name": "Summer Secrets",
       "url": "https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN"
@@ -8248,7 +8414,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 266048,
       "name": "The Future",
       "url": "https://open.spotify.com/track/0Il8vu2reeGqCDRm4sDZTx"
@@ -8512,7 +8678,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 279679,
       "name": "The Nightmare Factory",
       "url": "https://open.spotify.com/track/716rRyCS2V70kdjTnXGHld"
@@ -9426,7 +9592,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 188680,
       "name": "Waste Your Love",
       "url": "https://open.spotify.com/track/278lyWvloSVUgHGZb5OnAY"
@@ -9558,6 +9724,28 @@
       "duration_ms": 194575,
       "name": "We Love The Fire",
       "url": "https://open.spotify.com/track/2xTMYOkLCmAczuirRX1Gcx"
+    },
+    {
+      "album": {
+        "name": "TOO FAST",
+        "url": "https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "We Need A Doctor",
+      "url": "https://open.spotify.com/track/5tWVQeXIsg0XkuHBuKYfN9"
     },
     {
       "album": {
@@ -9770,7 +9958,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 156444,
       "name": "Where is the Beat?",
       "url": "https://open.spotify.com/track/2QlSZqplGcoNIutgfhDoAS"

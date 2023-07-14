@@ -2,9 +2,9 @@
 
 ### [Afro Indie](https://open.spotify.com/playlist/37i9dQZF1DXaYLfJcKWFfF)
 
-> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG?si=QhfQ3TpCQ6KhVigAP4CU5g"> Lady Donli </a>
+> Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD?si=r5kjzgqjQLCtNdqZxymWTw"> The Cavemen\. </a>
 
-133 songs - 8 hr 7 min
+136 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [African Dreams \- Remix](https://open.spotify.com/track/1AzyicgmCSykHZPdoD4bne) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [African Dreams](https://open.spotify.com/album/3u0AbRSbiEA0AznlbtDrJZ) | 3:55 | 2022-12-08 | 2023-04-21 |
 | [Allez](https://open.spotify.com/track/041kBHDzMPUuePMKJy1RdB) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Rhaffy](https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL) | [Love Lane](https://open.spotify.com/album/0xBtN0vikhUPmTsItssUkF) | 2:42 | 2023-05-04 |  |
 | [Alunamehlo](https://open.spotify.com/track/3m4vlH8tRa4JU3498Qzkkj) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Alunamehlo](https://open.spotify.com/album/5jqyrLKaD3oo0hP8M5mfY4) | 4:22 | 2021-01-28 | 2023-02-17 |
+| [Berlin Lights](https://open.spotify.com/track/75Fv87zEHrKOKG8KvxFjQB) | [Alisha Popat](https://open.spotify.com/artist/5N3jHlJY21ToHGszPs9NCn) | [Berlin Lights](https://open.spotify.com/album/7EMfdp4BsQiS1HZGxpvBYJ) | 3:48 | 2023-07-13 |  |
 | [Biwamiel](https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY), [Umoja](https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw) | [Biwamiel](https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa) | 2:35 | 2022-10-21 | 2023-01-13 |
 | [BLACK SHADOW](https://open.spotify.com/track/0RBfcqZdoFr783h5LxFU4X) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [BLACK SHADOW](https://open.spotify.com/album/0CUg8QxPvuu71RqUvZ7UCD) | 2:09 | 2023-03-03 | 2023-04-21 |
 | [Blonda Yirini](https://open.spotify.com/track/52iVXivZzu2elL1MIQQsrL) | [Nahawa Doumbia](https://open.spotify.com/artist/0lJ4sCynTDDS2Oot6PEhaV) | [Kanawa](https://open.spotify.com/album/7DZu7eXYOCZn9Wz90Rbsa5) | 3:20 | 2020-09-10 | 2023-04-21 |
@@ -82,6 +83,7 @@
 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 |  |
 | [Oluwa Ku Ise](https://open.spotify.com/track/0FGgWQwCMaQ1gQRN7f6K5E) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Dide \(Soundtracks from the movie ENOCH\)](https://open.spotify.com/album/5YaA3qQpHQMnUZjY3B8yzH) | 3:38 | 2023-03-17 | 2023-03-31 |
 | [One Last Time](https://open.spotify.com/track/4MOgPPMxHEHdyIvbMJXUgt) | [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G), [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [One Last Time](https://open.spotify.com/album/2JjDoDhPb9kE4VKRiMFVz6) | 3:47 | 2022-02-24 |  |
+| [Open Your Mind](https://open.spotify.com/track/4xdexoL0fs2yljXSzVrnYj) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Open Your Mind / Saviour \(Single\)](https://open.spotify.com/album/6Amfc8tTRMRzwsWWip8dYX) | 2:23 | 2023-07-13 |  |
 | [Outplayed](https://open.spotify.com/track/6LijFAnGX1XF93ufTgVgIE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Christine Cuare](https://open.spotify.com/artist/3F8V2hgLg4jVkRlZ3BRsnt) | [Outplayed](https://open.spotify.com/album/2pyWphlMKiZA7GMRkfiitk) | 3:12 | 2023-01-27 | 2023-03-04 |
 | [OYA](https://open.spotify.com/track/2SklWzNh4XgOuRoAvWI4mF) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [OYA](https://open.spotify.com/album/7AMlIKwmVYGfhXxJ3hTZPC) | 3:19 | 2022-12-18 | 2023-01-28 |
 | [Paradise](https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 3](https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez) | 3:40 | 2023-05-04 | 2023-07-01 |
@@ -96,6 +98,7 @@
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 | 2023-03-10 |
 | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [Save My Soul \(Who Will Remain?\)](https://open.spotify.com/album/65HSV5JvGWhtbvnBOITYMY) | 2:37 | 2022-08-05 |  |
 | [Secret](https://open.spotify.com/track/5MT626GZnhfFdIKHqeJItw) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Secret](https://open.spotify.com/album/1vXDudcC0TiOmdgLrzvt9p) | 3:14 | 2023-04-27 |  |
+| [See Me \- Remix](https://open.spotify.com/track/7nYcbjV7zOrwHaXU1Qzqio) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [See Me \(Remix\)](https://open.spotify.com/album/1uV8jqGi34ZR4doIvsxkLH) | 2:50 | 2023-07-13 |  |
 | [Shidaa](https://open.spotify.com/track/2hLPTyeShZCBFAKI25umC1) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Shidaa](https://open.spotify.com/album/2iTU7qZLX7KyxL0rnM5Mx6) | 3:59 | 2021-12-09 | 2022-12-09 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 |  |
 | [Sit](https://open.spotify.com/track/1hBrYBkodukH2i2rFoVMdU) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Sit](https://open.spotify.com/album/7iHjmNXtnx9n0V5gQkD151) | 2:26 | 2023-03-03 | 2023-04-28 |

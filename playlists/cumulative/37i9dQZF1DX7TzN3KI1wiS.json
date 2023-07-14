@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/1dAcZ9GeTOn5iJUg3rlDkZ"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Work It - Edit",
+      "url": "https://open.spotify.com/track/5EPN11F2wIv3TGfxg7PLj8"
+    },
+    {
+      "album": {
         "name": "Yalla",
         "url": "https://open.spotify.com/album/7aDGYTUYhb57ivzf6LMncN"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 182726,
       "name": "Yalla",
       "url": "https://open.spotify.com/track/1CkOrhvpzg86QIYD0ArBht"

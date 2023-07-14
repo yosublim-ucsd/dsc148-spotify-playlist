@@ -588,10 +588,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 128852,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/2QnExUsof4COXA79R4BMWx"
+    },
+    {
+      "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/1f19SdkQvDOQpLmgJrJhaA"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368054,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/43ScSDevuS41iHjy9bGYoL"
     },
     {
       "album": {
@@ -680,7 +698,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 166717,
       "name": "City Of Love",
       "url": "https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 147076,
       "name": "Clifton 4th",
       "url": "https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh"
@@ -866,7 +884,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 144230,
       "name": "Cruel Summer (Marcus Layton Edit)",
       "url": "https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg"
@@ -1237,6 +1255,32 @@
     },
     {
       "album": {
+        "name": "Esta Vida (Jess Bays Remix)",
+        "url": "https://open.spotify.com/album/4jdGfY92pBza5dbVWOnskR"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Esta Vida - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/3DJpjKvU8vccxudxq0RO6f"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
       },
@@ -1358,6 +1402,32 @@
       "duration_ms": 163200,
       "name": "Far Away From Home (feat. Leony)",
       "url": "https://open.spotify.com/track/0Y9qJSwdV2LvPnFmAbNIc8"
+    },
+    {
+      "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
     },
     {
       "album": {
@@ -1960,7 +2030,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 220000,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0"
@@ -4157,6 +4227,32 @@
     },
     {
       "album": {
+        "name": "Smooth Operator (TikTok Remix)",
+        "url": "https://open.spotify.com/album/1KRu1EXjZxsJwx9gyzAIZm"
+      },
+      "artists": [
+        {
+          "name": "The Good Son",
+          "url": "https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57"
+        },
+        {
+          "name": "KHEMIS",
+          "url": "https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d"
+        },
+        {
+          "name": "Diana Martinez",
+          "url": "https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Smooth Operator - TikTok Remix",
+      "url": "https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
       },
@@ -4278,7 +4374,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 377849,
       "name": "Starz - Original Mix",
       "url": "https://open.spotify.com/track/2aMJ48BAhYKxwsVBNd0kgR"
@@ -4370,6 +4466,24 @@
       "duration_ms": 203420,
       "name": "Submarine",
       "url": "https://open.spotify.com/track/6cBRrVuaqVQ8WW6VDUHH9l"
+    },
+    {
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/18A50v2nBMlON5VHVK1y9d"
+      },
+      "artists": [
+        {
+          "name": "WHISK",
+          "url": "https://open.spotify.com/artist/3jjCSAk70rfoH6jWnwHu5O"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/0vWU8AomBJnPyOkETik1L0"
     },
     {
       "album": {
@@ -4564,6 +4678,28 @@
       "duration_ms": 129479,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw"
+    },
+    {
+      "album": {
+        "name": "Taste like Summertime",
+        "url": "https://open.spotify.com/album/3w1nX3zVWnhuKDmsuAwM9M"
+      },
+      "artists": [
+        {
+          "name": "OFF KEY JUNIOR",
+          "url": "https://open.spotify.com/artist/41mD8iGiM0QCM3l6NwhyxW"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144834,
+      "name": "Taste like Summertime",
+      "url": "https://open.spotify.com/track/3bpBlfNm5nZgH8m2imm1dA"
     },
     {
       "album": {

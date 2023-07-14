@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 244137,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/4igUplQuZyjVhgch6bQynh"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 204750,
       "name": "Amatista",
       "url": "https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2"
@@ -7535,6 +7535,28 @@
     },
     {
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/5zCwzfOhRQWg6iBZoUvCsi"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        },
+        {
+          "name": "EMEL",
+          "url": "https://open.spotify.com/artist/1U6FdBYgMkeRjQFuTF5JYr"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241904,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/2eO91mgRHGTS14QfUrTS1a"
+    },
+    {
+      "album": {
         "name": "Garden's Edge",
         "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
       },
@@ -7550,6 +7572,28 @@
       "duration_ms": 227000,
       "name": "Retrospective",
       "url": "https://open.spotify.com/track/3zzqGcRJJ4YoegJMnLMYnh"
+    },
+    {
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/62hbktNiahRLgciy8mgGRG"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        },
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/0kfXOuVx3xUjVgwvxQewcb"
     },
     {
       "album": {

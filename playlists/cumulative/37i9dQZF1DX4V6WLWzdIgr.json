@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Lungo'O",
+        "url": "https://open.spotify.com/album/2ftYlwfINRuqjoBiQjfRx9"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341588,
+      "name": "Lungo'O",
+      "url": "https://open.spotify.com/track/5mKAqG9ejNhdZhkoSJIi4j"
+    },
+    {
+      "album": {
         "name": "LungoO",
         "url": "https://open.spotify.com/album/1ajGUwvE5wkcXvUaSyAf1V"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 341588,
       "name": "LungoO",
       "url": "https://open.spotify.com/track/4ThWoB0h7kZFH9KI8NqdHG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- Guest curator: OLLI APPLEYARD from STATIC DRESS! \(New guest curator every 2 weeks\)
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,479 likes - 30 songs - 1 hr 33 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,485 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

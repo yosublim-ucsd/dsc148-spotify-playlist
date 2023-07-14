@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5HkQZ5tt9RWNGqWeXtYxox"
+      },
+      "artists": [
+        {
+          "name": "James Patterson",
+          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/5eRBmNNRrv66usVlm2K515"
+    },
+    {
+      "album": {
         "name": "Ain't Going Back",
         "url": "https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP"
       },
@@ -88,7 +110,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 161487,
       "name": "ALT DISCO",
       "url": "https://open.spotify.com/track/5hIkICj8NEASwmQkXkCb9l"
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 166153,
       "name": "DEEPFAKE",
       "url": "https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs"
@@ -2119,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Queendom Vol. 1",
+        "url": "https://open.spotify.com/album/2O0grwEecYdOMSRKCwQlv6"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360971,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/005Nt2VAJeQ1WFEKTH51rb"
+    },
+    {
+      "album": {
         "name": "Likkle Miss",
         "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
       },
@@ -2784,7 +2824,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 180437,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV"
@@ -3481,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/3Ti4rFDFUzrnWo5boUrLUO"
+      },
+      "artists": [
+        {
+          "name": "Kyle Kinch",
+          "url": "https://open.spotify.com/artist/75BXoaGWmzkzAHQVP69U9U"
+        },
+        {
+          "name": "Nasja Mone",
+          "url": "https://open.spotify.com/artist/1CqAInFichz7eidBuo9gwF"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193790,
+      "name": "Strut",
+      "url": "https://open.spotify.com/track/1rgfeVIxhmB9M2fx80NnXf"
+    },
+    {
+      "album": {
         "name": "Stuntin' On You (feat. DaBaby)",
         "url": "https://open.spotify.com/album/0ntJqUFZt7XQmRycj6typz"
       },
@@ -3783,6 +3845,32 @@
     },
     {
       "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "album": {
         "name": "The Throne",
         "url": "https://open.spotify.com/album/0jbdpVS8HSlnPe2UhxSGwA"
       },
@@ -3904,7 +3992,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 195792,
       "name": "TOKYO (Pabllo Vittar & CyberKills Remix)",
       "url": "https://open.spotify.com/track/3cht3cIqzYrdzEcRBb2Ajq"

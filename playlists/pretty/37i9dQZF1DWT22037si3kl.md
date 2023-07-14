@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Major RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,067 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,219 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Grifes \(Conheço bem\)](https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Grifes \(Conheço bem\)](https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe) | 2:24 |
 | 50 | [Moncler](https://open.spotify.com/track/498D8WcctdGpUXMK1RVrsw) | [NITATHEPLUG](https://open.spotify.com/artist/0SwRpBSQCpAGhwcghcKPm4), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Moncler](https://open.spotify.com/album/2XF19VjIrDG2p59lh3OSBc) | 2:40 |
 
-Snapshot ID: `MCw5OTY1M2FjODZkNzNmMGYxODIyOGJjNzIzMDUxMjc3OTczN2UzZmQ3`
+Snapshot ID: `MCxkYmYyYTkyYTA5MjBmZjFlMWMwYTY4N2ViMWVkMjAxYjE3Yjg4YzNj`

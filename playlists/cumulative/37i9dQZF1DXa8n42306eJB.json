@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/4MCqdqhhPcrOmyVBPsnRzh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189267,
+      "name": "Road Trip",
+      "url": "https://open.spotify.com/track/4z7cAWJg5EfFoaYXmx15xj"
+    },
+    {
+      "album": {
         "name": "First XV",
         "url": "https://open.spotify.com/album/7iiz1chr32IjT3FLiC0dpt"
       },
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-14",
       "duration_ms": 189267,
       "name": "Road Trip",
       "url": "https://open.spotify.com/track/6qNg20sM8sdhIiZTo1tstW"
