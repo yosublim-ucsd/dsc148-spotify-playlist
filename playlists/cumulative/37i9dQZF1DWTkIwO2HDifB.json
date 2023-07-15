@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Semana Inteira",
+        "url": "https://open.spotify.com/album/0mcOvuCggLZ4TC32eXi68x"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "DJ BOY",
+          "url": "https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "A Semana Inteira",
+      "url": "https://open.spotify.com/track/0wSFsliBwxevwTEXXag2ro"
+    },
+    {
+      "album": {
         "name": "Agudo M\u00e1gico 3",
         "url": "https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD"
       },
@@ -28,7 +50,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 174008,
       "name": "Agudo M\u00e1gico 3",
       "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
@@ -220,7 +242,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 171428,
       "name": "Aqui Na Parma Tu Vem Pra Fuder",
       "url": "https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ"
@@ -3257,6 +3279,28 @@
     },
     {
       "album": {
+        "name": "Pocot\u00f3",
+        "url": "https://open.spotify.com/album/4qNYDA6tQionidSDxgsNpL"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164312,
+      "name": "Pocot\u00f3",
+      "url": "https://open.spotify.com/track/1i2a45FtiXmX0unBj3CXB4"
+    },
+    {
+      "album": {
         "name": "Pras Novinha (feat. DJ Pedrin)",
         "url": "https://open.spotify.com/album/7Cp9HdYwzZ1fsS3f7K6K5U"
       },
@@ -3572,6 +3616,40 @@
       "duration_ms": 146823,
       "name": "Quem N\u00e3o Conhece T\u00e1 Sem Internet",
       "url": "https://open.spotify.com/track/5mJFh4iRzgmWuEVPG8257V"
+    },
+    {
+      "album": {
+        "name": "Mega Da Rainha",
+        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ S2k",
+          "url": "https://open.spotify.com/artist/0UGMDsR5m7QIcz0GxKTHAn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "Quer Sair Da Minha Vida, Pode Sair",
+      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
     },
     {
       "album": {
@@ -4884,7 +4962,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 116307,
       "name": "\u00c9 S\u00f3 Um Lance Lero Lero",
       "url": "https://open.spotify.com/track/5DoYLtsVnNMcrgpMdEPOsI"

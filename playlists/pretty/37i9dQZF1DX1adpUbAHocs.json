@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 670617,
+  "num_followers": 670702,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzk2N2M0NmIyYTQ0YjI2MGZmOWNlYTJjNTRmM2U3OTQ5NDBjODM0",
+  "snapshot_id": "MCw1ODU0NTc1ZTRkNzgwOTU4NWNlOTdiNDBlYzg2YjVmMWUzNTNiNzc1",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Kindness, A Rebel",
+        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 195126,
+      "name": "Motel 6",
+      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Kindness, A Rebel",
-        "url": "https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 195126,
-      "name": "Motel 6",
-      "url": "https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Lucifer On The Sofa",
-        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 193277,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "to Perth, before the border closes",
         "url": "https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -927,6 +911,22 @@
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 246454,
-      "name": "9beat",
-      "url": "https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+      "duration_ms": 246454,
+      "name": "9beat",
+      "url": "https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Capacity",
         "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "I Wish I Was the Moon",
+      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Lukas Nelson & Promise Of The Real",
         "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
       },
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 214733,
-      "name": "I Wish I Was the Moon",
-      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 191280,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2023-07-07 04:00:00",

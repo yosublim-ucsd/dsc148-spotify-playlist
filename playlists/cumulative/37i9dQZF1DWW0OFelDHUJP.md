@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-62 songs - 4 hr 4 min
+63 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Baarish Ki Boondein](https://open.spotify.com/track/4EfSRHhktOOws6orxZIx9g) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Papon the Story So Far](https://open.spotify.com/album/3cjwBxyFUkiGPtlkVZ168k) | 5:59 | 2023-05-09 |  |
 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
 | [Baarish Lete Aana](https://open.spotify.com/track/6Oq4lIhSSYdA6WuXU9sPeG) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Baarish Lete Aana](https://open.spotify.com/album/3tkdlEXR8nSZ7hoSSSyoaV) | 3:33 | 2023-05-09 |  |
-| [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2023-05-09 |  |
+| [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 | 2023-05-09 | 2023-07-15 |
+| [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-07-14 |  |
 | [Badariya](https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO) | [Reewa Rathod](https://open.spotify.com/artist/0mzRkdWgrhQkFXs2ptJAch), [Swaransh Mishra](https://open.spotify.com/artist/6k8KVEJqdcGiVni3c6WmhY) | [Badariya](https://open.spotify.com/album/1QZeDxNotV0dAOe7KjUSZm) | 4:07 | 2023-05-09 |  |
 | [Badra Bahara](https://open.spotify.com/track/6i9997Q9R4M7RuqQEHq3ed) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Badra Bahara](https://open.spotify.com/album/4rmIiT592uOXCMNR1nbhvl) | 2:36 | 2023-05-09 |  |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2023-05-09 |  |

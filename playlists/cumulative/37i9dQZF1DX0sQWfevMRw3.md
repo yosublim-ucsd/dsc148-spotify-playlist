@@ -4,7 +4,7 @@
 
 > DISKOTEK DISKOTEKA!!
 
-711 songs - 1 day 6 hr 47 min
+712 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [DunkDunkDunk](https://open.spotify.com/track/0JxQNOhOGzo95AxYBvYDyE) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [DunkDunkDunk](https://open.spotify.com/album/6WtguNMxX8ONaqrr4yVJ8h) | 2:16 | 2023-02-23 | 2023-05-26 |
 | [DUTTY WINE](https://open.spotify.com/track/4YNvXOA0AERBT5ZCNylYLU) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [Faal](https://open.spotify.com/artist/2pgHOvqTXn3lNMeGHILAwX) | [DUTTY WINE](https://open.spotify.com/album/2kUCJbOZf6fa06axTfLFbP) | 2:04 | 2021-12-16 | 2022-07-29 |
 | [Dynamit](https://open.spotify.com/track/0kQ0nR6UWBVZvRRLpGSX3w) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [Dynamit](https://open.spotify.com/album/2JEyGskhrHPavF0s17Vfwc) | 1:52 | 2023-07-13 |  |
-| [Dyngnacke](https://open.spotify.com/track/5WSWAd95miI5Ds5xTjPBZn) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Dyngnacke](https://open.spotify.com/album/5UmnhVQ3X4u0TcbRItBHLD) | 2:19 | 2023-06-15 |  |
+| [Dyngnacke](https://open.spotify.com/track/5WSWAd95miI5Ds5xTjPBZn) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Dyngnacke](https://open.spotify.com/album/5UmnhVQ3X4u0TcbRItBHLD) | 2:19 | 2023-06-15 | 2023-07-15 |
+| [Dyngnacke](https://open.spotify.com/track/6OHWGN7KW22jczi6FVEBGE) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Dyngnacke](https://open.spotify.com/album/47995xKC0dKYED6RYsAYpl) | 2:19 | 2023-07-13 |  |
 | [Dyngrak](https://open.spotify.com/track/5K43navq707q9fWgip9l9l) | [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC) | [Dyngrak](https://open.spotify.com/album/4nZ4hG0wOSCW4SFPMwAUUG) | 2:32 | 2023-03-02 | 2023-04-07 |
 | [DYR BENSIN](https://open.spotify.com/track/5zbi722hFSDPFNaPNy8xCq) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DYR BENSIN](https://open.spotify.com/album/4CuL02B8XYSGoTdIxiqy8L) | 1:46 | 2022-09-29 | 2023-01-06 |
 | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/track/4YvNeLs07cxgKcsVtxDXBu) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DÄR GÄDDAN SIMMAR](https://open.spotify.com/album/0eGf6UvidEOq5uzdKzWvr4) | 2:36 | 2022-10-10 | 2022-10-28 |

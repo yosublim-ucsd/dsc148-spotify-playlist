@@ -1,12 +1,12 @@
 {
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
-  "num_followers": 1207298,
+  "num_followers": 1207724,
   "original_name": "Salsa Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjhhYzJkMjIzNjBiNzNmMTE2MzQ5NjI4MjE4YTIyMDdjYzQyMjFi",
+  "snapshot_id": "MCwxZmU4MmI1NDJlMGFlYjYyNTI1YjViMDA2YTZmN2VkZTQyZTZiM2Fj",
   "tracks": [
     {
       "added_at": "2023-04-06 22:36:25",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-04-06 22:36:25",
       "album": {
-        "name": "Tras La Tormenta",
-        "url": "https://open.spotify.com/album/1V03D3v6evAcXycfXtepUW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Talento De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/06YYzWTAibpHPEJTl4zVvm"
-    },
-    {
-      "added_at": "2023-04-06 22:36:25",
-      "album": {
         "name": "Contra La Corriente",
         "url": "https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 304733,
       "name": "Contra La Corriente",
       "url": "https://open.spotify.com/track/22GxtWFeORJZaptz26pxet"
+    },
+    {
+      "added_at": "2023-04-06 22:36:25",
+      "album": {
+        "name": "Tras La Tormenta",
+        "url": "https://open.spotify.com/album/1V03D3v6evAcXycfXtepUW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/06YYzWTAibpHPEJTl4zVvm"
     },
     {
       "added_at": "2023-04-06 22:36:25",

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 323053,
+  "num_followers": 323322,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2M0NTFmYjcwZDMwNTQ0MTU5MGI3ZTQ2YzI1NGViNDZlOWE2NjQ1",
+  "snapshot_id": "MCw3Y2NkZTc3ZDcyYTg0NzQ2MmYxYjdlMjU2NzkyOGY1ZjRjYTg1NmEz",
   "tracks": [
     {
       "added_at": "2023-06-29 12:54:42",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-29 12:54:42",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Monkey Wrench",
-      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
-    },
-    {
-      "added_at": "2023-06-29 12:54:42",
-      "album": {
         "name": "Wonder What's Next (Expanded Edition)",
         "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "added_at": "2023-06-29 12:54:42",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
     },
     {
       "added_at": "2023-06-29 12:54:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-06-29 12:54:42",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 272240,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
-    },
-    {
-      "added_at": "2023-06-29 12:54:42",
-      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 197373,
       "name": "Pass The Nirvana",
       "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290"
+    },
+    {
+      "added_at": "2023-06-29 12:54:42",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 272240,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
     },
     {
       "added_at": "2023-06-29 12:54:42",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-06-29 12:54:42",
       "album": {
+        "name": "Scars & Souvenirs (Special Edition)",
+        "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 205626,
+      "name": "Bad Girlfriend",
+      "url": "https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU"
+    },
+    {
+      "added_at": "2023-06-29 12:54:42",
+      "album": {
         "name": "Crooked Teeth (Deluxe)",
         "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2023-06-29 12:54:42",
       "album": {
-        "name": "Scars & Souvenirs (Special Edition)",
-        "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
       "artists": [
         {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Bad Girlfriend",
-      "url": "https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU"
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
     },
     {
       "added_at": "2023-06-29 12:54:42",
@@ -1047,22 +1063,6 @@
       "duration_ms": 188093,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL"
-    },
-    {
-      "added_at": "2023-06-29 12:54:42",
-      "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
     },
     {
       "added_at": "2023-06-29 12:54:42",
@@ -1111,22 +1111,6 @@
       "duration_ms": 298253,
       "name": "Cherub Rock - 2011 Remaster",
       "url": "https://open.spotify.com/track/3ow0TQVttXQF8rLckmXgRx"
-    },
-    {
-      "added_at": "2023-06-29 12:54:42",
-      "album": {
-        "name": "ATTENTION ATTENTION",
-        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2023-06-29 12:54:42",
@@ -1191,6 +1175,22 @@
       "duration_ms": 238653,
       "name": "The Devil's Bleeding Crown",
       "url": "https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ"
+    },
+    {
+      "added_at": "2023-06-29 12:54:42",
+      "album": {
+        "name": "ATTENTION ATTENTION",
+        "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
     },
     {
       "added_at": "2023-06-29 12:54:42",

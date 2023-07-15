@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 2064,
+  "num_followers": 2084,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDJkMDc1ZjAwZWQ3NzM2OTQ3YzBhYjMxYTFiMjk4MmU5NWQxYmMw",
+  "snapshot_id": "MCwyYmY0ZTc3ODdkYTI0NWUxMWQ2MGE0NThjOGJkMDI3YmM1ZDkzYmIz",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Nkunim (The Victory Song)",
+        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
+      },
+      "artists": [
+        {
+          "name": "Carl Clottey",
+          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
+        }
+      ],
+      "duration_ms": 409432,
+      "name": "Nkunim (The Victory Song)",
+      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 135968,
       "name": "I Know",
       "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Nkunim (The Victory Song)",
-        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
-      },
-      "artists": [
-        {
-          "name": "Carl Clottey",
-          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
-        }
-      ],
-      "duration_ms": 409432,
-      "name": "Nkunim (The Victory Song)",
-      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Mensuro",
+        "url": "https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK"
+      },
+      "artists": [
+        {
+          "name": "Miriam Afari",
+          "url": "https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR"
+        }
+      ],
+      "duration_ms": 404300,
+      "name": "Mensuro",
+      "url": "https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Lifted High",
         "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 222791,
       "name": "Highest Praise",
       "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Mensuro",
-        "url": "https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK"
-      },
-      "artists": [
-        {
-          "name": "Miriam Afari",
-          "url": "https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR"
-        }
-      ],
-      "duration_ms": 404300,
-      "name": "Mensuro",
-      "url": "https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO"
     }
   ],
   "unique_name": "Aseda",

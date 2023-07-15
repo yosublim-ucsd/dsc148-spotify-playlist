@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-86 songs - 5 hr 13 min
+87 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bright Direction \(You’re a Dark Star Now\)](https://open.spotify.com/track/6TX6ERqjxAFMaRGMmbdhXs) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk) | 4:24 | 2021-02-17 | 2022-07-29 |
 | [Call to Arms](https://open.spotify.com/track/4m1opmaYT9zk5OP7IHUb9R) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 5:29 | 2021-02-17 |  |
 | [Can't Nobody Love You](https://open.spotify.com/track/1ovGm2RHnWlTmbbtIxd2f8) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Rock 'N Soul](https://open.spotify.com/album/152R8N9N0ACnWPNOBIO4M8) | 2:33 | 2021-02-17 |  |
-| [Cry](https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD) | 2:48 | 2022-08-26 |  |
+| [Cry](https://open.spotify.com/track/3wxJXJsgEr1hBV4ej5sUCY) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/0KcAmKDwqxuKpL8o3jEyva) | 2:48 | 2023-05-26 |  |
+| [Cry](https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD) | 2:48 | 2022-08-26 | 2023-07-15 |
 | [Faraway Look](https://open.spotify.com/track/1dWv8VqVEW8xkWgCIISxxm) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:09 | 2021-02-17 |  |
 | [Games People Play](https://open.spotify.com/track/50t8gshcAtXiUdk7nHfYDp) | [Joe South](https://open.spotify.com/artist/7s2L0cftC6UBVVxADuyfwS) | [Introspect \(Bonus Track Version\)](https://open.spotify.com/album/0efmkx26DQ4OSiPCdKsQgB) | 3:35 | 2021-02-17 |  |
 | [Georgia Morning Dew](https://open.spotify.com/track/0vxWC7gqoQBS6uEKVG0nHS) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Heart and Soul](https://open.spotify.com/album/1wDtgCR0JI2PM9B3jTJZ5e) | 3:17 | 2021-02-17 | 2022-07-29 |

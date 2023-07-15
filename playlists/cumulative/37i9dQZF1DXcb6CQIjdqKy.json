@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW?si=2350386d63e74298\">Steffany Gretzinger</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=425c759e419f4aeb\">Phil Wickham</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1252,6 +1252,24 @@
       "duration_ms": 365185,
       "name": "Christ Our King - Live From Camp",
       "url": "https://open.spotify.com/track/36JWXzz773ljAGmwwz4ISZ"
+    },
+    {
+      "album": {
+        "name": "Church Pew",
+        "url": "https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239296,
+      "name": "Church Pew",
+      "url": "https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw"
     },
     {
       "album": {
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 346977,
       "name": "Good Plans",
       "url": "https://open.spotify.com/track/3K89A6tH60vfgeRRtAGiGn"
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 191748,
       "name": "Got What You Need",
       "url": "https://open.spotify.com/track/3OcUVWhubdvvmQ6YFH0ySA"
@@ -3518,6 +3536,28 @@
       "duration_ms": 180986,
       "name": "High Up",
       "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "album": {
@@ -5924,7 +5964,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183558,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/3xXbmW2ONUQzlBG7WLmxI1"
@@ -8796,7 +8836,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 292266,
       "name": "Sunday Is Coming",
       "url": "https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK"
@@ -9767,6 +9807,24 @@
     },
     {
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330516,
+      "name": "There's No Way",
+      "url": "https://open.spotify.com/track/4W1VnLhislRPhU7vOsyytP"
+    },
+    {
+      "album": {
         "name": "There's Nothing",
         "url": "https://open.spotify.com/album/04dNGGce0Fc3Qiy3gTJoUI"
       },
@@ -9960,7 +10018,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 265653,
       "name": "This Is Our God",
       "url": "https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2"

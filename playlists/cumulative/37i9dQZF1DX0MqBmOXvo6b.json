@@ -7661,6 +7661,24 @@
     },
     {
       "album": {
+        "name": "Sunshine memories",
+        "url": "https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb"
+      },
+      "artists": [
+        {
+          "name": "Ava Cerasoli",
+          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Sunshine memories",
+      "url": "https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1"
+    },
+    {
+      "album": {
         "name": "Supine",
         "url": "https://open.spotify.com/album/55WONvD6G2WMrurYYtR9Wb"
       },
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 149156,
       "name": "Wish of the Progeny",
       "url": "https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit"

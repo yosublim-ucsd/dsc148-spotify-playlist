@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 467859,
+  "num_followers": 467857,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTJkZTcwOWNmZTUyNGQ4MjFhZjYyYzQ2NWE2MzI3M2E0ZmM3YjZm",
+  "snapshot_id": "MCxjNTI4YjYyNWFlNjI3ZmMzOTJjYWU1ODMyODg3YzcyODY0MjA3OTVk",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:21",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-07-07 15:52:21",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2023-07-07 15:52:21",
+      "album": {
         "name": "Like A Fool",
         "url": "https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy"
       },
@@ -255,18 +271,22 @@
     {
       "added_at": "2023-07-07 15:52:21",
       "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+        "name": "SoulMate (feat. IU)",
+        "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+      "duration_ms": 219390,
+      "name": "SoulMate (feat. IU)",
+      "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
     },
     {
       "added_at": "2023-07-07 15:52:21",
@@ -287,26 +307,6 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2023-07-07 15:52:21",
-      "album": {
-        "name": "SoulMate (feat. IU)",
-        "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 219390,
-      "name": "SoulMate (feat. IU)",
-      "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
     },
     {
       "added_at": "2023-07-07 15:52:21",

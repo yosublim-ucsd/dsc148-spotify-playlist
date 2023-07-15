@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-466 songs - 1 day 3 hr 40 min
+468 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Espejo](https://open.spotify.com/track/4PrG4rGGT9QTcs64K7B85m) | [Ñoqui](https://open.spotify.com/artist/1lNd3hH3tHiqrAQl7N1l9h), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Espejo](https://open.spotify.com/album/6oNSvXhEhqeKkWSIcPo9Sg) | 4:06 | 2022-06-03 | 2022-07-24 |
 | [Espejos Dorados \- Live at M100](https://open.spotify.com/track/6rfpQtEtNFDQxEvNSAIgf3) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Espejos Dorados \(Live at M100\)](https://open.spotify.com/album/3Kgab4RGUvsWg93lrDaVl5) | 4:22 | 2022-07-01 | 2022-07-06 |
 | [Espiándote](https://open.spotify.com/track/2SrVBLz24XKfsdTImimNqG) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Espiándote](https://open.spotify.com/album/7vAQv07uWaShAr6fm0y42k) | 3:39 | 2022-07-01 | 2022-07-27 |
-| [Esquimal](https://open.spotify.com/track/6cgF98tbHStqIHk5s6S9lS) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Esquimal](https://open.spotify.com/album/6zRi2AG39CM1mOejGVHqhv) | 3:20 | 2023-06-16 |  |
+| [Esquimal](https://open.spotify.com/track/6cgF98tbHStqIHk5s6S9lS) | [Rey Hindú](https://open.spotify.com/artist/0IdZ8iwao6oUqBJ2gfjSIW) | [Esquimal](https://open.spotify.com/album/6zRi2AG39CM1mOejGVHqhv) | 3:20 | 2023-06-16 | 2023-07-15 |
 | [Este Debe Ser el Lugar](https://open.spotify.com/track/02zes4ye5C5HupP3zrUB99) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Este Debe Ser el Lugar](https://open.spotify.com/album/7J04keLANxCpdY8yFR1Pws) | 2:46 | 2022-06-03 | 2023-06-10 |
 | [Estás acá](https://open.spotify.com/track/4q2adyzkct9AlMxrtsVHSK) | [Telepáticos](https://open.spotify.com/artist/0r4Bb4UTFpuFvIvENU6Az0) | [Telepáticos](https://open.spotify.com/album/3RIPF4H67CpBKiXrE1A8WR) | 3:31 | 2022-07-01 | 2022-07-20 |
 | [Fantasma](https://open.spotify.com/track/3pLfxTtaTzmCnvvXIz6w22) | [Las Fuerzas Subterráneas](https://open.spotify.com/artist/4ri5uftf6yMlM0W82JBFfr) | [Fantasma](https://open.spotify.com/album/2R9QAk5UvgDPkdIpK5Wv0d) | 4:04 | 2022-07-01 | 2022-07-25 |
@@ -241,6 +241,7 @@
 | [Llega llega llega](https://open.spotify.com/track/2lOCxL2Z9fNjKD9FsOi3sS) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Llega llega llega](https://open.spotify.com/album/4lH8Eq18PK6DufmL7BK3k1) | 3:40 | 2022-06-03 |  |
 | [Lluvia](https://open.spotify.com/track/5IlTUPT1eAtt3QsrsaewdU) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp), [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Drama](https://open.spotify.com/album/6WtmjqcRqwbQRVSzicqD3g) | 3:52 | 2022-06-03 | 2022-07-18 |
 | [Llévame al Sur](https://open.spotify.com/track/2EXPYtAqur7eqstK2PD5MP) | [Rodrigo Solo](https://open.spotify.com/artist/2XSPl1pclaAddjCxZTOhZT), [Panda Elliot](https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve) | [Llévame al Sur](https://open.spotify.com/album/439eXeWqL6gshxpCxGuSCh) | 3:34 | 2022-06-03 | 2022-07-22 |
+| [Lo nuevo y lo inútil](https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Lo nuevo y lo inútil](https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK) | 3:02 | 2023-07-14 |  |
 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 | 2022-07-15 | 2022-07-20 |
 | [Lo que me asusta](https://open.spotify.com/track/0O88nopnkWFy4UanmjQGUl) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Lo Que Me Asusta](https://open.spotify.com/album/7yVtfFffpg64yNti68EMF5) | 2:11 | 2022-07-15 | 2023-03-03 |
 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-19 |  |
@@ -316,6 +317,7 @@
 | [Nuestra Historia](https://open.spotify.com/track/66ec2jZu3jLS4bt8VJZjqU) | [Humboldt](https://open.spotify.com/artist/1wJii6AWThPVePpQF0P4G6) | [Nuestra Historia](https://open.spotify.com/album/2AnQrfhr5hmAhB4ijW3Zyd) | 4:50 | 2022-07-01 | 2022-07-28 |
 | [Nuevo Comienzo](https://open.spotify.com/track/67tXLMcNhEfTYBsuBQ8aHE) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Nuevo Comienzo](https://open.spotify.com/album/3t9n5vhwmuQU14VJZfCAmg) | 3:06 | 2022-10-28 | 2023-03-03 |
 | [Nuevo Intento](https://open.spotify.com/track/05qJwSNJl8SsPl7kKPd1oV) | [Chino Mansutti](https://open.spotify.com/artist/3kYfNaPULwaIV5eQ4JHzsH), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Nuevo Intento](https://open.spotify.com/album/1MAY0G117VXrUKwd3ECnAV) | 4:06 | 2023-06-23 |  |
+| [Nuevo Plano](https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Nuevo Plano](https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr) | 2:25 | 2023-07-14 |  |
 | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Nunca Estuvo en Ti el Litoral](https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN) | 2:58 | 2023-06-09 |  |
 | [Nunca Supe](https://open.spotify.com/track/29qW7YVKI1axBPqyPwX9ck) | [Mementto](https://open.spotify.com/artist/4V8yNockJPs4Ofk3pw2ymA) | [Nunca Supe](https://open.spotify.com/album/2BZY8ROagjCOhVEQIH9aBw) | 2:54 | 2022-06-03 | 2022-07-28 |
 | [obrador](https://open.spotify.com/track/1fPs0v0bN5kUbj9K8Nr1OD) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [gigaaaante](https://open.spotify.com/album/3QCktFDtwLwQ7jWtpPuoUo) | 3:33 | 2022-07-15 | 2023-06-10 |
@@ -460,7 +462,7 @@
 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-06-03 | 2022-07-28 |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 | 2023-06-24 |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-06-03 | 2022-07-24 |
-| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 |  |
+| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 | 2023-07-15 |
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-07-01 | 2023-03-03 |
 | [ya fue / ya está](https://open.spotify.com/track/31VaZ78vgHa1N5J9oLvFAi) | [Equipo Nacional](https://open.spotify.com/artist/3vYmeeuL2e2C0MqNdAVAXE) | [ya fue / ya está](https://open.spotify.com/album/3wATlKrcm7Y7NDfbJQwIal) | 4:03 | 2022-07-01 | 2022-07-24 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-07-01 | 2022-07-28 |

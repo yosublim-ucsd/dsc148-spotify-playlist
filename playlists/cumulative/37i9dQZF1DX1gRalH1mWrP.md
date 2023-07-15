@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,144 songs - 2 day 11 hr 8 min
+1,145 songs - 2 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [fuck, i luv my friends](https://open.spotify.com/track/4hk4plGoAmg3naYTq8EUul) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [fuck, i luv my friends](https://open.spotify.com/album/4r4S1Vthv9l5CSJdTee4S6) | 2:43 | 2020-07-18 | 2020-08-26 |
 | [fuck, i'm lonely](https://open.spotify.com/track/322tcqPhma7F6hfCeLisx0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [fuck, i'm lonely](https://open.spotify.com/album/60sI3iRfHfu7YpcTpZ29W1) | 3:18 | 2019-08-02 | 2020-04-29 |
 | [FUCKBOY](https://open.spotify.com/track/1AXJqw8lCf3chqvgq4U8mA) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [FUCKBOY](https://open.spotify.com/album/7MEDmpNwxYkhXaoWL1H8eA) | 3:10 | 2021-05-15 | 2021-06-05 |
-| [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-27 |  |
+| [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-27 | 2023-07-15 |
 | [Funny](https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Funny](https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm) | 3:41 | 2020-07-18 | 2020-08-20 |
 | [Games We Play](https://open.spotify.com/track/0k78e3zQ8iPNPRXV5H5duw) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Games We Play](https://open.spotify.com/album/5uFZkMgXZjb9HIcMEKxe97) | 2:25 | 2021-07-18 | 2022-01-02 |
 | [Get Away \(Radio Edit\)](https://open.spotify.com/track/1wVvpJYslRsrU1gf8g1f1m) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [2AM Vibes](https://open.spotify.com/album/4e9Z81Nwtr9hE64AxOQEOF) | 2:51 | 2021-04-30 | 2021-11-30 |
@@ -1001,6 +1001,7 @@
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-07-27 | 2019-07-30 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-04-30 | 2021-10-16 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2022-06-03 | 2023-03-08 |
+| [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-07-14 |  |
 | [The feelings tend to stay the same](https://open.spotify.com/track/4WwynJRKVuJzMgew9ptoDe) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [The feelings tend to stay the same](https://open.spotify.com/album/6OT1kHq5Gcn3zvKoj7XCgb) | 2:28 | 2020-08-01 | 2020-08-12 |
 | [The Git Up](https://open.spotify.com/track/5dW1VZPcFqB4n0P08rGDgm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [The Git Up](https://open.spotify.com/album/00xSEAMEAPTF17t2rdOFYF) | 3:20 | 2019-06-15 | 2020-04-29 |
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-10 | 2023-05-16 |

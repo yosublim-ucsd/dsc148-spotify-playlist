@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 139087,
       "name": "Alt jeg ser",
       "url": "https://open.spotify.com/track/46BBN88LgNvprNZZdxwv46"
@@ -6504,6 +6504,24 @@
       "duration_ms": 149508,
       "name": "Extremes",
       "url": "https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM"
+    },
+    {
+      "album": {
+        "name": "Eye of the Tiger",
+        "url": "https://open.spotify.com/album/7Be9gabudlHiPL25O0IwxW"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193125,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2fKfaZd5hW9GWkda8ccWGy"
     },
     {
       "album": {
@@ -16037,6 +16055,32 @@
     },
     {
       "album": {
+        "name": "N\u00c5 SKJER DET",
+        "url": "https://open.spotify.com/album/53hIsMGajdVKN6lbUSqEp1"
+      },
+      "artists": [
+        {
+          "name": "Problembarn",
+          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
+        },
+        {
+          "name": "Henrik von Grogg",
+          "url": "https://open.spotify.com/artist/2z33akYL15RgrP5P51vhvx"
+        },
+        {
+          "name": "Henrik Viken",
+          "url": "https://open.spotify.com/artist/1X6PpxnCUPaBW9dFnckNO3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143172,
+      "name": "N\u00c5 SKJER DET",
+      "url": "https://open.spotify.com/track/5BFoleOlY8j7XSTb4YqIbb"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc"
       },
@@ -16888,7 +16932,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"

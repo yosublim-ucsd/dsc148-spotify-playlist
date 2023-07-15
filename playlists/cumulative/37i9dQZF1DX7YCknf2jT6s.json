@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Terrace Martin",
+  "description": "New jazz for open minds. Cover: Nubya Garcia",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "A Monk In Ascending and Descending",
+        "url": "https://open.spotify.com/album/7y6OoPAJOs8ddYeWQ6wtFU"
+      },
+      "artists": [
+        {
+          "name": "Miho Hazama",
+          "url": "https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524413,
+      "name": "A Monk In Ascending And Descending",
+      "url": "https://open.spotify.com/track/6zl6yzOjSebyndp1FwzHWV"
+    },
+    {
+      "album": {
         "name": "A New Spring",
         "url": "https://open.spotify.com/album/18g85EI2pf6TYcoS1G4Y2f"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 185685,
       "name": "Adesane - Pachakuti Remix",
       "url": "https://open.spotify.com/track/11yW4QUMzfAJ9ox2AZzm5y"
@@ -1609,6 +1627,28 @@
     },
     {
       "album": {
+        "name": "The Omnichord Real Book",
+        "url": "https://open.spotify.com/album/6m9xpYmSjwsV83YJ1TmJXA"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458312,
+      "name": "ASR (feat. Jeff Parker)",
+      "url": "https://open.spotify.com/track/5MLWJZfgMuSHOJtcfZC5vM"
+    },
+    {
+      "album": {
         "name": "Kim \u00c5ge Furuhaug",
         "url": "https://open.spotify.com/album/1ppNYlnMGMrfXh2eFJ1vmv"
       },
@@ -1692,7 +1732,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 390840,
       "name": "Atonia",
       "url": "https://open.spotify.com/track/5A88MJd359EcsWqqkKgNan"
@@ -3403,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "CD",
+        "url": "https://open.spotify.com/album/3x4ngwfnySLcB3UBtAID91"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186390,
+      "name": "CD",
+      "url": "https://open.spotify.com/track/0MxfrxF46gT6S3oz6CbNbF"
+    },
+    {
+      "album": {
         "name": "Chacha Rom",
         "url": "https://open.spotify.com/album/6hRtnGFtIzAlYh05Ehog4h"
       },
@@ -4010,7 +4068,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 336000,
       "name": "Crash The Car",
       "url": "https://open.spotify.com/track/5VtjjJlCiWOeDmnxURCtfl"
@@ -4364,7 +4422,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 171830,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/0fuxueNMYxeciH7xRNm2Ct"
@@ -5162,6 +5220,24 @@
       "duration_ms": 192937,
       "name": "Dream Another",
       "url": "https://open.spotify.com/track/6O5WxhFGEdNVRJw7vnwhiy"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2EeWvxWDkaro5W8SjMHAV7"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277297,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4qKrjXMsLzS5tcqfTcZA0Y"
     },
     {
       "album": {
@@ -6574,6 +6650,24 @@
       "duration_ms": 500435,
       "name": "From The Mountains",
       "url": "https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd"
+    },
+    {
+      "album": {
+        "name": "From The Top",
+        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281946,
+      "name": "From The Top",
+      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
     },
     {
       "album": {
@@ -9951,6 +10045,24 @@
     },
     {
       "album": {
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318675,
+      "name": "Lean In",
+      "url": "https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE"
+    },
+    {
+      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/4hYJP6VSDvVktdcZRq2mtx"
       },
@@ -11072,7 +11184,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 288932,
       "name": "Mal Du Pays",
       "url": "https://open.spotify.com/track/4df17Kolv8hrU2GxH42NRg"
@@ -11142,6 +11254,28 @@
       "duration_ms": 187904,
       "name": "Mama Genso (Single Version)",
       "url": "https://open.spotify.com/track/4BrJDQtYkikWJVgywOjShf"
+    },
+    {
+      "album": {
+        "name": "Marching Band (feat. Masego)",
+        "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284386,
+      "name": "Marching Band (feat. Masego)",
+      "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
     },
     {
       "album": {
@@ -12350,7 +12484,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 234066,
       "name": "New Resistance",
       "url": "https://open.spotify.com/track/7eyGGkrNGHA3UAzKjsqZ3K"
@@ -12679,6 +12813,28 @@
     },
     {
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/2rsNtARoox6CERXAw6yBDB"
+      },
+      "artists": [
+        {
+          "name": "BRAVE JAMES",
+          "url": "https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188118,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/33pCdzo9Oq4JsWSlLssSuX"
+    },
+    {
+      "album": {
         "name": "Nouvelle \u00c9tude in A-flat major (No. 2)",
         "url": "https://open.spotify.com/album/3LMc4DBnzZdUGiE3YcVIJf"
       },
@@ -12936,6 +13092,24 @@
       "duration_ms": 257962,
       "name": "Olha Maria",
       "url": "https://open.spotify.com/track/06J8E2lWKBGSjblUZm1sqy"
+    },
+    {
+      "album": {
+        "name": "On the Nile",
+        "url": "https://open.spotify.com/album/230Zs4bVJgUsAkpUwVWNJW"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417318,
+      "name": "On the Nile",
+      "url": "https://open.spotify.com/track/4HFQ2yNe3e16O6UccibV4F"
     },
     {
       "album": {
@@ -13462,7 +13636,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 278400,
       "name": "Party Song",
       "url": "https://open.spotify.com/track/3jD10FtaLHk7Rqk981HKMe"
@@ -13506,6 +13680,24 @@
       "duration_ms": 368232,
       "name": "Pash Rash",
       "url": "https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78"
+    },
+    {
+      "album": {
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/6yfB0IKJ42k3NvnUwe05d3"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 578066,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/0xU7UASRnsyuQ2TuyfzkMr"
     },
     {
       "album": {
@@ -14072,7 +14264,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 354507,
       "name": "Progressions",
       "url": "https://open.spotify.com/track/08hak5Zyhj0SCGB4Zoajd3"
@@ -15114,7 +15306,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 279200,
       "name": "Running Game",
       "url": "https://open.spotify.com/track/5cIsn2aKRqKneGmQVJ66LC"
@@ -15154,7 +15346,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb"
@@ -15364,7 +15556,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 178133,
       "name": "Savvy",
       "url": "https://open.spotify.com/track/5Exls4MRQfjfxqi87fE8xf"
@@ -16892,6 +17084,40 @@
       "duration_ms": 167377,
       "name": "Step on That Toe",
       "url": "https://open.spotify.com/track/1FlRcSOMYi0fxJyBtU892c"
+    },
+    {
+      "album": {
+        "name": "Stepping through fire",
+        "url": "https://open.spotify.com/album/50Hn6Xm5O7sWT9ge9vBpxO"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "Terreon Gully",
+          "url": "https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P"
+        },
+        {
+          "name": "Dario Chiazzolino",
+          "url": "https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284687,
+      "name": "Stepping through fire",
+      "url": "https://open.spotify.com/track/2pg16T3jNzivIm3q88xyrf"
     },
     {
       "album": {
@@ -19813,6 +20039,24 @@
     },
     {
       "album": {
+        "name": "Tumba la Timba",
+        "url": "https://open.spotify.com/album/1LdtoWgNhiJ5ETYj50Fl8x"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307934,
+      "name": "Tumba la Timba",
+      "url": "https://open.spotify.com/track/2DMTeFjP0brzo1Rl6dxKaL"
+    },
+    {
+      "album": {
         "name": "John Coltrane's Africa Brass Revisited",
         "url": "https://open.spotify.com/album/4AAf4KETJdHfFwHkP2oMAf"
       },
@@ -20462,7 +20706,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180540,
       "name": "Vuma (feat. Thandiswa, Joel Ross)",
       "url": "https://open.spotify.com/track/1c3FhOIEZnKc0cmuZOqh6S"
@@ -21055,6 +21299,24 @@
     },
     {
       "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/59m0w2mQ4lAtEZ8MLsLVj2"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198480,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/12OoLgIQAG7xmEi7ZyFeNX"
+    },
+    {
+      "album": {
         "name": "why my love?",
         "url": "https://open.spotify.com/album/5L9Xd70CE9nb8suM5BGdQQ"
       },
@@ -21298,7 +21560,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165388,
       "name": "Woods",
       "url": "https://open.spotify.com/track/4OnxjtD9ziOGyuOpdUnimQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,029 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,106 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 40 | [Столица закатов](https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4) | [Столица закатов](https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS) | 4:43 |
 | 41 | [Ascendance](https://open.spotify.com/track/3oGT77L9qz72A5AjRlfqSh) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Ascendance / Give It Up](https://open.spotify.com/album/11nOsnCqKzMWEZ0fUeEyCd) | 3:50 |
 | 42 | [Sint Maarten](https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Delaram Kamareh](https://open.spotify.com/artist/6gfSQcJIullatXKeWpZ7jB) | [Sint Maarten](https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O) | 4:31 |
-| 43 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
-| 44 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 |
-| 45 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
-| 46 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 |
+| 43 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 |
+| 44 | [Vivi](https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1) | [Elevven](https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu) | [Vivi](https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy) | 3:56 |
+| 45 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 |
+| 46 | [Hide \- Original Mix](https://open.spotify.com/track/2xsQqjipGiLW7yD3Pbepdn) | [KARAAL](https://open.spotify.com/artist/3Y7PbeV4kHellR2AzG636b) | [Hide](https://open.spotify.com/album/35Qr8Kfqkut5j7WWJTAXdd) | 3:26 |
 | 47 | [Automatic](https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Solomon Grey](https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO) | [Automatic](https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf) | 4:09 |
 | 48 | [Whispers](https://open.spotify.com/track/0Rz8DdxSqMuYDzTrzXSQNG) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Whispers](https://open.spotify.com/album/2TG8n4sZ0loBauataq3rwg) | 3:10 |
 | 49 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Torii](https://open.spotify.com/track/0PxVllnUIzt36tvbu5thj5) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Torii](https://open.spotify.com/album/2oJIKUuxPO2MeiBQQhd3x4) | 2:50 |
 | 60 | [Proud](https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Proud](https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH) | 3:56 |
 
-Snapshot ID: `MCxmODY3YjE1ZTE0MGQzYjFiNmQ4YTJjYTRmNTkyNDkwMDdhMGZhYTg2`
+Snapshot ID: `MCxmMGNjMjFiN2VjMTgwYjM1ZjkxNjk5NmU3MzcyZmE3MDlkOGM4MWZi`

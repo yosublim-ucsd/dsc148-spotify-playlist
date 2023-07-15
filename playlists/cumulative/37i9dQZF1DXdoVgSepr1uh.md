@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Six Sex & El Osito Wito.
 
-189 songs - 9 hr 9 min
+190 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Se Me Antoja](https://open.spotify.com/track/7mk6p3Q8U01Awdg50aCQjM) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Valen Vargas](https://open.spotify.com/artist/67oZkRi3cta1wNxN3KoFt5) | [Se Me Antoja](https://open.spotify.com/album/3hDzVQ9u8UDimQtdKqEoiD) | 1:52 | 2023-02-03 |  |
 | [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-05-24 |  |
 | [Sin Culpa \(feat.DrefQuila\)](https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Sin Culpa \(feat\. DrefQuila\)](https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4) | 4:04 | 2022-05-24 |  |
+| [Sola](https://open.spotify.com/track/5JVvWAlR9N1WDHRJ4anDcZ) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Sola](https://open.spotify.com/album/3Lqv0aJOLqRVyRwgEEG43N) | 2:27 | 2023-07-14 |  |
 | [Sola](https://open.spotify.com/track/11dFlKwg74zqz13R83sZ93) | [Valen Madanes](https://open.spotify.com/artist/28iqyazUqHCEPYjixOkCIW) | [Sola](https://open.spotify.com/album/0ZwE05N0Ur1rI6jY5u78ZN) | 2:50 | 2022-05-24 |  |
 | [Sonríe](https://open.spotify.com/track/5Qh9RDNanpV6Lgkq7uO1Gn) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Sonríe](https://open.spotify.com/album/3jkDRbQGbD5XJm5ldd1D6F) | 3:11 | 2023-01-20 |  |
 | [Soy Asi](https://open.spotify.com/track/1eXaS6SdeESUrkBEqKonLE) | [BRAINI](https://open.spotify.com/artist/2T1tbUluIp3UduVl8oAyTd), [M96](https://open.spotify.com/artist/34FMM4y7zoLT83hS2JVXrq), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [Soy Asi](https://open.spotify.com/album/4roemALCcfRDyfHbjwNjun) | 3:53 | 2022-05-24 | 2022-05-28 |

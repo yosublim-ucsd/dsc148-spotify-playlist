@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=aTq65UEUTQOcsNZbdk8qaw">Baaba J </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,767 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,784 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 26 | [AVAILABU](https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [GANGSTER ROMANTIC](https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G) | 2:55 |
 | 27 | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 |
 | 28 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 |
-| 29 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:17 |
+| 29 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 |
 | 30 | [Tight](https://open.spotify.com/track/5SuIoPKlTWkfj2npFdlVRZ) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Tight](https://open.spotify.com/album/0h9SYhqQWX3Bqn5c1F6kiQ) | 3:20 |
 | 31 | [Don't Lie](https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 2:36 |
 | 32 | [Tight Condition](https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Continental Playlist](https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ) | 2:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 59 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 |
 | 60 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 
-Snapshot ID: `MCwzMTI3MzUzNDVhY2IyZjQ2NWU2ZjcyY2QzZjg3YjJmYTYzMjIwNTg0`
+Snapshot ID: `MCxmNmJjZWMwOTM0YzMxM2JkZDE2YmU4YjhiMTI1ZjBjZmI1ZWY3ZjAz`

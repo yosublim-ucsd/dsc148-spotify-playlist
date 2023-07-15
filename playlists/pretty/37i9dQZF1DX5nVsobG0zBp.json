@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 48090,
+  "num_followers": 48146,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQwZjU4NDc4YTllYzhlNzIyYzNhZjhlNmU5NjgxYTc2OTY2NWU2",
+  "snapshot_id": "MCw1ZjdhODQwZTE4ODJiZmU3Mzk0YWY5MDE5YzJjNjQyYWY1NGJkODA5",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "Carta",
-        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "DREYA",
-          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
-        }
-      ],
-      "duration_ms": 153703,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
         "name": "#FFFFFF",
         "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 191679,
       "name": "Tou Bem (feat. Lhast)",
       "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "DREYA",
+          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
+        }
+      ],
+      "duration_ms": 153703,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD"
     },
     {
       "added_at": "2023-06-29 23:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
-        "name": "SYSTEM",
-        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "benji price",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
-        }
-      ],
-      "duration_ms": 246368,
-      "name": "TRIBUNAL",
-      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
         "name": "Ngana Zambi",
         "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
+        "name": "SYSTEM",
+        "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "benji price",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "duration_ms": 246368,
+      "name": "TRIBUNAL",
+      "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
     },
     {
       "added_at": "2023-06-29 23:00:00",

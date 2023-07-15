@@ -4,7 +4,7 @@
 
 > What are your <a href="https://spotify.com/top5">Top 5: BTS Songs</a>? Share your favorite member and tracks with the universe\. \(spotify.com/top5\)
 
-473 songs - 1 day 4 hr 15 min
+474 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Serendipity \(Full Length Edition\)](https://open.spotify.com/track/5cQB9fbuQCz4muQUFkv3rR) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 4:36 | 2022-06-10 | 2022-06-18 |
 | [Serendipity \- Full Length Edition](https://open.spotify.com/track/1dS4l6xmdgEhCZTAhdOm4N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:36 | 2022-05-27 |  |
 | [Set Me Free Pt.2](https://open.spotify.com/track/1fpj1CJPxY3YvN3AMAEYvt) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:20 | 2023-03-29 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-14 |  |
 | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [bj wnjn](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d), [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [SEXY NUKIM \(feat\. RM of BTS\)](https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT) | 3:49 | 2022-09-26 |  |
 | [Silver Spoon](https://open.spotify.com/track/6O734u9qnz6B4gWMyszWhi) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/2ds8iT4wkaN1Q1gZe1qcOD) | 3:53 | 2022-05-27 | 2023-02-03 |
 | [Silver Spoon](https://open.spotify.com/track/2VgPA0WnwvE2nbltxa3BHz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:53 | 2022-06-10 | 2022-06-18 |

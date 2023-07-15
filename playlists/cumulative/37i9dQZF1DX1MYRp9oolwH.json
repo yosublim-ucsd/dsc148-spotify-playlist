@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 227180,
       "name": "Humsafar",
       "url": "https://open.spotify.com/track/4qW5RErWBLhzNF7cUYDpvu"
@@ -1992,6 +1992,28 @@
       "duration_ms": 234494,
       "name": "Nee Kalle Diwali (From \"Gaalodu\")",
       "url": "https://open.spotify.com/track/68Jpz4J8aF0P7Eqqy2M9cy"
+    },
+    {
+      "album": {
+        "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
+        "url": "https://open.spotify.com/album/0lkqRIZH4mHJFRq1Hwrmkr"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        },
+        {
+          "name": "Siddharth Menon",
+          "url": "https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257075,
+      "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
+      "url": "https://open.spotify.com/track/3jUp9JvUCZKmaUNwChcxWC"
     },
     {
       "album": {

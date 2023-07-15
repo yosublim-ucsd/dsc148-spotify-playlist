@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 184247,
+  "num_followers": 184359,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzExY2Y5ODBlNzBhZDRkM2U3ODBmNTU3ZWQ1YWIxM2UzMjVhZjMw",
+  "snapshot_id": "MCxkZGE2YzhlNzM2MjRhZTJiMDAxYWVlYmI0NDYwOWEwOGE4YmQzOWI3",
   "tracks": [
     {
       "added_at": "2023-04-06 06:50:11",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+    },
+    {
+      "added_at": "2023-04-06 06:50:11",
+      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 212284,
       "name": "Lei (feat. Ben\u00e9)",
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
-    },
-    {
-      "added_at": "2023-04-06 06:50:11",
-      "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2023-04-06 06:50:11",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
     },
     {
       "added_at": "2023-04-06 06:50:11",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2023-04-06 06:50:11",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
+        "name": "Mon Fre (feat. Emis Killa)",
+        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 224150,
+      "name": "Mon Fre - feat. Emis Killa",
+      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
+    },
+    {
+      "added_at": "2023-04-06 06:50:11",
+      "album": {
         "name": "Bimbi",
         "url": "https://open.spotify.com/album/1UrR17tCBddq6cbSKQQWA2"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 240245,
       "name": "Bimbi",
       "url": "https://open.spotify.com/track/4JJtZMgxQgTlBBg7E9Qeac"
-    },
-    {
-      "added_at": "2023-04-06 06:50:11",
-      "album": {
-        "name": "Mon Fre (feat. Emis Killa)",
-        "url": "https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 224150,
-      "name": "Mon Fre - feat. Emis Killa",
-      "url": "https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7"
     },
     {
       "added_at": "2023-04-06 06:50:11",
@@ -1311,30 +1311,6 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
-        "name": "Peace & Love",
-        "url": "https://open.spotify.com/album/4ihfUwVpF3lTKlC8kJh6nQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Charles",
-          "url": "https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 182745,
-      "name": "Peace & Love",
-      "url": "https://open.spotify.com/track/4BGmYEDOK1swwoxTtfmVZD"
-    },
-    {
-      "added_at": "2023-04-06 06:50:11",
-      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1359,6 +1335,26 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
+        "name": "Angelina Jolie",
+        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 169671,
+      "name": "Angelina Jolie",
+      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
+    },
+    {
+      "added_at": "2023-04-06 06:50:11",
+      "album": {
         "name": "Kepler",
         "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
       },
@@ -1379,22 +1375,26 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
-        "name": "Angelina Jolie",
-        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+        "name": "Peace & Love",
+        "url": "https://open.spotify.com/album/4ihfUwVpF3lTKlC8kJh6nQ"
       },
       "artists": [
         {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+          "name": "Charlie Charles",
+          "url": "https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim"
         },
         {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
         }
       ],
-      "duration_ms": 169671,
-      "name": "Angelina Jolie",
-      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
+      "duration_ms": 182745,
+      "name": "Peace & Love",
+      "url": "https://open.spotify.com/track/4BGmYEDOK1swwoxTtfmVZD"
     },
     {
       "added_at": "2023-04-06 06:50:11",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2023-04-06 06:50:11",
       "album": {
-        "name": "Pookie (feat. Capo Plaza) [Remix]",
-        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Pookie (feat. Capo Plaza) - Remix",
-      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
-    },
-    {
-      "added_at": "2023-04-06 06:50:11",
-      "album": {
         "name": "LA CANZONE NOSTRA \u27c1 (con BLANCO & Salmo)",
         "url": "https://open.spotify.com/album/2w5HWooasQeHJC4lYspeG3"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 237613,
       "name": "LA CANZONE NOSTRA \u27c1 (con BLANCO & Salmo)",
       "url": "https://open.spotify.com/track/0aQi1JGO1oKWEmKGfvf8TF"
+    },
+    {
+      "added_at": "2023-04-06 06:50:11",
+      "album": {
+        "name": "Pookie (feat. Capo Plaza) [Remix]",
+        "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Pookie (feat. Capo Plaza) - Remix",
+      "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
     },
     {
       "added_at": "2023-04-06 06:50:11",

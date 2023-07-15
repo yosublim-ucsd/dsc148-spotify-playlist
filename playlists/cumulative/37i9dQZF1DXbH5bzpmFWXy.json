@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Cozy Cuz en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Ryan Castro, Peso Pluma & SOG en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Belicamente De Accion",
+        "url": "https://open.spotify.com/album/51Cw0W3OkWD4RAiqfIkG97"
+      },
+      "artists": [
+        {
+          "name": "La Autorizaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1V9705vd14WxDwXeTp2TYJ"
+        },
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175110,
+      "name": "Belicamente De Accion",
+      "url": "https://open.spotify.com/track/59R4ci9k2CZDWRbhjjfTmw"
+    },
+    {
+      "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
       },
@@ -594,7 +616,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 163940,
       "name": "Billete Grande (En Vivo)",
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
@@ -884,7 +906,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 155818,
       "name": "Cartier en Mano",
       "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
@@ -1109,6 +1131,28 @@
     },
     {
       "album": {
+        "name": "Cuerno Mio",
+        "url": "https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Cuerno Mio",
+      "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
+    },
+    {
+      "album": {
         "name": "Cuidando El Territorio",
         "url": "https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb"
       },
@@ -1198,6 +1242,32 @@
       "duration_ms": 207218,
       "name": "C\u00f3mo Diamante",
       "url": "https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb"
+    },
+    {
+      "album": {
+        "name": "Reggaeto\u00f1erito",
+        "url": "https://open.spotify.com/album/50V7j3NTDPwAkdTRFbjfJ9"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "DJ Antena",
+          "url": "https://open.spotify.com/artist/3Oa251FIY0LgcfGaaQXw1j"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Dale Bogueto",
+      "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
     },
     {
       "album": {
@@ -1574,7 +1644,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
@@ -1968,6 +2038,24 @@
       "duration_ms": 186947,
       "name": "El Mero Mero",
       "url": "https://open.spotify.com/track/1kOzNZLM7Hmdfl7mm3IEpd"
+    },
+    {
+      "album": {
+        "name": "El Mero Mero",
+        "url": "https://open.spotify.com/album/5N7dhr06pl91qYkj3q6UVd"
+      },
+      "artists": [
+        {
+          "name": "Hendry El Mero Mero",
+          "url": "https://open.spotify.com/artist/2dnVGtPJ6ZLyyzahVpPkWP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190627,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/1i4CDdL8UfHD3pMWeMMVhQ"
     },
     {
       "album": {
@@ -2404,7 +2492,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 196864,
       "name": "Fuga Pa Cali 2",
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
@@ -2870,6 +2958,24 @@
       "duration_ms": 181928,
       "name": "L-Gante: RKT SESSIONS #1",
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "album": {
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
     },
     {
       "album": {
@@ -3402,7 +3508,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
@@ -3636,7 +3742,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 168963,
       "name": "Me Escojo A Mi",
       "url": "https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr"
@@ -4182,7 +4288,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
@@ -4456,6 +4562,28 @@
       "duration_ms": 236143,
       "name": "Party en el Barrio (feat. Duki)",
       "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+    },
+    {
+      "album": {
+        "name": "Pateando El Bote",
+        "url": "https://open.spotify.com/album/3WpZ9itqu22gESDv2KXXVR"
+      },
+      "artists": [
+        {
+          "name": "Jose Gomez",
+          "url": "https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Pateando El Bote",
+      "url": "https://open.spotify.com/track/6t3PjoEUPfZGzw1yHQCwTr"
     },
     {
       "album": {
@@ -4790,7 +4918,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 208541,
       "name": "Que Me Importa",
       "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
@@ -4812,6 +4940,32 @@
       "duration_ms": 196363,
       "name": "Que Soporten (Y La Queso)",
       "url": "https://open.spotify.com/track/3ml2gJVRbyXGz1kjFeAopL"
+    },
+    {
+      "album": {
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "album": {
@@ -5504,6 +5658,24 @@
       "duration_ms": 289913,
       "name": "So High",
       "url": "https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl"
+    },
+    {
+      "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
     },
     {
       "album": {

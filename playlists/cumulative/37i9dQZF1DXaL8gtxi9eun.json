@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197941,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U"
+    },
+    {
+      "album": {
         "name": "Habaytak Bel Thalata",
         "url": "https://open.spotify.com/album/3nUZWXDVZ9kXlK3FUfU5k5"
       },
@@ -1354,6 +1372,24 @@
       "duration_ms": 216648,
       "name": "Habaytak Bel Thalata",
       "url": "https://open.spotify.com/track/4BRl1dAguWtRwCF8BXiztL"
+    },
+    {
+      "album": {
+        "name": "Habeetah",
+        "url": "https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I"
+      },
+      "artists": [
+        {
+          "name": "Zena Emad",
+          "url": "https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260424,
+      "name": "Habeetah",
+      "url": "https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg"
     },
     {
       "album": {
@@ -2147,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Miganinani",
+        "url": "https://open.spotify.com/album/5QlJn2n6yvZGYT9uS3FYP1"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167874,
+      "name": "Miganinani",
+      "url": "https://open.spotify.com/track/0cOmhBrTHMuiwvCNtx20Wd"
+    },
+    {
+      "album": {
         "name": "Min Awel Dekika",
         "url": "https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto"
       },
@@ -2740,6 +2794,24 @@
       "duration_ms": 234000,
       "name": "Wala Bghiti",
       "url": "https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE"
+    },
+    {
+      "album": {
+        "name": "Welaane",
+        "url": "https://open.spotify.com/album/6QA0ySWUCTZCgdovGFfBUP"
+      },
+      "artists": [
+        {
+          "name": "Diana Karazon",
+          "url": "https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232191,
+      "name": "Welaane",
+      "url": "https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-224 songs - 11 hr 22 min
+225 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Bring You Home](https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Bring You Home](https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1) | 2:41 | 2022-07-15 |  |
 | [By Midnight](https://open.spotify.com/track/5D8YiJqd8vNkBGO1ZSatnG) | [Jon Stefans](https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa) | [By Midnight](https://open.spotify.com/album/0WcxDmPWwofsGWR9o08WZx) | 2:20 | 2022-08-15 |  |
 | [Canes Venatici](https://open.spotify.com/track/2P64F9RPwQos7ELkKotqW5) | [Donald Beaudoin](https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI) | [Canes Venatici](https://open.spotify.com/album/4FcA1I4Xjgy2fpry8zNlK3) | 3:43 | 2022-07-15 |  |
-| [Cape Cod](https://open.spotify.com/track/2DnjmwnSLvMS78MW0y8czV) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Glowing Aura](https://open.spotify.com/album/0hxddVL6RtkujMPjGvegn0) | 3:11 | 2022-07-15 |  |
+| [Cape Cod](https://open.spotify.com/track/2DnjmwnSLvMS78MW0y8czV) | [Moonlight River](https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu) | [Glowing Aura](https://open.spotify.com/album/0hxddVL6RtkujMPjGvegn0) | 3:11 | 2022-07-15 | 2023-07-15 |
 | [Celestial](https://open.spotify.com/track/0vypRNnJJFjiQ7FSa6EpHy) | [Aitne](https://open.spotify.com/artist/6kBzfRc5LNJoQyoZ6S6FTO) | [Reverie](https://open.spotify.com/album/3bRrfUwvy5ePGJKyO6xeGD) | 2:55 | 2023-05-19 |  |
 | [celestial sojourn](https://open.spotify.com/track/3tI1sd213SOODpv7bYRutx) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [phases of the moon](https://open.spotify.com/album/5zImrTFUWontzflxnybrH8) | 3:20 | 2022-07-15 |  |
 | [Celestial Visions](https://open.spotify.com/track/3A9nqhgcN0F7S1AHfeBLxp) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Celestial Visions](https://open.spotify.com/album/5CW2QFsfzbf5YVkAjbrM3u) | 2:27 | 2022-07-15 |  |
@@ -204,6 +204,7 @@
 | [Spiritus](https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Spiritus](https://open.spotify.com/album/0125MofrFOkqFXpLE7cTkm) | 2:27 | 2022-09-13 |  |
 | [Stillsamhet](https://open.spotify.com/track/5j8DTevAnvUUon9rwhndi1) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Morgongåva](https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP) | 2:27 | 2023-02-25 |  |
 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 | 2022-07-15 |  |
+| [Sunset Sky](https://open.spotify.com/track/7vwmP5FaH3TNKrJ5MBXSF8) | [Sanyo Green](https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy) | [Sunset Sky](https://open.spotify.com/album/59WTZuYhCDdgKZs5a2EawB) | 3:09 | 2023-07-14 |  |
 | [Svävar Fritt](https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Svävar Fritt](https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu) | 3:04 | 2022-09-30 |  |
 | [Svítání](https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Svítání](https://open.spotify.com/album/5cT9er9WCaNLhMllt5D1SJ) | 3:13 | 2022-07-15 |  |
 | [Tenksom](https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Tenksom](https://open.spotify.com/album/2atVrzUA7nq57PcF7dkiEe) | 2:39 | 2022-08-05 |  |

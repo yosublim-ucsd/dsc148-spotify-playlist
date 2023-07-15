@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-05",
-  "description": "Lovely, acoustic pop. Cover: Dean Lewis & Julia Michaels",
+  "description": "Lovely, acoustic pop. Cover: Pink Sweat$",
   "name": "Acoustic Pop",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169276,
       "name": "17 - Acoustic",
       "url": "https://open.spotify.com/track/4ensio3acJ17PegjBcmXVg"
@@ -1188,6 +1188,24 @@
       "duration_ms": 236689,
       "name": "Graveyard - Acoustic",
       "url": "https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9"
+    },
+    {
+      "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Guitar",
+      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
     },
     {
       "album": {

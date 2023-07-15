@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Breathe in deep with arms wide open in worship\. This is going to be epic!
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,987 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,066 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 30 | [Touch The Sky](https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Empires](https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD) | 4:22 |
 | 31 | [In The River \- Live](https://open.spotify.com/track/2qHScCZ9f4FPBNVBpFMZ0G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 4:37 |
 | 32 | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Goodness of God \(feat\. Vertical Worship\)](https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t) | 4:47 |
-| 33 | [Into The Deep \- Live](https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Into The Deep \(Live\)](https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB) | 6:28 |
-| 34 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
+| 33 | [Fall Afresh](https://open.spotify.com/track/42TAP4olyZONFmNT48O10D) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr) | 4:24 |
+| 34 | [Into The Deep \- Live](https://open.spotify.com/track/5wkUfhKdCzHRGK7XwpMksC) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Into The Deep \(Live\)](https://open.spotify.com/album/0VvN0tftREbwUMOBpyOOHB) | 6:28 |
 | 35 | [Good and Gracious King](https://open.spotify.com/track/1gqhpCPMpTQu8G9mkpS1ib) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Only a Holy God](https://open.spotify.com/album/3UUANfmbHhkVf54hhbHMry) | 5:57 |
 | 36 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
 | 37 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 99 | [Mover Of Mountains \- Live](https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Mover Of Mountains \(Live\)](https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS) | 5:44 |
 | 100 | [Always Loved Me](https://open.spotify.com/track/2fepfnn0tCwSSAVReXQpPh) | [Iron Bell Music](https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK) | [Glory to Glory](https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB) | 5:16 |
 
-Snapshot ID: `MCw0YzFhY2RhNzMyMTM4MDllNjQ2NWE2NzE3YTQ2ZGM2M2U2NGVkZWZi`
+Snapshot ID: `MCwwNzdjZDhmNGMxNTVkNjMxYWVlYzhjYWZlZmI4NWRmYzZkNzg3Nzdi`

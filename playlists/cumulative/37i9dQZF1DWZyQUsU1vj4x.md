@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-175 songs - 10 hr 49 min
+176 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [I Feel Your Love](https://open.spotify.com/track/7uG8yNUrm9hnz6lP5jBriW) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie](https://open.spotify.com/album/08cXCARUoHLoccf0y06Dlv) | 4:02 | 2022-01-27 |  |
 | [It Will Come Back](https://open.spotify.com/track/35upu7uVMA4XNiQMMl6ZGh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Deluxe\)](https://open.spotify.com/album/7HW03Zew4rnOhy5uwskRSz) | 4:37 | 2019-10-31 | 2022-01-28 |
 | [Jameson](https://open.spotify.com/track/5kRGdMdl0n0nDtsXmRg5i3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:08 | 2019-10-31 |  |
+| [Jem's Theme](https://open.spotify.com/track/79KqZKVzGQghHiwdUXXWCH) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh) | [Music for The Starling Girl \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/1mDpO84TgiUxVHI81x8h36) | 4:00 | 2023-07-14 |  |
 | [Kill Me Now](https://open.spotify.com/track/3Vsf6UhaGqYhgcExMhzinG) | [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Lake Bottom Lp](https://open.spotify.com/album/5wqWiTzzqH6DDkQsUXW1m0) | 3:04 | 2019-10-31 |  |
 | [King of California](https://open.spotify.com/track/07VsDDvIaWzbJkpWKk38h4) | [Renn](https://open.spotify.com/artist/4TOkHwfvErnRSxmlJ7XfOJ) | [Heartache and a Song](https://open.spotify.com/album/0igk4dP4LSssQP6to1GKDF) | 4:40 | 2022-01-27 |  |
 | [King of California](https://open.spotify.com/track/5rfPSIMVQ2Ezro4IzjSt6K) | [Renn](https://open.spotify.com/artist/4TOkHwfvErnRSxmlJ7XfOJ) | [King of California](https://open.spotify.com/album/757L0NxYfCmjaHpxX6F6tC) | 4:40 | 2019-10-31 | 2022-07-29 |

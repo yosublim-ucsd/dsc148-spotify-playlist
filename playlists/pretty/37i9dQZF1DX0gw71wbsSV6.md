@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,778 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,785 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 47 | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/track/2YZRBM2w68HXHgbKaRTlyw) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [You & I \(with Zack Tabudlo\)](https://open.spotify.com/album/0FPnGwztFm9X3r7C8kyX6l) | 2:32 |
 | 48 | [Tell Her](https://open.spotify.com/track/5skNWeBOrOJ99OBeVjdoIB) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Tell Her](https://open.spotify.com/album/0nrrVN6cFEhjTWL0VgUDAY) | 2:43 |
 | 49 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 |
-| 50 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 |
+| 50 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 |
 
-Snapshot ID: `MCw5MjFhYzI1OTk0OTFkOWIzNDRjM2Q1Yjk3MDMyYzE2ZThiODZlMjYw`
+Snapshot ID: `MCxkMjc3MGU0ZDIyMDAzY2MyZmNlYTk5NDczMzBhZmUzYWI2YWZkMjIy`

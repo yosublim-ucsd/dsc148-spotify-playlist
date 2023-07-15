@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Cold Stares
 
-235 songs - 14 hr 47 min
+236 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 |  |
 | [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 |  |
+| [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 | 2023-07-14 |  |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 |  |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2023-05-27 |
@@ -85,7 +86,7 @@
 | [Head Above Water](https://open.spotify.com/track/32bIll1Vlij9BjKa2e8clR) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 4:09 | 2023-01-20 |  |
 | [Heart Stop](https://open.spotify.com/track/2DUeViPNuX9AMnFFzciPTr) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [Order out of Chaos](https://open.spotify.com/album/6V7WpxnlzQ2NsjIFn5E42i) | 2:37 | 2022-05-13 | 2023-04-15 |
 | [Heaven Help Me](https://open.spotify.com/track/3YwxGSSl5AhI1FbAAPJXLi) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 4:01 | 2022-05-06 |  |
-| [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 |  |
+| [Higher Power](https://open.spotify.com/track/0u70IdyL5XsnryWI99Haqr) | [Cody Jasper](https://open.spotify.com/artist/5TUeTFpidqbyGqXeOj5I1H) | [Higher Power](https://open.spotify.com/album/1IUvobngXGOyJ4BdtlYILD) | 4:14 | 2022-02-25 | 2023-07-15 |
 | [Hippies On Acid](https://open.spotify.com/track/4IdcUbuVe9VN6lnFJqCeIk) | [7Horse](https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr) | [The Last Resort](https://open.spotify.com/album/0ihKlGpDF5aXScqrJu7zUZ) | 3:45 | 2022-07-15 |  |
 | [Hold on It](https://open.spotify.com/track/7GXqZ0v1AovRQDV0NBIs4a) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Hold on It](https://open.spotify.com/album/4rdexywHhYUx0aouC1if9r) | 4:11 | 2020-10-16 |  |
 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 | 2020-10-16 | 2023-03-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,406 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,419 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 4 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |
 | 5 | [Foto En Panty](https://open.spotify.com/track/4HehbhlVK81hZT5Yg7QmiR) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ya Casi Vienen](https://open.spotify.com/album/1yENOcHrdeylQ4Mjy1DQJX) | 2:54 |
 | 6 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
-| 7 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 8 | [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 |
+| 7 | [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 |
+| 8 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
 | 9 | [La Modelo](https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 4:15 |
 | 10 | [Pretty Wings \- uncut](https://open.spotify.com/track/22NLm3IIR9NLG0cUYtmHMW) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [BLACKsummers'night \(2009\)](https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo) | 5:10 |
 | 11 | [Soy Yo](https://open.spotify.com/track/3YYfptnDgtaenspMGtF8pP) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:38 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 40 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
 | 41 | [Juana Kalamidad](https://open.spotify.com/track/4LAj0B7XK4lAmmI70kJsSC) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [13 razones](https://open.spotify.com/album/4246XUQKkGAoJfz8zC9g8y) | 4:52 |
 | 42 | [Insecure](https://open.spotify.com/track/5vad0eq5x3f3rtRlo8GnL4) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Insecure](https://open.spotify.com/album/2S32rMqgkDur5hStJolwg6) | 3:11 |
-| 43 | [Malévola](https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 3:47 |
-| 44 | [Triple H](https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [They Love Us](https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb) | 2:54 |
+| 43 | [Triple H](https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP) | [They Love Us](https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb) | 2:54 |
+| 44 | [Malévola](https://open.spotify.com/track/62iarucaEfqHJcGuNUKZSq) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Booty Puty](https://open.spotify.com/album/2IYoTNJxc0IhRWhwepl7Lt) | 3:47 |
 | 45 | [A Tu Lado](https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [A Tu Lado](https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J) | 3:05 |
 | 46 | [Acuérdate De Mí](https://open.spotify.com/track/0KV5E5nAh0zU9M5eSORUgG) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors 3](https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6) | 3:00 |
 | 47 | [Prende La Vela](https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambores y Cantos](https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh) | 4:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 79 | [Don't Unplug My Body](https://open.spotify.com/track/3knc4B7GpbHGoImIIBTNQ7) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Nueva Era](https://open.spotify.com/album/2muy75AIHPDUZcgmO8qqu0) | 4:58 |
 | 80 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 
-Snapshot ID: `MCwzMDliYTM4MDY2OTUwY2FjOTM4Y2IwZDhlYjdlNTRjNmY3NDgyMDY1`
+Snapshot ID: `MCxmYzc5MzJmY2U1YjE5MDE1OGRjMDYzNWY0OTA2ZWRjNTJkMDI3ZDJk`

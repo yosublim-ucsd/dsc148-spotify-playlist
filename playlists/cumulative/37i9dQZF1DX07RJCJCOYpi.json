@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 162656,
       "name": "Apaguen - Kidd Spin Mix",
       "url": "https://open.spotify.com/track/4wizT98jfg86xf68EG4E0Y"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180495,
       "name": "El Malevo",
       "url": "https://open.spotify.com/track/4M6FeHLeqfJmkicHQsTRV8"
@@ -2514,6 +2514,46 @@
       "duration_ms": 169624,
       "name": "Lo Que Siento",
       "url": "https://open.spotify.com/track/5rPvnCH5uQKoaiB2biRFUK"
+    },
+    {
+      "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "album": {
+        "name": "Loco Mio",
+        "url": "https://open.spotify.com/album/6Cvm8XJPef2VaEalHUPE0a"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184122,
+      "name": "Loco Mio",
+      "url": "https://open.spotify.com/track/3SU4qmYFMI353KqmfDduQo"
     },
     {
       "album": {
@@ -4235,6 +4275,28 @@
     },
     {
       "album": {
+        "name": "Segunda",
+        "url": "https://open.spotify.com/album/4AGrIMZD92OHMNe5orb3Ik"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
+        },
+        {
+          "name": "Jonjon",
+          "url": "https://open.spotify.com/artist/5l8xCiqHtpk3XDXJ2ZfgK7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Segunda",
+      "url": "https://open.spotify.com/track/54MmZwaLe5MTp3YYPpQBRh"
+    },
+    {
+      "album": {
         "name": "Sentir Saudade (feat. Bia Caboz)",
         "url": "https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv"
       },
@@ -4826,7 +4888,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165750,
       "name": "TU MIRADA",
       "url": "https://open.spotify.com/track/5eo0RRedwSBqOqZjZxZNZy"

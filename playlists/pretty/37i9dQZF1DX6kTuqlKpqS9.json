@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 64985,
+  "num_followers": 65023,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTljODk1YmY1ZDJhYWMwNThjOGViZWFhM2RiM2ViMDVhMTA5NGM2",
+  "snapshot_id": "MCwxYjcxN2Q5NTkyY2IzN2NiMTdhODQ0NzFhOWE3NWYyMWI4YTczODJj",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -527,22 +527,6 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "El \u00daltimo Jaripeo (En Vivo)",
-        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Un Idiota - En Vivo",
-      "url": "https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK"
-    },
-    {
-      "added_at": "2021-12-29 23:15:19",
-      "album": {
         "name": "Enamorada En Vivo",
         "url": "https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 189853,
       "name": "Llorar - En Vivo",
       "url": "https://open.spotify.com/track/41cqLjW5gEtYy28Y13KABP"
+    },
+    {
+      "added_at": "2021-12-29 23:15:19",
+      "album": {
+        "name": "El \u00daltimo Jaripeo (En Vivo)",
+        "url": "https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Un Idiota - En Vivo",
+      "url": "https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 192120,
-      "name": "Para Siempre - En Vivo",
-      "url": "https://open.spotify.com/track/271KWDMsmn3f0JoFB1ol6w"
+      "duration_ms": 180066,
+      "name": "La Diferencia - En Vivo",
+      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 180066,
-      "name": "La Diferencia - En Vivo",
-      "url": "https://open.spotify.com/track/5XnTV4ENs0oBwOLULxAavK"
+      "duration_ms": 192120,
+      "name": "Para Siempre - En Vivo",
+      "url": "https://open.spotify.com/track/271KWDMsmn3f0JoFB1ol6w"
     },
     {
       "added_at": "2021-12-29 23:15:19",

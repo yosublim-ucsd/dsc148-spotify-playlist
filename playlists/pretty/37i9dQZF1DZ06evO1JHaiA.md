@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,292 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,294 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cowboys to Girls](https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:39 |
 | 2 | [Together](https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:57 |
 | 3 | [I Wanna Know Your Name](https://open.spotify.com/track/3sAJJewqiwGKo9du51dSWk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 5:49 |
-| 4 | [Come Home Soon](https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Sound of Philadelphia Soul](https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb) | 2:11 |
+| 4 | [She's A Winner \- Single Version](https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children \(Expanded Edition\)](https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl) | 2:26 |
 | 5 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 1:57 |
 | 6 | [\(We'll Be\) United](https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:49 |
 | 7 | [I'll Always Love My Mama](https://open.spotify.com/track/5ZBTTuqouJbiC1wtCSJamG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 6:37 |
-| 8 | [She's A Winner \- Single Version](https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children \(Expanded Edition\)](https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl) | 2:26 |
+| 8 | [Come Home Soon](https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Sound of Philadelphia Soul](https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb) | 2:11 |
 | 9 | [\(Love Is Like A\) Baseball Game](https://open.spotify.com/track/4Lg5z4lC7u1GPSeYvHPPi6) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:45 |
 | 10 | [A Love That's Real](https://open.spotify.com/track/79qtqjD96u81j1cgGk0tGM) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:55 |
 | 11 | [Be Thankful for What You Got](https://open.spotify.com/track/2OSzYtChSdgPfWcgsIqBoQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:12 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 43 | [If You Don't Know Me By Now \- Live](https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 3:44 |
 | 44 | [But You Belong to Me](https://open.spotify.com/track/1gBgLPr9FPSNWcphljszz1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:33 |
 | 45 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
-| 46 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
-| 47 | [Only One](https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Tommy Brown](https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436) | [Only One](https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9) | 4:17 |
+| 46 | [Only One](https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Tommy Brown](https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436) | [Only One](https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9) | 4:17 |
+| 47 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
 | 48 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
 | 49 | [This Is My Love Song](https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:45 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDAyYWUzMjNhZGFlMTA3ZjVkMGE4NjJkMGQ1M2RhYmVmMA==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDBiMzQzMDAwZmRlMTBmM2NjMTNlNDgxZDFlNDA3YTZhOA==`

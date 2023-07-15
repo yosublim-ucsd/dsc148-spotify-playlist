@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-135 songs - 7 hr 56 min
+136 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 | 2022-01-14 |  |
 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 | 2022-09-06 |  |
 | [La Noche Sin Ti](https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh) | [Mariel Trimaglio](https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu) | [La Noche Sin Ti](https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU) | 4:44 | 2022-01-14 |  |
+| [La Olvidada](https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Olvidada](https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ) | 2:34 | 2023-07-14 |  |
 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 | 2022-01-14 |  |
 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 | 2022-01-14 | 2022-09-07 |
@@ -99,7 +100,7 @@
 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 | 2022-09-06 |  |
 | [Mi Cultura La Copla](https://open.spotify.com/track/2OuN858EC6856a16wvEIzP) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/3u5xsefVehP9h9sKzxmHbk) | 2:33 | 2022-09-06 | 2022-12-19 |
 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 | 2022-09-02 |  |
-| [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 |  |
+| [Morenito](https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:34 | 2022-01-14 | 2023-07-15 |
 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 | 2022-01-14 | 2022-09-07 |
 | [Ojitos Lindos](https://open.spotify.com/track/6amvGlc634QuohaW2vNeIv) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Ojitos Lindos](https://open.spotify.com/album/3go3FqLGKpSSqiYkrPTUP0) | 3:10 | 2023-01-20 | 2023-04-05 |
 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 | 2022-09-23 |  |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-02",
+      "date_removed": null,
       "duration_ms": 163731,
       "name": "10,000 Hours",
       "url": "https://open.spotify.com/track/79kniixiy0c4pw3zhsqsEi"
@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "all I'll do is love you more",
+        "url": "https://open.spotify.com/album/0NYUUTEcSnMplI7TgpRblO"
+      },
+      "artists": [
+        {
+          "name": "Rich",
+          "url": "https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151208,
+      "name": "all I'll do is love you more",
+      "url": "https://open.spotify.com/track/14928p8uoAlqgb21MWAQsV"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
@@ -1478,6 +1496,28 @@
       "duration_ms": 245720,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/6x1jUK7H6qZVS265OCnlVw"
+    },
+    {
+      "album": {
+        "name": "Dancing in My Room",
+        "url": "https://open.spotify.com/album/022Ax0SL7UAnIRSvyF220j"
+      },
+      "artists": [
+        {
+          "name": "Carlos Abril",
+          "url": "https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L"
+        },
+        {
+          "name": "KALENA",
+          "url": "https://open.spotify.com/artist/2HMhMpGsN9POmGXvvN1WZB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218157,
+      "name": "Dancing in My Room",
+      "url": "https://open.spotify.com/track/3kRNoUvagaaJF1xCgdNRgH"
     },
     {
       "album": {
@@ -1687,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
+      },
+      "artists": [
+        {
+          "name": "Erin Kaith",
+          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175348,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
+    },
+    {
+      "album": {
         "name": "Down For It",
         "url": "https://open.spotify.com/album/0C83wme433FLhE95M4JbvG"
       },
@@ -1828,7 +1886,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 213506,
       "name": "ELEVATE (ft. Mack Keane)",
       "url": "https://open.spotify.com/track/4XISoF3yQFtnmzf7hI56Me"
@@ -1974,6 +2032,24 @@
       "duration_ms": 210679,
       "name": "Falling",
       "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
+    },
+    {
+      "album": {
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190474,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
     },
     {
       "album": {
@@ -2464,7 +2540,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 137647,
       "name": "Golden pt. 2 (feat. Mereba)",
       "url": "https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz"
@@ -2798,7 +2874,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 200596,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54"
@@ -2918,7 +2994,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 207200,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/4O9OqRpTCXz6fB3BDEAbKz"
@@ -3432,7 +3508,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 197000,
       "name": "In This Darkness",
       "url": "https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy"
@@ -3512,7 +3588,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 241932,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS"
@@ -3534,6 +3610,24 @@
       "duration_ms": 141052,
       "name": "Intense",
       "url": "https://open.spotify.com/track/5UGuFkPQl7p6dmhZuPPaT9"
+    },
+    {
+      "album": {
+        "name": "Intimate",
+        "url": "https://open.spotify.com/album/3B2c2NCZnXAOivUJyIUMTn"
+      },
+      "artists": [
+        {
+          "name": "Grace Weber",
+          "url": "https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272864,
+      "name": "Intimate",
+      "url": "https://open.spotify.com/track/3xuPUpjqfUsrninuhRhs5K"
     },
     {
       "album": {
@@ -3950,7 +4044,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 215625,
       "name": "Leave While I Love You",
       "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
@@ -5214,7 +5308,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 188333,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
@@ -5388,7 +5482,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
@@ -5406,7 +5500,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165274,
       "name": "Ouu Ahh",
       "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
@@ -6256,7 +6350,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 178200,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7CFxO2nX0rV1L94i55PNRO"
@@ -6916,7 +7010,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 209233,
       "name": "Sweet Nothing",
       "url": "https://open.spotify.com/track/2tF7vtDQKT8SW1E0oxQn2U"
@@ -7204,7 +7298,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 182486,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/2qP6SxFe1uNYqyAsfTZbVF"
@@ -7372,7 +7466,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 271580,
       "name": "Too Late (feat. James Fauntleroy & Elena Pinderhughes)",
       "url": "https://open.spotify.com/track/3eNf4OuKOBp1pCkuvVRaxT"
@@ -7568,7 +7662,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 283313,
       "name": "Until The End Of Time - Spotify Singles",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
@@ -7586,7 +7680,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 178793,
       "name": "Until The Morning",
       "url": "https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe"
@@ -7648,7 +7742,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 213800,
       "name": "Verbs (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ"
@@ -7754,6 +7848,24 @@
       "duration_ms": 183282,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/3yhlH8lhTpS03d91kuwjpf"
+    },
+    {
+      "album": {
+        "name": "For the Better",
+        "url": "https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180949,
+      "name": "We Keep On",
+      "url": "https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v"
     },
     {
       "album": {
@@ -7976,7 +8088,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 111306,
       "name": "wunna dem (with QUIN)",
       "url": "https://open.spotify.com/track/1w62bHcCzysJLbKEGuXykx"

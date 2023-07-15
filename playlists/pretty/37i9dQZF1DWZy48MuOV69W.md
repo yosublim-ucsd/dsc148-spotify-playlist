@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,658 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,656 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 31 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 |
 | 32 | [Moonlight In Vermont](https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 5:00 |
 | 33 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/4519fZrw2YqSdPOkzPkYYX) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Season's Greetings](https://open.spotify.com/album/62nWLvkugm41tvnzjMw7a9) | 3:26 |
-| 34 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 |
-| 35 | [I'll Be Home For Christmas](https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:07 |
+| 34 | [I'll Be Home For Christmas](https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL), [Clayton\-Hamilton Jazz Orchestra](https://open.spotify.com/artist/3BDNDjVtAxrIqFDIO5cUgy) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:07 |
+| 35 | [Snowfall](https://open.spotify.com/track/1UWCJQJv0PbtWa2KXyN6yY) | [Don Sebesky](https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44) | [Let's Share Christmas](https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe) | 3:12 |
 | 36 | [Christmas In Herald Square](https://open.spotify.com/track/4XJ9FZtkJxnzGyB6mVXgld) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Classic Christmas Album](https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141) | 3:25 |
 | 37 | [Jolis sapins](https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3) | 4:02 |
 | 38 | [Maybe Next Christmas](https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Merry Christmas](https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE) | 3:56 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 54 | [Silent Night](https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 3:20 |
 | 55 | [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 |
 
-Snapshot ID: `MCxkYzk3ZjgzMDkwMjAwNGNjZDA2MTVhNzIxODgyNjIzZmI0YjFkMDIx`
+Snapshot ID: `MCw1MTE5ZDBhOGJhOWU5ZTU1NjQzZWFmNTFjOThkYTdiMWQ4YWY4MDAy`

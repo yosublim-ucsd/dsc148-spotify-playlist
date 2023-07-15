@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "Me Vale Madre",
+        "url": "https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H"
+    },
+    {
+      "album": {
         "name": "Mi Casa (We Bought a House - Spanish Version)",
         "url": "https://open.spotify.com/album/480wf3uDfOScBJsnco9vku"
       },

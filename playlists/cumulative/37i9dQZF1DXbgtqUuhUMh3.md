@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Balqees
 
-496 songs - 1 day 4 hr 59 min
+497 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Ghazaleh](https://open.spotify.com/track/0Ry7WiDzMxBmwKHKmE2JAJ) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Ghazaleh](https://open.spotify.com/album/2Zc9QTMpG13Zvj8LJiJ0h9) | 2:35 | 2023-05-04 |  |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-11-15 | 2022-11-22 |
 | [Goulou Amine](https://open.spotify.com/track/2DM4pswuIVG3qFuayz6R5a) | [Asmaa Bassite](https://open.spotify.com/artist/3M26ulb3cwk9qglRwt9SEa) | [Goulou Amine](https://open.spotify.com/album/5D2y2JGnRHybPkvll0ShbF) | 4:04 | 2021-12-23 | 2022-03-02 |
+| [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 | 2023-07-14 |  |
 | [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 | 2023-05-01 |
 | [Hadrat El Walhan](https://open.spotify.com/track/0NFYjeH5IavHNEqJkciJR6) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Hadrat El Walhan](https://open.spotify.com/album/4KlOIXdhTKjuExCP6bTn6m) | 4:05 | 2022-11-15 | 2023-04-11 |
 | [Haga Naasany](https://open.spotify.com/track/7tkZdE2LLr0Fj9a01pDoLE) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [Haga Naasany](https://open.spotify.com/album/0Aq7E0AuGJDU9d5CHnkURs) | 4:12 | 2022-11-19 | 2023-04-11 |
@@ -459,7 +460,7 @@
 | [عاد بديت](https://open.spotify.com/track/1i7JBHJ9iegLR2Uu4r9gtJ) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [عاد بديت](https://open.spotify.com/album/5XWFdvgaY88TgiHSrQvEAj) | 2:53 | 2021-12-23 | 2022-03-02 |
 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 | 2022-11-15 | 2023-05-13 |
 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-24 | 2023-07-14 |
-| [عشر دقايق](https://open.spotify.com/track/4AcfEkbQ8NxCvRbsh52Hcu) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:43 | 2023-07-13 |  |
+| [عشر دقايق](https://open.spotify.com/track/4AcfEkbQ8NxCvRbsh52Hcu) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:43 | 2023-07-13 | 2023-07-15 |
 | [عشر دقايق](https://open.spotify.com/track/5F8xazyO2TD7bURXpjo7bM) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [عشر دقايق](https://open.spotify.com/album/0jqybbsdLzEWIqmlsAGwHn) | 3:43 | 2023-05-11 | 2023-05-23 |
 | [علبة بقلب علبة](https://open.spotify.com/track/1o2AaN71DP2xeqFPRVlwqw) | [Sabine Salamé](https://open.spotify.com/artist/4EZoX50L10Sv6zqfwzGQoQ) | [علبة بقلب علبة](https://open.spotify.com/album/0Wi6dh6Pn20EH5GBgfAeQr) | 3:18 | 2022-01-27 | 2022-03-02 |
 | [على كيفي](https://open.spotify.com/track/4a6bLROaBRTXHvbOU4iUlL) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [على كيفي](https://open.spotify.com/album/1KUd4Q4eTnblXlRJu9Ho1t) | 3:08 | 2023-07-13 |  |

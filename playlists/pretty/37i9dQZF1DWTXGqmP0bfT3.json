@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 277465,
+  "num_followers": 277702,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjg3OGQ2ZTYxYTExY2QyYWU1Nzk3NGQ0YjZiZDQ5NDkzYmMwMWY0",
+  "snapshot_id": "MCw4MThlMDU5ODQyOThlOTA5YWM1YWZlZTMyMjU2ZTg4MDYxZGMxMjZh",
   "tracks": [
     {
       "added_at": "2023-06-22 01:44:05",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Take Me Back To Eden",
         "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 339606,
       "name": "Vore",
       "url": "https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 327040,
-      "name": "Sweating Bullets - Remastered 2004",
-      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Repentless",
         "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 199866,
       "name": "Repentless",
       "url": "https://open.spotify.com/track/6W2KBpMMXW17r7dPyqi8Iu"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 327040,
+      "name": "Sweating Bullets - Remastered 2004",
+      "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Wake The Dead",
         "url": "https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk"
     },
     {
       "added_at": "2023-06-22 01:44:05",

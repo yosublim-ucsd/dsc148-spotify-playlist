@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 195024,
       "name": "Agachadita",
       "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 163940,
       "name": "Billete Grande (En Vivo)",
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 157749,
       "name": "Chambeando Recio",
       "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 161194,
       "name": "Eres Mi Crush",
       "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 232216,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1"
@@ -2985,6 +2985,24 @@
     },
     {
       "album": {
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7fwmPvUHYF20jYOchrCcue"
       },
@@ -3054,6 +3072,24 @@
       "duration_ms": 205156,
       "name": "La Bailadora",
       "url": "https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU"
+    },
+    {
+      "album": {
+        "name": "LA BATALLA",
+        "url": "https://open.spotify.com/album/5yT4FHuFhmsN7EZkL9xdcb"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185111,
+      "name": "LA BATALLA",
+      "url": "https://open.spotify.com/track/2f6kTXnPoc2xgl9gTvElJ0"
     },
     {
       "album": {
@@ -3578,7 +3614,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169000,
       "name": "Lo Que Deveras Vale - Norte\u00f1o",
       "url": "https://open.spotify.com/track/3kfjutiW4v5tmfR6O2nnod"
@@ -3795,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Me Estoy Cansando",
+        "url": "https://open.spotify.com/album/2V3PGdorME4VoN7Mf5KviW"
+      },
+      "artists": [
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Me Estoy Cansando",
+      "url": "https://open.spotify.com/track/30GgKoMi4yPjg3zKWCLS3U"
+    },
+    {
+      "album": {
         "name": "Me Haces Tan Bien",
         "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
       },
@@ -3810,7 +3864,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 168576,
       "name": "Me Haces Tan Bien",
       "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
@@ -3889,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "Me Toca Ser Feliz",
+        "url": "https://open.spotify.com/album/6lC6xYOyXiPhLqLgIuaav7"
+      },
+      "artists": [
+        {
+          "name": "Los Carnales de Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5FLo9xEfOrh42VWpFIhphx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Me Toca Ser Feliz",
+      "url": "https://open.spotify.com/track/0XVAfgtXXKLzKfpCtjRQvG"
+    },
+    {
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -3940,7 +4012,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 154546,
       "name": "Mi Bello Angel",
       "url": "https://open.spotify.com/track/5moNkvlkeMq5evkPWynyuH"
@@ -4656,7 +4728,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 143156,
       "name": "Pase y Pase",
       "url": "https://open.spotify.com/track/34bYLz0WrZvFAcjn9f9sW1"
@@ -5040,7 +5112,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 238779,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
@@ -5561,6 +5633,28 @@
     },
     {
       "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
+    },
+    {
+      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -5746,7 +5840,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 173305,
       "name": "Super Poderes",
       "url": "https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX"
@@ -6305,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "Vida Truncada",
+        "url": "https://open.spotify.com/album/3ArAh3KRYaRsvuiJ5hvOWH"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211008,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/5YK6cvcZYq3hZySTBlQmg7"
+    },
+    {
+      "album": {
         "name": "Volv\u00ed a Creer",
         "url": "https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC"
       },
@@ -6410,7 +6522,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160426,
       "name": "Ya Fue Suficiente",
       "url": "https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67"

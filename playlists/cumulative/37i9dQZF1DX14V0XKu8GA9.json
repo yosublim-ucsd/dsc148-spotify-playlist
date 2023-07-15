@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY"
+      },
+      "artists": [
+        {
+          "name": "Chito Rana$",
+          "url": "https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187898,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i"
+    },
+    {
+      "album": {
         "name": "Hood Life Krisis Vol. 3 EP",
         "url": "https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA"
       },
@@ -1962,6 +1980,28 @@
       "duration_ms": 233271,
       "name": "Gangsta Funktion",
       "url": "https://open.spotify.com/track/6zf4CGnqsjZ3ID3SljDTTe"
+    },
+    {
+      "album": {
+        "name": "Gangsta Funktion (Remix)",
+        "url": "https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd"
+      },
+      "artists": [
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        },
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125885,
+      "name": "Gangsta Funktion - Remix",
+      "url": "https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU"
     },
     {
       "album": {
@@ -4012,7 +4052,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 174065,
       "name": "Props",
       "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"
@@ -4542,7 +4582,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 174000,
       "name": "Shadow Banned",
       "url": "https://open.spotify.com/track/2qkObeNbfhoiPjAI5iFCyj"
@@ -5544,7 +5584,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 166000,
       "name": "Up For It",
       "url": "https://open.spotify.com/track/6GJhJtPxpKwpMpsn7u1Uh7"
@@ -5592,6 +5632,24 @@
       "duration_ms": 170396,
       "name": "Vibe With You",
       "url": "https://open.spotify.com/track/2yJpF1KBHwumbdMsdXu5fe"
+    },
+    {
+      "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC"
+      },
+      "artists": [
+        {
+          "name": "Conejo",
+          "url": "https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165214,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88"
     },
     {
       "album": {

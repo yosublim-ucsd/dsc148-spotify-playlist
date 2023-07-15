@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Ryan Bingham",
+  "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Colter Wall",
   "name": "Renegades",
   "tracks": [
     {
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
@@ -3266,6 +3266,24 @@
       "duration_ms": 211015,
       "name": "Little Red",
       "url": "https://open.spotify.com/track/2VaWteuuiYb4spgqgMqvXq"
+    },
+    {
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145106,
+      "name": "Little Songs",
+      "url": "https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k"
     },
     {
       "album": {
@@ -4903,6 +4921,24 @@
     },
     {
       "album": {
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153646,
+      "name": "Somebody Just Like Me",
+      "url": "https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40"
+    },
+    {
+      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ"
       },
@@ -5647,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
+    },
+    {
+      "album": {
         "name": "Unlucky Skin / Roll The Bones",
         "url": "https://open.spotify.com/album/6mWrmigd6yuj5142g0f8Vo"
       },
@@ -5694,7 +5748,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 226572,
       "name": "Upime",
       "url": "https://open.spotify.com/track/4roek8AJnlSRgkvJxLQJjE"
@@ -6040,7 +6094,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 210976,
       "name": "World Burn",
       "url": "https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Icy Subzero, Medy
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,152 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,522 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [SENZ'ANIMA \- nikita](https://open.spotify.com/track/39ZJEJ8KLq8yQQ1OEAdJ1W) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:13 |
 | 50 | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 |
 
-Snapshot ID: `MCw5NmZlYzdiMzhmMGYyOGQ4Y2I0NDM4NzdiN2M5OWI0MmQ0MWY5Yjdh`
+Snapshot ID: `MCxiN2VlMmFjNmI4OWU0YzM3N2FjOTJhMzRjYzgzZGEzYWQ0YTFkYjNk`

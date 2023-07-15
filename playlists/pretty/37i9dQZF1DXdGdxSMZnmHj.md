@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGdxSMZnmHj.md) - [plain]
 
 > Kick back to the sound of the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,796 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,842 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGdxSMZnmHj.md) - [plain]
 | 49 | [Jamaica Farewell \(I Left a Little Girl In Kingston Town\)](https://open.spotify.com/track/506BZIuXlSQluqckmxt336) | [The Island Caribbean Steel Drum Band](https://open.spotify.com/artist/1kMdTqTrYy7FSVIoxhGFy2) | [Steel Drum Beach Party](https://open.spotify.com/album/7qFltwMHGNNAH8D1hVTQkN) | 4:18 |
 | 50 | [Pan Here to Stay](https://open.spotify.com/track/60fNz5nDCrhRltxIEN8QIV) | [London All Stars Steel Orchestra](https://open.spotify.com/artist/6DXof5AfUTAYBYlPgsz8w9) | [London All Stars Steel Orchestra: Pan Forever \- Caribbean Steeldrums](https://open.spotify.com/album/2i5KVW0z2qeMccwKrGukoE) | 6:30 |
 
-Snapshot ID: `MCwzNDM4MzgzYjAwYjg5Yzg5Yjk2ZjJiNTBlODYwYWIzMjAxODRiMWQy`
+Snapshot ID: `MCw2OGM5OTI2MDQwYjViZWIwMDdiYTYzYmJmNWNjMWJhMDA2ODE0NTYz`

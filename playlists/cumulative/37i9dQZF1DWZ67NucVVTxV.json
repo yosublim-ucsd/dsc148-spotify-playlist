@@ -4177,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "album": {
         "name": "Ojemba",
         "url": "https://open.spotify.com/album/1UDK8dfDpF5WmhS3d8POZM"
       },
@@ -5873,7 +5891,7 @@
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 148071,
+      "duration_ms": 148000,
       "name": "Waka Jeje (feat. Bnxn)",
       "url": "https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa"
     },

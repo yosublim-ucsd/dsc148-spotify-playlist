@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Davi Sacer, Simone",
-  "num_followers": 499269,
+  "num_followers": 499505,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzU1Y2YzYzljY2RjODc4ZGFkOGRkYjJjNGIzYmM4MzFiYTU1YTgx",
+  "snapshot_id": "MCxiMWQzZDYxNjEzOGIyZTk2Y2M2YWEzYTdjNDc4MzlkMTJjNzZkZDNm",
   "tracks": [
     {
       "added_at": "2022-12-16 17:44:59",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
-        "name": "Te Quero Mais Que Tudo",
-        "url": "https://open.spotify.com/album/2zb82e3kM0sVzngRAac0cH"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Evang\u00e9lica de Maring\u00e1",
-          "url": "https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA"
-        }
-      ],
-      "duration_ms": 386773,
-      "name": "Descansarei",
-      "url": "https://open.spotify.com/track/5yNfMRJ8byUpEscMcy1ZXb"
-    },
-    {
-      "added_at": "2022-12-16 17:44:59",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 273493,
       "name": "Mais Alto - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6qQBEy6IctIb8cm3Q4SG9E"
+    },
+    {
+      "added_at": "2022-12-16 17:44:59",
+      "album": {
+        "name": "Te Quero Mais Que Tudo",
+        "url": "https://open.spotify.com/album/2zb82e3kM0sVzngRAac0cH"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Evang\u00e9lica de Maring\u00e1",
+          "url": "https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA"
+        }
+      ],
+      "duration_ms": 386773,
+      "name": "Descansarei",
+      "url": "https://open.spotify.com/track/5yNfMRJ8byUpEscMcy1ZXb"
     },
     {
       "added_at": "2022-12-16 17:44:59",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 298005,
+      "name": "Teus Olhos Revelam - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE"
+    },
+    {
+      "added_at": "2022-12-16 17:44:59",
+      "album": {
         "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
-    },
-    {
-      "added_at": "2022-12-16 17:44:59",
-      "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/798js9h8Xwy3yxST0Lep14"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 298005,
-      "name": "Teus Olhos Revelam - Ao Vivo",
-      "url": "https://open.spotify.com/track/2hqkibBr8jnh0SJgBSb6rE"
     },
     {
       "added_at": "2022-12-16 17:44:59",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
-        "name": "Eu Tenho a Promessa",
-        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 336271,
-      "name": "Abra os Meus Olhos",
-      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
-    },
-    {
-      "added_at": "2022-12-16 17:44:59",
-      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/4DzXvPORyD3JtESzeteFBq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 483485,
       "name": "Tua Un\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/13wblL6thQD5NHLa29j1X4"
+    },
+    {
+      "added_at": "2022-12-16 17:44:59",
+      "album": {
+        "name": "Eu Tenho a Promessa",
+        "url": "https://open.spotify.com/album/0GbTF4sY1Vp0RypN4eOEbw"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 336271,
+      "name": "Abra os Meus Olhos",
+      "url": "https://open.spotify.com/track/0v9mFL6DK8xiyJWNPYjXca"
     },
     {
       "added_at": "2022-12-16 17:44:59",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
+        "name": "Para Sempre, Vol. 1",
+        "url": "https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj"
+      },
+      "artists": [
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/2JJstgu72jt2qlB9Bw384J"
+    },
+    {
+      "added_at": "2022-12-16 17:44:59",
+      "album": {
         "name": "N\u00e3o Me Esqueci de Ti",
         "url": "https://open.spotify.com/album/6YSKpIf9u8uXp8apKMJkiV"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 204893,
       "name": "N\u00e3o Me Esqueci de Ti",
       "url": "https://open.spotify.com/track/2YguP2fSOUBDCqFu11SScg"
-    },
-    {
-      "added_at": "2022-12-16 17:44:59",
-      "album": {
-        "name": "Para Sempre, Vol. 1",
-        "url": "https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj"
-      },
-      "artists": [
-        {
-          "name": "Novo Som",
-          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/2JJstgu72jt2qlB9Bw384J"
     },
     {
       "added_at": "2022-12-16 17:44:59",

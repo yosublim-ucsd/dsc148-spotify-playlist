@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,602 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,706 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 84 | [Li'l Darlin](https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU) | [Monica Borrfors](https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb) | [Li'l Darlin](https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9) | 3:15 |
 | 85 | [There Is No Greater Love](https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 5:27 |
 | 86 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
-| 87 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
+| 87 | [As Time Goes By](https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 5:31 |
 | 88 | [My Romance](https://open.spotify.com/track/7MXRZcyPLQfq6JUm1bnQ1V) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Sings The Rodgers & Hart Songbook](https://open.spotify.com/album/7Jqbp0XnGbsBjpPPcwSzcN) | 3:42 |
-| 89 | [My Funny Valentine](https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [My Funny Valentine](https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC) | 4:51 |
-| 90 | [As Time Goes By](https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 5:31 |
+| 89 | [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 |
+| 90 | [My Funny Valentine](https://open.spotify.com/track/5cp4r9yrUcvTVD6uzPHhhk) | [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [My Funny Valentine](https://open.spotify.com/album/5nmBotW3p1DH4yqeWcISlC) | 4:51 |
 | 91 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 |
 | 92 | [Sweet Pumpkin](https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY) | [Sweet Pumpkin](https://open.spotify.com/album/0POEh5608y0eem6LXKOG76) | 3:54 |
 | 93 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:55 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 95 | [All Because Of You](https://open.spotify.com/track/7bZTJI3YNXUnC6Hpqk2wpX) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/3AHn8d2XYYLNCPO4BKbMaW) | 3:35 |
 | 96 | [Midnight Sun](https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:35 |
 | 97 | [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 |
-| 98 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 |
-| 99 | [A Time For Love](https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 5:01 |
+| 98 | [A Time For Love](https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 5:01 |
+| 99 | [Then I'll Be Tired of You](https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Love & the Lack Thereof](https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6) | 6:13 |
 | 100 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 |
 
-Snapshot ID: `MCw0MWI3MzBjMjBiN2E0ZDY0ZDdiOTdiNGQwYzJlZTM3MmEyMjdmOWRm`
+Snapshot ID: `MCxjZWI4MTBlYWRiZjc2NDJiY2Y1MjU1M2JlOTRlMjg3YmYyZDU5NmE0`

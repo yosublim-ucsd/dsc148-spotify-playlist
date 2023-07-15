@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 49082,
+  "num_followers": 49145,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTgyZWZmNTA0ZDdmNmZhNjgwNzY0YjQwOWMyZjJiYzBiNTE5OTEy",
+  "snapshot_id": "MCwwZDMzYTRjNTE3NjViZGNmNjg0ZDkyNjQ4MjY5YzVhNDU1MTU0ZjI1",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -875,46 +875,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "READY 4 WAR",
-        "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        },
-        {
-          "name": "XELOR",
-          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
-        }
-      ],
-      "duration_ms": 172729,
-      "name": "READY 4 WAR",
-      "url": "https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "DANCEFLOOR SLAYER",
-        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        }
-      ],
-      "duration_ms": 161653,
-      "name": "DANCEFLOOR SLAYER",
-      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Crazy, Like Me!",
         "url": "https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g"
       },
@@ -947,6 +907,46 @@
       "duration_ms": 198987,
       "name": "Game Breaker",
       "url": "https://open.spotify.com/track/2lNaARcTaHVlohiPlKvlnm"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "DANCEFLOOR SLAYER",
+        "url": "https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        },
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        }
+      ],
+      "duration_ms": 161653,
+      "name": "DANCEFLOOR SLAYER",
+      "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "READY 4 WAR",
+        "url": "https://open.spotify.com/album/3KX00M9fI6G2H1mlFzvPKi"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        },
+        {
+          "name": "XELOR",
+          "url": "https://open.spotify.com/artist/7zeYC3nZZmMDw4HevcqDEf"
+        }
+      ],
+      "duration_ms": 172729,
+      "name": "READY 4 WAR",
+      "url": "https://open.spotify.com/track/2eDDUox0c2zSscKUq3ePFK"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
+      },
+      "artists": [
+        {
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
+        }
+      ],
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Pac-man 2.0",
         "url": "https://open.spotify.com/album/1xKoaEipTJrKQNXlQzpyMj"
       },
@@ -1031,6 +1047,22 @@
       "duration_ms": 148360,
       "name": "Pac-man 2.0",
       "url": "https://open.spotify.com/track/4lXnOLBho6DRMaTUnJoACs"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Beat My Drum",
+        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "Beat My Drum",
+      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1055,38 +1087,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Beat My Drum",
-        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "Beat My Drum",
-      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
         "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "The Chop Game",
+        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "The Chop Game",
+      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Fight Them All",
         "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 171789,
       "name": "Fight Them All",
       "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "The Chop Game",
-        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "The Chop Game",
-      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Adrenaline (Never Surrender Remix)",
-        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
-      },
-      "artists": [
-        {
-          "name": "Neophyte Records All Stars",
-          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Adrenaline - Never Surrender Remix",
-      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Not Afraid to Fall",
         "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Adrenaline (Never Surrender Remix)",
+        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
+      },
+      "artists": [
+        {
+          "name": "Neophyte Records All Stars",
+          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Adrenaline - Never Surrender Remix",
+      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "BOW DOWN",
-        "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
-      },
-      "artists": [
-        {
-          "name": "DEEZL",
-          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "BOW DOWN",
-      "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Sky Ablaze",
         "url": "https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 175271,
       "name": "Sky Ablaze",
       "url": "https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "BOW DOWN",
+        "url": "https://open.spotify.com/album/10RoPitNvB3vJHJtUs2ZSv"
+      },
+      "artists": [
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "BOW DOWN",
+      "url": "https://open.spotify.com/track/2K4gRuinu1DlimC30iJLNb"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "LXCPR",
+          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
+        }
+      ],
+      "duration_ms": 233806,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Halleluya - The F*cked Up Remixes",
         "url": "https://open.spotify.com/album/6IkBZ3mhWBNlkI5V0m1mYC"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Locked Up",
-        "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "LXCPR",
-          "url": "https://open.spotify.com/artist/3paZuq5Z5ujlOTr3XvQEU0"
-        }
-      ],
-      "duration_ms": 233806,
-      "name": "Locked Up",
-      "url": "https://open.spotify.com/track/434lnuoFk5IA3xJnnF3esF"
     },
     {
       "added_at": "2023-07-13 22:00:00",

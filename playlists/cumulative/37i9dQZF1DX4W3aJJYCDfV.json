@@ -13171,6 +13171,24 @@
     },
     {
       "album": {
+        "name": "Care About Me",
+        "url": "https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213076,
+      "name": "Care About Me",
+      "url": "https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU"
+    },
+    {
+      "album": {
         "name": "Care Less",
         "url": "https://open.spotify.com/album/1oke3BISuMUHhHSxfPI4Ee"
       },
@@ -17431,6 +17449,24 @@
     },
     {
       "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/7dl4ldeLF20Tiioz3brZIe"
+      },
+      "artists": [
+        {
+          "name": "Masked Man",
+          "url": "https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/33zCAF2l34Bj0yAz2aaFMb"
+    },
+    {
+      "album": {
         "name": "Dance With You (The Comeback)",
         "url": "https://open.spotify.com/album/2nN3SvOwvL9p98jt1fPnKp"
       },
@@ -20348,10 +20384,28 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 182291,
       "name": "Does It Rain on You?",
       "url": "https://open.spotify.com/track/2sfnrSito9HefVdVXCaZc5"
+    },
+    {
+      "album": {
+        "name": "In Separation",
+        "url": "https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo"
+      },
+      "artists": [
+        {
+          "name": "Blondes",
+          "url": "https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182291,
+      "name": "Does It Rain on You?",
+      "url": "https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY"
     },
     {
       "album": {
@@ -28892,6 +28946,28 @@
       "duration_ms": 119747,
       "name": "From Gaza, With Love",
       "url": "https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu"
+    },
+    {
+      "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "From The Hood",
+      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
     },
     {
       "album": {
@@ -51809,6 +51885,28 @@
     },
     {
       "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
+    },
+    {
+      "album": {
         "name": "Militerian (feat. Naira Marley)",
         "url": "https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL"
       },
@@ -51824,7 +51922,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44"
@@ -57956,6 +58054,24 @@
       "duration_ms": 206694,
       "name": "Off Wiv Ya Headz",
       "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
+    },
+    {
+      "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
     },
     {
       "album": {
@@ -68223,6 +68339,24 @@
     },
     {
       "album": {
+        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
+        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
+    },
+    {
+      "album": {
         "name": "Save Myself EP",
         "url": "https://open.spotify.com/album/5mubRVmZs3ioryRdJfluVz"
       },
@@ -69538,6 +69672,28 @@
       "duration_ms": 221840,
       "name": "Settled Accounts",
       "url": "https://open.spotify.com/track/00yPQxPinyr2Ofvuvu2jXs"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "album": {

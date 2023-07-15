@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Leon Leiden y Paty Cantú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,696 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,736 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 31 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 |
 | 32 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 33 | [Enséñame](https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:41 |
-| 34 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
-| 35 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
+| 34 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
+| 35 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 |
 | 36 | [Mi Destino](https://open.spotify.com/track/33ghys6pfpQBc5aiChHlzV) | [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm), [Alejo Valencia](https://open.spotify.com/artist/1TUyZTjkJZFFvGdXYW1zLj), [Guita](https://open.spotify.com/artist/0LEqiMyg7tH6JV2afcxyVd) | [La Reina del Flow 2 \(Banda Sonora Oficial de la Serie de Televisión\)](https://open.spotify.com/album/7FIXzHY9IPsbFGK50aAoc5) | 3:21 |
 | 37 | [sanvalentín:\(](https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [sanvalentín:\(](https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9) | 4:02 |
 | 38 | [S.H.E.A](https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo) | [S.H.E.A](https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [No Es Mi Culpa](https://open.spotify.com/track/0c8RjV0vfQ7z1ZpdfaQ61d) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [No Es Mi Culpa](https://open.spotify.com/album/0MXBGzxk5jZZH4yYWY1O37) | 2:07 |
 | 50 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
 
-Snapshot ID: `MCwzNjYwNzliY2FmYWQxNzYxNzhhNGU2OGFjYTJjM2UyOGQ1YTYxOGNk`
+Snapshot ID: `MCw1NzVhNjU2NThlZGY1MDdlOWZmZDZkODdiZjY2NjU5MjA5ZmUyOTJl`

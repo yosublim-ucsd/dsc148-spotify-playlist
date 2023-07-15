@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 
 > Check your vibe with Epic Records.
 
-[Epic Records](https://open.spotify.com/user/epicrecords) - 7,884 likes - 60 songs - 3 hr 7 min
+[Epic Records](https://open.spotify.com/user/epicrecords) - 7,884 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Trynna Link](https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Trynna Link](https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK) | 2:57 |
-| 2 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 |
-| 3 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 |
-| 4 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 |
-| 5 | [Mother \- Radio Edit](https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mother \(Radio Edit\)](https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2) | 2:25 |
-| 6 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 |
-| 7 | [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
-| 8 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
+| 1 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 |
+| 2 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
+| 3 | [SUMMER VIBES](https://open.spotify.com/track/6wwz6BVFrr31EHXoBpA7NC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [SUMMER VIBES](https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2) | 2:26 |
+| 4 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 |
+| 5 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 |
+| 6 | [Mother \- Radio Edit](https://open.spotify.com/track/7oCAd9dn97ckvEsGmOPA7H) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mother \(Radio Edit\)](https://open.spotify.com/album/4g6g8PQIZ1Plcbm1DFxoo2) | 2:25 |
+| 7 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 |
+| 8 | [TRY & SEE \(feat\. Future, G Herbo & Roddy Ricch\)](https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 3:07 |
 | 9 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 10 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 |
 | 11 | [GD Woman](https://open.spotify.com/track/2RFPBuGma5LnPbTjplfsuZ) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/09NbOdvIzE2fuN9vhAJ0KE) | 2:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/7wCNxGSjlhWAooeoqthbpT.md) - [plain]
 | 59 | [Going Places](https://open.spotify.com/track/5X75OF1FA0OiR6B7JfuJmU) | [AAP Deno](https://open.spotify.com/artist/52f48nUbzOy6buKHxUZP2G) | [Going Places](https://open.spotify.com/album/4ZHOXutdiNiyr5CJhAMpJv) | 2:51 |
 | 60 | [Let's Go MIA](https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Let's Go MIA](https://open.spotify.com/album/4oVQuTeU8QTlgKXqTAWIb1) | 3:00 |
 
-Snapshot ID: `MjE4MSxmODNmZTlmNmYyYzgwZWEyNGM4MmMwODk3ZTI1NDE0MDg3NWEyMmU1`
+Snapshot ID: `MjE4OSwwODdhNGQxOTFiMGJkMWQ2NzAzOTU0MDRlZDJmODA4MzgyYTA1NGM2`

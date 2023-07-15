@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422211,
+  "num_followers": 422209,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODBhN2IyNWZiNmQzMzgwOGUxZjBkYzBlYTcxMzllMTA2MDljNGRm",
+  "snapshot_id": "MCxkMmU4NDliOWM4NDFhMGFhMzUzMjIwZDFjNWZhNjQ5YjQ2MzE4NzE5",
   "tracks": [
+    {
+      "added_at": "2023-07-14 07:00:00",
+      "album": {
+        "name": "Alma Sola (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1rkG4GlLGjDCLEAqXVKCo2"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 282097,
+      "name": "Alma Sola - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2jVb4wnqiooprgsu1TUb09"
+    },
     {
       "added_at": "2023-07-13 07:00:00",
       "album": {
@@ -787,22 +807,6 @@
       "duration_ms": 181766,
       "name": "Diamante Roto",
       "url": "https://open.spotify.com/track/1rs0pVmsZTiPnUX6j3zkOO"
-    },
-    {
-      "added_at": "2023-06-25 03:00:00",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE"
-      },
-      "artists": [
-        {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
-        }
-      ],
-      "duration_ms": 219394,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"
     },
     {
       "added_at": "2023-06-25 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Rap from the hoods of Dilli\- Yungsta, Calm, Frappe Ash & Sez on the Beat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,173 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,199 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 23 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 |
 | 24 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 |
 | 25 | [Glitch](https://open.spotify.com/track/6AkmSJKHHyI07I1qLOVMVu) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:30 |
-| 26 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 |
+| 26 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 |
 | 27 | [ICE](https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:48 |
 | 28 | [Fomo](https://open.spotify.com/track/0UtZD1wNeR0VqukhXs0AN4) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ZelliX](https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 4:10 |
 | 29 | [JASHAN\-E\-HIP\-HOP](https://open.spotify.com/track/5EyMW7eXYVkB1pwXqrGq5c) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:52 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 68 | [Haath Toh Laga](https://open.spotify.com/track/7GwEtrvRxKbf2E9dMiGxI6) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/3dcAK5By2PRDtcZVJbq3Xn) | 2:27 |
 | 69 | [Saath Ya Khilaaf](https://open.spotify.com/track/3PpzBZMTrCuNx4TC6SZN69) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Saath Ya Khilaaf](https://open.spotify.com/album/5Y73P4JbAElupnQAZCStkR) | 3:34 |
 
-Snapshot ID: `MCwyOTM3YTdmYTg1MzdkYjdjMTBlYzcxY2Q4Y2RiZGI5ZmU5M2FkNDY5`
+Snapshot ID: `MCxjMzQ3Yjg1NWU2OWZmOWY3N2E5OTk5M2EwMzU5NGI4MTAyNjA0NzJm`

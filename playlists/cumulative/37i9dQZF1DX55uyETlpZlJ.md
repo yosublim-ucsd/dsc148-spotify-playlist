@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-131 songs - 7 hr 20 min
+133 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Nanne Marethe](https://open.spotify.com/track/3RbxYSwVXgxn4nifFQxWIP) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [M.M.Nadaf](https://open.spotify.com/artist/36D2R8MIVTMDjellXJMSWM), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Nanne Marethe](https://open.spotify.com/album/2fdwYQ6gPqqRkBWmRA3360) | 3:01 | 2022-12-19 |  |
 | [Nannee Hrudayava](https://open.spotify.com/track/07q9NsOTAaMeq19fvoHuFr) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Raveendra Muddi](https://open.spotify.com/artist/4JwXnFTEc2FiSnCkPCiICf) | [Nannee Hrudayava](https://open.spotify.com/album/4DJjMnY5H3xx0IKu0cqyXo) | 3:12 | 2023-06-13 | 2023-07-06 |
 | [Nannusire](https://open.spotify.com/track/6ASWvRVb8O7hSV26VGbech) | [Subhash Aras](https://open.spotify.com/artist/6jYzo3r1YFrtigzHUqwXQZ), [Sharath](https://open.spotify.com/artist/6ZEokyhrLMceIJsQnmAYup) | [Nannusire](https://open.spotify.com/album/5qLcmfn6W54grQN9mSHOWT) | 3:56 | 2023-01-04 | 2023-07-04 |
+| [Nav Irodh Hinge](https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Nav Irodh Hinge](https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj) | 3:02 | 2023-07-14 |  |
 | [Nee Nanna Jeeva](https://open.spotify.com/track/4n4xk4fMDCz0Vam3261app) | [Naveen Hiremath](https://open.spotify.com/artist/000WyXOWRZlAYSCHOl6vbw) | [Nee Nanna Jeeva](https://open.spotify.com/album/4qVOsEyOFZZ281rQj3vkGU) | 4:38 | 2023-04-17 |  |
 | [Nee Saniha](https://open.spotify.com/track/53F1QXJzhN3mpHU0Q2JOnz) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nee Saniha](https://open.spotify.com/album/5ZD61t4W97RsGNm1ds6nLr) | 4:26 | 2023-05-03 |  |
 | [Neene Illade](https://open.spotify.com/track/6lo8HaKpbucdA2eGaHFSYs) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Neene Illade](https://open.spotify.com/album/2v8IFuiNx11xHjNpmA4PGk) | 3:23 | 2022-11-15 |  |
@@ -109,6 +110,7 @@
 | [No Filter](https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [No Filter](https://open.spotify.com/album/4cD3N1DB3lvV7YIJabNq60) | 3:20 | 2022-12-09 |  |
 | [O Priya](https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31) | [O Priya](https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK) | 5:08 | 2023-06-08 |  |
 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 | 2023-05-16 |  |
+| [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 |  |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |
 | [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 |  |
 | [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 | 2023-07-13 |  |

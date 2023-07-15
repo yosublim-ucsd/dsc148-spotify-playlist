@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/4JG7RhBm4wxPCPG3ZUBl3T"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO"
       },

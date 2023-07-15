@@ -2,9 +2,9 @@
 
 ### [Popetón](https://open.spotify.com/playlist/37i9dQZF1DWTPDzakLfYZr)
 
-> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Piso 21 & Nicky Jam
+> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Farina & Sean Paul
 
-281 songs - 14 hr 55 min
+283 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,10 @@
 | [Candela](https://open.spotify.com/track/6PGpbf22UCDi0yTW6f7gSI) | [Ditto](https://open.spotify.com/artist/0eKrGlWldPgasOUqI1S7FE), [Dj Arnette](https://open.spotify.com/artist/65bSPNLxNENSxVjGptdWUV) | [Candela](https://open.spotify.com/album/1GpvVL0nBwavg028GD9SuE) | 3:08 | 2022-10-21 | 2022-11-26 |
 | [Cartagena](https://open.spotify.com/track/3REXOGp4DfLegMoMOPWjCn) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Cartagena](https://open.spotify.com/album/1DVTs0zZlF6aSxQ7Iyrs7J) | 2:36 | 2023-03-17 | 2023-04-01 |
 | [Castigo](https://open.spotify.com/track/4i1vORCFsX121xefJA7Fg6) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Castigo](https://open.spotify.com/album/1F5zDyjWNyOXLBaOUDzVpf) | 2:50 | 2021-12-10 | 2022-01-19 |
-| [Cinco](https://open.spotify.com/track/0Jpk1xeY7NNz1RcGWuGIch) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Cinco](https://open.spotify.com/album/6xU2rOCRu56Dc9ccFHunbJ) | 2:08 | 2023-06-16 |  |
+| [Cinco](https://open.spotify.com/track/0Jpk1xeY7NNz1RcGWuGIch) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Cinco](https://open.spotify.com/album/6xU2rOCRu56Dc9ccFHunbJ) | 2:08 | 2023-06-16 | 2023-07-15 |
 | [Classy 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Classy 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-03-31 |  |
 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 | 2022-03-25 | 2022-04-02 |
+| [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-07-14 |  |
 | [Connection](https://open.spotify.com/track/2TRVQlpDjhej74USx0RMF1) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Connection](https://open.spotify.com/album/5L6VbQiCxri3Nc34RvNUon) | 3:26 | 2022-11-25 | 2023-02-25 |
 | [Contigo](https://open.spotify.com/track/4QwibSrCYyAxlOG1FirXoo) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Contigo](https://open.spotify.com/album/6Kh3nNf8Slq5GZojjsx2nb) | 3:19 | 2022-04-29 | 2022-05-07 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 |  |
@@ -104,6 +105,7 @@
 | [El Negrito](https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [De Menor a Mayor](https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs) | 2:56 | 2022-04-29 | 2022-06-11 |
 | [El Que Espera](https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [El Que Espera](https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa) | 2:50 | 2022-08-12 | 2022-11-26 |
 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 | 2023-05-19 | 2023-06-17 |
+| [EL VIBE](https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [EL VIBE](https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8) | 2:51 | 2023-07-14 |  |
 | [Ella \- Remix](https://open.spotify.com/track/7iHHlCbsFou5DZSW5HCPfs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Ella \(Remix\)](https://open.spotify.com/album/1XWOwAxb9awdotZSHQnAMH) | 5:30 | 2021-12-10 |  |
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-02-24 | 2023-05-20 |
 | [En La Intimidad](https://open.spotify.com/track/1EmVyH2yt5PEMm4hVftZ6d) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [En La Intimidad](https://open.spotify.com/album/0O7dhX2Oj4DK7RTQQX1GsL) | 3:45 | 2023-04-14 | 2023-06-24 |
@@ -141,7 +143,7 @@
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-05-19 |  |
 | [La Botella](https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:46 | 2021-12-10 |  |
 | [La Chama](https://open.spotify.com/track/2nK8tfg8lRVrzy8IOr5O3Z) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Chama](https://open.spotify.com/album/1PqlS6ozoc8TIB8uiiuPUy) | 3:12 | 2022-09-09 | 2022-11-26 |
-| [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 | 2023-06-16 |  |
+| [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 | 2023-06-16 | 2023-07-15 |
 | [La Elegida](https://open.spotify.com/track/7KR4aRgdrMRSXMZEJpwUIK) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [La Elegida](https://open.spotify.com/album/7CHGIjwyjySzeHJOoKceLi) | 2:54 | 2022-02-11 | 2022-03-05 |
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-04-29 | 2022-06-25 |
 | [La Funka](https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Funka](https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G) | 3:18 | 2021-12-10 | 2022-07-30 |

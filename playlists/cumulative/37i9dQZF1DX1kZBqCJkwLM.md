@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-192 songs - 9 hr 59 min
+194 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,8 +128,9 @@
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-12-03 |  |
 | [Monster \(Meg and Dia’s version\)](https://open.spotify.com/track/55sgBR6rRySVy1dnJ5X44r) | [Meg & Dia](https://open.spotify.com/artist/77YbJ4a9IlKX18ck6qoot1) | [Monster \(Meg and Dia’s version\)](https://open.spotify.com/album/4ko2y7WZAyJpaYSXeCCvJT) | 2:41 | 2022-01-21 | 2022-06-22 |
 | [MVP](https://open.spotify.com/track/01JN0tdJFzte57LUzvJxXG) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [MVP](https://open.spotify.com/album/0FcpHf5qOOvG4xIMTw2QQz) | 2:08 | 2023-04-28 |  |
-| [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-12-03 |  |
+| [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-12-03 | 2023-07-15 |
 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 | 2021-12-03 |  |
+| [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 | 2023-07-14 |  |
 | [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2021-12-03 |  |
 | [paper promises](https://open.spotify.com/track/2EtPkAFoT8otljWXtgJ4la) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [fkn bad Pt.1](https://open.spotify.com/album/0yiVDLqPxTJhuxrw9NyFjM) | 2:24 | 2021-12-03 | 2022-07-28 |
 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-15 |  |
@@ -170,7 +171,7 @@
 | [Sucker Punch](https://open.spotify.com/track/4wiTiQP1ZU5nTdU3Y8kx6Y) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Sucker Punch](https://open.spotify.com/album/7mMzUgInDnFHgHrcn65798) | 3:18 | 2021-12-03 | 2022-07-27 |
 | [Talk](https://open.spotify.com/track/62R6tHMZLTzqEvnNaqDXkz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Talk](https://open.spotify.com/album/2I3SLUZ8dt5RFxdKiBwUL8) | 3:02 | 2021-12-03 | 2022-08-13 |
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2021-12-03 |  |
-| [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2021-12-03 |  |
+| [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2021-12-03 | 2023-07-15 |
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-07-15 |  |
 | [The Feels](https://open.spotify.com/track/6pgqZ7Iw4LfHlfgWWaRFSY) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The Feels](https://open.spotify.com/album/744iq6HcpYJixN85Egbvt9) | 3:18 | 2021-12-03 | 2022-07-29 |
 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2022-09-02 |  |
@@ -187,6 +188,7 @@
 | [Want U 2 Love Me](https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza) | [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Want U 2 Love Me](https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv) | 3:17 | 2022-01-07 | 2023-04-29 |
 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 | 2021-12-03 |  |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-03-11 | 2023-05-27 |
+| [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 | 2023-07-14 |  |
 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/0V61Y32ISHWztELtK7RHF3) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/3QOPUURs2S8ZUnbn1aScjw) | 3:49 | 2021-12-03 | 2022-07-29 |
 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 | 2022-07-15 | 2023-04-29 |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-12-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5936,
+  "num_followers": 5934,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDBmNmExNGE3MGMzYjRjYzc3NzgwMWM3MmQ4YTk4ZmJkZmVlZTY4",
+  "snapshot_id": "MCxmYzllOTgzZDNhZjZkNTI3NmQzMmJlNmEyMDFiMzA5ZjY1MWY4Mzcw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:56:53",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-07-07 15:56:53",
       "album": {
+        "name": "Write & Draw",
+        "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
+      },
+      "artists": [
+        {
+          "name": "Kim Boa",
+          "url": "https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p"
+        }
+      ],
+      "duration_ms": 232374,
+      "name": "Write & Draw",
+      "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
+    },
+    {
+      "added_at": "2023-07-07 15:56:53",
+      "album": {
         "name": "Je N\u2032aime Que Toi",
         "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-07-07 15:56:53",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
-    },
-    {
-      "added_at": "2023-07-07 15:56:53",
-      "album": {
         "name": "Mondegreen",
         "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 199186,
       "name": "Blanche",
       "url": "https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ"
+    },
+    {
+      "added_at": "2023-07-07 15:56:53",
+      "album": {
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
     },
     {
       "added_at": "2023-07-07 15:56:53",
@@ -691,42 +707,6 @@
     {
       "added_at": "2023-07-07 15:56:53",
       "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
-    },
-    {
-      "added_at": "2023-07-07 15:56:53",
-      "album": {
-        "name": "Write & Draw",
-        "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
-      },
-      "artists": [
-        {
-          "name": "Kim Boa",
-          "url": "https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p"
-        }
-      ],
-      "duration_ms": 232374,
-      "name": "Write & Draw",
-      "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
-    },
-    {
-      "added_at": "2023-07-07 15:56:53",
-      "album": {
         "name": "24\u2103",
         "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": "2023-07-07 15:56:53",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         }
       ],
-      "duration_ms": 191793,
-      "name": "Then",
-      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2023-07-07 15:56:53",
@@ -807,6 +791,22 @@
       "duration_ms": 196586,
       "name": "Like a Diamond (With. Stella Jang)",
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
+    },
+    {
+      "added_at": "2023-07-07 15:56:53",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 191793,
+      "name": "Then",
+      "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
     },
     {
       "added_at": "2023-07-07 15:56:53",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-07-07 15:56:53",
       "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
-        }
-      ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
-    },
-    {
-      "added_at": "2023-07-07 15:56:53",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -875,6 +855,22 @@
       "duration_ms": 134026,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+    },
+    {
+      "added_at": "2023-07-07 15:56:53",
+      "album": {
+        "name": "bimil:ier vol.6 \"Cloudy\"",
+        "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 207293,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

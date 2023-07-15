@@ -4,7 +4,7 @@
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-109 songs - 5 hr 53 min
+110 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,10 +68,11 @@
 | [Movie](https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Movie](https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r) | 3:36 | 2023-06-09 |  |
 | [Mundo Al Revés](https://open.spotify.com/track/1n5rK7ajF1GnegDI8Ly55r) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Mundo Al Revés](https://open.spotify.com/album/1HH9dZRqeDlvDbePpsoAb7) | 2:54 | 2023-06-09 |  |
 | [Más de Ti](https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Más de Ti](https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv) | 4:26 | 2023-06-09 |  |
-| [NANANA](https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NANANA](https://open.spotify.com/album/5kaAwgOxxWKC5fwEY1rtFV) | 3:35 | 2023-06-09 |  |
+| [NANANA](https://open.spotify.com/track/3cjm5VQKY4lKbZQPv0AxNE) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NANANA](https://open.spotify.com/album/5kaAwgOxxWKC5fwEY1rtFV) | 3:35 | 2023-06-09 | 2023-07-15 |
 | [Nube](https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s) | [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4), [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Nube](https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l) | 3:43 | 2023-06-09 |  |
 | [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 | 2023-06-09 |  |
 | [Otra](https://open.spotify.com/track/78Ccuv7ZsjQL3jcPUFFw3f) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F) | [Otra](https://open.spotify.com/album/4KEUv1IgABey71fjfWQrlG) | 2:46 | 2023-06-09 |  |
+| [Palestina](https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [UNBROKEN](https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln) | 3:54 | 2023-06-09 |  |
 | [Palestina](https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3) | [Oken](https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Castiel](https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2) | [Palestina](https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4) | 3:54 | 2023-06-09 | 2023-06-26 |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:17 | 2023-06-09 |  |
 | [PAPELON](https://open.spotify.com/track/7n1wgE7FO0ofqR6Br8LCfr) | [Dalizz](https://open.spotify.com/artist/4wNPkDno84vmJuPwfVzhwc) | [MELAZA](https://open.spotify.com/album/7qKnIpW3o9o9tMjqu39NUR) | 2:19 | 2023-06-09 |  |

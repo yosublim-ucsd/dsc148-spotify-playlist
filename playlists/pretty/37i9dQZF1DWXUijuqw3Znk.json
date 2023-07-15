@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjFkNmFiMGRlY2RiNDVlZGMzYTQ5YzM5YTkxMWQzZTZlYjMxNGNj",
+  "snapshot_id": "MCw0NTI5NDJjMzUyNTcyNTViNmM5ZTdiYTQ1MTI4MDhhNmQ3YzFlNTJh",
   "tracks": [
     {
       "added_at": "2023-06-13 07:36:25",
@@ -656,17 +656,21 @@
       },
       "artists": [
         {
-          "name": "NSW yoon",
-          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
         },
         {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 210401,
-      "name": "ERI ERI (Feat. Homies)",
-      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
+      "duration_ms": 247680,
+      "name": "Holiday (Feat. lIlBOI, GIRIBOY) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -692,21 +696,17 @@
       },
       "artists": [
         {
-          "name": "BLAS\u00c9",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
         },
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
         }
       ],
-      "duration_ms": 247680,
-      "name": "Holiday (Feat. lIlBOI, GIRIBOY) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd"
+      "duration_ms": 210401,
+      "name": "ERI ERI (Feat. Homies)",
+      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Writer's Block",
+      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
-        "name": "The Anecdote",
-        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+        "name": "12",
+        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
       },
       "artists": [
         {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
         }
       ],
-      "duration_ms": 218526,
-      "name": "Writer's Block",
-      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
+      "duration_ms": 240773,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1151,22 +1167,6 @@
       "duration_ms": 151948,
       "name": "Only Late at Night (feat. Jay Park) (prod. Vangdale)",
       "url": "https://open.spotify.com/track/2PY3kiM41wd6gjkPt4JD9p"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Time Travel",
-      "url": "https://open.spotify.com/track/65ny4Q03m0zC2a5C3VPO3I"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "THE STRANGER",
+        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 161631,
+      "name": "GOT TO KNOW",
+      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "HIGH RISK HIGH RETURN",
         "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 242022,
       "name": "Story of someone I know",
       "url": "https://open.spotify.com/track/2MpYtR2upst1MwsNHzFYqN"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "THE STRANGER",
-        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 161631,
-      "name": "GOT TO KNOW",
-      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-06-13 07:36:25",
       "album": {
+        "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 213051,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/3ohfBBas5ITo850guSphua"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
         "name": "P.O.E.M. II",
         "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
       },
@@ -1903,6 +1919,22 @@
       "duration_ms": 241777,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
+    },
+    {
+      "added_at": "2023-06-13 07:36:25",
+      "album": {
+        "name": "SKANDALOUZ",
+        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
+      },
+      "artists": [
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        }
+      ],
+      "duration_ms": 180733,
+      "name": "Smile Now Cry Later",
+      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
     },
     {
       "added_at": "2023-06-13 07:36:25",
@@ -1931,38 +1963,6 @@
       "duration_ms": 206783,
       "name": "YOUTH! (feat. Bewhy, HAON & Coogie)",
       "url": "https://open.spotify.com/track/4D9F6gcVJ4dqg4fLz4Oyjd"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "SKANDALOUZ",
-        "url": "https://open.spotify.com/album/6VW9XC4hTrxWtiUgfyZnbh"
-      },
-      "artists": [
-        {
-          "name": "Los",
-          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
-        }
-      ],
-      "duration_ms": 180733,
-      "name": "Smile Now Cry Later",
-      "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
-    },
-    {
-      "added_at": "2023-06-13 07:36:25",
-      "album": {
-        "name": "The Anecdote",
-        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 213051,
-      "name": "Back In Time",
-      "url": "https://open.spotify.com/track/3ohfBBas5ITo850guSphua"
     },
     {
       "added_at": "2023-06-13 07:36:25",

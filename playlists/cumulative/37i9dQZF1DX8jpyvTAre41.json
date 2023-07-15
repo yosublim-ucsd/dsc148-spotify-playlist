@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Metric",
+  "description": "The hottest tunes in rock. Crank it up! Cover: YUNGBLUD",
   "name": "Rock Your Block",
   "tracks": [
     {
@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Capsize",
+        "url": "https://open.spotify.com/album/3ENP27pZX86pRtAPmzaprD"
+      },
+      "artists": [
+        {
+          "name": "Texas King",
+          "url": "https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221268,
+      "name": "Capsize",
+      "url": "https://open.spotify.com/track/3adgTn3xnZ4NgAt17b2OiH"
+    },
+    {
+      "album": {
         "name": "Care Less",
         "url": "https://open.spotify.com/album/1kTKAAMN3zhg0NvCtzVJX2"
       },
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
@@ -3851,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "EVERGREEN",
+        "url": "https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152133,
+      "name": "GODDESS",
+      "url": "https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF"
+    },
+    {
+      "album": {
         "name": "GODDESS",
         "url": "https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl"
       },
@@ -3862,7 +3898,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 152133,
       "name": "GODDESS",
       "url": "https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In"
@@ -3956,7 +3992,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx"
@@ -7693,6 +7729,24 @@
     },
     {
       "album": {
+        "name": "In Times New Roman...",
+        "url": "https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202776,
+      "name": "Paper Machete",
+      "url": "https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo"
+    },
+    {
+      "album": {
         "name": "papercuts",
         "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
       },
@@ -10933,6 +10987,24 @@
     },
     {
       "album": {
+        "name": "unhappier",
+        "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197219,
+      "name": "unhappier",
+      "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
+    },
+    {
+      "album": {
         "name": "Unholy Affliction",
         "url": "https://open.spotify.com/album/3l1de4juXHVIvK7nsJMojQ"
       },
@@ -11692,7 +11764,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 186867,
       "name": "Whatever You Break",
       "url": "https://open.spotify.com/track/2lbbnBFUI01HUt8P2zwohA"

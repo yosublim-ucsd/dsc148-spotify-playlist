@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
@@ -7792,7 +7792,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 420012,
       "name": "Dream Sweet in Sea Major",
       "url": "https://open.spotify.com/track/3RznzRnsl8mzP63l4AF2M7"
@@ -21342,7 +21342,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
@@ -21882,10 +21882,32 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202001,
       "name": "Paper Soldier",
       "url": "https://open.spotify.com/track/5RmPFKZcsV6bciHOQR3jli"
+    },
+    {
+      "album": {
+        "name": "paper soldier",
+        "url": "https://open.spotify.com/album/2VDZVm49vwmSe6d8enHDiV"
+      },
+      "artists": [
+        {
+          "name": "SUKI",
+          "url": "https://open.spotify.com/artist/343XMDCksvdaU1XrNmthr3"
+        },
+        {
+          "name": "skoomy",
+          "url": "https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202001,
+      "name": "paper soldier",
+      "url": "https://open.spotify.com/track/2e14aFZU7cmpyYMsML0Bab"
     },
     {
       "album": {
@@ -25102,7 +25124,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"

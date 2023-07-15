@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 172582,
+  "num_followers": 172584,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGJjNWUwNTE3YjMwYjlkZmYyN2MyZWE0Njg3NzdjNDhmNTZkYjlm",
+  "snapshot_id": "MCwxMzZiY2I5MDlmOTdiYzZjYzFkN2VjMjJlNzFiZTk4ZGRhYWMxN2E2",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
+      },
+      "artists": [
+        {
+          "name": "Erja Lyytinen",
+          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
+        }
+      ],
+      "duration_ms": 306680,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
         "name": "Change in the Weather: Janiva Magness Sings John Fogerty",
         "url": "https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 230400,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU"
-      },
-      "artists": [
-        {
-          "name": "Erja Lyytinen",
-          "url": "https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD"
-        }
-      ],
-      "duration_ms": 306680,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 217920,
-      "name": "Call on God",
-      "url": "https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC"
+      "duration_ms": 219945,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd"
     }
   ],
   "unique_name": "EQUAL Blues",

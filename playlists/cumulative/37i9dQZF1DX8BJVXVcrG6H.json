@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/2iQzsjUxzW9rBq7X6jpGht"
+      },
+      "artists": [
+        {
+          "name": "Arquero",
+          "url": "https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6"
+        },
+        {
+          "name": "Eme Ese",
+          "url": "https://open.spotify.com/artist/2efK6H5GDQVYQFyAVgKqE3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/12ArbbsxBxxY2RbNdacPPk"
+    },
+    {
+      "album": {
         "name": "Epidermis",
         "url": "https://open.spotify.com/album/3urrk0x89WnzmSbl3af8By"
       },

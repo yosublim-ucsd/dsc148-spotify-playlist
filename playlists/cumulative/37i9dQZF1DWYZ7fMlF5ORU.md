@@ -2,13 +2,14 @@
 
 ### [Grooveria Gospel](https://open.spotify.com/playlist/37i9dQZF1DWYZ7fMlF5ORU)
 
-> A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Thalles Roberto
+> A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Jéssica Augusto
 
-80 songs - 5 hr 17 min
+82 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [500 Graus \(Ao Vivo na Lagoinha Alphaville\)](https://open.spotify.com/track/62JFyx41dnFbGx7v8hoBe8) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Pentecostes \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/6LZR9MaqoqEGrzOS5ao24m) | 4:02 | 2023-04-15 |  |
+| [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 | 2023-07-14 |  |
 | [A Voz do Senhor](https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Em Tua Presença](https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi) | 4:04 | 2023-04-15 |  |
 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 | 2023-04-15 |  |
 | [Alegria do Céu \(feat\. Banda Salluz\)](https://open.spotify.com/track/1ZVzgk4ODily0R4u1hPCUS) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Banda Salluz](https://open.spotify.com/artist/0Zcf5Cna6WNWjtoCX0RCu9) | [Diferente](https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL) | 3:42 | 2023-04-15 |  |
@@ -30,6 +31,7 @@
 | [Deus Está No Controle](https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 2:52 | 2023-04-15 |  |
 | [Deus Gosta de Quem Você Não Gosta](https://open.spotify.com/track/2FNeYPUxGXmZFd4s6rDCYA) | [Luiz Arcanjo](https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx) | [Deus Gosta de Quem Você Não Gosta](https://open.spotify.com/album/1EY0Rs3vYh2DqbWcqRTMXM) | 2:58 | 2023-04-15 |  |
 | [Deus É Bom](https://open.spotify.com/track/2USllhBBWdhwUCnVr9rz39) | [Jonatan Moraes](https://open.spotify.com/artist/0UedoRaEiHjL9WUCmVWgbQ), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Deus É Bom](https://open.spotify.com/album/5lDfCxomvBIO97A6qOLQLI) | 3:44 | 2023-04-15 |  |
+| [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 | 2023-07-14 |  |
 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 | 2023-04-15 |  |
 | [Escolho o Teu Caminho](https://open.spotify.com/track/5DReZpzQNDuDlNZHqe20L9) | [Raquel Garcia](https://open.spotify.com/artist/1i7b1kgIqLIhZ9H14Kp3ce) | [Escolho O Teu Caminho](https://open.spotify.com/album/1e6DPcnmFday9R3FABcACP) | 3:15 | 2023-04-15 |  |
 | [Estado De Graça \- Ao Vivo](https://open.spotify.com/track/5lDcuC16NaVZkjWRvAtTIe) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco 3 \(Ao Vivo\)](https://open.spotify.com/album/17f5CLg1zIf55tqhEjCV41) | 4:45 | 2023-04-15 |  |
@@ -67,7 +69,7 @@
 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 | 2023-04-15 |  |
 | [Permanecer](https://open.spotify.com/track/4nBhXPQZP4YurzudIPHR9X) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13) | 2:46 | 2023-04-15 |  |
 | [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 | 2023-04-15 |  |
-| [Pra Sempre](https://open.spotify.com/track/2FXflEzTBQwLOkwFm4Q7Th) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Pra Sempre](https://open.spotify.com/album/3W7kyJ8IvivKgSZ04v4NOF) | 4:13 | 2023-04-15 |  |
+| [Pra Sempre](https://open.spotify.com/track/2FXflEzTBQwLOkwFm4Q7Th) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Pra Sempre](https://open.spotify.com/album/3W7kyJ8IvivKgSZ04v4NOF) | 4:13 | 2023-04-15 | 2023-07-15 |
 | [Primeiro Amor](https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 4:00 | 2023-04-15 |  |
 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 | 2023-04-15 |  |
 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 | 2023-04-15 |  |
@@ -87,6 +89,6 @@
 | [Vê Se Vigia](https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Ele Continua Sendo Deus](https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13) | 2:54 | 2023-04-15 |  |
 | [Zanzando](https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Luz \- Parte 1](https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX) | 3:41 | 2023-04-15 |  |
 | [É Pra Lá Que Eu Vou](https://open.spotify.com/track/28N7jwq4U6c2pmAbb1AWFS) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Happy](https://open.spotify.com/album/1T60kQ7lvpdkwcY2jVAAF7) | 3:55 | 2023-04-15 |  |
-| [É Proibido Pecar](https://open.spotify.com/track/3XF9cxH4T0NnDcqtXWp8Hg) | [Chic In Soul](https://open.spotify.com/artist/6kBLBzj5OGwdkKUHwvFOCM) | [Fechado Pra Balanço](https://open.spotify.com/album/6LwqGJJknNqSAuXJcID4kJ) | 3:36 | 2023-04-15 |  |
+| [É Proibido Pecar](https://open.spotify.com/track/3XF9cxH4T0NnDcqtXWp8Hg) | [Chic In Soul](https://open.spotify.com/artist/6kBLBzj5OGwdkKUHwvFOCM) | [Fechado Pra Balanço](https://open.spotify.com/album/6LwqGJJknNqSAuXJcID4kJ) | 3:36 | 2023-04-15 | 2023-07-15 |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

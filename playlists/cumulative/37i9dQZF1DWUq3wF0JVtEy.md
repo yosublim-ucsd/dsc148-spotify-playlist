@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-337 songs - 16 hr 29 min
+338 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [MIRRORS](https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [MIRRORS](https://open.spotify.com/album/05z888GjArijqttcX87svP) | 2:37 | 2022-11-18 |  |
 | [Molotov](https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Molotov](https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e) | 2:58 | 2023-03-10 | 2023-06-25 |
 | [Mood](https://open.spotify.com/track/4Yq0j5W2HQPJGmu9Mapu8I) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Laureli](https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g) | [Mood](https://open.spotify.com/album/0Y9TbXivPAbowEaJ1h5acK) | 3:11 | 2021-10-29 | 2022-07-29 |
+| [Move It \(with Luciana\)](https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Move It \(with Luciana\)](https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8) | 2:15 | 2023-07-14 |  |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2022-01-28 |  |
 | [Mr\. Brightside](https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Mr\. Brightside](https://open.spotify.com/album/5RyXZZrzXpINCtbaJGfsF0) | 3:46 | 2021-10-29 | 2022-05-29 |
 | [My City’s On Fire \- Tiësto Remix](https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [My City’s On Fire \(Tiësto Remix\)](https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP) | 2:21 | 2022-10-14 |  |
@@ -328,7 +329,7 @@
 | [Way Back](https://open.spotify.com/track/0NUbARTwC9ZLL3DYfSAfK1) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ), [Awiin](https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP) | [Way Back](https://open.spotify.com/album/7txwUmAvVmQgn61K6xZuuD) | 2:24 | 2022-04-15 | 2022-04-21 |
 | [Way It Is](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Way It Is](https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO) | 3:12 | 2021-10-29 |  |
 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 | 2022-08-05 |  |
-| [Welcome to the Club](https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Welcome to the Club](https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe) | 4:02 | 2022-07-22 |  |
+| [Welcome to the Club](https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Welcome to the Club](https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe) | 4:02 | 2022-07-22 | 2023-07-15 |
 | [Welcome To The Future](https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Welcome To The Future](https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb) | 2:52 | 2022-07-15 |  |
 | [What You Got](https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [What You Got](https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh) | 2:40 | 2023-05-12 |  |
 | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Bemendé](https://open.spotify.com/artist/0c7d29gRcEyNSzLLNcnCiq) | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/album/3frz7gq4fuN3nIu2qfP6Ki) | 2:46 | 2021-10-29 | 2022-12-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > In cerca di energie? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,129 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,128 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 42 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
 | 43 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 |
 | 44 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
-| 45 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 |
-| 46 | [Peru \- R3HAB Remix](https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Peru \(R3HAB Remix\)](https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4) | 2:29 |
+| 45 | [Peru \- R3HAB Remix](https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Peru \(R3HAB Remix\)](https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4) | 2:29 |
+| 46 | [Never Let You Go](https://open.spotify.com/track/5IHwWQBEh7Skxo1hfCUP1O) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Never Let You Go](https://open.spotify.com/album/6a8ZKBZtqFHAq9jkq0Nds0) | 2:58 |
 | 47 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 |
 | 48 | [Heaven](https://open.spotify.com/track/1k4mn7Rb1DeNxWBs6fmanW) | [Feb](https://open.spotify.com/artist/6lc0muqqPZVQsaTsNCyuRa), [KPLR](https://open.spotify.com/artist/7wovvpD23QhAuKTtMzJxbQ), [Nadia Gattas](https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw) | [Heaven](https://open.spotify.com/album/6BN3Lbc5hDErlomk6zgpJh) | 2:20 |
 | 49 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Diamonds \(feat\. Aleyna Tilki\)](https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o) | 2:48 |
 | 80 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 |
 
-Snapshot ID: `MCw3OGI4MWNhNTcwOTI3ODc2NjcwMTY2Nzg4YmFjMzMzY2Y5YzRjNTUw`
+Snapshot ID: `MCw4MDJmYzAwMmQ0ODA2MDM2ZDI3ZTM4OGZkYTZjYWYzNWM0NWYxNjAw`

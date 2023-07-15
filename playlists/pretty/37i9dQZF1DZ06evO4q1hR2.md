@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,073 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,093 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [Las Morenas](https://open.spotify.com/track/5JmEjPobY0W4JN8F20yeeh) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Escuela de la Vida](https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg) | 2:30 |
 | 50 | [Besitos En El Cuello](https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Las Bandas Románticas](https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22) | 2:28 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDAzMGYxNjkwOTFjMzQ3Y2NmNGNjNzBkOTNjZmFjN2M4MA==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDA0YzJiZmY2ZjljNDMwMGMyNDJiYjczMjk3NDFjMWFmOA==`

@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-304 songs - 14 hr 50 min
+305 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [o'dun](https://open.spotify.com/track/738fvtQnIL1V5WyAm2zuQw) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [o'dun](https://open.spotify.com/album/4Qg5ssmmJ0vjIH16E63Jkc) | 2:35 | 2022-05-05 | 2023-03-11 |
 | [Oba](https://open.spotify.com/track/07nOYCGwTIeNVp7HcY83en) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/4RuSx7uURK2Dsqq11bKMJx) | 3:08 | 2022-02-24 | 2023-02-11 |
 | [Oganigwe](https://open.spotify.com/track/7DRGQ7JVWzXxHbPXOU172t) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:58 | 2023-04-27 |  |
+| [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 | 2023-07-14 |  |
 | [Ojemba](https://open.spotify.com/track/4zqWVvzrPDFQmTH8lkeU5p) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ojemba](https://open.spotify.com/album/1UDK8dfDpF5WmhS3d8POZM) | 2:57 | 2023-01-27 | 2023-03-31 |
 | [OKAY](https://open.spotify.com/track/3Xt6axkCM9aYQgaYA2531B) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg) | [OKAY](https://open.spotify.com/album/1RoWrulDAhzrCMJ4mhLTVR) | 2:46 | 2023-04-27 | 2023-05-05 |
 | [Olorun Maje](https://open.spotify.com/track/6PMAkS0V1IMh6pndxR8A6E) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr) | [Olorun Maje](https://open.spotify.com/album/3lS0aB3MgFWB9t5NEcALlc) | 2:41 | 2022-11-04 | 2022-11-19 |

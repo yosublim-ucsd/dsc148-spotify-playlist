@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 200734,
+  "num_followers": 200918,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjViMjM2NzE3N2FkMzg4OTQ4M2EwOGQ5NjU0NDAwNjkwMDhhZWRh",
+  "snapshot_id": "MCwzNWU3NWU2ODdjYzBhZThhZDA5NTkyN2JlMjBjM2MxMTYwYTUwMDhj",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-30 09:14:29",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
-    },
-    {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Presenting the Fabulous Ronettes Featuring Veronica",
-        "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Surrealistic Pillow",
@@ -523,6 +507,22 @@
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Presenting the Fabulous Ronettes Featuring Veronica",
+        "url": "https://open.spotify.com/album/0CoNLgOwcZGBUSwd9fAZuy"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "This Old Heart Of Mine",
@@ -779,6 +763,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "Do You Love Me (Now That I Can Dance)",
+        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW"
-      },
-      "artists": [
-        {
-          "name": "Chris Montez",
-          "url": "https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
       "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW"
+      },
+      "artists": [
+        {
+          "name": "Chris Montez",
+          "url": "https://open.spotify.com/artist/0QRgfCLzSR9GyCjXboWQTA"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo"
     },
     {
       "added_at": "2022-06-16 22:02:00",

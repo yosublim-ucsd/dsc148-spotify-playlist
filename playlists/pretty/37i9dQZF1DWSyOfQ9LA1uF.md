@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,339 likes - 75 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,361 likes - 75 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Let Me Back Up \- Crookers Tetsujin Remix](https://open.spotify.com/track/2UKJQ77iYBntfaiuIdIcUF) | [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [From Then Until Now](https://open.spotify.com/album/23hTRQVUECDeCdPKDP1qHF) | 5:51 |
 | 75 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
 
-Snapshot ID: `MCwzMTk3MGYwZTY1OTZiYzU1YzU4NGQ3NzRjZGIzZThiM2JkZWE5NmQ3`
+Snapshot ID: `MCw2ZTkzZmU3YTMwZDA4Mzg0NGY1NjJlY2NkYTg4ZDJhOWVhMzA5YTI1`

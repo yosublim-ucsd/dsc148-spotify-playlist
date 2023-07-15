@@ -2,9 +2,9 @@
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in R&B, right now – featuring PARTYNEXTDOOR.
+> What's happening in R&B, right now – featuring Idman.
 
-562 songs - 1 day 7 hr 3 min
+564 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/track/1RI4YQVFh7onQD07QuL8ND) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Be Alive \(Original Song from the Motion Picture "King Richard"\)](https://open.spotify.com/album/5a73HUmrKIebjmafM1QuFS) | 3:40 | 2021-12-31 | 2022-01-15 |
 | [BE MY GIRL](https://open.spotify.com/track/5gjBw5k3DKHkylViPcVs1b) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [BE MY GIRL](https://open.spotify.com/album/1d44Ijm1tU3ph4WrmD8euD) | 3:02 | 2022-07-22 | 2022-10-01 |
 | [Be This Way](https://open.spotify.com/track/698JiO0elk4iA7xOooPwQa) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Be This Way](https://open.spotify.com/album/5umIrJ23D1iAko4lDnrbpr) | 1:57 | 2022-05-20 | 2022-06-04 |
+| [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 | 2023-07-14 |  |
 | [beat of a slow dance](https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [beat of a slow dance](https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d) | 3:54 | 2023-02-24 | 2023-03-04 |
 | [BEAUTIFUL \(feat\. Future & SZA\)](https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-08-26 | 2022-12-31 |
 | [Best Friends](https://open.spotify.com/track/78kBfiOIowbBQ96iQGQCl8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a) | 2:43 | 2022-03-25 | 2022-04-29 |
@@ -187,7 +188,7 @@
 | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/track/3K9IrLs25jHtvWjAAFAfav) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Gotta Move On \(feat\. Bryson Tiller\)](https://open.spotify.com/album/0JZyDPMrhPEnsuJEbVymJJ) | 2:40 | 2022-06-17 | 2022-12-17 |
 | [Guess](https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:13 | 2022-09-23 | 2022-12-10 |
 | [Half Empty](https://open.spotify.com/track/5P9r8VUZIn92AsTqe95nbW) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Half Empty](https://open.spotify.com/album/1RRvzs9YEYGWCunuLpZ3gH) | 3:24 | 2022-05-27 | 2022-06-25 |
-| [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 | 2023-02-03 |  |
+| [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 | 2023-02-03 | 2023-07-15 |
 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 | 2022-02-04 | 2023-01-06 |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-22 | 2022-10-01 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-12-31 | 2022-02-05 |
@@ -219,6 +220,7 @@
 | [If I Get Caught \- Spotify Singles](https://open.spotify.com/track/2B7ttNw5LpZxTcXAQ1u817) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Spotify Singles](https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc) | 3:31 | 2022-08-05 | 2022-09-03 |
 | [If I Had \(feat\. Charlie Wilson\)](https://open.spotify.com/track/3JJqdVXy8p9rCtTmlv1mXO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:28 | 2023-02-24 | 2023-03-18 |
 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 | 2022-01-14 | 2022-02-26 |
+| [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 | 2023-07-14 |  |
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-11-11 | 2023-02-25 |
 | [In The Bible \(with Lil Durk & Giveon\)](https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:56 | 2021-12-31 | 2022-02-19 |
 | [In The Club](https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [In The Club](https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs) | 2:52 | 2022-04-29 | 2022-05-20 |
@@ -399,7 +401,7 @@
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 |  |
 | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/track/4G9ASa9c5scdal2puHntMR) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [R U That \(feat\. 21 Savage\)](https://open.spotify.com/album/2R7eCne1bINTDfQpaQ0h8h) | 2:42 | 2022-02-18 | 2022-03-05 |
 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 | 2022-01-14 | 2022-01-29 |
-| [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 | 2023-07-07 |  |
+| [Ready](https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Ready](https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E) | 3:01 | 2023-07-07 | 2023-07-15 |
 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 | 2022-01-28 | 2022-08-06 |
 | [Reasons \(with Amaal\)](https://open.spotify.com/track/2hPZY95QjaAK5PpUyvqw6n) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Tangible](https://open.spotify.com/album/0fvGi7uj6n88ZBSTVvrgDH) | 2:41 | 2021-12-31 | 2022-03-19 |
 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 | 2021-12-31 | 2022-01-15 |

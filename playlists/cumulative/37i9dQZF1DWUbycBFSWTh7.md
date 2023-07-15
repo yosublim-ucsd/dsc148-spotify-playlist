@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-201 songs - 18 hr 57 min
+202 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Be Yourself \- Central Remix](https://open.spotify.com/track/0PhB0fgiMfIC649131VRH4) | [Space Ghost](https://open.spotify.com/artist/3YfpfN9dOwJUoeqXoWazgi), [Central](https://open.spotify.com/artist/5WrCFzEOrPR73qYg3psCro) | [Dance Planet Remixes](https://open.spotify.com/album/6ZqMR4wBWbYkZCPM6h0MBH) | 7:57 | 2022-09-15 |  |
 | [Better Do It Right](https://open.spotify.com/track/14zYY940HtQYEfUQPKf5i2) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Better Do It Right](https://open.spotify.com/album/7rjC1bfZ0JfymIa4arsV6Q) | 6:41 | 2022-09-15 | 2023-04-09 |
 | [Body Control \- Edit](https://open.spotify.com/track/05QNX862U0b2TGNIP9Dbg4) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Keep On Swindling Pt\. 1](https://open.spotify.com/album/06b7L6PMVHt3NH9YC8PeOg) | 3:48 | 2022-09-15 | 2023-01-13 |
+| [Bonzai](https://open.spotify.com/track/1Cwjy8hde63XjJfulolyYi) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Bonzai](https://open.spotify.com/album/7evOBOpqevrNBQylaTJTUq) | 4:59 | 2023-07-14 |  |
 | [Break The Needle](https://open.spotify.com/track/0qvoL27nMDfq1LaGc4Nxom) | [Waste Only](https://open.spotify.com/artist/0YLTSff9V7T0IJ3GEHS5kl) | [Break The Needle](https://open.spotify.com/album/5O4jYlIffre77Og0RhIOzk) | 2:57 | 2022-09-15 | 2023-01-13 |
 | [Can I See You Tonight \(Young Marco Remix\)](https://open.spotify.com/track/2T1nzOkomRGzHeqhEdtHi4) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Can I See You Tonight \(Young Marco Remix\)](https://open.spotify.com/album/4OOzvrWoqfLqGbv6hGO3iO) | 7:18 | 2022-09-15 | 2023-07-12 |
 | [Cellular](https://open.spotify.com/track/5ECHzZITsgWdKtx9mXZy8s) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Cellular](https://open.spotify.com/album/7bIMKKz8nkjnlBJa2ti4GP) | 7:05 | 2022-12-01 |  |
@@ -167,7 +168,7 @@
 | [The Backyard](https://open.spotify.com/track/6smrRN7I1ryyCDG47kH6XK) | [Mosley Jr](https://open.spotify.com/artist/35esnnk9qnh5dte6Lqrzav) | [Lonestar Retreat](https://open.spotify.com/album/3ZCKOSktiXr7H4UvuCTqjD) | 6:02 | 2023-07-07 |  |
 | [The Bang](https://open.spotify.com/track/3rrFrL5DP2VCW95bAs3xWT) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [PIV ADE Sampler '21, Pt\. 1](https://open.spotify.com/album/76J8TgiOYrMzM4vVucMK9O) | 5:05 | 2022-09-15 | 2023-04-09 |
 | [The Compass Jawn \- Studio Version](https://open.spotify.com/track/442z2BjwXdn4DlQdqPsmX5) | [Charlie Soul Clap](https://open.spotify.com/artist/4R1FbGcLzUd1poeNQXIb8o), [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [The Compass Jawn](https://open.spotify.com/album/3GRkliKarE23yqJyW1aBky) | 6:04 | 2022-10-20 |  |
-| [The Funky Sound](https://open.spotify.com/track/4BAc4ieGddheTr1qTUz3FK) | [Rob Stillekens](https://open.spotify.com/artist/7x69Nz9Wi6fX7wwJZ9snI7) | [Shake It On Down](https://open.spotify.com/album/6QMkLzfvYHhuCNrE0xhCNd) | 6:05 | 2022-09-15 |  |
+| [The Funky Sound](https://open.spotify.com/track/4BAc4ieGddheTr1qTUz3FK) | [Rob Stillekens](https://open.spotify.com/artist/7x69Nz9Wi6fX7wwJZ9snI7) | [Shake It On Down](https://open.spotify.com/album/6QMkLzfvYHhuCNrE0xhCNd) | 6:05 | 2022-09-15 | 2023-07-15 |
 | [The Grinder](https://open.spotify.com/track/4qaMfI2sVxlxKgRXF9oQsK) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [The Grinder](https://open.spotify.com/album/4kJwmSsuILkU5XQ86TipJA) | 6:56 | 2022-09-15 | 2023-04-09 |
 | [The Music](https://open.spotify.com/track/0ZVWMeEz5X0edQ1LTomuTw) | [Cosmic Soul](https://open.spotify.com/artist/5ctyqp5iHjbkdXYAA10ExM), [Tom Novy](https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX) | [The Music](https://open.spotify.com/album/0tDtwCFealtuH3EM9j53QD) | 5:20 | 2023-07-07 |  |
 | [The Observer](https://open.spotify.com/track/6QoVPPIRdkiNCVcCUJOzbI) | [Kasper Koman](https://open.spotify.com/artist/2fjKKBOOCTqkDTRC7wH6dO) | [The Observer](https://open.spotify.com/album/1VhXkL2qIGFwQH8hWANTOy) | 8:12 | 2022-09-15 |  |

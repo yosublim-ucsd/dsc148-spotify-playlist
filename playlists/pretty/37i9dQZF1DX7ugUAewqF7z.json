@@ -1,15 +1,15 @@
 {
   "description": "\u2018Ssuply\u2019 makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation. (\uc138\uc0c1\uc758 \ub2e4\uc591\ud55c \uc774\uc57c\uae30\ub97c \ub4e3\uace0, \uc0c1\ud669\uc5d0 \ub531 \ub9de\ub294 \uc74c\uc545\uc744 \ucd94\ucc9c\ubc1b\uc544, \uc6b0\ub9ac\ub9cc\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub97c \ub9cc\ub4dc\ub294 \u2018\uc370\ud50c\ub9ac\u2019\uc785\ub2c8\ub2e4.)",
-  "num_followers": 3490,
+  "num_followers": 3527,
   "original_name": "Ssuply (\uc370\ud50c\ub9ac)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2MyMTQyOWZlODdlMWNkMDVlZjIzMjU2NGZmYzI1MGRjYWE0NjNh",
+  "snapshot_id": "MCw5ZjU4OWJkZjBmMzRkOGM4MDAwYzYwYmIzZmJkMTlkYWRmZmQwMzQ3",
   "tracks": [
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Ssulply audio liner",
         "url": "https://open.spotify.com/album/7cPhc0XndeO1owLvpL35sr"
@@ -25,7 +25,75 @@
       "url": "https://open.spotify.com/track/0MjronzCtDF43QGqID7QTA"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.10",
+        "url": "https://open.spotify.com/album/6pA4gih29c7CIgxhx11BNS"
+      },
+      "artists": [
+        {
+          "name": "Doldams",
+          "url": "https://open.spotify.com/artist/1Kl9OLx9kTOZVeSHA9yZkU"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Thank You for the Memories",
+      "url": "https://open.spotify.com/track/4p1rvfjnXcEVg513qZPGVT"
+    },
+    {
+      "added_at": "2023-07-14 07:00:00",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+    },
+    {
+      "added_at": "2023-07-14 07:00:00",
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
+    },
+    {
+      "added_at": "2023-07-14 07:00:00",
+      "album": {
+        "name": "2 Little Bites From [Fatal Album \u2162]",
+        "url": "https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Eul (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w"
+    },
+    {
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Made In Korea?",
         "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
@@ -41,7 +109,7 @@
       "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "\ub3c8 \ubc8c \uc2dc\uac04 2",
         "url": "https://open.spotify.com/album/0nU8PoUOKgmeiB78GKrFMT"
@@ -57,7 +125,7 @@
       "url": "https://open.spotify.com/track/3fZWliK6TSGwx2feMCnu2Z"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/5evr2BAxQmxyF8dZyaezzS"
@@ -73,7 +141,7 @@
       "url": "https://open.spotify.com/track/1F6qqwgyBjcIMzen8RrOXQ"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "\u30a2\u30a4\u30c9\u30eb",
         "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
@@ -89,7 +157,7 @@
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "I feel",
         "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
@@ -105,7 +173,7 @@
       "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
@@ -121,7 +189,7 @@
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "From The Yellow Room (The Original & the Very First Recording)",
         "url": "https://open.spotify.com/album/29tE32FrVIR0L7cz9LeykK"
@@ -137,7 +205,7 @@
       "url": "https://open.spotify.com/track/7vd1j4IDTU0koES9M8dvBQ"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "KARA 3rd Album STEP",
         "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
@@ -153,7 +221,7 @@
       "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Good Day (My love X LEESEOKHOON)",
         "url": "https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl"
@@ -169,7 +237,7 @@
       "url": "https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "sg WANNA BE - Classic Odyssey",
         "url": "https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv"
@@ -185,7 +253,7 @@
       "url": "https://open.spotify.com/track/6X6ex9jjNkJ3FYoXRDO4hE"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Me After You",
         "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
@@ -201,7 +269,7 @@
       "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Monthly Project 2012 June Yoon Jong Shin - Uphill Road",
         "url": "https://open.spotify.com/album/2HJUf6esRJKgY4ceH92mxt"
@@ -221,7 +289,7 @@
       "url": "https://open.spotify.com/track/1i4nfd0n3FurIFsXcJGxdq"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Mr. Trot WINNER SONG",
         "url": "https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g"
@@ -237,7 +305,7 @@
       "url": "https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "\uc2f8\uc9d1",
         "url": "https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63"
@@ -253,7 +321,7 @@
       "url": "https://open.spotify.com/track/5s3ESdthJZaA4Tuqj3Nz8V"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
@@ -269,7 +337,7 @@
       "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "\ub2e4\uc12f\uc190\uac00\ub77d \uace8\ub4e0 \ud79b\ud2b8\uace1 \ubaa8\uc74c",
         "url": "https://open.spotify.com/album/0OKu2x5KBTXYjmACGASREU"
@@ -285,7 +353,7 @@
       "url": "https://open.spotify.com/track/6NGfh35DLX4MGelPQsWkD1"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Fountain",
         "url": "https://open.spotify.com/album/7kfhx5sztT503CUu9I1r8D"
@@ -305,7 +373,7 @@
       "url": "https://open.spotify.com/track/33G3yRbFmwmYVw0N12v177"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Step Back!",
         "url": "https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl"
@@ -325,7 +393,7 @@
       "url": "https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
@@ -341,7 +409,7 @@
       "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Take.1 Are You There?",
         "url": "https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I"
@@ -357,7 +425,7 @@
       "url": "https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
@@ -373,7 +441,7 @@
       "url": "https://open.spotify.com/track/0XuepwFJUcKN8T5zTqoP0F"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "[#]",
         "url": "https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC"
@@ -389,7 +457,7 @@
       "url": "https://open.spotify.com/track/1ry2mTVmAJHbNLzl5qww5v"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Road to Kingdom FINAL",
         "url": "https://open.spotify.com/album/4TgA5simte3kvIacVDDBEj"
@@ -405,7 +473,7 @@
       "url": "https://open.spotify.com/track/4q1GHje15U7ViWDWSLydPR"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "I NEVER DIE",
         "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
@@ -421,7 +489,7 @@
       "url": "https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Very Good",
         "url": "https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww"
@@ -437,7 +505,7 @@
       "url": "https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "BREAK TIME",
         "url": "https://open.spotify.com/album/2b9KWUiZayjQgc0HiC9uLr"
@@ -453,7 +521,7 @@
       "url": "https://open.spotify.com/track/2ZUrBRLYyMo5SJHA8z8lEg"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "CONTI UKISS",
         "url": "https://open.spotify.com/album/4qQoNriNZarXJIIk4nZ4JS"
@@ -469,7 +537,7 @@
       "url": "https://open.spotify.com/track/4rESBYQ63FtklA67GT0C5c"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Kim Soo Chul One Man Band",
         "url": "https://open.spotify.com/album/2srwhj4UhJ3qe0fK1gHj3n"
@@ -485,7 +553,7 @@
       "url": "https://open.spotify.com/track/15ouO5mVTnfZnHkShDqioD"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
@@ -505,7 +573,7 @@
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Modern Times \u2013 Epilogue",
         "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
@@ -525,7 +593,7 @@
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Reply 1997 - Love Story (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/2CuDNaqMUHtQrt3B0hqfVb"
@@ -545,7 +613,7 @@
       "url": "https://open.spotify.com/track/0HNIIJzAVqPXmUOZFx03Av"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
@@ -569,7 +637,7 @@
       "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Not Spring, Love, or Cherry Blossoms",
         "url": "https://open.spotify.com/album/171jiqtOAyvjf2JCfhuIMk"
@@ -589,7 +657,7 @@
       "url": "https://open.spotify.com/track/1IdM9JrXYuMYiTdM983oH4"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "`A CUBE` FOR SEASON # GREEN",
         "url": "https://open.spotify.com/album/0d9rKDxur1VVQxgJOQawaA"
@@ -609,7 +677,7 @@
       "url": "https://open.spotify.com/track/1obtU03RXYzuNnzGe31arn"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Nitpicking",
         "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
@@ -625,7 +693,7 @@
       "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "re;code Episode I",
         "url": "https://open.spotify.com/album/3xmw76QvinagFaobSre2oX"
@@ -645,7 +713,7 @@
       "url": "https://open.spotify.com/track/1HOcUR5aloWDwLAsPtWwel"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Princess Hours (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
@@ -665,7 +733,7 @@
       "url": "https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "REFORM",
         "url": "https://open.spotify.com/album/3wnAkM2CZcrvxWZdbVsilr"
@@ -689,7 +757,7 @@
       "url": "https://open.spotify.com/track/6h1DFkq91YcMrEzWeUDRyA"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Perfume - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
@@ -705,7 +773,7 @@
       "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "HEADACHE.",
         "url": "https://open.spotify.com/album/60fWmW12NbcOa8Bpm5F0Rv"
@@ -721,7 +789,7 @@
       "url": "https://open.spotify.com/track/4DmNIXSHfiguByW1g7OXcb"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
@@ -737,7 +805,7 @@
       "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Hometown Cha-Cha-Cha, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0I9P3bt2K8NAB97yh7uBPf"
@@ -753,7 +821,7 @@
       "url": "https://open.spotify.com/track/12n9WBfLII5EdQFzQiQFqv"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Picture of You",
         "url": "https://open.spotify.com/album/36svQD3MkJQ9dcCyvB64eL"
@@ -773,7 +841,7 @@
       "url": "https://open.spotify.com/track/1q9CA3YEWtoJniIFzaSkdu"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Lazy Me",
         "url": "https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7"
@@ -789,7 +857,7 @@
       "url": "https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Idle Idle",
         "url": "https://open.spotify.com/album/5oJiWLZ8JGsYPh9Pdq9D2s"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "The Spring of Twenty",
         "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
@@ -821,7 +889,7 @@
       "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Like We Turn the Pages",
         "url": "https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE"
@@ -837,7 +905,7 @@
       "url": "https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "A little more (From \"soundtrack#1\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd"
@@ -853,7 +921,7 @@
       "url": "https://open.spotify.com/track/5JXZEz2nO23mXsYY4nNREW"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "2 Baddies - The 4th Album",
         "url": "https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ"
@@ -869,7 +937,7 @@
       "url": "https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2lyGDRXefXaQLpkO9LFchu"
@@ -885,7 +953,7 @@
       "url": "https://open.spotify.com/track/5VeXj6AN1SDRfvcjafPKCc"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
@@ -901,7 +969,7 @@
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
@@ -917,7 +985,7 @@
       "url": "https://open.spotify.com/track/1MZ1Y6rIbt008t1TOhHlt5"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
@@ -933,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6DUm0mHHRdQSaVMYYstk5x"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -949,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2oAktpQukxopxpFMbmG6JZ"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
         "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
@@ -965,7 +1033,7 @@
       "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/1owA0EttITvg87XbfiAPHz"
@@ -985,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1FRvRsa1hNH9ykwnmINJIr"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "I happen to Love You",
         "url": "https://open.spotify.com/album/2mQctK0OktEQkSa5HfsbFF"
@@ -1005,7 +1073,7 @@
       "url": "https://open.spotify.com/track/4fwQfkIhcvnx32WoHnpKNn"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "\uccab\ub208\uc5d0 \ubfc5!",
         "url": "https://open.spotify.com/album/6MnDjLA0vALGHkguvGAu1n"
@@ -1021,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3I8yVMehwPY6poafWii5Fc"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "Why Not?",
         "url": "https://open.spotify.com/album/5BPXrF9UC8cckWFWNMcdO6"
@@ -1037,7 +1105,7 @@
       "url": "https://open.spotify.com/track/7zdzUXDmFWX2fU0lRRjwBS"
     },
     {
-      "added_at": "2023-07-07 10:11:49",
+      "added_at": "2023-07-14 07:00:00",
       "album": {
         "name": "As A Man Rather Than A Friend",
         "url": "https://open.spotify.com/album/1jnSwvqHYKcsx57mOxXt25"

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 16070,
+  "num_followers": 16076,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTBlMjlkMDAxY2QwYWNhNmZjOGM3ZTM5NWY3MzFjYTc5YWQyYWQ2",
+  "snapshot_id": "MCw5NWE4ZDYyNzNlNjA2OTUzZDkwY2MyMzZlNjFjYmEyYzQ2YmU2YTg5",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Con las Alas del Alma",
+        "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
+      },
+      "artists": [
+        {
+          "name": "Eladia Blazquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Siempre Se Vuelve a Bs. As.",
+      "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 238826,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
-        "name": "Con las Alas del Alma",
-        "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
-      },
-      "artists": [
-        {
-          "name": "Eladia Blazquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Siempre Se Vuelve a Bs. As.",
-      "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
     },
     {
       "added_at": "2022-07-08 03:00:00",

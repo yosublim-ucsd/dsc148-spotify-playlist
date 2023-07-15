@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of Country and Folk\. Cover: Ryan Bingham
+> Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-335 songs - 20 hr 30 min
+338 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2023-04-21 |  |
 | [Edge of Us](https://open.spotify.com/track/2dH2QAXL3JphxxZOjjCqCZ) | [Jaron Chidiac](https://open.spotify.com/artist/27W3Bt6tacaYmtAMMKxiFX) | [Edge of Us](https://open.spotify.com/album/49hhJpCaz9ClqJAWpiZPyT) | 3:02 | 2022-09-09 | 2023-04-22 |
 | [Empty Hands](https://open.spotify.com/track/18vqU2qFGKhbtjXLUivJdV) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Empty Hands](https://open.spotify.com/album/6z88uxD3m9LV5nEpsJATG3) | 4:21 | 2022-11-11 | 2023-04-22 |
-| [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-04-28 |  |
+| [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-04-28 | 2023-07-15 |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 | 2022-07-23 |
 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 | 2023-02-24 |  |
 | [Eye For An Eye](https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Eye For An Eye](https://open.spotify.com/album/60lPRUPJv9WBKCVhPh76FD) | 3:01 | 2023-06-02 |  |
@@ -186,6 +186,7 @@
 | [Let's All Help the Cowboys \(Sing the Blues\)](https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Lighthouse in Little Lorraine](https://open.spotify.com/track/5OoH1BWs8xVTvNNcARmP5R) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Concertos & Serenades](https://open.spotify.com/album/1lnm1yLB86rkOcThRb0iRG) | 6:07 | 2022-09-23 | 2023-04-22 |
 | [Little Red](https://open.spotify.com/track/2VaWteuuiYb4spgqgMqvXq) | [Vikki Gilmore](https://open.spotify.com/artist/7dRZclXkaEE73U3Tx1u9qV) | [Little Red](https://open.spotify.com/album/19haDyx2HW3RUE3B51HUhQ) | 3:31 | 2022-05-13 | 2022-10-29 |
+| [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 | 2023-07-14 |  |
 | [Lonesome & Mad](https://open.spotify.com/track/0eeUxgcLK8vVsk6z3eQ6u2) | [Under The Rug](https://open.spotify.com/artist/4cTkErT8j7NvsTEmgPkGT2), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Lonesome & Mad](https://open.spotify.com/album/3hSJXl9zX9NeGIAe6f1IhH) | 3:57 | 2023-03-17 | 2023-04-22 |
 | [Long Violent History](https://open.spotify.com/track/4Bu4aJ7xLdIeRnD69pFBXU) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Long Violent History](https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s) | 3:10 | 2023-04-21 | 2023-06-24 |
 | [Long Way Down](https://open.spotify.com/track/1g1QGUiGeBPDepBOqDgU0U) | [iskwē](https://open.spotify.com/artist/31flUlPgtGjDz3WL9hn420), [Tom Wilson](https://open.spotify.com/artist/5yC7xvjGxlXLUTzmrmprLu) | [Long Way Down](https://open.spotify.com/album/3XXD57YERTN183g9YoMYKf) | 3:18 | 2022-05-13 | 2022-07-23 |
@@ -275,6 +276,7 @@
 | [Snakes and Ladders](https://open.spotify.com/track/7mnN6NVO9SdNtZhByoazrA) | [Jessica Rhaye](https://open.spotify.com/artist/0JI6j7EohGdNldcfMxq9By), [The Ramshackle Parade](https://open.spotify.com/artist/0TxRZtz5eUT5Vx3wkFQrZB) | [Snakes and Ladders](https://open.spotify.com/album/2QsIOMeDYFGLhWzIAellDK) | 3:42 | 2023-04-07 | 2023-04-22 |
 | [Snakes and Waterfalls](https://open.spotify.com/track/684tjAMxT8Bdm7RSv6vgzC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/7yeUolKNVVSu3jpK5JuK3b) | 4:02 | 2023-04-21 | 2023-04-30 |
 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 | 2023-04-28 |  |
+| [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 | 2023-07-14 |  |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2022-11-11 |  |
 | [South Dakota Wild One](https://open.spotify.com/track/0YMrA32lkcYj5g89bfyMLb) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [Ways & Means](https://open.spotify.com/album/0k72s0eVcw3D2PRgZXdT94) | 3:23 | 2023-04-21 |  |
@@ -315,9 +317,10 @@
 | [Two Shots](https://open.spotify.com/track/5TedK5daYlWU5Ij9gBxQpk) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Traveller](https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn) | 4:09 | 2023-01-27 | 2023-03-04 |
 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 | 2023-02-24 |  |
 | [Two Wolves](https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 4:04 | 2022-09-30 | 2023-03-02 |
+| [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 | 2023-07-14 |  |
 | [Unlucky Skin](https://open.spotify.com/track/6lFoLANp9f1mETEyxp3sCE) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Unlucky Skin / Roll The Bones](https://open.spotify.com/album/6mWrmigd6yuj5142g0f8Vo) | 3:18 | 2022-05-13 | 2022-05-20 |
 | [Up To You](https://open.spotify.com/track/6NpXHoyenMiNwXvOocSPkk) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Up To You](https://open.spotify.com/album/3SJsVvtNTvD8UqHztTFWs0) | 3:12 | 2022-07-29 | 2022-08-27 |
-| [Upime](https://open.spotify.com/track/4roek8AJnlSRgkvJxLQJjE) | [Claude McKenzie](https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY) | [Mukuuin](https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn) | 3:46 | 2022-05-13 |  |
+| [Upime](https://open.spotify.com/track/4roek8AJnlSRgkvJxLQJjE) | [Claude McKenzie](https://open.spotify.com/artist/6mQxVMXmQumHSbY96HiMjY) | [Mukuuin](https://open.spotify.com/album/6U8xS5uvMy8bD6ErzK4WMn) | 3:46 | 2022-05-13 | 2023-07-15 |
 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 | 2023-04-21 |  |
 | [Viral](https://open.spotify.com/track/5Qb85PqpUrbUIbUX5HMsEZ) | [Matthew Barber](https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX) | [Viral](https://open.spotify.com/album/1RoIwKIEMOUVkKcQVCHn9D) | 2:28 | 2022-05-13 | 2023-04-22 |
 | [Water From A Stone](https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [Water From A Stone](https://open.spotify.com/album/3LwJ8hTTXCKzW4Trh9ZpCn) | 4:24 | 2022-05-13 | 2023-04-22 |
@@ -336,7 +339,7 @@
 | [Witness](https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Gypsy](https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh) | 2:52 | 2023-04-28 |  |
 | [Witness](https://open.spotify.com/track/3owPyyMaxY6KbcUPKcTuhl) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Gypsy](https://open.spotify.com/album/3XjRVqf066pbYdBUgHEMdH) | 2:52 | 2023-04-21 | 2023-04-30 |
 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 | 2023-04-21 |  |
-| [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 | 2023-04-14 |  |
+| [World Burn](https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy) | [Amos the Kid](https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4) | [World Burn](https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX) | 3:30 | 2023-04-14 | 2023-07-15 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2022-05-13 | 2022-09-24 |
 | [Worst of Ways](https://open.spotify.com/track/52MB4aPwtWemZmXdfe5kOU) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Field Guide](https://open.spotify.com/album/64dSRXwXcQ5GAEFeGVmRRr) | 3:26 | 2022-10-28 |  |
 | [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 | 2023-04-21 | 2023-06-24 |

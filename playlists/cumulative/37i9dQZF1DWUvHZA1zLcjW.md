@@ -4,7 +4,7 @@
 
 > Chilled classical tunes to help you relax and unwind.
 
-190 songs - 13 hr 32 min
+191 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 | 2022-01-28 | 2022-07-29 |
 | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/track/5SjC85F2Wm3AN9bS6gI7QM) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Judith Cohen](https://open.spotify.com/artist/7kw0Vr8rXvL3E4fGWXItbu) | [Sonatine, M\. 40 II\. Mouvement de Menuet](https://open.spotify.com/album/4fEu8NRbzg2C2ZUE8SehFw) | 3:03 | 2023-06-30 |  |
 | [Spiegel im spiegel](https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Arvo Pärt: Portrait](https://open.spotify.com/album/5lSNHTsXwVA7wLlplt92HH) | 8:23 | 2022-01-28 | 2022-08-03 |
+| [String Quartet No\. 2 in A Minor: II\. Andante cantabile \(Arr\. Colbert for String Ensemble\)](https://open.spotify.com/track/4dAudDd5aYKHSrVzMSR8HI) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Sphinx Virtuosi](https://open.spotify.com/artist/61Cl1X980GnqC4tOH1Cdyn) | [Price: String Quartet No\. 2 in A Minor: II\. Andante cantabile \(Arr\. Colbert for String Ensemble\)](https://open.spotify.com/album/50Cnys8oPsROratizJAoed) | 7:06 | 2023-07-14 |  |
 | [String Quartet No\. 4 in E Minor, Op\. 44 No\. 2: III\. Andante](https://open.spotify.com/track/6YQ6PgCwOOINjkApl1ayik) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Quatuor Van Kuijk](https://open.spotify.com/artist/3JskWGJqTH0wpdVErwUOub) | [Mendelssohn: Complete String Quartets, Vol\. 2](https://open.spotify.com/album/30XTrmfSB4A3elTZbTR8Se) | 6:22 | 2023-05-12 |  |
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 | 2022-01-28 |  |
 | [Suite from The Theory of Everything: I\. A Model of the Universe](https://open.spotify.com/track/0iiTQYE1uhTDxQIwugbZMc) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Iceland Symphony Orchestra](https://open.spotify.com/artist/3RPu1pwXXrPqamAp6OHZ8b), [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon) | [Jóhannsson: Suite from The Theory of Everything: I\. A Model of the Universe](https://open.spotify.com/album/14iWMkGR0g0lLGRKDQS13s) | 1:30 | 2023-06-30 |  |

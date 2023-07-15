@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Nacee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,064 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,084 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 27 | [Okrokrohene](https://open.spotify.com/track/1hwfnRVEec9Ho2mgqimW5q) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Okrokrohene](https://open.spotify.com/album/0eIX56hYf6WJBgNweasILX) | 6:06 |
 | 28 | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Kweku Teye](https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp) | [Me Dan Wo \(feat\. Kweku Teye\)](https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5) | 6:12 |
 | 29 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
-| 30 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 |
-| 31 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 |
+| 30 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 |
+| 31 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 |
 | 32 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
 | 33 | [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 |
 | 34 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 46 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
 | 47 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
 | 48 | [Prayer for deliverance](https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [Prayer for deliverance](https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth) | 1:34 |
-| 49 | [Highest Praise](https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE), [Adrian Sing](https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:42 |
-| 50 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 |
+| 49 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 |
+| 50 | [Highest Praise](https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE), [Adrian Sing](https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:42 |
 
-Snapshot ID: `MCxlMDJkMDc1ZjAwZWQ3NzM2OTQ3YzBhYjMxYTFiMjk4MmU5NWQxYmMw`
+Snapshot ID: `MCwyYmY0ZTc3ODdkYTI0NWUxMWQ2MGE0NThjOGJkMDI3YmM1ZDkzYmIz`

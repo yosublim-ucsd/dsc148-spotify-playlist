@@ -1,13 +1,45 @@
 {
-  "description": "Dark, hard hitting pop. Cover: SNOW WIFE",
-  "num_followers": 373025,
+  "description": "Dark, hard hitting pop. Cover: Tessa Violet",
+  "num_followers": 373163,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDcyNDM5OTEzMmQxZjI2ZGRlZTI4NDM4ZWEwZTNlZWFmMTNmZTZl",
+  "snapshot_id": "MCw1MjAzNjAxNmFlODAwNWE1NTI3NmMwZDNiZjVjMzIxMzRkZGI1MzNi",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 137995,
+      "name": "BAD BITCH",
+      "url": "https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
     {
       "added_at": "2023-06-30 14:09:13",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "BF",
+        "url": "https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C"
+      },
+      "artists": [
+        {
+          "name": "liza",
+          "url": "https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I"
+        }
+      ],
+      "duration_ms": 127963,
+      "name": "BF",
+      "url": "https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -41,6 +89,22 @@
       "url": "https://open.spotify.com/track/2Nyv7f1EPb0orOAV358ipT"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "hell is a teenage girl",
+        "url": "https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 155079,
+      "name": "heartbreak in the hamptons",
+      "url": "https://open.spotify.com/track/447l6JfZdDYsmHjrJLRvEh"
+    },
+    {
       "added_at": "2023-04-28 04:04:49",
       "album": {
         "name": "Little Girl Gone",
@@ -55,6 +119,22 @@
       "duration_ms": 188596,
       "name": "Little Girl Gone",
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "duration_ms": 152492,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -89,6 +169,70 @@
       "url": "https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "unhappier",
+        "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "duration_ms": 197219,
+      "name": "unhappier",
+      "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Pretty Little Addict",
+        "url": "https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8"
+      },
+      "artists": [
+        {
+          "name": "Haiden",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 167728,
+      "name": "Pretty Little Addict",
+      "url": "https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Worship",
+        "url": "https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Imitate",
+        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Imitate",
+      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
+    },
+    {
       "added_at": "2023-06-23 04:11:58",
       "album": {
         "name": "Team Sport",
@@ -121,20 +265,20 @@
       "url": "https://open.spotify.com/track/0OnON3yLi4ZSzqhgyFxwdi"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Worship",
-        "url": "https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ"
+        "name": "i should\u2019ve fucked your brother",
+        "url": "https://open.spotify.com/album/2gJ0I8ch7Jq8vSa1tt8A7U"
       },
       "artists": [
         {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 187773,
-      "name": "Worship",
-      "url": "https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr"
+      "duration_ms": 195482,
+      "name": "i should\u2019ve fucked your brother",
+      "url": "https://open.spotify.com/track/03moFmOsgmGXeioNYAoRf1"
     },
     {
       "added_at": "2023-06-23 04:21:04",
@@ -151,22 +295,6 @@
       "duration_ms": 169400,
       "name": "Run",
       "url": "https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Pretty Little Addict",
-        "url": "https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8"
-      },
-      "artists": [
-        {
-          "name": "Haiden",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 167728,
-      "name": "Pretty Little Addict",
-      "url": "https://open.spotify.com/track/0VR2zv4RlSUM9zUZukTaCG"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -199,6 +327,22 @@
       "duration_ms": 125360,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/70Wwn4bzkr4dROkzmBSNOl"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "narcissists",
+        "url": "https://open.spotify.com/album/3bxmadBCTKM5ehmDVfeMkv"
+      },
+      "artists": [
+        {
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
+        }
+      ],
+      "duration_ms": 111453,
+      "name": "narcissists",
+      "url": "https://open.spotify.com/track/3R47rF1X1DNfk2sOD6WtbE"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1151,54 +1295,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V"
-      },
-      "artists": [
-        {
-          "name": "Stela Cole",
-          "url": "https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 167294,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "not my problem",
-        "url": "https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2"
-      },
-      "artists": [
-        {
-          "name": "TAELA",
-          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
-        }
-      ],
-      "duration_ms": 129399,
-      "name": "not my problem",
-      "url": "https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Mantrum",
         "url": "https://open.spotify.com/album/197HGDLjmzlE8MZT8SrZPm"
       },
@@ -1251,22 +1347,6 @@
       "duration_ms": 149456,
       "name": "Girl Like Me",
       "url": "https://open.spotify.com/track/7bal8JfR3tSB9Qgf7wAGPL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "ever fallen?",
-        "url": "https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo"
-      },
-      "artists": [
-        {
-          "name": "Kate Peytavin",
-          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
-        }
-      ],
-      "duration_ms": 168725,
-      "name": "ever fallen?",
-      "url": "https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu"
     },
     {
       "added_at": "2023-03-10 05:00:00",

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-600 songs - 1 day 5 hr 39 min
+601 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [highschool](https://open.spotify.com/track/4zsYVlQE4mCI6eyKRYJ0db) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [highschool](https://open.spotify.com/album/1QupMGsA571ZOoZUa6nWjU) | 2:32 | 2021-04-02 | 2022-05-08 |
 | [hit the road](https://open.spotify.com/track/0aTYHNdEClzKSBPpLvKsvr) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [hit the road](https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53) | 3:04 | 2023-04-26 |  |
 | [Holding The Man](https://open.spotify.com/track/2B2ASdxMKAPkBPPNPi9JqI) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Holding The Man](https://open.spotify.com/album/1ij2oIx65jkW8IUwqeVchx) | 3:03 | 2021-04-02 | 2022-07-29 |
+| [Hollow](https://open.spotify.com/track/3RJzro8ofJNR6iVoCrXh16) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Hollow](https://open.spotify.com/album/17NymtTA5f652cEtnCApuZ) | 2:54 | 2023-06-02 |  |
 | [Home for the Summer](https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX) | 2:35 | 2022-07-15 |  |
 | [Home for the Summer](https://open.spotify.com/track/6zHP0OCcZYtxumAqmRuIXk) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/7898z7a35se7vtuoXTICxM) | 2:35 | 2021-04-02 | 2022-07-29 |
 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 | 2023-02-14 |  |
@@ -541,7 +542,7 @@
 | [Touch](https://open.spotify.com/track/4g2WiijzSKzH8PApKDbadN) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: II](https://open.spotify.com/album/4mVqE0sAXMG9DpfWxxLhsh) | 4:16 | 2022-05-25 | 2023-06-03 |
 | [Town I Called My Home](https://open.spotify.com/track/0omwXDRLUssZ7fgl9vkL4m) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Town I Called My Home](https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz) | 2:19 | 2021-04-02 | 2022-07-21 |
 | [Trashfire](https://open.spotify.com/track/1s3QzfNw4sIhpw7H2bDYll) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:51 | 2021-11-19 | 2022-10-08 |
-| [Trashfire](https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:51 | 2023-04-26 |  |
+| [Trashfire](https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g) | 2:51 | 2023-04-26 | 2023-07-15 |
 | [Try to Be Better \(Again\)](https://open.spotify.com/track/6uPSExSu4Xt7HrtJRR1a2P) | [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Try to Be Better \(Again\)](https://open.spotify.com/album/2GzjYLr24EEgwYvm2UKAT0) | 2:20 | 2021-04-02 | 2022-06-01 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2023-04-27 |
 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 | 2021-04-02 | 2022-04-14 |

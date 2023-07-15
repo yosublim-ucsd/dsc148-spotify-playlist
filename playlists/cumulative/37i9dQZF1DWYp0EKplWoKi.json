@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La esquina donde la M\u00fasica Mexicana se junta con los ritmos urbanos. Estilo Sin L\u00edmite & RENNE en portada.",
+  "description": "La esquina donde la M\u00fasica Mexicana se junta con los ritmos urbanos. Beto Vega & Lefty SM en portada.",
   "name": "El Junte",
   "tracks": [
     {
@@ -240,6 +240,28 @@
       "duration_ms": 138028,
       "name": "Al Mill\u00f3n",
       "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
+    },
+    {
+      "album": {
+        "name": "Alta Joya",
+        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
     },
     {
       "album": {
@@ -540,7 +562,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183106,
       "name": "Billetes Y Armas",
       "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
@@ -586,10 +608,44 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a (En Vivo)",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
+    },
+    {
+      "album": {
+        "name": "B\u00c9LICO Y CHOLO (feat. Polo Gonzalez) [The Remix]",
+        "url": "https://open.spotify.com/album/3CyVsx51ZgvvPb7LcgcPoz"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Tomas Ballardo",
+          "url": "https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "B\u00c9LICO Y CHOLO (feat. Polo Gonzalez) - The Remix",
+      "url": "https://open.spotify.com/track/660K6X6QHRWaErpxmBkiFN"
     },
     {
       "album": {
@@ -2015,6 +2071,28 @@
     },
     {
       "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/5GIXdsfc9E6sA31YFUp384"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160449,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/5ZnQdZ3Gg7zsJeuhkng8C7"
+    },
+    {
+      "album": {
         "name": "Los Collares",
         "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
       },
@@ -2456,7 +2534,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 167066,
       "name": "No Es S\u00f3lo Un Juego - The Official Concacaf Gold Cup 2023[TM] Theme",
       "url": "https://open.spotify.com/track/7CKoaV13hpfEtlWQyvIe4N"

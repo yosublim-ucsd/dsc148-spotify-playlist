@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,915 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,940 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 21 | [Flipside](https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Flipside](https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg) | 3:11 |
 | 22 | [Portra 400](https://open.spotify.com/track/7cMBZ7xDUb25N1We6DyoPk) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 2:56 |
 | 23 | [Out The Way](https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out The Way](https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO) | 2:35 |
-| 24 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
-| 25 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 |
+| 24 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 |
+| 25 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
 | 26 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 27 | [Say Yeah](https://open.spotify.com/track/1GDCzlN4snSHiYxxvO9Fhg) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Say Yeah](https://open.spotify.com/album/5hxuMubkHyZOW92dceGg3i) | 2:47 |
 | 28 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 32 | [Peng Black Girls](https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Under Twenty Five](https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb) | 3:30 |
 | 33 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
 | 34 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 |
-| 35 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
-| 36 | [Serial](https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 3:47 |
+| 35 | [Serial](https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 3:47 |
+| 36 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
 | 37 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
 | 38 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 |
 | 39 | [MIA \(feat\. Kaash Paige\)](https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [MIA](https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s) | 2:57 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 47 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 |
 | 48 | [Anger](https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:18 |
 
-Snapshot ID: `MCw5OGU2NGM2ZTAzODA2M2Q2NjMzYTQ4YTY2NDBiOTNiYzA0NDM1Mzdl`
+Snapshot ID: `MCw2MjJkZWExZDY1NGFhZmQxYWZhZmI0YzU2MWE3OThhNTRlMWYyZDgx`

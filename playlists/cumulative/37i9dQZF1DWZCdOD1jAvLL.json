@@ -800,7 +800,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 198094,
       "name": "Back It Up (feat. Young Lyxx)",
       "url": "https://open.spotify.com/track/6ePX5p0ufqiYywnNa9nXkO"
@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180480,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/1ghkYGLrfh3tBIqLs9npGn"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 207619,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4o9qh1t4OlY0CiuTNwhMiG"
@@ -2242,6 +2242,24 @@
       "duration_ms": 177931,
       "name": "DJ Turn It Up",
       "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
+      "album": {
+        "name": "Do My Thing",
+        "url": "https://open.spotify.com/album/5FChlf6muHa5yTSW5J7tuu"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182109,
+      "name": "Do My Thing",
+      "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
     },
     {
       "album": {
@@ -3543,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1UqbzhcdKADqcrdOnjZYAj"
       },
@@ -3802,7 +3838,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 248225,
       "name": "Gonna Be Alright",
       "url": "https://open.spotify.com/track/4nqVID3WttReUjBa8ciCZj"
@@ -3990,7 +4026,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 157440,
       "name": "Headphones - DLMT Remix",
       "url": "https://open.spotify.com/track/2VxT9ExMqzxqXTbWw6aUG3"
@@ -4060,7 +4096,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 224000,
       "name": "HEAVENS DOOR",
       "url": "https://open.spotify.com/track/2t5ogOswbfiOibAVWNxkBb"
@@ -4466,6 +4502,28 @@
       "duration_ms": 158583,
       "name": "HYPNOSIS",
       "url": "https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We"
+    },
+    {
+      "album": {
+        "name": "Hypnotic (feat. Dope Earth Alien)",
+        "url": "https://open.spotify.com/album/1iqjcxJWLCWZjDQTNfIAMN"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Dope Earth Alien",
+          "url": "https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207568,
+      "name": "Hypnotic (feat. Dope Earth Alien)",
+      "url": "https://open.spotify.com/track/0d7TxNhBkURA0MYyX66l93"
     },
     {
       "album": {
@@ -5941,6 +5999,28 @@
     },
     {
       "album": {
+        "name": "Meet Me At The Rave",
+        "url": "https://open.spotify.com/album/2wEzHPGyTNbDfF9VhrpFIQ"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fire",
+          "url": "https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK"
+        },
+        {
+          "name": "Max Low",
+          "url": "https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163204,
+      "name": "Meet Me At The Rave",
+      "url": "https://open.spotify.com/track/5xPocHaGYDKtxrqOnbWPLF"
+    },
+    {
+      "album": {
         "name": "Block Party EP",
         "url": "https://open.spotify.com/album/4FzRIPDFKyeObIV7gcF8ca"
       },
@@ -6248,6 +6328,28 @@
       "duration_ms": 197142,
       "name": "monotony (feat. Party Nails)",
       "url": "https://open.spotify.com/track/5OPRwpt3Bl41raaWphfW3q"
+    },
+    {
+      "album": {
+        "name": "Motor",
+        "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Motor",
+      "url": "https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH"
     },
     {
       "album": {
@@ -6916,6 +7018,32 @@
       "duration_ms": 160014,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/7DXHNbMrvgJuFUtEleruSn"
+    },
+    {
+      "album": {
+        "name": "One Chance (feat. Marlhy)",
+        "url": "https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220952,
+      "name": "One Chance (feat. Marlhy)",
+      "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
     },
     {
       "album": {
@@ -9320,7 +9448,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 257471,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4WmQdAUKoo2jcYqY0Ocz1P"
@@ -9836,6 +9964,36 @@
       "duration_ms": 195466,
       "name": "The Throne",
       "url": "https://open.spotify.com/track/6Jl28uiFdGBPOx5EScNZw7"
+    },
+    {
+      "album": {
+        "name": "The Veldt Cinema (BYNX Edit)",
+        "url": "https://open.spotify.com/album/7ekZ2iNqO0E09Ubs6YoSZg"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277298,
+      "name": "The Veldt Cinema - BYNX Edit",
+      "url": "https://open.spotify.com/track/1GD5ooLHgV9nolrem1DBiB"
     },
     {
       "album": {

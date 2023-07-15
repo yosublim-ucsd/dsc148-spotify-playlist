@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:3yQMCDmPQPJlf6xJMzcnZL">Chow Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,504 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,536 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Didn't They Know](https://open.spotify.com/track/6Xdc8szFsACleon5lP6rBI) | [A7 Celeb](https://open.spotify.com/artist/7nJcO36kKeP8wjrpJLLBd7), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Didn't They Know](https://open.spotify.com/album/1y9FfvkOU2YHOJ5TdVMNsT) | 3:56 |
 | 75 | [Know Me](https://open.spotify.com/track/4NFED5LmGWoE2s8DLLJdfC) | [Lucas Home](https://open.spotify.com/artist/1FfDs6OihC3kY6Vfs1p0oa) | [Know Me](https://open.spotify.com/album/1Biwvw8IsdXoNxNmu8mVZ0) | 3:14 |
 
-Snapshot ID: `MCw3ZTJlZjlkZjA2YTcwY2ZlMjVjZGUzYjY1MGU4YmM1YTY3NDBkZGEy`
+Snapshot ID: `MCxjN2E3MGYxOGNjZjhlZDA3MDlmNTk4ZDBhMzkxZjhmNjkwNzc5ZjZi`

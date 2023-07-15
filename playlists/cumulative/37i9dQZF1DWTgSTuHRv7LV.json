@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: YOVNGCHIMI",
+  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Gera MX",
   "name": "Mucho Rap",
   "tracks": [
     {
@@ -1020,6 +1020,24 @@
       "duration_ms": 211000,
       "name": "Bacanora",
       "url": "https://open.spotify.com/track/1Sn1dtN2rVnOo3cqelNFRb"
+    },
+    {
+      "album": {
+        "name": "Bajo y Bater\u00eda",
+        "url": "https://open.spotify.com/album/5GkZHRuXwEoXq9xLlW1bzH"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541931,
+      "name": "Bajo y Bater\u00eda",
+      "url": "https://open.spotify.com/track/6AvBuucxeCrRJjxNVWKayz"
     },
     {
       "album": {
@@ -7033,6 +7051,24 @@
     },
     {
       "album": {
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/42EHvFRsQtspIer2baInn7"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Mustang 65'",
+      "url": "https://open.spotify.com/track/4AukEZfhVeIzapCkwjJXGA"
+    },
+    {
+      "album": {
         "name": "Mu\u00e9velo Lento",
         "url": "https://open.spotify.com/album/4k8gHF7uSMQZ5YVnvjCs4m"
       },
@@ -7270,7 +7306,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 133333,
       "name": "No Boss",
       "url": "https://open.spotify.com/track/3X0Ugwq4bxaPeq9GORDY6x"
@@ -7854,6 +7890,28 @@
       "duration_ms": 340480,
       "name": "Pa To Los Combo",
       "url": "https://open.spotify.com/track/1fui3e4HmhPSkxmblO5U0h"
+    },
+    {
+      "album": {
+        "name": "Pablito y el Pelon",
+        "url": "https://open.spotify.com/album/6qh2XoiQJTS2MlD70WxR90"
+      },
+      "artists": [
+        {
+          "name": "Pablito Calavera",
+          "url": "https://open.spotify.com/artist/2TH4NXRgjM7vIW76o7pbas"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "Pablito y el Pelon",
+      "url": "https://open.spotify.com/track/2GFmz2XgfZcU0tUN4aMxRJ"
     },
     {
       "album": {
@@ -10332,7 +10390,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 233700,
       "name": "Telara\u00f1a",
       "url": "https://open.spotify.com/track/6zG8Z34VFuHOqqr97YBq0Y"
@@ -10952,7 +11010,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 175000,
       "name": "Triple AAA",
       "url": "https://open.spotify.com/track/1a6775Z53Ga6QuMWeJse5E"

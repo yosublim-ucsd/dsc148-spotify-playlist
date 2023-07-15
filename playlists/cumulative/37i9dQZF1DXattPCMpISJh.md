@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-210 songs - 13 hr 18 min
+211 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Boogie Oogie](https://open.spotify.com/track/1LBgQDXAX5cuzJyeJIyfIa) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Kiley Dean](https://open.spotify.com/artist/5DwwWqoLNvjK2DwIh0Ofy2) | [Boogie Oogie](https://open.spotify.com/album/3b3LZpUOr6Jg2XH2qFqm9W) | 3:24 | 2023-06-02 |  |
 | [Boyfriend](https://open.spotify.com/track/2WXOEBgNo7OkkJ6HMoMnIg) | [Natio](https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc), [Tilsen](https://open.spotify.com/artist/2RgfDvNnwJPMLSUu6H3kuq) | [Boyfriend](https://open.spotify.com/album/6HqP7UpBF5HRGwZZzOwJHU) | 2:44 | 2021-11-26 | 2022-11-26 |
 | [Bring On The Rain \(feat\. Joss Stone\) \- 7" Version](https://open.spotify.com/track/4epSfucEoDLkUuYe1uU27b) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Bring On The Rain \(feat\. Joss Stone\)](https://open.spotify.com/album/25XlWNUBId69n12NQSzk7U) | 3:09 | 2022-04-01 | 2022-11-12 |
+| [Broke a Sweat](https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Broke a Sweat](https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh) | 2:50 | 2023-07-14 |  |
 | [By the River](https://open.spotify.com/track/2ar9IljRFlIMT87P1j4Bkf) | [Bomel](https://open.spotify.com/artist/3Y2UFS2qa5dYTZ0CRKsPZ7), [Jullyh](https://open.spotify.com/artist/3SHhwCP9HUkfFLoXa2CTRD) | [By The River](https://open.spotify.com/album/1noFa2oAOfTNilEv8CMtzM) | 3:27 | 2022-07-29 |  |
 | [Bye Bye Blues](https://open.spotify.com/track/1qYDuYKKMoAXvZBv1auEz2) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Bye Bye Blues](https://open.spotify.com/album/3AUPIddaKveMAAqY85pcEO) | 2:50 | 2022-10-21 |  |
 | [Call My Name](https://open.spotify.com/track/5l0PRf7kUchBQa9Kkdejqp) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Dawn Pemberton](https://open.spotify.com/artist/1nhMHvacUcBwhNToEU4WV7) | [Call My Name](https://open.spotify.com/album/4ZO3TyYHuLyY8ATWSCpKCG) | 3:01 | 2022-05-20 | 2022-09-24 |
@@ -199,7 +200,7 @@
 | [Try Again \- Single Edit](https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Try Again](https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs) | 4:05 | 2022-07-08 | 2023-03-18 |
 | [Tunnel Vision](https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Tunnel Vision](https://open.spotify.com/album/44Dfv0I0KJuoKnN9wvctkV) | 3:45 | 2023-05-26 |  |
 | [Turn Back Time \(feat\. Alexandra Prince\)](https://open.spotify.com/track/5ZPVXbxtab4liZabBCMiUV) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Blurry Dreams Of You](https://open.spotify.com/album/5dimhizjBzHvYXDbc9IQpf) | 3:22 | 2021-07-16 | 2022-09-03 |
-| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 |  |
+| [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 | 2023-07-15 |
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |
 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 | 2022-07-15 | 2023-05-27 |
 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 | 2022-07-08 |  |

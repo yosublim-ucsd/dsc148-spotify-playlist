@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ツチヤカレン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,281 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,305 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 57 | [Catchball Rules](https://open.spotify.com/track/4NHRrFortFq3iNynDUyYR7) | [Loulalee](https://open.spotify.com/artist/1Zpv5YgYyaLBF6kSAoH5xp) | [Catchball Rules](https://open.spotify.com/album/1gaDXD3rsSSl0mhALy7FfG) | 2:04 |
 | 58 | [P.S\. I LOVE U](https://open.spotify.com/track/30514aW25RiSicEwcTzJcF) | [DOUBLIVING](https://open.spotify.com/artist/78DTp8NyXNoJZKEs73RdnF) | [P.S\. I LOVE U](https://open.spotify.com/album/4s8fvR3GFQycyrm389PTAO) | 3:43 |
 | 59 | [Honno Kansou](https://open.spotify.com/track/4AMDm62IplOWPrglq4C1oo) | [長瀬有花](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX), [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [Honno Kansou](https://open.spotify.com/album/1VF7z3HpYdpR54vx9sPSzq) | 3:37 |
-| 60 | [ぶっ飛んでラニカイ](https://open.spotify.com/track/306laBqW1R3Xqa4F3xK4tI) | [樋口 楓](https://open.spotify.com/artist/0qQFPfQRMPx8YuS5ReAsLz) | [ぶっ飛んでラニカイ](https://open.spotify.com/album/4FunBM6pzf9J8sVhaxznCh) | 3:01 |
+| 60 | [ぶっ飛んでラニカイ](https://open.spotify.com/track/306laBqW1R3Xqa4F3xK4tI) | [樋口楓](https://open.spotify.com/artist/0qQFPfQRMPx8YuS5ReAsLz) | [ぶっ飛んでラニカイ](https://open.spotify.com/album/4FunBM6pzf9J8sVhaxznCh) | 3:01 |
 | 61 | [Kekkyoku](https://open.spotify.com/track/5O6Ta59UIhHWmRV8bubWu5) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Rokotsu](https://open.spotify.com/album/6pMjiLpATCNcK3SgvCZb9w) | 2:53 |
 | 62 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
 | 63 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Iria](https://open.spotify.com/track/5dzjLYKpR8NzKVAyJY4FRZ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Iria](https://open.spotify.com/album/6cWPUrFmaXLUwHs9h509ww) | 2:37 |
 | 80 | [SOMEDAY](https://open.spotify.com/track/6n1K7EX4HfI2wVZbXb6OI8) | [西野恵未](https://open.spotify.com/artist/24RkBHI4XkYt7o3nFrV6Em) | [SOMEDAY](https://open.spotify.com/album/1cPGk0PsWCNVswCePmo7Iy) | 3:41 |
 
-Snapshot ID: `MCxjMTQ0ZTU2ODBhZWQyOWFhYmU3MTlmYjJjOTVmZDdjYjU5ZDRiMGUw`
+Snapshot ID: `MCxkNDIyZDg2MWZkM2Y4MjhhYzQ5MzUyMzUxMWZjZWYzZWQ4NTFkNGYz`

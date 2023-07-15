@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 22592,
+  "num_followers": 22612,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzIyYjNlYWFiNmUzMjAzMWU4N2E2ZjRhNDhkNTZlNDNhNDU1YTEz",
+  "snapshot_id": "MCxmN2Y5NGIyYmM5ODYxZGY5MjcwZDdkZGY3MzBjNjljMDU5MzliYTg3",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Los Grandes Idolos: Teen Tops",
+        "url": "https://open.spotify.com/album/7xGhNr451u4c8GXzZau85m"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 176927,
+      "name": "Lucila",
+      "url": "https://open.spotify.com/track/1OiKlPrbgZdDEDt0QPHAjB"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "Pl\u00e1cido Domingo - Be My Love",
         "url": "https://open.spotify.com/album/1QTrpC4Qsq9fxTWxC3B5sW"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
-        "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Y Su Guitarra",
-          "url": "https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Mariquilla (remastered)",
-      "url": "https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "The Best Of Perez Prado: The Original Mambo #5",
         "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
       },
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
+        "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Y Su Guitarra",
+          "url": "https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Mariquilla (remastered)",
+      "url": "https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "Mar\u00eda Victoria",
         "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 211931,
       "name": "Soy Feliz",
       "url": "https://open.spotify.com/track/6kzdmSs9Kmx4p3CXO5ydCE"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "Los Grandes Idolos: Teen Tops",
-        "url": "https://open.spotify.com/album/7xGhNr451u4c8GXzZau85m"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 176927,
-      "name": "Lucila",
-      "url": "https://open.spotify.com/track/1OiKlPrbgZdDEDt0QPHAjB"
     },
     {
       "added_at": "2023-02-17 20:56:35",

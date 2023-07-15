@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-220 songs - 13 hr 59 min
+221 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Who’s That Playing On The Radio? \(feat\. Danny Worsnop of Asking Alexandria and Mick Mars of Mötley Crüe\)](https://open.spotify.com/track/6QbTzUuNxRnhZRMQpHQAOh) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 3:25 | 2022-09-21 | 2023-01-04 |
 | [Wolf Totem \(feat\. Jacoby Shaddix of Papa Roach\)](https://open.spotify.com/track/3NMel0L1RZfekf2wLABmj2) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Wolf Totem \(feat\. Jacoby Shaddix of Papa Roach\)](https://open.spotify.com/album/6lRuJdTi0zHk8kWKx6ARfi) | 5:17 | 2021-08-20 |  |
 | [Wolf Totem \(feat\. Jacoby Shaddix of Papa Roach\)](https://open.spotify.com/track/4MpWej5PustlOe6Wihucky) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 5:17 | 2022-09-21 | 2023-01-04 |
+| [Woo Hah!! Got You All in Check](https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Woo Hah!! Got You All in Check](https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A) | 3:57 | 2023-07-14 |  |
 | [Worst Behavior](https://open.spotify.com/track/6ytfPO94m3vVsdaLapzn3W) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Worst Behavior](https://open.spotify.com/album/0AuvTqyfSRNelI2rlw5dhY) | 3:05 | 2023-01-03 |  |
 | [YOU DON'T KNOW WHAT LOVE MEANS](https://open.spotify.com/track/2Ktf2I6JdWIczgrBpLEnXn) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [YOU DON’T KNOW WHAT LOVE MEANS](https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR) | 4:08 | 2022-08-17 | 2023-01-05 |
 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 | 2023-05-17 |  |

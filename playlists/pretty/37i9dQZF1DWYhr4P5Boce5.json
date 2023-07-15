@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 196728,
+  "num_followers": 196755,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl",
+  "snapshot_id": "MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Girl of My Dreams",
+      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 198000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Girl of My Dreams",
-      "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "My Tribe",
+        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 158023,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "My Tribe",
-        "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 158023,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "NATIVE TONGUE",
-        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        }
-      ],
-      "duration_ms": 125598,
-      "name": "YOU'RE THE ONE I WANT",
-      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Oh How I Love You",
         "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 233050,
       "name": "Oh How I Love You (R&B Version)",
       "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "NATIVE TONGUE",
+        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 125598,
+      "name": "YOU'RE THE ONE I WANT",
+      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
     },
     {
       "added_at": "2023-01-31 10:01:12",

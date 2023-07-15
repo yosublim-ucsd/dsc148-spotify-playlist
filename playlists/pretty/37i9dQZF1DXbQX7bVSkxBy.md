@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify with African gospel music\.  Cover: <a href="https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X?si=3KJRKHX5SnWCDegAw5lGyg">A Mose</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,744 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,772 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 49 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 50 | [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 |
 
-Snapshot ID: `MCw4NjdmYWI2MDgyMmI3N2Q1NzJkOTk3NDNiZjRjM2FjZWQ4MWJhYmVj`
+Snapshot ID: `MCxlMTQxMjI1ZmQ4ODY4ZGQzOTUwMzk1YWMzZTE5ZmFmMzQ0OWU2YTZm`

@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 150369,
+  "num_followers": 150393,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmRhZDc4NzZmY2RkOGVhZmNlMTA4YzM4MTE5MzZmMDY5M2ZjZTcw",
+  "snapshot_id": "MCwxMTVlNmQzZWI3MmU2ZDEyNjE2MjA4ZmY2ZWU3M2ZjMTU0ZTM0YTRl",
   "tracks": [
     {
       "added_at": "2023-07-10 03:32:42",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-07-10 03:32:42",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
       "artists": [
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "easy life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
+      "duration_ms": 155845,
+      "name": "daydreams",
+      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
     },
     {
       "added_at": "2023-07-10 03:32:42",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-07-10 03:32:42",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "easy life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 155845,
-      "name": "daydreams",
-      "url": "https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P"
-    },
-    {
-      "added_at": "2023-07-10 03:32:42",
-      "album": {
         "name": "Breakup Season",
         "url": "https://open.spotify.com/album/0WsZKzfU4cICg8uDILDqIY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 192750,
       "name": "Breakup Season",
       "url": "https://open.spotify.com/track/7xPOV2FPzi7zaYBZnQytOW"
+    },
+    {
+      "added_at": "2023-07-10 03:32:42",
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "added_at": "2023-07-10 03:32:42",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-10 03:32:42",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2023-07-10 03:32:42",
-      "album": {
         "name": "Live on Ice",
         "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 215999,
       "name": "Cheap Vacations (feat. Glassface)",
       "url": "https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP"
+    },
+    {
+      "added_at": "2023-07-10 03:32:42",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2023-07-10 03:32:42",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-07-10 03:32:42",
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
-    },
-    {
-      "added_at": "2023-07-10 03:32:42",
-      "album": {
         "name": "The Juice: Vol. I",
         "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 199040,
       "name": "Built That Way",
       "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
+    },
+    {
+      "added_at": "2023-07-10 03:32:42",
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 163146,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ"
     },
     {
       "added_at": "2023-07-10 03:32:42",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-10 03:32:42",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
-      },
-      "artists": [
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        }
-      ],
-      "duration_ms": 265185,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
-    },
-    {
-      "added_at": "2023-07-10 03:32:42",
-      "album": {
         "name": "walk but in a garden",
         "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 112500,
       "name": "walk but in a garden (with mxmtoon)",
       "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
+    },
+    {
+      "added_at": "2023-07-10 03:32:42",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        }
+      ],
+      "duration_ms": 265185,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC"
     },
     {
       "added_at": "2023-07-10 03:32:42",

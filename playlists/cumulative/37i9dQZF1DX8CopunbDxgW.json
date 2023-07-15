@@ -3015,6 +3015,28 @@
     },
     {
       "album": {
+        "name": "Dancing By Night",
+        "url": "https://open.spotify.com/album/0HHDMPccnsBnKLjC92kqxp"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220539,
+      "name": "Dancing By Night",
+      "url": "https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa"
+    },
+    {
+      "album": {
         "name": "Danielle (smile on my face)",
         "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
       },
@@ -5024,7 +5046,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
@@ -6606,7 +6628,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
@@ -8358,6 +8380,28 @@
       "duration_ms": 126043,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
+    },
+    {
+      "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
       "album": {
@@ -13200,7 +13244,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 248811,
       "name": "Slugger 1.4 [2014 Export.WAV]",
       "url": "https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3"
@@ -15061,6 +15105,24 @@
     },
     {
       "album": {
+        "name": "Time To Run",
+        "url": "https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Time To Run",
+      "url": "https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k"
+    },
+    {
+      "album": {
         "name": "Tiptoeing (Tommy Villiers Remix)",
         "url": "https://open.spotify.com/album/6aFoBYMo1H4lNQkiCxYz7t"
       },
@@ -15712,6 +15774,28 @@
       "duration_ms": 255746,
       "name": "Voodoo?",
       "url": "https://open.spotify.com/track/3pr0y5h4MkBngy6gyozLDV"
+    },
+    {
+      "album": {
+        "name": "Wagging Tongue (Remixes)",
+        "url": "https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278081,
+      "name": "Wagging Tongue - Wet Leg Remix",
+      "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
     },
     {
       "album": {
@@ -16626,7 +16710,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"

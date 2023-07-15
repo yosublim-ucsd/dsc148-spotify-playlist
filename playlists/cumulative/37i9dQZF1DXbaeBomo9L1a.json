@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Amores Pasajeros",
+        "url": "https://open.spotify.com/album/3nNFxx4kiSUmExd6zCE6Pz"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156401,
+      "name": "Amores Pasajeros",
+      "url": "https://open.spotify.com/track/2pOSUvbqg479E45rxzD7C4"
+    },
+    {
+      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld"
       },
@@ -1402,6 +1420,24 @@
       "duration_ms": 229013,
       "name": "Nobody Else but You",
       "url": "https://open.spotify.com/track/1HOUzEsetdIPSpAgRPhZQt"
+    },
+    {
+      "album": {
+        "name": "NOSPOR",
+        "url": "https://open.spotify.com/album/1N0JU10NYU5sG4QD5lTjeV"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138948,
+      "name": "NOSPOR",
+      "url": "https://open.spotify.com/track/4yqrIQZxkR5ayIYDVE2alF"
     },
     {
       "album": {

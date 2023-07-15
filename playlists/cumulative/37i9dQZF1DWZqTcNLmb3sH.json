@@ -1377,6 +1377,32 @@
     },
     {
       "album": {
+        "name": "Ayyo Ayyo (From \"Namo Boothathma 2\")",
+        "url": "https://open.spotify.com/album/3hLhbQWsYNhgEHTne7kvRN"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249514,
+      "name": "Ayyo Ayyo - From \"Namo Boothathma 2\"",
+      "url": "https://open.spotify.com/track/46d10rq7F6Fqj1nzcdb9qR"
+    },
+    {
+      "album": {
         "name": "Azaadi (From \"Spy\")",
         "url": "https://open.spotify.com/album/2LFc6Js7vodVPZv65WP9WN"
       },
@@ -8514,7 +8540,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 120748,
       "name": "Kirudeepa Nee (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/6saPm4FZZStH4E4kbA2rgt"

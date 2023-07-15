@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 38552,
+  "num_followers": 38578,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjhjNDk0MTI3OTgyY2QyOWFlZWE5OGFjMTE1MDAzMDI1NTIzZWUx",
+  "snapshot_id": "MCwyNDMyZTM0ZjRkOGZlMzY1OWRhYzE4MzYwYWM1M2MwNjgxODI4YzAx",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
-      },
-      "artists": [
-        {
-          "name": "Los de Mailin",
-          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
-        }
-      ],
-      "duration_ms": 133173,
-      "name": "No Cualquiera Es Correntino",
-      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Festejando los 30 A\u00f1os",
         "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Los Palmare\u00f1os 23 A\u00f1os",
-        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx"
       },
       "artists": [
         {
-          "name": "Los Palmare\u00f1os",
-          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
+          "name": "Los de Mailin",
+          "url": "https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB"
         }
       ],
-      "duration_ms": 259853,
-      "name": "Borracho Sin Destino",
-      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
+      "duration_ms": 133173,
+      "name": "No Cualquiera Es Correntino",
+      "url": "https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -583,6 +567,22 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Los Palmare\u00f1os 23 A\u00f1os",
+        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
+      },
+      "artists": [
+        {
+          "name": "Los Palmare\u00f1os",
+          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Borracho Sin Destino",
+      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 202786,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
-        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 260410,
-      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
-      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Segundo Contacto",
         "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "En Vivo, Teatro Provincial J.C.Saravia - Salta (Pt. 2)",
+        "url": "https://open.spotify.com/album/2E8qde4aiSYOZJqCkWzLto"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 260410,
+      "name": "C\u00f3mo Marea / Besitos - En Vivo, Teatro Provincial J.C.Saravia - Salta",
+      "url": "https://open.spotify.com/track/3gLPMYpDXzcNkBmFxZBbXp"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Las Nuevas Estrellas del Chamam\u00e9",
         "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 167592,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
+      },
+      "artists": [
+        {
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Dimotta",
-          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
-        }
-      ],
-      "duration_ms": 158520,
-      "name": "La Ofelia",
-      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Sencillito Nom\u00e1s",
         "url": "https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 182200,
       "name": "No Hay Mal Que por Bien No Venga",
       "url": "https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Dimotta",
+          "url": "https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm"
+        }
+      ],
+      "duration_ms": 158520,
+      "name": "La Ofelia",
+      "url": "https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1511,18 +1511,26 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL"
       },
       "artists": [
         {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+          "name": "Hern\u00e1n Crespo",
+          "url": "https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR"
+        },
+        {
+          "name": "Nadia Larcher",
+          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
+        },
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
         }
       ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+      "duration_ms": 270000,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

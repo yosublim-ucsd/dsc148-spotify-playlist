@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-595 songs - 1 day 1 hr 54 min
+596 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 | 2021-12-07 | 2023-04-06 |
 | [Rascasse](https://open.spotify.com/track/7x04Qcp0xBDRebzHGRdtgn) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rascasse](https://open.spotify.com/album/5fjEwgHxHBkjj88XEvXoTu) | 2:50 | 2021-12-07 | 2022-04-21 |
 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 | 2021-12-07 |  |
-| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-02-15 |  |
+| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-02-15 | 2023-07-15 |
 | [reflect](https://open.spotify.com/track/5FRKQvwwsBVwHKfG5QuL4h) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [reflect](https://open.spotify.com/album/2HPnSOnsjv5OMhhKZD83eD) | 2:26 | 2021-12-07 | 2022-05-21 |
 | [Refraction](https://open.spotify.com/track/0fb16xi6nGQi15crUCDrw8) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Refraction](https://open.spotify.com/album/1aGIdyXxti7seh4NwA5RNJ) | 2:59 | 2021-12-07 |  |
 | [Relationships](https://open.spotify.com/track/5MfdSgLFVnTRysU8lNAoGt) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [Relationships](https://open.spotify.com/album/5hCswrPQMQHv91xdeanu25) | 3:08 | 2021-12-07 | 2022-01-19 |
@@ -496,6 +496,7 @@
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2021-12-07 |  |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2021-12-07 |  |
 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-02-01 |  |
+| [Sunshine memories](https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Sunshine memories](https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb) | 1:45 | 2023-07-04 |  |
 | [Supine](https://open.spotify.com/track/4ldRxzeHrTWwBXyWTII5Hu) | [15.](https://open.spotify.com/artist/1D41XVo659DXvNYktKnn6e) | [Supine](https://open.spotify.com/album/55WONvD6G2WMrurYYtR9Wb) | 2:04 | 2022-03-16 | 2022-12-24 |
 | [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 | 2021-12-07 |  |
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2021-12-07 |  |

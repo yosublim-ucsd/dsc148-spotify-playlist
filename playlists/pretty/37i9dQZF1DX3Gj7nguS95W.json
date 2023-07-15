@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 837003,
+  "num_followers": 837149,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGU0MjYzYzc4NmQ4MjY5ZTI4MjVkNjY0Mzk5YTMyZDAzNzFkMGMy",
+  "snapshot_id": "MCw4ODY0MWY1MjljMGIzMTk1ZTdhZTM4YmFkNGQ2MjM5MTcwODAyODA4",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Armed Forces (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "Oliver's Army",
-      "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "Special Beat Service (Remastered)",
         "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 213933,
       "name": "Save It For Later",
       "url": "https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Armed Forces (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Oliver's Army",
+      "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Heartbeat City",
-        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
       },
       "artists": [
         {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
         }
       ],
-      "duration_ms": 185026,
-      "name": "You Might Think",
-      "url": "https://open.spotify.com/track/7BvuV4c1BGhaRapcXvRu5z"
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     }
   ],
   "unique_name": "Is it New Wave?",

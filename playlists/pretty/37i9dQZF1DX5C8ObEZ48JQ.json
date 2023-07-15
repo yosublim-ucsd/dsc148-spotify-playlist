@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV?si=vmyg8-p7QOGOeEt9OPygIQ\"> Rukmani </a>. Artwork: Isu Kim. ",
-  "num_followers": 5140,
+  "num_followers": 5147,
   "original_name": "Fresh Finds Africa ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQ4N2JjMTk1M2IzMjQ5ZWZkZGQ5YWM0OGQ5ZWE5YzAwZjY5ZmM1",
+  "snapshot_id": "MCwyOTRkZGE2ZmM1NjdhMTA3YjY5ZTJkNzgyOGVlZjlmYzI3ZDIxMDYw",
   "tracks": [
     {
       "added_at": "2023-06-27 23:00:00",
@@ -239,6 +239,38 @@
       "duration_ms": 164000,
       "name": "Feeling It Too",
       "url": "https://open.spotify.com/track/3YjuYtKxdRGNTVPDjLVETl"
+    },
+    {
+      "added_at": "2023-06-27 23:00:00",
+      "album": {
+        "name": "if I couldn't, I wouldn't",
+        "url": "https://open.spotify.com/album/23a2bnlVeHaSzti2lF5tlw"
+      },
+      "artists": [
+        {
+          "name": "YTFAHADWAVES",
+          "url": "https://open.spotify.com/artist/6GnMSDdZKJJa1sczH3dqVB"
+        },
+        {
+          "name": "Olamzzy",
+          "url": "https://open.spotify.com/artist/3orZliuB9wDJsVOrbUHm7h"
+        },
+        {
+          "name": "Lil Jozzy",
+          "url": "https://open.spotify.com/artist/0C7E6qw87bqzB4bGmLgN14"
+        },
+        {
+          "name": "Zichy",
+          "url": "https://open.spotify.com/artist/1JRzK09IPtVCcHgPKQS2w4"
+        },
+        {
+          "name": "Hyzah",
+          "url": "https://open.spotify.com/artist/7dTF7Xn6JGsZtyBWiBWJ5I"
+        }
+      ],
+      "duration_ms": 193994,
+      "name": "Mamacita",
+      "url": "https://open.spotify.com/track/550AmuZZJ2KVM3EOz6qV8K"
     },
     {
       "added_at": "2023-06-27 23:00:00",

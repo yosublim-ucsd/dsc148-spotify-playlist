@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-157 songs - 14 hr 8 min
+158 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Ero Disco Theme](https://open.spotify.com/track/1oXOetlFiNvl68xVFRbreY) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [DJ Rocca](https://open.spotify.com/artist/1A1khioV2n9YPMFsD1Cpla) | [Works](https://open.spotify.com/album/4iu4nf44P3KSCmrMTHlvQm) | 3:48 | 2021-09-01 | 2022-07-06 |
 | [Everybody Clap](https://open.spotify.com/track/5wzyVW90nwZIYGMArXOjQQ) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Panic In Fort Greene Park EP](https://open.spotify.com/album/7Cc8L7f2PRniBRCkeLT2MZ) | 6:11 | 2021-09-01 | 2022-07-29 |
 | [Everything's Gonna Be Alright \- Joey Negro Edit](https://open.spotify.com/track/5zuqJetbjleUYc7BmJWEr4) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Overdose of The Holy Ghost compiled by David Hill](https://open.spotify.com/album/2T6asIui60ebAYmwq9hlAm) | 6:50 | 2021-09-01 | 2022-07-28 |
+| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-14 |  |
 | [Feel the Vibe](https://open.spotify.com/track/5h8JTWS1vTNcTlEkKLR554) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Revelle27](https://open.spotify.com/artist/3MtB9LTUuqKNrlIx4n7wG5) | [Feel the Vibe](https://open.spotify.com/album/7yS3B5VwhqxR8Y3rHQ0HKK) | 2:44 | 2021-09-01 | 2022-07-27 |
 | [Figure of Jazz](https://open.spotify.com/track/1B89dglefjYMvJkLOEwfD1) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Figure of Jazz](https://open.spotify.com/album/0HAJNbgqrpShglJNHfzYyw) | 3:32 | 2021-09-01 |  |
 | [Funky Bump \- Long Version](https://open.spotify.com/track/156s8wfCnvtom8DrT4zjww) | [Pino Presti](https://open.spotify.com/artist/0TXzV75amzLHeZueaodr9s) | [Funky Bump](https://open.spotify.com/album/0pqq5utZ2eLuqmhupGig93) | 5:12 | 2021-09-01 | 2022-06-23 |
@@ -88,7 +89,7 @@
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 | 2022-11-20 |
 | [Minnoch](https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Tide / Minnoch](https://open.spotify.com/album/5xlIE5AFZb7p6eIK4exIKU) | 5:44 | 2021-09-01 | 2022-07-29 |
 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 | 2021-09-01 | 2023-04-05 |
-| [Modern Romance](https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Modern Romance](https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz) | 3:34 | 2021-09-01 |  |
+| [Modern Romance](https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Modern Romance](https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz) | 3:34 | 2021-09-01 | 2023-07-15 |
 | [Morning Shift](https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Scented Trip](https://open.spotify.com/album/12Z1TMLUbMqeeivrEijzha) | 6:20 | 2021-09-01 |  |
 | [Morning Shift](https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko) | [Scented Trip](https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO) | 6:20 | 2021-09-01 | 2022-10-05 |
 | [Most Precious Love](https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [RE//CHOIRED](https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka) | 3:54 | 2021-09-01 |  |

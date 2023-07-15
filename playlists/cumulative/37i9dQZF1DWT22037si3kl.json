@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Major RD",
+  "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Senndy",
   "name": "O Drip",
   "tracks": [
     {
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 133500,
       "name": "Grana",
       "url": "https://open.spotify.com/track/4D3fTJXYQ0rle71uLKAOvI"
@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 144624,
       "name": "Grifes (Conhe\u00e7o bem)",
       "url": "https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu"
@@ -2401,6 +2401,28 @@
     },
     {
       "album": {
+        "name": "Ironicamente",
+        "url": "https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "No Cutty",
+          "url": "https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164269,
+      "name": "Ironicamente",
+      "url": "https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T"
+    },
+    {
+      "album": {
         "name": "Isso Que \u00c9 Bom",
         "url": "https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk"
       },
@@ -2472,6 +2494,36 @@
       "duration_ms": 205800,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/3WHwjHxGnPwTE1LHtnOIVq"
+    },
+    {
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158574,
+      "name": "Jacar\u00e9 No Peito",
+      "url": "https://open.spotify.com/track/341pSOj91LkF14j22PZaRV"
     },
     {
       "album": {
@@ -2824,7 +2876,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 155647,
       "name": "lobby",
       "url": "https://open.spotify.com/track/3vhfAnsZ8jRFzKBRpbsPVM"
@@ -3345,6 +3397,32 @@
     },
     {
       "album": {
+        "name": "Mimo Caro",
+        "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Mimo Caro",
+      "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
+    },
+    {
+      "album": {
         "name": "Mimos",
         "url": "https://open.spotify.com/album/59sZdRkWb71F0pU1v8unwF"
       },
@@ -3382,7 +3460,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160000,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/498D8WcctdGpUXMK1RVrsw"
@@ -4202,7 +4280,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 109714,
       "name": "PATY",
       "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
@@ -5914,21 +5992,21 @@
       },
       "artists": [
         {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
           "name": "Raflow",
           "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
         },
         {
           "name": "SD9",
           "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Distrito 23",
-          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
         }
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Volvo sem placa",
       "url": "https://open.spotify.com/track/4QiAwMtRTvSdup6BtOgDYJ"
@@ -6010,6 +6088,40 @@
       "duration_ms": 233142,
       "name": "X6",
       "url": "https://open.spotify.com/track/0T6XMC5fc5H5OYabHKKhHR"
+    },
+    {
+      "album": {
+        "name": "Yeezy Slide \"FREESTYLE 01\"",
+        "url": "https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "Yeezy Slide \"FREESTYLE 01\"",
+      "url": "https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4"
     },
     {
       "album": {

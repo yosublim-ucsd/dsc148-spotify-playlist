@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Little Bit Happy",
+        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195278,
+      "name": "A Little Bit Happy",
+      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
+    },
+    {
+      "album": {
         "name": "A LOT",
         "url": "https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 192160,
       "name": "Catch You When You Fall",
       "url": "https://open.spotify.com/track/4YJ4LyVaICt6O32gZ45w4b"
@@ -1392,6 +1410,28 @@
       "duration_ms": 190213,
       "name": "Centre of The Universe",
       "url": "https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu"
+    },
+    {
+      "album": {
+        "name": "Chicken Little",
+        "url": "https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko"
+      },
+      "artists": [
+        {
+          "name": "Spencer Sutherland",
+          "url": "https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162014,
+      "name": "Chicken Little",
+      "url": "https://open.spotify.com/track/5NzrfsIkCCexhDh2R9A2cG"
     },
     {
       "album": {
@@ -1912,6 +1952,32 @@
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
+    },
+    {
+      "album": {
+        "name": "Drink Water",
+        "url": "https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169708,
+      "name": "Drink Water (feat. Jon Bellion and Fireboy DML)",
+      "url": "https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1"
     },
     {
       "album": {
@@ -4721,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "Jim Carrey",
+        "url": "https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183195,
+      "name": "Jim Carrey",
+      "url": "https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM"
       },
@@ -6024,7 +6108,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169479,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/0uIjaOUqCKav7yJU4Lj2hB"
@@ -6078,7 +6162,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 159363,
       "name": "MY FAVORITE SONG",
       "url": "https://open.spotify.com/track/24XNbv00pqhodOI2473wTs"
@@ -6552,6 +6636,24 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
+    },
+    {
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
     },
     {
       "album": {
@@ -7071,6 +7173,24 @@
     },
     {
       "album": {
+        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
+        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
+    },
+    {
+      "album": {
         "name": "Leap",
         "url": "https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB"
       },
@@ -7346,7 +7466,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 209429,
       "name": "Shy Boy",
       "url": "https://open.spotify.com/track/6reL5LwIwHkDXcKff9ZbKV"

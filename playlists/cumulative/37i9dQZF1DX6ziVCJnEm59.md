@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-283 songs - 16 hr 57 min
+285 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Amsterdam](https://open.spotify.com/track/1sIAk1Hpj5YsMyYYtTsdal) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam](https://open.spotify.com/album/6Ju9oTtTNypA2En3jEoXWP) | 3:33 | 2021-07-17 | 2022-07-29 |
 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 | 2022-06-06 |  |
 | [Answers](https://open.spotify.com/track/1uvbbPXwyRueQ6xbiOLHGh) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [The Simple Fear](https://open.spotify.com/album/3W658jscMEy2mNnPXVFZRP) | 3:25 | 2019-09-29\* | 2020-06-01 |
+| [Appaloosa Bones](https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J) | 3:59 | 2023-07-14 |  |
 | [Arms](https://open.spotify.com/track/48HT7Zzd3We4ZjG82lsbdK) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:23 | 2019-09-29\* | 2022-07-29 |
 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 | 2022-06-06 |  |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2019-09-29\* | 2019-10-21 |
@@ -233,7 +234,7 @@
 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 | 2021-10-09 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/02p7KhGzlicIY8rvRVVION) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Tears Don't Fall](https://open.spotify.com/album/2w6APYKw1Tb4oWNtZJYIde) | 3:12 | 2019-09-29\* | 2022-02-19 |
 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 | 2023-05-26 |  |
-| [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-26 |  |
+| [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-26 | 2023-07-15 |
 | [The Flood](https://open.spotify.com/track/2YdU9FRM7fYiZ9B2KOUIpl) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/7nSIlWXzql4FW4JG8v2OcE) | 4:21 | 2019-09-29\* | 2022-07-29 |
 | [The Flood](https://open.spotify.com/track/5wQci5VCUjdbKnRD61XYwu) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy) | 4:21 | 2022-06-06 |  |
 | [The Night We Met \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0jZO7p0nBUi9VHedWUBS9l) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [13 Reasons Why \(Season 2\)](https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN) | 3:28 | 2019-09-29\* |  |
@@ -256,6 +257,7 @@
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-08-01 |  |
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2022-04-13 |  |
 | [Tongue Tied \- Acoustic](https://open.spotify.com/track/46t0L3zahcM5AD4wg8ez7X) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Tongue Tied \(Acoustic\)](https://open.spotify.com/album/2zJi7xtGQrPz08mvFyjoxK) | 3:05 | 2019-09-29\* | 2021-10-09 |
+| [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 | 2023-07-14 |  |
 | [True North](https://open.spotify.com/track/5vvuajXbTuucQDpcwvKKye) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 2:17 | 2022-06-06 |  |
 | [Turntable](https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:16 | 2019-09-29\* |  |
 | [Twist](https://open.spotify.com/track/4KpGSVWhepx3OBVJivntjj) | [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Twist](https://open.spotify.com/album/0jEibaehyR3jnPQCAFDaaL) | 3:06 | 2023-01-05 |  |
@@ -275,7 +277,7 @@
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2022-06-06 |  |
 | [Weekend](https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz) | 2:27 | 2022-08-01 |  |
 | [Weekend](https://open.spotify.com/track/3p0kes1amIxF9ucjtclpYm) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Weekend](https://open.spotify.com/album/59ZTo6b3Rfc1R7K6Cwa1CH) | 2:27 | 2020-11-11 | 2022-10-14 |
-| [What Am I Here For](https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 4:43 | 2022-08-01 |  |
+| [What Am I Here For](https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 4:43 | 2022-08-01 | 2023-07-15 |
 | [What Am I Here For](https://open.spotify.com/track/6CWMlAZzYIF50NT2nsX3iC) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4NDLVoNCIFbnWX3JGY3pR2) | 4:43 | 2022-06-06 | 2022-09-15 |
 | [What Am I Here For](https://open.spotify.com/track/5LqsH9S2zTsamP8qzoKgqu) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 4:45 | 2019-09-29\* | 2022-10-03 |
 | [What Can I Do](https://open.spotify.com/track/3H5Bg4ij1nbEmMmzDnZYri) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:47 | 2023-02-14 | 2023-03-01 |

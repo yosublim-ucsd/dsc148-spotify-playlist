@@ -4,14 +4,14 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-179 songs - 15 hr 18 min
+180 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [About The Music](https://open.spotify.com/track/0Ph74XX0SkUkarkGgqJHnw) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Mikey V](https://open.spotify.com/artist/5M6HuH4A69abqbnpT4IjQe) | [Snatch! OFF 071](https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg) | 3:06 | 2022-07-29 | 2023-04-05 |
 | [All I Want \- Original Mix](https://open.spotify.com/track/4K7SNSClE8UWzRPpNtOs8M) | [The Archer](https://open.spotify.com/artist/2e9kCl7laD7bkZLLAnkKTU) | [All I Want](https://open.spotify.com/album/6UCnUv9fK4XoTGaeSVxuHz) | 4:03 | 2022-08-19 | 2023-03-19 |
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-06-03 |  |
-| [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 |  |
+| [Another Chance](https://open.spotify.com/track/6FJ6lLkFCSVkXrm0Zbxfam) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 7:00 | 2022-07-19 | 2023-07-15 |
 | [Applaud](https://open.spotify.com/track/04wE6fWx2qMQUoA6EFBG8l) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Applaud](https://open.spotify.com/album/0YgUgNFFGKN2fiivbh2wmn) | 6:05 | 2022-07-22 | 2022-07-29 |
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 | 2022-12-30 |
 | [Back2back \- Edit](https://open.spotify.com/track/2TQuTY3ojJAqhN9SS5J0Fs) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Back2bacK](https://open.spotify.com/album/4Oxxv1zaRCJ67XiFFoLewD) | 2:46 | 2022-06-03 | 2022-07-29 |
@@ -185,6 +185,7 @@
 | [World Is Empty](https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [World Is Empty](https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda) | 3:16 | 2022-11-11 |  |
 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 | 2022-07-01 |  |
 | [You & Me](https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq) | [You & Me](https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS) | 3:41 | 2023-07-07 |  |
+| [You Can Forever Be](https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Kevin Kaczynski](https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr), [Denise](https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2) | [You Can Forever Be](https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV) | 6:16 | 2023-07-14 |  |
 | [Z Pack](https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Z Pack](https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood) | 3:07 | 2023-05-26 | 2023-07-04 |
 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 | 2023-03-03 |  |
 

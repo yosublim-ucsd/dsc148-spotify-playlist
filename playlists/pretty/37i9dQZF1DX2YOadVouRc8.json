@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 14316,
+  "num_followers": 14332,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGIxN2JkNzBiZjU3MmU3ODk5NjAwMzdjMzU0YmUzYzUyN2U4ODcy",
+  "snapshot_id": "MCw1ZDcyM2Y2MjhiMTVkNjA1MTRjN2FkZjNjYzI5MjgxNzQ1MmFhYmUx",
   "tracks": [
     {
       "added_at": "2023-07-14 00:33:05",
@@ -40,7 +40,7 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 148071,
+      "duration_ms": 148000,
       "name": "Waka Jeje (feat. Bnxn)",
       "url": "https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa"
     },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-14 00:33:05",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
-    },
-    {
-      "added_at": "2023-07-14 00:33:05",
-      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -1175,6 +1159,38 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
+    },
+    {
+      "added_at": "2023-07-14 00:33:05",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
+    },
+    {
+      "added_at": "2023-07-14 00:33:05",
+      "album": {
+        "name": "Excited",
+        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Excited",
+      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
     },
     {
       "added_at": "2023-07-14 00:33:05",
@@ -1207,22 +1223,6 @@
       "duration_ms": 177300,
       "name": "Everything",
       "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
-    },
-    {
-      "added_at": "2023-07-14 00:33:05",
-      "album": {
-        "name": "Excited",
-        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
-      },
-      "artists": [
-        {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Excited",
-      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
     },
     {
       "added_at": "2023-07-14 00:33:05",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-07-14 00:33:05",
       "album": {
-        "name": "Complete",
-        "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
-      },
-      "artists": [
-        {
-          "name": "T'neeya",
-          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
-        }
-      ],
-      "duration_ms": 160862,
-      "name": "Complete",
-      "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
-    },
-    {
-      "added_at": "2023-07-14 00:33:05",
-      "album": {
         "name": "troublin - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 145594,
       "name": "troublin - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
+    },
+    {
+      "added_at": "2023-07-14 00:33:05",
+      "album": {
+        "name": "Complete",
+        "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "duration_ms": 160862,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
     },
     {
       "added_at": "2023-07-14 00:33:05",
@@ -1371,6 +1371,22 @@
       "duration_ms": 160000,
       "name": "Your Love (Mogbe)",
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
+    },
+    {
+      "added_at": "2023-07-14 00:33:05",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
       "added_at": "2023-07-14 00:33:05",
@@ -1403,34 +1419,22 @@
     {
       "added_at": "2023-07-14 00:33:05",
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+        "name": "You",
+        "url": "https://open.spotify.com/album/2Gq1vN6lc6rhltilCMFnfU"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
-    },
-    {
-      "added_at": "2023-07-14 00:33:05",
-      "album": {
-        "name": "APOLLO",
-        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
-      },
-      "artists": [
+          "name": "Kelly Anthony",
+          "url": "https://open.spotify.com/artist/2ICgAt3eHtYeiz6AEGoRzG"
+        },
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
         }
       ],
-      "duration_ms": 172191,
-      "name": "ELI",
-      "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
+      "duration_ms": 202500,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3guRObGqhLt2egEBho8Uxy"
     },
     {
       "added_at": "2023-07-14 00:33:05",
@@ -1455,34 +1459,34 @@
     {
       "added_at": "2023-07-14 00:33:05",
       "album": {
-        "name": "Eye to Eye",
-        "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
+        "name": "Patient Zero",
+        "url": "https://open.spotify.com/album/7f1jBF06DtXBmFcPz1wIDo"
       },
       "artists": [
         {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
         }
       ],
-      "duration_ms": 156771,
-      "name": "Eye to Eye",
-      "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+      "duration_ms": 152500,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1Fi9F34fYmhJOwBqM1lUk8"
     },
     {
       "added_at": "2023-07-14 00:33:05",
       "album": {
-        "name": "Many Man",
-        "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
+        "name": "APOLLO",
+        "url": "https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq"
       },
       "artists": [
         {
-          "name": "Stainless",
-          "url": "https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 156494,
-      "name": "Many Man",
-      "url": "https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S"
+      "duration_ms": 172191,
+      "name": "ELI",
+      "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
     }
   ],
   "unique_name": "Chill Bops",

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-409 songs - 1 day 0 hr 15 min
+411 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Call Me](https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Call Me](https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg) | 2:59 | 2023-03-02 |  |
 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-17 |  |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/0ZbT7emV4bS4nRxuAoQAyo) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Carry Me \(Acoustic\)](https://open.spotify.com/album/6VzdF00DUKQNKvUQcSljZv) | 3:19 | 2022-09-09 | 2022-12-17 |
-| [Carry Me \(Acoustic\)](https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Deluxe\)](https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c) | 3:19 | 2023-06-22 |  |
+| [Carry Me \(Acoustic\)](https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Deluxe\)](https://open.spotify.com/album/2Kl2yXaVhbU6pQbi5yHD2c) | 3:19 | 2023-06-22 | 2023-07-15 |
 | [Carry Me \(Acoustic\)](https://open.spotify.com/track/2eaH5ePewiCADzPBeXfe0C) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Heaven, Wait \(Acoustic\)](https://open.spotify.com/album/4eumW3GeJQ6oPqqQO1Ot82) | 3:19 | 2022-12-16 | 2023-05-24 |
 | [Cent fois](https://open.spotify.com/track/16JTRfYQaSDfbUXsLB8sWX) | [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji) | [Cent fois](https://open.spotify.com/album/0dpIM7Tjhz3imVgTinaC9y) | 4:17 | 2022-04-19 | 2022-05-25 |
 | [Cent pas](https://open.spotify.com/track/3UET3oVThA6MgDpjEgjyLq) | [Claudelle](https://open.spotify.com/artist/4XHSoFPfPVLnCEwiFVLLhD) | [Cent pas](https://open.spotify.com/album/6KixBRmSppz0wrNwOd1lJS) | 3:59 | 2021-01-03\* | 2021-12-08 |
@@ -110,6 +110,7 @@
 | [Faire semblant](https://open.spotify.com/track/5kdf58kpcfNTZL6m6cSTEo) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Faire semblant](https://open.spotify.com/album/5Cu3tXyCTDUa13HMajeggp) | 3:36 | 2021-07-10 | 2021-11-13 |
 | [Falaise de malaise](https://open.spotify.com/track/0Vgi5K94psHDQEfYWfkTje) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Falaise de malaise](https://open.spotify.com/album/3HI9GAaoFVfIm08lICX6Rm) | 3:24 | 2021-08-11 | 2021-10-01 |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-03-11 | 2022-04-16 |
+| [Feeling Like A Plant](https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Feeling Like A Plant](https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5) | 2:59 | 2023-07-14 |  |
 | [Feu de forêt](https://open.spotify.com/track/2NSe87osMF90QPPQIErhdC) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/76RkceWu7JvxFkuzp4aizo) | 3:40 | 2021-01-03\* | 2022-07-29 |
 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 | 2022-07-08 | 2023-06-08 |
 | [Feu sacré](https://open.spotify.com/track/64hbPzpaWfHw2V5j11odlp) | [Antoine Lachance](https://open.spotify.com/artist/28VuRVI2ZCZZC2kd3DXefq) | [Antoine Lachance](https://open.spotify.com/album/1eUbhI4uMivdZOtrGVrdmP) | 3:38 | 2021-01-15 | 2022-07-27 |
@@ -287,7 +288,8 @@
 | [Nos visages](https://open.spotify.com/track/4lLctkMLQJAlg8sTzfBFGY) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Nos visages](https://open.spotify.com/album/1GUWQsKitKPmaRrUJqEGBL) | 3:39 | 2021-01-03\* | 2022-07-27 |
 | [Nous après nous](https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [La mort des étoiles](https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5) | 3:53 | 2021-01-03\* |  |
 | [Nous sommes](https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 2:47 | 2021-01-03\* |  |
-| [Ojalá](https://open.spotify.com/track/4faMpESfM79zvaCQLk77jt) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e) | 5:15 | 2023-07-07 |  |
+| [Ojalá](https://open.spotify.com/track/4faMpESfM79zvaCQLk77jt) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e) | 5:15 | 2023-07-07 | 2023-07-15 |
+| [Ojalá](https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Ojalá](https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv) | 5:15 | 2023-07-14 |  |
 | [Old Love](https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Old Love](https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg) | 3:25 | 2021-10-03 |  |
 | [On brûlera \- Session live montréalaise](https://open.spotify.com/track/4wSRWH4P7tp6bRXxWRA3Rs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [À peu près \(Deluxe\)](https://open.spotify.com/album/7BZrBzCAehFjU6mP3JCnmc) | 3:49 | 2021-10-04 | 2022-02-08 |
 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 |  |

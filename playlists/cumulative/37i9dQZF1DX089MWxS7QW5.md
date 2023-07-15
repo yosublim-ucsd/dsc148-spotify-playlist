@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Padi\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Choi HEART\(최하트\)\)
 
-208 songs - 11 hr 49 min
+213 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Andrea′s Song \(Feat\. Lil Cherry\)](https://open.spotify.com/track/0fzKwOsRpmUQFkBPBxjAEU) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [Andrea′s Song](https://open.spotify.com/album/0L7yJIRm0dDHhpie0X5Wd8) | 2:55 | 2023-05-02 |  |
 | [ANIRAGO \(feat\. Zion.T\)](https://open.spotify.com/track/4udQ9x6PZTNkO6Jwxdn0iw) | [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [WEATHER REPORT](https://open.spotify.com/album/7fovUQYXBmAfq8FGN8eEzm) | 3:22 | 2022-10-28 | 2023-03-28 |
 | [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 | 2023-01-11 |
+| [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 |  |
 | [BAD TRIP](https://open.spotify.com/track/3jdtoXjgDfPtyKBxrEiM6P) | [7uly Seven](https://open.spotify.com/artist/5RQPrdXEhZOc0kvHMlGlOL), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [BAD TRIP](https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc) | 2:12 | 2023-07-07 |  |
 | [Be there](https://open.spotify.com/track/5RAfPVfHgdSiIzQy0DHzyg) | [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Be there](https://open.spotify.com/album/6odwfXAYu7AxHXpKRTKuGf) | 3:43 | 2022-10-07 | 2023-03-28 |
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-19 | 2022-12-14 |
@@ -108,9 +109,12 @@
 | [I Don't Know Why](https://open.spotify.com/track/3w8GlgiRPYt3bLCmCQJL1V) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [I Don't Know Why](https://open.spotify.com/album/7wgbRd1CZmrJgwtkI7BuA0) | 3:43 | 2023-03-27 |  |
 | [I feel](https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [I feel](https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY) | 3:46 | 2023-03-23 |  |
 | [I JUST WANNA KNOW](https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 2:52 | 2022-05-28 | 2022-07-28 |
+| [I Know \(feat\. Jayroh\)](https://open.spotify.com/track/2tc6f5oJhGyf5FA6NbE6YJ) | [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM), [Jayroh](https://open.spotify.com/artist/7jioygkLGftDQXuTfG7ebS) | [I Know \(feat\. Jayroh\)](https://open.spotify.com/album/0yITSLy6XxINua3Lc6mLj1) | 4:00 | 2023-07-14 |  |
 | [I'm Your Puppy \- 2021](https://open.spotify.com/track/3ZnK8D6A0oO6mPmg9Id4R6) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [December](https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4) | 4:54 | 2022-05-28 | 2022-06-21 |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-05-28 | 2022-08-03 |
+| [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 | 2023-07-14 |  |
 | [Jealousy](https://open.spotify.com/track/5D0xOSWIpc7dTIEWQHhNSY) | [Jeon Chan Bin](https://open.spotify.com/artist/6UZ8dJVWmp2olPASce03YZ) | [Jealousy](https://open.spotify.com/album/4bhD2vJg23j42c0a2J9Osr) | 2:55 | 2022-06-09 | 2022-09-06 |
+| [karaoke love \(Feat\. Ugly Duck\)](https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [karaoke love](https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM) | 3:33 | 2023-07-14 |  |
 | [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 | 2022-06-09 | 2022-09-06 |
 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-05 | 2023-01-11 |
 | [Last Pure Luv](https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Last Pure Luv](https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh) | 3:06 | 2023-01-13 | 2023-04-28 |
@@ -136,6 +140,7 @@
 | [NI](https://open.spotify.com/track/1YPBwYpIgQHTaNA7Lzbju7) | [kursor](https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR) | [NI](https://open.spotify.com/album/5Dr99ei10zLhwbmYS4ndhf) | 3:19 | 2023-01-13 | 2023-07-08 |
 | [Night Air \(With\. g1nger\)](https://open.spotify.com/track/5GHNtt4wq9XjKeLTonZNdd) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [g1nger](https://open.spotify.com/artist/2Ff22VkmQhrsSaIe0Fksrs) | [Yellow](https://open.spotify.com/album/6x9ZhTzPQNzzcgCncunY8M) | 3:57 | 2022-05-28 | 2022-07-05 |
 | [No One Special \(feat\. J.O.Y & GARETH FERNANDEZ\)](https://open.spotify.com/track/0Gn4sPo3XJk1J897upDQru) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [Truman Show](https://open.spotify.com/album/6dPPKcd9FxtjGrwONNOTLR) | 2:50 | 2023-01-20 |  |
+| [No.5](https://open.spotify.com/track/0qPE8po4lQB34Ag281MBMr) | [Choi HEART](https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m) | [No.5](https://open.spotify.com/album/7sTaCC9hyAjG93JoQb9OR6) | 2:51 | 2023-07-14 |  |
 | [No.5](https://open.spotify.com/track/49n3XWprPOrQP8O50Ue9ls) | [MarginChoi](https://open.spotify.com/artist/1jQTEipNOZS8UPk53wxVfB), [Chaboom](https://open.spotify.com/artist/0c8Qflq0lTE9LhXcdNZrEG) | [No.5](https://open.spotify.com/album/2Wnge9eiuPNX0EJFzDNfys) | 2:53 | 2022-05-28 | 2022-06-21 |
 | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/track/5OjCX52agyp8LkgfA1vTF5) | [THE PIECES](https://open.spotify.com/artist/55GO9n2tyzw5jinjSIEcIY), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Not Beautiful \(feat\. Kenessi\)](https://open.spotify.com/album/6VfDVxS4M3DJL7eIx1NZRl) | 4:13 | 2022-11-25 | 2023-04-28 |
 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-09 | 2023-03-28 |

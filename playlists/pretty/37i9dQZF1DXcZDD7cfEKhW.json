@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Kylie Minogue",
-  "num_followers": 3417371,
+  "num_followers": 3417584,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTMyYTc5YzVhYzM1YWNlZTAzN2JjMmEzNDQ1ZjdmN2UzNWRkOTNi",
+  "snapshot_id": "MCw3Njg0MmUwOTg4NjgyMGNiZjNhNjMwY2JhNzg1YWU4OTlhNjU4MDc0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "La Bebe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 158739,
       "name": "La Bebe - David Guetta Remix",
       "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
-        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
-      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ghost (Merk & Kremont Remix)",
-        "url": "https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Ghost - Merk & Kremont Remix",
-      "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Sinnerman (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/4BaT7OuXhqB2KRmHsR07Rj"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 232632,
       "name": "Sinnerman - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Ghost (Merk & Kremont Remix)",
+        "url": "https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Ghost - Merk & Kremont Remix",
+      "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Can't Tame Her (The Remixes)",
-        "url": "https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Can't Tame Her - VIZE Remix",
-      "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Feeling Good (Austin Millz Remix)",
         "url": "https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 188825,
       "name": "Sunshine - MOTi Remix",
       "url": "https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Can't Tame Her (The Remixes)",
+        "url": "https://open.spotify.com/album/7F64hNuIf5LtqXCkRJrS90"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Can't Tame Her - VIZE Remix",
+      "url": "https://open.spotify.com/track/6oBuhfQSG0SSkcOPlEOavK"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "mine (Ty Sunderland Remix)",
-        "url": "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Ty Sunderland",
-          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "mine (Ty Sunderland Remix)",
-      "url": "https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Made You Look (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/3LsHvwXaJGjAyAwWawRPZ2"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 183529,
       "name": "Made You Look - Joel Corry Remix",
       "url": "https://open.spotify.com/track/5ZU8mWLqPz8KqBe6bXqrPe"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "mine (Ty Sunderland Remix)",
+        "url": "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Ty Sunderland",
+          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "mine (Ty Sunderland Remix)",
+      "url": "https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc"
     },
     {
       "added_at": "2023-06-30 04:00:00",

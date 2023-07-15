@@ -4,7 +4,7 @@
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-159 songs - 9 hr 36 min
+161 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Come Back Down](https://open.spotify.com/track/0I9huwsNKzSzkXy7MW6ujw) | [JB and The Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW), [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Come Back Down](https://open.spotify.com/album/0l8v1sHgKl84eEQUpaKoXs) | 4:42 | 2023-02-24 |  |
 | [Come Back Down](https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Medicine Man](https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr) | 4:33 | 2023-02-24 |  |
 | [Condemned](https://open.spotify.com/track/6WuVLG5DRHKKuJ6deCw28p) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [DeAnn](https://open.spotify.com/album/0npZ1Ryg8HaFGeb2HKYQIz) | 2:54 | 2023-02-24 |  |
+| [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 | 2023-07-14 |  |
 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2023-02-24 |  |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 |  |
 | [Dark Black Coal](https://open.spotify.com/track/4u0P6WKN5NQRz6wDRgDSlR) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Dark Black Coal](https://open.spotify.com/album/0Lf1eMtFx8X9ph0VmVMG7Z) | 4:14 | 2023-05-05 |  |
@@ -68,6 +69,7 @@
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
 | [Her](https://open.spotify.com/track/6Ym7UF7000PoA6MZha7ugt) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Her](https://open.spotify.com/album/7JERMt53TQC4z2Pn4nPUYi) | 3:08 | 2023-05-05 |  |
 | [Hold On](https://open.spotify.com/track/1fOvzFCRA3Ko0ihc2QTE29) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Hold On](https://open.spotify.com/album/3s7URrr4aax9L0kgMyyE00) | 3:04 | 2023-04-21 |  |
+| [Holes](https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Holes](https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh) | 3:58 | 2023-07-14 |  |
 | [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 | 2023-02-24 | 2023-04-15 |
 | [Horses](https://open.spotify.com/track/3Wrbf7Ecb7wDL5nS7L9HL0) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Horses](https://open.spotify.com/album/1Eh2GN0KEBgCrMCDaTcAfQ) | 3:38 | 2023-03-24 | 2023-05-13 |
 | [Horses Are Faster](https://open.spotify.com/track/3Jtn0oLAGr0KFA5J8CaT4C) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Ian Munsick \- EP](https://open.spotify.com/album/4SlHhLorpkGrQWiXLxhlLB) | 4:07 | 2023-02-24 |  |

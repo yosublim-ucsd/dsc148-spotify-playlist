@@ -4,7 +4,7 @@
 
 > the pearls of an oyster
 
-701 songs - 1 day 14 hr 58 min
+703 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-10 |
 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-09 | 2023-06-30 |
 | [A Little Bit Further](https://open.spotify.com/track/5KY4shvDTZMZ9wt3piadQ8) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [A Little Bit Further](https://open.spotify.com/album/1EyXqBrGIPPnKWOuGubCDb) | 5:02 | 2023-07-06 |  |
+| [A Thousand Miles](https://open.spotify.com/track/4iFPPrYt6YR8c9AldIJhWt) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Arletis](https://open.spotify.com/artist/1YBM8ESrjkE4hgpNUktUaK), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K) | [A Thousand Miles](https://open.spotify.com/album/3DoSzheD5LVnGukrtbfO1Q) | 3:35 | 2023-07-13 |  |
 | [ACTION MAN](https://open.spotify.com/track/7xmIP39CtageyeY2BPK4vG) | [Joe Lefty](https://open.spotify.com/artist/4Zbjxv6NJcEGkKUkRiLCad) | [ACTION MAN](https://open.spotify.com/album/6rLhk9Kn1w8j8ecAGgBqig) | 2:50 | 2023-02-23 | 2023-03-18 |
 | [ADHD](https://open.spotify.com/track/1VptKlDOriidHrb0eaIo22) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Graduation](https://open.spotify.com/album/6r2LkXt6DqfQGV70OHAilY) | 2:36 | 2023-02-16 | 2023-02-24 |
 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 | 2022-10-28 | 2022-12-16 |
@@ -70,6 +71,7 @@
 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-05-25 | 2023-07-14 |
 | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/track/04hxf6171aKFM67gNkOfKt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Barcelona \(feat\. Samm Henshaw\)](https://open.spotify.com/album/0ey2p9BD1wTRBICOSewhnJ) | 3:20 | 2023-06-15 | 2023-07-07 |
 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 | 2023-06-15 |  |
+| [bathroom tears](https://open.spotify.com/track/3GCZrcWQ0DzYA7r02FGyN0) | [Garr](https://open.spotify.com/artist/3EstoZcq6ILPzFbMHvIolA), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [bathroom tears](https://open.spotify.com/album/4RbLs6gCb2N0ho1ftGWbff) | 1:46 | 2023-07-13 |  |
 | [Be Somebody](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 | 2023-04-06 | 2023-05-19 |
 | [Beautiful Life](https://open.spotify.com/track/7o0gLCj1uAIkxPtmFx4oFt) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Beautiful Life](https://open.spotify.com/album/5Z2G3UyMU3gboZgTpe0BGL) | 3:56 | 2023-06-22 | 2023-07-07 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-10-28 | 2022-11-04 |

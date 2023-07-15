@@ -4,7 +4,7 @@
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-103 songs - 7 hr 13 min
+104 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Black Myself](https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:21 | 2022-02-18 |  |
 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 | 2021-03-01 | 2022-11-19 |
 | [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 | 2022-03-08 | 2023-05-01 |
-| [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 | 2022-03-08 |  |
+| [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 | 2022-03-08 | 2023-07-15 |
 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 | 2021-03-01 | 2022-07-16 |
 | [Cheats and Liars](https://open.spotify.com/track/3gcIVcnO6Y1DLVo8hQaPuM) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll) | 3:48 | 2022-02-18 | 2022-07-29 |
 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 | 2022-03-08 | 2022-11-13 |
@@ -65,6 +65,7 @@
 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 | 2021-03-01 | 2023-04-30 |
 | [Masters of War](https://open.spotify.com/track/4uEyWg6xjJ9uYoJYTuWg8U) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/7lAF2ragTBGGpRfa8m1AzZ) | 4:56 | 2022-03-08 |  |
 | [Medicine Man](https://open.spotify.com/track/0PtMZ1pEoqCGf58PNGN2DT) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT) | 3:39 | 2022-03-08 | 2023-07-07 |
+| [Medicine Man](https://open.spotify.com/track/3Lr0bBluqoWt2F2njzyNLd) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8) | 3:39 | 2022-03-08 |  |
 | [Medicine Man](https://open.spotify.com/track/3P55beeDiAOH7qHkj8CPYZ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Road I Call Home](https://open.spotify.com/album/7rooTZehVu9pdUIirCwA0a) | 3:39 | 2021-03-01 | 2022-10-17 |
 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 | 2021-03-01 |  |
 | [My Man Called Me](https://open.spotify.com/track/2FqLyyGqLM5KWRkWs4c39D) | [Heather Crosse](https://open.spotify.com/artist/0OdyBBQn3J8hwZN1oMSEQT) | [Groovin' at the Crosse Roads](https://open.spotify.com/album/0cTXGsOEadB2wpKMtIzhN0) | 3:34 | 2021-03-01 | 2022-07-28 |

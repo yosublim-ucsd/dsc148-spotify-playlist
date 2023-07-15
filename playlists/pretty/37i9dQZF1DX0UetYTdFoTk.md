@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 
 > To all the 7abieb out there\. Cover: Assala Nasri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,999 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,098 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 34 | [Weilak](https://open.spotify.com/track/1rnAqjXXzirQV1UxIDFI7K) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Hobb W Mkattar](https://open.spotify.com/album/1J5agF9rCabvqDaZr4nxM0) | 3:29 |
 | 35 | [Nami Aa Sadri](https://open.spotify.com/track/5f7CeTgKBeZiknrIGGKYIP) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Toul Al Yom](https://open.spotify.com/album/0fEk2u9h2WZa8tB6prjewu) | 3:15 |
 | 36 | [Maliket Gamal El Rouh](https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Maliket Gamal El Rouh](https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR) | 3:47 |
-| 37 | [Hayat](https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:10 |
-| 38 | [Fi Hada](https://open.spotify.com/track/0DEZsTQcU0K8H1fQbT5tyR) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Fi Hada](https://open.spotify.com/album/1t1Czgx338qrdq0lU8P6An) | 3:39 |
+| 37 | [Fi Hada](https://open.spotify.com/track/0DEZsTQcU0K8H1fQbT5tyR) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Fi Hada](https://open.spotify.com/album/1t1Czgx338qrdq0lU8P6An) | 3:39 |
+| 38 | [Hayat](https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:10 |
 | 39 | [Mesh Aader Ansa](https://open.spotify.com/track/5WrZCiz4i3bkfElAC23iTc) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:12 |
 | 40 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
 | 41 | [Eli W Melki](https://open.spotify.com/track/6CU3flgAxqRQEbQXREsmpj) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Maritta](https://open.spotify.com/album/3hryfD4SwnAuLWIdSw7UwP) | 3:02 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UetYTdFoTk.md) - [plain]
 | 59 | [شِمالي](https://open.spotify.com/track/196CcGNeJ0poBVJlIvnPUr) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [الاغاني اللي عملتا الك](https://open.spotify.com/album/3fwpj2fEjO7ZR9CWrOWtPQ) | 3:31 |
 | 60 | [و انا معاك](https://open.spotify.com/track/3DrcdweC4NVvPsbYvBedv6) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [و انا معاك](https://open.spotify.com/album/2EmNYsE7Kv9QivyM66BdbY) | 3:01 |
 
-Snapshot ID: `MCw0ZGE5MThkYWUyYTczODk3MTAwNDNlMzI3YmFhZjRhNWFkMmNkMGVh`
+Snapshot ID: `MCw3OTE0NmQxYzI4OTg0NmNlMmE3NzQ0MjJjNWRmN2NhYmRmZTc3MmM3`

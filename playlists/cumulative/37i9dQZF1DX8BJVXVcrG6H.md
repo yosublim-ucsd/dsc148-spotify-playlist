@@ -4,7 +4,7 @@
 
 > Representantes de la rima Charrúa\. Foto: Los Buenos Modales.
 
-74 songs - 3 hr 53 min
+75 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Eclipse](https://open.spotify.com/track/3CdCCZDA3olKN3FLvrRg4o) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Mili Milanss](https://open.spotify.com/artist/5US33tP9Eoj53sO9yF4STs) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 4:01 | 2023-06-16 |  |
 | [El Club de la Pelea](https://open.spotify.com/track/3mDc7uQm6ZAlqUqkafWXkO) | [Santi Mostaffa](https://open.spotify.com/artist/3oVa1dCIWhoJ4cTFgrEgWG), [Gavo](https://open.spotify.com/artist/41C1AjZw6VMg0MGc1FXeTz) | [Escapismo](https://open.spotify.com/album/7Jn7ftJbEd9ETtJzoAL61u) | 2:45 | 2023-06-16 |  |
 | [El Discurso](https://open.spotify.com/track/0a73NYOMeUySjw11BCR0E5) | [Dj Miami](https://open.spotify.com/artist/0csyBRH35hvheuLtbztHWV) | [Crème Sessions, Vol\. 2](https://open.spotify.com/album/4QZLLxGZtdK5V3SWHkeRgx) | 2:27 | 2023-06-16 |  |
+| [El Duelo](https://open.spotify.com/track/12ArbbsxBxxY2RbNdacPPk) | [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6), [Eme Ese](https://open.spotify.com/artist/2efK6H5GDQVYQFyAVgKqE3) | [El Duelo](https://open.spotify.com/album/2iQzsjUxzW9rBq7X6jpGht) | 2:28 | 2023-07-14 |  |
 | [Epidermis](https://open.spotify.com/track/2UnVi59riYzB5YpzvSXd56) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Epidermis](https://open.spotify.com/album/3urrk0x89WnzmSbl3af8By) | 3:40 | 2023-06-16 |  |
 | [Espejo](https://open.spotify.com/track/6Y1WkxwXoAfks78QEnQzsw) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR), [Olmeca](https://open.spotify.com/artist/53JqdfPCK9zugXtiMRWf3g) | [Reflejo](https://open.spotify.com/album/62PKJdLUeShf2GHzbhhqpI) | 3:58 | 2023-06-16 |  |
 | [Feel It](https://open.spotify.com/track/2XVVefkBPHoETC4c4OWpyO) | [Dostrescinco](https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO) | [Feel It](https://open.spotify.com/album/75NVRDaIKp5a7Q05AUhm5H) | 3:12 | 2023-06-16 |  |

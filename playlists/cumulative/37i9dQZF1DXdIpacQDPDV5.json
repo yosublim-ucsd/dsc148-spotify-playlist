@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Hayden James & Bob Moses",
+  "description": "The best of today's dance hits. Cover: CRi",
   "name": "mint Canada",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 153138,
       "name": "40 Days & 40 Nights (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/6jV1ordhBJJeEjCW04XJCx"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 234354,
       "name": "Almost Everything",
       "url": "https://open.spotify.com/track/4pxC44xd2qCE3FnOcrFdtT"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183397,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
@@ -1794,6 +1794,28 @@
       "duration_ms": 224516,
       "name": "Biosph\u00e8re",
       "url": "https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP"
+    },
+    {
+      "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163576,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH"
     },
     {
       "album": {
@@ -3011,6 +3033,32 @@
     },
     {
       "album": {
+        "name": "Cry For You",
+        "url": "https://open.spotify.com/album/01koLdFgQfB9mVNERvdsin"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Mougleta",
+          "url": "https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125793,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/65YiCW1XCs3Py2bwxgFxEd"
+    },
+    {
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -3904,7 +3952,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 170196,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/73Aj6vBOimEVHMMm67YmcU"
@@ -4403,6 +4451,28 @@
     },
     {
       "album": {
+        "name": "Emorio",
+        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Emorio",
+      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
+    },
+    {
+      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/7xROolsnODPQ7ZJnM0oL6P"
       },
@@ -4422,6 +4492,46 @@
       "duration_ms": 154825,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/3TCMIe1gD29DS67UA8j2lE"
+    },
+    {
+      "album": {
+        "name": "Ending With 1000",
+        "url": "https://open.spotify.com/album/5XrsHHpw2kBb9OYG08NlsH"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225908,
+      "name": "Ending With 1000",
+      "url": "https://open.spotify.com/track/46Zm0M4rnb0VjwyEIu2q6Q"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "album": {
@@ -5234,6 +5344,28 @@
       "duration_ms": 197489,
       "name": "FLUTE",
       "url": "https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO"
+    },
+    {
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/3Blrj1vf90gwqIVlgBRNqw"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2c8KVQsKvJ7OoY1y005YR0"
     },
     {
       "album": {
@@ -6344,7 +6476,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 192914,
       "name": "Heartbreak Fever",
       "url": "https://open.spotify.com/track/152nakhbemxARzWXu224Hc"
@@ -6510,7 +6642,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 241860,
       "name": "Here - Cyril Hahn Remix",
       "url": "https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X"
@@ -6682,6 +6814,24 @@
       "duration_ms": 216000,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4Kt3Epl5VGwmVE0rBqtJpS"
+    },
+    {
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196598,
+      "name": "Higher Than Ever Before",
+      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
     },
     {
       "album": {
@@ -7104,7 +7254,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 276327,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/23xqEmADtSBqrtWhIBfxjd"
@@ -7174,6 +7324,24 @@
       "duration_ms": 145785,
       "name": "I Came to Dance",
       "url": "https://open.spotify.com/track/5KsqavNwpQsiqzlkW2r0aI"
+    },
+    {
+      "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "album": {
@@ -8934,7 +9102,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 185624,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/7xOes3NXkYCVp1IE7hknek"
@@ -9029,6 +9197,24 @@
     },
     {
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/7vQA73oKEVuZTfezL9gtLQ"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/2pYL4YZ8s13UqG9QHxd54b"
+    },
+    {
+      "album": {
         "name": "Lionheart (Fearless)",
         "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
       },
@@ -9088,6 +9274,24 @@
       "duration_ms": 133205,
       "name": "Lisa Leslie",
       "url": "https://open.spotify.com/track/3O48lwYbFRsDAyOFyvyp8m"
+    },
+    {
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "album": {
@@ -11716,7 +11920,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169655,
       "name": "On + On (with Justine Skye)",
       "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
@@ -12082,6 +12286,28 @@
       "duration_ms": 171006,
       "name": "Out Of Context",
       "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
+    },
+    {
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1fswBzR4WGga1p5UbI8tr7"
+      },
+      "artists": [
+        {
+          "name": "The Banker Boys",
+          "url": "https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm"
+        },
+        {
+          "name": "Shawn Hook",
+          "url": "https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136481,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3L7RqK0wfTfgRJbefYcKeM"
     },
     {
       "album": {
@@ -12798,7 +13024,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 164693,
       "name": "Praising You (feat. Fatboy Slim)",
       "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
@@ -12978,6 +13204,24 @@
       "duration_ms": 238736,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/4T2i7b1SkRTGHmT5Xr6ym9"
+    },
+    {
+      "album": {
+        "name": "Rainy Summer",
+        "url": "https://open.spotify.com/album/4PMKfFHNF1Pa6jbn0BLod3"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Rainy Summer",
+      "url": "https://open.spotify.com/track/6Q9BxXLOidwHfjeN9qcn2G"
     },
     {
       "album": {
@@ -13530,7 +13774,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
@@ -13757,6 +14001,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "album": {
         "name": "Rush On Me",
         "url": "https://open.spotify.com/album/2uAiBwbIYtmK6Sm4ZDN6G1"
       },
@@ -13945,6 +14207,24 @@
     },
     {
       "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/0MFPQQuIo9PbLlnlFUe3mf"
+      },
+      "artists": [
+        {
+          "name": "Gab Rhome",
+          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276150,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/7usAbAN7xZheB8APp6GpQN"
+    },
+    {
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/7AjIuyan57QZUqHSskdplX"
       },
@@ -14076,7 +14356,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 308860,
       "name": "See The Light (feat. Fridayy)",
       "url": "https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU"
@@ -18618,7 +18898,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 206000,
       "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"

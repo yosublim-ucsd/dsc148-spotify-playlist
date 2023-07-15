@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3516,
+  "num_followers": 3518,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2ZiZDc3OGY5YTk0MzM5MzY4OTUwYjBmMDBmYzI3MDUwN2Y2YWIy",
+  "snapshot_id": "MCwwMWM4OGZlY2RiZmRlNDgxZGQyYWEwMDNhYWZhYzhhNjJmNjhkNzZj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Sentiments humains",
-        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
+        "name": "La vraie nature - Chansons par Pilou",
+        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Pilou",
+          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
         }
       ],
-      "duration_ms": 237200,
-      "name": "Nous restions l\u00e0",
-      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
+      "duration_ms": 246613,
+      "name": "J'irai l\u00e0",
+      "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La vraie nature - Chansons par Pilou",
-        "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
+        "name": "Sentiments humains",
+        "url": "https://open.spotify.com/album/6iExYO8AbDltsJz1Tre3qS"
       },
       "artists": [
         {
-          "name": "Pilou",
-          "url": "https://open.spotify.com/artist/2mXm2rWcMZFwuy0PNXPF2c"
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
         }
       ],
-      "duration_ms": 246613,
-      "name": "J'irai l\u00e0",
-      "url": "https://open.spotify.com/track/2TgmYxs09xgmfy16ENWLkG"
+      "duration_ms": 237200,
+      "name": "Nous restions l\u00e0",
+      "url": "https://open.spotify.com/track/24PaQVwM1wwWuyoKLDTrXg"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Bygone",
         "url": "https://open.spotify.com/album/6kULtQJS1RP8J2s3Ra7aT2"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 222893,
       "name": "Je ne veux pas savoir",
       "url": "https://open.spotify.com/track/1rDEtB371gA4hjDRypHpqS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "A Wider Space, B-Sides",
-        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
-      },
-      "artists": [
-        {
-          "name": "Groenland",
-          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Cabin (VF)",
-      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
+        "name": "A Wider Space, B-Sides",
+        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Groenland",
+          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
         }
       ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
+      "duration_ms": 222720,
+      "name": "Cabin (VF)",
+      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 186215,
+      "name": "Rien ne se perd, rien ne se cr\u00e9e",
+      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/1hHpRoYwXO1gUwcdCMGMdh"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 186215,
-      "name": "Rien ne se perd, rien ne se cr\u00e9e",
-      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le long chemin (version acoustique)",
         "url": "https://open.spotify.com/album/5yC3D6Lxyc5Fc4vqnirnGB"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 285026,
       "name": "Pour Le Reste De Ma Vie",
       "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Bleu Soleil",
-        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
-      },
-      "artists": [
-        {
-          "name": "Charles-Antoine Gosselin",
-          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Il m'en aura fallu du temps",
-      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "T\u00f6lt",
-        "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
+        "name": "Bleu Soleil",
+        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
       },
       "artists": [
         {
-          "name": "Flying H\u00f3rses",
-          "url": "https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq"
+          "name": "Charles-Antoine Gosselin",
+          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
         }
       ],
-      "duration_ms": 344346,
-      "name": "Oubliette",
-      "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
+      "duration_ms": 247733,
+      "name": "Il m'en aura fallu du temps",
+      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1527,6 +1511,22 @@
       "duration_ms": 256361,
       "name": "Dactylo",
       "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "T\u00f6lt",
+        "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
+      },
+      "artists": [
+        {
+          "name": "Flying H\u00f3rses",
+          "url": "https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq"
+        }
+      ],
+      "duration_ms": 344346,
+      "name": "Oubliette",
+      "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
-        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
-      },
-      "artists": [
-        {
-          "name": "Laurence H\u00e9lie",
-          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
-        }
-      ],
-      "duration_ms": 269773,
-      "name": "Trente ans",
-      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "T\u00e9lescope",
         "url": "https://open.spotify.com/album/3nTN7u6XfMkPyqfurixUhW"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 284640,
       "name": "Poisson d'abysse",
       "url": "https://open.spotify.com/track/2FLmfUEeSIrgPmcougor2L"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
+        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
+      },
+      "artists": [
+        {
+          "name": "Laurence H\u00e9lie",
+          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "Trente ans",
+      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
     },
     {
       "added_at": "2021-02-06 03:12:40",

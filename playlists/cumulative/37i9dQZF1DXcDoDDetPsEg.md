@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-647 songs - 1 day 8 hr 52 min
+648 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [Mercedes](https://open.spotify.com/track/3misJkA5entqkAdHPJ4vTP) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Mercedes](https://open.spotify.com/album/7c1vHHQCEK6e5vkwNqiVPb) | 2:59 | 2022-06-16 | 2022-07-22 |
 | [Messy](https://open.spotify.com/track/6BDfPXdc5LePckeLSN9z8I) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Messy](https://open.spotify.com/album/6EMJGoV0haYpSrqH3pSwzO) | 1:50 | 2022-07-28 | 2022-08-24 |
 | [Militant](https://open.spotify.com/track/5HqBdMWyYi0I2xVbkDzo9S) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Militant](https://open.spotify.com/album/0F8IMTbcpQB5u1mz564mth) | 3:23 | 2022-03-08 | 2022-03-09 |
-| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL) | 3:13 | 2023-07-13 |  |
+| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-13 |  |
+| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL) | 3:13 | 2023-07-13 | 2023-07-15 |
 | [Mind My Business](https://open.spotify.com/track/28Nm0rgLcn4OUQTocqoDZO) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/2e1bm04icZGHLmDKvGBqvY) | 1:59 | 2022-08-23 | 2022-08-31 |
 | [Mobb Mentality](https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Jus Jammin](https://open.spotify.com/artist/44QcOr1krKgXeXbJGx5h3c), [Off Endz](https://open.spotify.com/artist/3RT7TqiP2ItbSrnVomTgAL), [Smila](https://open.spotify.com/artist/7ceegIQiAYyIsHczx0BBkO), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [Blittz](https://open.spotify.com/artist/5wh8Pzrj67NfBOA5t8GBE5), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Shorty](https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy) | [Mobb Mentality](https://open.spotify.com/album/7oPwu31zSQKEkJx25dMLNN) | 4:30 | 2023-03-03 | 2023-04-09 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-05-20 | 2022-07-01 |

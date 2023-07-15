@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-745 songs - 1 day 11 hr 48 min
+747 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bikini Bottom](https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl) | 1:46 | 2022-10-28 | 2023-02-18 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-07-22 | 2023-03-14 |
 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 | 2022-05-20 | 2022-07-29 |
+| [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 | 2023-07-14 |  |
 | [Black Hearted](https://open.spotify.com/track/25qk9xa71F1POdI4vj7rbi) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 3:10 | 2021-09-03 | 2022-11-19 |
 | [Black Iverson](https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Black Iverson](https://open.spotify.com/album/46Enyl1OWFBCqnEh2hVIfA) | 3:05 | 2022-05-13 | 2022-07-29 |
 | [Black Wall Street](https://open.spotify.com/track/3yRQlIBpAYL0mYHQXMpviZ) | [Killumantii](https://open.spotify.com/artist/3uihH9rY2n7IgCkO0Rjbe1) | [Black Wall Street](https://open.spotify.com/album/2xQYXz7cM4PIV8vC6Oo5Uv) | 2:02 | 2022-03-18 | 2022-04-20 |
@@ -221,6 +222,7 @@
 | [Fat Racks Pt\. 2](https://open.spotify.com/track/7LWj7OYNxpBEnsc3kzezEj) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Fat Racks Pt\. 2](https://open.spotify.com/album/5hYM8bF77qRIYoSztYb2cR) | 3:43 | 2023-03-14 | 2023-03-25 |
 | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 | 2023-05-19 | 2023-07-08 |
 | [Feeling Myself Today](https://open.spotify.com/track/5dABkHkvA7ud5nmDUArJ4r) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Bill Israel](https://open.spotify.com/album/051k93izd0reEjp85OgEo6) | 3:08 | 2021-09-03 | 2022-04-20 |
+| [Feelings](https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Feelings](https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ) | 2:38 | 2023-07-14 |  |
 | [Feelings](https://open.spotify.com/track/3bunovg8ep6uXccEg5RUAy) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Feelings](https://open.spotify.com/album/2cpblTGZISVH05oyaXcW89) | 2:17 | 2021-09-03 | 2022-04-19 |
 | [Feen](https://open.spotify.com/track/2qTcJF53V5rsJd82CVFadL) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [L.O.V.E\. \(Deluxe\)](https://open.spotify.com/album/7oogc2HscinoahzGe8INuf) | 2:59 | 2021-09-03 | 2022-04-16 |
 | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/track/28yy6AId4shZVCSjTRdCa9) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/album/3oLGzMCN8fnmDXff3hCtMH) | 3:19 | 2022-10-07 | 2023-01-14 |

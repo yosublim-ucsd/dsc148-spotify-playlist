@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 289093,
+  "num_followers": 289330,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjdmODc2YTc2NDZjZjUwZTA1ZGE0ZjQxZTVkMTcwNDFmNzZkOGVh",
+  "snapshot_id": "MCwwMzk4ZTBkZjUxYTFlZDM4ODg0YjNkOWQxNjg4YzRkZGExNDVkMjFj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -69,6 +69,30 @@
       "url": "https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE"
     },
     {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Black Crow",
+        "url": "https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
+        {
+          "name": "SuperBlue",
+          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
+        }
+      ],
+      "duration_ms": 214909,
+      "name": "Black Crow",
+      "url": "https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW"
+    },
+    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Hizuru (Jazztronik Remix)",
@@ -121,6 +145,22 @@
       "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
     },
     {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Serpentine",
+        "url": "https://open.spotify.com/album/3HDZIVNyEpxMEVYg2LGjgQ"
+      },
+      "artists": [
+        {
+          "name": "Apollo Suns",
+          "url": "https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW"
+        }
+      ],
+      "duration_ms": 228219,
+      "name": "Serpentine",
+      "url": "https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX"
+    },
+    {
       "added_at": "2023-05-26 04:01:00",
       "album": {
         "name": "Iskhathi",
@@ -171,6 +211,22 @@
       "duration_ms": 119510,
       "name": "Spiky Boi",
       "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/7agDZgzBiUHXstAmfXMeY9"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/7eL5p6ngW5Jm0e72xlyjL8"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -289,30 +345,6 @@
       "url": "https://open.spotify.com/track/4MKQjdR7rPwlxtn2SMosQ1"
     },
     {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Freeman Square",
-        "url": "https://open.spotify.com/album/1mJmd8HI5eo9hmKwKqLv8X"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "SuperBlue",
-          "url": "https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe"
-        }
-      ],
-      "duration_ms": 314654,
-      "name": "Freeman Square",
-      "url": "https://open.spotify.com/track/7aWuAaepHToCUIMROd80Ze"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Pieces of a Man",
@@ -343,22 +375,6 @@
       "duration_ms": 377171,
       "name": "Jimmy's Groove",
       "url": "https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Pluto",
-        "url": "https://open.spotify.com/album/2KhSWuSSxItYsUYIXbhyyq"
-      },
-      "artists": [
-        {
-          "name": "Apollo Suns",
-          "url": "https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW"
-        }
-      ],
-      "duration_ms": 257152,
-      "name": "Pluto",
-      "url": "https://open.spotify.com/track/66BTQQnzdtn921AG13dO6D"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 159228,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Rat Trap / Chop Bop",
-        "url": "https://open.spotify.com/album/1wsuzhNttnB9TD455c7Eie"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 238378,
-      "name": "Rat Trap",
-      "url": "https://open.spotify.com/track/5cNAj31GnRDzfDSDzxGrJV"
     },
     {
       "added_at": "2021-04-09 04:01:00",

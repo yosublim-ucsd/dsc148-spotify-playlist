@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 135960,
       "name": "Big 4",
       "url": "https://open.spotify.com/track/2nRJZpii4iG0ed19Ogf7Ne"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 121375,
       "name": "Big 4 Anthem",
       "url": "https://open.spotify.com/track/79uAB6BuxKoLhhdXTvLW2a"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 137400,
       "name": "Bitter Bitch",
       "url": "https://open.spotify.com/track/6SN58S8GAqUhl5SXcxmpiY"
@@ -678,10 +678,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 176640,
       "name": "Bone",
       "url": "https://open.spotify.com/track/4wYs9MjgRTArLXJCEqN87k"
+    },
+    {
+      "album": {
+        "name": "Bone",
+        "url": "https://open.spotify.com/album/5JmEx8H3d7ExcGBdMJkF8h"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00cea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "Bone",
+      "url": "https://open.spotify.com/track/1frBbihDVWHwovuKKoDDoV"
     },
     {
       "album": {
@@ -993,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "chain",
+        "url": "https://open.spotify.com/album/1pD3mUqv8jSN4Jv08dMKmJ"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168629,
+      "name": "chain",
+      "url": "https://open.spotify.com/track/73m5RI0Mx2SNo5P6fu148x"
+    },
+    {
+      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/0KxMCnYlNr9YkKdP0JFctu"
       },
@@ -1052,6 +1088,24 @@
       "duration_ms": 126094,
       "name": "Chemical Warfare",
       "url": "https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ"
+    },
+    {
+      "album": {
+        "name": "4 My Fans",
+        "url": "https://open.spotify.com/album/5HCupVwP2tEJ4NTEarUl8c"
+      },
+      "artists": [
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Clickbait (FlauMixx)",
+      "url": "https://open.spotify.com/track/3jTEDbYsZPI5ZXuuI4sai8"
     },
     {
       "album": {
@@ -1120,7 +1174,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 159385,
       "name": "Cocaina",
       "url": "https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ"
@@ -2064,6 +2118,24 @@
       "duration_ms": 160769,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a"
+    },
+    {
+      "album": {
+        "name": "Fifth",
+        "url": "https://open.spotify.com/album/0cxSW85kPAIUEk6UIejvPD"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155362,
+      "name": "Fifth",
+      "url": "https://open.spotify.com/track/5DNpSTHMlVO4OdiQJ1uG8v"
     },
     {
       "album": {
@@ -3487,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "While You Wait",
+        "url": "https://open.spotify.com/album/0ke9ejH3PxeXYhijwoXgi3"
+      },
+      "artists": [
+        {
+          "name": "ShaqIsDope",
+          "url": "https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156607,
+      "name": "Love & War",
+      "url": "https://open.spotify.com/track/1MBzLdsSsotZiVPZ54crZf"
+    },
+    {
+      "album": {
         "name": "B4BMG: The Experience",
         "url": "https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs"
       },
@@ -3516,7 +3606,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 171032,
       "name": "MAKE A WISH",
       "url": "https://open.spotify.com/track/1r4vcPwDJMZ9pTEJ4iR4Fc"
@@ -3975,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Not My Cellphone!!!",
+        "url": "https://open.spotify.com/album/6EOBScnphNJ5eRZ9Ckh2iF"
+      },
+      "artists": [
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325309,
+      "name": "Not My Cellphone!!!",
+      "url": "https://open.spotify.com/track/1pbwH4DfDcGBB3ZWObtSSg"
+    },
+    {
+      "album": {
         "name": "On a Roll",
         "url": "https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI"
       },
@@ -4426,7 +4534,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 94925,
       "name": "Potential",
       "url": "https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc"
@@ -4488,6 +4596,24 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1c228FxzUQ8deFtx02aMuZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6kfMbkk7viIpYCVO0QR0og"
     },
     {
       "album": {
@@ -4981,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "SHOULD I STAY",
+        "url": "https://open.spotify.com/album/7pqKOHGrFt8rCK0pYIWQIS"
+      },
+      "artists": [
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/3KMDtS3p5sJlQf4ebBZ8Zf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208097,
+      "name": "SHOULD I STAY",
+      "url": "https://open.spotify.com/track/3THYtsHcDQO30uHMRXf5R4"
+    },
+    {
+      "album": {
         "name": "SHOUTOUT TO GOD",
         "url": "https://open.spotify.com/album/28EZdK7KBlzLRjmaJ1auwN"
       },
@@ -5046,7 +5190,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 192000,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/0Dqmom7WoaeIAox1YLISs8"
@@ -5942,7 +6086,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 134270,
       "name": "UR SO FULL OF IT",
       "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
@@ -6342,6 +6486,24 @@
       "duration_ms": 131500,
       "name": "You Got It Made",
       "url": "https://open.spotify.com/track/03M0wprGdDBgPTKfikarQd"
+    },
+    {
+      "album": {
+        "name": "Make It A Double",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "album": {

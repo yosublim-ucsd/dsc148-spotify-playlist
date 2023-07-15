@@ -4243,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Pesa Ndogo",
+        "url": "https://open.spotify.com/album/7tgBbKwNZAGHLbqyVEZIXH"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188166,
+      "name": "Pesa Ndogo",
+      "url": "https://open.spotify.com/track/17SB8W5WdkVpsA6huzqu1X"
+    },
+    {
+      "album": {
         "name": "PESA ONGE",
         "url": "https://open.spotify.com/album/1nhQU721aD1FiCGhlTq9JF"
       },

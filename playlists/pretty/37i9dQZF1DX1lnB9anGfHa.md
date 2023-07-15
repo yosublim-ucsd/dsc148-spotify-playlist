@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,759 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,840 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 5 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 |
 | 6 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 |
 | 7 | [Voices](https://open.spotify.com/track/3Xuhi20r1A2FGQHAisL551) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 1:54 |
-| 8 | [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 |
-| 9 | [Zone 1 to 6000](https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Weighing of the Heart](https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO) | 3:25 |
+| 8 | [Zone 1 to 6000](https://open.spotify.com/track/4dKYEhGEEpTZFOXBAhDOcA) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Weighing of the Heart](https://open.spotify.com/album/1wv2yreeNsyBNnvlhOhvjO) | 3:25 |
+| 9 | [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 |
 | 10 | [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 |
 | 11 | [Wasting](https://open.spotify.com/track/24ecRdvvKcZCFdmebEJ1X8) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Deeper](https://open.spotify.com/album/4sdTiKZkufFUNlvtNcIiFh) | 5:50 |
 | 12 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 49 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 |
 | 50 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [B\-Sides & Rarities: Volume 1](https://open.spotify.com/album/27sproEBf122MWgqS30BiI) | 3:48 |
 
-Snapshot ID: `MCxmY2U0MTVhYTg5OWYyN2E4ZGZkOGIyY2YxMjBkNTE1ZjgzOTFjZjkw`
+Snapshot ID: `MCw2MDM3N2E3YzU1YTQwNDU2YWM1N2M3MDFhOGRjODM1ODk5ZWUzODE3`

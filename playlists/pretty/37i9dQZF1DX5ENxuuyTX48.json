@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Sezairi",
-  "num_followers": 12429,
+  "num_followers": 12481,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGZhNDllMDU1MzNhYmJlNThlODYzMzdmOGQ4ZmVlMjgwZjk4ZDQ5",
+  "snapshot_id": "MCw0NTA0OWM3MmI2YmIxYTZjOTc0ODEyNjBlZWFiZDgwNjkwYzIyZjJm",
   "tracks": [
     {
       "added_at": "2023-07-13 16:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
+        "name": "Lagipula Hidup Akan Berakhir",
+        "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 266330,
+      "name": "Cincin",
+      "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
         "name": "no more you and i",
         "url": "https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK"
       },
@@ -815,38 +831,6 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "Inilah JalanNya",
-        "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
-      },
-      "artists": [
-        {
-          "name": "Masdo",
-          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
-        }
-      ],
-      "duration_ms": 160117,
-      "name": "Inilah JalanNya",
-      "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
-        "name": "Lagipula Hidup Akan Berakhir",
-        "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
-      },
-      "artists": [
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 266330,
-      "name": "Cincin",
-      "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
         "name": "Toast",
         "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 154105,
       "name": "Toast",
       "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
+        "name": "Inilah JalanNya",
+        "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
+      },
+      "artists": [
+        {
+          "name": "Masdo",
+          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
+        }
+      ],
+      "duration_ms": 160117,
+      "name": "Inilah JalanNya",
+      "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
     },
     {
       "added_at": "2023-07-13 16:00:00",

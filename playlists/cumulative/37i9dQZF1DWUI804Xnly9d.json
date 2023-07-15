@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Baarishein (Acoustic)",
+        "url": "https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Baarishein (Acoustic)",
+      "url": "https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt"
+    },
+    {
+      "album": {
         "name": "Baarishein Lana",
         "url": "https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ"
       },
@@ -929,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Ishq Ki Baat",
+        "url": "https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH"
+      },
+      "artists": [
+        {
+          "name": "Milan",
+          "url": "https://open.spotify.com/artist/6uabsr2THX1Yls9VsqeQti"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91764,
+      "name": "Ishq Ki Baat",
+      "url": "https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f"
+    },
+    {
+      "album": {
         "name": "Izhaar",
         "url": "https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ"
       },
@@ -944,6 +980,24 @@
       "duration_ms": 232227,
       "name": "Izhaar",
       "url": "https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT"
+    },
+    {
+      "album": {
+        "name": "Jabse Tu Humko Mila",
+        "url": "https://open.spotify.com/album/257189U2uvn9pVrkVL86vN"
+      },
+      "artists": [
+        {
+          "name": "Aditya Agrahari",
+          "url": "https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165159,
+      "name": "Jabse Tu Humko Mila",
+      "url": "https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd"
     },
     {
       "album": {
@@ -1122,7 +1176,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 226500,
       "name": "Khaali Panne",
       "url": "https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq"
@@ -1210,7 +1264,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160229,
       "name": "Kho Gaya Kyun",
       "url": "https://open.spotify.com/track/0IOasZouiW0Zr9osyXhFT0"
@@ -1858,7 +1912,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 199024,
       "name": "Parinda",
       "url": "https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT"
@@ -1978,7 +2032,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 177371,
       "name": "Raah",
       "url": "https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN"
@@ -2336,6 +2390,32 @@
       "duration_ms": 177026,
       "name": "Tere Hi Hum",
       "url": "https://open.spotify.com/track/1TkyDEdjiUuYhoMkxdZCiO"
+    },
+    {
+      "album": {
+        "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") [Trending]",
+        "url": "https://open.spotify.com/album/2KHpvJmpbbLlWMH1eY1vWh"
+      },
+      "artists": [
+        {
+          "name": "JalRaj",
+          "url": "https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176538,
+      "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\") - Trending",
+      "url": "https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw"
     },
     {
       "album": {

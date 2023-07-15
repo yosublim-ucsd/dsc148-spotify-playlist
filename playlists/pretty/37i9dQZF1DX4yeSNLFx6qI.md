@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,752,093 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752,187 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 31 | [Dices Que Te Vas](https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [OCEAN](https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK) | 3:22 |
 | 32 | [Titanic](https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:58 |
 | 33 | [Rayando el Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Rayando El Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8) | 4:18 |
-| 34 | [Un Millón Como Tú](https://open.spotify.com/track/619zlIsV7csW2h2narAoPC) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Un Millón Como Tú](https://open.spotify.com/album/5r75ptD4oGxvbu9iWUhqCB) | 4:35 |
-| 35 | [Recuérdame](https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:47 |
+| 34 | [Recuérdame](https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:47 |
+| 35 | [Un Millón Como Tú](https://open.spotify.com/track/619zlIsV7csW2h2narAoPC) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Un Millón Como Tú](https://open.spotify.com/album/5r75ptD4oGxvbu9iWUhqCB) | 4:35 |
 | 36 | [Siempre](https://open.spotify.com/track/2BOfgAlexUSef23fFwkd1k) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Siempre](https://open.spotify.com/album/1FmLq6L6oiD1zAq0UxF341) | 1:32 |
 | 37 | [Me va a extrañar \(aka Unchain My Heart\)](https://open.spotify.com/track/35436ddSANnATz1eBT5FAY) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 4:58 |
 | 38 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 73 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
 | 74 | [Te La Dedico](https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Te La Dedico](https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y) | 3:51 |
 | 75 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/5dITA6jTX7f1gHwEAyS3YZ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/album/4rrjJBAIMEZZG8i9GDwoLu) | 3:52 |
-| 76 | [Te Olvidé](https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Olvidé](https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA) | 3:05 |
-| 77 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 |
+| 76 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 |
+| 77 | [Te Olvidé](https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Olvidé](https://open.spotify.com/album/5tCvYwnjj9GaEHO8hgxEQA) | 3:05 |
 | 78 | [Vas A Quedarte](https://open.spotify.com/track/2b3JxLi8KAiOsD8ehnOxDZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tráiler](https://open.spotify.com/album/1ayrDfnBGwEtBHjS4u5gHw) | 3:46 |
 | 79 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 |
 | 80 | [Suficiente](https://open.spotify.com/track/3FVnwugdti1mSy5xjpXCaz) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Suficiente](https://open.spotify.com/album/4iCm5y1XREMD9eIq0rIbct) | 3:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 95 | [Cómo Decirle](https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Limonada](https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA) | 4:01 |
 | 96 | [Tomar Distancia](https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Tomar Distancia](https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT) | 2:30 |
 | 97 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 |
-| 98 | [De la Ilusión Al Miedo](https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [De la Ilusión Al Miedo](https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx) | 4:05 |
-| 99 | [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 |
+| 98 | [Apuré Mi Café](https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Apuré Mi Café](https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh) | 3:11 |
+| 99 | [De la Ilusión Al Miedo](https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [De la Ilusión Al Miedo](https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx) | 4:05 |
 | 100 | [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 |
 
-Snapshot ID: `MCxlOWQwYzA2OWY5ZmJkZDQyNmRlZTE5MjIyNDNkNmEzNmRmMDhlOWE2`
+Snapshot ID: `MCxlODY4Y2NmYTI4OWE5YWUxYWVlYTkyOTViZjMwYjVlZTc2NDY0MjY3`

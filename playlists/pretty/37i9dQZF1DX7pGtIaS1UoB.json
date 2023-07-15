@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 90926,
+  "num_followers": 90937,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGNmNWE0OTY3YWY3ZGY3OWY5NWE1ZGIwNzBmNDZmMjdiMjIxZDdi",
+  "snapshot_id": "MCw2MDI0YzIxOGNhYjRmZTgzN2I4YWZlMTQwNDI2MDUxY2QxZjY3YWIw",
   "tracks": [
     {
       "added_at": "2023-07-03 03:50:58",
@@ -391,6 +391,22 @@
     {
       "added_at": "2023-07-03 03:50:58",
       "album": {
+        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        }
+      ],
+      "duration_ms": 221443,
+      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
+    },
+    {
+      "added_at": "2023-07-03 03:50:58",
+      "album": {
         "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7",
         "url": "https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 186014,
       "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7 feat. \u97cb\u79ae\u5b89",
       "url": "https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin"
-    },
-    {
-      "added_at": "2023-07-03 03:50:58",
-      "album": {
-        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        }
-      ],
-      "duration_ms": 221443,
-      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
     },
     {
       "added_at": "2023-07-03 03:50:58",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-07-03 03:50:58",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd"
+      },
+      "artists": [
+        {
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+        },
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        }
+      ],
+      "duration_ms": 192272,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h"
+    },
+    {
+      "added_at": "2023-07-03 03:50:58",
+      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 262746,
       "name": "\u7406\u60f3\u60c5\u4eba",
       "url": "https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ"
-    },
-    {
-      "added_at": "2023-07-03 03:50:58",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd"
-      },
-      "artists": [
-        {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
-        },
-        {
-          "name": "MFMF.",
-          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
-        }
-      ],
-      "duration_ms": 192272,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h"
     },
     {
       "added_at": "2023-07-03 03:50:58",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-07-03 03:50:58",
       "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
+      },
+      "artists": [
+        {
+          "name": "Fahrenheit",
+          "url": "https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Only Have Feelings For You",
+      "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
+    },
+    {
+      "added_at": "2023-07-03 03:50:58",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2023-07-03 03:50:58",
-      "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
-      },
-      "artists": [
-        {
-          "name": "Fahrenheit",
-          "url": "https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Only Have Feelings For You",
-      "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
     },
     {
       "added_at": "2023-07-03 03:50:58",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-03 03:50:58",
       "album": {
+        "name": "\u8ffd\u5149\u8005",
+        "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
+      },
+      "artists": [
+        {
+          "name": "Ariel Tsai",
+          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "\u8ffd\u5149\u8005",
+      "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
+    },
+    {
+      "added_at": "2023-07-03 03:50:58",
+      "album": {
         "name": "\u7f8e\u4e3d\u7684\u59b3",
         "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 189004,
       "name": "\u7f8e\u4e3d\u7684\u59b3",
       "url": "https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt"
-    },
-    {
-      "added_at": "2023-07-03 03:50:58",
-      "album": {
-        "name": "\u8ffd\u5149\u8005",
-        "url": "https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW"
-      },
-      "artists": [
-        {
-          "name": "Ariel Tsai",
-          "url": "https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "\u8ffd\u5149\u8005",
-      "url": "https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p"
     },
     {
       "added_at": "2023-07-03 03:50:58",

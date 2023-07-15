@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 115575,
+  "num_followers": 115605,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTIxNzhhNTI2MGQ2N2NmNjA0MTI1MWEwYmZlNzczZGJiMDY0Y2Y0",
+  "snapshot_id": "MCw3ZWZhNmRhYWIxNjZlMTI1ZWYxOWUzM2QzYTRmNGU3NTM5Y2VkZDMz",
   "tracks": [
     {
       "added_at": "2023-07-07 06:04:16",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-07-07 06:04:16",
       "album": {
+        "name": "Argumento (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 203319,
+      "name": "Argumento (Spotify Singles)",
+      "url": "https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0"
+    },
+    {
+      "added_at": "2023-07-07 06:04:16",
+      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 156690,
       "name": "sexto sentido",
       "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
-    },
-    {
-      "added_at": "2023-07-07 06:04:16",
-      "album": {
-        "name": "Argumento (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 203319,
-      "name": "Argumento (Spotify Singles)",
-      "url": "https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0"
     },
     {
       "added_at": "2023-07-07 06:04:16",

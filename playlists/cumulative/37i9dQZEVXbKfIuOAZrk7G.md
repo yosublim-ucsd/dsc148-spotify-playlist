@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,662 songs - 3 day 17 hr 0 min
+1,663 songs - 3 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,7 @@
 | [Friends](https://open.spotify.com/track/1Vt4oAoHBIopxekC8KhT6X) | [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Friends](https://open.spotify.com/album/6OmzUBIzFkenjd3dJQhROK) | 2:50 | 2022-05-10 | 2022-05-24 |
 | [Friends](https://open.spotify.com/track/2WpMx09zVGGmKphjnuMwWH) | [NIIVA](https://open.spotify.com/artist/0viMvQMmt8vK3TO2TAkbz1) | [Friends](https://open.spotify.com/album/24uHWGhZHkrKsgJSLYWETa) | 3:08 | 2022-11-17 | 2022-12-08 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-22 | 2022-04-07 |
-| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-06-06 | 2023-06-28 |
+| [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-06-06 |  |
 | [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-04-30 | 2022-05-11 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2021-12-31 | 2022-01-01 |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-05-10 | 2023-06-07 |
@@ -1076,7 +1076,8 @@
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-02-21 | 2023-03-11 |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-31 | 2022-01-23 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-04-12 | 2022-05-04 |
-| [Paper Soldier](https://open.spotify.com/track/5RmPFKZcsV6bciHOQR3jli) | [d3puu](https://open.spotify.com/artist/6nbKrVj62KUGZgwvqfDXUa) | [Paper Soldier](https://open.spotify.com/album/5FMMsZ5LZsLT6dX53sAxSO) | 3:22 | 2023-06-07 |  |
+| [Paper Soldier](https://open.spotify.com/track/5RmPFKZcsV6bciHOQR3jli) | [d3puu](https://open.spotify.com/artist/6nbKrVj62KUGZgwvqfDXUa) | [Paper Soldier](https://open.spotify.com/album/5FMMsZ5LZsLT6dX53sAxSO) | 3:22 | 2023-06-07 | 2023-07-15 |
+| [paper soldier](https://open.spotify.com/track/2e14aFZU7cmpyYMsML0Bab) | [SUKI](https://open.spotify.com/artist/343XMDCksvdaU1XrNmthr3), [skoomy](https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN) | [paper soldier](https://open.spotify.com/album/2VDZVm49vwmSe6d8enHDiV) | 3:22 | 2023-07-14 |  |
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 8:28 | 2022-01-22 | 2022-01-30 |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2022-11-24 | 2023-01-11 |
 | [Paris to Tokyo](https://open.spotify.com/track/39d9CQbAB6AMLCxcJtSc0U) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [B.I.B.L.E.](https://open.spotify.com/album/46DRsAo3y1uAjYnYFFobCb) | 2:10 | 2022-08-02 | 2022-08-06 |
@@ -1157,7 +1158,7 @@
 | [QUARTER LIFE CRISIS](https://open.spotify.com/track/7BmpRLqZg1vLheYi1SI1Rw) | [Taylor Bickett](https://open.spotify.com/artist/3Fxg10eJ6YmvUdM2PPB4Zk) | [QUARTER LIFE CRISIS](https://open.spotify.com/album/1xZpg4zC8UQRM0NAnWCiZl) | 3:18 | 2022-11-08 | 2022-11-23 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-01-16 | 2023-02-08 |
 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 | 2023-01-31 | 2023-05-27 |
-| [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-06-06 |  |
+| [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 | 2023-06-06 | 2023-07-15 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-08-02 | 2022-08-31 |
 | [Quickie](https://open.spotify.com/track/3084aAzars6DR26nCWO9Ep) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Quickie](https://open.spotify.com/album/1hcA90r3ikdVN4ylEz204T) | 3:07 | 2023-01-03 | 2023-01-11 |
 | [RAGNAROK](https://open.spotify.com/track/1sWb35nydLCjD71JGURDEv) | [chyxz](https://open.spotify.com/artist/6iWgYyd1erLvfDuafIT9DG), [SLOWYMANE](https://open.spotify.com/artist/2pw1uH6zGd0WlW4DNlFRMu) | [RAGNAROK](https://open.spotify.com/album/45pOAmgOLYGcAU9r4yscc9) | 3:15 | 2022-08-26 | 2022-09-18 |

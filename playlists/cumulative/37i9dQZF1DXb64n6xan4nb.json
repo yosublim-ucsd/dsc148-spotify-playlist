@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 238313,
       "name": "Day by Day 2012 (feat. Verbal Jint)",
       "url": "https://open.spotify.com/track/4o1l1P9R1e5Jd1FTrYbFti"
@@ -1344,10 +1344,32 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 227800,
       "name": "This Is Not a Love Song",
       "url": "https://open.spotify.com/track/0xOPz9Ukeiae0fahAamCWt"
+    },
+    {
+      "album": {
+        "name": "Nouvelle vague",
+        "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "M\u00e9lanie Pain",
+          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "This Is Not a Love Song",
+      "url": "https://open.spotify.com/track/1TKDZ1RNuYUoyZYTUA1fBj"
     },
     {
       "album": {
@@ -2420,7 +2442,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 275200,
       "name": "\ud68c\uc0c1",
       "url": "https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8"

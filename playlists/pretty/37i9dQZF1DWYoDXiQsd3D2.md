@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,152 likes - 148 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,183 likes - 148 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 82 | [Fractals](https://open.spotify.com/track/5tfDvmkWMXgTVN49Kbw1ms) | [Blake Ewing](https://open.spotify.com/artist/11ReFzDfYn4ZuUVgJhnFA5) | [Fractals](https://open.spotify.com/album/2S4GD5n39eYGdXCe3e7YXr) | 3:24 |
 | 83 | [And It Goes On \- Michael A\. Muller Rework](https://open.spotify.com/track/6MPq2WJ50CZz0uilKcQaJh) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Michael A\. Muller](https://open.spotify.com/artist/2jNobg3ln4Ylaokr4C3qoU) | [And It Goes On \(Michael A\. Muller Rework\)](https://open.spotify.com/album/2xXoyiwMckFY4OrAsu9guT) | 3:40 |
 | 84 | [The Fertile Night](https://open.spotify.com/track/3hnQEIi6qxWltcnTM9TPr1) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Fertile Night](https://open.spotify.com/album/1jpdhVtNoFFZnk7oZErGKN) | 2:37 |
-| 85 | [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 |
+| 85 | [Birki](https://open.spotify.com/track/0ea8Oop13pg33agIZa2Q4K) | [Fischersund](https://open.spotify.com/artist/1bgRMYvqTqb7PLS7Sd2gFd), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x), [Sin Fang](https://open.spotify.com/artist/7xsi0kBJ58yWMu4WXFYPHU), [Kjartan Holm](https://open.spotify.com/artist/0BWRfTuCYTRzqnjYprarFo), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Sounds of Fischer Vol\. 1](https://open.spotify.com/album/4mDwLLZSBpBMHAgD1bRaaz) | 4:03 |
 | 86 | [Moving Slowly](https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Moving Slowly](https://open.spotify.com/album/7lCtm2VoakicgPRDsjS72W) | 3:17 |
 | 87 | [Slumber](https://open.spotify.com/track/35MDzpFFmis8yuJwQJox3j) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [Slumber](https://open.spotify.com/album/3Ij4cMjGUh2Ney3gCdq5c1) | 4:42 |
 | 88 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 147 | [Ordinary Bones](https://open.spotify.com/track/3LMB1SBK5SMdtFwGZ1AhGj) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:29 |
 | 148 | [We Came And Left](https://open.spotify.com/track/02Tb4Ftr6z6vrfzwOGYUfG) | [Cedric Vermue](https://open.spotify.com/artist/3pUznuXyn6lL9VGKAV6Ydh) | [Left Upon Us](https://open.spotify.com/album/2mvUfWFb1iPupKxdOK2fxh) | 5:41 |
 
-Snapshot ID: `MCwxNjI3YTAyZDAwYzk2ZDhkMTY5NWUyMWE0ODI5ZTYyOTM2NWFiNzhh`
+Snapshot ID: `MCwzN2VhOGE3ZjVkMGU4MDVkMmMwMmQ3Njk1OGE1NWRkYTg3YWEyOGUy`

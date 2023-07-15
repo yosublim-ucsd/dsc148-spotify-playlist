@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere. Cover: Audrey Nuna.",
+  "description": "Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.",
   "name": "Jasmine",
   "tracks": [
     {
@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Baari",
+        "url": "https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu"
+      },
+      "artists": [
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        },
+        {
+          "name": "Momina Mustehsan",
+          "url": "https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235297,
+      "name": "Baari",
+      "url": "https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3"
+    },
+    {
+      "album": {
         "name": "No Saints on Knight Street",
         "url": "https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4"
       },
@@ -692,6 +714,28 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
+    },
+    {
+      "album": {
+        "name": "Beni Khuley",
+        "url": "https://open.spotify.com/album/29FUwFwpIi3iIBnOo6DS9L"
+      },
+      "artists": [
+        {
+          "name": "Muza",
+          "url": "https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo"
+        },
+        {
+          "name": "Habib Wahid",
+          "url": "https://open.spotify.com/artist/60jYUgQzKAtnJoXKGk1GNn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178857,
+      "name": "Beni Khuley",
+      "url": "https://open.spotify.com/track/6BCEJpxAaejJUD5Uxu7jF6"
     },
     {
       "album": {
@@ -1430,7 +1474,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 216225,
       "name": "Color Me (Feat. CHUNG HA)",
       "url": "https://open.spotify.com/track/0TtH1ocl5B20kKHiqPNELw"
@@ -1802,7 +1846,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 182400,
       "name": "Dirt Cheap",
       "url": "https://open.spotify.com/track/6fWAyMm3JXgX9mdgsVVI8r"
@@ -1890,7 +1934,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181935,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/4WFIPUgCBQdDpg4S5lvrKl"
@@ -2510,7 +2554,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181013,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/6dLuZg4jYj6IhvxyypY1sc"
@@ -2586,7 +2630,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181935,
       "name": "Flying Fish",
       "url": "https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov"
@@ -4108,7 +4152,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 208000,
       "name": "I'VE SEEN THIS MOVIE BEFORE Pt.2",
       "url": "https://open.spotify.com/track/6bZ6d4DqovVDecNAluId9h"
@@ -4703,6 +4747,36 @@
     },
     {
       "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14V4tjh2spbCj7L4txtEY1"
       },
@@ -5181,6 +5255,28 @@
     },
     {
       "album": {
+        "name": "Maan Meri Jaan (Afterlife)",
+        "url": "https://open.spotify.com/album/02K4LsS2gNvzJzdVsrZ6Wc"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186998,
+      "name": "Maan Meri Jaan (Afterlife)",
+      "url": "https://open.spotify.com/track/0NapkeC45rszeuSgbvcjx4"
+    },
+    {
+      "album": {
         "name": "Madonna (with Audrey Mika)",
         "url": "https://open.spotify.com/album/3Rrfdu8t7w0fn8h0c6YRwI"
       },
@@ -5272,6 +5368,32 @@
       "duration_ms": 185773,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
+    },
+    {
+      "album": {
+        "name": "Manike Mage Hithe",
+        "url": "https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs"
+      },
+      "artists": [
+        {
+          "name": "Chamath Sangeeth",
+          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        },
+        {
+          "name": "Yohani",
+          "url": "https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"
+        },
+        {
+          "name": "Satheeshan",
+          "url": "https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162772,
+      "name": "Manike Mage Hithe",
+      "url": "https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E"
     },
     {
       "album": {
@@ -5686,10 +5808,32 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193714,
       "name": "MOON",
       "url": "https://open.spotify.com/track/2gn947ZQRFU1335hgnXbKe"
+    },
+    {
+      "album": {
+        "name": "Man Of The Moon",
+        "url": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174056,
+      "name": "Moon Rise",
+      "url": "https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"
     },
     {
       "album": {
@@ -6134,6 +6278,24 @@
       "duration_ms": 228406,
       "name": "OOP! - Dipha Barus Remix",
       "url": "https://open.spotify.com/track/10w72K7l0yeR6gqyUX3mj8"
+    },
+    {
+      "album": {
+        "name": "Oops! Ur Single Now",
+        "url": "https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122600,
+      "name": "Oops! Ur Single Now",
+      "url": "https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS"
     },
     {
       "album": {
@@ -7004,7 +7166,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 214800,
       "name": "Seoul City - Spotify Singles",
       "url": "https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx"
@@ -7845,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
         "name": "Take Me Higher",
         "url": "https://open.spotify.com/album/25rc8xEfHYqqvcbY39BpW9"
       },
@@ -7864,6 +8044,24 @@
       "duration_ms": 283980,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/7oDizfJpMCEvjMxkT5NgiL"
+    },
+    {
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "album": {
@@ -8536,7 +8734,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183435,
       "name": "u & i",
       "url": "https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ"
@@ -8992,6 +9190,28 @@
       "duration_ms": 174720,
       "name": "When She Comes Around",
       "url": "https://open.spotify.com/track/1XCocNlJdfTqGboOp4UICc"
+    },
+    {
+      "album": {
+        "name": "When We Were Younger (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234736,
+      "name": "When We Were Younger (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
     },
     {
       "album": {
@@ -9454,7 +9674,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 235280,
       "name": "\u96fb\u7dda\u687f\u4e0a\u7684\u9ce5",
       "url": "https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk"

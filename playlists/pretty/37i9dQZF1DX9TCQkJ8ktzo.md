@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,648 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,668 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 15 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
 | 16 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 |
 | 17 | [Siluetas](https://open.spotify.com/track/0nwY36t2kFMEFc01z5HXRw) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Homenaje a Johnny Laboriel Con los Rebeldes del Rock](https://open.spotify.com/album/2kkj1WhzTOwgJP3KrOnVZR) | 2:58 |
-| 18 | [El Malquerido](https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance](https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP) | 2:43 |
-| 19 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
+| 18 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
+| 19 | [El Malquerido](https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance](https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP) | 2:43 |
 | 20 | [Vas a Llorar](https://open.spotify.com/track/4saXbAXjAGfKiH5yJBCSai) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 3:00 |
 | 21 | [Llegó Borracho el Borracho](https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:06 |
 | 22 | [El Ladrón](https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [15 EXITOS](https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Acompáñame](https://open.spotify.com/track/0dPBq1rs38TRpp2aQEioPe) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mujeres Universales Vol\. 2](https://open.spotify.com/album/7k3TeSMN6Li3ikCkkFhtbA) | 3:36 |
 | 50 | [Patricia](https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Greatest Hits](https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux) | 2:06 |
 
-Snapshot ID: `MCxkYjNmMDgwZTZhMjMwNTFjZGMzNmZlNmM5MGNiOTA0YTFkYjNiMzQz`
+Snapshot ID: `MCxlNmI5OTAxZWRhNzgxZjAyMmNhNjliZjUxMjEyMjQ4NmFiNzljN2Rk`

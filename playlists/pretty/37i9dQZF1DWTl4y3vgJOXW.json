@@ -1,12 +1,12 @@
 {
   "description": "Fourth quarter, two minutes left .. get locked in",
-  "num_followers": 2843612,
+  "num_followers": 2844720,
   "original_name": "Locked In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzU5ZDVkMGExYzEwMDM2NmMyMTUzYjU4ZjU0MDQwMjFlYzJlODYw",
+  "snapshot_id": "MCw4NjE1MzM5YmQ5MjczN2U3MWEzOWYwM2RiNDc4NDg5NGU4ZWQ0YmRi",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:17",
@@ -673,6 +673,26 @@
       "url": "https://open.spotify.com/track/4Iedi94TIaB2GGb1nMB68v"
     },
     {
+      "added_at": "2023-07-10 17:10:17",
+      "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
+    },
+    {
       "added_at": "2023-06-30 04:00:17",
       "album": {
         "name": "The Melodic Blue",
@@ -707,26 +727,6 @@
       "duration_ms": 173948,
       "name": "MVP (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
-    },
-    {
-      "added_at": "2023-07-10 17:10:17",
-      "album": {
-        "name": "Point Me 2 (with Cardi B)",
-        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
-      },
-      "artists": [
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 225492,
-      "name": "Point Me 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
       "added_at": "2023-06-30 04:00:17",

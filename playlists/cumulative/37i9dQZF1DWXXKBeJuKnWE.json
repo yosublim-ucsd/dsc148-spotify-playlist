@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 222361,
       "name": "By The Sound",
       "url": "https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 168000,
       "name": "High Horse",
       "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 221531,
       "name": "More Than Misery",
       "url": "https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD"
@@ -2422,6 +2422,24 @@
       "duration_ms": 257903,
       "name": "tear gas",
       "url": "https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW"
+    },
+    {
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
     },
     {
       "album": {

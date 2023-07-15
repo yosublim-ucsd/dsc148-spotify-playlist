@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,019 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,130 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 7 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 11:55 |
 | 8 | [Te Dejo Ganar](https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:21 |
 | 9 | [Llévame A La Cruz](https://open.spotify.com/track/73NLZ4uZrEls4JqIEXdbBZ) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Vida Encontré](https://open.spotify.com/album/167RFf01QNrM1lpIDxYQ6e) | 4:20 |
-| 10 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
-| 11 | [Hay Libertad](https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [El Cielo Está Aquí](https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik) | 4:26 |
+| 10 | [Hay Libertad](https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [El Cielo Está Aquí](https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik) | 4:26 |
+| 11 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
 | 12 | [Gracia Sublime Es](https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Piedras Vivas](https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG) | 5:15 |
 | 13 | [Jesucristo basta](https://open.spotify.com/track/6XgnLNskskRPjdfa3CyKGA) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Somos Iglesia](https://open.spotify.com/album/4PLfF0JPfYpAXK2vzjHK4F) | 4:48 |
 | 14 | [Precioso Jesús](https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:20 |
 | 15 | [Al Que Está Sentado En el Trono \(feat\. Lucas Conslie\)](https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 10:01 |
 | 16 | [Gracias](https://open.spotify.com/track/6UdpT2mTtU24VKgTPQATRM) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 5:05 |
-| 17 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
-| 18 | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/track/3PjVBq8W5RaxNn9vTtoKxT) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA) | 6:50 |
+| 17 | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/track/3PjVBq8W5RaxNn9vTtoKxT) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA) | 6:50 |
+| 18 | [Abre Mis Ojos](https://open.spotify.com/track/6QN2LDi1HULluoF0cETe6H) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Muéstrame Tu Gloria](https://open.spotify.com/album/6hpV3LugRGS52YfivSY5aF) | 6:43 |
 | 19 | [Nueva Creación](https://open.spotify.com/track/1460KvrC1frnLOWvx2wE8z) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Un Milagro](https://open.spotify.com/album/5tlhE2ctP9RfbKqj7S8j1C) | 4:07 |
 | 20 | [Lo Unico Que Quiero](https://open.spotify.com/track/10TpHf2j6C6RTRQnYtFPsp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:27 |
 | 21 | [Jesús, Has Mi Carácter](https://open.spotify.com/track/3cqQX5zJVW1wv6vzhz9qzP) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Sólo Tu Gracia](https://open.spotify.com/album/1IGIRAeR2yPlNXCtJ7TqDi) | 4:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 99 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 |
 | 100 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
 
-Snapshot ID: `MCwwMWY5NWJiMjk4Y2E5MmIyZGU2ZTIzYjQ2NWZiZDU4YjFhYzE1MTg5`
+Snapshot ID: `MCw2ZDk4MzI3NDk5NDFlZmJiMWE4NTg3MGViODc4MWEyNjc5MTU3MGNh`

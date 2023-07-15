@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: Texas King",
+  "description": "New adventures in rock start here. Cover: The Glorious Sons",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 225250,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY"
@@ -428,6 +428,24 @@
       "duration_ms": 225250,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka"
+    },
+    {
+      "album": {
+        "name": "Athene",
+        "url": "https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde"
+      },
+      "artists": [
+        {
+          "name": "The Velveteins",
+          "url": "https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Athene",
+      "url": "https://open.spotify.com/track/02pXk68MbRpG26YFRxWzJh"
     },
     {
       "album": {
@@ -1113,6 +1131,28 @@
     },
     {
       "album": {
+        "name": "caught me at my lowest",
+        "url": "https://open.spotify.com/album/3AW78KCP0HAWSbgXFHFS22"
+      },
+      "artists": [
+        {
+          "name": "Casey Lowry",
+          "url": "https://open.spotify.com/artist/6g01TPprAdALKCjAwBYPH1"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160773,
+      "name": "caught me at my lowest",
+      "url": "https://open.spotify.com/track/3slcpibHTN3Vea70nHQuUo"
+    },
+    {
+      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/77MiW4JNal4KdTTI0VDWBI"
       },
@@ -1164,6 +1204,24 @@
       "duration_ms": 269098,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/1G2JfPGXBbVgVnBtk0ToxD"
+    },
+    {
+      "album": {
+        "name": "Clay Feet",
+        "url": "https://open.spotify.com/album/5IXXU7lT4HFRSryIRwfiZF"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Clay Feet",
+      "url": "https://open.spotify.com/track/7CJkmupnhIhgdDuPMBpSMD"
     },
     {
       "album": {
@@ -1637,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/6xmAseeIwKORHHU5d5lnH8"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222306,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0CljmDwBZzv5oGBHQGK6Yv"
+    },
+    {
+      "album": {
         "name": "Dream It All Over Again",
         "url": "https://open.spotify.com/album/54lXES6xC4gcayJuH1nHd9"
       },
@@ -1908,7 +1984,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
@@ -2218,6 +2294,24 @@
       "duration_ms": 188333,
       "name": "Get There, Stay There",
       "url": "https://open.spotify.com/track/17jqTMvxl2i51Lo4g6zDVV"
+    },
+    {
+      "album": {
+        "name": "Ghost of You",
+        "url": "https://open.spotify.com/album/1g7OGAkivQ76UoNvKsOJHA"
+      },
+      "artists": [
+        {
+          "name": "Boston Levi",
+          "url": "https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256340,
+      "name": "Ghost of You",
+      "url": "https://open.spotify.com/track/02vR1yDyzKD9JDZIv6VaVJ"
     },
     {
       "album": {
@@ -2754,7 +2848,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 243120,
       "name": "Inuuqatigi&arukki",
       "url": "https://open.spotify.com/track/3jevmCBHbBc2fbFzVMbW4G"
@@ -3212,7 +3306,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184080,
       "name": "Lightning Bolt",
       "url": "https://open.spotify.com/track/5Vgbt9Rt8n2tOANxP2mICc"
@@ -3252,6 +3346,24 @@
       "duration_ms": 232315,
       "name": "Liszt-o-mania",
       "url": "https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48"
+    },
+    {
+      "album": {
+        "name": "Live Forever Never Die",
+        "url": "https://open.spotify.com/album/5jxOD9jyPSfSQ52k5wcbsq"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Live Forever Never Die",
+      "url": "https://open.spotify.com/track/5pFUkSZSLKyWHRpcgucw7Z"
     },
     {
       "album": {
@@ -4640,7 +4752,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 150346,
       "name": "Rebuilding Year",
       "url": "https://open.spotify.com/track/5ENWw8fKaApzb9m7dYEQzy"
@@ -4658,7 +4770,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 198473,
       "name": "Red Is My Favorite Color",
       "url": "https://open.spotify.com/track/3VWAcQuJUg4MaxDJFylZ4i"
@@ -5770,7 +5882,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181120,
       "name": "Together Right",
       "url": "https://open.spotify.com/track/2pWJywnRIrDfgaKQnru6ri"
@@ -5824,7 +5936,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 159909,
       "name": "touching myself",
       "url": "https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg"
@@ -6012,6 +6124,24 @@
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/1yjsa9lWFeBPRNJbjGgmfV"
+    },
+    {
+      "album": {
+        "name": "unhappier",
+        "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197219,
+      "name": "unhappier",
+      "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
     },
     {
       "album": {
@@ -6538,6 +6668,24 @@
       "duration_ms": 137142,
       "name": "\u200emint \u200econdition (\u200egood \u200eas \u200enew)",
       "url": "https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN"
+    },
+    {
+      "album": {
+        "name": "\u200etalk 2 \u200eme",
+        "url": "https://open.spotify.com/album/3NDKOrEeb1illEUX8sVlBv"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "\u200etalk 2 \u200eme",
+      "url": "https://open.spotify.com/track/6WDTtjWxcY53xB3P85mum2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX34lqLRYWFxq"

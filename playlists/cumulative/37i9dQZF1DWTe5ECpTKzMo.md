@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> Solo éxitos locales pasados, chapados en oro\. C\-Kan en portada
+> Solo éxitos locales pasados, chapados en oro\. La Santa Grifa en portada
 
-106 songs - 6 hr 46 min
+109 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Borracho Gacho](https://open.spotify.com/track/3fy4CajqticmYK5wXYF9lE) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Borracho Gacho](https://open.spotify.com/album/4X4JTvyX4cdx1bktVeGwJI) | 2:46 | 2022-08-15 | 2022-09-15 |
 | [Borracho Gacho \(feat\. Dharius\)](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 | 2022-08-15 |  |
 | [Burbujas de Cristal](https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Burbujas de Cristal](https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ) | 3:44 | 2022-07-01 |  |
+| [Cada Noche](https://open.spotify.com/track/0Rj2gmEcyAOSxYMh2YGxR7) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Cada Noche](https://open.spotify.com/album/4HAKbXAdUnsyRNtW3dZdGW) | 3:25 | 2023-07-14 |  |
 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 | 2022-07-01 |  |
 | [Categoría 5 / Huracán](https://open.spotify.com/track/1WvJiky1CYAy6ZhhBVrckj) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Categoría 5 / Huracán](https://open.spotify.com/album/3ev9hisOVt2otphJBHiJGP) | 2:45 | 2022-07-01 |  |
 | [Click Clack](https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Chain Trackz](https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM) | [Click Clack](https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE) | 2:58 | 2023-07-07 |  |
@@ -71,6 +72,7 @@
 | [Par de Dosis](https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Par de Dosis](https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2) | 3:51 | 2023-07-07 |  |
 | [Pesao](https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 3:28 | 2022-07-01 |  |
 | [Pesao \(feat\. Cartel de Santa & Millonario\)](https://open.spotify.com/track/6yly6C4QeDi4N1CpnFrJc7) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp) | 3:28 | 2022-07-01 | 2022-07-29 |
+| [Piel Con Piel](https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Piel Con Piel](https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW) | 4:03 | 2023-07-14 |  |
 | [Pollo y Conejo](https://open.spotify.com/track/1xeLSOaNvDg68FGjIkJxkU) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pollo y Conejo](https://open.spotify.com/album/7BBh44xwLQjO9rYNTfVzBh) | 3:34 | 2022-07-01 | 2022-07-29 |
 | [Pollo y Conejo](https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Pollo y Conejo](https://open.spotify.com/album/486wFfAd63UihpKn7Cimiv) | 3:34 | 2022-07-01 |  |
 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 | 2022-07-01 |  |
@@ -109,6 +111,7 @@
 | [Top Rank](https://open.spotify.com/track/06Ikc0xyxc62eJ7LSIrZC3) | [Eptos Uno](https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK) | [Top Rank](https://open.spotify.com/album/20YVpil3sY0AZLfoNAySuS) | 2:05 | 2023-04-28 |  |
 | [Un Par De Balas](https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Clasificacion C Vol.1](https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ) | 3:48 | 2022-07-01 |  |
 | [Vaya Vaya](https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vaya Vaya](https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE) | 3:05 | 2022-07-01 |  |
+| [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 | 2023-07-14 |  |
 | [Ya Te la Cypress](https://open.spotify.com/track/6Y9wSsggUc9zLbIqRd0o5c) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/1eb064HNAh2mVHl33HjMMv) | 3:05 | 2022-07-01 | 2022-07-29 |
 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 | 2022-07-01 |  |
 | [Yo No Me Quiero Morir](https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Yo No Me Quiero Morir](https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0) | 3:23 | 2022-07-01 |  |

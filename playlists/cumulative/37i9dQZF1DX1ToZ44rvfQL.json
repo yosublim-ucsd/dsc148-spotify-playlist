@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220001,
       "name": "Encendedor",
       "url": "https://open.spotify.com/track/6xbdHf8KK2htPJWcPaI1QW"
@@ -912,6 +912,28 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n mata algoritmo",
+        "url": "https://open.spotify.com/album/4HJ1j9Aepc2OKPXDOcbug4"
+      },
+      "artists": [
+        {
+          "name": "Todo Aparenta Normal",
+          "url": "https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171536,
+      "name": "Kintsukuroi",
+      "url": "https://open.spotify.com/track/3Ib7O0KTQOLbbnJMciknVt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=JHPSeMBEQXGlrqGn3vLPuw">Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,799 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,824 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 2 | [Basquiat](https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:14 |
 | 3 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 |
 | 4 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
-| 5 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:17 |
+| 5 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 |
 | 6 | [NNEKA \(feat\. Tekno\)](https://open.spotify.com/track/0mYgEZ0CNnEAGBKpxD1fgv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:15 |
 | 7 | [Just Do It](https://open.spotify.com/track/0V6u8uAnFt85Yrb5AkxJYM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S), [NELCNO](https://open.spotify.com/artist/6bFMQHgmlCF5T183y54XUE), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Just Do It](https://open.spotify.com/album/3HYKcrEjmZ8TQzDBQL93mB) | 5:22 |
 | 8 | [SAD GIRLZ LUV MONEY \(feat\. Moliy & Kali Uchis\) \- Vigro Deep Amapiano Remix](https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [SAD GIRLZ LUV MONEY \(feat\. Moliy & Kali Uchis\) \[Vigro Deep Amapiano Remix\]](https://open.spotify.com/album/2EOWRhAyOt6UmBprRs7Ye1) | 5:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [SLOW WINE](https://open.spotify.com/track/1JhH6S1GDhxbLMitQ9K5oM) | [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [SLOW WINE](https://open.spotify.com/album/49TepG6PsqWFNIfs7fDcjT) | 3:43 |
 | 50 | [Sunmomi](https://open.spotify.com/track/5TqtBDyIdZiTpfJZL2o10M) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:48 |
 
-Snapshot ID: `MCw3NzkxOGQ0N2Y2MjZkYWQwOWY5MGE1NjQwODRiM2RhOTc4NDBiZjU4`
+Snapshot ID: `MCxjNDdhMWE4MjQzY2U0ZDQ1ZmUzYzUyNjYyMzgxMTM3OWQ3MDg2NTFj`

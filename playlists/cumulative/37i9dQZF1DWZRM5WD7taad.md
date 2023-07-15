@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Masta Quba, Delfina Dib y Astrid Cruz en portada.
 
-207 songs - 10 hr 37 min
+208 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [RAYBEN CAP 3: NIÑAS](https://open.spotify.com/track/48Lpi4yoXkv3Awje2Hesn9) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [RAYBEN CAP 3: NIÑAS](https://open.spotify.com/album/2N6R8g07SKPkUT65SIY9gb) | 3:06 | 2023-04-14 |  |
 | [Ready](https://open.spotify.com/track/6ruoErZiglmoQjmRnHriCj) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [Ready](https://open.spotify.com/album/4O5bDBBMEEJB0NDMRBfPmA) | 2:14 | 2023-07-07 |  |
 | [Renacer](https://open.spotify.com/track/2GzA3aSwgnHgZeBcxTY0AN) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [MarieV](https://open.spotify.com/artist/3uzYu5ialLsEjbXa5jCEXa), [Bad Panda](https://open.spotify.com/artist/1MtHAFdeExB9QUoEDYN01M) | [Renacer](https://open.spotify.com/album/3kiLmZMt47ISyjhikWkZ1l) | 3:18 | 2023-01-13 | 2023-03-11 |
+| [Resurgir](https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Resurgir](https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx) | 2:32 | 2023-07-14 |  |
 | [ReSURrección](https://open.spotify.com/track/0BY84BjIZX2qXnsanQzvVG) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [ReSURrección](https://open.spotify.com/album/4Zl4spMsauBbw3Dr4YGOGJ) | 3:30 | 2023-05-05 |  |
 | [Revolucionaria](https://open.spotify.com/track/3vnwirrjOder3YXDoey979) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9), [Dirtybird](https://open.spotify.com/artist/5Fk0y674atQID4XYwOIMcc) | [Revolucionaria](https://open.spotify.com/album/0ETiIGDVL0zzM8LoJdGfSF) | 2:27 | 2023-03-31 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2022-10-16 |  |

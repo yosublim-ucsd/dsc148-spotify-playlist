@@ -4,7 +4,7 @@
 
 > The world of”TOUKEN RANBU”! PCブラウザ・スマホアプリゲーム「刀剣乱舞\-ONLINE\-」。<br/>Musical、Animation、Movieと広がる革命的な世界を彩る楽曲を一つのプレイリストで！ \(C\)2015 EXNOA LLC/Nitroplus
 
-170 songs - 11 hr 46 min
+171 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [YUKARI](https://open.spotify.com/track/0jUoi8hH8JFkNaVHxV7xC5) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Free Style](https://open.spotify.com/album/0eFtsLGBUzny2uHFLR7rUy) | 3:51 | 2022-05-24 | 2022-07-29 |
 | [YUKARI](https://open.spotify.com/track/1IkRC7RBWK7JrlFP5BIEXA) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Free Style](https://open.spotify.com/album/52FV7l4DXWKiDSpFYH8OtE) | 3:51 | 2022-07-27 | 2022-07-31 |
 | [YUKARI](https://open.spotify.com/track/4diJhuOfSnpjCwUuooN9Fc) | [刀剣男士 formation of パライソ](https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu:The Musical \-Shizuka no Umi no Paraíso\- \(Tsuujouban\)](https://open.spotify.com/album/2Xwo6Ip5HFbbOPkRkvjf8X) | 3:52 | 2022-07-27 |  |
-| [Zanzou song by Tsurumaru Kuninaga](https://open.spotify.com/track/7Lbs8crXdkBoikjFGZGkKH) | [刀剣男士 鶴丸国永 大倶利伽羅](https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE 〜Shunpu Touri no Sakazuki〜](https://open.spotify.com/album/1CYmZ9TBrvwX7gUtZf5iwc) | 3:16 | 2023-07-12 |  |
+| [Zanzou song by Tsurumaru Kuninaga](https://open.spotify.com/track/5eitqCfIugK63QNXzMIEC0) | [刀剣男士 鶴丸国永 大倶利伽羅](https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE 〜Shunpu Touri no Sakazuki〜 \(Tsujoban\)](https://open.spotify.com/album/4Z9ebLw7LTUHZX2ccj73Jp) | 3:16 | 2023-07-12 |  |
+| [Zanzou song by Tsurumaru Kuninaga](https://open.spotify.com/track/7Lbs8crXdkBoikjFGZGkKH) | [刀剣男士 鶴丸国永 大倶利伽羅](https://open.spotify.com/artist/18XCGhSbxFkyC7JuzN6eLg), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j) | [Touken Ranbu:The Musical TSURUMARU KUNINAGA OOKURIKARA DUO PERFORMANCE 〜Shunpu Touri no Sakazuki〜](https://open.spotify.com/album/1CYmZ9TBrvwX7gUtZf5iwc) | 3:16 | 2023-07-12 | 2023-07-15 |
 | [『Touken Ranbu』 \-Bakumatsu Tenroden\-](https://open.spotify.com/track/33IOXADTEX1rpKYRhyNCuP) | [Touken Danshi team Shinsengumi with Hachisukakotetsu](https://open.spotify.com/artist/1ew0FXEcpW2XEDwE0gNsni), [ミュージカル『刀剣乱舞』 刀剣男士](https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j), [蜂須賀虎徹](https://open.spotify.com/artist/6wd4cBdbjFlsTQp3GE0Wki) | [Touken Ranbu:The Musical \-Bakumatsu Tenroden\- 2020 Tsuujouban](https://open.spotify.com/album/43CWWNEdsi2yOvV1aU4MGT) | 5:04 | 2022-05-24 |  |
 | [あなたと 私と](https://open.spotify.com/track/6rdm0329S3A3HGXKTKKtCv) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [あなたと 私と](https://open.spotify.com/album/5JEKcuuo1FlmE8ikipcLfV) | 4:08 | 2022-07-27 |  |
 | [あなたと 私と](https://open.spotify.com/track/4DsknIfnPWztaAqO8wcTIy) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [刀剣乱舞\-ONLINE\- 歌曲集と物語「あなたと 私と」](https://open.spotify.com/album/4FHscZmVKgCyqgFIViPBoB) | 4:11 | 2022-05-24 | 2022-07-29 |

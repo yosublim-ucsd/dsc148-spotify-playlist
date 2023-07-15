@@ -4,7 +4,7 @@
 
 > Le rap francophone est en forme\. Photo: Ninho
 
-82 songs - 4 hr 19 min
+83 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [3 singes](https://open.spotify.com/track/57JhjU33uXlZtmr2Dsk8TX) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Telegram](https://open.spotify.com/album/6p4UuRtrBi7EzUVYJdMWDJ) | 3:02 | 2023-03-03 | 2023-03-18 |
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 | 2023-05-06 |
 | [Bad](https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:46 | 2023-06-30 | 2023-07-08 |
-| [Belle](https://open.spotify.com/track/1GTwuwkt4hejBcymq849Cg) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [QCLTUR](https://open.spotify.com/album/4bHZOMo5sjb7SrSvaevvKy) | 3:18 | 2023-03-03 |  |
+| [Belle](https://open.spotify.com/track/1GTwuwkt4hejBcymq849Cg) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [QCLTUR](https://open.spotify.com/album/4bHZOMo5sjb7SrSvaevvKy) | 3:18 | 2023-03-03 | 2023-07-15 |
 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 | 2023-03-03 | 2023-06-24 |
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-07 |  |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/1vhGzynTAXJ0MD0gkXPxzX) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BODIES \(feat\. Damso\)](https://open.spotify.com/album/61G5Kmh73wP41ZN0sBdlBB) | 2:46 | 2023-03-03 | 2023-05-20 |
@@ -75,6 +75,7 @@
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr) | 3:10 | 2023-03-03 |  |
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2023-03-03 | 2023-05-06 |
 | [Rien de moins](https://open.spotify.com/track/2qO3vIBPP5OBsOm67dG9W0) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 2:54 | 2023-03-03 | 2023-03-11 |
+| [Rien à faire](https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:48 | 2023-07-14 |  |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-03-03 |  |
 | [Sans nuances](https://open.spotify.com/track/4waXynr0ZvdD98abYYFmiY) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [Mercure](https://open.spotify.com/album/6yE3LYJwJSITg7u8uD5u1F) | 2:50 | 2023-06-02 |  |
 | [Sentencé](https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Sentencé](https://open.spotify.com/album/0A8VTHR0FqyOwGeiaiuMc7) | 3:32 | 2023-03-03 | 2023-03-18 |

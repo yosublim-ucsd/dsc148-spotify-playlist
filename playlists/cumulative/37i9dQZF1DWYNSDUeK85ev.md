@@ -4,7 +4,7 @@
 
 > La música que prende la fiesta!
 
-389 songs - 23 hr 0 min
+390 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Ella Y Yo \- Featuring Don Omar](https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:27 | 2022-05-13 |  |
 | [Ellax No Es Tuya \- Remix](https://open.spotify.com/track/0wRGkmQ3xNhHuWzPwJ03rS) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Ellax No Es Tuya \- Remix](https://open.spotify.com/album/0yvGNSfikCWiV0XAmm3IsT) | 2:50 | 2022-05-13 | 2022-07-14 |
 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 | 2023-02-10 |  |
+| [En Otra](https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [En Otra](https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU) | 2:11 | 2023-07-14 |  |
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-05-13 | 2023-04-01 |
 | [Es un Secreto](https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG) | 3:17 | 2022-05-13 | 2022-07-27 |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2023-02-10 |  |
@@ -396,6 +397,6 @@
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2022-07-22 | 2023-02-11 |
 | [Yo Soy de Barrio \- DJ Alex Remix](https://open.spotify.com/track/6rOK4drsEzdHHCX9Ofe0KG) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Yo Soy de Barrio \(DJ Alex Remix\)](https://open.spotify.com/album/6FfyhPx7MaTKr49aN0ERrU) | 3:08 | 2022-07-15 | 2022-07-17 |
 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 | 2022-06-17 |  |
-| [¿Y pa la Wacha Loca? \(con Salastkbron\) \- Remix](https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [¿Y pa la Wacha Loca? \(con Salastkbron\) \[Remix\]](https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J) | 3:49 | 2023-02-17 |  |
+| [¿Y pa la Wacha Loca? \(con Salastkbron\) \- Remix](https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [¿Y pa la Wacha Loca? \(con Salastkbron\) \[Remix\]](https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J) | 3:49 | 2023-02-17 | 2023-07-15 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

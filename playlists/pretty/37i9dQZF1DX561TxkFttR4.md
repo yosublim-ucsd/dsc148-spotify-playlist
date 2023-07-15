@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > Soothing, soft piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,654 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,685 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 32 | [Along dammed rivers](https://open.spotify.com/track/74kSL8wn4qNOURsSpye78o) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Along dammed rivers](https://open.spotify.com/album/4p7zwsvBIehxETxwBLgRSK) | 2:15 |
 | 33 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 |
 | 34 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 |
-| 35 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 |
-| 36 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 |
+| 35 | [Nebula](https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb) | [Luca Bissette](https://open.spotify.com/artist/3dE26Q3xzd8o6XVd49FJpL) | [Nebula](https://open.spotify.com/album/3Pijzoi6qxxNYE8Nc1iLub) | 2:41 |
+| 36 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 |
 | 37 | [pt\. 1 Owl Light](https://open.spotify.com/track/5YvY66JItF2jFFKeB27pmO) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [pt\. 1 Owl Light](https://open.spotify.com/album/0jVhFWlQ2N317ewAQZbCkY) | 3:09 |
 | 38 | [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 |
 | 39 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
 | 40 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 |
-| 41 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 |
-| 42 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
+| 41 | [Open Window](https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Open Window](https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES) | 2:06 |
+| 42 | [Gdansk](https://open.spotify.com/track/5kRBxcHNbWOUFvv15I0dMP) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Gdansk](https://open.spotify.com/album/40rTqC9tVI3N4kFup5IvAR) | 2:27 |
 | 43 | [Emergence](https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy) | [Cai Harrington](https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu) | [Emergence](https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC) | 2:06 |
 | 44 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 |
 | 45 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 51 | [Tristes](https://open.spotify.com/track/3mhJ85EkR5J6pf7F4lP4DU) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 2:44 |
 | 52 | [Clement](https://open.spotify.com/track/7eItBb98RqIZQ8QZPS6GcM) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Clement](https://open.spotify.com/album/7w0J5NX4rFSoNXCPAIns2A) | 2:27 |
 | 53 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 |
-| 54 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
-| 55 | [Illumination](https://open.spotify.com/track/5VyPybbYHpq8gsqP5ulovn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Illumination](https://open.spotify.com/album/5Lx6sbhSHFdBfMmP4JxBmi) | 2:32 |
+| 54 | [Illumination](https://open.spotify.com/track/5VyPybbYHpq8gsqP5ulovn) | [Dmitry Evgrafov](https://open.spotify.com/artist/5gO6Qun6lW2PILwqcvEug8) | [Illumination](https://open.spotify.com/album/5Lx6sbhSHFdBfMmP4JxBmi) | 2:32 |
+| 55 | [Okra](https://open.spotify.com/track/1so7IJIPEpxEFefMYGa0ia) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Okra](https://open.spotify.com/album/0AccCIBENIOeBoUfMioz12) | 3:13 |
 | 56 | [Acceptance](https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Acceptance](https://open.spotify.com/album/0kNSxjrtG1jxZWb0BKfCHo) | 3:15 |
 | 57 | [Ave](https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Ave](https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV) | 2:08 |
 | 58 | [Fractal](https://open.spotify.com/track/16HiHZl6SX3EY7ULWnCWvy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fractal](https://open.spotify.com/album/2cpXYJpQaWwsLKbcDtAJis) | 3:11 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 | 70 | [Song For Katie](https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Song For Katie](https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ) | 2:26 |
 | 71 | [Beyond Dreams](https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Beyond Dreams](https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM) | 2:24 |
 | 72 | [Sleepwalk](https://open.spotify.com/track/7hvkGZ6j1NyqNp50G6CyQI) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Sleepwalk](https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron) | 3:54 |
-| 73 | [Lawson: Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 |
-| 74 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
+| 73 | [Across Borders](https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Across Borders](https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG) | 2:36 |
+| 74 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
 | 75 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 |
-| 76 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 |
+| 76 | [Lawson: Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 |
 | 77 | [Prélude](https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Prélude](https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe) | 2:51 |
 | 78 | [Octaves](https://open.spotify.com/track/1F54dSc1rx5kHpMGu3XM9i) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Octaves](https://open.spotify.com/album/1ZoBBGpluc4FcCJOakU0Ir) | 2:12 |
 | 79 | [poetry in touch](https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [how we sleep](https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8) | 2:10 |
 | 80 | [New Moon](https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Piggott\-Smith](https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 2:55 |
 
-Snapshot ID: `MCxkNDg4NjkxZDA1YmQyOTkwMTZlZWViMWEwY2VmOWIyYWZlZWRjNzYz`
+Snapshot ID: `MCxiOTZiNzQ1OGIwOGViY2MwYzhkZWZkNmUwNjBlMDcxZjVmN2MxNmY3`

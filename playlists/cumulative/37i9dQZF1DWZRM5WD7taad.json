@@ -3251,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "Resurgir",
+        "url": "https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Resurgir",
+      "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
+    },
+    {
+      "album": {
         "name": "ReSURrecci\u00f3n",
         "url": "https://open.spotify.com/album/4Zl4spMsauBbw3Dr4YGOGJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Jey Brownie
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,454 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,520 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Charlotte](https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0) | 3:34 |
 | 40 | [M'en Aller](https://open.spotify.com/track/298V78s5qaoPu1xC4go6QV) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [M'en Aller](https://open.spotify.com/album/78DXohpeC4uMICjoUxHQXh) | 2:34 |
 
-Snapshot ID: `MCw0MTAwODE3ZDBiNjE4YTI2YmQ5MTljMTA5NzJjYzI2ODRhYTAxYTA3`
+Snapshot ID: `MCwxZmUxNzhlMGEwNmMwMDc1NWEzMjFiM2FkOThmZDI0Njk0MTQwNWZm`

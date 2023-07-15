@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 155409,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
@@ -3383,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "On Replay",
+        "url": "https://open.spotify.com/album/188NwSZJ11msSds8LLPBaG"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "On Replay",
+      "url": "https://open.spotify.com/track/1odaQBZo8t450tZ8RSrNx5"
+    },
+    {
+      "album": {
         "name": "One more try",
         "url": "https://open.spotify.com/album/5za49Q0yHp1JBrmcvM8l7C"
       },
@@ -4558,6 +4576,24 @@
       "duration_ms": 246500,
       "name": "Symbolism pt. III",
       "url": "https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow"
+    },
+    {
+      "album": {
+        "name": "Take Away",
+        "url": "https://open.spotify.com/album/74ojukDockOm8Q8Ly5NUYr"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154589,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/3YznekTxinfXAG4K6Wuc3n"
     },
     {
       "album": {

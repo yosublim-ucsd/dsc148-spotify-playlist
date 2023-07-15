@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-779 songs - 2 day 2 hr 15 min
+780 songs - 2 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Nothingness](https://open.spotify.com/track/4Wvs523J0WtKdTru32e10Z) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Get In The Bin](https://open.spotify.com/album/5ln1IAxoQ3JP6l2R8JqVLn) | 4:54 | 2023-03-11 | 2023-04-01 |
 | [Now](https://open.spotify.com/track/2uYYUJDzYMZbJ2IX5jVLQo) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Now](https://open.spotify.com/album/1YW6G1AUZJCNltxk5tpy0m) | 3:24 | 2022-10-31 | 2022-11-05 |
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-07-07 |  |
+| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-14 |  |
 | [NU MUNNI](https://open.spotify.com/track/3xQED9LDITQaDpoDxiplny) | [HiTech](https://open.spotify.com/artist/2Au9zIICTEr0oeV1iQrJ6X), [Fullbodydurag](https://open.spotify.com/artist/4UIXXif61VhpOic8xbRowW) | [DÉTWAT](https://open.spotify.com/album/4uwRYBORGkLFVQUZdNFH3Y) | 3:04 | 2023-06-24 | 2023-07-01 |
 | [Nu World \- Solomun Remix](https://open.spotify.com/track/4gIXnT4VbM21eqhWMinnpo) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Nu World \(Solomun Remix\)](https://open.spotify.com/album/3N2BT7AISV9IgwfursJE3D) | 3:54 | 2023-01-06 | 2023-01-14 |
 | [Numb](https://open.spotify.com/track/7rF8qrVzCGu9gVHO1Q9RdJ) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Numb](https://open.spotify.com/album/2reFtZBLjA2S5mO0mgFhv8) | 2:59 | 2023-01-21 | 2023-01-29 |

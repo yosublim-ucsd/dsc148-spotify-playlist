@@ -467,6 +467,32 @@
     },
     {
       "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/3DoSzheD5LVnGukrtbfO1Q"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Arletis",
+          "url": "https://open.spotify.com/artist/1YBM8ESrjkE4hgpNUktUaK"
+        },
+        {
+          "name": "Jussi Halme",
+          "url": "https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/4iFPPrYt6YR8c9AldIJhWt"
+    },
+    {
+      "album": {
         "name": "ACTION MAN",
         "url": "https://open.spotify.com/album/6rLhk9Kn1w8j8ecAGgBqig"
       },
@@ -1226,6 +1252,28 @@
       "duration_ms": 134482,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "album": {
+        "name": "bathroom tears",
+        "url": "https://open.spotify.com/album/4RbLs6gCb2N0ho1ftGWbff"
+      },
+      "artists": [
+        {
+          "name": "Garr",
+          "url": "https://open.spotify.com/artist/3EstoZcq6ILPzFbMHvIolA"
+        },
+        {
+          "name": "\u9759\u7684 Static",
+          "url": "https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106816,
+      "name": "bathroom tears",
+      "url": "https://open.spotify.com/track/3GCZrcWQ0DzYA7r02FGyN0"
     },
     {
       "album": {

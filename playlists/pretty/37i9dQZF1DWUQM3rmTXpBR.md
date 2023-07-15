@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: El Morabba3.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,597 likes - 72 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,618 likes - 72 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 71 | [Layla](https://open.spotify.com/track/0oXXaN5krMQ4NR0Hs2C0hJ) | [Judran](https://open.spotify.com/artist/1KC7iXkAh7Z7gX7XJqarBd) | [Layla](https://open.spotify.com/album/3Du6enmqaPYMtjYvM52UCL) | 6:03 |
 | 72 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 |
 
-Snapshot ID: `MCxjODRkNzk5YjczNGNmZjAwNzQ5ZWEzMTczNzY1NzAxNGNkNTMwYTg0`
+Snapshot ID: `MCxhZjJiNDEwNWM2YWE0OWIwMGIxYTRiMmIzMDgxZTliZGI1NTNiNmNh`

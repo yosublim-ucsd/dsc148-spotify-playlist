@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-133 songs - 6 hr 44 min
+134 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Pernoite DELUXE](https://open.spotify.com/track/7ExR6Maj8uVDweUSsugl6W) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Sexy & Fashion](https://open.spotify.com/album/4br1MOVgeeqLb8nHB5lEWx) | 3:52 | 2022-03-18 |  |
 | [Pervertida](https://open.spotify.com/track/5BfFijhUUufXUyfvP9OtQE) | [DesignerMc](https://open.spotify.com/artist/4hgyxYDSZ234e28nT43EpS), [Terror Do Interior](https://open.spotify.com/artist/42E1ypQ3sN3ISf3jLMeRNa), [Gabriel Leirbag](https://open.spotify.com/artist/0KsRbcSfHG0e5z37j1wIkH) | [Pervertida](https://open.spotify.com/album/6eK4VeU04wlvGpm141ds3C) | 2:54 | 2022-03-18 | 2022-08-06 |
 | [Pirata](https://open.spotify.com/track/3JiiLcWGHzXCkbw8syxFMa) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Pirata](https://open.spotify.com/album/4NmljZyRzVZtXSRM3As0M9) | 1:53 | 2023-01-27 |  |
+| [Pra Que Isso?](https://open.spotify.com/track/3URdomWpV9PPNROt98UwFa) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:21 | 2023-07-14 |  |
 | [Pra Te Entorpecer](https://open.spotify.com/track/2JkWVfcXCXJ0uVUd7XPKHN) | [Di Paiva](https://open.spotify.com/artist/6VgzwK3rGqvD6bkug6XYk6), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1) | [Pra Te Entorpecer](https://open.spotify.com/album/0HKdaBbwcs9eWXg1KCppSp) | 3:06 | 2022-03-18 | 2022-08-13 |
 | [Privê](https://open.spotify.com/track/6LfJUcB0FC4Oocufnfz3Ce) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Privê](https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO) | 3:06 | 2022-03-18 |  |
 | [Relaxa](https://open.spotify.com/track/3mc1LoarFdYhBxHewaDzfN) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/7mwWu9YLbSBDzR88dMib8S) | 2:40 | 2022-07-08 |  |
@@ -122,7 +123,7 @@
 | [Sereia](https://open.spotify.com/track/2SNYcKYSuKoQLvdLPvWJgQ) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Sereia](https://open.spotify.com/album/1xm2lmJXFM3DPiOOqJYozn) | 3:36 | 2022-03-18 |  |
 | [Sessão do Descarrego](https://open.spotify.com/track/6eK68flOp1XqQtbWohsdNE) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Sessão do Descarrego](https://open.spotify.com/album/42gDhvs8gmBfr0NUZoqq3v) | 3:55 | 2022-03-18 |  |
 | [Sexo e Dramas](https://open.spotify.com/track/1egbFZtcwx2urbr2q8TsZ5) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Sexo e Dramas](https://open.spotify.com/album/4XzBe109U96T5KXaTRCarR) | 2:32 | 2023-05-05 |  |
-| [Sextape](https://open.spotify.com/track/7LZ5es6x2fPQ6Jo36hZh6G) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M) | [Sextape](https://open.spotify.com/album/1Kqlth2PZKbMgAh6WfysZT) | 3:03 | 2023-06-30 |  |
+| [Sextape](https://open.spotify.com/track/7LZ5es6x2fPQ6Jo36hZh6G) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Lp067](https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M) | [Sextape](https://open.spotify.com/album/1Kqlth2PZKbMgAh6WfysZT) | 3:03 | 2023-06-30 | 2023-07-15 |
 | [Solo](https://open.spotify.com/track/1ZfUzmhmyxfRCEweqgInsx) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi) | [Trilogia Triunfo](https://open.spotify.com/album/3Jnl5a8gRGO8omxruOlqmY) | 3:16 | 2022-03-18 | 2023-04-29 |
 | [Sommelier](https://open.spotify.com/track/3nN404cfeenUm5BPLg8zzB) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sommelier](https://open.spotify.com/album/1MU6umCoTUOZJM9a6zc9xd) | 2:54 | 2022-08-22 |  |
 | [Sommelier](https://open.spotify.com/track/3HOlhweyZyyD8QSTZjI63I) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Sommelier](https://open.spotify.com/album/3O8I6X87Nn2Yb04kqFuiyX) | 2:54 | 2022-03-18 | 2022-08-26 |

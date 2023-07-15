@@ -1,12 +1,12 @@
 {
   "description": "The best indie tracks for just hanging out.",
-  "num_followers": 783882,
+  "num_followers": 784015,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzJhMmFhMWI1OTZiYTI4NzEyYjBlYzlhNTM1MzNiMWYwZGVhOTBk",
+  "snapshot_id": "MCxmYWRkOGZhNTNiNWQ0ZjYzOTcwOGNmYTQyMTU1ZGE2MjA3NGQzOWEz",
   "tracks": [
     {
       "added_at": "2023-07-07 18:59:37",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "CDW",
-        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 224481,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "Spirit 2.0",
         "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 289962,
       "name": "Spirit 2.0",
       "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "CDW",
+        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 224481,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
+        "name": "Ring of Past",
+        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
+      "duration_ms": 201523,
+      "name": "Ring of Past",
+      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Ring of Past",
-        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 201523,
-      "name": "Ring of Past",
-      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "Built on Glass",
         "url": "https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 285255,
       "name": "Gold",
       "url": "https://open.spotify.com/track/1Ll09EiN5ffeFl1xNZB2Uk"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/2DkZisoN9h1dLa8Sn5sx0n"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "Vide Noir",
         "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 311226,
       "name": "When the Night is Over",
       "url": "https://open.spotify.com/track/4FE9SgxcOoCNuGnaaU8TXz"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "Freetown Sound",
         "url": "https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 225747,
       "name": "Best to You",
       "url": "https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1139,22 +1139,34 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Pyjamas (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
       },
       "artists": [
         {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 168240,
-      "name": "Pyjamas (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
+      "duration_ms": 210329,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1175,6 +1187,26 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "Pyjamas (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Pyjamas (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "In the Dark",
-      "url": "https://open.spotify.com/track/1so2V5ZMQyROuspjpuThDn"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "5K",
         "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "i haunt ur dreams",
-        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "i haunt ur dreams",
-      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF"
       },
@@ -1271,6 +1271,22 @@
       "duration_ms": 165759,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 210329,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1367,22 +1383,6 @@
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
-        "name": "Trail Mix Tape",
-        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 187850,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
     },
     {
       "added_at": "2023-07-07 18:59:37",
@@ -1607,6 +1607,38 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 241168,
+      "name": "Sorry I Am",
+      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
+        "name": "There\u2019s no Other",
+        "url": "https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 155801,
+      "name": "There\u2019s no Other",
+      "url": "https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs"
+    },
+    {
+      "added_at": "2023-07-07 18:59:37",
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi"
       },
@@ -1639,22 +1671,6 @@
     {
       "added_at": "2023-07-07 18:59:37",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 241168,
-      "name": "Sorry I Am",
-      "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
         "name": "Worst Case Kid",
         "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 152133,
       "name": "Worst Case Kid",
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2023-07-07 18:59:37",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
     }
   ],
   "unique_name": "Indie Chillout",

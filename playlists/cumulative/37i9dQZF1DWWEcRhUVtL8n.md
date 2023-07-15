@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Sarah Kinsley
 
-1,618 songs - 3 day 13 hr 23 min
+1,619 songs - 3 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [9 to 5](https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [9 to 5](https://open.spotify.com/album/6rSPXk0OKSmGkFzZgD8wHD) | 3:16 | 2021-09-10 | 2022-07-23 |
 | [9teen](https://open.spotify.com/track/7fzDvKpwihEVm18rRgdmYi) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [9teen](https://open.spotify.com/album/62PVXROIVspBU0cScSq2hN) | 2:40 | 2020-10-13\* | 2021-05-23 |
 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 | 2022-01-07 | 2022-04-19 |
+| [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-14 |  |
 | [a House is not a Home](https://open.spotify.com/track/6lutezh0veNlcMaHyFId73) | [Luke Chappell](https://open.spotify.com/artist/4TDrPLkCWxWt7FRCZ9h10U) | [a House is not a Home](https://open.spotify.com/album/04ZoLXMOUKgANljo2EvIRQ) | 2:32 | 2022-03-18 | 2022-05-14 |
 | [a message to myself](https://open.spotify.com/track/4IhZ4D5UMHq1CqjYPlXtlD) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [a message to myself](https://open.spotify.com/album/7tibvRsJAiviQUzI5TKUJI) | 2:08 | 2021-06-03 | 2021-06-04 |
 | [A Million Times](https://open.spotify.com/track/4pGoT7HzVjVZQ3VqHRV924) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 | 2020-10-13\* | 2021-10-16 |
@@ -1596,7 +1597,7 @@
 | [Xbox Luvr](https://open.spotify.com/track/23FuLOumEHvyswN9fp6Owy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Xbox Luvr](https://open.spotify.com/album/5Kv6P3Ln0Q6RvPFZYCzyi2) | 2:56 | 2021-05-05 | 2021-05-28 |
 | [yayou hoi](https://open.spotify.com/track/6Thafr92OJpMDGTgpV1Q0M) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [yayou hoi](https://open.spotify.com/album/4eqUFj1G7nSod95q2CLxms) | 3:08 | 2020-10-13\* | 2021-02-27 |
 | [Yesterday](https://open.spotify.com/track/53ATHsuT0gcejL7QvnDmWi) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Yesterday](https://open.spotify.com/album/4JiS0YEEcnxDITajHXvtBS) | 2:53 | 2022-12-16 | 2022-12-24 |
-| [Yippie Ki Yay](https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Yippie Ki Yay](https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1) | 4:26 | 2023-03-24 |  |
+| [Yippie Ki Yay](https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Yippie Ki Yay](https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1) | 4:26 | 2023-03-24 | 2023-07-15 |
 | [Yoga \(with salem ilese\)](https://open.spotify.com/track/24qTFQSTSe3cac6LAgBuC4) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Yoga](https://open.spotify.com/album/4dUoTI5rzCbWGX3MPsCH0U) | 2:13 | 2021-05-03 | 2021-05-23 |
 | [YOU](https://open.spotify.com/track/0HC9b7pwCxlrjfR8co5tSP) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [YOU](https://open.spotify.com/album/2fIzj3GEqMEKxW8ooFrFjV) | 3:17 | 2021-05-08 | 2021-10-13 |
 | [You & Jennifer](https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Damaged Vol\. 2](https://open.spotify.com/album/1gZ3Wi966cliRIktXiaWij) | 2:39 | 2020-11-14 | 2022-04-14 |

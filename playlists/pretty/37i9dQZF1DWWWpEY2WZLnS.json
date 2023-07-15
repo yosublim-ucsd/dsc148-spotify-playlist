@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s pegao en Dembow. \nCover: Jey One",
-  "num_followers": 348106,
+  "num_followers": 348279,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTRmZDJiNmNhMmE0NzNiOTZlYTJlYTQ0MTg2YTQ2Njc3YmI1ZmFm",
+  "snapshot_id": "MCw0NTIxYjQ3YTZlMWZhOGYzNzZjOGJkNzk1ZWI0YTA1MTcwYjFiMzYz",
   "tracks": [
     {
       "added_at": "2023-05-26 20:56:02",
@@ -891,22 +891,26 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Teteo (Remix)",
-        "url": "https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry"
+        "name": "Tukuntazo",
+        "url": "https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ"
       },
       "artists": [
         {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         },
         {
-          "name": "You R",
-          "url": "https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe"
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
         }
       ],
-      "duration_ms": 203098,
-      "name": "Teteo - Remix",
-      "url": "https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It"
+      "duration_ms": 197763,
+      "name": "Tukuntazo",
+      "url": "https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -935,26 +939,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Tukuntazo",
-        "url": "https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ"
+        "name": "Teteo (Remix)",
+        "url": "https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
         },
         {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+          "name": "You R",
+          "url": "https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe"
         }
       ],
-      "duration_ms": 197763,
-      "name": "Tukuntazo",
-      "url": "https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi"
+      "duration_ms": 203098,
+      "name": "Teteo - Remix",
+      "url": "https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Pichirry",
-        "url": "https://open.spotify.com/album/1in8bBo1IDDACAEEwMh3eg"
-      },
-      "artists": [
-        {
-          "name": "Kiko el Crazy",
-          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 157565,
-      "name": "Pichirry",
-      "url": "https://open.spotify.com/track/3gmwr3IApaKyKU62QTIrgJ"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/6h9dkQ3QFyf8v17w2XOdyT"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 180048,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/3VxgFji6Yqtn8eSjiRAfy9"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
+        "name": "Pichirry",
+        "url": "https://open.spotify.com/album/1in8bBo1IDDACAEEwMh3eg"
+      },
+      "artists": [
+        {
+          "name": "Kiko el Crazy",
+          "url": "https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 157565,
+      "name": "Pichirry",
+      "url": "https://open.spotify.com/track/3gmwr3IApaKyKU62QTIrgJ"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1503,30 +1503,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Zuculento",
-        "url": "https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od"
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
       },
       "artists": [
         {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         },
         {
-          "name": "Young Gatillo",
-          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        },
-        {
-          "name": "D\u00b4Flow Aka La Maldad",
-          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
         }
       ],
-      "duration_ms": 167168,
-      "name": "Zuculento",
-      "url": "https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o"
+      "duration_ms": 155326,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1559,22 +1551,30 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Taka Taka",
-        "url": "https://open.spotify.com/album/32yqnJvhVOIw6BPqDdTD8G"
+        "name": "Zuculento",
+        "url": "https://open.spotify.com/album/1scppHxJtrQhNHdi5HM9od"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
         },
         {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+          "name": "Young Gatillo",
+          "url": "https://open.spotify.com/artist/41wl4d5yKdkwIo2ULFT3vD"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        },
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
         }
       ],
-      "duration_ms": 155326,
-      "name": "Taka Taka",
-      "url": "https://open.spotify.com/track/03zJF1SQSX2sRwILa06p3E"
+      "duration_ms": 167168,
+      "name": "Zuculento",
+      "url": "https://open.spotify.com/track/7zmJxjG9P9if2WRBnNl81o"
     },
     {
       "added_at": "2023-06-27 03:17:03",
@@ -1667,6 +1667,42 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
+        "name": "Subelo a Toa",
+        "url": "https://open.spotify.com/album/3VXAwrFop6NLtixXBVvg41"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 214915,
+      "name": "Subelo a Toa",
+      "url": "https://open.spotify.com/track/5o094hEVHpIRLDs2m7poou"
+    },
+    {
+      "added_at": "2023-06-27 03:17:03",
+      "album": {
+        "name": "Tirate",
+        "url": "https://open.spotify.com/album/3IQSRAJviwXhH9j2J4sxvO"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "duration_ms": 147528,
+      "name": "Tirate",
+      "url": "https://open.spotify.com/track/7peHh1E1RsVJlIkS9CscIL"
+    },
+    {
+      "added_at": "2023-05-26 20:56:02",
+      "album": {
         "name": "Lokisla",
         "url": "https://open.spotify.com/album/6tQmUnaSJ4TkqvdfujoYIZ"
       },
@@ -1695,42 +1731,6 @@
       "duration_ms": 264827,
       "name": "Lokisla",
       "url": "https://open.spotify.com/track/5k4YmMdNXdzN8zOdYxHet2"
-    },
-    {
-      "added_at": "2023-06-27 03:17:03",
-      "album": {
-        "name": "Tirate",
-        "url": "https://open.spotify.com/album/3IQSRAJviwXhH9j2J4sxvO"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 147528,
-      "name": "Tirate",
-      "url": "https://open.spotify.com/track/7peHh1E1RsVJlIkS9CscIL"
-    },
-    {
-      "added_at": "2023-05-26 20:56:02",
-      "album": {
-        "name": "Subelo a Toa",
-        "url": "https://open.spotify.com/album/3VXAwrFop6NLtixXBVvg41"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 214915,
-      "name": "Subelo a Toa",
-      "url": "https://open.spotify.com/track/5o094hEVHpIRLDs2m7poou"
     },
     {
       "added_at": "2023-06-27 03:17:03",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Gass Pure",
-        "url": "https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW"
+        "name": "Bellaca Putona",
+        "url": "https://open.spotify.com/album/1vucKyQTo3QTr0jwXwOUr8"
       },
       "artists": [
         {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 137586,
-      "name": "Gass Pure",
-      "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
+      "duration_ms": 152285,
+      "name": "Bellaca Putona",
+      "url": "https://open.spotify.com/track/5WiGmbM0R21HdAiQVSqXzk"
     },
     {
       "added_at": "2023-06-27 03:17:03",
@@ -1819,22 +1823,18 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Bellaca Putona",
-        "url": "https://open.spotify.com/album/1vucKyQTo3QTr0jwXwOUr8"
+        "name": "Maniqui",
+        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
       },
       "artists": [
         {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         }
       ],
-      "duration_ms": 152285,
-      "name": "Bellaca Putona",
-      "url": "https://open.spotify.com/track/5WiGmbM0R21HdAiQVSqXzk"
+      "duration_ms": 177632,
+      "name": "Maniqui",
+      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
     },
     {
       "added_at": "2023-05-26 20:56:02",
@@ -1911,18 +1911,18 @@
     {
       "added_at": "2023-05-26 20:56:02",
       "album": {
-        "name": "Maniqui",
-        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
+        "name": "Gass Pure",
+        "url": "https://open.spotify.com/album/2cyddcUOevce6Q6jn6VAzW"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
         }
       ],
-      "duration_ms": 177632,
-      "name": "Maniqui",
-      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
+      "duration_ms": 137586,
+      "name": "Gass Pure",
+      "url": "https://open.spotify.com/track/5BaCZw0v3csyxDvs7ogXfK"
     },
     {
       "added_at": "2023-06-27 03:17:03",

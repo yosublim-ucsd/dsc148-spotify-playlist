@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  Simone Panetti in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,271 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,297 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 74 | [a me va bene](https://open.spotify.com/track/4vZhyOMWGhnh6YQkOyt7ms) | [Maliestremi](https://open.spotify.com/artist/0S8ss5TNJnKQFzSEC1etNl) | [a me va bene](https://open.spotify.com/album/7nmHbTM2MWT4fbjEkaLvMh) | 3:07 |
 | 75 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 |
 
-Snapshot ID: `MCwwODY0ZjYzNjcyZDEzMjFkYzdiNWYxOTAxMDEwZGFhMWRmYmY3MzMw`
+Snapshot ID: `MCxlYzY4Yzg3MThhOWZlY2UyM2M0MTFlZTJiODg2YzdjZjg3ZjAyMjcz`

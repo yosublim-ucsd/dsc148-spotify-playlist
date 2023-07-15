@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44470,
+  "num_followers": 44471,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NjI4MSxmOTAxZDgzNzVkNjU3MzQzNmY0NDNlNjk1ZTUxZGJmODE2MGNlMzhk",
+  "snapshot_id": "NjI4MiwxYTY4MzYxZDQ2OGNmYjVkNmUzNjRlOWUzODBiYzhjNGU2YTA1ZWIy",
   "tracks": [
+    {
+      "added_at": "2023-07-14 14:04:46",
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/4JG7RhBm4wxPCPG3ZUBl3T"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 144374,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP"
+    },
     {
       "added_at": "2023-07-13 18:27:19",
       "album": {

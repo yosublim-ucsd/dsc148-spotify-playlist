@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: JiLL\-Decoy association
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,203 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,214 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [Sky](https://open.spotify.com/track/4A1h2n04lHikwFW2y6wQBS) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Sky](https://open.spotify.com/album/6p8sF3aFRqLzasMfcMpjoz) | 3:40 |
 | 50 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 
-Snapshot ID: `MCxkMWRjN2E2MGRjODMyMGNjMWM1ZTUzMjFhY2U0NWRmZTdhODE5ZWU0`
+Snapshot ID: `MCxkYzE3NWNiZWZlNWU1NzcyODcwMjQxZmRkM2JjMTVlZmYzMWIwYjQ0`

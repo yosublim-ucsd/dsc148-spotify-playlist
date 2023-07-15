@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 295352,
+  "num_followers": 295483,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
+  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Jazzie's Groove",
-      "url": "https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Driving Songs",
         "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 222000,
       "name": "Alright - Remastered",
       "url": "https://open.spotify.com/track/6Fsme6JdS9n1apzVi800jL"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Jazzie's Groove",
+      "url": "https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The People Tree",
-        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "Apple Green",
-      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Winelight",
         "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 350600,
       "name": "Let It Flow (For \"DR. J\")",
       "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The People Tree",
+        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "Apple Green",
+      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -759,6 +759,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 226920,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 479466,
-      "name": "Knucklehead",
-      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Hard Work",
         "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 417960,
       "name": "Hard Work",
       "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 479466,
+      "name": "Knucklehead",
+      "url": "https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Funkhaus Studio Sessions",
-        "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
-      },
-      "artists": [
-        {
-          "name": "Jazzanova",
-          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "No Use - Funkhaus Sessions",
-      "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 263576,
       "name": "Holy Sun",
       "url": "https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Funkhaus Studio Sessions",
+        "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
+      },
+      "artists": [
+        {
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "No Use - Funkhaus Sessions",
+      "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1435,34 +1435,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Afrodesia",
-        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
-      },
-      "artists": [
-        {
-          "name": "Dr. Lonnie Smith",
-          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "It's Changed",
-      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "In Pursuit Of The 13th Note",
         "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
       },
@@ -1507,6 +1479,34 @@
       "duration_ms": 265266,
       "name": "Long Cool & Bubbly",
       "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Afrodesia",
+        "url": "https://open.spotify.com/album/3vcrRL21IUz8T6ftBQwIN9"
+      },
+      "artists": [
+        {
+          "name": "Dr. Lonnie Smith",
+          "url": "https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "It's Changed",
+      "url": "https://open.spotify.com/track/1arQkJAMuAocgu98LBHvpC"
     },
     {
       "added_at": "2022-07-14 19:24:43",

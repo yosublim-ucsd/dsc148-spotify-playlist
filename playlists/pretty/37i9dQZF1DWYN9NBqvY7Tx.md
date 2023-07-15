@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,879 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,372 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 63 | [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 |
 | 64 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 |
 | 65 | [Lonely With You](https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Lonely With You](https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv) | 3:25 |
-| 66 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 |
-| 67 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 |
+| 66 | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Hurricane \(feat\. SHIBUI\)](https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3) | 2:33 |
+| 67 | [Halo](https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Halo](https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef) | 2:47 |
 | 68 | [Devil](https://open.spotify.com/track/3lj59hy6FrRDyYNo8Onuud) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/4L3VVfebqok9bZFGKKSTTG) | 2:56 |
 | 69 | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/track/3VvBPkc24zC7x05mgJTyGO) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monody \(feat\. Laura Brehm\)](https://open.spotify.com/album/6M9lhBLGRYYP6kaL5jJuz2) | 4:50 |
 | 70 | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Supersonic \(My Existence\) \[with Noisia, josh pan & Dylan Brady\]](https://open.spotify.com/album/3KpWkFQMXb7sph4xWuHQ5m) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Willow Tree](https://open.spotify.com/track/3CdYdWhfe2yCB6gU3neEk6) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Rosendale](https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq) | [Willow Tree](https://open.spotify.com/album/0j7kbEv6hSm33gskZyokSY) | 3:08 |
 | 100 | [Hear you calling](https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Vintage Culture & Friends, Vol\. 5](https://open.spotify.com/album/14vFH39ZTdf5l5gciuKcxI) | 3:34 |
 
-Snapshot ID: `MCwyYmViMGVmYWFlMGZlODRjYjcwY2ZlZWY3ZWQzNWRiYTVhNWE5NDIw`
+Snapshot ID: `MCxkNWIyNmQxOGY1ZTdmZjZhZmY2NGNkNThjYWQ0ZGJlNzdkOTM5ZWFk`

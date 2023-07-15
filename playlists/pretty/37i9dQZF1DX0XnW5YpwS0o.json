@@ -1,12 +1,12 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 74764,
+  "num_followers": 74841,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTg5YTk2MjQ2ZGJiOTcxNmQ0ZDhlNjQ5NzE5YmIyNjI4ZmRkOGQ5",
+  "snapshot_id": "MCxhMjQ0ZjAzYTFjMTVkYWVhY2Q4YmU3MWY5Yjk2MDQwNDYzYTk4ODkx",
   "tracks": [
     {
       "added_at": "2021-09-22 14:36:46",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Home of the Strange",
         "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 197426,
       "name": "Silvertongue",
       "url": "https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -887,22 +887,6 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
         "name": "Cardinal (Expanded Edition)",
         "url": "https://open.spotify.com/album/4hsC5IvasDOCrWwM8UQ3N4"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 207720,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/4ykQ18swXrkrrbwsZKxQo7"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Home of the Strange",
+        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "Future Present Past",
         "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 243509,
       "name": "Season 2 Episode 3",
       "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Home of the Strange",
-        "url": "https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/6L3VWDPDTQkQFkqvmpAUMU"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "A Mineral Love",
+        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "99.9%",
         "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 228146,
       "name": "GOT IT GOOD",
       "url": "https://open.spotify.com/track/7pttGrC2YJYQ997ZryXGCG"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "A Mineral Love",
-        "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/2wQlywnCQG88drPNdEOuRO"
     },
     {
       "added_at": "2021-09-22 14:36:46",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2021-09-22 14:36:46",
       "album": {
+        "name": "Schmilco",
+        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "If I Ever Was a Child",
+      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
+    },
+    {
+      "added_at": "2021-09-22 14:36:46",
+      "album": {
         "name": "I Had a Dream That You Were Mine",
         "url": "https://open.spotify.com/album/6y1jBrHYQywxtQqkGrKsSG"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 248360,
       "name": "A 1000 Times",
       "url": "https://open.spotify.com/track/7dfQNWgVxikbrdvEmsfPMA"
-    },
-    {
-      "added_at": "2021-09-22 14:36:46",
-      "album": {
-        "name": "Schmilco",
-        "url": "https://open.spotify.com/album/3Zv4IVunQsOuACPEsPLbW1"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "If I Ever Was a Child",
-      "url": "https://open.spotify.com/track/1LYoxeji7NdE2tOcD30ReM"
     },
     {
       "added_at": "2021-09-22 14:36:46",

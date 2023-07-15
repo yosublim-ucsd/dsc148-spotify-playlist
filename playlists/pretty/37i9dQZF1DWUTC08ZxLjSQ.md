@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ZOHUD\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,570 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,572 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [FAG2A](https://open.spotify.com/track/7mokTKlzN0a3zlBGZeSsdM) | [Malek](https://open.spotify.com/artist/3il7Rv594x5CYajnBuqIEv), [Sage](https://open.spotify.com/artist/4ipwFBBwR2qfKHEA9bcoHg) | [FAG2A](https://open.spotify.com/album/7tRGdl7s0qbaWAi47qeZjQ) | 2:54 |
 | 50 | [In the Music](https://open.spotify.com/track/5TQiZXRf45cJthdjbsmlYy) | [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Shqzu](https://open.spotify.com/artist/1aIKyRiP9H0H2IQ0RaWjbk), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [In the Music](https://open.spotify.com/album/5IjEWqasrST65LtDSo0gEJ) | 2:50 |
 
-Snapshot ID: `MCxhZDVmYzUyMTExMTFkZmZkN2VlZTZmM2I1N2EzY2U0Y2JhYjFjOTAx`
+Snapshot ID: `MCxkNGQ4NzFhYjliN2RiZmY2Nzk4MWU2YzRiNzMzNjM1NDc0N2ViOGVh`

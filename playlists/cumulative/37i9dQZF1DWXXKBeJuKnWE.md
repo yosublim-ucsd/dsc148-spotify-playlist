@@ -4,7 +4,7 @@
 
 > The home for heavy rockers\. Cover: Caskets
 
-163 songs - 10 hr 22 min
+164 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-02-03 |  |
 | [Born For One Thing](https://open.spotify.com/track/61GkJ0y15jxDyBrdcb6PqR) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 4:20 | 2022-11-10 | 2023-03-26 |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-21 | 2023-05-12 |
-| [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-03-03 | 2023-07-14 |
+| [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-03-03 |  |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-11-10 | 2023-03-25 |
 | [Chokehold](https://open.spotify.com/track/1Uifdytv882RtTn6Gr4xAA) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 5:04 | 2023-05-11 |  |
 | [Chokehold](https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Chokehold](https://open.spotify.com/album/7kU4ySCd35MaGnS93a6AMl) | 5:04 | 2023-02-15 | 2023-05-23 |
@@ -74,7 +74,7 @@
 | [Harvest](https://open.spotify.com/track/4mHO98MVqhw7DeZyoNmCYG) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Harvest](https://open.spotify.com/album/0kSnsRmaRxJigfDeO355Gq) | 2:50 | 2023-03-24 | 2023-04-22 |
 | [Her](https://open.spotify.com/track/4hcxkA5rIL9oNLcEMRBsmV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 2:08 | 2023-03-23 | 2023-04-22 |
 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/2mTi7e03FygOF0bds32848) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn) | 3:32 | 2023-02-15 | 2023-04-26 |
-| [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 | 2022-11-10 |  |
+| [High Horse](https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 2:48 | 2022-11-10 | 2023-07-15 |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-11-10 | 2023-03-25 |
 | [Holy Roller](https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 2:53 | 2022-11-10 |  |
 | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv) | 3:20 | 2023-02-03 | 2023-05-18 |
@@ -99,7 +99,7 @@
 | [METAL KINGDOM](https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 5:51 | 2023-03-23 |  |
 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 | 2023-01-20 | 2023-03-27 |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-03-23 | 2023-05-23 |
-| [More Than Misery](https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [More Than Misery](https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB) | 3:41 | 2023-05-11 |  |
+| [More Than Misery](https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [More Than Misery](https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB) | 3:41 | 2023-05-11 | 2023-07-15 |
 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 | 2022-11-10 |  |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:17 | 2022-11-10 |  |
 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 | 2022-11-10 | 2023-03-03 |
@@ -136,6 +136,7 @@
 | [Sunshine!](https://open.spotify.com/track/5UZvBguQtkxJfgYrMZcRhe) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Sunshine!](https://open.spotify.com/album/1wh6d2qvnS769wK1IEeXE1) | 3:18 | 2023-04-21 |  |
 | [Swerve \- Rockzilla Remix](https://open.spotify.com/track/2nUicn7YuS1bo2DqgELtj0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swerve \(Rockzilla Remix\)](https://open.spotify.com/album/0EXIrUBZVRPGOxPY43AUfA) | 2:47 | 2023-01-20 | 2023-05-13 |
 | [tear gas](https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:17 | 2022-11-10 | 2023-03-25 |
+| [Tear Me to Pieces](https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:56 | 2023-07-13 |  |
 | [Tear Me to Pieces](https://open.spotify.com/track/67e8Oap4yuF4yS7XYW5yZW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:56 | 2022-11-10 | 2023-01-20 |
 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 | 2022-11-10 |  |
 | [The Dying Song \(Time To Sing\)](https://open.spotify.com/track/6rsoBvxrlxdmqJyGPPciyq) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:23 | 2022-11-10 |  |

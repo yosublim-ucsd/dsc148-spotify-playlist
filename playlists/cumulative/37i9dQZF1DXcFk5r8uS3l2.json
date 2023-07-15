@@ -606,7 +606,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 148853,
       "name": "Big Bend",
       "url": "https://open.spotify.com/track/5b7nY8y8Z8PChU3iBb4Sif"
@@ -1188,6 +1188,24 @@
       "duration_ms": 187120,
       "name": "Devil and the Deep Blue",
       "url": "https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N"
+    },
+    {
+      "album": {
+        "name": "Devil Claims His Prize",
+        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162176,
+      "name": "Devil Claims His Prize",
+      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
     },
     {
       "album": {
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 205945,
       "name": "Over the Hill",
       "url": "https://open.spotify.com/track/6EnF6UDdLryXtMIYot9eOe"
@@ -5336,6 +5354,24 @@
       "duration_ms": 296387,
       "name": "To Rise You Gotta Fall",
       "url": "https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE"
+    },
+    {
+      "album": {
+        "name": "Transit Damage",
+        "url": "https://open.spotify.com/album/6Dn9kpVuqyaAzLSuBWiqlW"
+      },
+      "artists": [
+        {
+          "name": "Shinyribs",
+          "url": "https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265491,
+      "name": "Transit Damage",
+      "url": "https://open.spotify.com/track/4nUpA4KhunJgxvVvjHfRzB"
     },
     {
       "album": {

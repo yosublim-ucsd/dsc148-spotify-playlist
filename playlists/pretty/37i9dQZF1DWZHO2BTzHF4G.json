@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 31331,
+  "num_followers": 31385,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzhjYjI1NTQ5ZjM3OGE0ZWUzOTk3ZTExNDI1NjQzMGQ3YTA0YTIw",
+  "snapshot_id": "MCxkZjY4N2ExOWZjMGMyNTVlNWE5ODI0YmU3YmIzMmE2N2JlZjhjM2Mx",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Infinity On High",
         "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 203506,
       "name": "Thnks fr th Mmrs",
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -427,18 +427,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Day & Age (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+        "name": "Camino Palmero",
+        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
+      "duration_ms": 208600,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -459,18 +459,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Camino Palmero",
-        "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
       },
       "artists": [
         {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+      "duration_ms": 245373,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Language.Sex.Violence.Other?",
-        "url": "https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "Dakota",
-      "url": "https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "The Sound of Madness",
         "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 222066,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Language.Sex.Violence.Other?",
+        "url": "https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "Dakota",
+      "url": "https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Broken Boy Soldiers",
-        "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Steady, As She Goes",
-      "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Swoon",
         "url": "https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 343906,
       "name": "Panic Switch",
       "url": "https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Broken Boy Soldiers",
+        "url": "https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Steady, As She Goes",
+      "url": "https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP"
     },
     {
       "added_at": "2021-04-09 06:36:41",

@@ -4,7 +4,7 @@
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Ariel Camacho en portada.
 
-92 songs - 5 hr 13 min
+93 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,11 +50,12 @@
 | [Julián](https://open.spotify.com/track/28t2BDb54DXaIkIM9p6ktu) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:23 | 2023-04-10 | 2023-07-12 |
 | [La Cita](https://open.spotify.com/track/75IgGouGFoepWfj2N6bQb6) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt) | 2:49 | 2021-11-24 |  |
 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 | 2022-12-09 | 2023-02-25 |
+| [La Fuga Del Dorian](https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T) | 4:37 | 2023-07-11 |  |
 | [La Fuga del Dorian \(feat\. Ariel Camacho & Regulo Caro\)](https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga del Dorian](https://open.spotify.com/album/5JTve2kpwniH9fmvXiwO0z) | 4:37 | 2023-02-24 | 2023-07-07 |
 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 | 2023-04-10 |  |
 | [La Jugada](https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Jugada](https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj) | 3:53 | 2023-02-24 |  |
 | [La Ley del Monte](https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:54 | 2023-04-10 | 2023-05-26 |
-| [La Vida Es Como una Baraja](https://open.spotify.com/track/2FdCfWxayWg4m9CCkcnxxT) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:32 | 2021-11-24 |  |
+| [La Vida Es Como una Baraja](https://open.spotify.com/track/2FdCfWxayWg4m9CCkcnxxT) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:32 | 2021-11-24 | 2023-07-15 |
 | [Los Chismes](https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:59 | 2021-11-24 |  |
 | [Me Gusta Estar Contigo](https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 2:18 | 2021-11-24 |  |
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2021-11-24 |  |

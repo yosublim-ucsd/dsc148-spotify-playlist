@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-133 songs - 8 hr 42 min
+134 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Club Queen](https://open.spotify.com/track/5Vvs5tTd4jbCIkCsB1JQgV) | [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Club Queen](https://open.spotify.com/album/79d0CCtR8YtThcWgQIlTgC) | 4:03 | 2021-11-19 |  |
 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 | 2021-11-19 |  |
 | [Da Function](https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5), [Warren B](https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 3:12 | 2021-11-19 |  |
+| [Darkskin Queen \- Edit](https://open.spotify.com/track/1wgJZsFX3FBcmyGYPw1XmM) | [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg) | [Darkskin Queen](https://open.spotify.com/album/5f82wZZ02LOj20GTvfEBGZ) | 3:12 | 2023-07-14 |  |
 | [DEEP IN VOGUE \- feat\. Sophie Ellis\-Bextor](https://open.spotify.com/track/3RtT4bWTzrgAldm9ksoOME) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [DEEP IN VOGUE \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/0FdtnL6SUuctP8bq8WNYhI) | 4:12 | 2023-01-27 |  |
 | [Deep in Vogue \- Introducing Lourdes & Willie Ninja](https://open.spotify.com/track/5cuAVhV0nGjImPZXBy9Tvt) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ), [The Bootzilla Orchestra](https://open.spotify.com/artist/7oNW0FHu1FMVPZPtyRzGpB), [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Mark Moore](https://open.spotify.com/artist/4fJ5WogukabgmWKLAN3x9o) | [Waltz Darling](https://open.spotify.com/album/1T6VXkSGLyGwJ1l0555IBb) | 4:02 | 2021-11-19 |  |
 | [Deliver](https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ) | [FHAT](https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Deliver](https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR) | 2:06 | 2021-11-19 |  |

@@ -1353,6 +1353,28 @@
     },
     {
       "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "From The Hood",
+      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
+    },
+    {
+      "album": {
         "name": "FTCU (feat. GloRilla & Gangsta Boo)",
         "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
       },

@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 257021,
+  "num_followers": 257044,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWEzNDAwMDE1YmJmN2U0NDcyNmMzMWJiNmJiZjcxMTBiMTZkOWY2",
+  "snapshot_id": "MCw2MTYyM2FkZjY0NmRjMmUyNGYxNWQ2ZmMyNGUzM2RlNDk0MzkwYjMw",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Fine Line / Eat The Acid",
-        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Eat The Acid",
-      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Notion - EP",
         "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 341000,
       "name": "Notion",
       "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Fine Line / Eat The Acid",
+        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Eat The Acid",
+      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "The King of All Birds",
+      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 260519,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "In the Magic Hour",
-        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "The King of All Birds",
-      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 192106,
       "name": "wish you the best (feat. Jensen McRae)",
       "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Thumbs",
-        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Thumbs",
-      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Thumbs",
+        "url": "https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Thumbs",
+      "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
-      },
-      "artists": [
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        }
-      ],
-      "duration_ms": 308706,
-      "name": "If It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Lincoln, Nebraska",
         "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Old Time Feeling",
+        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+      },
+      "artists": [
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        }
+      ],
+      "duration_ms": 308706,
+      "name": "If It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
     },
     {
       "added_at": "2023-06-16 04:00:00",

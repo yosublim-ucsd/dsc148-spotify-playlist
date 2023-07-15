@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Carson Leung & Ryanleeisgod
 
-601 songs - 1 day 10 hr 7 min
+602 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Something About You and Me](https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Something About You and Me](https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG) | 3:42 | 2023-05-04 |  |
 | [sorry it's december](https://open.spotify.com/track/7oReofzcCaync7NIOx4gnA) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [sorry it's december](https://open.spotify.com/album/78R3ypvc7HzPLf35YkUJh6) | 2:51 | 2022-12-22 | 2023-03-18 |
 | [Sorry not for me](https://open.spotify.com/track/76ceJYZ6HEMiCxeEeeT8nx) | [kiiro](https://open.spotify.com/artist/10t9nldzYKH5Awx2CHBstA) | [Sorry not for me](https://open.spotify.com/album/2mw3wuQXY3sDqwcICWBOqT) | 2:16 | 2023-05-11 |  |
+| [Sorry呢度係香港](https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Sorry呢度係香港](https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui) | 3:26 | 2023-07-13 |  |
 | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/track/7BCMGPexL5U99IY3pBrxog) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71), [sunshine blvd.](https://open.spotify.com/artist/0hqb9YnV2YAr2lPHwn5rKe) | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6) | 2:53 | 2022-05-26 | 2022-07-29 |
 | [Spaceship](https://open.spotify.com/track/3w6VSyZ1isHJ53YHDdT2CE) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/7qXjSLSvngusEgkvX7m5uU) | 3:23 | 2022-10-13 | 2022-11-04 |
 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 | 2022-07-07 | 2022-10-19 |

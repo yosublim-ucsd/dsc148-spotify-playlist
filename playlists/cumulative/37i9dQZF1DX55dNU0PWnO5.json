@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/6zoX5kJVZ6EaPtuUuyVpJc"
+      },
+      "artists": [
+        {
+          "name": "Blossum",
+          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/6Rh95LODQfId7hlJcheddl"
+    },
+    {
+      "album": {
         "name": "Firstness Of Thirdness",
         "url": "https://open.spotify.com/album/1lXZBTh7s2ihX7z0Mky5H6"
       },
@@ -4304,6 +4322,28 @@
       "duration_ms": 321937,
       "name": "Nostalgia for the Light",
       "url": "https://open.spotify.com/track/5tXJRqQ7RgjlYunSzjlkOD"
+    },
+    {
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/2rsNtARoox6CERXAw6yBDB"
+      },
+      "artists": [
+        {
+          "name": "BRAVE JAMES",
+          "url": "https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188118,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/33pCdzo9Oq4JsWSlLssSuX"
     },
     {
       "album": {

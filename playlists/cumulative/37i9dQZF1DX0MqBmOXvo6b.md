@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-541 songs - 23 hr 8 min
+542 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Sun Burst](https://open.spotify.com/track/5HVNys0JzY4zi3slDnU0Bv) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Perceptions](https://open.spotify.com/album/2cAim7maiyIf86Y6PTdnrX) | 2:23 | 2022-07-19 | 2022-09-24 |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2022-06-07 |  |
 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-06-07 |  |
+| [Sunshine memories](https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Sunshine memories](https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb) | 1:45 | 2023-07-07 |  |
 | [Supine](https://open.spotify.com/track/4ldRxzeHrTWwBXyWTII5Hu) | [15.](https://open.spotify.com/artist/1D41XVo659DXvNYktKnn6e) | [Supine](https://open.spotify.com/album/55WONvD6G2WMrurYYtR9Wb) | 2:04 | 2022-06-07 | 2022-09-15 |
 | [Sweet Alyssum](https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw) | [Evelyn Urich](https://open.spotify.com/artist/1JSB56ShPffPPGXU7HU2Ky) | [Sweet Alyssum](https://open.spotify.com/album/1jC3AyYyBtnDaAQv42qk1l) | 2:21 | 2022-06-07 |  |
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2022-06-07 |  |
@@ -532,7 +533,7 @@
 | [Why Do We Change?](https://open.spotify.com/track/4UJ9CeB5TeQfHdhGvwYKnH) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Why Do We Change?](https://open.spotify.com/album/6UgPmbtXd16KezvPEqgILh) | 2:46 | 2022-06-07 | 2022-09-24 |
 | [Windows](https://open.spotify.com/track/2mfV2cjYcEnBmqjT1qih83) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Windows](https://open.spotify.com/album/4SiQ4V6EHnYTjvE5tcaN0j) | 2:21 | 2022-06-07 | 2022-09-24 |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2022-06-07 | 2022-09-15 |
-| [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2022-06-07 |  |
+| [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2022-06-07 | 2023-07-15 |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2022-06-07 |  |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-06-07 |  |
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2022-06-07 |  |

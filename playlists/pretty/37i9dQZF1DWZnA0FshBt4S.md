@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,735 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,802 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 19 | [Only Hope](https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [New Way To Be Human](https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME) | 4:13 |
 | 20 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 21 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
-| 22 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
-| 23 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
+| 22 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
+| 23 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
 | 24 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
 | 25 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
 | 26 | [Breakfast](https://open.spotify.com/track/2vLxjS0U2CuaqxEossXLDS) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Take Me To Your Leader](https://open.spotify.com/album/72Sx2clAuxuyeOyHbqZBur) | 3:40 |
 | 27 | [O Praise Him \(All This For A King\)](https://open.spotify.com/track/2iFqa5oxkAE3eJor4tVE8v) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Illuminate](https://open.spotify.com/album/1YWOoJNdvfCfQXaSSzYTVd) | 5:48 |
-| 28 | [Testify To Love](https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:40 |
-| 29 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
+| 28 | [Love Song For A Savior](https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 4:46 |
+| 29 | [Testify To Love](https://open.spotify.com/track/4wuf5qwou5EIPYHFvI6Vv8) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [A Maze Of Grace](https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2) | 4:40 |
 | 30 | [Stomp \(Remix\)](https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Essential Kirk Franklin](https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt) | 5:05 |
-| 31 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |
-| 32 | [Love Song For A Savior](https://open.spotify.com/track/0DbcdVCzmY1IjilPTPaSOe) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 4:46 |
+| 31 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
+| 32 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |
 | 33 | [I Want to Know You](https://open.spotify.com/track/3Vw3NlrSsQmE8W5Aqvf0vz) | [Sonicflood](https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI) | [Sonicflood](https://open.spotify.com/album/6vULYuxP5cDOFdPADeBuUj) | 4:33 |
 | 34 | [Get This Party Started](https://open.spotify.com/track/2Lc71gh10nC31d24a1lYbU) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Momentum](https://open.spotify.com/album/730tFTLjk3HGaJSW2AMiBB) | 2:22 |
 | 35 | [Shine](https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MCxkMmNlNzFjOWM5YjQ3NzliMTE5ODQ2ODM2ZjVkYTVlMjQ1NTMzOWI2`
+Snapshot ID: `MCw1MzQ1NTU5NGMwOWE1YjE0N2FjZmRlMjQ0ZTkxNDA3MDI1ODM4ODE2`

@@ -4,7 +4,7 @@
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-494 songs - 1 day 1 hr 21 min
+495 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Egotism](https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd) | 3:12 | 2022-03-25 | 2022-04-19 |
 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 | 2022-02-18 | 2022-07-29 |
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2022-04-08 | 2022-04-18 |
+| [Emocionado](https://open.spotify.com/track/7zsEdMgo3KhioogOlDlq8t) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Emocionado](https://open.spotify.com/album/09ybjat1ceg69wgLMHOl2S) | 2:46 | 2023-07-14 |  |
 | [End This \(L.O.V.E.\)](https://open.spotify.com/track/04fBskFuMgIx0T0ob7uIhd) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/5ryDRO9Lft4ltBzEETx9MM) | 3:03 | 2022-04-08 | 2022-04-21 |
 | [Even When/The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Even When/The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL) | 1:46 | 2022-02-18 | 2022-07-29 |
 | [Everything About You \(feat\. your friend polly\)](https://open.spotify.com/track/3CC7fyeynJ2RVDUlUDPNXR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [Everything About You \(feat\. your friend polly\)](https://open.spotify.com/album/4hPJlxAoBTynsr4pBbXuw6) | 2:58 | 2022-03-25 | 2022-04-20 |
@@ -277,7 +278,7 @@
 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 | 2023-01-01 | 2023-03-10 |
 | [Matter To You](https://open.spotify.com/track/1InPL1Qm8qJC3FIIvFruNt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Only Child](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ) | 3:37 | 2022-03-25 | 2022-04-09 |
 | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/track/7ksYNhalX8IWKku513n8QG) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/album/2X5tbY4Yam5ir3dG8eJSHa) | 2:54 | 2022-03-25 | 2022-04-20 |
-| [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-13 |  |
+| [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-13 | 2023-07-15 |
 | [Me Chama](https://open.spotify.com/track/5nkQ6XoigkqO9lqy28hLis) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Me Chama](https://open.spotify.com/album/40WvdGsOPwzkEVcVSzW8lO) | 2:35 | 2022-02-18 | 2022-07-29 |
 | [Met Him Last Night \(feat\. Ariana Grande\)](https://open.spotify.com/track/0BI0hfbmqybnd3TezrDME3) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:24 | 2022-03-02 | 2022-07-23 |
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2022-03-25 | 2022-04-17 |

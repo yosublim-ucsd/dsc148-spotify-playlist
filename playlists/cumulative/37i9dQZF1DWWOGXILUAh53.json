@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Sam Tompkins, MEDUZA & Em Beihold",
+  "description": "The hottest new pop with all the drops. Cover: Kaleena Zanders, Anabel Englund ",
   "name": "Fresh Dance Pop",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 170602,
       "name": "10 Out Of 10 (feat. Kylie Minogue)",
       "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
@@ -837,6 +837,28 @@
     },
     {
       "album": {
+        "name": "Anything 4 U",
+        "url": "https://open.spotify.com/album/7gjErqquS2uyJy0rGbYcOC"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188441,
+      "name": "Anything 4 U",
+      "url": "https://open.spotify.com/track/0MuAaWayfAeq0C6WDM15Mz"
+    },
+    {
+      "album": {
         "name": "Anyway (feat. RuthAnne)",
         "url": "https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7"
       },
@@ -900,7 +922,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -2308,7 +2330,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 144983,
       "name": "Dance Around It",
       "url": "https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO"
@@ -3249,6 +3271,28 @@
     },
     {
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/3BGHrulAzot1NlU8l8hWPV"
       },
@@ -3790,7 +3834,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 146076,
       "name": "Fool 4 U (feat. Enisa)",
       "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
@@ -4800,7 +4844,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181516,
       "name": "Honest",
       "url": "https://open.spotify.com/track/7MpAJjJbMrmeLJbrDJ0wHh"
@@ -6641,6 +6685,28 @@
     },
     {
       "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/525tF5HcFtUr2k0tHVcI4t"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Emma Muscat",
+          "url": "https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/3ej0vZNkrbpTOscsIz8pRU"
+    },
+    {
+      "album": {
         "name": "MADELINE",
         "url": "https://open.spotify.com/album/5x9JJzj5K9J6IldkIMonXM"
       },
@@ -6798,7 +6864,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 145049,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/6GHXKuy2ae7PGVCEggxkPW"
@@ -7904,7 +7970,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 200000,
       "name": "Oceans (with Kid Joi)",
       "url": "https://open.spotify.com/track/79xrGzqhv4y92SwvnjHB0N"
@@ -7930,7 +7996,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 179306,
       "name": "Older ft Jimmie Allen & Dixie D'Amelio",
       "url": "https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU"
@@ -9295,6 +9361,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -9874,6 +9958,24 @@
       "duration_ms": 204133,
       "name": "Sky Love",
       "url": "https://open.spotify.com/track/5o9DHQSIjJHGnRKcucD7Vp"
+    },
+    {
+      "album": {
+        "name": "Smash My Heart",
+        "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
     },
     {
       "album": {
@@ -12407,6 +12509,24 @@
     },
     {
       "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/7oAsw6jZcotDQl8f1qECqo"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215639,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy"
+    },
+    {
+      "album": {
         "name": "Why Do I Call",
         "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
       },
@@ -12806,7 +12926,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 178760,
       "name": "Worship You",
       "url": "https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu"

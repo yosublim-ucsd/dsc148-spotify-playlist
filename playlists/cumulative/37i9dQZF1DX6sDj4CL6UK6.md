@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- Nikhil D'souza
 
-218 songs - 12 hr 41 min
+219 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 | 2023-03-09 |  |
 | [Favorite Peeps](https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Favorite Peeps](https://open.spotify.com/album/4i9rebiZc9xWUtX0QGJGoI) | 3:13 | 2022-04-19 | 2023-03-19 |
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-05-19 |  |
+| [Fight This Fight](https://open.spotify.com/track/2qXFpmLrTryis1MYSSO6po) | [Arrows](https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Warren Mendonsa](https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn) | [Fight This Fight](https://open.spotify.com/album/0XGeJXRsh23px41Y3pir3m) | 2:53 | 2023-07-14 |  |
 | [Figure 8](https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Outlast](https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW) | 4:31 | 2022-03-25 | 2023-02-25 |
 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 | 2022-03-25 |  |
 | [Fooling Myself](https://open.spotify.com/track/6Lq5hNjil6j9xWwXqXfHv7) | [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6), [Emily Coupe](https://open.spotify.com/artist/0RJ6bq5MxjA0D8uAG6GHJb) | [Fooling Myself](https://open.spotify.com/album/1vHKyM6FTrN1r74juua4kq) | 3:24 | 2022-11-09 | 2023-02-08 |
@@ -128,7 +129,7 @@
 | [Makin' My Move](https://open.spotify.com/track/11MXG7ypbXmFk6PgYKnbX2) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:19 | 2022-09-26 |  |
 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 | 2022-03-25 | 2022-10-15 |
 | [Making Faces](https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Making Faces](https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E) | 3:12 | 2023-05-24 |  |
-| [Mango Showers](https://open.spotify.com/track/2TNd3JXmvnnn4ueq8v90mG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Mango Showers](https://open.spotify.com/album/2vfuil3OEVqia9k8FqeAiU) | 3:43 | 2023-05-04 |  |
+| [Mango Showers](https://open.spotify.com/track/2TNd3JXmvnnn4ueq8v90mG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Mango Showers](https://open.spotify.com/album/2vfuil3OEVqia9k8FqeAiU) | 3:43 | 2023-05-04 | 2023-07-15 |
 | [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 | 2022-10-14 | 2023-05-24 |
 | [Mayflower](https://open.spotify.com/track/4dkUIKRDVbl3Btd0020IRt) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Mayflower](https://open.spotify.com/album/2uSoNhTaQQsPV9PXIuxOeQ) | 4:09 | 2022-09-09 | 2022-10-15 |
 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 | 2022-09-26 | 2023-05-20 |

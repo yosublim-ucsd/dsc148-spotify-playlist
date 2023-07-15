@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "La Olvidada",
+        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154977,
+      "name": "La Olvidada",
+      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
+    },
+    {
+      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3"
       },
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 214077,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h"

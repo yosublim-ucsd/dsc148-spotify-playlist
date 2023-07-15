@@ -1109,6 +1109,28 @@
     },
     {
       "album": {
+        "name": "Diamant",
+        "url": "https://open.spotify.com/album/6Tseko2czwOTsBe4A3ST5W"
+      },
+      "artists": [
+        {
+          "name": "MASIDI",
+          "url": "https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168859,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/6KUZmPHPg2SGrINq8SVLI7"
+    },
+    {
+      "album": {
         "name": "7 jours de la semaine",
         "url": "https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy"
       },
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 163428,
       "name": "Layla (Take Me On Your Way)",
       "url": "https://open.spotify.com/track/75qhfaxUqXvOT5iVrS8G8H"
@@ -2458,6 +2480,28 @@
       "duration_ms": 320005,
       "name": "Lindanda (Na Na Na)",
       "url": "https://open.spotify.com/track/1WVQgMIn7Z7iRzYnuuyQNJ"
+    },
+    {
+      "album": {
+        "name": "Linga Nga",
+        "url": "https://open.spotify.com/album/7bpFRNNu19pJM5WKarDQjD"
+      },
+      "artists": [
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230173,
+      "name": "Linga Nga",
+      "url": "https://open.spotify.com/track/7IK4uieP9QrhMvlWF2drR4"
     },
     {
       "album": {
@@ -2792,7 +2836,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 135000,
       "name": "Miso",
       "url": "https://open.spotify.com/track/4wjnWG0gIg1jDtLSuTMbGK"
@@ -4221,6 +4265,32 @@
     },
     {
       "album": {
+        "name": "TOUCHE MOI (Tindidi)",
+        "url": "https://open.spotify.com/album/557ibuoURcCgf5uONft8el"
+      },
+      "artists": [
+        {
+          "name": "5 car ecco",
+          "url": "https://open.spotify.com/artist/70tsfWFioo72yfJQ4wkk7N"
+        },
+        {
+          "name": "Mwinda Mannekin",
+          "url": "https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l"
+        },
+        {
+          "name": "Afara Tsena",
+          "url": "https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202314,
+      "name": "TOUCHE MOI - Tindidi",
+      "url": "https://open.spotify.com/track/104G7WYYF0YcrkzL6xMEz5"
+    },
+    {
+      "album": {
         "name": "Tout Ira Bien (Be Alright)",
         "url": "https://open.spotify.com/album/5ZGCTVAdgLgfr4FyLqj2Dd"
       },
@@ -4608,7 +4678,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 397022,
       "name": "Wosso",
       "url": "https://open.spotify.com/track/1BXm3Tq7FI0ZViLTQUaZM0"

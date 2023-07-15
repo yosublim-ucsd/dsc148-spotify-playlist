@@ -1,13 +1,37 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 305486,
+  "num_followers": 305478,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "MTk2NCw1OWZjYTY5YWU3YjIzZTA1OGFlMjI1ZmFiOGFhNGRiZGVmYWZiOTc1",
+  "snapshot_id": "MTk2NSxiNDNiMmMwYmUwYzA1ZTA5N2M4MDk0MDQzYTY5NDM0ZjQyNjI4Yzlj",
   "tracks": [
+    {
+      "added_at": "2023-07-14 11:35:32",
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+        }
+      ],
+      "duration_ms": 220898,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
     {
       "added_at": "2023-07-07 22:27:25",
       "album": {

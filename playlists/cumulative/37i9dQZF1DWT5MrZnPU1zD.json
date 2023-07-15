@@ -1761,6 +1761,28 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146966,
+      "name": "Bla Bla (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -4472,6 +4494,24 @@
       "duration_ms": 188074,
       "name": "Feeling Myself Today",
       "url": "https://open.spotify.com/track/5dABkHkvA7ud5nmDUArJ4r"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158549,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m"
     },
     {
       "album": {

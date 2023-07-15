@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 423157,
       "name": "Artefact",
       "url": "https://open.spotify.com/track/33QwWRC57OnQSkmAvrvjJI"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
@@ -550,6 +550,24 @@
       "duration_ms": 239515,
       "name": "Dominator - Reb\u016bke Remix",
       "url": "https://open.spotify.com/track/6cKvyvg3sMnyZZsi8tgXMP"
+    },
+    {
+      "album": {
+        "name": "Don't Tell Me What To Do",
+        "url": "https://open.spotify.com/album/46NY1vRxqvzKgryniof1iJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341939,
+      "name": "Don't Tell Me What To Do",
+      "url": "https://open.spotify.com/track/2dbaQq1LoOyNbCKYAfInGR"
     },
     {
       "album": {
@@ -1053,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/2WaaeCOR2loQSDsTHjkd0t"
+      },
+      "artists": [
+        {
+          "name": "Triance",
+          "url": "https://open.spotify.com/artist/0a4StSqrogGXGdYzV3GMRy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348916,
+      "name": "I Don't Care - Loft 15 A Mix",
+      "url": "https://open.spotify.com/track/7zaZlHay4Odn9bqxQLgB9E"
+    },
+    {
+      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
       },
@@ -1104,7 +1140,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 234330,
       "name": "In The Bleak Midwinter",
       "url": "https://open.spotify.com/track/48cnRNsq3ICFe51oUMzZ3z"
@@ -1448,7 +1484,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 470400,
       "name": "Level One",
       "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
@@ -2920,6 +2956,40 @@
       "duration_ms": 439069,
       "name": "You - Wankelmut Remix",
       "url": "https://open.spotify.com/track/1UbJMShJ8K22WX3vW9FVas"
+    },
+    {
+      "album": {
+        "name": "You Can Forever Be",
+        "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        },
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        },
+        {
+          "name": "Kevin Kaczynski",
+          "url": "https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr"
+        },
+        {
+          "name": "Denise",
+          "url": "https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376875,
+      "name": "You Can Forever Be",
+      "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
     },
     {
       "album": {

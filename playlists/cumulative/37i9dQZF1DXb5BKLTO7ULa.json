@@ -7250,10 +7250,28 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181200,
       "name": "Coming Down On Me",
       "url": "https://open.spotify.com/track/1adtRGleBoUUbdzq0m55gq"
+    },
+    {
+      "album": {
+        "name": "Dear Departed",
+        "url": "https://open.spotify.com/album/7bxQNgugE8yuO9483R3zrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Coming Down On Me",
+      "url": "https://open.spotify.com/track/4e6kQ0UAoc9VC44sO1bft6"
     },
     {
       "album": {
@@ -23247,6 +23265,24 @@
     },
     {
       "album": {
+        "name": "Mirchi Anthem",
+        "url": "https://open.spotify.com/album/78UwNMNUqcvuJ4Ji2RBM8m"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "Mirchi Anthem",
+      "url": "https://open.spotify.com/track/7vJHyiAJMDZwUmbDWRsIKI"
+    },
+    {
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/4PwWb9YJYbchO4g10yRtCx"
       },
@@ -31177,6 +31213,28 @@
     },
     {
       "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
         "name": "Sex Club",
         "url": "https://open.spotify.com/album/3PxID4ginft9iIhGvsVFCF"
       },
@@ -37838,6 +37896,28 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "album": {
+        "name": "Turn Yo Clic Up (feat. Future)",
+        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230835,
+      "name": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
       "album": {

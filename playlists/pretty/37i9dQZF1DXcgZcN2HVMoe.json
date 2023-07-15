@@ -1,12 +1,12 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 246355,
+  "num_followers": 246444,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmY5OWNkY2IwMGExZjAwMTBhNDk0ODY2MjkyNjVhMTFhODI1ODVh",
+  "snapshot_id": "MCw0ODdkOWRjNWFmOTU5OTZiMTkxYTc4NGNhNmI3ODFhMDY0NmYxOTM1",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 215104,
       "name": "If Ever (with Jack Johnson & Ben Harper)",
       "url": "https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Songs to Break Up To (Acoustic)",
         "url": "https://open.spotify.com/album/0sXJ4r2XZwc0hzDXJsjsuw"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 184064,
       "name": "Thinking 'Bout Love - Acoustic",
       "url": "https://open.spotify.com/track/1nHPM4cx7QvCaFakEPMsho"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/71DxoKxpHcW8iaYNczwGi3"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Drift Back",
+        "url": "https://open.spotify.com/album/2Y5gD74jkosItJIdpWrhHl"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Love Like That",
+      "url": "https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 229226,
       "name": "She Burns",
       "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Drift Back",
-        "url": "https://open.spotify.com/album/2Y5gD74jkosItJIdpWrhHl"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Love Like That",
-      "url": "https://open.spotify.com/track/34WHC9NYUAc4IjMvt56qNq"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 176921,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 330066,
       "name": "Birch",
       "url": "https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 176921,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -2007,18 +1991,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "You And I (Moon And Stars / Acoustic)",
-        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 200000,
-      "name": "You And I - Moon And Stars / Acoustic",
-      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2039,6 +2023,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "You And I (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "You And I - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Gypsy Tapes",
         "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
       },
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Vacation Manor",
-        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
-      },
-      "artists": [
-        {
-          "name": "Vacation Manor",
-          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
-        }
-      ],
-      "duration_ms": 166143,
-      "name": "You",
-      "url": "https://open.spotify.com/track/16DEGzVmbLlmJNKz1rSvrB"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Pick and Choose",
         "url": "https://open.spotify.com/album/34nCenbnfykYe9fsnU1I6a"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 163636,
       "name": "Pick and Choose",
       "url": "https://open.spotify.com/track/01BAqbwhOPGJZ6chBlLUOx"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Vacation Manor",
+        "url": "https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF"
+      },
+      "artists": [
+        {
+          "name": "Vacation Manor",
+          "url": "https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS"
+        }
+      ],
+      "duration_ms": 166143,
+      "name": "You",
+      "url": "https://open.spotify.com/track/16DEGzVmbLlmJNKz1rSvrB"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Headphones",
         "url": "https://open.spotify.com/album/5jmUnHI6B32EloahOxu4sF"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 204998,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/7mQmu0JSoEyYU763IJXhIA"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -2411,6 +2395,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "See the World",
         "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
       },
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Black And White (Stripped)",
-        "url": "https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232528,
-      "name": "Black And White - Stripped",
-      "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 193671,
       "name": "Amsterdam (Recorded at Spotify Studios NYC)",
       "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Black And White (Stripped)",
+        "url": "https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232528,
+      "name": "Black And White - Stripped",
+      "url": "https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2555,18 +2555,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
+        "name": "Get Real High",
+        "url": "https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF"
       },
       "artists": [
         {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
         }
       ],
-      "duration_ms": 208088,
-      "name": "Whirlwind",
-      "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
+      "duration_ms": 247380,
+      "name": "Get Real High",
+      "url": "https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2587,18 +2587,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Get Real High",
-        "url": "https://open.spotify.com/album/7aMqrSC4M8RqB8sNODlPWF"
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY"
       },
       "artists": [
         {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
         }
       ],
-      "duration_ms": 247380,
-      "name": "Get Real High",
-      "url": "https://open.spotify.com/track/571hnpYJoZeQoDFhagsDqq"
+      "duration_ms": 208088,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2783,22 +2783,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Summer 3000",
-        "url": "https://open.spotify.com/album/2KpPxIBQNhsehmuRNQo53A"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 213092,
-      "name": "Every Young Boy's Song",
-      "url": "https://open.spotify.com/track/4MRydjNldr8hl3SByudIjL"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Mirrors (Acoustic)",
         "url": "https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC"
       },
@@ -2815,18 +2799,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+        "name": "Summer 3000",
+        "url": "https://open.spotify.com/album/2KpPxIBQNhsehmuRNQo53A"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 274830,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
+      "duration_ms": 213092,
+      "name": "Every Young Boy's Song",
+      "url": "https://open.spotify.com/track/4MRydjNldr8hl3SByudIjL"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2843,6 +2827,22 @@
       "duration_ms": 235426,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 274830,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -3123,22 +3123,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW"
       },
@@ -3159,6 +3143,22 @@
       "duration_ms": 243973,
       "name": "Feels Like Home",
       "url": "https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",

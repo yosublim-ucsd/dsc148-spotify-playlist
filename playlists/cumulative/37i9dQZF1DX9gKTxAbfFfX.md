@@ -2,9 +2,9 @@
 
 ### [Verano 2023](https://open.spotify.com/playlist/37i9dQZF1DX9gKTxAbfFfX)
 
-> Tu banda sonora de este verano\. Foto: Manuel Turizo, Sebastián Yatra, Beéle
+> Tu banda sonora de este verano\. Foto: Myke Towers
 
-141 songs - 7 hr 59 min
+142 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [BABY HELLO](https://open.spotify.com/track/2SOvWt6igzXViIjIiWNWEP) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [BABY HELLO](https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0) | 3:42 | 2023-06-23 |  |
 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 | 2023-05-12 |  |
 | [Bailando \- Spanish Version](https://open.spotify.com/track/32lm3769IRfcnrQV11LO4E) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 4:03 | 2023-05-12 |  |
-| [Bailando por Ahi](https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [The King Of Dance](https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx) | 3:00 | 2023-06-06 |  |
+| [Bailando por Ahi](https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [The King Of Dance](https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx) | 3:00 | 2023-06-06 | 2023-07-15 |
 | [BEACHY](https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BEACHY](https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id) | 2:48 | 2023-06-06 | 2023-07-11 |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-05-12 |  |
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2023-05-12 |  |
@@ -124,6 +124,7 @@
 | [SANTORINI \(feat\. Marmi\)](https://open.spotify.com/track/3hKFVBIUvDyigbQLZR4z9H) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [OCHO ESTRELLAS](https://open.spotify.com/album/2kixxqgzMIXRNBKv6mvMua) | 2:44 | 2023-06-06 | 2023-06-27 |
 | [Se iluminaba](https://open.spotify.com/track/3VPOZWtj8mM89IiRNygxgS) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:54 | 2023-06-06 | 2023-06-27 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-05-12 | 2023-06-07 |
+| [Si Te Vas / Que Tengo Que Hacer \- Original Remix](https://open.spotify.com/track/0OyHCmkCp2qZJ44ZKB26fX) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [El Dueño Del Flow \(Bonus Track Version\)](https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep) | 4:05 | 2023-07-14 |  |
 | [Sikora](https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [Sikora](https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u) | 2:41 | 2023-05-12 | 2023-07-05 |
 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 | 2023-05-12 |  |
 | [SIN SEÑAL](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SIN SEÑAL](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2023-05-12 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=Y0HlqxWKQ3mZiSk9tpQvGw\"> Oxlade </a>  and <a href=\"https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK?si=1e-okKDFRC2a4XJNKTkuRQ\"> Dave </a>   ",
-  "num_followers": 63524,
+  "num_followers": 63628,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzU1ZWU5MjFiYjgyYTFkYzM3MzcwNjA2YmRhNTI0NzI2MGVlYzZj",
+  "snapshot_id": "MCwzYmM3NmY0ZTE4OWM1OTNhNWYzNmFiNzJiNzVhN2Q2OWU4MTFiN2Ex",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -140,7 +140,7 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 148071,
+      "duration_ms": 148000,
       "name": "Waka Jeje (feat. Bnxn)",
       "url": "https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa"
     },
@@ -251,42 +251,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Lonely At The Top",
-      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Bayanni",
         "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
       },
@@ -303,22 +267,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "TONIGHT",
-        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 196260,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
+      "duration_ms": 157714,
+      "name": "Lonely At The Top",
+      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -343,18 +303,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         }
       ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+      "duration_ms": 196260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -375,18 +339,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg"
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 168048,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu"
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -411,6 +375,22 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/0rq0mponMq2JxvmnPbQWhg"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168048,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/24RnCHp1JaRJAANJXAZCPu"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -447,22 +427,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -483,6 +447,42 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
+      "duration_ms": 169411,
+      "name": "Damages",
+      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -559,22 +559,6 @@
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damages",
-      "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -619,22 +603,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Joha",
-      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 153946,
       "name": "i'm a mess",
       "url": "https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -667,22 +651,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Gbagada Express (Deluxe)",
-        "url": "https://open.spotify.com/album/23VNwQZtSyq0JZKMpugdn2"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 168348,
-      "name": "Can't Be Stopped",
-      "url": "https://open.spotify.com/track/4odFsG1S8WZzvJHPRU2czt"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Aquafina",
         "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
       },
@@ -695,6 +663,22 @@
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Gbagada Express (Deluxe)",
+        "url": "https://open.spotify.com/album/23VNwQZtSyq0JZKMpugdn2"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 168348,
+      "name": "Can't Be Stopped",
+      "url": "https://open.spotify.com/track/4odFsG1S8WZzvJHPRU2czt"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -771,22 +755,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "2:30",
-        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 138305,
-      "name": "2:30",
-      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -807,18 +775,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Love Is Not Enough, Vol. 2",
-        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 149243,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+      "duration_ms": 148000,
+      "name": "Joha",
+      "url": "https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -863,6 +831,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Love Is Not Enough, Vol. 2",
+        "url": "https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 149243,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 211875,
       "name": "Who Is Your Guy? - Remix",
       "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "2:30",
+        "url": "https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 138305,
+      "name": "2:30",
+      "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Who Is Your Guy?",
-        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 160407,
-      "name": "Who Is Your Guy?",
-      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Body & Soul",
         "url": "https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Who Is Your Guy?",
+        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 160407,
+      "name": "Who Is Your Guy?",
+      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Grit & Lust",
         "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1372,7 +1372,7 @@
           "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
         }
       ],
-      "duration_ms": 197454,
+      "duration_ms": 196471,
       "name": "The One (Chop Life)",
       "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
     },

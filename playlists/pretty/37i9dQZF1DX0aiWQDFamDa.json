@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 39217,
+  "num_followers": 39238,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGUyMTk4NDY3NjYyMzdiNzA5OWUyZmEwYjFhZDQxYTdiMmI4MjY4",
+  "snapshot_id": "MCxhYmEyMmI1N2Y4NTZmYmJlMDI4YmFhYmQ0ZDE3NjAwMmU4MmJkYzBi",
   "tracks": [
     {
       "added_at": "2023-06-22 22:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "In the Days of our Love",
+        "url": "https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0"
+      },
+      "artists": [
+        {
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+        }
+      ],
+      "duration_ms": 220019,
+      "name": "In the Days of our Love",
+      "url": "https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 588840,
       "name": "Please Send Me Someone To Love",
       "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "In the Days of our Love",
-        "url": "https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0"
-      },
-      "artists": [
-        {
-          "name": "Newington Green",
-          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
-        }
-      ],
-      "duration_ms": 220019,
-      "name": "In the Days of our Love",
-      "url": "https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "Hodges: Front and Center, Vol. 1",
+        "url": "https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv"
+      },
+      "artists": [
+        {
+          "name": "Owen Broder",
+          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
+      "url": "https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Tammy's Song",
         "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 164928,
       "name": "Kept running",
       "url": "https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Hodges: Front and Center, Vol. 1",
-        "url": "https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv"
-      },
-      "artists": [
-        {
-          "name": "Owen Broder",
-          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
-      "url": "https://open.spotify.com/track/4JZPaFrRUNSYjvLfvQNaGQ"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
+        "name": "I wish I did",
+        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 203175,
+      "name": "I wish I did",
+      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
         "name": "Blue Mist",
         "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
       },
@@ -923,6 +939,22 @@
       "duration_ms": 320957,
       "name": "Pour It Out",
       "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Anyone Can Dream",
+        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 192394,
+      "name": "Winter in Munich",
+      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -947,38 +979,6 @@
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "Anyone Can Dream",
-        "url": "https://open.spotify.com/album/773JrMS5ndOwtXxSss6u2m"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 192394,
-      "name": "Winter in Munich",
-      "url": "https://open.spotify.com/track/3b9UgzMQmT1DZGgoHNtLTq"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
-        "name": "I wish I did",
-        "url": "https://open.spotify.com/album/1TO02dKaeGtMBXDHlUiwjA"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 203175,
-      "name": "I wish I did",
-      "url": "https://open.spotify.com/track/44AchFNfZR9RsnGz76s05b"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 239687,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
-    },
-    {
-      "added_at": "2023-06-22 22:01:00",
-      "album": {
         "name": "Min B\u00e4sta V\u00e4n",
         "url": "https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 214944,
       "name": "Min B\u00e4sta V\u00e4n",
       "url": "https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS"
+    },
+    {
+      "added_at": "2023-06-22 22:01:00",
+      "album": {
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/0ZUXab6Il693uIWXQLx8O5"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 239687,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/5s2sEbhxWaiYJF1ko6iMXs"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Red Garland Revisited!",
-        "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
+        "name": "Sorrowful",
+        "url": "https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
         }
       ],
-      "duration_ms": 335533,
-      "name": "You Keep Coming Back Like A Song",
-      "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
+      "duration_ms": 208929,
+      "name": "Sorrowful",
+      "url": "https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej"
     },
     {
       "added_at": "2023-06-22 22:01:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-06-22 22:01:00",
       "album": {
-        "name": "Sorrowful",
-        "url": "https://open.spotify.com/album/7HLOybEIWiqCiEZNVCP0vk"
+        "name": "Red Garland Revisited!",
+        "url": "https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD"
       },
       "artists": [
         {
-          "name": "Mandy",
-          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
         }
       ],
-      "duration_ms": 208929,
-      "name": "Sorrowful",
-      "url": "https://open.spotify.com/track/3Kg8e71569ZAoUwXYugyej"
+      "duration_ms": 335533,
+      "name": "You Keep Coming Back Like A Song",
+      "url": "https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU"
     },
     {
       "added_at": "2023-06-22 22:01:00",

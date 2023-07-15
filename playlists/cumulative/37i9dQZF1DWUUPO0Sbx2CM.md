@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-387 songs - 21 hr 32 min
+388 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Conqueror](https://open.spotify.com/track/089vf2r4s5obkgONgWd1FB) | [High Praise](https://open.spotify.com/artist/3cn684M2OtJFV8y5QAhlZU) | [Conqueror](https://open.spotify.com/album/7iIsfmogTfklo25kTEEB6H) | 3:55 | 2021-10-31 | 2022-07-26 |
 | [Conversation](https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI) | [Soulsician](https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt) | [Conversation](https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc) | 3:56 | 2023-02-07 |  |
 | [Covered](https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Covered](https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D) | 3:16 | 2023-02-07 |  |
+| [Crown \- Gregatron Disco Remix](https://open.spotify.com/track/1yrx5qPd8f5TtOrrtXRU0z) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown The Remixes](https://open.spotify.com/album/0kMCp8ynEoHnR4FaSFJ82A) | 3:05 | 2023-02-07 |  |
 | [Dance With Me](https://open.spotify.com/track/4JK3GyeM5KmkakCb8DjQg4) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Outta Line](https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ) | 3:14 | 2021-10-31 | 2022-07-24 |
 | [Dancing at Dusk](https://open.spotify.com/track/1Lj6LnLMSFZv8ik24ssMpO) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 3:37 | 2021-10-31 | 2022-07-28 |
 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 | 2021-10-31 | 2022-07-28 |
@@ -382,7 +383,7 @@
 | [Won't He Do It \(Remix\)](https://open.spotify.com/track/2r4Lz9fx64cblkTiTIXdU9) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 3:31 | 2021-10-31 | 2023-01-15 |
 | [Won't Rain Anymore](https://open.spotify.com/track/64h4pQK96zb7qB5QYhEymz) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [Won't Rain Anymore](https://open.spotify.com/album/049iy74GNjD4hiJtfhnsQ9) | 2:39 | 2023-03-07 | 2023-05-09 |
 | [Won't Stop \- Reyer Remix](https://open.spotify.com/track/5scmtvav3joe03DAihMTd6) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp), [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [Won't Stop \(Reyer Remix\)](https://open.spotify.com/album/1c9Bj73lYl64W5Tp1HVNfh) | 3:04 | 2023-02-07 |  |
-| [Word \- Live](https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:08 | 2023-02-07 |  |
+| [Word \- Live](https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [You, Me, The Church, That's Us \- Side B](https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK) | 3:08 | 2023-02-07 | 2023-07-15 |
 | [Working On It](https://open.spotify.com/track/55iqYfPGIKhHpuCn7XFatf) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Never Land II](https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL) | 3:13 | 2021-10-31 | 2023-02-08 |
 | [Worry](https://open.spotify.com/track/4qzoaJGCnbwe8S8tDt0Ndz) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Worry](https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9) | 3:07 | 2021-10-31 | 2023-02-08 |
 | [Worth](https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Curtain Call](https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt) | 3:52 | 2023-02-07 |  |

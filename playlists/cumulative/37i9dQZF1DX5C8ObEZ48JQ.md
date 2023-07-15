@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV?si=vmyg8\-p7QOGOeEt9OPygIQ"> Rukmani </a>\. Artwork: Isu Kim.
 
-453 songs - 23 hr 12 min
+454 songs - 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Makoma](https://open.spotify.com/track/4Tmh5bkwWsz0oJpkSaOOm8) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Makoma](https://open.spotify.com/album/5g6ob8kQyPRGIr0g9UQRlm) | 3:16 | 2023-03-05 | 2023-03-10 |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-09-02 | 2022-10-01 |
 | [Malibu](https://open.spotify.com/track/2FcbCjgVYR26a9Vm7siZaW) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Malibu](https://open.spotify.com/album/2Y2uUeq16FvGvIlijx1nhs) | 2:46 | 2022-09-02 | 2022-10-01 |
+| [Mamacita](https://open.spotify.com/track/550AmuZZJ2KVM3EOz6qV8K) | [YTFAHADWAVES](https://open.spotify.com/artist/6GnMSDdZKJJa1sczH3dqVB), [Olamzzy](https://open.spotify.com/artist/3orZliuB9wDJsVOrbUHm7h), [Lil Jozzy](https://open.spotify.com/artist/0C7E6qw87bqzB4bGmLgN14), [Zichy](https://open.spotify.com/artist/1JRzK09IPtVCcHgPKQS2w4), [Hyzah](https://open.spotify.com/artist/7dTF7Xn6JGsZtyBWiBWJ5I) | [if I couldn't, I wouldn't](https://open.spotify.com/album/23a2bnlVeHaSzti2lF5tlw) | 3:13 | 2023-06-27 |  |
 | [Mamazala](https://open.spotify.com/track/1lMCiqYEH0Kyp6Z41NtF2p) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [Death Row Africa : The Album](https://open.spotify.com/album/0V4DNXFNCiYiOI5QMifznp) | 2:27 | 2023-01-25 | 2023-02-23 |
 | [Mapenzi au Pesa](https://open.spotify.com/track/6aqP0Tdea6ZPhtNfDoKY4U) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Mapenzi au Pesa](https://open.spotify.com/album/7HtjYVTI6czyVMGcY4OzSX) | 2:40 | 2023-01-25 | 2023-02-23 |
 | [MAPESSA](https://open.spotify.com/track/6x2BjeahVOrH3xKLThsHj7) | [Joe Kingston](https://open.spotify.com/artist/0XgZLJ4UKRBh6KdFQgnMmc) | [MAPESSA](https://open.spotify.com/album/0lwDkV2ieMlSa4ywpccNk5) | 3:15 | 2022-09-02 | 2022-10-01 |

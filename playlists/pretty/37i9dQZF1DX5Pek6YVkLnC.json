@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228232,
+  "num_followers": 228226,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Randy Johnson",
+        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Randy Johnson",
+      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "512",
         "url": "https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 188965,
       "name": "512",
       "url": "https://open.spotify.com/track/4zANwdkLMw3vQ2Xijg4WY8"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Randy Johnson",
-        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
-      },
-      "artists": [
-        {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Randy Johnson",
-      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Private Suite (Vol. 1)",
+        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Freelance",
+      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Tengo Un Draco",
         "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Private Suite (Vol. 1)",
-        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Freelance",
-      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "TRAPPHONE",
         "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
       },
@@ -679,26 +679,6 @@
       "duration_ms": 107984,
       "name": "TRAPPHONE",
       "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "M\u00e1s Grande",
-      "url": "https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -723,6 +703,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Sempiterno",
         "url": "https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ"
       },
@@ -739,58 +739,6 @@
       "duration_ms": 159547,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/0ZoHqqfllVIYGwM7cMhJgo"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Scarface Sin Manolo",
-        "url": "https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Scarface Sin Manolo",
-      "url": "https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -815,30 +763,54 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Palestina",
-        "url": "https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4"
+        "name": "Scarface Sin Manolo",
+        "url": "https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem"
       },
       "artists": [
         {
-          "name": "Oken",
-          "url": "https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3"
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
         },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Scarface Sin Manolo",
+      "url": "https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/57bcr49I6EUlgp1UKzUFdg"
+      },
+      "artists": [
         {
           "name": "Hades66",
           "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Anubiis",
-          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
-        },
-        {
-          "name": "Castiel",
-          "url": "https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Palestina",
-      "url": "https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3"
+      "duration_ms": 123750,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/7AG2CdeWrcdkhQpQuXS9nv"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -867,6 +839,34 @@
       "duration_ms": 285986,
       "name": "TRIPLE H - REMIX",
       "url": "https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Palestina",
+        "url": "https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4"
+      },
+      "artists": [
+        {
+          "name": "Oken",
+          "url": "https://open.spotify.com/artist/6paE2t0If1wcufBS2OE0b3"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        },
+        {
+          "name": "Castiel",
+          "url": "https://open.spotify.com/artist/6qi0AljxDOa1MnO8rv4dK2"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Palestina",
+      "url": "https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3"
     },
     {
       "added_at": "2023-06-09 20:20:12",

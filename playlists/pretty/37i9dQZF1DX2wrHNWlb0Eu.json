@@ -1,12 +1,12 @@
 {
   "description": "\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 \u0e41\u0e15\u0e48\u0e17\u0e33\u0e44\u0e21\u0e21\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e41\u0e25\u0e49\u0e27\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
-  "num_followers": 93194,
+  "num_followers": 93246,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj",
+  "snapshot_id": "MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3",
   "tracks": [
     {
       "added_at": "2023-06-09 09:59:32",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e08\u0e35\u0e1a",
-        "url": "https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI"
-      },
-      "artists": [
-        {
-          "name": "QLER",
-          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
-        }
-      ],
-      "duration_ms": 224261,
-      "name": "\u0e08\u0e35\u0e1a",
-      "url": "https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "clean",
         "url": "https://open.spotify.com/album/0Q85NYeTS69jKGLilCR5Y2"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 258401,
       "name": "\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/6ezEwX2eZRZlioqYaUPOKX"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e08\u0e35\u0e1a",
+        "url": "https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI"
+      },
+      "artists": [
+        {
+          "name": "QLER",
+          "url": "https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk"
+        }
+      ],
+      "duration_ms": 224261,
+      "name": "\u0e08\u0e35\u0e1a",
+      "url": "https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
+        "name": "The Lift",
+        "url": "https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV"
+      },
+      "artists": [
+        {
+          "name": "Groove Riders",
+          "url": "https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
         "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
         "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 198787,
       "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
-        "name": "The Lift",
-        "url": "https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV"
-      },
-      "artists": [
-        {
-          "name": "Groove Riders",
-          "url": "https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19",
-      "url": "https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "begins",
-        "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
+        "name": "\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on"
       },
       "artists": [
         {
-          "name": "Big Ass",
-          "url": "https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv"
+          "name": "wish.",
+          "url": "https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR"
         }
       ],
-      "duration_ms": 253053,
-      "name": "\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15",
-      "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
+      "duration_ms": 178000,
+      "name": "\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
-        "url": "https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on"
+        "name": "begins",
+        "url": "https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR"
       },
       "artists": [
         {
-          "name": "wish.",
-          "url": "https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR"
+          "name": "Big Ass",
+          "url": "https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv"
         }
       ],
-      "duration_ms": 178000,
-      "name": "\u0e1a\u0e31\u0e07\u0e40\u0e2d\u0e34\u0e0d\u0e40\u0e08\u0e2d\u0e41\u0e15\u0e48\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01",
-      "url": "https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL"
+      "duration_ms": 253053,
+      "name": "\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15",
+      "url": "https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
-        "url": "https://open.spotify.com/album/4ONMohUWPUXBwhld8J1sy4"
-      },
-      "artists": [
-        {
-          "name": "Lipta",
-          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
-        },
-        {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
-      "url": "https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
         "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 175151,
       "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
       "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
+        "url": "https://open.spotify.com/album/4ONMohUWPUXBwhld8J1sy4"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "\u0e41\u0e15\u0e48\u0e07\u0e04\u0e23\u0e31\u0e1a",
+      "url": "https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb"
     },
     {
       "added_at": "2023-06-09 09:59:32",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-06-09 09:59:32",
       "album": {
-        "name": "\u0e1c\u0e48\u0e32\u0e19\u0e15\u0e32 (Everyday)",
-        "url": "https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "\u0e1c\u0e48\u0e32\u0e19\u0e15\u0e32 (Everyday)",
-      "url": "https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y"
-    },
-    {
-      "added_at": "2023-06-09 09:59:32",
-      "album": {
         "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
         "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 210598,
       "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
       "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+    },
+    {
+      "added_at": "2023-06-09 09:59:32",
+      "album": {
+        "name": "\u0e1c\u0e48\u0e32\u0e19\u0e15\u0e32 (Everyday)",
+        "url": "https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU"
+      },
+      "artists": [
+        {
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "\u0e1c\u0e48\u0e32\u0e19\u0e15\u0e32 (Everyday)",
+      "url": "https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y"
     },
     {
       "added_at": "2023-06-09 09:59:32",

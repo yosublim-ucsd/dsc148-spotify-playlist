@@ -4,7 +4,7 @@
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Bon Enfant
 
-118 songs - 6 hr 57 min
+119 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Antennes](https://open.spotify.com/track/2IWRxRcB3MpsKptIzs4zdS) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 2:08 | 2023-03-24 | 2023-04-05 |
 | [Anyway](https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka) | [La Sécurité](https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW) | [Anyway](https://open.spotify.com/album/09krY5QSpZboazWATr2T2S) | 3:45 | 2023-04-14 | 2023-06-17 |
 | [Astronaute amateur](https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Diorama](https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg) | 3:38 | 2023-02-10 |  |
-| [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 | 2023-02-10 |  |
+| [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 | 2023-02-10 | 2023-07-15 |
+| [Autobahn](https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Autobahn](https://open.spotify.com/album/1YGNt3j4tgi6mrmSTSjDBq) | 4:10 | 2023-07-14 |  |
 | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg) | [FELP](https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l), [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Babyfoot \(feat\. Klô Pelgag\)](https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W) | 2:36 | 2023-02-24 | 2023-06-04 |
 | [Beau baptême](https://open.spotify.com/track/23VeUjFdefGJfKqGdjn4o5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Beau baptême](https://open.spotify.com/album/4uAwaa2dXHOGCAL9la6cFm) | 3:40 | 2023-06-02 | 2023-06-20 |
 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 | 2023-03-10 |  |

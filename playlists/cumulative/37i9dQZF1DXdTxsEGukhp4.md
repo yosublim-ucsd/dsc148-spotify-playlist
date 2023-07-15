@@ -4,14 +4,15 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 水曜日のカンパネラ
 
-185 songs - 10 hr 43 min
+186 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [18](https://open.spotify.com/album/4pyHUmAJzl9dZUvFwVzLe7) | 3:35 | 2023-04-27 | 2023-07-06 |
 | [Ai no Nuime](https://open.spotify.com/track/6Fg4d8rimrexkqDqDxYsB0) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Boku no Uta de Kimi ni Eien wo](https://open.spotify.com/album/1MMlfzh5fLDMyMt72ZwQkY) | 4:01 | 2023-01-26 | 2023-02-24 |
 | [AKUMA Night Disco](https://open.spotify.com/track/7vGtfj8Xg5SMZfrn69Q960) | [A Ghostly Tale](https://open.spotify.com/artist/7HBUpeSlOv5tTmRVzvH8Ff), [Sato Nozomi](https://open.spotify.com/artist/5Sd8RTkINhV9qY1ZvGYyF1) | [AKUMA Night Disco](https://open.spotify.com/album/5PzAOEi5rqkDcnjUWybNdL) | 3:39 | 2023-02-02 | 2023-02-24 |
-| [asphalt](https://open.spotify.com/track/4Zsp5lrpONEvUzY75rIsRK) | [Lot](https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP) | [asphalt](https://open.spotify.com/album/6FZ8ArIPOtMzvmxGjxFsE2) | 2:49 | 2023-06-15 |  |
+| [asphalt](https://open.spotify.com/track/4Zsp5lrpONEvUzY75rIsRK) | [Lot](https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP) | [asphalt](https://open.spotify.com/album/6FZ8ArIPOtMzvmxGjxFsE2) | 2:49 | 2023-06-15 | 2023-07-15 |
+| [ATARI](https://open.spotify.com/track/21gjq7cgnOscRURiGhOGPP) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [ATARI](https://open.spotify.com/album/1iaWRy44XLfPXxr3kqbtxr) | 3:27 | 2023-07-14 |  |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-29 |  |
 | [Azukita](https://open.spotify.com/track/6tSaMs79oJxK3VZ7QFgoTj) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:46 | 2023-07-13 |  |
 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 | 2023-02-02 |  |

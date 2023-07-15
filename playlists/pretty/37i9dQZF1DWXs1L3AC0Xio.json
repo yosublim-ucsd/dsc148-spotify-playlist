@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 677272,
+  "num_followers": 677452,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjE3NzAyNDg1MWUwMTJiMzgxMjRhZTM2Njg1Yjc2ZTQ4ZjQyNGVj",
+  "snapshot_id": "MCxhNTg4YzVjZTE5ZjQ2ODc1MDY1Nzc5NTA5YWVlNTg3MmMzZGUwZjc0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -223,8 +223,8 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0"
       },
       "artists": [
         {
@@ -234,7 +234,7 @@
       ],
       "duration_ms": 196905,
       "name": "Disarm - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM"
+      "url": "https://open.spotify.com/track/2lXHg7BtTNoP39AezyCSfL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Dying in LA",
-      "url": "https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Saving Abel",
         "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 235613,
       "name": "Drowning (Face Down)",
       "url": "https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Dying in LA",
+      "url": "https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 218990,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "All Your Favorite Bands",
         "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 243319,
       "name": "Things Happen",
       "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 218990,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "How Did You Love",
+        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "How Did You Love - Piano Version",
+      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Black Widow",
         "url": "https://open.spotify.com/album/7jMxSZ332lLfENKNEFAd9P"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 163333,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "How Did You Love",
-        "url": "https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "How Did You Love - Piano Version",
-      "url": "https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd"
     },
     {
       "added_at": "2023-06-30 04:01:00",

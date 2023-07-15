@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 150028,
+  "num_followers": 150085,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTU3N2Q4OTQ3ZDg4NzlmYTNhOThmNTY1NzFlNjdiZjk4YTYyNjRi",
+  "snapshot_id": "MCxkZDdlYTIyNTUyMzA3NWQxNjhkM2NiYTM2ZTMxMGZiMjFiNjczMTA0",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -435,26 +435,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
-        }
-      ],
-      "duration_ms": 216940,
-      "name": "Until Grace",
-      "url": "https://open.spotify.com/track/52stVyuGiZ0QOWAAb27ZY4"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "No Longer Slaves (Radio Version)",
         "url": "https://open.spotify.com/album/69pv7F33kbIP0PxynOW0VA"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 249213,
       "name": "No Longer Slaves - Radio Version",
       "url": "https://open.spotify.com/track/2W1EsT0BlEnFaPe44Q71N5"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "duration_ms": 216940,
+      "name": "Until Grace",
+      "url": "https://open.spotify.com/track/52stVyuGiZ0QOWAAb27ZY4"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "The Comeback",
+      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "I Know A Ghost",
         "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "The Comeback",
-      "url": "https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Good Good Father",
-        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "All My Hope",
         "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 232760,
       "name": "All My Hope",
       "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Good Good Father",
+        "url": "https://open.spotify.com/album/5CHkSTtxezt4A1bqDnzoJW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/2tMjhETPLkWILXN3NnmDt3"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "This Is What We Believe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD"
-      },
-      "artists": [
-        {
-          "name": "Aaron Shust",
-          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "My Hope Is in You",
-      "url": "https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Strong Tower",
         "url": "https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 238946,
       "name": "Strong Tower",
       "url": "https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "This Is What We Believe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Q9Y71ZXBPOChjYYckaAmD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Shust",
+          "url": "https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "My Hope Is in You",
+      "url": "https://open.spotify.com/track/3IuTraprrDiCiGJ7tiGpGu"
     },
     {
       "added_at": "2020-07-23 14:38:16",

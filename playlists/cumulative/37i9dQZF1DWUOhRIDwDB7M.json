@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Highlights",
+        "url": "https://open.spotify.com/album/2VR51P4HVXyUxmeBLCGx7q"
+      },
+      "artists": [
+        {
+          "name": "Jake Slumber",
+          "url": "https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167850,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/5yhFMyyzQKl9w3D4oWXPPt"
+    },
+    {
+      "album": {
         "name": "Reconstruct",
         "url": "https://open.spotify.com/album/07xYLClB2NU5CC5wxFlU4d"
       },
@@ -582,7 +600,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 226543,
       "name": "Butterfly Traces",
       "url": "https://open.spotify.com/track/2IrPTNvYOoR92JZoNz79N2"
@@ -1518,7 +1536,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 228000,
       "name": "Empty Spaces",
       "url": "https://open.spotify.com/track/02hFekfpXLbeoBIdCEgbBc"
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 224000,
       "name": "Escape",
       "url": "https://open.spotify.com/track/7th2hXLHjvUPvxyxHt2IAU"
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 207168,
       "name": "Gentle Serenity",
       "url": "https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb"
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 229714,
       "name": "Morning Reflection",
       "url": "https://open.spotify.com/track/444EJ06sxk2RAyemHmO5OM"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 171050,
       "name": "Ride The Wave",
       "url": "https://open.spotify.com/track/0q1rGHsLzGNwzwxGrg99ji"
@@ -3498,7 +3516,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169363,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/61nBe7BiDRiwqSNZfAjswA"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 238593,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/2qbKVJe3eJNmBVaU5toSXh"
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160851,
       "name": "The Dusk",
       "url": "https://open.spotify.com/track/1IP6Rxvohb7Sv6c7eqCzx8"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 239769,
       "name": "Them",
       "url": "https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD"
@@ -4452,7 +4470,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 195428,
       "name": "Wandering",
       "url": "https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P"

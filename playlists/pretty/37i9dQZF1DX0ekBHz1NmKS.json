@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 194971,
+  "num_followers": 194984,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2E5ZDgzZmIwMzM1MTRiNTQ5OTI0NGM2MWI2MjE0Y2Q5YmJiZGI4",
+  "snapshot_id": "MCxkNjFjOWZkYzc4YTA0ODBjN2M4OTA4ZDFkNDk2MTE1YzUxM2RmYWVk",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "M\u00e5ndagsbarn (Spotify Singles)",
-        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 180372,
-      "name": "M\u00e5ndagsbarn - Spotify Singles",
-      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "V\u00e4lkommen \u00c5ter",
         "url": "https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 175714,
       "name": "V\u00e4lkommen \u00c5ter",
       "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "M\u00e5ndagsbarn (Spotify Singles)",
+        "url": "https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
+        }
+      ],
+      "duration_ms": 180372,
+      "name": "M\u00e5ndagsbarn - Spotify Singles",
+      "url": "https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Belly Shots",
-        "url": "https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Belly Shots",
-      "url": "https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 173437,
       "name": "Happier",
       "url": "https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Belly Shots",
+        "url": "https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Belly Shots",
+      "url": "https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Call Me By Your Name",
+        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        },
+        {
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Call Me By Your Name",
+      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "S\u00e5 mycket b\u00e4ttre 2022 \u2013 Tolkningarna",
         "url": "https://open.spotify.com/album/6CxfNDPEZUluQdfnB5CTon"
       },
@@ -827,26 +847,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Call Me By Your Name",
-        "url": "https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        },
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Call Me By Your Name",
-      "url": "https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Nattbuss",
         "url": "https://open.spotify.com/album/64dApoo1lReAnvqcz6CETQ"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Foam",
         "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 144051,
       "name": "Wishing well",
       "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Tumbling Dice",
-        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
+        "name": "She Fell In Love In The Summer",
+        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 175991,
-      "name": "Tumbling Dice",
-      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
+      "duration_ms": 172215,
+      "name": "She Fell In Love In The Summer",
+      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Tumbling Dice",
+        "url": "https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 175991,
+      "name": "Tumbling Dice",
+      "url": "https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Ut med allt",
         "url": "https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE"
       },
@@ -983,34 +999,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Bad One",
-        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
       },
       "artists": [
         {
-          "name": "Mike \u00c4pt",
-          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Bad One",
-      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "She Fell In Love In The Summer",
-        "url": "https://open.spotify.com/album/2vO4UQ2hygAsDK99O6wnWN"
-      },
-      "artists": [
-        {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
-        }
-      ],
-      "duration_ms": 172215,
-      "name": "She Fell In Love In The Summer",
-      "url": "https://open.spotify.com/track/5ANOz0vfUZMisrIG3n6IBv"
+      "duration_ms": 192970,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
+        "name": "Bad One",
+        "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
       },
       "artists": [
         {
-          "name": "Nea",
-          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
         }
       ],
-      "duration_ms": 192970,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6"
+      "duration_ms": 161906,
+      "name": "Bad One",
+      "url": "https://open.spotify.com/track/2AVgZLXMqkvi2hsQA1VJn2"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
+        "name": "I Feel It In The Wind",
+        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 192496,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
+      "duration_ms": 213717,
+      "name": "I Feel It In The Wind",
+      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "I Feel It In The Wind",
-        "url": "https://open.spotify.com/album/1OedsPZaNzUJILkvivIYF7"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 213717,
-      "name": "I Feel It In The Wind",
-      "url": "https://open.spotify.com/track/4bc5uke0uDwT78j0pIKlDg"
+      "duration_ms": 192496,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Slugs of Love",
-        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 247471,
-      "name": "Slugs of Love",
-      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "June/July",
         "url": "https://open.spotify.com/album/2poLiQEtSevIkb5tEFOhgl"
       },
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Horizon Inn",
-        "url": "https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1"
+        "name": "Slugs of Love",
+        "url": "https://open.spotify.com/album/7pDUl6LfIVkUIVksoxaf5v"
       },
       "artists": [
         {
-          "name": "Fricky",
-          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
         }
       ],
-      "duration_ms": 227617,
-      "name": "H\u00e4ntextra",
-      "url": "https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7"
+      "duration_ms": 247471,
+      "name": "Slugs of Love",
+      "url": "https://open.spotify.com/track/29sTtddkz63yiOXb1piN2V"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+        "url": "https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 256449,
+      "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+      "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
-        "url": "https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw"
+        "name": "Horizon Inn",
+        "url": "https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Fricky",
+          "url": "https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2"
         }
       ],
-      "duration_ms": 256449,
-      "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
-      "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
+      "duration_ms": 227617,
+      "name": "H\u00e4ntextra",
+      "url": "https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Thank God These Walls Can\u2019t Talk",
-        "url": "https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 155255,
-      "name": "Thank God These Walls Can\u2019t Talk",
-      "url": "https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Salt och socker",
-        "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 171995,
-      "name": "Salt och socker",
-      "url": "https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Sover du sj\u00e4lv?",
         "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
       },
@@ -1479,6 +1447,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Salt och socker",
+        "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 171995,
+      "name": "Salt och socker",
+      "url": "https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Airforce blue",
         "url": "https://open.spotify.com/album/2CC2rdoAQAdtgF1PHvfxjn"
       },
@@ -1495,38 +1479,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "White Ferrari",
-        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
+        "name": "Thank God These Walls Can\u2019t Talk",
+        "url": "https://open.spotify.com/album/4jKI3dZzuwtp3yqt7iyAk7"
       },
       "artists": [
         {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        },
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
         }
       ],
-      "duration_ms": 229426,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Oas",
-        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 240262,
-      "name": "Mormor",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
+      "duration_ms": 155255,
+      "name": "Thank God These Walls Can\u2019t Talk",
+      "url": "https://open.spotify.com/track/2MwXBLVcSS4HqG2pAxpOOi"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1543,6 +1507,22 @@
       "duration_ms": 177680,
       "name": "Shadowman",
       "url": "https://open.spotify.com/track/0J92uIMvex4Fzpy6YI43vf"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Oas",
+        "url": "https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 240262,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1579,6 +1559,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "White Ferrari",
+        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
+      },
+      "artists": [
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        },
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg"
       },
@@ -1591,26 +1591,6 @@
       "duration_ms": 189529,
       "name": "Julia",
       "url": "https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
-        "url": "https://open.spotify.com/album/0XmKdoMNtmqDp5oYJrXhMm"
-      },
-      "artists": [
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        },
-        {
-          "name": "Irya Gmeyner",
-          "url": "https://open.spotify.com/artist/3No4e9xTmvsjOeORRfPi6x"
-        }
-      ],
-      "duration_ms": 212432,
-      "name": "Say That Everything Will Be Alright (Music for ''Thin Blue Line'')",
-      "url": "https://open.spotify.com/track/0EA61Q5q4scc29VfvnmAgO"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1663,18 +1643,34 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
+        "name": "Vatten",
+        "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
         }
       ],
-      "duration_ms": 172526,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
+      "duration_ms": 198986,
+      "name": "Socker Och Vatten",
+      "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/42YP4aQ1sTjUZm54n5pRUI"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "duration_ms": 171566,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/0JOY8MuzpGRFteDGsRVLkK"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1695,18 +1691,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Vatten",
-        "url": "https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 198986,
-      "name": "Socker Och Vatten",
-      "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
+      "duration_ms": 172526,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj"
     }
   ],
   "unique_name": "Made in Sweden",

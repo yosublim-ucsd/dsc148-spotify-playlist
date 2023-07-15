@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 494120,
+  "num_followers": 494331,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTdiYjgxNTFkNjQ2NzcxNjVhMDJkMmNjMGFhZGM2OTQyMjJkNzJl",
+  "snapshot_id": "MCw1ODM3OGQ4ZTIyZTRkZWE4MmM1ZWZlZmEyOGFhMTllZGZkNDQ2ZTU5",
   "tracks": [
     {
       "added_at": "2023-05-26 09:00:00",
@@ -687,30 +687,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "STFD (Remix)",
-        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
-      },
-      "artists": [
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "WHITENO1SE",
-          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
-        },
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
-        }
-      ],
-      "duration_ms": 178206,
-      "name": "STFD (Remix)",
-      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/4J1eK2NDcAsAGyPyGQjZp2"
       },
@@ -747,6 +723,30 @@
       "duration_ms": 209673,
       "name": "The Oasis (Zyrus 7 Remix) - Original Mix",
       "url": "https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "STFD (Remix)",
+        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "duration_ms": 178206,
+      "name": "STFD (Remix)",
+      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
-        },
-        {
-          "name": "Weaver",
-          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
-        }
-      ],
-      "duration_ms": 211467,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "LSD",
         "url": "https://open.spotify.com/album/0mncgxb8z4FAFniIxHQ7Py"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 250285,
       "name": "LSD",
       "url": "https://open.spotify.com/track/0o3w18l2cLJNZNJHwQySjO"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs"
+        },
+        {
+          "name": "Weaver",
+          "url": "https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW"
+        }
+      ],
+      "duration_ms": 211467,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS"
-    },
-    {
-      "added_at": "2023-05-26 09:00:00",
-      "album": {
         "name": "Other Days",
         "url": "https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS"
       },
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2023-05-26 09:00:00",
       "album": {
-        "name": "Mystical Experience",
-        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS"
       },
       "artists": [
         {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Flegma",
-          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 550985,
-      "name": "Mystical Experience",
-      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
+      "duration_ms": 188800,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS"
     },
     {
       "added_at": "2023-05-26 09:00:00",
@@ -1427,6 +1407,26 @@
       "duration_ms": 273375,
       "name": "Behind",
       "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
+    },
+    {
+      "added_at": "2023-05-26 09:00:00",
+      "album": {
+        "name": "Mystical Experience",
+        "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Flegma",
+          "url": "https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC"
+        }
+      ],
+      "duration_ms": 550985,
+      "name": "Mystical Experience",
+      "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
     },
     {
       "added_at": "2023-05-26 09:00:00",

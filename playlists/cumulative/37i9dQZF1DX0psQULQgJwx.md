@@ -4,7 +4,7 @@
 
 > Lounge sounds for SPA
 
-115 songs - 6 hr 50 min
+119 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Prayer](https://open.spotify.com/track/45YjrCMISpBx7chzkelNaR) | [River Bells](https://open.spotify.com/artist/7tjgFuQTvF34bRoYAiPvVv) | [Temple Meditation](https://open.spotify.com/album/6s1mXif0gMVAqtWeVC65Rx) | 3:19 | 2022-09-02 | 2022-11-12 |
 | [Adrift](https://open.spotify.com/track/4omXz2PI3nVWBWo8QfUIrk) | [Cold Space](https://open.spotify.com/artist/3PxPykyuBn8TuWjnuJ3jIr) | [Adrift](https://open.spotify.com/album/7rxtpynRElW9XYlujynm5c) | 4:31 | 2022-09-02 |  |
 | [Agoritsa](https://open.spotify.com/track/4lrHlM0lAZe1QlzNO23f2G) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:00 | 2022-09-02 |  |
+| [Ahasaas](https://open.spotify.com/track/4rt8jPJ9Yk4jzgRYsUxYIW) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Ahasaas](https://open.spotify.com/album/4x7wRUVS5XAzvEPbihKndQ) | 2:45 | 2023-07-14 |  |
 | [Akasha](https://open.spotify.com/track/5q4J2KGLDooMaYvsc2WxAu) | [Ewa Drishti](https://open.spotify.com/artist/36bqrOQ7m5YgPYvqSWuw7q) | [Akasha](https://open.spotify.com/album/3PmQ3GHAVKAmZkwP1NyQpA) | 2:51 | 2022-09-02 |  |
 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [Space Between Clouds](https://open.spotify.com/artist/5GAMzg4pAy2tTbBbiYtc2x) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 | 2023-01-04 |  |
 | [Andaz](https://open.spotify.com/track/4isjKciq9yrInyKELj2iGn) | [Orion](https://open.spotify.com/artist/6GWCB8ekz6k8xgOzb8i31f) | [Sirelis](https://open.spotify.com/album/27cJfiiUttUeLho3Lfzi7E) | 3:22 | 2022-09-02 |  |
@@ -37,6 +38,7 @@
 | [Droplets of Joy](https://open.spotify.com/track/11B1J53KNc4jkxkso6rBIm) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Droplets of Joy](https://open.spotify.com/album/4xmFc5gf28OdqkEWQkDdSA) | 4:30 | 2022-09-02 |  |
 | [Duymak](https://open.spotify.com/track/35rthgtOnBYjnrwG7lsVnd) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Duymak](https://open.spotify.com/album/1F8inMXEvRBHxVcbQWxEPx) | 2:58 | 2022-09-02 |  |
 | [Enchanted Forest](https://open.spotify.com/track/30UsA3ghZRFAralfqz7qn4) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:25 | 2022-09-02 |  |
+| [Ephemeral Stillness](https://open.spotify.com/track/1sLb86CVcaPoNnLV5QWOaY) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Ephemeral Stillness](https://open.spotify.com/album/0KQ17vV4mRN4Y03tFGrGVf) | 3:38 | 2023-07-14 |  |
 | [Exhale](https://open.spotify.com/track/49lHDhDMadb0YXVMsLs0gy) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:36 | 2022-09-02 |  |
 | [Existence](https://open.spotify.com/track/0XvtR02UN3jOUIN8NMED4z) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Existence](https://open.spotify.com/album/3KubEtZHJo0xxl1WJzESVN) | 2:39 | 2022-12-22 |  |
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-09-02 |  |
@@ -105,6 +107,7 @@
 | [Sominare](https://open.spotify.com/track/2165MC8JML5S217g4vIdDy) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sominare](https://open.spotify.com/album/7kEbZoRi1ryWZq6ODMV6ud) | 2:23 | 2022-11-22 |  |
 | [Soon my dear](https://open.spotify.com/track/5g7NMH1xXhjZsjqz268Vny) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Soon my dear](https://open.spotify.com/album/5iZNSYBVqRXKoa5oAhhZlD) | 3:13 | 2022-09-02 |  |
 | [Spirit](https://open.spotify.com/track/0GuvaHc4Yw1047fMRPmGTw) | [Healing Tribe](https://open.spotify.com/artist/7yncP87ljuQ8stIRLOy5qT) | [Spirit](https://open.spotify.com/album/6wRqHghJKaIDUAbF3BLXiD) | 3:28 | 2023-01-27 |  |
+| [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 | 2023-07-14 |  |
 | [Spirits](https://open.spotify.com/track/7cIah2OvEEfMk05ujFZxWI) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:13 | 2022-09-02 |  |
 | [Stavselet](https://open.spotify.com/track/7tI2DDr0bxmGendIMcv7zk) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Gimdalen](https://open.spotify.com/album/5KiyJPS3ZdCt1yCQh80pdE) | 3:07 | 2022-09-02 |  |
 | [Stories Untold](https://open.spotify.com/track/1qxQe1i88c7raj11FQn5rM) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Stories Untold](https://open.spotify.com/album/3wsnwDdtD8Vx3Dmw53qe9f) | 3:32 | 2022-09-02 |  |
@@ -113,6 +116,7 @@
 | [The Poetry of Self](https://open.spotify.com/track/5Jlpmn29w2hROmGNrcyxJc) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Kiku Rain](https://open.spotify.com/album/1v3HnbsPH3zkKyU0Kow2Y8) | 4:02 | 2022-09-02 |  |
 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 | 2022-09-02 |  |
 | [This night](https://open.spotify.com/track/7DtluO7XUoL5wf2imEgkXl) | [Leny Bhoelai](https://open.spotify.com/artist/1b8ShuRcCfZswFuIjEWsvS) | [This night](https://open.spotify.com/album/4wEvwj51552ftkdHoXQm1G) | 3:10 | 2022-09-02 |  |
+| [Through The Changes](https://open.spotify.com/track/101jUm7J6B3zxVOezYJofl) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Through The Changes](https://open.spotify.com/album/515aroNRt3KAYBvyF9NIns) | 3:29 | 2023-07-14 |  |
 | [Universal Spirals](https://open.spotify.com/track/7kVH0SJTcByMlSCBe4SQyh) | [T C Long](https://open.spotify.com/artist/3KV8Fz5YKoE7EZnGCPtkyR) | [Universal Spirals](https://open.spotify.com/album/2xy5I9FMJPzPcMWQCvXJzT) | 3:55 | 2022-09-02 |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-09-02 |  |
 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2022-09-02 |  |

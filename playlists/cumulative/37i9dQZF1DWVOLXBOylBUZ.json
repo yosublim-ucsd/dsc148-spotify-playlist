@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Justin Quiles con El Alfa.\n",
+  "description": "Latinoam\u00e9rica baila al ritmo de Farina y Sean Paul.\n",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 195683,
       "name": "14/20",
       "url": "https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4"
@@ -1275,6 +1275,36 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/2IHFaeOioSGMuyxjWMXdQ9"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232124,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5iDNf2uMgRzmQpcmGAzOUk"
+    },
+    {
+      "album": {
         "name": "BABY HELLO",
         "url": "https://open.spotify.com/album/5KDgQ8sKzlThX02A5urLj0"
       },
@@ -2027,6 +2057,32 @@
     },
     {
       "album": {
+        "name": "Bulevar",
+        "url": "https://open.spotify.com/album/1Vsqbt6CSeyutKxuqksYiw"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243433,
+      "name": "Bulevar",
+      "url": "https://open.spotify.com/track/3T49TbWYQfLbYCbiQbedhH"
+    },
+    {
+      "album": {
         "name": "Burda de Feliz",
         "url": "https://open.spotify.com/album/2IfV4cHSjgoQfkF79VQWw6"
       },
@@ -2774,7 +2830,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 208125,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
@@ -3360,7 +3416,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 182576,
       "name": "D X VIDA",
       "url": "https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS"
@@ -3544,7 +3600,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 179258,
       "name": "De Nada - Remix",
       "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
@@ -3884,7 +3940,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193313,
       "name": "Dime",
       "url": "https://open.spotify.com/track/07K6fgUdBPCL5ZzhRdu8H0"
@@ -4402,6 +4458,28 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "album": {
+        "name": "EL VIBE",
+        "url": "https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171552,
+      "name": "EL VIBE",
+      "url": "https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb"
     },
     {
       "album": {
@@ -5689,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "Gummie",
+        "url": "https://open.spotify.com/album/53w2aqJQv74dnJ0ogfTN5U"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Gummie",
+      "url": "https://open.spotify.com/track/2VS4DvkyetQCSnfMXHBASG"
+    },
+    {
+      "album": {
         "name": "Hag\u00e1moslo de Nuevo",
         "url": "https://open.spotify.com/album/5nZkyesRCLkiCel7T2t681"
       },
@@ -6042,7 +6138,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 187677,
       "name": "Jamaica",
       "url": "https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76"
@@ -6244,6 +6340,24 @@
       "duration_ms": 232920,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/6iIooXoLXNb0duWFP1wwLd"
+    },
+    {
+      "album": {
+        "name": "LUNA AZUL EN TOKYO",
+        "url": "https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120568,
+      "name": "KYLIE",
+      "url": "https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ"
     },
     {
       "album": {
@@ -7062,6 +7176,24 @@
       "duration_ms": 239206,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1"
+    },
+    {
+      "album": {
+        "name": "Loco Mio",
+        "url": "https://open.spotify.com/album/6Cvm8XJPef2VaEalHUPE0a"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184122,
+      "name": "Loco Mio",
+      "url": "https://open.spotify.com/track/3SU4qmYFMI353KqmfDduQo"
     },
     {
       "album": {
@@ -8190,7 +8322,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 206054,
       "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
@@ -10422,7 +10554,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 177412,
       "name": "REGALONA",
       "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
@@ -10452,6 +10584,32 @@
       "duration_ms": 195506,
       "name": "Regres\u00e9",
       "url": "https://open.spotify.com/track/7mftg8God1V8NdHIukbGgx"
+    },
+    {
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/6VMu4SHIfGS4OPHruUvvKw"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/7LknbZPcWVDMb6VLDI01MY"
     },
     {
       "album": {
@@ -10632,7 +10790,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202594,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
@@ -10654,6 +10812,24 @@
       "duration_ms": 144053,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/0v8w8V48lEUeNNMpxZvBR9"
+    },
+    {
+      "album": {
+        "name": "S91",
+        "url": "https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173005,
+      "name": "S91",
+      "url": "https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU"
     },
     {
       "album": {
@@ -10694,6 +10870,28 @@
       "duration_ms": 171134,
       "name": "Sabor A Miel",
       "url": "https://open.spotify.com/track/0Umk0kzKHlXsLw2NsP5IHE"
+    },
+    {
+      "album": {
+        "name": "Salgo a Bailar",
+        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157830,
+      "name": "Salgo a Bailar",
+      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
     },
     {
       "album": {
@@ -10738,6 +10936,28 @@
       "duration_ms": 204760,
       "name": "Santa No Es",
       "url": "https://open.spotify.com/track/6QzKzBn40maMxLs5jdTYsG"
+    },
+    {
+      "album": {
+        "name": "Reinsertado",
+        "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259627,
+      "name": "Se Grita",
+      "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
     },
     {
       "album": {
@@ -12683,6 +12903,24 @@
     },
     {
       "album": {
+        "name": "Un Rodeoooo",
+        "url": "https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "Un Rodeoooo",
+      "url": "https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t"
+    },
+    {
+      "album": {
         "name": "Un Trago",
         "url": "https://open.spotify.com/album/27uCwEABNZgPpwfVj2RrKD"
       },
@@ -12812,7 +13050,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 195300,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd"
@@ -12972,7 +13210,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 206639,
       "name": "Volar",
       "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"

@@ -5803,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "Superpower",
+        "url": "https://open.spotify.com/album/2TTrzUmBWD8M2CAJMADWPP"
+      },
+      "artists": [
+        {
+          "name": "O.N.E The Duo",
+          "url": "https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218939,
+      "name": "Superpower",
+      "url": "https://open.spotify.com/track/3hJi9BKQwB5FlQMly5zgRp"
+    },
+    {
+      "album": {
         "name": "Tailgate Queen",
         "url": "https://open.spotify.com/album/1inQMIpxbhWs12ExHyOZQt"
       },

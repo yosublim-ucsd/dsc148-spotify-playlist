@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,382 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,644 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,15 +142,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 132 | [Dixie On My Mind](https://open.spotify.com/track/7HdSVjZimbY8w0DX8aHLMv) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:36 |
 | 133 | [Heartbroke](https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Super Hits](https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa) | 3:14 |
 | 134 | [Do Ya'](https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [Greatest Hits\-\-"Songs from an Aging Sex Bomb"](https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X) | 4:05 |
-| 135 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
-| 136 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
+| 135 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
+| 136 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
 | 137 | [Holding Her and Loving You](https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Essential Earl Thomas Conley](https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW) | 3:08 |
 | 138 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
 | 139 | [Do You Wanna Go To Heaven](https://open.spotify.com/track/2S0XttyAttwENSmmWa0kkm) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Smooth Sailin'](https://open.spotify.com/album/3fpDwkHJJkVOTuOMRmcLW9) | 3:10 |
 | 140 | [Baby I Lied](https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Cheat the Night](https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM) | 4:10 |
 | 141 | [If It Don't Come Easy](https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Greatest Hits](https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z) | 3:28 |
-| 142 | [That Lovin' You Feelin' Again \(with Roy Orbison\) \- 2008 Remaster](https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Duets](https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn) | 3:59 |
-| 143 | [Step That Step](https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Best Of](https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam) | 2:48 |
+| 142 | [Step That Step](https://open.spotify.com/track/4p0WEALPRSImOlp0glMiDM) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Best Of](https://open.spotify.com/album/0xo3FuNk8I8IUkJbXIrWam) | 2:48 |
+| 143 | [That Lovin' You Feelin' Again \(with Roy Orbison\) \- 2008 Remaster](https://open.spotify.com/track/4PsXJjKjUQzuX5o9UAsNF2) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Duets](https://open.spotify.com/album/2QM56YvhiO7uhXMe4z45Wn) | 3:59 |
 | 144 | [Mama's Never Seen Those Eyes](https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 2:50 |
 | 145 | [C.C\. Waterback](https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 3:35 |
 | 146 | [I Can Tell By the Way You Dance](https://open.spotify.com/track/6m7HjxgVcktBJIwOBG8r4F) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [The Voice Box, Vol\. 1](https://open.spotify.com/album/5lwZGEP2HPLUrByMANLyA7) | 2:41 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [My Baby's Got Good Timing](https://open.spotify.com/track/4F2JyLPNoCIUshjktmHxCN) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [The Very Best Of Dan Seals](https://open.spotify.com/album/0a6aMfflvm0xFsaa2ZEqSC) | 3:29 |
 | 150 | [Woke Up In Love](https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Super Hits](https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ) | 3:06 |
 
-Snapshot ID: `MCw0NjI3NGQxNjAxMjI1NGY5ZmI2ZWY5MTAyMmZiNGY1MTdjOGFjYjBm`
+Snapshot ID: `MCw4NzY0ZmI5NjQxNzkxOWIwZjUzZTQ0N2I2ZWYyYzUyNzlkNjA1YzAy`

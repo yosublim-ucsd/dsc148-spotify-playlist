@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "80's Movie",
+        "url": "https://open.spotify.com/album/4V5aWue3jo2dSa4jEuVNMW"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "80's Movie",
+      "url": "https://open.spotify.com/track/1dme0FnBzwMTBkVFZKVwZR"
+    },
+    {
+      "album": {
         "name": "99 Bottles",
         "url": "https://open.spotify.com/album/5CLBETkSdTwGCcRaLrAdD7"
       },
@@ -468,6 +486,24 @@
       "duration_ms": 178586,
       "name": "Ain't As Lonely (feat. Dillon Carmichael)",
       "url": "https://open.spotify.com/track/5L3qtmrmTJbPHUc9an5p80"
+    },
+    {
+      "album": {
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
       "album": {
@@ -3393,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "Buy A Bar",
+        "url": "https://open.spotify.com/album/535HyeVFjR0UdD9L1rV1LM"
+      },
+      "artists": [
+        {
+          "name": "Tim Dugger",
+          "url": "https://open.spotify.com/artist/4H5rgUb0jilQ5sVsLFK4bj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190318,
+      "name": "Buy A Bar",
+      "url": "https://open.spotify.com/track/4T1RMa18RLesOJmM2vmgcF"
+    },
+    {
+      "album": {
         "name": "Give You Mine",
         "url": "https://open.spotify.com/album/3KWGK2FXXhiey4QbDSQTZY"
       },
@@ -4208,7 +4262,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 198153,
       "name": "Coming Down High",
       "url": "https://open.spotify.com/track/5KvU8paoSwHuFskPdwp4Ji"
@@ -4552,6 +4606,24 @@
       "duration_ms": 216084,
       "name": "Country Round Here Tonight",
       "url": "https://open.spotify.com/track/4Y2PBBff0Qqi2tFUdlwWQl"
+    },
+    {
+      "album": {
+        "name": "Country Sugar",
+        "url": "https://open.spotify.com/album/5laNOojWggcNfAN52um9oQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Country Sugar",
+      "url": "https://open.spotify.com/track/1rid4AsWyWSpf9Z4bifhyY"
     },
     {
       "album": {
@@ -5300,6 +5372,24 @@
       "duration_ms": 224400,
       "name": "Die First",
       "url": "https://open.spotify.com/track/0OfxIfLFrpLpu5gFf2sx4e"
+    },
+    {
+      "album": {
+        "name": "Different Kind of Blue",
+        "url": "https://open.spotify.com/album/4iC3AGxB0FRl8X7oSlVL4A"
+      },
+      "artists": [
+        {
+          "name": "Tyler Booth",
+          "url": "https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209154,
+      "name": "Different Kind of Blue",
+      "url": "https://open.spotify.com/track/7bpAdXNMxxKHqOAvCIdHOd"
     },
     {
       "album": {
@@ -8018,7 +8108,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180081,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ"
@@ -9155,6 +9245,28 @@
     },
     {
       "album": {
+        "name": "Heartbreak Closer",
+        "url": "https://open.spotify.com/album/7xDSGy074RoRlUn48B7E85"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        },
+        {
+          "name": "Rae Isla",
+          "url": "https://open.spotify.com/artist/7dfrA1fYW7chYdftUxLnk5"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182635,
+      "name": "Heartbreak Closer",
+      "url": "https://open.spotify.com/track/3vvIRXmSrMWqjjzfgyGSbQ"
+    },
+    {
+      "album": {
         "name": "Heartbreak Heaven",
         "url": "https://open.spotify.com/album/1rPsDWRVwHwR183Kq4rM41"
       },
@@ -9873,6 +9985,24 @@
     },
     {
       "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238890,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn"
+    },
+    {
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
       },
@@ -10378,7 +10508,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 144426,
       "name": "Howdy",
       "url": "https://open.spotify.com/track/29yiKrq4t4tMBmLxETYBoU"
@@ -12431,6 +12561,24 @@
     },
     {
       "album": {
+        "name": "Lasso",
+        "url": "https://open.spotify.com/album/26E1nZHZlYD068VleWDDVr"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "Lasso",
+      "url": "https://open.spotify.com/track/2Jlj53EjdTKT5oGg9LPklX"
+    },
+    {
+      "album": {
         "name": "Last Call Last",
         "url": "https://open.spotify.com/album/3RBNJV4pLA6DVP1xNlqL8t"
       },
@@ -12604,7 +12752,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 226773,
       "name": "Lawless",
       "url": "https://open.spotify.com/track/2RXouVEma48BcryWt5yJue"
@@ -14845,6 +14993,28 @@
     },
     {
       "album": {
+        "name": "Million Little Bandaids (feat. Zac Brown Band)",
+        "url": "https://open.spotify.com/album/1jYMEpxUQ0DBMc3gBfufXQ"
+      },
+      "artists": [
+        {
+          "name": "Caroline Jones",
+          "url": "https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y"
+        },
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194189,
+      "name": "Million Little Bandaids (feat. Zac Brown Band)",
+      "url": "https://open.spotify.com/track/2HjVYqDNCtSzaeZVeRmOqu"
+    },
+    {
+      "album": {
         "name": "Mind On You",
         "url": "https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL"
       },
@@ -15326,6 +15496,24 @@
       "duration_ms": 212303,
       "name": "Must Be The Country",
       "url": "https://open.spotify.com/track/3KLTDeMtxU0faV1a9ezasK"
+    },
+    {
+      "album": {
+        "name": "Mustangs",
+        "url": "https://open.spotify.com/album/2CMMaIPCNGSCNBh5qZFRBD"
+      },
+      "artists": [
+        {
+          "name": "Davey Arnold",
+          "url": "https://open.spotify.com/artist/67RFFZt1Tm9JWxaCRKowkY"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211320,
+      "name": "Mustangs",
+      "url": "https://open.spotify.com/track/3qziTuij6sRPywF4abKQMu"
     },
     {
       "album": {
@@ -17143,6 +17331,28 @@
     },
     {
       "album": {
+        "name": "Outta Dirt",
+        "url": "https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n"
+      },
+      "artists": [
+        {
+          "name": "Rodell Duff",
+          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
+        },
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164412,
+      "name": "Outta Dirt",
+      "url": "https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5"
+    },
+    {
+      "album": {
         "name": "Outta Yours",
         "url": "https://open.spotify.com/album/3Vqv2NAL8cwafr0YvVLdqI"
       },
@@ -17292,6 +17502,24 @@
       "duration_ms": 215787,
       "name": "Pain",
       "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
+    },
+    {
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/1lSlga0mS2Ejwon1d6MmuQ"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/1Kmx22eXsWnlggH0Aj6wsa"
     },
     {
       "album": {
@@ -18089,6 +18317,24 @@
     },
     {
       "album": {
+        "name": "Rednecks Like Me",
+        "url": "https://open.spotify.com/album/2Jp9K1MJh4k6A73Pjoh7cH"
+      },
+      "artists": [
+        {
+          "name": "Tyler Farr",
+          "url": "https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209706,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/32l2xDne5hDaPlllgq7bul"
+    },
+    {
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -18482,7 +18728,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220840,
       "name": "Rednecks Like Me",
       "url": "https://open.spotify.com/track/6HSKX8PqQ7ccRQHITXOwzQ"
@@ -18500,7 +18746,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 205748,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/3ZnHd3tK54EOlzWBQCog4J"
@@ -20690,7 +20936,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 210960,
       "name": "Sound of a Saturday Night",
       "url": "https://open.spotify.com/track/1T3UYXsrPFc6iP5VqjCSxk"
@@ -22038,7 +22284,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 188725,
       "name": "Tell Me Like It Is",
       "url": "https://open.spotify.com/track/5I6mVd0TofHmUXfju76KKh"
@@ -22432,6 +22678,24 @@
       "duration_ms": 211760,
       "name": "THE DRILL",
       "url": "https://open.spotify.com/track/7FdVVD2WD45K7gLnN3ly41"
+    },
+    {
+      "album": {
+        "name": "The Girl I Was",
+        "url": "https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "The Girl I Was",
+      "url": "https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy"
     },
     {
       "album": {
@@ -23608,7 +23872,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 205749,
       "name": "Town Left Me",
       "url": "https://open.spotify.com/track/4uQewsAKPuM7AJkCpKJyjY"
@@ -24441,6 +24705,24 @@
     },
     {
       "album": {
+        "name": "Way I'm Living",
+        "url": "https://open.spotify.com/album/3HiGwG7lkGc2CyEXjCPOQQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136668,
+      "name": "Way I'm Living",
+      "url": "https://open.spotify.com/track/3rgFJUx3Oz7Siwgts4Giwz"
+    },
+    {
+      "album": {
         "name": "We Did",
         "url": "https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG"
       },
@@ -25058,6 +25340,24 @@
       "duration_ms": 179294,
       "name": "Where It Ends",
       "url": "https://open.spotify.com/track/7lNezbnIXBbgNmFOa9dt1c"
+    },
+    {
+      "album": {
+        "name": "Where the Time Goes",
+        "url": "https://open.spotify.com/album/0SlVaPuiqItyXW0VCNYg5z"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188461,
+      "name": "Where the Time Goes",
+      "url": "https://open.spotify.com/track/4t3E8hshOmYWSK3zIVVm5A"
     },
     {
       "album": {
@@ -26810,7 +27110,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 189615,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0awCJOtVfgPndrQdNZdRP0"

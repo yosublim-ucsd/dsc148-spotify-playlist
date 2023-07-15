@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146966,
+      "name": "Bla Bla (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
       },
@@ -372,7 +394,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 219453,
       "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
@@ -512,6 +534,28 @@
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+    },
+    {
+      "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "CB",
+          "url": "https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Cream (feat. CB)",
+      "url": "https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c"
     },
     {
       "album": {
@@ -1236,7 +1280,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 152043,
       "name": "I'M THAT BITCH",
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"

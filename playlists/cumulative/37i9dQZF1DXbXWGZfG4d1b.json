@@ -2782,7 +2782,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 200063,
       "name": "Esquimal",
       "url": "https://open.spotify.com/track/6cgF98tbHStqIHk5s6S9lS"
@@ -4375,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Lo nuevo y lo in\u00fatil",
+        "url": "https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK"
+      },
+      "artists": [
+        {
+          "name": "Club de Haters",
+          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182087,
+      "name": "Lo nuevo y lo in\u00fatil",
+      "url": "https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0"
+    },
+    {
+      "album": {
         "name": "Lo Que Es Real",
         "url": "https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA"
       },
@@ -5806,6 +5824,24 @@
       "duration_ms": 246782,
       "name": "Nuevo Intento",
       "url": "https://open.spotify.com/track/05qJwSNJl8SsPl7kKPd1oV"
+    },
+    {
+      "album": {
+        "name": "Nuevo Plano",
+        "url": "https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr"
+      },
+      "artists": [
+        {
+          "name": "Entidad Animada",
+          "url": "https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Nuevo Plano",
+      "url": "https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce"
     },
     {
       "album": {
@@ -8536,7 +8572,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 217500,
       "name": "Vos y Yo",
       "url": "https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ"

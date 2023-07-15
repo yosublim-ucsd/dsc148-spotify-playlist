@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 118152,
+  "num_followers": 118150,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmVkZjcyOTQ3ZmExMTJlZDBlN2E5MThjMTZhZTRhNDdiMjdiYzEz",
+  "snapshot_id": "MCxmYTUyNTg1MzUyZWY5OWUxMGEwZDJhYzJhZjNmOTcwY2M0YjYxODZi",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Hey Papi (Kraak & Smaak Remix)",
-        "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        },
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Hey Papi - Kraak & Smaak Remix",
-      "url": "https://open.spotify.com/track/0lMtUoIPD99Vn4YImDAI6X"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Hey Papi (Kraak & Smaak Remix)",
+        "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        }
+      ],
+      "duration_ms": 278240,
+      "name": "Hey Papi - Kraak & Smaak Remix",
+      "url": "https://open.spotify.com/track/0lMtUoIPD99Vn4YImDAI6X"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Toledo",
-        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "What We Witness",
-      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Someday",
         "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 264000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Toledo",
+        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 301909,
+      "name": "What We Witness",
+      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
         "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 213611,
       "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
       "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Messin' Around (Mogul Remix)",
         "url": "https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 453559,
       "name": "Deneb Cygni - Original Mix",
       "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Yugen",
+        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Yugen",
+      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Yugen",
-        "url": "https://open.spotify.com/album/6Tn5DNwQCrPnXXU27jzOAu"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Yugen",
-      "url": "https://open.spotify.com/track/2jZ2LdpOuZCQdtcSSuAz1D"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "At The Horizon",
         "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 294995,
       "name": "At The Horizon",
       "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 410483,
       "name": "Blue Ridge - Artphorm Remix",
       "url": "https://open.spotify.com/track/2eERY2J3WWJhUdwo06MbGC"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Wax Casting",
         "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 195971,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
     },
     {
       "added_at": "2023-07-13 22:00:00",

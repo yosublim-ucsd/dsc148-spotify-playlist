@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 265451,
+  "num_followers": 265631,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDNkNTA4YzAzMTBlNGQ1NTAwYzdiNjQzYjlmMGM3M2YxYTViZWY3",
+  "snapshot_id": "MCxjYTEyMjFlNmQ3ZGI3OTU3NjY4ZjgwMmY3YWE5ZGY5ZTEyNjFiZWM4",
   "tracks": [
     {
       "added_at": "2023-07-07 20:47:58",
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Tassili (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7i1KVcqm3hmV72fT7txaMN"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        },
-        {
-          "name": "Kyp Malone",
-          "url": "https://open.spotify.com/artist/2ppllDLrUVkJMtMXptA8GS"
-        }
-      ],
-      "duration_ms": 334900,
-      "name": "Iswegh Attay",
-      "url": "https://open.spotify.com/track/3NUEM2icOuUn3WGOgsxDq7"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
         "name": "Ak\u00f6",
         "url": "https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx"
       },
@@ -351,6 +331,22 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
         "name": "Talking Timbuktu (with Ry Cooder)",
         "url": "https://open.spotify.com/album/2MSgPFGGgIn5EqLezjLpt9"
       },
@@ -367,22 +363,6 @@
       "duration_ms": 324920,
       "name": "Bonde (with Ry Cooder)",
       "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
-        "name": "Imarhan",
-        "url": "https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL"
-      },
-      "artists": [
-        {
-          "name": "Imarhan",
-          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Tahabort",
-      "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
     },
     {
       "added_at": "2023-07-07 20:47:58",
@@ -439,22 +419,6 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Tin Hinane",
-        "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
-      },
-      "artists": [
-        {
-          "name": "Kel Assouf",
-          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
-        }
-      ],
-      "duration_ms": 304080,
-      "name": "Akaline",
-      "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
         "name": "Jamm",
         "url": "https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y"
       },
@@ -467,6 +431,22 @@
       "duration_ms": 270560,
       "name": "Il n'est jamais trop tard",
       "url": "https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
+        "name": "Tin Hinane",
+        "url": "https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2"
+      },
+      "artists": [
+        {
+          "name": "Kel Assouf",
+          "url": "https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9"
+        }
+      ],
+      "duration_ms": 304080,
+      "name": "Akaline",
+      "url": "https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY"
     },
     {
       "added_at": "2023-07-07 20:47:58",
@@ -539,6 +519,22 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
         "name": "Toumani & Sidiki",
         "url": "https://open.spotify.com/album/0e9dYHAAknjGXVtXxKK3WV"
       },
@@ -555,22 +551,6 @@
       "duration_ms": 273949,
       "name": "Rachid Ouiguini",
       "url": "https://open.spotify.com/track/6py8BqF0Lk1P8YoXXTRw5P"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2023-07-07 20:47:58",
@@ -731,22 +711,6 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Emmaar (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 259919,
-      "name": "Toumast Tincha",
-      "url": "https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
         "name": "Nomad",
         "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
       },
@@ -763,18 +727,18 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Kidal",
-        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
+        "name": "Emmaar (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Dg5g42nMxdrJIuxhXxFTH"
       },
       "artists": [
         {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
         }
       ],
-      "duration_ms": 218076,
-      "name": "Mawarniha Tartit",
-      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
+      "duration_ms": 259919,
+      "name": "Toumast Tincha",
+      "url": "https://open.spotify.com/track/0oiAiwEtUaKEWLBz6O4ord"
     },
     {
       "added_at": "2023-07-07 20:47:58",
@@ -811,6 +775,22 @@
       "duration_ms": 432066,
       "name": "Taragalte",
       "url": "https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
+        "name": "Kidal",
+        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 218076,
+      "name": "Mawarniha Tartit",
+      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
     },
     {
       "added_at": "2023-07-07 20:47:58",
@@ -863,22 +843,6 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "Toumast anlet",
-      "url": "https://open.spotify.com/track/09n4VZqxSvFJfdtyV0HbCV"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
         "name": "Marhaba",
         "url": "https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow"
       },
@@ -911,6 +875,66 @@
       "duration_ms": 231640,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
+        "name": "Zerzura (Original Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/1YUKsFUMyCT59pqnOaWoAt"
+      },
+      "artists": [
+        {
+          "name": "Ahmoudou Madassane",
+          "url": "https://open.spotify.com/artist/5oQlmxzNKhiA2LWU40F6rm"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Akaline Akaline",
+      "url": "https://open.spotify.com/track/6qQhWIowgtVSz6UFJvG5Ku"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
+        "name": "The Routes of Slavery",
+        "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
+      },
+      "artists": [
+        {
+          "name": "Jordi Savall",
+          "url": "https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL"
+        },
+        {
+          "name": "Kass\u00e9-Mady Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC"
+        },
+        {
+          "name": "Mamani Ke\u00efta",
+          "url": "https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6"
+        },
+        {
+          "name": "Nana Kouyate",
+          "url": "https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0"
+        },
+        {
+          "name": "Tanti Kouyat\u00e9",
+          "url": "https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
+        }
+      ],
+      "duration_ms": 281093,
+      "name": "Manden Mandinkadenou (Chant de griot)",
+      "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
     }
   ],
   "unique_name": "Sahara",

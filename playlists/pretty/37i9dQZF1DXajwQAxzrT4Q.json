@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 58932,
+  "num_followers": 58987,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjA5ZDgyOTJhMzJmYjk1OTQ3NmFkODY2ZmQ5YzFmYTVjZWViNDY2",
+  "snapshot_id": "MCwwOTQyYTNjZjdlMzZjMWNiOWQxODFiM2IwM2U4ZGRmZGVhYjk0NWU3",
   "tracks": [
     {
       "added_at": "2023-07-10 14:50:34",
@@ -1067,30 +1067,6 @@
     {
       "added_at": "2023-07-10 14:50:34",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
-      },
-      "artists": [
-        {
-          "name": "Fergie Baby",
-          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
-        },
-        {
-          "name": "DUSTY LOCANE",
-          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
-        },
-        {
-          "name": "Kajun Waters",
-          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
-        }
-      ],
-      "duration_ms": 140298,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
-    },
-    {
-      "added_at": "2023-07-10 14:50:34",
-      "album": {
         "name": "bla bla bla",
         "url": "https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 145185,
       "name": "bla bla bla",
       "url": "https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey"
+    },
+    {
+      "added_at": "2023-07-10 14:50:34",
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
+      },
+      "artists": [
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        },
+        {
+          "name": "Kajun Waters",
+          "url": "https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY"
+        }
+      ],
+      "duration_ms": 140298,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW"
     },
     {
       "added_at": "2023-07-10 14:50:34",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2023-07-10 14:50:34",
       "album": {
-        "name": "POZZ",
-        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
+        "name": "Luhh Galore",
+        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
       },
       "artists": [
         {
-          "name": "Liva\u00ef",
-          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
-        },
-        {
-          "name": "COSMO ENVOIE DES TRACKS",
-          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
         }
       ],
-      "duration_ms": 128776,
-      "name": "POZZ",
-      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
+      "duration_ms": 88302,
+      "name": "Luhh Galore",
+      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
     },
     {
       "added_at": "2023-07-10 14:50:34",
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2023-07-10 14:50:34",
       "album": {
-        "name": "Luhh Galore",
-        "url": "https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX"
+        "name": "POZZ",
+        "url": "https://open.spotify.com/album/2Oq3blWeADCV285zfFsV6F"
       },
       "artists": [
         {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+          "name": "Liva\u00ef",
+          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
+        },
+        {
+          "name": "COSMO ENVOIE DES TRACKS",
+          "url": "https://open.spotify.com/artist/3M5ZSmNx6zPYkwkVN2IBnI"
         }
       ],
-      "duration_ms": 88302,
-      "name": "Luhh Galore",
-      "url": "https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu"
+      "duration_ms": 128776,
+      "name": "POZZ",
+      "url": "https://open.spotify.com/track/4xT82UfoFopoOmP04NCWDx"
     },
     {
       "added_at": "2023-07-10 14:50:34",
@@ -1423,30 +1423,18 @@
     {
       "added_at": "2023-07-10 14:50:34",
       "album": {
-        "name": "4DaGram (Remix)",
-        "url": "https://open.spotify.com/album/1uNvpte9ibAp928fbTOGTN"
+        "name": "New Jersey Club EP",
+        "url": "https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4"
       },
       "artists": [
         {
-          "name": "FlyBoyFu",
-          "url": "https://open.spotify.com/artist/3W9toegbQ2lCTNdfkXHThR"
-        },
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        },
-        {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/1KKz8zGGq9AmIQwzMT42BJ"
-        },
-        {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+          "name": "DJ Tray",
+          "url": "https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg"
         }
       ],
-      "duration_ms": 166999,
-      "name": "4DaGram - Remix",
-      "url": "https://open.spotify.com/track/16OztXhS2TVT9VLM3AfKSQ"
+      "duration_ms": 98208,
+      "name": "Nobody's Perfect - Original Mix",
+      "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
     }
   ],
   "unique_name": "Jersey Club Heat",

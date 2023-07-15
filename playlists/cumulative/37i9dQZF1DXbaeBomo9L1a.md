@@ -4,7 +4,7 @@
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-106 songs - 6 hr 26 min
+108 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2022-04-18 | 2022-10-28 |
 | [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 | 2022-04-18 |  |
 | [Always n Forever \(feat\. Lil Baby\)](https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 3:17 | 2022-04-18 |  |
+| [Amores Pasajeros](https://open.spotify.com/track/2pOSUvbqg479E45rxzD7C4) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/3nNFxx4kiSUmExd6zCE6Pz) | 2:36 | 2023-07-14 |  |
 | [Another Lifetime](https://open.spotify.com/track/48WTGGIeSFD5ZMF51Rm4Y9) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:29 | 2022-04-18 |  |
 | [BELIEVE IT](https://open.spotify.com/track/118aglbgrsb8w0cRsynoMq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [At My Worst \- Chilled Pop](https://open.spotify.com/album/5LeKEWV2BkMFRjnIjSXHdJ) | 3:03 | 2022-04-18 | 2023-01-03 |
 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 | 2022-04-18 | 2023-01-01 |
@@ -78,6 +79,7 @@
 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 | 2022-04-18 |  |
 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 | 2023-05-19 |  |
 | [Nobody Else but You](https://open.spotify.com/track/1HOUzEsetdIPSpAgRPhZQt) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Tremaine the Album](https://open.spotify.com/album/5gQtvMHA7yqdzKXrHpe63C) | 3:49 | 2022-04-18 |  |
+| [NOSPOR](https://open.spotify.com/track/4yqrIQZxkR5ayIYDVE2alF) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [NOSPOR](https://open.spotify.com/album/1N0JU10NYU5sG4QD5lTjeV) | 2:18 | 2023-07-14 |  |
 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-26 |  |
 | [NOTHING TO ME](https://open.spotify.com/track/6QTxtk3ZO30mI8gHj8aGTP) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [NOTHING TO ME](https://open.spotify.com/album/20U3r75IWJb3KTYl479lQk) | 4:25 | 2022-04-18 |  |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2022-04-18 |  |

@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "El Cintur\u00f3n Gris (En Vivo)",
+        "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237037,
+      "name": "El Cintur\u00f3n Gris - En Vivo",
+      "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
+    },
+    {
+      "album": {
         "name": "El Comienzo del Final",
         "url": "https://open.spotify.com/album/7v5G14UAYQXW4A4Sndk8BX"
       },
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
@@ -2356,6 +2374,28 @@
       "duration_ms": 517125,
       "name": "Kashmir - Remaster",
       "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n mata algoritmo",
+        "url": "https://open.spotify.com/album/4HJ1j9Aepc2OKPXDOcbug4"
+      },
+      "artists": [
+        {
+          "name": "Todo Aparenta Normal",
+          "url": "https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171536,
+      "name": "Kintsukuroi",
+      "url": "https://open.spotify.com/track/3Ib7O0KTQOLbbnJMciknVt"
     },
     {
       "album": {
@@ -3254,7 +3294,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 259839,
       "name": "No llora",
       "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
@@ -3766,7 +3806,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 210013,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g"
@@ -4902,7 +4942,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 281533,
       "name": "Va A Escampar",
       "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"

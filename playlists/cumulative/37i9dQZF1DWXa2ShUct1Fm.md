@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-174 songs - 9 hr 47 min
+175 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Snap Shoot](https://open.spotify.com/track/6Ow2fTmMI6T7LeOUznHBAm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd) | 2:55 | 2022-05-27 | 2022-07-29 |
 | [Spider](https://open.spotify.com/track/2TwB7aK39tnZBQjBPgcbCj) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Spider](https://open.spotify.com/album/3PtE3yizKf8e2MzCtXU8K9) | 3:31 | 2022-05-27 |  |
 | [Still Lonely](https://open.spotify.com/track/5KndefUfeQhGoYCluAaDWj) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1ST ALBUM \[FIRST ‘LOVE&LETTER’\]](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 3:26 | 2022-05-27 |  |
+| [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-07-14 |  |
 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-25 |  |
 | [SWEETEST THING](https://open.spotify.com/track/3XFlKoTOgfMzUJmpwFp0ri) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate,Pt.1\(Original Television Soundtrack\)](https://open.spotify.com/album/6yUiH6Ny04UXYdGtkTQOUL) | 3:38 | 2022-05-27 | 2022-07-29 |
 | [SWEETEST THING](https://open.spotify.com/track/5KQxlns9VOvH50PbSMWiUU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0ChZoRdAFz2ndevcYBkzlO) | 3:38 | 2022-07-21 |  |

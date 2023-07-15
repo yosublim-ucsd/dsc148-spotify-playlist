@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199297,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
+    },
+    {
+      "album": {
         "name": "Be My Baby",
         "url": "https://open.spotify.com/album/70kx0fGbIMhdP1Y8bY58oK"
       },
@@ -531,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+    },
+    {
+      "album": {
         "name": "Pickin' on the Hits of 2015",
         "url": "https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3"
       },
@@ -680,7 +716,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181366,
       "name": "Crocodile Man",
       "url": "https://open.spotify.com/track/59Jutc9omKOR5lrlA4eScj"
@@ -1328,7 +1364,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 212991,
       "name": "Gentle On My Mind",
       "url": "https://open.spotify.com/track/2uZXypPpmXiGHFtvQOn50W"
@@ -2614,7 +2650,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 259649,
       "name": "Olympia, WA",
       "url": "https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe"
@@ -3194,7 +3230,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 284200,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/6y9VXK7MuqlCzu7OvVGHTs"

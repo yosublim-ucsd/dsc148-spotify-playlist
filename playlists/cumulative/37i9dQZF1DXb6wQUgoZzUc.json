@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 166857,
       "name": "3/21",
       "url": "https://open.spotify.com/track/0rV8UItPm7YFJuUDZBDrB8"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 208549,
       "name": "ALGARETE",
       "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
@@ -500,10 +500,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 138285,
       "name": "ARCHIVO 1.wav",
       "url": "https://open.spotify.com/track/3t7n87HvJDzsJqadkISqUE"
+    },
+    {
+      "album": {
+        "name": "ASQUEROSO",
+        "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "ASQUEROSO",
+      "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
     },
     {
       "album": {
@@ -2421,6 +2439,36 @@
     },
     {
       "album": {
+        "name": "Gasto En P",
+        "url": "https://open.spotify.com/album/78hlz0HCRsU8nuLE9hji19"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246606,
+      "name": "Gasto en P",
+      "url": "https://open.spotify.com/track/7dQjsvoWrFKwwsk5GpGuA5"
+    },
+    {
+      "album": {
         "name": "Los Bacatranes",
         "url": "https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7"
       },
@@ -2982,7 +3030,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 159923,
       "name": "Jordan Flight",
       "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
@@ -3460,7 +3508,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165285,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs"
@@ -5728,7 +5776,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
@@ -5864,6 +5912,32 @@
       "duration_ms": 210200,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "album": {
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "album": {
@@ -6032,7 +6106,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 132500,
       "name": "Qu\u00e9 Lindo",
       "url": "https://open.spotify.com/track/2lcZGkWTcab6NatUVCz1MB"
@@ -6222,7 +6296,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 205901,
       "name": "Rolls-Royce",
       "url": "https://open.spotify.com/track/0MvBwodAYMxyL4VHqFI1QM"
@@ -6728,7 +6802,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
@@ -7330,7 +7404,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 150517,
       "name": "Toretto",
       "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
@@ -7794,7 +7868,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"

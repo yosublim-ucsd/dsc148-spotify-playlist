@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,355 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,475 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 42 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 |
 | 43 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 |
 | 44 | [Monarquia](https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Mylson](https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y) | [Monarquia](https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2) | 3:22 |
-| 45 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
-| 46 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
+| 45 | [Vais Me Perder](https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Vais Me Perder](https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx) | 3:41 |
+| 46 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
 | 47 | [Refúgio](https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [Jordânia](https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod) | [Refúgio](https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa) | 3:57 |
 | 48 | [Desculpa](https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Desculpa](https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H) | 3:32 |
 | 49 | [Já Te Conheço \(feat\. Bruna Tatiana\) \- Remix](https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Bruna Tatiana](https://open.spotify.com/artist/4mZaNN0by52KJgL6zARF3H) | [Já Te Conheço \(feat\. Bruna Tatiana\) \[Remix\]](https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n) | 3:57 |
 | 50 | [Preparado](https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX) | [Rapaz 100 Juiz](https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Klasszik](https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD) | [Preparado](https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf) | 4:39 |
-| 51 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
-| 52 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 |
-| 53 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
+| 51 | [Benka Benka](https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko) | [Jennifer Dias](https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml), [SOS MUCCI](https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU) | [Benka Benka](https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy) | 3:00 |
+| 52 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
+| 53 | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Nossas Coisas \(feat\. Ary\)](https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw) | 3:20 |
 | 54 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 |
 | 55 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 |
 | 56 | [Não vai lá](https://open.spotify.com/track/1l52eiHWhwnSLfdyqBRAeY) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Sincera](https://open.spotify.com/album/6azn6TqoR8Uin80ljkqddo) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 79 | [Fica Parado \(feat\. C4 Pedro\)](https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Mais de Mim](https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi) | 3:48 |
 | 80 | [Apaixonado](https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Cláudio Ismael](https://open.spotify.com/artist/5EoiaFh1ngnwqgcptsXRTo) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:34 |
 
-Snapshot ID: `MCw3M2E0ZGI4OTRhYzJhZGU3N2QyZTZkZDk5ZmQzOTdkNGM3NjIyNmUz`
+Snapshot ID: `MCwzOGZkYzczNzczYjU4Y2NmMjEzM2M1NmJhZmFkMGI4Mjg1ZmY4Mzg5`

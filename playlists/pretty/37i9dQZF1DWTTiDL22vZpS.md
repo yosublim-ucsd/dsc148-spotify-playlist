@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,501 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,529 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 15 | [Qué Rico](https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Arepa 3000](https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN) | 3:59 |
 | 16 | [Despacio](https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa) | 3:05 |
 | 17 | [Young Girl](https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Funk Your Bones \(Side B\)](https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT) | 3:16 |
-| 18 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 |
-| 19 | [Gordo Funky](https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Como Nunca](https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO) | 3:12 |
+| 18 | [Gordo Funky](https://open.spotify.com/track/24uwH6cnhvjLtwBxrNS21N) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Como Nunca](https://open.spotify.com/album/4Pp1hdXYkrDZSkwDuTFVnO) | 3:12 |
+| 19 | [Parar el Tiempo](https://open.spotify.com/track/49fa5bKsBZA5A360ZD2n1c) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Terapia](https://open.spotify.com/album/11qB7I59a0o0p2lNdTkwZC) | 4:09 |
 | 20 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 |
 | 21 | [Óyeme Bien](https://open.spotify.com/track/23fwr7i5nwkYEo5E8ivZ4e) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Óyeme Bien](https://open.spotify.com/album/5RWuDS6PYcmN9yLRNlNWx2) | 3:49 |
 | 22 | [Rotos](https://open.spotify.com/track/5Y1KS5xHBjGXKsEaCnufdi) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/5vyC6Dahprs1cIdQYMIYDZ) | 3:45 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 34 | [Lentes Negros](https://open.spotify.com/track/2IwXBRnOgAhIVQXjtt6KEK) | [Primavera Club](https://open.spotify.com/artist/4wYsRqHGSzAPIceEE9gnIG) | [Dorama](https://open.spotify.com/album/1JL6GXkYqQC3tvreFoZXlm) | 4:50 |
 | 35 | [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 |
 | 36 | [Holy Hell](https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Sundown](https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM) | 3:12 |
-| 37 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 |
-| 38 | [Gobiérname](https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:31 |
+| 37 | [Gobiérname](https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:31 |
+| 38 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 |
 | 39 | [Ultra\-Funk](https://open.spotify.com/track/4ahWVoHIxMfoLksp36A1mf) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [The New Sound of the Venezuelan Gozadera](https://open.spotify.com/album/6dWnLOP6zgqmvohqPZfzDh) | 3:38 |
 | 40 | [Dicen](https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP) | 3:45 |
 | 41 | [Tú](https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG) | [Orquesta Discotheque](https://open.spotify.com/artist/6U0G8Mkq8QEE2bJfbWPlGC), [Beto Montes](https://open.spotify.com/artist/4TKMEtRCcbQcVkARsD4beC) | [Música Moderna](https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm) | 3:57 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 46 | [Pequeñines](https://open.spotify.com/track/7KhYQ9fHuofDF4I5D0obId) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W), [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w) | [Pequeñines](https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX) | 3:47 |
 | 47 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 |
 | 48 | [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 |
-| 49 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 |
-| 50 | [No Puedo Parar](https://open.spotify.com/track/18jJegd092oIkvSWiezdW3) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Fino](https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl) | 4:03 |
+| 49 | [No Puedo Parar](https://open.spotify.com/track/18jJegd092oIkvSWiezdW3) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Fino](https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl) | 4:03 |
+| 50 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 |
 | 51 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
 | 52 | [Ritmo y Poesía](https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz), [iQlover](https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq) | [Ritmo y Poesía](https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF) | 3:38 |
 | 53 | [Tuyonama \(feat\. Charles Ans\)](https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cool Love](https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe) | 3:24 |
 | 54 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 |
-| 55 | [En el club](https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [En el club](https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr) | 4:19 |
-| 56 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 |
+| 55 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 |
+| 56 | [En el club](https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [En el club](https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr) | 4:19 |
 | 57 | [Eso Que Me Das](https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:47 |
 | 58 | [Esta canción](https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:18 |
 | 59 | [Precipicio](https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Precipicio](https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB) | 4:07 |
 | 60 | [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 |
 
-Snapshot ID: `MCw1YzE1Y2Q1MmI4ZjNmMjVjYjliODQ3OTFiZWIyYWM5YTYxMGQ3MjUy`
+Snapshot ID: `MCxjMDEwZDM0NjdjYTQ0NjhjZWIwMjk0YzQ1ZGM5YjZjZmFlYzM5MTA1`

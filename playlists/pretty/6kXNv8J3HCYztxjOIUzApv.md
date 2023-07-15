@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 58,443 likes - 147 songs - 9 hr 25 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 58,447 likes - 148 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,5 +155,6 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 | 145 | [Evil World Machine \- Extended](https://open.spotify.com/track/2p5Ky0BG9HqB3PoVrxoP5l) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd) | [Evil World Machine \(Extended\)](https://open.spotify.com/album/6ok2I9TtRAY9gaHJNUIQpI) | 6:10 |
 | 146 | [Flying](https://open.spotify.com/track/3fE2H9LQZz5emvUBEmJxhN) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [I Rise](https://open.spotify.com/album/3V2eGIrc75Rp8BNO7QkBAJ) | 3:09 |
 | 147 | [Roses](https://open.spotify.com/track/3q3faMChxzP9nSgVt7TUs8) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [Roses](https://open.spotify.com/album/1lc7xhA7TwSwxO7TLoJqRP) | 3:21 |
+| 148 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Woo Hah!! Got You All in Check](https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A) | 3:57 |
 
-Snapshot ID: `MTk3NSw5ODlhMmM4Mjc2M2QyNWY5Y2MzYjRkZTM0ZmQ3YWVkYzk1MTA3MDhl`
+Snapshot ID: `MTk3Niw3ZmQxNGQ2ODc2NjAwMzA4YzYxODFkMjQzNGQ2MWJlMmJkMzAyMzE0`

@@ -4,7 +4,7 @@
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW?si=NhJPqOBxQsWNLNpzz9Oplw">Ssaru</a>
 
-260 songs - 14 hr 20 min
+261 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Patanisho](https://open.spotify.com/track/0jOwcUbrAtiuGsXU8vGtRj) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6) | [Patanisho](https://open.spotify.com/album/0AvQe2ffB54RwTtFVDZuNG) | 3:36 | 2022-05-06 | 2022-05-13 |
 | [Pattern](https://open.spotify.com/track/24gqaz90ui55C2Q5vQyao7) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Pattern](https://open.spotify.com/album/4Ro4FBtBuEP74DJIhWtBrt) | 4:29 | 2021-12-16 | 2022-09-10 |
 | [PEREMENDE](https://open.spotify.com/track/2s8rHekSbpRPpzTUH6qEOh) | [SPARKID](https://open.spotify.com/artist/0pD4PVapv9iXWOriPiHDec), [MaLoon](https://open.spotify.com/artist/1UrBAEmt3A6YGN7ftrTlqx), [Ethic Entertainment](https://open.spotify.com/artist/5y6muyj6VCZFJZbyz8p81G), [Seska](https://open.spotify.com/artist/0I1qRE43DtaywX3NxLk8WZ), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV) | [PEREMENDE](https://open.spotify.com/album/6MC4PQBGzuubl2DpeWUGqT) | 1:59 | 2022-03-28 | 2022-10-07 |
+| [Pesa Ndogo](https://open.spotify.com/track/17SB8W5WdkVpsA6huzqu1X) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Pesa Ndogo](https://open.spotify.com/album/7tgBbKwNZAGHLbqyVEZIXH) | 3:08 | 2023-07-13 |  |
 | [Pesa Onge](https://open.spotify.com/track/3xL6tVIv6YYYjpVD9l2dEI) | [Vinc On The Beat](https://open.spotify.com/artist/1zAkmlAKP4fCnJnAymX4r9), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Joefes](https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [PESA ONGE](https://open.spotify.com/album/1nhQU721aD1FiCGhlTq9JF) | 4:41 | 2023-01-19 |  |
 | [Pesa Pombe Wanawake](https://open.spotify.com/track/4saDzv3zkl9h4BsB7q74n1) | [Mavo On The Beat](https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc), [Dj Kalonje](https://open.spotify.com/artist/6QT6qUbTqnAqefTcuqD7GX), [Teslah](https://open.spotify.com/artist/5jCuBflSoAHTasCXzqUkSJ) | [Pesa Pombe Wanawake](https://open.spotify.com/album/0iz0oLyJKEDN07rJ08a4bv) | 3:41 | 2021-12-09 | 2022-05-13 |
 | [Piga 10 \(Remix\)](https://open.spotify.com/track/06y8dBQqLdR1WD14YqzSYf) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [THEONLYDELO](https://open.spotify.com/artist/20oN1j6cWOJ2GgnBsN0lye) | [Piga 10 \(Remix\)](https://open.spotify.com/album/0Y9oR5n4VT0mHbOuVLRb1f) | 2:43 | 2023-03-09 |  |

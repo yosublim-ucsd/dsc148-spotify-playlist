@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Sampha
+> Leaders of the new school...Alternative R&B\. Cover: Jamila Woods
 
-893 songs - 2 day 0 hr 15 min
+894 songs - 2 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,7 +705,7 @@
 | [So Bad](https://open.spotify.com/track/3KLGkGZU4wU5zLudW0a0em) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/6aRAFBI8tnHWCUAlTaaZGN) | 3:33 | 2022-08-19 |  |
 | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse) | 3:44 | 2022-08-26 | 2022-09-10 |
 | [Soakin \(feat\. Gwen Bunn\)](https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Birds & Bees](https://open.spotify.com/album/1HAbHnM7A3saeFtPaoAtAN) | 4:00 | 2021-11-05 | 2022-01-07 |
-| [Soapbox Soliloquy](https://open.spotify.com/track/6dJUlR8q2fSvHx3ERI4pwg) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Soapbox Soliloquy](https://open.spotify.com/album/4MZP2b4YjP1EMYI67PPN57) | 3:38 | 2023-05-26 |  |
+| [Soapbox Soliloquy](https://open.spotify.com/track/6dJUlR8q2fSvHx3ERI4pwg) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Soapbox Soliloquy](https://open.spotify.com/album/4MZP2b4YjP1EMYI67PPN57) | 3:38 | 2023-05-26 | 2023-07-15 |
 | [Solid](https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Solid](https://open.spotify.com/album/2Cc42kwECFHrRY0LRFB63q) | 3:39 | 2021-03-19 | 2022-01-23 |
 | [Solo Dolo](https://open.spotify.com/track/15wIFzox6G1pDNIk1SKGP9) | [Amen](https://open.spotify.com/artist/59XyIoBpA5iKQ8KmjJj554) | [Solo Dolo](https://open.spotify.com/album/1mCzUg46aUlZuJfNvsM6XI) | 3:01 | 2021-06-18 | 2021-12-29 |
 | [SONIC BOOM](https://open.spotify.com/track/6VZd1Xv8BR4sZYubjLOIhR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [SONIC BOOM](https://open.spotify.com/album/6UDg27sesCLOc8fB6I9nBy) | 2:43 | 2022-07-15 | 2022-07-23 |
@@ -797,6 +797,7 @@
 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 | 2023-05-05 |  |
 | [TIME FOR YOU](https://open.spotify.com/track/1DPLs8cVyL1Trlg5Kayua7) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [TIME FOR YOU](https://open.spotify.com/album/7kdjlaRQdB1u6PhdTSgXMC) | 3:23 | 2022-04-01 | 2022-04-15 |
 | [Tinko Tinko \(Don't Play Me for a Fool\)](https://open.spotify.com/track/6f8pOnEswFwiU4FTcZicV6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Tinko Tinko \(Don't Play Me For a Fool\)](https://open.spotify.com/album/2Dav0MhZTRuj13ZPSBYmtX) | 3:07 | 2022-04-01 | 2022-04-16 |
+| [Tiny Garden](https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Tiny Garden](https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke) | 4:11 | 2023-07-14 |  |
 | [Tiptoeing](https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Tiptoeing](https://open.spotify.com/album/0fi4c4LZKtZuSSbbjygyZv) | 2:35 | 2021-11-05 | 2022-09-10 |
 | [Tired Faces](https://open.spotify.com/track/7hKPdrKAHF1S1CBoBMgqRD) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Tired Faces](https://open.spotify.com/album/1WEojIm2uhbikoqOt1YNiK) | 3:05 | 2022-09-02 | 2022-09-24 |
 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 | 2022-11-04 |  |

@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Gus Dapperton
+> make it pop! cover: Blusher
 
-689 songs - 1 day 10 hr 26 min
+695 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2022-09-30 | 2023-01-28 |
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-09-30 | 2022-10-13 |
 | [Daylight](https://open.spotify.com/track/3pY1IOu26ZNJUPBPFWpktQ) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Daylight](https://open.spotify.com/album/3bn2s3qK3pJxPwX294M40M) | 3:13 | 2023-06-30 |  |
-| [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 |  |
+| [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 | 2023-07-15 |
 | [Dead Man Walking](https://open.spotify.com/track/2ol8FEyh73HwRoirGIbNh8) | [Lost Stars](https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG) | [Dead Man Walking](https://open.spotify.com/album/5d4OHlY3hciR9R7QKBK2vF) | 3:07 | 2022-01-28 | 2022-04-16 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-09-24 |
 | [Deja Vu](https://open.spotify.com/track/5BE0hyWcl6EiRrLaW7ef2p) | [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Deja Vu](https://open.spotify.com/album/4kfE30WhdmfdBrrRly5WPY) | 2:31 | 2022-06-10 | 2022-08-13 |
@@ -283,6 +283,7 @@
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-09-30 | 2023-03-04 |
 | [I Could Do This All Night](https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [I Could Do This All Night](https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V) | 3:08 | 2022-07-15 | 2022-08-13 |
 | [I Don't Daydream Anymore](https://open.spotify.com/track/2urI2TKhLqK3o4hTR3i2R8) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [I Don't Daydream Anymore](https://open.spotify.com/album/4EJ9SaQoI47rBKnNhxRXMQ) | 3:44 | 2022-03-04 | 2022-04-29 |
+| [I Don't Feel Alive](https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [I Don't Feel Alive](https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa) | 3:23 | 2023-07-14 |  |
 | [I Don't Like How Much I Like You](https://open.spotify.com/track/7nDYjp6n0BdOLBn3N3N4Jx) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [I Don't Like How Much I Like You](https://open.spotify.com/album/3ae8vmYLjucBzAXPn9VRsH) | 2:44 | 2021-11-19 | 2022-02-26 |
 | [i don't wanna know!](https://open.spotify.com/track/66kF5Ga2ACocpDye1VGUkT) | [CALI JEWLS](https://open.spotify.com/artist/0iDbrXm29WpIVqxhWaVzlH) | [i don't wanna know!](https://open.spotify.com/album/7JVlPexG814RJNVwftsP7R) | 3:39 | 2022-09-16 | 2022-09-24 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-06-10 | 2022-08-20 |
@@ -372,8 +373,10 @@
 | [Lifetime](https://open.spotify.com/track/7LERZIUCXOL42rQfFuied9) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Lifetime](https://open.spotify.com/album/0R2Ijf5W4axyqOlNXT0unj) | 3:35 | 2022-03-18 | 2022-05-07 |
 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 | 2022-07-29 | 2022-08-20 |
 | [Like 1999](https://open.spotify.com/track/25gacl0dFF9HTclx7Ug7xC) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:24 | 2022-04-01 | 2022-04-09 |
+| [like i do](https://open.spotify.com/track/3iAAC224KxF61iaV8TLOvP) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [like i do](https://open.spotify.com/album/0I2MvADSXNqeeRIDhU5oyf) | 2:54 | 2023-07-14 |  |
 | [Like the Holidays](https://open.spotify.com/track/0BfItkSeBQM1qXUXT1EJ06) | [The Astronomers](https://open.spotify.com/artist/3jx7HGyoa2APekVbiXZvFh) | [Like the Holidays](https://open.spotify.com/album/2duFauhPjyHqN05fpWfD61) | 2:59 | 2022-07-08 | 2022-08-27 |
 | [LIMBO](https://open.spotify.com/track/0vgsQOziTKE4oaSu8TkGs7) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [MARCO!](https://open.spotify.com/album/012M45feGa1rFDG0iiywJA) | 2:14 | 2023-06-30 |  |
+| [Limelight](https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Limelight](https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId) | 3:00 | 2023-07-14 |  |
 | [Little Dance](https://open.spotify.com/track/3ZqUF40oZLspAMaygqY6L9) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [Little Dance](https://open.spotify.com/album/055AC8EnLHj4BCuQZfKaQU) | 4:04 | 2022-02-25 | 2022-04-29 |
 | [Live For You, Die With You](https://open.spotify.com/track/6AK6tQ5MZUbA7MI8tcq606) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane \(Deluxe\)](https://open.spotify.com/album/5JOOOZyK4GYTkxWgZbn0o9) | 3:26 | 2022-02-11 | 2022-04-09 |
 | [Live On](https://open.spotify.com/track/6307yOQg0mupzSlNcCX0LA) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/2rIJP88CPNzBrvHW06R3Ve) | 2:32 | 2023-02-10 | 2023-02-25 |
@@ -445,6 +448,7 @@
 | [Not Another Summer Jam](https://open.spotify.com/track/66Y4ZFzZh81wRNMev8Vi5Q) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [High More Often](https://open.spotify.com/album/3JtKDVf6oYCKtGxOZP8msb) | 2:41 | 2023-06-30 |  |
 | [Not Giving You Up](https://open.spotify.com/track/1jzJQlaWgu7ZYqRldXXFRD) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Not Giving You Up](https://open.spotify.com/album/08LqESIqk21nFUdAJczMUK) | 3:00 | 2022-02-25 | 2022-05-28 |
 | [Not OK](https://open.spotify.com/track/06V8tMMLJS1lNNejvWFzDt) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK](https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg) | 2:39 | 2022-11-25 |  |
+| [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-07-14 |  |
 | [not this time](https://open.spotify.com/track/5zaDIJxDKZouDM7jP6hwIb) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [not this time](https://open.spotify.com/album/7j3N8YpNnd3wheFpNoJVmy) | 2:38 | 2022-06-24 | 2022-08-20 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-04 | 2022-04-16 |
 | [NYC](https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:24 | 2023-02-17 | 2023-04-22 |
@@ -470,6 +474,7 @@
 | [Over](https://open.spotify.com/track/6kI1yeiuf4DbAhrRb4Hq4v) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Over](https://open.spotify.com/album/5JqFpeJ12d0fGEfUHGIuXM) | 2:53 | 2022-09-23 | 2022-11-12 |
 | [OVER EVERYTHING](https://open.spotify.com/track/3lOVMfy4wexOrOKEXW2mhV) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [OVER EVERYTHING](https://open.spotify.com/album/50jAXDzoQmhAKojgDXY8fM) | 3:11 | 2022-03-18 | 2022-05-28 |
 | [Palm Springs for the Weekend](https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Palm Springs for the Weekend](https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0) | 2:00 | 2022-04-22 | 2022-05-20 |
+| [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-14 |  |
 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 | 2022-11-25 | 2023-03-25 |
 | [Party With You](https://open.spotify.com/track/1s7Mm2bEKLmcjAS4AzGf8E) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Tracks to the Future](https://open.spotify.com/album/3peeS7BEzRQMlnye583xWn) | 2:11 | 2021-12-10 | 2022-02-26 |
 | [Past Life](https://open.spotify.com/track/3ONd0dyKjNU4Rm63byFPbT) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Sentimental Playback](https://open.spotify.com/album/6FKK7ur4THucPZZgxlkHX5) | 2:54 | 2022-05-13 | 2022-08-13 |
@@ -534,6 +539,7 @@
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-01-14 | 2022-03-12 |
 | [Shut Up And Kiss Me](https://open.spotify.com/track/2qg2TSSsquBluOPeUubLw3) | [Stereo Jane](https://open.spotify.com/artist/2rJ1AerBug0HNEj8gIHazF) | [Are We There Yet?](https://open.spotify.com/album/2bLDprvLHT88AUOEnGmuK8) | 2:57 | 2022-03-18 | 2022-07-02 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-09-30 | 2023-02-04 |
+| [Sideways](https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 2:44 | 2023-07-14 |  |
 | [Silk Chiffon](https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Silk Chiffon](https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj) | 3:26 | 2022-02-04 | 2022-03-18 |
 | [Silver Tongues](https://open.spotify.com/track/1nMglHq7NFuRLmKizMQajB) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Silver Tongues](https://open.spotify.com/album/1uGtR2fbkl45slG5OyUtPt) | 3:25 | 2022-11-11 | 2023-02-11 |
 | [skip curfew](https://open.spotify.com/track/2VeLmWAw5HtgedSL2Sp2TY) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:18 | 2021-12-03 | 2022-02-26 |

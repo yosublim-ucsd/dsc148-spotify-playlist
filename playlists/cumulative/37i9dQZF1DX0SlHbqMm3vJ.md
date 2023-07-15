@@ -4,7 +4,7 @@
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Adekunle Gold
 
-405 songs - 20 hr 25 min
+406 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [OCEAN](https://open.spotify.com/track/5PHyvWrp5vtBS8lma8IWRo) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [OCEAN](https://open.spotify.com/album/6j5UNH6J13v4wjKVDlpOXI) | 4:06 | 2022-06-30 | 2023-02-24 |
 | [Odinaka](https://open.spotify.com/track/5M451NFsHwBrVwu3OEzueh) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:59 | 2022-12-22 | 2023-02-17 |
 | [Odo \(Love\)](https://open.spotify.com/track/0qLvPreK4QLCyiTx5wt65P) | [Goldkay](https://open.spotify.com/artist/1W66srkBZz11TZCPnoogPD), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Odo \(Love\)](https://open.spotify.com/album/2AV8GRwnlZfsdhWy7pZEwi) | 3:26 | 2021-12-02 | 2022-02-13 |
+| [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 | 2023-07-14 |  |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-14 | 2022-07-29 |
 | [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 | 2022-01-21 | 2023-02-24 |
 | [Old School Love](https://open.spotify.com/track/3efQODwjIfMi9NAl3p7lTI) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Old School Love](https://open.spotify.com/album/6f2DZKdpDMpENF1n0dFnIF) | 2:51 | 2022-01-21 | 2022-01-27 |

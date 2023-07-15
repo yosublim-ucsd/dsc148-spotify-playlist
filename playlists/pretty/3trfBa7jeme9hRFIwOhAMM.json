@@ -6,7 +6,7 @@
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTA0OCxjOTI2Y2YyNTY5ZWU1OWYyZTY2MGZkYTJjZjJjMjA3ZmMwYWJkNDMz",
+  "snapshot_id": "MTA3NSxlMDY1NGM2MjAzNGFkNDI2NmNjMjllOGQ5YWNlMjhkYmZjMWQzMjMw",
   "tracks": [
     {
       "added_at": "2023-07-13 22:03:49",
@@ -81,6 +81,30 @@
       "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
+      "added_at": "2023-07-14 16:11:43",
+      "album": {
+        "name": "Putaria",
+        "url": "https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        },
+        {
+          "name": "Illegal Music",
+          "url": "https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u"
+        }
+      ],
+      "duration_ms": 160699,
+      "name": "Putaria",
+      "url": "https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB"
+    },
+    {
       "added_at": "2023-07-06 05:40:59",
       "album": {
         "name": "The Sub",
@@ -99,6 +123,34 @@
       "duration_ms": 158408,
       "name": "The Sub",
       "url": "https://open.spotify.com/track/4tDa6lrRntdzRurg2IyWTN"
+    },
+    {
+      "added_at": "2023-07-14 16:14:25",
+      "album": {
+        "name": "Shot Callers Vol. 2",
+        "url": "https://open.spotify.com/album/4g7oAUx5mSEGCeqXpUlXuK"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
+        }
+      ],
+      "duration_ms": 198094,
+      "name": "Back It Up (feat. Young Lyxx)",
+      "url": "https://open.spotify.com/track/5vS1v4LQpq89CUgCbTYHld"
     },
     {
       "added_at": "2023-07-06 05:40:59",
@@ -221,46 +273,6 @@
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
     },
     {
-      "added_at": "2023-07-11 08:58:37",
-      "album": {
-        "name": "One Chance (feat. Marlhy)",
-        "url": "https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "One Chance (feat. Marlhy)",
-      "url": "https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd"
-    },
-    {
-      "added_at": "2023-07-06 05:40:59",
-      "album": {
-        "name": "Digital Playground",
-        "url": "https://open.spotify.com/album/2ZvbeN1OdHatcw3yzkV2aY"
-      },
-      "artists": [
-        {
-          "name": "R3SPAWN",
-          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
-        }
-      ],
-      "duration_ms": 154966,
-      "name": "The Endgame",
-      "url": "https://open.spotify.com/track/5LKxeoQvpjAMKVjO2W2tkq"
-    },
-    {
       "added_at": "2023-07-06 05:40:59",
       "album": {
         "name": "Venezuela",
@@ -293,6 +305,42 @@
       "url": "https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak"
     },
     {
+      "added_at": "2023-07-14 14:08:48",
+      "album": {
+        "name": "I Can't Stop",
+        "url": "https://open.spotify.com/album/2YE6hr41q8rt02msCOKEXM"
+      },
+      "artists": [
+        {
+          "name": "Litchi",
+          "url": "https://open.spotify.com/artist/2GotY6Cs3fOrQMyqDNVdKR"
+        },
+        {
+          "name": "Atlantis",
+          "url": "https://open.spotify.com/artist/66CpjqdkIFtJqfDjs6ic6u"
+        }
+      ],
+      "duration_ms": 197704,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/10n8wwk6hxEtDdP7Yfy4i3"
+    },
+    {
+      "added_at": "2023-07-14 14:01:49",
+      "album": {
+        "name": "Yonkis",
+        "url": "https://open.spotify.com/album/0nILwsuqAJl1lwyBKessOX"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Marteen",
+          "url": "https://open.spotify.com/artist/6slj5Mjaokbx7kOukYvqDQ"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Yonkis",
+      "url": "https://open.spotify.com/track/4E8yww1JsR3QRK73z58OAd"
+    },
+    {
       "added_at": "2023-07-06 05:40:59",
       "album": {
         "name": "MOVIN'",
@@ -309,40 +357,68 @@
       "url": "https://open.spotify.com/track/6n50RhUCJJq3Q3NAF11qyZ"
     },
     {
-      "added_at": "2023-07-11 08:53:44",
+      "added_at": "2023-07-14 14:11:11",
       "album": {
-        "name": "Apache",
-        "url": "https://open.spotify.com/album/2mtnm2wf8uLYsj923zgykq"
+        "name": "I'll Stay With You",
+        "url": "https://open.spotify.com/album/0hcOFJF72M5lPjJXc52bdw"
       },
       "artists": [
         {
-          "name": "Alenn",
-          "url": "https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7"
+          "name": "Larce",
+          "url": "https://open.spotify.com/artist/7F0426slXf5O20phfCvcoX"
         },
         {
-          "name": "Event Horizon",
-          "url": "https://open.spotify.com/artist/4SEMFplTKKlp8dDnnImaYf"
+          "name": "Xander Jones",
+          "url": "https://open.spotify.com/artist/1CzF2XvSpgqgAJWXg6dZQK"
         }
       ],
-      "duration_ms": 185923,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/2flqR1f6YAi3CUpGkQ7bvt"
+      "duration_ms": 149047,
+      "name": "I'll Stay With You",
+      "url": "https://open.spotify.com/track/5tc1WMHKFiGA7qmhTXA3Jx"
     },
     {
-      "added_at": "2023-07-06 05:40:59",
+      "added_at": "2023-07-14 16:10:25",
       "album": {
-        "name": "all i need *",
-        "url": "https://open.spotify.com/album/5YQjf0alVpOWuoLRuuwuGy"
+        "name": "Tuesday (PAJANE Remix)",
+        "url": "https://open.spotify.com/album/0TyCsxvEJeYCN72NYF4tC1"
       },
       "artists": [
         {
-          "name": "Rad Cat",
-          "url": "https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f"
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        },
+        {
+          "name": "Danelle Sandoval",
+          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
+        },
+        {
+          "name": "PAJANE",
+          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
         }
       ],
-      "duration_ms": 183035,
-      "name": "all i need *",
-      "url": "https://open.spotify.com/track/0kmqtv5cXAKg42HceNZfk1"
+      "duration_ms": 155124,
+      "name": "Tuesday - PAJANE Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/3IMIk50AEhubMni5KFw7WE"
+    },
+    {
+      "added_at": "2023-07-13 22:34:01",
+      "album": {
+        "name": "Matadora (feat. Nakary)",
+        "url": "https://open.spotify.com/album/6SKwb2xTzG5HVyf67KP9bC"
+      },
+      "artists": [
+        {
+          "name": "Andrekza",
+          "url": "https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s"
+        },
+        {
+          "name": "Nakary",
+          "url": "https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Matadora (feat. Nakary)",
+      "url": "https://open.spotify.com/track/4CSbEhNgvWn0oCTrROFOFB"
     },
     {
       "added_at": "2023-07-06 05:40:59",
@@ -359,6 +435,22 @@
       "duration_ms": 180000,
       "name": "Memento Mori",
       "url": "https://open.spotify.com/track/3NeoM0B3Qd4x7g0xlXdC5d"
+    },
+    {
+      "added_at": "2023-07-14 14:04:32",
+      "album": {
+        "name": "Go Hard Go Home",
+        "url": "https://open.spotify.com/album/4Zvmchps5AL554D5Xyn622"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Go Hard Go Home",
+      "url": "https://open.spotify.com/track/5K5YhUnCuP6okap4eqonKj"
     },
     {
       "added_at": "2023-07-11 08:51:20",
@@ -381,56 +473,32 @@
       "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
     },
     {
-      "added_at": "2023-07-11 08:58:52",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
-    },
-    {
       "added_at": "2023-07-06 05:40:59",
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7jM1CRuq2XnkgFu8Hh8QOo"
+        "name": "Miracle (feat. Jetason)",
+        "url": "https://open.spotify.com/album/3KPpP2TKfiXe7r6jDeihwK"
       },
       "artists": [
         {
-          "name": "Boslyk",
-          "url": "https://open.spotify.com/artist/1rGIIV4URDuQj5y0FYoL0r"
-        }
-      ],
-      "duration_ms": 166461,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/1fkHEzHS9sB9hTVxRwlLAH"
-    },
-    {
-      "added_at": "2023-07-13 22:34:01",
-      "album": {
-        "name": "Matadora (feat. Nakary)",
-        "url": "https://open.spotify.com/album/6SKwb2xTzG5HVyf67KP9bC"
-      },
-      "artists": [
-        {
-          "name": "Andrekza",
-          "url": "https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s"
+          "name": "Sheezan",
+          "url": "https://open.spotify.com/artist/4f9mcViIkHxsriISYsD0lE"
         },
         {
-          "name": "Nakary",
-          "url": "https://open.spotify.com/artist/3pPvxpifWmiueGdmBeUvZW"
+          "name": "Jetason",
+          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
+        },
+        {
+          "name": "Brodie Nero",
+          "url": "https://open.spotify.com/artist/6J9JSIaE1oRDmIW86So9ku"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Matadora (feat. Nakary)",
-      "url": "https://open.spotify.com/track/4CSbEhNgvWn0oCTrROFOFB"
+      "duration_ms": 149081,
+      "name": "Miracle (feat. Jetason)",
+      "url": "https://open.spotify.com/track/6BVDTFUf0HDTRy7cyY5GXK"
     },
     {
       "added_at": "2023-07-06 05:40:59",
@@ -495,34 +563,6 @@
     {
       "added_at": "2023-07-06 05:40:59",
       "album": {
-        "name": "Miracle (feat. Jetason)",
-        "url": "https://open.spotify.com/album/3KPpP2TKfiXe7r6jDeihwK"
-      },
-      "artists": [
-        {
-          "name": "Sheezan",
-          "url": "https://open.spotify.com/artist/4f9mcViIkHxsriISYsD0lE"
-        },
-        {
-          "name": "Jetason",
-          "url": "https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe"
-        },
-        {
-          "name": "Brodie Nero",
-          "url": "https://open.spotify.com/artist/6J9JSIaE1oRDmIW86So9ku"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
-        }
-      ],
-      "duration_ms": 149081,
-      "name": "Miracle (feat. Jetason)",
-      "url": "https://open.spotify.com/track/6BVDTFUf0HDTRy7cyY5GXK"
-    },
-    {
-      "added_at": "2023-07-06 05:40:59",
-      "album": {
         "name": "Bassline Rumble",
         "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
@@ -535,34 +575,6 @@
       "duration_ms": 175969,
       "name": "Bassline Rumble",
       "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2023-07-06 05:40:59",
-      "album": {
-        "name": "Party In Miami (The Remixes)",
-        "url": "https://open.spotify.com/album/31Wg5Bhdr0xaLinxAjmjYj"
-      },
-      "artists": [
-        {
-          "name": "Outgang",
-          "url": "https://open.spotify.com/artist/6jod8FpuOsUlGbzfJmctD6"
-        },
-        {
-          "name": "Yanik Coen",
-          "url": "https://open.spotify.com/artist/0MnQ8m1U8JT36ixxg2ObzN"
-        },
-        {
-          "name": "Eday",
-          "url": "https://open.spotify.com/artist/1DajAF38R7F2KDAzv8ztSh"
-        },
-        {
-          "name": "Patrick M",
-          "url": "https://open.spotify.com/artist/1RccHciK3Gx68Yj5mlMeRV"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Party In Miami - Patrick M Remix",
-      "url": "https://open.spotify.com/track/4lJky5mHFjn4ruOEw7nUpH"
     },
     {
       "added_at": "2023-07-06 05:40:59",
@@ -715,22 +727,6 @@
     {
       "added_at": "2023-07-06 05:40:59",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/7FIjCxHSC5N63alQv0LcYV"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/6oKSbAIYE9hQMLWMfSRZja"
-    },
-    {
-      "added_at": "2023-07-06 05:40:59",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/4anHTuGfiQAybiDedPoJ5a"
       },
@@ -771,22 +767,6 @@
       "duration_ms": 167509,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
-    },
-    {
-      "added_at": "2023-07-06 05:40:59",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/66t0grf31CvKCN9VMEx2iR"
-      },
-      "artists": [
-        {
-          "name": "Dirty Sound Boys",
-          "url": "https://open.spotify.com/artist/0ASWinQIkjpJxXAwr7eVQ7"
-        }
-      ],
-      "duration_ms": 163244,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/0WmOjuQrhltW7RQGsj84Pm"
     },
     {
       "added_at": "2023-07-06 05:40:59",

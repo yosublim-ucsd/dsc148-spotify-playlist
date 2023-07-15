@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 3474,
+  "num_followers": 3493,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTQ5ZmNhYjc4ZWQwZDFmMzVhZTBiNDljNjE5YjVmMTE5ZWYyMTA0",
+  "snapshot_id": "MCxkZDNhNmZkNTY2ZWQyZjhjYTA0NzVkNDE1M2E4N2VkODIyYzVmNzNi",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Coffee (Give Me Something)",
+        "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Coffee (Give Me Something)",
+      "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Voices In My Head",
         "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 162983,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Coffee (Give Me Something)",
-        "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Coffee (Give Me Something)",
-      "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
     }
   ],
   "unique_name": "Peppl\u00e5tar till tr\u00e4ningspasset",

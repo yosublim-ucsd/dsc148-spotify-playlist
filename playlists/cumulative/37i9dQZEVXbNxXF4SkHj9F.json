@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "A Yo (Feat. Beenzino)",
+      "url": "https://open.spotify.com/track/3fO6bY9AZndZu8ltaNexBz"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -4286,7 +4308,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 185320,
       "name": "Cream Soda",
       "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
@@ -9512,7 +9534,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180988,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
@@ -9986,6 +10008,24 @@
       "duration_ms": 261120,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
+    },
+    {
+      "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138374,
+      "name": "Jeogeumtong",
+      "url": "https://open.spotify.com/track/4GvyA3KLY4S83khi5kLsiP"
     },
     {
       "album": {
@@ -13992,6 +14032,28 @@
       "duration_ms": 219293,
       "name": "Nirvana (feat. pH-1 & WDBZ)",
       "url": "https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg"
+    },
+    {
+      "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "No Boss (Feat. Dok2)",
+      "url": "https://open.spotify.com/track/13189A36QorREwPdLYzFIs"
     },
     {
       "album": {
@@ -18754,7 +18816,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -20208,7 +20270,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 257066,
       "name": "Travel Again (Feat. Cautious Clay)",
       "url": "https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb"
@@ -21384,6 +21446,24 @@
       "duration_ms": 136063,
       "name": "What if\u2026",
       "url": "https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh"
+    },
+    {
+      "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "What The Hell",
+      "url": "https://open.spotify.com/track/0wyChSpqIqOp1nxIBYlYZn"
     },
     {
       "album": {

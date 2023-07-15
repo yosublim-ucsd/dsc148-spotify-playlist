@@ -1541,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "City Pop Essetials - Idols -",
+        "url": "https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o"
+      },
+      "artists": [
+        {
+          "name": "Junko Ohashi",
+          "url": "https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "\u30c6\u30ec\u30d5\u30a9\u30f3\u30fb\u30ca\u30f3\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4o5pAjHBuKose80OQRgXAg"
+    },
+    {
+      "album": {
         "name": "TOKYO - CITY POP -",
         "url": "https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD"
       },
@@ -1552,7 +1570,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 239013,
       "name": "\u30c6\u30ec\u30d5\u30a9\u30f3\u30fb\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/5SxrdeIHki6FmlsKj2m8mY"

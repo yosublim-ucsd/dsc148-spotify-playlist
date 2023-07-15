@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Lil Uzi Vert, Lil Baby, and Young Thug!",
+  "description": "Today's Hip-Hop with Quavo & Future, King Von, \ud83d\udd4a and Sleepy Hollow!",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 197142,
       "name": "+4416",
       "url": "https://open.spotify.com/track/1ZjnVt2btJQ7UTTnfXwgyt"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193333,
       "name": "back to the moon",
       "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
@@ -5173,6 +5173,28 @@
     },
     {
       "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "From The Hood",
+      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
+    },
+    {
+      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq"
       },
@@ -5764,6 +5786,24 @@
       "duration_ms": 140601,
       "name": "Goin Up",
       "url": "https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb"
+    },
+    {
+      "album": {
+        "name": "Good Girls Ain't No Fun",
+        "url": "https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142911,
+      "name": "Good Girls Ain't No Fun",
+      "url": "https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f"
     },
     {
       "album": {
@@ -6562,6 +6602,28 @@
       "duration_ms": 175621,
       "name": "HTAFL",
       "url": "https://open.spotify.com/track/0ezt3b76CRzJcmCMmCVmbw"
+    },
+    {
+      "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "HUSTLERS (feat. Tyga)",
+      "url": "https://open.spotify.com/track/5LNxpOCHQWtBFH0fAveAEY"
     },
     {
       "album": {
@@ -10362,7 +10424,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 156821,
       "name": "Pain Talk (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/7soBkLenwWM7kB92cuyl04"
@@ -10688,6 +10750,28 @@
       "duration_ms": 136176,
       "name": "PMR (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
+    },
+    {
+      "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
       "album": {
@@ -11390,7 +11474,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 214445,
       "name": "Red Ruby Da Sleeze",
       "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
@@ -11594,7 +11678,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 128567,
       "name": "Robberies",
       "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
@@ -11882,6 +11966,24 @@
       "duration_ms": 147692,
       "name": "Rush Hour Freestyle",
       "url": "https://open.spotify.com/track/6qJzLnyBXtq4XMuX98chkI"
+    },
+    {
+      "album": {
+        "name": "Same Energy",
+        "url": "https://open.spotify.com/album/7wLUa7Te2hgRruz9hFIeGc"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151067,
+      "name": "Same Energy",
+      "url": "https://open.spotify.com/track/4wBGgXXCq5pjwgkiI7evhw"
     },
     {
       "album": {
@@ -14613,6 +14715,28 @@
     },
     {
       "album": {
+        "name": "Turn Yo Clic Up (feat. Future)",
+        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230835,
+      "name": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
+    },
+    {
+      "album": {
         "name": "4NEM",
         "url": "https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV"
       },
@@ -15262,7 +15386,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 144545,
       "name": "WDGAF (feat. G-Eazy)",
       "url": "https://open.spotify.com/track/5E24FVNvb8mXpBAySTTr24"

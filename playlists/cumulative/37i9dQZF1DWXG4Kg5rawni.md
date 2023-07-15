@@ -4,7 +4,7 @@
 
 > Amor abençoado por Deus.
 
-73 songs - 4 hr 52 min
+74 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Deus, Você e Eu](https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51) | [Saulo Vianna](https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe) | [Aperfeiçoou](https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD) | 3:59 | 2022-06-14 |  |
 | [Disse Sim](https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Disse Sim](https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y) | 3:21 | 2022-06-14 |  |
 | [do avesso](https://open.spotify.com/track/2xChBTNzEGP3K2aseARs2y) | [Marcos Martins](https://open.spotify.com/artist/1G8AP45en0n7qFcFJQEmtM), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS) | [do avesso](https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu) | 4:06 | 2023-06-02 |  |
-| [Doce Amor](https://open.spotify.com/track/4vC4IQZOBRPcdaxunvEvA1) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Doce Amor](https://open.spotify.com/album/4NF2hCRfnHDwTnRZa5cQtK) | 3:56 | 2022-06-14 |  |
+| [Doce Amor](https://open.spotify.com/track/4vC4IQZOBRPcdaxunvEvA1) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Doce Amor](https://open.spotify.com/album/4NF2hCRfnHDwTnRZa5cQtK) | 3:56 | 2022-06-14 | 2023-07-15 |
 | [Don Juan](https://open.spotify.com/track/1y3SxHr9aDEcy69mabuDBE) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Wilian Nascimento Falando de Amor](https://open.spotify.com/album/66cFFmk9f3pqGsvVVYaDXj) | 3:27 | 2022-06-14 |  |
 | [Encontrar Você](https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Thamiriz](https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM) | [Encontrar Você](https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij) | 3:55 | 2022-06-14 |  |
 | [Era Você](https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Lugar Mais Alto](https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G) | 4:36 | 2022-06-14 |  |
@@ -54,6 +54,7 @@
 | [Nosso Castelo](https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nosso Castelo](https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd) | 4:12 | 2022-06-14 |  |
 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 | 2022-06-14 |  |
 | [Não É Acaso](https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Não É Acaso](https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka) | 3:55 | 2023-06-16 |  |
+| [Nós](https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Nós](https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7) | 2:54 | 2023-07-14 |  |
 | [O Dia \(feat\. Weslei Santos\)](https://open.spotify.com/track/25gb581HHOm5j2oTlfw8FW) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [O Dia \(feat\. Weslei Santos\)](https://open.spotify.com/album/2QkspDdHjC693cJqV6Cegb) | 3:57 | 2022-06-14 | 2023-06-03 |
 | [O Jeito Que Você Me Olha](https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj) | [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa), [Marla Lüdtke](https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd) | [O Jeito Que Você Me Olha](https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF) | 3:18 | 2022-06-14 |  |
 | [Onde Está Você](https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Sarah Renata](https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY) | [Onde Está Você](https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW) | 4:06 | 2022-06-14 |  |

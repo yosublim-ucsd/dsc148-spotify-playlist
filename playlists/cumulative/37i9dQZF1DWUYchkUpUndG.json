@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "FAYA",
+        "url": "https://open.spotify.com/album/1gTXLyRPmEysl9i5CwQt0u"
+      },
+      "artists": [
+        {
+          "name": "Agent Snypa",
+          "url": "https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ"
+        },
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182352,
+      "name": "FAYA",
+      "url": "https://open.spotify.com/track/2XfbFeYxN961nxtxUoepoM"
+    },
+    {
+      "album": {
         "name": "Fides",
         "url": "https://open.spotify.com/album/7kT9vVYqM1hFvTKljatsZf"
       },
@@ -2828,6 +2850,28 @@
       "duration_ms": 288134,
       "name": "Hewale Lala (Symphonic Version)",
       "url": "https://open.spotify.com/track/1O2U5uabqVUv1IPC3UVPne"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Edwards",
+          "url": "https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K"
+        },
+        {
+          "name": "Rushawn",
+          "url": "https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154218,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
     },
     {
       "album": {
@@ -5350,7 +5394,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 770142,
       "name": "Shammah (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/7c8o47ig0zHY4IZYEOW1ar"

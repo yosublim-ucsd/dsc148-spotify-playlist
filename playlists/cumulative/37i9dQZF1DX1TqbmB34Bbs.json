@@ -11551,6 +11551,24 @@
     },
     {
       "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138374,
+      "name": "Jeogeumtong",
+      "url": "https://open.spotify.com/track/4GvyA3KLY4S83khi5kLsiP"
+    },
+    {
+      "album": {
         "name": "I Made It",
         "url": "https://open.spotify.com/album/15e7YxqAZ2tsqBHHf74XCg"
       },
@@ -17133,6 +17151,24 @@
     },
     {
       "album": {
+        "name": "Jeogeumtong",
+        "url": "https://open.spotify.com/album/2A5ezsGN5jDoCwGQytDJ1I"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Piggy Bank",
+      "url": "https://open.spotify.com/track/0AnCWhBbUfDtiQa53CiESu"
+    },
+    {
+      "album": {
         "name": "Kirby\u2019s Adventure",
         "url": "https://open.spotify.com/album/48nJvBugmLqyNYnDXoBPzj"
       },
@@ -17266,7 +17302,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 161586,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0dhBiy6lmLdyKUEJTf5Fcz"
@@ -23500,7 +23536,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 279786,
       "name": "Waterbomb (Feat. Gaeko, Nucksal) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/4iMaBhUaR1xfkobeLEEQyx"

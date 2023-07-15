@@ -4,7 +4,7 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-116 songs - 8 hr 17 min
+118 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Babe](https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA) | [Evenings](https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y) | [Yore](https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB) | 2:52 | 2023-05-17 |  |
 | [Beginner's Luck](https://open.spotify.com/track/6adjXENHRzh4uyVziFlVGm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:28 | 2023-05-17 |  |
 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 | 2023-05-17 |  |
+| [Big Hammer](https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Big Hammer](https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36) | 4:00 | 2023-07-14 |  |
 | [Black Out Days](https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Voices](https://open.spotify.com/album/4jsK9bhq2NQBabB1tttQYR) | 3:47 | 2023-05-17 |  |
 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 | 2023-05-17 |  |
 | [Body Language \- Interpretation](https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ) | 5:00 | 2023-05-17 |  |
@@ -87,7 +88,7 @@
 | [Need You Now](https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Why Make Sense? \(Definitive Version\)](https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4) | 4:45 | 2023-05-17 |  |
 | [New Theory](https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 2:48 | 2023-05-17 |  |
 | [Nothing \- Original Mix](https://open.spotify.com/track/273poy5BHtv5YFedkWIqwj) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Nothing](https://open.spotify.com/album/7lyFqWFcHcQCk8YXJo6hiK) | 5:12 | 2023-05-17 |  |
-| [Now U Got Me Hooked](https://open.spotify.com/track/2GqB00l5xLCpkcKaF2zwFn) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1) | [2012 \- 2017](https://open.spotify.com/album/39yo3iwdoasNOm2fLq1DHg) | 5:51 | 2023-05-17 |  |
+| [Now U Got Me Hooked](https://open.spotify.com/track/2GqB00l5xLCpkcKaF2zwFn) | [Against All Logic](https://open.spotify.com/artist/0ngUeF0DGpYmPec80MqSi1) | [2012 \- 2017](https://open.spotify.com/album/39yo3iwdoasNOm2fLq1DHg) | 5:51 | 2023-05-17 | 2023-07-15 |
 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 | 2023-05-17 |  |
 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 | 2023-05-17 |  |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 | 2023-05-17 |  |
@@ -100,7 +101,7 @@
 | [Recovery](https://open.spotify.com/track/0vp09QgBhShrQOL2w7P8k4) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Odyssey / Sonne](https://open.spotify.com/album/474YduzMbDFNBzYBJNXdQp) | 4:50 | 2023-05-17 |  |
 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2023-05-17 |  |
 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 | 2023-05-17 |  |
-| [See How](https://open.spotify.com/track/6Tzv50D47Vy568fYYcVbD8) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Cocoa Sugar](https://open.spotify.com/album/03Dp6OJS4wd7dI1rRszPwj) | 2:01 | 2023-05-17 |  |
+| [See How](https://open.spotify.com/track/6Tzv50D47Vy568fYYcVbD8) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Cocoa Sugar](https://open.spotify.com/album/03Dp6OJS4wd7dI1rRszPwj) | 2:01 | 2023-05-17 | 2023-07-15 |
 | [She Just Likes to Fight](https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 4:41 | 2023-05-17 | 2023-06-14 |
 | [Sleepless feat\. Jezzabell Doran](https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume: Deluxe Edition](https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4) | 3:29 | 2023-05-17 |  |
 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 | 2023-05-17 |  |
@@ -109,6 +110,7 @@
 | [Str8 Outta Mumbai](https://open.spotify.com/track/0mRtv3pnmPiN2mDMzYzWt2) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 2:42 | 2023-05-17 |  |
 | [Sunlight \(feat\. Years and Years\) \- Darius Remix](https://open.spotify.com/track/2FsGvAxjBVUCaFrm3uDmHV) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Sunlight \(feat\. Years & Years\) \[Remixes\]](https://open.spotify.com/album/08jeLY28AzZc8yEQ9jcUBO) | 4:04 | 2023-05-17 |  |
 | [The Big Unknown](https://open.spotify.com/track/4Ri84aoor16uSkNtpAvPgQ) | [Elder Island](https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik) | [Elder Island](https://open.spotify.com/album/5wyOoFvt08gMtEsiG42iPZ) | 5:03 | 2023-05-17 |  |
+| [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-14 |  |
 | [The Lung](https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:53 | 2023-05-17 | 2023-06-16 |
 | [The Wheel](https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:53 | 2023-05-17 |  |
 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 | 2023-05-17 |  |

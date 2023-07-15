@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: れん
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,582 likes - 69 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,605 likes - 69 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 68 | [嘘だって](https://open.spotify.com/track/74zMAaCvLN676H91h1R9k6) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [嘘だって](https://open.spotify.com/album/6nVWOqetgZiIWuqIW0WIxu) | 3:32 |
 | 69 | [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 |
 
-Snapshot ID: `MCxjZjViNjZiZTYxMjlhMzg4ZTBlMzhhMjVmMmE2OTdkOWI0ZDc5N2Yw`
+Snapshot ID: `MCxiMmI1YzkyNDZlMmY5MWY3ZGI0M2MxMzFlYmRhNTFmMTNlNjdlMjIy`

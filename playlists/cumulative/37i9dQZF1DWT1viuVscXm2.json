@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "En Otra",
+        "url": "https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131697,
+      "name": "En Otra",
+      "url": "https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf"
+    },
+    {
+      "album": {
         "name": "Entre el Cielo Vos y Yo",
         "url": "https://open.spotify.com/album/1GDddDwEU7KOjbwN8jL9aD"
       },
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 221209,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/6UFCHCAQEchbBScuyxuzxh"

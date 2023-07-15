@@ -4,7 +4,7 @@
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 53 min
+54 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 | 2022-09-16 |  |
 | [Half\-Truism](https://open.spotify.com/track/7xm8RWCCBYvEVx1VyErDa3) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:25 | 2022-09-16 |  |
 | [Hammerhead](https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 4:38 | 2022-09-16 | 2023-06-18 |
-| [Hammerhead \- Live At Hellfest 2022](https://open.spotify.com/track/60KWofPwiHxnopbv834Qo4) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1ZvLzeszidFikHrWgsaWXf) | 5:37 | 2023-06-17 |  |
+| [Hammerhead \- Live At Hellfest 2022](https://open.spotify.com/track/2IAVsnPYeZV1jf7EjttJNN) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6YGXlFehYvg5MuzMPfgkdp) | 5:37 | 2023-07-14 |  |
+| [Hammerhead \- Live At Hellfest 2022](https://open.spotify.com/track/60KWofPwiHxnopbv834Qo4) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1ZvLzeszidFikHrWgsaWXf) | 5:37 | 2023-06-17 | 2023-07-15 |
 | [Have You Ever](https://open.spotify.com/track/2fIpea5Sh5celp8JRI7Z4U) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:56 | 2022-09-16 | 2022-10-28 |
 | [Hit That](https://open.spotify.com/track/3lfmqF0ULXRHlWxBeaHo3t) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 2:49 | 2022-09-16 |  |
 | [I Choose](https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 3:54 | 2022-09-16 |  |

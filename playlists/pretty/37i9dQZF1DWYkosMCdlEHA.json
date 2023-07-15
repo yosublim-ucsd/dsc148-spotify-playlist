@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 109890,
+  "num_followers": 110018,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjEzYzA1OThiNmU3NjYwNGVkZGUzYTI5NDYzMTkwMDcyMmE2ZWE4",
+  "snapshot_id": "MCxkMGU2NDZiMjdhNGRjY2FhYzc2MTRhNzZhNDcxMDdlZmU1MjBjOWYz",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "\u00c9 Bonito de Ver",
-        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
+        "name": "Circuito Reggae, Vol. 7",
+        "url": "https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5"
       },
       "artists": [
         {
-          "name": "Madayati",
-          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
+          "name": "Circuito Reggae",
+          "url": "https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly"
+        },
+        {
+          "name": "Filosofia Reggae",
+          "url": "https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD"
         }
       ],
-      "duration_ms": 201360,
-      "name": "\u00c9 Bonito de Ver",
-      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
+      "duration_ms": 242960,
+      "name": "Sentimento Bom",
+      "url": "https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O"
     },
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "Circuito Reggae, Vol. 7",
-        "url": "https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5"
+        "name": "\u00c9 Bonito de Ver",
+        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
       },
       "artists": [
         {
-          "name": "Circuito Reggae",
-          "url": "https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly"
-        },
-        {
-          "name": "Filosofia Reggae",
-          "url": "https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD"
+          "name": "Madayati",
+          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
         }
       ],
-      "duration_ms": 242960,
-      "name": "Sentimento Bom",
-      "url": "https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O"
+      "duration_ms": 201360,
+      "name": "\u00c9 Bonito de Ver",
+      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
     },
     {
       "added_at": "2023-07-07 03:01:00",

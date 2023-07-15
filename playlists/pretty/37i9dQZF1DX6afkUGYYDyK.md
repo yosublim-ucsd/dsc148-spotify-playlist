@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,097 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,101 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 9 | [Thank You For It All](https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thank You For It All](https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl) | 4:24 |
 | 10 | [This Is How I Thank The Lord \(feat\. Cody Carnes, Amanda Cook, Joe L Barnes\)](https://open.spotify.com/track/2t8f07knCNSY19avq19l1R) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Thanks](https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML) | 3:41 |
 | 11 | [thank you](https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [simplicity](https://open.spotify.com/album/5SuCJyVXZNHggwXo5XKyH9) | 2:30 |
-| 12 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
-| 13 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 |
+| 12 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 |
+| 13 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 |
 | 14 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 |
 | 15 | [Give Thanks & Praises](https://open.spotify.com/track/7kldRiZk6Wan2uFfb9qfX9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:14 |
 | 16 | [Still Say Thank You](https://open.spotify.com/track/0L9h0mSKwKDW8z3IKYi8SL) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Need You Now](https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF) | 5:31 |
 | 17 | [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 |
 | 18 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |
 | 19 | [Thank You Lord \(feat\. BJ Putnam\)](https://open.spotify.com/track/56o9jizzI7tJKPUO0tUAnA) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 8:02 |
-| 20 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 |
-| 21 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
+| 20 | [How Good of God](https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [How Good of God](https://open.spotify.com/album/5aqixOvRJiO8k0gvZfUiZT) | 2:44 |
+| 21 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 |
 | 22 | [Thankful](https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:23 |
 | 23 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2 \(Live\)](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
 | 24 | [Give Thanks](https://open.spotify.com/track/5cTw0oq5qvySv7k5LpRfg9) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Give Thanks](https://open.spotify.com/album/5bv8C4U5pcwFB9tqV66scN) | 5:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 59 | [Thankful](https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Faithful To Believe](https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61) | 6:26 |
 | 60 | [Lord I Thank You](https://open.spotify.com/track/0ClqLgTR23AyZmRi3KLr2f) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW) | [Amazing Love](https://open.spotify.com/album/31gd6YqNrLughgK0iMLZEk) | 4:57 |
 
-Snapshot ID: `MCwyZjNlNzgwZTgyZTQwMjFkNGYyNDkxNDlhYjBmOTUxN2U0ZThkNzk5`
+Snapshot ID: `MCw3NWIzNjQxOGM0OGZkOGE4ZTA3ZjJlNDlkNTRhYWMzMDIxZjcwYmI1`

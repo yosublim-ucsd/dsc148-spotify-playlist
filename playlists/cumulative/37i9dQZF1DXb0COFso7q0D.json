@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The playlist sin fronteras. Cover: Peso Pluma",
+  "description": "The playlist sin fronteras. Cover: Panter B\u00e9lico",
   "name": "Los Que Mandan",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 226214,
       "name": "Andas Valiendo Madre",
       "url": "https://open.spotify.com/track/45Y3em8xdSWWYWCrmulpGQ"
@@ -2689,6 +2689,28 @@
     },
     {
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/6GM5l4aJ9aOhGStxODvNBm"
+    },
+    {
+      "album": {
         "name": "Al Derecho Y Al Reverso",
         "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
       },
@@ -3361,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
+    },
+    {
+      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/7IoQkL9C3vfSmF0Q9mXelv"
       },
@@ -3831,6 +3871,28 @@
     },
     {
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231246,
+      "name": "LAGUNAS",
+      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
+    },
+    {
+      "album": {
         "name": "Las Morras",
         "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
       },
@@ -4002,7 +4064,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181553,
       "name": "Los Envidiosos",
       "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
@@ -5242,7 +5304,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 182666,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3"
@@ -5714,7 +5776,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 158918,
       "name": "Punto y Aparte",
       "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
@@ -5954,7 +6016,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 247500,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2h7pX9EhOdpFSM0PEO9NYn"
@@ -6052,7 +6114,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 238447,
       "name": "RUBICON",
       "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
@@ -6764,6 +6826,24 @@
       "duration_ms": 204213,
       "name": "Substancias",
       "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
+    },
+    {
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "album": {

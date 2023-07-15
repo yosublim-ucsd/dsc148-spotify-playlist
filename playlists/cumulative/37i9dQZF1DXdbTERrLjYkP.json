@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Billianne",
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Maddie Zahm",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 270527,
       "name": "3 Months",
       "url": "https://open.spotify.com/track/5tIlUGPdbicQEDxzxD75ap"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180421,
       "name": "Big Star",
       "url": "https://open.spotify.com/track/3lnfzmGxaOSBLc2Hh4M5NT"
@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Copout",
+        "url": "https://open.spotify.com/album/3rpxPx8NubbxauNXDTsFh8"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158314,
+      "name": "Copout",
+      "url": "https://open.spotify.com/track/3yrh9twRfAvbpwHw73qt92"
+    },
+    {
+      "album": {
         "name": "Cosmos",
         "url": "https://open.spotify.com/album/7c1BLJpEBis33PSOamN2Jb"
       },
@@ -2452,6 +2470,42 @@
       "duration_ms": 187961,
       "name": "Feels Like Magic",
       "url": "https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F"
+    },
+    {
+      "album": {
+        "name": "Feminine Feelings",
+        "url": "https://open.spotify.com/album/70g3gCOQaftdAXcK3owCP9"
+      },
+      "artists": [
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189729,
+      "name": "Feminine Feelings",
+      "url": "https://open.spotify.com/track/6dRMBfMGMhic99nXASMFFR"
+    },
+    {
+      "album": {
+        "name": "Fifth",
+        "url": "https://open.spotify.com/album/0cxSW85kPAIUEk6UIejvPD"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155362,
+      "name": "Fifth",
+      "url": "https://open.spotify.com/track/5DNpSTHMlVO4OdiQJ1uG8v"
     },
     {
       "album": {
@@ -3878,7 +3932,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180778,
       "name": "I should call my mom",
       "url": "https://open.spotify.com/track/3eLf5darT8r7GIeEmgwAaQ"
@@ -4260,7 +4314,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 156802,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
@@ -4372,6 +4426,24 @@
       "duration_ms": 240186,
       "name": "Introverted",
       "url": "https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE"
+    },
+    {
+      "album": {
+        "name": "Irish Eyes",
+        "url": "https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136209,
+      "name": "Irish Eyes",
+      "url": "https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw"
     },
     {
       "album": {
@@ -5405,6 +5477,24 @@
     },
     {
       "album": {
+        "name": "messy",
+        "url": "https://open.spotify.com/album/161GbVxhgPvPoNFsoGBnEn"
+      },
+      "artists": [
+        {
+          "name": "Savana Santos",
+          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129864,
+      "name": "messy",
+      "url": "https://open.spotify.com/track/1rL0K2uvyWRGvqvf0VI719"
+    },
+    {
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2"
       },
@@ -5668,7 +5758,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 172249,
       "name": "NFL",
       "url": "https://open.spotify.com/track/2MwfKQrMR5Uy0C6sDwDhDI"
@@ -6050,6 +6140,24 @@
       "duration_ms": 173373,
       "name": "Play Dumb",
       "url": "https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht"
+    },
+    {
+      "album": {
+        "name": "poison",
+        "url": "https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F"
+      },
+      "artists": [
+        {
+          "name": "Zevia",
+          "url": "https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168291,
+      "name": "poison",
+      "url": "https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP"
     },
     {
       "album": {
@@ -6630,7 +6738,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 140853,
       "name": "saw you in the paper",
       "url": "https://open.spotify.com/track/72YBXFD6wdyX1LyWdj9LfQ"
@@ -7026,7 +7134,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 215448,
       "name": "Snow Angel",
       "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
@@ -7422,7 +7530,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 205975,
       "name": "STEP ON ME",
       "url": "https://open.spotify.com/track/45HSCsfTCoDloxNEof033U"
@@ -7596,6 +7704,24 @@
       "duration_ms": 217869,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/2VpT2mgMMGOgWsLve3FXQI"
+    },
+    {
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196679,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
     },
     {
       "album": {
@@ -8212,7 +8338,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 189000,
       "name": "Until Now",
       "url": "https://open.spotify.com/track/4djT5qYz4PIcIDV6TziZhm"
@@ -8637,6 +8763,24 @@
     },
     {
       "album": {
+        "name": "Where Do All The Good Kids Go?",
+        "url": "https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Where Do All The Good Kids Go?",
+      "url": "https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw"
+    },
+    {
+      "album": {
         "name": "Where do we go now?",
         "url": "https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T"
       },
@@ -8796,6 +8940,24 @@
       "duration_ms": 156125,
       "name": "You Just Didn't Like Me That Much",
       "url": "https://open.spotify.com/track/08uFpUUmJVfmF2tdUBejfg"
+    },
+    {
+      "album": {
+        "name": "You Look Like You Can't Swim",
+        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168086,
+      "name": "You Look Like You Can't Swim",
+      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
     },
     {
       "album": {

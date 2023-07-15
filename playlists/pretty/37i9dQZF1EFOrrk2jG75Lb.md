@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5ZhOMhIvZkv2S7fBPcxQ1t">Gloria Trevi </a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 39 | [Sube](https://open.spotify.com/track/5zy0QB79zacHialCjXb4Ba) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:14 |
 | 40 | [Puede Ser Amor](https://open.spotify.com/track/4FrlpHVNDoCJGwlwlh3SUa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:17 |
 | 41 | [Doña Pudor](https://open.spotify.com/track/4DVrs6PjdacQJiTmU5M40K) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Una Rosa Blu](https://open.spotify.com/album/581llNtG60NdAQUsrCbsPC) | 3:10 |
-| 42 | [Sobrenatural](https://open.spotify.com/track/6K1DkPu4xY6HgU3BjSE0Z9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:37 |
-| 43 | [Perfume](https://open.spotify.com/track/35jmQJNmRDUeu0eksdjJQh) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:08 |
+| 42 | [Perfume](https://open.spotify.com/track/35jmQJNmRDUeu0eksdjJQh) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:08 |
+| 43 | [Sobrenatural](https://open.spotify.com/track/6K1DkPu4xY6HgU3BjSE0Z9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:37 |
 | 44 | [Soy Lo Que Soy](https://open.spotify.com/track/0neDKfG6Ed41pLCo5sXlGR) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:19 |
 | 45 | [Punto G](https://open.spotify.com/track/5mySwJzWiPvld6hk2P9eYH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria En Vivo \(Deluxe Edition\)](https://open.spotify.com/album/7uwbztQaWdoOJgF6lUtSTR) | 2:52 |
 | 46 | [El Domador](https://open.spotify.com/track/6zGvZPYB3t8WshxZXt8khU) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Como Nace El Universo](https://open.spotify.com/album/0NRY0pYDpVoxZWF4s3E2en) | 3:12 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 51 | [Ojos De Fuego](https://open.spotify.com/track/2CD3R2whD46r746lsyvfBc) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Duele](https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ) | 3:20 |
 | 52 | [Aurora](https://open.spotify.com/track/3wUKXujHMVw2HzSEqTRMwe) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9) | 3:54 |
 
-Snapshot ID: `MjgxNTUwMDAsMDAwMDAwMDAwYWUxNjgwZDU4ODdhYWNiYjdkNzBkNzYzNzQ0NmNjMQ==`
+Snapshot ID: `MjgxNTY0NDAsMDAwMDAwMDAxZDRkNTg5YmY3NTdmZmE0MzUwNWUwYTk4YjZlNDRjYQ==`

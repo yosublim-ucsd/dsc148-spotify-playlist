@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Chris Jedi, YOVNGCHIMI & Dei V
 
-267 songs - 15 hr 28 min
+268 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [La Esquina](https://open.spotify.com/track/1FTFsE4Uv7SfmtxW5A3l5b) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [La Esquina](https://open.spotify.com/album/59bdhdLx7R1cThpbZNtyeB) | 4:05 | 2022-12-20 | 2023-03-04 |
 | [La Ideal](https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [La Ideal](https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB) | 3:33 | 2023-03-03 | 2023-05-20 |
 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 | 2022-12-02 |  |
-| [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 | 2022-10-07 |  |
+| [La Mini](https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [La Mini](https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc) | 3:33 | 2022-10-07 | 2023-07-15 |
 | [La Nueva Pandemia](https://open.spotify.com/track/6BCzIewMNsznhUB78Z6gLL) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [La Nueva Pandemia](https://open.spotify.com/album/5l3tjSHsjgNudTV5a5Gx07) | 2:37 | 2022-03-18 | 2023-02-18 |
 | [La Receta](https://open.spotify.com/track/4IeZs6zIvTQjg43G9raOhu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:52 | 2022-03-18 | 2022-05-04 |
 | [La Ruta](https://open.spotify.com/track/7D8tKs61tdzzDdG9w6kdu4) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:04 | 2022-12-15 |  |
@@ -188,6 +188,7 @@
 | [No Creyeron](https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [No Creyeron](https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25) | 2:30 | 2022-05-03 | 2023-02-11 |
 | [No Hitter](https://open.spotify.com/track/6lfR9MIXbfSE6s10w3fHhA) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [No Hitter](https://open.spotify.com/album/23zdnj9x2xFuNNBgPxUYGi) | 2:44 | 2022-09-09 | 2023-07-01 |
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2022-04-01 | 2022-04-16 |
+| [NOCHE PASAJERA II](https://open.spotify.com/track/409SgbFZ2LVObLOB4yAqlA) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NOCHE PASAJERA II](https://open.spotify.com/album/2pw0fy29GKTUZS30stt8J3) | 3:08 | 2023-07-14 |  |
 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 | 2022-05-03 | 2023-01-21 |
 | [Nos Matamos](https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Nos Matamos](https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV) | 4:30 | 2022-03-18 | 2022-05-04 |
 | [Nosotros](https://open.spotify.com/track/4o5kWgO8DVkEXO54fdXR3l) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Nosotros](https://open.spotify.com/album/1BiWw1GQjHsvqG4SZPYjaV) | 4:22 | 2022-09-09 | 2023-07-01 |

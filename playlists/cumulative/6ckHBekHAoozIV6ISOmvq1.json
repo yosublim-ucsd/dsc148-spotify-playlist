@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 385967,
       "name": "Amours, cent mille mercyz (Ballade)",
       "url": "https://open.spotify.com/track/5s4QI1q8jIl2fzCaifElpF"
@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 411280,
       "name": "Can Vei La Lauzeta Mover",
       "url": "https://open.spotify.com/track/7hcAAAhhCOua4a8Y4TQxEW"
@@ -4540,7 +4540,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-22",
+      "date_removed": null,
       "duration_ms": 187800,
       "name": "Comment que, pour l'\u00e9loignance",
       "url": "https://open.spotify.com/track/0T1psUvL4tO0EEgpjJNDdr"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 327520,
       "name": "Condesa de Dia: Ab joi et ab joven m'apais",
       "url": "https://open.spotify.com/track/0cnuibMroeRagHBvBCtxua"
@@ -8738,7 +8738,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 194400,
       "name": "in I. nocturno: Antiphon - Astiterunt reges terrae/Psalm - Quare fremuerunt gentes (Ps 2)/Antiphon - Astiterunt reges terrae - Voice",
       "url": "https://open.spotify.com/track/7qJUuIJuksMKRFMdHuhlHW"
@@ -8912,6 +8912,62 @@
       "duration_ms": 191026,
       "name": "Intro\u00eft: Statuit et Dominus",
       "url": "https://open.spotify.com/track/0J39IMWu1TXKSE4UpL4gDY"
+    },
+    {
+      "album": {
+        "name": "Canto gregoriano, les tons de la musique",
+        "url": "https://open.spotify.com/album/22DCPYWHodeTyUnDh6FBzQ"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Dominique Vellard",
+          "url": "https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK"
+        },
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        },
+        {
+          "name": "Willem De Waal",
+          "url": "https://open.spotify.com/artist/0vzLiuQO30WCS6Wcur5rKw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191333,
+      "name": "Intro\u00eft: Viri gallilei / Alleluia",
+      "url": "https://open.spotify.com/track/4tm4DqNsui9lMn4s28nuoE"
+    },
+    {
+      "album": {
+        "name": "Gesualdo : Madrigaux, livre VI",
+        "url": "https://open.spotify.com/album/0EHinLW1hfwWxAgVbM9J7n"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "Ensemble M\u00e9tamorphoses",
+          "url": "https://open.spotify.com/artist/3g81ZFdiPjwDevrsHUJQWc"
+        },
+        {
+          "name": "Maurice Bourbon",
+          "url": "https://open.spotify.com/artist/17HrtoDyKg1ywVXqrZ3mzz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Io parto e non piu dissi",
+      "url": "https://open.spotify.com/track/3k6LD457i1CluCDJKSOiLw"
     },
     {
       "album": {
@@ -10506,7 +10562,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 456133,
       "name": "Lamentations for Holy Saturday (3-8 Voices): Lectio I",
       "url": "https://open.spotify.com/track/6M4y9IG8fYXiwvpoGrSTsq"
@@ -12980,7 +13036,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 194040,
       "name": "Non al suo amante",
       "url": "https://open.spotify.com/track/4bawX8sRlXcdfzhDN2A846"
@@ -14190,7 +14246,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 223986,
       "name": "Oseletto selvaggio",
       "url": "https://open.spotify.com/track/3g5urloOBgPtLmeUC4UKGr"
@@ -14618,7 +14674,7 @@
       ],
       "date_added": "2019-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2019-11-16",
+      "date_removed": null,
       "duration_ms": 423693,
       "name": "Peire Vidal - S\u2019ieu fos en cort",
       "url": "https://open.spotify.com/track/40Shxq1Jij7XBvUssux302"
@@ -15084,7 +15140,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 355080,
       "name": "Pois tornatz",
       "url": "https://open.spotify.com/track/1Vl68qItQdA4gVjIot67vT"

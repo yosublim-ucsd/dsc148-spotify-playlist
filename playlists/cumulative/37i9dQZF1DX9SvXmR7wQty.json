@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Soolking, Gazo",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Loud, Ya Cetidon",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184109,
       "name": "21",
       "url": "https://open.spotify.com/track/6w7lhVlpPkjSAdd4AhKWzN"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 247996,
       "name": "Aire de plastique",
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
@@ -2452,6 +2452,24 @@
     {
       "album": {
         "name": "Autobahn",
+        "url": "https://open.spotify.com/album/1YGNt3j4tgi6mrmSTSjDBq"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250108,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x"
+    },
+    {
+      "album": {
+        "name": "Autobahn",
         "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
       },
       "artists": [
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 97895,
       "name": "Big AK",
       "url": "https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q"
@@ -5892,7 +5910,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183693,
       "name": "Chez la Psy",
       "url": "https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0"
@@ -8136,6 +8154,28 @@
       "duration_ms": 176626,
       "name": "Danser",
       "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
+    },
+    {
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S"
+      },
+      "artists": [
+        {
+          "name": "KRN",
+          "url": "https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5"
+        },
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183555,
+      "name": "Danser",
+      "url": "https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik"
     },
     {
       "album": {
@@ -16944,7 +16984,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 215093,
       "name": "Kit\u00e9",
       "url": "https://open.spotify.com/track/714aK4Z7RopS0NxlPl0jmr"
@@ -27235,6 +27275,24 @@
     },
     {
       "album": {
+        "name": "Planer",
+        "url": "https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK"
+      },
+      "artists": [
+        {
+          "name": "Gros Big",
+          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175481,
+      "name": "Planer",
+      "url": "https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5"
+    },
+    {
+      "album": {
         "name": "Avec vue sur l'amer",
         "url": "https://open.spotify.com/album/6FMxg2XZOxNju0RamLTm9I"
       },
@@ -27572,6 +27630,24 @@
       "duration_ms": 230084,
       "name": "Pool",
       "url": "https://open.spotify.com/track/4rtStE7kciNRNuJPaqTrWR"
+    },
+    {
+      "album": {
+        "name": "Porcelaine",
+        "url": "https://open.spotify.com/album/1m38qHondfJDG8bgAn8H3u"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Jarry",
+          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177752,
+      "name": "Porcelaine",
+      "url": "https://open.spotify.com/track/7J7EsDTsrRjqhPKKMQBJmf"
     },
     {
       "album": {
@@ -29476,7 +29552,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160358,
       "name": "Retour de flamme",
       "url": "https://open.spotify.com/track/2FBGeh8LBjI1YVbUSF1WKk"
@@ -29640,6 +29716,28 @@
       "duration_ms": 193240,
       "name": "Rien \u00e0 faire",
       "url": "https://open.spotify.com/track/6ldE46YQqyqq7wt9QF1vnO"
+    },
+    {
+      "album": {
+        "name": "Double Feature",
+        "url": "https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        },
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Rien \u00e0 faire",
+      "url": "https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal"
     },
     {
       "album": {
@@ -33548,6 +33646,28 @@
       "duration_ms": 220186,
       "name": "Tipatshimushtunan",
       "url": "https://open.spotify.com/track/1KZZIDJ4DyS4dnhPyXdOw0"
+    },
+    {
+      "album": {
+        "name": "Tit'souite",
+        "url": "https://open.spotify.com/album/775aLAglg7wbZxaGCYP7wb"
+      },
+      "artists": [
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        },
+        {
+          "name": "NAYRA",
+          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Tit'souite",
+      "url": "https://open.spotify.com/track/7ApiyLZOAueIeptD8rebbW"
     },
     {
       "album": {

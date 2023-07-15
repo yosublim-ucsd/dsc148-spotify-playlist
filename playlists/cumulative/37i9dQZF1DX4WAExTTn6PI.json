@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Americana's artists and hits of tomorrow. Cover: Jess Williamson",
+  "description": "Americana's artists and hits of tomorrow. Cover: Gabe Lee",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 144946,
       "name": "Property Line",
       "url": "https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn"
@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Drink The River",
+        "url": "https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lee",
+          "url": "https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263426,
+      "name": "The Wild",
+      "url": "https://open.spotify.com/track/67DcJLjYcJdAA2LMXFtob3"
+    },
+    {
+      "album": {
         "name": "The World: Alone",
         "url": "https://open.spotify.com/album/4azLnHgYxxuwuHoq64URiR"
       },
@@ -2934,6 +2952,24 @@
       "duration_ms": 230033,
       "name": "The World: Alone",
       "url": "https://open.spotify.com/track/5ItmN0D2K2Db0C71TSmG2H"
+    },
+    {
+      "album": {
+        "name": "This Far South",
+        "url": "https://open.spotify.com/album/078Nefie7KQPI2LW8gIHDP"
+      },
+      "artists": [
+        {
+          "name": "Tommy Prine",
+          "url": "https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "This Far South",
+      "url": "https://open.spotify.com/track/7aoLqFjMmh86wl4qRXunaP"
     },
     {
       "album": {
@@ -3046,6 +3082,24 @@
       "duration_ms": 187133,
       "name": "Tried & True",
       "url": "https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM"
+    },
+    {
+      "album": {
+        "name": "Varnado",
+        "url": "https://open.spotify.com/album/1uhS0UMkjr0g9zCNHgrFNU"
+      },
+      "artists": [
+        {
+          "name": "Adam Hood",
+          "url": "https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242869,
+      "name": "Varnado",
+      "url": "https://open.spotify.com/track/78ctqi5omDE6dJJ1AQNtub"
     },
     {
       "album": {

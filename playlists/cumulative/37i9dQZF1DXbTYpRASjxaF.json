@@ -1,8 +1,42 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Coruja BC1, Mc Neguinho do Kaxeta",
+  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest",
   "name": "Cop\u00e3o na m\u00e3o",
   "tracks": [
+    {
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
     {
       "album": {
         "name": "20G",
@@ -58,7 +92,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 152323,
       "name": "2H NA CAMA",
       "url": "https://open.spotify.com/track/1QEkVHaFwSFpwkm003tB9J"
@@ -644,7 +678,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 136615,
       "name": "Balan\u00e7a",
       "url": "https://open.spotify.com/track/093Xee7tdLahNGemZSdgM0"
@@ -1146,7 +1180,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 178775,
       "name": "Chandon",
       "url": "https://open.spotify.com/track/5f01KX8vSIrrHpPCe2ZCJu"
@@ -4917,6 +4951,40 @@
     },
     {
       "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
+      },
+      "artists": [
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295384,
+      "name": "Sarradeira",
+      "url": "https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv"
+    },
+    {
+      "album": {
         "name": "Scarface",
         "url": "https://open.spotify.com/album/4lxtG6f6ujBhJYA2Lrc3Uo"
       },
@@ -5044,6 +5112,32 @@
       "duration_ms": 147335,
       "name": "Se Prepara 2",
       "url": "https://open.spotify.com/track/4ho6IyVZ0TilPf7ctKd84D"
+    },
+    {
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104145,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
     },
     {
       "album": {

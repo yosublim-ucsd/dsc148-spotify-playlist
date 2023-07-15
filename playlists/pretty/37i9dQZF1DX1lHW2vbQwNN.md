@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 
 > Taking it back to the 2000s\. Cover: Clipse
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,243 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,349 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 71 | [Area Codes](https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 5:03 |
 | 72 | [U and Dat \(feat\. T\. Pain & Kandi Girl\)](https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kandi Girl](https://open.spotify.com/artist/41TccBHnkaVhhgCgl83JU8) | [My Ghetto Report Card](https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl) | 3:22 |
 | 73 | [Good Times](https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 3:31 |
-| 74 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
+| 74 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
 | 75 | [Bust It Baby, Pt\. 2 \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Definition of Real](https://open.spotify.com/album/4XYeXtHzp0x7wzgUyasKBA) | 4:00 |
-| 76 | [Hip\-Hop](https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy) | [Dead Prez](https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD) | [Let's Get Free](https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8) | 3:34 |
+| 76 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/5r29mFrurlVBbqJzjr2XW6) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 3:42 |
 | 77 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
 | 78 | [Rollout \(My Business\)](https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:56 |
 | 79 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHW2vbQwNN.md) - [plain]
 | 93 | [Sittin' Sidewayz \(feat\. Big Pokey\)](https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [Big Pokey](https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 3:48 |
 | 94 | [Stuntin' Like My Daddy \- Street](https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Like Father Like Son](https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp) | 4:27 |
 | 95 | [Hustler Musik](https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter II](https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6) | 5:03 |
-| 96 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 |
-| 97 | [Touch It](https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Big Bang](https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq) | 3:34 |
+| 96 | [Touch It](https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Big Bang](https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq) | 3:34 |
+| 97 | [Selfish](https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Detroit Deli \(A Taste Of Detroit\)](https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB) | 3:45 |
 | 98 | [Made You Look](https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [God's Son](https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY) | 3:23 |
 | 99 | [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 |
 | 100 | [On Fire](https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [The Hunger For More](https://open.spotify.com/album/0Nk2ClpAEN3dLyzpKDVE2v) | 3:07 |
 
-Snapshot ID: `MCwyZTA2ODJiYjg5NTM5ZTUwNDYxMDUyNzE3NmYzZGFhZDk4M2RhNjdi`
+Snapshot ID: `MCw1YzU0Yjg0OTljYWZlYjkxNmQxNTYxYTFmNjVlZjE2YTA2MzMwOTFm`

@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "01 N\u00e3o \u00c9 02",
+        "url": "https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "DJ Ak beats",
+          "url": "https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128503,
+      "name": "01 N\u00e3o \u00c9 02",
+      "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
+    },
+    {
+      "album": {
         "name": "10 a 10",
         "url": "https://open.spotify.com/album/5j8jPApDOC1JNdngfoVTGc"
       },
@@ -954,7 +980,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 188896,
       "name": "B.C.T",
       "url": "https://open.spotify.com/track/43eovYFvtH3MimBXSMjzMw"
@@ -1138,6 +1164,24 @@
       "duration_ms": 203294,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/5nzxFD95Uijg8YyhRGYylY"
+    },
+    {
+      "album": {
+        "name": "BARRAS & BARRAS",
+        "url": "https://open.spotify.com/album/7hk6SnodcEFVXZefWi8SKK"
+      },
+      "artists": [
+        {
+          "name": "A$TRO BOY",
+          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120697,
+      "name": "BARRAS & BARRAS",
+      "url": "https://open.spotify.com/track/5SlIDR9KTk0VbzkgQCHn0Y"
     },
     {
       "album": {
@@ -1494,7 +1538,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 171743,
       "name": "Bombay",
       "url": "https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP"
@@ -2833,6 +2877,28 @@
     },
     {
       "album": {
+        "name": "Doped",
+        "url": "https://open.spotify.com/album/3XrSIT98nDubM10KYsVFNA"
+      },
+      "artists": [
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        },
+        {
+          "name": "Bhelt",
+          "url": "https://open.spotify.com/artist/3YCvyU6SyOyALcK05c9cNn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96927,
+      "name": "Doped",
+      "url": "https://open.spotify.com/track/6lO0mFo30q4SI6RHkjNCUF"
+    },
+    {
+      "album": {
         "name": "Dose de Mim",
         "url": "https://open.spotify.com/album/6drDpS4S8GkkkV6vWVIMv3"
       },
@@ -3744,7 +3810,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184880,
       "name": "Frio & Calculista",
       "url": "https://open.spotify.com/track/4J1c6maTGuWirmGCOgrfsK"
@@ -3770,6 +3836,24 @@
       "duration_ms": 253913,
       "name": "Frio na Barriga",
       "url": "https://open.spotify.com/track/2hZ6Ap7gFkSoGBOFHw89Ql"
+    },
+    {
+      "album": {
+        "name": "MEGAZORD",
+        "url": "https://open.spotify.com/album/5BDdi82TqnlfNM74cFV0s0"
+      },
+      "artists": [
+        {
+          "name": "A Banca 021",
+          "url": "https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103500,
+      "name": "FUMANDO MACONHA",
+      "url": "https://open.spotify.com/track/4orAZgUtG6vw63fqdTXjE6"
     },
     {
       "album": {
@@ -4175,6 +4259,24 @@
     },
     {
       "album": {
+        "name": "Hotwheels",
+        "url": "https://open.spotify.com/album/7llrWWsS9AyromqsydpFU5"
+      },
+      "artists": [
+        {
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Hotwheels",
+      "url": "https://open.spotify.com/track/69AqySpuWkazInvg0UN1Ii"
+    },
+    {
+      "album": {
         "name": "HUGO BOSS",
         "url": "https://open.spotify.com/album/7mW0TZiMqIwviIVjSjcPPk"
       },
@@ -4260,7 +4362,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 201685,
       "name": "Indo Al\u00e9m",
       "url": "https://open.spotify.com/track/4Ni024mbwhlw5PMTGdMrlw"
@@ -4794,7 +4896,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184320,
       "name": "L\u00e1grimas Em Notas",
       "url": "https://open.spotify.com/track/38q8Is8sQzAZ6JbSZtYbr6"
@@ -5004,7 +5106,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 200833,
       "name": "Marte",
       "url": "https://open.spotify.com/track/77Dr548oQBYjy5zbVyn8QL"
@@ -5338,7 +5440,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 190074,
       "name": "Meu Bonde",
       "url": "https://open.spotify.com/track/3z6qoU5pfQDtSvYctC3AkH"
@@ -7911,6 +8013,40 @@
     },
     {
       "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206451,
+      "name": "Sal e Pimenta",
+      "url": "https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA"
+    },
+    {
+      "album": {
         "name": "Samba pra Ela",
         "url": "https://open.spotify.com/album/4hkNExTU2gOnW4RZfnrRCa"
       },
@@ -8278,6 +8414,24 @@
       "duration_ms": 206400,
       "name": "Sinestesia",
       "url": "https://open.spotify.com/track/38E52hvWv8Elz2RiEMSOG7"
+    },
+    {
+      "album": {
+        "name": "Sob Efeito (A Cone Voltou)",
+        "url": "https://open.spotify.com/album/5c9xhUOGnoSNFtJnOQ5hkZ"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Sob Efeito (A Cone Voltou)",
+      "url": "https://open.spotify.com/track/3OLrrDfRsEYVq2IjXNlPXB"
     },
     {
       "album": {
@@ -8942,7 +9096,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 197078,
       "name": "T\u00e3o Linda",
       "url": "https://open.spotify.com/track/5Rwd9l1JcvUe0Juv7hNF3N"
@@ -9150,6 +9304,24 @@
       "duration_ms": 195000,
       "name": "Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu"
+    },
+    {
+      "album": {
+        "name": "Velho Balan\u00e7o",
+        "url": "https://open.spotify.com/album/612Bp30x7IQXyZuSpaRpRY"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109387,
+      "name": "Velho Balan\u00e7o",
+      "url": "https://open.spotify.com/track/6thLa7MmdvRH4mIAywsEft"
     },
     {
       "album": {

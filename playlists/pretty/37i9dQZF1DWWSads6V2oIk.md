@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,524 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,590 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 31 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
 | 32 | [Sleepy Rainforest](https://open.spotify.com/track/2zwb8MgGoTTA6eDUQ563v1) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 |
 | 33 | [Refreshing Claps In Thunderstorm](https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Thunderstorm](https://open.spotify.com/album/345w1De5Lt2L63DHc1kdYk) | 8:30 |
-| 34 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 |
-| 35 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
+| 34 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
+| 35 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 |
 | 36 | [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 |
 | 37 | [Waterfall Constant Roar of a Mountain Waterfall to Reduce Stress\. Nature Sounds Relaxing](https://open.spotify.com/track/0A71OLE9BN4ImZ3XTCOHP7) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Green Escape \- Water Sound, Natural Sounds and Relaxing Sounds of Nature](https://open.spotify.com/album/1te6990GFMS4RRg7gJzPUF) | 13:16 |
 | 38 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 63 | [Crickets and Birds in the Rain](https://open.spotify.com/track/43xs3xCdJFZX1EcmtSD9JK) | [Alba Criado](https://open.spotify.com/artist/4t6XVv0J5iRV077wO1jmp8) | [Crickets Singing in the Rain](https://open.spotify.com/album/40NCztBiktzflPZqsLOBCR) | 2:08 |
 | 64 | [Soothing Sounds Of The Forest](https://open.spotify.com/track/66i2MpxMRrYegF4Ca68egW) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
 | 65 | [Forest River](https://open.spotify.com/track/31aIT2C2m1JOA11bc2UR7G) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 3:03 |
-| 66 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 |
+| 66 | [Dreamy Rainforest](https://open.spotify.com/track/69bd86Umw7LLAkKIxxiQGQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Walk in the Wild](https://open.spotify.com/album/2HqQGJKCRxwLEKsTtUUDxq) | 3:04 |
 | 67 | [Pouring Forest](https://open.spotify.com/track/7MWXKEqFGcCV2k9EKeuYd0) | [Neoaves](https://open.spotify.com/artist/6fWfY05xUKeB3AGEbqMzFK) | [Pouring Forest](https://open.spotify.com/album/2bHq8aLgcn4r73M5GOhzgw) | 2:02 |
-| 68 | [Wake up in the Forest](https://open.spotify.com/track/2QEW9KdCSsttSi9C8ZGsC7) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [One day in the Rainforest](https://open.spotify.com/album/4sgoIPOKfofeLrKvAvX9qq) | 2:27 |
-| 69 | [Rain Forest Ambience with Medium Distant Bird Chirps and Crickets with Sporadic Close up Exotic Bird Calls and Distant Howler Monkey](https://open.spotify.com/track/2znPXY4YpOqHMrmEUlcTL1) | [The Hollywood Edge Sound Effects Library](https://open.spotify.com/artist/45dR66czwTjbWT4VaTNP8l) | [Nature Ambiences, Vol\. 2](https://open.spotify.com/album/5e7gIIAYQGCJEoMHjUZYAs) | 2:51 |
+| 68 | [Rain Forest Ambience with Medium Distant Bird Chirps and Crickets with Sporadic Close up Exotic Bird Calls and Distant Howler Monkey](https://open.spotify.com/track/2znPXY4YpOqHMrmEUlcTL1) | [The Hollywood Edge Sound Effects Library](https://open.spotify.com/artist/45dR66czwTjbWT4VaTNP8l) | [Nature Ambiences, Vol\. 2](https://open.spotify.com/album/5e7gIIAYQGCJEoMHjUZYAs) | 2:51 |
+| 69 | [Wake up in the Forest](https://open.spotify.com/track/2QEW9KdCSsttSi9C8ZGsC7) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [One day in the Rainforest](https://open.spotify.com/album/4sgoIPOKfofeLrKvAvX9qq) | 2:27 |
 | 70 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |
 | 71 | [Rainforest Dreaming](https://open.spotify.com/track/1SrBrcJ4GfJqabZyM8WoNo) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 |
-| 72 | [Crickets Singing in the Rain](https://open.spotify.com/track/3vZDRvQcdxROqj6E5WxK63) | [Alba Criado](https://open.spotify.com/artist/4t6XVv0J5iRV077wO1jmp8) | [Crickets Singing in the Rain](https://open.spotify.com/album/40NCztBiktzflPZqsLOBCR) | 2:21 |
-| 73 | [Dreams In The Woods](https://open.spotify.com/track/1MSdapcq0Zu6C7CZ1A6enr) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 |
+| 72 | [Dreams In The Woods](https://open.spotify.com/track/1MSdapcq0Zu6C7CZ1A6enr) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Waterfall Creek](https://open.spotify.com/album/1yKJFw1dDWFr7cwGBHz4jg) | 3:28 |
+| 73 | [Crickets Singing in the Rain](https://open.spotify.com/track/3vZDRvQcdxROqj6E5WxK63) | [Alba Criado](https://open.spotify.com/artist/4t6XVv0J5iRV077wO1jmp8) | [Crickets Singing in the Rain](https://open.spotify.com/album/40NCztBiktzflPZqsLOBCR) | 2:21 |
 | 74 | [Rainbirds In The Night](https://open.spotify.com/track/6NBsSdXls9zmJ4VeBAY30x) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [Rainbirds In The Night](https://open.spotify.com/album/0XqWwqOOTEHZA8xUWDY7tp) | 2:23 |
 | 75 | [Life in the Rainforest](https://open.spotify.com/track/1a8rEYQBRNGFJEjZRTvaUr) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [! ! ! ! ! ! " " Vision " " ! ! ! ! ! !](https://open.spotify.com/album/4GPKIDyResFcl3mLyieVEC) | 3:15 |
-| 76 | [Dreamy Rainforest](https://open.spotify.com/track/69bd86Umw7LLAkKIxxiQGQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Walk in the Wild](https://open.spotify.com/album/2HqQGJKCRxwLEKsTtUUDxq) | 3:04 |
+| 76 | [Catching the Wild](https://open.spotify.com/track/6YEz0RELNHzC4NyxGahieP) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Below the Tree Crowns](https://open.spotify.com/album/6WpLLecUsmYisQNQpJcU6A) | 3:32 |
 | 77 | [Meet Me In The Woods](https://open.spotify.com/track/7wYt8tyEAcA9UFsM0vx8Pi) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 |
 | 78 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 |
 | 79 | [Insects in Rain](https://open.spotify.com/track/3Vh7Iwv7haRwZ967WwPk4C) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 2:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 89 | [Moving Stream](https://open.spotify.com/track/0Ud2z5rGh4kO82npWO2QS2) | [Ocean Sounds ACE](https://open.spotify.com/artist/4syiBrG4nPb9SCaHgyAHL8) | [Moving Stream](https://open.spotify.com/album/7L7oy17ZYgFOnauAewCUL1) | 2:15 |
 | 90 | [Relaxing Forest Harmony](https://open.spotify.com/track/0xZCJfCtC2PDz93W8D2iNl) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Relaxing Forest Harmony](https://open.spotify.com/album/1ipaOQEUmzSMJGC7xvOQ81) | 4:11 |
 
-Snapshot ID: `MCwwMzA4ZjNmYWM5MDU1MTZkNWM0MDgzYjcwMmIwZTdmNGFiNTViZjY3`
+Snapshot ID: `MCw1NzA4YzZjYThlNmIzZDQ0YzI5MTZhZGZhNTQ2OGE3OWI3NzZlZmIx`

@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 376486,
+  "num_followers": 376803,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTRmNWUyZGE5MzY2NmVmMWQ1NTJlMjVkOTZhMDA4YTI4N2FiMjNk",
+  "snapshot_id": "MCw2NjNkMmRjOTdmN2RmYWY3MTIxMThmZTE0MTBlYjJjNmFjZTRhMDEz",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -179,26 +179,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 233250,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Flakk Daniel's Lp",
         "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 245190,
       "name": "Buenos Genes",
       "url": "https://open.spotify.com/track/76NtMPMpA6fuUH4euMYZoD"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -819,18 +819,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Flakk Daniel's Lp",
-        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+        "name": "Sexto Sentido (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 194851,
-      "name": "Lejos de T\u00ed",
-      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
+      "duration_ms": 227291,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -863,26 +867,6 @@
       "duration_ms": 300187,
       "name": "Caile",
       "url": "https://open.spotify.com/track/5lr877wwUsB8inLGywHKxa"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Sexto Sentido (feat. Bad Bunny)",
-        "url": "https://open.spotify.com/album/63RZ9So4XZXllOEUw5h5OV"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227291,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/1XDBrOUa5swy7lhO06mggm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -927,6 +911,22 @@
       "duration_ms": 517809,
       "name": "47 - Remix",
       "url": "https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Flakk Daniel's Lp",
+        "url": "https://open.spotify.com/album/3Bzyfh9ZBRx6lnniuOuMvX"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Lejos de T\u00ed",
+      "url": "https://open.spotify.com/track/30pCOQE19RvNmHq78Svlkm"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "A fuego",
-      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Nivel",
         "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 192000,
       "name": "Perdoname Si Llego Tarde",
       "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "A fuego",
+      "url": "https://open.spotify.com/track/5gkSbR9E0jDgv65XeT5v5R"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "PURPURA",
-        "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "PURPURA",
-      "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Ay Mami (La Sociedad Del Dinero) [Millionaire Trap]",
         "url": "https://open.spotify.com/album/2P70AnmLAsBpZZWXysxfGt"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 226186,
       "name": "Ay Mami (La Sociedad Del Dinero) [Millionaire Trap]",
       "url": "https://open.spotify.com/track/0sfp8mcGLbHPgoWDskWGyy"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "PURPURA",
+        "url": "https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "PURPURA",
+      "url": "https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz"
     },
     {
       "added_at": "2022-06-08 18:27:09",

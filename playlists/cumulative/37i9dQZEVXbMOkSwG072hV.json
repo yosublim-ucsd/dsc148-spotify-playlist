@@ -4677,6 +4677,28 @@
     },
     {
       "album": {
+        "name": "UM Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "brinks!",
+      "url": "https://open.spotify.com/track/3QOYcmlQz9xu9XRToik7oc"
+    },
+    {
+      "album": {
         "name": "Brotou no Baile",
         "url": "https://open.spotify.com/album/6zVLn50KohcFWYI7FNKket"
       },
@@ -10583,6 +10605,24 @@
     },
     {
       "album": {
+        "name": "FAZ O VUK VUK",
+        "url": "https://open.spotify.com/album/1SQjcwJYnmFtHC3gHkPIFf"
+      },
+      "artists": [
+        {
+          "name": "DJ 2M DE SOORETAMA",
+          "url": "https://open.spotify.com/artist/5haFS11upIughi05YzjPGL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127999,
+      "name": "FAZ O VUK VUK",
+      "url": "https://open.spotify.com/track/0O1R33t4N7YkcwPBJl8HyM"
+    },
+    {
+      "album": {
         "name": "Fazendinha Sessions #1: \u00c9 Disso Que N\u00f3is Gosta",
         "url": "https://open.spotify.com/album/3Gh6BHiFP7idL6LCaaik86"
       },
@@ -16106,7 +16146,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183652,
       "name": "Mas Existe um Lugar",
       "url": "https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv"
@@ -21562,7 +21602,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 157317,
       "name": "Passarinho",
       "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"

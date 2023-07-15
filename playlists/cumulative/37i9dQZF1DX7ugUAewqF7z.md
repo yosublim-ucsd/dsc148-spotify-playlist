@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-61 songs - 3 hr 31 min
+65 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Break up With Her](https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz) | [Kim Hyun Jung](https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO) | [Legend](https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2) | 4:04 | 2023-06-15 |  |
 | [CHECKMATE](https://open.spotify.com/track/4q1GHje15U7ViWDWSLydPR) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Road to Kingdom FINAL](https://open.spotify.com/album/4TgA5simte3kvIacVDDBEj) | 3:11 | 2023-06-15 |  |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2023-06-15 |  |
+| [Eul \(Feat\. BIG Naughty\)](https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [2 Little Bites From \[Fatal Album Ⅲ\]](https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S) | 2:58 | 2023-07-14 |  |
 | [first love](https://open.spotify.com/track/1FRvRsa1hNH9ykwnmINJIr) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Na Yun Gwon](https://open.spotify.com/artist/0UCjY4RwfRkBzabQbwykhT) | [First Love](https://open.spotify.com/album/1owA0EttITvg87XbfiAPHz) | 4:17 | 2023-06-15 |  |
 | [Friday \(feat.Jang Yi\-jeong\)](https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Jang Yi\-jeong](https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F) | [Modern Times – Epilogue](https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0) | 3:37 | 2023-06-15 |  |
 | [Gold Dust](https://open.spotify.com/track/0Hj4YtlD0Q5O0srdZxJUtl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 4:09 | 2023-06-15 |  |
@@ -38,6 +39,7 @@
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2023-07-03 |  |
 | [Monthly Project 2012 June Yoon Jong Shin \- Uphill Road](https://open.spotify.com/track/1i4nfd0n3FurIFsXcJGxdq) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2012 June Yoon Jong Shin \- Uphill Road](https://open.spotify.com/album/2HJUf6esRJKgY4ceH92mxt) | 4:43 | 2023-06-23 |  |
 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2023-06-15 |  |
+| [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2023-07-14 |  |
 | [Nitpicking](https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Nitpicking](https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT) | 3:33 | 2023-06-15 |  |
 | [Not Spring, Love, or Cherry Blossoms](https://open.spotify.com/track/1IdM9JrXYuMYiTdM983oH4) | [HIGH4](https://open.spotify.com/artist/3cpG0SJLIJ1qpQfjmlWlzo), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Not Spring, Love, or Cherry Blossoms](https://open.spotify.com/album/171jiqtOAyvjf2JCfhuIMk) | 3:15 | 2023-06-15 |  |
 | [Officially Missing You, Too](https://open.spotify.com/track/1HOcUR5aloWDwLAsPtWwel) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [re;code Episode I](https://open.spotify.com/album/3xmw76QvinagFaobSre2oX) | 3:45 | 2023-06-15 |  |
@@ -55,7 +57,9 @@
 | [Stars over me](https://open.spotify.com/track/6DUm0mHHRdQSaVMYYstk5x) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:20 | 2023-06-15 |  |
 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 | 2023-07-03 |  |
 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 | 2023-06-15 |  |
+| [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-07-14 |  |
 | [sweet little kitty](https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra) | [cherryfilter](https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2) | [Made In Korea?](https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk) | 3:50 | 2023-07-07 |  |
+| [Thank You for the Memories](https://open.spotify.com/track/4p1rvfjnXcEVg513qZPGVT) | [Doldams](https://open.spotify.com/artist/1Kl9OLx9kTOZVeSHA9yZkU) | [Romantic Doctor 3 OST Part.10](https://open.spotify.com/album/6pA4gih29c7CIgxhx11BNS) | 3:30 | 2023-07-14 |  |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2023-06-15 |  |
 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2023-06-23 |  |
 | [Very Good](https://open.spotify.com/track/6svBgFCnXYst3N8OJJ1XAB) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:20 | 2023-06-15 |  |

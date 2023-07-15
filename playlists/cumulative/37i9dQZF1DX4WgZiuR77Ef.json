@@ -2269,6 +2269,28 @@
     },
     {
       "album": {
+        "name": "Let's Party (feat. Sha Sha Jones)",
+        "url": "https://open.spotify.com/album/3FMoeHPuAVuYiVwzjEwVue"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        },
+        {
+          "name": "Sha Sha Jones",
+          "url": "https://open.spotify.com/artist/0w8rt6SigpH4SOUOxJxWxq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "Let's Party",
+      "url": "https://open.spotify.com/track/2TlbhmuwUA0gEN4E9o5JRA"
+    },
+    {
+      "album": {
         "name": "Lifted",
         "url": "https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh"
       },
@@ -3036,7 +3058,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 314326,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/3Y0WMxJ7Mpb7xe2RTa1LkD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=t7JJXl1yQUCioA8ywXwUaA"> Psycho YP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,279 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,346 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
 | 70 | [Barawo](https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Barawo](https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK) | 3:49 |
 
-Snapshot ID: `MCwzZDY0YmNmNmYwOTEwOTdhZTEyZjY0MjVlOGZmNzYxZjcxMDJlMjc1`
+Snapshot ID: `MCwwM2EyMGUzZDRjYjg1OGIzMjYwZGYwNDk0ZDgyNzQ2ZDJjNjM0MTQx`

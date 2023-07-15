@@ -541,6 +541,36 @@
     },
     {
       "album": {
+        "name": "St\u00f6lzel: Bist du bei mir (Formerly Attrib. J.S. Bach as BWV 508, Transcr. for Oboe, Solo Violin, Strings and Basso continuo)",
+        "url": "https://open.spotify.com/album/4Xhfm6Crq03LuzOCTHsTOK"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Heinrich St\u00f6lzel",
+          "url": "https://open.spotify.com/artist/1Wx4iiPR6d1bFxxAujNLTL"
+        },
+        {
+          "name": "Albrecht Mayer",
+          "url": "https://open.spotify.com/artist/1Mbvbes7vW2Pg3bWD9aDgW"
+        },
+        {
+          "name": "Gottfried Von Der Goltz",
+          "url": "https://open.spotify.com/artist/4Jq1SP0L2atkSMv5wNOU66"
+        },
+        {
+          "name": "Berliner Barock Solisten",
+          "url": "https://open.spotify.com/artist/7mEuyFgTPiTRgCh3Hzuwsl"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198999,
+      "name": "Bist du bei mir (Formerly Attrib. J.S. Bach as BWV 508, Transcr. for Oboe, Solo Violin, Strings and Basso continuo)",
+      "url": "https://open.spotify.com/track/5Gc6ZSgo7SJ2XceUOARmZv"
+    },
+    {
+      "album": {
         "name": "Bizet : Carmen",
         "url": "https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt"
       },
@@ -819,7 +849,7 @@
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 151480,
+      "duration_ms": 151733,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/61dYvvfIRtIDFuqZypPAta"
     },
@@ -4645,6 +4675,28 @@
     },
     {
       "album": {
+        "name": "Price: String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
+        "url": "https://open.spotify.com/album/50Cnys8oPsROratizJAoed"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Sphinx Virtuosi",
+          "url": "https://open.spotify.com/artist/61Cl1X980GnqC4tOH1Cdyn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426889,
+      "name": "String Quartet No. 2 in A Minor: II. Andante cantabile (Arr. Colbert for String Ensemble)",
+      "url": "https://open.spotify.com/track/4dAudDd5aYKHSrVzMSR8HI"
+    },
+    {
+      "album": {
         "name": "Haydn: String Quartets Nos. 61-63",
         "url": "https://open.spotify.com/album/6h2aE7rMg5EDy9ldbZCgQY"
       },
@@ -6350,6 +6402,40 @@
       "duration_ms": 424653,
       "name": "Violin Concerto In D Major, Op. 35: III. Finale: Allegro assai vivace",
       "url": "https://open.spotify.com/track/7hOLwSaTSkrqxSMzj4bXI1"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Violin Concerto in D Major, Op. 61 (Cadenzas: Kreisler / Due\u00f1as)",
+        "url": "https://open.spotify.com/album/6IPQ1iPTW32oFXlM1bnbVP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Fritz Kreisler",
+          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Wiener Symphoniker",
+          "url": "https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O"
+        },
+        {
+          "name": "Manfred Honeck",
+          "url": "https://open.spotify.com/artist/2P9hqdON5vDIRJOEj0Ls2X"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1637893,
+      "name": "Violin Concerto in D Major, Op. 61: I. Allegro ma non troppo (Cadenza: Kreisler)",
+      "url": "https://open.spotify.com/track/3v3TSr6ClqKFJUyTdgeYuL"
     },
     {
       "album": {

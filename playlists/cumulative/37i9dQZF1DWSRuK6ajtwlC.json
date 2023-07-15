@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La P\u00f3cima Norte\u00f1a en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. T3R Elemento & Conjunto Rienda Real en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184362,
       "name": "Chiquilla Preciosa - En Vivo",
       "url": "https://open.spotify.com/track/1KM55Ay5rJDtKNtwfZVZEc"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 218965,
       "name": "El Amor Se Fue - En Vivo",
       "url": "https://open.spotify.com/track/1QKhEVwrAFLAJKfI86n2QC"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180192,
       "name": "Mi Amigo el Alcohol",
       "url": "https://open.spotify.com/track/3jQHDX3h1NGkNOtOUGHgo6"
@@ -1221,6 +1221,28 @@
     },
     {
       "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240128,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+    },
+    {
+      "album": {
         "name": "Por Las Noches",
         "url": "https://open.spotify.com/album/1qrllTt5txCvAzOUx25gMS"
       },
@@ -1280,6 +1302,24 @@
       "duration_ms": 207679,
       "name": "P\u00eddeme",
       "url": "https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy"
+    },
+    {
+      "album": {
+        "name": "Que Voy A Hacer Con Mi Amor",
+        "url": "https://open.spotify.com/album/0CfMME8cZVpXWZ0nUhnFPs"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149892,
+      "name": "Que Voy A Hacer Con Mi Amor",
+      "url": "https://open.spotify.com/track/5rgcyEhTnv8Lc92NQ9bgkL"
     },
     {
       "album": {
@@ -1410,6 +1450,28 @@
       "duration_ms": 185338,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
+    },
+    {
+      "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
     },
     {
       "album": {

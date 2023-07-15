@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > celebrating a new generation of rave music feat\. southstar, DJ Gigola, Geo22, Charlotte Plank, TELESHOP & DJ Mell G
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,361 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,723 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 31 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 | 32 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
 | 33 | [Flow My Tears](https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Flow My Tears](https://open.spotify.com/album/2CFhxHIc7rihE0lzqAZYYO) | 6:10 |
-| 34 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
+| 34 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
 | 35 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/3bYEYuHHiX1TmdLUiWykIc) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/album/6NquqivifGK4u1fqazCxqi) | 3:26 |
-| 36 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
+| 36 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
 | 37 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |
 | 38 | [Unity \- Original Mix](https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF) | [Droplex](https://open.spotify.com/artist/5yePldMswAMD9fvIfRUc2o), [Steve C](https://open.spotify.com/artist/4XSkgDkwi4AQXvtO0EMGcb) | [Unity \(Original Mix\)](https://open.spotify.com/album/5W3X60uJ524fwrtijDUcAy) | 5:12 |
 | 39 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 | 50 | [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 |
 
-Snapshot ID: `MCwxOGVkMGM2NTM1NTk0NTUxNzhjZGUzMmE4ZDFlYWE4ZWZlNDFmNzMz`
+Snapshot ID: `MCw1NDViYjdiNWQ3NDJjNTgzMzdlZThlMDk2YTUwZDYwYmI2ZGJiZDYy`

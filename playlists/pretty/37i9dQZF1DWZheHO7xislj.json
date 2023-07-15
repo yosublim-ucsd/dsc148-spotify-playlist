@@ -1,12 +1,12 @@
 {
   "description": "Classic and new soul music for the perfect dinner.",
-  "num_followers": 136307,
+  "num_followers": 136319,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzE2ZjcxMDNkMGIyMTNjZGEyMGMwMjM5OTAzODE1YjEzMjZiOGZj",
+  "snapshot_id": "MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2",
   "tracks": [
     {
       "added_at": "2023-06-27 13:29:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "We Can Work It Out",
-      "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "No Time For Dreaming",
         "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 183440,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/36X97rcBwZSa79eNfM1kKN"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "We Can Work It Out",
+      "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "The World (Is Going Up in Flames)",
-      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "A Cupid's Valentine",
         "url": "https://open.spotify.com/album/0cvF6655OPZeLDYeU8UqL6"
       },
@@ -1067,6 +1047,26 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up in Flames)",
+      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 316160,
       "name": "On Broadway",
       "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Groove Curse",
-        "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Songs In A Minor",
         "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 237626,
       "name": "How Come You Don't Call Me",
       "url": "https://open.spotify.com/track/29cup7R0CQiUB1lj4Laq72"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Groove Curse",
+        "url": "https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 275826,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Stax-Volt: The Complete Singles 1959-1968",
-        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Try A Little Tenderness",
-      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Soul Messin'",
         "url": "https://open.spotify.com/album/5WPhlzl38yomyOqn5MNnMe"
       },
@@ -2279,18 +2263,18 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "The Very Best of Solomon Burke",
-        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
       },
       "artists": [
         {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Got to Get You off My Mind",
-      "url": "https://open.spotify.com/track/2aBa2XO23shN0lQjpL0G1K"
+      "duration_ms": 200626,
+      "name": "Try A Little Tenderness",
+      "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2319,6 +2303,22 @@
       "duration_ms": 264866,
       "name": "Wake up Everybody (feat. Common & Melanie Fiona)",
       "url": "https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "The Very Best of Solomon Burke",
+        "url": "https://open.spotify.com/album/6qnOfoAUz11fZ98GFilmKE"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Got to Get You off My Mind",
+      "url": "https://open.spotify.com/track/2aBa2XO23shN0lQjpL0G1K"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
-        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 354400,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/2U7X7mPD4wSp0capCGfpmM"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Remember the Rain",
         "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 280062,
       "name": "Remember the Rain",
       "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Who Is Jill Scott? - Words and Sounds, Vol. 1",
+        "url": "https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 354400,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/2U7X7mPD4wSp0capCGfpmM"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -2831,26 +2831,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Family Dinner - Vol. 1",
-        "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        },
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 455640,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "The Best Of William Bell",
         "url": "https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb"
       },
@@ -2867,6 +2847,26 @@
       "duration_ms": 160933,
       "name": "Private Number",
       "url": "https://open.spotify.com/track/0j0NJyTIMkozPchYkvGoOS"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Family Dinner - Vol. 1",
+        "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 455640,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Beach Diggin', Vol. 3",
-        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Houston",
-          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "I Want to Make It with You",
-      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 252213,
       "name": "Tell Me A Tale",
       "url": "https://open.spotify.com/track/3ZRvYw3UuvHemty0UHKRSI"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Beach Diggin', Vol. 3",
+        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Houston",
+          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "I Want to Make It with You",
+      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3183,22 +3183,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "Very Dionne",
-        "url": "https://open.spotify.com/album/1qBpQ22zaCQzTLBW28sWO3"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 170813,
-      "name": "Walk the Way You Talk",
-      "url": "https://open.spotify.com/track/64nfPHFk5A30jsH0aFwoPl"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/2J3eJIHwv0u4SkFO81F3Gf"
       },
@@ -3211,6 +3195,22 @@
       "duration_ms": 230280,
       "name": "Space of You",
       "url": "https://open.spotify.com/track/3gkYWg3IFAWmRrXVr0kMh0"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "Very Dionne",
+        "url": "https://open.spotify.com/album/1qBpQ22zaCQzTLBW28sWO3"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Walk the Way You Talk",
+      "url": "https://open.spotify.com/track/64nfPHFk5A30jsH0aFwoPl"
     },
     {
       "added_at": "2023-06-27 13:29:38",
@@ -3247,22 +3247,6 @@
     {
       "added_at": "2023-06-27 13:29:38",
       "album": {
-        "name": "W.E.L.F.A.R.E",
-        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
-      },
-      "artists": [
-        {
-          "name": "Antonio Castro",
-          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
-        }
-      ],
-      "duration_ms": 168229,
-      "name": "W.E.L.F.A.R.E",
-      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
-    },
-    {
-      "added_at": "2023-06-27 13:29:38",
-      "album": {
         "name": "Boss Man",
         "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
       },
@@ -3295,6 +3279,22 @@
       "duration_ms": 386866,
       "name": "Compared to What",
       "url": "https://open.spotify.com/track/6HwUwxon7QjBIf75SCz2QD"
+    },
+    {
+      "added_at": "2023-06-27 13:29:38",
+      "album": {
+        "name": "W.E.L.F.A.R.E",
+        "url": "https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw"
+      },
+      "artists": [
+        {
+          "name": "Antonio Castro",
+          "url": "https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y"
+        }
+      ],
+      "duration_ms": 168229,
+      "name": "W.E.L.F.A.R.E",
+      "url": "https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF"
     },
     {
       "added_at": "2023-06-27 13:29:38",

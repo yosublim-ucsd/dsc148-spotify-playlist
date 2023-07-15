@@ -1,13 +1,45 @@
 {
-  "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 41552,
+  "description": "A different shade of the blues. Cover: Dan Auerbach",
+  "num_followers": 41581,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWYzOWEyNDMyMDMwNmE4OWVlMmQ1MGU3YTQyMmM1N2E5ODViYjEy",
+  "snapshot_id": "MCwxYzk4MTZlZjJjYWRlN2MwYjJmMWYyZTMxOTQ1NTE3YjVmNjEzY2Jl",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Every Chance I Get (I Want You In The Flesh)",
+        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 248004,
+      "name": "Every Chance I Get (I Want You In The Flesh)",
+      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Heaven Help Me",
+        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Heaven Help Me",
+      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+    },
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
@@ -25,20 +57,44 @@
       "url": "https://open.spotify.com/track/2GbOkXVIIjtkt17jaz8xui"
     },
     {
-      "added_at": "2023-06-23 04:01:00",
+      "added_at": "2022-08-31 19:53:08",
       "album": {
-        "name": "Heaven Help Me",
-        "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
+        "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
+        "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
       },
       "artists": [
         {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        },
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Heaven Help Me",
-      "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+      "duration_ms": 278297,
+      "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
+      "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
+    },
+    {
+      "added_at": "2022-08-31 19:53:08",
+      "album": {
+        "name": "Color Where You Are",
+        "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
+      },
+      "artists": [
+        {
+          "name": "Cris Jacobs",
+          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
+        }
+      ],
+      "duration_ms": 227300,
+      "name": "Under the Big Top",
+      "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -73,30 +129,6 @@
       "url": "https://open.spotify.com/track/3QFAO7ZN8wxBl5eEEwgZ6a"
     },
     {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
-        "url": "https://open.spotify.com/album/4G0HVKhUTFI2sqM4CZdN2B"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        },
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        }
-      ],
-      "duration_ms": 278297,
-      "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
-      "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "To Whom It May Concern,",
@@ -111,22 +143,6 @@
       "duration_ms": 173053,
       "name": "Beautiful Women",
       "url": "https://open.spotify.com/track/2udaizsOJPOvmZf7q8qL7u"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Color Where You Are",
-        "url": "https://open.spotify.com/album/1KDIWuNEljTyLIgeMYq0rM"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        }
-      ],
-      "duration_ms": 227300,
-      "name": "Under the Big Top",
-      "url": "https://open.spotify.com/track/2RPRG4CSmUEKw16kdTNivn"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 191933,
       "name": "Bump that Mother",
       "url": "https://open.spotify.com/track/5UOyPqtOZwwwGIyp375MyE"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Reaching",
-        "url": "https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Reaching",
-      "url": "https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B"
     },
     {
       "added_at": "2022-08-31 19:53:08",

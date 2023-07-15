@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 48625,
+  "num_followers": 48636,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzliNDM2OWRmZWVmMjIxMDI4ZmU5Y2I4MWQ4ZTA1ODg1M2E4MzA4",
+  "snapshot_id": "MCxiMTcyYWU5MGU5ODE1Y2EyODYwYTYxM2NlN2NlODI0MTIyNDk4YjU5",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Guitar Pop Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
-      },
-      "artists": [
-        {
-          "name": "Edy Hafler",
-          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
-        }
-      ],
-      "duration_ms": 150101,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bella Donna",
         "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Guitar Pop Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
+      },
+      "artists": [
+        {
+          "name": "Edy Hafler",
+          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
+        }
+      ],
+      "duration_ms": 150101,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Commitments",
-        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
-      },
-      "artists": [
-        {
-          "name": "Affe Reidhoff",
-          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
-        }
-      ],
-      "duration_ms": 194944,
-      "name": "Commitments",
-      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Recital Flamenco. 12 de Sus Toques Originales",
         "url": "https://open.spotify.com/album/35I2VAs6hVpC3pobXmNSrh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 279293,
       "name": "El Ca\u00f1averal - Guajira",
       "url": "https://open.spotify.com/track/70aQ5WqBFN8bpyRyeaucwL"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Commitments",
+        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
+      },
+      "artists": [
+        {
+          "name": "Affe Reidhoff",
+          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
+        }
+      ],
+      "duration_ms": 194944,
+      "name": "Commitments",
+      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ponte Vecchio",
-        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
-      },
-      "artists": [
-        {
-          "name": "Indigo Mazati",
-          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
-        }
-      ],
-      "duration_ms": 148716,
-      "name": "Ponte Veccio",
-      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Wasi",
         "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 152663,
       "name": "Me Estas Haciendo Falta",
       "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ponte Vecchio",
+        "url": "https://open.spotify.com/album/1qozWuJvoOqgrLSLdcHnKc"
+      },
+      "artists": [
+        {
+          "name": "Indigo Mazati",
+          "url": "https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw"
+        }
+      ],
+      "duration_ms": 148716,
+      "name": "Ponte Veccio",
+      "url": "https://open.spotify.com/track/391SJ2oXg8taceaR89iDK1"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Only In Paris",
-        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
-      },
-      "artists": [
-        {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Bossanova in My Heart",
-      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Asi lo siento",
         "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Meu cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
+        "name": "Only In Paris",
+        "url": "https://open.spotify.com/album/0NHLKrq4JVLGEahD9fyMaw"
       },
       "artists": [
         {
-          "name": "Xavier Hermenegildo",
-          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
         }
       ],
-      "duration_ms": 143179,
-      "name": "Meu cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+      "duration_ms": 178000,
+      "name": "Bossanova in My Heart",
+      "url": "https://open.spotify.com/track/6zysZIDLdXhaK0FsHJOAVA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -923,6 +907,22 @@
       "duration_ms": 221637,
       "name": "Rumbita (Guitar Version)",
       "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Meu cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
+      },
+      "artists": [
+        {
+          "name": "Xavier Hermenegildo",
+          "url": "https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC"
+        }
+      ],
+      "duration_ms": 143179,
+      "name": "Meu cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Colours of Greece / Instrumentals of Greek Music",
-        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
-      },
-      "artists": [
-        {
-          "name": "Yiorgos Zabetas",
-          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
-        }
-      ],
-      "duration_ms": 160560,
-      "name": "Tavernas' Hasapikos - Instrumental",
-      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Tristango",
         "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 199230,
       "name": "Tristango",
       "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Colours of Greece / Instrumentals of Greek Music",
+        "url": "https://open.spotify.com/album/3QmpVVGc8HFfY1PHmN9t1w"
+      },
+      "artists": [
+        {
+          "name": "Yiorgos Zabetas",
+          "url": "https://open.spotify.com/artist/3XSKxRwQW67VgUjtQ13eEM"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Tavernas' Hasapikos - Instrumental",
+      "url": "https://open.spotify.com/track/4dGHsJeotHPGeYECZdwK06"
     },
     {
       "added_at": "2022-10-27 22:01:00",

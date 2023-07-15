@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-400 songs - 1 day 11 hr 13 min
+401 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2021-12-08 | 2022-07-28 |
 | [Hide and Seek](https://open.spotify.com/track/6dtObPFRUZ4eKsZZCp9ddZ) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Hide and Seek](https://open.spotify.com/album/21m2KLJDnoh3CLvlSTipTM) | 5:09 | 2021-12-08 | 2022-07-29 |
 | [Hide and Seek](https://open.spotify.com/track/6kvinwAz4dSKmLYMt5dP6O) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [10.000 Hours](https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr) | 5:09 | 2022-05-03 |  |
+| [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-07-14 |  |
 | [Hiraeth \(feat\. Kim Van Loo\)](https://open.spotify.com/track/4Pd7JgZI8zvewbeZLsIDxe) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Kim Van Loo](https://open.spotify.com/artist/7hNkG8n1xZ8BEpGu51udR1) | [Hiraeth](https://open.spotify.com/album/3vWp7L3aIczzUC5Obyxb18) | 4:59 | 2022-10-28 |  |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2023-04-07 |  |
 | [Hold On](https://open.spotify.com/track/1fyfYEmav5ovqInATtLZJa) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/5uaPCKOQy4Bihr6sEAVF5e) | 3:24 | 2022-05-03 | 2023-01-06 |
@@ -160,7 +161,7 @@
 | [It Was You, It Was Always You](https://open.spotify.com/track/6rAxlRdBTz4NzSZH3OnxjH) | [LEGATO](https://open.spotify.com/artist/5jpu8iB4nbX9H3bkV8LYz2) | [It Was You, It Was Always You](https://open.spotify.com/album/4bUm0WVhzY6sAFyczgyjiv) | 4:13 | 2021-12-08 | 2023-05-06 |
 | [It'll All Be Over \- DJ Koze Remix \- Radio Edit](https://open.spotify.com/track/48dojgnBKfp3drKOFdwycc) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [It'll All Be Over \(DJ Koze Remix \- Radio Edit\)](https://open.spotify.com/album/0T4xFSNi3vOmlC4GUXPfIE) | 3:08 | 2021-12-08 | 2022-02-18 |
 | [It's Me](https://open.spotify.com/track/7ruGyAPvRrNFqT2XroqzjP) | [P.O.S](https://open.spotify.com/artist/6PqtTOqDDdBJQzgCW2TbwU), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [It's Me](https://open.spotify.com/album/2wGMjnwb9iVAGO1hKpe0p9) | 4:13 | 2023-05-26 |  |
-| [Jakarta](https://open.spotify.com/track/05rQuHa8lWk9PTpQUqcO31) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Jakarta](https://open.spotify.com/album/6om4LDfQtmfEp76GPQluOT) | 3:56 | 2021-12-08 |  |
+| [Jakarta](https://open.spotify.com/track/05rQuHa8lWk9PTpQUqcO31) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Jakarta](https://open.spotify.com/album/6om4LDfQtmfEp76GPQluOT) | 3:56 | 2021-12-08 | 2023-07-15 |
 | [Jazz Me \- Fast Version](https://open.spotify.com/track/22GoAG7vI5pPJo5QN04Dmj) | [River](https://open.spotify.com/artist/4ZPuIkrRASY1YVvrQp5Ten) | [Chillsun \(Everyday Wake Up\)](https://open.spotify.com/album/2EeWxIfSYbI2kjdkIn9WOo) | 3:06 | 2022-05-03 |  |
 | [Juli](https://open.spotify.com/track/5Fps0MTzLWDEdkrEzjefWt) | [ELI DAVID](https://open.spotify.com/artist/5xTJdCV1EdMFAYoruO1gxf) | [Juli](https://open.spotify.com/album/4aSt3MQM30fiQuDhPH4X2i) | 7:05 | 2021-12-08 | 2022-07-24 |
 | [Just](https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Just](https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y) | 6:12 | 2022-05-03 |  |

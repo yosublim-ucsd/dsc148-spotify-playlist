@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Gus Dapperton",
+  "description": "Home to all the latest indie jams. Cover: The Japanese House",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 166013,
       "name": "A Child's Question, August",
       "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
+    },
+    {
+      "album": {
+        "name": "Supermodels",
+        "url": "https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165916,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
     },
     {
       "album": {
@@ -1359,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/1YGNt3j4tgi6mrmSTSjDBq"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250108,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x"
+    },
+    {
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/2w3rgPGdANyLaRSbGIZD13"
       },
@@ -1890,6 +1926,24 @@
       "duration_ms": 218330,
       "name": "Big Smoke",
       "url": "https://open.spotify.com/track/66miBbiy913lgyKOCdFta0"
+    },
+    {
+      "album": {
+        "name": "Big Things Small Seeds",
+        "url": "https://open.spotify.com/album/5a8MxBKU9rzJJxC7pFtIRA"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198041,
+      "name": "Big Things Small Seeds",
+      "url": "https://open.spotify.com/track/45FP5aLLS4NiCKtsacYQ0i"
     },
     {
       "album": {
@@ -2535,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/4JyXpLldphcUiQG9IjLFfs"
+      },
+      "artists": [
+        {
+          "name": "Hot Freaks",
+          "url": "https://open.spotify.com/artist/0wGzciem2JUvglxX6Hr3E9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202920,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/0ty4GQLhjq2lDzV8GpCNCT"
+    },
+    {
+      "album": {
         "name": "Boyhood",
         "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
       },
@@ -2636,7 +2708,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 227374,
       "name": "Broke Generation",
       "url": "https://open.spotify.com/track/7nBux2hQfUA8Ay6HtWuvud"
@@ -4408,7 +4480,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 190133,
       "name": "Death Chasm",
       "url": "https://open.spotify.com/track/0VlkpyQC4rqwjD9c9bUbQY"
@@ -5524,7 +5596,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 206524,
       "name": "Escape From The Killer 2008",
       "url": "https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj"
@@ -5866,7 +5938,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181018,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo"
@@ -8142,7 +8214,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 140837,
       "name": "Head Straight",
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
@@ -8727,6 +8799,24 @@
     },
     {
       "album": {
+        "name": "hometown (edit)",
+        "url": "https://open.spotify.com/album/1hwdtEZVmPn0FMtaS79Kjo"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209837,
+      "name": "hometown - edit",
+      "url": "https://open.spotify.com/track/1uihJ89LWkV042gu5sO4sU"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/5C4k1NzWh7a3v8PV92q94N"
       },
@@ -8854,6 +8944,24 @@
       "duration_ms": 144269,
       "name": "HotMom.com",
       "url": "https://open.spotify.com/track/6leIMUV6IC5hQEvwPPdsrK"
+    },
+    {
+      "album": {
+        "name": "house cats",
+        "url": "https://open.spotify.com/album/4H3JdnArFbaRHfjEinbS0C"
+      },
+      "artists": [
+        {
+          "name": "shy kids",
+          "url": "https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "house cats",
+      "url": "https://open.spotify.com/track/1P2VyW7kOOppI7HEiWs9hq"
     },
     {
       "album": {
@@ -9960,7 +10068,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
@@ -16349,6 +16457,28 @@
     },
     {
       "album": {
+        "name": "She's Just the Type of Girl",
+        "url": "https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161652,
+      "name": "She's Just the Type of Girl",
+      "url": "https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc"
+    },
+    {
+      "album": {
         "name": "Sheets of Grey",
         "url": "https://open.spotify.com/album/2i2nkoVKaQ8jfszpG8RJBs"
       },
@@ -17273,6 +17403,24 @@
     },
     {
       "album": {
+        "name": "Spirit 2.0",
+        "url": "https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289962,
+      "name": "Spirit 2.0",
+      "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
+    },
+    {
+      "album": {
         "name": "Spitting Off the Edge of the World",
         "url": "https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG"
       },
@@ -17508,7 +17656,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181676,
       "name": "Still Stained",
       "url": "https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa"
@@ -18064,6 +18212,24 @@
       "duration_ms": 311928,
       "name": "Tears can be so soft",
       "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
+    },
+    {
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "album": {
@@ -19728,10 +19894,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183522,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs"
+    },
+    {
+      "album": {
+        "name": "Two Bit",
+        "url": "https://open.spotify.com/album/0eKe4UoVdmLklDHRGylbyD"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Two Bit",
+      "url": "https://open.spotify.com/track/5zv8nVUatcuqiK71LywTmQ"
     },
     {
       "album": {
@@ -19764,7 +19948,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 127707,
       "name": "U SAID!",
       "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
@@ -20715,6 +20899,24 @@
     },
     {
       "album": {
+        "name": "What Have You Got To Lose",
+        "url": "https://open.spotify.com/album/1LBLnvsbTy91yf1NnCS3oX"
+      },
+      "artists": [
+        {
+          "name": "The Undercover Dream Lovers",
+          "url": "https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207986,
+      "name": "What Have You Got To Lose",
+      "url": "https://open.spotify.com/track/2hWljz2ZvLdCTtlPRyKCIU"
+    },
+    {
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -21122,7 +21324,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202191,
       "name": "Witches + Vampires",
       "url": "https://open.spotify.com/track/3Gr1doW9BPGUBxSH9ZBqXY"
@@ -21306,7 +21508,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"

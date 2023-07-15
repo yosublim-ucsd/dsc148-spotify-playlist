@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,838 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,841 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 |
 | 50 | [Good Idea \(feat\. BIA\)](https://open.spotify.com/track/3sXcUMhBQLCyr6Cl6z7RP4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Summer In The Winter](https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91) | 3:16 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDBkYjRiNmNjNjFlMzczMmE5MTg3YzUzYjczMjEzZjNjYQ==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDBjODZkMDUwMmM1MDA1NWMyM2E5YzU3MDE1NTIyY2RlNQ==`

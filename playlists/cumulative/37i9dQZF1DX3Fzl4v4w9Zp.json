@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Colby Acuff ",
+  "description": "Keep your finger on the pulse of Americana. Cover: Lukas Nelson and Promise of the Real ",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 213213,
       "name": "Alcohallelujah",
       "url": "https://open.spotify.com/track/0K6dmuthM56bETaZY10pbk"
+    },
+    {
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/2GucgfY31P1y2qMJzpT99B"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198920,
+      "name": "All Four Winds",
+      "url": "https://open.spotify.com/track/74M40IcCjxxY1EYzUiFJ6y"
     },
     {
       "album": {
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 229653,
       "name": "Eveline",
       "url": "https://open.spotify.com/track/4yaXd7WI8tiRWCxciM851k"
@@ -4489,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145106,
+      "name": "Little Songs",
+      "url": "https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k"
+    },
+    {
+      "album": {
         "name": "Long Journey Home / Life To Go",
         "url": "https://open.spotify.com/album/5d7E0CoRDHwdPE0i3JW53C"
       },
@@ -5287,6 +5323,24 @@
     },
     {
       "album": {
+        "name": "Shinbone",
+        "url": "https://open.spotify.com/album/5JzVleyf5QHPPCHOU9DvXl"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208006,
+      "name": "Nu-Grape",
+      "url": "https://open.spotify.com/track/2ld5XaRQcHaZX0cYWvXRSN"
+    },
+    {
+      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -5714,7 +5768,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 262680,
       "name": "Persephone",
       "url": "https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm"
@@ -6292,7 +6346,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 266058,
       "name": "Rusty",
       "url": "https://open.spotify.com/track/14bk3wzV22GaMBx52kQXEd"
@@ -6849,6 +6903,24 @@
     },
     {
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "album": {
         "name": "Spin It Faster",
         "url": "https://open.spotify.com/album/3NRombeGM43rj2eh1hrPZM"
       },
@@ -6900,7 +6972,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 287165,
       "name": "Stealing Dark from the Night Sky",
       "url": "https://open.spotify.com/track/11srUJtGRAudXAKhnjeSRS"
@@ -7613,6 +7685,24 @@
     },
     {
       "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "album": {
         "name": "Workin' On A World",
         "url": "https://open.spotify.com/album/3FZlD5JhglhV1LJKHQyGFD"
       },
@@ -7754,7 +7844,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 356090,
       "name": "The Weight",
       "url": "https://open.spotify.com/track/2r0O6Cdu64Op0Hn0C1wddm"

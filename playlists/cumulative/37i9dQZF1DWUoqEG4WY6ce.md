@@ -4,7 +4,7 @@
 
 > Hop in.
 
-318 songs - 20 hr 26 min
+319 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Sedona](https://open.spotify.com/track/2kG5litgxXvx6ZRgwO1v7W) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4DL8KCLfnDpUQRyDR5dKvt) | 3:59 | 2021-01-15 | 2022-07-29 |
 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 | 2022-07-03 |  |
 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 | 2021-01-16 | 2021-10-11 |
+| [Shame](https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Grapes Upon the Vine](https://open.spotify.com/album/0SXtNBEYPTc7sXyLF9N7TT) | 4:06 | 2023-07-14 |  |
 | [Sheep](https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:43 | 2021-01-15 |  |
 | [Sister Of Pearl](https://open.spotify.com/track/0lYRAsWNDdUhGMftqH0RVG) | [Baio](https://open.spotify.com/artist/50lhyY7UVI9NyVHl79rVgk) | [The Names](https://open.spotify.com/album/3sGS3ZC4Nb5OAO4vgGF3zF) | 4:13 | 2021-10-10 | 2021-10-16 |
 | [So Says I](https://open.spotify.com/track/1ZOHZ37YIHnVn8dEpNIEhp) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/3oTaAwwFP9OhWto75g0nJc) | 2:48 | 2020-10-29\* | 2022-04-28 |
@@ -275,7 +276,7 @@
 | [The Suburbs](https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs \(Deluxe\)](https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F) | 5:15 | 2022-05-04 |  |
 | [The Summer](https://open.spotify.com/track/3O2bW6OI1jo3l2DhHfEffP) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Summer](https://open.spotify.com/album/7qBHuHCWS1A6eLXupHao0z) | 3:36 | 2020-10-29\* | 2022-06-21 |
 | [The Sunshine](https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 1:57 | 2022-05-04 |  |
-| [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 | 2021-04-14 |  |
+| [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 | 2021-04-14 | 2023-07-15 |
 | [Things Happen](https://open.spotify.com/track/4BwH8CqZkep7evUpHbAvEm) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/6ElM03eht4CjA1tuy5bZZQ) | 4:03 | 2021-01-15 | 2022-05-20 |
 | [This Life](https://open.spotify.com/track/4IA82QQCoPtGN9xDHflcZA) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/5WWu3iYAXLgqghjU9696Nk) | 4:28 | 2020-10-29\* | 2022-07-29 |
 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 | 2020-10-29\* |  |

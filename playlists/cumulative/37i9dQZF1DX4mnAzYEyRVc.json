@@ -2950,7 +2950,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 151013,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
@@ -5410,7 +5410,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 162786,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
@@ -6128,6 +6128,24 @@
       "duration_ms": 190077,
       "name": "Pressure Drop (Ska Version)",
       "url": "https://open.spotify.com/track/4xaJWJVtCTFwlzbUukQZFS"
+    },
+    {
+      "album": {
+        "name": "Pump Fake",
+        "url": "https://open.spotify.com/album/0TrInw474tgKLhfDljXxQG"
+      },
+      "artists": [
+        {
+          "name": "Devon Kay & The Solutions",
+          "url": "https://open.spotify.com/artist/20S7UAfamGPMxer13RIRB4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158986,
+      "name": "Pump Fake",
+      "url": "https://open.spotify.com/track/2S3a2IPJwmGlvuEQaggI1F"
     },
     {
       "album": {
@@ -7667,6 +7685,28 @@
     },
     {
       "album": {
+        "name": "...and the usual suspects",
+        "url": "https://open.spotify.com/album/0hdaLgM8dAeOCsPkOzgOXj"
+      },
+      "artists": [
+        {
+          "name": "Oxo86",
+          "url": "https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5"
+        },
+        {
+          "name": "Ole - Brutal Bravo",
+          "url": "https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239725,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7t3rhIBQIcJf3e9k6ZXLUw"
+    },
+    {
+      "album": {
         "name": "El Precio del Sudor",
         "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
       },
@@ -8831,6 +8871,24 @@
     },
     {
       "album": {
+        "name": "Transparency",
+        "url": "https://open.spotify.com/album/6tiMjNb0BiteEve0vZ8ujP"
+      },
+      "artists": [
+        {
+          "name": "Keep Flying",
+          "url": "https://open.spotify.com/artist/4y79c2k6F28s1lkh3aaXWC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151205,
+      "name": "Transparency",
+      "url": "https://open.spotify.com/track/2Rm8eB9apr94OrdWjP6GG1"
+    },
+    {
+      "album": {
         "name": "Puerto hurraco",
         "url": "https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0"
       },
@@ -8864,6 +8922,24 @@
       "duration_ms": 131893,
       "name": "Trigger Happy - Demo",
       "url": "https://open.spotify.com/track/6X7d1JhWXi0CevhNAGt6mv"
+    },
+    {
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/2U5Yo23BlzQW8ZawiPXLzy"
+      },
+      "artists": [
+        {
+          "name": "The Bluebeaters",
+          "url": "https://open.spotify.com/artist/6rShHlY1EXsf7DxlIHa5uU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/7hFqfUllIwqobuXuuc3sZf"
     },
     {
       "album": {
@@ -9344,7 +9420,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165999,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/0eBGdQjZW6uP9WfGYutw2S"
@@ -9600,7 +9676,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 247160,
       "name": "\u041b\u0435\u0442\u043e",
       "url": "https://open.spotify.com/track/4VI9ZutPTzdI5AdBXfqhhQ"

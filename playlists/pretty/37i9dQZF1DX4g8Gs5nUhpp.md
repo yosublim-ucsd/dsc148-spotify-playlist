@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,762 likes - 58 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,827 likes - 58 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 57 | [Như Anh Đã Thấy Em](https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V) | [PhucXP](https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO), [Freak D](https://open.spotify.com/artist/1yNjtowTJs05S2Xp2g7stg) | [Như Anh Đã Thấy Em](https://open.spotify.com/album/2FwiyoWhDcZlR7Cr6PMHLF) | 5:02 |
 | 58 | [Lan Man](https://open.spotify.com/track/3hqOrxH5qPlvrApcb7Ac8c) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Lan Man](https://open.spotify.com/album/2PjMmcp2KpR1dwcs0oExSx) | 3:36 |
 
-Snapshot ID: `MCxlZWYyYmFlMTFhNWJlNjA5ZmFiYWY2OWIyZDJmNjg2NDAwOTQ0Y2Qy`
+Snapshot ID: `MCxhYmYzNGRjN2ViNjU3ZWVhZWEzOWEyMDhjNmNkMWUzNzE1OTk4ODE1`

@@ -1572,7 +1572,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 191250,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/4ZX9REWz5sjCHK9otu21gU"
@@ -2514,6 +2514,28 @@
       "duration_ms": 195468,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/2IsmnQVMlumwHQ4vAkaVIa"
+    },
+    {
+      "album": {
+        "name": "Promise You This",
+        "url": "https://open.spotify.com/album/5ptuqlPeX3dxwA9GG5Qfhp"
+      },
+      "artists": [
+        {
+          "name": "NGHTIME!",
+          "url": "https://open.spotify.com/artist/6rvAIasGNPgou3SL7ycYPA"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179523,
+      "name": "Promise You This",
+      "url": "https://open.spotify.com/track/1Bhmriwl00coZVRqlnpl5z"
     },
     {
       "album": {
@@ -3568,7 +3590,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180937,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4S8rnl2Uinvl59QpcRY9oj"

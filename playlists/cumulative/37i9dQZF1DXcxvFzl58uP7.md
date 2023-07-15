@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-849 songs - 1 day 20 hr 6 min
+850 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,7 @@
 | [saturday](https://open.spotify.com/track/4d76CU49i79iiV1JulIWqq) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [saturday](https://open.spotify.com/album/2wDD5GC8S5HEiGpR20Wlu1) | 2:11 | 2023-03-03 | 2023-03-30 |
 | [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 |  |
 | [Saviour Complex](https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G) | [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Saviour Complex](https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1) | 3:13 | 2022-04-29 | 2022-07-29 |
-| [SAY THAT YOU MISS ME](https://open.spotify.com/track/0BZ7XAuCLJAghG4OAkhYjr) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [SAY THAT YOU MISS ME](https://open.spotify.com/album/2CckG91LwFrDhub4GzWsKr) | 3:48 | 2023-04-17 |  |
+| [SAY THAT YOU MISS ME](https://open.spotify.com/track/0BZ7XAuCLJAghG4OAkhYjr) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [SAY THAT YOU MISS ME](https://open.spotify.com/album/2CckG91LwFrDhub4GzWsKr) | 3:48 | 2023-04-17 | 2023-07-15 |
 | [Scarlett](https://open.spotify.com/track/1xda2R5cSP7GKlqXY3Pji2) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Scarlett](https://open.spotify.com/album/7tkT2j5BuPSjzoBWVygIG7) | 2:38 | 2019-08-01 | 2021-06-04 |
 | [Seabirds](https://open.spotify.com/track/5I0iOfX9YLacuhLspYnTaY) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [Seabirds](https://open.spotify.com/album/1sjjSbwmZbILR4yA8PrdeB) | 4:58 | 2019-07-30\* | 2022-07-29 |
 | [Seaside](https://open.spotify.com/track/04VGLPVSGvnqaVAWJV54G8) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Seaside](https://open.spotify.com/album/5LAwVyP3DUeJ073aQhYiTb) | 3:03 | 2020-06-12 | 2021-05-27 |
@@ -754,6 +754,7 @@
 | [Thinking on My Own](https://open.spotify.com/track/2YU9u46O1vUhRvOFoWsThH) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Lover Girl](https://open.spotify.com/album/09YAivTmJ3LFIE3m7BxfgP) | 3:46 | 2019-07-31 | 2021-05-28 |
 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 | 2021-03-08 | 2023-06-10 |
 | [Time](https://open.spotify.com/track/2SGkMuS51SU1fHbdYFnM3L) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Time](https://open.spotify.com/album/0dcOPtUArPLZwPbdISiUks) | 4:25 | 2022-06-14 | 2022-07-29 |
+| [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-07-14 |  |
 | [Tired](https://open.spotify.com/track/04ozhTSGzWczDk4nZ7aSzD) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Tired](https://open.spotify.com/album/0YTiGFVneX92drRFP1jlPC) | 2:27 | 2021-06-25 | 2022-04-18 |
 | [tired of your love](https://open.spotify.com/track/4kJtFilU6AFzZD5Xb6SAke) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 002](https://open.spotify.com/album/5abRzUOD3ijRBOojRHzMPY) | 2:02 | 2021-03-28 | 2021-03-29 |
 | [tlking about u](https://open.spotify.com/track/4zqVm6KQHSR4DzZwgydPnX) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC), [JOE L](https://open.spotify.com/artist/276rQ7r59LD3mS6oL5RMVb) | [tlking about u](https://open.spotify.com/album/181lr51af8iKFumT6TI9DZ) | 2:48 | 2020-04-25 | 2021-05-28 |

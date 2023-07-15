@@ -4,7 +4,7 @@
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-207 songs - 14 hr 3 min
+208 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Devil's Resting Place](https://open.spotify.com/track/7mDFMh8pghY0MRToYb01eI) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 3:14 | 2021-10-08 |  |
 | [Didn't You](https://open.spotify.com/track/3rXUkMbfWH3N09nlhYjmyH) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Didn't You](https://open.spotify.com/album/0Q154DwfSE7smUIrFA1nWU) | 4:03 | 2023-03-03 |  |
 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 | 2021-10-08 |  |
+| [Don't Even Worry](https://open.spotify.com/track/59budStVXuAhbpyBKJBdX9) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Don’t Even Worry](https://open.spotify.com/album/4O2OauH8V7xGJ0yru5xndT) | 3:23 | 2023-07-14 |  |
 | [Don't Forget About Me](https://open.spotify.com/track/4gVZhkcsZcwQ4mU1gEeXEO) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [XIII](https://open.spotify.com/album/6gAsOoMZVH5HwQWFBnIWcm) | 4:28 | 2021-10-08 |  |
 | [Don't Know Why](https://open.spotify.com/track/0UJNHaZIuRHVlc5fKtav0z) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Don't Know Why](https://open.spotify.com/album/0VNovm8OBZjtfjqC4iUPLO) | 3:09 | 2021-10-08 | 2022-11-13 |
 | [Don't Know Why](https://open.spotify.com/track/1TW8Vka4FAyEErz245zxvM) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Don't Know Why](https://open.spotify.com/album/1OONF0jdQiEYEh4nXxhB5j) | 3:09 | 2021-10-08 | 2022-07-29 |

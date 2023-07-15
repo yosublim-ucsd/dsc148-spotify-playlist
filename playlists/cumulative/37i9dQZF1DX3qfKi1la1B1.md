@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-232 songs - 15 hr 13 min
+233 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Konna Yoru Dakara](https://open.spotify.com/track/1o4Q88xRSLjA5DbIBChOst) | [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG) | [Konna Yoru Dakara](https://open.spotify.com/album/6M1NO2vixcPRER6o4xcvnU) | 3:04 | 2023-01-12 | 2023-01-20 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-20 | 2023-01-29 |
 | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G) | 5:55 | 2023-04-13 | 2023-05-12 |
-| [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-09 |  |
+| [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-09 | 2023-07-15 |
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-11-10 | 2023-02-13 |
 | [Light \(with BENEE\)](https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL) | [Finn Falcon](https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Light \(with BENEE\)](https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR) | 2:44 | 2022-10-20 | 2023-01-25 |
 | [Lily](https://open.spotify.com/track/0GKWtlvylWnedpqA3ktByn) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Lily](https://open.spotify.com/album/5OUOq95UwuLQ78pja83Jqa) | 2:18 | 2023-01-31 | 2023-02-25 |
@@ -180,6 +180,7 @@
 | [Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Someone Close](https://open.spotify.com/album/5e6az1Hmeagy2OBe9hjJbc) | 8:12 | 2022-11-10 | 2022-12-14 |
 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 | 2022-10-20 |  |
 | [Somewhere Near Marseilles ーマルセイユ辺りー](https://open.spotify.com/track/5ai97hAB5rHiV2luX5NWw5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 11:54 | 2022-10-20 | 2022-11-11 |
+| [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-07-13 |  |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-10-20 | 2023-01-16 |
 | [Stay in the light \- reprise](https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:24 | 2023-02-16 | 2023-06-09 |
 | [still](https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [still](https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3) | 2:59 | 2023-02-21 | 2023-04-14 |

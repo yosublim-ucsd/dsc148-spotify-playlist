@@ -1,44 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Nippa",
-  "num_followers": 38679,
+  "description": "R&B of the moment by the artists of the future. Cover: Mack Keane",
+  "num_followers": 38699,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2RjNGY2MDAzZTQ0YjIzMzA2OThjYjJmN2M2ZWI2YzM4M2FjZjc0",
+  "snapshot_id": "MCw3MDNhYjY4MzkwNjM3OWRhMWVlM2QzOTYxMzRlM2U5MjdmZjM1OTVm",
   "tracks": [
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/6xEyptUPu6O4XF1RcxBVSB"
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
       },
       "artists": [
         {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/63dHAaPXAVXnRS9f1wzKbj"
-    },
-    {
-      "added_at": "2023-06-16 05:54:28",
-      "album": {
-        "name": "Don't Get Too Cozy",
-        "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 175495,
-      "name": "Luv Songs (Unruly)",
-      "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
+      "duration_ms": 233826,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -57,60 +41,52 @@
       "url": "https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "3 of Us",
-        "url": "https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu"
+        "name": "No Way",
+        "url": "https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
         }
       ],
-      "duration_ms": 154392,
-      "name": "Suite Life (Familiar) - Bonus Track",
-      "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
+      "duration_ms": 173483,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV"
     },
     {
       "added_at": "2023-06-16 05:54:28",
       "album": {
-        "name": "Too Good",
-        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
+        "name": "Don't Get Too Cozy",
+        "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
       },
       "artists": [
         {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
+      "duration_ms": 175495,
+      "name": "Luv Songs (Unruly)",
+      "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
       },
       "artists": [
         {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
         }
       ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+      "duration_ms": 194160,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -129,20 +105,20 @@
       "url": "https://open.spotify.com/track/7cIjKWHZvMaDFmSUaUdN7W"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "When I Hear Your Name",
-        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/6xEyptUPu6O4XF1RcxBVSB"
       },
       "artists": [
         {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
         }
       ],
-      "duration_ms": 193901,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+      "duration_ms": 144000,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/63dHAaPXAVXnRS9f1wzKbj"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -177,6 +153,38 @@
       "url": "https://open.spotify.com/track/3S6EknYnMYBdQw0WH32wOH"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "When I Hear Your Name",
+        "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 193901,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "F'd Up",
@@ -191,6 +199,26 @@
       "duration_ms": 233475,
       "name": "F'd Up",
       "url": "https://open.spotify.com/track/3sUIEofdt4yPN9IkczVEsF"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "3 of Us",
+        "url": "https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 154392,
+      "name": "Suite Life (Familiar) - Bonus Track",
+      "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -275,6 +303,58 @@
       "duration_ms": 185949,
       "name": "BAD HABITS",
       "url": "https://open.spotify.com/track/5w4IhAYuDVdUVpkNDL6yg0"
+    },
+    {
+      "added_at": "2023-06-16 05:54:28",
+      "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/0NnR23e1w5XEVCDaUYXrlP"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tDAxa9V0bZlGq4rmbAD9O"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "duration_ms": 238917,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -785,42 +865,6 @@
       "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "In The Mood",
-        "url": "https://open.spotify.com/album/47k4k9xp4avDKdMkPuvLQS"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Why Not?",
-        "url": "https://open.spotify.com/album/16bPNUwUldGobpbBVylfKs"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 164142,
-      "name": "Why Not?",
-      "url": "https://open.spotify.com/track/51e4HhSFWl3YZxsPTIfEJ4"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Temporary Love",
@@ -1173,22 +1217,6 @@
       "url": "https://open.spotify.com/track/7LdDWjCr7rSIHOfNktB3KW"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Spin the Block",
-        "url": "https://open.spotify.com/album/0WIyWP0I9sOm5zZkvFdc0u"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229052,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "White Lies (feat. Kwengface)",
@@ -1207,22 +1235,6 @@
       "duration_ms": 188188,
       "name": "White Lies (feat. Kwengface)",
       "url": "https://open.spotify.com/track/5sFnfo4RB4c9jMojpp6eH5"
-    },
-    {
-      "added_at": "2022-12-16 17:45:08",
-      "album": {
-        "name": "Didn't Start With You",
-        "url": "https://open.spotify.com/album/27RhvUoZNhFtggwX1pVSgr"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Shady Hills",
-      "url": "https://open.spotify.com/track/7D77gQ7oEOUks2pHwGad7M"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1271,50 +1283,6 @@
       "duration_ms": 193000,
       "name": "2MANYTHINGS",
       "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Live Some Life (feat. DING DONG)",
-        "url": "https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY"
-      },
-      "artists": [
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        },
-        {
-          "name": "DING DONG",
-          "url": "https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7"
-        }
-      ],
-      "duration_ms": 185191,
-      "name": "Live Some Life (feat. DING DONG)",
-      "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "O.M.L. (feat. DESTIN CONRAD)",
-        "url": "https://open.spotify.com/album/6nKwjfkh8zFW2JQo1FYjq0"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        },
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 165132,
-      "name": "O.M.L. (feat. DESTIN CONRAD)",
-      "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
     },
     {
       "added_at": "2022-12-19 20:02:45",

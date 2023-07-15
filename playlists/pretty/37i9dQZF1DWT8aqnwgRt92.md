@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,639 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,262 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 11 | [切っ先](https://open.spotify.com/track/771DJyi2gzuWI8ocuxldzQ) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [切っ先](https://open.spotify.com/album/7MlPZv478QHj9031suX1qm) | 3:31 |
 | 12 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 |
 | 13 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 |
-| 14 | [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 |
+| 14 | [Gotoubun no Mirai](https://open.spotify.com/track/6p14PfSxvGcnylxuECeLxb) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse) | 3:39 |
 | 15 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 |
 | 16 | [ソングオブザデッド](https://open.spotify.com/track/3GPFWYiSU3CVJLqxiRt31n) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [ソングオブザデッド](https://open.spotify.com/album/1djd2IEnvJiVpcaP4d9Xsk) | 3:15 |
 | 17 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [スターチス](https://open.spotify.com/track/3WpkBKPICz2m3cxZaaVA19) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [スターチス](https://open.spotify.com/album/398wuzoQbshuwpTcTQdZSC) | 4:03 |
 | 85 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 |
 
-Snapshot ID: `MCxjNTI3M2NiMGVkMTg0NTZhYjgzMGE5NmJkZDU4ZThjMmI1MTkyOGQw`
+Snapshot ID: `MCwzNGRiYWQ2OGRhZjkwOTc3OWEzMjlmN2M4MTNlMmMyYmVhY2NkMGMw`

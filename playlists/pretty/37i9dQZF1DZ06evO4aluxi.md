@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,086 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,089 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 15 | [I Will Remember You](https://open.spotify.com/track/76crWZqaiFzlTPGzNtT4w1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 5:00 |
 | 16 | [This Is My Father's World](https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:05 |
 | 17 | [River Lullaby](https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 3:56 |
-| 18 | [I Have Decided](https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:16 |
-| 19 | [Agnus Dei \- Live](https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Worship Forever \(Live\)](https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0) | 5:29 |
+| 18 | [Agnus Dei \- Live](https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Worship Forever \(Live\)](https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0) | 5:29 |
+| 19 | [I Have Decided](https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:16 |
 | 20 | [Holy, Holy, Holy](https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 2:26 |
 | 21 | [Could I Have This Dance](https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Duets: Friends & Legends](https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd) | 3:18 |
 | 22 | [Big Yellow Taxi](https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 3:01 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 36 | [I Belong](https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [I Belong](https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ) | 3:25 |
 | 37 | [Doubly Good To You \- Remastered](https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Straight Ahead \(Remastered\)](https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28) | 3:14 |
 | 38 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 |
-| 39 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
-| 40 | [Lucky One](https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:09 |
+| 39 | [Lucky One](https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [House Of Love \(Remastered\)](https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb) | 4:09 |
+| 40 | [Father's Eyes](https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [My Father's Eyes](https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S) | 4:06 |
 | 41 | [Raining On The Inside](https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:12 |
 | 42 | [Lead Me On](https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Lead Me On](https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX) | 5:36 |
-| 43 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 |
-| 44 | [Fairest Lord Jesus](https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:15 |
+| 43 | [Fairest Lord Jesus](https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Legacy...Hymns & Faith](https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs) | 3:15 |
+| 44 | [I'm With You \(Ruth & Naomi\)](https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Music Inspired By The Story](https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg) | 4:14 |
 | 45 | [Arms Of Love](https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 3:23 |
 | 46 | [Power In The Blood](https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Be Still And Know..\. Hymns & Faith](https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu) | 3:51 |
 | 47 | [A Woman](https://open.spotify.com/track/74z3fROToqDySr3Al4hABk) | [FAITHFUL](https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [A Woman](https://open.spotify.com/album/13fcRwWwx7Ecwma3vVaPO4) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 49 | [Galileo](https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 4:20 |
 | 50 | [Stay For A While](https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Collection](https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi) | 5:35 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDAyZmI0MGRkMjE1OWFlYjMwMzI3MmViNjc5ZDUyYjQ3MQ==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDAxY2IzODYxYmQyNDk2MjBjZDg2NGU5MGViNDczMjI2OQ==`

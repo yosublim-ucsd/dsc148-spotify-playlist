@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal - for the dragonslayer in you! Cover: Within Temptation",
-  "num_followers": 738503,
+  "num_followers": 738589,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjY1ZmNmMmE0ZTUyMTBhZTNiNTcyYjdlMGZkNTFiNGQwZjkwNjVm",
+  "snapshot_id": "MCwyYmMzN2Y4MDk5MzVhYzI0MGU0YzU0ODA5OWMxMDczODZmNTBhODAw",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+        "name": "On the Sea",
+        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
       "artists": [
         {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "Tungsten",
+          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
+      "duration_ms": 233343,
+      "name": "On the Sea",
+      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -383,18 +379,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "On the Sea",
-        "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
       },
       "artists": [
         {
-          "name": "Tungsten",
-          "url": "https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm"
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 233343,
-      "name": "On the Sea",
-      "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Soul's Demise",
-        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 264981,
-      "name": "My Soul's Demise",
-      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Soul's Demise",
+        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 264981,
+      "name": "My Soul's Demise",
+      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fairy of the Bog",
-        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 276705,
-      "name": "Fairy of the Bog",
-      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Feed the Fire",
         "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 199000,
       "name": "Feed the Fire",
       "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Drink with the Gods",
-        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Drink with the Gods",
-      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -687,6 +655,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Fairy of the Bog",
+        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "Fairy of the Bog",
+      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 208859,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Drink with the Gods",
+        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Drink with the Gods",
+      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
-      },
-      "artists": [
-        {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
-        }
-      ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Seventh Rum of a Seventh Rum",
         "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 201114,
       "name": "Seventh Rum of a Seventh Rum",
       "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Call of the North",
-        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 384066,
-      "name": "Call of the North",
-      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+        "name": "Call of the North",
+        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
       },
       "artists": [
         {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+      "duration_ms": 384066,
+      "name": "Call of the North",
+      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1239,6 +1223,22 @@
       "duration_ms": 303253,
       "name": "Breathing Divinity",
       "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Here We Stand",
+        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+      },
+      "artists": [
+        {
+          "name": "In Victory",
+          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Here We Stand",
+      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
+        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
+      },
+      "artists": [
+        {
+          "name": "Victorius",
+          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
+        }
+      ],
+      "duration_ms": 286540,
+      "name": "Victorious Dinogods",
+      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Sons of the Wind (Back to the 80's Remix)",
         "url": "https://open.spotify.com/album/1oULaS1ueqo30yGtRTc70m"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 330829,
       "name": "Sons of the Wind (Back to the 80's Remix)",
       "url": "https://open.spotify.com/track/18tcahDiO6bsY0UyHhT0IW"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Dinosaur Warfare Pt. 2 \u2013 The Great Ninja War",
-        "url": "https://open.spotify.com/album/1mOt5zGtWlns8V3AD5HMCr"
-      },
-      "artists": [
-        {
-          "name": "Victorius",
-          "url": "https://open.spotify.com/artist/2INeE2VBbawRQNI6ezc4lN"
-        }
-      ],
-      "duration_ms": 286540,
-      "name": "Victorious Dinogods",
-      "url": "https://open.spotify.com/track/3OgXzA0isNtksoVjTgHRPf"
     },
     {
       "added_at": "2023-05-19 04:00:00",

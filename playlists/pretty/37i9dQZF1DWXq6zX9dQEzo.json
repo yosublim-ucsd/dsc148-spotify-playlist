@@ -1,12 +1,12 @@
 {
   "description": "Let the blessings come down and the weights go up.  Get your beast mode on!",
-  "num_followers": 155411,
+  "num_followers": 155617,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzVjYjkwOWQyYTg3ZmI5ODI1ODk4N2JmNDQxOTgxOTkxZThjODU5",
+  "snapshot_id": "MCwwYTNlMWIzZGYzNGYwNjRmZTM3ZDg3NDg1NjVmZTM1MDNhNjhkMjI5",
   "tracks": [
     {
       "added_at": "2022-12-16 09:00:00",
@@ -495,22 +495,26 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "FYE FYE",
-        "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
+        "name": "Never Land II",
+        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
       },
       "artists": [
         {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         },
         {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        },
+        {
+          "name": "Magic & Bird",
+          "url": "https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x"
         }
       ],
-      "duration_ms": 232615,
-      "name": "FYE FYE",
-      "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
+      "duration_ms": 197519,
+      "name": "You Know the Drill",
+      "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -547,30 +551,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Never Land II",
-        "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
-      },
-      "artists": [
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        },
-        {
-          "name": "Wordsplayed",
-          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
-        },
-        {
-          "name": "Magic & Bird",
-          "url": "https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x"
-        }
-      ],
-      "duration_ms": 197519,
-      "name": "You Know the Drill",
-      "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "Don\u2019t Worry Bout It",
         "url": "https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 172725,
       "name": "Don\u2019t Worry Bout It",
       "url": "https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "FYE FYE",
+        "url": "https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "FYE FYE",
+      "url": "https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1111,18 +1111,26 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Nino Brown",
-        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
+        "name": "Stuff Back",
+        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
       "artists": [
         {
           "name": "Red Tips",
           "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Heavenz",
+          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
         }
       ],
-      "duration_ms": 144093,
-      "name": "Nino Brown",
-      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+      "duration_ms": 193648,
+      "name": "Stuff Back",
+      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1163,18 +1171,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
       },
       "artists": [
         {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 170397,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
+      "duration_ms": 296666,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1195,34 +1203,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
         }
       ],
-      "duration_ms": 296666,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/2EfvnFJwGxdmegKVWCmPAA"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 138250,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/1IfbrVnmsCJBYeSmULBC5c"
+      "duration_ms": 170397,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1239,6 +1231,22 @@
       "duration_ms": 192775,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/2EfvnFJwGxdmegKVWCmPAA"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 138250,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/1IfbrVnmsCJBYeSmULBC5c"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1263,6 +1271,42 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 266255,
+      "name": "Back Then",
+      "url": "https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Nino Brown",
+        "url": "https://open.spotify.com/album/2Ds2bUBryX1oPsGudIaxv6"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 144093,
+      "name": "Nino Brown",
+      "url": "https://open.spotify.com/track/61zq89SEdU14fmkrST4nUB"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "WAITING",
         "url": "https://open.spotify.com/album/2oQ1qwYoczja6rQxwkVN6w"
       },
@@ -1283,50 +1327,6 @@
       "duration_ms": 177230,
       "name": "WAITING",
       "url": "https://open.spotify.com/track/7axHfZh6a7JQD8dmblDDmt"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Stuff Back",
-        "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Heavenz",
-          "url": "https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo"
-        },
-        {
-          "name": "Church",
-          "url": "https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW"
-        }
-      ],
-      "duration_ms": 193648,
-      "name": "Stuff Back",
-      "url": "https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 266255,
-      "name": "Back Then",
-      "url": "https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "AOTY",
-        "url": "https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 240952,
-      "name": "my year",
-      "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "It Could Be Worse",
         "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "AOTY",
+        "url": "https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 240952,
+      "name": "my year",
+      "url": "https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "Club Eden",
+        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "Club Eden",
+      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Lights in the City",
-        "url": "https://open.spotify.com/album/091mtWNAMv4xRkZbJ1TmSu"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 215189,
-      "name": "Lights in the City",
-      "url": "https://open.spotify.com/track/0Ungs1C2UKbCJabb94wity"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
         "name": "No Loss",
         "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
       },
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Club Eden",
-        "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
+        "name": "Lights in the City",
+        "url": "https://open.spotify.com/album/091mtWNAMv4xRkZbJ1TmSu"
       },
       "artists": [
         {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
         }
       ],
-      "duration_ms": 145116,
-      "name": "Club Eden",
-      "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
+      "duration_ms": 215189,
+      "name": "Lights in the City",
+      "url": "https://open.spotify.com/track/0Ungs1C2UKbCJabb94wity"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2159,6 +2159,30 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
+        "name": "I Will Not",
+        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+      },
+      "artists": [
+        {
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+        },
+        {
+          "name": "Bryann T",
+          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
+        },
+        {
+          "name": "Dax Hamma",
+          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "I Will Not",
+      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
         "name": "Unstoppable (Do It Again) [Global Remix]",
         "url": "https://open.spotify.com/album/1287vr06Ue6VKn80lYz3uY"
       },
@@ -2187,26 +2211,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "I Will Not",
-        "url": "https://open.spotify.com/album/63nGhI4IzyGnPxHaAO4Ykw"
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
       },
       "artists": [
         {
-          "name": "Datin",
-          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
-        },
-        {
-          "name": "Bryann T",
-          "url": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0"
-        },
-        {
-          "name": "Dax Hamma",
-          "url": "https://open.spotify.com/artist/413WzacllGaX7jg4EzFxiY"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         }
       ],
-      "duration_ms": 216000,
-      "name": "I Will Not",
-      "url": "https://open.spotify.com/track/0ksRxJ9rgHjh7Jy83S6vLh"
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2231,22 +2247,6 @@
       "duration_ms": 183000,
       "name": "Banner (feat. Zay Jones & Torey D'Shaun)",
       "url": "https://open.spotify.com/track/7K1u44U0085H0hu2BbPxbI"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2347,18 +2347,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
+        "name": "Out With a Bang",
+        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
       },
       "artists": [
         {
-          "name": "Gabby Callwood",
-          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
+          "name": "Adriel Cruz",
+          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
         }
       ],
-      "duration_ms": 152359,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
+      "duration_ms": 135000,
+      "name": "Out With a Bang",
+      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2383,18 +2383,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Out With a Bang",
-        "url": "https://open.spotify.com/album/2WTykrMsywqEpxUv8t1wnm"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
       },
       "artists": [
         {
-          "name": "Adriel Cruz",
-          "url": "https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa"
+          "name": "Gabby Callwood",
+          "url": "https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Out With a Bang",
-      "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
+      "duration_ms": 152359,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/5FVQWfXM8a3e2BuEx6Qh0K"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2455,22 +2455,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Underdogs",
-        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
       },
       "artists": [
         {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
         }
       ],
-      "duration_ms": 197064,
-      "name": "Underdogs",
-      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2495,34 +2491,22 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
       },
       "artists": [
         {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "butterfly vibes 2",
-      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
-    },
-    {
-      "added_at": "2022-12-16 09:00:00",
-      "album": {
-        "name": "When It Hurts: A Story By Isaiah Hill",
-        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
-      },
-      "artists": [
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
         {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
         }
       ],
-      "duration_ms": 122392,
-      "name": "I Meant It",
-      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
+      "duration_ms": 197064,
+      "name": "Underdogs",
+      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2547,18 +2531,18 @@
     {
       "added_at": "2022-12-16 09:00:00",
       "album": {
-        "name": "Stuck Inside My Head",
-        "url": "https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud"
+        "name": "When It Hurts: A Story By Isaiah Hill",
+        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
         }
       ],
-      "duration_ms": 197300,
-      "name": "Stuck Inside My Head - Single Mix",
-      "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
+      "duration_ms": 122392,
+      "name": "I Meant It",
+      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
     },
     {
       "added_at": "2022-12-16 09:00:00",
@@ -2575,6 +2559,22 @@
       "duration_ms": 207068,
       "name": "ON THA SEAT",
       "url": "https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy"
+    },
+    {
+      "added_at": "2022-12-16 09:00:00",
+      "album": {
+        "name": "Stuck Inside My Head",
+        "url": "https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 197300,
+      "name": "Stuck Inside My Head - Single Mix",
+      "url": "https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy"
     },
     {
       "added_at": "2022-12-16 09:00:00",

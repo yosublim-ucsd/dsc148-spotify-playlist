@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 200932,
+  "num_followers": 200968,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmMwMWJmNTBmMmUwYzNiMmUyODQ0Y2NjMWVkMGY0Y2MyNTI0M2Yy",
+  "snapshot_id": "MCw0MGY5ZDA3OTU4MzYyNzA3ZTVkZWMwZWMyOWQ4N2FiMTY4ODMyZTlh",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -267,26 +267,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
-        "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
       },
       "artists": [
         {
-          "name": "BRIGHT",
-          "url": "https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj"
-        },
-        {
-          "name": "Lloyd Nicks",
-          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
-        },
-        {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 225946,
-      "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
-      "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -307,18 +299,26 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/4V63HNyGrPygSfITQolJYW"
+        "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
+        "url": "https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy"
       },
       "artists": [
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "BRIGHT",
+          "url": "https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj"
+        },
+        {
+          "name": "Lloyd Nicks",
+          "url": "https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
         }
       ],
-      "duration_ms": 195358,
-      "name": "Say Goodbye (Say Hello)",
-      "url": "https://open.spotify.com/track/29qRIyGVrmRiCdZpHAVNa7"
+      "duration_ms": 225946,
+      "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
+      "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
       },
       "artists": [
         {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 170397,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
+      "duration_ms": 296666,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/340FbhdsCrkuXovyIzOJUD"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1H1FybnMsCExQCTYMpkC1J"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
         }
       ],
-      "duration_ms": 296666,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6wJlHOOiL3zByo3kE7esCx"
+      "duration_ms": 170397,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/13ZnlkYYsLDHckHUtBo338"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Broken Is Beautiful",
-        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 250909,
-      "name": "Broken Is Beautiful",
-      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/0RBgOR4pSFBZwc7EFwONDt"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 232063,
       "name": "Worth",
       "url": "https://open.spotify.com/track/6ysHdrLOqZODoLntonGcRK"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Broken Is Beautiful",
+        "url": "https://open.spotify.com/album/6Wx2aYawDBnNXuJhfQbtgK"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 250909,
+      "name": "Broken Is Beautiful",
+      "url": "https://open.spotify.com/track/0D7tG0LWJLqpSkrUacfBRh"
     },
     {
       "added_at": "2023-01-13 21:46:56",

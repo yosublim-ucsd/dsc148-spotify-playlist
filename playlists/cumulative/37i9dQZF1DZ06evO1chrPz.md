@@ -4,7 +4,7 @@
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-62 songs - 6 hr 6 min
+63 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [I Belong To Jesus \- Live](https://open.spotify.com/track/0mhKPUIHNEz4tuWNxNEqCS) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 8:39 | 2023-03-17 |  |
 | [I Still Believe](https://open.spotify.com/track/1ZJ8pODFM2y5DeSthUTBrC) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Simple](https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q) | 5:05 | 2023-03-17 | 2023-03-28 |
 | [In Over My Head \(Crash Over Me\) \- Live](https://open.spotify.com/track/2kDe0QRaCBKIh8QY64GDvK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 4:58 | 2023-03-17 | 2023-05-06 |
-| [Inheritance](https://open.spotify.com/track/2ebUFQNAvcHbyrCVxPWw0V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 3:56 | 2023-03-25 |  |
+| [Inheritance](https://open.spotify.com/track/2ebUFQNAvcHbyrCVxPWw0V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Emmy Rose](https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 3:56 | 2023-03-25 | 2023-07-15 |
+| [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 | 2023-07-14 |  |
 | [Isn't He Beautiful](https://open.spotify.com/track/15h37QkTcfXJ3LDeNY92zF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 5:41 | 2023-03-29 | 2023-03-31 |
 | [It Is Well \- Live](https://open.spotify.com/track/3MRqm3VNWLIjRiLRQezul7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 6:25 | 2023-03-17 |  |
 | [Jesus We Love You \- Live](https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop) | 6:55 | 2023-03-17 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Padi)",
+  "description": "\ud55c\uad6d R&B. The hottest K-R&B is here. (Cover: Choi HEART(\ucd5c\ud558\ud2b8))",
   "name": "K-Are & Be",
   "tracks": [
     {
@@ -410,6 +410,24 @@
       "duration_ms": 156560,
       "name": "ANYWHERE ANYTIME",
       "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "album": {
+        "name": "B.T",
+        "url": "https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1"
+      },
+      "artists": [
+        {
+          "name": "YUN HYUN JI",
+          "url": "https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197450,
+      "name": "B.T",
+      "url": "https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK"
     },
     {
       "album": {
@@ -2001,6 +2019,28 @@
     },
     {
       "album": {
+        "name": "I Know (feat. Jayroh)",
+        "url": "https://open.spotify.com/album/0yITSLy6XxINua3Lc6mLj1"
+      },
+      "artists": [
+        {
+          "name": "NONE",
+          "url": "https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM"
+        },
+        {
+          "name": "Jayroh",
+          "url": "https://open.spotify.com/artist/7jioygkLGftDQXuTfG7ebS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "I Know (feat. Jayroh)",
+      "url": "https://open.spotify.com/track/2tc6f5oJhGyf5FA6NbE6YJ"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/6mUh75sWY6BAfmkfBkXDb4"
       },
@@ -2041,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "insomnia (feat. KURO)",
+        "url": "https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs"
+      },
+      "artists": [
+        {
+          "name": "16",
+          "url": "https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr"
+        },
+        {
+          "name": "KURO",
+          "url": "https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227186,
+      "name": "insomnia (feat. KURO)",
+      "url": "https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd"
+    },
+    {
+      "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/4bhD2vJg23j42c0a2J9Osr"
       },
@@ -2056,6 +2118,28 @@
       "duration_ms": 175631,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/5D0xOSWIpc7dTIEWQHhNSY"
+    },
+    {
+      "album": {
+        "name": "karaoke love",
+        "url": "https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM"
+      },
+      "artists": [
+        {
+          "name": "SFC.JGR",
+          "url": "https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "karaoke love (Feat. Ugly Duck)",
+      "url": "https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9"
     },
     {
       "album": {
@@ -2546,6 +2630,24 @@
       "duration_ms": 170400,
       "name": "No One Special (feat. J.O.Y & GARETH FERNANDEZ)",
       "url": "https://open.spotify.com/track/0Gn4sPo3XJk1J897upDQru"
+    },
+    {
+      "album": {
+        "name": "No.5",
+        "url": "https://open.spotify.com/album/7sTaCC9hyAjG93JoQb9OR6"
+      },
+      "artists": [
+        {
+          "name": "Choi HEART",
+          "url": "https://open.spotify.com/artist/3NnPQVIU8FpdYz4kWegI7m"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "No.5",
+      "url": "https://open.spotify.com/track/0qPE8po4lQB34Ag281MBMr"
     },
     {
       "album": {

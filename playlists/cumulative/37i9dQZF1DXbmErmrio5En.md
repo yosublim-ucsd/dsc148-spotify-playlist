@@ -4,7 +4,7 @@
 
 > \-8 LUFS if you can\. Ft\. mykel online
 
-230 songs - 10 hr 7 min
+232 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [cut the cable](https://open.spotify.com/track/6UpaLVTz3vZH37cAZ7XfYl) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [cut the cable](https://open.spotify.com/album/6iQ1jK8RQgxWZnHJqfjpCJ) | 2:58 | 2022-12-04 | 2023-02-18 |
 | [cybercrush222](https://open.spotify.com/track/0E4wLngBTydfvANcDA6k6O) | [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z) | [cybercrush222](https://open.spotify.com/album/09xWmIzUAG9kuyCUMupEQa) | 1:59 | 2023-06-23 |  |
 | [dark out](https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [dark out](https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7) | 2:25 | 2023-06-09 |  |
-| [Daylight](https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Daylight](https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ) | 2:09 | 2023-04-14 |  |
+| [Daylight](https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Daylight](https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ) | 2:09 | 2023-04-14 | 2023-07-15 |
 | [Deadline](https://open.spotify.com/track/6mJBoYd5COYvdRdSasGAbw) | [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [OUTOFBODY](https://open.spotify.com/album/1QXA280UYvDSd53ZKA5AOn) | 2:24 | 2022-12-04 | 2023-02-18 |
 | [deepfake](https://open.spotify.com/track/2iS3P95EkgyRAHx2hLy0ga) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 5:30 | 2022-12-16 | 2023-04-09 |
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-02-17 | 2023-04-09 |
@@ -131,7 +131,7 @@
 | [lol.](https://open.spotify.com/track/2b1jwf7qPlVHcXLB8jkOp9) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE), [Jedwill](https://open.spotify.com/artist/6Ed7YwSt3LvYcMDZk5b1Id), [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lol.](https://open.spotify.com/album/4JsRJhklpfdlHCrMEvAEJK) | 2:46 | 2023-04-07 | 2023-06-24 |
 | [losemymind](https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs) | [4cf](https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL) | [losemymind](https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu) | 2:27 | 2023-02-24 |  |
 | [machines](https://open.spotify.com/track/3ZWge0n1ymKXnmVoq9RN1G) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [machines](https://open.spotify.com/album/68hdC4ozadHQnX8OqeafWS) | 2:58 | 2022-12-04 | 2023-03-08 |
-| [made me to be](https://open.spotify.com/track/7z9NzImkZmheXOZLrVF7HD) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:53 | 2023-06-23 |  |
+| [made me to be](https://open.spotify.com/track/7z9NzImkZmheXOZLrVF7HD) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:53 | 2023-06-23 | 2023-07-15 |
 | [means to an end \(not enough\)](https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [means to an end \(not enough\)](https://open.spotify.com/album/3lSgb650mqEWwBGZB2vwDT) | 4:40 | 2022-12-04 | 2023-06-17 |
 | [metamorphine](https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [metamorphine](https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM) | 3:10 | 2023-02-10 |  |
 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 | 2022-12-04 | 2023-02-18 |
@@ -141,6 +141,7 @@
 | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/track/2kwuHsLUrCCFDxPwOu1b11) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr), [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [never goes down like that \(ft\. Ezekiel\)](https://open.spotify.com/album/603LFBRrrCMiwfQlBaQNwl) | 2:15 | 2022-12-04 | 2023-02-18 |
 | [never let you leave](https://open.spotify.com/track/4pwYRwB6wlFdpeltboxC4N) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [never let you leave](https://open.spotify.com/album/0wH8IuDVBd99eCGypnOuII) | 2:06 | 2023-04-14 |  |
 | [newlyweds](https://open.spotify.com/track/0qxeW8peAWYm9iF6bvE7tq) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [Gossip Team](https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM) | 3:13 | 2023-05-19 |  |
+| [No One But You](https://open.spotify.com/track/7kiM75ze8pvLiutHPstEnO) | [AViT](https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp), [Sergina](https://open.spotify.com/artist/1mtwR4TyjROOCPYduXKpe5) | [No One But You](https://open.spotify.com/album/0L1GatITCRcqZThNREgTQW) | 4:10 | 2023-06-23 |  |
 | [nostalgia](https://open.spotify.com/track/1d6N1nqKKhShEWRdrioT0K) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [PERFECT!](https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580) | 2:05 | 2023-04-07 | 2023-06-24 |
 | [Nothin](https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Nothin](https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES) | 2:47 | 2023-06-23 |  |
 | [numb](https://open.spotify.com/track/0PXDA0Fp2a3fL1HZ7hQZan) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [chlorine](https://open.spotify.com/album/5W0F5uU4Sc0uEUIX6svP33) | 2:03 | 2023-05-19 |  |
@@ -157,6 +158,7 @@
 | [play pretend](https://open.spotify.com/track/7na3UIxB9H4k4sTXatj4pS) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/6sXQGff20ZV62vxqiN3WKr) | 1:57 | 2023-03-01 |  |
 | [poison](https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB) | [Vaeo](https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV), [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [junkie](https://open.spotify.com/album/3Rjox1mLxaJLl0P5RwjLnP) | 1:57 | 2023-06-23 |  |
 | [Polka\-dot](https://open.spotify.com/track/4yHvBNnLubDvzTy5pha08v) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7), [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [Polka\-dot](https://open.spotify.com/album/1pxTFx9BJS6XCRc1FzlFQQ) | 3:42 | 2023-03-24 | 2023-06-10 |
+| [pretty girls](https://open.spotify.com/track/1nikStujV5DDL1gX7lYMzt) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [pretty girls](https://open.spotify.com/album/71HSjUSrkwWSrQRQJswmyI) | 3:00 | 2023-07-14 |  |
 | [prettynames](https://open.spotify.com/track/3XIll8ycq39GV1t7EtMVpF) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [prettynames](https://open.spotify.com/album/2qowicmtymr0Ifm9bcC6LN) | 2:41 | 2023-03-10 | 2023-06-24 |
 | [punch back](https://open.spotify.com/track/2vOLEQPJAFD3uFmeJaD24H) | [savesomeone](https://open.spotify.com/artist/1FWrpUh8hTnIpPZW5MP4mz) | [punch back](https://open.spotify.com/album/5FK5312txKT8bF6IEDEaOv) | 2:13 | 2022-12-04 |  |
 | [punk rock](https://open.spotify.com/track/0nog7rb95VYzC1WDliuhKZ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [punk rock](https://open.spotify.com/album/08WWzkcjNxPpC8kAkTAkis) | 2:22 | 2023-03-01 | 2023-06-24 |

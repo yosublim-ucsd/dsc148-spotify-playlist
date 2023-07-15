@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり\(Haru Nemuri\)
 
-589 songs - 1 day 7 hr 50 min
+590 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Nakamanouta](https://open.spotify.com/track/47ksmgpGttB6zmHmIy0CyW) | [The Mass Missile](https://open.spotify.com/artist/0ZZkqs16RgXFeUQbRdGFef) | [Nakamanouta](https://open.spotify.com/album/4uGinRpuwIDnU5qyCmto1H) | 4:57 | 2022-05-12 | 2022-07-21 |
 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2022-05-12 |  |
 | [NANANA](https://open.spotify.com/track/3K3NU1VZiAwIoQ7B06aM8I) | [DISTRESS](https://open.spotify.com/artist/2Rseip7lRjsDFTUSEyRj6K) | [NANANA](https://open.spotify.com/album/3r1ufZMtgZzQ8AjZJwxUwB) | 3:54 | 2022-06-21 | 2022-07-20 |
+| [naze kyou tenkiga warui](https://open.spotify.com/track/6xKi8s3RnwFSrBrqJ6H55F) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [naze kyou tenkiga warui](https://open.spotify.com/album/5k6hf0HvYEMWNhEVCy5oqq) | 2:54 | 2023-07-13 |  |
 | [Never Let Go](https://open.spotify.com/track/54mLLNZy75Nq3WusmnUsKF) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Never Let Go](https://open.spotify.com/album/1OZXwQBMbmHFqt93FGiBsZ) | 3:05 | 2022-05-12 | 2022-07-23 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-12 |  |
 | [Never Wanna Grow Up](https://open.spotify.com/track/2dtAAMlrZq2wpcqh200B7i) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [EVERLASTING](https://open.spotify.com/album/0hMfzTkueV5pZlXtcMotNk) | 2:51 | 2022-06-30 | 2022-11-02 |
@@ -454,7 +455,7 @@
 | [その羅針盤](https://open.spotify.com/track/6cPCs9eghvxx4hMKvLT7U0) | [THE BOYS&GIRLS](https://open.spotify.com/artist/11kPSVeZeo3t4Ep9TSKa8T) | [その羅針盤](https://open.spotify.com/album/3p7JjQ91l4lG4Xtcc5dDb2) | 3:46 | 2022-05-17 | 2022-07-23 |
 | [ちょ](https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:15 | 2022-05-19 |  |
 | [つばさ](https://open.spotify.com/track/6UVsdfH8fHX2oYEfpQJ5NV) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [ニューマニア](https://open.spotify.com/album/1ogeyMyOVc9xI6ICg4Vwll) | 4:33 | 2022-05-12 | 2023-01-06 |
-| [なぜ今日天気が悪い](https://open.spotify.com/track/6TorBlsYdhjPchFOZDyt95) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [なぜ今日天気が悪い](https://open.spotify.com/album/55B3St6M2drUy59u67UABa) | 2:54 | 2023-07-13 |  |
+| [なぜ今日天気が悪い](https://open.spotify.com/track/6TorBlsYdhjPchFOZDyt95) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [なぜ今日天気が悪い](https://open.spotify.com/album/55B3St6M2drUy59u67UABa) | 2:54 | 2023-07-13 | 2023-07-15 |
 | [ならば青春よ](https://open.spotify.com/track/25OeqQAsSTAb3CAmz03Cml) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [ロックンロール](https://open.spotify.com/album/4nxJ8v0MRVSAdBWtlWYOuk) | 3:29 | 2022-05-19 | 2022-07-28 |
 | [まくれ](https://open.spotify.com/track/40qPqGR1Lwf8YfApoeQ7yh) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [まくれ](https://open.spotify.com/album/0Mf93Ot20G7jXn1dzLYSLm) | 4:18 | 2022-05-24 | 2022-07-29 |
 | [もういい](https://open.spotify.com/track/3nnNpU81vjbflYXsmuf23R) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [もういい](https://open.spotify.com/album/7LdT35U05IlLByMoo9NJ8q) | 3:22 | 2022-05-12 | 2022-07-21 |

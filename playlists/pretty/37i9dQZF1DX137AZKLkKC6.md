@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,572 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,607 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 |
-| 2 | [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 |
-| 3 | [Una Noche](https://open.spotify.com/track/1q0rUyBplcbhKws6GCH9Z0) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Una Noche](https://open.spotify.com/album/6thhCxR0dkeLfKoCZ4SyCj) | 3:11 |
-| 4 | [Hasta La Madre](https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5) | 2:38 |
-| 5 | [Pacto De Olvido](https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Pacto De Olvido](https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w) | 2:36 |
-| 6 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 |
-| 7 | [Yo Se Cuando Miente](https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo Se Cuando Miente](https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk) | 3:18 |
-| 8 | [Invicto](https://open.spotify.com/track/4hbGBaXM4L5VRcBoYQemw2) | [Marlon Arenas](https://open.spotify.com/artist/3DKftlYPvpGgCvPVBj8OR3), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Invicto](https://open.spotify.com/album/4X6DG3LgEiIBmxm6gIjrmx) | 2:29 |
-| 9 | [Se Me Va La Vida](https://open.spotify.com/track/0HkQBh6OMP3UajE2xP66Eo) | [Lukas Bloom](https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX) | [Se Me Va La Vida](https://open.spotify.com/album/3lA4BMOGbeLkEIKwd4sPij) | 2:43 |
+| 2 | [Voy a Amarte \- Remix](https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Voy a Amarte \(Remix\)](https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE) | 2:22 |
+| 3 | [Hasta La Madre](https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5) | 2:38 |
+| 4 | [Pacto De Olvido](https://open.spotify.com/track/6CJY3LwNJ4zgBtR6hRcs7B) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Pacto De Olvido](https://open.spotify.com/album/0Tc3dJ7HiRhqA23Sv5So8w) | 2:36 |
+| 5 | [Ciego](https://open.spotify.com/track/3ayEHdV1m8PdezGWvM4t8v) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Mi Mejor Momento](https://open.spotify.com/album/1YeNrm1OTil0kSBYbf4m1r) | 2:48 |
+| 6 | [Una Noche](https://open.spotify.com/track/1q0rUyBplcbhKws6GCH9Z0) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Una Noche](https://open.spotify.com/album/6thhCxR0dkeLfKoCZ4SyCj) | 3:11 |
+| 7 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 |
+| 8 | [Yo Se Cuando Miente](https://open.spotify.com/track/5l0DvSZ4nFtPoAgb05qW8v) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Yo Se Cuando Miente](https://open.spotify.com/album/54Tj1utJyIACnIHp6lxJOk) | 3:18 |
+| 9 | [Invicto](https://open.spotify.com/track/4hbGBaXM4L5VRcBoYQemw2) | [Marlon Arenas](https://open.spotify.com/artist/3DKftlYPvpGgCvPVBj8OR3), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Invicto](https://open.spotify.com/album/4X6DG3LgEiIBmxm6gIjrmx) | 2:29 |
 | 10 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
 | 11 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 |
 | 12 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 79 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 80 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 
-Snapshot ID: `MCw1YTI3NzkyYjFiOWM2ZGZlMmIyYmE0NjlhZjdkYjc1YzBkZTViZmMy`
+Snapshot ID: `MCwwOGQxNWE4NGMwZDA4YWQxOTY3MjQ3ZmUxYjA1NDg2NDFhODQxMmU3`

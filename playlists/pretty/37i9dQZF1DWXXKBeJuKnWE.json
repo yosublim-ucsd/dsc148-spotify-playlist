@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy rockers. Cover: Caskets",
-  "num_followers": 31205,
+  "num_followers": 31214,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTliODNkZGU5NTBhNzYxOWRjZjM4NDZhMTE5MTllNmVjZGY5OTU2",
+  "snapshot_id": "MCwwMGMwMjY4YjU3NTM3MTEyYmRkZGNhNmY4MmE5MWIxMmNiNGM0NWYw",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 267826,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -847,6 +847,38 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 211848,
+      "name": "a new moral low ground",
+      "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
         "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
       },
@@ -871,54 +903,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "the classic symptoms of a broken spirit",
-        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 211848,
-      "name": "a new moral low ground",
-      "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "San Quentin",
-        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 211457,
-      "name": "San Quentin",
-      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 207759,
       "name": "Finish Line (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "San Quentin",
+        "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Gila Monster",
-        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 275774,
-      "name": "Gila Monster",
-      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Gila Monster",
+        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Gila Monster",
+      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Pump It",
         "url": "https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds"
       },
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Watch Me Burn",
-        "url": "https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 218722,
-      "name": "Watch Me Burn",
-      "url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p"
+      "duration_ms": 223866,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Vore",
-        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 339606,
-      "name": "Vore",
-      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 198067,
       "name": "Yellowjacket (feat. Sam Carter)",
       "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Vore",
+        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 339606,
+      "name": "Vore",
+      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1235,28 +1235,24 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "More Than Misery",
-        "url": "https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB"
+        "name": "By The Sound",
+        "url": "https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq"
       },
       "artists": [
         {
           "name": "Caskets",
           "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        },
-        {
-          "name": "TELLE",
-          "url": "https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2"
         }
       ],
-      "duration_ms": 221531,
-      "name": "More Than Misery",
-      "url": "https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD"
+      "duration_ms": 222361,
+      "name": "By The Sound",
+      "url": "https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2"
     },
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
+        "name": "Watch Me Burn",
+        "url": "https://open.spotify.com/album/7M6CVCNoLE0MU5gsmiVt3A"
       },
       "artists": [
         {
@@ -1264,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
+      "duration_ms": 218722,
+      "name": "Watch Me Burn",
+      "url": "https://open.spotify.com/track/52HjwNVAoDmpawoYGYfG3p"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1371,18 +1367,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 168000,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/5ebWSNwQKrnZzx4jvoGX6W"
+      "duration_ms": 176805,
+      "name": "Tear Me to Pieces",
+      "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
     }
   ],
   "unique_name": "The Pit",

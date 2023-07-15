@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Peso Pluma
 
-156 songs - 7 hr 59 min
+158 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 | 2023-05-26 | 2023-06-17 |
 | [Cazzualidades](https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP2](https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g) | 3:08 | 2023-05-26 | 2023-06-24 |
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2022-08-12 |  |
+| [Ciego](https://open.spotify.com/track/3ayEHdV1m8PdezGWvM4t8v) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Mi Mejor Momento](https://open.spotify.com/album/1YeNrm1OTil0kSBYbf4m1r) | 2:48 | 2023-07-14 |  |
 | [Como El Primer Día](https://open.spotify.com/track/4oBMezBt65kRwqU8dNyU9C) | [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Como El Primer Día](https://open.spotify.com/album/6BUA5fhYaie7fDtkE2HiKr) | 2:33 | 2023-01-27 | 2023-02-25 |
 | [Como Si Nada](https://open.spotify.com/track/5M2rUcoW3Kffm6Iw0NOje4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Como Si Nada](https://open.spotify.com/album/23AVhkrU4uDEnSv0QaSRmI) | 3:09 | 2022-11-04 | 2022-11-14 |
 | [Como Si Nada](https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:09 | 2022-08-12 |  |
@@ -92,7 +93,7 @@
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-23 | 2023-07-02 |
 | [Mala Mujer](https://open.spotify.com/track/1w2ScF6hA0XRejw3QDHRhY) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:01 | 2022-08-12 |  |
 | [MAMÁ PERDÓN](https://open.spotify.com/track/6UWA0lXKspDvsfmiMGuo8e) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [MAMÁ PERDÓN](https://open.spotify.com/album/2S7Lc5WX67KGJvlH6xk0ts) | 2:32 | 2023-02-17 | 2023-05-27 |
-| [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 | 2023-06-30 |  |
+| [Mas Altas Que Bajadas](https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Nata Montana](https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7) | 3:13 | 2023-06-30 | 2023-07-15 |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2022-08-12 |  |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 | 2023-05-13 |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 |  |
@@ -136,7 +137,7 @@
 | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/album/2VKqdkvlANFAc3AhrYFeyj) | 2:24 | 2022-08-12 | 2023-02-18 |
 | [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 | 2022-08-12 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/5Xitt5a5uLQ1QtYdFxmi9e) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Se Me Olvidó](https://open.spotify.com/album/09WScwK7HlzuM0dXAdXaMy) | 2:39 | 2022-08-12 |  |
-| [Se Me Va La Vida](https://open.spotify.com/track/0HkQBh6OMP3UajE2xP66Eo) | [Lukas Bloom](https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX) | [Se Me Va La Vida](https://open.spotify.com/album/3lA4BMOGbeLkEIKwd4sPij) | 2:43 | 2023-06-23 |  |
+| [Se Me Va La Vida](https://open.spotify.com/track/0HkQBh6OMP3UajE2xP66Eo) | [Lukas Bloom](https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX) | [Se Me Va La Vida](https://open.spotify.com/album/3lA4BMOGbeLkEIKwd4sPij) | 2:43 | 2023-06-23 | 2023-07-15 |
 | [Se Te Nota](https://open.spotify.com/track/74jl7R6kG4lfiHY85ay9O1) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Se Te Nota](https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F) | 3:05 | 2022-08-12 |  |
 | [Si Me Ven Llorando](https://open.spotify.com/track/5v6eE5Wn65VSoBiJnOUyTm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Me Ven Llorando](https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6) | 2:43 | 2022-08-12 |  |
 | [Si Supieras](https://open.spotify.com/track/7cZB9m0xJlmHtAPx981dsC) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Si Supieras](https://open.spotify.com/album/0Oi2DcpQozGUnvWbx9OZA0) | 3:24 | 2022-08-26 |  |
@@ -156,6 +157,7 @@
 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 | 2022-11-04 | 2023-02-18 |
 | [Venga Que No Es Pa' Eso](https://open.spotify.com/track/5k1EZGQSCDf6lI6ko5Can8) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [Venga Que No Es Pa' Eso](https://open.spotify.com/album/2fi7le7g3T9HLUSFRaeun1) | 2:21 | 2022-08-12 |  |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-08-12 |  |
+| [Voy a Amarte \- Remix](https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Voy a Amarte \(Remix\)](https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE) | 2:22 | 2023-07-14 |  |
 | [Vuelve y Me Pasa](https://open.spotify.com/track/2wTUAAdqoRpaP9w5VIzM6s) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:15 | 2022-08-12 |  |
 | [Y Si Me Dejas](https://open.spotify.com/track/4vAuiieTrceTs1H3hjr9p2) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Y Si Me Dejas](https://open.spotify.com/album/5GTf9GjfeIQsDxS0UZotD1) | 2:58 | 2023-03-31 | 2023-04-15 |
 | [Ya No Estoy a Tus Pies](https://open.spotify.com/track/1fLDqQSdDcKZEsmtXsnojw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Ya No Estoy a Tus Pies](https://open.spotify.com/album/763xBBavvXtYoiKxDVTTTa) | 2:59 | 2022-08-12 |  |

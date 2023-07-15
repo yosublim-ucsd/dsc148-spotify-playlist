@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-189 songs - 9 hr 22 min
+190 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP) | 3:09 | 2022-05-06 | 2023-02-18 |
 | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx) | 3:20 | 2022-05-13 | 2023-04-09 |
 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2022-11-04 |  |
+| [Pump It Up](https://open.spotify.com/track/3LBjEgzayDLlB72ItAfFMP) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [Pump It Up](https://open.spotify.com/album/4JG7RhBm4wxPCPG3ZUBl3T) | 2:24 | 2023-07-14 |  |
 | [Push It](https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO) | 2:50 | 2022-07-29 |  |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2022-05-06 | 2022-07-02 |
 | [Sangre Poderosa](https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Sangre Poderosa](https://open.spotify.com/album/70Pw8yVlZQkoEu8ttNiIDf) | 2:26 | 2022-05-06 | 2022-06-25 |

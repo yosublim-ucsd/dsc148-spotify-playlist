@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Bad Gyal & Myke Towers",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: lil joujou, Hades66 & Chen",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220560,
       "name": "Airtag",
       "url": "https://open.spotify.com/track/5ffivCp3duZm9e1qkIEQas"
@@ -1950,6 +1950,32 @@
       "duration_ms": 164160,
       "name": "Borracho y Loco",
       "url": "https://open.spotify.com/track/4WJ1NdiMI29s083w8ph0hA"
+    },
+    {
+      "album": {
+        "name": "Bouncy",
+        "url": "https://open.spotify.com/album/5n7lvI1CBrm6CMcjOo8lRV"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/2mzrEvfWPMGbmcNbnoux1C"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Bouncy",
+      "url": "https://open.spotify.com/track/34Iws89e3FCdzB19r4kyX4"
     },
     {
       "album": {
@@ -3606,7 +3632,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 179200,
       "name": "Drip",
       "url": "https://open.spotify.com/track/4BlhUMEFASlDYn3Iqc3RoC"
@@ -3976,7 +4002,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160160,
       "name": "El Sol Me Da",
       "url": "https://open.spotify.com/track/0IPuDbJgvcHLtb8zicEQnE"
@@ -6202,6 +6228,50 @@
       "duration_ms": 181802,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2Of9piZALXa4CC7Unxoeeg"
+    },
+    {
+      "album": {
+        "name": "LUNA AZUL EN TOKYO",
+        "url": "https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120568,
+      "name": "KYLIE",
+      "url": "https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ"
+    },
+    {
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247840,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
       "album": {
@@ -9071,6 +9141,28 @@
     },
     {
       "album": {
+        "name": "Not\u00f3n",
+        "url": "https://open.spotify.com/album/1mtxVEwAaB45BHSCpST8px"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Not\u00f3n",
+      "url": "https://open.spotify.com/track/6A3pjEOJ9gWGIeRdOHPRNO"
+    },
+    {
+      "album": {
         "name": "Nuevo",
         "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
       },
@@ -9178,7 +9270,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 135704,
       "name": "obst\u00e1culo",
       "url": "https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa"
@@ -9408,7 +9500,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 223389,
       "name": "Orgullo",
       "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
@@ -9724,7 +9816,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 227096,
       "name": "Para Ti (feat. Maikel Delacalle & Omar Varela)",
       "url": "https://open.spotify.com/track/1PHY05RmHPBs3SASIjXcYl"
@@ -11050,7 +11142,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 139591,
       "name": "Qu\u00edtate La Ropa",
       "url": "https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R"
@@ -11948,7 +12040,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 226684,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/61MsCTegsH9eKKhzDmK6aH"
@@ -12386,7 +12478,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 237720,
       "name": "S\u00fabelo & B\u00e1jalo",
       "url": "https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO"
@@ -12932,7 +13024,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 150517,
       "name": "Toretto",
       "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"

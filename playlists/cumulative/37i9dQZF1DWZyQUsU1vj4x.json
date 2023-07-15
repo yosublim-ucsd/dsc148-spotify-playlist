@@ -1347,6 +1347,28 @@
     },
     {
       "album": {
+        "name": "Music for The Starling Girl (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/1mDpO84TgiUxVHI81x8h36"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Ben Schneider",
+          "url": "https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240613,
+      "name": "Jem's Theme",
+      "url": "https://open.spotify.com/track/79KqZKVzGQghHiwdUXXWCH"
+    },
+    {
+      "album": {
         "name": "Lake Bottom Lp",
         "url": "https://open.spotify.com/album/5wqWiTzzqH6DDkQsUXW1m0"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: The Acacia Strain",
-  "num_followers": 129827,
+  "num_followers": 129981,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2RmMDhkNTU4ZDEzNDFkMmNlODU5NGYzNTU1ZjgxMGE2NmRjZTQ0",
+  "snapshot_id": "MCxhNTE1MDhiNzBjZmJiNDZiZTU0NDg2YjhjMzZkM2FiYmE0MTUyZWQ1",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Shock Tactics (1000v)",
-        "url": "https://open.spotify.com/album/5BFAfdSGioyMmIVYag9i3w"
+        "name": "Zwielicht",
+        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
       },
       "artists": [
         {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
         }
       ],
-      "duration_ms": 268015,
-      "name": "Shock Tactics (1000v)",
-      "url": "https://open.spotify.com/track/6gpBsJWLB5qhY60wik87jo"
+      "duration_ms": 307526,
+      "name": "Obsessis a Daemonio",
+      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Zwielicht",
-        "url": "https://open.spotify.com/album/2KYHW0qffmoyIQe9JibNIu"
+        "name": "Shock Tactics (1000v)",
+        "url": "https://open.spotify.com/album/5BFAfdSGioyMmIVYag9i3w"
       },
       "artists": [
         {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 307526,
-      "name": "Obsessis a Daemonio",
-      "url": "https://open.spotify.com/track/5Cfpkql6atqov7YHVG7Py7"
+      "duration_ms": 268015,
+      "name": "Shock Tactics (1000v)",
+      "url": "https://open.spotify.com/track/6gpBsJWLB5qhY60wik87jo"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -863,22 +863,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v"
+        "name": "GRAVESIDE CONFESSIONS",
+        "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
       },
       "artists": [
         {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
-        },
-        {
-          "name": "Spencer Chamberlain",
-          "url": "https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi"
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic"
+      "duration_ms": 261252,
+      "name": "SLIT WRIST SAVIOR - Graveside Edition",
+      "url": "https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -899,18 +895,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "GRAVESIDE CONFESSIONS",
-        "url": "https://open.spotify.com/album/60laAVmomVOkxeHbcUqbKQ"
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/7hv2IVfILbMAbhMAr3fK9v"
       },
       "artists": [
         {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+        },
+        {
+          "name": "Spencer Chamberlain",
+          "url": "https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi"
         }
       ],
-      "duration_ms": 261252,
-      "name": "SLIT WRIST SAVIOR - Graveside Edition",
-      "url": "https://open.spotify.com/track/3Snjx8exeyc80Cbze9kzBy"
+      "duration_ms": 248200,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2sjE0P1Qtnhx8cIMyTynic"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Fear & Loathing",
         "url": "https://open.spotify.com/album/0odjkD2BkmycwuyJrfg93A"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 190506,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/49yo9KMW5LEYNvGoh7TEVG"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Dead Man's Diary",
+        "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        },
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 279060,
+      "name": "Dead Man's Diary",
+      "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Deathmask Divine",
         "url": "https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 171739,
       "name": "Good People",
       "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Dead Man's Diary",
-        "url": "https://open.spotify.com/album/1gvLe7lqcMsNmiiggAqDbn"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        },
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 279060,
-      "name": "Dead Man's Diary",
-      "url": "https://open.spotify.com/track/0W6JBOQRxYwwr4IDwfmdQg"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Nu World Order",
-        "url": "https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6"
+        "name": "Deathtouch",
+        "url": "https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ"
       },
       "artists": [
         {
-          "name": "Traitors",
-          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 175723,
-      "name": "Nu World Order",
-      "url": "https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV"
+      "duration_ms": 201101,
+      "name": "Deathtouch",
+      "url": "https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1467,6 +1467,22 @@
       "duration_ms": 294782,
       "name": "Miserable Summer",
       "url": "https://open.spotify.com/track/1TqxaBXzqepHJHcI2QAoRu"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Nu World Order",
+        "url": "https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6"
+      },
+      "artists": [
+        {
+          "name": "Traitors",
+          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
+        }
+      ],
+      "duration_ms": 175723,
+      "name": "Nu World Order",
+      "url": "https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1503,22 +1519,6 @@
       "duration_ms": 191023,
       "name": "Dead Rabbit",
       "url": "https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Deathtouch",
-        "url": "https://open.spotify.com/album/0XwFiP0w8btY009yWB2GhQ"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 201101,
-      "name": "Deathtouch",
-      "url": "https://open.spotify.com/track/1wT1jaAjqwigxsRu6ooBbt"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "From Ruin... We Rise",
-        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 290844,
-      "name": "From Ruin... We Rise",
-      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Luciferous",
         "url": "https://open.spotify.com/album/1TKgsk77shaDKEi2SmgK9R"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 285366,
       "name": "The Failsafe Fallacy",
       "url": "https://open.spotify.com/track/7i0yLsdCMj0GbkqlpVKAhS"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "From Ruin... We Rise",
+        "url": "https://open.spotify.com/album/0tmEnen3nC6Oofdjsbr5jW"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 290844,
+      "name": "From Ruin... We Rise",
+      "url": "https://open.spotify.com/track/2lSSfK5GGDSUrot8FXq16S"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Gypsy Disco",
-        "url": "https://open.spotify.com/album/6XlxptF7rFq2zqEX9aFhgg"
-      },
-      "artists": [
-        {
-          "name": "Emmure",
-          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
-        }
-      ],
-      "duration_ms": 121864,
-      "name": "Gypsy Disco",
-      "url": "https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 275807,
       "name": "Chainbreaker",
       "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Gypsy Disco",
+        "url": "https://open.spotify.com/album/6XlxptF7rFq2zqEX9aFhgg"
+      },
+      "artists": [
+        {
+          "name": "Emmure",
+          "url": "https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk"
+        }
+      ],
+      "duration_ms": 121864,
+      "name": "Gypsy Disco",
+      "url": "https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Days Before the World Wept",
+        "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
+      },
+      "artists": [
+        {
+          "name": "The Agonist",
+          "url": "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
+        }
+      ],
+      "duration_ms": 293308,
+      "name": "Remnants in Time",
+      "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Burn in the Flood",
         "url": "https://open.spotify.com/album/1qBh6vpLqGU19T3ICllOp2"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 210840,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/5JSpp4LKuqnaR3f5MZVWrc"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Days Before the World Wept",
-        "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
-      },
-      "artists": [
-        {
-          "name": "The Agonist",
-          "url": "https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak"
-        }
-      ],
-      "duration_ms": 293308,
-      "name": "Remnants in Time",
-      "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 228304,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "The Cycle Of Violence: Chapter 1",
         "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 158365,
       "name": "The Cycle Of Violence : Chapter 1",
       "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 228304,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
     },
     {
       "added_at": "2023-06-30 04:01:00",

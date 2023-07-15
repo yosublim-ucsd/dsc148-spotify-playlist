@@ -1,15 +1,207 @@
 {
-  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Marca MP",
-  "num_followers": 1234,
+  "description": "Descubre los nuevos \u00e1lbumes de M\u00fasica Mexicana del 2023. Hit shuffle for a mixed listening experience. Cover: Gerardo Ortiz",
+  "num_followers": 1268,
   "original_name": "New M\u00fasica Mexicana Albums",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDZlZjYxMzY5NTM0MDIwNjY3YmFjNmJiNjIwMzAyMWViYjBmZjgx",
+  "snapshot_id": "MCxlN2U4M2NmOWZlZTAyOTcwMWMzMWQ1ODc5NmU4ZTFmOTFhOTk0NTBj",
   "tracks": [
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 135127,
+      "name": "El Convoy de los Hermanos",
+      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Destapando Botellitas",
+        "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 139449,
+      "name": "Destapando Botellitas",
+      "url": "https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 130875,
+      "name": "Ah\u00ed No Era",
+      "url": "https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0bLjzsC83VGtiQYEQScyLx"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 179836,
+      "name": "Sigues En Mi",
+      "url": "https://open.spotify.com/track/3p99gd9d8MpluLFC0DLCM0"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0bLjzsC83VGtiQYEQScyLx"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 239703,
+      "name": "No Pude",
+      "url": "https://open.spotify.com/track/6aH91qqhHf3D1RHVzxMyyl"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0bLjzsC83VGtiQYEQScyLx"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "Disfrutando Lo Mejor",
+      "url": "https://open.spotify.com/track/1mLIKXenzgkz5z0xpzVLxJ"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Corridos De Encargo, Vol. 4",
+        "url": "https://open.spotify.com/album/1VwbxW7BrjQDV7TXcz1KWi"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Zona Roja R1",
+      "url": "https://open.spotify.com/track/06xoj7olTITKHMB9iVgQsF"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Corridos De Encargo, Vol. 4",
+        "url": "https://open.spotify.com/album/1VwbxW7BrjQDV7TXcz1KWi"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "duration_ms": 192679,
+      "name": "El MK",
+      "url": "https://open.spotify.com/track/0meeTfeP5nozA6lS0zmCWD"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Corridos De Encargo, Vol. 4",
+        "url": "https://open.spotify.com/album/1VwbxW7BrjQDV7TXcz1KWi"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "duration_ms": 214144,
+      "name": "Un Tal Joey",
+      "url": "https://open.spotify.com/track/0gnH77BX7cfwkUoSzehpk1"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "En Vivo Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/55CUXE4WTQ1b0C85TNfyR2"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 215272,
+      "name": "El Diablo De Culiac\u00e1n (En Vivo)",
+      "url": "https://open.spotify.com/track/6jiP5aQMtaOtfoUi1GmDXF"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "En Vivo Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/55CUXE4WTQ1b0C85TNfyR2"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "El \u00c1guila Blanca (En Vivo)",
+      "url": "https://open.spotify.com/track/1hwJpBISYJ65VBV0jwVxCb"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "En Vivo Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/55CUXE4WTQ1b0C85TNfyR2"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        }
+      ],
+      "duration_ms": 147865,
+      "name": "Aqui En Mi Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/0tbSxtCzTH3DmykGItbxZe"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Aunque Digan",
         "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
@@ -25,7 +217,7 @@
       "url": "https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Aunque Digan",
         "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
@@ -41,7 +233,7 @@
       "url": "https://open.spotify.com/track/59cKhO1nVynbetDKrk7vHR"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Aunque Digan",
         "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
@@ -61,7 +253,7 @@
       "url": "https://open.spotify.com/track/4nmaHTyAohQW70OpqHpqfW"
     },
     {
-      "added_at": "2023-07-10 17:12:58",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
@@ -81,7 +273,7 @@
       "url": "https://open.spotify.com/track/6aS2cZfHXu8LPbPT8uyBL6"
     },
     {
-      "added_at": "2023-07-10 17:12:58",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
@@ -101,7 +293,7 @@
       "url": "https://open.spotify.com/track/58LoSwhJWU06chdylaNmFp"
     },
     {
-      "added_at": "2023-07-10 17:12:58",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
@@ -117,7 +309,7 @@
       "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Misi\u00f3n Cumplida",
         "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
@@ -141,7 +333,7 @@
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Misi\u00f3n Cumplida",
         "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
@@ -157,7 +349,7 @@
       "url": "https://open.spotify.com/track/5OFRM2vn712ZqjGsuv33G2"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Misi\u00f3n Cumplida",
         "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
@@ -173,7 +365,7 @@
       "url": "https://open.spotify.com/track/7cvStDhRZU8Al6tIXNOIGb"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
@@ -189,7 +381,7 @@
       "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
@@ -209,7 +401,7 @@
       "url": "https://open.spotify.com/track/0jofzyjTFcgFIvkK5bXwo3"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
@@ -229,7 +421,7 @@
       "url": "https://open.spotify.com/track/1gCkdtayMomPBKi09qXs1C"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "MS 20 A\u00f1os",
         "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
@@ -245,7 +437,7 @@
       "url": "https://open.spotify.com/track/1gA1RZokrJwv0jP3DWEt1L"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "MS 20 A\u00f1os",
         "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
@@ -261,7 +453,7 @@
       "url": "https://open.spotify.com/track/42tvVVTjqBlW4yf0rI8RX4"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "MS 20 A\u00f1os",
         "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
@@ -277,7 +469,7 @@
       "url": "https://open.spotify.com/track/1HpZTAmPUPE4i41hJS7Fbv"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -297,7 +489,7 @@
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -321,7 +513,7 @@
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -345,7 +537,7 @@
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
@@ -361,7 +553,7 @@
       "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
@@ -377,7 +569,7 @@
       "url": "https://open.spotify.com/track/12AOcB3zbD5HTS6ksOGV5V"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
@@ -393,7 +585,7 @@
       "url": "https://open.spotify.com/track/2EXBHEndxcIlOF9H3QwARz"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
@@ -409,7 +601,7 @@
       "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
@@ -425,7 +617,7 @@
       "url": "https://open.spotify.com/track/4PB83udmnANMq3uouy4kDO"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
@@ -441,7 +633,7 @@
       "url": "https://open.spotify.com/track/5EOQKKLbi2Xv6KzMd6pK19"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "INSURGENTE",
         "url": "https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr"
@@ -457,7 +649,7 @@
       "url": "https://open.spotify.com/track/44jbEHnG8wE1rZXkBFXeb4"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "INSURGENTE",
         "url": "https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr"
@@ -473,7 +665,7 @@
       "url": "https://open.spotify.com/track/2kSgafErZRSLWAyr3Kgqoh"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "INSURGENTE",
         "url": "https://open.spotify.com/album/3EF9OFj3hQxwiNQrEbLqjr"
@@ -489,7 +681,7 @@
       "url": "https://open.spotify.com/track/7t9Bqf5BPAQ5bygjqOpSrH"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Lista Negra",
         "url": "https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr"
@@ -505,7 +697,7 @@
       "url": "https://open.spotify.com/track/76Hcs53w8DjANEtsjvKVpl"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Lista Negra",
         "url": "https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr"
@@ -525,7 +717,7 @@
       "url": "https://open.spotify.com/track/1OSVK0IN89X7uVslhI8Bdb"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Lista Negra",
         "url": "https://open.spotify.com/album/2MUPXNH7A5KAmXKtFGxnDr"
@@ -541,7 +733,7 @@
       "url": "https://open.spotify.com/track/5SAja6DMBAW9GPuQBrLIZt"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Forajido EP2",
         "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
@@ -557,7 +749,7 @@
       "url": "https://open.spotify.com/track/1lvA3HsMSLGoFqzxzQVYdu"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Forajido EP2",
         "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
@@ -573,7 +765,7 @@
       "url": "https://open.spotify.com/track/294ae9GSeG6nYVFlCOljJz"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Forajido EP2",
         "url": "https://open.spotify.com/album/26V8oCj2Lxs2tLemL0Xf3g"
@@ -589,7 +781,7 @@
       "url": "https://open.spotify.com/track/7v4VONOI3WKPui7J3gdIcz"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Coincidencia",
         "url": "https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv"
@@ -605,7 +797,7 @@
       "url": "https://open.spotify.com/track/7r1AVN696evDeIbLM86lau"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Coincidencia",
         "url": "https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv"
@@ -621,7 +813,7 @@
       "url": "https://open.spotify.com/track/3sKfdHHg5w3DqKGC8uQToA"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Coincidencia",
         "url": "https://open.spotify.com/album/2fXsZPPnrfmiS1QtqALzGv"
@@ -637,7 +829,7 @@
       "url": "https://open.spotify.com/track/2gLSx5RGX1Z9V4J9NkoprG"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
@@ -657,7 +849,7 @@
       "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
@@ -677,7 +869,7 @@
       "url": "https://open.spotify.com/track/7EFcjtnKPD2qy7I5Fx2b2J"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
@@ -693,7 +885,7 @@
       "url": "https://open.spotify.com/track/1Uya8lQ4iNozpXJodcdbue"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Ratonera",
         "url": "https://open.spotify.com/album/2HKfS0djtKD4VEybHS2eSu"
@@ -713,7 +905,7 @@
       "url": "https://open.spotify.com/track/45Y3em8xdSWWYWCrmulpGQ"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Ratonera",
         "url": "https://open.spotify.com/album/2HKfS0djtKD4VEybHS2eSu"
@@ -733,7 +925,7 @@
       "url": "https://open.spotify.com/track/6ahhzI2K3fnws0BwBTUOgI"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Ratonera",
         "url": "https://open.spotify.com/album/2HKfS0djtKD4VEybHS2eSu"
@@ -753,7 +945,7 @@
       "url": "https://open.spotify.com/track/3OK9CZNM3T3SHrWpcJcroS"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Fruta Prohibida (En Vivo)",
         "url": "https://open.spotify.com/album/6YdurIed4b8G10sqyiRi5Y"
@@ -769,7 +961,7 @@
       "url": "https://open.spotify.com/track/5m9nkKTgo3D4vrFG7yVW2Q"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Mis Gustos Mis Canciones (En Vivo)",
         "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
@@ -785,7 +977,7 @@
       "url": "https://open.spotify.com/track/0TeERpoI966VYJBh6kxubQ"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Mis Gustos Mis Canciones (En Vivo)",
         "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
@@ -801,7 +993,7 @@
       "url": "https://open.spotify.com/track/0BdY26MnTcTepEnYIUMv1X"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
@@ -817,7 +1009,7 @@
       "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
@@ -833,7 +1025,7 @@
       "url": "https://open.spotify.com/track/3TdSdPw3WsKeATJTASUWsq"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Segunda Temporada",
         "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
@@ -849,7 +1041,7 @@
       "url": "https://open.spotify.com/track/7iyoRSmpb1viej1HIQANPv"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj"
@@ -869,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6Z2Aq7uaWQZAUlDIIvrTwz"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj"
@@ -889,7 +1081,7 @@
       "url": "https://open.spotify.com/track/71C5O8r7jGfggDjzEm6wG1"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/6JhU55VzRGxceE9Co927oj"
@@ -905,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1pnwE5OgoJ5ovacjbfg4bf"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
@@ -925,7 +1117,7 @@
       "url": "https://open.spotify.com/track/4qAKl0zErYCnWAFTw0azCm"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
@@ -941,7 +1133,7 @@
       "url": "https://open.spotify.com/track/73BzCLoktGr7WNKRCMc8VK"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm"
@@ -957,7 +1149,7 @@
       "url": "https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Puros de Encargo, Vol. 1",
         "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
@@ -973,7 +1165,7 @@
       "url": "https://open.spotify.com/track/77hqi0qBNPPfg0CM8Myr1G"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Puros de Encargo, Vol. 1",
         "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
@@ -989,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0WPUmaAUEYbP5H18G7un9x"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Puros de Encargo, Vol. 1",
         "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
@@ -1005,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5j7dbBzqxXiDb3hW95CcVt"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "SS23",
         "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
@@ -1025,7 +1217,7 @@
       "url": "https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "SS23",
         "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
@@ -1045,7 +1237,7 @@
       "url": "https://open.spotify.com/track/5vbI1ZAapMWilQko88A2mA"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "SS23",
         "url": "https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S"
@@ -1065,7 +1257,7 @@
       "url": "https://open.spotify.com/track/1xzJ1wOqlqPscsIVaEnDwZ"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt"
@@ -1081,7 +1273,7 @@
       "url": "https://open.spotify.com/track/2EjZLRk2G8ZY6iIHDp3Lg5"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt"
@@ -1097,7 +1289,7 @@
       "url": "https://open.spotify.com/track/29wEM41esAVMnNbLw2Lcyz"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/0ARNLNhqCK42lchOkO8zVt"
@@ -1113,7 +1305,7 @@
       "url": "https://open.spotify.com/track/4Ze7Nqx8IZDQdMTNMvgHkj"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
         "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
@@ -1129,7 +1321,7 @@
       "url": "https://open.spotify.com/track/4qMT2GDBi1r5u2JPQTmT6f"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
         "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
@@ -1145,7 +1337,7 @@
       "url": "https://open.spotify.com/track/5UM4mWqhD1gJhUigJx90tk"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Hecho En M\u00e9xico\u2026M\u00e1gico",
         "url": "https://open.spotify.com/album/4umhJQSX5KHfnoSpqgjbLv"
@@ -1161,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4SMWhMeM2XJx5qoR3scaUw"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -1177,7 +1369,7 @@
       "url": "https://open.spotify.com/track/6e8Oe2rA2Vk7m556wEN1sX"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -1193,7 +1385,7 @@
       "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
@@ -1209,7 +1401,7 @@
       "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Mas Me Rinde La Hielera",
         "url": "https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R"
@@ -1225,7 +1417,7 @@
       "url": "https://open.spotify.com/track/55W9M5C6GgUtUdfioMgsHG"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Mas Me Rinde La Hielera",
         "url": "https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R"
@@ -1241,7 +1433,7 @@
       "url": "https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Mas Me Rinde La Hielera",
         "url": "https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R"
@@ -1257,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
@@ -1277,7 +1469,7 @@
       "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
@@ -1297,7 +1489,7 @@
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
@@ -1317,7 +1509,7 @@
       "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "\u00bfEn Qu\u00e9 Les Molesta?",
         "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
@@ -1333,7 +1525,7 @@
       "url": "https://open.spotify.com/track/3ZFei3vxIdWxG6nrOnhCA4"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "\u00bfEn Qu\u00e9 Les Molesta?",
         "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
@@ -1349,7 +1541,7 @@
       "url": "https://open.spotify.com/track/3Nk0mBAQIVeCrCjfoJx3iP"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "\u00bfEn Qu\u00e9 Les Molesta?",
         "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
@@ -1365,7 +1557,7 @@
       "url": "https://open.spotify.com/track/0U72qF3ozvcOpEntzFdCMm"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Una Copa Por Cada Reina (Deluxe)",
         "url": "https://open.spotify.com/album/1G9FPee5jWwNpWS7iefMq5"
@@ -1381,7 +1573,7 @@
       "url": "https://open.spotify.com/track/2QDLL3rhTTMw369Cl8d92K"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Una Copa Por Cada Reina (Deluxe)",
         "url": "https://open.spotify.com/album/1G9FPee5jWwNpWS7iefMq5"
@@ -1397,7 +1589,7 @@
       "url": "https://open.spotify.com/track/3lk5B122FlPdPDbpzYztK6"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Una Copa Por Cada Reina (Deluxe)",
         "url": "https://open.spotify.com/album/1G9FPee5jWwNpWS7iefMq5"
@@ -1413,7 +1605,7 @@
       "url": "https://open.spotify.com/track/7AWcB8E2rckklyezjvUqSj"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Precopa (Desde las Pulgas) [En Vivo]",
         "url": "https://open.spotify.com/album/3aUSWyPo0m3BBK2iaQjUDO"
@@ -1429,7 +1621,7 @@
       "url": "https://open.spotify.com/track/00aSqqNZmTks5EFl8cgW80"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Precopa (Desde las Pulgas) [En Vivo]",
         "url": "https://open.spotify.com/album/3aUSWyPo0m3BBK2iaQjUDO"
@@ -1445,7 +1637,7 @@
       "url": "https://open.spotify.com/track/0IGt0iF2WIJZSEokXOgFtC"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "La Precopa (Desde las Pulgas) [En Vivo]",
         "url": "https://open.spotify.com/album/3aUSWyPo0m3BBK2iaQjUDO"
@@ -1461,7 +1653,7 @@
       "url": "https://open.spotify.com/track/591nJ3lV8nmpYuxnj76YJM"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Tiempo Al Tiempo",
         "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
@@ -1477,7 +1669,7 @@
       "url": "https://open.spotify.com/track/1mirQfq7ZpZ5LPzusMavEt"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Tiempo Al Tiempo",
         "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
@@ -1493,7 +1685,7 @@
       "url": "https://open.spotify.com/track/61FVXN8bnWjau07qJ7tq5C"
     },
     {
-      "added_at": "2023-07-10 17:10:10",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "Tiempo Al Tiempo",
         "url": "https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U"
@@ -1507,218 +1699,6 @@
       "duration_ms": 191480,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Bienvenidos A Casa (En Vivo)",
-        "url": "https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/55myGMLEFMPmym8SYsDdx4"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "Nadie Es Inolvidable - En Vivo",
-      "url": "https://open.spotify.com/track/6c8Dkll2omHCdWr1Km4F3k"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Bienvenidos A Casa (En Vivo)",
-        "url": "https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        },
-        {
-          "name": "C\u00f3dice",
-          "url": "https://open.spotify.com/artist/20p8yriwsdlALnCz2xXLmZ"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Hay Cicatrices - En Vivo",
-      "url": "https://open.spotify.com/track/1qjG8dpE7RrJo2vFlMg5dL"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Bienvenidos A Casa (En Vivo)",
-        "url": "https://open.spotify.com/album/2OVAUCW5Zv1ISWd1lQW1qr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        },
-        {
-          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento",
-          "url": "https://open.spotify.com/artist/6UAYm076bYvU9SVOUBH3hQ"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Marco Arturo - En Vivo",
-      "url": "https://open.spotify.com/track/59bBMJRygWwrolsqhLLNT6"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Recordando A Los Valientes",
-        "url": "https://open.spotify.com/album/4GLMeGluMbJXKGagwFcA2U"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 166197,
-      "name": "Jesus Malverde",
-      "url": "https://open.spotify.com/track/4HQ1nLrJqx5qEAV0KIQ2wB"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Recordando A Los Valientes",
-        "url": "https://open.spotify.com/album/4GLMeGluMbJXKGagwFcA2U"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "La Fuga de Sinaloa",
-      "url": "https://open.spotify.com/track/5G4hn3j93uGlHlzymEW054"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Recordando A Los Valientes",
-        "url": "https://open.spotify.com/album/4GLMeGluMbJXKGagwFcA2U"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 186252,
-      "name": "Santos Cant\u00fa",
-      "url": "https://open.spotify.com/track/6KolxSfapxhdUcrxbTrjtn"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "Paso A Pasito",
-      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        },
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Si Te Vas (feat. Los Aptos)",
-      "url": "https://open.spotify.com/track/6nf6tNacf31z8npZtl5FjV"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Las Ganas",
-      "url": "https://open.spotify.com/track/0rIzfRdpzaZDc1UHgLDauw"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Desde La Capital Del Corrido, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 195777,
-      "name": "Los Mitotes (En Vivo)",
-      "url": "https://open.spotify.com/track/7nwBCUNXwvcDxXk13zrqEX"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Desde La Capital Del Corrido, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 163536,
-      "name": "El Yuko (En Vivo)",
-      "url": "https://open.spotify.com/track/2tTHGLNxwZ4vIL3hYppWvl"
-    },
-    {
-      "added_at": "2023-07-10 17:10:10",
-      "album": {
-        "name": "Desde La Capital Del Corrido, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/60ZMVCYSqlQ5ncMIH0Z92q"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 193024,
-      "name": "Que Las Cuartitos No Falten (En Vivo)",
-      "url": "https://open.spotify.com/track/3Dz3FiHQmANJ8iUKPdiqqd"
     }
   ],
   "unique_name": "New M\u00fasica Mexicana Albums",

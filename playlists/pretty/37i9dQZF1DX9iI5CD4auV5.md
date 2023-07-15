@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,909 likes - 72 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,921 likes - 72 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 58 | [Musique Noire \- Jamie Jones In Out Edit](https://open.spotify.com/track/3kWwoy7YplmupGFwxTk192) | [Jonny White, James Teej, Jamie Jones](https://open.spotify.com/artist/491V4kaPpsengqzkreSoXm) | [Soul Clap Social Experiment Sampler Part 2](https://open.spotify.com/album/31glV4B2Xhgkeo99Q7ZGPv) | 5:45 |
 | 59 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 |
 | 60 | [Throw \- Slam's RTM Remix](https://open.spotify.com/track/5Az5ZI6idNY1JbcIGVoBKE) | [Paperclip People](https://open.spotify.com/artist/1x9g8Kg5mSTFzgRdy8EaTw), [Slam](https://open.spotify.com/artist/5G5TdvVTCbFGNkcvDncV1Q) | [Throw \(Slam's RTM Remix\)](https://open.spotify.com/album/6HJxnK1kaSc5KNONkdZAuX) | 7:37 |
-| 61 | [Rave](https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 6:45 |
+| 61 | [Rave](https://open.spotify.com/track/2nAfcOcGRIvNMHvY70i18M) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 6:45 |
 | 62 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [DJ Rolando](https://open.spotify.com/artist/6d596lgGxYcfIG0hDl6dhp) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
 | 63 | [The Voice \- Spirit Catcher&apos;s Re\-Interpretation](https://open.spotify.com/track/1T63iv1GOvngDdBOEm8UIk) | [Alex Flatner feat\. Deafny Moon](https://open.spotify.com/artist/17xZ8nBgwJLxsexKPY04e0) | [The Voice](https://open.spotify.com/album/6gB0dlUcco2nXIIrmEeTtb) | 6:37 |
 | 64 | [Everything \- The Martinez Brothers Mix](https://open.spotify.com/track/6ybLHccLu0q2pS8uMX1UK2) | [ACID MONDAYS](https://open.spotify.com/artist/2WDeKY1V6t4APg95ywXJjS), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge), [The Show](https://open.spotify.com/artist/7Df4TPixHIcmK8bpz37Ccc), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Everything](https://open.spotify.com/album/1qToiTMk8Gakk4iRiUQRQN) | 5:46 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 71 | [Give Me Every Little Thing \- Cajmere Mix](https://open.spotify.com/track/1US8bGeclUcs21XOVbH4ac) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Give Me Every Little Thing](https://open.spotify.com/album/3OKc556xr2Tzbn9p5EOxgj) | 5:20 |
 | 72 | [Jolean](https://open.spotify.com/track/2ng0DafMn7xw3JnzF1Zzmi) | [Get Real](https://open.spotify.com/artist/6zWcx7zef8u7NfAVhe6iql), [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Jolean](https://open.spotify.com/album/3IuM6CZV1zSyZIKl2tbbpj) | 3:13 |
 
-Snapshot ID: `MCw0NjA4MDAzYTY3ZDZlODExOGJiNmU0NzZjYzZlMjI2NzgwZDBiZWFm`
+Snapshot ID: `MCwxZGYwMmJiMDNlMTQ5NmZjOWU5NzhhMTA5NDFlODQxNzk1MTgxNTZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Zeynep Bastık
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,277 likes - 59 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,269 likes - 58 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,14 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 48 | [Yıldız](https://open.spotify.com/track/1tlwHPqISARA5AOd8CUm3z) | [Safiye](https://open.spotify.com/artist/3J5L8phe7TP0vhoiXdJizP) | [Yıldız](https://open.spotify.com/album/4zpzmSV4nTtaWNIJ0wRh6u) | 2:49 |
 | 49 | [Ay Işığı Destanı](https://open.spotify.com/track/6xb9YyGfSggjodNIH9zp0V) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Ay Işığı Destanı](https://open.spotify.com/album/4k9ZJ9g3SuyEDql2XQZF2Z) | 4:03 |
 | 50 | [Yazın Beni](https://open.spotify.com/track/28oTXPnIYEz4Bz6MCdR22v) | [Aliye Mutlu](https://open.spotify.com/artist/4d6HLW1woZHaPab3eJpiyA) | [Yazın Beni](https://open.spotify.com/album/2OMFwHWaPFWwJYYdmYSYPG) | 4:17 |
-| 51 | [Zehir](https://open.spotify.com/track/23BpY6KAAfxuNiTVlPJS53) | [Buse Ayla](https://open.spotify.com/artist/59FSDgp7VBJnjaGk4m6Ud4) | [Zehir](https://open.spotify.com/album/7kmJS9L8yCpWGuuPtfrEEk) | 2:31 |
-| 52 | [Kıyamet Kopacak](https://open.spotify.com/track/60pMhnnBnQzIUGcCG9BOTD) | [Kader](https://open.spotify.com/artist/2kBZ1BBlOTx9lSqbdayt2M) | [Kıyamet Kopacak](https://open.spotify.com/album/2jlq34FMQQRdr5ANkyYuiD) | 3:19 |
-| 53 | [Eskimiyormuş](https://open.spotify.com/track/6E07sW4xAFZZAMKdOzCnsu) | [Beyza Bakırcı](https://open.spotify.com/artist/0Pe3rXGT57dvLw2KugaXUD) | [Eskimiyormuş](https://open.spotify.com/album/4JMZLx6AdMoRxIalV5cqYK) | 2:47 |
-| 54 | [Mesut Ol Sen \- Fecri Ebcioğlu 100 Yıllık Şarkılar](https://open.spotify.com/track/7unU8Nb8CNpcGw4gWJu79d) | [Elif Kaya](https://open.spotify.com/artist/0YP9sio4vk1BLyCWg3DG1r) | [Mesut Ol Sen \(Fecri Ebcioğlu 100 Yıllık Şarkılar\)](https://open.spotify.com/album/2o1mCZpSiIRRyOqOVfLCZL) | 3:09 |
-| 55 | [Bro](https://open.spotify.com/track/1RJKg0Lmh0t4LiSGk3DBUf) | [Ebru Polat](https://open.spotify.com/artist/75qHhz1dcbPw1jNllzGsT9), [Ezgizem](https://open.spotify.com/artist/1NdFM8FxkPYwYWZl9Zr2tj) | [Bro](https://open.spotify.com/album/4sf0Gb4iJXaBqFxi24HknJ) | 1:56 |
-| 56 | [Bilmece](https://open.spotify.com/track/0uMEngiuzLd14kiN8hrpyw) | [Cemre Esel](https://open.spotify.com/artist/7gkOxCFAj4vvJ3EcKlWjHi) | [Bilmece](https://open.spotify.com/album/42AvlbajEnSNJPi9oazjEL) | 2:56 |
-| 57 | [Beni Hatırlarsın](https://open.spotify.com/track/0HlWL6N7rRxLMpcGv4qfhR) | [Jale](https://open.spotify.com/artist/1vhZOpEwZ7kwQJ50EmFZOh) | [Beni Hatırlarsın](https://open.spotify.com/album/0Pa2sYf0pkNcJ1eQ1RQisA) | 3:35 |
-| 58 | [Sarı Gelin](https://open.spotify.com/track/78WXzOrub2P9QKjj6bGYHA) | [Glasxs](https://open.spotify.com/artist/4p3A5De4v6Pu6L3sVG7020) | [Sarı Gelin](https://open.spotify.com/album/7LwmWkITPdHQzJzxYfoOm4) | 3:34 |
-| 59 | [Hayalimdeki Resim \- Fecri Ebcioğlu 100 Yıllık Şarkılar](https://open.spotify.com/track/4isjU4ox8UeVXoU0AClGic) | [Gökçe Kasacı](https://open.spotify.com/artist/7HWPcCJNmAs6EoYZbeKXP3) | [Hayalimdeki Resim \(Fecri Ebcioğlu 100 Yıllık Şarkılar\)](https://open.spotify.com/album/7fSOpZSBb6nnxtNefBwDMb) | 2:50 |
+| 51 | [Kıyamet Kopacak](https://open.spotify.com/track/60pMhnnBnQzIUGcCG9BOTD) | [Kader](https://open.spotify.com/artist/2kBZ1BBlOTx9lSqbdayt2M) | [Kıyamet Kopacak](https://open.spotify.com/album/2jlq34FMQQRdr5ANkyYuiD) | 3:19 |
+| 52 | [Eskimiyormuş](https://open.spotify.com/track/6E07sW4xAFZZAMKdOzCnsu) | [Beyza Bakırcı](https://open.spotify.com/artist/0Pe3rXGT57dvLw2KugaXUD) | [Eskimiyormuş](https://open.spotify.com/album/4JMZLx6AdMoRxIalV5cqYK) | 2:47 |
+| 53 | [Mesut Ol Sen \- Fecri Ebcioğlu 100 Yıllık Şarkılar](https://open.spotify.com/track/7unU8Nb8CNpcGw4gWJu79d) | [Elif Kaya](https://open.spotify.com/artist/0YP9sio4vk1BLyCWg3DG1r) | [Mesut Ol Sen \(Fecri Ebcioğlu 100 Yıllık Şarkılar\)](https://open.spotify.com/album/2o1mCZpSiIRRyOqOVfLCZL) | 3:09 |
+| 54 | [Bro](https://open.spotify.com/track/1RJKg0Lmh0t4LiSGk3DBUf) | [Ebru Polat](https://open.spotify.com/artist/75qHhz1dcbPw1jNllzGsT9), [Ezgizem](https://open.spotify.com/artist/1NdFM8FxkPYwYWZl9Zr2tj) | [Bro](https://open.spotify.com/album/4sf0Gb4iJXaBqFxi24HknJ) | 1:56 |
+| 55 | [Bilmece](https://open.spotify.com/track/0uMEngiuzLd14kiN8hrpyw) | [Cemre Esel](https://open.spotify.com/artist/7gkOxCFAj4vvJ3EcKlWjHi) | [Bilmece](https://open.spotify.com/album/42AvlbajEnSNJPi9oazjEL) | 2:56 |
+| 56 | [Beni Hatırlarsın](https://open.spotify.com/track/0HlWL6N7rRxLMpcGv4qfhR) | [Jale](https://open.spotify.com/artist/1vhZOpEwZ7kwQJ50EmFZOh) | [Beni Hatırlarsın](https://open.spotify.com/album/0Pa2sYf0pkNcJ1eQ1RQisA) | 3:35 |
+| 57 | [Sarı Gelin](https://open.spotify.com/track/78WXzOrub2P9QKjj6bGYHA) | [Glasxs](https://open.spotify.com/artist/4p3A5De4v6Pu6L3sVG7020) | [Sarı Gelin](https://open.spotify.com/album/7LwmWkITPdHQzJzxYfoOm4) | 3:34 |
+| 58 | [Hayalimdeki Resim \- Fecri Ebcioğlu 100 Yıllık Şarkılar](https://open.spotify.com/track/4isjU4ox8UeVXoU0AClGic) | [Gökçe Kasacı](https://open.spotify.com/artist/7HWPcCJNmAs6EoYZbeKXP3) | [Hayalimdeki Resim \(Fecri Ebcioğlu 100 Yıllık Şarkılar\)](https://open.spotify.com/album/7fSOpZSBb6nnxtNefBwDMb) | 2:50 |
 
-Snapshot ID: `MCw2YWM1YzZlZDg2ODRiZDdhNWM1YzcwNWZhOTY4NTcyY2MyODZlYjY3`
+Snapshot ID: `MCw4N2JlZjA5NGMyMjk0M2E3YjhmODFhN2JmMjNiNzQ5ZmUxYWJlMmVm`

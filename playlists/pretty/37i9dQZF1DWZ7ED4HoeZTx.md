@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,659 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,756 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/album/5DcmQCG3tFLsZTISzdgQWw) | 5:50 |
 | 50 | [君の知らない物語](https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7) | 5:39 |
 
-Snapshot ID: `MCw5MmEzYzUyYjNkNWIzOWU2ZDczMmE3MDczZTMzM2I3ZjMwYWEwNGU0`
+Snapshot ID: `MCw3YzI0NDg5YjQ3NjcyODM5YmJhZTUzNmI3NGFiMjk0MjUzZWI3MDlh`

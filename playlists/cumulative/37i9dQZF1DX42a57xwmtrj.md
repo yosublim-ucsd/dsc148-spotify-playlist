@@ -4,7 +4,7 @@
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-142 songs - 9 hr 30 min
+143 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [No Pinches Mames](https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 3:19 | 2020-11-13 | 2023-07-07 |
 | [No Son Basura](https://open.spotify.com/track/53KwWGINnneOMWAgJgCO5a) | [La Botarga](https://open.spotify.com/artist/4XO4abXYqlABqgFpDlVkLx), [Juan Morales](https://open.spotify.com/artist/00ZtThSytJwRL11A3cEuWi) | [El Sueño de La Botarga](https://open.spotify.com/album/7gWXoEqZkXNQfGKKmLRMyf) | 3:01 | 2020-11-13 | 2022-07-21 |
 | [No Tengo Tiempo](https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 4:25 | 2020-11-13 |  |
+| [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 | 2023-07-14 |  |
 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 | 2020-11-13 |  |
 | [Nostalgia](https://open.spotify.com/track/7aTYU2BmJ0I1WasPvizwV2) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Clasicas para Rockear](https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw) | 4:26 | 2020-11-13 | 2022-07-29 |
 | [Oh Dennis](https://open.spotify.com/track/6IuDGQx94luOJpJ5f1Z8us) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 3:19 | 2020-11-13 | 2022-07-20 |
@@ -118,7 +119,7 @@
 | [Si México Ganara el Mundial](https://open.spotify.com/track/5YIoexCUSBC3KmgarX4YOJ) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Si México Ganara el Mundial](https://open.spotify.com/album/3GT1eFvd0Fg8XGjjqOK5vW) | 4:13 | 2020-11-13 | 2022-06-18 |
 | [Silvia](https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 5:36 | 2020-11-13 |  |
 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 | 2020-11-13 | 2022-06-15 |
-| [Srita Martinez Punk](https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Srita Martinez Punk](https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV) | 3:18 | 2020-11-13 |  |
+| [Srita Martinez Punk](https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Srita Martinez Punk](https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV) | 3:18 | 2020-11-13 | 2023-07-15 |
 | [Sácate a la Carretera](https://open.spotify.com/track/39RrS1BfLJGKE2AiDF34po) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Soy Piedra](https://open.spotify.com/album/0zOFju6viwCt48BHBgcRbw) | 4:42 | 2020-11-13 | 2022-07-18 |
 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 | 2020-11-13 |  |
 | [Tex Tex Boogie](https://open.spotify.com/track/6DQGq9NknX23NMBIgQs83m) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:37 | 2022-03-11 | 2023-01-16 |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Del Limit en portada. ",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. El Fantasma en portada. ",
   "name": "Sierre\u00f1o 2023",
   "tracks": [
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/5Uj1vT6mKxxDjuzUb5DQFC"
+      },
+      "artists": [
+        {
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213217,
+      "name": "123",
+      "url": "https://open.spotify.com/track/2HpaoTOD7dojn7e7S0NLzc"
+    },
     {
       "album": {
         "name": "40 Silenciada",
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "A 180",
       "url": "https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz"
@@ -92,6 +110,24 @@
       "duration_ms": 209834,
       "name": "A Mi Paso",
       "url": "https://open.spotify.com/track/38o0NHH625eFYa2OonBiZp"
+    },
+    {
+      "album": {
+        "name": "El Fantasma Sin Limites",
+        "url": "https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173132,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
     },
     {
       "album": {
@@ -276,7 +312,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-14",
+      "date_removed": null,
       "duration_ms": 379306,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm"
@@ -574,7 +610,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 206918,
       "name": "Comandante Tanque",
       "url": "https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf"
@@ -632,6 +668,28 @@
       "duration_ms": 204580,
       "name": "Como Olvidar",
       "url": "https://open.spotify.com/track/6yp2M1xFQPOlhWJJ7pfs49"
+    },
+    {
+      "album": {
+        "name": "Compadre",
+        "url": "https://open.spotify.com/album/59IflGMetd1sXRyp8cxhze"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        },
+        {
+          "name": "ARIEL Y ARIEL",
+          "url": "https://open.spotify.com/artist/2tKbVyoH9jXnU2qp1w50ni"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213455,
+      "name": "Compadre",
+      "url": "https://open.spotify.com/track/0UIeDAcAJnK7cI3QB23aZh"
     },
     {
       "album": {
@@ -845,6 +903,28 @@
     },
     {
       "album": {
+        "name": "Cuerno Mio",
+        "url": "https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Cuerno Mio",
+      "url": "https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z"
+    },
+    {
+      "album": {
         "name": "Dame Amor",
         "url": "https://open.spotify.com/album/5ahfnUbjVFr0dxwZYJLcHs"
       },
@@ -1026,7 +1106,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-28",
+      "date_removed": null,
       "duration_ms": 223360,
       "name": "Diviertete",
       "url": "https://open.spotify.com/track/211zWlnWWhycTO5T30Dxgu"
@@ -1393,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135127,
+      "name": "El Convoy de los Hermanos",
+      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
+    },
+    {
+      "album": {
         "name": "El Del Bullying",
         "url": "https://open.spotify.com/album/6QDasIA7BuqFVNgIiKl50J"
       },
@@ -1716,7 +1814,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 227509,
       "name": "Empezar de Nuevo",
       "url": "https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93"
@@ -1810,7 +1908,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 130375,
       "name": "Era El \u00danico",
       "url": "https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX"
@@ -1994,7 +2092,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Falta de Qu\u00edmica",
       "url": "https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q"
@@ -2096,24 +2194,6 @@
       "duration_ms": 147781,
       "name": "Gente Corriente - En Vivo",
       "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
-    },
-    {
-      "album": {
-        "name": "Seguimos Dejando Marca (En Vivo)",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "date_added": "2023-01-20",
-      "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
-      "duration_ms": 185354,
-      "name": "Gente De Sombrero - En Vivo",
-      "url": "https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO"
     },
     {
       "album": {
@@ -2338,7 +2418,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 275194,
       "name": "Jugaste y Sufr\u00ed",
       "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
@@ -2666,7 +2746,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 263111,
       "name": "Lo Eminente",
       "url": "https://open.spotify.com/track/4eQAmN30bn85qpIPMoiQP2"
@@ -2702,7 +2782,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 219222,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
@@ -2898,7 +2978,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
@@ -2988,7 +3068,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-21",
+      "date_removed": null,
       "duration_ms": 241704,
       "name": "Mi Todo",
       "url": "https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm"
@@ -3068,7 +3148,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-10",
+      "date_removed": null,
       "duration_ms": 174626,
       "name": "M\u00eda Un A\u00f1o",
       "url": "https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey"
@@ -3344,6 +3424,24 @@
       "duration_ms": 233096,
       "name": "Pa Que Te Duela",
       "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+    },
+    {
+      "album": {
+        "name": "Pal Amor Soy Malo",
+        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Pal Amor Soy Malo",
+      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
     },
     {
       "album": {
@@ -3728,7 +3826,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-24",
+      "date_removed": null,
       "duration_ms": 193539,
       "name": "Qui\u00e9n Se Apunta",
       "url": "https://open.spotify.com/track/5Dkh7EU3hI96fawhX1OE1n"
@@ -3840,7 +3938,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 235858,
       "name": "Se Amerita",
       "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
@@ -3970,7 +4068,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-23",
+      "date_removed": null,
       "duration_ms": 212004,
       "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
       "url": "https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ"
@@ -4089,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0bLjzsC83VGtiQYEQScyLx"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179836,
+      "name": "Sigues En Mi",
+      "url": "https://open.spotify.com/track/3p99gd9d8MpluLFC0DLCM0"
+    },
+    {
+      "album": {
         "name": "Sin Instructivo",
         "url": "https://open.spotify.com/album/6MVd7rogG9g2kCmt6fy22j"
       },
@@ -4140,6 +4256,46 @@
       "duration_ms": 196949,
       "name": "Solo Por Preguntar",
       "url": "https://open.spotify.com/track/6qyU3iqMTvr4FpSO2i6Xu3"
+    },
+    {
+      "album": {
+        "name": "Seguimos Dejando Marca (En Vivo)",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185354,
+      "name": "Somos Gente Del Sombrero - En Vivo",
+      "url": "https://open.spotify.com/track/48nvLEfnH12HM49DL4UhpO"
+    },
+    {
+      "album": {
+        "name": "Somos O No Somos",
+        "url": "https://open.spotify.com/album/5qZ5iEC25heBt5NQpDHHQM"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209289,
+      "name": "Somos O No Somos",
+      "url": "https://open.spotify.com/track/5NQbEl9mL00xD2uN5T0qsx"
     },
     {
       "album": {
@@ -4306,7 +4462,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 194626,
       "name": "Te Encontr\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/5MyH0HWPtx6Ua7IVdCsrjE"
@@ -4669,6 +4825,28 @@
     },
     {
       "album": {
+        "name": "Voy a Amarte (Remix)",
+        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142422,
+      "name": "Voy a Amarte - Remix",
+      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
+    },
+    {
+      "album": {
         "name": "Voy a Mi Paso",
         "url": "https://open.spotify.com/album/7xiQtJCTl2wAOzV3cN8HOk"
       },
@@ -4756,7 +4934,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 177534,
       "name": "Y Yo Voy",
       "url": "https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI"
@@ -4836,7 +5014,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 213040,
       "name": "Ya Me Est\u00e1 Pegando En Serio",
       "url": "https://open.spotify.com/track/0Q0oYoNHC5UVFpb66hRFkw"
@@ -4988,7 +5166,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 170600,
       "name": "\u00bfQu\u00e9 Le Pas\u00f3 Al Ni\u00f1o?",
       "url": "https://open.spotify.com/track/37R5l0oHzlaqTqMgNTL5VR"

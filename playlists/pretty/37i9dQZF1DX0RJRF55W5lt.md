@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,126 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,322 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 35 | [Girls Like Us \- Extended Mix](https://open.spotify.com/track/75jvPWqVp6IiFBMuaWSvGe) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/1C5RzkueJX7bh2ZrzpA2fa) | [Girls Like Us](https://open.spotify.com/album/2Z7K9KQn69qXxXIIglNYlg) | 5:56 |
 | 36 | [Envy \(They Don't Know Vocal Remix\)](https://open.spotify.com/track/1GpOWSP9X3lo05xbtEmvuV) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [They Don't Know](https://open.spotify.com/album/39adZ9WsxbgqLpHP2FLDWO) | 5:48 |
 | 37 | [Love Shy \- Club Asylum Remix](https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 3:41 |
-| 38 | [What's It Gonna Be \(feat\. Platnum\) \- Agent X Re\-Rub Edit](https://open.spotify.com/track/3Ym9everi3OzD33YlJPYaK) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Platnum](https://open.spotify.com/artist/42Yg24I2eo5UhSxGMTP6zZ) | [What's It Gonna Be \(feat\. Platnum\) \[Agent X Re\-Rub Edit\]](https://open.spotify.com/album/2n3srRZNoqzYB4RtXRzRmw) | 3:07 |
-| 39 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 38 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
+| 39 | [What's It Gonna Be \(feat\. Platnum\) \- Agent X Re\-Rub Edit](https://open.spotify.com/track/3Ym9everi3OzD33YlJPYaK) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [Platnum](https://open.spotify.com/artist/42Yg24I2eo5UhSxGMTP6zZ) | [What's It Gonna Be \(feat\. Platnum\) \[Agent X Re\-Rub Edit\]](https://open.spotify.com/album/2n3srRZNoqzYB4RtXRzRmw) | 3:07 |
 | 40 | [It's the Way '99](https://open.spotify.com/track/6OpIIDKPGffGytEpqmjlF7) | [Future Underground Nation](https://open.spotify.com/artist/2fbIUYDJY7fITWypLoa2ws) | [It's the Way '99](https://open.spotify.com/album/12GKH2hyb3lppMl3FUQn5B) | 5:03 |
 | 41 | [Just In Case \- Dub\-A\-Holics Roller's Revival Mix Edit](https://open.spotify.com/track/6wzw5660L5NK8WAMRORDOg) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Summer Heat](https://open.spotify.com/album/46QSMAy6Q1fX9IirJpFDPH) | 3:39 |
 | 42 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
 | 75 | [Destiny \- Dem 2 Radio Mix](https://open.spotify.com/track/793c172sg8q7S4yIVdolYy) | [Dem 2](https://open.spotify.com/artist/32bkV540WQJ4K9tVfLdNYQ) | [Destiny](https://open.spotify.com/album/33edSIlo2PL5bY1hNvlCgA) | 4:05 |
 
-Snapshot ID: `MCw1NzUzOTMyZDViNDhiNDQ0MDJlOGRlNWM5MDFhMDgyNmZhNWFjNGZh`
+Snapshot ID: `MCw2MmM3ZjIyOGYwZGQ5MDhlNTRkNDllNmI5OWQ0ZWExMmU0ODA4ZTcz`

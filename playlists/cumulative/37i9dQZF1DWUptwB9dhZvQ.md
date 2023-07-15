@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-125 songs - 3 hr 45 min
+126 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 | 2021-11-01 |  |
 | [Billa 2 Theme](https://open.spotify.com/track/2DsuS52SpgSbTwncBFwbr8) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Billa 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79crxQ8cTRX053j88cHks0) | 1:55 | 2021-11-01 |  |
 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 | 2023-02-03 |  |
-| [Bommai Theme](https://open.spotify.com/track/1gXArCGq0bOmH7EdMw3Gl9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Bommai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4) | 3:08 | 2023-06-08 |  |
+| [Bommai Theme](https://open.spotify.com/track/1gXArCGq0bOmH7EdMw3Gl9) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Bommai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/142n2bgdZKBNBTwi0kWXH4) | 3:08 | 2023-06-08 | 2023-07-15 |
 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 | 2023-01-16 |  |
 | [Church Fight](https://open.spotify.com/track/51U5TXf0Zqtp9Q0qs1XvNM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 3:38 | 2021-11-01 |  |
 | [Closure \- Background Score](https://open.spotify.com/track/54UsJLnJMK1pB99uBolGwN) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 2:21 | 2023-01-25 | 2023-02-07 |
@@ -44,6 +44,7 @@
 | [Jaanu Intro \(Flute Theme\)](https://open.spotify.com/track/0rA8dNNCcHsQlHuoukGZae) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [96 \(Original Background Score\)](https://open.spotify.com/album/2wVkKhJFevirGdI4II2FM8) | 0:57 | 2023-02-06 | 2023-05-10 |
 | [Jagdish On Mission Theme \- Instrumental](https://open.spotify.com/track/3F7gR8xnnojlAxlLOHUoQp) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Thuppakki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3cHO6AGqouRETUlmJTqxmy) | 3:26 | 2021-11-01 |  |
 | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/track/6D9uswrNghivGDSmeKFsIH) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jailer Announcement Theme \(From "Jailer"\)](https://open.spotify.com/album/4jkl33s9WJkLdwtVXfOn61) | 1:00 | 2022-09-13 |  |
+| [Jawan Prevue Theme](https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan Prevue Theme](https://open.spotify.com/album/2bE8aLgWEZkHvTRhosPwmC) | 2:07 | 2023-07-14 |  |
 | [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 | 2021-11-01 |  |
 | [Jilla Theme](https://open.spotify.com/track/2ev3UOM2TLhquAupkuTd6v) | [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Anand](https://open.spotify.com/artist/53kVUvxYgxcYwhbUjqm9X6), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI) | [Jilla \(Original Music Picture Soundtrack\)](https://open.spotify.com/album/3D6qVncbJK9etDCBZs1lx6) | 3:04 | 2021-11-01 |  |
 | [Kaaki Sattai Theme Music](https://open.spotify.com/track/2O1MQVDpPTEsmYshDAbRvV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaaki Sattai](https://open.spotify.com/album/5emaOiW98UVkv7NYdWhcP9) | 0:47 | 2021-11-01 | 2022-07-09 |

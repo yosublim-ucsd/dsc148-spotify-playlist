@@ -1,12 +1,12 @@
 {
   "description": "\ud834\udd22Because bass. Cover: Victor Wooten\ud834\udd22",
-  "num_followers": 132314,
+  "num_followers": 132368,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWU2ODU2NTE1NDdiNGI0YTliNzViYTg5MmEyOGExMDlkNmJmMjY5",
+  "snapshot_id": "MCxhZWRlMDQ1NjhmNmQyZjY1ZjVmMjNlYTE4YmZlZTllMDA1ZjhmNmM3",
   "tracks": [
     {
       "added_at": "2021-05-06 21:10:03",
@@ -103,6 +103,30 @@
       "duration_ms": 282946,
       "name": "What You Won't Do for Love",
       "url": "https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Basslines n Melodies",
+        "url": "https://open.spotify.com/album/3PgXwULhSpQn28b7TA8O7l"
+      },
+      "artists": [
+        {
+          "name": "Reggie Parker",
+          "url": "https://open.spotify.com/artist/2pW4wDWqI1vYPS7fXXOlO5"
+        },
+        {
+          "name": "Gil Defay",
+          "url": "https://open.spotify.com/artist/28UKiapbpZNh0wXOcphxRV"
+        },
+        {
+          "name": "Joe Scott",
+          "url": "https://open.spotify.com/artist/203ErdwaUAQ8Sn5LZKUf0E"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/6J8Qlrkiv9lPl8sEFZlAeM"
     },
     {
       "added_at": "2021-05-06 21:10:03",

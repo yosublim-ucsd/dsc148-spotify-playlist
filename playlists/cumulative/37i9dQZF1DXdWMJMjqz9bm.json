@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 155016,
       "name": "Company",
       "url": "https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn"
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 206160,
       "name": "Floats My Boat",
       "url": "https://open.spotify.com/track/2xH94bp1TPSMPPPnnSwIGL"
@@ -4002,7 +4002,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 143414,
       "name": "HANDSOMER (Remix) (Feat. Ktlyn)",
       "url": "https://open.spotify.com/track/0vp1sk3FzuDBeLMLcRhQdL"
@@ -4046,6 +4046,28 @@
       "duration_ms": 151714,
       "name": "harvey dent",
       "url": "https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo"
+    },
+    {
+      "album": {
+        "name": "HATED US",
+        "url": "https://open.spotify.com/album/1dwxT4qdc4nvgcGTjWHP60"
+      },
+      "artists": [
+        {
+          "name": "Kyaru",
+          "url": "https://open.spotify.com/artist/1V7RdASCLJSbBzeum0fLkQ"
+        },
+        {
+          "name": "Atwood",
+          "url": "https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "HATED US",
+      "url": "https://open.spotify.com/track/07mp614wVP17UQqEJ4577F"
     },
     {
       "album": {
@@ -7008,6 +7030,24 @@
       "duration_ms": 127346,
       "name": "PAY ATTENTION",
       "url": "https://open.spotify.com/track/7h74fcrF3X8tHrATyM4Wx3"
+    },
+    {
+      "album": {
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/1euweddL5gMCa2war37gph"
+      },
+      "artists": [
+        {
+          "name": "gianni & kyle",
+          "url": "https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143403,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/36NqiAgn72InTKB3TRPbhB"
     },
     {
       "album": {
@@ -10006,7 +10046,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 137915,
       "name": "Vroom",
       "url": "https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM"
@@ -10130,6 +10170,24 @@
       "duration_ms": 175441,
       "name": "Wanted More",
       "url": "https://open.spotify.com/track/0ooVZc9MsUtiHKy9QtnbH3"
+    },
+    {
+      "album": {
+        "name": "Waste Ur Time",
+        "url": "https://open.spotify.com/album/33QDlSkMgGlvjYpTWk11wr"
+      },
+      "artists": [
+        {
+          "name": "Olive Amun",
+          "url": "https://open.spotify.com/artist/5pvcPGz8wKYEcV4cdXEZOv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141835,
+      "name": "Waste Ur Time",
+      "url": "https://open.spotify.com/track/6c7YABBOLl7jB6F0bntYcy"
     },
     {
       "album": {
@@ -10406,6 +10464,24 @@
       "duration_ms": 162892,
       "name": "Who's Taking You Home",
       "url": "https://open.spotify.com/track/0eezrc1XfAfhceVFRXdiY4"
+    },
+    {
+      "album": {
+        "name": "WILD WEST",
+        "url": "https://open.spotify.com/album/2op53wtJ5U9ycQAInyyJKS"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135002,
+      "name": "WILD WEST",
+      "url": "https://open.spotify.com/track/2f9XMY7oyLJjkjbcrH2Fyz"
     },
     {
       "album": {

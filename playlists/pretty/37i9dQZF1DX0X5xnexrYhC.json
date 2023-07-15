@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 76082,
+  "num_followers": 76087,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTE4NTdhMzYxZTk4MTE0Yzk4NWQ2Y2RiZTM2MDhhOGNmMWI5ZDQ5",
+  "snapshot_id": "MCw3OTY2ZGQ3NzNkOWZkMzMyY2U3ZGU5NDA3Njk2MzE3MmQ2ZjM1NTQ2",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -871,26 +871,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "I Love You But I Love Me More (feat. Beach Bunny)",
-        "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        },
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "I Love You But I Love Me More (feat. Beach Bunny)",
-      "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "f.e.a.r.",
         "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 161561,
       "name": "pity party (feat. Royal & the Serpent)",
       "url": "https://open.spotify.com/track/1rm34PzaavebSDelHPDmYy"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "I Love You But I Love Me More (feat. Beach Bunny)",
+        "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        },
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "I Love You But I Love Me More (feat. Beach Bunny)",
+      "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Aston",
         "url": "https://open.spotify.com/album/2Xn3gGhbeH3PwqBjboWr1V"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 218660,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Teenage Heartbreak",
-        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 189651,
-      "name": "Partycrasher",
-      "url": "https://open.spotify.com/track/7ewKUtjuzrTVOGgOO4SlJE"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 140880,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Teenage Heartbreak",
+        "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
+      },
+      "artists": [
+        {
+          "name": "Huddy",
+          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
+        }
+      ],
+      "duration_ms": 189651,
+      "name": "Partycrasher",
+      "url": "https://open.spotify.com/track/7ewKUtjuzrTVOGgOO4SlJE"
     },
     {
       "added_at": "2022-11-15 00:54:21",

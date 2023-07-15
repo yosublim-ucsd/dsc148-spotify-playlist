@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181183,
       "name": "Should\u2019ve Known Better",
       "url": "https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT"
@@ -5010,6 +5010,24 @@
       "duration_ms": 256980,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/4QZPq8EZc4lYrLx84mTj4i"
+    },
+    {
+      "album": {
+        "name": "The Girl I Was",
+        "url": "https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "The Girl I Was",
+      "url": "https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy"
     },
     {
       "album": {

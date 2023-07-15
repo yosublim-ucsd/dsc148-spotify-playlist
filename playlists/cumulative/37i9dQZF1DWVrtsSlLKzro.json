@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "I Walk This Earth All By Myself",
+        "url": "https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo"
+      },
+      "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271807,
+      "name": "I Walk This Earth All By Myself",
+      "url": "https://open.spotify.com/track/0yjG7B98B9AtigGIbjIG8g"
+    },
+    {
+      "album": {
         "name": "Musical Chairs Mixtape (Vol. 1)",
         "url": "https://open.spotify.com/album/5s6mcniU1EWM3v2rR31FYA"
       },

@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-125 songs - 6 hr 54 min
+126 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Made Me Cry](https://open.spotify.com/track/4BHiDQEOsguauSBmNyQZPv) | [Andrea Vasquez](https://open.spotify.com/artist/6qDuIc7yVd1VGCiJrNO8mh) | [Made Me Cry](https://open.spotify.com/album/5X1C3UxSZamJ2Kc6iMILq4) | 3:24 | 2022-02-11 |  |
 | [Mal Necesario](https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mal Necesario](https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1) | 2:52 | 2021-12-10 |  |
 | [Me Olvidé de Vivir](https://open.spotify.com/track/4HnSjaMV1PoRaRveNG2KKY) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 5:35 | 2021-12-10 | 2022-09-03 |
+| [Me Vale Madre](https://open.spotify.com/track/5jJFvVBgWznxyoJAhQO08H) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Vale Madre](https://open.spotify.com/album/0mGwiGJ9bh9kgRuFIjQA92) | 2:20 | 2023-07-14 |  |
 | [Mi Casa \- We Bought a House \- Spanish Version](https://open.spotify.com/track/1v61YJhvATuIWMRARRhKbh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Mi Casa \(We Bought a House \- Spanish Version\)](https://open.spotify.com/album/480wf3uDfOScBJsnco9vku) | 3:04 | 2022-08-26 |  |
 | [Morenita](https://open.spotify.com/track/7sIpHft18Pg6GsvOsYTGd0) | [Teo & Diego](https://open.spotify.com/artist/299l7hHRNKCmeRGmGiSCjQ) | [Morenita](https://open.spotify.com/album/5jm5YRpf876zq3wb9v8VKN) | 3:10 | 2021-12-10 |  |
 | [Most Nights](https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Most Nights](https://open.spotify.com/album/40FJ8tW2YSU4gXEj9WOLgN) | 3:18 | 2021-12-10 | 2022-09-03 |

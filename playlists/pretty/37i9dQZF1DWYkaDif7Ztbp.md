@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=Y0HlqxWKQ3mZiSk9tpQvGw"> Oxlade </a>  and <a href="https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK?si=1e\-okKDFRC2a4XJNKTkuRQ"> Dave </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,902 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,672 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 | 50 | [SUKA](https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD) | [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [SUKA](https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp) | 6:30 |
 
-Snapshot ID: `MCxhZjBjZDczODY5NWQ1ZjFlYTdlNmVmNGVmNjZkMjI1ODk3ZmE3ZWRh`
+Snapshot ID: `MCw4MTkwNzcyYzE0NzIyMmUxN2RiN2E2MTI4MTQ3NTdjMWRlMTE1OGY0`

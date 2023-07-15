@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,452 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,457 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Cholito Pantalón Blanco](https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Trilogía el Rencuentro](https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV) | 5:02 |
 | 50 | [Cancion De Los Pajaros](https://open.spotify.com/track/5Ho0q4gNqUU9XHHzgfm76O) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Serie De Oro](https://open.spotify.com/album/7A7yT68R727jeKLxPOAiRj) | 3:14 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDBkMWUyNmFkODk3NDIyZThkMTcyYWNlZDA0MzEwYmM3ZQ==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDAxMDNmN2RlOTE0NTU0MmUzOTYyNWMwM2RkZWM3NTZiOA==`

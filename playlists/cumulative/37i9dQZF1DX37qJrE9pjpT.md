@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Joh Makini
 
-80 songs - 4 hr 38 min
+81 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Atakuoa Nani](https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Atakuoa Nani](https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk) | 3:11 | 2022-06-10 | 2023-01-14 |
 | [Baki Na Mimi](https://open.spotify.com/track/1J4InSOUeqLLNQPim0KaPH) | [Mr Blue](https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok), [Dunga](https://open.spotify.com/artist/2Ii0LWGvVKuV8nB9eZMAcF) | [Baki Na Mimi](https://open.spotify.com/album/32vTe9cPeWU7HUpgwcFDA5) | 4:08 | 2022-03-28 | 2022-10-22 |
 | [Ball](https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Ball](https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy) | 3:08 | 2022-08-26 |  |
+| [Banyamulenge](https://open.spotify.com/track/522dMvpymut4pfbyneraOe) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Defi Ant](https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf), [PrevMarco](https://open.spotify.com/artist/6bx6GhngJMsMNFcN1M7aSp) | [Banyamulenge](https://open.spotify.com/album/4kHugvl7PUhRLPqAq6oZGU) | 3:05 | 2023-07-13 |  |
 | [Bigman](https://open.spotify.com/track/7d59EK9eqZJe33g6v7T6Ro) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Bigman](https://open.spotify.com/album/6l4m6lJBRYcglztCbr8PAX) | 3:04 | 2023-04-27 |  |
 | [Bigman Circle](https://open.spotify.com/track/07oekwVYSeP83rz0uKTfJS) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Salmin swaggz](https://open.spotify.com/artist/3FzKgyxUs4cv76hQwiC1UB), [Noxie B](https://open.spotify.com/artist/7qPud6qdQ4QPGKGbyg0pav), [Mloccoh Songzx](https://open.spotify.com/artist/0LtVLq1Op6FGFkZlZBsklM), [Fresh like uhhh](https://open.spotify.com/artist/5xxUxV7S3qqUgqdAfTnkhk), [Paapshboy](https://open.spotify.com/artist/18IDdETI7QzKLKGOF6Iqax), [Oduma Essan](https://open.spotify.com/artist/3QoRZ2F0uI8SzlXMjvmsps), [Friday Pol](https://open.spotify.com/artist/2ZgfqQbGADsd5xm4rpcRDH), [Afande Ready](https://open.spotify.com/artist/1uBYzB0JE3gi6XTJNtlubW) | [Bigman Circle](https://open.spotify.com/album/6hAm1D6ohuFfoBNo8YoLav) | 5:41 | 2023-07-13 |  |
 | [Birthday \- Radio Edit](https://open.spotify.com/track/0xBZyqY4wBWEXyj9iC5lXI) | [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh), [Ibrah Nation](https://open.spotify.com/artist/6Y3OSLT5LyIKJM5cGsV0Gq) | [True Story](https://open.spotify.com/album/1wWKlSTmgntpXq6NCRvxs5) | 3:14 | 2022-03-28 | 2023-05-20 |

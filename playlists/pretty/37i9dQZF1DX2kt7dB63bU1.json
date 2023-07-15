@@ -1,13 +1,49 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 125350,
+  "num_followers": 125398,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDA2YjVlYzUxMmU4YmYzNGM2MzQ0YTMyMTQxYWM0ZjFiYWJhOWYx",
+  "snapshot_id": "MCw2NDdkZTBmYWU2ZDdkYTEyMWQzMjQ3ZDJiZjAzYmEyMjNmMGM1NTAz",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "I Am What I Am",
+        "url": "https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 332262,
+      "name": "I Am What I Am",
+      "url": "https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Chicago Blues",
+        "url": "https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Chicago Blues",
+      "url": "https://open.spotify.com/track/26gSq8ynYSkBTo637il67o"
+    },
     {
       "added_at": "2023-06-16 04:01:00",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Body of Mine",
+        "url": "https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -91,6 +143,30 @@
       "duration_ms": 290381,
       "name": "Rainbow Forest - Single Edit",
       "url": "https://open.spotify.com/track/3vojevi84qhWYeWEecPjSV"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/09JRmdIfk7KcXQtEbipSs0"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Liya Grigoryan",
+          "url": "https://open.spotify.com/artist/2yMvb3IffbZwAVI3lr61Yu"
+        },
+        {
+          "name": "Charles Goold",
+          "url": "https://open.spotify.com/artist/093VHM9FzYzlFcIEYbXPwR"
+        }
+      ],
+      "duration_ms": 239078,
+      "name": "That Old Black Magic",
+      "url": "https://open.spotify.com/track/3nwDa4xqtZ74dbAi61KW8G"
     },
     {
       "added_at": "2023-06-30 13:19:39",
@@ -539,34 +615,6 @@
       "duration_ms": 155637,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/0PSo8ZtVtaoRYQlO8zaHkg"
-    },
-    {
-      "added_at": "2022-06-10 04:01:00",
-      "album": {
-        "name": "Alone Together",
-        "url": "https://open.spotify.com/album/73zTO1ukuSgq4ucOgqArVK"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Lounge",
-          "url": "https://open.spotify.com/artist/7kXhE91qzHxcmDP4UxM7oz"
-        },
-        {
-          "name": "BAUN",
-          "url": "https://open.spotify.com/artist/1BF7y5gtjf0hGnTajOTR2v"
-        },
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        }
-      ],
-      "duration_ms": 286559,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/1inkgJ6fVHgpc6Goz2R7hA"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1397,22 +1445,6 @@
       "url": "https://open.spotify.com/track/0nDyZrMQ9sFTD77L8gEnrI"
     },
     {
-      "added_at": "2022-06-10 04:01:00",
-      "album": {
-        "name": "Delta Lady",
-        "url": "https://open.spotify.com/album/7dJygQ3xuMrppaDbrBeJYL"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 183875,
-      "name": "Delta Lady",
-      "url": "https://open.spotify.com/track/2LU7TTi6IBhCwn3g1vyQ1N"
-    },
-    {
       "added_at": "2022-09-12 14:36:28",
       "album": {
         "name": "Cafe Gitane",
@@ -1645,22 +1677,6 @@
       "url": "https://open.spotify.com/track/6zxeA2sdHQJTXsElhc4K6z"
     },
     {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Parallel Motion",
-        "url": "https://open.spotify.com/album/2QWh0FN4WfVTaYC5fwiI4I"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        }
-      ],
-      "duration_ms": 288080,
-      "name": "If You Believe",
-      "url": "https://open.spotify.com/track/35KUEip7Py2OYvw4j9YyzD"
-    },
-    {
       "added_at": "2022-10-14 19:18:38",
       "album": {
         "name": "Autumn",
@@ -1755,22 +1771,6 @@
       "duration_ms": 258750,
       "name": "Genuine",
       "url": "https://open.spotify.com/track/4bfkTfeGVeuqDUS7SCBtym"
-    },
-    {
-      "added_at": "2022-10-14 19:18:38",
-      "album": {
-        "name": "The Trouble With Hello Is Goodbye",
-        "url": "https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru"
-      },
-      "artists": [
-        {
-          "name": "Diana Panton",
-          "url": "https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj"
-        }
-      ],
-      "duration_ms": 273066,
-      "name": "The Trouble With Hello Is Goodbye",
-      "url": "https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU"
     },
     {
       "added_at": "2023-04-14 04:01:00",

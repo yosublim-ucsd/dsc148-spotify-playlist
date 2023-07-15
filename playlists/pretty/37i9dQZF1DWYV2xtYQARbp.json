@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 12099,
+  "num_followers": 12109,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTU4Mzc2ZTZlY2YzNmQwOTVhMmNhZjY0ZjExZDIyNzBlZmZiNThh",
+  "snapshot_id": "MCxmMjhmNTY0ODk5OWI0MzgyYzk3N2UwMjdkNWNjYjE3NjIzM2RmMzEz",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "The Blackout",
-        "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
+        "name": "Sedition",
+        "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
       },
       "artists": [
         {
-          "name": "Speedball Baby",
-          "url": "https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA"
+          "name": "Scientists",
+          "url": "https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1"
         }
       ],
-      "duration_ms": 126853,
-      "name": "Hanky-Joe Digger",
-      "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
+      "duration_ms": 319546,
+      "name": "Swampland",
+      "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -571,18 +571,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Sedition",
-        "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
+        "name": "The Blackout",
+        "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
       },
       "artists": [
         {
-          "name": "Scientists",
-          "url": "https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1"
+          "name": "Speedball Baby",
+          "url": "https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA"
         }
       ],
-      "duration_ms": 319546,
-      "name": "Swampland",
-      "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
+      "duration_ms": 126853,
+      "name": "Hanky-Joe Digger",
+      "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
     },
     {
       "added_at": "2022-03-28 20:14:58",

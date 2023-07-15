@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> It's a main pop girl emergency 🆘  Cover: Charli XCX
+> It's a main pop girl emergency 🆘  Cover: Rita Ora
 
-582 songs - 1 day 5 hr 38 min
+585 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Romeo](https://open.spotify.com/track/3KTLEpwnp5H4BYYjyGz9Xu) | [Elli Moore](https://open.spotify.com/artist/5qtgvemHd1Dl0WsgfpQIir) | [Romeo](https://open.spotify.com/album/4JelUIdTlemlwWLV3GxRhm) | 3:01 | 2022-02-15 | 2022-05-14 |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-02-25 |
 | [Rumours](https://open.spotify.com/track/7aXV8lYSlodq6jabXfB5Pt) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Rumours](https://open.spotify.com/album/1Azk61TLFCKz4OyzUocsGR) | 2:32 | 2022-06-10 | 2022-09-17 |
+| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-14 |  |
 | [Sacrifice](https://open.spotify.com/track/1RSBK5VWdjPjHEmRhAkS4Q) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Sacrifice](https://open.spotify.com/album/1Ty6uDLjv7qCgEe9ABx9dj) | 2:40 | 2022-02-15 | 2022-06-18 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 | 2022-06-18 |
 | [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 | 2022-12-03 |
@@ -496,7 +497,7 @@
 | [Superstitious](https://open.spotify.com/track/1wizHJqbqe0YsAkRWN1QBP) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Superstitious](https://open.spotify.com/album/0l4Yv8Woti8eZ16wiV5A8H) | 3:07 | 2022-03-18 | 2022-04-29 |
 | [Surrender My Heart](https://open.spotify.com/track/0Fx3fYbcYx3iDNrduNMlde) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 2:48 | 2022-10-21 | 2023-01-28 |
 | [Swing!](https://open.spotify.com/track/6As82n96RAwuoR9Y69N0EB) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Swing!](https://open.spotify.com/album/3LrxGxVT1ScQcKHkPHjzuD) | 2:50 | 2022-10-08 | 2022-12-10 |
-| [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 |  |
+| [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 | 2023-07-15 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2022-09-17 |
 | [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2023-06-30 |  |
 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-09-16 | 2022-10-24 |
@@ -508,6 +509,7 @@
 | [Technicolor](https://open.spotify.com/track/0GjoMSC31H3q2vD2Aa5S4f) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Technicolor](https://open.spotify.com/album/4qx2pjsBgxDPoTGKoRb0Fy) | 2:54 | 2022-08-19 | 2022-09-17 |
 | [Tell Mama](https://open.spotify.com/track/3Lw3x4fesG6ZNkYLwapWke) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Tell Mama](https://open.spotify.com/album/2pmblmIVSQPbU3qAJ8FtOg) | 2:50 | 2023-03-31 | 2023-04-29 |
 | [THAT GIRL](https://open.spotify.com/track/6CxNuPyJT0eqePcocLEoHa) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/3iShY0nkuliVn2PiAjySC2) | 2:07 | 2022-09-30 | 2023-02-04 |
+| [That Girl](https://open.spotify.com/track/4HrLGzlvQ8iN6P1aOJzjj6) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:01 | 2023-07-14 |  |
 | [That's the thing x](https://open.spotify.com/track/6obaKy6dy2P9cNQPEKzA16) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [That's the thing x](https://open.spotify.com/album/6m3nu19SylZYD3mVoL8ofF) | 3:51 | 2022-03-25 | 2022-04-23 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2022-02-15 | 2022-04-23 |
 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 | 2022-06-24 | 2022-08-27 |
@@ -568,6 +570,7 @@
 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 | 2022-02-15 | 2022-04-23 |
 | [Wherever You Go](https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Wherever You Go](https://open.spotify.com/album/33zJ4SIK5Tf8YXlYSsvelT) | 2:49 | 2022-08-26 | 2022-12-24 |
 | [Who the Hell Is Edgar?](https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI), [SALENA](https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt) | [Who the Hell Is Edgar?](https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0) | 2:39 | 2023-03-10 |  |
+| [Whole Again](https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Whole Again](https://open.spotify.com/album/7oAsw6jZcotDQl8f1qECqo) | 3:35 | 2023-07-14 |  |
 | [Why Is She Calling?](https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv) | [Black Peppa](https://open.spotify.com/artist/07CsKr37FQnxbfQxokCBFs) | [Why Is She Calling?](https://open.spotify.com/album/4XhHHcPjfMsdvuVBGBtOi8) | 2:56 | 2022-12-23 |  |
 | [Wild Girls](https://open.spotify.com/track/5y4x94092ALbFl8aik6rew) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Wild Girls](https://open.spotify.com/album/1B9ub31GGcISelMWoubJrB) | 2:29 | 2022-08-12 | 2022-09-17 |
 | [Wings \(I Won't Let You Down\)](https://open.spotify.com/track/0QZyAYqpbsfnBfZ4vMRSVd) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Wings \(I Won't Let You Down\)](https://open.spotify.com/album/5pPckXGvpwvr78wj5EPLZS) | 2:51 | 2022-12-02 | 2023-01-28 |

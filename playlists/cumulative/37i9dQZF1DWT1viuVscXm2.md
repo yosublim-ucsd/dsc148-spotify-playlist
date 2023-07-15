@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-236 songs - 13 hr 50 min
+237 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Ella Se Olvidó de Mí](https://open.spotify.com/track/0O8zNbJNEDg9x3S0hZvRMu) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [De Buenos Aires para el Mundo](https://open.spotify.com/album/32FV1RxcC38xWUP3gosMtJ) | 3:25 | 2021-12-24 | 2022-07-29 |
 | [Emborracharme](https://open.spotify.com/track/22TB7IYkwnJyiTAuwXtton) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Emborracharme](https://open.spotify.com/album/04LDu3wbQCX9MRH07OWCxu) | 3:36 | 2021-12-24 | 2022-04-23 |
 | [Embrujo de Cumbia](https://open.spotify.com/track/3Og70MNKzdKNLWV9Rrcwhv) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Los Wawanco: 100 Discos de Música](https://open.spotify.com/album/5b6JmGctZ6z5YdBnc3as92) | 2:40 | 2021-12-24 | 2022-04-16 |
+| [En Otra](https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [En Otra](https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU) | 2:11 | 2023-07-14 |  |
 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/2ucXI3ph3XsFhe9T78cfYZ) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Entre el Cielo Vos y Yo](https://open.spotify.com/album/1GDddDwEU7KOjbwN8jL9aD) | 4:19 | 2021-12-24 | 2023-02-04 |
 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 | 2021-12-24 |  |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2021-12-24 |  |
@@ -243,6 +244,6 @@
 | [Yo Tomo Licor](https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 2:41 | 2023-03-10 |  |
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2021-12-24 | 2023-03-12 |
 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 | 2021-12-24 | 2022-01-12 |
-| [Ámame](https://open.spotify.com/track/6UFCHCAQEchbBScuyxuzxh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [La Ruta del Oro](https://open.spotify.com/album/1FAEHvXUQaOxGbrfDuUpzl) | 3:41 | 2022-11-18 |  |
+| [Ámame](https://open.spotify.com/track/6UFCHCAQEchbBScuyxuzxh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [La Ruta del Oro](https://open.spotify.com/album/1FAEHvXUQaOxGbrfDuUpzl) | 3:41 | 2022-11-18 | 2023-07-15 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

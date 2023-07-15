@@ -2939,6 +2939,32 @@
     },
     {
       "album": {
+        "name": "Puppet (RAIZHELL Remix)",
+        "url": "https://open.spotify.com/album/2NYNoRsuMAbwGvSXBhvXAB"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        },
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
+        },
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Puppet - RAIZHELL Remix",
+      "url": "https://open.spotify.com/track/1j4Ag3l3X03vSgp7pIO0lj"
+    },
+    {
+      "album": {
         "name": "Racks",
         "url": "https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc"
       },

@@ -4,7 +4,7 @@
 
 > POV: you're the main character in a romance novel.
 
-64 songs - 3 hr 52 min
+65 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/09efVfgf64MbVRdLKDnIGS) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Running Up That Hill](https://open.spotify.com/album/0t67C2k4ODzW8atHDODuGJ) | 4:49 | 2022-08-16 | 2022-10-08 |
 | [Sheep May Safely Graze, BWV 208 \(arr\. Egon Petri\)](https://open.spotify.com/track/2md3xXPRJz9dIyFZi8MNyY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 5:18 | 2022-02-14 |  |
 | [Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/track/72CwEwj0LHNDMgH2zXCa1f) | [Johann Christian Bach](https://open.spotify.com/artist/0ebni9QrrWMvEgH40nOWZQ), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [J.C\. Bach: Sonata No\. 5 in A Major, Op\. 17, No\. 5: I\. Allegro](https://open.spotify.com/album/1CxdegOyg36oudEmc71yB5) | 3:38 | 2022-02-14 |  |
+| [Sparkler Dims](https://open.spotify.com/track/2W69qiB0iKaPrYmPeVpnB1) | [The Hillside Project](https://open.spotify.com/artist/0ZTS8jiPsoSf6JM6zjvUyL) | [Sparkler Dims](https://open.spotify.com/album/12pm6r8rj8Zwmz87YZeIV6) | 5:17 | 2023-07-14 |  |
 | [Spring 1 \- 2012](https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Konzerthaus Kammerorchester Berlin](https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du), [Andre de Ridder](https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R) | [Recomposed By Max Richter: Vivaldi, The Four Seasons](https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy) | 2:31 | 2022-02-14 | 2022-07-29 |
 | [Stay Away](https://open.spotify.com/track/3sBxUne6rvOPAgVmYUA2IC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:07 | 2022-03-29 | 2022-07-09 |
 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 | 2022-02-14 |  |

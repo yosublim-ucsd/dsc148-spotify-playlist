@@ -3071,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "El Precio A Pagar",
+        "url": "https://open.spotify.com/album/4UaCVS4dtKDG5hOvPqSh6A"
+      },
+      "artists": [
+        {
+          "name": "CLEMENTE",
+          "url": "https://open.spotify.com/artist/4TDHTrq8xN1oKR2TFnBgez"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241296,
+      "name": "El Precio A Pagar",
+      "url": "https://open.spotify.com/track/5cDj5bgUeQ22IZj7NQGVg2"
+    },
+    {
+      "album": {
         "name": "Flores De Alquiler",
         "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
       },
@@ -3140,7 +3158,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 352160,
       "name": "En El Muelle de San Blas",
       "url": "https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr"
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
@@ -6420,6 +6438,24 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Quer\u00e9s?",
+        "url": "https://open.spotify.com/album/7HcdDDJ5aa4IaONKc02rr0"
+      },
+      "artists": [
+        {
+          "name": "Chule",
+          "url": "https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207656,
+      "name": "Qu\u00e9 Quer\u00e9s?",
+      "url": "https://open.spotify.com/track/21PkuPzobaZcpp1UprW9Q1"
     },
     {
       "album": {

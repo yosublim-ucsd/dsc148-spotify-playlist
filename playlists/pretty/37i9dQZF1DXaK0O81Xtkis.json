@@ -1,28 +1,44 @@
 {
-  "description": "make it pop! cover: Gus Dapperton",
-  "num_followers": 206903,
+  "description": "make it pop! cover: Blusher",
+  "num_followers": 206925,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzQyMTc5MWJiOGFjMzAzNDg5NjQ5NDZhODk4ZDQ1NWExMzA2MWVj",
+  "snapshot_id": "MCwwMDJmZGM4Zjk3OGMyNDA1YWY1MjgxNWRkYTBkNmU0MjM3NTAwNzUw",
   "tracks": [
     {
-      "added_at": "2023-06-30 13:32:51",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Homebody",
-        "url": "https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi"
+        "name": "Limelight",
+        "url": "https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 195720,
-      "name": "Homebody",
-      "url": "https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN"
+      "duration_ms": 180959,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
     },
     {
       "added_at": "2023-06-30 13:32:51",
@@ -47,6 +63,38 @@
       "duration_ms": 134797,
       "name": "You Need Jesus",
       "url": "https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
+    },
+    {
+      "added_at": "2023-06-30 13:32:51",
+      "album": {
+        "name": "Homebody",
+        "url": "https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 195720,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN"
     },
     {
       "added_at": "2023-06-30 13:32:51",
@@ -81,6 +129,22 @@
       "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Paradise Calling",
+        "url": "https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 186918,
+      "name": "Paradise Calling",
+      "url": "https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "SUNDAY",
@@ -113,6 +177,22 @@
       "url": "https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "I Don't Feel Alive",
+        "url": "https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 203888,
+      "name": "I Don't Feel Alive",
+      "url": "https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "NOMAD - EP",
@@ -143,6 +223,22 @@
       "duration_ms": 139750,
       "name": "W4NNA DO",
       "url": "https://open.spotify.com/track/11sA5C9rqjatq2eXzL8y33"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "like i do",
+        "url": "https://open.spotify.com/album/0I2MvADSXNqeeRIDhU5oyf"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 174148,
+      "name": "like i do",
+      "url": "https://open.spotify.com/track/3iAAC224KxF61iaV8TLOvP"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -351,22 +447,6 @@
       "duration_ms": 192078,
       "name": "Love At First Fight",
       "url": "https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE"
-    },
-    {
-      "added_at": "2023-06-30 13:32:51",
-      "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 178458,
-      "name": "Dead End",
-      "url": "https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx"
     },
     {
       "added_at": "2023-06-30 13:32:51",

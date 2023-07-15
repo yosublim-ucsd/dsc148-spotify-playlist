@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,895 likes - 22 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,316 likes - 23 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,20 +15,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pEH2GWGnSP.md) - [plain]
 | 5 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 | 6 | [The World Is My Oyster](https://open.spotify.com/track/4Rrv9oNClBhzKRfKwdkg99) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 1:46 |
 | 7 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 |
-| 8 | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) | 3:06 |
-| 9 | [The Hydra](https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 1:44 |
-| 10 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 |
-| 11 | [Burn the Bridge](https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:34 |
-| 12 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
-| 13 | [FEARNOT \(Between you, me and the lamppost\)](https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:26 |
-| 14 | [Flash Forward](https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:15 |
-| 15 | [Fire in the belly](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:18 |
-| 16 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 |
-| 17 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 |
-| 18 | [FEARLESS \- Japanese ver.](https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS \(Japanese ver.\)](https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu) | 2:48 |
-| 19 | [Blue Flame \- Japanese ver.](https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl) | 3:21 |
-| 20 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 |
-| 21 | [The Great Mermaid](https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:57 |
-| 22 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 |
+| 8 | [Eve, Psyche & the Bluebeard’s wife \(feat\. UPSAHL\)](https://open.spotify.com/track/2KsiPmkW27MalI0SqC64eI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Eve, Psyche & the Bluebeard’s wife \(feat\. UPSAHL\)](https://open.spotify.com/album/3Nu8JF8Jxcn4hVm5wrL7SB) | 3:06 |
+| 9 | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/track/1xaLyNaaZC3i5tmaDAWP76) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Eve, Psyche & the Bluebeard’s wife \(English Ver.\)](https://open.spotify.com/album/1FoKSB8Kc39zc9exXYtNu8) | 3:06 |
+| 10 | [The Hydra](https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 1:44 |
+| 11 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 |
+| 12 | [Burn the Bridge](https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:34 |
+| 13 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
+| 14 | [FEARNOT \(Between you, me and the lamppost\)](https://open.spotify.com/track/0sNfFxw3pJkVmRsgY781vM) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:26 |
+| 15 | [Flash Forward](https://open.spotify.com/track/74cpuIw43kA8xPgbQEPdss) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:15 |
+| 16 | [Fire in the belly](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:18 |
+| 17 | [No Celestial](https://open.spotify.com/track/21ApmVGIzIAIDSBdHu6SVt) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:46 |
+| 18 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 |
+| 19 | [FEARLESS \- Japanese ver.](https://open.spotify.com/track/3ovYlDqMHyuTssHN6XkM1C) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS \(Japanese ver.\)](https://open.spotify.com/album/3lkxVHwSi9lcHPWzYZ8eSu) | 2:48 |
+| 20 | [Blue Flame \- Japanese ver.](https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl) | 3:21 |
+| 21 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 |
+| 22 | [The Great Mermaid](https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:57 |
+| 23 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 |
 
-Snapshot ID: `MCwwM2VjNjlhZTBmMTZhODcyMmY0ZmM2NDBmM2RhMTRhMTc1NTU0NmVh`
+Snapshot ID: `MCxjMGQxNWNlNjNhMWQyYzQ0NGM4NWM0NTg0MzkxMGQ0MGVkOGYxYzA4`

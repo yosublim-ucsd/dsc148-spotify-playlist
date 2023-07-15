@@ -4,7 +4,7 @@
 
 > Perreando toda la noche con Tiago PZK.
 
-546 songs - 1 day 5 hr 51 min
+547 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 | 2022-12-02 | 2023-02-11 |
 | [Kela Toke \(feat\. Tunechikidd\)](https://open.spotify.com/track/3IF7RBvlQMiXBwl4c66QDg) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd) | [Diablo Santo](https://open.spotify.com/album/3VhjWwBpzemDHcytRUP5t9) | 3:22 | 2023-01-17 | 2023-06-17 |
 | [KU'](https://open.spotify.com/track/261Jxss9utRCMg11TWEU8M) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [KU'](https://open.spotify.com/album/56HOIAzfolOPCOmExaPHxf) | 3:50 | 2022-04-08 | 2022-12-10 |
+| [Kyoto](https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Kyoto](https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa) | 4:07 | 2023-07-14 |  |
 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 | 2023-06-30 |  |
 | [La Baby Del Año](https://open.spotify.com/track/4w3f8mPY9Wy2hxgDOOjXPZ) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [La Baby Del Año](https://open.spotify.com/album/6fh2VWEUZ2UMsctaeG8hfR) | 3:08 | 2022-03-18 | 2022-04-23 |
 | [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-01-30 | 2023-06-03 |

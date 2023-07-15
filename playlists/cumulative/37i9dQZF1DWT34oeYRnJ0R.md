@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Beéle & Farruko
 
-295 songs - 15 hr 16 min
+296 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dance With U](https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Short Life](https://open.spotify.com/artist/0xRCyCqeWZmNSCrvpI0DnO) | [Dance With U](https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l) | 2:36 | 2023-05-05 |  |
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-03-21 | 2022-06-01 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2022-09-06 | 2023-05-13 |
+| [Debe ser que estoy rindiéndome](https://open.spotify.com/track/1ir9k1BaWEdZ2eGbfd1vRi) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Falta curar Vol.1](https://open.spotify.com/album/26pgudzDxWEF8U4npHqAbM) | 3:08 | 2023-07-14 |  |
 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 | 2022-03-21 | 2022-05-17 |
 | [Demasiado Bueno](https://open.spotify.com/track/1fSMeXMW5SroNe3sWJY641) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Demasiado Bueno](https://open.spotify.com/album/68AuP2wn7UsQilOkovf6eN) | 2:46 | 2022-03-25 | 2022-09-07 |
 | [Deseo](https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Nothing Much Has Changed, I Don't Feel The Same](https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1) | 2:04 | 2022-09-06 | 2023-07-09 |
@@ -215,7 +216,7 @@
 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 | 2023-05-26 |  |
 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 | 2022-03-21 |  |
 | [oop](https://open.spotify.com/track/0ahGF0pnErz122RjmZGVjY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [oop](https://open.spotify.com/album/2xqXrnqSVDylcr5QVKyHq4) | 2:22 | 2022-09-06 | 2023-05-13 |
-| [Otra Noche](https://open.spotify.com/track/6J9L0D4zFHipfnzCqpwiGc) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Otra Noche](https://open.spotify.com/album/6icRIq7Iuat8cIe0eVaPEZ) | 1:56 | 2023-06-16 |  |
+| [Otra Noche](https://open.spotify.com/track/6J9L0D4zFHipfnzCqpwiGc) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Otra Noche](https://open.spotify.com/album/6icRIq7Iuat8cIe0eVaPEZ) | 1:56 | 2023-06-16 | 2023-07-15 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:48 | 2022-09-06 |  |
 | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/track/2qhcTAKmpFNXBEu1FYo69t) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Otro Día Lluvioso \(with Lenny Tavarez & Becky G feat\. Dalex\)](https://open.spotify.com/album/6MGhjZ5uPXwciHnjOGUIxK) | 4:25 | 2022-09-06 |  |
 | [P.O.V.](https://open.spotify.com/track/1KkwYF9KdyosZE8XBxCyvO) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [P.O.V.](https://open.spotify.com/album/3Wiwt3U5W7O37Kka9vg0nQ) | 2:36 | 2022-03-21 | 2022-09-07 |

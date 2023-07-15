@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Slings, Villabanks, Niky Savage e tanti altri.
 
-2,085 songs - 3 day 23 hr 6 min
+2,086 songs - 3 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-16 | 2022-07-08 |
 | [4Z](https://open.spotify.com/track/5NFRippZpe3fS8Eei8CoBT) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4V1](https://open.spotify.com/album/04J9CopuPn8Q1TvhIQstPL) | 2:35 | 2023-05-04 | 2023-05-26 |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-10 | 2022-05-20 |
+| [5 ÉTOILES](https://open.spotify.com/track/3TrbrxpQCs6dS0CD4HpynF) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [5 ÉTOILES](https://open.spotify.com/album/0V26R9IVEXerTCnQk1djnB) | 2:27 | 2023-07-13 |  |
 | [6 MESI \(feat\. Franco126, Guè, J Lord\)](https://open.spotify.com/track/6kBfE7hZna3oEpHpAIh1Li) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 3:01 | 2022-12-15 | 2023-01-20 |
 | [6 UNICA](https://open.spotify.com/track/3i0N8eKBY6lE7Iwz4NyRFR) | [FLACKO](https://open.spotify.com/artist/0VLCDCsQPmRcAIQfeqSxkU) | [6 UNICA](https://open.spotify.com/album/54o4OJxKx05KaGiTxHm02J) | 2:34 | 2023-06-08 | 2023-06-16 |
 | [60 anni di niente](https://open.spotify.com/track/1fJH5anJC6CanTH2CEPqhf) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Zic](https://open.spotify.com/artist/3dcOYhtRRNJTCljnDmf3JV) | [60 anni di niente](https://open.spotify.com/album/1PQxJv0CHrLUbDCHyRbsNU) | 2:43 | 2022-11-04 | 2022-11-11 |

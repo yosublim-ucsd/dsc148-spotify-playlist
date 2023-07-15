@@ -4,7 +4,7 @@
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-61 songs - 3 hr 33 min
+62 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Me Beija](https://open.spotify.com/track/5iZ9HUP9pMc9su3wX5OqRM) | [Mateus Menezes](https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz) | [Me Beija](https://open.spotify.com/album/5H4GpgPTKEXQTifFxo9vlk) | 2:59 | 2023-07-03 |  |
 | [Melhor Assunto \- Bus Live Session](https://open.spotify.com/track/7xva0maR5No7LbH70UEj5M) | [Nossa Toca](https://open.spotify.com/artist/5o00VSNNjsdSmZ0YJwUSxi), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Melhor Assunto \(Bus Live Session\)](https://open.spotify.com/album/5kNBIykzFFamaBRteogvJG) | 2:43 | 2023-07-03 |  |
 | [Minha Ilha](https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v) | [Gabriel Oliveira](https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr) | [Minha Ilha](https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj) | 3:43 | 2023-07-03 |  |
-| [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 | 2023-07-03 |  |
+| [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 | 2023-07-03 | 2023-07-15 |
 | [Na Positiva](https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Na Positiva](https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR) | 2:33 | 2023-07-03 |  |
 | [Nada É em Vão](https://open.spotify.com/track/3n7MHHJ8KjZ5dX7FMjyVks) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:50 | 2023-07-03 |  |
 | [Nossos Beijos \- Ao Vivo](https://open.spotify.com/track/0scgnlKar795GmHYUyGT15) | [Jeito Moleque](https://open.spotify.com/artist/3V7U1x0TRBn7spzHDQiZhi), [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Chama \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/3bLTLIgFEmEmrFp649BnoW) | 3:44 | 2023-07-03 |  |
@@ -42,6 +42,7 @@
 | [pequena \- Ao Vivo](https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q) | 2:54 | 2023-07-03 |  |
 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 | 2023-07-03 |  |
 | [Por aí](https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe) | [Por Aí](https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L) | 3:05 | 2023-07-03 |  |
+| [Positiva](https://open.spotify.com/track/33U3Gmoy3PzawWRSXujlrk) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Positiva](https://open.spotify.com/album/1Jx0BnQVqn5jXMA2LVJzTd) | 2:30 | 2023-07-14 |  |
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2023-07-03 |  |
 | [Pupila](https://open.spotify.com/track/7Gk5OrMYaMRtT2JmgJVAfk) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Pupila](https://open.spotify.com/album/2YJviUWVUlAlKku8Ghb3sj) | 3:22 | 2023-07-03 |  |
 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 | 2023-07-03 |  |

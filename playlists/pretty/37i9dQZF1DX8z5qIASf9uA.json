@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Ariel Camacho en portada. ",
-  "num_followers": 231649,
+  "num_followers": 231846,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjRmNGZlMjYwNjNkZTlhYmEwZjQzMDcwNWJkNDBhMDkzNTRmMzBm",
+  "snapshot_id": "MCxlNjFmNzAwZmMwMDUyODNlNmI3M2Q3ZTEwNzIwZWYwOTgyMzNmNWZl",
   "tracks": [
     {
       "added_at": "2023-07-11 21:38:55",
@@ -1239,18 +1239,26 @@
     {
       "added_at": "2023-07-11 21:38:55",
       "album": {
-        "name": "Brindemos",
-        "url": "https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs"
+        "name": "La Fuga Del Dorian",
+        "url": "https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T"
       },
       "artists": [
         {
-          "name": "Jerry Demara",
-          "url": "https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7"
+          "name": "Grupo Fernandez",
+          "url": "https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik"
+        },
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 212503,
-      "name": "La Vida Es Como una Baraja",
-      "url": "https://open.spotify.com/track/2FdCfWxayWg4m9CCkcnxxT"
+      "duration_ms": 277460,
+      "name": "La Fuga Del Dorian",
+      "url": "https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f"
     }
   ],
   "unique_name": "Inmortales de la M\u00fasica Mexicana",

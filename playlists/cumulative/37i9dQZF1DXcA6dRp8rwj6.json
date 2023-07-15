@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: FendiDa Rappa, Cardi B)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: DDG)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -8149,6 +8149,28 @@
     },
     {
       "album": {
+        "name": "Don't Run",
+        "url": "https://open.spotify.com/album/0g5eB1GST9apmmd1Mc1NWu"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148148,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1"
+    },
+    {
+      "album": {
         "name": "Don't Text Don't Call",
         "url": "https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7"
       },
@@ -9053,6 +9075,24 @@
     },
     {
       "album": {
+        "name": "Maybe It's Me...",
+        "url": "https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226765,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
+    },
+    {
+      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/2aYX2QDnxVLqivY6tjM7Pd"
       },
@@ -9782,6 +9822,28 @@
       "duration_ms": 215120,
       "name": "From The D 2 The LBC (with Snoop Dogg)",
       "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "From The Hood",
+      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
     },
     {
       "album": {
@@ -11836,6 +11898,24 @@
       "duration_ms": 183941,
       "name": "Hit Different",
       "url": "https://open.spotify.com/track/5cv0dKJs3s5TpLni2E7pqp"
+    },
+    {
+      "album": {
+        "name": "Joyrider's Avenue",
+        "url": "https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn"
+      },
+      "artists": [
+        {
+          "name": "kuzi",
+          "url": "https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172821,
+      "name": "HIT N\" RUN",
+      "url": "https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA"
     },
     {
       "album": {
@@ -16345,6 +16425,28 @@
     },
     {
       "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
+    },
+    {
+      "album": {
         "name": "Militerian (feat. Naira Marley)",
         "url": "https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL"
       },
@@ -16360,7 +16462,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44"

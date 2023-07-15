@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,232 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,269 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [You Gotta Love Me](https://open.spotify.com/track/6sJrSiOQHLQ8gc4XMwdxyo) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Boogaloo '67](https://open.spotify.com/album/55tvAk5bJExzORKbCbvGg2) | 6:10 |
 | 50 | [Llegaron Los Bonches](https://open.spotify.com/track/6ESDtZGTfYuauub8WpFowC) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Volando Bajito](https://open.spotify.com/album/21mczyHRqExR3ZfnG7AjlD) | 3:22 |
 
-Snapshot ID: `MCwzMTkyMDlkY2U0ZWU1N2Q5NmE4NmY0MzM4ZGQ0NzM5ODQ1NGI0Y2Rh`
+Snapshot ID: `MCwzY2Q0YmI3MTZhYzBhMzg1OWU5MzhhYjlhNmE0ZWYwMzk1OWZhNGZm`

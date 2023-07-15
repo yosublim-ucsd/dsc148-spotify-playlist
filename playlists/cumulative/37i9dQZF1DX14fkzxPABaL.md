@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Rusherking
 
-184 songs - 10 hr 5 min
+185 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [No Hay Más Que Hablar](https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [No Hay Más Que Hablar](https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe) | 3:31 | 2022-01-14 | 2022-04-02 |
 | [No lo voy a lamentar](https://open.spotify.com/track/3y24cvc9OZ23Jrs4QfbOuA) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [No lo voy a lamentar](https://open.spotify.com/album/5BT7ZLdhP7vLvTaOUhP0Ml) | 2:58 | 2022-10-14 |  |
 | [No Romperé Tu Corazón](https://open.spotify.com/track/6giH7DBAnEv09xWYadfYAp) | [Hans Braukmann](https://open.spotify.com/artist/5cdzXDYpthGozpsruNbQL5) | [No Romperé Tu Corazón](https://open.spotify.com/album/1xEVJ5JGnBcvMDHoq75PjK) | 2:43 | 2022-01-14 |  |
+| [Nos lo hemos dicho todo](https://open.spotify.com/track/1uswwRNBKAxRBoY4rtxXD1) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nos lo hemos dicho todo](https://open.spotify.com/album/6250SloDS9Pi1PFnDVNEZ3) | 4:13 | 2023-07-14 |  |
 | [Nos perderemos en Marte](https://open.spotify.com/track/53SfTp0FV9j9GiJ1xP0vrZ) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Nos perderemos en Marte](https://open.spotify.com/album/0Gx3hYsAlnd1mNuonIon75) | 4:11 | 2022-02-11 | 2022-10-08 |
 | [Nuestra Balada](https://open.spotify.com/track/31T16Ycgad8QEKjo1hl356) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Nuestra Balada](https://open.spotify.com/album/6LaYsZ3kISiMSMUDHOfeUi) | 2:47 | 2022-01-14 | 2022-04-02 |
 | [Ojalá Pudiera](https://open.spotify.com/track/2ud45t5skUgbBSYj3hiAEM) | [Homie !](https://open.spotify.com/artist/4c1BgObTgQqoxgky79mgQB), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Ojalá Pudiera](https://open.spotify.com/album/2ctSZbRky4U8Vbe8XBJceV) | 3:52 | 2022-01-14 | 2022-02-12 |
@@ -152,13 +153,13 @@
 | [Será](https://open.spotify.com/track/2DElz2QWtR8ME3VTXsOlWN) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Será](https://open.spotify.com/album/0uLEkoSJkTWfAaVnEGlbja) | 3:02 | 2022-01-14 | 2022-07-30 |
 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 | 2022-01-14 | 2022-04-02 |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2022-01-14 |  |
-| [Si Tú No Estás](https://open.spotify.com/track/5jzMrVnmHJsQdXZL8yqy1P) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Si Tú No Estás](https://open.spotify.com/album/5WhncNpMugA9mTEpFwOIZY) | 2:56 | 2022-01-14 |  |
+| [Si Tú No Estás](https://open.spotify.com/track/5jzMrVnmHJsQdXZL8yqy1P) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Si Tú No Estás](https://open.spotify.com/album/5WhncNpMugA9mTEpFwOIZY) | 2:56 | 2022-01-14 | 2023-07-15 |
 | [Si Yo Estoy Loco](https://open.spotify.com/track/4IK4EszBJ2wzMuwNGh1YzF) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Si Yo Estoy Loco](https://open.spotify.com/album/26Bn7ZYhbejXkNV32jQLk5) | 3:33 | 2022-01-14 | 2022-07-16 |
 | [Simplemente Pasan](https://open.spotify.com/track/4RAJ1h4eqt2dHR6FyyiZLM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [¿A Dónde Vamos?](https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i) | 3:01 | 2022-01-14 | 2022-04-02 |
 | [Sin Haber Dormido](https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sin Haber Dormido](https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh) | 3:07 | 2022-12-17 |  |
 | [Sincerándome](https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Sincerándome](https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7) | 3:39 | 2023-02-17 |  |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-01-14 |  |
-| [Somos lo Que Fuimos](https://open.spotify.com/track/3ibDGcd0T1w3hWQgyz3upr) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Somos lo Que Fuimos](https://open.spotify.com/album/0exDAUCLHgsfotuIoert13) | 4:24 | 2022-05-20 |  |
+| [Somos lo Que Fuimos](https://open.spotify.com/track/3ibDGcd0T1w3hWQgyz3upr) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Somos lo Que Fuimos](https://open.spotify.com/album/0exDAUCLHgsfotuIoert13) | 4:24 | 2022-05-20 | 2023-07-15 |
 | [Soy capaz](https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:25 | 2022-01-14 | 2022-04-02 |
 | [Soy de Volar](https://open.spotify.com/track/6cWKFEOVJvtQQ3B1tiT0tr) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Soy de Volar](https://open.spotify.com/album/4AnSVmFc7AjBJmiifMZbh2) | 3:55 | 2022-01-14 | 2023-04-15 |
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2022-01-14 | 2022-10-08 |

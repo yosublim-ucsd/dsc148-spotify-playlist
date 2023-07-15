@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,095 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,170 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 52 | [Power](https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Power](https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE) | 2:28 |
 | 53 | [Hangover](https://open.spotify.com/track/23nhxZKWVRd7BMVesi4X3E) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Hangover](https://open.spotify.com/album/1BRQ14AYfF7XJyUTk1zalU) | 2:24 |
 | 54 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 |
-| 55 | [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 |
-| 56 | [Born To Love \(feat\. SHELLS\)](https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Born To Love \(feat\. SHELLS\)](https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm) | 2:42 |
+| 55 | [Born To Love \(feat\. SHELLS\)](https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Born To Love \(feat\. SHELLS\)](https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm) | 2:42 |
+| 56 | [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 |
 | 57 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 |
 | 58 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
 | 59 | [Intoxicated \- Radio Edit](https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [Intoxicated \(Radio Edit\)](https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN) | 2:39 |
 | 60 | [House Arrest](https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [House Arrest](https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx) | 3:36 |
 
-Snapshot ID: `MCwxMDEzMWQ2Y2ZmMjYwM2I5ZDJhMWM4YWJmMDZhYzhmOTg3ODM4MjEz`
+Snapshot ID: `MCxhMmYyOTMzZDk2NTQ2MjBmZmFjOWFlMWNiNmNlMjgyYzFlMTJkNWM0`

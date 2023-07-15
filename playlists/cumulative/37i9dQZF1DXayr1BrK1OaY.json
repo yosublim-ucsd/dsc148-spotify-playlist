@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196598,
+      "name": "Higher Than Ever Before",
+      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
+    },
+    {
+      "album": {
         "name": "HISTORY",
         "url": "https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78"
       },
@@ -1600,6 +1618,32 @@
       "duration_ms": 257430,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"
+    },
+    {
+      "album": {
+        "name": "I Remember (John Summit Remix)",
+        "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "I Remember - John Summit Remix",
+      "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
     },
     {
       "album": {
@@ -2578,7 +2622,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 452000,
       "name": "On My Knees - Adriatique Remix",
       "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
@@ -3358,7 +3402,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 331933,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/0EtcGmf2mVZbHWq2ZGP3t7"

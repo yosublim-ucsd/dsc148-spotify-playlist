@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,726 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,709 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 28 | [Sorte Que Cê Beija Bem \- Ao Vivo](https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Campo Grande](https://open.spotify.com/album/49Ld3XINIFTquvEMioXhBu) | 2:31 |
 | 29 | [Dona Maria](https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Dona Maria](https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur) | 3:07 |
 | 30 | [A boba fui eu \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:12 |
-| 31 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
-| 32 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
+| 31 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
+| 32 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
 | 33 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 |
 | 34 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
 | 35 | [Paradinha](https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Paradinha](https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa) | 2:21 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 62 | [Devagarinho](https://open.spotify.com/track/0aZfIiaO3b2HTNxZ3sv1cg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Devagarinho](https://open.spotify.com/album/4gdw60lOahihgNIvaiH1mr) | 2:17 |
 | 63 | [O Bebê](https://open.spotify.com/track/15YEYgT0kDso9gwOcJFAmV) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [O Bebê](https://open.spotify.com/album/7J4vpR8Rl5sB7GqBIk8A8h) | 2:58 |
 | 64 | [A Distância Tá Maltratando](https://open.spotify.com/track/5TE7Y9ycqyglDqKPEriXdR) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [A Distância Tá Maltratando](https://open.spotify.com/album/7G059SfagKnzI5dOXhOyzN) | 2:47 |
-| 65 | [Mandella É Meu Nome](https://open.spotify.com/track/31fg03iImLgS3erGT5urU5) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Mandella É Meu Nome](https://open.spotify.com/album/27tvmysSzUy1ZmrA69BVgH) | 2:33 |
-| 66 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
-| 67 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
-| 68 | [Never Let Me Go](https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Never Let Me Go](https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K) | 3:03 |
+| 65 | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/track/6aIrHPvM3l16MeS7iOQRYO) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Um Brinde \(feat\. Marília Mendonça & Maiara & Maraisa\)](https://open.spotify.com/album/5teU2mGfU2Qe5Lqj0skN5i) | 2:58 |
+| 66 | [Mandella É Meu Nome](https://open.spotify.com/track/31fg03iImLgS3erGT5urU5) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Mandella É Meu Nome](https://open.spotify.com/album/27tvmysSzUy1ZmrA69BVgH) | 2:33 |
+| 67 | [Never Let Me Go](https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Never Let Me Go](https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K) | 3:03 |
+| 68 | [Devagarinho](https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Devagarinho](https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd) | 2:24 |
 | 69 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
-| 70 | [Terra Sem CEP \- Ao Vivo](https://open.spotify.com/track/2U94QDSo9N4e1iXrjo7KAB) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:57 |
+| 70 | [Romance Com Safadeza](https://open.spotify.com/track/0q4oI0SqCL4PpIO4AB5wUu) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São João 2018](https://open.spotify.com/album/2vtTaoVQP4fGcblFZptHbH) | 2:52 |
 
-Snapshot ID: `MCxiYzk0OTRkMGE5ZDhiMTUyOGYxZTBmMjdjODBmZWIzNmFkNzJlYTVm`
+Snapshot ID: `MCw5Y2M4ODQzNzUwNDUwNGI4YzExMmRlYzc4MDU2OGU2N2ExMmRkMmI4`

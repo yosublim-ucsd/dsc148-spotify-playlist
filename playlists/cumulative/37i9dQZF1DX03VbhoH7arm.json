@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: Anitta",
+  "description": "Os grandes hits do momento est\u00e3o aqui! Foto: POCAH, LUCK MUSIK, MC Kevin O Chris",
   "name": "Hot Hits Brasil",
   "tracks": [
     {
@@ -644,6 +644,32 @@
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "album": {
+        "name": "Barulhinho",
+        "url": "https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "LUCK MUZIK",
+          "url": "https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Barulhinho",
+      "url": "https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo"
     },
     {
       "album": {
@@ -2530,7 +2556,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160975,
       "name": "Noite Fria",
       "url": "https://open.spotify.com/track/3O2wrDL7nnSDZOrdZqxyoY"

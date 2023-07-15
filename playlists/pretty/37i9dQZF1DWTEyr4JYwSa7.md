@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,420 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,422 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 64 | [Silent Night](https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:47 |
 | 65 | [Le bonhomme de neige](https://open.spotify.com/track/1RotaRDMB06sEMMv1iwtmU) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [It's Magic !](https://open.spotify.com/album/6hoZGBlQ2bsYaP9AfhZ4za) | 2:38 |
 | 66 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6syO6UTl8QiiWADJy3Uy2d) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:14 |
-| 67 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 |
-| 68 | [Blame It On The Mistletoe](https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Blame It On The Mistletoe](https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs) | 3:05 |
+| 67 | [Blame It On The Mistletoe](https://open.spotify.com/track/110lWlsa8fJXgrrwGgg0f1) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Blame It On The Mistletoe](https://open.spotify.com/album/3MuX8Afd4KC0kGIBOstzxs) | 3:05 |
+| 68 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 |
 | 69 | [I'll Be Home for Christmas](https://open.spotify.com/track/0tXPhc8LvM4dPvoRwI66XQ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 4:24 |
 | 70 | [We'll Be Alright](https://open.spotify.com/track/4AXX2fes8GOdvuCUjadbmT) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [We'll Be Alright](https://open.spotify.com/album/4MEHD7eRexeF3cpIlauzM1) | 2:14 |
 | 71 | [Angel](https://open.spotify.com/track/4K9fBu5r5xPHc90WXbRiyW) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/0qc2lqhJAhnoCFoLJ70YaK) | 2:31 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 96 | [Cheers](https://open.spotify.com/track/6aSOOOlwOm9HdvobCda3Er) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Cheers](https://open.spotify.com/album/4UuwrpTwXbglkg5CggqnFT) | 2:26 |
 | 97 | [Promenade en traîneau](https://open.spotify.com/track/7fwzmmganYLIMBP9rmrAAw) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Joyeux Noël](https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT) | 2:54 |
 | 98 | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/track/62Pil5FPefGmHVmw5C21ch) | [Jonas](https://open.spotify.com/artist/1ZDG9pBZ3QHj4DFsBHdwKF), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Christmas Calling \(en duo avec Marie\-Mai\) \(v.f.\)](https://open.spotify.com/album/2Sx3z3DBBrQPwfs48FHTcq) | 4:24 |
-| 99 | [Noël ensemble](https://open.spotify.com/track/7tCtp4xw5vvXqM7UrlRrQD) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx), [Stella Dupré](https://open.spotify.com/artist/7eck2uAw1Wva9s5d9FTvMQ) | [Noël ensemble](https://open.spotify.com/album/509P93qTJulQmXvi7PPQ4V) | 3:22 |
+| 99 | [Le sentier de neige](https://open.spotify.com/track/2CJJUz69TEqLrAyK2h02wp) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Noël chez moi](https://open.spotify.com/album/2Clfi6J5G7Aa1kxKv09ahV) | 2:42 |
 | 100 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
 
-Snapshot ID: `MCw5MWEyMjY0MDZjZjk1YTNkNmNmOGVlZDYzZWQ5ZWVjMWQ0Nzg3ZWVi`
+Snapshot ID: `MCwzMmJiMzFiNTBkNmI1MzM3NGVjZjA2MjQ0MjM0NTYyZTk5MDczNTgx`

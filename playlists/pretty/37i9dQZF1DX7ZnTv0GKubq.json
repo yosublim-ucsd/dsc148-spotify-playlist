@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 345170,
+  "num_followers": 345198,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmZlOTg2ODRjN2ZhYWNkMTVlYWZlNjU1NDE1NzEwMDY4OGI3NGJj",
+  "snapshot_id": "MCw1ZjIwYmY2ZWNjZWFiYzg1N2ZmZTk3MThiZjc1MDQzZmZkNTAwNTFj",
   "tracks": [
     {
       "added_at": "2023-05-15 13:37:09",
@@ -311,26 +311,18 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
-        "name": "Gravity (feat. Tyler, The Creator)",
-        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "DJ Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 214692,
-      "name": "Gravity (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
+      "duration_ms": 201546,
+      "name": "Helmet",
+      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
     },
     {
       "added_at": "2023-05-15 13:37:09",
@@ -351,18 +343,26 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "Gravity (feat. Tyler, The Creator)",
+        "url": "https://open.spotify.com/album/6ymw9w3tGhxVGBskQAhsvm"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        },
+        {
+          "name": "DJ Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 201546,
-      "name": "Helmet",
-      "url": "https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2"
+      "duration_ms": 214692,
+      "name": "Gravity (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
     },
     {
       "added_at": "2023-05-15 13:37:09",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Sunshine (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
+    },
+    {
+      "added_at": "2023-05-15 13:37:09",
+      "album": {
         "name": "Not Another Love Song",
         "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
       },
@@ -499,22 +519,6 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
-        "name": "Hu Man",
-        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Hu Man",
-      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
-    },
-    {
-      "added_at": "2023-05-15 13:37:09",
-      "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
@@ -531,26 +535,6 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Sunshine (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
-    },
-    {
-      "added_at": "2023-05-15 13:37:09",
-      "album": {
         "name": "Too Late To Die Young",
         "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 172131,
       "name": "Make Me Stay",
       "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
+      "added_at": "2023-05-15 13:37:09",
+      "album": {
+        "name": "Hu Man",
+        "url": "https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Hu Man",
+      "url": "https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP"
     },
     {
       "added_at": "2023-05-15 13:37:09",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
-        "name": "Ride for Me",
-        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        }
-      ],
-      "duration_ms": 194542,
-      "name": "Ride for Me",
-      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
-    },
-    {
-      "added_at": "2023-05-15 13:37:09",
-      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
+    },
+    {
+      "added_at": "2023-05-15 13:37:09",
+      "album": {
+        "name": "Ride for Me",
+        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        }
+      ],
+      "duration_ms": 194542,
+      "name": "Ride for Me",
+      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
     },
     {
       "added_at": "2023-05-15 13:37:09",

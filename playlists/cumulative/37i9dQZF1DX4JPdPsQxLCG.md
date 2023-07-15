@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-333 songs - 22 hr 0 min
+335 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-09 |  |
 | [Blown Wide Open](https://open.spotify.com/track/2wDGbbr3Urw84aKqf9AmJ4) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory](https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek) | 5:55 | 2022-05-02 | 2022-07-29 |
 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 | 2022-05-02 |  |
-| [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 | 2023-06-09 |  |
+| [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 | 2023-06-09 | 2023-07-15 |
 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2023-06-09 | 2023-06-29 |
 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 | 2022-05-02 |  |
 | [Borrow Trouble](https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 4:05 | 2023-06-28 |  |
@@ -109,6 +109,7 @@
 | [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2023-05-18 |  |
 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 | 2022-05-02 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2022-09-10 | 2022-09-15 |
+| [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2023-07-14 |  |
 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 | 2022-05-02 | 2022-07-24 |
 | [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 | 2022-05-02 | 2023-05-20 |
 | [Hello Time Bomb](https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:58 | 2022-05-02 | 2022-11-13 |
@@ -144,7 +145,7 @@
 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 | 2022-09-10 | 2022-09-15 |
 | [Josie](https://open.spotify.com/track/2Raz3qhlFGMQWscZhWkNCV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/1YExkEfG8yevSjaWg5Z8xv) | 3:39 | 2022-05-02 | 2022-07-29 |
 | [Just Between You and Me](https://open.spotify.com/track/4ubP3X72lADwGkwivA0bIw) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [The Nature of the Beast](https://open.spotify.com/album/7yH5n5t6OUaTnNwf2rrmbX) | 3:53 | 2022-05-02 | 2022-07-29 |
-| [Just Between You And Me](https://open.spotify.com/track/2Xa2C6ftMdcg3j7YSot8dY) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/1efEmTdyntOZvQgtaPdWcU) | 3:55 | 2023-05-19 |  |
+| [Just Between You And Me](https://open.spotify.com/track/2Xa2C6ftMdcg3j7YSot8dY) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/1efEmTdyntOZvQgtaPdWcU) | 3:55 | 2023-05-19 | 2023-07-15 |
 | [Just Between You And Me](https://open.spotify.com/track/5fsU7AtSTp0zySUf46hwbt) | [April Wine](https://open.spotify.com/artist/1JHzh1ETQTMoFb2CgncnTL) | [Nature Of The Beast](https://open.spotify.com/album/2jdTTnlMRfq0cWhz16FMD6) | 3:55 | 2022-05-02 | 2023-05-13 |
 | [Knocking At The Door](https://open.spotify.com/track/3Is6K1wTqmJVYaAY8hIb6Y) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe Edition\)](https://open.spotify.com/album/1UM7iFcI1HXhDQo27U6lWl) | 3:42 | 2022-09-10 | 2022-09-15 |
 | [Knocking At The Door](https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Morning Report \(Deluxe\)](https://open.spotify.com/album/2qzcSOkX6xYvlC2RPAqboQ) | 3:42 | 2022-05-02 | 2023-05-19 |
@@ -196,6 +197,7 @@
 | [Nowhere With You](https://open.spotify.com/track/1GPLHjO42TFuIos5JNjYpL) | [Joel Plaskett Emergency](https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3) | [Make A Little Noise EP](https://open.spotify.com/album/14mVaClWSmMct9XwQahGb0) | 3:01 | 2022-05-02 | 2022-07-29 |
 | [O Siem](https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN) | 4:27 | 2022-05-02 | 2022-07-09 |
 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 | 2022-05-02 | 2022-09-11 |
+| [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 | 2023-07-14 |  |
 | [One More Astronaut](https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Scenery & Fish](https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU) | 5:24 | 2022-05-02 | 2022-07-29 |
 | [One Week](https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt](https://open.spotify.com/album/4FsibLgkGMV9AfbLtEqvxT) | 2:49 | 2022-05-02 | 2022-07-29 |
 | [One Week](https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 2:49 | 2022-05-02 |  |

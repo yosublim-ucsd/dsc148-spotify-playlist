@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "Out of My Mind (Country)",
+        "url": "https://open.spotify.com/album/1EuPbXPAp6kO8qQSxvuJmn"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199779,
+      "name": "Out of My Mind (Country)",
+      "url": "https://open.spotify.com/track/1cEM4aYMmGdm6j8SRimVHG"
+    },
+    {
+      "album": {
         "name": "Patsy Cline Crazy",
         "url": "https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt"
       },

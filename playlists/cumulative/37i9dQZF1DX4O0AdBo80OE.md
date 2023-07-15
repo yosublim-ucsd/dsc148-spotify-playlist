@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-107 songs - 6 hr 10 min
+108 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2023-05-26 |  |
 | [Me Gustas](https://open.spotify.com/track/7DAKoRTXvpBzzWmlc04mE3) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP) | [Todo Bien](https://open.spotify.com/album/0aCm5rCKMjKD5t8m7H1WEk) | 3:28 | 2023-05-26 |  |
 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 | 2023-05-26 |  |
+| [Mi Día de Suerte](https://open.spotify.com/track/3WDEgbYmIkNgZZVZu2ZNwe) | [NOSOYSEQUI](https://open.spotify.com/artist/4gqy8vey7cdsuNVNrpDbS4), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Mi Día de Suerte](https://open.spotify.com/album/2dun8iDMUBI7nwD38Bdsiq) | 3:03 | 2023-07-14 |  |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [MOTEL CALIFORNIA](https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO) | 3:33 | 2023-05-26 |  |
 | [Mucho para Mí](https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri) | [Mucho para Mí](https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5) | 5:10 | 2023-05-26 |  |
 | [Ni bien ni mal](https://open.spotify.com/track/6KUQvfFKLMF2fL3xFXoZbG) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ni bien ni mal](https://open.spotify.com/album/6rWFTuLNpePpP8cCx83uVs) | 2:50 | 2023-05-26 |  |

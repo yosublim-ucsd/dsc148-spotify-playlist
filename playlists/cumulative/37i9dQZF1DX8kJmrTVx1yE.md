@@ -4,7 +4,7 @@
 
 > Dale play, y que los temazos no paren.
 
-171 songs - 10 hr 33 min
+172 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Minutos](https://open.spotify.com/track/0HIoLXQTYfRvsDGifz8cWY) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 4:07 | 2021-12-10 |  |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-12-10 |  |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-12-13 |  |
-| [Mujeres](https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 3:27 | 2021-12-10 |  |
+| [Mujeres](https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Quién Dijo Ayer](https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ) | 3:27 | 2021-12-10 | 2023-07-15 |
 | [Más De La Una](https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Más De La Una](https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9) | 3:56 | 2022-04-18 | 2022-04-21 |
 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 | 2021-12-10 | 2023-05-23 |
 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 | 2021-12-10 |  |
@@ -135,6 +135,7 @@
 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 | 2022-12-13 | 2023-06-04 |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2021-12-10 |  |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2022-12-13 | 2023-04-21 |
+| [Si Te Vas](https://open.spotify.com/track/7BiERLxbhwF9CZbuV8I62J) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si Te Vas](https://open.spotify.com/album/5jVtPMqd1MJUuJyhcRKMQj) | 2:52 | 2023-07-14 |  |
 | [SIN CORAZÓN](https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [SEROTONINA](https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H) | 2:17 | 2023-05-26 |  |
 | [Sin Ti](https://open.spotify.com/track/1kM1BcO9nbQJtPhcbL2WU5) | [Donato Y Estefano](https://open.spotify.com/artist/2bhbutacUCxd0aOWRnjPQl) | [Lo Mejor De Donato & Estéfano](https://open.spotify.com/album/3Ht85xn30gqLuaIZrAK8KT) | 4:07 | 2021-12-10 | 2022-07-29 |
 | [Sirena](https://open.spotify.com/track/1fjB9hdAjlHSS9oH5z63qt) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/01vioqAF5o29uDHYhXs6Vo) | 4:26 | 2021-12-10 | 2022-07-29 |

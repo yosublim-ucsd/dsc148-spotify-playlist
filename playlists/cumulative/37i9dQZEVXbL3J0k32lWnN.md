@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,144 songs - 2 day 11 hr 42 min
+1,145 songs - 2 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Fræk](https://open.spotify.com/track/4b3TPBACVaPpXbh9afJwiG) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [XHEMILIAN](https://open.spotify.com/album/76NybXrK4WtKLvnP2oYuAB) | 2:56 | 2023-04-29 | 2023-05-28 |
 | [Fucked Up](https://open.spotify.com/track/4PWgsD1UsNZI26tJghOYpD) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Fucked Up](https://open.spotify.com/album/6HEeT2ZHLYC3lddxB9WK65) | 2:35 | 2023-03-18 | 2023-03-26 |
 | [Fuego \(feat\. Branco\)](https://open.spotify.com/track/7ED0LkstNvkMi3gMTBQKfe) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Fuego \(feat\. Branco\)](https://open.spotify.com/album/1zzGLMdAGtwdMpNWXPjvwO) | 2:43 | 2022-07-16 | 2022-07-24 |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-14 |  |
 | [føler mig selv 100](https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [føler mig selv 100](https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF) | 3:27 | 2021-03-29 | 2023-04-26 |
 | [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Føles Godt](https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX) | 2:50 | 2023-04-21 |  |
 | [Gamle Vaner](https://open.spotify.com/track/1cSuZS4kWkpDRCXpMLDfsp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 1:40 | 2021-05-30 | 2021-05-31 |
@@ -446,7 +447,7 @@
 | [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 | 2022-01-01 | 2023-01-03 |
 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 | 2021-05-09 | 2021-05-10 |
 | [hjem fra fabrikken](https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [hjem fra fabrikken](https://open.spotify.com/album/4qktEqAnTpFIAURYMJgZBd) | 3:28 | 2022-03-05 | 2023-04-25 |
-| [Hjem/Videre](https://open.spotify.com/track/5gxL6I9giolDGutMiWVuOu) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Hjem/Videre](https://open.spotify.com/album/3fT6QoAl576iiGwszIy5UC) | 2:51 | 2023-06-17 |  |
+| [Hjem/Videre](https://open.spotify.com/track/5gxL6I9giolDGutMiWVuOu) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Hjem/Videre](https://open.spotify.com/album/3fT6QoAl576iiGwszIy5UC) | 2:51 | 2023-06-17 | 2023-07-15 |
 | [Hjertebrand](https://open.spotify.com/track/5KkDRxYg3a6s8P5fSAkSnW) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 4:02 | 2022-10-01 | 2022-10-23 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-05-16 | 2022-05-18 |
 | [Hold Me Closer](https://open.spotify.com/track/5TJEBoTCDbJXiKMdCN9pd3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Lockdown Sessions](https://open.spotify.com/album/3O52AkvWUCF7MfkfLfnobb) | 3:22 | 2022-09-03 | 2022-09-27 |
@@ -791,7 +792,7 @@
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2021-09-12 | 2021-09-13 |
 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 | 2021-03-27\* | 2021-04-09 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2021-08-31 | 2021-09-12 |
-| [Og Du Blev Til En Hvid Fugl](https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action: Kult & B\-sider](https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A) | 3:21 | 2023-01-18 | 2023-06-18 |
+| [Og Du Blev Til En Hvid Fugl](https://open.spotify.com/track/1qy2BuZzSU0JHnGqWRwV3N) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action: Kult & B\-sider](https://open.spotify.com/album/6PjG8MjScwqZOCgNaff71A) | 3:21 | 2023-01-18 |  |
 | [Og Du Blev Til En Hvid Fugl](https://open.spotify.com/track/6iJnovTI9fXqpGMLPWZLX9) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Under Din Sne](https://open.spotify.com/album/2RwxTMkEhaMd6a9vHuiRFq) | 3:21 | 2023-01-15 | 2023-01-19 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2022-01-23 |
 | [Oh My God](https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [OFF](https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf) | 2:39 | 2023-03-01 |  |
@@ -1095,7 +1096,7 @@
 | [Visit \(feat\. Stepz\)](https://open.spotify.com/track/4qPHvX6Mz5tp5lLdimYhDm) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:57 | 2023-05-09 | 2023-05-11 |
 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2021-10-31 | 2021-11-07 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-09-05 |
-| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-06 |  |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-06 | 2023-07-15 |
 | [Vores År \(Nytårssangen\)](https://open.spotify.com/track/5wnQatWruCErVy8AJDuVA4) | [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Vores År \(Nytårssangen\)](https://open.spotify.com/album/6YVLcq49DaD0N6XSrsbMHz) | 3:27 | 2022-12-28 | 2023-01-07 |
 | [VV](https://open.spotify.com/track/5U2T400b5vXPx4GxfeHdHG) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg), [Larry 44](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Diplomático](https://open.spotify.com/album/5QaCWC5VBE7B0VA7bbCLhZ) | 2:39 | 2021-10-10 | 2021-10-17 |
 | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Vågen \(Artigeardit X Lamin\)](https://open.spotify.com/album/7AmMkq9qKtCROjM8DVVgsx) | 2:37 | 2022-05-27 |  |

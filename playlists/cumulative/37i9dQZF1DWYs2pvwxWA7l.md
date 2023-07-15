@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\. Cover:  <a href="https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP?si=CfgMhWd0Q0ubZw2dxpCjHA"> SPINALL </a> and <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=WvF\-KSEZQhWAS\-DKCN1pMQ"> WizKid</a>
 
-358 songs - 18 hr 34 min
+359 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-02 |  |
 | [Ocean](https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Ocean](https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT) | 3:10 | 2022-02-17 | 2022-07-29 |
 | [Odinaka](https://open.spotify.com/track/5M451NFsHwBrVwu3OEzueh) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:59 | 2022-12-22 | 2023-01-28 |
+| [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 | 2023-07-13 |  |
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-10 | 2023-05-26 |
 | [Ojuju](https://open.spotify.com/track/1JvW2HjzFdEcaFrpsEeq0e) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Ojuju](https://open.spotify.com/album/1cYo9eumR211el6QbRzW2m) | 3:07 | 2021-10-07 | 2022-03-04 |
 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 | 2022-02-03 | 2022-11-19 |

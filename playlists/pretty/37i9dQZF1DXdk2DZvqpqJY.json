@@ -1,12 +1,12 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 51425,
+  "num_followers": 51488,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODQ3Y2Q1MzQ3MTlkYmMzODQyZjUwMDZhYmVmOTBjMzhhMmU1ZGZj",
+  "snapshot_id": "MCxiZGM5NzZlODE5YzA3YTQ0OTVjMjU4NTcxMTYyZjFjMDYyNmJiZGNl",
   "tracks": [
     {
       "added_at": "2023-06-21 08:13:55",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-06-21 08:13:55",
       "album": {
-        "name": "Blue Midnight",
-        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
-      },
-      "artists": [
-        {
-          "name": "James Leeluck",
-          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
-        }
-      ],
-      "duration_ms": 189134,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
-    },
-    {
-      "added_at": "2023-06-21 08:13:55",
-      "album": {
         "name": "Mancuso's Joint",
         "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 258836,
       "name": "Mancuso's Joint",
       "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
+    },
+    {
+      "added_at": "2023-06-21 08:13:55",
+      "album": {
+        "name": "Blue Midnight",
+        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "duration_ms": 189134,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
     },
     {
       "added_at": "2023-06-21 08:13:55",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-06-21 08:13:55",
       "album": {
-        "name": "Akaishi",
-        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
-      },
-      "artists": [
-        {
-          "name": "Moonside Trio",
-          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Akaishi",
-      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
-    },
-    {
-      "added_at": "2023-06-21 08:13:55",
-      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 236937,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
+    },
+    {
+      "added_at": "2023-06-21 08:13:55",
+      "album": {
+        "name": "Akaishi",
+        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
+      },
+      "artists": [
+        {
+          "name": "Moonside Trio",
+          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Akaishi",
+      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
     },
     {
       "added_at": "2023-06-21 08:13:55",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-06-21 08:13:55",
       "album": {
+        "name": "Wichita Lineman",
+        "url": "https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "duration_ms": 307264,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf"
+    },
+    {
+      "added_at": "2023-06-21 08:13:55",
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 209896,
       "name": "A Gentle Reminder",
       "url": "https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6"
-    },
-    {
-      "added_at": "2023-06-21 08:13:55",
-      "album": {
-        "name": "Wichita Lineman",
-        "url": "https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
-        }
-      ],
-      "duration_ms": 307264,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf"
     },
     {
       "added_at": "2023-06-21 08:13:55",

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Os grandes hits do momento estão aqui! Foto: Anitta
+> Os grandes hits do momento estão aqui! Foto: POCAH, LUCK MUSIK, MC Kevin O Chris
 
-179 songs - 8 hr 41 min
+180 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Balinha de Coração](https://open.spotify.com/track/2wBMHYa50dcBf7NJoaHCPE) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Balinha de Coração](https://open.spotify.com/album/2B3qZ6SDN8qohOl09NjjQl) | 2:16 | 2023-02-13 | 2023-02-16 |
 | [Balinha de Coração](https://open.spotify.com/track/7yOhvjSSprZokknEdhkcFX) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/1qSPqdwqoRlWiMVRr9nITg) | 2:16 | 2023-02-09 | 2023-02-14 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-05-20 | 2022-06-23 |
+| [Barulhinho](https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Barulhinho](https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv) | 2:49 | 2023-07-14 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-05-20 | 2023-01-19 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-13 | 2023-03-13 |
 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 | 2022-05-20 | 2022-09-28 |
@@ -123,7 +124,7 @@
 | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/track/2zpiccjPSl315SqthyDf9j) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Theus Costa](https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP), [MC Bruna Alves](https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg), [Faixa Rosa](https://open.spotify.com/artist/0JrZ7I50iqRoiPc60m8ony) | [Na Movimentação \(feat\. Faixa Rosa\)](https://open.spotify.com/album/3jgOss4rmnFU1b6R8o3iIG) | 1:56 | 2022-09-21 |  |
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2022-05-20 | 2022-08-13 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2022-12-13 | 2022-12-22 |
-| [Noite Fria](https://open.spotify.com/track/3O2wrDL7nnSDZOrdZqxyoY) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ninguém Tá Puro!](https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I) | 2:40 | 2023-04-13 |  |
+| [Noite Fria](https://open.spotify.com/track/3O2wrDL7nnSDZOrdZqxyoY) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ninguém Tá Puro!](https://open.spotify.com/album/0JDZhfDT24lh3OYX0NKU9I) | 2:40 | 2023-04-13 | 2023-07-15 |
 | [Novidade na Área](https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [Novidade na Área](https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl) | 2:00 | 2023-06-30 |  |
 | [Novo Balanço](https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 2:20 | 2023-05-30 |  |
 | [Nu](https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Nu](https://open.spotify.com/album/7DjmmuPo67pj5ODIJFWkGR) | 2:47 | 2023-04-21 |  |

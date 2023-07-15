@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Monkey Safari
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,224 likes - 88 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,352 likes - 88 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 38 | [Arabic Night](https://open.spotify.com/track/3GLnctKwmonZSwCAeBZAH4) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [EPICX](https://open.spotify.com/artist/6FqgKL39QPkukNJBo1pezT) | [Arabic Night](https://open.spotify.com/album/6MXiKL4p3Sj6K3Ar4gXU6V) | 3:56 |
 | 39 | [Sexuality \(My Reality\)](https://open.spotify.com/track/6K8MEkyv4cR6LPngDmsq20) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Fusion](https://open.spotify.com/album/55KpRN5uOM2EhyoHcQSBsI) | 6:26 |
 | 40 | [Crave](https://open.spotify.com/track/1VNThqTH5v8gi02dplXrSw) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Crave](https://open.spotify.com/album/3jX2LlPJdLJo9l4q6OUEe1) | 4:22 |
-| 41 | [Take You Higher](https://open.spotify.com/track/2GPPFrJJeHU5akB3xX9RBO) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Bangers, Vol\. 8](https://open.spotify.com/album/1Mt8y2tlmINKpsigIaXq8J) | 4:20 |
+| 41 | [Take You Higher](https://open.spotify.com/track/2pgiLqOsWEhUfH8DUU2Uo1) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Take You Higher](https://open.spotify.com/album/0DyO0q5qrW3zfAB7AvSn2r) | 4:20 |
 | 42 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 |
 | 43 | [Surrender \- Radio\-Edit](https://open.spotify.com/track/5jFIOX1D9qdRAiocgHvFfc) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Surrender \(Radio\-Edit\)](https://open.spotify.com/album/5Lf5wDXcwHFQUDRqjxzsGp) | 3:51 |
 | 44 | [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 67 | [Someone We Used To Love](https://open.spotify.com/track/6Od189h0PKZlMsLUt6onrw) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [Someone We Used To Love](https://open.spotify.com/album/5OqUngFXqzdm8pJ13A2bMP) | 3:22 |
 | 68 | [Canto](https://open.spotify.com/track/3y4hdcjqmX46V5bA29wsgx) | [Sahar](https://open.spotify.com/artist/3b7TXhgeS7YpSumMEwbFJO) | [Canto](https://open.spotify.com/album/0ouYduP6xhLiKclNqmQknn) | 6:23 |
 | 69 | [Like An Old Dog \- Maceo Plex Remix](https://open.spotify.com/track/0QNSgg2CPslZbcvKmkFN0N) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Like An Old Dog \(Maceo Plex Remix\)](https://open.spotify.com/album/0eKC58ZvlGo6Xge3vAASYZ) | 6:30 |
-| 70 | [Spiritual Experience](https://open.spotify.com/track/6mdEaXqlhLkW6Hi3thBOSK) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Bangers, Vol\. 8](https://open.spotify.com/album/1Mt8y2tlmINKpsigIaXq8J) | 4:33 |
+| 70 | [Spiritual Experience](https://open.spotify.com/track/0xaYqC37eY4tNFdHQYG2yP) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Spiritual Experience](https://open.spotify.com/album/5SRjebL4m70r2YbqD4Dj8Y) | 4:33 |
 | 71 | [PROTO](https://open.spotify.com/track/2zw1iwsCpjjm3VyEZzbweT) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Hugh Betcha](https://open.spotify.com/artist/6Vgj5l5fPp0t4aHOBkWvmi) | [PROTO](https://open.spotify.com/album/61hKlttJYrxO067Q9WEMag) | 7:12 |
 | 72 | [Don't Tell Me What To Do](https://open.spotify.com/track/2dbaQq1LoOyNbCKYAfInGR) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Don't Tell Me What To Do](https://open.spotify.com/album/46NY1vRxqvzKgryniof1iJ) | 5:41 |
 | 73 | [Since 94](https://open.spotify.com/track/6h5wIi5Gi9qAZgnAIHI4bv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Since 94](https://open.spotify.com/album/5M6NyOFCdJZA83Ty9IJROy) | 5:31 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [ARCO](https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug) | [DAVID AUGUST](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [ARCO](https://open.spotify.com/album/2AKxzmw5yfZSNJvIwLidWY) | 4:55 |
 | 88 | [Sun](https://open.spotify.com/track/3gJ3bAKKfTSLDfRhAxxjKS) | [Rework](https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu) | [Sun](https://open.spotify.com/album/15t9R810ZFQPsBG2wESkqu) | 3:40 |
 
-Snapshot ID: `MCxlMzg0MjVmM2UxYjQxYzkxYTgzM2VhZmU3YWFlYjdkYzg1NTUxNGFk`
+Snapshot ID: `MCw5NmZjYjQ1Yjc4NmQ2NWY2ZTFjMDg4ZTI1YjU2ZDU3MzgzMTA2ZjY0`

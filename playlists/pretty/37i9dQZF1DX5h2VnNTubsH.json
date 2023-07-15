@@ -1,12 +1,12 @@
 {
   "description": "Out of office \u2705",
-  "num_followers": 158736,
+  "num_followers": 158961,
   "original_name": "Summer Holiday 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjExNzg2MGQzNjY4NTA5YmQ4M2JiYzM4MDIxNGMxYTQ0NjA1OGMz",
+  "snapshot_id": "MCwxYTU3NWRjOWMyOTNkNTAxNzVhZGY0NTliMmQxMDFhMGM1NDRjN2Fk",
   "tracks": [
     {
       "added_at": "2023-06-30 20:41:47",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-06-30 20:41:47",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
+    },
+    {
+      "added_at": "2023-06-30 20:41:47",
+      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/08YvUaUsZktAG6zEMDwUqO"
-    },
-    {
-      "added_at": "2023-06-30 20:41:47",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
       "added_at": "2023-06-30 20:41:47",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-06-30 20:41:47",
       "album": {
-        "name": "Hide & Seek (Rema Remix)",
-        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Hide & Seek - Rema Remix",
-      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
-    },
-    {
-      "added_at": "2023-06-30 20:41:47",
-      "album": {
         "name": "Oh My (feat. Moby)",
         "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
       },
@@ -1363,18 +1343,22 @@
     {
       "added_at": "2023-06-30 20:41:47",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ"
+        "name": "Hide & Seek (Rema Remix)",
+        "url": "https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY"
       },
       "artists": [
         {
-          "name": "Bazzyb",
-          "url": "https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 137380,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc"
+      "duration_ms": 228626,
+      "name": "Hide & Seek - Rema Remix",
+      "url": "https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb"
     },
     {
       "added_at": "2023-06-30 20:41:47",
@@ -1391,6 +1375,22 @@
       "duration_ms": 179517,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr"
+    },
+    {
+      "added_at": "2023-06-30 20:41:47",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ"
+      },
+      "artists": [
+        {
+          "name": "Bazzyb",
+          "url": "https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97"
+        }
+      ],
+      "duration_ms": 137380,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc"
     },
     {
       "added_at": "2023-06-30 20:41:47",

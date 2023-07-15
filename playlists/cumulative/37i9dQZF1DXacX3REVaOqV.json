@@ -457,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Back To Love",
+        "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "Back To Love",
+      "url": "https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe"
+    },
+    {
+      "album": {
         "name": "Back to the Raw",
         "url": "https://open.spotify.com/album/63SwZvdIlzjxpAPnBuICEm"
       },
@@ -716,7 +738,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 141395,
       "name": "Boyz N Da Club - Radio Edit",
       "url": "https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV"
@@ -804,6 +826,24 @@
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "album": {
+        "name": "Burnin' Up",
+        "url": "https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158740,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz"
     },
     {
       "album": {
@@ -1180,7 +1220,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 366141,
       "name": "Da Fonk (feat. Joni)",
       "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
@@ -2806,7 +2846,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 150991,
       "name": "I Will Survive",
       "url": "https://open.spotify.com/track/5Fi4nPER6YbntbYDW4P3Pz"
@@ -2864,7 +2904,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 282580,
       "name": "In My Soul",
       "url": "https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6"
@@ -2982,7 +3022,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 221102,
       "name": "It's A Killa - Shermanology Edit",
       "url": "https://open.spotify.com/track/46Ev3TqSeRhxWku5Mi4sQJ"
@@ -4510,7 +4550,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "On Da Groove",
       "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
@@ -4638,6 +4678,28 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
+    },
+    {
+      "album": {
+        "name": "Owner of a Lonely Heart (Luca Olivotto Remix)",
+        "url": "https://open.spotify.com/album/5um4ELMhFxPWe3AeJha9Uh"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        },
+        {
+          "name": "Luca Olivotto",
+          "url": "https://open.spotify.com/artist/6TKBUwZ48ncE6FbhT5ACzj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Owner of a Lonely Heart - Luca Olivotto Remix",
+      "url": "https://open.spotify.com/track/0USvCJS5xGmzvbm9rBL2ZV"
     },
     {
       "album": {
@@ -5344,7 +5406,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 163631,
       "name": "Show My Love",
       "url": "https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj"
@@ -6151,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/2ImuqZJqJQ3ad6lM0Nwem2"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166572,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0ZqgZiFqhDivCdXwltw7Up"
+    },
+    {
+      "album": {
         "name": "The One (feat. ARA)",
         "url": "https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp"
       },
@@ -6796,7 +6876,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"

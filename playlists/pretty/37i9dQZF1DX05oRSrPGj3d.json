@@ -1,12 +1,12 @@
 {
   "description": "Texas' own Parker McCollum is taking over to celebrate the release of his new album \"Never Enough\"! ",
-  "num_followers": 232072,
+  "num_followers": 232171,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmUzYWQzZmNjNWI4NmJjNmVlYzIzNGZjYWI4OGMxYWMyZjc2MGJk",
+  "snapshot_id": "MCw2ODgzNDY1MjIwYTgwZmJmODcyNWVlMGM3NGY5MjU3ZTUzMDljODUw",
   "tracks": [
     {
       "added_at": "2023-06-09 04:01:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Medicine Man",
-        "url": "https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr"
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Southall",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
-      "duration_ms": 273035,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk"
+      "duration_ms": 197997,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/6nmGkTVbK3Vcq4GFELHynr"
       },
       "artists": [
         {
-          "name": "Southall",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 197997,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/7qoJUjzBMWucLSFvZrDoGG"
+      "duration_ms": 273035,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/6BCtcTbcAyXRx3AKRgnWEk"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-09 04:01:00",
       "album": {
-        "name": "Every Single Kiss",
-        "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Every Single Kiss",
-      "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/0VPpKGgxHcjTuOdsWvvfyR"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 220649,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2YdMVlfOdhVmewv1VQBVSl"
+    },
+    {
+      "added_at": "2023-06-09 04:01:00",
+      "album": {
+        "name": "Every Single Kiss",
+        "url": "https://open.spotify.com/album/3HiJgnMpdeQ2vwhEZxuZNr"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Every Single Kiss",
+      "url": "https://open.spotify.com/track/4UGnIq5oeMkckBMX6D1Ktj"
     },
     {
       "added_at": "2023-06-09 04:01:00",

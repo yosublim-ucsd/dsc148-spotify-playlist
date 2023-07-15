@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,528 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 31 | [Nipe Macho](https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Nipe Macho](https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV) | 5:53 |
 | 32 | [Mwanake \(feat\. Kaberere\)](https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2) | [Benachi](https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD), [kaberere](https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7) | [Tulia](https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE) | 3:36 |
 | 33 | [Huyu Ni Nani](https://open.spotify.com/track/0l39flJoMHffawcZES5NCS) | [St\. Joseph's Choir Kendu Bay Parish](https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA) | [Bwana Ni Ngome Yangu](https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF) | 5:46 |
-| 34 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
+| 34 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
 | 35 | [Sweetie Sweetie](https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sweetie Sweetie](https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg) | 5:16 |
-| 36 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
+| 36 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
 | 37 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
 | 38 | [Na Gode \- Swahili](https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Na Gode \(Swahili\)](https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s) | 3:26 |
 | 39 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 45 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
 | 46 | [Mfalme Wa Amani](https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W) | [Solomon Mkubwa](https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ) | [Mfalme Wa Amani](https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG) | 7:52 |
 | 47 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
-| 48 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 |
-| 49 | [KELELE ZA USHINDI](https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [ZORAVO](https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ) | [KELELE ZA USHINDI](https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp) | 3:41 |
+| 48 | [KELELE ZA USHINDI](https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [ZORAVO](https://open.spotify.com/artist/5sIE91Ntm4PJPeC7e50dlQ) | [KELELE ZA USHINDI](https://open.spotify.com/album/3dLNLUO9a16EoyEwVGewzp) | 3:41 |
+| 49 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 |
 | 50 | [NADEKA](https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [NADEKA](https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A) | 3:24 |
 
-Snapshot ID: `MCw4Y2UzMGI2MzYyYzJkZWNjMzNlZGQ3MGEwM2RiN2M5YTNkNDMwNjdi`
+Snapshot ID: `MCw2ZjRkZGI3NDI1MzIyNDVjNTA2MjNjNDgyOGFmM2JjZTZjZmZlOTY0`

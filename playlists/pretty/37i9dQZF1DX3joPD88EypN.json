@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 28321,
+  "num_followers": 28350,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2MwYTQ0MDFlNzBjNWM0NWI2NjIzNjIzYmU5NmRmOTUxNzE0M2Y5",
+  "snapshot_id": "MCwzODhhM2JhMmY2ZGNlOTlhOGIwY2M3Y2Y3ZDJkZmNmNmE5OTNhYjY5",
   "tracks": [
     {
       "added_at": "2023-06-22 22:00:00",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
       "artists": [
         {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
         }
       ],
-      "duration_ms": 307356,
-      "name": "Winx",
-      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 307356,
+      "name": "Winx",
+      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Summerwind",
         "url": "https://open.spotify.com/album/4O3nk9VY0eisrO7ElPQguX"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 233040,
       "name": "Un Vestido y un Amor",
       "url": "https://open.spotify.com/track/74uViEHEh4ZLAixYHOjR9Q"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
-      },
-      "artists": [
-        {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Time of Water",
-        "url": "https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP"
-      },
-      "artists": [
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 272306,
-      "name": "Time of Water",
-      "url": "https://open.spotify.com/track/0bT1HItEFfOnlb17W1434D"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Painting Music",
         "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Time of Water",
+        "url": "https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 272306,
+      "name": "Time of Water",
+      "url": "https://open.spotify.com/track/0bT1HItEFfOnlb17W1434D"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Return to Mind",
-        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 284880,
-      "name": "Taplow",
-      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "No City, No Tree, No Lake",
         "url": "https://open.spotify.com/album/3YtgPusjjcPrOD1CFjt23C"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 155000,
       "name": "Almost Romance",
       "url": "https://open.spotify.com/track/7oLuklTciOp5P0heQeYqsC"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Return to Mind",
+        "url": "https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 284880,
+      "name": "Taplow",
+      "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1079,42 +1079,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Asthma Breath",
-        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
-      },
-      "artists": [
-        {
-          "name": "Jesper Thorn",
-          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
-        }
-      ],
-      "duration_ms": 196868,
-      "name": "Asthma Breath",
-      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
-      },
-      "artists": [
-        {
-          "name": "Anders Hagberg",
-          "url": "https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ"
-        },
-        {
-          "name": "Johannes Lundberg",
-          "url": "https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG"
-        }
-      ],
-      "duration_ms": 281855,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "The Land That Is Not",
         "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
       },
@@ -1151,6 +1115,42 @@
       "duration_ms": 514933,
       "name": "Red Hook - Live At The Jazz Standard, New York / 2017",
       "url": "https://open.spotify.com/track/6GZ5LgI8dM3Ynj7J05kANS"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/4uEd21Od3uAgOb6by5TPPQ"
+      },
+      "artists": [
+        {
+          "name": "Anders Hagberg",
+          "url": "https://open.spotify.com/artist/4EHq5kOSsWr0OxdUYA2KoJ"
+        },
+        {
+          "name": "Johannes Lundberg",
+          "url": "https://open.spotify.com/artist/4e1gyH3KCIRfVPQ9YVIyEG"
+        }
+      ],
+      "duration_ms": 281855,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rDTR9jFXOnAWJMZkJHq6J"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Asthma Breath",
+        "url": "https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE"
+      },
+      "artists": [
+        {
+          "name": "Jesper Thorn",
+          "url": "https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD"
+        }
+      ],
+      "duration_ms": 196868,
+      "name": "Asthma Breath",
+      "url": "https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
-        }
-      ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Gefion",
         "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
       },
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Nearly Invisible Stitches",
-        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
       },
       "artists": [
         {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
         }
       ],
-      "duration_ms": 403513,
-      "name": "Nearly Invisible Stitches",
-      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+        "name": "Nearly Invisible Stitches",
+        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
       },
       "artists": [
         {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
         }
       ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
+      "duration_ms": 403513,
+      "name": "Nearly Invisible Stitches",
+      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 335320,
       "name": "Rossetti",
       "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1463,34 +1463,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Reflections and Odysseys",
-        "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
-      },
-      "artists": [
-        {
-          "name": "Rymden",
-          "url": "https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW"
-        },
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "Magnus \u00d6str\u00f6m",
-          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
-        },
-        {
-          "name": "Dan Berglund",
-          "url": "https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4"
-        }
-      ],
-      "duration_ms": 415186,
-      "name": "The Lugubrious Youth Of Lucky Luke",
-      "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Being",
         "url": "https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC"
       },
@@ -1527,6 +1499,34 @@
       "duration_ms": 415645,
       "name": "Children's Day - Small Group Version",
       "url": "https://open.spotify.com/track/1rMHzChLvrywL6at5xFb44"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Reflections and Odysseys",
+        "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
+      },
+      "artists": [
+        {
+          "name": "Rymden",
+          "url": "https://open.spotify.com/artist/2yxMIwcfg9qdyodUwirbRW"
+        },
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
+        },
+        {
+          "name": "Dan Berglund",
+          "url": "https://open.spotify.com/artist/4kgT3nNA0k08zCF5xUCLb4"
+        }
+      ],
+      "duration_ms": 415186,
+      "name": "The Lugubrious Youth Of Lucky Luke",
+      "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Going with the Flow",
-        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
-      },
-      "artists": [
-        {
-          "name": "Olga Konkova",
-          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
-        },
-        {
-          "name": "Carl Morten Iversen",
-          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        }
-      ],
-      "duration_ms": 531252,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Scandinavian Standards",
         "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
       },
@@ -1695,6 +1671,30 @@
       "duration_ms": 285773,
       "name": "How Could It Be?",
       "url": "https://open.spotify.com/track/2SBJGQF28xEMo4lgW5QpOo"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Going with the Flow",
+        "url": "https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC"
+      },
+      "artists": [
+        {
+          "name": "Olga Konkova",
+          "url": "https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS"
+        },
+        {
+          "name": "Carl Morten Iversen",
+          "url": "https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        }
+      ],
+      "duration_ms": 531252,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1895,18 +1895,30 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Kurzsam and Fulger",
-        "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo"
       },
       "artists": [
         {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+          "name": "Fredrik Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm"
+        },
+        {
+          "name": "Andreas Hourdakis",
+          "url": "https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq"
+        },
+        {
+          "name": "Ilaria Capalbo",
+          "url": "https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT"
+        },
+        {
+          "name": "Staffan Svensson",
+          "url": "https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM"
         }
       ],
-      "duration_ms": 373899,
-      "name": "Langsam",
-      "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
+      "duration_ms": 314253,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG"
     }
   ],
   "unique_name": "Nordic Jazz",

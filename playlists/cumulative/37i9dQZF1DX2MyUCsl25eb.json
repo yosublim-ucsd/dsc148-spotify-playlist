@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 158048,
       "name": "Clear",
       "url": "https://open.spotify.com/track/4sHqUPk9CFg2LkA1nmO1Ld"
@@ -2036,6 +2036,24 @@
       "duration_ms": 239834,
       "name": "Close 2 U",
       "url": "https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc"
+    },
+    {
+      "album": {
+        "name": "Close To The Edge",
+        "url": "https://open.spotify.com/album/0l1BGa8KszhTBMsXBpxPK2"
+      },
+      "artists": [
+        {
+          "name": "Fulton Lee",
+          "url": "https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168857,
+      "name": "Close To The Edge",
+      "url": "https://open.spotify.com/track/5cKXWL2gO6VUwMey396Uqu"
     },
     {
       "album": {
@@ -2590,6 +2608,28 @@
       "duration_ms": 290892,
       "name": "Dawns (feat. Maggie Rogers)",
       "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162020,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
     },
     {
       "album": {
@@ -4652,7 +4692,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169499,
       "name": "How Are You?",
       "url": "https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ"
@@ -7841,6 +7881,24 @@
     },
     {
       "album": {
+        "name": "Spark of Light",
+        "url": "https://open.spotify.com/album/16lQiSe7q4wKDTicJp7jLI"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256773,
+      "name": "Out of the Ashes",
+      "url": "https://open.spotify.com/track/5pdfwA4RJCEp7GpCJlu2pi"
+    },
+    {
+      "album": {
         "name": "Over My Shoulder",
         "url": "https://open.spotify.com/album/3FOkLh0X3SGusq9MB7Afhc"
       },
@@ -7860,6 +7918,24 @@
       "duration_ms": 243346,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/35GhU6oG5RIjjVuFgyb9zn"
+    },
+    {
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
     },
     {
       "album": {
@@ -9892,7 +9968,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183272,
       "name": "Stop Calling Me (Acoustic)",
       "url": "https://open.spotify.com/track/37LuQXfIG7zM1Khf880KoV"
@@ -10616,7 +10692,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 194575,
       "name": "This Year",
       "url": "https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij"
@@ -11515,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189368,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE"
+    },
+    {
+      "album": {
         "name": "Winslow Gardens",
         "url": "https://open.spotify.com/album/5GR11i1LhkoU7qhuAXCbE0"
       },
@@ -11882,7 +11976,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165835,
       "name": "You Are Not Alone",
       "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"

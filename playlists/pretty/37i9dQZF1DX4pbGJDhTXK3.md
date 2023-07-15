@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,605 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,642 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 33 | [Feel It \- Edit](https://open.spotify.com/track/1YHpJo0PCcxATrmX55pdCf) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Maurissa Rose](https://open.spotify.com/artist/2VZfxVHA2JsWss2mJCYmv1) | [Feel It](https://open.spotify.com/album/3khiFvo7qCQ2CDyKD7UP4g) | 3:19 |
 | 34 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 |
 | 35 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
-| 36 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
-| 37 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
+| 36 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
+| 37 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
 | 38 | [Baby Can't Stop](https://open.spotify.com/track/4vDhfpbTaN2DScjCWdzBOx) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB), [Christabelle](https://open.spotify.com/artist/1tGGx3MFXshoO5UyPyk1re) | [Baby Can't Stop](https://open.spotify.com/album/5VLSsw5p70usZesWIq4UwG) | 6:11 |
 | 39 | [Like A Petal But Not Really](https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Like a Petal but Not Really](https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD) | 3:24 |
 | 40 | [Maskindans \- Radio Edit](https://open.spotify.com/track/4Gk5pUinxmDBuVAcjOHaKD) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/4Rkaxisnihy39c7B45junc) | [Maskindans](https://open.spotify.com/album/22bvOQCEhiV9UJQb4i7WZE) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 |
 | 50 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
 
-Snapshot ID: `MCxjMWNhZjFhNWIwYzlmZWI5OWRjMmI4N2ZkMGNmYWM1Y2YwYTc4OTcy`
+Snapshot ID: `MCw5ZjFhNGVjYThkODljYjAxMjIxMDc5N2FkMjk1YTNmZjI0MDVhNWRm`

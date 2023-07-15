@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 98294,
+  "num_followers": 98398,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGRlYzZjZmVjMmM2ZThkNjgwMzIyM2MyOTM2NThlNjhmOTYxNGQy",
+  "snapshot_id": "MCw2MzNlMjA2ODMxZTBhMTkxNmE2MjY2YTc1NjZlYmIzNTU2ZTc5NmNh",
   "tracks": [
     {
       "added_at": "2023-07-12 10:52:00",
@@ -151,6 +151,26 @@
       "duration_ms": 177130,
       "name": "Lalana (From \"LGM (Telugu)\")",
       "url": "https://open.spotify.com/track/5nClSarCW9enQgWpeblJfU"
+    },
+    {
+      "added_at": "2023-07-14 06:02:32",
+      "album": {
+        "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
+        "url": "https://open.spotify.com/album/0lkqRIZH4mHJFRq1Hwrmkr"
+      },
+      "artists": [
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        },
+        {
+          "name": "Siddharth Menon",
+          "url": "https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN"
+        }
+      ],
+      "duration_ms": 257075,
+      "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
+      "url": "https://open.spotify.com/track/3jUp9JvUCZKmaUNwChcxWC"
     },
     {
       "added_at": "2023-05-09 06:55:53",
@@ -327,30 +347,6 @@
       "duration_ms": 228031,
       "name": "Neelaa Nannilaa",
       "url": "https://open.spotify.com/track/0mLyZNyrMZBn2JPB04RqIi"
-    },
-    {
-      "added_at": "2023-06-19 06:12:09",
-      "album": {
-        "name": "Samajavaragamana",
-        "url": "https://open.spotify.com/album/7Ig3ccke0kEEMO7Gry9FvV"
-      },
-      "artists": [
-        {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 227180,
-      "name": "Humsafar",
-      "url": "https://open.spotify.com/track/4qW5RErWBLhzNF7cUYDpvu"
     },
     {
       "added_at": "2023-03-25 03:18:29",

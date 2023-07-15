@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 138673,
       "name": "Angels Bowling",
       "url": "https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 251228,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/193hTIvHqhYRYYxh6HweYR"
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 191871,
       "name": "Cowboy Dream",
       "url": "https://open.spotify.com/track/43SSANT3vfxLkLdriz3VFp"
@@ -738,6 +738,24 @@
       "duration_ms": 124070,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/19um4IgOQ8eV3XUTjYZlCJ"
+    },
+    {
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176869,
+      "name": "Eye On The Bat",
+      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
     },
     {
       "album": {
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 253437,
       "name": "Ingrid",
       "url": "https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix"
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 241271,
       "name": "Pieces of Gold",
       "url": "https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 207226,
       "name": "Somewhere In The Middle",
       "url": "https://open.spotify.com/track/2E4JCuZ0tMWeRTTSiaTvBT"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 238000,
       "name": "Sprinkler Song",
       "url": "https://open.spotify.com/track/5AjnU8UASsUymoryckJ8Ak"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 271973,
       "name": "Through The Fires",
       "url": "https://open.spotify.com/track/3Eh3wDt6HDAx8mxDrOxIsQ"
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 360007,
       "name": "Weekday/Anything",
       "url": "https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS"

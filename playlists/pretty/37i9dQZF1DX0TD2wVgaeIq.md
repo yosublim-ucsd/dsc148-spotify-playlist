@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 
 > Beautiful bansuri flute and sitar from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,476 likes - 76 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,567 likes - 76 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TD2wVgaeIq.md) - [plain]
 | 75 | [Tranquil Flute](https://open.spotify.com/track/5YjcMq9ULEIj5ocqhCMMmX) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Yoga Flute Meditation](https://open.spotify.com/album/71ntr9WalJNhrGxTF8DgoY) | 2:09 |
 | 76 | [Raag Saraswati \- Alap](https://open.spotify.com/track/53abiWUKbfA6lfMp3khetS) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Vijay Ghate](https://open.spotify.com/artist/7ETcoV7VniCB1EvWjtbMMU), [Pt\. Bhawani Shankar](https://open.spotify.com/artist/483a0T0I96l0BLsJILbOVF) | [Call of the Divine \- Magical Flute of Rakesh Chaurasia](https://open.spotify.com/album/599KZQj3bgW8DtIVaxNSjB) | 5:46 |
 
-Snapshot ID: `MCxjMTg1Zjg0MDc4YmQ2MzlkZmQ2MzJkZjM3YmE4NmI1NGJjMmNiNzQ4`
+Snapshot ID: `MCw4ZmExMmU4ZGY5YzMzMWQyMDZkMjYwYTFjMTdiMmJhODE5ZmFlZDk4`

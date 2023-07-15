@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4kUOC5ou6n5msFEjNqdjq5"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/1HTNDDJ7jZ7TOy2kvU01oT"
+    },
+    {
+      "album": {
         "name": "All me want",
         "url": "https://open.spotify.com/album/6jvig8XxQpR6CiA44lASt4"
       },

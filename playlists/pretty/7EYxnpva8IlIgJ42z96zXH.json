@@ -1,15 +1,15 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 31443,
+  "num_followers": 31444,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjY5MCxkMDQ3MzkyYzg1YjdhYThiNmQzNDFlOTg2NmIyYzgyOGZhYmQ0ZTZk",
+  "snapshot_id": "MjY5MixiYTIzMDYxYzQ1MDk4OWQxNWY2MmI1MTQ1ZDQ1MjgxMWJmM2ExMzRj",
   "tracks": [
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/7KNcS4dHvYfjFfJfP6rVpj"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/00xzTCL1sdHftN5QBVgwVh"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
@@ -113,7 +113,83 @@
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Bunny Is A Rider (Remix)",
+        "url": "https://open.spotify.com/album/2cWjOKPkOxBKrkWeDyuHua"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "duration_ms": 195014,
+      "name": "Bunny Is A Rider - Sega Bodega 'UKG' Remix",
+      "url": "https://open.spotify.com/track/7oPCRUy0n1htyHbOXWBYKy"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Brain Freeze (Remixes)",
+        "url": "https://open.spotify.com/album/0ZMMK5HNacOBXFr42jMQyY"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        },
+        {
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "Brain Freeze - Mell Hall Remix",
+      "url": "https://open.spotify.com/track/1d4tzmcT4MuKaSbVJ1MUoz"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Million Pieces (Remixes Pt. 1)",
+        "url": "https://open.spotify.com/album/0l8znPkX7HjdFLRGF0Wjou"
+      },
+      "artists": [
+        {
+          "name": "Jolyon Petch",
+          "url": "https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42"
+        },
+        {
+          "name": "Random Soul",
+          "url": "https://open.spotify.com/artist/7CDm8EfbpNlHa4HmvFo0bm"
+        }
+      ],
+      "duration_ms": 204723,
+      "name": "Million Pieces - Random Soul Remix",
+      "url": "https://open.spotify.com/track/0leOdCkBlQCbtsAaLfhgaJ"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
@@ -137,43 +213,23 @@
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+      "duration_ms": 198897,
+      "name": "AMERICA HAS A PROBLEM",
+      "url": "https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "Brain Freeze (Remixes)",
-        "url": "https://open.spotify.com/album/0ZMMK5HNacOBXFr42jMQyY"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        },
-        {
-          "name": "Mell Hall",
-          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "Brain Freeze - Mell Hall Remix",
-      "url": "https://open.spotify.com/track/1d4tzmcT4MuKaSbVJ1MUoz"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "10 Out Of 10 (feat. Kylie Minogue)",
         "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
@@ -193,7 +249,7 @@
       "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "House For Kings",
         "url": "https://open.spotify.com/album/4Zligq6DUjH3Z2bbVAjgpL"
@@ -213,7 +269,7 @@
       "url": "https://open.spotify.com/track/5QcT02qFxTVG8pan86W1Ab"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
@@ -237,7 +293,7 @@
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Dancing is Healing",
         "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
@@ -261,7 +317,31 @@
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Sweet Disposition (Mashd N Kutcher Remix)",
+        "url": "https://open.spotify.com/album/76r9pHHYDvua8wjexXzKNV"
+      },
+      "artists": [
+        {
+          "name": "Fitch",
+          "url": "https://open.spotify.com/artist/4R1KJqQAvnwb0ChZWqTege"
+        },
+        {
+          "name": "Emile Battour",
+          "url": "https://open.spotify.com/artist/7LNI86kENOKWF35DjHr4rT"
+        },
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Sweet Disposition - Mashd N Kutcher Remix",
+      "url": "https://open.spotify.com/track/3uPsJSn7gDfThRFLGXo81u"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Steam",
         "url": "https://open.spotify.com/album/2k4yvjaU1Ots3GzRWMHEkW"
@@ -277,7 +357,7 @@
       "url": "https://open.spotify.com/track/7yn2m5n82sjSxseqY8iSDA"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/4eSP47YkAXdFgY78adkSX9"
@@ -293,7 +373,7 @@
       "url": "https://open.spotify.com/track/6corPekUASz6xi3GNiMfC5"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
@@ -309,23 +389,31 @@
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Crazy Donkey",
+          "url": "https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+      "duration_ms": 130231,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Rhyme Dust",
         "url": "https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR"
@@ -345,23 +433,7 @@
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "BURNA FONE",
-        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "BURNA FONE",
-      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Take It Off",
         "url": "https://open.spotify.com/album/17ugifua76LzTwJciN63io"
@@ -381,7 +453,7 @@
       "url": "https://open.spotify.com/track/4fsbLBZ2J6fCuNKJdq2lje"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
         "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
@@ -405,7 +477,59 @@
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Turn Your Phone Off",
+        "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Turn Your Phone Off",
+      "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -421,27 +545,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "Little Things (Nia Archives Remix)",
-        "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 160221,
-      "name": "Little Things - Nia Archives Remix",
-      "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
@@ -465,7 +569,7 @@
       "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Dancing Shoes (Take Me Higher)",
         "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
@@ -481,7 +585,27 @@
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
+      "album": {
+        "name": "Little Things (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 160221,
+      "name": "Little Things - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
+    },
+    {
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/0eV9eyfzJFmzO2ObZG9Wk0"
@@ -501,7 +625,7 @@
       "url": "https://open.spotify.com/track/2ry6dGGvtKIbKD1KNVAcsq"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Zanaka",
         "url": "https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb"
@@ -517,7 +641,7 @@
       "url": "https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
@@ -545,7 +669,7 @@
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Great Southern Land",
         "url": "https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6"
@@ -565,7 +689,7 @@
       "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "I Want You (feat. Darren Hayes)",
         "url": "https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW"
@@ -585,7 +709,7 @@
       "url": "https://open.spotify.com/track/08C8eHg9dK6m3846bm3100"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Always Dancin'",
         "url": "https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy"
@@ -601,7 +725,7 @@
       "url": "https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Ribena",
         "url": "https://open.spotify.com/album/1Qu8uTqN37sZgR7Puh6q8N"
@@ -617,7 +741,7 @@
       "url": "https://open.spotify.com/track/5jmXMzvMix3Expd9pPAkAD"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Brain Freeze",
         "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
@@ -633,7 +757,7 @@
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Million Pieces",
         "url": "https://open.spotify.com/album/092XspFGXs1u4jPlogGFDV"
@@ -649,7 +773,7 @@
       "url": "https://open.spotify.com/track/3RM0KcyPjdT8byRe64LivC"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Make Me Happy (feat. Might Delete Later)",
         "url": "https://open.spotify.com/album/6weN60IhSCAWjhlt6jjaKs"
@@ -669,7 +793,7 @@
       "url": "https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "gutter",
         "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
@@ -685,7 +809,7 @@
       "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Lost My Mind (Wake Up)",
         "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
@@ -705,7 +829,7 @@
       "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Maria Maria",
         "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
@@ -721,7 +845,7 @@
       "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
@@ -745,7 +869,7 @@
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Mother (Remixes)",
         "url": "https://open.spotify.com/album/0ftKEZoUS64U87KKiQZkMV"
@@ -765,7 +889,7 @@
       "url": "https://open.spotify.com/track/6WY22j29zVyVOEsOoqjH26"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Just Like That",
         "url": "https://open.spotify.com/album/1A6XiRwKiokX3Ns9Ve0Jef"
@@ -785,7 +909,7 @@
       "url": "https://open.spotify.com/track/7zGn1iaa1x91UqPguAr1JJ"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
@@ -809,7 +933,7 @@
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "GLBTM (Studio Outtakes)",
         "url": "https://open.spotify.com/album/1gDbMxDY14mf9OZzpQfON0"
@@ -825,7 +949,7 @@
       "url": "https://open.spotify.com/track/10fbCavbRqZcQmZNIgK5Ti"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/4c748KMI2JY0FYMNFYt6aF"
@@ -845,7 +969,7 @@
       "url": "https://open.spotify.com/track/76h1bzDFzo5Ec9dWhrETdm"
     },
     {
-      "added_at": "2023-07-05 06:36:30",
+      "added_at": "2023-07-14 06:18:00",
       "album": {
         "name": "strangely sentimental",
         "url": "https://open.spotify.com/album/5LDURABtgmuoMW8H1CjaNO"
@@ -859,122 +983,6 @@
       "duration_ms": 134745,
       "name": "strangely sentimental",
       "url": "https://open.spotify.com/track/4NplzoEshWF8ICYa6pqhQK"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "Are You All In?",
-        "url": "https://open.spotify.com/album/6klnug3Zh3k8lgvRGfZBpX"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 189061,
-      "name": "Are You All In?",
-      "url": "https://open.spotify.com/track/3wsRCFsnAde4Ko1fMJ6wCg"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "Been Thinking",
-        "url": "https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187275,
-      "name": "Been Thinking",
-      "url": "https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "Breakin' Down (Hey Baby)",
-        "url": "https://open.spotify.com/album/6d5YsDwvaHK5W6qLPjCJt5"
-      },
-      "artists": [
-        {
-          "name": "Tommy Mc",
-          "url": "https://open.spotify.com/artist/3EKGHC0HhsytwEFdSt5p9p"
-        },
-        {
-          "name": "Beverley Skeete",
-          "url": "https://open.spotify.com/artist/3k5qgENEe1EHNipngVBmh8"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Breakin' Down (Hey Baby)",
-      "url": "https://open.spotify.com/track/7jRY2G9y1ZUdLc6YOhHxDJ"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "Next To You (feat. Kane Brown) [TWINSICK Remix]",
-        "url": "https://open.spotify.com/album/4cHuD5hSnqwxIpaEZQ16gb"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "TWINSICK",
-          "url": "https://open.spotify.com/artist/4WfO14YgktUYkdLMrHgTeF"
-        }
-      ],
-      "duration_ms": 196190,
-      "name": "Next To You (feat. DVBBS & Kane Brown) - TWINSICK Remix",
-      "url": "https://open.spotify.com/track/2BqNigWXrzipvUFP8IPa8j"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "Feed Your Soul",
-        "url": "https://open.spotify.com/album/5Xp8o0mNfZpJmTgPP6PxSo"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Feed Your Soul",
-      "url": "https://open.spotify.com/track/0dIAyQaDukaRWePNPC8l4h"
-    },
-    {
-      "added_at": "2023-07-05 06:36:30",
-      "album": {
-        "name": "TRUSTFALL (The Remixes)",
-        "url": "https://open.spotify.com/album/2P3cfwf0rwwG3xMZ4EMgP6"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "TRUSTFALL - Drove Remix",
-      "url": "https://open.spotify.com/track/0JylJPPllrXMwbogQGNOej"
     }
   ],
   "unique_name": "Morning Workout",

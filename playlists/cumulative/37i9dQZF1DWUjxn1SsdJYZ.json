@@ -5145,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "Loui & Trap",
+        "url": "https://open.spotify.com/album/4Oc00JjKH0zxbqIz4hJA7R"
+      },
+      "artists": [
+        {
+          "name": "Hoodllandsz",
+          "url": "https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165905,
+      "name": "Loui n Trap",
+      "url": "https://open.spotify.com/track/48tSd85jnXAcvs9XAwIl4S"
+    },
+    {
+      "album": {
         "name": "Love For My City",
         "url": "https://open.spotify.com/album/0ZfRzGnc5emWL5nwbhmuJU"
       },

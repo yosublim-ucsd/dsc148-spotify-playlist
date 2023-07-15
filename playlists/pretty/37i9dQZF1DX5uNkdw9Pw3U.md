@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,500 likes - 94 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,538 likes - 94 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 22 | [Leftovers](https://open.spotify.com/track/0dcuGoAIPAT7OrP5CGSVBA) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Leftovers](https://open.spotify.com/album/5hEA2JEelMkPjLR9dIT4U0) | 3:12 |
 | 23 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 |
 | 24 | [Surprise](https://open.spotify.com/track/3xcapG4WdzvsER4g70MjKc) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Surprise](https://open.spotify.com/album/2C3rUs6GnKWT0c101eBiQb) | 2:35 |
-| 25 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
-| 26 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
+| 25 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
+| 26 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 27 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
 | 28 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
 | 29 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 61 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 | 62 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 |
 | 63 | [Sweet Life](https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Sweet Life](https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr) | 2:56 |
-| 64 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [KAPPEKOFF](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
+| 64 | [Time](https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Time](https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik) | 3:04 |
 | 65 | [Fall into place](https://open.spotify.com/track/0f6kT8WozcmtkenxnhDbp6) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Fall into place](https://open.spotify.com/album/6H9LrowBd43bph6WF3NKxo) | 2:48 |
-| 66 | [Time](https://open.spotify.com/track/5ZZwWo5tBpa1IxEuASX5CL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Time](https://open.spotify.com/album/4AQ8M9UhgOSRTT0OjEU3Ik) | 3:04 |
+| 66 | [New Spring](https://open.spotify.com/track/0Hev2nyvmSPm525kn7ZHvH) | [KAPPEKOFF](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [New Spring](https://open.spotify.com/album/2sWggCkVfjfWjzGdNpyqGt) | 3:17 |
 | 67 | [So Bad \(feat\. HAIM\)](https://open.spotify.com/track/2qre5YuCk0fuKw0Z60E28W) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hyperion](https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ) | 3:36 |
 | 68 | [Undo \(Back To My Heart\)](https://open.spotify.com/track/1rC73SzixUBSQL9Ldf5ZOr) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 3:17 |
 | 69 | [Coco Blood](https://open.spotify.com/track/2SVWyRjpZ44odKjj9vDqMA) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Coco Blood](https://open.spotify.com/album/37NrHu4bUirT1OYZfd2K2k) | 3:35 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 90 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 |
 | 91 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 92 | [Swim Home \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Swim Home \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO) | 3:06 |
-| 93 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 |
-| 94 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
+| 93 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
+| 94 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 |
 
-Snapshot ID: `MCxkMmM4ODc3Njc3NzYyMDM1NDEwZWIyY2IxMGRjZjEzNTliMTYwYTA1`
+Snapshot ID: `MCw4ZGFiYmMwZWViMjkwNDcwN2JhNGZhZmU5ZmNjY2ZmY2Y1NWQ3ZTA2`

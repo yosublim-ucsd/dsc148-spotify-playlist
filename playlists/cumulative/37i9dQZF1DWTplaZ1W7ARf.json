@@ -198,10 +198,32 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 150000,
       "name": "Beat the Odds",
       "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "Beat the Odds Pt 2 (feat. Polo G)",
+      "url": "https://open.spotify.com/track/1vHzUmqpA2tgO1OGtBuItX"
     },
     {
       "album": {
@@ -336,7 +358,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 145862,
       "name": "Blues (feat. Future)",
       "url": "https://open.spotify.com/track/28gBJ6GG1orRuc4Ck3y45n"
@@ -550,6 +572,28 @@
       "duration_ms": 169723,
       "name": "Chief",
       "url": "https://open.spotify.com/track/7MN2fQ1oMGvhKf0NQolm9R"
+    },
+    {
+      "album": {
+        "name": "child of GOD",
+        "url": "https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Remble",
+          "url": "https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174248,
+      "name": "child of GOD",
+      "url": "https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt"
     },
     {
       "album": {
@@ -840,7 +884,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 157059,
       "name": "Eastside (with Lil Tjay) - Remix",
       "url": "https://open.spotify.com/track/7zOoDCREaLK0mFa478jmlH"
@@ -1302,10 +1346,32 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 176185,
       "name": "Grammy (with Lil Poppa)",
       "url": "https://open.spotify.com/track/4fzxnGw9J2e8Am2uWA5P2U"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168396,
+      "name": "Grateful (feat. Coco Jones)",
+      "url": "https://open.spotify.com/track/6AqZbaM3bQNYvX9OTjzakL"
     },
     {
       "album": {
@@ -1454,7 +1520,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 139265,
       "name": "Hell",
       "url": "https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG"
@@ -1516,6 +1582,24 @@
       "duration_ms": 141166,
       "name": "Home Ain't Home (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
+    },
+    {
+      "album": {
+        "name": "Hopeless Island",
+        "url": "https://open.spotify.com/album/4EFEB8u3JIaK4wy4NEHcdR"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149448,
+      "name": "Hopeless Island",
+      "url": "https://open.spotify.com/track/6c0KBEx6B7qQDx53Y0FlQx"
     },
     {
       "album": {
@@ -2280,6 +2364,24 @@
       "duration_ms": 168431,
       "name": "No Favors (feat. T9ine)",
       "url": "https://open.spotify.com/track/3dK8Q0Fl1ETHRueC2FMl9H"
+    },
+    {
+      "album": {
+        "name": "No Gun No Knife",
+        "url": "https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212088,
+      "name": "No Gun No Knife",
+      "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
     },
     {
       "album": {

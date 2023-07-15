@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Songs You Maybe Didn't Know I Wrote And Some You Maybe Did (Live At Sound Emporium)",
+        "url": "https://open.spotify.com/album/0mKL2b3HiljzTByxwUeoQu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Worship Together",
+          "url": "https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400501,
+      "name": "Agenda - Live At Sound Emporium",
+      "url": "https://open.spotify.com/track/5XGd2fK0Zu9awD1ElMQUoz"
+    },
+    {
+      "album": {
         "name": "Ain't Nobody",
         "url": "https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2"
       },
@@ -230,6 +252,40 @@
       "duration_ms": 308451,
       "name": "All That Remains",
       "url": "https://open.spotify.com/track/4qMalQqJpfFQOd9aEYYAea"
+    },
+    {
+      "album": {
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Melody Noel",
+          "url": "https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        },
+        {
+          "name": "Larry James Walker II",
+          "url": "https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN"
+        },
+        {
+          "name": "Whitney Medina",
+          "url": "https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267534,
+      "name": "All Yours - Live At The Grove",
+      "url": "https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq"
     },
     {
       "album": {
@@ -1577,6 +1633,24 @@
     },
     {
       "album": {
+        "name": "GLORY (Live)",
+        "url": "https://open.spotify.com/album/5GTXYrwdg699BF7rIPczkQ"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383000,
+      "name": "GLORY - Live",
+      "url": "https://open.spotify.com/track/33oZ6GmYJmDYcis4vJvwFE"
+    },
+    {
+      "album": {
         "name": "ages (Deluxe / Live)",
         "url": "https://open.spotify.com/album/0fqGvPL2KwVyif5k81ZjJo"
       },
@@ -2128,6 +2202,28 @@
       "duration_ms": 317569,
       "name": "Healer",
       "url": "https://open.spotify.com/track/3U22Erp29T2a36lYMNjDrx"
+    },
+    {
+      "album": {
+        "name": "Ultimate Worship: Hillsong (Live)",
+        "url": "https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Reuben Morgan",
+          "url": "https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220826,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu"
     },
     {
       "album": {
@@ -4321,6 +4417,28 @@
     },
     {
       "album": {
+        "name": "Praise The Lord (Live)",
+        "url": "https://open.spotify.com/album/1ZFTdand5Rxb5mkQUytVlo"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Matthew Harris",
+          "url": "https://open.spotify.com/artist/2NmSM4x3fsXni14MZJNueQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231508,
+      "name": "Praise The Lord - Live",
+      "url": "https://open.spotify.com/track/5Hxcds4VSqx8sWJK0ZoRaj"
+    },
+    {
+      "album": {
         "name": "Barbarians (Live)",
         "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
       },
@@ -4790,7 +4908,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-05",
+      "date_removed": null,
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
@@ -5510,6 +5628,10 @@
         {
           "name": "Elyssa Smith",
           "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        },
+        {
+          "name": "Nick Gaggero",
+          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
         }
       ],
       "date_added": "2023-06-30",

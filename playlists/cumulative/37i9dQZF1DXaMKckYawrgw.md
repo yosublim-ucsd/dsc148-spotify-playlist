@@ -4,7 +4,7 @@
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Inspector en portada.
 
-174 songs - 10 hr 31 min
+175 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [La Herida](https://open.spotify.com/track/2b8OrrQmDScF3TtbDvwWfy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Camino Clandestino](https://open.spotify.com/album/5zueG558h4DXnC7KORcaLm) | 3:59 | 2022-03-18 | 2022-07-29 |
 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 | 2022-03-18 | 2023-02-04 |
 | [La Mentira](https://open.spotify.com/track/2zbuaopaNyAC3C4940YNCL) | [Moon Stomper](https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE) | [Rude Boy Nights](https://open.spotify.com/album/5QkJ7K1MeJuq0oSD8YJfbw) | 3:26 | 2022-03-18 |  |
-| [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 | 2022-03-18 |  |
+| [La Rubia y el Demonio](https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 4:06 | 2022-03-18 | 2023-07-15 |
 | [La Trucha Capirucha](https://open.spotify.com/track/21JGSiGVqtQHQskfnGcKST) | [K\-ras Citadinas](https://open.spotify.com/artist/6zOR9Ay6qFpaHcOBsbvZ9B) | [El Bailongo](https://open.spotify.com/album/3Y9lwe5TOmKS62CNC2dk1l) | 3:10 | 2023-02-03 |  |
 | [La Ultima Noche](https://open.spotify.com/track/4RG7LZHHzZZQw73EPGoS9n) | [Pachecos Orchestra](https://open.spotify.com/artist/4hPssieu35ERaNP3dcKuoR) | [La Ultima Noche](https://open.spotify.com/album/25dU9mgaLoyFQBC3crluDT) | 4:08 | 2022-03-18 |  |
 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 | 2022-03-18 |  |
@@ -96,6 +96,7 @@
 | [Lejos Otra Vez](https://open.spotify.com/track/3xmXfTd5RrqlIOWPnfDRoG) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [La Kruda Realidad](https://open.spotify.com/album/2zikmV9U4hrslEzwSprmda) | 3:18 | 2023-02-03 |  |
 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 | 2022-03-18 | 2023-02-04 |
 | [Luna](https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 3:56 | 2022-03-18 |  |
+| [Mala](https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6) | [El Guato](https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ) | [Mala](https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT) | 3:28 | 2023-07-14 |  |
 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 | 2022-03-18 |  |
 | [Manifiesto del Pinguino Asesino](https://open.spotify.com/track/7FwHzFdpM0eMMtK1cVlAvx) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:10 | 2023-02-03 |  |
 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 | 2023-02-03 |  |
@@ -165,7 +166,7 @@
 | [Tanto amor me marea](https://open.spotify.com/track/4jGSfblxObklndcGJprEoa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:59 | 2022-03-18 | 2023-02-04 |
 | [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 | 2022-03-18 |  |
 | [Tema de la Parranda Magna](https://open.spotify.com/track/5er1BnXaAYIQsbtS9vruUZ) | [La Parranda Magna](https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH) | [Nunca Nos Compusimos](https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up) | 4:00 | 2023-02-03 |  |
-| [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Panico Latino](https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 | 2023-02-03 |  |
+| [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Pánico Latino](https://open.spotify.com/artist/4vU814JP2hKv5D3kJD6ozf) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 | 2023-02-03 |  |
 | [Todo Algún Día Termina](https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Todo Algún Día Termina](https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK) | 4:08 | 2022-09-29 | 2023-02-04 |
 | [Toloache Pa Mi Negra](https://open.spotify.com/track/1WMD4z3lsY6RDRDpXR9A47) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 3:33 | 2022-03-18 | 2023-02-04 |
 | [Toloache Pa' Mi Negra](https://open.spotify.com/track/1lXaFoSpPIaqXVRSRc6OOk) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/6kuC8istEXp5B3n9cmiAlP) | 3:33 | 2022-03-18 | 2022-07-29 |

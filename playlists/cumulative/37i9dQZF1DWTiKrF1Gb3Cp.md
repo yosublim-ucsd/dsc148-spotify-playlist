@@ -4,7 +4,7 @@
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-114 songs - 6 hr 59 min
+115 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Chingo de Cheve](https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:29 | 2023-02-23 |  |
 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 | 2023-02-23 |  |
 | [Corren Con Suerte](https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Cementerio De Raperos](https://open.spotify.com/album/1YsMsdZg7RB9eYHhW8fi3h) | 3:58 | 2023-02-23 |  |
+| [Cuerno Mio](https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Cuerno Mio](https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY) | 2:47 | 2023-07-14 |  |
 | [Culón Culito](https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Viejo Marihuano](https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O) | 3:43 | 2023-02-23 |  |
 | [Cypher](https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Toser One](https://open.spotify.com/artist/7rpKb1IlFFPINHXghluWTr) | [Cypher](https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f) | 8:02 | 2023-02-23 |  |
 | [De Aquí los Veo](https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Babo](https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:23 | 2023-02-23 |  |
@@ -52,7 +53,7 @@
 | [Estilo Malandro](https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:32 | 2023-02-23 |  |
 | [Fantasía Espacial](https://open.spotify.com/track/7sw0eBhRmEDTvU22MYEjoG) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Fantasía Espacial](https://open.spotify.com/album/1LABMIShNILlvmaGh8SwJh) | 3:15 | 2023-02-23 |  |
 | [FCK Love](https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB) | [Fenix The Producer](https://open.spotify.com/artist/7EutZWNXh33tAPObZ45ba6), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [FCK Love](https://open.spotify.com/album/2H1rKPlSCrQREG1o52hvAj) | 4:21 | 2023-05-05 | 2023-07-11 |
-| [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 | 2023-02-23 |  |
+| [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 | 2023-02-23 | 2023-07-15 |
 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 | 2023-05-12 |  |
 | [Gran Vida](https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:27 | 2023-02-23 |  |
 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 | 2023-02-23 |  |

@@ -573,6 +573,32 @@
     },
     {
       "album": {
+        "name": "Basslines n Melodies",
+        "url": "https://open.spotify.com/album/3PgXwULhSpQn28b7TA8O7l"
+      },
+      "artists": [
+        {
+          "name": "Reggie Parker",
+          "url": "https://open.spotify.com/artist/2pW4wDWqI1vYPS7fXXOlO5"
+        },
+        {
+          "name": "Gil Defay",
+          "url": "https://open.spotify.com/artist/28UKiapbpZNh0wXOcphxRV"
+        },
+        {
+          "name": "Joe Scott",
+          "url": "https://open.spotify.com/artist/203ErdwaUAQ8Sn5LZKUf0E"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205824,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/6J8Qlrkiv9lPl8sEFZlAeM"
+    },
+    {
+      "album": {
         "name": "Dr Hypenstein",
         "url": "https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P"
       },

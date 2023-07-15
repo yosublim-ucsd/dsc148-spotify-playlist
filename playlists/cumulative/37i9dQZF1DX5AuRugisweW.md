@@ -4,7 +4,7 @@
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-77 songs - 4 hr 23 min
+78 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Evil Hearted Woman \- Alternate Take](https://open.spotify.com/track/72gZGrgN3z5UsRoERYwTtc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings: 1950\-1954](https://open.spotify.com/album/2aFmMoshdIDguX9ds0mMe2) | 2:36 | 2020-11-13 | 2022-07-29 |
 | [Evil Is Going On](https://open.spotify.com/track/7KEpEndrZXOrFfGdCbuTCL) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Sooner Or Later](https://open.spotify.com/album/08TwuxUunnylXmpariFQPl) | 3:40 | 2020-11-13 |  |
 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 | 2020-11-13 |  |
+| [For a Long While](https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [For a Long While](https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD) | 3:19 | 2023-07-14 |  |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/6cV9bj0q6DmMD7h5Bdk6Ot) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Essential Gold \[Digitally Remastered\]](https://open.spotify.com/album/1h6mrXOY7NeAYs45cSbYEZ) | 1:49 | 2020-11-13 | 2022-07-29 |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/5kdkqDsU1U2iRsqDt55y5e) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:51 | 2020-11-13 |  |
 | [God's Gonna Cut You Down](https://open.spotify.com/track/0bGCYXc9sN1REMZGItqShk) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [The Best Of Odetta \- Ballads & Blues](https://open.spotify.com/album/6swhyF56FsqcTOFffZeiJW) | 1:51 | 2020-11-13 | 2022-11-13 |

@@ -4,7 +4,7 @@
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-114 songs - 8 hr 25 min
+115 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [テレフォン・ナンバー](https://open.spotify.com/track/0ks0jOCQblDOfJnB9gPmN2) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [City Pop Essentials Vol\. 1](https://open.spotify.com/album/4jJFvy7vL4YtVs3RFb7c2N) | 3:59 | 2022-06-28 | 2022-09-11 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/1suFMNWk7lPoJ6Bz2NqFO1) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [Tea For Tears](https://open.spotify.com/album/4ZU8Zd85xbSpve4xsqynqA) | 3:59 | 2022-05-24 | 2022-07-29 |
 | [テレフォン・ナンバー](https://open.spotify.com/track/3kkhLmINLkhrhJMU8zVb2c) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [シティーポップ](https://open.spotify.com/album/1V8DQ5bDaNyFZaRyRkfvsg) | 3:59 | 2023-03-21 | 2023-07-14 |
-| [テレフォン・ナンバー](https://open.spotify.com/track/5SxrdeIHki6FmlsKj2m8mY) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 3:59 | 2022-06-28 |  |
+| [テレフォン・ナンバー](https://open.spotify.com/track/4o5pAjHBuKose80OQRgXAg) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [City Pop Essetials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 3:59 | 2023-03-21 |  |
+| [テレフォン・ナンバー](https://open.spotify.com/track/5SxrdeIHki6FmlsKj2m8mY) | [Junko Ohashi](https://open.spotify.com/artist/7rGbODPTIVjzn3CTR6RCzE) | [TOKYO \- CITY POP \-](https://open.spotify.com/album/4xP3ejIHNS3OPGHfSIrevD) | 3:59 | 2022-06-28 | 2023-07-15 |
 | [フロントガラス越しに](https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh) | [Kaoru Sudo](https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3) | [PLANETARIUM](https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh) | 4:49 | 2022-05-24 | 2022-07-29 |
 | [プラスティック・ラブ \- 12" Original Length ReMix](https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [VARIETY \(30th Anniversary Edition\)](https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH) | 4:55 | 2022-05-24 |  |
 | [一本の音楽 \- 2020 Remaster](https://open.spotify.com/track/5iFkWXTQadweNDIl6U3xMT) | [Kazuhito Murata](https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd) | [一本の音楽 〜MOON YEARS〜](https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl) | 4:03 | 2022-05-24 | 2022-07-28 |

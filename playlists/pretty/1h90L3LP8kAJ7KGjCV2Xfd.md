@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > happy \| vibes \| feel good \| music \| mood boost \| July 4th \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 307,305 likes - 184 songs - 10 hr 30 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 307,299 likes - 185 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,5 +192,6 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 | 182 | [Cheese](https://open.spotify.com/track/5GCSN4N9KzycSf5FD0wtWF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:12 |
 | 183 | [Down Here Waiting](https://open.spotify.com/track/5yqS1eBrDMx7bbcGilON0N) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Down Here Waiting](https://open.spotify.com/album/7JqkfkMLQj4HWrrqhh2CUz) | 3:35 |
 | 184 | [Heaven](https://open.spotify.com/track/0CcYIv8yC8odKLGWnSyYfA) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Heaven](https://open.spotify.com/album/3BOhjypjGHVWP1SuE0o8el) | 4:58 |
+| 185 | [Dead To Me](https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Dead To Me](https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO) | 2:32 |
 
-Snapshot ID: `MzUxNSxiYjIwM2Q1YTE0YzZmMmMwODgzZGZhMmU1NGU0Y2E2ODU5Y2NlYmFk`
+Snapshot ID: `MzUxNixhZTcxMDhiYjczYzNmZGVjN2E0YWQ4Zjk4NWFmMjIwMmMxMzIzYTRm`

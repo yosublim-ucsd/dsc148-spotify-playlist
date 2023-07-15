@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Sumbuck
 
-510 songs - 1 day 7 hr 53 min
+511 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Distant Axis](https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Distant Axis](https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q) | 4:25 | 2021-10-22 | 2022-07-27 |
 | [Divine](https://open.spotify.com/track/0B0DQCbipxDUXqN6iLi1KY) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/6c8tHj60qPvbXZnczssdQC) | 2:58 | 2022-04-13 | 2022-04-17 |
 | [Dog Has Its Day](https://open.spotify.com/track/0EXdNsNOxZH1TLzBYUgY55) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Dog Has Its Day](https://open.spotify.com/album/3LWTWoR1YaLeyN42RvEsd3) | 3:10 | 2021-10-22 | 2022-07-29 |
-| [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2022-06-24 |  |
+| [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2022-06-24 | 2023-07-15 |
 | [Don't Go Far](https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:39 | 2022-06-24 |  |
 | [Don't Go Far](https://open.spotify.com/track/3pzc4ipTvnIX9t8zSydnGe) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Don't Go Far](https://open.spotify.com/album/6NrHf91NP4zDICGyGzaiYd) | 3:39 | 2022-04-13 | 2022-04-22 |
 | [Don’t Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/track/21dLiJG5xpbs4CBkV9RZiI) | [Ashley Shadow](https://open.spotify.com/artist/5RdjQlRaM2PIjLE2tfgHxY), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Don't Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/album/7HVul4K3F0FWQbM6VIvRau) | 4:29 | 2021-10-22 | 2022-07-25 |
@@ -200,6 +200,7 @@
 | [Grow into Love](https://open.spotify.com/track/52AthVA2opex8NcLSwtO8n) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq) | 2:42 | 2022-08-12 |  |
 | [Grow into Love](https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Seasons of Change](https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p) | 2:42 | 2022-06-24 | 2022-09-15 |
 | [Guess Again](https://open.spotify.com/track/4Y2365W43JtMuU2os31LUs) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Guess Again](https://open.spotify.com/album/637CT2H6ESwzGM6KRVy5IZ) | 3:17 | 2021-10-22 | 2023-05-09 |
+| [Guess Again](https://open.spotify.com/track/6zz69yZsmztL9Zkp5U74Ju) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Love Is The King](https://open.spotify.com/album/4luinFPZgIsSXjsKqb42LI) | 3:17 | 2023-07-14 |  |
 | [Guthrie](https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Guthrie](https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy) | 4:53 | 2022-07-29 | 2022-12-22 |
 | [Habit](https://open.spotify.com/track/7gssKF1R5EclIP8Izaxcle) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu) | [Habit](https://open.spotify.com/album/55M9iNIkBo7cCYe17KcPD7) | 3:31 | 2023-03-17 |  |
 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2023-06-09 |  |

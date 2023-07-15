@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Lil TJay
 
-226 songs - 11 hr 41 min
+227 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-16 | 2023-04-21 |
 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 | 2023-04-20 | 2023-06-09 |
 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-07-13 |  |
+| [From The Hood](https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 3:24 | 2023-07-13 |  |
 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 | 2023-03-16 | 2023-04-21 |
 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/4wYVuGsXa4iPY8BYthBGWc) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/7HsrIHdui5hpCXIYQySKi6) | 2:55 | 2023-03-16 | 2023-05-19 |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-03-16 | 2023-04-21 |

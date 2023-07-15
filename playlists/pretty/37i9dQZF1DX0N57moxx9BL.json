@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 127655,
+  "num_followers": 127722,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTZiYmMxYzE2M2U4NmZjYjMxMTkxYjM0ZmM2NWRjZDBkMWI5NTQw",
+  "snapshot_id": "MCw3NWQzMTg1MmIwZTBmYWQ3MGFhNWI0M2Y2MmY2ZTAwYmUxNTgzYTQ3",
   "tracks": [
     {
       "added_at": "2023-07-07 13:00:38",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Farewell to Midnight",
         "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 214315,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2023-07-07 13:00:38",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-07 13:00:38",
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
-      },
-      "artists": [
-        {
-          "name": "All For The King",
-          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
-        }
-      ],
-      "duration_ms": 258706,
-      "name": "The Shelter",
-      "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
-    },
-    {
-      "added_at": "2023-07-07 13:00:38",
-      "album": {
         "name": "Dark Cold Night",
         "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 281117,
       "name": "Dark Cold Night",
       "url": "https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0"
+    },
+    {
+      "added_at": "2023-07-07 13:00:38",
+      "album": {
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
+      },
+      "artists": [
+        {
+          "name": "All For The King",
+          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
+        }
+      ],
+      "duration_ms": 258706,
+      "name": "The Shelter",
+      "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
     },
     {
       "added_at": "2023-07-07 13:00:38",

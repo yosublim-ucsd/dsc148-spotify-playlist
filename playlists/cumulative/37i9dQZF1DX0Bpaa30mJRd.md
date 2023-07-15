@@ -4,7 +4,7 @@
 
 > “記念日”に合わせて<a href="https://filmaga.filmarks.com/articles/243160/">全国上映</a>！夏に観たいアニメーション映画『時をかける少女』『サマーウォーズ』全国の映画館で2週間限定上映。
 
-143 songs - 7 hr 28 min
+144 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [仮想都市OZ](https://open.spotify.com/track/3LToQzRfeZ9eB2zjUEMMFP) | [Akihiko Matsumoto](https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM) | [サマーウォーズ オリジナル・サウンドトラック](https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa) | 2:53 | 2022-06-07 |  |
 | [充たされた子ども](https://open.spotify.com/track/41yaCKB1njq7cbuo4fNg60) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [バケモノの子 オリジナル・サウンドトラック](https://open.spotify.com/album/22bf6oNIJqyM0FbfDLPN9q) | 3:07 | 2022-06-07 | 2022-07-29 |
 | [変わらないもの](https://open.spotify.com/track/6YLOHQNtv89VSK9hprZ8dz) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [ガーネット](https://open.spotify.com/album/14rIFa6gMqFVEF7vw0OhWT) | 4:45 | 2022-06-07 | 2022-07-29 |
+| [変わらないもの \- 「時をかける少女」より](https://open.spotify.com/track/6iPkaq0b2Tr7zJDbtL7iaH) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [変わらないもの \(「時をかける少女」より\)](https://open.spotify.com/album/4iTNKoTCtyEctBDruQ2bgF) | 4:55 | 2023-07-14 |  |
 | [変わらないもの \- ストリングス・バージョン](https://open.spotify.com/track/4uctnHHq1ve63ZNRgCSzlc) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 4:47 | 2022-06-07 |  |
 | [夏空 \- ロング・バージョン](https://open.spotify.com/track/1xkCOzaNmdhkcKrqNgAfkr) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 5:17 | 2022-06-07 |  |
 | [夏空\~エンディング・テーマ\~](https://open.spotify.com/track/50kc2WQjhsItSRs822Hrds) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:37 | 2022-06-07 |  |

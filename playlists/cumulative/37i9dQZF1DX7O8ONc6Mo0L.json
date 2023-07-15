@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Relaxe com hinos ac\u00fasticos. Foto: Igor Roque",
+  "description": "Relaxe com hinos ac\u00fasticos. Foto: Israel Salazar",
   "name": "Gospel Ac\u00fastico",
   "tracks": [
     {
@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
+      },
+      "artists": [
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        },
+        {
+          "name": "Tavinho",
+          "url": "https://open.spotify.com/artist/036P0vXkdyvd37jZ7FbpZW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Ele \u00c9 Exaltado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7dZ19T2Sn5ZRUKeIqRakF1"
+    },
+    {
+      "album": {
         "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
       },
@@ -924,6 +946,24 @@
       "duration_ms": 208810,
       "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7BlLmanL024pf0doBknUi4"
+    },
+    {
+      "album": {
+        "name": "2 OU + (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/64u8UuetKumdaxAHxgJYc7"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244347,
+      "name": "Eu Quero Mais - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5wvUzC9YACj9eZm89nktkO"
     },
     {
       "album": {
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220518,
       "name": "Preciso de Ti",
       "url": "https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm"
@@ -2006,7 +2046,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 195140,
       "name": "Resposta a quem corresponda",
       "url": "https://open.spotify.com/track/5oW7L4aGkJnp4dFCgkmlo2"

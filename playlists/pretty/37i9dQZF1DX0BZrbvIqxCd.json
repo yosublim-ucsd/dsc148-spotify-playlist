@@ -1,12 +1,12 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 533313,
+  "num_followers": 533345,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjE5MmQ5YmE3NzA0YjMwNGNhZjM1MzYxNjJmMTI3ODNmNGM4ZjRk",
+  "snapshot_id": "MCw1MDNjZTIwYzdlYjVhYWYzYjdhZjBkMzQ4MDNmZjRjNDEyZTMzNTg5",
   "tracks": [
     {
       "added_at": "2020-11-20 21:27:18",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "American Idiot (Deluxe)",
-        "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Lights And Sounds",
         "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "American Idiot (Deluxe)",
+        "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
     },
     {
-      "added_at": "2021-07-08 22:59:55",
-      "album": {
-        "name": "Joy as an Act of Resistance.",
-        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 228831,
-      "name": "Never Fight A Man With A Perm",
-      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
-    },
-    {
       "added_at": "2020-11-20 21:27:18",
       "album": {
         "name": "Rented World",
@@ -1023,6 +1007,22 @@
       "duration_ms": 184840,
       "name": "I Don't Wanna Be An Asshole Anymore",
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
+    },
+    {
+      "added_at": "2021-07-08 22:59:55",
+      "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/7BbRSUBwTB37ut0Ht3yAqt"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/7BmWDAlFk1DCL60I435oaE"
     },
     {
       "added_at": "2020-11-20 21:27:18",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2020-11-20 21:27:18",
       "album": {
-        "name": "Sundressed & Nominee",
-        "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
-      },
-      "artists": [
-        {
-          "name": "Sundressed",
-          "url": "https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH"
-        }
-      ],
-      "duration_ms": 187795,
-      "name": "So Poetic",
-      "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
-    },
-    {
-      "added_at": "2020-11-20 21:27:18",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 221241,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ"
+    },
+    {
+      "added_at": "2020-11-20 21:27:18",
+      "album": {
+        "name": "Sundressed & Nominee",
+        "url": "https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE"
+      },
+      "artists": [
+        {
+          "name": "Sundressed",
+          "url": "https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "So Poetic",
+      "url": "https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE"
     },
     {
       "added_at": "2020-11-20 21:27:18",

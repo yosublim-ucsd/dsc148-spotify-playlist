@@ -4,7 +4,7 @@
 
 > Stay up to date with the freshest Arabic Pop Songs\. Cover: <a href="https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc?si=Z60fJzqIQUagMSa0N4xfNA">Ramy Sabry </a>
 
-203 songs - 12 hr 25 min
+207 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,9 @@
 | [Forsa Tanya \- Music from the Original TV Series](https://open.spotify.com/track/3PvwLFsBlIwyKGXgHvHqmH) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Forsa Tanya \(Music from the Original TV Series\)](https://open.spotify.com/album/5DI1F2g6R8qumJSSpYLXxC) | 4:06 | 2022-05-04 | 2022-07-12 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2022-05-04 | 2023-05-18 |
 | [Gayya Maak](https://open.spotify.com/track/2PptOf9L9zif2hT0nRq8OJ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Gayya Maak](https://open.spotify.com/album/4KP5a8SWt40I4JuOxWPKsx) | 3:13 | 2022-05-04 | 2022-10-25 |
+| [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 | 2023-07-14 |  |
 | [Habaytak Bel Thalata](https://open.spotify.com/track/4BRl1dAguWtRwCF8BXiztL) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Habaytak Bel Thalata](https://open.spotify.com/album/3nUZWXDVZ9kXlK3FUfU5k5) | 3:36 | 2022-05-04 | 2022-07-15 |
+| [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 | 2023-07-14 |  |
 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 | 2023-06-23 |  |
 | [Habibi W Bass](https://open.spotify.com/track/3MlkSBkCiEQ9TpRFnxywba) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Bel Ahlam](https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk) | 4:08 | 2023-07-11 |  |
 | [Habiby Ya Omry](https://open.spotify.com/track/2cAkNObsWtAjiEs8HlNIqH) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Allem Alby](https://open.spotify.com/album/5KKjAxjoLCUnKfcGfoncKb) | 5:02 | 2023-05-17 | 2023-06-28 |
@@ -125,6 +127,7 @@
 | [Mesh Mertaheen \- From Talaktok Nafsy TV Series](https://open.spotify.com/track/2aLIVKTchwoHq4F0FYPOFQ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Mesh Mertaheen \(From Talaktok Nafsy TV Series\)](https://open.spotify.com/album/0DFoVvEgCNUcMeL3wPybZ3) | 3:13 | 2022-05-04 | 2022-07-15 |
 | [Meshkeltak Alwahidi](https://open.spotify.com/track/061AcUASLoR0lEU3xksHHC) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Meshkeltak Alwahidi](https://open.spotify.com/album/5gLEBMsAR43OJSqiG6j2Uc) | 3:22 | 2022-05-04 | 2023-01-11 |
 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 | 2023-07-11 |  |
+| [Miganinani](https://open.spotify.com/track/0cOmhBrTHMuiwvCNtx20Wd) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Miganinani](https://open.spotify.com/album/5QlJn2n6yvZGYT9uS3FYP1) | 2:47 | 2023-07-14 |  |
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-04 | 2023-02-27 |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-11 |  |
 | [Nar](https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:23 | 2023-05-17 | 2023-06-24 |
@@ -157,6 +160,7 @@
 | [Tole' El Nahar](https://open.spotify.com/track/2EstObS1EdvkKEF6Z9O1He) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Tole' El Nahar](https://open.spotify.com/album/4hHQf6eAsefx9tRCOpsvEc) | 4:04 | 2022-10-24 | 2023-05-31 |
 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 | 2023-06-23 |  |
 | [Wala Bghiti](https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8), [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Wala Bghiti](https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC) | 3:54 | 2023-05-30 |  |
+| [Welaane](https://open.spotify.com/track/3yI0oj88v89SblbqDJyCvK) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Welaane](https://open.spotify.com/album/6QA0ySWUCTZCgdovGFfBUP) | 3:52 | 2023-07-14 |  |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/3mxLJoqjVyRSUnAqv6cG65) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 3:46 | 2023-02-15 | 2023-05-18 |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 | 2023-02-16 |
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2022-05-04 | 2022-07-15 |

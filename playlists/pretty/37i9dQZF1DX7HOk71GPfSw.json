@@ -1,13 +1,65 @@
 {
   "description": "music to play for your parents. Cover: 8485",
-  "num_followers": 408522,
+  "num_followers": 408710,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWQ1YWU4ODRkZmU1NGM4YzM2YjZmMzU3Y2QyZTQ0MTAwYWI0ZDQ3",
+  "snapshot_id": "MCxkZTUwMzk2MDE3YzE3NWFjYTg3Y2EyN2FiODc0NjVhM2EzNjMwOThm",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Locals (Girls like us) [with gabby start]",
+        "url": "https://open.spotify.com/album/6iCbxmNk6vmXTGLYInRVJX"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        }
+      ],
+      "duration_ms": 258084,
+      "name": "Locals (Girls like us) [with gabby start]",
+      "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/6fswdiE5noqpRbyZCj3fnm"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Affirmations",
+      "url": "https://open.spotify.com/track/5BgsNewvpXArLhK1sxZyPB"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/7se0mKGwcGpGZfWTyNCzpO"
+      },
+      "artists": [
+        {
+          "name": "Astra King",
+          "url": "https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn"
+        }
+      ],
+      "duration_ms": 192301,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/3sXq44iRMLAN93fgEZV3qv"
+    },
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
@@ -23,6 +75,78 @@
       "duration_ms": 123196,
       "name": "COOL_DNB_SONG",
       "url": "https://open.spotify.com/track/6qplf0LC8lwZdWL7Ij0hlu"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "ravepack",
+        "url": "https://open.spotify.com/album/4iwZiSOwmoDqBZlN4e3NBd"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "one heart baby",
+      "url": "https://open.spotify.com/track/1zE0h13gK1JpzyoH1VLkkr"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "I like u (Dorian Electra Remix)",
+        "url": "https://open.spotify.com/album/6VgUL8abMlwrLw53rSTc9F"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 162884,
+      "name": "I like u (Dorian Electra Remix)",
+      "url": "https://open.spotify.com/track/3grnEHsnOeBM1ZrSIbQh8Z"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/1IQMHuafXIN8EDzzNwjUqs"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 163576,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/6v2BD01NC2PO4QB4STp8BH"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0DlzMjyWYHt4SouhHEp8JT"
+      },
+      "artists": [
+        {
+          "name": "Ferdous",
+          "url": "https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM"
+        }
+      ],
+      "duration_ms": 124556,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/1T1xSmgwLuDg9ySwAUiCQ8"
     },
     {
       "added_at": "2023-06-30 07:33:00",
@@ -43,6 +167,22 @@
       "duration_ms": 209156,
       "name": "Up \u2229^\u03c9^\u2229",
       "url": "https://open.spotify.com/track/0tKTLYPrzgAyTLtSI7rIt9"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "breathe ~_~",
+        "url": "https://open.spotify.com/album/6gUZt2h1YtyPms3Miyv2Ji"
+      },
+      "artists": [
+        {
+          "name": "Deko",
+          "url": "https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn"
+        }
+      ],
+      "duration_ms": 203922,
+      "name": "breathe ~_~",
+      "url": "https://open.spotify.com/track/3fjr07n0jCIeWmD8qvB03e"
     },
     {
       "added_at": "2023-07-11 16:29:36",
@@ -97,10 +237,10 @@
       "url": "https://open.spotify.com/track/37vlhyd8B4lr2H4Icb4dF8"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "ULTRABLAST",
-        "url": "https://open.spotify.com/album/14LqGwkUPdW0TII5sdlNYJ"
+        "name": "ESCAPE ARTIST",
+        "url": "https://open.spotify.com/album/5Emq0yscu3tKMzuZfFJVAp"
       },
       "artists": [
         {
@@ -110,7 +250,7 @@
       ],
       "duration_ms": 171428,
       "name": "ULTRABLAST",
-      "url": "https://open.spotify.com/track/2t5A1wjtpNfFa1yqTYrG4P"
+      "url": "https://open.spotify.com/track/3PbBiHDs4frvs4IhG5PKUD"
     },
     {
       "added_at": "2023-06-30 07:33:00",

@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 472051,
+  "num_followers": 472203,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjJhNzdjOTI1YWQ2ZGVlNzNhODFjYmQ1OWNjNzE2YmY3NGE3YzIz",
+  "snapshot_id": "MCw0MmU4ZThjYWZjZjMyNjdmMjg4MTkyN2JhZDI1YzYxMzc4NzI1OTcw",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 279293,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Return To Cookie Mountain",
-        "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 279293,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Double Life",
-        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 143712,
-      "name": "Double Life",
-      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "-!- (Deluxe)",
         "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224306,
       "name": ".CoDA.",
       "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Double Life",
+        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 143712,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 209029,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/2wBEMqe81CXIX88kph8GBO"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Will the Guns Come Out",
-        "url": "https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS"
-      },
-      "artists": [
-        {
-          "name": "Hanni El Khatib",
-          "url": "https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi"
-        }
-      ],
-      "duration_ms": 141093,
-      "name": "You Rascal You",
-      "url": "https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 250274,
       "name": "Degradation Rules (feat. Tony Iommi)",
       "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Will the Guns Come Out",
+        "url": "https://open.spotify.com/album/43wnYuDO5oQxKYDYCwySgS"
+      },
+      "artists": [
+        {
+          "name": "Hanni El Khatib",
+          "url": "https://open.spotify.com/artist/1HCdPZB0ypEcpDo4T55sMi"
+        }
+      ],
+      "duration_ms": 141093,
+      "name": "You Rascal You",
+      "url": "https://open.spotify.com/track/0BnzymJQLY5a3YHODuaYbO"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "The Woods",
         "url": "https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 173048,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Heartache Melody",
         "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 202813,
       "name": "Love Is All You Love",
       "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-07-07 04:01:00",

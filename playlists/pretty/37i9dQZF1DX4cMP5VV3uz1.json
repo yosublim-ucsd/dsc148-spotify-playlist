@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 129140,
+  "num_followers": 129223,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjdlOWM4Zjk4OGNiYzEyZDk2OWQ3ZmM4YzliNTNjNTNhOTg5MTNm",
+  "snapshot_id": "MCw2OGM5YTUxNjAxY2ZmMzNiY2Q2ZTY3NzcyYWJlYjMyMTU5OGNiOWZi",
   "tracks": [
     {
       "added_at": "2023-05-19 14:45:56",
@@ -547,42 +547,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Tour",
-        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
         "url": "https://open.spotify.com/album/6l9QJGEoMRYD86XIXHCJvp"
       },
@@ -607,6 +571,42 @@
       "duration_ms": 213793,
       "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
       "url": "https://open.spotify.com/track/05zD7iVuzpzDWsYvxxcvgd"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Tour",
+        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Party All the Time (feat. Kay)",
+        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 266929,
+      "name": "Party All the Time (feat. Kay)",
+      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Party All the Time (feat. Kay)",
-        "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 266929,
-      "name": "Party All the Time (feat. Kay)",
-      "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
     },
     {
       "added_at": "2023-05-19 14:45:56",

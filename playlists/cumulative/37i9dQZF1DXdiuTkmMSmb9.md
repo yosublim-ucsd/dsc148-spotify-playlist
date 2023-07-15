@@ -4,7 +4,7 @@
 
 > Tropical jams to catch a vibe and whine to\. Cover: Oxlade
 
-306 songs - 15 hr 52 min
+308 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-07-18 | 2022-08-26 |
 | [Mercy](https://open.spotify.com/track/4NsFzoTE4XdXpnjETfQLMZ) | [Kwame Anthem](https://open.spotify.com/artist/43FZHTH6FsPw5jEXT9yJp9), [Aymix](https://open.spotify.com/artist/3KovTlzUIWFOB8yQ4xBILr) | [WORTH THE WAIT](https://open.spotify.com/album/64aXLGJFmgrjZuZIKGskJ2) | 3:06 | 2022-11-24 |  |
 | [MERLOT](https://open.spotify.com/track/4mPW13e8qf7nCRIcEus6oK) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [MERLOT](https://open.spotify.com/album/1RRLb4HprP0YH3YNvmopB9) | 2:52 | 2022-09-05 | 2022-09-09 |
-| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL) | 3:13 | 2023-07-13 |  |
+| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 | 2023-07-13 |  |
+| [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL) | 3:13 | 2023-07-13 | 2023-07-15 |
 | [Monalisa](https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [LV N ATTN](https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8) | 3:33 | 2022-08-25 | 2022-09-09 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-07-18 | 2023-07-14 |
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-27 | 2023-05-26 |
@@ -191,6 +192,7 @@
 | [NOBODY ELSE](https://open.spotify.com/track/2bnNuJb9pvIJGbeXsJ8A8S) | [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go), [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [NOBODY ELSE](https://open.spotify.com/album/6cRQwq6B93zOqb6zu6lfAw) | 3:18 | 2023-02-09 |  |
 | [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-01 |  |
 | [o'dun](https://open.spotify.com/track/5e6Em24aptMFZaDCsvBJpu) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [God's Timing’s the Best](https://open.spotify.com/album/24dNVB3ThSVZWsTO5KhBc7) | 2:35 | 2022-07-18 | 2022-11-18 |
+| [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 | 2023-07-13 |  |
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-02 |  |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-08-25 | 2022-09-09 |
 | [Okay](https://open.spotify.com/track/5DXRCUXssxlsM8mHQpT4Ej) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Okay](https://open.spotify.com/album/4lcZJepsDpN3YmtJidQwQp) | 2:48 | 2022-09-05 | 2022-09-09 |

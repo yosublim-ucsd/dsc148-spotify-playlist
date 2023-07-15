@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-337 songs - 17 hr 46 min
+338 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Fallin](https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:42 | 2023-01-20 |  |
 | [Fan](https://open.spotify.com/track/5IDvV5y6vl4Xcj6p4gAMfV) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Files](https://open.spotify.com/album/3TMfWqrSPfKFXUgGJyL09Z) | 3:09 | 2023-03-13 | 2023-03-25 |
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-03 |  |
-| [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 |  |
+| [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 | 2023-03-30 | 2023-07-15 |
 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-04-21 | 2023-06-03 |
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |
 | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/track/5f2pD2WaRRe1rmsyzQDcpl) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Favorite Song \(with Khalid\) \[Remix\]](https://open.spotify.com/album/6aq5eEl7b51s5OUYV8ve6b) | 3:43 | 2023-05-04 |  |
@@ -141,7 +141,7 @@
 | [In Love](https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [In Love](https://open.spotify.com/album/4hjN43fijAskri1B3EXFej) | 3:20 | 2022-06-24 |  |
 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 | 2022-08-26 | 2022-11-26 |
 | [In My Mind \- A COLORS SHOW](https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [In My Mind \- A COLORS SHOW](https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd) | 2:16 | 2022-08-22 | 2023-02-24 |
-| [In The Light \- Stripped Version](https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [In The Light \(Stripped Version\)](https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6) | 2:39 | 2023-01-27 | 2023-07-14 |
+| [In The Light \- Stripped Version](https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [In The Light \(Stripped Version\)](https://open.spotify.com/album/4eu6KcMa6TG59Uidtcx2Z6) | 2:39 | 2023-01-27 |  |
 | [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 | 2022-12-05 | 2023-01-13 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 |  |
 | [Is It Love?](https://open.spotify.com/track/4b6WZ23mT8hBW6qan9OK0D) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Is It Love?](https://open.spotify.com/album/7mnLeneuyGZ9V8l8YTbC25) | 3:27 | 2022-07-28 | 2023-03-04 |
@@ -215,6 +215,7 @@
 | [O.D](https://open.spotify.com/track/3nmMU6AXk6Sok53h1QTMlR) | [Basthma](https://open.spotify.com/artist/4jvSwAbO6ILO7FO7rZLztv), [Unjust](https://open.spotify.com/artist/30sxUUgPGms8IEMzdFTl9k) | [O.D](https://open.spotify.com/album/3OrliCsJYTkwGotMIsXNZk) | 3:03 | 2023-05-04 | 2023-05-27 |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-06-24 | 2023-02-24 |
 | [Odo Ntia](https://open.spotify.com/track/1QnYYZp3tVNXeqGiOdhvz1) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Odo Ntia](https://open.spotify.com/album/3NJ0QccSYDHEkXDuZi9bN0) | 4:05 | 2023-02-03 | 2023-03-31 |
+| [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 | 2023-07-14 |  |
 | [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 | 2022-10-21 | 2022-12-02 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-16 |  |
 | [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2023-05-10 |

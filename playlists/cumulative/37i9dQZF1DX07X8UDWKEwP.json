@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Jambene",
+  "description": "Lo nuevo del mundo tropical. Cover: Dani J",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Disparo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7a3WYfYtJQ6GeJTqncTLJ2"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186589,
+      "name": "Disparo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7f72G79EV80TGQkc0m1Vte"
+    },
+    {
+      "album": {
         "name": "Dividimos",
         "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
       },
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 200000,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
@@ -3186,7 +3204,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165447,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/3nIBgni4vxvdUuZgKcTDZU"
@@ -4556,6 +4574,28 @@
       "duration_ms": 223073,
       "name": "Si Te Preguntan...",
       "url": "https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2"
+    },
+    {
+      "album": {
+        "name": "Si Tu La Ves",
+        "url": "https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193523,
+      "name": "Si Tu La Ves",
+      "url": "https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9"
     },
     {
       "album": {

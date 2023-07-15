@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: MONGOL800",
-  "num_followers": 260934,
+  "num_followers": 261030,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWQ4N2UyMGQwODVmNTZmN2VmZGFhOGY2ODdkMjYwNDhiYTJhNjZi",
+  "snapshot_id": "MCw5NWU3YjcyNmNkYTk2ZmU4MjRiZGNhNGE3MTExYzY3Yzk0MWYwNzYx",
   "tracks": [
     {
       "added_at": "2023-07-11 15:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "\u7a93\u306e\u4e2d\u304b\u3089",
-        "url": "https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 399418,
-      "name": "\u7a93\u306e\u4e2d\u304b\u3089",
-      "url": "https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "All That We Have Now",
         "url": "https://open.spotify.com/album/5a8NyykjKg0IDUKHslgNgm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 218573,
       "name": "Just Awake",
       "url": "https://open.spotify.com/track/1Gqpa08T7eBAvPQj9O9L2Q"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "\u7a93\u306e\u4e2d\u304b\u3089",
+        "url": "https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 399418,
+      "name": "\u7a93\u306e\u4e2d\u304b\u3089",
+      "url": "https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7"
     },
     {
       "added_at": "2023-07-11 15:00:00",

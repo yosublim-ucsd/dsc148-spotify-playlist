@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,967 likes - 93 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,013 likes - 93 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 35 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 |
 | 36 | [Na Raba Toma Tapão](https://open.spotify.com/track/0AGS6ZRgzobrazmCi6pYMe) | [Niack](https://open.spotify.com/artist/5uYe4bcAXlMP7d4mrOYkML), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Na Raba Toma Tapão](https://open.spotify.com/album/7ryzeLieyFDzTGW94jogqP) | 2:45 |
 | 37 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
-| 38 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
-| 39 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
+| 38 | [Vem Me Satisfazer](https://open.spotify.com/track/63SHcJzckFykS8faA5zojY) | [MC Ingryd](https://open.spotify.com/artist/09EYYUcfEDOvj3D5f45L99), [DJ Henrique da VK](https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ) | [Vem Me Satisfazer](https://open.spotify.com/album/04frJOjcTaZjBc80SmMhHN) | 3:08 |
+| 39 | [Ritmo Mexicano](https://open.spotify.com/track/0SEq5iH5GdLdu4LBf9CzOW) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/5DCpaUsXmzXZbZ3ETGZOJv) | 3:10 |
 | 40 | [Deu Onda](https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Deu Onda](https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl) | 2:23 |
 | 41 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 |
 | 42 | [Cheia de Marra](https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [Cheia de Marra](https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4) | 4:27 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 92 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 | 93 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 
-Snapshot ID: `MCwzNDNmN2QyN2ZjOTM3MmFlM2IwNzhlMGI2YmMxNWUxMGRhZjYyYzcy`
+Snapshot ID: `MCw2MTQ0NjBmYzIyMDIzMjMwYTQyMGI2ODMwNGVkZmU2OWJiMTg3MTRh`

@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli\- Yungsta, Calm, Frappe Ash & Sez on the Beat.
 
-72 songs - 3 hr 57 min
+73 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Batman](https://open.spotify.com/track/0x5itC1IF7WtrA7lJUmIbf) | [Aghor](https://open.spotify.com/artist/3AsmJFW9t14OXuJp9zOuPk), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Batman](https://open.spotify.com/album/75K8WUFvfA5ejXARa0y60o) | 3:32 | 2023-03-10 |  |
 | [Been a While](https://open.spotify.com/track/6FN68TXRiK095cQzv9tG5c) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:47 | 2023-03-10 |  |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2023-03-10 |  |
-| [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-10 |  |
+| [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-05-18 |  |
+| [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-10 | 2023-07-15 |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 |  |
 | [Dilli](https://open.spotify.com/track/7yVqIPygOGA57KoWbwpGcc) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE) | [Dilli](https://open.spotify.com/album/5Uw4CQIzBTgd2PeGnlFnvc) | 2:53 | 2023-05-04 |  |
 | [F16](https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:29 | 2023-03-10 |  |

@@ -4129,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Before the Sun",
+        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/2Dfy6vH1MRXrjdEw6a166U"
+    },
+    {
+      "album": {
         "name": "Cobwebs",
         "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
       },

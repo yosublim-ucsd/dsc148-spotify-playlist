@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-153 songs - 7 hr 15 min
+154 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [The Slopes of Sorrow](https://open.spotify.com/track/3lusMRSzKdKAhiCeBDRRXO) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:39 | 2022-03-09 | 2022-11-09 |
 | [The Streets of Whiterun](https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 4:04 | 2022-03-09 |  |
 | [The Sun Might Rise in the West](https://open.spotify.com/track/1ERSamFEh8ulOyCTjy9wLA) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Elision](https://open.spotify.com/album/6orXM32rO2JFSt60ZWyp4p) | 3:23 | 2022-03-09 | 2022-11-09 |
+| [The Witcher: Toss A Coin To Your Witcher](https://open.spotify.com/track/2hhd2khMvWADfosQLF1C7N) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko) | [The Witcher: Toss A Coin To Your Witcher](https://open.spotify.com/album/4a7Ec3FTOkrQF7lrwQAd53) | 2:48 | 2023-07-14 |  |
 | [Thor and Liv](https://open.spotify.com/track/7dXzN1jTxmeqIo8Q2XiEkq) | [Johan Söderqvist](https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr), [Hans Ek](https://open.spotify.com/artist/446mV2yNk82K3T6TW1j7Ot), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Kon Tiki \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oWKPVuvYjGTPD34hh5Pee) | 1:21 | 2022-11-08 |  |
 | [Three Days in Venice](https://open.spotify.com/track/6bkDyYr6SKesu884osJG0g) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 3:07 | 2022-04-22 | 2022-11-09 |
 | [To Breathe Again](https://open.spotify.com/track/2hMdmMDaLa6e7evidcrDmK) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Breathe Again](https://open.spotify.com/album/1JsHM0So4bhf9XsCFYj4Lc) | 2:14 | 2022-03-09 | 2022-11-09 |

@@ -4,7 +4,7 @@
 
 > Lauren Spencer Smith deze week op de cover van Fresh Pop.
 
-265 songs - 13 hr 20 min
+266 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-06 | 2023-07-14 |
 | [Cure For Love](https://open.spotify.com/track/3oeewidKD4nsh3MkawPbrH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Cure For Love](https://open.spotify.com/album/2KU9xbHp3q7e3xzv8yYIVE) | 2:57 | 2023-03-30 | 2023-04-07 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-08 |  |
+| [Daddy Fever](https://open.spotify.com/track/1tljYqOLCvSmR311hO5al2) | [ANNNA](https://open.spotify.com/artist/6paIiBu0X4cvePrfNpD2QY) | [Daddy Fever](https://open.spotify.com/album/5KqVLVd0aPjpQUnuFtbjUZ) | 2:31 | 2023-07-14 |  |
 | [Dance Dance \(Don't Go\)](https://open.spotify.com/track/0Bjb6ooycRufxEEroOmYuB) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/0isvwHsmToFvaEV4Lr4t5c) | 2:10 | 2023-03-30 | 2023-06-23 |
 | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 |  |
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2023-02-24 | 2023-03-31 |
@@ -224,7 +225,7 @@
 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 | 2023-02-24 | 2023-04-07 |
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-13 | 2023-06-02 |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-06-01 |  |
-| [Some Days Just Suck](https://open.spotify.com/track/3u1bJnr3K3RB4v5jJhIzfT) | [Mellie](https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK) | [Some Days Just Suck](https://open.spotify.com/album/0utPam0GBKLJ2aBaB7cpJF) | 2:42 | 2023-04-13 |  |
+| [Some Days Just Suck](https://open.spotify.com/track/3u1bJnr3K3RB4v5jJhIzfT) | [Mellie](https://open.spotify.com/artist/0fCB3cu52wsor5eiGb2OhK) | [Some Days Just Suck](https://open.spotify.com/album/0utPam0GBKLJ2aBaB7cpJF) | 2:42 | 2023-04-13 | 2023-07-15 |
 | [Somebody New](https://open.spotify.com/track/4xfNBcd49rQKvlkoNJBtgv) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz), [KARA music](https://open.spotify.com/artist/1ZZv2JtbeBIN7CUqxpIFgM) | [Somebody New](https://open.spotify.com/album/1LG2Ms7cEKWEt5Ubrp6RXo) | 3:07 | 2023-03-16 | 2023-06-23 |
 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 | 2023-05-11 |  |
 | [Somewhere in Between](https://open.spotify.com/track/1PMzqfXtiR4qWqdaRofIM4) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:36 | 2023-03-24 | 2023-05-26 |

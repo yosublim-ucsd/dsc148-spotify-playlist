@@ -1,13 +1,49 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 49305,
+  "num_followers": 49341,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWQyYjkyYjU5Zjg2ODdhZjU0MjI0NTg4MDJlZDY4OTMwOTFkZWU0",
+  "snapshot_id": "MCw0MzIxYzliYTRhZTA3Yjc0Yjg4MjVjMDE5YmE2NmJiNDAxNmRiNzE3",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Get Your Back Into It!",
+        "url": "https://open.spotify.com/album/4M7Rt8MwypcTSVhG56zYB2"
+      },
+      "artists": [
+        {
+          "name": "Nick Moss Band",
+          "url": "https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM"
+        },
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Get Your Back Into It",
+      "url": "https://open.spotify.com/track/6c2cTUj9tG273blULygzpg"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Well, I Done Got Over It",
+        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
+    },
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
@@ -55,22 +91,6 @@
       "duration_ms": 250480,
       "name": "Friendship",
       "url": "https://open.spotify.com/track/5tzYjX0mtDHks2utIpNWIF"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Twenty-Four Hour Blues",
-        "url": "https://open.spotify.com/album/4e8QhJyFdcmPsrqOSTmRnl"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 272280,
-      "name": "Twenty-Four Hour Blues",
-      "url": "https://open.spotify.com/track/1Ja2Xe08CmSIQBKm3OZLLO"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1687,22 +1707,6 @@
       "duration_ms": 289508,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/2DR9xCM5wVzjKPR9EkwFoT"
-    },
-    {
-      "added_at": "2021-09-10 04:02:00",
-      "album": {
-        "name": "Miss Information",
-        "url": "https://open.spotify.com/album/7lRTdwCjqb6i22watL4REp"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 227609,
-      "name": "Miss Information",
-      "url": "https://open.spotify.com/track/53u2pCR5M1BsZM3CiWyAfw"
     },
     {
       "added_at": "2021-10-22 04:02:00",

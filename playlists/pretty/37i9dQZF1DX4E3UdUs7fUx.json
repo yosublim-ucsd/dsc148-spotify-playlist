@@ -1,12 +1,12 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2313487,
+  "num_followers": 2313442,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTk2NjljNmYxNmI4ZTcwMDIzN2Q0YTZlZTVkNWFkNzliOTgxNGY1",
+  "snapshot_id": "MCwwNDc0OTkyMWMyMGY2Mzk5NDk4YTc2ODhmZGVjNjJmZjA2ZDJkNWRl",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "You Don't Own Me Anymore",
-        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
-      },
-      "artists": [
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "Kathy's Song",
-      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "Kathy's Song",
+      "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "See the World",
-      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 233084,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/0kmm2zTSQZoNuNd1lZ0Sbl"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "See the World",
+      "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
-      },
-      "artists": [
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Oh Brother",
         "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 275506,
       "name": "Its A Winding Road",
       "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Saint Monica (Undone)",
-        "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 146884,
-      "name": "Saint Monica - Undone",
-      "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Hazard & Fate",
         "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 213360,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Saint Monica (Undone)",
+        "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 146884,
+      "name": "Saint Monica - Undone",
+      "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
     },
     {
       "added_at": "2023-06-30 04:00:00",

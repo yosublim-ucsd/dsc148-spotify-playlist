@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-336 songs - 20 hr 34 min
+337 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [More Than the Stars](https://open.spotify.com/track/0spPve5NUzP2msY4PW4VxK) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [More Than the Stars](https://open.spotify.com/album/5H82180V8IYVMaqlNb45Ba) | 5:32 | 2023-02-19 |  |
 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 | 2023-02-19 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Covers EP](https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS) | 2:44 | 2023-02-19 |  |
-| [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2023-02-19 |  |
+| [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2023-02-19 | 2023-07-15 |
 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2023-02-19 |  |
 | [Mōhio](https://open.spotify.com/track/6ck8vtqwTOJtsdUK2emEvR) | [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Mōhio](https://open.spotify.com/album/4tSGbI8oOTj9W2LF25Ym3h) | 4:20 | 2023-02-19 |  |
 | [Names \- Acoustic](https://open.spotify.com/track/1yJ7WrQql0OIsXQflW0Zpv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Names \(Acoustic\)](https://open.spotify.com/album/5jwzW7iNZgN9tNPLl7bof2) | 6:09 | 2023-02-24 | 2023-03-03 |
@@ -202,6 +202,7 @@
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2023-02-19 |  |
 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 | 2020-12-18 | 2023-02-19 |
 | [Notice](https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Notice](https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK) | 3:22 | 2023-02-19 |  |
+| [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/46GOst5FVGq47jxmMgx1VL) | [Drake McCain](https://open.spotify.com/artist/55zx7AihSM91XuqPqofoct) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/1aGIvwbPmDQTN37lt4y5cQ) | 4:25 | 2023-04-21 |  |
 | [Oh, the Deep](https://open.spotify.com/track/0nWSEbzNG6GN6AaPcLMyFn) | [Asaph](https://open.spotify.com/artist/2t40riPUnb3uogM98mgx3f) | [Oh, the Deep](https://open.spotify.com/album/2wws5SPicpYsnvCPJTB1Ce) | 4:49 | 2020-12-18 | 2022-07-27 |
 | [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 | 2023-04-07 | 2023-04-21 |
 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 | 2023-02-19 |  |

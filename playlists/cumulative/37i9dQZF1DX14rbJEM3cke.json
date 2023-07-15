@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New Rock & Alt driving the current, every week. Cover: Hemlocke Springs",
+  "description": "New Rock & Alt driving the current, every week. Cover: Meet Me @ The Altar",
   "name": "Rock Frequency",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 200116,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/47fADKpvNG60AU6s6VVWjZ"
+    },
+    {
+      "album": {
+        "name": "Alone In December",
+        "url": "https://open.spotify.com/album/25DQdkYKZ6gA3MU3jEbUDw"
+      },
+      "artists": [
+        {
+          "name": "Hello Yello",
+          "url": "https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170708,
+      "name": "Alone In December",
+      "url": "https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m"
     },
     {
       "album": {
@@ -624,7 +642,7 @@
       ],
       "date_added": "2022-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 159651,
       "name": "Celebrity Skin",
       "url": "https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki"
@@ -732,7 +750,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 227527,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
@@ -830,6 +848,24 @@
       "duration_ms": 135295,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/0gTqEEZKoCn53BZAU1A4DG"
+    },
+    {
+      "album": {
+        "name": "COOKIE",
+        "url": "https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK"
+      },
+      "artists": [
+        {
+          "name": "Nafets",
+          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151959,
+      "name": "COOKIE",
+      "url": "https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP"
     },
     {
       "album": {
@@ -1160,6 +1196,28 @@
       "duration_ms": 118733,
       "name": "estella//",
       "url": "https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV"
+    },
+    {
+      "album": {
+        "name": "ETA2 (feat. Paris Texas)",
+        "url": "https://open.spotify.com/album/0ULka9xARlH01Pv5ewup22"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "ETA2 (feat. Paris Texas)",
+      "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
     },
     {
       "album": {
@@ -1636,7 +1694,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 191632,
       "name": "heavun",
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
@@ -2623,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Ours",
+        "url": "https://open.spotify.com/album/17mEEi35ueNfguWoDRt8Tb"
+      },
+      "artists": [
+        {
+          "name": "Oarts",
+          "url": "https://open.spotify.com/artist/2rFOTt38op2IreMwRrLc2f"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253791,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/1B7XSl075FcGoHjnHMoiIK"
+    },
+    {
+      "album": {
         "name": "Brain Drain",
         "url": "https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d"
       },
@@ -2692,6 +2768,24 @@
       "duration_ms": 172346,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1c228FxzUQ8deFtx02aMuZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219305,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6kfMbkk7viIpYCVO0QR0og"
     },
     {
       "album": {
@@ -2952,7 +3046,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 80190,
       "name": "schizophrenia",
       "url": "https://open.spotify.com/track/5b6zjsBrZCqe6RFycLz2tc"

@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3, featuring Bizarrap & Rauw Alejandro.",
-  "num_followers": 52408,
+  "num_followers": 52432,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2U4Mzk0NzBmNDdhM2ZjMzEyNzZmMDZkYzg0OWNhZDVmYzZmM2M0",
+  "snapshot_id": "MCxlNGZmMDg5NWM2OWM3NGE2NTI0OTE0NDI4ZDZiZTZmMmE4ZTliYWUz",
   "tracks": [
     {
       "added_at": "2023-06-30 20:27:56",
@@ -715,8 +715,8 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "LE DOY 20 MIL",
-        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
+        "name": "Dembow Worldwide Hits Teteo 42",
+        "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
       },
       "artists": [
         {
@@ -724,13 +724,17 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
         }
       ],
-      "duration_ms": 182793,
-      "name": "LE DOY 20 MIL",
-      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
+      "duration_ms": 199304,
+      "name": "LOS POBRES Y LOS RICOS",
+      "url": "https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW"
     },
     {
       "added_at": "2023-06-30 20:27:56",
@@ -839,8 +843,8 @@
     {
       "added_at": "2023-06-30 20:27:56",
       "album": {
-        "name": "Dembow Worldwide Hits Teteo 42",
-        "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
+        "name": "LE DOY 20 MIL",
+        "url": "https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y"
       },
       "artists": [
         {
@@ -848,17 +852,13 @@
           "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 199304,
-      "name": "LOS POBRES Y LOS RICOS",
-      "url": "https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW"
+      "duration_ms": 182793,
+      "name": "LE DOY 20 MIL",
+      "url": "https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq"
     },
     {
       "added_at": "2023-06-30 20:27:56",

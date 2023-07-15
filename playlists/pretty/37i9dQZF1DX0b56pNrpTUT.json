@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 6915,
+  "num_followers": 6940,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGU2NGM2ZTAzODA2M2Q2NjMzYTQ4YTY2NDBiOTNiYzA0NDM1Mzdl",
+  "snapshot_id": "MCw2MjJkZWExZDY1NGFhZmQxYWZhZmI0YzU2MWE3OThhNTRlMWYyZDgx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Call Your Name",
+        "url": "https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "duration_ms": 196082,
+      "name": "Call Your Name",
+      "url": "https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Running (feat. Ghetts)",
         "url": "https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 242973,
       "name": "Running (feat. Ghetts)",
       "url": "https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Call Your Name",
-        "url": "https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K"
-      },
-      "artists": [
-        {
-          "name": "Tora-i",
-          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
-        }
-      ],
-      "duration_ms": 196082,
-      "name": "Call Your Name",
-      "url": "https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Undertones",
-        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 214320,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "& what else?",
         "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 227535,
       "name": "Serial",
       "url": "https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Undertones",
+        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 214320,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP"
     },
     {
       "added_at": "2022-10-01 16:00:00",

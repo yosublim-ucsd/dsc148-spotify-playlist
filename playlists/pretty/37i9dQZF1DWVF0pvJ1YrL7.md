@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,653 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,691 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 15 | [Dub Protection](https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf) | [The Diabolical Liberties](https://open.spotify.com/artist/6JZINtp2iR8WoSGngVwsrb), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Dub Protection & The Sportswear Mystics](https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e) | 5:11 |
 | 16 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 |
 | 17 | [Bright Curse](https://open.spotify.com/track/5alGyitAXv0hCk5aRw5JZP) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [Fenella](https://open.spotify.com/album/2sN4bZ62m6lmfZp9J3JqDg) | 3:50 |
-| 18 | [Not Not Not](https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:15 |
-| 19 | [Expanding Electricity \- Single Edit](https://open.spotify.com/track/0CeoyRkeTUuZQk93GBH8B7) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Expanding Electricity](https://open.spotify.com/album/6j9ZzbYo2KBm05qoBXkFDg) | 5:36 |
-| 20 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/5JntKJacrklh6D69IsETO7) | 3:36 |
+| 18 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/5JntKJacrklh6D69IsETO7) | 3:36 |
+| 19 | [Not Not Not](https://open.spotify.com/track/0gReAloAEMGmMftpG64Cfw) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx) | [Room For The Moon](https://open.spotify.com/album/5KduXFab1jkKushmutNYbq) | 5:15 |
+| 20 | [Expanding Electricity \- Single Edit](https://open.spotify.com/track/0CeoyRkeTUuZQk93GBH8B7) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Expanding Electricity](https://open.spotify.com/album/6j9ZzbYo2KBm05qoBXkFDg) | 5:36 |
 | 21 | [Marking Time](https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:30 |
 | 22 | [Senzu Beans](https://open.spotify.com/track/0DMYvAkliivrzUOOyTR2G0) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np), [DUCAT](https://open.spotify.com/artist/4ADZvJH9oSDFHFGkwWGGGD) | [Dragonball Wave II](https://open.spotify.com/album/3XohsFcMxMN44U25fqTqF4) | 2:19 |
 | 23 | [Squaz](https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Brainfeeder X](https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4) | 5:35 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 40 | [Hypogean](https://open.spotify.com/track/2Dmu5AIckVaWZAYq5w7jhU) | [Ans M](https://open.spotify.com/artist/5JSQJFQcdMQIvt1iKnbOyF) | [Cicada Lullaby](https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb) | 4:30 |
 | 41 | [Spafft Moutafft Seeall + California](https://open.spotify.com/track/4iveIsFbEyag9lKazFiXg6) | [Rimarimba](https://open.spotify.com/artist/1i51O70gGrEqrngjNWW3nm) | [In the Woods](https://open.spotify.com/album/0lHutFsPzdkHiR1tcJ3Hhm) | 4:35 |
 | 42 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 |
-| 43 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
-| 44 | [Rise to Ashes](https://open.spotify.com/track/0bjo8nQLLKuiaIYj3xVNt1) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:03 |
+| 43 | [Rise to Ashes](https://open.spotify.com/track/0bjo8nQLLKuiaIYj3xVNt1) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:03 |
+| 44 | [Fallen Angels](https://open.spotify.com/track/0FTMZs0lK0MbQsSjQKjCqv) | [Little Snake](https://open.spotify.com/artist/2Hr12vmF0ozKYzLjPB2ZfX), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Fallen Angels](https://open.spotify.com/album/14yMrZlzYUSXovS9RyGkWh) | 4:29 |
 | 45 | [Magical Iridescence](https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84) | [Michel Genest](https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x) | [Crystal Fantasy](https://open.spotify.com/album/34UpoK24E13czwERrCUqfM) | 2:40 |
 | 46 | [Forecast](https://open.spotify.com/track/4SJbP61kwGbrjFABXlhprD) | [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Motion Graphics](https://open.spotify.com/album/6pB6PQ1biJp8MFlUMTabEn) | 1:31 |
 | 47 | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/track/0vFdrzcSex0hPwLnw3SFa1) | [Lou Canon](https://open.spotify.com/artist/2ZKNwYmNk7NS0oSNq5AieB), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Aurelie \(Lido Pimienta Remix\)](https://open.spotify.com/album/42imqapebSrpDVOjETHCnN) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCwwNTEyNjAyZjcxMTQwZDhlOWY1YzI1MzBjMzE0MzMxYmEyNzI2MWIx`
+Snapshot ID: `MCwyMjJhYWY5ZWRiNmNhMDM0OTExZDExMDcxY2NlNWNkNzNmNDAwNWU4`

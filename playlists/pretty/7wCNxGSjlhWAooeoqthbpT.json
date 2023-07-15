@@ -6,13 +6,13 @@
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjE4MSxmODNmZTlmNmYyYzgwZWEyNGM4MmMwODk3ZTI1NDE0MDg3NWEyMmU1",
+  "snapshot_id": "MjE4OSwwODdhNGQxOTFiMGJkMWQ2NzAzOTU0MDRlZDJmODA4MzgyYTA1NGM2",
   "tracks": [
     {
-      "added_at": "2023-07-07 14:44:34",
+      "added_at": "2023-07-14 13:11:28",
       "album": {
-        "name": "Trynna Link",
-        "url": "https://open.spotify.com/album/58n7meJEMSNZ35LxhgKPZK"
+        "name": "Maybe It's Me...",
+        "url": "https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx"
       },
       "artists": [
         {
@@ -20,9 +20,29 @@
           "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         }
       ],
-      "duration_ms": 177233,
-      "name": "Trynna Link",
-      "url": "https://open.spotify.com/track/7jEhMTxpIH7Duw6AQsDztS"
+      "duration_ms": 226765,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw"
+    },
+    {
+      "added_at": "2023-07-14 13:12:39",
+      "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
     },
     {
       "added_at": "2023-07-07 14:44:21",
@@ -135,26 +155,6 @@
       "duration_ms": 187880,
       "name": "TRY & SEE (feat. Future, G Herbo & Roddy Ricch)",
       "url": "https://open.spotify.com/track/7D0RCMzX66F9TIr9XB66kh"
-    },
-    {
-      "added_at": "2023-06-09 15:20:05",
-      "album": {
-        "name": "Who Told You (feat. Drake)",
-        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Who Told You (feat. Drake)",
-      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
       "added_at": "2023-03-24 15:00:58",

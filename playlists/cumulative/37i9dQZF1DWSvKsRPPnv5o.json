@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "ALRIGHT",
+        "url": "https://open.spotify.com/album/3x5AQyyopacG4nZhYehT1o"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156969,
+      "name": "ALRIGHT",
+      "url": "https://open.spotify.com/track/5GgsKq6ZOwwu0a7DNFiNqf"
+    },
+    {
+      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165756,
       "name": "Burpees",
       "url": "https://open.spotify.com/track/5WD5g7tYyq19mRgyFRtSUv"
@@ -1792,6 +1810,28 @@
       "duration_ms": 183633,
       "name": "Check In",
       "url": "https://open.spotify.com/track/4Hpv7FUy6cFLvLR8DSRruJ"
+    },
+    {
+      "album": {
+        "name": "child of GOD",
+        "url": "https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Remble",
+          "url": "https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174248,
+      "name": "child of GOD",
+      "url": "https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt"
     },
     {
       "album": {
@@ -2132,6 +2172,24 @@
       "duration_ms": 177710,
       "name": "Couldn't Wait for It",
       "url": "https://open.spotify.com/track/72LYxJqGTHVJamtyRQohre"
+    },
+    {
+      "album": {
+        "name": "Count Time",
+        "url": "https://open.spotify.com/album/01CvAzW8HAayo8CT4sJ4HE"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Count Time",
+      "url": "https://open.spotify.com/track/0aOuOoSBOC9UMcsz0xdN1i"
     },
     {
       "album": {
@@ -2904,7 +2962,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 130309,
       "name": "EVERY NIGHT (with Baby Money)",
       "url": "https://open.spotify.com/track/6UJ2iO0XmCwVCJxtLHXoeY"
@@ -4562,7 +4620,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 129032,
       "name": "I Don't Mean",
       "url": "https://open.spotify.com/track/1M25T7ROXQUulWjvzRgCB1"
@@ -5844,7 +5902,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 105999,
       "name": "Making The Band (Danity Kane)",
       "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
@@ -6331,6 +6389,32 @@
     },
     {
       "album": {
+        "name": "My Skeleethe (Remix) [feat. Vinny West, BlakeIANA]",
+        "url": "https://open.spotify.com/album/6j9JATRi3RwSpAyIcL9WDG"
+      },
+      "artists": [
+        {
+          "name": "T-Jxint",
+          "url": "https://open.spotify.com/artist/31mbdQ8C37rhkcoW6z2BSw"
+        },
+        {
+          "name": "Vinny West",
+          "url": "https://open.spotify.com/artist/08jCyIC4E6iQjr4nrd1yDA"
+        },
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "My Skeleethe (Remix) [feat. Vinny West, BlakeIANA]",
+      "url": "https://open.spotify.com/track/2HxdS9SGuX4rMYb1UJO8Si"
+    },
+    {
+      "album": {
         "name": "My Skeleethe (Remix) [feat. Vinny West]",
         "url": "https://open.spotify.com/album/5iXydPF3kdtww8uYs5DNsP"
       },
@@ -6346,7 +6430,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 127346,
       "name": "My Skeleethe (Remix) [feat. Vinny West]",
       "url": "https://open.spotify.com/track/4aAa4pF7vaB6KH8ykcl5zK"
@@ -6819,6 +6903,28 @@
     },
     {
       "album": {
+        "name": "No Use (feat. 03 Greedo)",
+        "url": "https://open.spotify.com/album/4yeBzIQ3h6gpvHYXOD5qUp"
+      },
+      "artists": [
+        {
+          "name": "Shady Blu",
+          "url": "https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141445,
+      "name": "No Use (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/4UbFDOCUqk3e9OYz1s2Ssy"
+    },
+    {
+      "album": {
         "name": "MORE BLACK SUPERHEROES",
         "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
       },
@@ -7050,7 +7156,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 141875,
       "name": "Oh Dear",
       "url": "https://open.spotify.com/track/3yRcWcjTcavCsclobLlx6W"
@@ -7112,7 +7218,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 148237,
       "name": "On Top",
       "url": "https://open.spotify.com/track/4QnPv3nsrYQSlbw74mtV6o"
@@ -7669,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "Point Me 2 Tha Bitches",
+        "url": "https://open.spotify.com/album/3qHQPDEM2EKf80NjYTjBML"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163175,
+      "name": "Point Me 2 Tha Bitches",
+      "url": "https://open.spotify.com/track/3hOJOKw2DrcGbXOJ0veQc2"
+    },
+    {
+      "album": {
         "name": "Politics",
         "url": "https://open.spotify.com/album/3GYdWkyO494FsxVOm4D6YC"
       },
@@ -7910,7 +8034,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 177933,
       "name": "RECKLESS & RATCHET",
       "url": "https://open.spotify.com/track/6J34RvjJj3xQuezQOjbKL2"
@@ -8780,6 +8904,24 @@
       "duration_ms": 115822,
       "name": "STOP IT",
       "url": "https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy"
+    },
+    {
+      "album": {
+        "name": "Stop Playin'",
+        "url": "https://open.spotify.com/album/6ZBALbgsms8DpV0nDxm45q"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126923,
+      "name": "Stop Playin'",
+      "url": "https://open.spotify.com/track/2z2ctSksThQQiV113DvZNL"
     },
     {
       "album": {
@@ -9828,6 +9970,32 @@
       "duration_ms": 145152,
       "name": "Wake That Thang Up",
       "url": "https://open.spotify.com/track/3BP4jOOvZgrBkaHo1Jcx7T"
+    },
+    {
+      "album": {
+        "name": "Watch Out For The Riders",
+        "url": "https://open.spotify.com/album/6uXLrvpNq02w33eeH65MN5"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "Watch Out For The Riders",
+      "url": "https://open.spotify.com/track/6zImt7ZGTqj6gvZJLf5RrP"
     },
     {
       "album": {

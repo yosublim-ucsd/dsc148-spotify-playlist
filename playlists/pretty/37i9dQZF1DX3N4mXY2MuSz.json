@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
-  "num_followers": 45532,
+  "num_followers": 45534,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTMzOTU2MmJlMjY2M2IwNTIwYzM3YjhmYWE0YjFjMTBjM2IxNWU4",
+  "snapshot_id": "MCw4NGRkNWQxYWM0NjcyNjMxNWJmZWE5ZmFjZTdjYzllNTY1NDU1YzE2",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
-        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Is This Christmas? - Radio Edit",
-      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 159266,
       "name": "Christmas Vacation",
       "url": "https://open.spotify.com/track/4RYoD9TS5gUbYsTTsHZuZx"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Is This Christmas? - Radio Edit",
+      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Lost Messengers: The Outtakes",
-        "url": "https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Carol of the Bells",
-      "url": "https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 241653,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/5Kl7ZklgYOFjNWTFk5Q5QL"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Lost Messengers: The Outtakes",
+        "url": "https://open.spotify.com/album/67STyBXAKtNyQsSIsVvPLC"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/5mGmOpL9PsVLVmSd9qSlnb"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 157746,
       "name": "I Had A Heart",
       "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Rawk Christmas",
-        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Punk Rawk Christmas",
-      "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Merry MeX-mas",
         "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 153800,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Rawk Christmas",
+        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Punk Rawk Christmas",
+      "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "A GC Christmas, Pt. 1",
-        "url": "https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N"
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
         }
       ],
-      "duration_ms": 181991,
-      "name": "Christmas by the Phone",
-      "url": "https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP"
+      "duration_ms": 183466,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ"
     },
     {
       "added_at": "2021-11-19 13:39:50",

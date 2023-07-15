@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
+    },
+    {
+      "album": {
         "name": "Beat Goes On (Rhythm to the Brain)",
         "url": "https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn"
       },
@@ -4545,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "DIVE IN! (SPED UP! / SLOWED REVERB!)",
+        "url": "https://open.spotify.com/album/4IGyRFgzpVUXtcFdhUGiLP"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100500,
+      "name": "DIVE IN!",
+      "url": "https://open.spotify.com/track/192DMwgDbgS8ghTKc0ACWq"
+    },
+    {
+      "album": {
         "name": "DJ Party (Monster)",
         "url": "https://open.spotify.com/album/2UVZtK15LKQBJkl54Z8wvg"
       },
@@ -4726,7 +4762,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 157037,
       "name": "Drake Type",
       "url": "https://open.spotify.com/track/2D3xVwir22PxfX7LYvy2SE"
@@ -14065,6 +14101,32 @@
     },
     {
       "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "album": {
         "name": "Popular [The Idol Vol. 1 (Music from the HBO Original Series)]",
         "url": "https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm"
       },
@@ -14234,7 +14296,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 154394,
       "name": "PRiNZESSiN",
       "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"

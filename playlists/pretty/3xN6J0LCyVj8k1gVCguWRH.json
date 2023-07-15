@@ -1,12 +1,12 @@
 {
   "description": "Which is going to be the next Song of the Summer!? (Includes the 2022 &amp; 2021 edition + bonus tracks)",
-  "num_followers": 103359,
-  "original_name": "Barack Obama\u2019s Summer Playlist 2023",
+  "num_followers": 103392,
+  "original_name": "Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NTA5NSw4Njc2NzliZDQxZjMwY2RmZmQ3ODBiYjVlY2IxYjJmZDAzNjRlNDQ2",
+  "snapshot_id": "NTEwOSxhNzQyMTBhOTAyN2JkZmQ4M2U5YjM2MDc0MjAzMjQ0NDQxYzBiYTUw",
   "tracks": [
     {
       "added_at": "2023-06-01 20:35:17",
@@ -23,6 +23,22 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-07-14 23:31:02",
+      "album": {
+        "name": "Im Still Here",
+        "url": "https://open.spotify.com/album/2bWFOdFDapH3jmNoj9SWEd"
+      },
+      "artists": [
+        {
+          "name": "Joel Holden",
+          "url": "https://open.spotify.com/artist/3GfaEbEIiHBPWa3YpKQhbd"
+        }
+      ],
+      "duration_ms": 228982,
+      "name": "Im Still Here",
+      "url": "https://open.spotify.com/track/6TDRCi7ozok7BgiL2y0AUI"
     },
     {
       "added_at": "2023-06-17 22:24:11",
@@ -193,24 +209,32 @@
       "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
     },
     {
-      "added_at": "2023-06-23 23:49:46",
+      "added_at": "2023-07-14 23:51:33",
       "album": {
-        "name": "Gotta Go",
-        "url": "https://open.spotify.com/album/6aqvlETxZg0IQ4451uOb5R"
+        "name": "Don't Walk Away",
+        "url": "https://open.spotify.com/album/4Efsth889W0V4adLUrrDR7"
       },
       "artists": [
         {
-          "name": "HMZA.",
-          "url": "https://open.spotify.com/artist/6PQvknpu8I2WEKWkqREOl4"
+          "name": "Henry Aberson",
+          "url": "https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G"
         },
         {
-          "name": "RIDL",
-          "url": "https://open.spotify.com/artist/3bFNsW5tKEOX9FrCCkakM9"
+          "name": "Jae Franklin",
+          "url": "https://open.spotify.com/artist/4h4QCr7F35RDl59EbzfvY6"
+        },
+        {
+          "name": "Chris Campbell",
+          "url": "https://open.spotify.com/artist/2F1lLjPmaF7n9zIYNvfF0f"
+        },
+        {
+          "name": "Cortez Johnson",
+          "url": "https://open.spotify.com/artist/422UcSw4Z8Cqxyt24vGqTI"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/774A4JWmIddeS3z5ghwXwf"
+      "duration_ms": 145554,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/3blXEcEhVdb5k1tU8vIRol"
     },
     {
       "added_at": "2023-06-23 23:53:29",
@@ -279,22 +303,6 @@
       "duration_ms": 171000,
       "name": "Cocktail",
       "url": "https://open.spotify.com/track/7h3IjtI7oQKmaWerl3S3v8"
-    },
-    {
-      "added_at": "2023-06-26 14:17:16",
-      "album": {
-        "name": "Sprung In The Summer",
-        "url": "https://open.spotify.com/album/5QN5wZ2KmgAwh4MZIvK86P"
-      },
-      "artists": [
-        {
-          "name": "tobi zo\u00eb",
-          "url": "https://open.spotify.com/artist/3XW7jQ3zJZRJHQVK6zqLkm"
-        }
-      ],
-      "duration_ms": 179662,
-      "name": "Sprung In The Summer",
-      "url": "https://open.spotify.com/track/2XXVq3lBlOo6aG4pWAW2dc"
     },
     {
       "added_at": "2023-06-27 13:10:22",
@@ -429,22 +437,6 @@
       "url": "https://open.spotify.com/track/7K4m6xetVm9iKsn91vfuAu"
     },
     {
-      "added_at": "2023-06-24 20:31:20",
-      "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/6XHM11XnA3hDS74qOKUHar"
-      },
-      "artists": [
-        {
-          "name": "\u043c\u0438\u043a\u0430",
-          "url": "https://open.spotify.com/artist/0yYZZ377KkGhYbFUPm4fUM"
-        }
-      ],
-      "duration_ms": 171075,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/0rTgTSd9xvlDSl06YuHHXt"
-    },
-    {
       "added_at": "2023-06-24 13:16:10",
       "album": {
         "name": "Midnights (The Til Dawn Edition)",
@@ -479,22 +471,6 @@
       "duration_ms": 194373,
       "name": "Tell Me Everything",
       "url": "https://open.spotify.com/track/08yk0Ru7MajIvDNctERJGh"
-    },
-    {
-      "added_at": "2023-06-23 14:24:27",
-      "album": {
-        "name": "Lumber",
-        "url": "https://open.spotify.com/album/6AtGem6qz71XNAJGqy7j42"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 109500,
-      "name": "Lumber",
-      "url": "https://open.spotify.com/track/7GzUamslGXtfz5D37z1mFA"
     },
     {
       "added_at": "2023-05-31 13:50:48",
@@ -579,22 +555,6 @@
       "duration_ms": 194299,
       "name": "Fry sy",
       "url": "https://open.spotify.com/track/1WybKcVD4SfecnksAQhtu9"
-    },
-    {
-      "added_at": "2023-06-26 18:55:27",
-      "album": {
-        "name": "about a bee",
-        "url": "https://open.spotify.com/album/7x2RacjyXkbYQcPfZnXjAm"
-      },
-      "artists": [
-        {
-          "name": "Axel Leather Jacket",
-          "url": "https://open.spotify.com/artist/5xEGxb8BJXoxqjMmtCWfkI"
-        }
-      ],
-      "duration_ms": 124829,
-      "name": "about a bee",
-      "url": "https://open.spotify.com/track/1YPpuDqn6seux3PDCc6q6F"
     },
     {
       "added_at": "2023-06-25 20:59:20",
@@ -2417,38 +2377,6 @@
       "url": "https://open.spotify.com/track/662RJGU3YRa5rSEpf1Iuix"
     },
     {
-      "added_at": "2023-06-25 16:14:58",
-      "album": {
-        "name": "Ojay",
-        "url": "https://open.spotify.com/album/3OvXXEWQsoszMOPKVgdZUi"
-      },
-      "artists": [
-        {
-          "name": "Ari Morgan",
-          "url": "https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX"
-        }
-      ],
-      "duration_ms": 199157,
-      "name": "Ojay",
-      "url": "https://open.spotify.com/track/6l7T5UuzKpu4gh097Fbrod"
-    },
-    {
-      "added_at": "2023-06-24 13:46:25",
-      "album": {
-        "name": "Solsticio",
-        "url": "https://open.spotify.com/album/7dz02tZraKvPPuDmm4znHL"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 237420,
-      "name": "Solsticio",
-      "url": "https://open.spotify.com/track/29Q552BxMc52LxxFhWm25E"
-    },
-    {
       "added_at": "2023-06-27 18:32:10",
       "album": {
         "name": "According to People Familiar with the Matter",
@@ -2501,38 +2429,6 @@
       "url": "https://open.spotify.com/track/6njgjWcwgOQMVDDGudk54K"
     },
     {
-      "added_at": "2023-06-26 13:18:48",
-      "album": {
-        "name": "On The Radio",
-        "url": "https://open.spotify.com/album/5myFOAiaZ7BPWiCsm9D0j4"
-      },
-      "artists": [
-        {
-          "name": "The Electric Silence",
-          "url": "https://open.spotify.com/artist/0QtNNDOVHALNKyA2dbwHek"
-        }
-      ],
-      "duration_ms": 234406,
-      "name": "On The Radio",
-      "url": "https://open.spotify.com/track/3MKS6fvArUEeRIF7xegosQ"
-    },
-    {
-      "added_at": "2023-06-26 14:31:30",
-      "album": {
-        "name": "Ways",
-        "url": "https://open.spotify.com/album/1CE5Y5N9LKosNmqQn1Rbd0"
-      },
-      "artists": [
-        {
-          "name": "Cayden Corbett",
-          "url": "https://open.spotify.com/artist/3T4QtVn8YElPGVh2c4OOjD"
-        }
-      ],
-      "duration_ms": 183125,
-      "name": "Ways",
-      "url": "https://open.spotify.com/track/6PpXzZybf3bGDcAnI0zkPU"
-    },
-    {
       "added_at": "2023-06-28 22:31:54",
       "album": {
         "name": "Ando Sola",
@@ -2567,6 +2463,22 @@
       "duration_ms": 172000,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/2YrFCauRKOx7jBYzv6KDle"
+    },
+    {
+      "added_at": "2023-07-14 13:31:55",
+      "album": {
+        "name": "Lenguajes del instinto",
+        "url": "https://open.spotify.com/album/7J8A6zlLdsxwXOaMGwciRk"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Betancor",
+          "url": "https://open.spotify.com/artist/31CKqxPOF5gZ3UB6UoHDX6"
+        }
+      ],
+      "duration_ms": 263810,
+      "name": "Hacer caf\u00e9",
+      "url": "https://open.spotify.com/track/11SL91oltizqkEbM0wGrXy"
     },
     {
       "added_at": "2023-06-30 16:01:41",
@@ -2717,22 +2629,6 @@
       "url": "https://open.spotify.com/track/19gnyq2eJg4LxS4gJStKG6"
     },
     {
-      "added_at": "2023-06-24 13:00:50",
-      "album": {
-        "name": "Dance Me To The End Of Love",
-        "url": "https://open.spotify.com/album/0fUzax7BW6f1fLEMRI6r6T"
-      },
-      "artists": [
-        {
-          "name": "Carbon Mass",
-          "url": "https://open.spotify.com/artist/2PWtiOKyGeze2XKHILvf2L"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Dance Me To The End Of Love",
-      "url": "https://open.spotify.com/track/2sVbCgXJiVwqBj1fyM8TmK"
-    },
-    {
       "added_at": "2023-06-27 13:32:20",
       "album": {
         "name": "MINDCATION",
@@ -2751,22 +2647,6 @@
       "duration_ms": 177461,
       "name": "Crown",
       "url": "https://open.spotify.com/track/1ZoawgJtFqpqbVHKPbaBVC"
-    },
-    {
-      "added_at": "2023-06-22 17:30:55",
-      "album": {
-        "name": "EP 4",
-        "url": "https://open.spotify.com/album/1CIIOrTJyJIvmbDGNpI4dp"
-      },
-      "artists": [
-        {
-          "name": "Head Fake",
-          "url": "https://open.spotify.com/artist/0Qick9o8t7dbupvl52uB8G"
-        }
-      ],
-      "duration_ms": 224571,
-      "name": "When She Lies",
-      "url": "https://open.spotify.com/track/23wjPO4mG0AQ7IC6MOfM8t"
     },
     {
       "added_at": "2023-07-04 01:51:15",
@@ -2799,32 +2679,8 @@
       "duration_ms": 187539,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/17W3KYjo4hlIaD0xdqtVjT"
-    },
-    {
-      "added_at": "2023-06-22 00:30:35",
-      "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/6Ei8dCF1Pu6ehVKdKEDH5f"
-      },
-      "artists": [
-        {
-          "name": "Anchored Collective",
-          "url": "https://open.spotify.com/artist/5V0Y3BgVcnrxJCioMr1mvw"
-        },
-        {
-          "name": "Arsn\u00f8v\u00e4",
-          "url": "https://open.spotify.com/artist/3vhqqkOtusdgbpr9336aFA"
-        },
-        {
-          "name": "Jordan Michael",
-          "url": "https://open.spotify.com/artist/6l2M8zaAX04yO8DdayNVEP"
-        }
-      ],
-      "duration_ms": 149583,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/2BODXOk8X37RsVZYJd8FXr"
     }
   ],
-  "unique_name": "Barack Obama\u2019s Summer Playlist 2023",
+  "unique_name": "Obama\u2019s Summer Playlist 2023",
   "url": "https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH"
 }

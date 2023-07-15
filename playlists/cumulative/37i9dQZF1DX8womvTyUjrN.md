@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: Nicole Zignago
+> Fresh Latin pop on the rise\. Cover: 3AM
 
-411 songs - 20 hr 45 min
+413 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Algodón](https://open.spotify.com/track/4h7c7tqYjCBdWz8SPZh3bw) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Algodón](https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm) | 2:52 | 2022-08-08 | 2022-10-29 |
 | [Alguien Más](https://open.spotify.com/track/2KmMR2NuY9gjDdVXSyUJ9m) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/5sOAl2yXC33MCabAevDQqP) | 2:12 | 2022-05-24 | 2022-07-26 |
 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 | 2022-08-11 | 2022-10-29 |
-| [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 | 2023-06-16 |  |
+| [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 | 2023-06-16 | 2023-07-15 |
 | [Amor](https://open.spotify.com/track/0r9iiHyIEnnOYjK6kpGY9s) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Wish You Were Here](https://open.spotify.com/album/4ImJm5YBExvjj6X9N5yfeq) | 2:42 | 2022-04-20 | 2022-07-02 |
 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 | 2022-12-16 | 2023-05-13 |
 | [Amor Y Sal](https://open.spotify.com/track/3IAsSc2qUCyMHfqj40T3Jh) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Amor Y Sal](https://open.spotify.com/album/0MU1M5rDvhoUlZIw2407nJ) | 2:32 | 2022-09-09 | 2022-10-29 |
@@ -108,6 +108,7 @@
 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 | 2023-06-30 | 2023-07-08 |
 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2023-03-17 | 2023-04-29 |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana Velasquez](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-03-21 | 2022-04-02 |
+| [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 | 2023-07-14 |  |
 | [DESAFIANDO EL DESTINO](https://open.spotify.com/track/4rBQxFVwTnf99p818azSon) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 3:12 | 2023-01-13 | 2023-04-29 |
 | [descomplicados](https://open.spotify.com/track/6LAU7C4wP7JKX2ejdoD4Jm) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [descomplicados](https://open.spotify.com/album/1TYlMgA9p6MDchfnrkvJ3t) | 2:44 | 2022-09-09 | 2022-10-29 |
 | [Desorden](https://open.spotify.com/track/3ZAhE8dEwutVtjaOIUwQuS) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [Desorden](https://open.spotify.com/album/3HPJuawRm4v79x8ukWIca4) | 2:24 | 2022-11-25 | 2022-12-10 |
@@ -212,6 +213,7 @@
 | [Los Hombres Son Todos Iguales](https://open.spotify.com/track/2JNhw8a87uhQ8gTIf26RSb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Los Hombres Son Todos Iguales](https://open.spotify.com/album/0kAaBCYWSzyRdFQ2Y1qjcY) | 4:04 | 2023-02-10 | 2023-03-29 |
 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 | 2023-03-31 | 2023-04-15 |
 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-03-31 |  |
+| [LQTQH](https://open.spotify.com/track/2rEtrKowZlSwB3YJU9KJhL) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [LQTQH](https://open.spotify.com/album/5HPXDjAoNY2sLab8HotJ59) | 2:41 | 2023-07-14 |  |
 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 | 2023-06-23 | 2023-07-01 |
 | [Luz Azul](https://open.spotify.com/track/6vvS5fgoOS3kjrH8Pyc8d5) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Luz Azul](https://open.spotify.com/album/3jC2pH39SzVORAsE3xYnnd) | 2:50 | 2023-04-14 | 2023-04-22 |
 | [Madrid](https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Madrid](https://open.spotify.com/album/5rEutOpWVW9KdiVkPJL5QH) | 2:38 | 2022-03-21 | 2022-07-09 |
@@ -316,7 +318,7 @@
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-12 | 2022-10-29 |
 | [Puñales](https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Puñales](https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A) | 3:17 | 2022-03-21 | 2022-04-16 |
 | [Pégate](https://open.spotify.com/track/2xf1olq5Un8S9SqwU4IO6c) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Gigi Mendez](https://open.spotify.com/artist/4RjuvJDxYh4T6tmv44HTkT) | [Pégate](https://open.spotify.com/album/00cSdJphJM7Hh8k2N0x3vP) | 3:50 | 2022-03-21 | 2022-05-10 |
-| [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-23 |  |
+| [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-23 | 2023-07-15 |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-03-31 |  |
 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 | 2022-10-28 | 2023-02-05 |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-07-25 | 2022-10-08 |

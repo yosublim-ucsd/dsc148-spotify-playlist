@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-313 songs - 17 hr 30 min
+314 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Our Style](https://open.spotify.com/track/2r31qQymHkEhfXlaBewBNb) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy), [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr) | [Our Style](https://open.spotify.com/album/01xHVK2G2uoggePzh88YRE) | 4:02 | 2022-01-19 | 2022-04-20 |
 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 | 2021-10-26 | 2021-12-28 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2022-01-19 | 2023-04-22 |
+| [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 | 2023-07-14 |  |
 | [Party Trick](https://open.spotify.com/track/50M63RCKsCbnkSaxUK2ttY) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Party Trick](https://open.spotify.com/album/0hPD1HQR8TOBOxeM1pYlOO) | 3:26 | 2022-07-15 | 2023-04-22 |
 | [Past Life](https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Past Life](https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK) | 3:30 | 2022-05-13 |  |
 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 | 2021-08-05 | 2022-01-20 |

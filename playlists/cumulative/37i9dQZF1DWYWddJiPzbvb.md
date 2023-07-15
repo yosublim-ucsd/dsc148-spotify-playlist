@@ -4,7 +4,7 @@
 
 > Chilled songs that you are familiar with \- no surprises!
 
-362 songs - 22 hr 29 min
+363 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2022-05-30 |  |
 | [Firestone](https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Firestone](https://open.spotify.com/album/4JVCsRgCU1j17JcNGdwXNw) | 4:33 | 2022-02-04 | 2022-04-21 |
 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 | 2021-11-23 | 2022-11-13 |
-| [Flames](https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK) | 3:15 | 2021-11-23 |  |
+| [Flames](https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK) | 3:15 | 2021-11-23 | 2023-07-15 |
 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 | 2022-02-04 |  |
 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 | 2021-11-23 |  |
 | [Girls Like You](https://open.spotify.com/track/2QBk6HiFiv2exuwGaupOoE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Jmq5HEJeA9kNi2SgQul4U) | 3:35 | 2021-11-23 | 2022-07-29 |
@@ -274,6 +274,7 @@
 | [Silence](https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silence](https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh) | 3:00 | 2021-11-23 |  |
 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 | 2021-11-23 |  |
 | [Slide Away](https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Slide Away](https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E) | 3:53 | 2021-11-23 | 2023-06-14 |
+| [Slide Away](https://open.spotify.com/track/6QQtHdz4PNJWQX4nrAQGC9) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/45wbw92Z6V8G8iPKFzSEPN) | 3:53 | 2022-11-07 |  |
 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 | 2021-11-23 |  |
 | [So Far Away \(feat\. Jamie Scott & Romy Dya\)](https://open.spotify.com/track/0OlnLZY4cmQzT6ZGttvWBM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Jamie Scott](https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr), [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [So Far Away \(feat\. Jamie Scott & Romy Dya\)](https://open.spotify.com/album/3jMnO9ehAlTTCxNeVMu1zY) | 3:03 | 2021-11-23 | 2023-01-24 |
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2021-11-23 |  |

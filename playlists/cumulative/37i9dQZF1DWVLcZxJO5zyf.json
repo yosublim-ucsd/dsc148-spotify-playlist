@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Lia Clark, Pabllo Vittar",
+  "description": "Ou\u00e7a todos as novidades e hits do pop br aqui e agora! Foto: Pedro Sampaio, Mc Tato",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 192599,
       "name": "Ainda Vou Morrer por N\u00e3o Falar",
       "url": "https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar"
@@ -560,6 +560,32 @@
       "duration_ms": 149514,
       "name": "Barbie (feat. Danny Bond)",
       "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
+    },
+    {
+      "album": {
+        "name": "Barulhinho",
+        "url": "https://open.spotify.com/album/1gFplCaLXiRiMHccV2BrIv"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "LUCK MUZIK",
+          "url": "https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Barulhinho",
+      "url": "https://open.spotify.com/track/6n3AlHpR08vRzmkqPLMnUo"
     },
     {
       "album": {
@@ -1158,7 +1184,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 153665,
       "name": "desficava",
       "url": "https://open.spotify.com/track/3QhZwPJ2cGkS093fsQ5T0V"
@@ -1466,6 +1492,28 @@
       "duration_ms": 150260,
       "name": "FICA PRO CAF\u00c9",
       "url": "https://open.spotify.com/track/4KGu7ymn1pQwN5yWoWascu"
+    },
+    {
+      "album": {
+        "name": "DISCO VOADOR [DELUXE]",
+        "url": "https://open.spotify.com/album/59pai4WqNIembDQV6xcast"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "FIQUE BEM!",
+      "url": "https://open.spotify.com/track/7Md18J8NOcpM25Vyt7N9WM"
     },
     {
       "album": {
@@ -1860,6 +1908,28 @@
       "duration_ms": 186666,
       "name": "IN\u00cdCIO DO FIM",
       "url": "https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5"
+    },
+    {
+      "album": {
+        "name": "JOIA RARA",
+        "url": "https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Mc Tato",
+          "url": "https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "JOIA RARA",
+      "url": "https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp"
     },
     {
       "album": {
@@ -2850,7 +2920,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169928,
       "name": "Olha Bela",
       "url": "https://open.spotify.com/track/3r6dxRa9SNMWSah8R9VDyW"

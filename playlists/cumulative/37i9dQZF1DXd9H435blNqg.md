@@ -2,9 +2,9 @@
 
 ### [Alt\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXd9H435blNqg)
 
-> A different shade of the blues\. Cover: Ash Grunwald
+> A different shade of the blues\. Cover: Dan Auerbach
 
-110 songs - 6 hr 11 min
+111 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Don't Say Goodbye](https://open.spotify.com/track/5myYo40RKSaKyuLRbAfqTV) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/2GlZhFnvW6mxuyIDrerEoK) | 3:11 | 2021-02-12 | 2022-07-29 |
 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 | 2021-05-14 | 2023-05-20 |
 | [Downtown](https://open.spotify.com/track/71dt9Epn88df9wWWdGDqJM) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Downtown](https://open.spotify.com/album/5nqIOgayufE70Iy6i3jke5) | 3:32 | 2022-02-25 |  |
+| [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Every Chance I Get \(I Want You In The Flesh\)](https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D) | 4:08 | 2023-07-14 |  |
 | [Five Dollars](https://open.spotify.com/track/3pDYH1sM23pIPU9JIqiTjT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6KZis8q01lE8XU6XzravkP) | 3:08 | 2021-02-12 | 2022-07-29 |
 | [Five Dollars](https://open.spotify.com/track/4m0zS8ogujtTiLcAwCmHFT) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [Five Dollars](https://open.spotify.com/album/6qjPSLr8oJHocV9Mt6Ax0m) | 3:08 | 2021-02-12 |  |
 | [Fix Your Face](https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:15 | 2021-02-12 | 2023-05-20 |
@@ -82,7 +83,7 @@
 | [One Thing \(2020\)](https://open.spotify.com/track/5AU6psoPKvjkfgISTSrbCS) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/12etpmMvVYThaqygVi0UKE) | 4:06 | 2021-02-12 | 2023-04-30 |
 | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/track/5fcisGWiGPqr3hkPy0h1mr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Pearl Cadillac \(feat\. Andra Day\)](https://open.spotify.com/album/5uVl49FsC9vFHCxNT2zoiJ) | 3:30 | 2021-02-12 |  |
 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 | 2021-02-12 |  |
-| [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 | 2021-02-12 |  |
+| [Reaching](https://open.spotify.com/track/2fZEkbnj548ELbvWNlAN4B) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Reaching](https://open.spotify.com/album/6QWjpKNZeFAsWBPkIvckUQ) | 3:15 | 2021-02-12 | 2023-07-15 |
 | [Riot](https://open.spotify.com/track/0otlz1uuhtwVnKSUX8XToc) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 2:55 | 2021-02-12 |  |
 | [Riot](https://open.spotify.com/track/2YeFuzgYgqj9b7IiUUmSbw) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Riot](https://open.spotify.com/album/08N7vPLcQL375FyuCRH8fm) | 2:55 | 2021-02-12 | 2022-07-29 |
 | [Satellite Man](https://open.spotify.com/track/57vNFNbilns66ZcLkM47Th) | [Satellite and the Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Satellite Man](https://open.spotify.com/album/7eyTLA21q56FZbknxquBOO) | 3:00 | 2021-02-12 |  |

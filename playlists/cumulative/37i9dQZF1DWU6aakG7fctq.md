@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie\. Cover: Kevin Kaarl
+> Fresh Latin Indie\. Cover: Camilo Séptimo
 
-411 songs - 22 hr 56 min
+413 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2021-11-18 | 2022-11-25 |
 | [amigos con beneficios](https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [amigos con beneficios](https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh) | 4:01 | 2023-03-17 | 2023-04-29 |
 | [Amor Barato](https://open.spotify.com/track/3UAZphSh6pog2QYXvEJsQg) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Amor Barato](https://open.spotify.com/album/3VhIk6vzARVy2CUhtViy94) | 3:17 | 2023-03-10 | 2023-03-18 |
-| [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2022-12-16 |  |
+| [Amor de Verano](https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [Verano en Invierno](https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5) | 3:48 | 2022-12-16 | 2023-07-15 |
 | [Amor Extraño](https://open.spotify.com/track/0YcrT3yH3SKNbHGeiUxy7P) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Amor Extraño](https://open.spotify.com/album/7DUgs4B1dAnfreX5nDF1yx) | 3:44 | 2021-11-18 | 2022-07-29 |
 | [Amor Extraño](https://open.spotify.com/track/1SK3gmwqNCx7WezSCV3F1W) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 3:44 | 2022-06-29 | 2022-11-25 |
 | [AMOR O PAZ](https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [AMOR O PAZ](https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5) | 4:10 | 2023-02-03 | 2023-05-16 |
@@ -225,7 +225,7 @@
 | [Midnight Freak\-Out](https://open.spotify.com/track/2rIS9JrhI03Z2tsIvHVvxw) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Midnight Freak\-Out](https://open.spotify.com/album/4kNGBzJSl3GqjRUA82IM0X) | 3:20 | 2023-06-09 |  |
 | [Miel](https://open.spotify.com/track/6AMHEaO84ovy8gyk9fMuvx) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce I](https://open.spotify.com/album/11eas3t2nurp1u7PRPFzGL) | 3:22 | 2023-03-24 | 2023-05-20 |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-02 |  |
-| [Migajas](https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Migajas](https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0) | 2:41 | 2023-06-16 |  |
+| [Migajas](https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M) | [Jorge Franco](https://open.spotify.com/artist/6TgspOWaU9PhThN4IeCeyB), [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Migajas](https://open.spotify.com/album/6hyFTP9WF7wDN3fuUyE2X0) | 2:41 | 2023-06-16 | 2023-07-15 |
 | [Milanesa al Pan](https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Milanesa al Pan](https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL) | 2:49 | 2023-03-17 | 2023-07-01 |
 | [Miracle](https://open.spotify.com/track/1qF69E9heZYJO3iBa8kOx1) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/2v08BVmRilhppsPf5OBcER) | 4:20 | 2022-12-16 | 2023-01-07 |
 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 | 2023-04-07 | 2023-05-12 |
@@ -286,6 +286,7 @@
 | [Pedestal](https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Pedestal](https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6) | 3:28 | 2022-09-06 | 2023-01-25 |
 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 | 2022-12-09 | 2023-06-10 |
 | [Pensar en Ti](https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Pensar en Ti](https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF) | 3:39 | 2022-11-24 | 2023-06-24 |
+| [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 | 2023-07-14 |  |
 | [Persona Favorita](https://open.spotify.com/track/4vzTSRapnXGGZUoxsiCtL3) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Persona Favorita](https://open.spotify.com/album/00cy9kHF15QYiSfD6Eyo5v) | 4:00 | 2022-11-24 | 2023-01-25 |
 | [Pesadilla](https://open.spotify.com/track/6A8BQ6seDdCSVosLDUVlNy) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pesadilla](https://open.spotify.com/album/22bM1mtaAqFITc3Krdro7u) | 2:54 | 2021-11-18 | 2022-11-25 |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2021-11-18 | 2022-05-10 |
@@ -330,6 +331,7 @@
 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 | 2023-04-14 | 2023-07-03 |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 |  |
 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 | 2021-11-18 | 2022-11-25 |
+| [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 | 2023-07-14 |  |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-09-06 | 2022-10-28 |
 | [Sin Freno](https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Astra](https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx) | 5:13 | 2023-04-28 |  |
 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 | 2023-06-16 | 2023-06-24 |

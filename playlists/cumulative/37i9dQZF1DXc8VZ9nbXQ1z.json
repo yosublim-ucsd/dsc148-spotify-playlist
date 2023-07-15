@@ -2738,6 +2738,32 @@
     {
       "album": {
         "name": "Indlela",
+        "url": "https://open.spotify.com/album/2WYDw5eFucNCiUKAZdUHPX"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349226,
+      "name": "Indlela",
+      "url": "https://open.spotify.com/track/1gINTM4XrnZ3Cke3KRvHYk"
+    },
+    {
+      "album": {
+        "name": "Indlela",
         "url": "https://open.spotify.com/album/4SHct7kn98G7DW5KanqFO2"
       },
       "artists": [
@@ -3842,6 +3868,28 @@
       "duration_ms": 464505,
       "name": "Manana",
       "url": "https://open.spotify.com/track/5WL2W5n2nTlQb3AppemEZE"
+    },
+    {
+      "album": {
+        "name": "Masungulo",
+        "url": "https://open.spotify.com/album/4yJRndmtIQfYzCTlMKg8GU"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "M\u00f6rda",
+          "url": "https://open.spotify.com/artist/7elJ7SSC2yLiDadOBLykdS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287669,
+      "name": "Masungulo",
+      "url": "https://open.spotify.com/track/6QoWZJrELFnejwIV0c9OgM"
     },
     {
       "album": {
@@ -5697,6 +5745,28 @@
     },
     {
       "album": {
+        "name": "Secret ID",
+        "url": "https://open.spotify.com/album/0F35l11dnpqFzuPMMaJ1QN"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415661,
+      "name": "Secret ID",
+      "url": "https://open.spotify.com/track/3DFuT29Zjg3UR2mXmim5Y9"
+    },
+    {
+      "album": {
         "name": "Transitions Final Chapter",
         "url": "https://open.spotify.com/album/7IEHlkDlDXlnFB8wTJBTkK"
       },
@@ -6652,6 +6722,24 @@
       "duration_ms": 417812,
       "name": "The Rapture Pt.III",
       "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199044,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
     },
     {
       "album": {

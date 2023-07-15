@@ -696,7 +696,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193125,
       "name": "De Qu\u00e9 Manera",
       "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
@@ -784,6 +784,24 @@
       "duration_ms": 190553,
       "name": "Di Que Si",
       "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "album": {
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 213998,
       "name": "Mala Suerte (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
       "url": "https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D"
@@ -1422,6 +1440,24 @@
       "duration_ms": 230225,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicas De La Salsa Vol. 2",
+        "url": "https://open.spotify.com/album/77twoQI3wRe46rJIixMSDN"
+      },
+      "artists": [
+        {
+          "name": "Los Verdadedos Negros",
+          "url": "https://open.spotify.com/artist/3yiItU1f4P0jsldMxSHvh7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265834,
+      "name": "Me Dejaste",
+      "url": "https://open.spotify.com/track/3UpE9lAHOggRjP2wKy5nWj"
     },
     {
       "album": {
@@ -2002,10 +2038,32 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 172152,
       "name": "Si Pudiera / Vuelve a Mi",
       "url": "https://open.spotify.com/track/3PE7MugQdM7Yl9rW9rO5a1"
+    },
+    {
+      "album": {
+        "name": "Si Tu La Ves",
+        "url": "https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193523,
+      "name": "Si Tu La Ves",
+      "url": "https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9"
     },
     {
       "album": {

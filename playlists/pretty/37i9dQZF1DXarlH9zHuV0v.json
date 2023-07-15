@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 232608,
+  "num_followers": 232602,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2VlMzUzOTQ0MTk5ZDdhNGZlMDEyYmM4NGFjZjYyNGIyMWFjYmFh",
+  "snapshot_id": "MCwwNzFjMzVhZTg2MjBjZDZkZTkzMzUyYjVhZjBhYzU5MTFiMWE2ZWZl",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -199,22 +199,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 312293,
       "name": "Hells Bells",
       "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -495,22 +495,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 HITS",
         "url": "https://open.spotify.com/album/2AUaQkwZyx52vDbynEfWLD"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 236480,
       "name": "Somebody's Watching Me - Single Version",
       "url": "https://open.spotify.com/track/2PmXD1CyQHqxhbi79osKTn"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6MAEuDumUgxsWaEWA6lddg"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE"
     },
     {
       "added_at": "2019-10-09 15:02:50",

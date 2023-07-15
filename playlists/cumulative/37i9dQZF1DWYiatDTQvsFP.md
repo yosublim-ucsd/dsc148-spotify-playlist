@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> it's scary hours...⛈️  cover: 50 Cent
+> it's scary hours...⛈️  cover: Mario
 
 252 songs - 17 hr 1 min
 

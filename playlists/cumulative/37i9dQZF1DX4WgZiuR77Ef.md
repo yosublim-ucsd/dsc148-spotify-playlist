@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-206 songs - 14 hr 26 min
+207 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 | 2020-10-30 |  |
 | [Let's Get a Groove On](https://open.spotify.com/track/3wHAECTBbg1jAck1XzfTeT) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/2MRnKlIIuBYkDQOgVXMwI2) | 2:54 | 2020-10-30 |  |
 | [Let's Get a Groove On](https://open.spotify.com/track/6nNHyyYKi90iRQbLuIdO8O) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Let's Get a Groove On](https://open.spotify.com/album/0MKoTL2lYJ3hUVDYyhmyTi) | 2:54 | 2020-10-30 | 2023-04-30 |
+| [Let's Party](https://open.spotify.com/track/2TlbhmuwUA0gEN4E9o5JRA) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI), [Sha Sha Jones](https://open.spotify.com/artist/0w8rt6SigpH4SOUOxJxWxq) | [Let's Party \(feat\. Sha Sha Jones\)](https://open.spotify.com/album/3FMoeHPuAVuYiVwzjEwVue) | 3:20 | 2023-07-14 |  |
 | [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 | 2022-04-29 |  |
 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 | 2020-10-30 | 2022-04-09 |
 | [Little Orphan Boy](https://open.spotify.com/track/0gn6Qb2WC279QfiOIVZzhN) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU) | [Little Orphan Boy](https://open.spotify.com/album/4yhhKYu4vNtJVWeh9dneMo) | 3:25 | 2022-05-06 |  |
@@ -156,7 +157,7 @@
 | [River Keep Runnin'](https://open.spotify.com/track/1iGkPsvP7ez6BWuXTxy4zg) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/0ZdibF3BhJdDquoGGMDuMA) | 4:08 | 2022-03-11 | 2022-10-15 |
 | [River Keep Runnin'](https://open.spotify.com/track/1ne7KDX3wIEn11XHoh9a0y) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [River Keep Runnin'](https://open.spotify.com/album/6sBBxKO8SWjxAKC8ZF7IHe) | 4:08 | 2022-03-11 | 2023-05-12 |
 | [Rock Steady \- Zigaboo Version \- Remastered](https://open.spotify.com/track/6W8053NfZcRCSO2EAnDF3b) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Kenya Hathaway](https://open.spotify.com/artist/3OOcpvOBvRu9XAb7YvasHB), [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Zigaboo Modeliste](https://open.spotify.com/artist/0nWyZCX1qLoZzRGC9ZmuaV) | [Rock Steady](https://open.spotify.com/album/4Tg10fXYYEuHtgFaDXSwPn) | 4:34 | 2020-10-30 |  |
-| [Satisfaction](https://open.spotify.com/track/3Y0WMxJ7Mpb7xe2RTa1LkD) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Satisfaction](https://open.spotify.com/album/5pZAsx99H0eSljRriWU5QS) | 5:14 | 2020-10-30 |  |
+| [Satisfaction](https://open.spotify.com/track/3Y0WMxJ7Mpb7xe2RTa1LkD) | [Diggin' Dirt](https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC) | [Satisfaction](https://open.spotify.com/album/5pZAsx99H0eSljRriWU5QS) | 5:14 | 2020-10-30 | 2023-07-15 |
 | [Scream!](https://open.spotify.com/track/1axoce2ootnHZJexnvtZlR) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Scream!](https://open.spotify.com/album/0pQVnkYcd792GtHHAeHGwq) | 4:34 | 2022-07-15 | 2023-06-13 |
 | [Scream!](https://open.spotify.com/track/35PUAa9vqiMdVhhzakNdaZ) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Intuition](https://open.spotify.com/album/1w9HaEuk86QrqTPclVzWZd) | 4:34 | 2022-07-15 |  |
 | [Shahryar's Rage](https://open.spotify.com/track/0EFnmJtuoxXxByPABDAzA5) | [The Heavy Pets](https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol) | [Strawberry Mansion](https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt) | 5:11 | 2020-10-30 | 2022-04-09 |

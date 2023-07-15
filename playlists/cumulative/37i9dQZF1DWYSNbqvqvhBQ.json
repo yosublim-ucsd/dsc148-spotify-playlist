@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 210202,
       "name": "a little more time",
       "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3il7EoYbXsrqTABgz1IHbV"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173480,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6oCkScXYHXf3ErRyYGZfCR"
+    },
+    {
+      "album": {
         "name": "Couldn't Make It Up",
         "url": "https://open.spotify.com/album/7x4nXw3hbF9h5GORc16WSV"
       },
@@ -816,7 +834,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 203320,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE"
@@ -942,10 +960,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 174393,
       "name": "Every Day and Every Night",
       "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
+    },
+    {
+      "album": {
+        "name": "Palomino Deluxe (Child of Summer Edition)",
+        "url": "https://open.spotify.com/album/1zQPgJzwxqFxwQbw8SmMGd"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "Everybody's Got to Learn",
+      "url": "https://open.spotify.com/track/6z0WgAtsvXR8zXH454CLtZ"
     },
     {
       "album": {
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 223559,
       "name": "Hard Days Love",
       "url": "https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO"
@@ -2287,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "No Way To Live",
+        "url": "https://open.spotify.com/album/3fHdS5pUbXVsjlcwU7VKUs"
+      },
+      "artists": [
+        {
+          "name": "Lumi",
+          "url": "https://open.spotify.com/artist/4a27RJTzPnKgoQpVlLONZf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246456,
+      "name": "No Way To Live",
+      "url": "https://open.spotify.com/track/40sY5Tx27mNTyrOytXuPp7"
+    },
+    {
+      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
       },
@@ -2467,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "Paranoia Blues",
+        "url": "https://open.spotify.com/album/6oZ0MkeEYNYIf4ehNuf6yf"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Paranoia Blues",
+      "url": "https://open.spotify.com/track/3wCVxrtfU6oZa3rLUkSGWE"
+    },
+    {
+      "album": {
         "name": "Pennies From Heaven",
         "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
       },
@@ -2558,6 +2630,24 @@
       "duration_ms": 237743,
       "name": "Pride (In The Name Of Love) - Songs Of Surrender",
       "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
+    },
+    {
+      "album": {
+        "name": "Purple Moon",
+        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
+      },
+      "artists": [
+        {
+          "name": "Ilgen-Nur",
+          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197203,
+      "name": "Purple Moon",
+      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
     },
     {
       "album": {
@@ -2902,7 +2992,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 248520,
       "name": "Still Kids (feat. Benjamin Herman)",
       "url": "https://open.spotify.com/track/6SABdpsm9fYDI7Hsc9hkWq"
@@ -3100,7 +3190,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 228893,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1kplLFEcIjhCmdEGxfuU7R"
@@ -3278,6 +3368,24 @@
       "duration_ms": 186453,
       "name": "The World",
       "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
+    },
+    {
+      "album": {
+        "name": "Blank Cassette",
+        "url": "https://open.spotify.com/album/7HFvude8TMDUuOTPZQaO0h"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "The World We Live In",
+      "url": "https://open.spotify.com/track/42DL51J09MOKC4sfBmQJWX"
     },
     {
       "album": {

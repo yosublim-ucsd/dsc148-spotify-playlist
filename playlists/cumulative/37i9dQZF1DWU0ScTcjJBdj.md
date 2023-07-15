@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-281 songs - 18 hr 10 min
+282 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Take Back Thy Gift](https://open.spotify.com/track/2vIbOavGv7iID6wZmFqN2k) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Take Back Thy Gift](https://open.spotify.com/album/1vXHYnUXAULJdM7TA1LQl9) | 3:13 | 2021-07-29 |  |
 | [The Barrel](https://open.spotify.com/track/04XeEuHyG4Z3NKY1zgAYEO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh) | 4:59 | 2019-05-26\* | 2022-07-29 |
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2022-06-24 |  |
+| [The Fall](https://open.spotify.com/track/2Dfy6vH1MRXrjdEw6a166U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 3:27 | 2023-07-14 |  |
 | [The Friary](https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Cobwebs](https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa) | 4:10 | 2020-09-05 | 2021-06-10 |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-03-10 |  |
 | [The Great Unknown](https://open.spotify.com/track/7kF4vqqMHWdlvQZGNxau81) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/5sV154bKxZ2fAEBV6cwsTC) | 4:12 | 2022-06-24 |  |

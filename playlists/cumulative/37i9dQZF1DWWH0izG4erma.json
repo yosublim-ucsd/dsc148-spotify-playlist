@@ -3165,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/1lSlga0mS2Ejwon1d6MmuQ"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167173,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/1Kmx22eXsWnlggH0Aj6wsa"
+    },
+    {
+      "album": {
         "name": "EOM - EP",
         "url": "https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d"
       },
@@ -3534,7 +3552,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 233973,
       "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
       "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 280065,
       "name": "Tabasco & Sweet Tea",
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
@@ -4570,6 +4588,24 @@
       "duration_ms": 184627,
       "name": "Wastin' gas",
       "url": "https://open.spotify.com/track/42y5QLhmZUTAIvjxj9j5Lu"
+    },
+    {
+      "album": {
+        "name": "Way I'm Living",
+        "url": "https://open.spotify.com/album/3HiGwG7lkGc2CyEXjCPOQQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Grow",
+          "url": "https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136668,
+      "name": "Way I'm Living",
+      "url": "https://open.spotify.com/track/3rgFJUx3Oz7Siwgts4Giwz"
     },
     {
       "album": {

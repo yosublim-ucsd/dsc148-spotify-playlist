@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-232 songs - 12 hr 42 min
+233 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [SORANAN BAM \(NOISY NIGHT\)](https://open.spotify.com/track/3huV5O3DJMTq184C4TKtxi) | [Im DAI](https://open.spotify.com/artist/09wVtuZNFaYTjO4bDX8fKE) | [SORANAN BAM \(NOISY NIGHT\)](https://open.spotify.com/album/6jrGR0gnwHHjacUJ5B02uc) | 3:26 | 2022-06-09 | 2022-07-13 |
 | [SORRY \(1000\)](https://open.spotify.com/track/7nxsVh3ar9i4KJU0wS2v3F) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FL1P](https://open.spotify.com/album/743UGdLJrUkteIeP1un8X2) | 3:41 | 2022-05-03 | 2022-07-28 |
 | [STAY UP \(feat\. OLNL\)](https://open.spotify.com/track/0FGuK7FQ5uXAtVUPpPXKhu) | [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z) | [4:04AM](https://open.spotify.com/album/2isxqvNnQwwtaqdDCkCBqz) | 4:06 | 2022-05-03 | 2022-07-14 |
+| [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 | 2023-07-07 |  |
 | [Stupid love songs](https://open.spotify.com/track/5679QcuvT2ZamHbyUPq4mV) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [WHY DO YOU](https://open.spotify.com/album/6YTlYnl0jbCrFrig3fXlT3) | 2:31 | 2022-05-03 | 2022-06-23 |
 | [Summer Rose](https://open.spotify.com/track/4brUMG3m8vli4aWgx5yfM5) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:24 | 2022-05-03 | 2022-07-14 |
 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-05-03 | 2022-12-13 |
@@ -234,7 +235,7 @@
 | [woo ah](https://open.spotify.com/track/2wRxlESh8Y8rzhbnX0i3Lc) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/1QykwYyjBCnV0mgzWweTiK) | 3:41 | 2022-07-08 |  |
 | [woo ah](https://open.spotify.com/track/5iOAtCkFtfPZoMeMbhMIY0) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Interlude](https://open.spotify.com/album/4kkHdqWkWD4yhHOnmaLCrS) | 3:41 | 2022-05-03 | 2022-07-29 |
 | [XYZ](https://open.spotify.com/track/5PGcigTxmOupyDeAp8lnFn) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:31 | 2022-05-03 | 2022-07-10 |
-| [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 | 2022-07-08 |  |
+| [You and I](https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g) | 2:40 | 2022-07-08 | 2023-07-15 |
 | [You and I](https://open.spotify.com/track/3sAxSK47Z6nfIzPmiM9pmv) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Oasis](https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1) | 2:40 | 2022-05-03 | 2022-07-24 |
 | [YOU KNOW](https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 4:04 | 2022-07-08 |  |
 | [밤밤밤 2:30 am](https://open.spotify.com/track/2Jt5DoVuJ4PIBiBlg8fUXM) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [밤밤밤 2:30 am](https://open.spotify.com/album/5n0TI35HW4A42CqPtbcQoj) | 3:11 | 2022-05-03 | 2022-07-29 |

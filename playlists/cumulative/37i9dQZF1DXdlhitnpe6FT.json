@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154506,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
+    },
+    {
+      "album": {
         "name": "Romantique",
         "url": "https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 135360,
       "name": "Boum",
       "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"

@@ -4,7 +4,7 @@
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-185 songs - 9 hr 41 min
+186 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 | 2022-06-03 | 2023-03-21 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 | 2023-01-09 | 2023-05-09 |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-05-08 |  |
+| [Esta Vida \- Jess Bays Remix](https://open.spotify.com/track/3DJpjKvU8vccxudxq0RO6f) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [Esta Vida \(Jess Bays Remix\)](https://open.spotify.com/album/4jdGfY92pBza5dbVWOnskR) | 3:52 | 2023-07-14 |  |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-11 | 2022-05-24 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-05-08 |  |
 | [Five More Hours](https://open.spotify.com/track/7ExF4RiAho7gfKKsxgZ31q) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [NOW That's What I Call PARTY ANTHEMS 3](https://open.spotify.com/album/3Rd3sggQA5U6WGk62jPQS8) | 3:30 | 2022-06-03 | 2022-11-14 |

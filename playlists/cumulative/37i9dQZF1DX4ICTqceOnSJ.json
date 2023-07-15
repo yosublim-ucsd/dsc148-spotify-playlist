@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Alma Sola (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1rkG4GlLGjDCLEAqXVKCo2"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282097,
+      "name": "Alma Sola - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2jVb4wnqiooprgsu1TUb09"
+    },
+    {
+      "album": {
         "name": "Amantes - Su Majestad La Eternidad",
         "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
       },
@@ -526,7 +548,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 219394,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP"

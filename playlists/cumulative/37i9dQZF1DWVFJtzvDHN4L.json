@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Survival of the Thickest (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5hcI02FOnGSFlOTO5zZiLy"
+      },
+      "artists": [
+        {
+          "name": "Transcenders",
+          "url": "https://open.spotify.com/artist/3TBJ2CQumYLSjZdgx369Yg"
+        },
+        {
+          "name": "Francci Richard",
+          "url": "https://open.spotify.com/artist/0julhRDXKjW4PjQb7L2tdE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140917,
+      "name": "One Time (Main Title)",
+      "url": "https://open.spotify.com/track/05qB2aL92iXwXytwcSbaDe"
+    },
+    {
+      "album": {
         "name": "Over The Pines (from the Motion Picture \"Land\")",
         "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
       },
@@ -1242,6 +1264,24 @@
       "duration_ms": 73573,
       "name": "The Only Way Is Down",
       "url": "https://open.spotify.com/track/4vHg75DPSyMvXGfcF2RTNF"
+    },
+    {
+      "album": {
+        "name": "Unknown: Cave Of Bones (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/40UqG0iP6C6U7bAYnebYtn"
+      },
+      "artists": [
+        {
+          "name": "Francesco Le Metre",
+          "url": "https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240533,
+      "name": "The Origin of Belief",
+      "url": "https://open.spotify.com/track/2OGX1pafcLlcqI0fmVCEjr"
     },
     {
       "album": {

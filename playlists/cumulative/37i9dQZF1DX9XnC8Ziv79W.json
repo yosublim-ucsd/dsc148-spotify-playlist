@@ -144,8 +144,8 @@
       },
       "artists": [
         {
-          "name": "Gana Gokul",
-          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
+          "name": "Kaimalu Gokul",
+          "url": "https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs"
         }
       ],
       "date_added": "2023-07-07",
@@ -376,8 +376,8 @@
       },
       "artists": [
         {
-          "name": "Gana Gokul",
-          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
+          "name": "Kaimalu Gokul",
+          "url": "https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs"
         },
         {
           "name": "Joy Sanjay",
@@ -438,8 +438,8 @@
       },
       "artists": [
         {
-          "name": "Gana Gokul",
-          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
+          "name": "Kaimalu Gokul",
+          "url": "https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs"
         }
       ],
       "date_added": "2022-11-05",
@@ -692,10 +692,36 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 216004,
       "name": "Oorambutu Ooru Sandaiyila",
       "url": "https://open.spotify.com/track/6EqiwXksjoC5Z5dhL8NmwS"
+    },
+    {
+      "album": {
+        "name": "Oorambutu Ooru Sandaiyila",
+        "url": "https://open.spotify.com/album/1TdEV9X9B1KqQutJldnQZ4"
+      },
+      "artists": [
+        {
+          "name": "Gaana Subash",
+          "url": "https://open.spotify.com/artist/3uOEdKZ7hTOfC0M33TYvNs"
+        },
+        {
+          "name": "Gaana Sakthi",
+          "url": "https://open.spotify.com/artist/0JW8eXqQUSkuDRsHDCHJUt"
+        },
+        {
+          "name": "Bennet Christopher",
+          "url": "https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216004,
+      "name": "Oorambutu Ooru Sandaiyila",
+      "url": "https://open.spotify.com/track/2ajNdMH9CNVigltOzDWANv"
     },
     {
       "album": {
@@ -968,8 +994,8 @@
       },
       "artists": [
         {
-          "name": "Gana Gokul",
-          "url": "https://open.spotify.com/artist/6brQ1X6Oy70YKeONysQ97r"
+          "name": "Kaimalu Gokul",
+          "url": "https://open.spotify.com/artist/6YqcexB8QhYETy5Ujm0GOs"
         },
         {
           "name": "Joy Sanjay",

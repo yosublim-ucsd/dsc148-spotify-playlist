@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 217606,
       "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
       "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 288240,
       "name": "Disco Numberwang - Yuksek Remix",
       "url": "https://open.spotify.com/track/6nQeJbbByQsUHqHHHaaYln"
@@ -1322,6 +1322,28 @@
       "duration_ms": 186226,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/4N79k6RD0LVpOVI5FZWk4p"
+    },
+    {
+      "album": {
+        "name": "End Of Time (Kungs Remix)",
+        "url": "https://open.spotify.com/album/5mgXK6W6VVKSk5b1qAEUfd"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154890,
+      "name": "End Of Time - Kungs Remix",
+      "url": "https://open.spotify.com/track/5CPguc1HJ26dhFkKxQFxYU"
     },
     {
       "album": {
@@ -2138,6 +2160,28 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "album": {
+        "name": "I'm A Woman",
+        "url": "https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Hepburn",
+          "url": "https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146648,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW"
     },
     {
       "album": {
@@ -3030,7 +3074,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220500,
       "name": "Lucky Charm",
       "url": "https://open.spotify.com/track/2erFbCr8uI3HIXEKcf3qoD"
@@ -3334,7 +3378,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 216960,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/3k11yfFTcHQtSkFY70wOX5"

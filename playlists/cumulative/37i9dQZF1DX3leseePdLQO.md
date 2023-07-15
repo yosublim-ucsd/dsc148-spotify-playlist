@@ -2,7 +2,7 @@
 
 ### [Crema Pop](https://open.spotify.com/playlist/37i9dQZF1DX3leseePdLQO)
 
-> Pop para refrescarte los días, featuring Leo Rizzi.
+> Pop para refrescarte los días, featuring Marc Seguí.
 
 98 songs - 4 hr 59 min
 

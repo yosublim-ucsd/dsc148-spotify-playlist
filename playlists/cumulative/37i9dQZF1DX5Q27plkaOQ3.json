@@ -264,7 +264,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 186206,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0B2NXI85NABXRoUcNNtceE"
@@ -718,6 +718,24 @@
       "duration_ms": 147529,
       "name": "BDASWY",
       "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
+    },
+    {
+      "album": {
+        "name": "Be Kind, Rewind",
+        "url": "https://open.spotify.com/album/5YNWyJ6NIuW7U5AU7GRc4R"
+      },
+      "artists": [
+        {
+          "name": "Infekt",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Be Kind, Rewind",
+      "url": "https://open.spotify.com/track/3AlizcdWe1hKHrSgnwZYSp"
     },
     {
       "album": {
@@ -1660,6 +1678,32 @@
       "duration_ms": 158840,
       "name": "Cut Throat",
       "url": "https://open.spotify.com/track/4x1SZsoKaJGOCEgg9EF4Uz"
+    },
+    {
+      "album": {
+        "name": "Dale (with Blvkstn)",
+        "url": "https://open.spotify.com/album/0pfeHOCyMOltzXv1K0ZYBL"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Blvkstn",
+          "url": "https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Dale (with Blvkstn)",
+      "url": "https://open.spotify.com/track/5W7s8j8GWNSAyHl4D0F8ab"
     },
     {
       "album": {
@@ -2852,7 +2896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 166400,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/0MwhtZx5lhT4HUey9HPwoW"
@@ -5573,6 +5617,28 @@
     },
     {
       "album": {
+        "name": "Rabbit",
+        "url": "https://open.spotify.com/album/1nkHILZFE1bO1akualURkP"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/0AXSb1gRlRsm9MT6O9fu91"
+    },
+    {
+      "album": {
         "name": "Ragnarok",
         "url": "https://open.spotify.com/album/263NdHDN0i3w7CNrfDFh6P"
       },
@@ -7130,7 +7196,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 247266,
       "name": "The Depths",
       "url": "https://open.spotify.com/track/7nyEoRvsBodEvuGTSZpbcx"

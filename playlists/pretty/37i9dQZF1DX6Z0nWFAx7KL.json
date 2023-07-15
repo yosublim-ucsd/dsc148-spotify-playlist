@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 33624,
+  "num_followers": 33649,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWVmNWM5NmQxNDE1YmUzYjliNWJkMmU1ZDE3MzRhNTk4NjU0MDZh",
+  "snapshot_id": "MCxhNGMyNzYwOGZmZjc3MDkwNGI2OTZmNzEzMzM2MzZkMzU3ZDhkNDRj",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -331,30 +331,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Found It With You",
-        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 163410,
-      "name": "Found It With You",
-      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -399,6 +375,30 @@
       "duration_ms": 156923,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Found It With You",
+        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 163410,
+      "name": "Found It With You",
+      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
-      },
-      "artists": [
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        },
-        {
-          "name": "Eloi El",
-          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
-        }
-      ],
-      "duration_ms": 139010,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
       },
@@ -519,26 +499,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down (with SIDEPIECE)",
-      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Forgot How to Love",
         "url": "https://open.spotify.com/album/7oCCiK2qVfJY019T4Wdhgj"
       },
@@ -555,6 +515,46 @@
       "duration_ms": 149055,
       "name": "Forgot How to Love",
       "url": "https://open.spotify.com/track/2DyOstPCEqOJfBA4tcMC6t"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/46dZ3gViTkdI4tJFQYIkul"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Eloi El",
+          "url": "https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ"
+        }
+      ],
+      "duration_ms": 139010,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/03TeqvF26mItybhh9k3wPA"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down (with SIDEPIECE)",
+      "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Bloom (nowifi Remix)",
         "url": "https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 121461,
       "name": "Bloom (nowifi Remix)",
       "url": "https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/3O73IvF4b98mCzFXAbVUQg"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        }
-      ],
-      "duration_ms": 175169,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -879,30 +879,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "High Hopes",
-        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 127021,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Waves (feat. Grace Tither)",
         "url": "https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 187377,
       "name": "Botanica",
       "url": "https://open.spotify.com/track/2kxCwxxJ44zd6yd8ha4tVs"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 127021,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Free Falling Love",
-        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Free Falling Love",
-      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 152000,
       "name": "In The Sun",
       "url": "https://open.spotify.com/track/2oOsMm1b1DchtPDNEjLBcm"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Free Falling Love",
+        "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Free Falling Love",
+      "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "A Radiant Sign",
-        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
+        "name": "Feeling Lost Tonight",
+        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
         }
       ],
-      "duration_ms": 232917,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
+      "duration_ms": 106315,
+      "name": "Feeling Lost Tonight",
+      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Feeling Lost Tonight",
-        "url": "https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6"
+        "name": "A Radiant Sign",
+        "url": "https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl"
       },
       "artists": [
         {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
         }
       ],
-      "duration_ms": 106315,
-      "name": "Feeling Lost Tonight",
-      "url": "https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2"
+      "duration_ms": 232917,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ExxJ9telaOPy8U2onom9F"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "See You On The Other Side",
         "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
       },
@@ -1547,30 +1563,6 @@
       "duration_ms": 171944,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/1EGKV7dx9qfyrwx9TG25uu"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC"
-        },
-        {
-          "name": "Heleen",
-          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
-        }
-      ],
-      "duration_ms": 161236,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/2QPe0WJJNOf9ufgl9VMrHq"
     }
   ],
   "unique_name": "Dance Chill",

@@ -1,12 +1,12 @@
 {
   "description": "The best of the 1980s classics for July 4th, from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more. Fourth of July | 4th of July | Independence Day",
-  "num_followers": 2478794,
+  "num_followers": 2478964,
   "original_name": "80s HITS | TOP 100 SONGS",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "Mjg0OCw0MzY5N2VmNzIzNzZiZTBkZTYyYTlhYTY5MjdjNzYzMjkwNzE0ZjAw",
+  "snapshot_id": "Mjg1MCw2NjFlNWZlNWEwYmQ1MWNkMWVjZTJiNTJmM2NlOTFlNjMzZGI0ZmM0",
   "tracks": [
     {
       "added_at": "2023-07-13 17:16:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-13 17:16:58",
       "album": {
-        "name": "The Very Best Of Sting And The Police",
-        "url": "https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/4U3Ggqyv2XgnS1u82HOGQX"
-    },
-    {
-      "added_at": "2023-07-13 17:16:58",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -551,22 +535,6 @@
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
-    },
-    {
-      "added_at": "2023-07-13 17:16:58",
-      "album": {
-        "name": "Around The World In A Day",
-        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
     },
     {
       "added_at": "2023-07-13 17:16:58",
@@ -1087,6 +1055,22 @@
     {
       "added_at": "2023-07-13 17:16:58",
       "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
+    },
+    {
+      "added_at": "2023-07-13 17:16:58",
+      "album": {
         "name": "Eye In The Sky (Expanded Edition)",
         "url": "https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 338800,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
+    },
+    {
+      "added_at": "2023-07-13 17:16:58",
+      "album": {
+        "name": "The Very Best Of Sting And The Police",
+        "url": "https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/4U3Ggqyv2XgnS1u82HOGQX"
     },
     {
       "added_at": "2023-07-13 17:16:58",

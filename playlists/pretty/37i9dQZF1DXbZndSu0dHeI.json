@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 173266,
+  "num_followers": 173308,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmRiZTQ1YWFlYTc0MzhiNWM1ZWUyYWRmNTEyZGIwYzk5OGNkMmNj",
+  "snapshot_id": "MCw1ODQ2NTg0ZjJiZjNhYTM5N2NiMTdjNGI2YzkyYWVjOGJhY2FjYTlj",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
     },
     {
-      "added_at": "2023-01-13 13:15:53",
-      "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Drop Stop Roll",
@@ -263,6 +247,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2023-01-13 13:15:53",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "The Last Exit",
-        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "The Last Exit",
+        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 212142,
       "name": "Devil I Know",
       "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -903,18 +887,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
       "artists": [
         {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -933,6 +917,22 @@
       "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
+    },
+    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Shelter",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "And Then Nothing Turned Itself Inside-Out",
@@ -979,6 +963,22 @@
       "duration_ms": 276640,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
-      "added_at": "2023-07-04 22:20:24",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/416L17hcREztXb0qE0lvIe"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Woman on the Internet",
@@ -1251,6 +1235,22 @@
       "duration_ms": 220208,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+    },
+    {
+      "added_at": "2023-07-04 22:20:24",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/0yy9OW008MzYLOxNBvQbjE"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/416L17hcREztXb0qE0lvIe"
     },
     {
       "added_at": "2022-08-05 10:31:40",

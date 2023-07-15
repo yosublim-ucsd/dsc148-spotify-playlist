@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Kylie Morgan
 
-330 songs - 18 hr 3 min
+331 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Shoot Tequila](https://open.spotify.com/track/6nTul7GTW3DInboBkJvvHw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Shoot Tequila](https://open.spotify.com/album/6qm6WlvE5XIrFEoYTcKT2Q) | 3:13 | 2023-01-13 |  |
 | [Should Have Known Better](https://open.spotify.com/track/0zpaxKLpHw3zCmiYcvn9OV) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Should Have Known Better](https://open.spotify.com/album/1rx8rmLDRuBdpDxf6Jfd3c) | 2:26 | 2021-12-01 | 2023-06-13 |
 | [Shoulda](https://open.spotify.com/track/3eEPoXCE8euzeFobYQTK9M) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Shoulda](https://open.spotify.com/album/33lv7maaJKvCMkhRG2QVfF) | 2:46 | 2021-12-01 | 2022-07-27 |
-| [Should’ve Known Better](https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:01 | 2021-12-01 |  |
+| [Should’ve Known Better](https://open.spotify.com/track/6ihxXxSjslaVYd3oaAHCMT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 3:01 | 2021-12-01 | 2023-07-15 |
 | [Show Off](https://open.spotify.com/track/1A4EM9Z33ditYkCHNw5Ivc) | [QUEEVA](https://open.spotify.com/artist/7BDSrECxsc6RyFL2qFkomJ) | [Show Off](https://open.spotify.com/album/4ja9kiZUVYoKQaNiVZVxQb) | 2:33 | 2022-03-25 | 2022-04-18 |
 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 | 2021-12-01 | 2022-07-29 |
 | [Sis](https://open.spotify.com/track/5VBzq86zKNUGcDJ3w7L773) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Thrive](https://open.spotify.com/album/403UrghdFYpOMzKF1QfYzQ) | 3:00 | 2022-03-25 | 2022-04-16 |
@@ -276,6 +276,7 @@
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2021-12-01 |  |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-06-17 | 2022-11-13 |
 | [The Fire](https://open.spotify.com/track/4QZPq8EZc4lYrLx84mTj4i) | [Bianca Bernardi](https://open.spotify.com/artist/2TIuyaQARaUZFmGw3PUfbC) | [The Fire](https://open.spotify.com/album/6sycWScq71yiwJ0qYJRV4W) | 4:16 | 2022-03-25 | 2022-04-20 |
+| [The Girl I Was](https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY) | 3:38 | 2023-07-14 |  |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2021-12-01 |  |
 | [The Last One](https://open.spotify.com/track/0GG6NLm8QLCV55TPXrBkUK) | [Regan Stewart](https://open.spotify.com/artist/0ni8Vfv1R0NcA0bkAaa9tE) | [The Last One](https://open.spotify.com/album/1j4HCkPYegl1wGFwMrF9G9) | 3:29 | 2022-03-25 | 2022-04-17 |
 | [The Last Time](https://open.spotify.com/track/2JiEzw012NnQ3PoW6VWM1P) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Last Time](https://open.spotify.com/album/0jOEXC4gDm1Fh40eOFHVYo) | 3:30 | 2023-03-31 | 2023-05-06 |

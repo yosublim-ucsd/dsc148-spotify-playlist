@@ -4,7 +4,7 @@
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-124 songs - 11 hr 48 min
+125 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Piece Of Me](https://open.spotify.com/track/4OwEzHcQFC67PLgXLQHUN4) | [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Piece Of Me](https://open.spotify.com/album/0y3bTaIQ5n9nPOJFk9c1Zj) | 5:01 | 2023-07-07 |  |
 | [Planet W](https://open.spotify.com/track/3ROTsehvKzF2jwm0qYfTYW) | [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd) | [LALALAND Miami 2023](https://open.spotify.com/album/20Rtpy2qVNnac1nrC4eUlv) | 6:00 | 2023-03-17 | 2023-06-21 |
 | [Prayer \- 623 Again Vocal Mix](https://open.spotify.com/track/6sSjMJC4C04SKjrHbxKi39) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Rev F\. L\. Brown](https://open.spotify.com/artist/4MJHGtGNmDBfbDq7LfsJwO) | [Prayer](https://open.spotify.com/album/3GydW4vAlw2pCGe8BZC5Fa) | 6:24 | 2022-08-12 |  |
-| [Rave](https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 6:45 | 2022-08-12 |  |
+| [Rave](https://open.spotify.com/track/2nAfcOcGRIvNMHvY70i18M) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa) | 6:45 | 2023-07-07 |  |
+| [Rave](https://open.spotify.com/track/5YDbSfN5oKWBoeyf9nBA38) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl) | [Satellite](https://open.spotify.com/album/1ZocCJ1c4V46xAAFJa7DIs) | 6:45 | 2022-08-12 | 2023-07-15 |
 | [Rendez\-Vu \- Marco Lys Remix \- Edit](https://open.spotify.com/track/2fUkcyLhxm8AVT4v7vsjlI) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Rendez\-Vu \(Remixes\)](https://open.spotify.com/album/2FgroWn0lOTtBOnBls3CgQ) | 3:19 | 2022-08-12 | 2023-03-18 |
 | [Repeater](https://open.spotify.com/track/67BEklbFc8XS1xxQrU7RAO) | [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z) | [Repeater](https://open.spotify.com/album/59CuamVrMPFI7xPYYnw6UQ) | 4:19 | 2023-06-20 |  |
 | [Rivalda \- Joyce Muniz Remix](https://open.spotify.com/track/3zTUehiPkOy0EMkWthENI7) | [Mulya](https://open.spotify.com/artist/2PPUUxTpjYJxG3pCQDpDzg), [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L) | [Rivalda](https://open.spotify.com/album/4EuCFfi9dDiWrg5agVLQDL) | 6:17 | 2022-11-07 | 2023-03-18 |

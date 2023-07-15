@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.
 
-142 songs - 9 hr 0 min
+143 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ) | 5:01 | 2022-11-24 | 2023-06-18 |
 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/26vTeYgVVVqNwZLfOicw9p) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 5:01 | 2022-07-28 | 2022-11-20 |
 | [Fawda \| فوضي](https://open.spotify.com/track/09anZUksJfj5f1BbphM5lV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [Dj Reo](https://open.spotify.com/artist/2wNCR677docA3slrerB4Bl) | [Fawda \| فوضي](https://open.spotify.com/album/3nvEPbZmYCfINY95gXb5xr) | 4:15 | 2022-07-29 |  |
-| [Game Over](https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga) | 3:26 | 2023-03-19 | 2023-07-12 |
+| [Game Over](https://open.spotify.com/track/15y6KCjCHdmOsgAdVgXEk9) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/6HOywAUSITHmBdCSOIFjga) | 3:26 | 2023-03-19 |  |
 | [Game Over](https://open.spotify.com/track/1Ugd8rJZxQtXYsBIomcpje) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5) | [Game Over](https://open.spotify.com/album/2Ecl7wjijwl7H3bAlyZE2O) | 3:26 | 2022-08-04 | 2023-02-16 |
 | [Gana El Baby](https://open.spotify.com/track/1skMZgzGSwvim3fqlL2bAW) | [Kamal Tarbas](https://open.spotify.com/artist/7k2jLu8f7ZTFNFfSikL3hK) | [Gana El Baby](https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc) | 7:10 | 2022-07-29 | 2022-10-14 |
 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 | 2022-07-29 |  |
@@ -68,7 +68,7 @@
 | [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 | 2022-07-29 |  |
 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 | 2021-12-09 | 2023-02-11 |
 | [Honey Butter](https://open.spotify.com/track/5M1qJ55WcgLKPlVuufaWJF) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [Honey Butter](https://open.spotify.com/album/6h4XKVixD373Cup55t3RYj) | 3:41 | 2022-08-24 | 2022-10-08 |
-| [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 | 2023-03-19 |  |
+| [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 | 2023-03-19 | 2023-07-15 |
 | [Ia Sudan Ma'alesh](https://open.spotify.com/track/33U53mkczIUGC8kmaIZ0A0) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Let Me Be](https://open.spotify.com/album/2b8jkXLchoqaLrY2tHFNxG) | 4:33 | 2021-12-09 | 2022-07-28 |
 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 | 2021-12-09 | 2022-07-29 |
 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 | 2022-07-29 |  |
@@ -91,7 +91,7 @@
 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 | 2021-12-09 |  |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/4tB0DZqgYqg0lY2GhW2sbH) | 2:38 | 2021-12-09 | 2022-07-28 |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk) | 2:38 | 2022-07-28 |  |
-| [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 | 2023-03-19 |  |
+| [Modarab](https://open.spotify.com/track/4FmRfOUWREoooYkcT9DFW6) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Modarab](https://open.spotify.com/album/3dzdj41YMNwyT4BPoCpujO) | 2:11 | 2023-03-19 | 2023-07-15 |
 | [Mook II \(Rerelease\) \[feat\. Bas\]](https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk) | [Hemdi](https://open.spotify.com/artist/5MCsHy03kWsXatVAGb4sSi), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [3049 Floors](https://open.spotify.com/album/4nxSgV9VWOHy9xudxuImF9) | 3:18 | 2021-12-09 | 2022-07-16 |
 | [Morning Blue \- COLORS Sudan](https://open.spotify.com/track/2oMYJVL7b8YF8IaqJMm73x) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue \- COLORS Sudan](https://open.spotify.com/album/6b6oq7chpMKqqjpGzIDVKI) | 4:13 | 2022-07-28 | 2022-07-30 |
 | [Morning Blue \- COLORS Sudan](https://open.spotify.com/track/4HROyIljn4IEasWTj8rNi4) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Morning Blue \- COLORS Sudan](https://open.spotify.com/album/7gUXSut0yqiItE6HBCeRgP) | 4:13 | 2021-12-09 | 2022-07-29 |
@@ -101,6 +101,7 @@
 | [Nar \- Nickodemus & Kiko Navarro Remix](https://open.spotify.com/track/0zkILNJ1AzG3J2bnYuSDhE) | [Alsarah & The Nubatones](https://open.spotify.com/artist/7xGVP8NTuOKRVkNMl2fv7n), [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Kiko Navarro](https://open.spotify.com/artist/1NZAlPHtdhiK1HzHrQClTj) | [Manara Remixed](https://open.spotify.com/album/0dMwJwEy5wN0Jn1wrEJns0) | 7:10 | 2021-12-09 | 2022-07-26 |
 | [Night Like This](https://open.spotify.com/track/4uNzJgLH0na20JsQvugjVB) | [G\-SALIH](https://open.spotify.com/artist/3scwYk1hqSSlet4g32bRw6) | [GIHAD](https://open.spotify.com/album/0r9ea9EcUQ8CM469NTAqp9) | 3:08 | 2021-12-09 | 2022-07-29 |
 | [Noora](https://open.spotify.com/track/28QZMziRHzyxHet8LKkv7R) | [Mohamed Gubara](https://open.spotify.com/artist/6nl9GL3qa0qk0BFYsEG37s) | [Sounds of Sudan](https://open.spotify.com/album/631O6gPniiPLl8u6fxzrVo) | 6:10 | 2021-12-09 | 2022-07-29 |
+| [Nyctophilia](https://open.spotify.com/track/1XBbWRDkbUNl9We8ZebYmp) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 4:02 | 2023-07-14 |  |
 | [On Sight](https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [On Sight](https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368) | 3:17 | 2022-06-30 | 2022-07-30 |
 | [Pablo](https://open.spotify.com/track/4YX2GxGnSl5om1hp7JxwH4) | [Bbnbooda](https://open.spotify.com/artist/7qSpIerjnYf4qu9ShXRPlV) | [Pablo](https://open.spotify.com/album/7yvCJaFB6MLnXbbZvbVk4R) | 2:13 | 2021-12-09 | 2023-02-03 |
 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 | 2022-06-30 |  |

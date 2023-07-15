@@ -4,7 +4,7 @@
 
 > La nueva generación del Afrobeat con un toque latino\. Rels B en portada
 
-71 songs - 3 hr 42 min
+74 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Horas](https://open.spotify.com/track/5CCCk6rRJS0wTPHFY6vWR9) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [AFROCOLOMBIA](https://open.spotify.com/album/2rRxRnkCMNcnctsli9i5aU) | 3:51 | 2023-06-30 |  |
 | [Huellas](https://open.spotify.com/track/7H895ehRhFjhsikLfhGIui) | [El Zeta](https://open.spotify.com/artist/24iSgjiesQ2bhUsHsav2uk), [Jeyson](https://open.spotify.com/artist/1jtg85qtccJcbVMD13rTuE) | [Huellas](https://open.spotify.com/album/3HfJAWUR1sN5WVxWcvxzy2) | 3:52 | 2023-06-30 |  |
 | [Humo Y Alcohol](https://open.spotify.com/track/7vAH5eAX9fU4dwAfiLjQnA) | [Andy G](https://open.spotify.com/artist/7rzrrEp4bNPTsktfkWphSQ), [FatBoy Rgs](https://open.spotify.com/artist/4UfG7ZwIIDGQEG89gLvjbp) | [Humo Y Alcohol](https://open.spotify.com/album/034N3HszToAJAFfchNlBs6) | 3:16 | 2023-06-30 |  |
+| [JAMAICA](https://open.spotify.com/track/0CfT7itIloWd1mHzBodIcE) | [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [JAMAICA](https://open.spotify.com/album/4H257WlMBP9Ecg6VHS8Iaf) | 2:07 | 2023-07-14 |  |
 | [La Ocasion](https://open.spotify.com/track/74CPuIbR78A2ZaSMksan4P) | [Valeria](https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Blazt](https://open.spotify.com/artist/7g8L0ohonIuB0veBPm4QaY) | [La Ocasion](https://open.spotify.com/album/7wAcU8YnWKMRzuRHORs8Cy) | 3:11 | 2023-06-30 |  |
 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 | 2023-07-07 |  |
 | [Lo Que Hice Por Ti](https://open.spotify.com/track/355CXdm0xfwSBQaCXF8Z2l) | [Free Stayla](https://open.spotify.com/artist/4VjVuN6ChJOzpF5Xj5fpgj) | [Lo Que Hice Por Ti](https://open.spotify.com/album/2zcFcC8YTevmisjeKSb7NC) | 3:01 | 2023-06-30 |  |
@@ -62,6 +63,7 @@
 | [Resaca](https://open.spotify.com/track/1YEuECARZWCbrG0Cv9hebn) | [Lucas Cliff](https://open.spotify.com/artist/3i8ZNeevB87dG77Df5GJZx) | [Resaca](https://open.spotify.com/album/3J2lPZotdMVHMI0yCwPeYs) | 2:42 | 2023-06-30 |  |
 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 | 2023-06-30 |  |
 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 | 2023-07-07 |  |
+| [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-07-14 |  |
 | [Se Sofoca](https://open.spotify.com/track/2rDbclhyBj0DElzPZzqHjH) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Se Sofoca](https://open.spotify.com/album/22IQel0Q4rrlNaVnJzrKhf) | 2:51 | 2023-06-30 |  |
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 | 2023-06-30 |  |
 | [Sin Tabú](https://open.spotify.com/track/3XBoKsUcft4IFc3y10SDeW) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Sin Tabú](https://open.spotify.com/album/14kqcnvO0wPiYy8qngCHtb) | 2:32 | 2023-06-30 |  |
@@ -78,6 +80,7 @@
 | [Tucu](https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Tucu](https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj) | 3:06 | 2023-06-30 |  |
 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 | 2023-06-30 |  |
 | [Umaye](https://open.spotify.com/track/0ayp5mTJMPRlDF5uHWB3CY) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [Umaye](https://open.spotify.com/album/3lk98k04z5zicK7vAVkDu7) | 2:31 | 2023-06-30 |  |
+| [Un Rodeoooo](https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Un Rodeoooo](https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi) | 2:16 | 2023-07-14 |  |
 | [Viralizando](https://open.spotify.com/track/7vESM7YLN1URW3yLZjPI5W) | [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO) | [Viralizando](https://open.spotify.com/album/6bcJdspcnVaezjRzYNhP0B) | 2:44 | 2023-06-30 |  |
 
 \*This playlist was first scraped on 2023-07-06. Prior content cannot be recovered.

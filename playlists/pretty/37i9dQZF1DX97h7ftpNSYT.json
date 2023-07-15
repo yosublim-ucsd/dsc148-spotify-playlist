@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2010s. Cover: Mac Miller",
-  "num_followers": 146308,
+  "num_followers": 146358,
   "original_name": "I Love My 2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDkxYTA2ZDEwMzY5Mjk5NWE5NTk3Zjg0Y2U3OWIyNjZhNzdlOTdj",
+  "snapshot_id": "MCw5ZDA3NGRjYjJjYzA5YTVkYjNmYTZkOTZhNDdkNWRiNzhlMDdkZTVl",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -839,30 +839,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
-      },
-      "artists": [
-        {
-          "name": "JACKBOYS",
-          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 157712,
-      "name": "OUT WEST (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 228759,
       "name": "ZEZE (feat. Travis Scott & Offset)",
       "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "JACKBOYS",
+        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+      },
+      "artists": [
+        {
+          "name": "JACKBOYS",
+          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 157712,
+      "name": "OUT WEST (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Lil Uzi Vert vs. The World",
-        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
+        "name": "A Love Letter To You 3",
+        "url": "https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 198944,
-      "name": "Money Longer",
-      "url": "https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ"
+      "duration_ms": 175954,
+      "name": "1400 / 999 Freestyle",
+      "url": "https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "A Love Letter To You 3",
-        "url": "https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug"
+        "name": "Lil Uzi Vert vs. The World",
+        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 175954,
-      "name": "1400 / 999 Freestyle",
-      "url": "https://open.spotify.com/track/75lcPkAkUsKWHGBlGM476R"
+      "duration_ms": 198944,
+      "name": "Money Longer",
+      "url": "https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+      "url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -1235,18 +1251,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "AT.LONG.LAST.A$AP",
-        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
         }
       ],
-      "duration_ms": 126960,
-      "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
-      "url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm"
+      "duration_ms": 189486,
+      "name": "Swervin (feat. 6ix9ine)",
+      "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1267,26 +1287,6 @@
       "duration_ms": 293840,
       "name": "I Don't Like",
       "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Hoodie SZN",
-        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Swervin (feat. 6ix9ine)",
-      "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "LONG.LIVE.A$AP (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 236280,
-      "name": "Fashion Killa",
-      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
@@ -1403,6 +1371,62 @@
       "duration_ms": 300160,
       "name": "Poetic Justice",
       "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 280173,
+      "name": "Hate Bein' Sober",
+      "url": "https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 236280,
+      "name": "Fashion Killa",
+      "url": "https://open.spotify.com/track/0O3TAouZE4vL9dM5SyxgvH"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1447,30 +1471,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 280173,
-      "name": "Hate Bein' Sober",
-      "url": "https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "ELEMENT.",
-      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "ELEMENT.",
+      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1603,22 +1603,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 203093,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
+      "duration_ms": 194732,
+      "name": "Never Recover (Lil Baby & Gunna, Drake)",
+      "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1651,26 +1655,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 194732,
-      "name": "Never Recover (Lil Baby & Gunna, Drake)",
-      "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
+      "duration_ms": 203093,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1839,18 +1839,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+        "name": "My Krazy Life",
+        "url": "https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 175040,
-      "name": "Grinding All My Life",
-      "url": "https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE"
+      "duration_ms": 233515,
+      "name": "Who Do You Love?",
+      "url": "https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT"
     },
     {
       "added_at": "2023-06-30 04:00:00",

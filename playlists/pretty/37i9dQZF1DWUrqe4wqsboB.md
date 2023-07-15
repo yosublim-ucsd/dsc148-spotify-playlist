@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,687 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 36 | [Live This One](https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Letra Pa' tu Coco](https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE) | 3:32 |
 | 37 | [Watersport](https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Watersport](https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg) | 4:01 |
 | 38 | [Exclusive](https://open.spotify.com/track/3oXtsk0XZtIgKIGLCSoh8I) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Exclusive](https://open.spotify.com/album/5JKKt233aF55L0qtCubR6m) | 2:29 |
-| 39 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
-| 40 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
+| 39 | [Flow Criollo](https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5) | [El Hijo de Borikén](https://open.spotify.com/artist/7uXZ6bfeXXpFv8Wrx86zyG) | [El Hijo de Borikén](https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV) | 4:17 |
+| 40 | [Tu Nunca Has Sentido](https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [La Rareza](https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh) | 2:41 |
 | 41 | [Miento](https://open.spotify.com/track/3zXnqU3s2bL6ScV8eh4XqF) | [Deiv](https://open.spotify.com/artist/6Z26q1zYyoHDTzO2SrVaX1) | [Miento](https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne) | 2:49 |
 | 42 | [Dulce Estar](https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB) | [Polem](https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw) | [Lo Sencillo](https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT) | 3:30 |
 | 43 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Igual](https://open.spotify.com/track/1rbWuptjj5QnfG3ngZiiLx) | [Los Berets](https://open.spotify.com/artist/7seVD4zALd4VgPn2G7VWRM) | [Igual](https://open.spotify.com/album/41zIUQ0zbNnO3uoRJzxm9S) | 2:09 |
 | 50 | [Auu](https://open.spotify.com/track/43W23I8GxJset6wCOObzSH) | [Circo](https://open.spotify.com/artist/5f4yA5jDkv5z75thk9ZNTc) | [Auu](https://open.spotify.com/album/5FFFPr7Jy5dVDhxdr77pBo) | 2:54 |
 
-Snapshot ID: `MCw4ZTc3YzJlNmU1YWE4MDA4MzY1MGY5NzJiMmNlMTY1ODJjOTgyYWJj`
+Snapshot ID: `MCw2YTdjNWQ2NDczZWZkNTIwMzViMjhkNWIyZTA5ZjBkODRmNjVkYzhk`

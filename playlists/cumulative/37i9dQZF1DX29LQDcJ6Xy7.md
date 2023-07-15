@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-201 songs - 14 hr 18 min
+202 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,9 @@
 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 | 2022-07-01 |  |
 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 | 2022-08-12 |  |
 | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/album/05hx91BgMBOcBKxR0QdwmZ) | 6:06 | 2022-07-01 | 2022-07-29 |
-| [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 | 2022-07-01 | 2022-12-14 |
+| [Alive](https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9) | [CueStack](https://open.spotify.com/artist/4LoOAdJreuAUms1QPSfyjG) | [Alive](https://open.spotify.com/album/4vHlOSWsU5EtLy4XKPAdmM) | 4:24 | 2022-07-01 |  |
 | [Angst](https://open.spotify.com/track/0UuNO0yYvsMPlyLF7RfQlg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:44 | 2022-07-01 |  |
-| [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 | 2022-08-12 |  |
+| [Animal](https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH) | [Prick](https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz) | [Animal](https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN) | 4:15 | 2022-08-12 | 2023-07-15 |
 | [Anti\-Social Masochistic Rage \[ASMR\]](https://open.spotify.com/track/0VrXpPSNlwKep3otvmw9iX) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 3:13 | 2022-07-01 | 2023-05-06 |
 | [Assimilate](https://open.spotify.com/track/512No5uXtXbhNh7OOz03pF) | [Skinny Puppy](https://open.spotify.com/artist/5Mu0EMEsUIVE132pNMywns) | [Bites](https://open.spotify.com/album/48uIwIUdrqvY27C7sXF9CA) | 6:56 | 2022-08-12 |  |
 | [Augen auf!](https://open.spotify.com/track/6gcFq5UOdNa8LzTRd4lldD) | [OOMPH!](https://open.spotify.com/artist/2mZITUvfEwrKlksoGpHTsM) | [Wahrheit oder Pflicht](https://open.spotify.com/album/6ChP2BF5LTHwyjzklcSTiG) | 3:20 | 2022-07-01 |  |
@@ -85,7 +85,7 @@
 | [Hate Like Me](https://open.spotify.com/track/51GIPw8fk0mEg63IEnVHcs) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/7AxB5F98Vr647vnLNtbYrR) | 4:15 | 2022-12-01 |  |
 | [Hate Like Me](https://open.spotify.com/track/5iwwHtW8mghDtFh42V4ZyR) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:15 | 2022-07-01 | 2022-11-19 |
 | [Hatred Will Prevail \- Monolith Remix](https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P) | [Recoded](https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj) | 5:44 | 2022-10-29 |  |
-| [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 | 2022-07-01 |  |
+| [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 | 2022-07-01 | 2023-07-15 |
 | [Head Like A Hole](https://open.spotify.com/track/3ckd4YA4LcD3j50rfIVwUe) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:59 | 2022-08-12 |  |
 | [Headhunter V1.0](https://open.spotify.com/track/0Z4kAZhiliHgkMxOEtg896) | [Front 242](https://open.spotify.com/artist/2tyMOS8xKREgpEwHnLc6EX) | [Front By Front](https://open.spotify.com/album/3bJDzdsqXwjo9EXupegwIR) | 5:02 | 2022-08-12 |  |
 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 | 2022-07-01 |  |
@@ -149,6 +149,7 @@
 | [Never Wanted To Dance](https://open.spotify.com/track/3nM1EJJ80pJGiG32WFfJxc) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/49KrtYvUHrMbO4kYKmxQly) | 3:08 | 2022-08-12 | 2023-05-06 |
 | [New Blood \- Zardonic Remix](https://open.spotify.com/track/5jFoxzpYeDOzLpjsNbrn9m) | [Mechanical Vein](https://open.spotify.com/artist/5Uvsfedp0YTUBwr9v8qmtG), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [New Blood \(Zardonic Remix\)](https://open.spotify.com/album/0wfxJZQzF8pltK1jMvcHea) | 4:29 | 2022-07-01 | 2022-07-28 |
 | [New Messiah](https://open.spotify.com/track/784D068nWk6mUvEXkufPnF) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [New Messiah](https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem) | 4:30 | 2023-04-11 |  |
+| [Obliteration](https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Obliteration](https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe) | 3:37 | 2023-07-14 |  |
 | [Ofelia](https://open.spotify.com/track/3kYCOAQ2UuI4LO13zZ3Pk3) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Ofelia](https://open.spotify.com/album/3rMOT6Us0N6xkRqmoaDX5x) | 3:08 | 2022-12-01 |  |
 | [One Fire](https://open.spotify.com/track/2FcrIQ9A3i6KO2ntF5Yfsu) | [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [One Fire](https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W) | 4:00 | 2022-07-01 | 2022-07-27 |
 | [Onenemy \- Fury Weekend Remix](https://open.spotify.com/track/4fFGvYEG72Y3Imc1vKb8Yf) | [Circle of Dust](https://open.spotify.com/artist/60GtR6PIcDY1pikPgKHNk9), [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH) | [Onenemy \(Fury Weekend Remix\)](https://open.spotify.com/album/0umZ3sEPUw1FjHxvnLAW4V) | 4:32 | 2022-07-01 | 2022-07-29 |

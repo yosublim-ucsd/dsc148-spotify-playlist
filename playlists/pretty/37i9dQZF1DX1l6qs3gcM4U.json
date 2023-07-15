@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.  ",
-  "num_followers": 175355,
+  "num_followers": 175475,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2E0ZGI4OTRhYzJhZGU3N2QyZTZkZDk5ZmQzOTdkNGM3NjIyNmUz",
+  "snapshot_id": "MCwzOGZkYzczNzczYjU4Y2NmMjEzM2M1NmJhZmFkMGI4Mjg1ZmY4Mzg5",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Vais Me Perder",
         "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 221462,
       "name": "Vais Me Perder",
       "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Benka Benka",
+        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Dias",
+          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
+        },
+        {
+          "name": "SOS MUCCI",
+          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Benka Benka",
+      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 200005,
       "name": "Nossas Coisas (feat. Ary)",
       "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Benka Benka",
-        "url": "https://open.spotify.com/album/02hwY0hIvxe1FWcZgTk5Iy"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Dias",
-          "url": "https://open.spotify.com/artist/45qwEAGFSoIAhlRJqYZIml"
-        },
-        {
-          "name": "SOS MUCCI",
-          "url": "https://open.spotify.com/artist/21ocGsKFd81lXPoObBFoCU"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Benka Benka",
-      "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
     },
     {
       "added_at": "2023-07-13 23:00:00",

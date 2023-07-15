@@ -1711,6 +1711,32 @@
     },
     {
       "album": {
+        "name": "Nav Irodh Hinge",
+        "url": "https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj"
+      },
+      "artists": [
+        {
+          "name": "Chirayu",
+          "url": "https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ"
+        },
+        {
+          "name": "dixit",
+          "url": "https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy"
+        },
+        {
+          "name": "Jack Michael",
+          "url": "https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182854,
+      "name": "Nav Irodh Hinge",
+      "url": "https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5"
+    },
+    {
+      "album": {
         "name": "Nee Nanna Jeeva",
         "url": "https://open.spotify.com/album/4qVOsEyOFZZ281rQj3vkGU"
       },
@@ -2160,6 +2186,24 @@
       "duration_ms": 247254,
       "name": "Obbane",
       "url": "https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf"
+    },
+    {
+      "album": {
+        "name": "Pakshi",
+        "url": "https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc"
+      },
+      "artists": [
+        {
+          "name": "Karlow",
+          "url": "https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177534,
+      "name": "Pakshi",
+      "url": "https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ"
     },
     {
       "album": {

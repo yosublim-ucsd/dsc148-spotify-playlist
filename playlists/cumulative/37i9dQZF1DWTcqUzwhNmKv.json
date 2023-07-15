@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Nita Strauss on top of the biggest Metal playlist.",
+  "description": "Make Them Suffer on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Desolation",
+        "url": "https://open.spotify.com/album/0iVToj9ECjMRQXrqHJFWj9"
+      },
+      "artists": [
+        {
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245599,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/3ZD0qLiUdLVn1eWDfDhaq2"
+    },
+    {
+      "album": {
         "name": "The Mourning",
         "url": "https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro"
       },
@@ -2855,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "From The Inside",
+        "url": "https://open.spotify.com/album/5rLz0FCrDlU8zsSjFpKQo2"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "From The Inside",
+      "url": "https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI"
+    },
+    {
+      "album": {
         "name": "Fuckboi (feat. Conquer Divide)",
         "url": "https://open.spotify.com/album/1pVy6lUUdpYfD2b88KYf6l"
       },
@@ -3898,7 +3934,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 267744,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6syEBcinz3tRLPwM9Kdemo"
@@ -4316,7 +4352,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 189807,
       "name": "Martyr",
       "url": "https://open.spotify.com/track/0mMLlzPBEIJPjBu0CHhsOU"
@@ -5331,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Post Traumatic Blues",
+        "url": "https://open.spotify.com/album/1SUWFyxji7bVsbRYYi2Dni"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343120,
+      "name": "Post Traumatic Blues",
+      "url": "https://open.spotify.com/track/5CC5bb5rrxisi8Mmb3prcL"
+    },
+    {
+      "album": {
         "name": "Power of Will",
         "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
       },
@@ -5764,7 +5818,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 268699,
       "name": "Scourge of the Offspring",
       "url": "https://open.spotify.com/track/68xQkT5Ww6SZBzbQzreOju"
@@ -5960,7 +6014,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 322720,
       "name": "She is a Fire",
       "url": "https://open.spotify.com/track/4y1FN6vpHYUAaJVEOsgCHp"
@@ -6546,6 +6600,28 @@
       "duration_ms": 187894,
       "name": "State Of Unrest",
       "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
+    },
+    {
+      "album": {
+        "name": "Stay [Feat. Patrick Wilson]",
+        "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        },
+        {
+          "name": "Patrick Wilson",
+          "url": "https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234220,
+      "name": "Stay [Feat. Patrick Wilson]",
+      "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
     },
     {
       "album": {

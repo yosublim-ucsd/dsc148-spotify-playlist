@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,966 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,218 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 50 | [Paradise](https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Paradise](https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ) | 5:35 |
 | 51 | [Shadows](https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb) | [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [Shadows](https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV) | 3:07 |
 | 52 | [Black Cathedral](https://open.spotify.com/track/6SQHBJhkZJHoul8PJ8EHXC) | [This Cold Night](https://open.spotify.com/artist/3pIO4LI39vyMYT9cou1B7j) | [While I Disappear](https://open.spotify.com/album/4efXao3lMzP4AWTn94pFL5) | 2:55 |
-| 53 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 |
-| 54 | [Space Echo](https://open.spotify.com/track/545WpZctvOyaIPJBhenv3Z) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Space Station](https://open.spotify.com/album/0S0y4THoNccPD2F5BWoS09) | 3:35 |
+| 53 | [Space Echo](https://open.spotify.com/track/545WpZctvOyaIPJBhenv3Z) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Space Station](https://open.spotify.com/album/0S0y4THoNccPD2F5BWoS09) | 3:35 |
+| 54 | [Marian \- Version](https://open.spotify.com/track/4wBLUjwy4lFXNWzCuxDqfZ) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [First and Last and Always Collection](https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh) | 5:43 |
 | 55 | [Into Those Woods](https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf) | [Bragolin](https://open.spotify.com/artist/3WbMTcYVLy8BJXZOP1uPnD) | [I Saw Nothing Good so I Left](https://open.spotify.com/album/1J0j8hO4GDpgZThi71ZgW8) | 3:23 |
 | 56 | [The Style Is Death](https://open.spotify.com/track/3BMBp3Ope7onUWMUCyZ2ok) | [Forever Grey](https://open.spotify.com/artist/3HSpbkijRqVAa1bn0hyEfz) | [Alabaster Chamber](https://open.spotify.com/album/4vkFkFOTEusDOuy70rDrkL) | 3:57 |
 | 57 | [Melancholy](https://open.spotify.com/track/1CKbOdC5szD5tR0VpMPNOk) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 3:10 |
@@ -72,22 +72,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 62 | [Fate](https://open.spotify.com/track/53Zvj4xbSFKwSJeXjyocHK) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:17 |
 | 63 | [Propagation](https://open.spotify.com/track/2MIF5EhJoAZ6cXgMqfAwdw) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Iteration](https://open.spotify.com/album/6x43T5KNDP5e0c4hV8x3Go) | 4:10 |
 | 64 | [SEGA SUNSET](https://open.spotify.com/track/4wFwlekWkj23Vu900tKPum) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [RARITIES](https://open.spotify.com/album/0hk4v5Rn7oMCaMu1gGbw7s) | 3:02 |
-| 65 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
-| 66 | [Мёртв внутри](https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [505](https://open.spotify.com/album/1Gd5xQXl0i7qN5Zt4u4bIz) | 3:38 |
+| 65 | [Мёртв внутри](https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK) | [Electroforez](https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [505](https://open.spotify.com/album/1Gd5xQXl0i7qN5Zt4u4bIz) | 3:38 |
+| 66 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
 | 67 | [Sadness Is Rebellion](https://open.spotify.com/track/2nlZXuEOc2jtntW37SBRTT) | [Lebanon Hanover](https://open.spotify.com/artist/6w8h2uD28BEdg7bX4k3Lh7) | [Tomb for Two](https://open.spotify.com/album/7iOwibdJg2i7SQEBpe5EIR) | 3:44 |
 | 68 | [Biessensoŭnasć](https://open.spotify.com/track/2R1Yk6vm11P3pLIrtBR4eM) | [Nürnberg](https://open.spotify.com/artist/2IkTGThCeQAPGMru4uXzs4) | [Skryvaj](https://open.spotify.com/album/4v7LVUKXfXJwsomhfHaefk) | 2:56 |
 | 69 | [По краю острова](https://open.spotify.com/track/6wTo0Z5PVnIrvaDAXlixXD) | [Ploho](https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg), [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [По Краю Острова](https://open.spotify.com/album/6F1QbOIurgbtsbhKaS3SUr) | 3:41 |
-| 70 | [A Company](https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 2:58 |
-| 71 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 |
+| 70 | [Honey](https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA) | [Minuit Machine](https://open.spotify.com/artist/5PW3MLdSbq1ptFI0QTCSID) | [Violent Rains](https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU) | 3:32 |
+| 71 | [A Company](https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4) | [Human Tetris](https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG) | [Memorabilia](https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY) | 2:58 |
 | 72 | [Plasticity](https://open.spotify.com/track/3nMXh9pQqC2nS5OAZrhy9s) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:11 |
 | 73 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 |
 | 74 | [cabin](https://open.spotify.com/track/6yYnE5DDbv0e6TlzlSDJgX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3SnEK6pCU5qFtnLXSbZT6i) | 3:20 |
 | 75 | [Sensation](https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Sensation](https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf) | 4:36 |
 | 76 | [That House](https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [B\-Sides: Vol\. 1](https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI) | 4:46 |
 | 77 | [Little Lies](https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Little Lies](https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix) | 4:14 |
-| 78 | [Тебя Нет Рядом](https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ) | [Vollny](https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P) | [I](https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P) | 4:02 |
-| 79 | [Rituel](https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Belirdi Gece](https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC) | 4:56 |
-| 80 | [A Little Death to Laugh](https://open.spotify.com/track/3YAtxohy6aksWr6uE1xAT0) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Full Cold Moon](https://open.spotify.com/album/4KeTTSYDEjvdOMzudYo82J) | 3:38 |
+| 78 | [A Little Death to Laugh](https://open.spotify.com/track/3YAtxohy6aksWr6uE1xAT0) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Full Cold Moon](https://open.spotify.com/album/4KeTTSYDEjvdOMzudYo82J) | 3:38 |
+| 79 | [Тебя Нет Рядом](https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ) | [Vollny](https://open.spotify.com/artist/7JicwePFjrTsQusfRCaM1P) | [I](https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P) | 4:02 |
+| 80 | [Rituel](https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Belirdi Gece](https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC) | 4:56 |
 | 81 | [66 MHz](https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [66 MHz](https://open.spotify.com/album/5n9NdJA0qI9zrfg65zdzwK) | 3:54 |
 | 82 | [S.W.A.K.](https://open.spotify.com/track/2X8j1vYJaJZ1vIRp7csg2y) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [World Class](https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x) | 3:54 |
 | 83 | [Night Vision](https://open.spotify.com/track/6J4LmfWAfxkEfQZE0OKCo6) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Night Vision](https://open.spotify.com/album/4lN4JWv9uMwvZ7eL1XviGa) | 3:50 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 94 | [Roll The Credits](https://open.spotify.com/track/6St9uiBUG4L7LvVNuUcm8a) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Roll The Credits](https://open.spotify.com/album/0fpFEstlRYE58T2sIuubdg) | 4:13 |
 | 95 | [Into the Void](https://open.spotify.com/track/68FAxdemTDnum52uSSYUWd) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Chroma](https://open.spotify.com/album/6wIN1Dl6CDXyXPEVxjugqF) | 3:36 |
 | 96 | [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 |
-| 97 | [Give Me a Reason](https://open.spotify.com/track/5D5pXBwMzqo9Q7Htm54vPR) | [Selofan](https://open.spotify.com/artist/1StVGGYOC5FM3aNpJQ74Vj) | [Vitrioli](https://open.spotify.com/album/3as8D8sQme1il9W9o1MCs6) | 4:16 |
-| 98 | [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 |
+| 97 | [Тайна](https://open.spotify.com/track/7DJYUVyrJsNrMD0Do9r2k9) | [Увула](https://open.spotify.com/artist/3AUmmVu7wsx1EvUr1vlsk9) | [Нам остается лишь ждать](https://open.spotify.com/album/2yU6jXlKENHSyVG2bI33UZ) | 3:01 |
+| 98 | [Give Me a Reason](https://open.spotify.com/track/5D5pXBwMzqo9Q7Htm54vPR) | [Selofan](https://open.spotify.com/artist/1StVGGYOC5FM3aNpJQ74Vj) | [Vitrioli](https://open.spotify.com/album/3as8D8sQme1il9W9o1MCs6) | 4:16 |
 | 99 | [Звук и темнота](https://open.spotify.com/track/1C2DCm6KwDa1bVBJM4Mh5Z) | [Дурной Вкус](https://open.spotify.com/artist/75hHfYoo9WURXtqGB24Q2j) | [Звук и темнота](https://open.spotify.com/album/56qzZ00inodGzhGPLT3wXL) | 3:30 |
 | 100 | [Against the Law](https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS) | [Donbor](https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3) | [Dead City](https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd) | 4:56 |
 
-Snapshot ID: `MCxkYjkyYjBiMTY2ZmU4NGI5MDkxNGM1ZDA5ODE3Yjg3YmQ1YjAxYWZi`
+Snapshot ID: `MCwzYzRmZDI0NjRiYzViMDJiNjM4ZGRhNTBjZjk0MWEwZTQwYzZmZTI4`

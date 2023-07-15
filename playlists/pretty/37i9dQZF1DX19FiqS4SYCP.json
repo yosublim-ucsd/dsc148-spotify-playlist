@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142487,
+  "num_followers": 142490,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmFjODEyMzQ0ZDM2YmUwNzc1ODA2OTg5ZTNhM2QwZTU5MTE5N2Rl",
+  "snapshot_id": "MCwzZTg5MjAyZjgxY2FhM2U3YTZmMjhiZjcyNGZlYjAyMmZjNWUxOTMx",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Soy Mas Fuerte (Deluxe)",
-        "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
-      },
-      "artists": [
-        {
-          "name": "Monica Saldivar",
-          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
-        }
-      ],
-      "duration_ms": 229536,
-      "name": "Infraganti",
-      "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Solamente Tu",
         "url": "https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 206546,
       "name": "Super Heroe",
       "url": "https://open.spotify.com/track/1JG96INBN360PdDZnWztog"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Soy Mas Fuerte (Deluxe)",
+        "url": "https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6"
+      },
+      "artists": [
+        {
+          "name": "Monica Saldivar",
+          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
+        }
+      ],
+      "duration_ms": 229536,
+      "name": "Infraganti",
+      "url": "https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
-      },
-      "artists": [
-        {
-          "name": "Potente",
-          "url": "https://open.spotify.com/artist/5bvI6ngb2zCeNFMe2wDSWD"
-        }
-      ],
-      "duration_ms": 193850,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Entiende Corazon",
         "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189166,
       "name": "Entiende Corazon",
       "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
+      },
+      "artists": [
+        {
+          "name": "Potente",
+          "url": "https://open.spotify.com/artist/5bvI6ngb2zCeNFMe2wDSWD"
+        }
+      ],
+      "duration_ms": 193850,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
-      },
-      "artists": [
-        {
-          "name": "ALICIA C",
-          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
-        }
-      ],
-      "duration_ms": 177225,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Volver\u00e1s",
         "url": "https://open.spotify.com/album/6ixTsLJz2DcMzqHtJneQkZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 200698,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/7ARQgwWu1HNr6GVo7OIlfb"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/5HVrcYwT78z0OsbZmiEtLV"
+      },
+      "artists": [
+        {
+          "name": "ALICIA C",
+          "url": "https://open.spotify.com/artist/0JEYuKSjp4pSEcUujGTz0X"
+        }
+      ],
+      "duration_ms": 177225,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/6FS7iWuieGglr6YX7olj0x"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Que Dolor",
-        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
-      },
-      "artists": [
-        {
-          "name": "George Salazar",
-          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
-        }
-      ],
-      "duration_ms": 202292,
-      "name": "Que Dolor",
-      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Necesito Borrarte",
         "url": "https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 254586,
       "name": "Necesito Borrarte",
       "url": "https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Que Dolor",
+        "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
+      },
+      "artists": [
+        {
+          "name": "George Salazar",
+          "url": "https://open.spotify.com/artist/3M5SDIlfm3AZkshJqEkJEY"
+        }
+      ],
+      "duration_ms": 202292,
+      "name": "Que Dolor",
+      "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Toda Una Vida",
-        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
-      },
-      "artists": [
-        {
-          "name": "Andie Bustamante",
-          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
-        }
-      ],
-      "duration_ms": 180410,
-      "name": "Toda Una Vida",
-      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "No Me Busques",
         "url": "https://open.spotify.com/album/66y7EqCzVP6G5AKcOZd1Gk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 228812,
       "name": "No Me Busques",
       "url": "https://open.spotify.com/track/5Su2iRj6HmnO1vXh2xWEQ6"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Toda Una Vida",
+        "url": "https://open.spotify.com/album/0hf4M1OfFfsgOhCRU6KcNf"
+      },
+      "artists": [
+        {
+          "name": "Andie Bustamante",
+          "url": "https://open.spotify.com/artist/47UmYJPZ4xYXNvnzIddqlK"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Toda Una Vida",
+      "url": "https://open.spotify.com/track/5UmuGyqgMzhFJxML3ILvKV"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Tequilera",
-        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
-      },
-      "artists": [
-        {
-          "name": "Andrea Michelle",
-          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
-        }
-      ],
-      "duration_ms": 204355,
-      "name": "La Tequilera",
-      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "La Buena Vida",
         "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 222041,
       "name": "La Buena Vida",
       "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "La Tequilera",
+        "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
+      },
+      "artists": [
+        {
+          "name": "Andrea Michelle",
+          "url": "https://open.spotify.com/artist/4b5rbIYGkQ8Am0R8yEuTkA"
+        }
+      ],
+      "duration_ms": 204355,
+      "name": "La Tequilera",
+      "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
     },
     {
       "added_at": "2023-03-10 18:43:28",

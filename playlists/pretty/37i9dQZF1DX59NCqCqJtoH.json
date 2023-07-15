@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1144215,
+  "num_followers": 1144230,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWY1YjZkYmRjMDA0MmFiZDg2ODc5MTVlMjM3ZmNhNDkwOWRmNTg0",
+  "snapshot_id": "MCxiNjk2YzZkMGJhMjI3NWEwN2M4ZWM3MjQxYWY0OTUzNDI2NGQxYmU2",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "I Can't Hate You",
-        "url": "https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc"
-      },
-      "artists": [
-        {
-          "name": "Kayou.",
-          "url": "https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz"
-        },
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "I Can't Hate You",
-      "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
       },
@@ -415,18 +395,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "I Can't Hate You",
+        "url": "https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Kayou.",
+          "url": "https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz"
+        },
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 303066,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
+      "duration_ms": 178480,
+      "name": "I Can't Hate You",
+      "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -443,6 +427,22 @@
       "duration_ms": 133866,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/3x9uA9T40z2W6x0qG41Uqe"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 303066,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7JPmhsHbjaDGmTCKBZxVVU"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Cotton Candy",
         "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 93871,
       "name": "Cotton Candy",
       "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "goodnight moon (demos)",
         "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 107369,
       "name": "i'll never fall in love with myself (demo)",
       "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "grim",
-        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
-      },
-      "artists": [
-        {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
-        }
-      ],
-      "duration_ms": 134885,
-      "name": "fragment",
-      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "If I Really Love You",
         "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 194754,
       "name": "If I Really Love You",
       "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "grim",
+        "url": "https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55"
+      },
+      "artists": [
+        {
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
+        }
+      ],
+      "duration_ms": 134885,
+      "name": "fragment",
+      "url": "https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "the way we used to love.",
-        "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
-      },
-      "artists": [
-        {
-          "name": "eli.",
-          "url": "https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "disappear",
-      "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "hortel\u00e3",
         "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 289058,
       "name": "just wanna forget you",
       "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "the way we used to love.",
+        "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
+      },
+      "artists": [
+        {
+          "name": "eli.",
+          "url": "https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "disappear",
+      "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/17NymtTA5f652cEtnCApuZ"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Trashfire",
-      "url": "https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ"
+      "duration_ms": 174957,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/3RJzro8ofJNR6iVoCrXh16"
     }
   ],
   "unique_name": "idk.",

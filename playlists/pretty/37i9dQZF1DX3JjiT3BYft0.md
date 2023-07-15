@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,506 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,528 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,24 +59,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [寄る辺のSunny, Sunny](https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 3:35 |
 | 50 | [遠い音楽 \~ハートビート\~](https://open.spotify.com/track/1m7rkEyTtteRmWbMQlDK4W) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 \~ハートビート\~」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 4:03 |
 | 51 | [GO! GO! MANIAC](https://open.spotify.com/track/3bq1rFkB36oXG5yd9oGQQC) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/3fL6Q3WtPj6Unm0IZAc5fd) | 4:09 |
-| 52 | [クインティプル☆すまいる](https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [クインティプル☆すまいる](https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J) | 4:03 |
-| 53 | [チョコレイトの低音レシピ](https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 4:31 |
+| 52 | [チョコレイトの低音レシピ](https://open.spotify.com/track/0o4od2HRigwdtMGZdRnwXA) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 4:31 |
+| 53 | [クインティプル☆すまいる](https://open.spotify.com/track/38h0Hs77kE2C1nRN9KgZqp) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [クインティプル☆すまいる](https://open.spotify.com/album/7jSTcMdYALUXD6hZWdsw5J) | 4:03 |
 | 54 | [Glee! Glee! Glee!](https://open.spotify.com/track/0spL1ckbyCxLJMb7ZgQgdy) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL) | 3:31 |
 | 55 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 56 | [どきどきSING OUT!](https://open.spotify.com/track/2cKXxQ7PblsMJ7UON7aS11) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 4:08 |
 | 57 | [走り始めたばかりのキミに \- Acoustic Ver.](https://open.spotify.com/track/2dIATJ6r2UqRyTjNKqEwYQ) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [TVアニメ「BanG Dream!」キャラクターソング 花園たえ「花園電気ギター!!!」](https://open.spotify.com/album/5P4j5hJFmb6nF18tisqj5g) | 4:55 |
 | 58 | [夏空 Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/2bUelKUEXJNjgLv3S8JjAX) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA) | 4:59 |
 | 59 | [STAR BEAT!\~ホシノコドウ\~ \- Acoustic Ver.](https://open.spotify.com/track/03l8t2nRF2QOQWBBlTMFEZ) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 \~ハートビート\~」](https://open.spotify.com/album/1kIj39FLWHXqd73Nal7tzK) | 5:26 |
-| 60 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 3:53 |
-| 61 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 5:10 |
+| 60 | [Yes! BanG Dream! \- Acoustic Ver.](https://open.spotify.com/track/2jt7Q2lEEadsaYg5Sxru2M) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [TVアニメ「BanG Dream!」キャラクターソング 牛込りみ「チョコレイトの低音レシピ」](https://open.spotify.com/album/6FbxgPesZO4zbeWV0CF6VP) | 5:10 |
+| 61 | [ティアドロップス \- Acoustic Ver.](https://open.spotify.com/track/5G2RV7o6t5WKI0YtWNT3ZJ) | [戸山 香澄\(CV:愛美\)](https://open.spotify.com/artist/0TDcytIDEIOHNYfQwSVkFP) | [どきどきSING OUT!](https://open.spotify.com/album/1yQKhOaT8Uq7UeLs1soLVn) | 3:53 |
 | 62 | [Ringing Bloom](https://open.spotify.com/track/47lKHyMERKqbCwYVw4ytTz) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [FIRE BIRD](https://open.spotify.com/album/47gXlcUI10HgzKjkEfe69o) | 5:34 |
 | 63 | [灼熱 Bonfire!](https://open.spotify.com/track/1kbvJ9ovjKzoibiWzeBkaB) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/4hQnaCfXlMwWHofrkAQDOE) | 3:44 |
 | 64 | [ROZEN HORIZON](https://open.spotify.com/track/1hypmw0p1Ntu6T5VcAfT6K) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 6:06 |
 | 65 | [BRAVE JEWEL](https://open.spotify.com/track/0UUdr5Qqnn7RdzX6v47KVa) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:07 |
 | 66 | [Song I am.](https://open.spotify.com/track/289IAotG694ek6V1Lp54Ue) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 4:02 |
 | 67 | [UNSTOPPABLE](https://open.spotify.com/track/4ESSZqnHF1VDK3zsqk2vvM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/7rw0JTu5asLZcjzmCUmbgD) | 3:50 |
-| 68 | [一逢のFull Glory](https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 3:52 |
-| 69 | [Blessing Chord](https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:37 |
+| 68 | [Blessing Chord](https://open.spotify.com/track/1gIDTFzgfEGSWotGHdVxEo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU) | 4:37 |
+| 69 | [一逢のFull Glory](https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 3:52 |
 | 70 | [閃光](https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ROZEN HORIZON](https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz) | 3:38 |
 | 71 | [BLACK SHOUT](https://open.spotify.com/track/6NhXiTNe6XM5thwqyL610L) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H) | 4:04 |
 | 72 | [約束](https://open.spotify.com/track/0mMlO2uGxvX8Mr11RSB4y9) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/0QFCJnuyWXGoVD6MgOYLGz) | 5:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [Dear Gleam](https://open.spotify.com/track/0HROV3Xfypq6qYCOzTVNCj) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 4:13 |
 | 75 | [Proud of oneself](https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS) | 3:55 |
 
-Snapshot ID: `MCxmYzI1NmYwZWE1YjMwODZiM2M0NjJmZWYyMGFmNTBjOWYzZWU5Zjc0`
+Snapshot ID: `MCxjYjg2NTliOTlhOTMxNTI1OTIzOWZjY2QxYjA1NjRhMDk0ZGQ3NzVl`

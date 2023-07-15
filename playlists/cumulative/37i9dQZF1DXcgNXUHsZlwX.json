@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 199794,
       "name": "Carry Me (Acoustic)",
       "url": "https://open.spotify.com/track/1ZKj7bESDaRueWtgUF9r3e"
@@ -1870,6 +1870,24 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
+    },
+    {
+      "album": {
+        "name": "Feeling Like A Plant",
+        "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "Feeling Like A Plant",
+      "url": "https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu"
     },
     {
       "album": {
@@ -5130,10 +5148,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 315733,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4faMpESfM79zvaCQLk77jt"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/2imTMz6pOueudBTtYwfjVv"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315733,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/7vWo3iSvgtpFtuSZeUAK7a"
     },
     {
       "album": {

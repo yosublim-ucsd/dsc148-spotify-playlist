@@ -1,12 +1,12 @@
 {
   "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: \u4e2d\u6751\u4f73\u7a42(Kaho Nakamura)",
-  "num_followers": 50130,
+  "num_followers": 50145,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTY1NTQ3ZWQ3NTYxYTljYjE0MzI1YTM4YzAxZjc0NWVlMDNkNGRi",
+  "snapshot_id": "MCw2NjdhYjQ0NzMzNTRiOTlkMmZkMjYzNmYzMDQwN2I3YTU3MzA0Mzky",
   "tracks": [
     {
       "added_at": "2023-07-11 15:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "Bee and The Whales",
-        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
-      },
-      "artists": [
-        {
-          "name": "Galileo Galilei",
-          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
-        }
-      ],
-      "duration_ms": 207624,
-      "name": "\u6b7b\u3093\u3067\u304f\u308c",
-      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "My Plan",
         "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "Bee and The Whales",
+        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "duration_ms": 207624,
+      "name": "\u6b7b\u3093\u3067\u304f\u308c",
+      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "Space Orphans",
-        "url": "https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo"
+        "name": "\u751f\u6d3b\u306e\u30cb\u30e5\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
         }
       ],
-      "duration_ms": 275630,
-      "name": "Space Orphans",
-      "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
+      "duration_ms": 296119,
+      "name": "\u6211\u611b\u4f60",
+      "url": "https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "\u751f\u6d3b\u306e\u30cb\u30e5\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz"
+        "name": "Space Orphans",
+        "url": "https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo"
       },
       "artists": [
         {
-          "name": "Cody\u30fbLee(\u674e)",
-          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 296119,
-      "name": "\u6211\u611b\u4f60",
-      "url": "https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08"
+      "duration_ms": 275630,
+      "name": "Space Orphans",
+      "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
-        "url": "https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E"
-      },
-      "artists": [
-        {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
-        }
-      ],
-      "duration_ms": 302956,
-      "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
-      "url": "https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "Passione",
-        "url": "https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF"
+        "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
+        "url": "https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E"
       },
       "artists": [
         {
-          "name": "WONK",
-          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
         }
       ],
-      "duration_ms": 232202,
-      "name": "Passione",
-      "url": "https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv"
+      "duration_ms": 302956,
+      "name": "\u98a8\u306e\u5411\u304d\u304c\u5909\u308f\u3063\u3066",
+      "url": "https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 120184,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/6BH26KLvdWAgWyh5ITG3Li"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "Passione",
+        "url": "https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF"
+      },
+      "artists": [
+        {
+          "name": "WONK",
+          "url": "https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE"
+        }
+      ],
+      "duration_ms": 232202,
+      "name": "Passione",
+      "url": "https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "Dancer in the Dark",
-        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
+        "name": "PARA PARA",
+        "url": "https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A"
       },
       "artists": [
         {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
         }
       ],
-      "duration_ms": 175532,
-      "name": "Dancer in the Dark",
-      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
+      "duration_ms": 170595,
+      "name": "PARA PARA",
+      "url": "https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "PARA PARA",
-        "url": "https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A"
+        "name": "Dancer in the Dark",
+        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
       },
       "artists": [
         {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
         }
       ],
-      "duration_ms": 170595,
-      "name": "PARA PARA",
-      "url": "https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN"
+      "duration_ms": 175532,
+      "name": "Dancer in the Dark",
+      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
+        "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/0kqROzkDHknD23ANUiDhgl"
+      },
+      "artists": [
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
+        }
+      ],
+      "duration_ms": 248720,
+      "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/4s96Bk8Z7euqfxZt2PMgGy"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
         "name": "\u5728\u591c\u5e02\u518d\u898b",
         "url": "https://open.spotify.com/album/4T8JGSQyzpRN9LclQj3ki5"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 282480,
       "name": "\u5728\u591c\u5e02\u518d\u898b",
       "url": "https://open.spotify.com/track/3e2DlkRgMkGQyRpHvxuekb"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
-        "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/0kqROzkDHknD23ANUiDhgl"
-      },
-      "artists": [
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        }
-      ],
-      "duration_ms": 248720,
-      "name": "\u30bb\u30eb\u30d5\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/4s96Bk8Z7euqfxZt2PMgGy"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
-        "url": "https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f"
-      },
-      "artists": [
-        {
-          "name": "Teikokukissa",
-          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
-        }
-      ],
-      "duration_ms": 193329,
-      "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
-      "url": "https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "\u6843\u6e90\u90f7",
         "url": "https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 243055,
       "name": "\u6843\u6e90\u90f7",
       "url": "https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
+        "url": "https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "duration_ms": 193329,
+      "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
+      "url": "https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
+        "name": "\u541b\u304c\u6708",
+        "url": "https://open.spotify.com/album/1hhiBnQFx0Eez2GJkBc8Tg"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "\u541b\u304c\u6708",
+      "url": "https://open.spotify.com/track/2ElXUarSsxLsuMeT7quZUR"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30e1\u30a4\u30d3\u30fc",
         "url": "https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 339466,
       "name": "\u82b1\u5411",
       "url": "https://open.spotify.com/track/6KITCkP5y0gBxlUhVO3N2O"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
-        "name": "\u541b\u304c\u6708",
-        "url": "https://open.spotify.com/album/1hhiBnQFx0Eez2GJkBc8Tg"
-      },
-      "artists": [
-        {
-          "name": "Teikokukissa",
-          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "\u541b\u304c\u6708",
-      "url": "https://open.spotify.com/track/2ElXUarSsxLsuMeT7quZUR"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "\u5922",
-        "url": "https://open.spotify.com/album/1y4H0diX3fRtiDmjYr5KyK"
+        "name": "Blue light",
+        "url": "https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M"
       },
       "artists": [
         {
-          "name": "Izumi Makura",
-          "url": "https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29"
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
         }
       ],
-      "duration_ms": 233071,
-      "name": "\u5922",
-      "url": "https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5"
+      "duration_ms": 235500,
+      "name": "Blue light",
+      "url": "https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g"
     }
   ],
   "unique_name": "Edge!",

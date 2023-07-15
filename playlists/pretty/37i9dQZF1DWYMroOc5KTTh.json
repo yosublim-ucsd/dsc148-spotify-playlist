@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 408717,
+  "num_followers": 408805,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODNlMmI5NDJlZjM2MmI3OTY4NzE2NDhhM2QxZTFlZjA1OWQ0YTFh",
+  "snapshot_id": "MCxiYTExZWQwYTllMzgyNDQyMWNkMDU5YjIzNTNjODM5ZWMyYTZmYjY1",
   "tracks": [
     {
       "added_at": "2023-05-22 16:14:56",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
         "name": "Yesterday's Gone",
         "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 172653,
       "name": "Damselfly",
       "url": "https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg"
     },
     {
       "added_at": "2023-05-22 16:14:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-22 16:14:56",
       "album": {
-        "name": "Mixer",
-        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 192823,
-      "name": "Mixer",
-      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
-    },
-    {
-      "added_at": "2023-05-22 16:14:56",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/7GnbITNZyR4bk4pzCzIlMJ"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 190276,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0eOcjJgpO8XdJbPMYJgKqq"
+    },
+    {
+      "added_at": "2023-05-22 16:14:56",
+      "album": {
+        "name": "Mixer",
+        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 192823,
+      "name": "Mixer",
+      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     },
     {
       "added_at": "2023-05-22 16:14:56",

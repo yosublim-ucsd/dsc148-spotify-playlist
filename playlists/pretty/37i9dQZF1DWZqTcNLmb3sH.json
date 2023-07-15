@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50103,
+  "num_followers": 50117,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTk4M2I1ODVkOWI0NTgwMGYzNWUwYzVhZDk4NzY5YWY0NDU3YTAw",
+  "snapshot_id": "MCwxNDViYjU0NjU0NDBiMzI4Zjg3N2UzOThlYmExOGIxZWZiMDhjMWFl",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -175,6 +175,30 @@
       "duration_ms": 167051,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/6HhBDFjRAK28aqnb6Xyfc2"
+    },
+    {
+      "added_at": "2023-07-14 06:06:30",
+      "album": {
+        "name": "Ayyo Ayyo (From \"Namo Boothathma 2\")",
+        "url": "https://open.spotify.com/album/3hLhbQWsYNhgEHTne7kvRN"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Arun Andrew",
+          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
+        },
+        {
+          "name": "Kaviraj",
+          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
+        }
+      ],
+      "duration_ms": 249514,
+      "name": "Ayyo Ayyo - From \"Namo Boothathma 2\"",
+      "url": "https://open.spotify.com/track/46d10rq7F6Fqj1nzcdb9qR"
     },
     {
       "added_at": "2023-07-13 11:19:20",
@@ -379,42 +403,6 @@
       "duration_ms": 237818,
       "name": "Vasundharadevi (Title Song) - From \"Vasundharadevi\"",
       "url": "https://open.spotify.com/track/3wmCotziSIGCU1vu7fZd3j"
-    },
-    {
-      "added_at": "2023-07-06 12:25:07",
-      "album": {
-        "name": "Kirudeepa Nee (From \"Paramvah\")",
-        "url": "https://open.spotify.com/album/5wTGpgOpX0VYc4edg86CsU"
-      },
-      "artists": [
-        {
-          "name": "Mehboob Saab",
-          "url": "https://open.spotify.com/artist/6HetSWGemJe8nirwDZa8nl"
-        },
-        {
-          "name": "Aparajith",
-          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
-        },
-        {
-          "name": "Jos Jossey",
-          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
-        },
-        {
-          "name": "Nagesh Kundapura",
-          "url": "https://open.spotify.com/artist/19FEhamBap1MSFCB34qt0s"
-        },
-        {
-          "name": "Sanketh Ambali",
-          "url": "https://open.spotify.com/artist/7q7wBVrIGYiisgYS3IMXdb"
-        },
-        {
-          "name": "Kiran N R pura",
-          "url": "https://open.spotify.com/artist/1S6ekiMG5sHcdtYOukkvi4"
-        }
-      ],
-      "duration_ms": 120748,
-      "name": "Kirudeepa Nee (From \"Paramvah\")",
-      "url": "https://open.spotify.com/track/6saPm4FZZStH4E4kbA2rgt"
     },
     {
       "added_at": "2023-07-13 11:19:20",

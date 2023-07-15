@@ -1,12 +1,12 @@
 {
-  "description": "next gen pop Cover: Maisie Peters",
-  "num_followers": 1258713,
+  "description": "next gen pop Cover: Nessa Barrett",
+  "num_followers": 1258761,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzMxZGVlMDRlNWQ0NTY1ZjY2MDNkYmEyN2FjNWNiM2M4OGE4ZjNj",
+  "snapshot_id": "MCw5ZGQ4ZGNlMzgwNGM3M2RjZTU5MTU1MzdkNmIyYzdkMTU2NTEyOGQ4",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -25,20 +25,20 @@
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
-      "added_at": "2023-07-07 04:01:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -59,6 +59,38 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Irresponsible",
         "url": "https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd"
       },
@@ -71,6 +103,38 @@
       "duration_ms": 124751,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/60SugyNV4FdewZfktXfXte"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 161367,
+      "name": "Bigger Person",
+      "url": "https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 196679,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -99,6 +163,138 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Home To Another One",
+        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "Home To Another One",
+      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "WHAT THE HELL ARE WE DYING FOR ?",
+        "url": "https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "WHAT THE HELL ARE WE DYING FOR ?",
+      "url": "https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "MY GOD!",
+        "url": "https://open.spotify.com/album/39w0IKP0nvtYOWZsg2JHXu"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 137995,
+      "name": "BAD BITCH",
+      "url": "https://open.spotify.com/track/5X83lDwpA03tST04pMfX4N"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Fantasy (with GAYLE & Em Beihold)",
         "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
       },
@@ -123,54 +319,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Home To Another One",
-        "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 149108,
-      "name": "Home To Another One",
-      "url": "https://open.spotify.com/track/7culXP38P58h83PXwLQqyg"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "WHAT THE HELL ARE WE DYING FOR ?",
-        "url": "https://open.spotify.com/album/0Q7TVHu87oAlkDhQP18QiX"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "WHAT THE HELL ARE WE DYING FOR ?",
-      "url": "https://open.spotify.com/track/1sKtD5KMZgTFHbsxjgqfZh"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "My Stupid Heart (with Lauv)",
         "url": "https://open.spotify.com/album/6yT57VsTlEjkZz6539dA8i"
       },
@@ -191,6 +339,38 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Hits Different",
+      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "hell is a teenage girl",
+        "url": "https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 195215,
+      "name": "hell is a teenage girl",
+      "url": "https://open.spotify.com/track/4FvcW8lzYpZ4bq9awSHZ1N"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
         "url": "https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj"
       },
@@ -203,22 +383,6 @@
       "duration_ms": 186066,
       "name": "Mona Lisa (Spider-Man: Across the Spider-Verse)",
       "url": "https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -239,38 +403,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Speed Drive (From Barbie The Album)",
         "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
       },
@@ -285,20 +417,36 @@
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
-      "added_at": "2023-07-07 04:01:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+        "name": "This City is a Graveyard",
+        "url": "https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Baby Storme",
+          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Hits Different",
-      "url": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+      "duration_ms": 187377,
+      "name": "This City is a Graveyard",
+      "url": "https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Screw Time",
+        "url": "https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 185724,
+      "name": "Screw Time",
+      "url": "https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -331,6 +479,22 @@
       "duration_ms": 123400,
       "name": "best friends with your girlfriend",
       "url": "https://open.spotify.com/track/0Qq11qgCAABtz7WNcnpOpK"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "eyes don't lie",
+        "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "eyes don't lie",
+      "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -433,6 +597,22 @@
       "url": "https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr"
     },
     {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "i should\u2019ve fucked your brother",
+        "url": "https://open.spotify.com/album/2gJ0I8ch7Jq8vSa1tt8A7U"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 195482,
+      "name": "i should\u2019ve fucked your brother",
+      "url": "https://open.spotify.com/track/03moFmOsgmGXeioNYAoRf1"
+    },
+    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Come Home",
@@ -447,6 +627,22 @@
       "duration_ms": 198841,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/0le1GJUVrJW9MuWmKIjX68"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Fifth",
+        "url": "https://open.spotify.com/album/0cxSW85kPAIUEk6UIejvPD"
+      },
+      "artists": [
+        {
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
+        }
+      ],
+      "duration_ms": 155362,
+      "name": "Fifth",
+      "url": "https://open.spotify.com/track/5DNpSTHMlVO4OdiQJ1uG8v"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -479,6 +675,22 @@
       "duration_ms": 212991,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "The In Between",
+        "url": "https://open.spotify.com/album/1ICOOpiX4vubSzKvxYzTIp"
+      },
+      "artists": [
+        {
+          "name": "Khloe Rose",
+          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "The In Between",
+      "url": "https://open.spotify.com/track/4ItPEBTe5zmecOfDyjithO"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -695,22 +907,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/5oAVKxhmwzPo9uTsUDGw8n"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Snow Angel",
-      "url": "https://open.spotify.com/track/4rcpsw8Sls6xWrmTvNtS0K"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "The Idol Episode 1 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
       },
@@ -843,22 +1039,6 @@
       "duration_ms": 156160,
       "name": "Team Sport",
       "url": "https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "it's not about u",
-        "url": "https://open.spotify.com/album/27eBFT50n6XdoOhNE7dpU4"
-      },
-      "artists": [
-        {
-          "name": "Eva Grace",
-          "url": "https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr"
-        }
-      ],
-      "duration_ms": 129015,
-      "name": "it's not about u",
-      "url": "https://open.spotify.com/track/7mvVMUBy9bZI13N7dipRlx"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1007,22 +1187,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "UPSAHL PRESENTS: THE PHX TAPES V2",
-        "url": "https://open.spotify.com/album/00YldAKY4lZ1LNjb4qyVJ9"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 134724,
-      "name": "WET WHITE TEE SHIRT (SIDE A)",
-      "url": "https://open.spotify.com/track/6ZDhN5vt4HgLjhJWug0N59"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Only Girl",
         "url": "https://open.spotify.com/album/2Qp5Ode31zeYK4qEP2mctl"
       },
@@ -1051,38 +1215,6 @@
       "duration_ms": 326490,
       "name": "About You",
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "me, my girls & i",
-        "url": "https://open.spotify.com/album/1P0f6gRBid1YPgdkMtaWij"
-      },
-      "artists": [
-        {
-          "name": "Boys World",
-          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
-        }
-      ],
-      "duration_ms": 149512,
-      "name": "me, my girls & i",
-      "url": "https://open.spotify.com/track/2K7CqNeCpbO0RoD4bAZ5tU"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 147568,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1423,22 +1555,6 @@
       "duration_ms": 138124,
       "name": "always be a fan",
       "url": "https://open.spotify.com/track/35RZ3ak8JdBKTJt8uM5c5e"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Sugar Sweet",
-        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 169839,
-      "name": "Sugar Sweet",
-      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
     },
     {
       "added_at": "2023-07-07 04:01:00",

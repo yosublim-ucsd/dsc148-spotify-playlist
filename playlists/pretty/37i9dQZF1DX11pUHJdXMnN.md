@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,426 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,454 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 24 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
 | 25 | [Cocoon \- Maya Jane Coles Remix](https://open.spotify.com/track/3SPaw7nI7gwo95tpPIx7Cm) | [Gold Fields](https://open.spotify.com/artist/3kJeINOSExu0ctySTaMu6Q), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Cocoon \(Maya Jane Coles Remix\)](https://open.spotify.com/album/2WbM2EmjfDhV8TXhtqQt2u) | 4:16 |
 | 26 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 |
-| 27 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
-| 28 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
-| 29 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
+| 27 | [Forgive Me](https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Forgive Me](https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ) | 5:39 |
+| 28 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
+| 29 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
 | 30 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
 | 31 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
 | 32 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 | 45 | [Fantasia](https://open.spotify.com/track/6M8Gz02PaKjl4ZNuQMcxKW) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/73Sxdnv58oHDo0CZrz2qFM) | 6:33 |
 
-Snapshot ID: `MCxlYzJmMGM3ZTkyYTI4MjAxMDNhZWZhYTNjN2E4NGNmZjFkNTU5OTIy`
+Snapshot ID: `MCw4MzIzYzdjY2FkNTI4ODMzOTAwMTk0OGNmNjVhYzNkNTZjNWNmYzc0`

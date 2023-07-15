@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,270 likes - 71 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,268 likes - 71 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 15 | [Whiskey Lows \- Live](https://open.spotify.com/track/6Gt9OwdcpxuLpMSQFYUvca) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Common Hymnal \(Live\)](https://open.spotify.com/album/4BClet3QGu0HwQy4KP3aCj) | 4:44 |
 | 16 | [Holy Wine](https://open.spotify.com/track/14eNJjAABFczshS0nfquYD) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Goin' Platinum!](https://open.spotify.com/album/6M5DQTTp3zGaWOH6hXsYJV) | 3:27 |
 | 17 | [Can't Nobody Love You](https://open.spotify.com/track/1ovGm2RHnWlTmbbtIxd2f8) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Rock 'N Soul](https://open.spotify.com/album/152R8N9N0ACnWPNOBIO4M8) | 2:33 |
-| 18 | [Cry](https://open.spotify.com/track/4AkWJQqHEEi8H7fuRTJl3b) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/7cMRrnL36PuZKENGx2tAkD) | 2:48 |
+| 18 | [Cry](https://open.spotify.com/track/3wxJXJsgEr1hBV4ej5sUCY) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Cry](https://open.spotify.com/album/0KcAmKDwqxuKpL8o3jEyva) | 2:48 |
 | 19 | [Warm and Tender Love \- Single Version](https://open.spotify.com/track/0t2f3sMcWoqHDSRM4oj8hH) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Best of Percy Sledge](https://open.spotify.com/album/1Nyr1yLuCndptRRMZ0wmlP) | 3:21 |
 | 20 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 21 | [I Like What You're Doing \(To Me\)](https://open.spotify.com/track/2fnbljRroXC33HuhgyoApM) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Memphis Queen](https://open.spotify.com/album/6DYynPjnJlfAsK3jqFOdGQ) | 2:58 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 70 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 71 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 
-Snapshot ID: `MCxkNjA4MGExMzI3NWUzZTcwZWY0OTBiYmY2MWM0ZjkzOWM0YmMzMzVj`
+Snapshot ID: `MCxmODMwM2U2MzM1OGJhMzgyZGM0MjUwMzI5MDA0NTRkZDY5MGQzMTI5`

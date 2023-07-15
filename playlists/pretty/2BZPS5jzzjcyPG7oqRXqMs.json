@@ -1,13 +1,29 @@
 {
   "description": "Your go to Christian playlist for every day listening . Cover: Sadie Robertson Huff",
-  "num_followers": 12918,
+  "num_followers": 12921,
   "original_name": "Living Christian",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzI4NiwxYzIzNzM0ODFiNjdmZjQ1NWY4MDVmZDk0NzFhZDY2NDg0MzI4YmM4",
+  "snapshot_id": "MzI4Nyw0NGQ0NGU0Zjc1YjQ3OTVkNzVmNzU4NzMyZGFiMDYwZWYwZThhODM3",
   "tracks": [
+    {
+      "added_at": "2023-07-14 15:35:28",
+      "album": {
+        "name": "Church Pew",
+        "url": "https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 239296,
+      "name": "Church Pew",
+      "url": "https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw"
+    },
     {
       "added_at": "2023-07-07 17:15:03",
       "album": {

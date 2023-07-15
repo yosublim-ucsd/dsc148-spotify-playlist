@@ -1629,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Lo nuevo y lo in\u00fatil",
+        "url": "https://open.spotify.com/album/1gNnS20kz9qcQJ5ghIsNQK"
+      },
+      "artists": [
+        {
+          "name": "Club de Haters",
+          "url": "https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182087,
+      "name": "Lo nuevo y lo in\u00fatil",
+      "url": "https://open.spotify.com/track/6OkthLKgU7KtbUuX674HO0"
+    },
+    {
+      "album": {
         "name": "Lo Que Guarden Tus Ojos",
         "url": "https://open.spotify.com/album/7At1MTQ5r0FoGocoMMR68k"
       },
@@ -1857,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Muy Callados",
+        "url": "https://open.spotify.com/album/7qMY8uroz6XD9owsd9pvLC"
+      },
+      "artists": [
+        {
+          "name": "Error Vanessa",
+          "url": "https://open.spotify.com/artist/0uF5hCCa4TNv6iFcQnRujF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189184,
+      "name": "Muy Callados",
+      "url": "https://open.spotify.com/track/0VHtYulrMYi562H5HcrjjT"
+    },
+    {
+      "album": {
         "name": "M\u00e1gica Intuici\u00f3n",
         "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
@@ -1981,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "NOVIOS IMAGINARIOS",
+        "url": "https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284347,
+      "name": "NOVIOS IMAGINARIOS",
+      "url": "https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb"
+    },
+    {
+      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -2040,6 +2094,24 @@
       "duration_ms": 70327,
       "name": "Nube",
       "url": "https://open.spotify.com/track/6016U5kfHuP9AEktlYZfzr"
+    },
+    {
+      "album": {
+        "name": "Nuevo Plano",
+        "url": "https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr"
+      },
+      "artists": [
+        {
+          "name": "Entidad Animada",
+          "url": "https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Nuevo Plano",
+      "url": "https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce"
     },
     {
       "album": {
@@ -2286,6 +2358,24 @@
       "duration_ms": 127600,
       "name": "Postales Blancas",
       "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
+    },
+    {
+      "album": {
+        "name": "Interminable",
+        "url": "https://open.spotify.com/album/4ODy1H4bdT3pWUXEIDR4LC"
+      },
+      "artists": [
+        {
+          "name": "Plenamente",
+          "url": "https://open.spotify.com/artist/4rvMATvLzxq3s5GQM0LyGA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Profundidad",
+      "url": "https://open.spotify.com/track/4hmQNhL5Zlrij8uAdfFUUk"
     },
     {
       "album": {
@@ -2880,7 +2970,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233115,
-      "name": "Y No Me Digan Nada",
+      "name": "Y no me digan nada",
       "url": "https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Thalles Roberto",
+  "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: J\u00e9ssica Augusto",
   "name": "Grooveria Gospel",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 242000,
       "name": "500 Graus (Ao Vivo na Lagoinha Alphaville)",
       "url": "https://open.spotify.com/track/62JFyx41dnFbGx7v8hoBe8"
+    },
+    {
+      "album": {
+        "name": "A Noiva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343626,
+      "name": "A Noiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
     },
     {
       "album": {
@@ -410,6 +428,28 @@
       "duration_ms": 224084,
       "name": "Deus \u00c9 Bom",
       "url": "https://open.spotify.com/track/2USllhBBWdhwUCnVr9rz39"
+    },
+    {
+      "album": {
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        },
+        {
+          "name": "Cleber Ao Cubo",
+          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331110,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb"
     },
     {
       "album": {
@@ -1134,7 +1174,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 253240,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/2FXflEzTBQwLOkwFm4Q7Th"
@@ -1514,7 +1554,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 216374,
       "name": "\u00c9 Proibido Pecar",
       "url": "https://open.spotify.com/track/3XF9cxH4T0NnDcqtXWp8Hg"

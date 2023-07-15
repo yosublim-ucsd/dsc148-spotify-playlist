@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Hot Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,838 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,901 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [False Dawn \- Single Edit](https://open.spotify.com/track/6DF3IQ38l2vvd0f3J9vuTQ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [False Dawn](https://open.spotify.com/album/6Td1f77DXw9wUXuz68Ki92) | 3:57 |
 | 125 | [My PG County Summer](https://open.spotify.com/track/7Axgpyow12wx0aJUk9EPiG) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [My PG County Summer](https://open.spotify.com/album/6EVdMYDhMKEnn3wo8GnhOh) | 2:28 |
 
-Snapshot ID: `MCwxM2RlYzE5NWI2MDYyYzY4YjBjYmRhZjhlNzkzZWI2Mzc5NjBhNDAy`
+Snapshot ID: `MCwzNzNkNzg5ZGFjZGJmYzU1MDNiMDYzOWViZDE1YTExMmNlZGZhYjcw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Nippa",
+  "description": "R&B of the moment by the artists of the future. Cover: Mack Keane",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -800,6 +800,24 @@
       "duration_ms": 205998,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/5vdSk60SVmxr2ISu17KHB5"
+    },
+    {
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
     },
     {
       "album": {
@@ -1722,6 +1740,24 @@
       "duration_ms": 248873,
       "name": "Centred",
       "url": "https://open.spotify.com/track/4jiaScMSifa1MGSCQy4YRS"
+    },
+    {
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3"
     },
     {
       "album": {
@@ -3144,6 +3180,24 @@
       "duration_ms": 190474,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/0NnR23e1w5XEVCDaUYXrlP"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155373,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3tDAxa9V0bZlGq4rmbAD9O"
     },
     {
       "album": {
@@ -5182,7 +5236,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 242866,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
@@ -6136,7 +6190,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 185191,
       "name": "Live Some Life (feat. DING DONG)",
       "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
@@ -7013,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "No Way",
+        "url": "https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173483,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV"
+    },
+    {
+      "album": {
         "name": "SATIN",
         "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
@@ -7202,7 +7274,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 165132,
       "name": "O.M.L. (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/6ntO3pnXicVNsAhW67BW0S"
@@ -9118,7 +9190,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160906,
       "name": "Shady Hills",
       "url": "https://open.spotify.com/track/7D77gQ7oEOUks2pHwGad7M"
@@ -9652,7 +9724,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 229052,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/6qmKEl7vp9UOhFEUlH1k2X"
@@ -10681,6 +10753,24 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
+    },
+    {
+      "album": {
         "name": "Times It By Two",
         "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
       },
@@ -11522,7 +11612,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 164142,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/51e4HhSFWl3YZxsPTIfEJ4"

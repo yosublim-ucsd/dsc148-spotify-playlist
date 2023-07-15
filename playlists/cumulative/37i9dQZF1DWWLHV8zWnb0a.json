@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "Luna - 2011 Remaster",
+      "url": "https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf"
+    },
+    {
+      "album": {
         "name": "Siamese Dream (2011 - Remaster)",
         "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
@@ -2232,24 +2250,6 @@
       "duration_ms": 202320,
       "name": "Luna - Remastered",
       "url": "https://open.spotify.com/track/2SRBtj64W0Wbs7YMbmxFBw"
-    },
-    {
-      "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "date_added": "2022-03-17",
-      "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
-      "duration_ms": 202320,
-      "name": "Luna - Remastered",
-      "url": "https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf"
     },
     {
       "album": {
@@ -3594,7 +3594,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 254626,
       "name": "Tonight, Tonight - Remastered 2012",
       "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"

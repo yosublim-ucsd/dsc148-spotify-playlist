@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,753 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,856 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 60 | [Kom hem](https://open.spotify.com/track/19teyCxcTkj1HsjvczHi1n) | [Jonzon](https://open.spotify.com/artist/3f0cvh2BMxrJp4Aiirm5jZ) | [Kom hem](https://open.spotify.com/album/04Oc7w9rIfdX2GApRFAST8) | 2:53 |
 | 61 | [JAG KOMMER](https://open.spotify.com/track/0UN71iE02s67fE0QFV4p9Q) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Joakim Forsell](https://open.spotify.com/artist/7lvNl1VIlkJjapS6d0JNL9) | [JAG KOMMER](https://open.spotify.com/album/2SFtL0DwLm2h2fpIvv3W9S) | 2:46 |
 | 62 | [EFTERFEST](https://open.spotify.com/track/1Pg5xFsAXx3nYuNtmqDHzy) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [EFTERFEST](https://open.spotify.com/album/0WlyiWQINyWqy7g1qz7DvA) | 2:20 |
-| 63 | [Dyngnacke](https://open.spotify.com/track/5WSWAd95miI5Ds5xTjPBZn) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Dyngnacke](https://open.spotify.com/album/5UmnhVQ3X4u0TcbRItBHLD) | 2:19 |
+| 63 | [Dyngnacke](https://open.spotify.com/track/6OHWGN7KW22jczi6FVEBGE) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Dyngnacke](https://open.spotify.com/album/47995xKC0dKYED6RYsAYpl) | 2:19 |
 | 64 | [KAN INTE HÄNGA MÄ](https://open.spotify.com/track/2zThZucARCmrOaTahouYLf) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [Bangården](https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c) | [KAN INTE HÄNGA MÄ](https://open.spotify.com/album/1MJthfnqt2KEQHmbRukjXu) | 2:13 |
 | 65 | [HELA PACKET](https://open.spotify.com/track/1x0jnxuhtjRHkIobYfG6gV) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [HELA PACKET](https://open.spotify.com/album/3RNBc5f8xQU3ktvK658vN1) | 2:33 |
 | 66 | [För alla gånger \- JulleMeck Remix](https://open.spotify.com/track/1fFsK0Zam4Cjoub3dgWx8e) | [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [För alla gånger \(JulleMeck Remix\)](https://open.spotify.com/album/6o5MDvCmUeYHv4RsyirSCE) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/track/52KOHfjlRyL84Q6WlSqpPT) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/album/4MHaBwxuiDv3CVHaATzvcy) | 2:22 |
 | 100 | [Oj Oj](https://open.spotify.com/track/0beFqL93TrrK7EqeAsgKPN) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Oj Oj](https://open.spotify.com/album/1oiVHgqFVsbooDcjgzzaYY) | 2:45 |
 
-Snapshot ID: `MCwyOGU1NmM5YTdiMWVmMjBmNmM3MGI2MjFmNTNmYTYwNGE1ZmE2NzMx`
+Snapshot ID: `MCxiODA1MjNhMzVhODhiMzliYzUwYTFjNDg4ZDYxMjU4NDRiYTVjZTY4`

@@ -1603,6 +1603,28 @@
     },
     {
       "album": {
+        "name": "Nothing Compares To You (Feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Nothing Compares To You (Feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
+    },
+    {
+      "album": {
         "name": "Tony Jackson",
         "url": "https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 
 > The defining alternative hits from a decade that changed music\. Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,788 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,912 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 25 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 |
 | 26 | [Lola \- 2020 Stereo Remaster](https://open.spotify.com/track/4ZKgPZ9d4V5WW6H2s4qMD3) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:01 |
 | 27 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 |
-| 28 | [Brown Sugar \- 2009 Remaster](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
+| 28 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
 | 29 | [Dreaming](https://open.spotify.com/track/2Rn7bVL1FVYboc4c55RUdg) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:08 |
 | 30 | [Cool For Cats](https://open.spotify.com/track/7sPEGLqEhyHDLGrz4EeLm2) | [Squeeze](https://open.spotify.com/artist/6Jrj26oAY96EEC2lqC6fua) | [Cool For Cats](https://open.spotify.com/album/6BXnJVcUbSdC6E82xouYK5) | 3:39 |
 | 31 | [Anti Love Song](https://open.spotify.com/track/3zMVsONH6RZv528HANVm3Y) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Betty Davis](https://open.spotify.com/album/6fNx8ioP99WoRiLidrqrmz) | 4:32 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZjVksUlfu.md) - [plain]
 | 84 | [I Want More](https://open.spotify.com/track/1ynemPxsPrCwUb87VmGFuq) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Flow Motion \(Remastered\)](https://open.spotify.com/album/6pcp2R35M3b1lscjpmCxUl) | 3:30 |
 | 85 | [My Sex](https://open.spotify.com/track/4uq0OuAtODFKsEMO478Lt8) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [Ultravox!](https://open.spotify.com/album/09H76Y3uRhgJSu7u5f3e6f) | 3:02 |
 
-Snapshot ID: `MCwyMmQwNjRkNmE2NTk0NDI5YmM2ZTBiODFmMGMzMDBhMDAyMTBlMGYw`
+Snapshot ID: `MCxiNTEzOTM5Yjc3ZWFlYjAyMWY0MmI1Yjc1ZDRiNzFjYzM2OGY3NDJl`

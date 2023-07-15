@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:Kim Min Seok\(김민석\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,952 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,975 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 52 | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 |
 | 53 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 |
 | 54 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
-| 55 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
+| 55 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
 | 56 | [Diamond](https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Diamond](https://open.spotify.com/album/58T3Mkgs37IjcximP129MP) | 2:59 |
-| 57 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
+| 57 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
 | 58 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 59 | [너를 위해](https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Story Of Two Years](https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt) | 4:06 |
 | 60 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
@@ -73,20 +73,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 63 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 |
 | 64 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 |
 | 65 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 |
-| 66 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
-| 67 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
-| 68 | [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 |
+| 66 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
+| 67 | [Like Yesterday](https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Like Yesterday](https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl) | 3:56 |
+| 68 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 |
 | 69 | [Kaze](https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA Studio Live Album 'MINDSET'](https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi) | 5:31 |
 | 70 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
 | 71 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 |
 | 72 | [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 |
 | 73 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
-| 74 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
+| 74 | [You&I](https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I](https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA) | 3:41 |
 | 75 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
-| 76 | [You&I](https://open.spotify.com/track/4IvxwZaPKnrU7xDXXQExQc) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I](https://open.spotify.com/album/5r4Z2r3SMsPUlX4VbFW6IA) | 3:41 |
+| 76 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
 | 77 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
-| 78 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 |
-| 79 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 |
+| 78 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 |
+| 79 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 |
 | 80 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 |
 | 81 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 |
 | 82 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 92 | [\#tb](https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Hongbi](https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN) | [\#tb](https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp) | 4:35 |
 | 93 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
 | 94 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 |
-| 95 | [Decision to leave](https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Decision to leave](https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem) | 3:08 |
-| 96 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
+| 95 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
+| 96 | [Decision to leave](https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Decision to leave](https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem) | 3:08 |
 | 97 | [First Line](https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Dear](https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p) | 4:00 |
 | 98 | [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 |
 | 99 | [Only You](https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Only You](https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM) | 4:23 |
 | 100 | [Starting Now](https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Starting Now](https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy) | 3:25 |
 
-Snapshot ID: `MCw3YTBiZTZlODNjYzUwNWQwODhiNzBhNWM5MzljNTViMTFkN2MyZjYw`
+Snapshot ID: `MCw5YzIwNjQzZDA1NDE2NDI4ODE2YzhjYzE1NGM4NjY3NTQ4YmJiN2Uw`

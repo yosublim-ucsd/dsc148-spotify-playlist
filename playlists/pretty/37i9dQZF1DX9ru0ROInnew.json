@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 92548,
+  "num_followers": 92598,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0",
+  "snapshot_id": "MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -191,26 +191,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 279613,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 233250,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/4fM1JysLcYDX9No45tZmqO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 279613,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0gCPvo1GkbtPhMqg5Gbx1K"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "A Mi Manera",
-        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
-      },
-      "artists": [
-        {
-          "name": "Omy de Oro",
-          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "TrapXficante",
         "url": "https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA"
       },
@@ -1743,30 +1727,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Como Soy II",
-        "url": "https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f"
+        "name": "A Mi Manera",
+        "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
       },
       "artists": [
         {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
         }
       ],
-      "duration_ms": 341069,
-      "name": "Como Soy II",
-      "url": "https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O"
+      "duration_ms": 158786,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1803,6 +1775,34 @@
       "duration_ms": 374142,
       "name": "Blanco o Negro - Remix",
       "url": "https://open.spotify.com/track/6Bt7uEWabZzgdN0g6UQurK"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Como Soy II",
+        "url": "https://open.spotify.com/album/3C7cfo9Ycj8NjBUv3DHk2f"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 341069,
+      "name": "Como Soy II",
+      "url": "https://open.spotify.com/track/6WZecLipzXhhw9cDAZub9O"
     },
     {
       "added_at": "2023-05-25 17:50:01",

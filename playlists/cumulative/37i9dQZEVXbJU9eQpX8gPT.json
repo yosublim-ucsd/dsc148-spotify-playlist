@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 274250,
       "name": "Casablanca (feat. Morad)",
       "url": "https://open.spotify.com/track/3n348I4uE5GZ3tprVdqzPO"
@@ -7216,7 +7216,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 132123,
       "name": "Gana (feat. Hatim Ammor)",
       "url": "https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP"
@@ -7749,6 +7749,28 @@
     },
     {
       "album": {
+        "name": "Faits Divers",
+        "url": "https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        },
+        {
+          "name": "FLEM KGB",
+          "url": "https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "GTB",
+      "url": "https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu"
+    },
+    {
+      "album": {
         "name": "Gueule tap\u00e9e",
         "url": "https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM"
       },
@@ -7764,6 +7786,28 @@
       "duration_ms": 206000,
       "name": "Gueule tap\u00e9e",
       "url": "https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57"
+    },
+    {
+      "album": {
+        "name": "Guli Mata",
+        "url": "https://open.spotify.com/album/1EK8G52QTTI7LgDKnrCmB6"
+      },
+      "artists": [
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235574,
+      "name": "Guli Mata",
+      "url": "https://open.spotify.com/track/3B9CL5t32mM2SDdps2IhYM"
     },
     {
       "album": {
@@ -15870,7 +15914,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -18022,7 +18066,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"

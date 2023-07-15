@@ -1,13 +1,29 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 5897653,
+  "num_followers": 5908250,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDc1NWM3OGEyMjZjNTVjYmM0OGZkNDM4ODg1MWIwOTQ4NDliZGYx",
+  "snapshot_id": "MCw4ZGFkYzZkZDY1ODU0NDY4OTYwYTFmYmQ0NWZkNjA2YzI1ZWQ3YWZi",
   "tracks": [
+    {
+      "added_at": "2023-06-02 17:32:35",
+      "album": {
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        }
+      ],
+      "duration_ms": 61673,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
+    },
     {
       "added_at": "2022-05-20 10:12:52",
       "album": {
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2023-06-02 17:32:35",
-      "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        }
-      ],
-      "duration_ms": 61673,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
       "added_at": "2022-10-14 08:20:18",
       "album": {
         "name": "GigaChad Theme (Phonk House Version)",
@@ -71,6 +71,26 @@
       "duration_ms": 146274,
       "name": "GigaChad Theme - Phonk House Version",
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
+    },
+    {
+      "added_at": "2023-06-16 13:47:05",
+      "album": {
+        "name": "Sequ\u00eancia da Dz7",
+        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
+        }
+      ],
+      "duration_ms": 119184,
+      "name": "Sequ\u00eancia da Dz7",
+      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
     },
     {
       "added_at": "2022-08-19 05:11:18",
@@ -165,26 +185,6 @@
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
     },
     {
-      "added_at": "2023-06-16 13:47:05",
-      "album": {
-        "name": "Sequ\u00eancia da Dz7",
-        "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
-      },
-      "artists": [
-        {
-          "name": "TRASHXRL",
-          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 119184,
-      "name": "Sequ\u00eancia da Dz7",
-      "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
-    },
-    {
       "added_at": "2023-02-04 02:41:25",
       "album": {
         "name": "Brazilian Phonk Mano",
@@ -209,22 +209,6 @@
       "url": "https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB"
     },
     {
-      "added_at": "2023-04-26 16:15:07",
-      "album": {
-        "name": "Sea Of Problems",
-        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
-      },
-      "artists": [
-        {
-          "name": "glichery",
-          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
-        }
-      ],
-      "duration_ms": 110624,
-      "name": "Sea Of Problems",
-      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
-    },
-    {
       "added_at": "2023-06-09 13:51:36",
       "album": {
         "name": "FRESH",
@@ -239,6 +223,22 @@
       "duration_ms": 68687,
       "name": "FRESH",
       "url": "https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ"
+    },
+    {
+      "added_at": "2023-04-26 16:15:07",
+      "album": {
+        "name": "Sea Of Problems",
+        "url": "https://open.spotify.com/album/3nofsi0Rt2tnhAuvz8pB95"
+      },
+      "artists": [
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "duration_ms": 110624,
+      "name": "Sea Of Problems",
+      "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
     },
     {
       "added_at": "2022-11-11 07:32:56",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm"
     },
     {
+      "added_at": "2023-07-14 14:32:54",
+      "album": {
+        "name": "\u0422\u0430\u0431\u0443",
+        "url": "https://open.spotify.com/album/0rUqUFIfU6etIMfyoAW5pW"
+      },
+      "artists": [
+        {
+          "name": "DOLINOV",
+          "url": "https://open.spotify.com/artist/4UG4ctsUmccpIt6QILqwAV"
+        }
+      ],
+      "duration_ms": 100186,
+      "name": "\u0422\u0430\u0431\u0443",
+      "url": "https://open.spotify.com/track/6jQBeCtUzeKw9WKczjOgXd"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Why Not",
@@ -569,6 +585,22 @@
       "url": "https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF"
     },
     {
+      "added_at": "2023-03-17 15:27:46",
+      "album": {
+        "name": "POOR",
+        "url": "https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY"
+      },
+      "artists": [
+        {
+          "name": "gqtis",
+          "url": "https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB"
+        }
+      ],
+      "duration_ms": 160029,
+      "name": "POOR",
+      "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"
+    },
+    {
       "added_at": "2023-05-05 15:57:14",
       "album": {
         "name": "METAMORPHOSIS 3",
@@ -591,6 +623,22 @@
       "duration_ms": 128015,
       "name": "METAMORPHOSIS 3",
       "url": "https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn"
+    },
+    {
+      "added_at": "2023-07-14 14:32:54",
+      "album": {
+        "name": "OneShot",
+        "url": "https://open.spotify.com/album/5dfKkLx9NF3xgwKo3pfxrq"
+      },
+      "artists": [
+        {
+          "name": "msht",
+          "url": "https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO"
+        }
+      ],
+      "duration_ms": 152925,
+      "name": "OneShot",
+      "url": "https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM"
     },
     {
       "added_at": "2022-12-09 08:15:38",
@@ -657,22 +705,6 @@
       "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
     },
     {
-      "added_at": "2023-03-17 15:27:46",
-      "album": {
-        "name": "POOR",
-        "url": "https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY"
-      },
-      "artists": [
-        {
-          "name": "gqtis",
-          "url": "https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB"
-        }
-      ],
-      "duration_ms": 160029,
-      "name": "POOR",
-      "url": "https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2"
-    },
-    {
       "added_at": "2023-06-23 15:45:22",
       "album": {
         "name": "One Chance",
@@ -687,22 +719,6 @@
       "duration_ms": 131368,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ"
-    },
-    {
-      "added_at": "2023-07-07 17:01:13",
-      "album": {
-        "name": "dead and toxic",
-        "url": "https://open.spotify.com/album/1s4TSIjB2bkiWfMP63Vbdk"
-      },
-      "artists": [
-        {
-          "name": "Kiraw",
-          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
-        }
-      ],
-      "duration_ms": 104379,
-      "name": "dead and toxic",
-      "url": "https://open.spotify.com/track/6u8BcCHUWhAhV0DLeFqTTp"
     },
     {
       "added_at": "2022-09-23 07:48:31",
@@ -949,6 +965,26 @@
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
     },
     {
+      "added_at": "2023-06-23 15:45:22",
+      "album": {
+        "name": "SO TIRED",
+        "url": "https://open.spotify.com/album/688ytwDXOttov235i5WAk8"
+      },
+      "artists": [
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "duration_ms": 172548,
+      "name": "SO TIRED",
+      "url": "https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"
+    },
+    {
       "added_at": "2022-09-16 05:48:48",
       "album": {
         "name": "The Midnight Club GT",
@@ -1017,24 +1053,20 @@
       "url": "https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL"
     },
     {
-      "added_at": "2023-06-23 15:45:22",
+      "added_at": "2023-07-14 14:32:54",
       "album": {
-        "name": "SO TIRED",
-        "url": "https://open.spotify.com/album/688ytwDXOttov235i5WAk8"
+        "name": "RITMO DE TREINO",
+        "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
       },
       "artists": [
         {
-          "name": "NUEKI",
-          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
-        },
-        {
-          "name": "TOLCHONOV",
-          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+          "name": "YOUTHISENDING",
+          "url": "https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe"
         }
       ],
-      "duration_ms": 172548,
-      "name": "SO TIRED",
-      "url": "https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"
+      "duration_ms": 102923,
+      "name": "RITMO DE TREINO",
+      "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
     },
     {
       "added_at": "2023-04-26 16:15:07",
@@ -1051,6 +1083,70 @@
       "duration_ms": 198894,
       "name": "Dark Side - Slowed + Reverb",
       "url": "https://open.spotify.com/track/47PdPnJdLLKwF47OhrvEUo"
+    },
+    {
+      "added_at": "2023-06-16 13:47:05",
+      "album": {
+        "name": "REI DO BRASIL",
+        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
+      },
+      "artists": [
+        {
+          "name": "Seek",
+          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
+        }
+      ],
+      "duration_ms": 97846,
+      "name": "REI DO BRASIL",
+      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
+    },
+    {
+      "added_at": "2023-07-14 14:32:54",
+      "album": {
+        "name": "Montagem Game 196 e Nem Come\u00e7ou o Filme",
+        "url": "https://open.spotify.com/album/6eQz3wAHijyDd189Uu3ICV"
+      },
+      "artists": [
+        {
+          "name": "DJ Blakes",
+          "url": "https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz"
+        },
+        {
+          "name": "DJ MK DA DZ7",
+          "url": "https://open.spotify.com/artist/2Atu34xAie4Mum2NN3o4rG"
+        },
+        {
+          "name": "MC VN Cria",
+          "url": "https://open.spotify.com/artist/40LeQEFO0XM6PI09sYowjn"
+        },
+        {
+          "name": "MC Morena de SP",
+          "url": "https://open.spotify.com/artist/7hZV3aaWoyCn6xQ40w9LQn"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Montagem Game 196 e Nem Come\u00e7ou o Filme (feat. MC Morena de SP)",
+      "url": "https://open.spotify.com/track/5KAwRUyeAky7zPyRkuuUl9"
+    },
+    {
+      "added_at": "2023-05-19 15:58:05",
+      "album": {
+        "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
+        "url": "https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4"
+      },
+      "artists": [
+        {
+          "name": "DJ NpcSize",
+          "url": "https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b"
+        },
+        {
+          "name": "Mc Larissa",
+          "url": "https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX"
+        }
+      ],
+      "duration_ms": 182783,
+      "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
+      "url": "https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1075,42 +1171,6 @@
       "duration_ms": 123870,
       "name": "PRINCE OF DARKNESS",
       "url": "https://open.spotify.com/track/3F8ydJz1se1vIxZTRcRjIJ"
-    },
-    {
-      "added_at": "2023-05-19 15:58:05",
-      "album": {
-        "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
-        "url": "https://open.spotify.com/album/5nCc44klDwX9Oy8udBepD4"
-      },
-      "artists": [
-        {
-          "name": "DJ NpcSize",
-          "url": "https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b"
-        },
-        {
-          "name": "Mc Larissa",
-          "url": "https://open.spotify.com/artist/6mTLUu4QRFZXFurxQyLzBX"
-        }
-      ],
-      "duration_ms": 182783,
-      "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
-      "url": "https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv"
-    },
-    {
-      "added_at": "2023-06-16 13:47:05",
-      "album": {
-        "name": "REI DO BRASIL",
-        "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
-      },
-      "artists": [
-        {
-          "name": "Seek",
-          "url": "https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6"
-        }
-      ],
-      "duration_ms": 97846,
-      "name": "REI DO BRASIL",
-      "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
     },
     {
       "added_at": "2023-04-14 17:01:25",
@@ -1223,42 +1283,6 @@
       "duration_ms": 106266,
       "name": "Mom's Here",
       "url": "https://open.spotify.com/track/0kJb1DG9EWCXci90357CDT"
-    },
-    {
-      "added_at": "2023-06-23 15:45:22",
-      "album": {
-        "name": "THE MASTER",
-        "url": "https://open.spotify.com/album/6ByfgsYiN2mwX5bQyrts8s"
-      },
-      "artists": [
-        {
-          "name": "Witchz",
-          "url": "https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD"
-        }
-      ],
-      "duration_ms": 119967,
-      "name": "The Magick - Demo",
-      "url": "https://open.spotify.com/track/5sCYiHhMjxE8q9SccEt5Gx"
-    },
-    {
-      "added_at": "2023-02-24 18:04:36",
-      "album": {
-        "name": "STARFALL",
-        "url": "https://open.spotify.com/album/3zRAqkaL83AmwN3U6YgDKi"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        },
-        {
-          "name": "ARCHEZ",
-          "url": "https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN"
-        }
-      ],
-      "duration_ms": 103389,
-      "name": "STARFALL",
-      "url": "https://open.spotify.com/track/2eLIhfMm9cO2zM0TGcBmNp"
     },
     {
       "added_at": "2023-05-05 15:57:14",
@@ -1465,22 +1489,6 @@
       "url": "https://open.spotify.com/track/2DjfjCE8rJU7FLg5pg06hY"
     },
     {
-      "added_at": "2023-04-14 17:01:25",
-      "album": {
-        "name": "CAFFEINEE",
-        "url": "https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV"
-      },
-      "artists": [
-        {
-          "name": "DEHA INC.",
-          "url": "https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh"
-        }
-      ],
-      "duration_ms": 104521,
-      "name": "PHONK (200mg)",
-      "url": "https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "INCOMING",
@@ -1511,22 +1519,6 @@
       "duration_ms": 162782,
       "name": "ERROR",
       "url": "https://open.spotify.com/track/29K9XCDx9IDpyGpKmoM5VJ"
-    },
-    {
-      "added_at": "2023-05-05 15:57:14",
-      "album": {
-        "name": "ECHO OF TERROR",
-        "url": "https://open.spotify.com/album/4EIlEJkbTHCaCHLIiDiXUY"
-      },
-      "artists": [
-        {
-          "name": "requi3m",
-          "url": "https://open.spotify.com/artist/1dzhL0wTs2Skw8ZI6IuiMl"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "ECHO OF TERROR",
-      "url": "https://open.spotify.com/track/6CN5O0edKbnXUJCNDIjZJy"
     },
     {
       "added_at": "2022-02-04 20:08:15",
@@ -1835,6 +1827,22 @@
       "duration_ms": 127500,
       "name": "BLAST EM'",
       "url": "https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH"
+    },
+    {
+      "added_at": "2023-06-23 15:45:22",
+      "album": {
+        "name": "THE MASTER",
+        "url": "https://open.spotify.com/album/6ByfgsYiN2mwX5bQyrts8s"
+      },
+      "artists": [
+        {
+          "name": "Witchz",
+          "url": "https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD"
+        }
+      ],
+      "duration_ms": 119967,
+      "name": "The Magick - Demo",
+      "url": "https://open.spotify.com/track/5sCYiHhMjxE8q9SccEt5Gx"
     }
   ],
   "unique_name": "phonk",

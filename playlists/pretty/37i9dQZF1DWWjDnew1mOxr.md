@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: Jamie T
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,346 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,388 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 53 | [Seven Bridge Road](https://open.spotify.com/track/1pThuAAZYQbi9mJBGhFm9p) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Seven Bridge Road](https://open.spotify.com/album/2nZyKUC7zSptFMxwCXYK44) | 4:26 |
 | 54 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 |
 | 55 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
-| 56 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 |
-| 57 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
+| 56 | [Skirts & Salads](https://open.spotify.com/track/1hU13my44YNmIVuNor31Te) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Skirts & Salads](https://open.spotify.com/album/4ly36c52NHgaFcFAUBl2Go) | 2:24 |
+| 57 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 |
 | 58 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 |
 | 59 | [little victories](https://open.spotify.com/track/18YO4r2xH4uayIv4qKwsTl) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [nothing's on but everyone's watching](https://open.spotify.com/album/2kj0LkKUt9DRZl4dn3nfVd) | 2:54 |
 | 60 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 68 | [What You Want](https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [How It Feels](https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0) | 3:22 |
 | 69 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 |
 | 70 | [Sheila](https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Panic Prevention](https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T) | 4:19 |
-| 71 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 |
-| 72 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 |
-| 73 | [King of My Head](https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [King of My Head](https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H) | 3:40 |
-| 74 | [Boys Like Me](https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS) | [Retro Video Club](https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3) | [SITUATIONS](https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5) | 2:59 |
-| 75 | [I'm Feeling it now](https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Jess Newby](https://open.spotify.com/artist/7siBS11QpPhl3FP0Fbkrtg) | [I'm Feeling It Now](https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px) | 3:03 |
+| 71 | [I'm Feeling it now](https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN), [Jess Newby](https://open.spotify.com/artist/7siBS11QpPhl3FP0Fbkrtg) | [I'm Feeling It Now](https://open.spotify.com/album/3ax5xlVUZA8d67OIjx31px) | 3:03 |
+| 72 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 |
+| 73 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 |
+| 74 | [King of My Head](https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [King of My Head](https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H) | 3:40 |
+| 75 | [Boys Like Me](https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS) | [Retro Video Club](https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3) | [SITUATIONS](https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5) | 2:59 |
 | 76 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
 | 77 | [Bleachers Yard](https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt) | [Cucamaras](https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T) | [Buck Rogers Time](https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ) | 4:34 |
 | 78 | [Cherophobe](https://open.spotify.com/track/08VN91L0UaY6B2wcSd4ojR) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [The Deep End](https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8) | 4:16 |
 | 79 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 |
 | 80 | [People Should Know Better](https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf) | 3:15 |
 
-Snapshot ID: `MCxmMmNlODA0ZjVkZWRjZDg5NDZiMTJjYzdkYTgzNzM5NDE4ZjcyMWZm`
+Snapshot ID: `MCw4NjUxNzhiYmM4MTY4NmJlMGQyNmJjNzg4NDQ0YTgyNzRhZDAxMWJh`

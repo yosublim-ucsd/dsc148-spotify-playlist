@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,210 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,224 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 47 | [Pirata](https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Pirata](https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c) | 2:50 |
 | 48 | [En tu pelo](https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [Noche Fantástica](https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj) | 3:37 |
 | 49 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 |
-| 50 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 |
-| 51 | [Poco Asado, Mucho Humo](https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Voz de los Barrios](https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1) | 3:01 |
+| 50 | [Poco Asado, Mucho Humo](https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Voz de los Barrios](https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1) | 3:01 |
+| 51 | [Ay Amor](https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Ay Amor](https://open.spotify.com/album/7BCBkW2Wnh1riF1hP04dCm) | 3:27 |
 | 52 | [La Chismeadera](https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [La Chismeadera](https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2) | 3:39 |
 | 53 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 |
 | 54 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 | 65 | [Cagón](https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:32 |
 
-Snapshot ID: `MCwyM2ZlYjVkNDJhMjYzMmZhZWFhZTBhYjg1MGE1OWM4ZGJkZjQ3NDcx`
+Snapshot ID: `MCxlYzI1ZjQ4ODFlZDNmNWJhZjFlYTZlYmVlYmI0ZTg5Y2EzN2ViNGUw`

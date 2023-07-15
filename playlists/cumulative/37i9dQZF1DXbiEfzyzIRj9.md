@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Disclosure
 
-307 songs - 22 hr 30 min
+308 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 | 2023-06-29 |  |
 | [La Samba](https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [La Samba](https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH) | 2:43 | 2023-03-30 | 2023-06-17 |
 | [Ladybird](https://open.spotify.com/track/71OK6N7cJy8CO6TIBoKLSO) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Ladybird](https://open.spotify.com/album/2Hsg69hsstYxU908bHpnty) | 3:33 | 2023-03-16 | 2023-06-30 |
-| [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/track/6x3NbTvf7CFhLfpHkcSK6G) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/album/3rUdaOm0d7NOvKsqn2Cy5H) | 5:13 | 2023-07-13 |  |
+| [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/track/6x3NbTvf7CFhLfpHkcSK6G) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/album/3rUdaOm0d7NOvKsqn2Cy5H) | 5:13 | 2023-07-13 | 2023-07-15 |
+| [Lazy Days \- Wallace Remix](https://open.spotify.com/track/61X0JCUjDd8BlwAe3z3Rr4) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Lazy Days \(Wallace Remix\)](https://open.spotify.com/album/3Y1imsYzAbKWy4kKh383jy) | 5:13 | 2023-07-13 |  |
 | [Let's Dance \- Honey Dijon Moonlight Remix](https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Let’s Dance \(40th Anniversary Remix E.P.\)](https://open.spotify.com/album/1rh2gXfmFr7pNrOW0s6rIB) | 4:05 | 2023-03-20 | 2023-05-12 |
 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 | 2023-03-16 | 2023-04-09 |
 | [Likshot](https://open.spotify.com/track/6GY4eHl6UjFLpqFAPEG6QQ) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Likshot](https://open.spotify.com/album/2ePWaT9H5e7D9TF42S5WpF) | 5:32 | 2023-03-16 |  |

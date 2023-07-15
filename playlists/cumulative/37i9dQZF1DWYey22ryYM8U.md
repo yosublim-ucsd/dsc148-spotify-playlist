@@ -2,9 +2,9 @@
 
 ### [Tropical Hits](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
 
-> Hits con sabor\. Cover: Maluma
+> Hits con sabor\. Cover: Chayanne
 
-282 songs - 18 hr 18 min
+283 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Añoranza](https://open.spotify.com/track/20rgOJWz8xHUn75OtCYsde) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y) | [Tiempo Al Tiempo](https://open.spotify.com/album/6mJu7gLuQ4nHVNrwc0Zgkx) | 4:51 | 2021-12-03 | 2022-02-14 |
 | [Años Luz](https://open.spotify.com/track/6hwmqR7uQhytLnJzt1RVPF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:40 | 2021-12-03 | 2022-02-15 |
 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 | 2021-12-03 |  |
+| [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 | 2023-07-14 |  |
 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 | 2021-12-03 |  |
 | [Boogaloo Supreme](https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Boogaloo Supreme](https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98) | 3:28 | 2021-12-03 |  |
 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 | 2021-12-03 | 2022-02-14 |
@@ -209,7 +210,7 @@
 | [Rosalía](https://open.spotify.com/track/2A3tMSilm21mtCTvdrfzjC) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 3:26 | 2022-10-27 | 2023-03-04 |
 | [Rosalía](https://open.spotify.com/track/3oKULEJqUz4ytF6L5dNEzC) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 3:26 | 2022-02-14 | 2022-12-01 |
 | [Rupelto Mena](https://open.spotify.com/track/04O7puFBE8WsgZZL0vpwcf) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Rupelto Mena](https://open.spotify.com/album/0kLLu0272oNXFZ1rYb9AN4) | 4:49 | 2022-02-14 | 2023-01-13 |
-| [Se Le Nota](https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:30 | 2022-08-30 |  |
+| [Se Le Nota](https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [De Camino A Palomino, Vol\. 1](https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M) | 3:30 | 2022-08-30 | 2023-07-15 |
 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 | 2021-12-03 |  |
 | [Señor Mentira](https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 4:29 | 2022-02-14 | 2022-07-29 |
 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 | 2022-07-19 |  |

@@ -2139,6 +2139,32 @@
     },
     {
       "album": {
+        "name": "\u5909\u308f\u3089\u306a\u3044\u3082\u306e (\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a)",
+        "url": "https://open.spotify.com/album/4iTNKoTCtyEctBDruQ2bgF"
+      },
+      "artists": [
+        {
+          "name": "Hanako Oku",
+          "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295466,
+      "name": "\u5909\u308f\u3089\u306a\u3044\u3082\u306e - \u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/6iPkaq0b2Tr7zJDbtL7iaH"
+    },
+    {
+      "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
       },

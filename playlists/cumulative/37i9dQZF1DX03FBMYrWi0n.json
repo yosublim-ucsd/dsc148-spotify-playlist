@@ -232,10 +232,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 186904,
       "name": "Aur\u00e9ole",
       "url": "https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj"
+    },
+    {
+      "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/1YGNt3j4tgi6mrmSTSjDBq"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250108,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x"
     },
     {
       "album": {

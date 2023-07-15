@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-170 songs - 19 hr 48 min
+171 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 | 2023-02-25 |
 | [Nailed \- Live](https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Nailed \(Live\)](https://open.spotify.com/album/5A7aEdbhlul1CR8z99TMIC) | 6:37 | 2022-06-09 | 2023-06-05 |
 | [Nara Testimony](https://open.spotify.com/track/4XNERMODQosvkyZwRh0rNg) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 6:55 | 2022-06-09 | 2023-02-21 |
-| [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 |  |
+| [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 | 2023-07-15 |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-09 | 2023-05-23 |
 | [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 | 2022-06-09 |  |
 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-09 | 2023-02-04 |
@@ -173,6 +173,7 @@
 | [You Are God \(feat\. Chigozie Achugo\)](https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chigozie Achugo](https://open.spotify.com/artist/40u8FYYf1XkK3LZQaIe9ko) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 4:31 | 2022-06-09 |  |
 | [You Are Good](https://open.spotify.com/track/6XxVNBMA2Ci1S1lXtpmQo7) | [Alexandrah](https://open.spotify.com/artist/0e3Clj8aoKy6OVMXB2OLKw) | [You Are Good](https://open.spotify.com/album/6JXr5LCZGSdxvucaw1Ckj8) | 11:37 | 2023-06-16 | 2023-06-30 |
 | [You Are Good](https://open.spotify.com/track/6qLxoas1ij6wB5IQfGRfbb) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN), [Emeka Madubata](https://open.spotify.com/artist/7vFHoTAS5vHsxPg6z8eJDk) | [You Are Good](https://open.spotify.com/album/0T0KinelR7KZar1y6JiQPn) | 6:02 | 2022-10-14 | 2022-11-05 |
+| [You Are Worthy](https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/31Zvl6ebdEQwBfqju54Ji0) | 6:45 | 2023-06-16 |  |
 | [You Are Worthy](https://open.spotify.com/track/0BTicoVlzcnlfMK2W8RJdW) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Yes And Amen](https://open.spotify.com/album/2FEhibjz3n9PCtrwNiC1fH) | 6:45 | 2022-06-09 | 2023-07-04 |
 | [Your Grace](https://open.spotify.com/track/7JUphXRshWVYaxMwhgIWK2) | [Prince Tuffour](https://open.spotify.com/artist/6Eepfbu8xs396Vg3nDfTH4) | [Your Grace](https://open.spotify.com/album/7lsWJ06VBvThqiQ2jrKzMy) | 5:25 | 2023-04-14 |  |
 | [Your Majesty \- Live](https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ) | [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | [Declaring His Power \(Live\)](https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw) | 5:17 | 2022-06-09 | 2023-03-31 |

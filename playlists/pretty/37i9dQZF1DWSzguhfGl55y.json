@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 610375,
+  "num_followers": 610451,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjM4ZDNjN2UzOWY3NjA3MjdmODkzZWRmNzRlZTM2YjNlMzg1NTc3",
+  "snapshot_id": "MCw0MGJhZWFjOTRlNjMxMTYwYWY2ZThkNzdiMWU1NTkzMTE2ZjU3M2Yw",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:51",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
-        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
+        "name": "NWA",
+        "url": "https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 320040,
-      "name": "Da draussen",
-      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
+      "duration_ms": 257079,
+      "name": "Panamera Flow (feat. Bushido)",
+      "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -883,18 +887,18 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "BLYAT",
-        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
+        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
+        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
       },
       "artists": [
         {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Nur noch Gucci",
-      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
+      "duration_ms": 320040,
+      "name": "Da draussen",
+      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

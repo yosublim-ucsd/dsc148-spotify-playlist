@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Cantamores en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,939 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,941 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 63 | [Hubo Algo](https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hubo Algo](https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM) | 5:11 |
 | 64 | [Besar](https://open.spotify.com/track/1JfkGnktG9RRmQSxzN6jMC) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Besar](https://open.spotify.com/album/3ggnQ2EBey7bpJRuV7YhnX) | 3:34 |
 | 65 | [Algo Mejor](https://open.spotify.com/track/4ISEWl5YiCC8AYUYmiwoZF) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Algo Mejor](https://open.spotify.com/album/1lAepSHOIFa0GLKL8gklPT) | 2:33 |
-| 66 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
-| 67 | [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 |
+| 66 | [Una Canción Para Los Dos](https://open.spotify.com/track/17K6zR8IDwtwLhFHIrBYs4) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:33 |
+| 67 | [tal vez el amor](https://open.spotify.com/track/28HWPrCDObbNmNwLH92hKZ) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [tal vez el amor](https://open.spotify.com/album/5qu0izFsk48Fo3vIvfJqu0) | 3:33 |
 | 68 | [El Suéter](https://open.spotify.com/track/2bdY6ski2FX3zsLYZZGBIw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [El Suéter](https://open.spotify.com/album/3uxziGtlsgvgHtPQJg5CBx) | 2:59 |
 | 69 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
 | 70 | [Migas de Pan](https://open.spotify.com/track/0BHkbp6rhWlfNTsDagl1ib) | [Flor Ramírez](https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3) | [Migas de Pan](https://open.spotify.com/album/7ezflwSFfjpqAWJ222pe0y) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Donde Nadie](https://open.spotify.com/track/0f0Cxn4cO6dViHACpGjp4a) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Donde Nadie](https://open.spotify.com/album/0lOYCiJQk1S53KWUAh35tT) | 2:32 |
 | 75 | [Lo Que Decías](https://open.spotify.com/track/6muVkSRvVLmNbEW1adqRXF) | [Laura Guevara](https://open.spotify.com/artist/45hNgINTIzIiz2axx5EiBL) | [Lo Que Decías](https://open.spotify.com/album/5iovcKH8OK6p5VnYJAm6x7) | 2:53 |
 
-Snapshot ID: `MCxlM2MzNTk3ZjhiZDg5MThhMzBmMjcxYWUzZTBiNjZjZDAxZjljODVm`
+Snapshot ID: `MCwwYjFkYzBjZWI1NGU4NTIxZGU1NDY3NjA4NGU4ZjM5YTA1YTRiNDMy`

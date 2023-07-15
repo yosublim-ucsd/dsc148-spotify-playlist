@@ -2,14 +2,14 @@
 
 ### [Hip\-Hop Mexicano: Clásicos](https://open.spotify.com/playlist/37i9dQZF1DX7eaesGGB9eJ)
 
-> Los temas legendarios de la escena de rap nacional: Kinto Sol en portada.
+> Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-52 songs - 3 hr 34 min
+54 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Anda Y Ve](https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Los Aguacates De Jilquilpan](https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF) | 4:52 | 2022-03-07 |  |
-| [Andamos Armados](https://open.spotify.com/track/0fGz4XFR2cOxmmn6iFTy04) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:56 | 2022-03-07 |  |
+| [Andamos Armados](https://open.spotify.com/track/0fGz4XFR2cOxmmn6iFTy04) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:56 | 2022-03-07 | 2023-07-15 |
 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 | 2022-03-07 |  |
 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 | 2022-03-07 |  |
 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 | 2022-03-07 |  |
@@ -29,8 +29,10 @@
 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 | 2022-03-07 |  |
 | [Hey Si Me Ven](https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Volumen Prohibido](https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW) | 3:43 | 2022-03-07 |  |
 | [Hit Me](https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 4:16 | 2022-03-07 |  |
+| [Ileso](https://open.spotify.com/track/401Wpcw5VRjNOmsPpvKlfJ) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/31fEHaKaTwJc7hPH2mc9k2) | 6:21 | 2022-03-07 |  |
 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 | 2022-03-07 |  |
 | [La Pelotona](https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:41 | 2022-03-07 |  |
+| [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP) | [Tha Mexakinz](https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN) | [La Plaga \(Digitally Remastered Remix\)](https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7) | 3:47 | 2022-03-07 |  |
 | [La Sangre Nunca Muere](https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [La Sangre Nunca Muere](https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ) | 5:14 | 2022-03-07 |  |
 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 | 2022-03-07 |  |
 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 | 2022-03-07 |  |
@@ -44,7 +46,7 @@
 | [Pesao](https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 3:28 | 2022-03-07 |  |
 | [Policías En Helicóptero \(con El Aarón\)](https://open.spotify.com/track/0xwnJOZfxDuqmTWsUSgCOs) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Deja Vú](https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd) | 3:23 | 2022-03-07 |  |
 | [Pues Que Pues](https://open.spotify.com/track/4pWMXmEgwEMBoBMyw8BCG4) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:56 | 2022-03-07 |  |
-| [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 | 2022-03-07 |  |
+| [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 | 2022-03-07 | 2023-07-15 |
 | [Rucón](https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Eclipse](https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3) | 2:48 | 2022-03-07 |  |
 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 | 2022-03-07 |  |
 | [Si Señor](https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 4:13 | 2022-03-07 |  |

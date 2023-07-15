@@ -2,9 +2,9 @@
 
 ### [Folk Arc](https://open.spotify.com/playlist/37i9dQZF1DWT9XEOPDgFX3)
 
-> Walk the bridge between indie and folk\. Cover: Maple Glider
+> Walk the bridge between indie and folk\. Cover: Chance Peña
 
-366 songs - 22 hr 54 min
+367 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Falling Apart](https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar) | 2:46 | 2022-04-29 |  |
 | [Falling Apart](https://open.spotify.com/track/4pKNzf3s40YdmnSgWhybGc) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Falling Apart](https://open.spotify.com/album/1MfOtAIberEkZF45wGRnoX) | 2:46 | 2022-04-13 | 2022-07-29 |
 | [Family Album](https://open.spotify.com/track/0ydnbv4CT5dUh7WMdHtWBN) | [Lia Ices](https://open.spotify.com/artist/2hy115qI1RfVvSeSvKfZj3) | [Family Album](https://open.spotify.com/album/5u6PO5NjPvgFDcc3EkTyVD) | 5:07 | 2022-04-13 | 2022-07-28 |
-| [Far From You](https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Far From You](https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom) | 4:32 | 2023-04-07 |  |
+| [Far From You](https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Far From You](https://open.spotify.com/album/7eXk2CTh0gdlkG0vEz0Lom) | 4:32 | 2023-04-07 | 2023-07-15 |
 | [Favorite Part](https://open.spotify.com/track/5RjiNm4c0itCWYQQd3br2U) | [Anna Ash](https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw) | [Favorite Part / Popularity](https://open.spotify.com/album/4tRy1IKOZ6NHj9iaTyBlnj) | 3:17 | 2022-04-13 | 2022-07-22 |
 | [For Props](https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Sundry Rock Song Stock](https://open.spotify.com/album/7N3gPiUIMhiDEaB3SQtEIy) | 3:43 | 2022-04-29 | 2023-05-17 |
 | [For Props](https://open.spotify.com/track/4ONnqJEwXq3RRoQBm2CuYH) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [For Props](https://open.spotify.com/album/37qOG7Mcy601w1oVaLd3Nc) | 3:43 | 2022-01-21 | 2022-07-29 |
@@ -199,6 +199,7 @@
 | [Lotta Love](https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/6ocfxxkgWCkw3jvjI0eWR7) | 3:17 | 2022-01-21 | 2022-07-29 |
 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 | 2022-04-29 |  |
 | [Love Farewell](https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Good and Green Again](https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM) | 3:58 | 2022-01-21 |  |
+| [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 | 2023-07-14 |  |
 | [Maggie](https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 4:54 | 2022-04-29 | 2023-04-28 |
 | [Maggie](https://open.spotify.com/track/6BYUB4l8aAF2FEu8kHAG4I) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [Maggie](https://open.spotify.com/album/7x0Ma71IGM9QuoaAKaIahy) | 4:54 | 2022-01-21 | 2022-07-29 |
 | [Maria, Maria](https://open.spotify.com/track/1OiZlAtgC2mgri19FM4WEU) | [Melissa Mary Ahern](https://open.spotify.com/artist/79KGU3BCSn2jRJi4r0jHZ2) | [Maria, Maria](https://open.spotify.com/album/2arErHVLHlDBsR8iLd5Haf) | 3:37 | 2022-01-21 | 2022-04-28 |
@@ -243,7 +244,7 @@
 | [Pareidolia](https://open.spotify.com/track/7auhQqfbDNtYmOoLwPhGju) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Pareidolia](https://open.spotify.com/album/5lMw5oHGZQQWJVYTbn4el4) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2022-04-13 | 2022-07-24 |
 | [Party's Over](https://open.spotify.com/track/3cUktIJJfxfXFt5RvaHsty) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:23 | 2022-04-29 | 2022-09-11 |
-| [Persephone](https://open.spotify.com/track/3Gi5PGt4oDR6izqgUt0tmY) | [Tyler Burkhart](https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM) | [Persephone](https://open.spotify.com/album/2PdWxpqdvoFyW3LSiR8aY6) | 2:28 | 2023-06-30 |  |
+| [Persephone](https://open.spotify.com/track/3Gi5PGt4oDR6izqgUt0tmY) | [Tyler Burkhart](https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM) | [Persephone](https://open.spotify.com/album/2PdWxpqdvoFyW3LSiR8aY6) | 2:28 | 2023-06-30 | 2023-07-15 |
 | [Photograph](https://open.spotify.com/track/4R7BQYeTzAhy0Vl83xrAcQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 2:15 | 2022-10-14 | 2022-11-13 |
 | [Pick Apart](https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:35 | 2022-01-21 | 2023-04-09 |
 | [Picture Window](https://open.spotify.com/track/5sRVuINnM37MVfUFS2zOfJ) | [Kristine Leschper](https://open.spotify.com/artist/5j3howIfVr9Jm0AqHNapwf) | [Picture Window](https://open.spotify.com/album/0dVDYgYT8YK6WM69hgheeF) | 4:42 | 2022-01-21 | 2023-05-27 |
@@ -269,7 +270,7 @@
 | [Rolling Rolling Rolling](https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Wooh Dang](https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri) | 4:06 | 2022-04-13 | 2023-04-05 |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-21 | 2022-11-04 |
 | [Rubberneckers](https://open.spotify.com/track/5bFCQlmeLTKT25oga5ltiA) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Quitters](https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG) | 3:28 | 2022-10-14 |  |
-| [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 | 2022-12-02 | 2023-07-02 |
+| [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 | 2022-12-02 |  |
 | [Santa Barbara](https://open.spotify.com/track/0v6lbGn9fC1YEa7WQZjFNX) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/3uyniBJKkgZfYsM25bBa8T) | 3:14 | 2022-01-21 | 2022-07-28 |
 | [Santa Barbara](https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Santa Barbara](https://open.spotify.com/album/24TRZ0557IVU06q4TaYgNI) | 3:14 | 2022-04-29 |  |
 | [Separate Bills](https://open.spotify.com/track/6vunTc3ElwejXHngcut7el) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [The Way It Would Be](https://open.spotify.com/album/4vd5ISaBt9DKezwJ8PKnDj) | 2:18 | 2022-04-13 | 2022-07-27 |

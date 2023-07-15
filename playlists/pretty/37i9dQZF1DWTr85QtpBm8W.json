@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 10145,
+  "num_followers": 10179,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWY3MTMxZTkzNmU1YmEzMDNjN2ZmMTFiNjY1Y2E5MmI1YWE1ODYw",
+  "snapshot_id": "MCxkNjc4ZjlkMGRhNDFkNmU1Y2VkMGRlM2I4NGM4ZTFjMmZlMWMyNjQw",
   "tracks": [
     {
       "added_at": "2023-06-07 15:22:01",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 126091,
-      "name": "In McDonalds",
-      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Venice",
-        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
+        "name": "Playthroughs",
+        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Keith Fullerton Whitman",
+          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
         }
       ],
-      "duration_ms": 282106,
-      "name": "Rivers of Sand",
-      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
+      "duration_ms": 330826,
+      "name": "Track3a (2waynice)",
+      "url": "https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Playthroughs",
-        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
       },
       "artists": [
         {
-          "name": "Keith Fullerton Whitman",
-          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
         }
       ],
-      "duration_ms": 330826,
-      "name": "Track3a (2waynice)",
-      "url": "https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu"
+      "duration_ms": 282106,
+      "name": "Rivers of Sand",
+      "url": "https://open.spotify.com/track/3enFTlwkCRF5HUM8xX6FKB"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
-      },
-      "artists": [
-        {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
-        }
-      ],
-      "duration_ms": 403573,
-      "name": "Crimson Ways",
-      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "The Dead Texan",
         "url": "https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 347706,
       "name": "A Chronicle of Early Failures - Part 2",
       "url": "https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 403573,
+      "name": "Crimson Ways",
+      "url": "https://open.spotify.com/track/6DCucKDvfe2Hqc3PWMB9rF"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Venice",
-        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
+        "name": "Playthroughs",
+        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Keith Fullerton Whitman",
+          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
         }
       ],
-      "duration_ms": 394693,
-      "name": "City of Light",
-      "url": "https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH"
+      "duration_ms": 481266,
+      "name": "Fib01a",
+      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Playthroughs",
-        "url": "https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW"
+        "name": "Venice",
+        "url": "https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ"
       },
       "artists": [
         {
-          "name": "Keith Fullerton Whitman",
-          "url": "https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
         }
       ],
-      "duration_ms": 481266,
-      "name": "Fib01a",
-      "url": "https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ"
+      "duration_ms": 394693,
+      "name": "City of Light",
+      "url": "https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
-        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
-      },
-      "artists": [
-        {
-          "name": "m\u00fam",
-          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
-        }
-      ],
-      "duration_ms": 391466,
-      "name": "There Is A Number Of Small Things",
-      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Grinning Cat",
         "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 154493,
       "name": "I Imagine",
       "url": "https://open.spotify.com/track/2Rg7fFBI94HDY0QAYYInTx"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Yesterday Was Dramatic \u2013 Today Is OK",
+        "url": "https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2"
+      },
+      "artists": [
+        {
+          "name": "m\u00fam",
+          "url": "https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU"
+        }
+      ],
+      "duration_ms": 391466,
+      "name": "There Is A Number Of Small Things",
+      "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "L'Orange L'Orange",
-        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 314676,
-      "name": "Blind Contour Drawing for Piano",
-      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/5yKUy5T6GHkZ28mguYjs1s"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 602933,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1DsoDBT8QqXDTrK6V6J9gh"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "L'Orange L'Orange",
+        "url": "https://open.spotify.com/album/3yVzkwlzy9FMprEMcPHoG5"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 314676,
+      "name": "Blind Contour Drawing for Piano",
+      "url": "https://open.spotify.com/track/2uZG8EGSKsrCvGG6cUNcU2"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "Through the Cardial Window",
-        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
-      },
-      "artists": [
-        {
-          "name": "Gregg Kowalsky",
-          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
-        }
-      ],
-      "duration_ms": 350360,
-      "name": "Coral Gables",
-      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 236786,
       "name": "Von Schn\u00e4beln",
       "url": "https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "Through the Cardial Window",
+        "url": "https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU"
+      },
+      "artists": [
+        {
+          "name": "Gregg Kowalsky",
+          "url": "https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq"
+        }
+      ],
+      "duration_ms": 350360,
+      "name": "Coral Gables",
+      "url": "https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn"
     },
     {
       "added_at": "2023-06-07 15:22:01",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-07 15:22:01",
       "album": {
-        "name": "M\u00f8rketid",
-        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
-        }
-      ],
-      "duration_ms": 563720,
-      "name": "New Horizons",
-      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
-    },
-    {
-      "added_at": "2023-06-07 15:22:01",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 378840,
       "name": "Welk",
       "url": "https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS"
+    },
+    {
+      "added_at": "2023-06-07 15:22:01",
+      "album": {
+        "name": "M\u00f8rketid",
+        "url": "https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN"
+        }
+      ],
+      "duration_ms": 563720,
+      "name": "New Horizons",
+      "url": "https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp"
     },
     {
       "added_at": "2023-06-07 15:22:01",

@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=d0885697cfc24562">Hillsong en Español</a>
+> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=461e90d8ab2f47a4">Majo y Dan</a>
 
-434 songs - 1 day 8 hr 58 min
+435 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/track/6Y5TIxbM7fsG5j9CqJqZDW) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Gracia Sobre Gracia \(feat\. Miel San Marcos\)](https://open.spotify.com/album/4qiy47VjgVtXbsP2Cg1USA) | 4:49 | 2022-05-27 | 2022-11-12 |
 | [Gracias](https://open.spotify.com/track/0oL6iQGjNapmqwRSchl2g5) | [Cindy Barrera](https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Gracias](https://open.spotify.com/album/1Fy1zFN4Kgjhc1XsRzxI4p) | 3:13 | 2023-03-03 |  |
 | [Gracias](https://open.spotify.com/track/7i8ZNfQoW8NdbGflJ3Sx2w) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Gracias](https://open.spotify.com/album/7GgcM9RrWZmp4xo0SGUZrN) | 3:03 | 2022-02-25 | 2022-04-02 |
+| [Gracias por la cruz](https://open.spotify.com/track/3dRCPJAPgupBQcotTgh2WU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No yo, sino Cristo](https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe) | 5:06 | 2023-07-14 |  |
 | [Grande Como El Cielo](https://open.spotify.com/track/40NxV30GjlEjNK52Z40Dnq) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Grande Como El Cielo](https://open.spotify.com/album/6wJARHYepBIKNbFFfiPFpl) | 3:04 | 2023-04-14 |  |
 | [Grasa](https://open.spotify.com/track/5I7mtkXK8m8hJgkbZD9a9C) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Grasa](https://open.spotify.com/album/0vrIWNJOBQ3BG7NQblMXOU) | 3:17 | 2023-03-03 | 2023-07-01 |
 | [Grito](https://open.spotify.com/track/43PTYDkwcxl4pbvnIoTrnY) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Dariana](https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Grito](https://open.spotify.com/album/5O2I54CwXnrJPgAXqS3Keu) | 3:21 | 2022-02-25 | 2022-04-02 |
@@ -191,7 +192,7 @@
 | [Hasta La Eternidad](https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db), [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Hasta La Eternidad](https://open.spotify.com/album/53dywng9hTIkHvljhNavG2) | 4:12 | 2022-08-26 | 2022-11-19 |
 | [Hay Fiesta](https://open.spotify.com/track/0O5JZMB8BntvrzyMlHY7UW) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Hay Fiesta](https://open.spotify.com/album/6JOTjn48bOftueLqjFaFOp) | 3:12 | 2022-09-02 | 2022-10-22 |
 | [Hay Otra Salida](https://open.spotify.com/track/3mknhe55utC4ZZWyVuyT8T) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Todos Mis Mejores Amigos](https://open.spotify.com/album/6yFD9a0CkXz8tY75nyN9wo) | 3:03 | 2022-02-25 | 2022-03-18 |
-| [Hay un hombre](https://open.spotify.com/track/4S4w1RDWqecEm9STvOHBPU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Hay un hombre](https://open.spotify.com/album/4lp2PkekD2lN4POM1RGCHd) | 4:20 | 2023-06-16 |  |
+| [Hay un hombre](https://open.spotify.com/track/4S4w1RDWqecEm9STvOHBPU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Hay un hombre](https://open.spotify.com/album/4lp2PkekD2lN4POM1RGCHd) | 4:20 | 2023-06-16 | 2023-07-15 |
 | [Haz Fluir](https://open.spotify.com/track/0BrTHwpH62e5sxP24u82ur) | [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h), [Graciela Galmes](https://open.spotify.com/artist/7EnYA3MomsUMPg4hbWmy5r), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [FLUIR 1](https://open.spotify.com/album/39Jr00xTIQJnvvaUNdNYKz) | 7:38 | 2022-09-23 | 2023-02-11 |
 | [Hermoso Dios](https://open.spotify.com/track/0wFQSfzlcqszUHyMSvI3TM) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [Hermoso Dios](https://open.spotify.com/album/0ADgip6GPNW6pLZQv07DIZ) | 8:12 | 2023-05-19 | 2023-06-03 |
 | [His Will > Mine](https://open.spotify.com/track/6bDQdwXEsVXX72kOiUSEKA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [His Will > Mine](https://open.spotify.com/album/1YCZMAs3j2nkPiicRUQC15) | 1:51 | 2022-02-25 | 2022-03-18 |

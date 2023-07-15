@@ -4,7 +4,7 @@
 
 > Beat distraction and stay on task with these bird sounds to for your \(home\) office workday.
 
-63 songs - 2 hr 37 min
+64 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Black Birds in the park](https://open.spotify.com/track/2TcNxcpGr2EqwfA5lnb98y) | [Los Pájaros Cantores](https://open.spotify.com/artist/54rOAQdy1JZ7lmDX77MNOA) | [Black Birds in the park](https://open.spotify.com/album/6KaD0DIs1XpXip1Aj29Xnr) | 2:29 | 2023-06-19 | 2023-06-30 |
 | [Blackbird Singing](https://open.spotify.com/track/5AeEDodSqlthJpAdWD8hJq) | [Sounds on Earth](https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn) | [Wonderful Morning](https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT) | 2:46 | 2022-10-28 |  |
 | [blackbird spring ambience](https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp) | [Scandinavian Birds](https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN) | [Blackbird Spring Ambience](https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h) | 1:42 | 2022-10-28 | 2023-06-20 |
-| [Calm Forest Birds](https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK) | [Birdsongst](https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK) | [Neighborhood Birds FX](https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7) | 2:30 | 2023-06-19 |  |
+| [Calm Forest Birds](https://open.spotify.com/track/50pHWYGluK6qV5mXU128OK) | [Birdsongst](https://open.spotify.com/artist/013QQQC3ofg6o6fhfyvMiK) | [Neighborhood Birds FX](https://open.spotify.com/album/3RuOVBydoDyDJK3GYjnOM7) | 2:30 | 2023-06-19 | 2023-07-15 |
 | [Calming River and Birds](https://open.spotify.com/track/6adenoqGem4ct6StQqJGDk) | [Lucila Blanco](https://open.spotify.com/artist/51h2aIvJRuUKKug9FG9Zlx) | [Calming River and Birds](https://open.spotify.com/album/4LtLMvR1X1qknoa4VtnuWt) | 2:17 | 2023-06-19 | 2023-07-03 |
 | [Clear Creek](https://open.spotify.com/track/4jQHltMu5EIuktvQYivjbg) | [Lave](https://open.spotify.com/artist/5EA4MDPkAtu1hrHhgM8tWK) | [Clear Creek](https://open.spotify.com/album/7tMxYukzhoL5zCMQQif70L) | 3:20 | 2022-10-28 |  |
 | [Close to Nature](https://open.spotify.com/track/4JJfSzfcmlUIiebTu4getf) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:19 | 2022-10-28 | 2023-06-20 |
@@ -43,6 +43,7 @@
 | [Kaupe Spring Birds](https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:38 | 2022-10-28 |  |
 | [L'oiseau Aime La Pluie](https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv) | [Collectes De Pluie](https://open.spotify.com/artist/1O6c8WWoJVPu47KaW85RD6) | [L'oiseau Aime La Pluie](https://open.spotify.com/album/2Vf6f8vExOISe6piYtOeNd) | 2:16 | 2022-10-28 |  |
 | [Lake Side Bird Sound](https://open.spotify.com/track/6crMJIJMG0BTz9wTlfnzQG) | [Our Glorious Nature](https://open.spotify.com/artist/2AghMsKtLVXLg6fTdReXc4) | [Lake Side Bird Sound](https://open.spotify.com/album/4HYEHOfBqQCE5yVtphnh3u) | 2:15 | 2022-10-28 |  |
+| [Meadow Birds Chirp](https://open.spotify.com/track/5ofgZqm0XOUot0WoftJBSh) | [Dreamy Nature](https://open.spotify.com/artist/2FWlYKW1QxPLTjkk7nRXWd) | [Dreams & Bird Song](https://open.spotify.com/album/1o5iHs6J6fGe5qLD0Nbi88) | 2:24 | 2023-06-19 |  |
 | [Mediterranean Birds On A Monday](https://open.spotify.com/track/7rtawKJ0h5CDkLka8mH4Rr) | [Relaxing The Mind](https://open.spotify.com/artist/44wFi6rFvY5u6U69UNnwSr) | [With Sounds Of A Mediterranean Forest](https://open.spotify.com/album/13FWYQKoMdcArynfwQyPYw) | 3:06 | 2023-06-19 | 2023-06-24 |
 | [Midsummer Evening Birds](https://open.spotify.com/track/261ebcVGg5iiyrBIr6YL1k) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Soothing Birds](https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j) | 2:02 | 2022-10-28 |  |
 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 | 2022-10-28 |  |

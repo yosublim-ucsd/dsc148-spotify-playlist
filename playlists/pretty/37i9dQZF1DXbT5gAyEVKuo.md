@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,425 likes - 49 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,467 likes - 49 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 33 | [God Is My Refuge \(Live\)](https://open.spotify.com/track/39T5NZkYTomQw86dT9x0K1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Worship Journal \(Live\)](https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I) | 9:45 |
 | 34 | [Now Behold the Lamb](https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 6:52 |
 | 35 | [Rushing In \- Live](https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Peace: The Album](https://open.spotify.com/album/46V8rvf1x9N0Cca4LD3Y8s) | 7:42 |
-| 36 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Playlist: The Very Best Of Byron Cage](https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa) | 5:17 |
+| 36 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ) | 4:09 |
 | 37 | [Your Great Name \(Live\)](https://open.spotify.com/track/3hDeZSWqjlQPJM7w8zHToK) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Your Great Name \(Live\) \- Single](https://open.spotify.com/album/1b5xZ0TrmAYNNCmtjnl2G5) | 4:25 |
-| 38 | [Maintain \(feat\. Chantae Cann\) \(Live\)](https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR) | [Sessions \- EP](https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ) | 4:09 |
+| 38 | [I Will Bless the Lord \- Live](https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y) | [Byron Cage](https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez) | [Playlist: The Very Best Of Byron Cage](https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa) | 5:17 |
 | 39 | [Never Seen The Righteous \- Live](https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Gospel's Best Live](https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd) | 4:41 |
 | 40 | [I Don't Wanna Leave \- Live From Chattanooga, TN](https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 4:06 |
 | 41 | [Open My Heart \- Live](https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [The Experience](https://open.spotify.com/album/2rJx0qDPmdODn2YJvGZgSz) | 7:45 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 48 | [Ooh Wee Another Blessing](https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc) | [Melvin Williams](https://open.spotify.com/artist/55ahFTOpj1ZVL4upoNwOqm) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 4:13 |
 | 49 | [It's Not Over](https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [The Best Of Gospel Superfest \(Live\)](https://open.spotify.com/album/7zXF8rjj6tDybn7aavDm6N) | 6:19 |
 
-Snapshot ID: `MCw1MjBmNWFmNzE0NWQ0MWE0OTlhMDgyNzY4M2NlYmM3ZWRhYWY5NTI2`
+Snapshot ID: `MCwzMmEzM2JiMjc0ZjA0N2YxMTZjZDg1ZTNhZjMwZWRmYTYyNTM0MWIy`

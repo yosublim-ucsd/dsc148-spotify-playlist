@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Cody Fry
 
-257 songs - 14 hr 0 min
+259 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Under My Skin](https://open.spotify.com/track/5oiZiF3fBLHqgTDaH0Pj7M) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Let Live & Let Ghosts](https://open.spotify.com/album/0zQxOFhjixRmW1w6LftIyX) | 3:19 | 2022-05-17 | 2022-12-10 |
 | [Us and Pigs](https://open.spotify.com/track/4SmhvwAHcPS07SfLUSOJnt) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Us and Pigs](https://open.spotify.com/album/0qoWzc62jWceify6jMxXDt) | 2:54 | 2023-01-20 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-05-17 | 2022-09-03 |
+| [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-14 |  |
 | [Vanilla Curls](https://open.spotify.com/track/3KaWB1Kdl93PWaXT8mDRpD) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:50 | 2022-05-17 | 2022-08-06 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-10-06 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2a5iijmK8wnmiwxiqsn8QL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pop Favourites](https://open.spotify.com/album/0loQ9cO8DNmHEH8SgeWkT8) | 3:26 | 2022-10-21 | 2022-11-13 |
@@ -261,6 +262,7 @@
 | [Waltz For Sweatpants](https://open.spotify.com/track/5NItQtFp7GdPaOG41vVXCk) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Waltz For Sweatpants](https://open.spotify.com/album/79BUAhiwMuRuyRouRwrZ36) | 3:15 | 2023-06-23 |  |
 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 | 2022-05-17 | 2022-08-06 |
 | [what depression feels like](https://open.spotify.com/track/2nKxy7J1FyNAjkHtpJ7g3j) | [Ethan Jewell](https://open.spotify.com/artist/17Cit7wNuKM6q67MwLH6gD) | [what depression feels like](https://open.spotify.com/album/1gjAVS3FRPAckKGKprCRnb) | 3:15 | 2022-11-25 | 2022-12-03 |
+| [Where Do All The Good Kids Go?](https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Where Do All The Good Kids Go?](https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3) | 3:16 | 2023-07-14 |  |
 | [Wine Red](https://open.spotify.com/track/7puGwAJbm1hhbSkKVrvrdT) | [The Hush Sound](https://open.spotify.com/artist/1RCoE2Dq19lePKhPzt9vM5) | [Like Vines](https://open.spotify.com/album/2ViqUaFAwiL0ILIr7eexgl) | 2:34 | 2022-05-17 | 2022-12-10 |
 | [World Burn](https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:23 | 2022-06-03 | 2022-06-11 |
 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 | 2022-05-17 | 2022-12-10 |

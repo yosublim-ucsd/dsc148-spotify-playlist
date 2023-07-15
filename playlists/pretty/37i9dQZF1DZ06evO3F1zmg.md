@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,186 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,197 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 24 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
 | 25 | [Back Seat](https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 3:03 |
 | 26 | [Money Mouf](https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Money Mouf](https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG) | 3:31 |
-| 27 | [Pretty Bitch Freestyle](https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Bitch Freestyle](https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK) | 2:09 |
-| 28 | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0) | 3:11 |
+| 27 | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0) | 3:11 |
+| 28 | [Pretty Bitch Freestyle](https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Bitch Freestyle](https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK) | 2:09 |
 | 29 | [Talkin' Bout \(feat\. Saweetie\)](https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:06 |
 | 30 | [Tip Toes \(feat\. Quavo\)](https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:51 |
 | 31 | [Addiction \(feat\. Lil Wayne & Saweetie\)](https://open.spotify.com/track/6iIQFnknhqitV3qJXICseF) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [K.R.I.T\. IZ HERE](https://open.spotify.com/album/1KvZT4NZm69EkOym8rLqW1) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Dipped In Ice](https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:49 |
 | 50 | [Baila Conmigo](https://open.spotify.com/track/2sJHeAvFZ58o3Z6CB56EdU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Baila Conmigo](https://open.spotify.com/album/3pcIJIuMpyw7L2fxGETbzk) | 2:35 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDBkMDY0ODY5MmFlMjBlZDNlYjYzYmIzZDVmNDM5ZjcyNg==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDAxYWQ5YmYyZDVmMGM4NjQwMjJjZTg4NzFmNzI2NTczZg==`

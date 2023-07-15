@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,751 likes - 41 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,758 likes - 41 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 40 | [Safari](https://open.spotify.com/track/0ypEcB9ug8CUMUcVw4xRa9) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/4iiZQx3uTQROsXgDH7fcnL) | 5:48 |
 | 41 | [Pieter Botha](https://open.spotify.com/track/0CvXpSINDjnhWI8YCzNOMp) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5GfXFFsn4cYbsbFTmlGaDa) | 3:20 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDA5MmMyMzVkYTFhOTBhYmFiNGZjYTdiYzdjMjk2NjhkYQ==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDA5YjFkYzA1MmVmYjk5ZmU3MGY0OTRkODcwNWU3NDY2ZA==`

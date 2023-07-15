@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo?si=PWJjdqZgTbKUjDdKpRdIMA">دبل زوكش J </a>
+> أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo?si=PWJjdqZgTbKUjDdKpRdIMA">دبل زوكش  </a>
 
 202 songs - 10 hr 20 min
 

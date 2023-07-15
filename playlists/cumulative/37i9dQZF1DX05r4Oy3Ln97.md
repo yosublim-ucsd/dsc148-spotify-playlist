@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-266 songs - 13 hr 45 min
+267 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-26 |  |
 | [Goodbye Lover](https://open.spotify.com/track/6P62rwu9ExgXscsUCaixuc) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Goodbye Lover](https://open.spotify.com/album/4s2dJEoEyNNSYZ45ecb5mr) | 2:31 | 2021-10-29 | 2022-04-17 |
 | [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 | 2023-01-27 |  |
-| [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/1asrO7gENmmoBu9iRJtZbi) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 3:11 | 2023-01-27 |  |
+| [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/1asrO7gENmmoBu9iRJtZbi) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 3:11 | 2023-01-27 | 2023-07-15 |
 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass \(Majestic Remix\)](https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas) | 3:11 | 2022-06-17 | 2022-11-14 |
 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 | 2021-10-29 | 2022-03-22 |
 | [Hallelujah](https://open.spotify.com/track/3ZzqeiucaYmpAE1EZw6Rje) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Hallelujah](https://open.spotify.com/album/7sC4cRLjEclDq7PXBW1nW5) | 2:13 | 2022-07-08 | 2022-08-03 |
@@ -222,6 +222,7 @@
 | [Summertime With You](https://open.spotify.com/track/5b6zREc57MnDHRh2EjVHbw) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Summertime With You](https://open.spotify.com/album/5NQ9nE5nfn78rpz8o97rZp) | 2:20 | 2022-07-08 | 2022-08-08 |
 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 | 2021-10-29 | 2023-01-28 |
 | [Sun Screen](https://open.spotify.com/track/3noJl0ag90pcZMSUTbDt4q) | [Nina Young](https://open.spotify.com/artist/5kfKDSksVMsl63kpMZ8m2x) | [Sun Screen](https://open.spotify.com/album/3B3oVJJzRieSTbS8Q8hPut) | 2:12 | 2021-10-29 | 2022-06-04 |
+| [Sunrise](https://open.spotify.com/track/1BN5SY8Dkwljias6JUo15a) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Sunrise](https://open.spotify.com/album/752ym7DLJyAhI9pHKhN1xT) | 2:18 | 2023-07-14 |  |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2021-10-29 | 2022-04-18 |
 | [Surf Song](https://open.spotify.com/track/3jjvpoRGl2tfSGMSKAovw8) | [Ian Storm](https://open.spotify.com/artist/6fllSzvyC7OruOFZisOELq), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Surf Song](https://open.spotify.com/album/5YhmrTqgAJJlTOm3WOPfHq) | 2:28 | 2023-04-07 | 2023-05-24 |
 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 | 2022-03-25 | 2023-04-01 |

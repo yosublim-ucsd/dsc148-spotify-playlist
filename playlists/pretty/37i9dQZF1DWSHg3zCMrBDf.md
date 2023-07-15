@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf?si=u7aTapgbSWKe7dX26LKrMQ">King Promise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,720 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,757 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 49 | [Odo Dede](https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [L.I.T.A \(Deluxe Edition\)](https://open.spotify.com/album/3eSs5S46FxMXHK3bTaTeD1) | 3:56 |
 | 50 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 
-Snapshot ID: `MCw1YjY3OTFmZGY2Zjk3ZWU3OGIwZjE5ZmYxNTk1NTAxNjgyMWU4ODFl`
+Snapshot ID: `MCw3ZWMzZjkzMGI0OGUzOWRmZDlmMTI5MzIxNTFkZGZlZWVkNzFmZGVh`

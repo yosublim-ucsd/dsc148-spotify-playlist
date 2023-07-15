@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Gus Dapperton",
+  "description": "make it pop! cover: Blusher",
   "name": "soda",
   "tracks": [
     {
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 178458,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx"
@@ -5075,6 +5075,24 @@
     },
     {
       "album": {
+        "name": "I Don't Feel Alive",
+        "url": "https://open.spotify.com/album/1WG4x5TpVKcN4oDBDeZuxa"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203888,
+      "name": "I Don't Feel Alive",
+      "url": "https://open.spotify.com/track/3sB0Rw1n029dIYnzaLyQFd"
+    },
+    {
+      "album": {
         "name": "I Don't Like How Much I Like You",
         "url": "https://open.spotify.com/album/3ae8vmYLjucBzAXPn9VRsH"
       },
@@ -6713,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "like i do",
+        "url": "https://open.spotify.com/album/0I2MvADSXNqeeRIDhU5oyf"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174148,
+      "name": "like i do",
+      "url": "https://open.spotify.com/track/3iAAC224KxF61iaV8TLOvP"
+    },
+    {
+      "album": {
         "name": "Like the Holidays",
         "url": "https://open.spotify.com/album/2duFauhPjyHqN05fpWfD61"
       },
@@ -6746,6 +6782,24 @@
       "duration_ms": 134793,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/0vgsQOziTKE4oaSu8TkGs7"
+    },
+    {
+      "album": {
+        "name": "Limelight",
+        "url": "https://open.spotify.com/album/6OszKA7UjG2z5xc8c36sId"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180959,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32"
     },
     {
       "album": {
@@ -8055,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "Not The 1975",
+        "url": "https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198022,
+      "name": "Not The 1975",
+      "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
+    },
+    {
+      "album": {
         "name": "not this time",
         "url": "https://open.spotify.com/album/7j3N8YpNnd3wheFpNoJVmy"
       },
@@ -8514,6 +8586,24 @@
       "duration_ms": 120826,
       "name": "Palm Springs for the Weekend",
       "url": "https://open.spotify.com/track/3fgXmDeOKrwEqnocqvQMdZ"
+    },
+    {
+      "album": {
+        "name": "Paradise Calling",
+        "url": "https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186918,
+      "name": "Paradise Calling",
+      "url": "https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj"
     },
     {
       "album": {
@@ -9686,6 +9776,24 @@
       "duration_ms": 168676,
       "name": "Sick of U (with Oliver Tree)",
       "url": "https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3"
+    },
+    {
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164213,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
     },
     {
       "album": {

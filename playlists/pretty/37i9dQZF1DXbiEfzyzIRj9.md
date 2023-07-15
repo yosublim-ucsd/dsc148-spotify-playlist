@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Disclosure
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,287 likes - 125 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,311 likes - 125 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 32 | [Drugs](https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Drugs](https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd) | 4:01 |
 | 33 | [Reflections](https://open.spotify.com/track/4XNF5X0fRBOVuE7M0PVytJ) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj), [Reinel Bakole](https://open.spotify.com/artist/42jLrFKJtJFZVhjITaD8EV) | [Night Shift](https://open.spotify.com/album/1Lgj5ZknNVRH3kZyn9qMDT) | 5:09 |
 | 34 | [Limes](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Limes](https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz) | 3:15 |
-| 35 | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/track/6x3NbTvf7CFhLfpHkcSK6G) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Wallace Remix\]](https://open.spotify.com/album/3rUdaOm0d7NOvKsqn2Cy5H) | 5:13 |
+| 35 | [Lazy Days \- Wallace Remix](https://open.spotify.com/track/61X0JCUjDd8BlwAe3z3Rr4) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wallace](https://open.spotify.com/artist/2VosWday4AoFOXDJgYoDjm) | [Lazy Days \(Wallace Remix\)](https://open.spotify.com/album/3Y1imsYzAbKWy4kKh383jy) | 5:13 |
 | 36 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 |
 | 37 | [Wake Up \- feat\. Lilly Ahlberg](https://open.spotify.com/track/161hSAPDwk98yuyMeGmkdX) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Wake Up \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/1rK42vxnzXX64eV9LKKzYW) | 3:44 |
 | 38 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 124 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 |
 | 125 | [YAZAWA](https://open.spotify.com/track/4IV0yAxtWiRmaYxQvhmoCQ) | [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [YAZAWA](https://open.spotify.com/album/3UgxmPCV4KCWHlqZxQuFhi) | 2:30 |
 
-Snapshot ID: `MCxiNjlkZmUzODlkYTUwMjUxNTk3NGEyMWQ5YzVkMWY0Y2JkNDNhNDEx`
+Snapshot ID: `MCxkZWYwNTZjOTI1OTZkN2JhODg0YzcwY2MwNTlmMmQ4YjQwNDE1MjFi`

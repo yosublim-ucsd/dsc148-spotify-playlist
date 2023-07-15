@@ -2,7 +2,7 @@
 
 ### [2000s Country](https://open.spotify.com/playlist/37i9dQZF1DXdxUH6sNtcDe)
 
-> A decade full of 00s country hits! Cover: Kenny Chesney
+> We're celebrating the 20th anniversary of Brooks & Dunn's smash "Red Dirt Road" on 2000s Country!
 
 162 songs - 10 hr 34 min
 

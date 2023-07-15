@@ -1,37 +1,13 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 184907,
+  "num_followers": 184967,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
+  "snapshot_id": "MCw2MWE0NjgwOGJmMzY1YWZiZjNlZDQyMTNmMDE1OWM1NTdkNmI3MWQ5",
   "tracks": [
-    {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97"
-      },
-      "artists": [
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Hadrien Feraud",
-          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
-        },
-        {
-          "name": "Morgan \u00c5gren",
-          "url": "https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Layers",
-      "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
-    },
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
@@ -51,30 +27,6 @@
       "duration_ms": 590866,
       "name": "Spain",
       "url": "https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Projekt 13",
-        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
-      },
-      "artists": [
-        {
-          "name": "Markus Venehsalo",
-          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
-        },
-        {
-          "name": "Mavon Safia",
-          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
-        },
-        {
-          "name": "Frank Gambale",
-          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
-        }
-      ],
-      "duration_ms": 251490,
-      "name": "Projekt 13",
-      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
     },
     {
       "added_at": "2021-06-04 04:01:00",
@@ -115,26 +67,6 @@
       "duration_ms": 351599,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Galaxias",
-        "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 236905,
-      "name": "Galaxias (Radio Edit)",
-      "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -187,30 +119,6 @@
       "duration_ms": 353666,
       "name": "Bad Asteroid",
       "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
-    },
-    {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "VHS Fireplace Love (Live)",
-        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        },
-        {
-          "name": "SmokeFace",
-          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
-        },
-        {
-          "name": "Gabe Jones",
-          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "VHS Fireplace Love - Live",
-      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -309,6 +217,30 @@
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97"
+      },
+      "artists": [
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        },
+        {
+          "name": "Morgan \u00c5gren",
+          "url": "https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE"
+        }
+      ],
+      "duration_ms": 164622,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
+    },
+    {
       "added_at": "2021-06-25 04:02:00",
       "album": {
         "name": "Septet",
@@ -405,6 +337,30 @@
       "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
+      "added_at": "2023-02-17 05:01:00",
+      "album": {
+        "name": "Projekt 13",
+        "url": "https://open.spotify.com/album/3syNIcI6rjRZEVBpwf4LcL"
+      },
+      "artists": [
+        {
+          "name": "Markus Venehsalo",
+          "url": "https://open.spotify.com/artist/5WgO7f5jW1v9d0WhVQa6f2"
+        },
+        {
+          "name": "Mavon Safia",
+          "url": "https://open.spotify.com/artist/3kbUjuq9gPGEYlzhP1nCit"
+        },
+        {
+          "name": "Frank Gambale",
+          "url": "https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC"
+        }
+      ],
+      "duration_ms": 251490,
+      "name": "Projekt 13",
+      "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "The Brecker Bros",
@@ -487,22 +443,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Face First",
-        "url": "https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf"
-      },
-      "artists": [
-        {
-          "name": "Tribal Tech",
-          "url": "https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz"
-        }
-      ],
-      "duration_ms": 424973,
-      "name": "Face First",
-      "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Forward Motion",
         "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
       },
@@ -515,6 +455,22 @@
       "duration_ms": 285533,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/3x8WXagG37ONFz857YbeFe"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Face First",
+        "url": "https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf"
+      },
+      "artists": [
+        {
+          "name": "Tribal Tech",
+          "url": "https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz"
+        }
+      ],
+      "duration_ms": 424973,
+      "name": "Face First",
+      "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -541,22 +497,6 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2021-04-16 04:01:00",
-      "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 360053,
-      "name": "Teki",
-      "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Walk Cycle",
@@ -571,6 +511,22 @@
       "duration_ms": 192013,
       "name": "Walk Cycle",
       "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+    },
+    {
+      "added_at": "2021-04-16 04:01:00",
+      "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 360053,
+      "name": "Teki",
+      "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
     },
     {
       "added_at": "2021-08-27 04:01:00",
@@ -609,6 +565,26 @@
       "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Galaxias",
+        "url": "https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        },
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 236905,
+      "name": "Galaxias (Radio Edit)",
+      "url": "https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt"
+    },
+    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "The Antidote Is in the Poison",
@@ -625,22 +601,6 @@
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Opuntia",
@@ -655,6 +615,22 @@
       "duration_ms": 242000,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -999,6 +975,30 @@
       "duration_ms": 297359,
       "name": "You Gotta Get It While You Can",
       "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "VHS Fireplace Love (Live)",
+        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "SmokeFace",
+          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "VHS Fireplace Love - Live",
+      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "added_at": "2021-02-12 00:49:35",

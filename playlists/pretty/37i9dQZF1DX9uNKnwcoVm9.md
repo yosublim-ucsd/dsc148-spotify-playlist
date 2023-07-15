@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,089 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,159 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 3 | [Esta Cayendo](https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios De Lo Imposible](https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU) | 4:42 |
 | 4 | [La Niña de tus Ojos](https://open.spotify.com/track/4B6Dq9yCXAyZUzGH8ULq1N) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ) | 3:31 |
 | 5 | [Ven, Te Necesito](https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 5:43 |
-| 6 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
-| 7 | [El Padre Que Siempre Soñé](https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:24 |
+| 6 | [El Padre Que Siempre Soñé](https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:24 |
+| 7 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
 | 8 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 |
 | 9 | [Me Dice Que Me Ama](https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:01 |
 | 10 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 |
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 38 | [El Señor es mi pastor](https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD) | 4:18 |
 | 39 | [Gloria En Lo Alto](https://open.spotify.com/track/7IUwWIIkqKdo8KizOsCLFX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 5:00 |
 | 40 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR) | 2:16 |
-| 41 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
+| 41 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 |
 | 42 | [Vengo A Adorarte](https://open.spotify.com/track/0c7KZFqrJwvIlaVtmTsJh3) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 5:19 |
-| 43 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 |
+| 43 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
 | 44 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
 | 45 | [Hay Una Fuente En Mí](https://open.spotify.com/track/5QcC5tFnqsNOjxksGXZHCB) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Santo Es El Señor](https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS) | 4:33 |
 | 46 | [Él Nos Ama](https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Hijo Pródigo](https://open.spotify.com/track/2DpqxoZ3YbEmFpdTREjvOS) | [Fuego](https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt) | [Por Fin en Casa](https://open.spotify.com/album/3ZkKbtlC0p5L6vgStrdRsq) | 4:47 |
 | 100 | [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 |
 
-Snapshot ID: `MCwwYzJiYmQxMDU3NjAwZGM2MDY2ZWU2MjIwNzI3OGIzNTQ0OWRhOWY5`
+Snapshot ID: `MCwwZTdiYmQ4YTU5MzI5NmJmODFiOGIwODEwNWNkNTg2YTQ4NTM5M2Fk`

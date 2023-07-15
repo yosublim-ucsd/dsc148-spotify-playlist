@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Kaifi Khalil
 
-191 songs - 10 hr 51 min
+193 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 | 2022-05-20 | 2022-07-16 |
 | [Daaye Baaye](https://open.spotify.com/track/3w9jI8mCgQCsk2SCxuPNBt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Daaye Baaye](https://open.spotify.com/album/59ov3w48N6VxopAwC0N5op) | 3:12 | 2023-02-26 | 2023-04-29 |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2022-07-15 | 2022-09-02 |
+| [DIL](https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [DIL](https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe) | 2:50 | 2023-07-14 |  |
 | [Dil de Bol](https://open.spotify.com/track/7pnzuSzXn8QmiTjXHCi304) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Dil de Bol](https://open.spotify.com/album/73C1xLVTjBxIT89yzEAtHi) | 3:13 | 2022-12-28 |  |
 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 | 2022-07-15 |  |
 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 | 2023-01-12 |  |
@@ -87,7 +88,8 @@
 | [Ishq Di Chaawaan](https://open.spotify.com/track/32QciyqHLkDbIfSMwZ4vaF) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Ishq Di Chaawaan](https://open.spotify.com/album/3wCkTerpj85FLiecQwQnsJ) | 3:45 | 2022-05-20 |  |
 | [It'll Be Alright](https://open.spotify.com/track/2hBZiD9FNe1B2KWazQ6PpA) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [It'll Be Alright](https://open.spotify.com/album/6ey6At5pDT8X1fIaSaIbsf) | 4:25 | 2022-11-02 | 2023-01-13 |
 | [Jaadugar](https://open.spotify.com/track/0gmEt2nKOssVRStyUmjSpE) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/43iHptEDCmyn1WOQ40P7w4) | 3:12 | 2022-12-19 | 2023-01-28 |
-| [Jaadugar](https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:12 | 2023-01-23 |  |
+| [Jaadugar](https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:12 | 2023-01-23 | 2023-07-15 |
+| [Jaadugar](https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:12 | 2023-07-14 |  |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-03-16 |  |
 | [JADU](https://open.spotify.com/track/5BFDwitXIlpGKPcLCZVcpA) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [JADU](https://open.spotify.com/album/1YsuVDWON04EsjwPloOWZS) | 3:10 | 2023-01-12 | 2023-02-07 |
 | [Jal Jaane Do](https://open.spotify.com/track/3Q7nCNuWLRnj77oo5hLRdV) | [Shayan](https://open.spotify.com/artist/198gd3Lh4ZCFuabsyn7jM3), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Jal Jaane Do](https://open.spotify.com/album/1pl2bOP3TrhPo132bIV3CJ) | 3:53 | 2023-02-10 | 2023-03-18 |
@@ -146,7 +148,7 @@
 | [Right Wali Payal](https://open.spotify.com/track/0y8lqslrswqgJgDKNxd8zo) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Right Wali Payal](https://open.spotify.com/album/3dOjLj8aNk6XbdR1Sfv5Va) | 2:10 | 2022-09-01 | 2023-01-13 |
 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 | 2022-05-20 | 2022-07-16 |
 | [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-05-20 | 2023-03-18 |
-| [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-06-27 |  |
+| [Saanjh](https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Saanjh](https://open.spotify.com/album/6lzFKrN8dJifMdpDBNuOw8) | 4:42 | 2023-06-27 | 2023-07-15 |
 | [Saawan](https://open.spotify.com/track/7udmtuYHCGp0ImJAncUj1q) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Saawan](https://open.spotify.com/album/0OBagpEC0U7iCLzITGnlAu) | 3:51 | 2022-09-16 | 2022-12-29 |
 | [Saawariya](https://open.spotify.com/track/4WUjl8l3t5yg2JCGeYa7DV) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saawariya](https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha) | 3:22 | 2023-02-26 | 2023-04-29 |
 | [Saaye](https://open.spotify.com/track/40H5kKnRnnzf31N5UiECJL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saaye](https://open.spotify.com/album/0J3TKBNNYzrev70LxTKziX) | 3:32 | 2022-05-20 |  |

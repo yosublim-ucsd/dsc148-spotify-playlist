@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Hatha Al Kalam",
+        "url": "https://open.spotify.com/album/6XX6i3D0ovgR2Q4m7Mc26Q"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225014,
+      "name": "Hatha Al Kalam",
+      "url": "https://open.spotify.com/track/4YfGPnOkFzM1SjwqpCSE7U"
+    },
+    {
+      "album": {
         "name": "Hatha Wagtah",
         "url": "https://open.spotify.com/album/2DWKzmPb4aGU3VzL5e1gta"
       },
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 197565,
       "name": "\u0648\u0627\u0630\u0627 \u064a\u0639\u0646\u064a",
       "url": "https://open.spotify.com/track/1AVs6owHMcViBmCphwxICa"

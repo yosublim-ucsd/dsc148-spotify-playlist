@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: MC Lyte
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,030 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,139 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 49 | [Big Momma Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Hard Core](https://open.spotify.com/album/39xHAZmTUSQJyXt6ebpjKT) | 4:16 |
 | 50 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 
-Snapshot ID: `MCxmOTEzMWE4MzY5NGRhODU2OGM0N2FlZWNmM2I4YjU4OWQ0ZWM1NTFm`
+Snapshot ID: `MCxjNmE4OGM4YmNlNDE1MDIxMzE0YzJmMWQxODdjMjIyZjE2ODcyN2Vk`

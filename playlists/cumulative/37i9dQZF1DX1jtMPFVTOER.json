@@ -2477,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "DISTANCE",
+        "url": "https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148593,
+      "name": "DISTANCE",
+      "url": "https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw"
+    },
+    {
+      "album": {
         "name": "diving board",
         "url": "https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz"
       },
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 257140,
       "name": "Grief",
       "url": "https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT"
@@ -3990,6 +4008,24 @@
       "duration_ms": 247496,
       "name": "Health Food",
       "url": "https://open.spotify.com/track/0Dylgc29zZwO3YRC1VrMdo"
+    },
+    {
+      "album": {
+        "name": "Hide To Seek",
+        "url": "https://open.spotify.com/album/22Ojaa8G95NjIiNigsmyeU"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286890,
+      "name": "Hide To Seek",
+      "url": "https://open.spotify.com/track/6UNqHOA9AkwZqZ0PEVbWfE"
     },
     {
       "album": {
@@ -5130,6 +5166,32 @@
       "duration_ms": 188354,
       "name": "Let's Never Stop Growin' Up",
       "url": "https://open.spotify.com/track/5iC1NGvqmo3SieQnWHfcKc"
+    },
+    {
+      "album": {
+        "name": "Broken Glass, Vol. 2",
+        "url": "https://open.spotify.com/album/71Y9CNBSIPw6SXN83wtvmy"
+      },
+      "artists": [
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Maiya Blaney",
+          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166224,
+      "name": "Let's Talk About Sex",
+      "url": "https://open.spotify.com/track/4hphboJQdphT27cfn9A0qp"
     },
     {
       "album": {
@@ -6288,7 +6350,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 231111,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
@@ -7474,7 +7536,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 155858,
       "name": "sleeping at the party",
       "url": "https://open.spotify.com/track/30G23Xya0gUldzvByLdvmv"

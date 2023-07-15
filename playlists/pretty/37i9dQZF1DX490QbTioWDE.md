@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: BM & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,234 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,373 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 61 | [No Me Mientas](https://open.spotify.com/track/0mYPt9hLmZZvqWAbR9SdNj) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/6F1Z5d0Hha07l3sfj2PrYh) | 3:59 |
 | 62 | [Ramito de violetas](https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 5:31 |
 | 63 | [Tu Vas a Volar](https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [A Lo Largo Y A Lo Ancho](https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55) | 3:50 |
-| 64 | [Ocho Cuarenta \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ocho Cuarenta \(feat\. Los Caligaris \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO) | 4:08 |
+| 64 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 |
 | 65 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
-| 66 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 |
+| 66 | [Ocho Cuarenta \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ocho Cuarenta \(feat\. Los Caligaris \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO) | 4:08 |
 | 67 | [Provenza / Te Felicito / Despechao](https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Provenza / Te Felicito / Despechao](https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc) | 6:02 |
 | 68 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 |
 | 69 | [No Seas Cruel](https://open.spotify.com/track/3lZivt5mGd2zxX1nXanxIU) | [Alberto Plaza](https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Seas Cruel](https://open.spotify.com/album/3gWJonwG7QvCtRR7hjD2Fg) | 3:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 97 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
 | 98 | [Miel](https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Miel](https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f) | 2:48 |
 | 99 | [Todo Me Recuerda a Ti / Después de Ti / Dale Mami](https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [El 22](https://open.spotify.com/album/0WBTlySVuVkjGQsRG4nKjF) | 8:00 |
-| 100 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
+| 100 | [Devuélveme el corazón \- Live](https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb) | [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [Adelantos \(Live\)](https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO) | 3:59 |
 
-Snapshot ID: `MCwwOTA1N2JiMGFhYzVjZjBlOWJhMzEwN2I0MzA0MWYzMjQwMTczMzEy`
+Snapshot ID: `MCw0Zjk4ZDA2OTIzMzUzNjIyOTJjNTljYTE4MDhhNDRlNzZmMzFmMTYz`

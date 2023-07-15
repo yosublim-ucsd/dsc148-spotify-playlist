@@ -4,12 +4,13 @@
 
 > Chasing sunsets con buena música de fondo.
 
-74 songs - 4 hr 16 min
+75 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [98](https://open.spotify.com/track/3H7oZCSHd0QbV79Ur2wCPZ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [98](https://open.spotify.com/album/6FIyZQ7DHCY6Jlg3AbrF50) | 3:26 | 2023-03-10 | 2023-06-01 |
 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 | 2023-03-10 |  |
+| [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 | 2023-07-14 |  |
 | [Apasionado](https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [RIO HOTEL](https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9) | 4:05 | 2023-03-10 |  |
 | [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 | 2023-03-10 | 2023-03-13 |
 | [Azul](https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Aztlán](https://open.spotify.com/album/0yFFH0eR0XJSoF0S5d5peT) | 3:14 | 2023-03-10 |  |
@@ -81,6 +82,6 @@
 | [Una noche que nunca termina](https://open.spotify.com/track/1UXbQVP8HhqtW7xQJks5gQ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq) | 3:01 | 2023-03-10 | 2023-05-19 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-05-05 |  |
 | [Ya nada es igual](https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [lo haría todo de nuevo](https://open.spotify.com/album/5rQLajIuxAciQpm4gpLwJ3) | 3:33 | 2023-03-24 | 2023-05-04 |
-| [Últimas Palabras](https://open.spotify.com/track/3wvIGzrff2fqsJ0js3Yj2a) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:32 | 2023-03-10 |  |
+| [Últimas Palabras](https://open.spotify.com/track/3wvIGzrff2fqsJ0js3Yj2a) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:32 | 2023-03-10 | 2023-07-15 |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

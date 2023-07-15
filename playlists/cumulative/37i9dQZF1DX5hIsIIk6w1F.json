@@ -3111,6 +3111,36 @@
     },
     {
       "album": {
+        "name": "Gasto En P",
+        "url": "https://open.spotify.com/album/78hlz0HCRsU8nuLE9hji19"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246606,
+      "name": "Gasto en P",
+      "url": "https://open.spotify.com/track/7dQjsvoWrFKwwsk5GpGuA5"
+    },
+    {
+      "album": {
         "name": "Gata Fina",
         "url": "https://open.spotify.com/album/0R0dq32OTL4WOAeJPV4wjZ"
       },
@@ -5727,6 +5757,24 @@
     },
     {
       "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/2pumbIwYfxXbt13whkgdXt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3pbySFbqs0u2nhhti6PhGQ"
+    },
+    {
+      "album": {
         "name": "Na Na Na (Remix)",
         "url": "https://open.spotify.com/album/7pigWCNPdpIxpfLbebqVdH"
       },
@@ -5960,7 +6008,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 173492,
       "name": "No Me Dejes en Visto",
       "url": "https://open.spotify.com/track/3r0Qr6E5iSyuzXxyTof2fy"
@@ -6000,6 +6048,24 @@
       "duration_ms": 137141,
       "name": "No Se Piken",
       "url": "https://open.spotify.com/track/1deiUNiSFJRwcQte5hG5tx"
+    },
+    {
+      "album": {
+        "name": "No Soy Cualquier Ex",
+        "url": "https://open.spotify.com/album/41uKThpB0MdAR7Xm78ofML"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150326,
+      "name": "No Soy Cualquier Ex",
+      "url": "https://open.spotify.com/track/25vSSr6p4EMxgmcjQhP2rh"
     },
     {
       "album": {
@@ -7268,7 +7334,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 173000,
       "name": "Poto$",
       "url": "https://open.spotify.com/track/6Kr9ctC19cKRQdtCzdwO7P"
@@ -7874,7 +7940,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 190027,
       "name": "Sateo",
       "url": "https://open.spotify.com/track/7B5SJgtKAepcGKPC5SaT75"

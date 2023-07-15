@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,027 likes - 72 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,070 likes - 72 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Work It \- Edit](https://open.spotify.com/track/5EPN11F2wIv3TGfxg7PLj8) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Work It](https://open.spotify.com/album/1dAcZ9GeTOn5iJUg3rlDkZ) | 3:27 |
+| 1 | [Work It](https://open.spotify.com/track/5EPN11F2wIv3TGfxg7PLj8) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Work It](https://open.spotify.com/album/1dAcZ9GeTOn5iJUg3rlDkZ) | 3:27 |
 | 2 | [Stain My Soul](https://open.spotify.com/track/5UA2R6TF0jA5kTcKje2iRk) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Stain My Soul](https://open.spotify.com/album/64DNchZQ1KeJKhNBhBOf3Z) | 3:22 |
 | 3 | [Innerbloom](https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 9:38 |
 | 4 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TzN3KI1wiS.md) - [plain]
 | 71 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 |
 | 72 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
 
-Snapshot ID: `MCwxMjNhOGU1ZWI2ODFjYjI4YTdjZWY1MGViZDc0M2JjMzdiMjFmYmIw`
+Snapshot ID: `MCw5MzNjZTVjN2FiMmU4MWQ0NzNkZGNmNmM3Mzk5ZWQ2NzkzYzljZWI0`

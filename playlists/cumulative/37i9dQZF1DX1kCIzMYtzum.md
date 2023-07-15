@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-460 songs - 1 day 0 hr 2 min
+461 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [I’ll Take You High](https://open.spotify.com/track/4wkUa6PiswVtAwak37I1zC) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I’ll Take You High](https://open.spotify.com/album/3XapOB6DvwWEvaLH91I5Ex) | 2:52 | 2022-03-18 | 2022-04-15 |
 | [I’m Blue \(with T\-Pain\)](https://open.spotify.com/track/5IztgoHg3NQGep7SjbI5W7) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I’m Blue \(with T\-Pain\)](https://open.spotify.com/album/7EzEjcZPL1ZrnxGFERqKuQ) | 3:02 | 2022-07-15 | 2023-02-10 |
 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 | 2022-03-18 | 2022-04-19 |
-| [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju) | 3:13 | 2022-11-29 |  |
+| [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju) | 3:13 | 2022-11-29 | 2023-07-15 |
 | [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-04-21 |  |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-17 | 2023-02-18 |
 | [Kong](https://open.spotify.com/track/4GTZNsnEwRCG2l0H2nTKiA) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Kong](https://open.spotify.com/album/3bBQi7fx59FjnpFBWOxgPq) | 2:13 | 2022-03-18 | 2022-04-06 |
@@ -433,6 +433,7 @@
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2022-03-18 | 2023-02-03 |
 | [Vivaldi](https://open.spotify.com/track/5WcPCjbZalLkmJduC6kIvO) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Vivaldi](https://open.spotify.com/album/2tvcV4vvhuH05kIX8L1AgG) | 2:40 | 2022-01-28 | 2022-04-19 |
 | [WANNA GO BANG](https://open.spotify.com/track/37vqTNt3bLeDeBVWL6tNqh) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/3L2XHaprl2pQWAIzwem33z) | 3:57 | 2022-11-29 | 2023-01-25 |
+| [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 | 2023-07-14 |  |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2022-03-18 | 2022-08-06 |
 | [Watch This](https://open.spotify.com/track/2H46j706JVshMJ9ZaAS1fJ) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Watch This](https://open.spotify.com/album/1HmvRHd6ZXi1PLy95Slzvf) | 3:34 | 2022-03-04 | 2022-07-21 |
 | [We Go Out](https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [We Go Out](https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg) | 2:50 | 2022-10-14 | 2022-10-29 |

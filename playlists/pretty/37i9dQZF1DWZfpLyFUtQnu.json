@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise.",
-  "num_followers": 55346,
+  "num_followers": 55429,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNiOWFjMzBmYzA5ZmM0MWIxZWNmZGMxMjY1ZjI5MTAwNjdkMjA0",
+  "snapshot_id": "MCw1NGVlNzA1NjA0M2YwZTM5M2FlZjUyZTFmZGU2NzIxOWZhMzgxZjBm",
   "tracks": [
     {
       "added_at": "2023-04-04 13:10:14",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "On n\u2019enferme pas les oiseaux",
-        "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Voil\u00e0",
-      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "Voyou (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
+        "name": "On n\u2019enferme pas les oiseaux",
+        "url": "https://open.spotify.com/album/5n2gREH4hxQuJF2vZ6feHD"
       },
       "artists": [
         {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
         }
       ],
-      "duration_ms": 161493,
-      "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
+      "duration_ms": 177426,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/0UVlOQ3EEiTVOctUOnJ00w"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -367,6 +351,22 @@
       "duration_ms": 169106,
       "name": "Comme des enfants",
       "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "Voyou (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Diego libre dans sa t\u00eate - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
+        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "duration_ms": 396493,
+      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 319493,
       "name": "Et un jour une femme",
       "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
-        "name": "Ca ne tient pas debout (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 396493,
-      "name": "Le paradis blanc - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh"
     },
     {
       "added_at": "2023-04-04 13:10:14",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-04-04 13:10:14",
       "album": {
-        "name": "La tarentelle",
-        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
-      },
-      "artists": [
-        {
-          "name": "Yves Duteil",
-          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Prendre un enfant",
-      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
-    },
-    {
-      "added_at": "2023-04-04 13:10:14",
-      "album": {
         "name": "Babacar (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 153000,
       "name": "Et dans 150 ans",
       "url": "https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM"
+    },
+    {
+      "added_at": "2023-04-04 13:10:14",
+      "album": {
+        "name": "La tarentelle",
+        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
+      },
+      "artists": [
+        {
+          "name": "Yves Duteil",
+          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Prendre un enfant",
+      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
     },
     {
       "added_at": "2023-04-04 13:10:14",

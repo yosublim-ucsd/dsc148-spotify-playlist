@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: w.o.d\. \*👉 <a href="https://spice.eplus.jp/articles/320162?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,094 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,133 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 50 | [夢の10年後](https://open.spotify.com/track/22srVUYjt1uZ4H86ip36t4) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [夢の10年後](https://open.spotify.com/album/6pNnpUzUs7Bkn4DEBGMK5P) | 5:49 |
 | 51 | [Superior](https://open.spotify.com/track/4XJud2E6edl441erVAdBgh) | [Lillies and Remains](https://open.spotify.com/artist/6002lb7vby2t0KYnGJYKg0) | [SUPERIOR](https://open.spotify.com/album/6fOqerz5ZX2SJ2VuMp7mub) | 3:54 |
 | 52 | [Back to ZEROBASE](https://open.spotify.com/track/1nAgnxTViNsKC1kFyKiyrd) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 2:45 |
-| 53 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 |
+| 53 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 |
 | 54 | [ミンナノウタ](https://open.spotify.com/track/25uGcm3vz9JZD0nPdlypA2) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [ミンナノウタ](https://open.spotify.com/album/56FajuZLrq2rXefDLY277s) | 3:16 |
 | 55 | [Teleportation](https://open.spotify.com/track/6cpr7oQilSEY2YH3tZ1T82) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Teleportation](https://open.spotify.com/album/5oN4erstHAyU8MnxYrTBBf) | 4:51 |
 | 56 | [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Bside](https://open.spotify.com/track/3t6xEF2uLTz86xQFl0Zbwv) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [Bside](https://open.spotify.com/album/7Mv2WPzoGjjuqkoWkwDlqc) | 2:34 |
 | 80 | [ご飯が食べられる古書堂で](https://open.spotify.com/track/7sHfaoO52dMFs8DftYSbXK) | [色々な十字架](https://open.spotify.com/artist/2gWCmHa50Meizr9Mo2sgZ0) | [少し大きい声](https://open.spotify.com/album/7593C6TczoKA5vlxP63MCF) | 4:38 |
 
-Snapshot ID: `MCwwYWYzOTU2M2ZjMjlmYjZhZGU3NTY0YTZhMzcwZTMxMDZhY2Y4MDA1`
+Snapshot ID: `MCwxOTA2YTU1N2I5ZTMyYTgzMzY4YzY1MzFjM2Y5YzAxZWZkYTBhMDRk`

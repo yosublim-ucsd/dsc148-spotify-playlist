@@ -334,10 +334,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 293076,
       "name": "Chinna Chinna Asai",
       "url": "https://open.spotify.com/track/0mureCDL35PbvhXdlZXM5H"
+    },
+    {
+      "album": {
+        "name": "Birthday Special A.R. Rahman Tamil Hits",
+        "url": "https://open.spotify.com/album/211uGPj2MWmXDK0mMmQ06T"
+      },
+      "artists": [
+        {
+          "name": "Minmini",
+          "url": "https://open.spotify.com/artist/22hTOnub1VZYjuQultOi4Q"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293076,
+      "name": "Chinna Chinna Asai (From \"Roja\")",
+      "url": "https://open.spotify.com/track/2mvA51Hd82C1me2uldaufq"
     },
     {
       "album": {
@@ -2388,10 +2406,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 313028,
       "name": "Pudhu Vellai Mazhai",
       "url": "https://open.spotify.com/track/32j96Gl0BjQHAVdMPxin43"
+    },
+    {
+      "album": {
+        "name": "Sujatha - Tamil Hits",
+        "url": "https://open.spotify.com/album/5y1CVfeqxbD8Rmwia9dcYh"
+      },
+      "artists": [
+        {
+          "name": "Unni Menon",
+          "url": "https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313028,
+      "name": "Pudhu Vellai Mazhai (From \"Roja\")",
+      "url": "https://open.spotify.com/track/30CjHELmwbwRip1NMVDzLU"
     },
     {
       "album": {

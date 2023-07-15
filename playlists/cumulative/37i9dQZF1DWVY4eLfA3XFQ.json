@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Lucas Estrada & Raffa FL ",
+  "description": "Tech house technicians, featuring Cloonee",
   "name": "Operator",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202000,
       "name": "Activate",
       "url": "https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse"
@@ -2142,6 +2142,24 @@
       "duration_ms": 385567,
       "name": "Bocat",
       "url": "https://open.spotify.com/track/4rS8pri7CQvOjWmfNBOm8B"
+    },
+    {
+      "album": {
+        "name": "Body Close",
+        "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219169,
+      "name": "Body Close",
+      "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
     },
     {
       "album": {
@@ -6378,7 +6396,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180517,
       "name": "Faster",
       "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
@@ -7020,6 +7038,24 @@
       "duration_ms": 224000,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/0T8j68rUIsDchV9JIuwOfw"
+    },
+    {
+      "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "album": {
@@ -13508,6 +13544,32 @@
       "duration_ms": 196109,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6"
+    },
+    {
+      "album": {
+        "name": "Move Your Body (feat. Moxie Knox)",
+        "url": "https://open.spotify.com/album/6yWax0Ay0UMS5CXJquubSu"
+      },
+      "artists": [
+        {
+          "name": "Will Clarke",
+          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Moxie Knox",
+          "url": "https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190625,
+      "name": "Move Your Body (feat. Moxie Knox)",
+      "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
     },
     {
       "album": {
@@ -20726,7 +20788,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 255360,
       "name": "The Freaks",
       "url": "https://open.spotify.com/track/4NoJpQvvjVJ2m8S72eIDaF"
@@ -20938,6 +21000,32 @@
       "duration_ms": 392510,
       "name": "The Loft - Emmanuel Satie Mix",
       "url": "https://open.spotify.com/track/2QwcbbZdMVanS0PM5oTPqG"
+    },
+    {
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        },
+        {
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181625,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
     },
     {
       "album": {
@@ -21536,7 +21624,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"

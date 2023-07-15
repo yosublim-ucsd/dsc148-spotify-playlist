@@ -4,7 +4,7 @@
 
 > like a dog with a bird at your door
 
-114 songs - 7 hr 43 min
+115 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [History Of A Feeling](https://open.spotify.com/track/2PLpZnaPqYfr89TY1bG3wc) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 3:19 | 2023-04-20 |  |
 | [Hospital](https://open.spotify.com/track/4mgYKB06m2MsTI27eEW0og) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 3:40 | 2023-04-20 |  |
 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 | 2023-04-20 |  |
+| [Human](https://open.spotify.com/track/1OlYy9FWeaXAQHwU6CBKpk) | [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Human](https://open.spotify.com/album/6hwvM9utzQaeFWzj3Mpu6d) | 3:49 | 2023-07-14 |  |
 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 | 2023-04-20 |  |
 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 | 2023-04-20 |  |
 | [I've Been Alone](https://open.spotify.com/track/1rojV17gbXb0yEJSF7MExp) | [Hollan](https://open.spotify.com/artist/3swpaQ3pfhWtgGsg32xZEV) | [I've Been Alone](https://open.spotify.com/album/4pPSxghCl7hSEXQyPKLqf5) | 3:35 | 2023-04-20 |  |

@@ -2,7 +2,7 @@
 
 ### [gris](https://open.spotify.com/playlist/37i9dQZF1DX1PiujNwN5Yy)
 
-> Sad songs just 4 you para uno de esos días.
+> Sad songs just 4 you para los días tristes.
 
 174 songs - 9 hr 57 min
 

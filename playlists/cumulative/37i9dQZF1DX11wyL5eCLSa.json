@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 156703,
       "name": "Amarre",
       "url": "https://open.spotify.com/track/5ebt2wLWEvMmKZ2i1V1ngz"
@@ -1051,6 +1051,32 @@
     },
     {
       "album": {
+        "name": "Cool & Casual",
+        "url": "https://open.spotify.com/album/3z1lTlNi3AQ7g9Sh1TyPMD"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Cool & Casual",
+      "url": "https://open.spotify.com/track/6wPZXjtuTS5qUiJuMXGrrv"
+    },
+    {
+      "album": {
         "name": "Cosmovisiones",
         "url": "https://open.spotify.com/album/1YUAGs2PPckzt55aL9Tzdm"
       },
@@ -1322,7 +1348,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 219707,
       "name": "Demasiado Bien",
       "url": "https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B"
@@ -1704,6 +1730,24 @@
       "duration_ms": 257466,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
+    },
+    {
+      "album": {
+        "name": "EL ELIXIR DE TUS LABIOS",
+        "url": "https://open.spotify.com/album/3IoZMNSHUsK6kSE80DLOZ4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "EL ELIXIR DE TUS LABIOS",
+      "url": "https://open.spotify.com/track/6F1bYqnUYqkPEozNbERZQf"
     },
     {
       "album": {
@@ -2893,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Lo dejo",
+        "url": "https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190023,
+      "name": "Lo dejo",
+      "url": "https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2"
+    },
+    {
+      "album": {
         "name": "Lo Que Siento por Ti",
         "url": "https://open.spotify.com/album/6UNzdNlomtHHP5zPjeRKnC"
       },
@@ -3244,7 +3306,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220269,
       "name": "Marta, Sebas, Guille y los dem\u00e1s",
       "url": "https://open.spotify.com/track/4cQ2GXbAdQqx87wwlsyez1"
@@ -4037,6 +4099,28 @@
     },
     {
       "album": {
+        "name": "No Puede Parar De So\u00f1ar",
+        "url": "https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197801,
+      "name": "No Puede Parar De So\u00f1ar",
+      "url": "https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO"
+    },
+    {
+      "album": {
         "name": "No Puedo M\u00e1s",
         "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
       },
@@ -4178,7 +4262,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 186202,
       "name": "Nuevo Comienzo",
       "url": "https://open.spotify.com/track/6b2Dw4kSKnmWMyiBXyRX2e"
@@ -4423,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
+    },
+    {
+      "album": {
         "name": "Perra Soledad",
         "url": "https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG"
       },
@@ -4488,7 +4590,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 241160,
       "name": "Polvo C\u00f3smico",
       "url": "https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC"
@@ -4930,7 +5032,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 270920,
       "name": "Sicario",
       "url": "https://open.spotify.com/track/7BzuY3JvxY3CW5yRmHXGYB"

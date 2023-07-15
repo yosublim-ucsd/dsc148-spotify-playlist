@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,496 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,525 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 47 | [Profite \- Capyac's Magic Potion Remix](https://open.spotify.com/track/2aZFlHRrYZSpwfsez7Sht1) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW) | [Profite \(Remixes\)](https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6) | 3:51 |
 | 48 | [Sun Skin Air](https://open.spotify.com/track/1hbhPTc1daDTwZHddvXyCE) | [SUN SILVA](https://open.spotify.com/artist/5f84MJAiHgRVmGpDOQI1fU) | [Sun Skin Air](https://open.spotify.com/album/6NRyjVUbyvQgr1n1cbTUyT) | 4:45 |
 | 49 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
-| 50 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
+| 50 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 51 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 |
 | 52 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 |
 | 53 | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/track/272sT3uaJsFNqyKyE6BGNN) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Resistiré \(Banda Sonora Original "Élite"\)](https://open.spotify.com/album/7ov6R2b5ZXqth6H9piBgRL) | 3:41 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxkY2E4ZTNhY2Q4YWZmZmRkMDQyMTU4MjZmOTJmNTU0NjkxZDNhOGQ0`
+Snapshot ID: `MCwwODAwMWRmZWM4MzI3YzYwODI1ZDE3NTM0ZjVhMzg5MTczZDhiMjQx`

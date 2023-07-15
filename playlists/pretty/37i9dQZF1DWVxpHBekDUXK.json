@@ -1,12 +1,12 @@
 {
   "description": "We're here to provide some sonic solace for your grief. ",
-  "num_followers": 144727,
+  "num_followers": 144744,
   "original_name": "Coping With Loss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDBiNmZhMmVlMDg4MmVjYjI2ZmRmNWNkYjhhYjI2MDllOWZhY2U2",
+  "snapshot_id": "MCwyYzIyNTkzNzhiZTIxMDMwNjljY2M5NDRjYjQ5ODMzMzcxMmMwMjk3",
   "tracks": [
     {
       "added_at": "2022-02-16 19:49:49",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-02-16 19:49:49",
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+    },
+    {
+      "added_at": "2022-02-16 19:49:49",
+      "album": {
         "name": "Unapologetic (Edited Version)",
         "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/789CxjEOtO76BVD1A9yJQH"
-    },
-    {
-      "added_at": "2022-02-16 19:49:49",
-      "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
     },
     {
       "added_at": "2022-02-16 19:49:49",

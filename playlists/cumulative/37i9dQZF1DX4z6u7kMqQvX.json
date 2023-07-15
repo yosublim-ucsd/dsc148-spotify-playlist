@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 277143,
       "name": "Debajo de la Superficie",
       "url": "https://open.spotify.com/track/5m8E676DefoMURyq1aTtiG"
@@ -2498,6 +2498,24 @@
       "duration_ms": 96362,
       "name": "D\u00edas Soleados",
       "url": "https://open.spotify.com/track/1T9pk3jYI5ALoOMOcJwNa9"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
+      },
+      "artists": [
+        {
+          "name": "Proyectosolo",
+          "url": "https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC"
     },
     {
       "album": {
@@ -3425,6 +3443,28 @@
     },
     {
       "album": {
+        "name": "Hasta Que Llegue El Verano",
+        "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227375,
+      "name": "Hasta Que Llegue El Verano",
+      "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
+    },
+    {
+      "album": {
         "name": "Heridas",
         "url": "https://open.spotify.com/album/5YN1W3BxLajlLQ4qfL6Bhr"
       },
@@ -3480,7 +3520,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 138653,
       "name": "Im\u00e1n",
       "url": "https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD"
@@ -7028,6 +7068,28 @@
       "duration_ms": 209000,
       "name": "Subt\u00edtulo: Te Amo",
       "url": "https://open.spotify.com/track/04T6yie5egZkdNjOfuMOw1"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o con Encontrarte",
+        "url": "https://open.spotify.com/album/6EeLJzNkjT9o3i26SNL1Ag"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcili",
+          "url": "https://open.spotify.com/artist/1P4R6sU4WSNcitkFlLawvK"
+        },
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199532,
+      "name": "Sue\u00f1o con Encontrarte",
+      "url": "https://open.spotify.com/track/6xtw2JpsQkoYyeqsIXmKPR"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today\. Cover: Justin Vernon
+> The best in folk & acoustic today\. Cover: Jonah Kagen
 
-413 songs - 1 day 1 hr 42 min
+414 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [The Less I Knew](https://open.spotify.com/track/7yc1Jj1GGNAiG9FT58KalR) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/1KRR7OrY7bBmwEKpcJMT7o) | 4:34 | 2022-04-29 | 2022-05-20 |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 | 2022-07-30 |
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-12-10 | 2022-05-07 |
+| [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-14 |  |
 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 | 2022-04-13 | 2023-04-09 |
 | [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2021-12-10 | 2022-03-26 |
 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 | 2023-03-03 |  |
@@ -419,7 +420,7 @@
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-26 |  |
 | [Young Man](https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Young Man](https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX) | 4:06 | 2021-12-10 | 2022-10-01 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-17 |  |
-| [Your Needs, My Needs](https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ) | 3:27 | 2023-06-09 |  |
+| [Your Needs, My Needs](https://open.spotify.com/track/43lHewwomOqpJ4ZVwLRfgr) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/3aaVxygUPKEQMIpXPgAUrJ) | 3:27 | 2023-06-09 | 2023-07-15 |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-27 | 2022-07-30 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

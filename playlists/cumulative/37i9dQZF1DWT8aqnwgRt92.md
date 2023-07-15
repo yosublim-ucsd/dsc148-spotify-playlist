@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-792 songs - 2 day 1 hr 58 min
+793 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/1reF4pkXyJRSbC3FGSi1TB) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [GOOD DAY \- inspired by SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/6mSYsjSBR2PdZ8jOvePpXr) | 2:32 | 2022-10-20 | 2022-11-14 |
 | [Good For](https://open.spotify.com/track/1xQ0uoIrGX8Gsq8s1hZTiV) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Good For](https://open.spotify.com/album/1RrXyKwwvq0X3f02W4zdMc) | 4:21 | 2022-05-28 | 2022-07-06 |
 | [Good Morning \[New\] World!](https://open.spotify.com/track/1yUV3xzgaFWG2Koe9Sfcwd) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [Good Morning \[New\] World!](https://open.spotify.com/album/4XJU7VESD3DYIkO8g2iGpE) | 4:18 | 2022-07-12 | 2022-10-05 |
-| [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 | 2023-07-04 |  |
+| [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 | 2023-07-04 | 2023-07-15 |
+| [Gotoubun no Mirai](https://open.spotify.com/track/6p14PfSxvGcnylxuECeLxb) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse) | 3:39 | 2023-07-13 |  |
 | [Growing up](https://open.spotify.com/track/1YXgEhut1Mo2Y44IgsvP7f) | [7ORDER](https://open.spotify.com/artist/2RitDQzohyR2zJXoqovut4) | [Growing up](https://open.spotify.com/album/45CvOi9Mgco3LIA6TtMue7) | 4:16 | 2022-10-01 | 2022-11-30 |
 | [Guide](https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Guide](https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL) | 3:41 | 2022-07-28 | 2022-10-14 |
 | [Guruguru Live](https://open.spotify.com/track/1vdYPvIKC9ekIGbUWmTP2z) | [由崎司\(CV:鬼頭明里\)](https://open.spotify.com/artist/3DZPDkF2LcgJBefu3J1k6k) | [Guruguru Live](https://open.spotify.com/album/3bkqSeYL7wnAqEvDr7zRYc) | 3:52 | 2023-07-11 |  |

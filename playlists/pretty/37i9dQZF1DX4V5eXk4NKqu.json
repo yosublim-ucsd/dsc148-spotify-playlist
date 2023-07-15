@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Isla de Caras.",
-  "num_followers": 151463,
+  "num_followers": 151484,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQ3NjgwNzNkMzZkNzJkOWE5ZDMzZWFmY2UzNTYxZWQ2NGZiYjBm",
+  "snapshot_id": "MCxjNGU0OWUwYTRlYWM5MTE1YTJkNDY0YTE1MTM3NGE2ZGI0OWI2YTUy",
   "tracks": [
     {
       "added_at": "2023-07-13 23:24:54",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-07-13 23:24:54",
       "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
+    },
+    {
+      "added_at": "2023-07-13 23:24:54",
+      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 140952,
       "name": "Nada Mal",
       "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2023-07-13 23:24:54",
-      "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"
     },
     {
       "added_at": "2023-07-13 23:24:54",

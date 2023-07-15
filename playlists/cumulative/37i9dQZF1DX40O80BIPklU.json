@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Yoss Bones en portada. ",
+  "description": "Nuestro hip-hop se escribe con \u00d1, aqu\u00ed los que dominan el\u00a0juego de las rimas. Residente en portada. ",
   "name": "Rap en Espa\u00f1ol",
   "tracks": [
     {
@@ -594,6 +594,24 @@
       "duration_ms": 221100,
       "name": "Baby Vegas",
       "url": "https://open.spotify.com/track/5oO51KGOghC1cHEkxwnA2g"
+    },
+    {
+      "album": {
+        "name": "Bajo y Bater\u00eda",
+        "url": "https://open.spotify.com/album/5GkZHRuXwEoXq9xLlW1bzH"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541931,
+      "name": "Bajo y Bater\u00eda",
+      "url": "https://open.spotify.com/track/6AvBuucxeCrRJjxNVWKayz"
     },
     {
       "album": {
@@ -2477,6 +2495,40 @@
     },
     {
       "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321951,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
+    },
+    {
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
       },
@@ -3401,6 +3453,32 @@
     },
     {
       "album": {
+        "name": "REPRE$ENT",
+        "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
+      },
+      "artists": [
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        },
+        {
+          "name": "Don-J HH",
+          "url": "https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3"
+        },
+        {
+          "name": "Der Enyel",
+          "url": "https://open.spotify.com/artist/64lfjA638IlbxVaKfZVQgC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245340,
+      "name": "REPRE$ENT",
+      "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "album": {
         "name": "Requisito 420",
         "url": "https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG"
       },
@@ -4156,6 +4234,32 @@
       "duration_ms": 200600,
       "name": "Toma 4",
       "url": "https://open.spotify.com/track/5UUkHi8YrakZKY9gDbtVNz"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix (Vol. 2)",
+        "url": "https://open.spotify.com/album/6tFZvYlKvk5olYOsSwqiEv"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        },
+        {
+          "name": "Eptos Uno",
+          "url": "https://open.spotify.com/artist/3fo4UvMNzZUCFS90Roh5iK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284470,
+      "name": "Travel",
+      "url": "https://open.spotify.com/track/4MRGiF6FaKQt9EVLOvc2Zs"
     },
     {
       "album": {

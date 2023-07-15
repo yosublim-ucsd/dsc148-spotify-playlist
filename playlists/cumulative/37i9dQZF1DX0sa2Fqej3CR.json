@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 216440,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 177946,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 377371,
       "name": "MY WAY (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/3XfngyuVjltVRHSsLjrCRO"
@@ -2108,6 +2108,24 @@
       "duration_ms": 240840,
       "name": "Romance Symphony (Feat. CHANGMO, Jay Park)",
       "url": "https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR"
+    },
+    {
+      "album": {
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
     },
     {
       "album": {
@@ -2662,7 +2680,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"

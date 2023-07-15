@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 246373,
       "name": "La Rubia y el Demonio",
       "url": "https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU"
@@ -1642,6 +1642,24 @@
       "duration_ms": 236840,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL"
+    },
+    {
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT"
+      },
+      "artists": [
+        {
+          "name": "El Guato",
+          "url": "https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208927,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6"
     },
     {
       "album": {
@@ -2976,8 +2994,8 @@
       },
       "artists": [
         {
-          "name": "Panico Latino",
-          "url": "https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O"
+          "name": "P\u00e1nico Latino",
+          "url": "https://open.spotify.com/artist/4vU814JP2hKv5D3kJD6ozf"
         }
       ],
       "date_added": "2023-02-03",

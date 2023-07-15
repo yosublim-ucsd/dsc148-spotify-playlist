@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 57822,
+  "num_followers": 57881,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTRjZDgwZTIzNDAwMDRmNDNjZjc4MDYwYmU0ZmJlNTc4NjgyNzI0",
+  "snapshot_id": "MCxlMWM3OGE4MGMwYTdlMjVjYWVkN2M0NGMxN2FmMDE1MDQ0ODRhNjU2",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Where the Light Is: John Mayer Live In Los Angeles",
-        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
-      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 221266,
       "name": "Rehab - Live On Jools Holland",
       "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Where the Light Is: John Mayer Live In Los Angeles",
+        "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Waiting On the World to Change - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
+      "url": "https://open.spotify.com/track/75LltETkbWa2OKmJ1AEoM3"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -915,22 +915,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Shakira Oral Fixation Tour (Live)",
-        "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 436026,
-      "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
-      "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
+      "duration_ms": 298051,
+      "name": "Praying For Time - Live",
+      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -951,18 +947,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+        "name": "Shakira Oral Fixation Tour (Live)",
+        "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
         }
       ],
-      "duration_ms": 298051,
-      "name": "Praying For Time - Live",
-      "url": "https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw"
+      "duration_ms": 436026,
+      "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
+      "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 231040,
-      "name": "Waterloo - Live",
-      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Shakira In Concert: El Dorado World Tour",
         "url": "https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 340880,
       "name": "She Wolf - El Dorado World Tour Live",
       "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Waterloo - Live",
+      "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 375636,
+      "name": "Star People - Live",
+      "url": "https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 334813,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
       "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 375636,
-      "name": "Star People - Live",
-      "url": "https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "x (Wembley Edition)",
+        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 195967,
+      "name": "Parting Glass - Live at Wembley Stadium",
+      "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Best Song Ever (From THIS IS US)",
         "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "x (Wembley Edition)",
-        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 195967,
-      "name": "Parting Glass - Live at Wembley Stadium",
-      "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Live in Dortmund",
         "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Tina Live",
-        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "What's Love Got to Do with It - Live in Arnhem",
-      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "One Night Only",
         "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 225133,
       "name": "Candle In The Wind - Live",
       "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Tina Live",
+        "url": "https://open.spotify.com/album/1CLMFG3WMus9loqNTGt7xh"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "What's Love Got to Do with It - Live in Arnhem",
+      "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
     },
     {
       "added_at": "2023-05-14 16:51:28",

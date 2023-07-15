@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: Stuzzi\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-1,545 songs - 4 day 13 hr 32 min
+1,546 songs - 4 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1499,7 +1499,8 @@
 | [What's Cool](https://open.spotify.com/track/7GBJbzGVZxsBqf9igjHs4k) | [Hardt Antoine](https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA) | [What's Cool](https://open.spotify.com/album/0RpMi7Zw4c60cS8l48BzsN) | 6:42 | 2023-05-10 | 2023-06-15 |
 | [What's The Matter](https://open.spotify.com/track/4Aq2GPLOOeeDkm6FVrGshQ) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [What's The Matter](https://open.spotify.com/album/6Ni3kVfOSSAJY6IVaCqIkG) | 7:33 | 2023-06-14 |  |
 | [Whatcha Like](https://open.spotify.com/track/46Q54nbqmNu2SLq1wAfvha) | [Nicole Fiallo](https://open.spotify.com/artist/73UetSYlADQU9aDYjakZsc), [Santorino](https://open.spotify.com/artist/2rob4KKzYoYTTJBr7oePtV) | [Whatcha Like](https://open.spotify.com/album/5oDaIo5UpL4rljEYoUho4v) | 6:10 | 2023-03-08 | 2023-04-06 |
-| [Whatever It Takes](https://open.spotify.com/track/0CeEkrTdcOTDAqmiCRF6wS) | [Simon Shaw](https://open.spotify.com/artist/7rujLRJWNdY3GKR9QX1FbU) | [Whatever It Takes](https://open.spotify.com/album/3kSzHE42qeA9MXHtq1wYZD) | 5:41 | 2023-07-12 |  |
+| [Whatever It Takes](https://open.spotify.com/track/0CeEkrTdcOTDAqmiCRF6wS) | [Simon Shaw](https://open.spotify.com/artist/7rujLRJWNdY3GKR9QX1FbU) | [Whatever It Takes](https://open.spotify.com/album/3kSzHE42qeA9MXHtq1wYZD) | 5:41 | 2023-07-12 | 2023-07-15 |
+| [Whatever It Takes](https://open.spotify.com/track/2emjVYz9k0DiTfztKuVwDG) | [Simon Shaw](https://open.spotify.com/artist/7rujLRJWNdY3GKR9QX1FbU) | [Higher](https://open.spotify.com/album/5OSKx32HIa1NaBgIAAO6vs) | 5:41 | 2023-07-12 |  |
 | [When U Call](https://open.spotify.com/track/0qWkinRmjxDo3rrECKsIQr) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [When U Call](https://open.spotify.com/album/5TSnzljjpGs8RLK6VXoX33) | 5:52 | 2022-01-26 | 2022-04-28 |
 | [When You Wake](https://open.spotify.com/track/6VjDtChLNhmF8Wm5CU3Pbk) | [Adam Swim](https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35) | [Eventually](https://open.spotify.com/album/44vU8bvz48GPOLWApb2KFQ) | 4:35 | 2023-02-08 | 2023-03-02 |
 | [Whenever I Open My Eyes It's You That I Want To See](https://open.spotify.com/track/75AqtAZ0z2xdeEAqBbOpky) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [Whenever I Open My Eyes It's You That I Want To See](https://open.spotify.com/album/4uWC5B5w4viOuRWwbWM3V5) | 4:54 | 2023-05-31 | 2023-07-13 |

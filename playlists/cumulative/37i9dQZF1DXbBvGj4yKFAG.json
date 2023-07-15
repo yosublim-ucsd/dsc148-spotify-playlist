@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "lakehouse",
+        "url": "https://open.spotify.com/album/2kUUcrTb16BTD6oXjOpjip"
+      },
+      "artists": [
+        {
+          "name": "wishlane",
+          "url": "https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213571,
+      "name": "attempt to disagree",
+      "url": "https://open.spotify.com/track/59tYpcZZzf6eSjp5fGaZzf"
+    },
+    {
+      "album": {
         "name": "A Different Age",
         "url": "https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 186507,
       "name": "Blues Run the Game",
       "url": "https://open.spotify.com/track/6Ay9SMrkUMZ1Uq01X5b7wJ"
@@ -632,10 +650,28 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 90352,
       "name": "CryWitMe.mp3",
       "url": "https://open.spotify.com/track/3lhbGhwy97nY2pSZkpwuZn"
+    },
+    {
+      "album": {
+        "name": "joseph's deli & lottery",
+        "url": "https://open.spotify.com/album/4tbpoplEQJggCqxLF9GfsM"
+      },
+      "artists": [
+        {
+          "name": "Fox Academy",
+          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154830,
+      "name": "dark rain",
+      "url": "https://open.spotify.com/track/4ofhqons1Y7p0orWUPM3qt"
     },
     {
       "album": {
@@ -766,7 +802,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 216949,
       "name": "Enjoyer",
       "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
@@ -1238,7 +1274,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 218181,
       "name": "I'll Be Damned",
       "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
@@ -1555,6 +1591,24 @@
     },
     {
       "album": {
+        "name": "Kids Driving The Elevator",
+        "url": "https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO"
+      },
+      "artists": [
+        {
+          "name": "Micah Preite",
+          "url": "https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181781,
+      "name": "Kids Driving The Elevator",
+      "url": "https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI"
+    },
+    {
+      "album": {
         "name": "Lovers From The Past",
         "url": "https://open.spotify.com/album/6Z4eMptTUBwtdJHQeNV91N"
       },
@@ -1660,6 +1714,24 @@
       "duration_ms": 206919,
       "name": "Lexapro",
       "url": "https://open.spotify.com/track/3VS6b1tjl9b5rZ5rdHykfl"
+    },
+    {
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195884,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
     },
     {
       "album": {
@@ -1969,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270266,
+      "name": "One for sorrow, two for Joni Jones",
+      "url": "https://open.spotify.com/track/5h9JLWHtDQDZyJJUTYroZJ"
+    },
+    {
+      "album": {
         "name": "fairies in our house",
         "url": "https://open.spotify.com/album/4WH48WH3mmbI3bVSESexmo"
       },
@@ -2128,6 +2218,24 @@
       "duration_ms": 80966,
       "name": "punch",
       "url": "https://open.spotify.com/track/6WMIBMdrYL293siiQCxCGi"
+    },
+    {
+      "album": {
+        "name": "Purple Candy Glow",
+        "url": "https://open.spotify.com/album/7BwPqSXaEQq6wYIzfY3u4Y"
+      },
+      "artists": [
+        {
+          "name": "White China",
+          "url": "https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154524,
+      "name": "Purple Candy Glow",
+      "url": "https://open.spotify.com/track/5c2XZ5gPOVCDc6VIDmC0lQ"
     },
     {
       "album": {
@@ -2576,7 +2684,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220416,
       "name": "Texaco",
       "url": "https://open.spotify.com/track/3Hyztgc87Pex2iK4wR4tBl"
@@ -2692,7 +2800,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 206366,
       "name": "The Structure",
       "url": "https://open.spotify.com/track/6nOKw3Ru2vnDetFnFTqWPH"

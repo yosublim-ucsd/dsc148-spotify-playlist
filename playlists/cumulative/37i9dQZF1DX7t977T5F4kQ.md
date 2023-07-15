@@ -2,7 +2,7 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y?si=kafKB6C1TwqML0bLp4DoYQ">Akwaboah</a>
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=\-dsmwHzdSjubu\-tNTC6eTg">Lasmid</a>
 
 203 songs - 10 hr 53 min
 

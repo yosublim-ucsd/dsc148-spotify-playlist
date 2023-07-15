@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-546 songs - 1 day 6 hr 50 min
+547 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 | 2023-01-29 |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2020-10-13\* | 2021-02-19 |
 | [LOVE IS A...](https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 3:41 | 2023-05-19 |  |
-| [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 |  |
+| [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 | 2023-07-15 |
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-06-19 | 2021-07-10 |
 | [Love You Goodbye](https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:16 | 2020-10-13\* | 2020-11-18 |
 | [Love You Like That](https://open.spotify.com/track/3lwj9NfzoDQSgO55pKPoEe) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Love You Like That](https://open.spotify.com/album/6AZYaZ370HCDULVuJPrZdx) | 3:36 | 2022-02-25 | 2022-07-29 |
@@ -463,6 +463,7 @@
 | [Taken](https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:05 | 2020-10-13\* | 2021-06-19 |
 | [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2021-07-18 | 2021-11-20 |
 | [Talk](https://open.spotify.com/track/3ZE3BSTojEeiBmep57CcUa) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Talk](https://open.spotify.com/album/4onhJdux51mV5lSgb9rU1U) | 2:30 | 2022-09-16 | 2022-10-08 |
+| [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2023-07-14 |  |
 | [tear myself apart](https://open.spotify.com/track/57m2Kve0xnAgYVAPxMLKHS) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [tear myself apart](https://open.spotify.com/album/3FhPAdYjwW3aLRMvx8HbKz) | 2:48 | 2020-10-13\* | 2021-12-04 |
 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:16 | 2022-04-16 |  |
 | [Temper](https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Temper](https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR) | 3:26 | 2021-10-16 | 2022-12-10 |

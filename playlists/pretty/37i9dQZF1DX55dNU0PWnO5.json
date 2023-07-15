@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: berlioz",
-  "num_followers": 558976,
+  "num_followers": 559052,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Zjg0Y2I4Nzg0NDlkMmIzYjM1MTM1Y2Y4MmU0OGIyMTRmZmM5YTVh",
+  "snapshot_id": "MCxkZjEzZTQ2ZjQ3ODYxN2U3NzY0ODY5YjE5NmM0ZDZiOWM2MmY0ZGU0",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 207500,
       "name": "r&r",
       "url": "https://open.spotify.com/track/3h1sX3o4ZqOQpVtxL3U1mE"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/2rsNtARoox6CERXAw6yBDB"
+      },
+      "artists": [
+        {
+          "name": "BRAVE JAMES",
+          "url": "https://open.spotify.com/artist/6fbZXklegkoeleZeWTgxx7"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 188118,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/33pCdzo9Oq4JsWSlLssSuX"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -59,6 +79,22 @@
       "duration_ms": 205334,
       "name": "Diamond Exchange",
       "url": "https://open.spotify.com/track/5mECuwpN8LGiHbX02r3rse"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/6zoX5kJVZ6EaPtuUuyVpJc"
+      },
+      "artists": [
+        {
+          "name": "Blossum",
+          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/6Rh95LODQfId7hlJcheddl"
     },
     {
       "added_at": "2023-05-12 04:01:00",

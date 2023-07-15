@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-106 songs - 6 hr 0 min
+107 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Part 5, Dawn Chorus Promenade](https://open.spotify.com/track/6pMNhCZOkxaLscTbJeMxfh) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anhinga Trail Soundwalk](https://open.spotify.com/album/4SYpCduZHkAf20cRxpE40o) | 1:24 | 2023-04-21 |  |
 | [Paterson's Curse](https://open.spotify.com/track/5OWfVkHNd4tMTMZPXfk9wv) | [Science Of Sleeping](https://open.spotify.com/artist/318PUtWzihMLpg6EysVjqn) | [Forest Sleep](https://open.spotify.com/album/6sNHszYiVNe3hLvWC7f5HN) | 4:38 | 2022-09-15 |  |
 | [Peaceful Forest](https://open.spotify.com/track/36ZHnIzeY7Iq079ZLPQMSC) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [close to nature](https://open.spotify.com/album/4wcX5mi1m1EDBtK3Yuecq3) | 2:58 | 2022-09-15 |  |
+| [Peaceful Nature](https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Peaceful Nature](https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg) | 2:45 | 2023-07-14 |  |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-10 |  |
 | [Pristine Serenity](https://open.spotify.com/track/2CttcShYdFruE99bOglV8x) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [Pristine Serenity](https://open.spotify.com/album/6AcVoBF3DeDJyDy8OrQXEM) | 2:40 | 2022-09-30 |  |
 | [Radiance](https://open.spotify.com/track/09j78GCloYLj0f1MG1V6h0) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Radiance](https://open.spotify.com/album/4bzmUK9MSQoKeQZk4VzpZQ) | 2:13 | 2022-10-14 |  |
@@ -102,7 +103,7 @@
 | [The Chilled Forest](https://open.spotify.com/track/54rhDr2tqu5HGEJxTbn8d7) | [Harmonius Amicabel](https://open.spotify.com/artist/6vDWRDxbU6fMkbjwSW67gd) | [The Chilled Forest](https://open.spotify.com/album/2Fg4b6c1Qk8xWjJBKrT9P1) | 2:43 | 2022-09-15 |  |
 | [The Deep Forest](https://open.spotify.com/track/46QEuAHoxLCvQfegCmu3cf) | [Bed of Flowers](https://open.spotify.com/artist/01TxUc4gaIBQGYZ6LsTsFp) | [Childhood Memories](https://open.spotify.com/album/7zJYf5baXgivUvc0HN2A2f) | 2:52 | 2022-12-30 |  |
 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 | 2023-03-16 |  |
-| [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 | 2023-03-10 |  |
+| [The Gong Of Tranquility](https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [The Gong Of Tranquility](https://open.spotify.com/album/0B3wR5xrfAy1cu9XdmBik9) | 2:13 | 2023-03-10 | 2023-07-15 |
 | [The River](https://open.spotify.com/track/6X3i3AioYNdSP3BQQyUjGm) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Celestial Woodlands](https://open.spotify.com/album/3FT1KohtyQmZVsy7Y94dLv) | 3:53 | 2022-12-02 |  |
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 |  |
 | [Theias \(Nature Sounds\)](https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Theias](https://open.spotify.com/album/12tMrozLxtUx7OxkLnIC0X) | 2:19 | 2023-05-22 |  |

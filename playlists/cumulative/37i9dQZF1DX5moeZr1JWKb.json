@@ -31,6 +31,24 @@
     },
     {
       "album": {
+        "name": "Mirar Pa' Dentro",
+        "url": "https://open.spotify.com/album/7zxtczgh8ys5vxrO6FpowQ"
+      },
+      "artists": [
+        {
+          "name": "ZetaZeta",
+          "url": "https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167686,
+      "name": "Ahora Qu\u00e9",
+      "url": "https://open.spotify.com/track/5EFkC2D8cFCTyPPaCMJk6B"
+    },
+    {
+      "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/4yLc8PxzYwiyTw2iogrCK3"
       },
@@ -86,7 +104,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 128000,
       "name": "BEEMO",
       "url": "https://open.spotify.com/track/5PHhNS4BtZEAHeu4aqoLba"
@@ -390,7 +408,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 152000,
       "name": "C\u00e1ncer",
       "url": "https://open.spotify.com/track/6ETUZ6gLdadkPVcEaTNRFL"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 160443,
       "name": "Lejos del 2",
       "url": "https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7"
@@ -1123,6 +1141,32 @@
     },
     {
       "album": {
+        "name": "RINDIENDO CUENTA$$$",
+        "url": "https://open.spotify.com/album/2F9pYzjGVHrl6SRPDoBKzC"
+      },
+      "artists": [
+        {
+          "name": "Nero Lvigi",
+          "url": "https://open.spotify.com/artist/0qzSMS5kmApxk4mB8k1UBx"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        },
+        {
+          "name": "Don-J HH",
+          "url": "https://open.spotify.com/artist/4YVudw8OX0HYki0EFNipv3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229927,
+      "name": "QUI$IERA NO $ER A$I",
+      "url": "https://open.spotify.com/track/5M1XCJIt5QANojn09f30Gv"
+    },
+    {
+      "album": {
         "name": "Manjit",
         "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
@@ -1182,6 +1226,28 @@
       "duration_ms": 275200,
       "name": "Rostros",
       "url": "https://open.spotify.com/track/7Cx1EFIk3QU9l5mrSwiuv5"
+    },
+    {
+      "album": {
+        "name": "Sancochito",
+        "url": "https://open.spotify.com/album/2H9Ze7JCqDxQB8SUcHadbU"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "RI",
+          "url": "https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Sancochito",
+      "url": "https://open.spotify.com/track/3pbkD8odeOPNdMJj2tkyWE"
     },
     {
       "album": {

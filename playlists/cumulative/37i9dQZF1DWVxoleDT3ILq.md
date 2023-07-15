@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-371 songs - 22 hr 30 min
+372 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Abriendo Latidos](https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Abriendo Latidos](https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry) | 3:14 | 2022-04-15 | 2022-12-10 |
 | [Acorde Digital](https://open.spotify.com/track/2XEdOrB5mfev2x96ojOuBG) | [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Acorde Digital](https://open.spotify.com/album/0b1MFy6848SQsPuGxG7FIO) | 2:48 | 2022-10-07 | 2023-01-28 |
 | [Actitud](https://open.spotify.com/track/11JRqjddI6Znfd0YIeEgF1) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [Actitud](https://open.spotify.com/album/2wkGD4lTmhxNp2hm5yQZzV) | 2:25 | 2022-04-15 | 2022-07-29 |
+| [ACUARIO](https://open.spotify.com/track/1QkgeUObaAPCDlbSB4mAh2) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [ACUARIO](https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr) | 4:32 | 2023-07-14 |  |
 | [Adolescencia](https://open.spotify.com/track/7lRwxlvyAkYFgXFiDgcLMZ) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Mar Adentro](https://open.spotify.com/album/2BzXETPGRSHbyV5m1dfpgF) | 3:16 | 2022-04-15 | 2022-07-28 |
 | [Agosto](https://open.spotify.com/track/7GYVJNG96WYYpjs9QN5S4n) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Agosto](https://open.spotify.com/album/1ZCUK43eRN1Joej7uRKJYD) | 2:53 | 2022-08-26 | 2023-04-09 |
 | [Agua](https://open.spotify.com/track/2b5FtKZKGmcd5WVS2qJIVn) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Agua](https://open.spotify.com/album/3tahunuQxPmrmEdzGimH3V) | 3:48 | 2022-04-15 | 2022-12-10 |
@@ -212,7 +213,7 @@
 | [Mi Sol Menor](https://open.spotify.com/track/0HJfgUh8DE2FzNqKwjR1St) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Sol Menor](https://open.spotify.com/album/47JB62v141rFEtfppIGVj7) | 4:30 | 2022-04-15 | 2022-07-28 |
 | [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 | 2022-04-15 | 2022-08-25 |
 | [Miraflor](https://open.spotify.com/track/3yYcOSB0WVJkpx1wgyOTVg) | [Felics](https://open.spotify.com/artist/2MDZPWYR5xuLWVIQ9ybC3l), [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Miraflor](https://open.spotify.com/album/1SZpLRbjijkts5toPVJ4HZ) | 5:58 | 2022-09-02 | 2023-04-10 |
-| [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 | 2022-12-09 |  |
+| [Mirandonos](https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [El Encanto Del Fuego](https://open.spotify.com/album/6tbGgz0PeqFJNXD4rhuZ97) | 4:02 | 2022-12-09 | 2023-07-15 |
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-04-15 | 2022-07-27 |
 | [Musical \- Remix](https://open.spotify.com/track/4G4MuiwszzGmAq9JkvYeIu) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Yaguar Beats](https://open.spotify.com/artist/1QWeqTfs4i1yVqYybGHpBP) | [Musical \(Remix\)](https://open.spotify.com/album/0IUzPLNB37oEO7TxIAeUq9) | 3:47 | 2022-07-08 | 2022-07-30 |
 | [Nabundearé](https://open.spotify.com/track/35TRct8Yqqmy0XUPg8UFbn) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR) | 2:55 | 2022-04-15 | 2022-08-11 |

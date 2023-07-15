@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184800,
       "name": "A Noite Toda",
       "url": "https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn"
@@ -126,6 +126,32 @@
       "duration_ms": 115306,
       "name": "A Nossa Brisa",
       "url": "https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy"
+    },
+    {
+      "album": {
+        "name": "A S\u00f3s",
+        "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "A S\u00f3s",
+      "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
     },
     {
       "album": {
@@ -978,7 +1004,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 133565,
       "name": "inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4"
@@ -1624,7 +1650,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169142,
       "name": "N\u00e3o Quero Te Perder",
       "url": "https://open.spotify.com/track/5m2DgR3ZWv1GYwF9NPh4mP"
@@ -1955,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Por Mim J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy"
+      },
+      "artists": [
+        {
+          "name": "Duda Kropf",
+          "url": "https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Por Mim J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz"
+    },
+    {
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -2162,6 +2206,24 @@
       "duration_ms": 278000,
       "name": "Roupa de Ontem",
       "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
+    },
+    {
+      "album": {
+        "name": "Santa Melanina",
+        "url": "https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT"
+      },
+      "artists": [
+        {
+          "name": "Binho Salles",
+          "url": "https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Santa Melanina",
+      "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
     },
     {
       "album": {

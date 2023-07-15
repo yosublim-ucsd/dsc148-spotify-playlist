@@ -28262,10 +28262,28 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 341760,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/0CeEkrTdcOTDAqmiCRF6wS"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5OSKx32HIa1NaBgIAAO6vs"
+      },
+      "artists": [
+        {
+          "name": "Simon Shaw",
+          "url": "https://open.spotify.com/artist/7rujLRJWNdY3GKR9QX1FbU"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341760,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/2emjVYz9k0DiTfztKuVwDG"
     },
     {
       "album": {

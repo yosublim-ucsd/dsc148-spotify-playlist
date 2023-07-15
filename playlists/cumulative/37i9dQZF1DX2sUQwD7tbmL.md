@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-573 songs - 1 day 8 hr 26 min
+574 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Change My Mind](https://open.spotify.com/track/1OAvHPLuZFfuMZE3IL9Pun) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Camp Nowhere](https://open.spotify.com/album/62bHJz7hoNQEtUvKRW8fzb) | 2:01 | 2022-04-13 | 2022-04-20 |
 | [Checkin' Out](https://open.spotify.com/track/0VUqkakeW5chSQ6eK621Rh) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Checkin' Out](https://open.spotify.com/album/64eyblkVZVrbCwe4OKm62d) | 2:37 | 2021-05-01 | 2022-04-14 |
 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 | 2022-04-13 | 2022-06-09 |
+| [Cheese](https://open.spotify.com/track/5GCSN4N9KzycSf5FD0wtWF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [I Want It All Right Now](https://open.spotify.com/album/1oo5SXe74thWKkBPGrkYoG) | 3:12 | 2023-07-11 |  |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2022-04-13 |  |
 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 | 2022-04-13 |  |
 | [City Kitty](https://open.spotify.com/track/46tYLLzHq8ipzBq6X7W9YI) | [French Cassettes](https://open.spotify.com/artist/0VcpOwnjkQaqDeEiVa9cu5) | [City Kitty](https://open.spotify.com/album/3dNUFNvSOl0cg9B2FgpGER) | 3:36 | 2021-05-01 | 2022-04-13 |
@@ -228,7 +229,7 @@
 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 | 2021-05-01 | 2022-04-14 |
 | [Heat Wave](https://open.spotify.com/track/3GrQGjwZj2K3nQMBamhRC1) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Heat Wave / Husha](https://open.spotify.com/album/6C3uqoxRpkEmfhwEAePod2) | 4:32 | 2021-05-01 | 2022-04-12 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2022-04-13 |  |
-| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-23 |  |
+| [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 | 2023-03-23 | 2023-07-15 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2022-05-11 |  |
 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2022-08-29 |  |
 | [Hey Michael](https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4), [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Hey Michael](https://open.spotify.com/album/28hQxdmFZYjRLEqeM5hZK0) | 2:59 | 2021-05-01 | 2022-07-29 |

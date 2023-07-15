@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-847 songs - 2 day 4 hr 30 min
+848 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-04-19 |
 | [golden hour \- Fujii Kaze Remix](https://open.spotify.com/track/6KxgptZSrQC4Vv21ZBOG7S) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [golden hour \(Fujii Kaze Remix\)](https://open.spotify.com/album/0Csmj0RDEYXg1ZW12fekwM) | 2:39 | 2023-04-20 | 2023-06-07 |
 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 | 2023-01-12 | 2023-04-05 |
+| [Good Life \- feat\. Mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 | 2023-07-14 |  |
 | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/3h17LvrGeu5QGVd1wC6lGX) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/4wiMHuITVjOFHhJPS7vtFv) | 3:38 | 2022-11-22 | 2022-12-07 |
 | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/6EBmpXG6b4RQU0I9OyBg4u) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/38qm33jlDmm0RPJ1PjO9M3) | 3:38 | 2022-11-22 | 2022-11-24 |
 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-11 | 2023-02-08 |
@@ -609,7 +610,7 @@
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-11 | 2023-02-03 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-07 |  |
 | [Tutumikomuyouni](https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [Tutumikomuyouni](https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1) | 5:10 | 2023-05-16 | 2023-06-21 |
-| [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2023-05-04 |  |
+| [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2023-05-04 | 2023-07-15 |
 | [Two Of Us](https://open.spotify.com/track/6V1YfiwX4NJ2BJR5lVhvXP) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [ANPYO](https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Two Of Us](https://open.spotify.com/album/4eTU5FJbdq9J2YyqL4oFUW) | 3:20 | 2023-02-21 | 2023-02-23 |
 | [Two Of Us](https://open.spotify.com/track/7qszjOZgNYdkfXB2NwHzWY) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [ANPYO](https://open.spotify.com/artist/42OaUjnLIdRnlCRH7Dczb7), [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [Two Of Us](https://open.spotify.com/album/1GhoFqozrEhPWZTD7BdlIP) | 3:20 | 2023-02-21 | 2023-03-01 |
 | [TYO \- NYC \- feat\. Kazuo](https://open.spotify.com/track/1jUHVRa2tBgngM9O9UsSVT) | [RHYME SO](https://open.spotify.com/artist/7dtbEudF1BHLVrVtwxxKgm), [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [TYO \- NYC \(feat\. Kazuo\)](https://open.spotify.com/album/2uweiXnfAt8GfPputFp5Zb) | 3:23 | 2023-03-02 | 2023-04-05 |

@@ -2517,6 +2517,40 @@
     },
     {
       "album": {
+        "name": "The Witcher: Toss A Coin To Your Witcher",
+        "url": "https://open.spotify.com/album/4a7Ec3FTOkrQF7lrwQAd53"
+      },
+      "artists": [
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168041,
+      "name": "The Witcher: Toss A Coin To Your Witcher",
+      "url": "https://open.spotify.com/track/2hhd2khMvWADfosQLF1C7N"
+    },
+    {
+      "album": {
         "name": "Kon Tiki (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0oWKPVuvYjGTPD34hh5Pee"
       },

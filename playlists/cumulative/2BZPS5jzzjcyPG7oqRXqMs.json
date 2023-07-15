@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Church Pew",
+        "url": "https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239296,
+      "name": "Church Pew",
+      "url": "https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw"
+    },
+    {
+      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },

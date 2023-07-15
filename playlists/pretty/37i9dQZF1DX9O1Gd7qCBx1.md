@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,388 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,400 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 35 | [Uy que miedo](https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Ritmo De Chico Che Y La Crisis](https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU) | 2:52 |
 | 36 | [Muerto en Vida](https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 3:31 |
 | 37 | [La Despedida](https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 2:54 |
-| 38 | [El corrido de Miguel Rivera \- Inspirado en "Coco"](https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 3:57 |
-| 39 | [Drácula, Calígula, Tarántula](https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:53 |
+| 38 | [Drácula, Calígula, Tarántula](https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:53 |
+| 39 | [El corrido de Miguel Rivera \- Inspirado en "Coco"](https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 3:57 |
 | 40 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
 | 41 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
 | 42 | [El Fantasma Enamorado](https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [El Tren de la Alegría](https://open.spotify.com/album/5bdtr6jYC4Lqm8gkfebEG6) | 4:22 |
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 53 | [La vida es un sueño](https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante interpreta a José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe) | 3:10 |
 | 54 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 |
 | 55 | [La Llorona](https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [La Llorona](https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks) | 5:48 |
-| 56 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
-| 57 | [El Día de Tu Muerte](https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 2:43 |
+| 56 | [El Día de Tu Muerte](https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 2:43 |
+| 57 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 |
 | 58 | [Janitzio](https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 3:56 |
 | 59 | [Calaveritas](https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw) | [Ana Tijoux](https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG), [Celso Piña](https://open.spotify.com/artist/6w2g4b1Tn0ltVEiO0D3PEM) | [Calaveritas](https://open.spotify.com/album/5fpncon9GYSQJ9EdaoQXQN) | 4:20 |
 | 60 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
 | 61 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
 | 62 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
-| 63 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
-| 64 | [Calaverita](https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Buenaventura](https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk) | 3:20 |
+| 63 | [Calaverita](https://open.spotify.com/track/47NMBNmAQhLuyVSEI9IKBN) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Buenaventura](https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk) | 3:20 |
+| 64 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
 | 65 | [La Tumba Falsa](https://open.spotify.com/track/5DW1e0gPIiSJuigtNy61e5) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 3:06 |
 | 66 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
 | 67 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 |
 | 100 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 
-Snapshot ID: `MCw4ZWE5Njc2MjE1MTJhZmUwMDBmYjg1NzE1NTQ3MmUzNmQ3MjVjMzZl`
+Snapshot ID: `MCwzNWIzOTk0NTRlNGU5YWRjYThjMmIxMmYzMmVhYWRmNzU2YWVjOTZh`

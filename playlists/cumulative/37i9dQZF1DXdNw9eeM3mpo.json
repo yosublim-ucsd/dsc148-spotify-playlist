@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 274960,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
@@ -1828,6 +1828,28 @@
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
+    },
+    {
+      "album": {
+        "name": "HardCore e Festa",
+        "url": "https://open.spotify.com/album/6GnrYHjaIgRwyxBKWtEsZl"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz"
+        },
+        {
+          "name": "Badau\u00ed",
+          "url": "https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100600,
+      "name": "HardCore e Festa",
+      "url": "https://open.spotify.com/track/4PHrcMAJ81ePbgOevZKaOR"
     },
     {
       "album": {
@@ -2655,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4viAQXKH3Jq3zHMlCS5eIT"
+      },
+      "artists": [
+        {
+          "name": "El Guato",
+          "url": "https://open.spotify.com/artist/4sZOc9lOvHRcL9Zs9lQbFQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208927,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/5zXXVxHZdPQwFAh0OQ7VD6"
+    },
+    {
+      "album": {
         "name": "Ska.. Ska.. Skandal No. 5 the Football Edition",
         "url": "https://open.spotify.com/album/1SPPAz8g3NmBaorFDZxGih"
       },
@@ -3302,7 +3342,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 246100,
       "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
       "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"

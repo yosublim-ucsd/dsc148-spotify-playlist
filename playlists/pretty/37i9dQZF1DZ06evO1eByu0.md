@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,032 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,063 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1eByu0.md) - [plain]
 | 42 | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/track/0A60DIXd4RoIB6l25wFgo5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Guarda Tua Fé \(Ao Vivo Em Los Angeles\)](https://open.spotify.com/album/7rnb8t7kPq1emPdrfxCInC) | 4:10 |
 | 43 | [Cantarei Desse Amor](https://open.spotify.com/track/3eqExbH8UG4iRmoXcPWLHS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 4:00 |
 | 44 | [Homenzinho Torto](https://open.spotify.com/track/7oI40EwoWgUTpE28SCStdS) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:47 |
-| 45 | [Para Sempre Te Adorarei \- Ao Vivo](https://open.spotify.com/track/7H7jSRnfa1N935jR0MlJKa) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 4:27 |
-| 46 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
+| 45 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
+| 46 | [Para Sempre Te Adorarei \- Ao Vivo](https://open.spotify.com/track/7H7jSRnfa1N935jR0MlJKa) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 4:27 |
 | 47 | [Ele é](https://open.spotify.com/track/1DyTbkLa3Vwcn06YyjPTuY) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:06 |
 | 48 | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER) | 4:49 |
 | 49 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 50 | [Eternidade](https://open.spotify.com/track/6iDmxlmZnSxgLA2JBDFbT4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Eternidade](https://open.spotify.com/album/18geYBOh1mkkyADKGYZJd2) | 4:52 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDAyMTVlMTU2MWZjNjljZDYzOWY0MjA3ZjEwODY0MzAyNg==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDAwZWFiZGNlMWU4ZjRhYjE1Y2FhYTE1MzM3YmIzYWUxYQ==`

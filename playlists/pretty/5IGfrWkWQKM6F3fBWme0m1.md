@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,187 likes - 749 songs - 2 day 11 hr 27 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,192 likes - 749 songs - 2 day 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 8 | [DS Glitch](https://open.spotify.com/track/3qbDIBZNPuZEviLbI2HzlA) | [TWEAKS](https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn) | [Older Now](https://open.spotify.com/album/1afuIBP1SEZOtqzeVc7aL7) | 1:57 |
 | 9 | [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 |
 | 10 | [Easiest4u](https://open.spotify.com/track/0FDLdCZ3iEqMoby10BmWLf) | [Louke Man](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-1](https://open.spotify.com/album/0YUmazidBacqOJTdUD7QnZ) | 2:02 |
-| 11 | [The Beginning of the End](https://open.spotify.com/track/1MPtLlyuB1X78TeammWxy9) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 4:26 |
+| 11 | [The Beginning of the End](https://open.spotify.com/track/1MPtLlyuB1X78TeammWxy9) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 4:25 |
 | 12 | [Every Single Time](https://open.spotify.com/track/2vTDzBoSYaYDnGgN8HbcpQ) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Never Gonna Be](https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM) | 3:24 |
 | 13 | [LLTB](https://open.spotify.com/track/1fUZJxSuYEfOlYYknohfKO) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [LLTB](https://open.spotify.com/album/1N99vpO9JITwhKxFPqvJLs) | 3:40 |
 | 14 | [Obsession 2](https://open.spotify.com/track/0nLh1u0zmIEBdQs8fGa3Ai) | [Inga Copeland](https://open.spotify.com/artist/1ZdoULgEhBXOV2g3j3Zhhi) | [Obsession 2](https://open.spotify.com/album/0WOeBuwdqDqlMqrSwOzCUJ) | 3:57 |
@@ -500,7 +500,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 490 | [MOUNTAIN\_LMK\_130 BPM](https://open.spotify.com/track/5SNjDHJjtnqZHNfMQIiRoj) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Mountain](https://open.spotify.com/artist/4uFPSSD9mczCSQ6BLlkh3s) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/00bR0PfkGVAizXpN05DYrs) | 4:00 |
 | 491 | [Out The Club](https://open.spotify.com/track/15QcInECrv9E8UgcJuxzVK) | [Low Limit](https://open.spotify.com/artist/4rQRQRXRPTv9HSgUuJUtH5) | [The Golden Handshake](https://open.spotify.com/album/1zjPdTjjA68jbD4A99JJdQ) | 2:52 |
 | 492 | [Landfall \- Ambient Version](https://open.spotify.com/track/07o2Xbb1qyIKn3oYNUDnmd) | [Marco Madia](https://open.spotify.com/artist/6hcEc3adIkZmc3k7f9uWTY) | [Landfall](https://open.spotify.com/album/0ntAx0hZHYZeYnoZhDuowI) | 5:28 |
-| 493 | [Smile \#5 \(see page 103 and 107\)](https://open.spotify.com/track/6c2pfDVjdPLdIz4FjSHhgn) | [Slauson Malone](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Vergangenheitsbewältigung \(Crater Speak\)](https://open.spotify.com/album/17uupRHl1nhYZLoEiEKXqD) | 3:08 |
+| 493 | [Smile \#5 \(see page 103 and 107\)](https://open.spotify.com/track/6c2pfDVjdPLdIz4FjSHhgn) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Vergangenheitsbewältigung \(Crater Speak\)](https://open.spotify.com/album/17uupRHl1nhYZLoEiEKXqD) | 3:08 |
 | 494 | [Heavyball](https://open.spotify.com/track/5ey4fIG39qtEdSAuuXpNqm) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Finds You Well](https://open.spotify.com/album/4I9x9IPVmztrxjsa9k1lAZ) | 4:05 |
 | 495 | [Wake\-Up](https://open.spotify.com/track/0FpeX9sKOErvIJencIzZEa) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/3DzlkHEQtb0ABoxze4Zxi7) | 4:26 |
 | 496 | [Chlorine](https://open.spotify.com/track/3pTuQaiZHkxFeWbvK6ltql) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [Chlorine](https://open.spotify.com/album/60YxXcZrKsmOQfRykmtEcD) | 2:17 |

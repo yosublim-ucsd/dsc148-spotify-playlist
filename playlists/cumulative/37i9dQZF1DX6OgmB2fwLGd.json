@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soundtrack to the internet. Cover: Lil Mabu",
+  "description": "The soundtrack to the internet. Cover: 2Rare",
   "name": "Internet People",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 118153,
       "name": "10x3",
       "url": "https://open.spotify.com/track/4SaMeh5e8KfdH5wmn35E6S"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 190902,
       "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 131625,
       "name": "Blicky",
       "url": "https://open.spotify.com/track/5udNN5hwk870U9dk7a0nHe"
@@ -2552,6 +2552,32 @@
       "duration_ms": 164828,
       "name": "Cmonnn (Hit It One Time)(feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM"
+    },
+    {
+      "album": {
+        "name": "FAST 5",
+        "url": "https://open.spotify.com/album/20LECbYxV7cqF5R4nmk4Zg"
+      },
+      "artists": [
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        },
+        {
+          "name": "Sickboyrari",
+          "url": "https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150133,
+      "name": "COBRA",
+      "url": "https://open.spotify.com/track/3caUeHv3m0bu2W7ATsLSdS"
     },
     {
       "album": {
@@ -3569,6 +3595,28 @@
     },
     {
       "album": {
+        "name": "Don't Run",
+        "url": "https://open.spotify.com/album/0g5eB1GST9apmmd1Mc1NWu"
+      },
+      "artists": [
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148148,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1"
+    },
+    {
+      "album": {
         "name": "Doubt Me (with aldn)",
         "url": "https://open.spotify.com/album/1x0XyLVKG1IekcXSY0yCrt"
       },
@@ -3768,7 +3816,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 137440,
       "name": "Dumbest Girl Alive",
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
@@ -5202,7 +5250,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 197380,
       "name": "GOATED. (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR"
@@ -5871,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "Hot Friend",
+        "url": "https://open.spotify.com/album/2FpQM6aXOAhInjnFoK7tg5"
+      },
+      "artists": [
+        {
+          "name": "Wynne",
+          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149523,
+      "name": "Hot Friend",
+      "url": "https://open.spotify.com/track/7apkSpHwMzhpSCi3rRa352"
+    },
+    {
+      "album": {
         "name": "Hotel",
         "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
       },
@@ -6388,7 +6454,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 148760,
       "name": "i need u",
       "url": "https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn"
@@ -6888,7 +6954,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 151232,
       "name": "It's A Dream (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
@@ -7560,7 +7626,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 107567,
       "name": "Lean Beef Patty",
       "url": "https://open.spotify.com/track/1qbADMsKCFmu08MhWPTZpb"
@@ -9027,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "No Gun No Knife",
+        "url": "https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212088,
+      "name": "No Gun No Knife",
+      "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
+    },
+    {
+      "album": {
         "name": "No Handoutz (feat. Yeat)",
         "url": "https://open.spotify.com/album/0WcAW53YH794LAay9RX8Op"
       },
@@ -9180,7 +9264,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 180000,
       "name": "NOSTYLIST",
       "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
@@ -9556,7 +9640,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 80352,
       "name": "Out On Bond",
       "url": "https://open.spotify.com/track/07iXzCjxJdfHTUenA34iXt"
@@ -10866,7 +10950,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 168462,
       "name": "Rock Paper Strippers",
       "url": "https://open.spotify.com/track/1NPQItXYHsWC2MD9uZmFwj"
@@ -12005,6 +12089,24 @@
     },
     {
       "album": {
+        "name": "Stop Hating",
+        "url": "https://open.spotify.com/album/36peheD1XXO8YHbJEQlTmZ"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Stop Hating",
+      "url": "https://open.spotify.com/track/47h7mEYiGuvzM1o8yhMPIW"
+    },
+    {
+      "album": {
         "name": "Strawberries & Creamin'",
         "url": "https://open.spotify.com/album/1dJvlcnASsdAl2OuyUQH4B"
       },
@@ -12563,6 +12665,24 @@
     },
     {
       "album": {
+        "name": "Think about me",
+        "url": "https://open.spotify.com/album/4seC4SwKuKzryYfOdkk1n4"
+      },
+      "artists": [
+        {
+          "name": "Lurk",
+          "url": "https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137692,
+      "name": "Think about me",
+      "url": "https://open.spotify.com/track/1kt6YQqhZaQZCnF0cBkevw"
+    },
+    {
+      "album": {
         "name": "THROUGH 2 U",
         "url": "https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv"
       },
@@ -12720,6 +12840,24 @@
       "duration_ms": 137586,
       "name": "Tomioka",
       "url": "https://open.spotify.com/track/66MBHbC0oesKfPlg01jSAc"
+    },
+    {
+      "album": {
+        "name": "Yard Work Volume.1",
+        "url": "https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu"
+      },
+      "artists": [
+        {
+          "name": "Pote Baby",
+          "url": "https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "too many times",
+      "url": "https://open.spotify.com/track/4Z9evC61ZmIE8axxRJwyfR"
     },
     {
       "album": {
@@ -12956,6 +13094,28 @@
       "duration_ms": 131813,
       "name": "Turn Me Up (feat. Louie Ray)",
       "url": "https://open.spotify.com/track/10bhkUCHQe1cN6mvr7eXhY"
+    },
+    {
+      "album": {
+        "name": "Turn Your Phone Off",
+        "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176160,
+      "name": "Turn Your Phone Off",
+      "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
     },
     {
       "album": {
@@ -13481,6 +13641,24 @@
     },
     {
       "album": {
+        "name": "what do you do?",
+        "url": "https://open.spotify.com/album/27EmlQfu8kP6pQWDkNbjMs"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136446,
+      "name": "what do you do?",
+      "url": "https://open.spotify.com/track/7y8ZXIMaBez6PJeqAclC3b"
+    },
+    {
+      "album": {
         "name": "What It Is",
         "url": "https://open.spotify.com/album/4WFokPlvWtHvqsG6P6Dxo5"
       },
@@ -13624,6 +13802,28 @@
       "duration_ms": 159130,
       "name": "WISS",
       "url": "https://open.spotify.com/track/2GDdasGKNUvjF0qZwzNrPv"
+    },
+    {
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168727,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
     },
     {
       "album": {

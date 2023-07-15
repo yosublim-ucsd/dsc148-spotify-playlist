@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Julieta Laso.\nDales PLAY, dales POWER.",
-  "num_followers": 30325,
+  "num_followers": 30329,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmE5NDYzOGVjYzQxN2MwMWY3Yjg2NjZhYWQwNWZjNWNkZmUwMTAy",
+  "snapshot_id": "MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5",
   "tracks": [
     {
       "added_at": "2023-07-05 14:25:33",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
+        "name": "Segundo (Remastered)",
+        "url": "https://open.spotify.com/album/7HZ7QwrTe8N7aMaCEwe6AN"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "duration_ms": 159880,
+      "name": "\u00bfQuie\u0301n? - Remastered",
+      "url": "https://open.spotify.com/track/3vURZUnew6TH2mNnD257D6"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 238826,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
-        "name": "Segundo (Remastered)",
-        "url": "https://open.spotify.com/album/7HZ7QwrTe8N7aMaCEwe6AN"
-      },
-      "artists": [
-        {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
-        }
-      ],
-      "duration_ms": 159880,
-      "name": "\u00bfQuie\u0301n? - Remastered",
-      "url": "https://open.spotify.com/track/3vURZUnew6TH2mNnD257D6"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Vuelve a Sonar",
-        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 164394,
-      "name": "Vuelve a Sonar",
-      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
         "name": "El Muro",
         "url": "https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 193953,
       "name": "El Muro",
       "url": "https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
+        "name": "Marioneta",
+        "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
+      },
+      "artists": [
+        {
+          "name": "Noelia Moncada",
+          "url": "https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC"
+        }
+      ],
+      "duration_ms": 236599,
+      "name": "Marioneta",
+      "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
         "name": "Mi ciudad y mi gente",
         "url": "https://open.spotify.com/album/2CHCaWAM3NDfXmY5JlAT1z"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 192167,
       "name": "La negadora",
       "url": "https://open.spotify.com/track/03Ekc31yTXzIUXDLriI4UD"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
-        "name": "Marioneta",
-        "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
-      },
-      "artists": [
-        {
-          "name": "Noelia Moncada",
-          "url": "https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC"
-        }
-      ],
-      "duration_ms": 236599,
-      "name": "Marioneta",
-      "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
     },
     {
       "added_at": "2023-07-05 14:25:33",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
-        "name": "Sinergia Tanguera",
-        "url": "https://open.spotify.com/album/5t4PNgNZXuIJHKzttaDUjG"
-      },
-      "artists": [
-        {
-          "name": "Eliana Sosa",
-          "url": "https://open.spotify.com/artist/4NfyeRrxTA78Gcem9Md9mO"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "Lo Han Visto Con Otra",
-      "url": "https://open.spotify.com/track/5zzno7W9kmkmS4SCKkpTQ6"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
         "name": "Tangos de Hoy en Piano y Voz",
         "url": "https://open.spotify.com/album/0QOyfC1anGXoHaSpCelJZV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 202190,
       "name": "Regin",
       "url": "https://open.spotify.com/track/2KphJrMkgWC5Zr0eJtcJRt"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
+        "name": "Sinergia Tanguera",
+        "url": "https://open.spotify.com/album/5t4PNgNZXuIJHKzttaDUjG"
+      },
+      "artists": [
+        {
+          "name": "Eliana Sosa",
+          "url": "https://open.spotify.com/artist/4NfyeRrxTA78Gcem9Md9mO"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Lo Han Visto Con Otra",
+      "url": "https://open.spotify.com/track/5zzno7W9kmkmS4SCKkpTQ6"
     },
     {
       "added_at": "2023-07-05 14:25:33",

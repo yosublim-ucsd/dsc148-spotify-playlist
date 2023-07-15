@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,002 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,123 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 6 | [Ein Kompliment](https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Die gute Seite \(Die lange Seite\)](https://open.spotify.com/album/5WHyZMn0FK1eXOMzGTp4Pq) | 3:18 |
 | 7 | [Ohne Dich \(schlaf' ich heut Nacht nicht ein\)](https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY) | [Münchener Freiheit](https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy) | [Von Anfang An](https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c) | 4:07 |
 | 8 | [Eigentlich](https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Eigentlich](https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ) | 2:38 |
-| 9 | [Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von Hier An Blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:56 |
-| 10 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB) | 2:41 |
+| 9 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/album/2f1G3TDphZQx0jbv9qwMdB) | 2:41 |
+| 10 | [Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I) | [Wir sind Helden](https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7) | [Von Hier An Blind](https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw) | 3:56 |
 | 11 | [Traum](https://open.spotify.com/track/6Mw1NYkSkqrX1HtzDdTdAZ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Melodie](https://open.spotify.com/album/1JR6UkErYirK1yiwTf1fwj) | 3:15 |
 | 12 | [Liebe zu dritt](https://open.spotify.com/track/1CeL9v59rZeFX63hYI4eAO) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Liebe zu dritt](https://open.spotify.com/album/20HZQOmLW3XOSQKbZjw77F) | 3:26 |
 | 13 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 49 | [2012](https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [2012](https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz) | 2:50 |
 | 50 | [Hollywood \- Akustik Version](https://open.spotify.com/track/58B7uBTVteWmo0DOaouJXO) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc), [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [Hollywood \(Akustik Version\)](https://open.spotify.com/album/5FyuGW8u3zdhTOdhNusU92) | 2:32 |
 
-Snapshot ID: `MCxjZjI3NTA2NDE5MWE0MjM0NjQxZmM3ZmQwZTE1MDA4OWRiMDg2NzJm`
+Snapshot ID: `MCw2MjY0NWYwNzQ1N2ZkMWRhOWE5ZDRjZmNiOTFiN2Y0MDJmNTFiZTcw`

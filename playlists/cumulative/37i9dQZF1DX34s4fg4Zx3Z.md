@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Linh Ka; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: dNam; thiết kế: Isu Kim
 
-1,101 songs - 2 day 16 hr 46 min
+1,102 songs - 2 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1091,6 +1091,7 @@
 | [Đến Bên Anh Được Không](https://open.spotify.com/track/7zRHS0s4rfu9xsSnSl1XWw) | [Oliu](https://open.spotify.com/artist/5bQKHU2peXIxfcBa1LVdS1), [B4OK](https://open.spotify.com/artist/5TexKi2w4DnGsRxBgytISX) | [Đến Bên Anh Được Không](https://open.spotify.com/album/49U71HS8LJdlDsWFNwPPBy) | 3:06 | 2022-10-20 | 2023-02-01 |
 | [Để Anh](https://open.spotify.com/track/6376OwaUHQe8Ah60nIt00c) | [LOKIE](https://open.spotify.com/artist/4tbEaBwF1NbxySTcFH7nwp) | [Để Anh](https://open.spotify.com/album/1Ewb5MBtlZ7PpKRznIdnUg) | 2:49 | 2023-04-13 | 2023-05-02 |
 | [Để Làm Người Yêu Em](https://open.spotify.com/track/1M5rKwCJqCAEXvXNU32W0G) | [Chuy Blue](https://open.spotify.com/artist/6SFb0xKEcWAdWto6pwQYxd) | [Để Làm Người Yêu Em](https://open.spotify.com/album/78825gwjBoURlJ8kxSwy2a) | 3:26 | 2022-05-04 | 2022-08-01 |
+| [Để mua cho em một đóa hoa hồng xinh \(Yêu xa\)](https://open.spotify.com/track/21pME9KmLAQR5qhSlwv0QL) | [dNam](https://open.spotify.com/artist/6QDiH6RMjZ0OmMJjoDeB7k) | [Mơ Say](https://open.spotify.com/album/68FMhv85oevGwCpZ4pUsd2) | 2:50 | 2023-07-14 |  |
 | [Để Từ Đầu](https://open.spotify.com/track/1LvNA0aDJhQaz1qdnURjQ0) | [Cú](https://open.spotify.com/artist/3YhJ6WiVNrXWWH1TQhVt60) | [Để Từ Đầu](https://open.spotify.com/album/24UTrqlIOatGjkapsITzEf) | 3:53 | 2022-06-16 | 2022-06-27 |
 | [Đối Diện Ngày Mất Em](https://open.spotify.com/track/3hxNcOgZqSXZ7LZhulieEo) | [Đào Duy Quý](https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi) | [Đối Diện Ngày Mất Em](https://open.spotify.com/album/1rhTXYXBGRC3OaIKFWjzeN) | 6:50 | 2023-06-15 |  |
 | [Đồ Gây Mê](https://open.spotify.com/track/1SY387jXr76Km4ieYGvKgN) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [Jombie](https://open.spotify.com/artist/4P5sYDkznyMel8jtD0CgE4), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Đồ Gây Mê](https://open.spotify.com/album/6ZgOCIL60Ne6AKodCEkAS4) | 2:52 | 2022-07-20 | 2022-09-10 |

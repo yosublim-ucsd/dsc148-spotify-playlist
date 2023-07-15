@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 158737,
+  "num_followers": 158830,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzgxZDBmZGE4ZWI3Mzc0MzJjZjBjZThlOTNjYzc1ZTY3YzA4OTBk",
+  "snapshot_id": "MCxhMWU4ZmRjMzgwZGVlYWEwODBhYTc4OTkyNzllM2IyOTY5YjhiYWFh",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Whiskey On You",
-        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Whiskey On You",
-      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 227840,
       "name": "As Good As I Once Was",
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Whiskey On You",
+        "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Whiskey On You",
+      "url": "https://open.spotify.com/track/6Tm4Io4ct4w14nB1EUzsY3"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Beer Can\u2019t Fix",
-      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 204000,
       "name": "Beer For My Horses",
       "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Beer Can\u2019t Fix",
+      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Smoke A Little Smoke",
-      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 183026,
       "name": "Half Of Me",
       "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Smoke A Little Smoke",
+      "url": "https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 192160,
-      "name": "Leave The Night On",
-      "url": "https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk"
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
+      "duration_ms": 192160,
+      "name": "Leave The Night On",
+      "url": "https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1511,18 +1511,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Real Friends",
-        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
+        "name": "Ain't My Day",
+        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 174453,
-      "name": "Waitin' on 5",
-      "url": "https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l"
+      "duration_ms": 201480,
+      "name": "Ain't My Day",
+      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1543,22 +1547,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
         }
       ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+      "duration_ms": 174453,
+      "name": "Waitin' on 5",
+      "url": "https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1595,18 +1595,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
         }
       ],
-      "duration_ms": 210920,
-      "name": "Power of Positive Drinkin'",
-      "url": "https://open.spotify.com/track/3yww2zhTK6xJuVGtn6oHNY"
+      "duration_ms": 195426,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/4vLRCGOBz4zIS8nEHk5v9j"
     },
     {
       "added_at": "2023-04-07 04:00:00",

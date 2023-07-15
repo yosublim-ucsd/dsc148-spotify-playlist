@@ -34531,6 +34531,24 @@
     },
     {
       "album": {
+        "name": "Spiritual Experience",
+        "url": "https://open.spotify.com/album/5SRjebL4m70r2YbqD4Dj8Y"
+      },
+      "artists": [
+        {
+          "name": "Skober",
+          "url": "https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273636,
+      "name": "Spiritual Experience",
+      "url": "https://open.spotify.com/track/0xaYqC37eY4tNFdHQYG2yP"
+    },
+    {
+      "album": {
         "name": "Bangers, Vol. 8",
         "url": "https://open.spotify.com/album/1Mt8y2tlmINKpsigIaXq8J"
       },
@@ -34542,7 +34560,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 273636,
       "name": "Spiritual Experience",
       "url": "https://open.spotify.com/track/6mdEaXqlhLkW6Hi3thBOSK"
@@ -35810,10 +35828,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 260148,
       "name": "Take You Higher",
       "url": "https://open.spotify.com/track/2GPPFrJJeHU5akB3xX9RBO"
+    },
+    {
+      "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/0DyO0q5qrW3zfAB7AvSn2r"
+      },
+      "artists": [
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260148,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/2pgiLqOsWEhUfH8DUU2Uo1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,062 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,083 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 82 | [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
 | 83 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
 | 84 | [Back Seat \- Tseba Remix](https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Back Seat \(Tseba Remix\)](https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW) | 4:00 |
-| 85 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 |
-| 86 | [LOFF IS ALL YOU SPEED](https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Sita Abellan](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI) | [LOFF IS ALL YOU SPEED](https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT) | 3:03 |
+| 85 | [LOFF IS ALL YOU SPEED](https://open.spotify.com/track/0rcUKid4bfrHeWu4feQQ9H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Sita Abellan](https://open.spotify.com/artist/4Pi6eaHXMqift5xrs1vPMI) | [LOFF IS ALL YOU SPEED](https://open.spotify.com/album/5q8Bg4uE1LMUDxQPdalwiT) | 3:03 |
+| 86 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 |
 | 87 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
 | 88 | [The Ghost](https://open.spotify.com/track/2QIYX6ULs33vMBurmcA5Kw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 4:04 |
 | 89 | [August in Paris](https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y) | [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf), [Shonky](https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14) | [Mobilee Back to Back Vol\. 2 \- Presented By Gummihz](https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ) | 8:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 |
 | 100 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 |
 
-Snapshot ID: `MCw2YmZmNTdjNThiYTEyMDNjYjBmYTAyZTJkZDc3NDFlZjc0ZTAyOTg0`
+Snapshot ID: `MCw3OTJjMTU2ZDM3OTQ2NzQ1MzAzOWU5YWUwNjUwYmRiMjU0YzdjNTkx`

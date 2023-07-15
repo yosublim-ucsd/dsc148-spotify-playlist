@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: 幾田りら
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,941 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,958 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 68 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
 | 69 | [Final Call](https://open.spotify.com/track/23UvqSjWD2dilIjKkCd2pf) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Final Call](https://open.spotify.com/album/5GWBGzUQ7053833dmf2rge) | 3:34 |
 | 70 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 |
-| 71 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
-| 72 | [あたしが死んでも](https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [純愛クローゼット](https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9) | 4:37 |
+| 71 | [あたしが死んでも](https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [純愛クローゼット](https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9) | 4:37 |
+| 72 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 |
 | 73 | [escalate](https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [escalate](https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz) | 4:02 |
 | 74 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 75 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 89 | [Bestie](https://open.spotify.com/track/3pkix1zjSHcGJAzKmGUvTo) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Bestie](https://open.spotify.com/album/0McQJu0feRtDeCx0IM6bMg) | 2:49 |
 | 90 | [Pre\-Romance](https://open.spotify.com/track/6x3x09Wq9Ae81dvMSA0N4I) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [Pre\-Romance](https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2) | 3:12 |
 | 91 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 |
-| 92 | [White Rabbit](https://open.spotify.com/track/1BMhVGBje3qHKLCrFbLOwB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [White Rabbit](https://open.spotify.com/album/7cKEIQl2vpLKajvEKLY7ys) | 4:35 |
-| 93 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 |
-| 94 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
-| 95 | [ドキメキダイアリー](https://open.spotify.com/track/3Pc8ezs3771mswvKvaSauO) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 3:19 |
-| 96 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 |
-| 97 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 |
-| 98 | [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 |
-| 99 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 |
+| 92 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 |
+| 93 | [White Rabbit](https://open.spotify.com/track/1BMhVGBje3qHKLCrFbLOwB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [White Rabbit](https://open.spotify.com/album/7cKEIQl2vpLKajvEKLY7ys) | 4:35 |
+| 94 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 |
+| 95 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
+| 96 | [ドキメキダイアリー](https://open.spotify.com/track/3Pc8ezs3771mswvKvaSauO) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 3:19 |
+| 97 | [G.A.D.](https://open.spotify.com/track/2ODzC7a4omg68Yj6BzrKIu) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [G.A.D.](https://open.spotify.com/album/2hv367X3TlSbK1lT9XWlVl) | 4:14 |
+| 98 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 |
+| 99 | [青藍遊泳](https://open.spotify.com/track/2197fRE2IBsnja9r18RejV) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:48 |
 | 100 | [オアイコ](https://open.spotify.com/track/3E5HwkuvaaW60z6lLHj5D4) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [オアイコ](https://open.spotify.com/album/6Wa6Ga6TaKpFSeFGrVMs0M) | 3:54 |
 
-Snapshot ID: `MCwwYzhkNTIzN2Y2MWQ4YzM1YzJhMTM1YWI2M2JmMGI0NjI5Njk0NDBi`
+Snapshot ID: `MCwwNzc5ZGMyZWI0ZWFlN2Q1MmVjMmQ2ODJkOTJlNjNkNjY2M2ZmNTI5`

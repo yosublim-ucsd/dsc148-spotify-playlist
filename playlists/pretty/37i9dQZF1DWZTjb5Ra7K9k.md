@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,190 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,198 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 37 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
 | 38 | [Forever](https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 3:24 |
 | 39 | [Flake](https://open.spotify.com/track/54S3uCvfZauNw8lVCHZYYo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales \[Remastered \(Bonus Version\)\]](https://open.spotify.com/album/23BBbqDGMhloT6f2YBecSr) | 4:41 |
-| 40 | [No One Knows](https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Runtastic \- Power Workout \(Vol\. 1\)](https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey) | 4:13 |
-| 41 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
+| 40 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
+| 41 | [No One Knows](https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Runtastic \- Power Workout \(Vol\. 1\)](https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey) | 4:13 |
 | 42 | [Young and Able](https://open.spotify.com/track/5zFsvJDJ48m45J82CipNpD) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Protect Your Own](https://open.spotify.com/album/5go4cEu6ll2JbN7ANcJ1xd) | 4:06 |
 | 43 | [Romeo And Juliet](https://open.spotify.com/track/1kfrnPViuzKdNwmH21ehLg) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Sawdust](https://open.spotify.com/album/4NtamseeVOGesCm8W9oHSz) | 5:27 |
 | 44 | [Walk Away](https://open.spotify.com/track/2zpWbK58RhiLysM201bT3W) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Daydreams](https://open.spotify.com/album/5R8yRYP7TqrGXsjV6xaLVJ) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Joker Smoker 12" Mix](https://open.spotify.com/track/72Mqd8exzzElzRCeuP5tSm) | [Triston Palma](https://open.spotify.com/artist/5zRp3bPBElRwxg5kVzTrAP) | [Joker Smoker](https://open.spotify.com/album/364SqWnW8GVEn3EQAHjuZR) | 7:11 |
 | 75 | [Living Single](https://open.spotify.com/track/2mVjzhHBcqZ9WRzGsX59Tf) | [Kayavibe](https://open.spotify.com/artist/4tuJL0fsbiMtUyKNGCQxox) | [Kayavibe](https://open.spotify.com/album/6oHQpLOX2QXBhZXbMBFo3u) | 3:22 |
 
-Snapshot ID: `MCxkNmJiODYwYjEzZThkYjY4ZGNjMTg1ZjllMTBjYWMwMDE2NWViY2Ex`
+Snapshot ID: `MCxiYjQ0YTU1ZDIwOGJmNWM0MTJjNmNkM2E5Y2JlN2YxODllM2FkZTI5`

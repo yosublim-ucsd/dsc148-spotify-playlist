@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-311 songs - 19 hr 35 min
+313 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 | 2023-06-28 |
 | [Better Man](https://open.spotify.com/track/3B48JUYVaYaEGxZAmMQ3W6) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79) | [Better Man](https://open.spotify.com/album/2xLglMnEx4LYHULsF4nUl7) | 3:25 | 2023-03-24 |  |
 | [Big Bend](https://open.spotify.com/track/1eBi4pRaRf2gRKcxGGpa1D) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/0aiiv8JHW22I8axAVTL9jy) | 2:28 | 2022-05-13 | 2023-06-02 |
-| [Big Bend](https://open.spotify.com/track/5b7nY8y8Z8PChU3iBb4Sif) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT) | 2:28 | 2022-05-13 |  |
+| [Big Bend](https://open.spotify.com/track/5b7nY8y8Z8PChU3iBb4Sif) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/33VPdpWrSixDtnb4xRCQsT) | 2:28 | 2022-05-13 | 2023-07-15 |
 | [Big Bend](https://open.spotify.com/track/6Da34y67KXjJRMtT37iSBz) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Adobe](https://open.spotify.com/album/1jLZjlWU2HJ7S9SeydSvPZ) | 2:28 | 2022-05-13 | 2023-06-06 |
 | [Black Hole](https://open.spotify.com/track/4qKP2vggRsHfq3BUkH631t) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Black Hole](https://open.spotify.com/album/5WB4gBdiDMMGjqoQqZWj6S) | 4:02 | 2022-03-28 | 2022-07-23 |
 | [Black Holes and Overdoses](https://open.spotify.com/track/7dSrCmvxIwowO6V30kIWg6) | [The Suitcase Junket](https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS) | [Black Holes and Overdoses](https://open.spotify.com/album/12bknsFQe4EJbp0JSnQb7y) | 3:13 | 2021-12-17 | 2022-06-11 |
@@ -71,6 +71,7 @@
 | [Dance Monkey](https://open.spotify.com/track/4W3UeFjutmOG80XCTgioWT) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Dance Monkey](https://open.spotify.com/album/1uUxV8oH2qs8wRApyp62Rn) | 3:33 | 2021-12-17 |  |
 | [Dark Roses \(Live From Sunset Sound\)](https://open.spotify.com/track/6U685GBNARP2yH1ZIsIui3) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Wreckage, Vol\. 2 \(Live\)](https://open.spotify.com/album/3TtOISH2vi1m9vR3xYlLS6) | 3:30 | 2022-09-30 | 2023-03-11 |
 | [Devil and the Deep Blue](https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Devil and the Deep Blue](https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1) | 3:07 | 2023-01-06 | 2023-04-01 |
+| [Devil Claims His Prize](https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Devil Claims His Prize](https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI) | 2:42 | 2023-07-14 |  |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2021-12-17 | 2023-02-25 |
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 | 2022-01-28 |  |
@@ -209,7 +210,7 @@
 | [Oh Betty](https://open.spotify.com/track/6ciaC5vY31PR1fZJqZwAJ0) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Oh Betty](https://open.spotify.com/album/0K9R41oPagcN9NoH8dLq1o) | 3:56 | 2022-03-11 | 2023-03-11 |
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2021-12-17 | 2023-02-25 |
 | [Order out of Chaos](https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [Order out of Chaos](https://open.spotify.com/album/474UZkOJiONk1qZbePll0F) | 5:02 | 2022-04-15 | 2022-06-11 |
-| [Over the Hill](https://open.spotify.com/track/6EnF6UDdLryXtMIYot9eOe) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Over the Hill](https://open.spotify.com/album/5XS21bnArLJ4pDjdfUNsOU) | 3:25 | 2023-03-10 |  |
+| [Over the Hill](https://open.spotify.com/track/6EnF6UDdLryXtMIYot9eOe) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Over the Hill](https://open.spotify.com/album/5XS21bnArLJ4pDjdfUNsOU) | 3:25 | 2023-03-10 | 2023-07-15 |
 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 | 2021-12-17 |  |
 | [Pound Cake](https://open.spotify.com/track/3goF1TzajL2w26cwbVuIlt) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Pound Cake](https://open.spotify.com/album/4A8sYt7IcNdz4PTxsXTFWK) | 2:59 | 2022-12-09 | 2023-02-15 |
 | [Pound Cake](https://open.spotify.com/track/6J0kxjKPLJSRZ81CPlG3Jq) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Pound Cake](https://open.spotify.com/album/6l6MA9ed4Z6uBf362VjMrW) | 2:59 | 2022-12-16 | 2023-03-25 |
@@ -293,6 +294,7 @@
 | [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 | 2023-01-20 |  |
 | [Tin Cups](https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Tin Cups](https://open.spotify.com/album/6OJY1tKwM6ZCTsWANfRT1e) | 3:02 | 2022-10-14 |  |
 | [To Rise You Gotta Fall](https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh) | [To Rise You Gotta Fall](https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL) | 4:56 | 2021-12-17 | 2023-03-11 |
+| [Transit Damage](https://open.spotify.com/track/4nUpA4KhunJgxvVvjHfRzB) | [Shinyribs](https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF) | [Transit Damage](https://open.spotify.com/album/6Dn9kpVuqyaAzLSuBWiqlW) | 4:25 | 2023-07-14 |  |
 | [Traveling Man](https://open.spotify.com/track/5ERX02VzXA9LLqxz6cShap) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/7GoCF1jbHhDKCNUu6B9cpy) | 3:35 | 2022-03-18 | 2022-06-11 |
 | [Trouble](https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Trouble](https://open.spotify.com/album/7gi6AMVZhuRCjqLfSl4kOd) | 4:03 | 2022-09-16 |  |
 | [Unchained](https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow](https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So) | 4:04 | 2021-12-17 | 2023-03-11 |

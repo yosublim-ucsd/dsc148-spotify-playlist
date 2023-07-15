@@ -3995,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "Paradise Calling",
+        "url": "https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186918,
+      "name": "Paradise Calling",
+      "url": "https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj"
+    },
+    {
+      "album": {
         "name": "Party Trick",
         "url": "https://open.spotify.com/album/0hPD1HQR8TOBOxeM1pYlOO"
       },

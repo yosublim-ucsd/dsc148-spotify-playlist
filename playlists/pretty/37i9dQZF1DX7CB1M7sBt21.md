@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,474 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,493 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 76 | [Knockout](https://open.spotify.com/track/1YFwmEAnSUx9ZAgWT39i1L) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Knockout](https://open.spotify.com/album/3oMsAnTSyOLcOYGj721atI) | 2:27 |
 | 77 | [I Miss Myself \(with HRVY\)](https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Miss Myself \(with HRVY\)](https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd) | 3:11 |
 | 78 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 |
-| 79 | [Voices In My Head](https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Voices In My Head](https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2) | 2:42 |
-| 80 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 |
+| 79 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 |
+| 80 | [Voices In My Head](https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Slopes](https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ) | [Voices In My Head](https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2) | 2:42 |
 
-Snapshot ID: `MCw5YTQ5ZmNhYjc4ZWQwZDFmMzVhZTBiNDljNjE5YjVmMTE5ZWYyMTA0`
+Snapshot ID: `MCxkZDNhNmZkNTY2ZWQyZjhjYTA0NzVkNDE1M2E4N2VkODIyYzVmNzNi`

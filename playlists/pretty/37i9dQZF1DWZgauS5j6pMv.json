@@ -1,13 +1,37 @@
 {
   "description": "The best of today's funk. Cover: Cory Wong",
-  "num_followers": 304575,
+  "num_followers": 304645,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDE0YjY0OWM0NmY0ZjE2OGEwMGJjNjlmMzI2YTQ5NjlmOTVjYWFj",
+  "snapshot_id": "MCxlZjY3NDkwYzM5NGMxMGE3YWZkNjIxMWJiMDY5NzQwYTRkMDFiZTRi",
   "tracks": [
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
+      },
+      "artists": [
+        {
+          "name": "DJ Who",
+          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "duration_ms": 217082,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
+    },
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
@@ -111,6 +135,26 @@
       "duration_ms": 168750,
       "name": "Don't Worry 'Bout It",
       "url": "https://open.spotify.com/track/7BnUl2NxNH3PGRH8LBd9Nx"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Get Together",
+        "url": "https://open.spotify.com/album/6xItsb9YHgaBLvQXDm6XBZ"
+      },
+      "artists": [
+        {
+          "name": "Max Sedgley",
+          "url": "https://open.spotify.com/artist/3Rvdl9zqy6xf5eMjxLb1hd"
+        },
+        {
+          "name": "Tasita D'Mour",
+          "url": "https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk"
+        }
+      ],
+      "duration_ms": 329439,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/5a1NRRfQvTMlvZ3rwO259B"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1337,22 +1381,6 @@
       "url": "https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Gimme The Word",
-        "url": "https://open.spotify.com/album/4I7sMTrlO9UQ4jNDQxqGBq"
-      },
-      "artists": [
-        {
-          "name": "Uzuhan",
-          "url": "https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Gimme The Word",
-      "url": "https://open.spotify.com/track/4kIhrMfenA2r86h98xh91r"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Everybody in the World",
@@ -1371,22 +1399,6 @@
       "duration_ms": 234194,
       "name": "Everybody in the World (feat. New Breed Brass Band)",
       "url": "https://open.spotify.com/track/3xRrcTVx6yjNGSEhw8rE2A"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Lost Without You",
-        "url": "https://open.spotify.com/album/4gNsuthQHyqYvSQJMNG7iM"
-      },
-      "artists": [
-        {
-          "name": "KULI",
-          "url": "https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj"
-        }
-      ],
-      "duration_ms": 191219,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/0bJRy8fhup9rKOnk7SMwL2"
     },
     {
       "added_at": "2022-05-20 04:01:00",

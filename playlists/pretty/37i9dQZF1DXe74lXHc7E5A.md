@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Psycho YP
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,706 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,777 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 27 | [Abracadabra \(feat\. Travis Scott\)](https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 4:07 |
 | 28 | [I Can't Lie \(with Kodak Black\)](https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [I Can't Lie \(with Kodak Black\) \[Versions\]](https://open.spotify.com/album/61ZFEiyOrBAMzrYGd9HMnR) | 3:06 |
 | 29 | [Sexy](https://open.spotify.com/track/0D1Avf68Spv3LHbjayZ76K) | [Vallerie Muthoni](https://open.spotify.com/artist/0BODXRyhRpJie8h9qpZb9E), [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Sexy](https://open.spotify.com/album/7ay20SlhHMu04QyTJ7zLmU) | 2:27 |
-| 30 | [It's Crazy \- Single Version](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
-| 31 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 |
+| 30 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 |
+| 31 | [It's Crazy \- Single Version](https://open.spotify.com/track/03P20c2fQ6SGnyyvngIdmG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [It's Crazy](https://open.spotify.com/album/4zdADqVJvqP6tBd74SJlqQ) | 3:20 |
 | 32 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 |
 | 33 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:56 |
 | 34 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [FARDA](https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [FARDA](https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ) | 2:45 |
 | 60 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
 
-Snapshot ID: `MCwwZWY1ZjRmNGZlMjA0MmU4MTQ5ZDYzNzI1NGEwZmQ3NWQ5ZmNiZjQ5`
+Snapshot ID: `MCwwNDIxYTI2NDMxODQ4MzY1ZDQxYzljNGJmMTRiOWYwZGE0MzU4NjI3`

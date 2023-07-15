@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 110595,
+  "num_followers": 110589,
   "original_name": "Workday K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjM0MjQ2MWQ1ZmRhZDU1Mjc3ODdiZjg2NGE1NGFkMGZhYjEzMmJm",
+  "snapshot_id": "MCw5MWQ1YjkyNTUzNzIyYzcxYjY4MTllYWI2MzQ4YzE5MTQxMDE1NzU2",
   "tracks": [
     {
       "added_at": "2023-03-31 06:05:58",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
         "name": "Beatbox - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 205133,
       "name": "Beatbox",
       "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
-      },
-      "artists": [
-        {
-          "name": "Suzy",
-          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 222415,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
@@ -1783,18 +1763,22 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
-        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "Suzy",
+          "url": "https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 216440,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
+      "duration_ms": 222415,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -1811,6 +1795,22 @@
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 288915,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
         "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 240590,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Don't fight the feeling",
+      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
@@ -2087,18 +2103,18 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "DON'T FIGHT THE FEELING - Special Album",
-        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 176546,
-      "name": "Don't fight the feeling",
-      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
+      "duration_ms": 167333,
+      "name": "I`m a B",
+      "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -2119,22 +2135,6 @@
       "duration_ms": 192536,
       "name": "Waste It On Me",
       "url": "https://open.spotify.com/track/66XDf77gBcfQKi4I2vIbTj"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
-      },
-      "artists": [
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "I`m a B",
-      "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -2471,6 +2471,38 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6vxwhImvm7xkbIMk0e1LVv"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
         "name": "9 WAY TICKET",
         "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
       },
@@ -2499,38 +2531,6 @@
       "duration_ms": 189154,
       "name": "No Make Up",
       "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
-        "name": "Why So Lonely",
-        "url": "https://open.spotify.com/album/3vCjRsRRGOLp8VCYPLXtDx"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Why So Lonely",
-      "url": "https://open.spotify.com/track/3mKK73NhylzXdHV4qZGxI4"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
-        "name": "PARANOIA",
-        "url": "https://open.spotify.com/album/6vxwhImvm7xkbIMk0e1LVv"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
+        "name": "GFRIEND The 6th Mini Album <Time for the moon night>",
+        "url": "https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 226698,
+      "name": "Time for the moon night",
+      "url": "https://open.spotify.com/track/2jL9sjFc2LZsQBGbQnrjXR"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
         "name": "SUGA's Interlude",
         "url": "https://open.spotify.com/album/0JfaSjTaej3QB27ofjnbQV"
       },
@@ -2611,22 +2627,6 @@
       "duration_ms": 138204,
       "name": "SUGA's Interlude",
       "url": "https://open.spotify.com/track/5a0nHa7F4S9hb0Zi0zLS8w"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
-        "name": "GFRIEND The 6th Mini Album <Time for the moon night>",
-        "url": "https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 226698,
-      "name": "Time for the moon night",
-      "url": "https://open.spotify.com/track/2jL9sjFc2LZsQBGbQnrjXR"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "ONE & SIX",
-        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 199402,
-      "name": "I'm so sick",
-      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
         "name": "WANT - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
       },
@@ -2759,6 +2743,22 @@
       "duration_ms": 208967,
       "name": "WANT",
       "url": "https://open.spotify.com/track/0aLG42zaidNkblhiQgJknP"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
+        "name": "ONE & SIX",
+        "url": "https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 199402,
+      "name": "I'm so sick",
+      "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -2847,22 +2847,6 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -2875,6 +2859,22 @@
       "duration_ms": 169429,
       "name": "BAE BAE",
       "url": "https://open.spotify.com/track/3miMeSGd7rzJEtuhQnzm0f"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3FlTMPuc3cWXTosTmXOnCr"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/0gEnVDMhKKjF1qXuvBwq91"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -3059,22 +3059,18 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Bluetory",
+        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
         }
       ],
-      "duration_ms": 189920,
-      "name": "Troll (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
+      "duration_ms": 217835,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -3095,18 +3091,22 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "Bluetory",
-        "url": "https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "CNBLUE",
-          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 217835,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+      "duration_ms": 189920,
+      "name": "Troll (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "What You Waiting For",
-        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 175327,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
-    },
-    {
-      "added_at": "2023-03-31 06:05:58",
-      "album": {
         "name": "There And Back Again",
         "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
@@ -3219,6 +3203,22 @@
       "duration_ms": 174386,
       "name": "Lost On Me",
       "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
+    },
+    {
+      "added_at": "2023-03-31 06:05:58",
+      "album": {
+        "name": "What You Waiting For",
+        "url": "https://open.spotify.com/album/59iiiARciChm70cn85wxuH"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "What You Waiting For",
+      "url": "https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B"
     },
     {
       "added_at": "2023-03-31 06:05:58",
@@ -3367,18 +3367,18 @@
     {
       "added_at": "2023-03-31 06:05:58",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+        "name": "MUST",
+        "url": "https://open.spotify.com/album/0eMx2V4Mh1ZiaShIuTaFgl"
       },
       "artists": [
         {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
         }
       ],
-      "duration_ms": 190050,
-      "name": "Tie a Cherry",
-      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
+      "duration_ms": 179706,
+      "name": "Make it",
+      "url": "https://open.spotify.com/track/0UKTfLtK7MjoA9Sh5kwx0o"
     }
   ],
   "unique_name": "Workday K-Pop",

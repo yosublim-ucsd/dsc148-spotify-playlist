@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-194 songs - 12 hr 38 min
+195 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Canyon](https://open.spotify.com/track/2koPlTDIbGWjcMQFUKx7g2) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2022-02-17 |  |
 | [Chosen](https://open.spotify.com/track/143qitJ7Iy92Vzu4XZvr5P) | [Ron Artis II](https://open.spotify.com/artist/3u8dOa0zveymreEFH7Yo5C) | [Chosen](https://open.spotify.com/album/0HAZOFZUpAk0JSeqsPjgUl) | 3:05 | 2022-03-25 |  |
 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/2ifDrydHgJ5YCfBgXtacyM) | 3:49 | 2022-06-10 |  |
+| [Church Pew](https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c) | 3:59 | 2023-07-14 |  |
 | [Come Alive \(Resurrection Power\) \- Live](https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Here \(Live\)](https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1) | 7:48 | 2022-03-25 |  |
 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 | 2022-05-13 |  |
 | [Coming Out Fighting](https://open.spotify.com/track/4BhIdUwXCuraOleWckiAL5) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Coming Out Fighting](https://open.spotify.com/album/7v4kN2sY4pDsP6MpafYEbk) | 3:43 | 2022-02-17 | 2022-08-27 |

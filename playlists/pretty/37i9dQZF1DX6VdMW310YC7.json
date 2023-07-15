@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3636918,
+  "num_followers": 3637285,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzUzNWRiYzRjNTBmOGUxZjYzN2VhMTRjNTIyNTAwMTdhM2FhOTM5",
+  "snapshot_id": "MCw2ODMyYjBhNGMzZDhiNDdlMzU0NzNmZmVjNWMwNThlMDgwYTFkODE3",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Blood Remixed",
-        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Feel Your Weight - Poolside Remix",
-      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "The Rapture Pt.III",
         "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 417812,
       "name": "The Rapture Pt.III",
       "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Blood Remixed",
+        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "Feel Your Weight - Poolside Remix",
+      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Something About",
         "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1071,18 +1087,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "HOLD YOU",
-        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+        "name": "Teenage Heart",
+        "url": "https://open.spotify.com/album/4zSoenkUTcAtDPKSyyb6op"
       },
       "artists": [
         {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        },
+        {
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
         }
       ],
-      "duration_ms": 174545,
-      "name": "HOLD YOU",
-      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+      "duration_ms": 243750,
+      "name": "Teenage Heart",
+      "url": "https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1119,26 +1139,6 @@
       "duration_ms": 302439,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Teenage Heart",
-        "url": "https://open.spotify.com/album/4zSoenkUTcAtDPKSyyb6op"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        },
-        {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Teenage Heart",
-      "url": "https://open.spotify.com/track/1AcKqjwbrS8Kb5olxiOx4a"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "In Control (Innellea Remix)",
-        "url": "https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G"
-      },
-      "artists": [
-        {
-          "name": "Forma",
-          "url": "https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL"
-        },
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 345135,
-      "name": "In Control - Innellea Remix",
-      "url": "https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Turning Away (Parra for Cuva Remix)",
         "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 411147,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/5ImCVtO1gvcD1ttdG5SrQT"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "In Control (Innellea Remix)",
+        "url": "https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G"
+      },
+      "artists": [
+        {
+          "name": "Forma",
+          "url": "https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 345135,
+      "name": "In Control - Innellea Remix",
+      "url": "https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/52LjmcLoxe5pcPFjaONm2Z"
-      },
-      "artists": [
-        {
-          "name": "Lonely in the Rain",
-          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
-        },
-        {
-          "name": "bailey",
-          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
-        }
-      ],
-      "duration_ms": 196562,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/6ADZbTdA2DLTI0iXWgxB6q"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Back To The Roots",
         "url": "https://open.spotify.com/album/5KyoaRg9SfEhKzwVyDEPnT"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 243750,
       "name": "Catch",
       "url": "https://open.spotify.com/track/0avqD9l3aBJnuMDZMyFPwl"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/52LjmcLoxe5pcPFjaONm2Z"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "duration_ms": 196562,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/6ADZbTdA2DLTI0iXWgxB6q"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Making Time x Cycles",
         "url": "https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 279280,
       "name": "Making Time x Cycles",
       "url": "https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2023-07-07 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Lauana Prado, Guilherme & Benuto",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Murilo Huff, Wesley Safad\u00e3o",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 153055,
       "name": "Meio Fio - Ao Vivo",
       "url": "https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV"
@@ -1654,6 +1654,28 @@
       "duration_ms": 160191,
       "name": "Modo Avi\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/7m9Hr6qAquvk6nNFtBIlM0"
+    },
+    {
+      "album": {
+        "name": "MOLETOM",
+        "url": "https://open.spotify.com/album/4As9gJpoGbUD1ZYQx9qyqK"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207343,
+      "name": "MOLETOM",
+      "url": "https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ"
     },
     {
       "album": {

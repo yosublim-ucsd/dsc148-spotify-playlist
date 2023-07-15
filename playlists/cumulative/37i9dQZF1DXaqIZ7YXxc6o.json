@@ -10972,10 +10972,32 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 161484,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/2ox69GUYVGLCB36M7QS9HF"
+    },
+    {
+      "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/525tF5HcFtUr2k0tHVcI4t"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Emma Muscat",
+          "url": "https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161484,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/3ej0vZNkrbpTOscsIz8pRU"
     },
     {
       "album": {
@@ -14820,6 +14842,10 @@
         {
           "name": "Chores",
           "url": "https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I"
+        },
+        {
+          "name": "Ella Minehan",
+          "url": "https://open.spotify.com/artist/73WeJhBBrjJ8MhWBz0jtDU"
         }
       ],
       "date_added": "2023-07-13",
@@ -20788,7 +20814,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207428,
-      "name": "Work It - Edit",
+      "name": "Work It",
       "url": "https://open.spotify.com/track/5EPN11F2wIv3TGfxg7PLj8"
     },
     {

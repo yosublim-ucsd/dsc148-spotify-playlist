@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,728 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,755 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 33 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 |
 | 34 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 35 | [God Gave Me You](https://open.spotify.com/track/28lU91CRfUdWJEY7KbhZBL) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [What We Want, What We Get](https://open.spotify.com/album/3M7Z5G7yTzdwncFXnF5vZ6) | 3:48 |
-| 36 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
-| 37 | [Girl of My Dreams](https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [No Turning Back](https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh) | 3:29 |
+| 36 | [Girl of My Dreams](https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [No Turning Back](https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh) | 3:29 |
+| 37 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 38 | [Your Love Is Strong](https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Limbs & Branches](https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI) | 5:09 |
 | 39 | [It's Our Time](https://open.spotify.com/track/71p9FBPJZtc77fs4AxUX6T) | [The Light the Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [It's Our Time](https://open.spotify.com/album/1HP1KymMq8MzxzjqLgyjaZ) | 3:41 |
 | 40 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 53 | [Baby Will You Love Me](https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/2w38sOFtpwryYpMROouND9) | 3:33 |
 | 54 | [Choose You](https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Choose You](https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA) | 3:05 |
 | 55 | [All Of Me](https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt) | [Matt Hammitt](https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw) | [Every Falling Tear](https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h) | 4:06 |
-| 56 | [I Love You \(Remix\)](https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [I Love You \(Remix\)](https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim) | 3:13 |
-| 57 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
+| 56 | [Your Love](https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 2:38 |
+| 57 | [I Love You \(Remix\)](https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [I Love You \(Remix\)](https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim) | 3:13 |
 | 58 | [Don't Deserve You](https://open.spotify.com/track/1TRibL6UoaiU3yEdqCQbgx) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Need You Now](https://open.spotify.com/album/2AwrSABuCbL70654kGQ1so) | 4:11 |
 | 59 | [The Day Before You \- Acoustic](https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Writer's Room: An Acoustic EP](https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5) | 3:32 |
 | 60 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 74 | [Endlessly](https://open.spotify.com/track/2JeTGnTYUTdBDmIdJYAKjq) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Fifteen](https://open.spotify.com/album/0VYa8Da3sGtLgBgv9AAejl) | 3:57 |
 | 75 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
 | 76 | [Easy](https://open.spotify.com/track/0fsmWQyhXukATgH6AFXc6R) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:31 |
-| 77 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 |
-| 78 | [Oh How I Love You \(R&B Version\)](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 |
+| 77 | [Oh How I Love You \(R&B Version\)](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 |
+| 78 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 |
 | 79 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
 | 80 | [Loving You Is Easy](https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away](https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA) | 3:08 |
 | 81 | [Till I Found You](https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU), [The Psalm Room](https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW) | [Till I Found You](https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
 | 100 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 
-Snapshot ID: `MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl`
+Snapshot ID: `MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw`

@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Irish Eyes",
+        "url": "https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136209,
+      "name": "Irish Eyes",
+      "url": "https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw"
+    },
+    {
+      "album": {
         "name": "Write Me a Letter",
         "url": "https://open.spotify.com/album/3RYRMlquQZE86uu6H35a4s"
       },

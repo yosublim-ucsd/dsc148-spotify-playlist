@@ -733,6 +733,32 @@
     },
     {
       "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "album": {
         "name": "Feel the Vibe",
         "url": "https://open.spotify.com/album/7yS3B5VwhqxR8Y3rHQ0HKK"
       },
@@ -1560,7 +1586,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 214049,
       "name": "Modern Romance",
       "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"

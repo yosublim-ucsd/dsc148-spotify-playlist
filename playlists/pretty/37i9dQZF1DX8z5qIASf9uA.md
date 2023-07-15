@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,649 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,846 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 72 | [Volveré \(Tornero\)](https://open.spotify.com/track/3OpUzRY4MNYo3RtmNIhb8s) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Los Súper Éxitos](https://open.spotify.com/album/1zew7ZgJGk5PElzwUAsTgG) | 3:24 |
 | 73 | [Nieves De Enero](https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 3:33 |
 | 74 | [La Jugada](https://open.spotify.com/track/1wpYlTOjnNjg4NFOSfEZAQ) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Jugada](https://open.spotify.com/album/0BHbOtxdDJrsNYIYNZpvNj) | 3:53 |
-| 75 | [La Vida Es Como una Baraja](https://open.spotify.com/track/2FdCfWxayWg4m9CCkcnxxT) | [Jerry Demara](https://open.spotify.com/artist/4fo4CVWELgeLeKwqzJqdY7) | [Brindemos](https://open.spotify.com/album/1qdf86Qo4CCnxyCJn8JbGs) | 3:32 |
+| 75 | [La Fuga Del Dorian](https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T) | 4:37 |
 
-Snapshot ID: `MCwwNjRmNGZlMjYwNjNkZTlhYmEwZjQzMDcwNWJkNDBhMDkzNTRmMzBm`
+Snapshot ID: `MCxlNjFmNzAwZmMwMDUyODNlNmI3M2Q3ZTEwNzIwZWYwOTgyMzNmNWZl`

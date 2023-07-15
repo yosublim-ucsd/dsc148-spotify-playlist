@@ -4,7 +4,7 @@
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MNEK
 
-833 songs - 1 day 21 hr 27 min
+834 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,7 +619,7 @@
 | [Really, Really](https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Really, Really](https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y) | 2:26 | 2021-12-24 | 2022-01-23 |
 | [Rebel Revolution](https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/4OpD2M4bZ8BMgOkWl7OfxO) | 3:08 | 2022-05-27 | 2022-07-29 |
 | [redundant](https://open.spotify.com/track/1IKrPR0b6d0wQ8DIpuhMmk) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [TEETH](https://open.spotify.com/album/0lQlLdndGVpI3hcuKFrHoT) | 3:24 | 2022-05-09 | 2022-07-27 |
-| [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 | 2023-05-23 |  |
+| [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 | 2023-05-23 | 2023-07-15 |
 | [Rent \- Edit](https://open.spotify.com/track/4C1gOoechzws5FkHMZtJMe) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu), [Mark Dedross](https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ) | [Rent](https://open.spotify.com/album/6167vFzfPCAK2U4fNO4nfY) | 3:16 | 2023-03-07 | 2023-04-01 |
 | [Reproductive](https://open.spotify.com/track/2MQHDjRyo9ZPuUzabkI8Gq) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Reproductive](https://open.spotify.com/album/6RTD7pcx7Q4CKoiHyegtPU) | 4:35 | 2022-01-14 | 2022-04-20 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-11 |  |
@@ -634,6 +634,7 @@
 | [Rockwell](https://open.spotify.com/track/2L3id4Vcv8mGUPd0egVNoB) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Rockwell](https://open.spotify.com/album/5yJnb0VwFCsuNoKyn8iN7B) | 2:53 | 2022-02-18 | 2022-07-25 |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-22 | 2022-12-01 |
 | [Runaway Blues](https://open.spotify.com/track/1o0vmmRlnEqsEHVMUsZZFB) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Runaway Blues](https://open.spotify.com/album/5UMkf0HpJucI2iJsyPjSaH) | 4:22 | 2021-12-17 | 2021-12-24 |
+| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-14 |  |
 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 | 2023-07-11 |  |
 | [Sagi](https://open.spotify.com/track/3Z7Qh3lOUg0d3Aj18otDVn) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Sagi](https://open.spotify.com/album/4xK0CN6e6hCWM5r0vL0fV5) | 3:21 | 2023-03-07 | 2023-04-01 |
 | [Saviour](https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [Saviour](https://open.spotify.com/album/5w4EHVmC2kq9dhG8xBgxZE) | 3:17 | 2021-12-17 | 2022-03-26 |

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq?si=d0885697cfc24562">Hillsong en Español</a>
+> Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=461e90d8ab2f47a4">Majo y Dan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,846 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,015 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tu Corazón](https://open.spotify.com/track/7pdTTtVAmvMHZXfy83FxDN) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Tu Corazón](https://open.spotify.com/album/4m5ZNTwt4b1OnQkcK8H3cu) | 7:27 |
-| 2 | [Buen Hermano](https://open.spotify.com/track/7BhxZtYIK0PYIhH9D0sSij) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Buen Hermano](https://open.spotify.com/album/4ckk3QCnfEe8GPUqlZzh7k) | 2:56 |
-| 3 | [está bien no estar bien :\):](https://open.spotify.com/track/68yI7pPM5hOXfG3ea55kQx) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [está bien no estar bien :\):](https://open.spotify.com/album/7ijMAydowsWOaOT2S3AgVB) | 3:40 |
-| 4 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \[En Vivo\]](https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F) | 4:31 |
-| 5 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 |
-| 6 | [Hay un hombre](https://open.spotify.com/track/4S4w1RDWqecEm9STvOHBPU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Hay un hombre](https://open.spotify.com/album/4lp2PkekD2lN4POM1RGCHd) | 4:20 |
+| 1 | [Gracias por la cruz](https://open.spotify.com/track/3dRCPJAPgupBQcotTgh2WU) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No yo, sino Cristo](https://open.spotify.com/album/0WoCSRk8Zij8Q1k5bWNuWe) | 5:06 |
+| 2 | [Tu Corazón](https://open.spotify.com/track/7pdTTtVAmvMHZXfy83FxDN) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Tu Corazón](https://open.spotify.com/album/4m5ZNTwt4b1OnQkcK8H3cu) | 7:27 |
+| 3 | [Buen Hermano](https://open.spotify.com/track/7BhxZtYIK0PYIhH9D0sSij) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Buen Hermano](https://open.spotify.com/album/4ckk3QCnfEe8GPUqlZzh7k) | 2:56 |
+| 4 | [está bien no estar bien :\):](https://open.spotify.com/track/68yI7pPM5hOXfG3ea55kQx) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [está bien no estar bien :\):](https://open.spotify.com/album/7ijMAydowsWOaOT2S3AgVB) | 3:40 |
+| 5 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \[En Vivo\]](https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F) | 4:31 |
+| 6 | [Medley Evangelio \(En Vivo\)](https://open.spotify.com/track/1GcVAXo149p2bCZLR2EyOG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [EVANGELIO \(En Vivo\)](https://open.spotify.com/album/4x17cmkqwt4gA0q0zVnDEd) | 12:02 |
 | 7 | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todo Fue Por Amor \(de la película “Con Esta Luz”\)](https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl) | 3:46 |
 | 8 | [Abba Padre](https://open.spotify.com/track/31tJ4vhFrFdmQ1ZOHKaYH5) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb) | [Menos Es Mas](https://open.spotify.com/album/3Jiq4jhArwNnjY66T4xDqa) | 4:13 |
 | 9 | [Gracia](https://open.spotify.com/track/3EkF29sbMPt8YI7nByg9tc) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Gracia](https://open.spotify.com/album/3pcpuiINSI3P4VgYsVKdc1) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Fuente](https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Fuente](https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX) | 3:36 |
 | 100 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 
-Snapshot ID: `MCxhZGZjMzU0Nzk5MGU4ZDFkNWEwYjE4ZTMyZDI4NDFmMWIxODUyMjQ5`
+Snapshot ID: `MCwzMWExMWI0MGZkYmNmZTM5ZDdkYWNkNjcxMDY1NDhhYmQ2NTAxOTMy`

@@ -4,7 +4,7 @@
 
 > The sweet sounds of Palestine.
 
-99 songs - 6 hr 19 min
+100 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 | 2021-08-29 |  |
 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 | 2022-03-10 |  |
 | [Amrat أمرات](https://open.spotify.com/track/7kGE2CNVtLp4fnbG6aYgGI) | [Rasha Nahas](https://open.spotify.com/artist/6kA597KeEKoghJHvQ92RYO) | [Amrat أمرات](https://open.spotify.com/album/4E3PiyTvavqOG19JrRJ3F2) | 3:05 | 2022-09-09 | 2022-12-18 |
-| [Ana Lahale](https://open.spotify.com/track/0fRIzjNaVxFqwoLg8rfQX5) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 2:59 | 2021-08-29 |  |
+| [Ana Lahale](https://open.spotify.com/track/0fRIzjNaVxFqwoLg8rfQX5) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 2:59 | 2021-08-29 | 2023-07-15 |
 | [Ansaki](https://open.spotify.com/track/7D7cevBYalgRNWtxzPZWyA) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:27 | 2021-08-29 |  |
 | [Bad Timing](https://open.spotify.com/track/5w3zFqLzDVn5uB4Fz7N02N) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 4:32 | 2021-08-29 |  |
 | [Badi Ellak](https://open.spotify.com/track/6gazpfEpfoPQSPuTBoR30C) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Badi Ellak](https://open.spotify.com/album/5gIy2dF3eXhTo9XJULxLqK) | 3:29 | 2022-12-17 |  |
@@ -54,6 +54,7 @@
 | [Long Live Palestine 3](https://open.spotify.com/track/3qWEyRdZJFmPepCXSTSq0r) | [Lowkey](https://open.spotify.com/artist/7lNJ1ZVAHcx6V4HqC68xRY), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Frankie Boyle](https://open.spotify.com/artist/7okniEZkjEUIZXNpsVKjI1), [Ken Loach](https://open.spotify.com/artist/6W66JbzBvKpYs75Ul4pw5L), [Chakabars](https://open.spotify.com/artist/6e2pNGkBvvdl107bXjnrZ9), [Khāled Siddīq](https://open.spotify.com/artist/2XYgHUbsmab6VT4a3FF9mX), [Mai Khalil](https://open.spotify.com/artist/5IjaZgpaSsPqSk9xVhyAk3) | [Soundtrack to the Struggle 2](https://open.spotify.com/album/5gIwjf2qT4BdIt6REFXFcu) | 5:17 | 2021-08-29 |  |
 | [Ma Mali Shi](https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02) | [Ghazall](https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG) | [A Tareeq](https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2) | 3:58 | 2021-08-29 |  |
 | [Mali Huriye \(I Don't Have Freedom\)](https://open.spotify.com/track/6Z3ttOetQvCgKMfrH13w9D) | [DAM](https://open.spotify.com/artist/1ATrNccUrhiYSQ3B08VQrz) | [Dedication](https://open.spotify.com/album/0Z8CBkZ8nZI2mPeuClzghO) | 3:37 | 2021-08-29 |  |
+| [MAMA EH](https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [MAMA EH](https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO) | 2:31 | 2023-07-14 |  |
 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 | 2021-08-29 |  |
 | [Maskhara](https://open.spotify.com/track/1WvkTvepY16tngFkyf2HNB) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Maskhara](https://open.spotify.com/album/15catjUJC7E0A14BOGmDcd) | 3:06 | 2021-08-29 | 2022-11-09 |
 | [Maskhara](https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf) | [Bashar Murad](https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql) | [Maskhara](https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9) | 3:06 | 2022-09-09 | 2023-04-20 |

@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime\. Listen to this year’s nominees for best OP &amp; ED song at the 2022 Anime Trending Awards and vote for your favorite <a href="https://anitrendz.net/news/2023/01/01/vote\-now\-for\-your\-anime\-of\-the\-year\-2022/?ref=socfb//">HERE</a>.
 
-157 songs - 9 hr 19 min
+158 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Smells Blood](https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 1:49 | 2022-12-09 |  |
 | [Soul's Refrain](https://open.spotify.com/track/1vHysww8KxCBVFEzqMY7jP) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [EVANGELION: DEATH \(Original Soundtrack\)](https://open.spotify.com/album/5IG0NoQJ5IwyeaNRGhDPcd) | 5:17 | 2023-02-10 |  |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2023-01-13 |  |
+| [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-14 |  |
 | [STRANGEFAKE](https://open.spotify.com/track/3BslFZV9CGj17fFkmpLlkX) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Fate/strange Fake \-Whispers of Dawn\- Original Soundtrack EP](https://open.spotify.com/album/45gi8PBWr35nixLp7VqvXW) | 5:15 | 2023-07-07 |  |
 | [Takeaway \(feat\. Lennon Stella\)](https://open.spotify.com/track/6wo37KVqFJhtuxPTpLCcfe) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy...Takeaway](https://open.spotify.com/album/1JawI0XkEwmQ5Bwef3RMbq) | 3:29 | 2022-02-18 | 2022-12-10 |
 | [THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/track/1yoLVeLcgVzPUB4b4gd01R) | [LOREN&MASH](https://open.spotify.com/artist/4z5h4q18iemiP694wTaPDb) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 4:50 | 2023-01-27 | 2023-02-11 |

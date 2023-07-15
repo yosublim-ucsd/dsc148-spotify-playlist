@@ -1,12 +1,12 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 24397,
+  "num_followers": 24427,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzhjODBkMTc5NDVkZWRhMjA0MzI1OTU3NWJhN2NmZWQ2MjZlYTVl",
+  "snapshot_id": "MCwxY2UwMzJjMDNmNDUwZGVlZDNkM2MyN2IxY2QwOWIwYjlmN2I3NzY1",
   "tracks": [
     {
       "added_at": "2023-07-14 00:54:30",
@@ -75,6 +75,22 @@
       "duration_ms": 156734,
       "name": "Ototo",
       "url": "https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt"
+    },
+    {
+      "added_at": "2023-07-14 00:54:30",
+      "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
     },
     {
       "added_at": "2023-07-14 00:54:30",
@@ -248,7 +264,7 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 148071,
+      "duration_ms": 148000,
       "name": "Waka Jeje (feat. Bnxn)",
       "url": "https://open.spotify.com/track/04ISGhuusXAMz3dnXkAdxa"
     },

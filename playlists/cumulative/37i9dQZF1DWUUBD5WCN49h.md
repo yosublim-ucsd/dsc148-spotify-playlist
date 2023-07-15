@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=GYzY\-qD7QNOnzqWnz6bMKw"> Taves </a>
 
-479 songs - 23 hr 35 min
+480 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Addicted](https://open.spotify.com/track/0sBGPSNKWP1a8DUHbgkGeS) | [YungAce](https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO) | [Addicted](https://open.spotify.com/album/7kKLblSvwgfS78ZSir4pUo) | 2:24 | 2023-02-10 | 2023-02-24 |
 | [Again](https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Again](https://open.spotify.com/album/0FbNfX2DcyFNvgrSe0ZLba) | 3:04 | 2023-03-10 |  |
 | [All I See](https://open.spotify.com/track/5sjtgoS0S1aCzARhyCDWjR) | [Bryant EDT](https://open.spotify.com/artist/70B605jj3MrgH5bxdGD7Or) | [All I See \(Alternate Verisons\)](https://open.spotify.com/album/0WYegk86ZiH5suKPVVvwnR) | 1:58 | 2023-06-22 |  |
+| [All In](https://open.spotify.com/track/1HTNDDJ7jZ7TOy2kvU01oT) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [All In](https://open.spotify.com/album/4kUOC5ou6n5msFEjNqdjq5) | 2:38 | 2023-07-14 |  |
 | [All me want](https://open.spotify.com/track/7adgAmDZIKq3qfEEty0xD4) | [Badman Dafe](https://open.spotify.com/artist/1aSWLzulwEXGJ6fkx6N4o3) | [All me want](https://open.spotify.com/album/6jvig8XxQpR6CiA44lASt4) | 2:21 | 2023-04-28 | 2023-05-12 |
 | [all night long](https://open.spotify.com/track/5WzGvQlI5LiIuvyllUZrvY) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs), [Musgan](https://open.spotify.com/artist/3ArvZ9qBIFHqXu17lS4kPW) | [dnd](https://open.spotify.com/album/1ZzQZYEyqDJdsNRITflQMo) | 2:24 | 2023-07-14 |  |
 | [All Over You](https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [All Over You / Mon Bébé](https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0) | 2:20 | 2023-06-02 |  |

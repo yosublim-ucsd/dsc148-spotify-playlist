@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Taylor Swift
 
-239 songs - 12 hr 32 min
+240 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Kiss Her](https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Kiss Her](https://open.spotify.com/album/4CR78cQqMeAlOVbmWswvOe) | 2:52 | 2021-12-17 | 2022-07-27 |
 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 | 2022-01-14 | 2022-07-29 |
 | [la di da](https://open.spotify.com/track/6doGgaQHLno4lTLbgkWd6b) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Mood Swings](https://open.spotify.com/album/3psE2QZTcNFhLGUpY76F4s) | 2:58 | 2022-10-07 | 2023-06-03 |
-| [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-06-01 |  |
+| [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-06-01 | 2023-07-15 |
 | [Learning Curves](https://open.spotify.com/track/0gZXSJychgezeHXoxH2y2N) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Learning Curves](https://open.spotify.com/album/2QBhD9Pa0PfOUWyt0BcVrj) | 2:41 | 2021-12-17 | 2022-01-08 |
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-05-06 | 2023-06-24 |
 | [Left You For Me](https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Left You For Me](https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj) | 3:50 | 2022-07-01 | 2023-03-02 |
@@ -153,6 +153,7 @@
 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2021-12-17 |  |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-12-17 | 2022-07-28 |
 | [Not Yet](https://open.spotify.com/track/5csddpxbUz4tsxnC8GB9ZH) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 2:54 | 2022-07-22 | 2023-01-06 |
+| [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 | 2023-07-14 |  |
 | [Old School Love](https://open.spotify.com/track/0pZTEmnD9xSpaVZVRSCYFZ) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Old School Love](https://open.spotify.com/album/5rWIkYxlGTNVRMIp2WuhHr) | 3:09 | 2022-04-08 | 2022-04-30 |
 | [on my way](https://open.spotify.com/track/23MeW5kPmzySH9b8TY0gmD) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Songs From Tulip Drive](https://open.spotify.com/album/6MPHnKTSyVGgclUBl20W7W) | 2:57 | 2022-05-27 | 2022-07-29 |
 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 | 2021-12-17 |  |

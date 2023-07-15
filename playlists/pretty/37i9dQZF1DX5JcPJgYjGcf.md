@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! We are one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,082 likes - 109 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,707 likes - 109 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 |
-| 2 | [Regret It](https://open.spotify.com/track/21bzlRvgyr4nHdav7ayosn) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 2:55 |
-| 3 | [Private Party](https://open.spotify.com/track/6UbC3x9AIQEnJn5CLrtXge) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:09 |
-| 4 | [Cinderella](https://open.spotify.com/track/7I5GXijbz8XNZjbn45t8bu) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 2:34 |
-| 5 | [No Makeup](https://open.spotify.com/track/3pT5BuUxD9wwpyR3F6u92U) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:24 |
-| 6 | [Love Fool](https://open.spotify.com/track/6xiWbjsJD3pBKdM8tH46qH) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:22 |
-| 7 | [Another Day](https://open.spotify.com/track/7BE2rwnP5B2bCeLLpY40Tm) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST \- The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:11 |
+| 1 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 |
+| 2 | [Regret It](https://open.spotify.com/track/21bzlRvgyr4nHdav7ayosn) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 2:55 |
+| 3 | [Private Party](https://open.spotify.com/track/6UbC3x9AIQEnJn5CLrtXge) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:09 |
+| 4 | [Cinderella](https://open.spotify.com/track/7I5GXijbz8XNZjbn45t8bu) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 2:34 |
+| 5 | [No Makeup](https://open.spotify.com/track/3pT5BuUxD9wwpyR3F6u92U) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:24 |
+| 6 | [Love Fool](https://open.spotify.com/track/6xiWbjsJD3pBKdM8tH46qH) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:22 |
+| 7 | [Another Day](https://open.spotify.com/track/7BE2rwnP5B2bCeLLpY40Tm) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:11 |
 | 8 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 |
 | 9 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 |
 | 10 | [Tempo](https://open.spotify.com/track/1iifBZFQbZlO1BbeaO3KGi) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:44 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 108 | [Underwater](https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:19 |
 | 109 | [You](https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [You](https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi) | 5:06 |
 
-Snapshot ID: `MCxjZDIwZDNjYTgzMjM1Y2YzNmM2ZDY4NTU5MjVmZDI0ODM3ZGQ1YWJm`
+Snapshot ID: `MCwxM2NmMmVlOGQ0YTc0YzEyOWZmNTcxYTZmMzlkNzM2ZjFhMjAyMTQ3`

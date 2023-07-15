@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 63513,
+  "num_followers": 63524,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzA2MmFmMTAzMjU5MjNhYzVlYjQ4ZjI4ZWUyOGI1YmVjOTAwNTVh",
+  "snapshot_id": "MCw1MzQ4NDdhYmU5N2NkMzYzYTYwMzhlMGQ4NWJkZWFiYzQ1ODBkYjFj",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -31,22 +31,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Help! (Remastered)",
         "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 125666,
       "name": "Yesterday - Remastered 2009",
       "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -243,18 +243,18 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -275,22 +275,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 174000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -365,7 +365,7 @@
         }
       ],
       "duration_ms": 272000,
-      "name": "Angie",
+      "name": "Angie - Remastered 2009",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Ao vivo",
-        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
-      },
-      "artists": [
-        {
-          "name": "Jorge Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Do fundo do nosso quintal - Ao vivo",
-      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
-    },
-    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Acabou Chorare",
@@ -1043,6 +1027,22 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Ao vivo",
+        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Do fundo do nosso quintal - Ao vivo",
+      "url": "https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 436720,
-      "name": "Odara - Remix",
-      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Jovem Guarda - O Pulo Do Negro Gato",
         "url": "https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 251546,
       "name": "Negro Gato",
       "url": "https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Bicho",
+        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 436720,
+      "name": "Odara - Remix",
+      "url": "https://open.spotify.com/track/7A8i85wc0cQzbDTHLlkh2O"
     },
     {
       "added_at": "2021-08-18 22:14:03",

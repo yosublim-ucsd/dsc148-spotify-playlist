@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 98653,
       "name": "Alc\u00e1zar",
       "url": "https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE"
@@ -618,6 +618,24 @@
       "duration_ms": 138709,
       "name": "La Selva Nos Llama",
       "url": "https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2"
+    },
+    {
+      "album": {
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164508,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I"
     },
     {
       "album": {

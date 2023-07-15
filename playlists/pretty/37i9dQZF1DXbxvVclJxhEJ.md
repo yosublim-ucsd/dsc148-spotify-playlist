@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,769 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,797 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 14 | [I'm A Little Mixed Up](https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG) | [Betty James](https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v) | [The Chess Story 1957\-1964](https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB) | 2:51 |
 | 15 | [Muleskinner Blues](https://open.spotify.com/track/27Be6a8BHTjUS736RAnGgP) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 2:51 |
 | 16 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
-| 17 | [If You See My Rooster \(Please Run Him Home\)](https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 3:15 |
-| 18 | [Devil's Gonna Git You](https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 3:10 |
+| 17 | [Devil's Gonna Git You](https://open.spotify.com/track/17THAwZLC5xgi25y3S3sHQ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 4](https://open.spotify.com/album/1L3EizQze12QVLvn1znwcT) | 3:10 |
+| 18 | [If You See My Rooster \(Please Run Him Home\)](https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 3:15 |
 | 19 | [Born Under A Bad Sign](https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:56 |
 | 20 | [As Long as I'm Moving](https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:45 |
 | 21 | [Shout Sister Shout](https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc) | [Lucky Millinder](https://open.spotify.com/artist/4tdVYQWfsBth04tc1mmQ23) | [Big Band Bounce & Boogie](https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk) | 2:46 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 53 | [Trouble in Mind](https://open.spotify.com/track/6qURWmWdKXkoGGvEl2iiEi) | [Julia Lee](https://open.spotify.com/artist/12YnPfu3zqQ9uOalclG0bK) | [Tonight's the Night](https://open.spotify.com/album/29MBxwwCj9k7jt6Z6mUTnv) | 2:55 |
 | 54 | [I'm Getting 'Long Alright](https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [The Complete Okeh Sessions 1952\-1955](https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ) | 3:34 |
 | 55 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
-| 56 | [Honey Dripper Blues](https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1) | [Hattie North & Roosevelt Sykes](https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx) | [Those Dirty Blues, Vol\. 2](https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl) | 3:25 |
+| 56 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
 | 57 | [Stack O'Lee Blues](https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:55 |
-| 58 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
-| 59 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
+| 58 | [Honey Dripper Blues](https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1) | [Hattie North & Roosevelt Sykes](https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx) | [Those Dirty Blues, Vol\. 2](https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl) | 3:25 |
+| 59 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
 | 60 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 |
 | 61 | [Crazy Blues \(Alternate Take\)](https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Presenting Mamie Smith](https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F) | 3:24 |
 | 62 | [New That Ain't Right](https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L) | [Perline Ellison](https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh) | [Female Blues \- The Remaining Titles Vol\. 2 \(1938\-1949\)](https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU) | 2:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Dirty Moaner Blues](https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP) | [Fannie May Goosby](https://open.spotify.com/artist/4jFXUMT7f5Wgv0RyTiQs2n), [Peter Harris](https://open.spotify.com/artist/23VN21wIWQLjWFCRwQyUVz) | [Grievous Blues](https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly) | 2:43 |
 | 75 | [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 |
 
-Snapshot ID: `MCw3ZGNiMjRkN2MzMzFmNjhhMDMwYjNiMDc1OGJlNzk3ZjA1ZmY3MWQ5`
+Snapshot ID: `MCwzMzQ2NWYxYzg4ZTI1NGY5YTJlMzFhNDQ2YjE1YjY3YWZiMDkxMDRh`

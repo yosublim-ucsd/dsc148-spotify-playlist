@@ -197,6 +197,32 @@
     },
     {
       "album": {
+        "name": "Alone (Stephan Jolk Remix)",
+        "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Alone - Stephan Jolk Remix",
+      "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
+    },
+    {
+      "album": {
         "name": "AM:PM (Remixes)",
         "url": "https://open.spotify.com/album/5wYKHMd0BHO5z5lBiGcg0k"
       },
@@ -260,6 +286,24 @@
       "duration_ms": 200156,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "album": {
+        "name": "back in time",
+        "url": "https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o"
+      },
+      "artists": [
+        {
+          "name": "wilo wilde",
+          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "back in time",
+      "url": "https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht"
     },
     {
       "album": {
@@ -836,7 +880,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 190444,
       "name": "Fells (Where the Story Goes)",
       "url": "https://open.spotify.com/track/1dbHiZly7TGoFfYa1b8aHX"
@@ -1093,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "Have Fun Forgetting About Me",
+        "url": "https://open.spotify.com/album/0E0xCpOd2zUwQzNc6bmClu"
+      },
+      "artists": [
+        {
+          "name": "Lucas Nord",
+          "url": "https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd"
+        },
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "Have Fun Forgetting About Me",
+      "url": "https://open.spotify.com/track/532tXrhlAGohExwprUgERu"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/5tLg7FOM4rHctSrbPMun95"
       },
@@ -1156,6 +1222,24 @@
       "duration_ms": 246022,
       "name": "HH vill bara va med dej - Killen Manjaro Remix",
       "url": "https://open.spotify.com/track/3ButzjnOhh2cp6swTQ7VM6"
+    },
+    {
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220625,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
     },
     {
       "album": {
@@ -1294,6 +1378,24 @@
       "duration_ms": 174193,
       "name": "Hurricane - Ryan Case Remix",
       "url": "https://open.spotify.com/track/5146r6RrR2ElhlrGr64Fuq"
+    },
+    {
+      "album": {
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "album": {
@@ -1784,6 +1886,24 @@
       "duration_ms": 172444,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1BUdgxjmGFXqnpkkQpjBhs"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a"
+      },
+      "artists": [
+        {
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194730,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
     },
     {
       "album": {
@@ -2931,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274677,
+      "name": "Sun Showers",
+      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
+    },
+    {
+      "album": {
         "name": "Patchouli",
         "url": "https://open.spotify.com/album/2lJhS3fcp0c9VghdU7YSfU"
       },
@@ -3120,7 +3258,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202666,
       "name": "tidal wave",
       "url": "https://open.spotify.com/track/0GEHapw4SVFDM65BXvcSDX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Suni Hạ Linh
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,872 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,889 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Falling In Love](https://open.spotify.com/track/5K67uEqrHOPJ5i5kcw0QS4) | [Na Ngọc Anh](https://open.spotify.com/artist/5Es1OAhewJhFhbfejSQA7O) | [Falling In Love](https://open.spotify.com/album/7glLUH9evIkEx4LiNIypyB) | 4:38 |
 | 50 | [Kìa Bóng Dáng Ai](https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [Sterry](https://open.spotify.com/artist/2yT9yRYRWEC22aqXEa6vBu) | [Kìa Bóng Dáng Ai](https://open.spotify.com/album/1f9fhuJErQrMM4wialltgp) | 2:44 |
 
-Snapshot ID: `MCw1NzVmYTc3MzU4ODc2ODYzMjFkOTg0ZTkzYjRmNGU1MzJkZmU1ODgw`
+Snapshot ID: `MCxhNjZmNTdmMzRjMzJhMTEyYTNlY2UyMTY5NTI0NmExNGI1OGM2Zjgy`

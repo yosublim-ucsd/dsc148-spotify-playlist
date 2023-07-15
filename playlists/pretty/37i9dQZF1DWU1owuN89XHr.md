@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,015 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,041 likes - 99 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 23 | [Me Hice Una Promesa](https://open.spotify.com/track/4Yv9a9mYYPI4MKELXF5BLd) | [Fato](https://open.spotify.com/artist/0U00G7l8bOOiI8NwNN8dqq) | [Mis Otros Yo](https://open.spotify.com/album/0k4rvGoxyV0esVswNRzL0j) | 3:59 |
 | 24 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 25 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
-| 26 | [Coincidir](https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8) | [Mexicanto](https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc) | [Coincidir](https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH) | 2:43 |
+| 26 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
 | 27 | [Alevosía](https://open.spotify.com/track/7lVAkvu9j5d6Pgd1CbXn16) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Alevosia](https://open.spotify.com/album/1UpLSQ8L2ZCfT8OlXyAQKe) | 4:38 |
 | 28 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
-| 29 | [Divina Tú](https://open.spotify.com/track/7K1ZJlEZ2Nw9BrPHLyEmvC) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [El Cartero](https://open.spotify.com/album/43UawrlG9nlw5rvGqgE6jW) | 4:23 |
+| 29 | [Coincidir](https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8) | [Mexicanto](https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc) | [Coincidir](https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH) | 2:43 |
 | 30 | [Y Sin Embargo \- En Directo](https://open.spotify.com/track/2PwlT72CyKMN2WzgCS4yUR) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Nos Sobran Los Motivos](https://open.spotify.com/album/6lzBpfskJ6azfSi88CECKv) | 6:02 |
 | 31 | [El Breve Espacio en Que No Estás \- Live](https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Pablo Milanés: Un Concierto para América \(Live\)](https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ) | 4:28 |
 | 32 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 98 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 99 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MCwyMGQwNWQyZTQxMDBlZmEyYjIzY2YwMTNhNjgwMmJjNGFmN2MxZDI5`
+Snapshot ID: `MCwwMzdmNDk5ZWMxYmVlNDc1YWY2YWIzODMyOGRmNmE4ZTQyMzNhNzI2`

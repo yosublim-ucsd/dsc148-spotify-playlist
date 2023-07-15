@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:E\-SENS\)
 
-937 songs - 2 day 3 hr 45 min
+938 songs - 2 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Mr.Crooked \(Feat\. Kim Seungmin, Han Yo Han\)](https://open.spotify.com/track/0XGRwNXqZ5Aao3r5ACoPAz) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [Mr.Crooked](https://open.spotify.com/album/7fqLcDodbP3uYIkzJwZM7I) | 3:35 | 2022-08-19 | 2022-10-30 |
 | [MSG \(Feat\. PENOMECO\)](https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:37 | 2022-09-02 | 2022-09-04 |
 | [Mull](https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 2:58 | 2022-11-09 |  |
+| [MULTIPLY](https://open.spotify.com/track/6UhQdJPSWauA2uQ3mX8sxW) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [MULTIPLY](https://open.spotify.com/album/5gTv9ns47Kpo887nB307In) | 2:29 | 2023-07-14 |  |
 | [muse](https://open.spotify.com/track/2Pc2vLBzVmhHuTMpxYfwZq) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Fox and the City](https://open.spotify.com/album/30kFu1nhTCBZuu9Sk0HtVs) | 2:42 | 2023-04-18 |  |
 | [My G\-Wagen \(feat\. SUPERBEE\)](https://open.spotify.com/track/1V0gR6LFuhm05WnqrNfmlm) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Inflection Point](https://open.spotify.com/album/4QB8osrrZHap79ctNcMqRD) | 3:10 | 2021-12-21 | 2022-04-21 |
 | [My Ninjas](https://open.spotify.com/track/7mxagx3nBTNYcWxCFPRdsw) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC) | [My Ninjas](https://open.spotify.com/album/3oqVwaLI47IzhmfaXycRTD) | 2:05 | 2022-12-09 | 2023-03-28 |

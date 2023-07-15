@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-209 songs - 12 hr 20 min
+210 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,8 +38,9 @@
 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Don't Come Home A Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq) | 2:06 | 2022-04-01 |  |
 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/track/7h4q1lMv48EKmE8uc5do4H) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Gold](https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl) | 2:07 | 2022-04-01 | 2022-07-02 |
 | [Drivin'](https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Robert Ellis](https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt) | 2:46 | 2021-11-12 |  |
-| [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 | 2022-02-18 |  |
+| [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 | 2022-02-18 | 2023-07-15 |
 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 | 2021-11-12 |  |
+| [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-07-14 |  |
 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 | 2021-11-12 |  |
 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 | 2021-11-12 | 2022-07-29 |
 | [Finish Line](https://open.spotify.com/track/3PY2ZPSadkI2lTIspCGe4s) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Finish Line](https://open.spotify.com/album/0h65AvQ69VMRgzi9SDSeV0) | 4:03 | 2021-11-12 | 2022-07-26 |

@@ -2,9 +2,9 @@
 
 ### [Jazz Live & Loud](https://open.spotify.com/playlist/37i9dQZF1DXc5FgmqNGPLc)
 
-> All live, all jazz\. Cover: Erroll Garner
+> All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-122 songs - 18 hr 0 min
+123 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,12 +73,13 @@
 | [Morning Glory \- Live](https://open.spotify.com/track/4ET4KbrR2ly7diI7rnQwhc) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [My Foolish Heart \(Live\)](https://open.spotify.com/album/0tkRkhaV8eqw0kn1MUKIWx) | 4:31 | 2023-04-14 | 2023-06-10 |
 | [Mother Of The Veil \- Live \(Remastered\)](https://open.spotify.com/track/0tTq4JHh0AL3W7PCd3IDgP) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI) | [Inside/Outside](https://open.spotify.com/album/3BwunC2a1yOsic076ud2li) | 12:49 | 2023-06-23 |  |
 | [Ms\. Angelou \- Live](https://open.spotify.com/track/2aSiGeZ9qoYgdASyvzmOLl) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Inside Straight](https://open.spotify.com/artist/7MtmFTvuto2LZ3I9y4Gd96) | [Live at the Village Vanguard](https://open.spotify.com/album/1RZBIIFd5NYufxARh6yyWy) | 10:02 | 2021-11-26 |  |
+| [My Favorite Things \(feat\. Eric Dolphy\) \- Live](https://open.spotify.com/track/661SJJCK5tUq3kPNzYxfoa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Evenings At The Village Gate: John Coltrane with Eric Dolphy \(Live\)](https://open.spotify.com/album/7AleWm3WG8Ko8AJjfaa3oW) | 15:53 | 2023-07-14 |  |
 | [My One and Only Love \- Live](https://open.spotify.com/track/6eO4Uudsw3t79uCQJFtrta) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Live at Fabrik, Hamburg, 1987](https://open.spotify.com/album/3zV3pERmVFEntiv4j9MCKB) | 10:12 | 2022-10-07 |  |
 | [No More Shadows](https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Nightconcert](https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96) | 5:33 | 2021-12-01 |  |
 | [Nostalgia \- Live \- Montreux Jazz Festival 1984](https://open.spotify.com/track/7HdfzKSUAoOhRskgsqlLR9) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Mahavishnu Orchestra](https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO) | [John McLaughlin: The Montreux Years \(Live\)](https://open.spotify.com/album/2UvZBqkvuu6VfvnPpsNHn3) | 11:18 | 2022-03-04 |  |
 | [Okonkole' Y Trompa \- Live in Japan 1982](https://open.spotify.com/track/1JTyErCbO6j5gPDSvJRJpg) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Twins Live In Japan 1982](https://open.spotify.com/album/77E3yGa6D6O5HJRuK90KyG) | 6:55 | 2021-11-12 | 2022-07-29 |
 | [Okonkole' Y Trompa \- Remastered](https://open.spotify.com/track/6P03MjTK2iTrkVBrGf1Qtd) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Smooth Jazz Hits](https://open.spotify.com/album/3PmD3OrZ0yYdvyslH6VkUz) | 7:04 | 2021-11-12 |  |
-| [Oleo \- Live](https://open.spotify.com/track/3Y1FeOnRQhsAEZlrJX9p7i) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Oleo \(Live\)](https://open.spotify.com/album/4s2gCzpD7CRhgQM5I8qaW0) | 19:08 | 2022-02-18 |  |
+| [Oleo \- Live](https://open.spotify.com/track/3Y1FeOnRQhsAEZlrJX9p7i) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Oleo \(Live\)](https://open.spotify.com/album/4s2gCzpD7CRhgQM5I8qaW0) | 19:08 | 2022-02-18 | 2023-07-15 |
 | [Olha Maria \- Live](https://open.spotify.com/track/3mLcWV0tQYmkF8B9fc2Y3P) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Got the Keys to the Kingdom: Live at the Village Vanguard](https://open.spotify.com/album/1Sr2wuciDyzeCvQXYaZDeE) | 6:22 | 2023-02-17 |  |
 | [Once In A While \(Live\)](https://open.spotify.com/track/5LCWRVUkzLxujuQ5w7pLPL) | [Art Blakey Quintet](https://open.spotify.com/artist/180iCL28IiUTkC6epvZfYI) | [A Night At Birdland](https://open.spotify.com/album/6r7judxVxuABrzdTYhNQCr) | 5:18 | 2021-11-12 |  |
 | [Open Country](https://open.spotify.com/track/6KLjvezsrwtrl2UW4PwflN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 5:46 | 2021-11-12 |  |

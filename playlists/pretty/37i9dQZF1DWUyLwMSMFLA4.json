@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Asadito a pura cumbia y cuarteto!",
-  "num_followers": 434383,
+  "num_followers": 434597,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjg2MTM2MGY1MWU4MGE4MzkwZDFhY2MzOWFmNTBkNmNjYjU3ZGJh",
+  "snapshot_id": "MCw5YjFmMzVmZDg2OWE2OWQ0NmFiZGM1ODExOWMyMDAxNWJiYjI3ODQ3",
   "tracks": [
     {
       "added_at": "2023-07-06 20:22:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
-        "name": "Cachorro",
-        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Cachorro",
-      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
-    },
-    {
-      "added_at": "2023-07-06 20:22:55",
-      "album": {
         "name": "Los M\u00e1s Queridos",
         "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 203600,
       "name": "Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
+    },
+    {
+      "added_at": "2023-07-06 20:22:55",
+      "album": {
+        "name": "Cachorro",
+        "url": "https://open.spotify.com/album/3kSWysuWqvXUbjkZoCkmPZ"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Cachorro",
+      "url": "https://open.spotify.com/track/6MIQXJ8FIrmfUNE661f7Ph"
     },
     {
       "added_at": "2023-07-06 20:22:55",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
-    },
-    {
-      "added_at": "2023-07-06 20:22:55",
-      "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
-    },
-    {
-      "added_at": "2023-07-06 20:22:55",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1231,6 +1199,38 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2023-07-06 20:22:55",
+      "album": {
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-07-06 20:22:55",
+      "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
     },
     {
       "added_at": "2023-07-06 20:22:55",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
-    },
-    {
-      "added_at": "2023-07-06 20:22:55",
-      "album": {
         "name": "Rodrigo - Lo mejor del amor",
         "url": "https://open.spotify.com/album/3mQDJMTkoGWlpOryHdlvlJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 228173,
       "name": "Lo mejor del amor",
       "url": "https://open.spotify.com/track/2POTQjCiCtUyUZFNQYlM7z"
+    },
+    {
+      "added_at": "2023-07-06 20:22:55",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
       "added_at": "2023-07-06 20:22:55",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
-        "name": "Soy Cordobes",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 261066,
-      "name": "Fuego y Pasion",
-      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
-    },
-    {
-      "added_at": "2023-07-06 20:22:55",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
@@ -1587,22 +1571,6 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
-        "name": "Renovado",
-        "url": "https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 258293,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
-    },
-    {
-      "added_at": "2023-07-06 20:22:55",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -1619,18 +1587,34 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
+        "name": "Soy Cordobes",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
         }
       ],
-      "duration_ms": 97466,
-      "name": "Conmigo te gust\u00f3",
-      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
+      "duration_ms": 261066,
+      "name": "Fuego y Pasion",
+      "url": "https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl"
+    },
+    {
+      "added_at": "2023-07-06 20:22:55",
+      "album": {
+        "name": "Renovado",
+        "url": "https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 258293,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
     },
     {
       "added_at": "2023-07-06 20:22:55",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
+        "name": "En Directo - Piel Con Piel",
+        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 97466,
+      "name": "Conmigo te gust\u00f3",
+      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
+    },
+    {
+      "added_at": "2023-07-06 20:22:55",
+      "album": {
         "name": "Soy Sabalero",
         "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
       },
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-07-06 20:22:55",
       "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
-    },
-    {
-      "added_at": "2023-07-06 20:22:55",
-      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2023-07-06 20:22:55",
+      "album": {
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2023-07-06 20:22:55",

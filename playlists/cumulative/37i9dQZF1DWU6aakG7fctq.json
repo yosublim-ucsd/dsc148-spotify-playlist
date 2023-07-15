@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Kevin Kaarl",
+  "description": "Fresh Latin Indie. Cover: Camilo S\u00e9ptimo",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 228437,
       "name": "Amor de Verano",
       "url": "https://open.spotify.com/track/2XvJurdJip7XdjW1j1EfS8"
@@ -4198,7 +4198,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 161147,
       "name": "Migajas",
       "url": "https://open.spotify.com/track/7o9mOCFRSHhGQNiZ0nBa9M"
@@ -5381,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
+    },
+    {
+      "album": {
         "name": "Persona Favorita",
         "url": "https://open.spotify.com/album/00cy9kHF15QYiSfD6Eyo5v"
       },
@@ -6226,6 +6244,24 @@
       "duration_ms": 195133,
       "name": "Si Nos Vamos",
       "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
+    },
+    {
+      "album": {
+        "name": "Si Volviera A Conocerte",
+        "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191924,
+      "name": "Si Volviera A Conocerte",
+      "url": "https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49"
     },
     {
       "album": {

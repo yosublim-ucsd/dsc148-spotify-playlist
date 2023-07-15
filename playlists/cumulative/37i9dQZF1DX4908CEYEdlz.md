@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-253 songs - 15 hr 29 min
+255 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 | 2022-09-02 |  |
 | [Bitterness](https://open.spotify.com/track/570zBdab8qenUWMccosa9R) | [Mandragora](https://open.spotify.com/artist/2AJTjZn2L77z1FSxBasjhM) | [Nocturnal Rites](https://open.spotify.com/album/6v9DaYjPOaUgzIZtZtQ42q) | 7:16 | 2022-05-27 | 2022-10-15 |
 | [Black Lungs](https://open.spotify.com/track/1nIw3ohgilArczHubneGxD) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Black Lungs](https://open.spotify.com/album/7gGWmZWIBB3EOZaGY602gE) | 3:51 | 2022-01-14 | 2022-06-04 |
-| [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-24 |  |
+| [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-24 | 2023-07-15 |
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 | 2023-05-20 |
 | [Blood From A Stone](https://open.spotify.com/track/3E67SH1aQjwRBvQ9jphK6c) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood From A Stone / The Day I Tried To Live](https://open.spotify.com/album/7iQdbCqEWLgZbvCjNXPHle) | 3:21 | 2022-01-14 | 2022-01-29 |
 | [Boilermaker](https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Boilermaker](https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7) | 3:29 | 2022-01-14 |  |
@@ -43,6 +43,7 @@
 | [Bum\-Rush \- Instrumental](https://open.spotify.com/track/3JjX1mqAyczMoGeP68pYIh) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bum\-Rush \(Instrumental\)](https://open.spotify.com/album/6b5BS7J8ZDT1ei4vtmQkQl) | 3:23 | 2023-07-07 |  |
 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 | 2022-01-14 |  |
 | [Call Me When You're Sober](https://open.spotify.com/track/7IzqOoxdRKrRiPkauVLcAb) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Call Me When You're Sober](https://open.spotify.com/album/5tLkjzHBkzgRH7am21Phmi) | 3:32 | 2022-01-28 | 2022-03-18 |
+| [Carnivore](https://open.spotify.com/track/6nKI1hpBkx80u2fs57eG09) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/34nv0cMOhc5T2QvS8i1crM) | 3:11 | 2023-07-14 |  |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-02-25 | 2022-03-05 |
 | [City Of The Dead](https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [City Of The Dead](https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG) | 2:53 | 2022-06-10 | 2022-12-08 |
 | [City Of The Dead](https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:53 | 2022-12-02 |  |
@@ -85,6 +86,7 @@
 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 | 2022-02-04 | 2022-02-26 |
 | [Evil](https://open.spotify.com/track/2huOPxihus7AAslKHs3mGc) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Evil](https://open.spotify.com/album/5EdJlD6ASMACKDLhczcwhb) | 2:43 | 2023-03-03 | 2023-03-11 |
 | [Exército de Zumbis](https://open.spotify.com/track/4DMbgo8xkyBuSWUHUxv7O6) | [Ratos De Porão](https://open.spotify.com/artist/3d2xlrGC9JGD7ycsf0e8mF) | [Looking For An Answer](https://open.spotify.com/album/1puSALARUdrEKSZrCp7Jw5) | 2:52 | 2022-03-11 | 2022-04-23 |
+| [Eyes Wide Shut \(feat\. Travis Barker\) \- Sickick Remix](https://open.spotify.com/track/05aOehHcLLV6iFKhE0KQsf) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Eyes Wide Shut \(feat\. Travis Barker\) \[Sickick Remix\]](https://open.spotify.com/album/4Bt8V9IUywrDQCqcJWO3Ko) | 2:37 | 2023-07-14 |  |
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-04-01 | 2022-07-29 |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-07-01 | 2023-05-27 |
 | [Feast Of Fire](https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Feast Of Fire](https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq) | 4:18 | 2022-01-14 |  |
@@ -193,7 +195,7 @@
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-12 | 2022-09-03 |
 | [Soul On Fire](https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 4:05 | 2023-02-24 |  |
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-02-19 |
-| [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2022-01-14 |  |
+| [Start The Healing](https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Start The Healing](https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH) | 3:28 | 2022-01-14 | 2023-07-15 |
 | [STAY](https://open.spotify.com/track/6zYsGB0XlAAsHIm7uSgt0J) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [STAY](https://open.spotify.com/album/76OC7HQKwiJQgVDSP8AgOG) | 2:27 | 2022-01-14 | 2022-02-05 |
 | [Strange Days](https://open.spotify.com/track/2zoO9kUqxejDqQGcdP38eP) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Strange Days](https://open.spotify.com/album/27fKpwziVUn7s7kOM3xp1h) | 3:22 | 2022-02-18 | 2022-03-05 |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2022-01-14 | 2022-09-03 |

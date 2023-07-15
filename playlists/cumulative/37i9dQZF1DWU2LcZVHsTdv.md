@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-194 songs - 11 hr 51 min
+196 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Changed](https://open.spotify.com/track/7ClZTubD4KudpEuBysLMUI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Changed](https://open.spotify.com/album/3UFdvzvKR3spzlCkVpcqKb) | 4:22 | 2022-07-15 |  |
 | [Chase Me Down \(feat\. RaeLynn\)](https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:28 | 2021-12-10 |  |
 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 | 2021-12-10 |  |
+| [Church Pew](https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c) | 3:59 | 2023-07-14 |  |
 | [Churches and Bars](https://open.spotify.com/track/5rdrGT068PeZfY1J32mcDn) | [Bear Bailey](https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz) | [Churches and Bars](https://open.spotify.com/album/5TcFStrKOcmhxwrqihFBqa) | 3:18 | 2022-09-09 |  |
 | [Country Boy's Prayer](https://open.spotify.com/track/2Pnw07JGKNZYta0UrHox5X) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [We Were Cowboys](https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG) | 3:44 | 2022-08-26 |  |
 | [Cowboy Amen](https://open.spotify.com/track/59jOEV2zHNXIIDWxoJ20Bh) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Cowboy Amen](https://open.spotify.com/album/3UzARTHtTqFD3ffs4X2ToZ) | 2:44 | 2023-02-10 |  |
@@ -100,6 +101,7 @@
 | [Jesus' Fault](https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:34 | 2022-09-30 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
 | [Just a Closer Walk with Thee](https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Just a Closer Walk with Thee](https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g) | 3:40 | 2022-01-28 |  |
+| [Just A Little Talk With Jesus](https://open.spotify.com/track/0MkNMxOegU2NmXqRfnlRvi) | [The Steeldrivers](https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R) | [Just A Little Talk With Jesus](https://open.spotify.com/album/0TQSFgv6jCpA3PKVdOdnuE) | 2:55 | 2023-07-14 |  |
 | [Less Than Whole](https://open.spotify.com/track/3OzqxGvLzW00YOet2P78sD) | [Eric Paslay](https://open.spotify.com/artist/4TONBKcqVR1LmPdfJxvkMU) | [Eric Paslay](https://open.spotify.com/album/79RwxrHw6uKVimeEGyM00W) | 4:44 | 2021-12-10 |  |
 | [Let My Heart Be Moved](https://open.spotify.com/track/2pESp2B7x0b0sAIJGoxZS9) | [Shadowlands](https://open.spotify.com/artist/1qwYptsAoTdF79AffnMnpe), [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Brett Taylor](https://open.spotify.com/artist/1qw1LjONRwzcP0oFHuuPJy) | [November Songs](https://open.spotify.com/album/1GRwT3QAIDEAmAUwmpv1TG) | 3:44 | 2022-10-07 |  |
 | [Like Jesus Does](https://open.spotify.com/track/3wxgj5N8ZKoZWHDw6FJUf2) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:18 | 2021-12-10 |  |

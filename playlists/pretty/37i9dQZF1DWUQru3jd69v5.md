@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Niky Savage in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,444 likes - 54 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,491 likes - 54 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 53 | [Calamite](https://open.spotify.com/track/452JD9BvCZ0IiKk5QWQZrt) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Calamite](https://open.spotify.com/album/4p6p15HUl0tDkJXei3yqTy) | 2:36 |
 | 54 | [Il mio mestiere](https://open.spotify.com/track/0M8OyJXJdKSULM0gSubhUZ) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [GREZZO 4](https://open.spotify.com/album/2sNjVoJDdwgsKmhxX44rJJ) | 2:21 |
 
-Snapshot ID: `MCxkYTVmNTQ5ZWRhZWYwOTFmMzUxMDE2MmE4YmM0YjY4NGIyNzc1ZWZk`
+Snapshot ID: `MCxmNWI3ZDEwY2UxMmQwN2M0MGFiZjJhZjI4ZDUwMjdmNTkzNWM1ZDcz`

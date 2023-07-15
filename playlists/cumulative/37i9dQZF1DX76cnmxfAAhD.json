@@ -513,24 +513,6 @@
     },
     {
       "album": {
-        "name": "Urban Hymns (Remastered 2016)",
-        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "date_added": "2021-04-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony",
-      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
-    },
-    {
-      "album": {
         "name": "This Is Music: The Singles 92-98",
         "url": "https://open.spotify.com/album/0pygZ3lfsCkG1WmnWWq6a1"
       },
@@ -546,6 +528,24 @@
       "duration_ms": 359546,
       "name": "Bitter Sweet Symphony",
       "url": "https://open.spotify.com/track/1WYEDcS7WGjv0rG7rmMX3o"
+    },
+    {
+      "album": {
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
       "album": {

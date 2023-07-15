@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "Hand In Hand",
+        "url": "https://open.spotify.com/album/5QFKgCvQUFnHDeWbdCQ6aO"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234354,
+      "name": "Almost Everything",
+      "url": "https://open.spotify.com/track/4pxC44xd2qCE3FnOcrFdtT"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/67wKBjmJ98YFQAwBHpw38W"
       },
@@ -1702,7 +1724,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 403902,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
@@ -2386,7 +2408,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 173694,
       "name": "Forget It",
       "url": "https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr"
@@ -6149,6 +6171,28 @@
     },
     {
       "album": {
+        "name": "Start The Fire",
+        "url": "https://open.spotify.com/album/20z7W6isoaSoIT7P5jOmS4"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222903,
+      "name": "Start The Fire",
+      "url": "https://open.spotify.com/track/6NIX8pnaWGV7gDTpM0em4a"
+    },
+    {
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/54PJpzqzC8S2RDc3kGxCD9"
       },
@@ -7096,7 +7140,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 258984,
       "name": "Too Little Too Late - Little Late Edit",
       "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
@@ -7726,7 +7770,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 249779,
       "name": "Weightless - jamesjamesjames Remix",
       "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"

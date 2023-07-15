@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 216666,
       "name": "Charmer",
       "url": "https://open.spotify.com/track/0qlcVvGMXn1aRB9nGPlaYN"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 146692,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
@@ -4454,6 +4454,24 @@
       "duration_ms": 182686,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4HPbP9zVWY7f0Ji5Y6cL6y"
+    },
+    {
+      "album": {
+        "name": "I Walk This Earth All By Myself",
+        "url": "https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo"
+      },
+      "artists": [
+        {
+          "name": "Throttle",
+          "url": "https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271807,
+      "name": "I Walk This Earth All By Myself",
+      "url": "https://open.spotify.com/track/0yjG7B98B9AtigGIbjIG8g"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the powerful voices of Latin music. Cover: RaiNao",
-  "num_followers": 39127,
+  "num_followers": 39162,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzZkYTJjYWMzZDFjNTMyNWUwMzg4YTg4YzkxYjczYTBhY2MxMmE2",
+  "snapshot_id": "MCw2YWExZWU3MzU0ZDBmNTI3NDU5YWJlMDQxMDA4NzRlMmM0NDIzMDRj",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Como Tu Mujer",
         "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 262706,
       "name": "Como Tu Mujer",
       "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Sin Carn\u00e9",
-        "url": "https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 117680,
-      "name": "Sin Carn\u00e9",
-      "url": "https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "El Renacimiento",
         "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 237466,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2CNpOXQzoJwWC6YMssLmQY"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Sin Carn\u00e9",
+        "url": "https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 117680,
+      "name": "Sin Carn\u00e9",
+      "url": "https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Porque Soy Abeja Reina",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 144691,
       "name": "Pi\u00f1a",
       "url": "https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2023-06-16 04:00:00",

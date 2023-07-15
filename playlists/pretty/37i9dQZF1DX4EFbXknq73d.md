@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,454 likes - 75 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,536 likes - 75 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 63 | [Chalk Dust Torture \(Live\) \- 7/28/17 Chocolate](https://open.spotify.com/track/2o5CwcwWsxLY6N6jB6RArZ) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [The Baker's Dozen: Live At Madison Square Garden](https://open.spotify.com/album/2b44uUnUGLSEv5cHeZJmNq) | 24:05 |
 | 64 | [Dear Prudence \- Live](https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM) | [Jerry Garcia Band](https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [Clarence Clemons](https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO) | [GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre](https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9) | 11:05 |
 | 65 | [Dawn A New Day \- Jam in the Van Live Session](https://open.spotify.com/track/3X5FLVPnSTGhnWNnqIwtq0) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Pigeons Playing Ping Pong \(Live Session, Los Angeles, CA, 2020\)](https://open.spotify.com/album/74Hvnb2MiG3FMQa3x6nnwW) | 6:42 |
-| 66 | [Throwing Stones \- Live 2016\-12\-30](https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY) | [Joe Russo's Almost Dead](https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp) | [Port Chester, NY :: 2016\-12\-30](https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf) | 17:49 |
-| 67 | [Soul Singing](https://open.spotify.com/track/5dFS4BJ5uk54UAkeUoCvir) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Freak 'N' Roll...Into the Fog: The Black Crowes All Join Hands \(The Fillmore, San Francisco\)](https://open.spotify.com/album/4xb3NDlfNZqD2RbKxsdNFB) | 9:46 |
+| 66 | [Soul Singing](https://open.spotify.com/track/5dFS4BJ5uk54UAkeUoCvir) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Freak 'N' Roll...Into the Fog: The Black Crowes All Join Hands \(The Fillmore, San Francisco\)](https://open.spotify.com/album/4xb3NDlfNZqD2RbKxsdNFB) | 9:46 |
+| 67 | [Throwing Stones \- Live 2016\-12\-30](https://open.spotify.com/track/7xVUy4JFdnR3a27MzHwRxY) | [Joe Russo's Almost Dead](https://open.spotify.com/artist/1YRc6fheTv1ocTyaZMzwEp) | [Port Chester, NY :: 2016\-12\-30](https://open.spotify.com/album/51hoGQVue2tbf1mZ0RfTWf) | 17:49 |
 | 68 | [Climb to Safety](https://open.spotify.com/track/5rd5B3BbGkiXlyf49rGpHb) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [11/17/98 Calvin Theatre, Northampton, MA](https://open.spotify.com/album/02BIsMTC3oRpFYCVld4fk3) | 7:17 |
 | 69 | [Grey Street \- Live at John Paul Jones Arena, Charlottesville, VA, 11.19.10](https://open.spotify.com/track/0B5JeH08VM4bgik0WJwP9Z) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Live Trax Vol\. 28: John Paul Jones Arena](https://open.spotify.com/album/3vmwJoGCdbSWwnwBp2SMEQ) | 6:28 |
 | 70 | [Soul Sacrifice/ Don't Try This At Home](https://open.spotify.com/track/0Jbx2TXRJ3P5cTE6MsPUFS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Sacred Fire: Santana Live In South America](https://open.spotify.com/album/4hGCMXt4KeynuQlGPmhZc0) | 7:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |
 | 75 | [Less Than Five Miles Away \(Live From An Evening With Dawes\)](https://open.spotify.com/track/5LjlDL2G46kQrAcofckZgn) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Live](https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a) | 8:11 |
 
-Snapshot ID: `MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5`
+Snapshot ID: `MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx`

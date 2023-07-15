@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. George Rhoads & RENEE en portada.",
-  "num_followers": 55371,
+  "num_followers": 55367,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2FmNTMxOGYzZGFjMWM3YWJlODE2N2NiYzdkMmNjM2I2YTlhNzk5",
+  "snapshot_id": "MCw4OWI1YzA2Mzg0MzAxMDE3NDA3ZTJhZDI4ZGYzZTE1MWY4MjJmMTU5",
   "tracks": [
     {
       "added_at": "2023-07-07 06:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "La Vida Es Bella",
-        "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        },
-        {
-          "name": "Grupo Rocket",
-          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "La Vida Es Bella",
-      "url": "https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "El Rayo (En Vivo)",
         "url": "https://open.spotify.com/album/5UGAr42pCKgHawjD7ouV5y"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 226750,
       "name": "El Rayo - En Vivo",
       "url": "https://open.spotify.com/track/1dYqyMhfDHqM7bg86LaBuP"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "La Vida Es Bella",
+        "url": "https://open.spotify.com/album/3X2lM2vUzWvCb4OjFiFN4u"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
+        {
+          "name": "Grupo Rocket",
+          "url": "https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "La Vida Es Bella",
+      "url": "https://open.spotify.com/track/0E3tJRyG1FMEMFSovJEMUe"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Sencillito Y Serenito",
-        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 177044,
-      "name": "Sencillito Y Serenito",
-      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Sal",
         "url": "https://open.spotify.com/album/41oaDCSgz0dm75je22VRME"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 164364,
       "name": "Sal",
       "url": "https://open.spotify.com/track/7xRI4RckSJk8uJIJ8o6KlS"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Sencillito Y Serenito",
+        "url": "https://open.spotify.com/album/5w5cmlbVxvcOCBXscLhX2l"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 177044,
+      "name": "Sencillito Y Serenito",
+      "url": "https://open.spotify.com/track/5KbFSWl5CJ1CtV7Tq95xlp"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -979,18 +979,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Mi Dolor",
-        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
+        "name": "Vivir Sin Ti ( Version Acustica )",
+        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
       },
       "artists": [
         {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 218250,
-      "name": "Mi Dolor",
-      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
+      "duration_ms": 172813,
+      "name": "Vivir Sin Ti ( Version Acustica )",
+      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Vivir Sin Ti ( Version Acustica )",
-        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
       },
       "artists": [
         {
-          "name": "Ana Emilia",
-          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
         }
       ],
-      "duration_ms": 172813,
-      "name": "Vivir Sin Ti ( Version Acustica )",
-      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Dir\u00e9",
-        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Dir\u00e9",
-      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "EBS",
         "url": "https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
       },
       "artists": [
         {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 175080,
       "name": "El Coquito",
       "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+      },
+      "artists": [
+        {
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "TQM (feat. Grupo Doble G)",
-        "url": "https://open.spotify.com/album/0sObnYlV4voPzH97IYq2hw"
-      },
-      "artists": [
-        {
-          "name": "Los De La 21",
-          "url": "https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE"
-        },
-        {
-          "name": "Grupo Doble G",
-          "url": "https://open.spotify.com/artist/6Op5dYF7fOO3KPigdZqac0"
-        }
-      ],
-      "duration_ms": 162215,
-      "name": "TQM (feat. Grupo Doble G)",
-      "url": "https://open.spotify.com/track/7n2SBXYBxaWWrPXRCZQwVq"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "No Llega El Olvido (En Vivo)",
         "url": "https://open.spotify.com/album/1LW3Trn9wtBrtMi4rveSVY"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 228720,
       "name": "No Llega El Olvido - En Vivo",
       "url": "https://open.spotify.com/track/6G5qABmBsCynrpdqlWWgK3"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "TQM (feat. Grupo Doble G)",
+        "url": "https://open.spotify.com/album/0sObnYlV4voPzH97IYq2hw"
+      },
+      "artists": [
+        {
+          "name": "Los De La 21",
+          "url": "https://open.spotify.com/artist/1BGwlfPEZp2S4eBxOclgaE"
+        },
+        {
+          "name": "Grupo Doble G",
+          "url": "https://open.spotify.com/artist/6Op5dYF7fOO3KPigdZqac0"
+        }
+      ],
+      "duration_ms": 162215,
+      "name": "TQM (feat. Grupo Doble G)",
+      "url": "https://open.spotify.com/track/7n2SBXYBxaWWrPXRCZQwVq"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "No Me Rebajo",
-        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
-      },
-      "artists": [
-        {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "No Me Rebajo",
-      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 202197,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Casa en Llamas",
-        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Casa en Llamas",
-      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 209026,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Quiero Abrazarte Tanto",
-        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 211741,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/15IMqHJ9SDCObrchMwqUPY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 178150,
       "name": "Despu\u00e9s De Ella",
       "url": "https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Quiero Abrazarte Tanto",
+        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 211741,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
     },
     {
       "added_at": "2023-06-23 06:00:00",

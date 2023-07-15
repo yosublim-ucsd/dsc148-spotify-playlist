@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Luke Combs
+> Today's top country hits\. Cover: Dan + Shay
 
-655 songs - 1 day 11 hr 17 min
+657 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2020-10-23 | 2021-07-24 |
 | [Found It in You](https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9) | [Tiera](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It in You](https://open.spotify.com/album/3CWvXdSg4Q19ypUaOwB0SI) | 3:14 | 2021-01-27 | 2021-09-11 |
 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 | 2021-04-30 | 2022-01-15 |
+| [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 | 2023-07-14 |  |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-03-04 | 2022-05-07 |
 | [FYI](https://open.spotify.com/track/4WsoGxI9LCcAiB20WpUCoT) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [stages](https://open.spotify.com/album/4tbyDJAk0A6ZXGmIWcShB2) | 3:24 | 2019-08-24 | 2019-11-09 |
 | [Gaslighter](https://open.spotify.com/track/4BR0bp4qHX1lcBM2HtnoIm) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/0duNimI62kUS00BEgZ1gKV) | 3:23 | 2020-03-14 | 2020-05-02 |
@@ -269,7 +270,7 @@
 | [How They Remember You](https://open.spotify.com/track/3qwPYg8xTWPafQD3YUNaTU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:31 | 2021-01-23 | 2021-02-20 |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-02 | 2023-05-20 |
 | [Hung Up On You](https://open.spotify.com/track/7uokjCoYFxSdgcq53GNWhJ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Hung Up on You](https://open.spotify.com/album/6uLznR1dDQtiPu7QRYDgOK) | 3:21 | 2020-04-18 | 2020-06-21 |
-| [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 | 2023-03-31 |  |
+| [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 | 2023-03-31 | 2023-07-15 |
 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 | 2021-11-13 | 2022-02-05 |
 | [I Bet You Wanna Know](https://open.spotify.com/track/0mOJz5X44w1RScid7BZ4Mq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [I Bet You Wanna Know](https://open.spotify.com/album/6d6FyAZ8g1W6TdyF6bWMUl) | 2:37 | 2021-02-14 | 2021-02-27 |
 | [I Called Mama](https://open.spotify.com/track/3YuvAPidBWldqjagOryo40) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [I Called Mama](https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA) | 3:31 | 2020-06-14 | 2020-10-18 |
@@ -289,7 +290,7 @@
 | [I Was On a Boat That Day](https://open.spotify.com/track/7u6kAP26NFU2rwNKjFUpI8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Time, Tequila & Therapy](https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x) | 2:58 | 2021-10-09 | 2021-11-06 |
 | [I Wish Grandpas Never Died](https://open.spotify.com/track/7Dxes6VnfbZYV0S2QTnVuT) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 4:10 | 2020-02-29 | 2020-03-28 |
 | [I Wonder](https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Wonder](https://open.spotify.com/album/1wGuExpsgmoymARmzDdnfy) | 3:26 | 2022-11-04 | 2023-01-28 |
-| [I'll Be Lovin' You](https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:09 | 2023-03-03 |  |
+| [I'll Be Lovin' You](https://open.spotify.com/track/1io22Thmgw4SvhVBNawJD5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:09 | 2023-03-03 | 2023-07-15 |
 | [I'll Be The One](https://open.spotify.com/track/4g02Ty2n2yAEiRidGVNgmG) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx) | [I'll Be The One](https://open.spotify.com/album/4G47IFDXKyHDv5wTVPCtEC) | 3:21 | 2019-08-09 | 2019-11-16 |
 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 | 2021-07-24 | 2021-11-13 |
 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 | 2022-09-16 | 2023-07-08 |
@@ -478,6 +479,7 @@
 | [running back](https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [running back / dirt on ‘em](https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt) | 3:07 | 2023-03-17 | 2023-06-17 |
 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 | 2023-01-12 | 2023-02-18 |
 | [Same Boat](https://open.spotify.com/track/2VmccNZz4zFmlcXstY8a2D) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Same Boat](https://open.spotify.com/album/3R96aUhMwOqTpQ1EbQvQUl) | 3:10 | 2021-08-07 | 2021-11-27 |
+| [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-07-14 |  |
 | [Seaside](https://open.spotify.com/track/6uLhIbdIXQ4DGeOA8qFesw) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Seaside](https://open.spotify.com/album/4YD0A6DxqXubekaRwZRpl5) | 3:00 | 2020-07-19 | 2020-11-22 |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/24uZaMwLQ0G8ZQfTt7f64B) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6\-Pack](https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma) | 3:06 | 2020-06-14 | 2020-06-21 |
 | [Second Guessing \- From Songland](https://open.spotify.com/track/3TDJO3Vb1N4MXjYXYuAfAC) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Second Guessing \(From Songland\)](https://open.spotify.com/album/4Uh3V45HNJKNQdYsyW4Xci) | 3:06 | 2020-05-20 | 2020-06-14 |

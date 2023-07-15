@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-266 songs - 13 hr 19 min
+268 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Maya’s Adoption Party](https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH) | [Starr Parodi](https://open.spotify.com/artist/4wMTcGiDCOJ5XkpbeyMU3m), [Jeff Eden Fair](https://open.spotify.com/artist/05BkDv6lrBLduTzqJABTqB) | [The Storied Life of A.J\. Fikry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ewjDDOWk0vXaUiJjIkjun) | 2:21 | 2022-12-09 |  |
 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 | 2021-12-20 | 2022-07-09 |
 | [Mo Ergaste Forn](https://open.spotify.com/track/6PRHXNZzRrsP5RppsMXTkq) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:31 | 2023-05-05 |  |
+| [Monarch Butterfly](https://open.spotify.com/track/0MoNYYWAsCs5DjJrDvql9h) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3) | [A Year On Planet Earth \(Original Television Soundtrack\)](https://open.spotify.com/album/0LUY6DKJaFhoL0coG7rZ3k) | 5:08 | 2023-07-14 |  |
 | [Moon Knight](https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:10 | 2022-07-22 |  |
 | [Moon Knight \- From "Moon Knight"](https://open.spotify.com/track/3IvbyVYgQEKqvwQhquFKNn) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(From "Moon Knight"\)](https://open.spotify.com/album/3aDLlTH3zT60e9pfJwtzlB) | 2:08 | 2022-04-08 | 2022-07-29 |
 | [Mother Daughter Theme \- Solo Piano Version](https://open.spotify.com/track/7qMxlJ1K6Px8awhdYV1lny) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 2:40 | 2023-05-05 |  |
@@ -226,6 +227,7 @@
 | [The Mole](https://open.spotify.com/track/6RFRcwWeLBUTuUG3YsHmC5) | [Dave Rowntree](https://open.spotify.com/artist/6ngpbJQLEeHixst1LymC8d), [Ian Arber](https://open.spotify.com/artist/5RvFRZpYvnzsKpOZM9mkKj) | [The Capture \(Original Television Soundtrack\)](https://open.spotify.com/album/26FTC6C2eXcqmPMPyxmE1V) | 3:48 | 2021-12-20 | 2022-07-29 |
 | [The Nevers](https://open.spotify.com/track/5FtJxZboEQDigtTbyMG2A2) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [The Nevers: Season 1 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/0hwWfrFJ1uuYAjSXx1yWcq) | 1:39 | 2021-12-20 |  |
 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 | 2021-12-20 | 2022-07-09 |
+| [The Origin of Belief](https://open.spotify.com/track/2OGX1pafcLlcqI0fmVCEjr) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Unknown: Cave Of Bones \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/40UqG0iP6C6U7bAYnebYtn) | 4:00 | 2023-07-14 |  |
 | [The Outfit](https://open.spotify.com/track/2JiHkNF8d6JBqmxy54WYQw) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Outfit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BW9vSuV4tHPcmu5A3G2Rw) | 4:36 | 2022-03-18 |  |
 | [The Pool](https://open.spotify.com/track/1VpnWzCSImeP7cU1p9prFs) | [Raphaelle Thibaut](https://open.spotify.com/artist/2FESgBAZRsmogahS57gCEw) | [Introducing, Selma Blair \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0RjlzqoO4f1Z2VDmwa7JuC) | 3:18 | 2021-12-20 | 2023-05-06 |
 | [The Prince That Was Promised](https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 4:34 | 2022-10-07 |  |

@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: Bryan Martin
 
-272 songs - 15 hr 43 min
+274 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Over Me By Now](https://open.spotify.com/track/2KLAl3FGKwh0jxbxR7jYWI) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Manchester](https://open.spotify.com/album/4u7tys2Fn3FDS5gVUJEJWB) | 2:41 | 2023-06-02 |  |
 | [Over Me By Now](https://open.spotify.com/track/3ZPkLItrom6ntZ3ZKWMFIr) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Over Me By Now](https://open.spotify.com/album/35E0ok8zLcSoYhUGQG8EeW) | 2:41 | 2022-08-26 | 2022-10-25 |
 | [Overrated](https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Overrated](https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm) | 3:38 | 2022-09-30 | 2023-04-12 |
+| [Pain Killer](https://open.spotify.com/track/1Kmx22eXsWnlggH0Aj6wsa) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pain Killer](https://open.spotify.com/album/1lSlga0mS2Ejwon1d6MmuQ) | 2:47 | 2023-07-14 |  |
 | [Payback \(feat\. The Cadillac Three\)](https://open.spotify.com/track/0MDFaaKSyNrt4aZtJvqirX) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:27 | 2021-11-01 | 2023-01-21 |
 | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/track/5wuOWOnmXlH5mc3wTRfsx7) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Pickin’ Up Girls \(feat\. The Cadillac Three\)](https://open.spotify.com/album/5fdFTuBT5KV1JzXPtweiBx) | 3:21 | 2021-11-01 | 2023-01-21 |
 | [Places To Run](https://open.spotify.com/track/4XXXLj4SKynrgyIEwibD9x) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [Places To Run](https://open.spotify.com/album/7cA953EqbwfrTJ3DYy5Zc6) | 2:58 | 2021-11-01 | 2022-07-28 |
@@ -197,7 +198,7 @@
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/04YKO5t4AZrsqKfGhhUb2j) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 3:06 | 2022-10-01 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2022-07-22 | 2022-10-03 |
 | [Right or Wrong](https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [For the Birds](https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx) | 4:14 | 2022-01-28 | 2023-01-21 |
-| [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2023-01-02 |  |
+| [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X) | 3:53 | 2023-01-02 | 2023-07-15 |
 | [Rose Gold](https://open.spotify.com/track/4nNmIoO7YIm8EuoY8pUrXE) | [Read Southall Band](https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl) | [Rose Gold](https://open.spotify.com/album/7hC8aKFF9Fc72zsjmFILxh) | 5:29 | 2021-11-01 | 2022-07-29 |
 | [Same Damn Kid](https://open.spotify.com/track/0Ckrx7eY7gK1S0FLaxLRjW) | [Dax Perrier](https://open.spotify.com/artist/30nXzFhj1YZvHzj4GCRhsv) | [Same Damn Kid](https://open.spotify.com/album/0W62sukAxREi5Dnif6C2Xt) | 3:39 | 2023-06-02 |  |
 | [She Says](https://open.spotify.com/track/1gMN8njDgOlHq8xtGVKQXK) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 4:06 | 2023-06-23 |  |
@@ -222,7 +223,7 @@
 | [Sunday Drunk](https://open.spotify.com/track/47AbGEgg7B33psQDmIygKz) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Sunday Drunk](https://open.spotify.com/album/4cmQ0g8KAGhVOMLB03r2dK) | 4:31 | 2022-07-22 | 2023-03-20 |
 | [Sundress](https://open.spotify.com/track/2YoecwfC0hko9DhQyezZVK) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:30 | 2022-07-22 | 2023-01-23 |
 | [Sundress](https://open.spotify.com/track/2rrxStmULcrV7tx1TLFCx0) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Songs from 'Backslider'](https://open.spotify.com/album/0ayjSku5dGTl6a1ihuTEJv) | 3:30 | 2021-11-01 | 2022-07-29 |
-| [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 | 2021-11-01 |  |
+| [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 | 2021-11-01 | 2023-07-15 |
 | [Tattoos on This Town](https://open.spotify.com/track/2SEsRxNSXidnMOZoTEzX1k) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 3:22 | 2023-01-20 |  |
 | [Tell the People](https://open.spotify.com/track/5gc0DRaKq0ijViRdG5juAS) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:38 | 2021-11-01 | 2022-07-29 |
 | [That's The Kinda Place](https://open.spotify.com/track/4lkxrngFnPkp54beg466xV) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [That's The Kinda Place](https://open.spotify.com/album/6QFCmYV8X3bclMyINhimCL) | 3:39 | 2021-11-01 | 2022-07-20 |
@@ -254,6 +255,7 @@
 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 | 2022-03-04 | 2022-07-25 |
 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 | 2023-01-13 |  |
 | [Wastin' gas](https://open.spotify.com/track/42y5QLhmZUTAIvjxj9j5Lu) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Kids With Cars](https://open.spotify.com/album/1XzJfdGdA7Ta2mgetTQhRy) | 3:04 | 2023-01-20 | 2023-03-10 |
+| [Way I'm Living](https://open.spotify.com/track/3rgFJUx3Oz7Siwgts4Giwz) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Way I'm Living](https://open.spotify.com/album/3HiGwG7lkGc2CyEXjCPOQQ) | 2:16 | 2023-07-14 |  |
 | [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2022-12-09 | 2023-05-19 |
 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-12 |  |
 | [Welcome to the South](https://open.spotify.com/track/3fgVZPySJ6fbCIm4r2PitX) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Welcome to the South](https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA) | 3:08 | 2021-11-01 | 2022-09-03 |

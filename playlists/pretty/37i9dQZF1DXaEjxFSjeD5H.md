@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 
 > Nada que un buen danzón no pueda curar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,601 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,606 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 29 | [Acayucan](https://open.spotify.com/track/1J30Fv6OF4KDDYIfhHUcua) | [Orquesta de Mexico de Pedro Mendoza](https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp) | [Danzones Y Cha Cha Cha](https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d) | 5:13 |
 | 30 | [El 13\-20](https://open.spotify.com/track/1ViXZ4USiaIIAsk5RgR9sw) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 3:02 |
 | 31 | [Nana](https://open.spotify.com/track/7mW06F9Qz6xWkqSOgTwlWT) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 4:25 |
-| 32 | [Aires del Sur](https://open.spotify.com/track/2BFWTOxN5GpbaLb9lH4zkp) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 3:58 |
-| 33 | [Amor Perdido](https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 4:35 |
+| 32 | [Amor Perdido](https://open.spotify.com/track/2gSZ9m946bHN9NeHITL5rf) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon, Vol\. 1](https://open.spotify.com/album/0E0QZ36nhXb2vlD5WwYwPM) | 4:35 |
+| 33 | [Aires del Sur](https://open.spotify.com/track/2BFWTOxN5GpbaLb9lH4zkp) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [Auténtico Danzón](https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL) | 3:58 |
 | 34 | [Cerezo Rosa](https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD) | [Int\. Pérez Prado](https://open.spotify.com/artist/705bmH4mbFipocBj4Cc3U3) | [Salón México Danzón](https://open.spotify.com/album/4DBbnXxLEWfCJuRjF4BayU) | 2:38 |
 | 35 | [Teléfono a Larga Distancia](https://open.spotify.com/track/1i3TNrkFQvNbLkIJaoPGr2) | [Acerina Y Su Danzonera](https://open.spotify.com/artist/3WsvaFzZ9DOpXr6YcrFkTh) | [Mis Danzones Favoritos](https://open.spotify.com/album/2z7IE1mfHDEqWcRTlTKgU8) | 3:09 |
 | 36 | [Nereidas](https://open.spotify.com/track/1K8dbgWWPoEdB6OP5bfHt0) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Los Reyes del Danzón](https://open.spotify.com/album/4gcpaZ5fvmHylo6d019Nk9) | 4:10 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 64 | [Agustín Lara](https://open.spotify.com/track/3h7gEY56y4nddwrsqqHoPi) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:36 |
 | 65 | [El Coquero](https://open.spotify.com/track/5HvxasN4SgIqYSIp37YYOl) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 5:02 |
 | 66 | [Los Timbales de Acerina](https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 3:00 |
-| 67 | [Salón Casa Blanca](https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:49 |
-| 68 | [Kid Azteca](https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 4:33 |
-| 69 | [La Barca](https://open.spotify.com/track/1izJYZ9SVsZfJrE3bqbVp7) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 3:12 |
+| 67 | [Kid Azteca](https://open.spotify.com/track/0gjzQGng626FCeJu9xFfrq) | [Los Mejores Danzones](https://open.spotify.com/artist/1pbqvBcJKRDg0kBwBjtb3s) | [Danzones Salon Mexico](https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ) | 4:33 |
+| 68 | [La Barca](https://open.spotify.com/track/1izJYZ9SVsZfJrE3bqbVp7) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 3:12 |
+| 69 | [Salón Casa Blanca](https://open.spotify.com/track/5YIo2jiYLvwttvGr63ZH3A) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 3:49 |
 | 70 | [Humo en los Ojos](https://open.spotify.com/track/5ONyXiCDuwd1KVDUYUffuN) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 4:02 |
 | 71 | [Dos Pastillas de Tequila](https://open.spotify.com/track/2voUgUHqWOix5OqdzGmy2q) | [La Danzonera Joven De México Del "Chamaco Aguilar"](https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W) | [La Danzonera Joven de Mexico del Chamaco Aguilar, Vol\. 2](https://open.spotify.com/album/60Naej3w02R25knHK4eZwr) | 3:00 |
 | 72 | [Josefina](https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD), [Vicente Labastida Velasco](https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C) | [El Embrujo del Danzón](https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEjxFSjeD5H.md) - [plain]
 | 74 | [Dónde Estás Terrón](https://open.spotify.com/track/0uQFoFTqVAsZbB85s9xUbv) | [Danzonera Veracruz](https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD) | [La Leyenda Viviente del Danzón](https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD) | 5:07 |
 | 75 | [Elodia](https://open.spotify.com/track/17YaVYvTFsCwRbs4IokrAw) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Danzones a la Manera del Campeon Volumen 2](https://open.spotify.com/album/2hWEiNYl4fwtvULhcVZnvE) | 3:35 |
 
-Snapshot ID: `MCxmMDgzZGI0NWZiNjNkZjIzZjUzZDY4OTIwNGUxN2I4ODhlYjM4MDdj`
+Snapshot ID: `MCw2NGNhMDY1ZGM5NWUyM2YwZGRmN2QyNjRiNTMzNDk1NmI0YzkxZjkw`

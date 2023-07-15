@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: MANDORLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,999 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,996 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 16 | [Ridicolo](https://open.spotify.com/track/64OHcMEI1bgf5T0znQd1uq) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw) | [Ridicolo](https://open.spotify.com/album/4FM5ysDiqTdM5ziU4oeFWj) | 2:41 |
 | 17 | [Sad](https://open.spotify.com/track/08aoaYZTHhjUrB8sfDjk75) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Sad](https://open.spotify.com/album/629H7nL8k2fc0etekuLo27) | 2:58 |
 | 18 | [Ci Taglia Fuori \(feat\. Etto\)](https://open.spotify.com/track/6Ajw24K2OsznxL8KS7xgWk) | [3 di Fiori](https://open.spotify.com/artist/42BlcLDQwItNbFvWrMf8lT), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [Etto](https://open.spotify.com/artist/1MYtROZnFeQPvmuQv7hKKK) | [Ci Taglia Fuori \(feat\. Etto\)](https://open.spotify.com/album/5bAhKagS95mEEdwdm4fs4w) | 2:53 |
-| 19 | [SEMIMENTI](https://open.spotify.com/track/4K6aRIb9AnPWGyvZeGAY1E) | [Francesco Savini](https://open.spotify.com/artist/1CmozCJgxvZvwClNMx48cc) | [SEMIMENTI](https://open.spotify.com/album/0qLLBJDZK03y0W4RvlAuix) | 3:02 |
+| 19 | [SEMIMENTI](https://open.spotify.com/track/4K6aRIb9AnPWGyvZeGAY1E) | [Francesco Savini](https://open.spotify.com/artist/2gJTQtqoLBEtaCZhbdPI63) | [SEMIMENTI](https://open.spotify.com/album/0qLLBJDZK03y0W4RvlAuix) | 3:02 |
 | 20 | [Stand by](https://open.spotify.com/track/4RiCyzImlul2OVb7nWWNQ3) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Stand by](https://open.spotify.com/album/29S37owZPBfL0m5qjcCM7H) | 3:05 |
 | 21 | [Tardi](https://open.spotify.com/track/6Mg0jN7cUV4yAn7L56I5Hy) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Tardi](https://open.spotify.com/album/1lAORflTsEeeGTY4tBgLYw) | 3:10 |
 | 22 | [MILANO](https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [MILANO](https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4) | 2:41 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [ASTRI](https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [ASTRI](https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9) | 3:26 |
 | 65 | [Semafori arancioni](https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB) | [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Semafori arancioni](https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R) | 2:34 |
 
-Snapshot ID: `MCwyNzgyOWIyYTMxMGEzOTlkZmEyOGUwZGE0MjBkNDYzMjFkNTY5ZGE0`
+Snapshot ID: `MCxjNjZhZjgxZWVmNDk3MWViYTMyOGI0M2RhMmFmNjRjMmViZDdiY2Q5`

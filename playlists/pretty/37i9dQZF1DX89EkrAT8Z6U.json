@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 520271,
+  "num_followers": 520814,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTgwMzRiZDMwYzY5NmVlNmZiYzRhZDJkZWY2NmQ3OWUwY2FmNjQ2",
+  "snapshot_id": "MCwyMjZmOTBkOTllODZhMzJkZGQ1MjdlOTk3ZmExMzUzMDA0NzEwNGZj",
   "tracks": [
     {
       "added_at": "2023-07-13 15:18:57",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "The Rumbling",
-        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 220799,
-      "name": "The Rumbling",
-      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 252340,
       "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
       "url": "https://open.spotify.com/track/5xoar7MhzRUVqJvGpAtxfP"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "The Law of Recognition",
-        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
-      },
-      "artists": [
-        {
-          "name": "KYSLINGO",
-          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
-        }
-      ],
-      "duration_ms": 129142,
-      "name": "The Law of Recognition",
-      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
         "url": "https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 251933,
       "name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
       "url": "https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "The Law of Recognition",
+        "url": "https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB"
+      },
+      "artists": [
+        {
+          "name": "KYSLINGO",
+          "url": "https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO"
+        }
+      ],
+      "duration_ms": 129142,
+      "name": "The Law of Recognition",
+      "url": "https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o"
     },
     {
       "added_at": "2023-07-13 15:18:57",

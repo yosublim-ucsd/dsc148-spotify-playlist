@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 144904,
+  "num_followers": 144963,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzc2NWM2OTRmY2Y3OWMzZTI4ZWVkMDA2OThhOTJjODM1MTE1MDZi",
+  "snapshot_id": "MCxiYzEwNjE1YTg4MzgzNzRmNTcwOTQ1N2MyZmI5OGRiZTkzYmVkOWJm",
   "tracks": [
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "\u5e74\u306e\u702c\u306b",
-        "url": "https://open.spotify.com/album/7qeOdN9cJZTMI8QVuq8jD2"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 175941,
-      "name": "\u5e74\u306e\u702c\u306b",
-      "url": "https://open.spotify.com/track/2EYuPrYNZTlr3qz1NNUq58"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "NOTE",
         "url": "https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 234936,
       "name": "\u3053\u306e\u307e\u307e\u5922\u3067 feat. AAAMYYY",
       "url": "https://open.spotify.com/track/7mYt61pj41CSwSiOovNzk0"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "\u5e74\u306e\u702c\u306b",
+        "url": "https://open.spotify.com/album/7qeOdN9cJZTMI8QVuq8jD2"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 175941,
+      "name": "\u5e74\u306e\u702c\u306b",
+      "url": "https://open.spotify.com/track/2EYuPrYNZTlr3qz1NNUq58"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
+        "name": "The Lover",
+        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "A.G.O",
+          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "U.F.O",
+      "url": "https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
         "name": "New Romantic (feat. Maki Nomiya)",
         "url": "https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
-        "name": "The Lover",
-        "url": "https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc"
-      },
-      "artists": [
-        {
-          "name": "haruno",
-          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
-        },
-        {
-          "name": "A.G.O",
-          "url": "https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK"
-        }
-      ],
-      "duration_ms": 230346,
-      "name": "U.F.O",
-      "url": "https://open.spotify.com/track/19EJa9xsAVtkpsTnynNQpN"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
+        "name": "RA MU - Night Tempo presents The Showa Groove",
+        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "RA MU",
+          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
+        }
+      ],
+      "duration_ms": 302721,
+      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
       },
@@ -1395,6 +1415,22 @@
       "duration_ms": 313561,
       "name": "Falling",
       "url": "https://open.spotify.com/track/171kFwAAFjLusKsyR2p1kp"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "PRISMATICS",
+        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1419,22 +1455,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "PRISMATICS",
-        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ"
       },
@@ -1455,26 +1475,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "RA MU - Night Tempo presents The Showa Groove",
-        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "RA MU",
-          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
-        }
-      ],
-      "duration_ms": 302721,
-      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
-      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "Amber Bare Skin",
-      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "PLASMA",
         "url": "https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 376533,
       "name": "Drive\u2019n The Rain",
       "url": "https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "Amber Bare Skin",
+      "url": "https://open.spotify.com/track/2lvZHA4ic46LLgBJjEClD1"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
         "name": "TWO",
         "url": "https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 274250,
       "name": "Smile in your face",
       "url": "https://open.spotify.com/track/4G8VYP3HTnU7fWLoTF77VI"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "added_at": "2023-07-11 15:00:00",

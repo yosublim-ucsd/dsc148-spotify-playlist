@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music each and every Friday.   Cover:  <a href=\"https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV?si=KMXNmzYmTsKL1pC_ULIzQA\">PARTYNEXTDOOR</a>",
+  "description": "New music each and every Friday.   Cover:  <a href=\"https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t?si=a06bc68c84284445\">Pink Sweat$</a>",
   "name": "This is Frequency",
   "tracks": [
     {
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 117794,
       "name": "Ass Kickin'",
       "url": "https://open.spotify.com/track/5hq7feH89FieadyB13oo5p"
@@ -3976,6 +3976,24 @@
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
+    },
+    {
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
     },
     {
       "album": {
@@ -5536,10 +5554,28 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 176640,
       "name": "Bone",
       "url": "https://open.spotify.com/track/4wYs9MjgRTArLXJCEqN87k"
+    },
+    {
+      "album": {
+        "name": "Bone",
+        "url": "https://open.spotify.com/album/5JmEx8H3d7ExcGBdMJkF8h"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00cea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "Bone",
+      "url": "https://open.spotify.com/track/1frBbihDVWHwovuKKoDDoV"
     },
     {
       "album": {
@@ -7922,6 +7958,28 @@
       "duration_ms": 189141,
       "name": "Chikita",
       "url": "https://open.spotify.com/track/6Uo1AcQaWeUfsO6r1Jv0kI"
+    },
+    {
+      "album": {
+        "name": "child of GOD",
+        "url": "https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Remble",
+          "url": "https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174248,
+      "name": "child of GOD",
+      "url": "https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt"
     },
     {
       "album": {
@@ -15450,7 +15508,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 152093,
       "name": "fund$",
       "url": "https://open.spotify.com/track/2zsWUr91K3TIdnzWb0XOmI"
@@ -17168,6 +17226,24 @@
       "duration_ms": 206174,
       "name": "Guess What (feat. SSGKobe)",
       "url": "https://open.spotify.com/track/0X1FYduyRRSstP6CEm3PzI"
+    },
+    {
+      "album": {
+        "name": "Guitar",
+        "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Guitar",
+      "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
     },
     {
       "album": {
@@ -20541,6 +20617,24 @@
     },
     {
       "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/7qD8nZcGU5V98FU3LSSbHU"
       },
@@ -20958,6 +21052,28 @@
       "duration_ms": 140572,
       "name": "Internet Trolls",
       "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "album": {
+        "name": "INTOXYCATED (feat. Dave)",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "INTOXYCATED (feat. Dave)",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
       "album": {
@@ -21904,7 +22020,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 171474,
       "name": "Keep It Cute",
       "url": "https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs"
@@ -25761,6 +25877,24 @@
     },
     {
       "album": {
+        "name": "Meteorite",
+        "url": "https://open.spotify.com/album/5v1rddECek62z9okL8dbNs"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93683,
+      "name": "Meteorite",
+      "url": "https://open.spotify.com/track/6QV5XHfMsRk5KaXSasT7am"
+    },
+    {
+      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -25874,6 +26008,28 @@
       "duration_ms": 111627,
       "name": "midwest",
       "url": "https://open.spotify.com/track/1PaXxkVPwqSzg765s8XAsu"
+    },
+    {
+      "album": {
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "Militerian (feat. Naira Marley)",
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
     },
     {
       "album": {
@@ -28577,6 +28733,28 @@
     },
     {
       "album": {
+        "name": "Nothing Compares To You (Feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Nothing Compares To You (Feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
+    },
+    {
+      "album": {
         "name": "Nothing Even Matters",
         "url": "https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0"
       },
@@ -30768,7 +30946,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
@@ -32228,7 +32406,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 151142,
       "name": "Project Walls (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds"
@@ -34186,7 +34364,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184534,
       "name": "Run Through Fire",
       "url": "https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9"
@@ -36256,7 +36434,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 157125,
       "name": "SkeeYee",
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
@@ -38885,6 +39063,28 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144344,
+      "name": "Stressed (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "album": {
         "name": "Strike (Holster)",
         "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
       },
@@ -39264,6 +39464,24 @@
       "duration_ms": 206250,
       "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
       "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
+    },
+    {
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/6XZFgfqK3lbhLTBBwh8nRx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196489,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/2TpKV2CZKaGtibEVxMgvOd"
     },
     {
       "album": {
@@ -45010,7 +45228,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
@@ -45820,7 +46038,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 131142,
       "name": "YE",
       "url": "https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW"
@@ -46012,7 +46230,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Gera MX",
+  "description": "Descubre los nuevos \u00e1lbumes del a\u00f1o. Hit shuffle for a mixed listening experience. Cover: Maikel Delacalle",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 213930,
       "name": "Amor Sof\u00e1",
       "url": "https://open.spotify.com/track/04pBwxMqdYarOJz7SQqEh8"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 196095,
       "name": "Bailando a Escondidas",
       "url": "https://open.spotify.com/track/1CLLAwANhfdRhAsC3lQdSx"
@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Camino a Neptuno",
+      "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
+    },
+    {
+      "album": {
         "name": "EL FAVORITO DE LAS NENAS",
         "url": "https://open.spotify.com/album/6xkhGbgMC7zouP3ofEbV7S"
       },
@@ -1388,6 +1406,28 @@
       "duration_ms": 230838,
       "name": "Como Amigos",
       "url": "https://open.spotify.com/track/3ymNNjeQsobL39vXi6KmK6"
+    },
+    {
+      "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "WE$T DUBAI",
+          "url": "https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Como Era Antes",
+      "url": "https://open.spotify.com/track/6zNYKyc4fCXpa1afWupnSE"
     },
     {
       "album": {
@@ -1708,6 +1748,24 @@
       "duration_ms": 169802,
       "name": "cosquillas",
       "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
+    },
+    {
+      "album": {
+        "name": "COSTA RICA",
+        "url": "https://open.spotify.com/album/4WOT7L4Qo9w5f7xtkMmW0L"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226534,
+      "name": "COSTA RICA",
+      "url": "https://open.spotify.com/track/5tc3E3jKcw419qe3HH9gaB"
     },
     {
       "album": {
@@ -2293,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "MEZCALITO",
+        "url": "https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175748,
+      "name": "DOS PRIMAVERAS",
+      "url": "https://open.spotify.com/track/15WUEbZiVlMktscw1mse4X"
+    },
+    {
+      "album": {
         "name": "Reggaet\u00f3n Sex",
         "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
       },
@@ -2570,6 +2646,28 @@
       "duration_ms": 178306,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/09cnFicu5YNYHGyLdZV71F"
+    },
+    {
+      "album": {
+        "name": "LUNA AZUL EN TOKYO",
+        "url": "https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        },
+        {
+          "name": "Crismo La Vision",
+          "url": "https://open.spotify.com/artist/0ZkkpiRzMu897lFRSUsdl3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156104,
+      "name": "EL MAR",
+      "url": "https://open.spotify.com/track/4vMkJrF4sWijILPyBYsMrJ"
     },
     {
       "album": {
@@ -2932,7 +3030,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 251000,
       "name": "Finding Myself Leads Me To You",
       "url": "https://open.spotify.com/track/0Qj01MtGREYzDAK7WMDJcs"
@@ -3352,7 +3450,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 255013,
       "name": "In Between Thoughts\u2026A New World",
       "url": "https://open.spotify.com/track/3mLBXESj9x8BYd1X6GrsBr"
@@ -3504,6 +3602,24 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "album": {
+        "name": "LUNA AZUL EN TOKYO",
+        "url": "https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120568,
+      "name": "KYLIE",
+      "url": "https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ"
     },
     {
       "album": {
@@ -4307,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "LUNA AZUL EN TOKYO",
+        "url": "https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR"
+      },
+      "artists": [
+        {
+          "name": "Jotaerre",
+          "url": "https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157423,
+      "name": "LUNA AZUL EN TOKYO",
+      "url": "https://open.spotify.com/track/08vNqL9YzqkeCC6O2mbytK"
+    },
+    {
+      "album": {
         "name": "FOREVER KING",
         "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
       },
@@ -4569,6 +4703,28 @@
     },
     {
       "album": {
+        "name": "MEZCALITO",
+        "url": "https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198196,
+      "name": "MENEITO",
+      "url": "https://open.spotify.com/track/4xXhSiRr4K81p9QcaS10ZK"
+    },
+    {
+      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -4602,7 +4758,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 238915,
       "name": "Mereng\u00f3n",
       "url": "https://open.spotify.com/track/3LZJoLaRpja9mt7A1GQLJs"
@@ -4892,7 +5048,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 188693,
       "name": "M\u00edrame A Los Ojos",
       "url": "https://open.spotify.com/track/4WAXcK0n5Thc1DD2f3pv9O"
@@ -7293,6 +7449,24 @@
     },
     {
       "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182967,
+      "name": "TEIDE",
+      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
+    },
+    {
+      "album": {
         "name": "i love you but this is goodbye",
         "url": "https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15"
       },
@@ -7514,7 +7688,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202680,
       "name": "True Nature",
       "url": "https://open.spotify.com/track/7u4CFjfUADO2LTRcFdEimj"
@@ -7904,7 +8078,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 202538,
       "name": "Vencimiento",
       "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"

@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-297 songs - 17 hr 17 min
+298 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Morning Light](https://open.spotify.com/track/3m3qjAfKtCJTl6vKBPyquU) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Morning Light](https://open.spotify.com/album/5rDo1Yws2qDy7lCRQJLjkW) | 3:01 | 2023-04-21 |  |
 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/1DxJG8xDWh8T83w6IR8YRx) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/11baJFTYO58XviE7cQrvZO) | 3:44 | 2020-10-30 | 2022-07-29 |
 | [Mr Magpie \- Jamie Berry Remix](https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP) | [The Electric Swing Circus](https://open.spotify.com/artist/3MUnAJMKx97SfTZYNB2iXY), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Electric Swing Circus \- Remixed Vol\. 1](https://open.spotify.com/album/4u9XMOUCEU0NG39YcCnql0) | 3:44 | 2020-10-30 |  |
+| [Mr Sunshine](https://open.spotify.com/track/0veV0DEgDnpup5VRFF7O8n) | [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Tom ESC](https://open.spotify.com/artist/5vGFSHIJP1qybpvmu06F2i) | [Mr Sunshine](https://open.spotify.com/album/3RkKhme9VyOraK1D5cLipg) | 2:29 | 2023-07-14 |  |
 | [Murder in the Moonlight](https://open.spotify.com/track/7103gYEJR2fAKA6W5aUosb) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Sam Berry](https://open.spotify.com/artist/2vXekN8TR5Y2M6WHIjSM5i) | [Prohibition](https://open.spotify.com/album/6zxN2ZwKEIVxzKlp0m4m2V) | 3:47 | 2022-10-12 | 2022-11-08 |
 | [Music Has the Power \- Radio Edit](https://open.spotify.com/track/5NwWGVjLvbxJZrJLhcRqm1) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Music Has the Power \(Radio Edit\)](https://open.spotify.com/album/5RpBtAjrWqTOKPoHbqWC9z) | 3:26 | 2020-10-30 | 2022-07-29 |
 | [My 20s Woman](https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [My 20s Woman](https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A) | 3:06 | 2020-10-30 | 2023-03-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Mahmundi e mais mulheres para serem ouvidas no volume m\u00e1ximo! ",
-  "num_followers": 149315,
+  "num_followers": 149309,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWQzYzc1NmE4OGJkZGZjYTkxYmVkNmY3NGI4ZTdlYjEwODViZGVk",
+  "snapshot_id": "MCwwNWY3ZGQwYjc4ZjE0ODJjMjBlZjYxNmZhNWJjMTQyMDc5ZDZkNjli",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "N\u00e3o Quero - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7IPWbcFbB6bHNo43xYBa48"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 146813,
-      "name": "N\u00e3o Quero - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/09I1Tnz4lEGYHuLwXdUCu0"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Letrux como Mulher Girafa",
         "url": "https://open.spotify.com/album/5GT6PsXU6NutW6d197R0vU"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 272000,
       "name": "As feras, essas queridas",
       "url": "https://open.spotify.com/track/1o3XikmVtisQMUe1ASIdRx"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "N\u00e3o Quero - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7IPWbcFbB6bHNo43xYBa48"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 146813,
+      "name": "N\u00e3o Quero - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/09I1Tnz4lEGYHuLwXdUCu0"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Ovelha Negra (Ac\u00fastico MTV)",
-        "url": "https://open.spotify.com/album/0B6gdwQjkzQu48ZZhOUdoS"
+        "name": "eu posso ser quem eu quiser",
+        "url": "https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ"
       },
       "artists": [
         {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
         }
       ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/4clkTFycF1E07dwJWabbBF"
+      "duration_ms": 227931,
+      "name": "eu posso ser quem eu quiser",
+      "url": "https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -559,18 +555,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "eu posso ser quem eu quiser",
-        "url": "https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ"
+        "name": "Ovelha Negra (Ac\u00fastico MTV)",
+        "url": "https://open.spotify.com/album/0B6gdwQjkzQu48ZZhOUdoS"
       },
       "artists": [
         {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 227931,
-      "name": "eu posso ser quem eu quiser",
-      "url": "https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs"
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/4clkTFycF1E07dwJWabbBF"
     },
     {
       "added_at": "2023-07-05 03:00:00",

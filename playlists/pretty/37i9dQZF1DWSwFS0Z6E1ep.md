@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,475 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,607 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 43 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 |
 | 44 | [At The Hop](https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rockin' With Danny And The Juniors \(Expanded Edition\)](https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq) | 2:30 |
 | 45 | [Lollipop](https://open.spotify.com/track/1hFB1obL3dCyIDigkojSTm) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:10 |
-| 46 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
-| 47 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 |
-| 48 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
-| 49 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
+| 46 | [Sh\-Boom](https://open.spotify.com/track/7G2jAmiYUDZKyk7npVrgX8) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [The Best Of The Crew Cuts](https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP) | 2:48 |
+| 47 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
+| 48 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
+| 49 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
 | 50 | [Whole Lot of Shakin' Going On](https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [The Essential Jerry Lee Lewis \[The Sun Sessions\]](https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf) | 2:52 |
 | 51 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:02 |
 | 52 | [Maybellene](https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:23 |
@@ -132,9 +132,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 122 | [Sweetie Pie](https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked) | [Tommy Blake](https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS) | [I Dig You Baby / Sweetie Pie](https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf) | 2:04 |
 | 123 | [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 |
 | 124 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
-| 125 | [Bring Your Love Back Home](https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV) | [Eddie Snow](https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt) | [Ain't That Right / Bring Your Love Back Home](https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7) | 3:14 |
-| 126 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
-| 127 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
+| 125 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
+| 126 | [Bring Your Love Back Home](https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV) | [Eddie Snow](https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt) | [Ain't That Right / Bring Your Love Back Home](https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7) | 3:14 |
+| 127 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
 | 128 | [Ugly Woman](https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ) | [Johnny O'Neal](https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2) | [Sun Records\- Boogie BBQ](https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT) | 2:37 |
 | 129 | [Hey Baby Doll](https://open.spotify.com/track/5VIsse5eZGy7OlSE6iqjKG) | [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [Rockabilly 50](https://open.spotify.com/album/0KXqBhjN5zKNUaHR2ssrZx) | 1:57 |
 | 130 | [I Done Told You](https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm) | [Gene Simmons](https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD) | [Sun Records Yearbook \- 1958 part 2](https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq) | 2:21 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 134 | [That's All Right](https://open.spotify.com/track/1mKhiITXCIpves7QbT4xo7) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [A Boy From Tupelo: The Complete 1953\-1955 Recordings](https://open.spotify.com/album/1obc6uvzMsDUd6Q76MP1kI) | 1:59 |
 | 135 | [Keep A\-Knockin'](https://open.spotify.com/track/7jkPCXETejn3V1wkvu03AC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:16 |
 
-Snapshot ID: `MCw1NGQ2YTk5YjBlNDhjZTdkYmQzMzE0ZjI4YmU2ZTY1OWI5ZjNjMjM0`
+Snapshot ID: `MCw2Mzc5NWUzOTc4NzBmMThlMjM2MzI3MjI4NmQ4ZTZhMzExNDFiNjVh`

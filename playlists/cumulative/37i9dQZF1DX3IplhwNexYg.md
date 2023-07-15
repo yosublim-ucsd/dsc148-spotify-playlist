@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: The Last Dinner Party
 
-435 songs - 1 day 0 hr 29 min
+436 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2002](https://open.spotify.com/track/7duZGjDETceWUu5KvKJjQU) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [2002](https://open.spotify.com/album/4rJmJ9Iqe1SdQ8Sg5hmZUx) | 2:32 | 2022-02-28 | 2022-12-13 |
 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 | 2021-03-09 | 2022-01-17 |
 | [3](https://open.spotify.com/track/2JNx996AAVsi1OLdxSP6xf) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [3](https://open.spotify.com/album/4SWFRq8izGzkqSb2BG2BaY) | 3:01 | 2022-01-17 | 2022-08-19 |
-| [666](https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [666](https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh) | 2:55 | 2023-05-25 |  |
+| [666](https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [666](https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh) | 2:55 | 2023-05-25 | 2023-07-15 |
 | [A Feeling](https://open.spotify.com/track/2ZutXbnInegCq7HuzlowoU) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [A Feeling](https://open.spotify.com/album/1sABhF8EK5cn1ErlTOD48M) | 2:35 | 2023-06-30 | 2023-07-14 |
 | [Abandon All Hope](https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Abandon All Hope](https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l) | 3:46 | 2023-06-30 | 2023-07-14 |
 | [Advice](https://open.spotify.com/track/6sGKhzoyBaXJUmjd8z3NuY) | [Gabrielle Graves](https://open.spotify.com/artist/57kmu1y4MHclkEskT1iB2j) | [Advice](https://open.spotify.com/album/1aevEls5wxPs6XvvvJQ7Hg) | 4:18 | 2021-03-09 | 2022-01-17 |
@@ -100,6 +100,7 @@
 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 | 2022-01-17 | 2022-08-19 |
 | [Dangerous](https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Dangerous](https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH) | 3:31 | 2022-01-17 | 2022-08-19 |
 | [Dave's House](https://open.spotify.com/track/6ygTqH0caTiDd20AqCn8xF) | [Voodoo Bandits](https://open.spotify.com/artist/5jaClKmRitBOsYw3iOIo1T) | [Dave's House](https://open.spotify.com/album/5Reg3ZnifkeeqtIVBAgf5Q) | 2:47 | 2022-08-18 | 2022-10-07 |
+| [dazies](https://open.spotify.com/track/1WucOL2fl6kxq6qz1jIGDM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [dazies](https://open.spotify.com/album/2FmsHWgWAxpHPztCGn4xip) | 4:24 | 2023-07-13 |  |
 | [Dead Weight](https://open.spotify.com/track/2O79y6ji57voBvM8Qmhw21) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Dead Weight](https://open.spotify.com/album/1tL8iCIxXRoAeTYm6Kdgd2) | 3:43 | 2021-03-09 | 2022-01-17 |
 | [Deep](https://open.spotify.com/track/1Qd0jDJKlgBTuCNqlM4GWO) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Deep](https://open.spotify.com/album/3UVA6Nxe9gBBRVmbZwwIld) | 3:00 | 2021-03-19 | 2022-01-17 |
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1",
+  "snapshot_id": "MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "City Lights (feat. Mitch Wong)",
-        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
-      },
-      "artists": [
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "City Lights (feat. Mitch Wong)",
-      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 184613,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "City Lights (feat. Mitch Wong)",
+        "url": "https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9"
+      },
+      "artists": [
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "City Lights (feat. Mitch Wong)",
+      "url": "https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob"
     },
     {
       "added_at": "2020-08-13 14:39:00",

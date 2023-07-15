@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية🤩 الغلاف: <a href="https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=VsX541TiREeZvWldvVY2MQ">رامي جمال </a>
 
-509 songs - 1 day 5 hr 9 min
+510 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Mesh Saybani](https://open.spotify.com/track/5qO0ltb9QRvQvj2c7San3y) | [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Mesh Saybani](https://open.spotify.com/album/1QLI8mWdXlxempEeh3AlRV) | 3:00 | 2022-01-27 | 2022-04-08 |
 | [Mestaneky](https://open.spotify.com/track/6FDtQjEUHPak1EC1TPC2Wu) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Mestaneky](https://open.spotify.com/album/73gsCvCysoUpE4u4JRQxi3) | 4:17 | 2023-03-09 | 2023-05-09 |
 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 | 2021-12-23 | 2022-01-28 |
-| [Met7amelany](https://open.spotify.com/track/269WJylolN9d4Igz7NVvDt) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Met7amelany](https://open.spotify.com/album/63R80jJ48lRDXzgMqJ3SuP) | 4:34 | 2023-06-01 |  |
+| [Met7amelany](https://open.spotify.com/track/269WJylolN9d4Igz7NVvDt) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Met7amelany](https://open.spotify.com/album/63R80jJ48lRDXzgMqJ3SuP) | 4:34 | 2023-06-01 | 2023-07-15 |
 | [Metkatef](https://open.spotify.com/track/7GuwZJyYf09i7Gkg2SXFhD) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Metkatef](https://open.spotify.com/album/3GhZv3MkDK0QYVmVzikjMp) | 3:27 | 2023-07-07 |  |
 | [Miganinani](https://open.spotify.com/track/0cOmhBrTHMuiwvCNtx20Wd) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Miganinani](https://open.spotify.com/album/5QlJn2n6yvZGYT9uS3FYP1) | 2:47 | 2023-07-13 |  |
 | [Min Awel Dekika](https://open.spotify.com/track/46Q0bzrsZyD2dzZCuLq5R2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR), [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Min Awel Dekika](https://open.spotify.com/album/7zDngZE0h5FSTaPm9yhxto) | 4:32 | 2022-05-04 | 2022-08-24 |
@@ -343,6 +343,7 @@
 | [Tanteet](https://open.spotify.com/track/0DlEg3wy4iUcTU7lNUFFlg) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Tanteet](https://open.spotify.com/album/2CcLYDhrKezFBuekZilbwi) | 1:59 | 2022-06-23 | 2022-09-23 |
 | [Taqa Egabiya](https://open.spotify.com/track/36W3RtxBprZcvw1bcbcQFW) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Taqa Egabiya](https://open.spotify.com/album/5YC6fQoCORJTPD0Ul0RTvu) | 3:03 | 2023-05-16 | 2023-06-30 |
 | [Tayeh](https://open.spotify.com/track/5RewmMI1PlDpFSKeo1VL9G) | [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [Tayeh](https://open.spotify.com/album/6plScIvVMfDrLp56hqN2ro) | 3:22 | 2023-03-06 | 2023-05-06 |
+| [Tegy Netsawar](https://open.spotify.com/track/6GnLxviis9Qsu1oq4fvfR6) | [Islam Zaki](https://open.spotify.com/artist/3z3CZNhE5lU0aRyAZ2XKpH), [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Tegy Netsawar](https://open.spotify.com/album/6AofYZuIof0MWN6RNBrnS4) | 2:46 | 2023-07-14 |  |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2021-12-29 | 2022-03-10 |
 | [Tel3et Shatra](https://open.spotify.com/track/4Fc4BthBA9jfUVGMU2nnbf) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [Tel3et Shatra](https://open.spotify.com/album/7EtK7ztKN3ckrnEvzCMPtD) | 3:15 | 2022-09-22 | 2022-12-24 |
 | [Tigi \- تيجي](https://open.spotify.com/track/49QGBrI182c8yb2ZG3ipoB) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tigi \(تيجي\)](https://open.spotify.com/album/6PiXm749gSZpCyzyQ6O1Yi) | 3:07 | 2022-07-10 | 2022-10-07 |

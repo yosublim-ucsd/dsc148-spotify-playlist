@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 66425,
+  "num_followers": 66467,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjBmNWFmNzE0NWQ0MWE0OTlhMDgyNzY4M2NlYmM3ZWRhYWY5NTI2",
+  "snapshot_id": "MCwzMmEzM2JiMjc0ZjA0N2YxMTZjZDg1ZTNhZjMwZWRmYTYyNTM0MWIy",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -619,18 +619,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Playlist: The Very Best Of Byron Cage",
-        "url": "https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa"
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
       },
       "artists": [
         {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
         }
       ],
-      "duration_ms": 317880,
-      "name": "I Will Bless the Lord - Live",
-      "url": "https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y"
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -651,22 +655,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Sessions - EP",
-        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
+        "name": "Playlist: The Very Best Of Byron Cage",
+        "url": "https://open.spotify.com/album/4XwIxTUXc3fY5XcOVTPrwa"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Chantae Cann",
-          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
         }
       ],
-      "duration_ms": 249176,
-      "name": "Maintain (feat. Chantae Cann) (Live)",
-      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
+      "duration_ms": 317880,
+      "name": "I Will Bless the Lord - Live",
+      "url": "https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y"
     },
     {
       "added_at": "2023-02-18 05:28:04",

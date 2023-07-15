@@ -125,6 +125,28 @@
     },
     {
       "album": {
+        "name": "Always into you",
+        "url": "https://open.spotify.com/album/511xSyTlzoewwQ3VA1G4Ap"
+      },
+      "artists": [
+        {
+          "name": "danish roomi",
+          "url": "https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP"
+        },
+        {
+          "name": "Raffey Anwar",
+          "url": "https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204273,
+      "name": "Always into you",
+      "url": "https://open.spotify.com/track/38x25A2YUR1ihIpQrb93R1"
+    },
+    {
+      "album": {
         "name": "anay wala kal/ghubaray",
         "url": "https://open.spotify.com/album/31lIz2jbV3iZJBs1YxnDyI"
       },
@@ -234,6 +256,28 @@
       "duration_ms": 238000,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/4hQshoxfKBJlGeYTqnv3U2"
+    },
+    {
+      "album": {
+        "name": "Baat Unkahi",
+        "url": "https://open.spotify.com/album/7pLLqbmb1H4823NX2nE1un"
+      },
+      "artists": [
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        },
+        {
+          "name": "Samra Khan",
+          "url": "https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339043,
+      "name": "Baat Unkahi",
+      "url": "https://open.spotify.com/track/5nLlwrElZuyqp7A4fb1o87"
     },
     {
       "album": {
@@ -857,6 +901,28 @@
     },
     {
       "album": {
+        "name": "DIL",
+        "url": "https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe"
+      },
+      "artists": [
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        },
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "DIL",
+      "url": "https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb"
+    },
+    {
+      "album": {
         "name": "Dil de Bol",
         "url": "https://open.spotify.com/album/73C1xLVTjBxIT89yzEAtHi"
       },
@@ -1302,6 +1368,24 @@
       "duration_ms": 205243,
       "name": "Fitoor",
       "url": "https://open.spotify.com/track/59JAyLDknHxl9PPWwdXFqM"
+    },
+    {
+      "album": {
+        "name": "Friday",
+        "url": "https://open.spotify.com/album/1CmVkSA2F3ypX2iidGsa8g"
+      },
+      "artists": [
+        {
+          "name": "Shamoon Ismail",
+          "url": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179082,
+      "name": "Friday",
+      "url": "https://open.spotify.com/track/7FLjLYJQPggPCgqcuQl2Ao"
     },
     {
       "album": {
@@ -2456,7 +2540,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 161151,
       "name": "Nakhray",
       "url": "https://open.spotify.com/track/1wsAK9hEisW2JkLeSqVDAz"
@@ -2676,7 +2760,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 255736,
       "name": "Piya",
       "url": "https://open.spotify.com/track/419zgOPCY2volaXJtSv5HJ"
@@ -3310,6 +3394,28 @@
       "duration_ms": 198000,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1VziWLNDb8KaYjJeb1F3HI"
+    },
+    {
+      "album": {
+        "name": "Sohneya Ve",
+        "url": "https://open.spotify.com/album/3a3pKniLGAI3UV7FMMkMpR"
+      },
+      "artists": [
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "Sohneya Ve",
+      "url": "https://open.spotify.com/track/28MAwybE4MXTrCXegBgTCM"
     },
     {
       "album": {

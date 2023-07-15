@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Mi Mejor Momento",
+        "url": "https://open.spotify.com/album/1YeNrm1OTil0kSBYbf4m1r"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168131,
+      "name": "Ciego",
+      "url": "https://open.spotify.com/track/3ayEHdV1m8PdezGWvM4t8v"
+    },
+    {
+      "album": {
         "name": "Como El Primer D\u00eda",
         "url": "https://open.spotify.com/album/6BUA5fhYaie7fDtkE2HiKr"
       },
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193333,
       "name": "Mas Altas Que Bajadas",
       "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 163075,
       "name": "Se Me Va La Vida",
       "url": "https://open.spotify.com/track/0HkQBh6OMP3UajE2xP66Eo"
@@ -2958,6 +2976,28 @@
       "duration_ms": 192185,
       "name": "Vivo en el 6",
       "url": "https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM"
+    },
+    {
+      "album": {
+        "name": "Voy a Amarte (Remix)",
+        "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142422,
+      "name": "Voy a Amarte - Remix",
+      "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
     },
     {
       "album": {

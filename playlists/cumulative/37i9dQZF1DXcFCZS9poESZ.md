@@ -4,7 +4,7 @@
 
 > The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-90 songs - 5 hr 40 min
+91 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,8 +71,9 @@
 | [君をのせて\(天空の城ラピュタ\)](https://open.spotify.com/track/79AAajz0vc1yhspn9P4ZwB) | [Azumi Inoue](https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp) | [スタジオジブリの歌 \-増補盤\-](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 3:20 | 2021-10-07 |  |
 | [哀 戦士](https://open.spotify.com/track/2qHFdjgqzmd8Bw4J4CImaY) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [哀 戦士](https://open.spotify.com/album/1JLAdPPA3zVr6nXpgPocgc) | 3:51 | 2021-10-07 | 2023-06-10 |
 | [夏のミラージュ](https://open.spotify.com/track/17QmZTdwAkTB3b9rGLNbur) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [Esquisse\(エスキース\)](https://open.spotify.com/album/41ka6U4rOJel17t5UI8Fvl) | 4:31 | 2021-10-07 | 2022-07-29 |
+| [夏のミラージュ](https://open.spotify.com/track/25sBTXed49RPy1EVJsNNK5) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [City Pop Essetials \- Idols \-](https://open.spotify.com/album/28xnnoGQ81K2Y7M2OqGn4o) | 4:31 | 2022-06-21 |  |
 | [夏のミラージュ](https://open.spotify.com/track/3SMwbhC7KhAsuemQO13pd7) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [City Pop Essentials Vol\. 1](https://open.spotify.com/album/4jJFvy7vL4YtVs3RFb7c2N) | 4:31 | 2022-06-21 | 2022-11-13 |
-| [夏のミラージュ](https://open.spotify.com/track/6POvLYiHplkiDbCtM51pDO) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [CITY POP SUMMER](https://open.spotify.com/album/6YRVENJbOBWw9E3878ciBg) | 4:31 | 2022-06-21 |  |
+| [夏のミラージュ](https://open.spotify.com/track/6POvLYiHplkiDbCtM51pDO) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [CITY POP SUMMER](https://open.spotify.com/album/6YRVENJbOBWw9E3878ciBg) | 4:31 | 2022-06-21 | 2023-07-15 |
 | [夢を信じて](https://open.spotify.com/track/0cgqntmosOzsF1Y3LACcC7) | [Hideaki Tokunaga](https://open.spotify.com/artist/2FTUpyPZ3hqBPLwmaEH14B) | [シングルコレクション<1986\~1991>](https://open.spotify.com/album/2RflyhEsb4RlZH5NY4hogE) | 4:49 | 2021-10-07 |  |
 | [孤独の唄](https://open.spotify.com/track/0KFodTmf9SvZD2viwtO8uw) | [Tomio Umezawa](https://open.spotify.com/artist/5JlC66Cy8ozai9xAtbehGz) | [梅沢富美男ベスト \~夢芝居](https://open.spotify.com/album/70FlvmqqjmVeEL67k998fA) | 3:45 | 2021-10-07 | 2022-07-29 |
 | [孤独の唄](https://open.spotify.com/track/3n1gQLCZ6TkshUJ1h1ez87) | [Tomio Umezawa](https://open.spotify.com/artist/5JlC66Cy8ozai9xAtbehGz) | [孤独の唄/ココロの唄](https://open.spotify.com/album/5jOlf9LpsChScfCs5pnxXA) | 3:45 | 2022-06-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,854 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,968 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 81 | [Tudo Me Lembra Você](https://open.spotify.com/track/0HG6sEAcdl6XyPT7RT9IHd) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Me Lembra Você](https://open.spotify.com/album/1179ekUuV8au5wgey9bYNv) | 2:56 |
 | 82 | [Socadona](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 |
 | 83 | [Te Amo](https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Yellow](https://open.spotify.com/album/6OzWkDYmerUM9a94FxDWOE) | 4:18 |
-| 84 | [Afro Tropical](https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm) | [Afro Tropical](https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n) | 2:31 |
-| 85 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
+| 84 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
+| 85 | [Afro Tropical](https://open.spotify.com/track/6HNe2fozm5lvsmmV2tPwTQ) | [IVANN](https://open.spotify.com/artist/4u3TXX9deH83yOdIGyuLvm) | [Afro Tropical](https://open.spotify.com/album/5oSieYXT6iUxhTzoT2Iv4n) | 2:31 |
 | 86 | [Bebé](https://open.spotify.com/track/2elwWMHTuAEiPwG9IWg5dP) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Bebé](https://open.spotify.com/album/4e7N0a611cO24FwRxD0Rdp) | 2:32 |
 | 87 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
 | 88 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Pode Tentar](https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Pode Tentar](https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS) | 2:35 |
 | 100 | [LOUCA](https://open.spotify.com/track/0FJpeAT75XI6LImeMhpdU3) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [LOUCA](https://open.spotify.com/album/2sltTO7QbcvucXFetVbccJ) | 2:22 |
 
-Snapshot ID: `MCwxNDU1ZTBiYTM2NDkyM2E2ZDc3OTZjY2EzN2Q2ZmQzYWNjN2FkMThl`
+Snapshot ID: `MCw1ZGNmZTZlOWFmNTcyMTkxYmEyODRjN2Q0Yzk2N2QyMGMzNGY5ZjM2`

@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-213 songs - 12 hr 32 min
+214 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Once In a Lifetime](https://open.spotify.com/track/5dSsIGNo7ImUSQSaCTGOak) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY), [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Once In a Lifetime](https://open.spotify.com/album/58EoMAmdNnJRVAAMePEr6p) | 3:06 | 2021-10-15 |  |
 | [One Day](https://open.spotify.com/track/6VJnUbSvalXgjt1iw0XZrk) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Collin Raye](https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI) | [One Day](https://open.spotify.com/album/3GxxNTSZsO1E2TrhWzhMWg) | 3:17 | 2021-10-15 |  |
 | [Oughta Miss Me by Now](https://open.spotify.com/track/6RcWdxxvdKiEByaJM3WEny) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Tradition Lives](https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO) | 3:37 | 2021-10-15 |  |
+| [Out of My Mind \(Country\)](https://open.spotify.com/track/1cEM4aYMmGdm6j8SRimVHG) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Out of My Mind \(Country\)](https://open.spotify.com/album/1EuPbXPAp6kO8qQSxvuJmn) | 3:19 | 2023-07-14 |  |
 | [Patsy Cline Crazy](https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Patsy Cline Crazy](https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt) | 3:49 | 2022-02-25 |  |
 | [Prisoner of the Highway \(feat\. Jason Aldean\)](https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [The Duets](https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb) | 4:02 | 2021-10-15 |  |
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |

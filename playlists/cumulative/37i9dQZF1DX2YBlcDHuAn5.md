@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-84 songs - 5 hr 8 min
+85 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 | 2023-02-23 |  |
 | [Take A Ride](https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN) | [Sam Saxton](https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04) | [Take A Ride](https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q) | 3:33 | 2023-02-23 | 2023-04-02 |
 | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/track/1PDGJwXHeE6cMQaZjLXNTX) | [Jasper Schalks](https://open.spotify.com/artist/1rVfa0RepB2c2WIQeaetbL) | [The Ballad of Lisa Marie Montgomery](https://open.spotify.com/album/0Ccia2X6qrLwws03GhJNvK) | 5:58 | 2023-06-22 | 2023-06-30 |
-| [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-02-23 |  |
+| [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-02-23 | 2023-07-15 |
 | [The Longest Journey](https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [The Longest Journey](https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx) | 3:48 | 2023-02-23 | 2023-06-23 |
 | [The Way I Love You Now \- Bluefinger Version](https://open.spotify.com/track/5PSKr3GOMG58k5SoI2ebQo) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [The Way I Love You Now](https://open.spotify.com/album/4AIG9wuEswkHUeQHcIZazL) | 4:09 | 2023-07-06 |  |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2023-02-23 |  |
@@ -90,6 +90,7 @@
 | [Whatever Turns You On](https://open.spotify.com/track/1IiRUmC1fhDscYS90FxWKz) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/2P77B79bBTT8GHjs1BrmZI) | 2:04 | 2023-02-23 | 2023-04-29 |
 | [When Lovers Become Friends](https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq) | [Mattanja Joy Bradley](https://open.spotify.com/artist/6u9tyg6IXImKbuB5J12ush) | [When Lovers Become Friends](https://open.spotify.com/album/4fpgBmFlpiWb5Y8hpGQl7l) | 3:59 | 2023-05-11 |  |
 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 | 2023-02-23 |  |
+| [When You Know You Know \- Acoustic](https://open.spotify.com/track/0aYItLQgsoP0eLnvYk0iTH) | [Robert Weston](https://open.spotify.com/artist/5ZOFiP5vFptuf3R28i8IxY) | [Life's A Beach & 3 Acoustic Songs](https://open.spotify.com/album/5ItXwP2gyFFjsfAyQnCPXV) | 3:23 | 2023-07-14 |  |
 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 | 2023-02-23 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-02-23 |  |
 

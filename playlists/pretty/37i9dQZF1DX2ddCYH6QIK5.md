@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Noth, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,782 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,786 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Dreamer](https://open.spotify.com/track/5vk0PqoIwGhTZ4JKtQkxzg) | [Elto](https://open.spotify.com/artist/69vEDb7AKBbWHtvBabWcaT) | [Dreamer](https://open.spotify.com/album/3N7q6vkC96Jk0ZCCGo6tsm) | 2:54 |
 | 80 | [Timeshift](https://open.spotify.com/track/0FKXPAV9mtvWDwdkEbuqOW) | [Chloe Lula](https://open.spotify.com/artist/7vxPwcFFJef1ifZkQLIqLx) | [Timeshift](https://open.spotify.com/album/3SgUZUKpngQE68O7Gf0lOP) | 4:29 |
 
-Snapshot ID: `MCxmNTQ2MTliZGMwZTRjZWIxMjQ3MjEyNDgxZThhYzlmNDNiODdmNTcy`
+Snapshot ID: `MCwyYzA5MmZiYTEwMjJmNWUwYzc2MWQ3NTFlMWMxMzNlZjYzMGZmMzAy`

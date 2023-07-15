@@ -5748,7 +5748,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 187976,
       "name": "Midnight Rumble",
       "url": "https://open.spotify.com/track/25PR0i7tuugQVqAppXiDPx"
@@ -5982,6 +5982,28 @@
       "duration_ms": 140701,
       "name": "Move It",
       "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
+    },
+    {
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
       "album": {
@@ -6741,6 +6763,28 @@
     },
     {
       "album": {
+        "name": "One Three Nine",
+        "url": "https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "One Three Nine",
+      "url": "https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"
+    },
+    {
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/6icjcRHwHhCbMEFGGexCAx"
       },
@@ -7300,7 +7344,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 213000,
       "name": "PURRITO",
       "url": "https://open.spotify.com/track/4J5mnWrMZSWfLe6auPLZwA"
@@ -8384,7 +8428,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-22",
+      "date_removed": null,
       "duration_ms": 159352,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4RlapXgc7AWQkrn0gCx7iZ"
@@ -10200,7 +10244,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 249677,
       "name": "You Only Die Once (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW"

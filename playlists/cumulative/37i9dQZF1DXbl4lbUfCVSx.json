@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
+    },
+    {
+      "album": {
         "name": "Degaje",
         "url": "https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2020-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 331871,
       "name": "Simplicit\u00e9",
       "url": "https://open.spotify.com/track/7HRVCfIaGGqUtOpVTB3MWI"

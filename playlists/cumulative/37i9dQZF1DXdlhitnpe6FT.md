@@ -4,7 +4,7 @@
 
 > The notes that will make you long for those days of yore.
 
-196 songs - 10 hr 48 min
+197 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ave Maria No Morro](https://open.spotify.com/track/6CUkmy1cx4GXyU1H5ehoP0) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Wenn Der Weiße Flieder Wieder Blüht](https://open.spotify.com/album/7kSViaJRsm0C29S3h5CLOH) | 2:46 | 2020-12-08 | 2022-07-29 |
 | [Ave Maria No Morro](https://open.spotify.com/track/1tZZ3VD2jbHBEr0KM2rHlG) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [The Incredible Helmut Zacharias](https://open.spotify.com/album/5ZfXPyyeUz8zS9YXTJLZ9A) | 2:46 | 2020-12-08 | 2023-07-14 |
 | [Ave Maria no morro](https://open.spotify.com/track/0JGr0jRQDEMFhNDWVf7IWV) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:33 | 2020-12-08 | 2022-07-29 |
+| [Ave Maria No Morro](https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:34 | 2020-12-08 |  |
 | [Ballade Pour Adeline](https://open.spotify.com/track/1liJDOKzL4qEKGLtpisMhz) | [Paul Marie Senneville](https://open.spotify.com/artist/3M8kIRti4mqOFMifU0Bm7A), [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Romantique](https://open.spotify.com/album/49i1oEdab9ZYHC6YPikpCX) | 2:37 | 2020-12-08 | 2022-07-29 |
 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 | 2020-12-08 |  |
 | [Ballade pour Adeline \- Piano et orchestre](https://open.spotify.com/track/1XOUROugs7UUsDK56ASj2T) | [Richard Clayderman](https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6) | [Ballade pour Adeline](https://open.spotify.com/album/2RikOsstwxbMPnPCgG8ITp) | 2:38 | 2020-12-08 |  |
@@ -42,7 +43,7 @@
 | [BLUE DOLPHIN](https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl) | [Stephen Schlaks](https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL), [Michel](https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn) | [...SI CI SONO ANCH'IO \(BLUE DOLPHIN\)](https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS) | 2:59 | 2020-12-08 |  |
 | [Blue Navajo](https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK) | [Gheorghe Zamfir](https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT) | [Blue Navajo](https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ) | 3:33 | 2020-12-08 |  |
 | [Blue Tango](https://open.spotify.com/track/6ecG5Am0TRxn0uwZBQHA3L) | [Leroy Anderson](https://open.spotify.com/artist/5YhX2onn51M81v4dSZajlX) | [The Leroy Anderson Collection](https://open.spotify.com/album/67di1tCudA0RIHJVJc6nK3) | 2:49 | 2020-12-08 |  |
-| [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 | 2020-12-08 |  |
+| [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 | 2020-12-08 | 2023-07-15 |
 | [Bésame Mucho](https://open.spotify.com/track/3OxZRHorxhJmbNtjr0j4hE) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 2:36 | 2020-12-08 |  |
 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 | 2020-12-08 |  |
 | [Call Me](https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 2:25 | 2020-12-08 |  |

@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-619 songs - 2 day 1 hr 0 min
+620 songs - 2 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Donna Lee](https://open.spotify.com/track/1zWG5Jk6mcC1ewXlYYVaxC) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Jaco Pastorius](https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m) | 2:27 | 2023-05-09 |  |
 | [Dorene Don't Cry, I \- Remastered](https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:14 | 2022-10-27 | 2023-04-29 |
 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 | 2022-10-27 |  |
+| [Draw Near](https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Being There](https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS) | 3:51 | 2023-06-21 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-10-27 |  |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2022-10-27 | 2023-01-22 |
 | [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-10-27 |  |
@@ -249,7 +250,7 @@
 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 | 2022-10-27 |  |
 | [I Love Music](https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 7:22 | 2022-10-27 |  |
 | [I Loves You Porgy \- 2013 Remastered Version](https://open.spotify.com/track/0kDpFPQgQYeZ7t04Quiwkn) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 4:09 | 2022-10-27 |  |
-| [I Miss You](https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Within a Dream](https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4) | 4:18 | 2023-01-03 |  |
+| [I Miss You](https://open.spotify.com/track/4Hus6AQNHezUdbBKuo1aE8) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Within a Dream](https://open.spotify.com/album/77u6sL9mxKm3uDqnMX6XV4) | 4:18 | 2023-01-03 | 2023-07-15 |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2022-10-27 |  |
 | [I Remember Clifford](https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Benny Golson And The Philadelphians](https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h) | 3:02 | 2022-10-27 |  |
 | [I Remember Clifford \- Rudy Van Gelder Edition; 2007 Digital Remaster](https://open.spotify.com/track/6KawDsALZTY6FA8CE1NLZK) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Volume 3](https://open.spotify.com/album/63pHpN0nqkNbaeP2UEexY0) | 7:09 | 2022-10-27 |  |

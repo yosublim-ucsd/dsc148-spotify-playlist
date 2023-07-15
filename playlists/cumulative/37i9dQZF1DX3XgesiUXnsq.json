@@ -2299,6 +2299,36 @@
     },
     {
       "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/5CRUgLsE5Ol3bqPGZl2H9X"
+      },
+      "artists": [
+        {
+          "name": "Big Sproxx",
+          "url": "https://open.spotify.com/artist/1VbTgItwxUwsq1UMMhDzwb"
+        },
+        {
+          "name": "Planet Asia",
+          "url": "https://open.spotify.com/artist/7dGfoIWAb0h9eGpl3vEkVo"
+        },
+        {
+          "name": "The Legend Adam Bomb",
+          "url": "https://open.spotify.com/artist/68JHSowx4ruM9EOTnaKjei"
+        },
+        {
+          "name": "Dj Grouch",
+          "url": "https://open.spotify.com/artist/6mIpjorojnsaBjfp4v4f78"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Duality",
+      "url": "https://open.spotify.com/track/2nYUSaJWDsHWBRJnaanEtX"
+    },
+    {
+      "album": {
         "name": "E-Z on the Motion / Hard Copy",
         "url": "https://open.spotify.com/album/4FP694zjOnV4aPP6c8wn5a"
       },
@@ -5592,7 +5622,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 237573,
       "name": "Nuthin' But A \"G\" Thang",
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
@@ -6657,6 +6687,32 @@
     },
     {
       "album": {
+        "name": "Risky",
+        "url": "https://open.spotify.com/album/5jo1DGIzHMKDuAUxLZqIhr"
+      },
+      "artists": [
+        {
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255288,
+      "name": "Risky",
+      "url": "https://open.spotify.com/track/0WuH9YPPEnl75JyMIgXuiW"
+    },
+    {
+      "album": {
         "name": "The Grind Date",
         "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
@@ -6782,6 +6838,32 @@
       "duration_ms": 174285,
       "name": "Run My Shit Remix",
       "url": "https://open.spotify.com/track/0Eg2hkbMCRb5DGK0FNeL1q"
+    },
+    {
+      "album": {
+        "name": "Runway",
+        "url": "https://open.spotify.com/album/0h0qUKwwmGov1IcNFaHDKj"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186491,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/6KXvpa2EHL1RPPDEANG1Lm"
     },
     {
       "album": {
@@ -7876,7 +7958,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 194594,
       "name": "The Count (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/171PWhxgdrIOgcAiBPO3Gr"
@@ -8526,7 +8608,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 176982,
       "name": "TURNIN' HEADS",
       "url": "https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV"

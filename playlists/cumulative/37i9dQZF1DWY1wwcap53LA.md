@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Sacha
 
-147 songs - 7 hr 34 min
+148 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 | 2021-12-03 |  |
 | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/track/1FSYsYrfOKa6nBHVEBWUQC) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Never Gonna Tame You \(Original Song from "The Mustangs: America's Wild Horses"\)](https://open.spotify.com/album/1v3UJ3V5ChGeHPoKzhcyy3) | 3:41 | 2021-12-03 | 2023-02-18 |
 | [Nobody's More Country](https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/2Jogodfbu37ikyUK11yGAf) | 2:52 | 2021-12-03 |  |
+| [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 | 2023-07-14 |  |
 | [Old Porch Swing](https://open.spotify.com/track/424tTFNRNvXVbOpmD0V3D8) | [Tony Jackson](https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR) | [Tony Jackson](https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK) | 3:40 | 2021-12-03 |  |
 | [on my way](https://open.spotify.com/track/23MeW5kPmzySH9b8TY0gmD) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Songs From Tulip Drive](https://open.spotify.com/album/6MPHnKTSyVGgclUBl20W7W) | 2:57 | 2022-05-27 | 2022-07-29 |
 | [on my way](https://open.spotify.com/track/5VrJrBAYUAEn3412GKfQEl) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:57 | 2022-07-22 |  |

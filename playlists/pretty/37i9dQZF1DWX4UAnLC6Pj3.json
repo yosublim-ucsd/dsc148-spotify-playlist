@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Virl\u00e1n Garc\u00eda & Panter B\u00e9lico en portada.",
-  "num_followers": 1127128,
+  "num_followers": 1127257,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTIwZGE2YzE2MjZhMGZmZDAzMDk4MjU3MDIyMjFkYWVhYzYzZjlh",
+  "snapshot_id": "MCw1MDljZmEyZmExM2Q3OTZlZmQ3MmFmMTAxYzQ0YWY0ZmQ0MDMyNDA0",
   "tracks": [
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 165000,
       "name": "Que Llore, Que Llore",
       "url": "https://open.spotify.com/track/7aqTwOPSQbVVWN8DrwmNFo"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Fuerte No Soy",
-        "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 215303,
       "name": "Sigues Siendo Tu - En vivo",
       "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Fuerte No Soy",
+        "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "A Como Yo Lo Veo",
-        "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "A Como Yo Lo Veo",
-      "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Ojitos Caf\u00e9s",
         "url": "https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 190981,
       "name": "Ojitos Caf\u00e9s",
       "url": "https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "A Como Yo Lo Veo",
+        "url": "https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "A Como Yo Lo Veo",
+      "url": "https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC"
     },
     {
       "added_at": "2023-06-23 06:00:00",

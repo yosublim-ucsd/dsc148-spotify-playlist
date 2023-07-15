@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-472 songs - 1 day 8 hr 15 min
+473 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [So Low](https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B) | [Synthia](https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF) | [So Low](https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc) | 2:44 | 2023-04-18 | 2023-06-16 |
 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 | 2023-02-28 | 2023-03-03 |
 | [Someday](https://open.spotify.com/track/3NwzABjXouiJdOVjIFNonG) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Old Days](https://open.spotify.com/album/5Y96dH2PLdE39a4SLYXjAo) | 2:39 | 2022-10-20 | 2022-11-11 |
-| [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-25 |  |
+| [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-25 | 2023-07-15 |
 | [Song Book: The Man I Love\. Slow and in singing style](https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frank Braley](https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl) | [Gershwin: Piano Works](https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU) | 2:25 | 2022-10-20 |  |
 | [Song For My Sister's Son](https://open.spotify.com/track/5N95j02ERsrcueKLaOu465) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Magnolia](https://open.spotify.com/album/6ttutrbx6EDudIvUhyfWpf) | 4:40 | 2023-02-23 | 2023-03-01 |
 | [Song For My Sister's Son](https://open.spotify.com/track/6M6wAlja282JVJ0cR63rgS) | [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Song For My Sister's Son](https://open.spotify.com/album/5YL4H7MplLxXOC3qUPinVZ) | 4:40 | 2023-01-31 | 2023-02-26 |
@@ -397,6 +397,7 @@
 | [Waltz in Bb Minor](https://open.spotify.com/track/5d7h5dhyoncJuJmg0jV5gU) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Waltz in Bb Minor](https://open.spotify.com/album/4gUcfKjoa7FJeeGIcvHCMz) | 2:06 | 2022-12-01 | 2023-02-15 |
 | [Wayfinder \- Viola Concerto \- \(Ensemble Version\)](https://open.spotify.com/track/1G9QsKn11TbI34XDiwCR5b) | [Dai Fujikura](https://open.spotify.com/artist/5yFyiRuJTD0qgV64fByLMg), [Norio Sato](https://open.spotify.com/artist/1U3WCiLneJRvIHEERMo0gt), [ENSEMBLE NOMAD](https://open.spotify.com/artist/3avtDznurwP82lPxSYm6x0) | [Wayfinder](https://open.spotify.com/album/4C5F0OIC0ONaV5aXOKVyKM) | 22:50 | 2023-06-27 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-10-20 | 2023-02-08 |
+| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 |  |
 | [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 | 2022-11-23 | 2023-02-08 |
 | [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 | 2023-06-29 |  |
 | [Where'd You Put Me](https://open.spotify.com/track/2S0ljxYxpYhRzH6EBVsUJk) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Where'd You Put Me](https://open.spotify.com/album/0AZUt0xHVvjA609ipJEp3j) | 1:12 | 2023-01-12 | 2023-02-21 |

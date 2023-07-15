@@ -3687,6 +3687,28 @@
     },
     {
       "album": {
+        "name": "Drip Too Hard",
+        "url": "https://open.spotify.com/album/4ySZ9lFVCjQo6EYamtmU7y"
+      },
+      "artists": [
+        {
+          "name": "Maro 1M",
+          "url": "https://open.spotify.com/artist/3de3HdAP52z8B3zy4eF3Al"
+        },
+        {
+          "name": "JMREAL",
+          "url": "https://open.spotify.com/artist/2yc9QbVP7y2d2zDUTr3gj2"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Drip Too Hard",
+      "url": "https://open.spotify.com/track/4xgOUgmKvclx8XgN4Bczl9"
+    },
+    {
+      "album": {
         "name": "Droom",
         "url": "https://open.spotify.com/album/2rBEVbed3nOPX7UYHIoIgs"
       },

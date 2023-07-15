@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 350,957 likes - 69 songs - 4 hr 45 min
+[Digster](https://open.spotify.com/user/digster.fm) - 350,961 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 17 | [Tainted Love](https://open.spotify.com/track/44hOGg1uFg1XJZGZYNwYmM) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [The Singles](https://open.spotify.com/album/0CPZNmZvoI8YguX1zx9TCv) | 2:42 |
 | 18 | [Dance Hall Days](https://open.spotify.com/track/3OM0cHwmJv6ZpsCgrEzXPh) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Points On The Curve](https://open.spotify.com/album/6wQeGifpm00UoeHmI8uSB1) | 4:00 |
 | 19 | [The Invisible Man](https://open.spotify.com/track/0kf46oObVRf3L51fHIojEm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/1v5l2sZRE5Rweew5PoNFP9) | 3:55 |
-| 20 | [Jack & Diane](https://open.spotify.com/track/0PTo8phNKBaJZEminST2qv) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Best Of/20th/Eco](https://open.spotify.com/album/1qIkzdPIthyPWOsDy6k0si) | 4:18 |
+| 20 | [Jack & Diane](https://open.spotify.com/track/0PTo8phNKBaJZEminST2qv) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [20th Century Masters \- The Millennium Collection: The Best Of John Mellencamp](https://open.spotify.com/album/1qIkzdPIthyPWOsDy6k0si) | 4:18 |
 | 21 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 |
 | 22 | [I'm Still Standing](https://open.spotify.com/track/6qrC8gIgaE8fnz8L4qUvur) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 3:02 |
 | 23 | [Right Here Waiting](https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 4:24 |

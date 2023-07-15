@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Caitlin Canty
 
-295 songs - 18 hr 35 min
+296 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Hold On](https://open.spotify.com/track/7BEBCMpNRIulT7AXPY6F5f) | [Laney Lou and the Bird Dogs](https://open.spotify.com/artist/2X8vBRaS7l9JlOJS3uoz3T) | [Hold On](https://open.spotify.com/album/5ElvHfrIkMQNgAOEqsW4Hx) | 4:20 | 2023-05-19 |  |
 | [Holding Pattern](https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Holding Pattern](https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r) | 3:05 | 2023-02-17 |  |
 | [Hole In My Pocket](https://open.spotify.com/track/3eus1BzoSc9LG0pJB5VVig) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Hole In My Pocket](https://open.spotify.com/album/4Q2LMlt43lVXjJuuslS2hQ) | 3:04 | 2022-04-22 | 2022-08-12 |
+| [Holes](https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Holes](https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh) | 3:58 | 2023-07-14 |  |
 | [Holy Ground](https://open.spotify.com/track/1uVNQx93kyNDlBTnXPzKaa) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Holy Ground](https://open.spotify.com/album/1wHctKgZzTJc7FKAv71Xfg) | 4:22 | 2022-02-18 |  |
 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 | 2022-01-21 |  |
 | [Hope](https://open.spotify.com/track/1PgzV8KUx8fwktpyiNsl1N) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Hope](https://open.spotify.com/album/1MXFBK5FvML9DRmO3PEqrb) | 3:55 | 2023-04-07 |  |
@@ -291,7 +292,7 @@
 | [Wind Tunnel](https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO) | [Chandler Beavers](https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv), [Alex Berman](https://open.spotify.com/artist/0JzZ4GVfbBkdFd76xCWnIr), [John Colby Elswick](https://open.spotify.com/artist/4AaLUD7b7JyGFZMzv9hD9T), [Ryan Ratliff](https://open.spotify.com/artist/38o0P0LUaF3BDtYK8f7J4U) | [Wind Tunnel](https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg) | 5:51 | 2023-03-17 |  |
 | [Window to Break](https://open.spotify.com/track/47IbAVZZ70rfJ6bisD4OiA) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [Head Above Water](https://open.spotify.com/album/4YKu9a4UU97fuY55CI74aj) | 3:08 | 2022-01-28 | 2023-01-14 |
 | [With the Tide](https://open.spotify.com/track/4N3fdgQr6zHbEdP8nvD2jP) | [Shawn Williams](https://open.spotify.com/artist/0JhmNymqmGOpg2NWfrB0Ge), [Shaun Garrison](https://open.spotify.com/artist/1Z2OjiByMjWnlDiE7SB2YR) | [With the Tide](https://open.spotify.com/album/095Yb2NOCXjfLu63lMJm5J) | 3:58 | 2022-03-11 |  |
-| [Woman of the House](https://open.spotify.com/track/0WVh3oDc5nInV5R1LV6E9b) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Woman of the House](https://open.spotify.com/album/6wyu8pgazcwGxx1jJMlr1T) | 3:36 | 2023-03-03 |  |
+| [Woman of the House](https://open.spotify.com/track/0WVh3oDc5nInV5R1LV6E9b) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Woman of the House](https://open.spotify.com/album/6wyu8pgazcwGxx1jJMlr1T) | 3:36 | 2023-03-03 | 2023-07-15 |
 | [Won’t Be Long](https://open.spotify.com/track/29rZE5N3Q3Ke3GtJaQdbdR) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Ladies & Gentlemen](https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N) | 3:16 | 2021-10-01 | 2022-07-29 |
 | [Won’t Be Long](https://open.spotify.com/track/5MM0Mlqtkbzj3wMWRTYcT3) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Ladies & Gentlemen](https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm) | 3:16 | 2022-07-22 |  |
 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 | 2021-10-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 268983,
+  "num_followers": 269052,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh",
+  "snapshot_id": "MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 261384,
-      "name": "Fingers of Steel",
-      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 241093,
       "name": "Jackie Down The Line",
       "url": "https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/2FHMM1A7ozaPLn0wIY4SET"
     },
     {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "One Rizla",
-      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
-    },
-    {
       "added_at": "2023-03-17 13:08:31",
       "album": {
         "name": "American Nightmare",
@@ -313,6 +297,22 @@
       "url": "https://open.spotify.com/track/5mWlyBpAyIpP1lI1AXjln4"
     },
     {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "One Rizla",
+      "url": "https://open.spotify.com/track/5McXC8UIDBlBciOLyRVZ7E"
+    },
+    {
       "added_at": "2023-06-20 22:28:34",
       "album": {
         "name": "All Gas No Brakes",
@@ -359,22 +359,6 @@
       "duration_ms": 194693,
       "name": "Almost Had to Start a Fight/In and Out of Patience",
       "url": "https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Songs of Praise",
-        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -459,6 +443,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Songs of Praise",
+        "url": "https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Dogrel",
         "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 463545,
       "name": "Beautiful Blue Sky",
       "url": "https://open.spotify.com/track/5vs3jJj3AhJMgIycoiF5Tx"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Food for Worms",
-        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
-      },
-      "artists": [
-        {
-          "name": "shame",
-          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
-        }
-      ],
-      "duration_ms": 231968,
-      "name": "Six-Pack",
-      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Welfare Jazz",
+        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 279817,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "wollte nie",
         "url": "https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO"
       },
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Welfare Jazz",
-        "url": "https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu"
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
       "artists": [
         {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
         }
       ],
-      "duration_ms": 279817,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/1kLnA3KtwwY9XeHNFjIHWK"
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Bright Green Field",
-        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 483800,
-      "name": "Pamphlets",
-      "url": "https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "TRU",
         "url": "https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 202528,
       "name": "Stick",
       "url": "https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Bright Green Field",
+        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 483800,
+      "name": "Pamphlets",
+      "url": "https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        }
-      ],
-      "duration_ms": 347506,
-      "name": "Good morning (red)",
-      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Holding Hands with Jamie",
-        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
       },
       "artists": [
         {
-          "name": "Gilla Band",
-          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
         }
       ],
-      "duration_ms": 413721,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
+      "duration_ms": 347506,
+      "name": "Good morning (red)",
+      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 204786,
       "name": "This Heat",
       "url": "https://open.spotify.com/track/70H0Quqm0SwkmjlcaRy74B"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Holding Hands with Jamie",
+        "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "duration_ms": 413721,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "It's a Myth",
-        "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
       },
       "artists": [
         {
-          "name": "Sneaks",
-          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
         }
       ],
-      "duration_ms": 197613,
-      "name": "Look Like That",
-      "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
     }
   ],
   "unique_name": "Post Punk",

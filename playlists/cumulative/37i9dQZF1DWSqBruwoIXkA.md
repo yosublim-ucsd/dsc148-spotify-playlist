@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> Somehow heartbreak feels good in a place like this\. Cover: Nessa Barrett
+> Somehow heartbreak feels good in a place like this\. Cover: Lauren Spencer Smith
 
-529 songs - 1 day 5 hr 17 min
+532 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [better off without me](https://open.spotify.com/track/1Ip5p31SowqjJLo2ss1afJ) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [better off without me](https://open.spotify.com/album/6NpbtHJjrRHeYqlyUaZa35) | 2:50 | 2022-03-04 |  |
 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 | 2022-09-09 | 2022-12-10 |
 | [Better Version \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 2:53 | 2022-11-18 |  |
+| [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-14 |  |
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 | 2022-10-21 |  |
 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-09 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-09 |  |
@@ -184,6 +185,7 @@
 | [Gradually](https://open.spotify.com/track/2zQ0BWsBnGckZt5PwW2Rrj) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Gradually](https://open.spotify.com/album/5HXC22e6m3XhjzpnSRmeLV) | 2:35 | 2022-01-28 | 2022-03-22 |
 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 | 2021-12-17 | 2022-10-15 |
 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 | 2021-12-17 | 2022-10-22 |
+| [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-14 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-04 | 2022-03-15 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-12-17 |  |
 | [happiness](https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 5:15 | 2021-12-17 | 2022-01-22 |
@@ -242,11 +244,11 @@
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-12-17 | 2022-10-01 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 | 2022-06-24 | 2022-12-01 |
 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 | 2021-12-17 |  |
-| [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 | 2023-06-23 |  |
+| [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 | 2023-06-23 | 2023-07-15 |
 | [i should just leave](https://open.spotify.com/track/1b2liV9Zp9IemfkwDwk9JK) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i should just leave](https://open.spotify.com/album/6tnvpdq0gI8htBVcwWMFgg) | 3:33 | 2022-02-04 | 2022-02-12 |
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-01-14 |  |
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-03-11 | 2022-12-17 |
-| [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 |  |
+| [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 | 2023-07-15 |
 | [i wish u knew](https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [i wish u knew](https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll) | 3:13 | 2022-09-23 | 2023-06-10 |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 | 2023-03-03 |
 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 | 2023-02-24 |  |
@@ -451,7 +453,7 @@
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-03-18 | 2022-04-21 |
 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 | 2022-07-22 | 2023-04-29 |
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 | 2022-07-29 |
-| [The Neighborhood](https://open.spotify.com/track/6Rk2l7DEUgUXqcCRvvsuz0) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [When It Was Over](https://open.spotify.com/album/0BVWJAk1zI0YF7JVByC0r1) | 3:13 | 2023-06-26 |  |
+| [The Neighborhood](https://open.spotify.com/track/6Rk2l7DEUgUXqcCRvvsuz0) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [When It Was Over](https://open.spotify.com/album/0BVWJAk1zI0YF7JVByC0r1) | 3:13 | 2023-06-26 | 2023-07-15 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-07-29 |  |
 | [The Night You Left](https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [The Night You Left](https://open.spotify.com/album/4R9WkXMPVd9GvS9T8WiKFj) | 2:39 | 2021-12-17 | 2022-05-20 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-12-24 |  |
@@ -499,6 +501,7 @@
 | [what i do best](https://open.spotify.com/track/1Sw30HJXHePsZPQerAtd3i) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [what i do best](https://open.spotify.com/album/1Kh0uOpiysaUTDMcqhKFXw) | 3:38 | 2023-03-10 | 2023-03-18 |
 | [What I Put You Through](https://open.spotify.com/track/4JCcXmANxb48z3WTeUHiJp) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [What I Put You Through](https://open.spotify.com/album/7mbGfCiWRq2uX7AxmYLCQC) | 3:22 | 2022-01-07 | 2023-04-01 |
 | [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 | 2023-04-14 |  |
+| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-14 |  |
 | [What's The Point?](https://open.spotify.com/track/7CiI3YwYn2RWhzlifKMYcP) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [What's The Point?](https://open.spotify.com/album/6Lu7fKadh6NxAnH1oICXMX) | 2:54 | 2022-12-09 | 2022-12-17 |
 | [When I'm Not Around](https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [When I'm Not Around](https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz) | 3:21 | 2021-12-17 | 2022-07-30 |
 | [When It Ends](https://open.spotify.com/track/2956I0IdLAutaSEmwhSPii) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [When It Ends](https://open.spotify.com/album/1omEOMchSWNS0JW7jcLWAU) | 3:49 | 2021-12-17 | 2022-05-20 |

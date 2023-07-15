@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 133 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 133 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 54 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 |
 | 55 | [flickers](https://open.spotify.com/track/6J3G0HMT4s7JBjntVifHmP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:50 |
 | 56 | [Sideways](https://open.spotify.com/track/2sEZEhH1vR9BrPKfL8KJ6t) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:23 |
-| 57 | [Give It Time](https://open.spotify.com/track/5FoziGnQmXWy3tm87PVTbb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:10 |
-| 58 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
+| 57 | [Lost Cause](https://open.spotify.com/track/72cW36itoiN4orlNQtJgGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:38 |
+| 58 | [Give It Time](https://open.spotify.com/track/5FoziGnQmXWy3tm87PVTbb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:10 |
 | 59 | [magic](https://open.spotify.com/track/5WWsBnrZ7vcjJSdvPJAVuO) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:25 |
 | 60 | [Hey You](https://open.spotify.com/track/0vaiDuoXItlByGGDTA0Ere) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Places](https://open.spotify.com/album/7k39NBjViaNw8dpzNpiXwA) | 3:07 |
 | 61 | [Little Bit Of Love](https://open.spotify.com/track/26yuncamqQJwiuf4mUJMbj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:22 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 111 | [Shared Walls \(feat\. BRELAND\)](https://open.spotify.com/track/2ifqSgNUyKObO70UIorQ3z) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:48 |
 | 112 | [one drink away](https://open.spotify.com/track/4adKzUS4pIdNstzST1pt3k) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one drink away](https://open.spotify.com/album/0fhe0dFZsaAvonOdFg34GT) | 3:10 |
 | 113 | [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 |
-| 114 | [Blue](https://open.spotify.com/track/5BJxAC8z24xj9jLIkq6w1e) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [85% Proof](https://open.spotify.com/album/53BW7woIZ5rq1sjVFKxWhQ) | 3:35 |
-| 115 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
+| 114 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 |
+| 115 | [Blue](https://open.spotify.com/track/5BJxAC8z24xj9jLIkq6w1e) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [85% Proof](https://open.spotify.com/album/53BW7woIZ5rq1sjVFKxWhQ) | 3:35 |
 | 116 | [Crying In Public](https://open.spotify.com/track/5Vqk0qGS6TIsymA93Nv5ob) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 4:00 |
 | 117 | [let love in](https://open.spotify.com/track/4mPuSd87gLkneDUVkZywi4) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:08 |
 | 118 | [pale blue dot](https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:22 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 132 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
 | 133 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `MjgxNTUwMTAsMDAwMDAwMDA0MWQyYmY4YzI0Y2QzYzQwY2RiODVkY2M1MzM1NGY5ZQ==`
+Snapshot ID: `MjgxNTY0NTAsMDAwMDAwMDAzYjQ5Y2UyOTE5ODAxZWQ1YjYwYzJiYmJkZjBhMjZjYg==`

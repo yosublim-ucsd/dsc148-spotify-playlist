@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 
 > Timeless Salsa from your favorite legends\. Cover: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,207,298 likes - 100 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,207,724 likes - 100 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 87 | [La Rueda](https://open.spotify.com/track/5dOWipP9winLed8B0Ajoxa) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero \(Vol 2\)](https://open.spotify.com/album/7hVgZj58AvnzHHzxw3Oqyh) | 6:26 |
 | 88 | [No Me Acostumbro](https://open.spotify.com/track/4HEIPKvipeKYPlC91MZGxC) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:49 |
 | 89 | [Amiga](https://open.spotify.com/track/3P97s0cNCeHeNGvfAe7WYE) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Frente a Frente](https://open.spotify.com/album/2Dw5D1wfcJNOysJfMy30QV) | 4:40 |
-| 90 | [Talento De Televisión](https://open.spotify.com/track/06YYzWTAibpHPEJTl4zVvm) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tras La Tormenta](https://open.spotify.com/album/1V03D3v6evAcXycfXtepUW) | 4:40 |
-| 91 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
+| 90 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
+| 91 | [Talento De Televisión](https://open.spotify.com/track/06YYzWTAibpHPEJTl4zVvm) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tras La Tormenta](https://open.spotify.com/album/1V03D3v6evAcXycfXtepUW) | 4:40 |
 | 92 | [Plástico](https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 6:41 |
 | 93 | [Aguanile](https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Juicio](https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW) | 6:09 |
 | 94 | [Sin Poderte Hablar](https://open.spotify.com/track/3SJj8sSpkMuSWXd2P7mfRR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT) | 5:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7SeoIaFyTmA.md) - [plain]
 | 99 | [Buscando Guayaba](https://open.spotify.com/track/3DwtTnJIibZT65XzWkiLaT) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra \(Special Edition\)](https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ) | 5:45 |
 | 100 | [Parece Mentira](https://open.spotify.com/track/1ACM4nDDjhWxMhy0WoWG7J) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Carlito's Way: Music From The Motion Picture](https://open.spotify.com/album/31z6Bud2aFad5ejBVQBfNP) | 5:26 |
 
-Snapshot ID: `MCw2MjhhYzJkMjIzNjBiNzNmMTE2MzQ5NjI4MjE4YTIyMDdjYzQyMjFi`
+Snapshot ID: `MCwxZmU4MmI1NDJlMGFlYjYyNTI1YjViMDA2YTZmN2VkZTQyZTZiM2Fj`

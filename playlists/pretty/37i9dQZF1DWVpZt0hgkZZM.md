@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,682 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,707 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 99 | [Fantasía Nocturna](https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h), [Gustavo Quintero](https://open.spotify.com/artist/7d1I3nQKYsBnj0uDShHrYn) | [De Película](https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb) | 2:56 |
 | 100 | [Tú Sufrirás](https://open.spotify.com/track/4ckjq1JV8PJCyZNEgFeEMA) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Fruko El Bueno: Ayunando](https://open.spotify.com/album/0zPoXzqnCDjPccDBSoXP7V) | 4:12 |
 
-Snapshot ID: `MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw`
+Snapshot ID: `MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5`

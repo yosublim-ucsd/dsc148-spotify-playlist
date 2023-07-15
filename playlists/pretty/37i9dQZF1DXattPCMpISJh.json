@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 92639,
+  "num_followers": 92705,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWU3ZDVhODZhMzUyZmMwNTZkN2U1ODI2NWU1YjhlNTU3NmU0Yzgw",
+  "snapshot_id": "MCw4ZDNiMzYxZjVhNGMzMWZlMjNmMzRjNTYwNTI5ZWJmMTA3NzVkY2Fk",
   "tracks": [
     {
       "added_at": "2023-06-02 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Broke a Sweat",
+        "url": "https://open.spotify.com/album/7zipQoqEskoBS1OGUG7xBh"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 170034,
+      "name": "Broke a Sweat",
+      "url": "https://open.spotify.com/track/5taA6pnGkqh9LRvpRpcUgW"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1671,22 +1687,6 @@
       "duration_ms": 280239,
       "name": "Make That Change",
       "url": "https://open.spotify.com/track/176TfrKxalkOzOcSG1Mhyw"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Bless This Mess",
-        "url": "https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9"
-      },
-      "artists": [
-        {
-          "name": "U.S. Girls",
-          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
-        }
-      ],
-      "duration_ms": 386020,
-      "name": "Tux (Your Body Fills Me, Boo)",
-      "url": "https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7"
     },
     {
       "added_at": "2022-06-03 04:01:00",

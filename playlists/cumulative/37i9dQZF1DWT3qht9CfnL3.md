@@ -4,7 +4,7 @@
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-114 songs - 6 hr 36 min
+115 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Sigo Extrañándote](https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:21 | 2022-07-28 |  |
 | [Sigo Extrañándote](https://open.spotify.com/track/6qDF4wWL49CAVbgT7yuHl8) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/2LYwooMTH1iJeBvWyXXWUf) | 3:21 | 2021-12-15 | 2022-07-29 |
 | [Sigo Extrañándote](https://open.spotify.com/track/78HYrKEnCaugbA8uNQj2zv) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [REGUETON HITS](https://open.spotify.com/album/1xNZuMu4uNgg8R3RFgvJSj) | 3:21 | 2022-08-25 | 2022-11-13 |
+| [SIN PASAPORTE](https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK) | [SIN PASAPORTE](https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS) | 2:08 | 2023-07-14 |  |
 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 | 2022-01-14 | 2022-02-10 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-12-15 |  |
 | [Solo de Mi](https://open.spotify.com/track/4uP3pUP18ennmz0tb3GphR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:17 | 2022-01-12 |  |

@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: El Mató a un Policía Motorizado
 
-225 songs - 12 hr 34 min
+226 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 | 2023-03-03 |  |
 | [Guanaco](https://open.spotify.com/track/4alR2UPn0Xwlg45XJNAyMS) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Guanaco](https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr) | 5:08 | 2023-04-14 | 2023-05-30 |
 | [Ha Sido](https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 4:11 | 2022-04-15 | 2023-06-04 |
-| [Hey!](https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:30 | 2023-06-30 |  |
+| [Hey!](https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:30 | 2023-06-30 | 2023-07-15 |
 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 | 2023-04-14 |  |
 | [i/O](https://open.spotify.com/track/1wd9Niui5BNBP1gGEiJ7v0) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/5EJdLmm3AohQThveyYrsQN) | 3:18 | 2022-04-15 | 2022-12-10 |
 | [Inalacanzable](https://open.spotify.com/track/4l0QVLmd1kFzP9hA6L0mJV) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Cronopaisajes \- EP](https://open.spotify.com/album/2lTbNjxusc20TmIZ6DGfJo) | 3:08 | 2022-12-30 | 2023-01-10 |
@@ -221,6 +221,7 @@
 | [True Nature](https://open.spotify.com/track/7u4CFjfUADO2LTRcFdEimj) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:22 | 2023-04-21 | 2023-07-01 |
 | [Trueno](https://open.spotify.com/track/7kBi255cSaTNYI6bNq3Yf3) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Trueno](https://open.spotify.com/album/0jqnLzo96FODjGzBeXFmXe) | 4:20 | 2022-04-15 | 2022-12-10 |
 | [Tu Tiempo](https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:25 | 2023-01-13 |  |
+| [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 | 2023-07-07 |  |
 | [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 | 2023-05-05 |  |
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 |  |
 | [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 | 2022-12-13 |

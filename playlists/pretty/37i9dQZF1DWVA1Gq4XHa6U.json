@@ -1,13 +1,29 @@
 {
-  "description": "Taking it way back! Cover: A Tribe Called Quest",
-  "num_followers": 3526542,
+  "description": "Taking it way back! Cover: Jay-Z",
+  "num_followers": 3527630,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjNjNjJlNjQwMGMyNTJjYzNhNjgxYzcyZGQxMDI5OTk3ODliOTc3",
+  "snapshot_id": "MCwwOTcwMGUwZjY4ZGIzNTUwZGNlNzk4MDQ2ZjVmZmUzMTA2OGJkYjM2",
   "tracks": [
+    {
+      "added_at": "2023-07-14 02:57:39",
+      "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
+    },
     {
       "added_at": "2023-06-30 04:12:25",
       "album": {
@@ -81,6 +97,26 @@
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
+      "added_at": "2023-07-14 02:57:39",
+      "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+    },
+    {
       "added_at": "2023-06-30 04:12:25",
       "album": {
         "name": "The Chronic",
@@ -147,6 +183,42 @@
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2023-06-30 04:12:25",
+      "album": {
+        "name": "Capital Punishment",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Still Not a Player (feat. Joe) - Radio Version",
+      "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
+    },
+    {
+      "added_at": "2023-07-14 02:57:39",
+      "album": {
+        "name": "In My Lifetime, Vol.1",
+        "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Imaginary Players",
+      "url": "https://open.spotify.com/track/2g69OToKgXkgsdmy6MlyTm"
     },
     {
       "added_at": "2023-06-30 04:12:25",
@@ -219,26 +291,6 @@
       "duration_ms": 204706,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
-    },
-    {
-      "added_at": "2023-06-30 04:12:25",
-      "album": {
-        "name": "Capital Punishment",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
-      },
-      "artists": [
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Still Not a Player (feat. Joe) - Radio Version",
-      "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
       "added_at": "2023-06-30 04:12:25",
@@ -803,22 +855,6 @@
     {
       "added_at": "2023-06-30 04:12:25",
       "album": {
-        "name": "Life Story",
-        "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
-      },
-      "artists": [
-        {
-          "name": "Black Rob",
-          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Whoa!",
-      "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
-    },
-    {
-      "added_at": "2023-06-30 04:12:25",
-      "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
       },
@@ -831,42 +867,6 @@
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
-    },
-    {
-      "added_at": "2023-06-30 04:12:25",
-      "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
-    },
-    {
-      "added_at": "2023-06-30 04:12:25",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
       "added_at": "2023-06-30 04:12:25",

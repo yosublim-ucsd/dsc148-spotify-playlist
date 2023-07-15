@@ -4,7 +4,7 @@
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Sena Mc
 
-141 songs - 6 hr 39 min
+143 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Penitência](https://open.spotify.com/track/4VHLsF3FSZBTa2ifRs5caq) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Uk Drill](https://open.spotify.com/artist/2xTSG6uGCWr6gHw9ClNxEt) | [Penitência](https://open.spotify.com/album/39D29Bvxy0SzMxhy3XlvCV) | 2:17 | 2023-04-28 | 2023-07-08 |
 | [Pente de 30](https://open.spotify.com/track/5ykEJNLrXkkgShLyPaJt2e) | [OG BRITTO](https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Nova Febre](https://open.spotify.com/album/1sJhdEu5L79eaACENANaas) | 2:43 | 2022-03-11 | 2022-09-10 |
 | [Pente Ta Girando](https://open.spotify.com/track/4xRLcusfqhhm2kXAqQCKxr) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Bin](https://open.spotify.com/artist/1KsLkN2H4uAgG9MuVbCLwj) | [Ivm Tape](https://open.spotify.com/album/5kdXB5S4i5SptU7NQe9iO7) | 2:07 | 2022-03-11 | 2022-03-31 |
+| [Perverso](https://open.spotify.com/track/6WbDPOpaBc4rPvxWBO9xVE) | [Shifu](https://open.spotify.com/artist/0P7qtYjwHyjSPrkVW8QBJ2), [Beats by GorJah](https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU) | [Perverso](https://open.spotify.com/album/46mCUza6EREU7YAjCMllFL) | 2:29 | 2023-07-14 |  |
 | [Pop Smoke Freestyle](https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 3:07 | 2023-01-09 | 2023-06-17 |
 | [POSTURADA](https://open.spotify.com/track/0euWggV5fDuqETOiM7q9Fy) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [POSTURADA](https://open.spotify.com/album/3F6LShFIMQmNiD1qTc6zf8) | 3:04 | 2022-03-11 | 2022-06-04 |
 | [Profissão de Risco](https://open.spotify.com/track/0VbsQqFP4YkpiwyjIXC21h) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Profissão de Risco](https://open.spotify.com/album/7mMoKdsoG6KO15aaScHWn3) | 3:12 | 2022-03-11 | 2022-06-18 |
@@ -145,9 +146,10 @@
 | [Tipo Anitta](https://open.spotify.com/track/5msSmXkhf6SCzxsInUsplR) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb) | [Tipo Anitta](https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC) | 2:31 | 2023-06-30 |  |
 | [Toque no Radinho](https://open.spotify.com/track/4KCz6JYsOCIJ90O7Zw19Ul) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Toque no Radinho](https://open.spotify.com/album/0jUF2y324k3JkjotbjyM8Z) | 1:54 | 2022-11-11 | 2023-01-10 |
 | [Tudo Normal](https://open.spotify.com/track/4sz8h0kSMFmZ9NLQi74sL0) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [$aint GR](https://open.spotify.com/artist/4efJxp2bt5eBfZAvUeFANX) | [Tudo Normal](https://open.spotify.com/album/0cKG3KX7J1dav336uX2rG2) | 2:45 | 2023-01-27 | 2023-04-29 |
+| [um quebrada inteligente!](https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 1:56 | 2023-07-14 |  |
 | [Underdog](https://open.spotify.com/track/7wtPXyuaLkcYJDGYy9MrME) | [Well](https://open.spotify.com/artist/2JCYooigSy6wfahpfssCCp) | [Underdog](https://open.spotify.com/album/5I8gLJU4MAPWmc6hazfd27) | 2:04 | 2022-03-11 | 2022-04-02 |
 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 | 2022-11-04 |  |
-| [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 | 2022-11-11 |  |
+| [Vilão / Kmila Cdd](https://open.spotify.com/track/59axndxpWFGRG6Hee9isUL) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd), [Lastra](https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD), [MC Martina](https://open.spotify.com/artist/5Zdd7OXYYhoqgGlF6dKxde) | [DE CRIA PRA CRIA](https://open.spotify.com/album/201Vl6NCeUaR2c4bnSxYad) | 2:16 | 2022-11-11 | 2023-07-15 |
 | [Água de Bandido](https://open.spotify.com/track/3ZsJos5VyV11RBrAQiFzwl) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC) | [Água de Bandido](https://open.spotify.com/album/4Ux9Ebf8gKneh0iZPfY6Kc) | 2:20 | 2022-03-11 | 2022-03-26 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

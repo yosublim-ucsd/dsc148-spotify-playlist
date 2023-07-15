@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: Oxlade
 
-615 songs - 1 day 3 hr 40 min
+616 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Doe Relax](https://open.spotify.com/track/63ANt1keuFy8YUYwbG7mi0) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Doe Relax](https://open.spotify.com/album/1Go7CDqkwfpBunTk2ZPLzk) | 2:40 | 2023-06-29 |  |
 | [Doe Wat Je Doet](https://open.spotify.com/track/5wwjB3x0ULGlZ4o2xJwqzM) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Doe Wat Je Doet](https://open.spotify.com/album/5vn20sanTK8TRN2JyQrymL) | 2:14 | 2023-03-09 | 2023-06-30 |
 | [Dopamine](https://open.spotify.com/track/1V4XSOJzzGKNMjr9S5Ml2Q) | [Brysa](https://open.spotify.com/artist/20bXifvyaank813LMJGw5G) | [Dopamine](https://open.spotify.com/album/1gTywEF0u2qLADTzEnwbsd) | 3:00 | 2023-01-12 | 2023-01-27 |
+| [Drip Too Hard](https://open.spotify.com/track/4xgOUgmKvclx8XgN4Bczl9) | [Maro 1M](https://open.spotify.com/artist/3de3HdAP52z8B3zy4eF3Al), [JMREAL](https://open.spotify.com/artist/2yc9QbVP7y2d2zDUTr3gj2) | [Drip Too Hard](https://open.spotify.com/album/4ySZ9lFVCjQo6EYamtmU7y) | 2:34 | 2023-07-13 |  |
 | [Droom](https://open.spotify.com/track/1Fez3BtcXdUBgCR2UsLFYd) | [RUGGED](https://open.spotify.com/artist/7HVtSgsv5Ye0Y6ntC97jbW), [Makkie](https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo), [Sandersville](https://open.spotify.com/artist/4PwNo9ExQ9lVXrYMoJLh7A) | [Droom](https://open.spotify.com/album/2rBEVbed3nOPX7UYHIoIgs) | 2:36 | 2023-03-30 | 2023-04-07 |
 | [Druk](https://open.spotify.com/track/6Eig12I0DJsLK6WaNia5E6) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Druk](https://open.spotify.com/album/3RBRLi9fvabjM1xj5cO6uC) | 1:52 | 2022-10-13 | 2022-11-26 |
 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-02-16 | 2023-05-12 |

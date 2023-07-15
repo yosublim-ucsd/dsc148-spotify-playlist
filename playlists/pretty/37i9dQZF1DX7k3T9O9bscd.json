@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. L.A Priest on cover.",
-  "num_followers": 372072,
+  "num_followers": 372236,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmZkZmZjZDA4NmU2MDA1MDBjZWEyYWE1YjYxYzBjMjc5YTI2MjMz",
+  "snapshot_id": "MCwzYzI5YjNjZGJkNGE5NmVjZDA2NGI0M2M0YzZkMjk0ZjNiMDdiNzJj",
   "tracks": [
     {
       "added_at": "2023-07-14 01:25:54",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+        "name": "Corsicana Lemonade",
+        "url": "https://open.spotify.com/album/5Zisnw28sCEenTsdH1D8Hj"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "White Denim",
+          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
         }
       ],
-      "duration_ms": 266992,
-      "name": "Fuzz Jam",
-      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+      "duration_ms": 244346,
+      "name": "At Night in Dreams",
+      "url": "https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Corsicana Lemonade",
-        "url": "https://open.spotify.com/album/5Zisnw28sCEenTsdH1D8Hj"
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
       "artists": [
         {
-          "name": "White Denim",
-          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
         }
       ],
-      "duration_ms": 244346,
-      "name": "At Night in Dreams",
-      "url": "https://open.spotify.com/track/163jsgXXOKqhuQdT6pRPc5"
+      "duration_ms": 266992,
+      "name": "Fuzz Jam",
+      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "The Underdog",
-        "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
-      },
-      "artists": [
-        {
-          "name": "GUM",
-          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
-        }
-      ],
-      "duration_ms": 285643,
-      "name": "The Blue Marble",
-      "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Don't Delay, Join Today!",
         "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 128917,
       "name": "Strange Secrets Worth Knowing",
       "url": "https://open.spotify.com/track/0XDFrRl5464H97zLQZiC1W"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "The Underdog",
+        "url": "https://open.spotify.com/album/3t24SFsyPmgC5K20d3aOof"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        }
+      ],
+      "duration_ms": 285643,
+      "name": "The Blue Marble",
+      "url": "https://open.spotify.com/track/4qvPp0Lt3MWWwHVb72Taox"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Egypt",
-        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
-      },
-      "artists": [
-        {
-          "name": "KYANOS",
-          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
-        }
-      ],
-      "duration_ms": 261634,
-      "name": "Egypt",
-      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Jukebox Babe",
-        "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
+        "name": "Egypt",
+        "url": "https://open.spotify.com/album/31ZG86kVsR9TpKp80LaBLc"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "KYANOS",
+          "url": "https://open.spotify.com/artist/3cUDiKFw3eDH0KnAoJBPGD"
         }
       ],
-      "duration_ms": 384895,
-      "name": "Jukebox Babe",
-      "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
+      "duration_ms": 261634,
+      "name": "Egypt",
+      "url": "https://open.spotify.com/track/3vX1OAHdl2R8XAWDxffrqy"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Jukebox Babe",
+        "url": "https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+      "duration_ms": 384895,
+      "name": "Jukebox Babe",
+      "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+      },
+      "artists": [
+        {
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+        }
+      ],
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
         "name": "Reap the Storm",
         "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Another Quiet Sunday",
-        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
-      },
-      "artists": [
-        {
-          "name": "Meltt",
-          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Another Quiet Sunday (Keep Moving On)",
-      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Sancocho Stereo",
         "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Another Quiet Sunday",
+        "url": "https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Another Quiet Sunday (Keep Moving On)",
+      "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Steeple",
-        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 318960,
-      "name": "Silbury Sands",
-      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "The Real Work",
         "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 266737,
       "name": "Risky Behaviour",
       "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Steeple",
+        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 318960,
+      "name": "Silbury Sands",
+      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Sacred Drugs",
         "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 186858,
       "name": "A Shaman's Hand is Infinite",
       "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "The Exorcist GBG",
-        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
+        "name": "Pascuales",
+        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
       },
       "artists": [
         {
-          "name": "The Exorcist GBG",
-          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
+          "name": "Bobui",
+          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
         }
       ],
-      "duration_ms": 174803,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
+      "duration_ms": 217103,
+      "name": "Pascuales",
+      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Pascuales",
-        "url": "https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz"
+        "name": "The Exorcist GBG",
+        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
       },
       "artists": [
         {
-          "name": "Bobui",
-          "url": "https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse"
+          "name": "The Exorcist GBG",
+          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
         }
       ],
-      "duration_ms": 217103,
-      "name": "Pascuales",
-      "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
+      "duration_ms": 174803,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Guayabo de Agua Ardiente",
-        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 220287,
-      "name": "Marihuana",
-      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+        "name": "Guayabo de Agua Ardiente",
+        "url": "https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9"
       },
       "artists": [
         {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
+      "duration_ms": 220287,
+      "name": "Marihuana",
+      "url": "https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
         "name": "Plastic Eternity",
         "url": "https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 264573,
       "name": "Almost Everything",
       "url": "https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Youth Accomplished",
+        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
+      },
+      "artists": [
+        {
+          "name": "Seabiscuit",
+          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "Youth Accomplished",
+      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1579,22 +1595,6 @@
       "duration_ms": 221893,
       "name": "Panic In The Isles Of Splendor",
       "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
-        "name": "Youth Accomplished",
-        "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
-      },
-      "artists": [
-        {
-          "name": "Seabiscuit",
-          "url": "https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "Youth Accomplished",
-      "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
     },
     {
       "added_at": "2023-07-14 01:25:54",

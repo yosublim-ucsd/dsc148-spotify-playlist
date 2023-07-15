@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,845 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,862 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 8 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 |
 | 9 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 |
 | 10 | [Saca la Chela](https://open.spotify.com/track/3aZXqmXuF0lSmhV3AliJMc) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:09 |
-| 11 | [Miserlou](https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [King of the Surf Guitar](https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A) | 2:15 |
-| 12 | [Inadaptado](https://open.spotify.com/track/6Vu86eSC53iqUvwCH17y3E) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3) | [Inadaptado](https://open.spotify.com/album/2gSOt3UB4wkBFd8kWYzQCg) | 2:16 |
+| 11 | [Inadaptado](https://open.spotify.com/track/6Vu86eSC53iqUvwCH17y3E) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3) | [Inadaptado](https://open.spotify.com/album/2gSOt3UB4wkBFd8kWYzQCg) | 2:16 |
+| 12 | [Miserlou](https://open.spotify.com/track/6CpYgr1lWHTmPHhNzMIQnW) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [King of the Surf Guitar](https://open.spotify.com/album/1nZdm2NWYjweOEXNzct84A) | 2:15 |
 | 13 | [Shell Island](https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:23 |
 | 14 | [Monstruo Verde](https://open.spotify.com/track/0gcZCJrIY0biWG100VrLKq) | [Ultrasonicas](https://open.spotify.com/artist/6ZZohniy25l0RCVUXYIDrV) | [Yo Fui una Adolescente Terrosatánica](https://open.spotify.com/album/3zMDMHmWNh5JvoMf9WEL1S) | 2:13 |
 | 15 | [Rocket Song](https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN) | [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K), [Stag Girls](https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5) | [Rocket Song](https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 74 | [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 |
 | 75 | [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 |
 
-Snapshot ID: `MCw1ZjZjZDQ0MzRkOTgyODczYzZlMGNjZjU5NjI3M2VlMjczZjk0OGE3`
+Snapshot ID: `MCxjNTJlMmFiNGUzMDM5OWQ2MjBjMWZmOTlhZjMwMzU4MDk5NDc2YjNl`

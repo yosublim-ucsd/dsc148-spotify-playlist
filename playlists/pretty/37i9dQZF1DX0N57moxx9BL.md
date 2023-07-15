@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,655 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,722 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 51 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 |
 | 52 | [Feel](https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I) | 3:20 |
 | 53 | [This Is Not the End](https://open.spotify.com/track/11pLHuPSrpIWJzABVIvIL9) | [Safemode](https://open.spotify.com/artist/5InkxhIueaCerWquUvxOZN) | [Colorblind](https://open.spotify.com/album/4pwzY5f8l4vlNT1B7SHWKt) | 4:26 |
-| 54 | [The Light](https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Light](https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C) | 3:21 |
-| 55 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 |
+| 54 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 |
+| 55 | [The Light](https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [The Light](https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C) | 3:21 |
 | 56 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 |
 | 57 | [Fear](https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm) | 3:45 |
 | 58 | [SILENCE THE WORLD](https://open.spotify.com/track/01Pair9pvTuMRBcKzpwJ2P) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Tom S\. Englund](https://open.spotify.com/artist/1JlSPIWzXu3HwBgealhTIk) | [SILENCE THE WORLD](https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw) | 7:13 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 61 | [Chariots \- Live](https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Barbarians \(Live\)](https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo) | 6:22 |
 | 62 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 |
 | 63 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 |
-| 64 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
-| 65 | [Dark Cold Night](https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Dark Cold Night](https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB) | 4:41 |
+| 64 | [Dark Cold Night](https://open.spotify.com/track/72bKH2Kp1BT69a3xjYkej0) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Dark Cold Night](https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB) | 4:41 |
+| 65 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 |
 | 66 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 |
 | 67 | [Still Alive](https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Still Alive](https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3) | 3:19 |
 | 68 | [Burn Back the Sun](https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Acoustic \- EP](https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA) | 3:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Pls Snd Hlp](https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu) | [Death Therapy](https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo) | [Melancholy Machines](https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz) | 4:15 |
 | 80 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 |
 
-Snapshot ID: `MCxmOTZiYmMxYzE2M2U4NmZjYjMxMTkxYjM0ZmM2NWRjZDBkMWI5NTQw`
+Snapshot ID: `MCw3NWQzMTg1MmIwZTBmYWQ3MGFhNWI0M2Y2MmY2ZTAwYmUxNTgzYTQ3`

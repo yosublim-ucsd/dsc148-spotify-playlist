@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Monkey Safari
 
-2,141 songs - 8 day 0 hr 28 min
+2,143 songs - 8 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1733,7 +1733,8 @@
 | [Speed of Sound](https://open.spotify.com/track/4UFmK1Cvam4YaAoISiyUJG) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Speed Of Sound](https://open.spotify.com/album/0saoiEzAyhQ3ihzzGflYnW) | 7:11 | 2022-05-05 | 2022-05-27 |
 | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/track/3fdKyjUyrinYOZzf2788Tk) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Speed Trials On Acid \(feat\. Dan Diamond\)](https://open.spotify.com/album/1bns5qLB6y3g6KEo9QGsfR) | 3:23 | 2022-04-14 | 2022-04-22 |
 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 | 2022-10-13 | 2022-11-04 |
-| [Spiritual Experience](https://open.spotify.com/track/6mdEaXqlhLkW6Hi3thBOSK) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Bangers, Vol\. 8](https://open.spotify.com/album/1Mt8y2tlmINKpsigIaXq8J) | 4:33 | 2023-07-14 |  |
+| [Spiritual Experience](https://open.spotify.com/track/0xaYqC37eY4tNFdHQYG2yP) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Spiritual Experience](https://open.spotify.com/album/5SRjebL4m70r2YbqD4Dj8Y) | 4:33 | 2023-07-14 |  |
+| [Spiritual Experience](https://open.spotify.com/track/6mdEaXqlhLkW6Hi3thBOSK) | [Skober](https://open.spotify.com/artist/4QJx1t358F7E4O1lZ8g0B2) | [Bangers, Vol\. 8](https://open.spotify.com/album/1Mt8y2tlmINKpsigIaXq8J) | 4:33 | 2023-07-14 | 2023-07-15 |
 | [Splash](https://open.spotify.com/track/5f45g0NAjeNj2a13V6EHtZ) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Splash](https://open.spotify.com/album/3Xx6P2yU8cPNxfKAcMAWxH) | 6:27 | 2022-04-14 | 2022-05-06 |
 | [Splinter](https://open.spotify.com/track/3B5YQpwpsvEuwLgTSShNKP) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Splinter](https://open.spotify.com/album/3fUcvbNkAgqrJRsRWRm9Sj) | 6:36 | 2023-02-02 | 2023-02-24 |
 | [Stabilo](https://open.spotify.com/track/5Kq5MqMhVdGjLCvXlFtgOa) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Speicher 121](https://open.spotify.com/album/7lrT53pOpqC7PxnWSkeIAt) | 6:02 | 2022-05-12 | 2022-05-27 |
@@ -1797,7 +1798,8 @@
 | [Take Two](https://open.spotify.com/track/4g8jAI4REmgqoE9aDZwFZi) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:19 | 2022-10-06 | 2022-10-21 |
 | [Take You](https://open.spotify.com/track/6CWvElMTKXAZ1jTrqHczPz) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Take You](https://open.spotify.com/album/0GtlyPeJ3UhVY5yX2JVlzP) | 5:24 | 2022-07-28 | 2022-08-19 |
 | [Take You](https://open.spotify.com/track/1Mqg86bac6H0wgukTgG3gR) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:13 | 2023-04-13 | 2023-04-28 |
-| [Take You Higher](https://open.spotify.com/track/2GPPFrJJeHU5akB3xX9RBO) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Bangers, Vol\. 8](https://open.spotify.com/album/1Mt8y2tlmINKpsigIaXq8J) | 4:20 | 2023-07-14 |  |
+| [Take You Higher](https://open.spotify.com/track/2GPPFrJJeHU5akB3xX9RBO) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Bangers, Vol\. 8](https://open.spotify.com/album/1Mt8y2tlmINKpsigIaXq8J) | 4:20 | 2023-07-14 | 2023-07-15 |
+| [Take You Higher](https://open.spotify.com/track/2pgiLqOsWEhUfH8DUU2Uo1) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Take You Higher](https://open.spotify.com/album/0DyO0q5qrW3zfAB7AvSn2r) | 4:20 | 2023-07-14 |  |
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-02-23 | 2023-03-10 |
 | [Talk to Me](https://open.spotify.com/track/6BFzmtSA61THG4hc5D9HgP) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Talk to Me](https://open.spotify.com/album/4v0AzbQrI2CB5r8Qz58LJQ) | 5:46 | 2022-11-25 | 2022-12-09 |
 | [Talom](https://open.spotify.com/track/3mMukwl5iDMi518Uf9usgg) | [Iñigo Vontier](https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2) | [Talom](https://open.spotify.com/album/5KFDMwb90MGxvAnK8ndolH) | 7:37 | 2022-11-03 | 2022-11-18 |

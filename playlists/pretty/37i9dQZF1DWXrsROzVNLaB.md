@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,042 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,041 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 | 75 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
 
-Snapshot ID: `MCxmNzU5ZjE4ZDgxOTBjOTc5MTAwMTdmZTlmMjQ5MTQxNWFiODUxNjMy`
+Snapshot ID: `MCw5ZDA4ODBkMmU4ODljZTYyMDQxOGI2MDU2YzM1NmU3MGUyNzE2Y2Qx`

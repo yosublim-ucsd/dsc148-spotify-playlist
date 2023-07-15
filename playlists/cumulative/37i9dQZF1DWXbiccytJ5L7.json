@@ -297,6 +297,32 @@
     },
     {
       "album": {
+        "name": "Pour Decisions",
+        "url": "https://open.spotify.com/album/58ChYckljCDpVg5HEHecaM"
+      },
+      "artists": [
+        {
+          "name": "Moonshine Bandits",
+          "url": "https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG"
+        },
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        },
+        {
+          "name": "Brandon Hartt",
+          "url": "https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275487,
+      "name": "Can't Take My Hometown",
+      "url": "https://open.spotify.com/track/0ebCxstXoGh2gQ81SaRCku"
+    },
+    {
+      "album": {
         "name": "Cheatham County",
         "url": "https://open.spotify.com/album/0gN8RBGUyEGmhUNDT98vG4"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 161756,
+  "num_followers": 161818,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjc0OWI2OGYwYzBkOGJjYmM5M2FmZDk3YTM4Y2M2OTY5M2JmODdl",
+  "snapshot_id": "MCxjMDAwZWQ5ODUxMGJkNDYyYzI3OGZjYmY2ZTExYTdhY2E4ZjUxMWZi",
   "tracks": [
     {
       "added_at": "2023-04-06 20:01:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "El Renacimiento",
         "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 170926,
       "name": "Obra de Arte",
       "url": "https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "Cycles of Existential Rhyme",
         "url": "https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 204585,
       "name": "Explotar Contigo",
       "url": "https://open.spotify.com/track/4ZCRkqTO36YSyMEjQukC9s"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/7jgBDJZfhiHnIhekjFUrsX"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
         "name": "O Marineros",
         "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1351,6 +1335,22 @@
       "duration_ms": 232594,
       "name": "Espera (feat. Carlos Sadness)",
       "url": "https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2023-04-06 20:01:50",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-04-06 20:01:50",
       "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
+    },
+    {
+      "added_at": "2023-04-06 20:01:50",
+      "album": {
         "name": "#ponteelcasco",
         "url": "https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
-    },
-    {
-      "added_at": "2023-04-06 20:01:50",
-      "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
     },
     {
       "added_at": "2023-04-06 20:01:50",

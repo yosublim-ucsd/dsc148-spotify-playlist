@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Americana's artists and hits of tomorrow\. Cover: Jess Williamson
+> Americana's artists and hits of tomorrow\. Cover: Gabe Lee
 
-176 songs - 10 hr 46 min
+179 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,13 +68,13 @@
 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 | 2022-01-28 |  |
 | [Good Ol' Boys with Bad Names](https://open.spotify.com/track/659Vb5AFqIdFiMDY8GXUAp) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Good Ol' Boys with Bad Names](https://open.spotify.com/album/2LbLo3eYCbE3CTe4sYQmM0) | 1:54 | 2023-02-03 |  |
 | [Goodbye to Goodbye](https://open.spotify.com/track/3cwJEaPREKbmAOqG1cIx2T) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [For You](https://open.spotify.com/album/5Gv1mY3pYSO0mEu7J3aR9F) | 3:46 | 2022-01-28 |  |
-| [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 | 2022-01-28 |  |
+| [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 | 2022-01-28 | 2023-07-15 |
 | [Guilty](https://open.spotify.com/track/1WKRU8ovR8lbHD5gIj8h2P) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/50ahLeRHDEANoAMhDnaNCz) | 3:02 | 2022-01-28 | 2023-03-02 |
 | [Guilty](https://open.spotify.com/track/1lGb5arfGbuaf3x8WItW47) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/16IHuRaNklgTjUc3NnJ3kW) | 3:02 | 2023-02-03 |  |
 | [Happy Pills](https://open.spotify.com/track/4TjeuEN4Mzs2UdXxqrt5sO) | [Palmyra](https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664) | [Happy Pills](https://open.spotify.com/album/1z80jhU5ePCPO7ifdcx48G) | 4:18 | 2023-05-19 |  |
 | [Hardlytown](https://open.spotify.com/track/0vgKumXafJCisk3fYWnGjh) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Hardlytown](https://open.spotify.com/album/0hD9U5UhKA4iS1fzqZs1Wd) | 3:17 | 2022-01-28 | 2022-07-29 |
 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 | 2022-01-28 | 2023-01-14 |
-| [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2022-01-28 |  |
+| [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 | 2022-01-28 | 2023-07-15 |
 | [Hideout](https://open.spotify.com/track/0WB8tErWLgN3ryFfb6Q7mt) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Cabin Fever](https://open.spotify.com/album/4OCXEMDB1088w6rgKPlvQu) | 2:59 | 2022-01-28 |  |
 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 | 2022-01-28 |  |
 | [Hoosick Falls](https://open.spotify.com/track/2RCveERzynw07cuubInrQW) | [Greg Farley](https://open.spotify.com/artist/48FqRYHnlios7c0zPBtYGt) | [Brown Bag](https://open.spotify.com/album/1LjbS8lcS4bRLHbdqGtSfb) | 4:55 | 2022-01-28 | 2023-05-27 |
@@ -134,7 +134,7 @@
 | [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 | 2023-01-13 | 2023-01-21 |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2022-01-28 |  |
 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 | 2023-04-07 |  |
-| [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 | 2023-05-26 |  |
+| [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 | 2023-05-26 | 2023-07-15 |
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 |  |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
 | [Rocketeer](https://open.spotify.com/track/1lXuPPfUPCdq7JFojUGxnH) | [Church Of Roswell](https://open.spotify.com/artist/2toNel9SL1qwF6mZQbUSGX) | [Rocketeer](https://open.spotify.com/album/2lXjjKiENrSXPFeNCNhDiQ) | 3:45 | 2022-01-28 | 2023-06-10 |
@@ -165,15 +165,18 @@
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-01-13 |  |
 | [The Storm](https://open.spotify.com/track/4bUtK3pb9bSQ4b3PkDpACx) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Ten Thousand Roses](https://open.spotify.com/album/1IR5XtRzYQd7U2WFXkZc45) | 3:07 | 2022-01-28 |  |
 | [The Way I Oughta Go](https://open.spotify.com/track/05Cag2o2f2h3R3WGyArxUV) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:10 | 2023-01-13 |  |
+| [The Wild](https://open.spotify.com/track/67DcJLjYcJdAA2LMXFtob3) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Drink The River](https://open.spotify.com/album/66w66TUwHavAnh3f0cOQdj) | 4:23 | 2023-07-14 |  |
 | [The World: Alone](https://open.spotify.com/track/22rvKfTgeIZdDLvMJH0F5y) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [The World: Alone](https://open.spotify.com/album/4azLnHgYxxuwuHoq64URiR) | 3:47 | 2022-01-28 | 2022-07-29 |
 | [The World: Alone](https://open.spotify.com/track/0Dm78oyjOyOMkWyKhbbkEP) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 3:50 | 2022-01-28 | 2023-04-09 |
 | [The World: Alone](https://open.spotify.com/track/5ItmN0D2K2Db0C71TSmG2H) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children: Tilted Crown](https://open.spotify.com/album/4dtznENq1I2Km4Vn2V7DSV) | 3:50 | 2022-10-14 | 2022-11-13 |
+| [This Far South](https://open.spotify.com/track/7aoLqFjMmh86wl4qRXunaP) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/078Nefie7KQPI2LW8gIHDP) | 3:15 | 2023-07-14 |  |
 | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [This Town \(feat\. Shakey Graves\)](https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU) | 2:48 | 2022-01-28 |  |
 | [Tonight](https://open.spotify.com/track/584iamLesWpkNiRfmzKHQE) | [Duquette Johnston](https://open.spotify.com/artist/3jTURi0lXFxmg9f1cd5owQ) | [Tonight](https://open.spotify.com/album/2uVbxTH1y32WDH6dU1jPGl) | 3:32 | 2022-02-10 |  |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/1R9i1h5FaYiGvD7sb99Wm2) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Too Late to Write a Love Song](https://open.spotify.com/album/3AjkLHPV9FObFpPpzeSnw0) | 3:14 | 2022-01-28 |  |
 | [Too Much](https://open.spotify.com/track/3gKAMlneLCgY1UJN4L8OcO) | [Fretland](https://open.spotify.com/artist/0L5WuCpuA7ezlQ6fIQZjAx) | [Too Much](https://open.spotify.com/album/6JDWryv4R0JedhQeNQfAxG) | 3:37 | 2022-01-28 | 2023-06-10 |
 | [Town Rat Heathen](https://open.spotify.com/track/2HejKAEp72UT8ylW4oR515) | [Hunter Root](https://open.spotify.com/artist/47SbXzs4EiqXQCeZBvUtmh) | [Town Rat Heathen](https://open.spotify.com/album/1n0YaTORO0LV6GYmTsAXZl) | 2:53 | 2023-02-03 |  |
 | [Tried & True](https://open.spotify.com/track/2dXnwoP5yJvpVbn6u8UymM) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Tried & True](https://open.spotify.com/album/5JyIDBaqTLT1PEc8LeE5iG) | 3:07 | 2023-01-20 |  |
+| [Varnado](https://open.spotify.com/track/78ctqi5omDE6dJJ1AQNtub) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [Varnado](https://open.spotify.com/album/1uhS0UMkjr0g9zCNHgrFNU) | 4:02 | 2023-07-14 |  |
 | [Waltz Across Texas](https://open.spotify.com/track/5drS8Hv8Q8fufYOn9km0UT) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU) | [Loving You](https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR) | 2:47 | 2023-06-23 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |

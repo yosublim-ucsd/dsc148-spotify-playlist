@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Walk the bridge between indie and folk. Cover: Maple Glider",
+  "description": "Walk the bridge between indie and folk. Cover: Chance Pe\u00f1a",
   "name": "Folk Arc",
   "tracks": [
     {
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 272315,
       "name": "Far From You",
       "url": "https://open.spotify.com/track/2cHHKwH6b64BYTowQuvP7c"
@@ -3543,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Lovers to Strangers",
+        "url": "https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174086,
+      "name": "Lovers to Strangers",
+      "url": "https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK"
+    },
+    {
+      "album": {
         "name": "Sam Amidon",
         "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 148000,
       "name": "Persephone",
       "url": "https://open.spotify.com/track/3Gi5PGt4oDR6izqgUt0tmY"
@@ -4834,7 +4852,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-02",
+      "date_removed": null,
       "duration_ms": 260721,
       "name": "Salt Circle",
       "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"

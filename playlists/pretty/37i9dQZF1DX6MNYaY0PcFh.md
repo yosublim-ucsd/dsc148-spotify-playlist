@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,829 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,881 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [Insomnia](https://open.spotify.com/track/5dC47tKuzWQs9rtpoWle71) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Channeler / Insomnia](https://open.spotify.com/album/3QMuGQzNNO520yZrW32d5E) | 4:38 |
 | 60 | [Crazy](https://open.spotify.com/track/0SOWbNlPwGqO4uO6YP5spS) | [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy), [Emma Cannon](https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Crazy](https://open.spotify.com/album/75JBBBbv7mgBvp6q8z0idD) | 4:03 |
 
-Snapshot ID: `MCw0NzNlN2Q0MmYxM2UyOGZlZmE3ZWYxNTM2M2Q2ZmU1YWQ3YmVhOWIx`
+Snapshot ID: `MCw5ZTdkN2U2YjUwNzg3ZTQ2NjAxMjEyNzM5ZGIxOWQxYTUzNDY3NDhm`

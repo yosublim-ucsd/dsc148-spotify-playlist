@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Vitória Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,660 likes - 60 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,703 likes - 60 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 53 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
 | 54 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
 | 55 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
-| 56 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
-| 57 | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/track/4eYfddvw1Xc1mGbrCLIzXB) | [Aproxime\-Se](https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT), [Luiz Lima Sobrinho](https://open.spotify.com/artist/2yHNIhCzAyRBh2XHOz7xW8) | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/album/3FcZsTAT49tBKp3T3um5W9) | 5:03 |
-| 58 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 |
-| 59 | [Anotando Pensamentos](https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz) | [Hellen Camargo](https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Anotando Pensamentos](https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT) | 4:31 |
+| 56 | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/track/4eYfddvw1Xc1mGbrCLIzXB) | [Aproxime\-Se](https://open.spotify.com/artist/5X1v73lx5t9JTcl9QHVjtT), [Luiz Lima Sobrinho](https://open.spotify.com/artist/2yHNIhCzAyRBh2XHOz7xW8) | [Boa Graça \(Good Grace\) \[Acústico\]](https://open.spotify.com/album/3FcZsTAT49tBKp3T3um5W9) | 5:03 |
+| 57 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
+| 58 | [Anotando Pensamentos](https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz) | [Hellen Camargo](https://open.spotify.com/artist/1ZIHKYRxb5VPQ4rFbS4e3f), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Anotando Pensamentos](https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT) | 4:31 |
+| 59 | [Descansa em Mim](https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8) | [Pablo Canalis](https://open.spotify.com/artist/6unLVeDztO40nUPUkl0zZm), [Do Nosso Canto](https://open.spotify.com/artist/2XCsYQtJzn7Y68gXmbH2Xk) | [Descansa em Mim](https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc) | 5:05 |
 | 60 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 |
 
-Snapshot ID: `MCwwNTRhMTE5ZWU2ZGI4ODVlMDAyYzljNWIwZjNmOWQ3MGZlNDlhNzg3`
+Snapshot ID: `MCw5MmZhYzk5MTM4MWNhZWYxNzQ5MzI3OWYzYmEzYTZjMzU0ZmMxYjM3`

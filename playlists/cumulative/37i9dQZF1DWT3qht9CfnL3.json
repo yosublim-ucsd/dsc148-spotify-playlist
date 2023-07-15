@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "SIN PASAPORTE",
+        "url": "https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128065,
+      "name": "SIN PASAPORTE",
+      "url": "https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D"
+    },
+    {
+      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd"
       },

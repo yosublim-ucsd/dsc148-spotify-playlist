@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "For a Long While",
+        "url": "https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "For a Long While",
+      "url": "https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF"
+    },
+    {
+      "album": {
         "name": "Essential Gold [Digitally Remastered]",
         "url": "https://open.spotify.com/album/1h6mrXOY7NeAYs45cSbYEZ"
       },

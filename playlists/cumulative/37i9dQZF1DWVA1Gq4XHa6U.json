@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: A Tribe Called Quest",
+  "description": "Taking it way back! Cover: Jay-Z",
   "name": "Gold School",
   "tracks": [
     {
@@ -414,6 +414,28 @@
       "duration_ms": 257690,
       "name": "Best I Ever Had",
       "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+    },
+    {
+      "album": {
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
     },
     {
       "album": {
@@ -978,7 +1000,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 266066,
       "name": "Drop It Like It's Hot",
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
@@ -1593,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
+    },
+    {
+      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -2130,6 +2170,24 @@
       "duration_ms": 221360,
       "name": "Ignorant Sh*t",
       "url": "https://open.spotify.com/track/4oEr4dm7WLOTsl1mHBJm4M"
+    },
+    {
+      "album": {
+        "name": "In My Lifetime, Vol.1",
+        "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Imaginary Players",
+      "url": "https://open.spotify.com/track/2g69OToKgXkgsdmy6MlyTm"
     },
     {
       "album": {
@@ -3858,7 +3916,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 240026,
       "name": "So Fresh, So Clean",
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
@@ -4864,7 +4922,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 238840,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"

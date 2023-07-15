@@ -129,6 +129,36 @@
     },
     {
       "album": {
+        "name": "Shiners Are Forever",
+        "url": "https://open.spotify.com/album/15xQHdl4XG9vWf7dU48IBX"
+      },
+      "artists": [
+        {
+          "name": "Young Shiners",
+          "url": "https://open.spotify.com/artist/3j8KnvnrydBHrj5y4BblMp"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "EST Marti",
+          "url": "https://open.spotify.com/artist/5DZRcxS14ntEBa4mAJkikV"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179224,
+      "name": "100+ (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6NJYGSDR7I0Bz7NlUhmlxE"
+    },
+    {
+      "album": {
         "name": "16CHOPPA (feat. Nardo Wick)",
         "url": "https://open.spotify.com/album/3oRxb1TVeDnj7XdvPa7eZk"
       },
@@ -276,7 +306,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 204000,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC"
@@ -1549,6 +1579,28 @@
     },
     {
       "album": {
+        "name": "Back Out (feat. Mello Buckzz)",
+        "url": "https://open.spotify.com/album/3HztLLSGRS1ixggz1hxPK9"
+      },
+      "artists": [
+        {
+          "name": "DCG BROTHERS",
+          "url": "https://open.spotify.com/artist/7MP0JM4me8DNocS55hbd2J"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223803,
+      "name": "Back Out (feat. Mello Buckzz)",
+      "url": "https://open.spotify.com/track/2RACJkPEwQP3pp6OSotqwT"
+    },
+    {
+      "album": {
         "name": "Backdoor",
         "url": "https://open.spotify.com/album/3rCLrfv45EOFmiqCWWQC9T"
       },
@@ -2012,7 +2064,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 158302,
       "name": "Biggest Problem",
       "url": "https://open.spotify.com/track/2oUmqDG6F5VJdzOPmeby7m"
@@ -2078,6 +2130,28 @@
       "duration_ms": 185117,
       "name": "Bitch Let's Do It",
       "url": "https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146966,
+      "name": "Bla Bla (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
     },
     {
       "album": {
@@ -5401,6 +5475,28 @@
     },
     {
       "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "From The Hood",
+      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
+    },
+    {
+      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq"
       },
@@ -6236,7 +6332,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 169880,
       "name": "Google Maps",
       "url": "https://open.spotify.com/track/1CNwYnjWQHMTmDgYxGiOHw"
@@ -7303,6 +7399,28 @@
     },
     {
       "album": {
+        "name": "Fortune Favors the Bold",
+        "url": "https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "HUSTLERS (feat. Tyga)",
+      "url": "https://open.spotify.com/track/5LNxpOCHQWtBFH0fAveAEY"
+    },
+    {
+      "album": {
         "name": "OH REALLY",
         "url": "https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W"
       },
@@ -7924,7 +8042,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 190840,
       "name": "In Dat Mode (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/1g6xClUkUvGIPMniK1xMEJ"
@@ -8990,7 +9108,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 141604,
       "name": "Lick Or Sum",
       "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
@@ -11043,6 +11161,24 @@
     },
     {
       "album": {
+        "name": "No Gun No Knife",
+        "url": "https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212088,
+      "name": "No Gun No Knife",
+      "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
+    },
+    {
+      "album": {
         "name": "Vulture",
         "url": "https://open.spotify.com/album/5MikntzsogPyecM8lRiwP4"
       },
@@ -12439,6 +12575,28 @@
     },
     {
       "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "Phil Jackson",
+      "url": "https://open.spotify.com/track/5myFWvWVb4ZZW91GiMgE8B"
+    },
+    {
+      "album": {
         "name": "Welcome To Vulture Island",
         "url": "https://open.spotify.com/album/0g96ZZ9ME5DaTwZb1VYxmo"
       },
@@ -13287,6 +13445,24 @@
     },
     {
       "album": {
+        "name": "Raw ASL",
+        "url": "https://open.spotify.com/album/7KimPKI5rbjUnx7UFd6eZC"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146075,
+      "name": "Raw ASL",
+      "url": "https://open.spotify.com/track/5lCXJ1n0JQPJM4SgSp054k"
+    },
+    {
+      "album": {
         "name": "Real As It Gets",
         "url": "https://open.spotify.com/album/59uB7zCwYHEpD7nDOdbL7s"
       },
@@ -13872,7 +14048,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 128567,
       "name": "Robberies",
       "url": "https://open.spotify.com/track/6rQ9mLqGGyqGqqMkUbZBhb"
@@ -15323,6 +15499,28 @@
     },
     {
       "album": {
+        "name": "Never Broke Again Presents: Green Flag Activity, Vol. 2",
+        "url": "https://open.spotify.com/album/2cdnrqesWQafIhaEGgBwCi"
+      },
+      "artists": [
+        {
+          "name": "Never Broke Again",
+          "url": "https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Slump (Never Broke Again feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6njzTlnGXDeUSJ0hqBRmRe"
+    },
+    {
+      "album": {
         "name": "SLUT ME OUT (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
       },
@@ -15596,7 +15794,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 167812,
       "name": "Spinnin' (feat. EST Gee)",
       "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"
@@ -15760,7 +15958,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 161515,
       "name": "Step On Sumn",
       "url": "https://open.spotify.com/track/0MW1tm7WdIVF0Kdqs7rs9t"
@@ -15778,7 +15976,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 121338,
       "name": "Step Slide",
       "url": "https://open.spotify.com/track/1cmDbkmmHVpqJmnYmknz3a"
@@ -16356,6 +16554,28 @@
       "duration_ms": 144890,
       "name": "Supposed To",
       "url": "https://open.spotify.com/track/2xBNSlEpC2Zih9ubKv4H4h"
+    },
+    {
+      "album": {
+        "name": "Swing My Doe (feat. BiC Fizzle)",
+        "url": "https://open.spotify.com/album/5eCGSttMU2qvrL9iisj4Zm"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158731,
+      "name": "Swing My Doe (feat. BiC Fizzle)",
+      "url": "https://open.spotify.com/track/4ZTbRGeqWhzv4T5gjcyoJE"
     },
     {
       "album": {
@@ -17360,6 +17580,28 @@
       "duration_ms": 162055,
       "name": "Turn The Streets Up",
       "url": "https://open.spotify.com/track/3irk5ecKiBYSIB0350rH87"
+    },
+    {
+      "album": {
+        "name": "Turn Yo Clic Up (feat. Future)",
+        "url": "https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230835,
+      "name": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
     },
     {
       "album": {
@@ -18734,7 +18976,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 167125,
       "name": "Woedy",
       "url": "https://open.spotify.com/track/0SA4nmbOKqfmpgu7yuRVLE"
@@ -18982,7 +19224,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 184686,
       "name": "YKWSF",
       "url": "https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q"

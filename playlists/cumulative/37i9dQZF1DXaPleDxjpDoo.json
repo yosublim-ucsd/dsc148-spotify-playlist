@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Peaceful Nature",
+        "url": "https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Peaceful Nature",
+      "url": "https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq"
+    },
+    {
+      "album": {
         "name": "Perfect State Of Mind",
         "url": "https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b"
       },
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 133673,
       "name": "The Gong Of Tranquility",
       "url": "https://open.spotify.com/track/1oDglI2wd2T0fPbp6K55ng"

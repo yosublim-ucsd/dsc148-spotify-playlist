@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "More Better",
+        "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/0JYFPzLH2RaghCVOFfnJsF"
+    },
+    {
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -94,6 +112,42 @@
       "duration_ms": 256026,
       "name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
       "url": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
+    },
+    {
+      "album": {
+        "name": "Attachments",
+        "url": "https://open.spotify.com/album/7qWPPA28exnMZBE9949HrL"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Balla",
+          "url": "https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "Attachments",
+      "url": "https://open.spotify.com/track/2cGc9f17zZeQk8Dcrrb67T"
+    },
+    {
+      "album": {
+        "name": "Avocado",
+        "url": "https://open.spotify.com/album/3y07ojc6T1vdc0TWlXVxoH"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Avocado",
+      "url": "https://open.spotify.com/track/5y1x8b3CwmHGFo9wKiO5gl"
     },
     {
       "album": {
@@ -142,6 +196,32 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
+        "name": "BE FORREAL",
+        "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
+      },
+      "artists": [
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "Big Bam",
+          "url": "https://open.spotify.com/artist/2NkyvcYEasg0Yd4a6domnq"
+        },
+        {
+          "name": "DJ Blizz",
+          "url": "https://open.spotify.com/artist/1QkWDabKuR7G7AcFLaN1hq"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86620,
+      "name": "BE FORREAL",
+      "url": "https://open.spotify.com/track/1RmJwFy8hk4VHTSJPU3nm9"
     },
     {
       "album": {
@@ -225,6 +305,24 @@
     },
     {
       "album": {
+        "name": "bruce.wayne",
+        "url": "https://open.spotify.com/album/2ievPG2U9RBn7XPgrmMXMy"
+      },
+      "artists": [
+        {
+          "name": "Free Music Party",
+          "url": "https://open.spotify.com/artist/0ZBJBNt9G0oUFdLMsaa02C"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "bruce.wayne",
+      "url": "https://open.spotify.com/track/74p5B5IllJ1sbjm40oTcdc"
+    },
+    {
+      "album": {
         "name": "WON'T HE DO IT",
         "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
       },
@@ -258,7 +356,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 142545,
       "name": "closure",
       "url": "https://open.spotify.com/track/2TozmWy9NS5FMqqnEq8AJy"
@@ -309,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/1DVmWDWVqVUCsTa1Vl4A0Y"
+      },
+      "artists": [
+        {
+          "name": "Diani",
+          "url": "https://open.spotify.com/artist/4g4T0gCzryRmUOfYDgrvyD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101078,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/7rIlxVGL8NXPvlppSJoYk3"
+    },
+    {
+      "album": {
         "name": "41 Ways",
         "url": "https://open.spotify.com/album/5EVyiRGDEhvaaPsvCBBkFT"
       },
@@ -354,6 +470,24 @@
       "duration_ms": 162089,
       "name": "Day Ones",
       "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
+    },
+    {
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/0iVXfI7KbWDPcenBT2PUyC"
+      },
+      "artists": [
+        {
+          "name": "M.A.G.S.",
+          "url": "https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239993,
+      "name": "Destroyer",
+      "url": "https://open.spotify.com/track/2ULz1J5wmlCpHPkh25Sz4S"
     },
     {
       "album": {
@@ -416,6 +550,24 @@
       "duration_ms": 183457,
       "name": "Enough Is Enough (feat. Rayy Balla & Cito Blick)",
       "url": "https://open.spotify.com/track/0HRa1A7vxuVVxL2g85EkKD"
+    },
+    {
+      "album": {
+        "name": "F'd Up",
+        "url": "https://open.spotify.com/album/39lgXxNWtwNzm1oiXoZDe9"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233475,
+      "name": "F'd Up",
+      "url": "https://open.spotify.com/track/3sUIEofdt4yPN9IkczVEsF"
     },
     {
       "album": {
@@ -987,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "Off My Mind",
+        "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "SAM WHITE",
+          "url": "https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
+    },
+    {
+      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/1iplLu9MsH5FMf35L6sZq3"
       },
@@ -1098,6 +1272,28 @@
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
+    },
+    {
+      "album": {
+        "name": "Point Me 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225492,
+      "name": "Point Me 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     },
     {
       "album": {
@@ -1408,7 +1604,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220689,
       "name": "Soir\u00e9e - Remix",
       "url": "https://open.spotify.com/track/2FGI64L3dQ5k8GfrmdfqKo"
@@ -1518,6 +1714,24 @@
       "duration_ms": 134265,
       "name": "Stuck In My Ways",
       "url": "https://open.spotify.com/track/52K77MKrAormrzJHhL7fYr"
+    },
+    {
+      "album": {
+        "name": "Sun Walker",
+        "url": "https://open.spotify.com/album/0B8CHiLgw8ARgxk5Ity3Md"
+      },
+      "artists": [
+        {
+          "name": "Bryce Mensah",
+          "url": "https://open.spotify.com/artist/0PeLK46Nz1mjkRVWJ98D6k"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180453,
+      "name": "Sun Walker",
+      "url": "https://open.spotify.com/track/0K6DCpT4ug0GfbkQAFHVcr"
     },
     {
       "album": {
@@ -1820,10 +2034,36 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 153786,
       "name": "You Get A Hoe",
       "url": "https://open.spotify.com/track/3XbtTYDHsb3r1zLbz5IkJz"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/7iDgveax7vXamFIXemrYMN"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lucas",
+          "url": "https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh"
+        },
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        },
+        {
+          "name": "Keenyn Omari",
+          "url": "https://open.spotify.com/artist/30wyy77Ypzxj2B5C0faRS3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205949,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/2ZrpCgfRJnyyZVv7nAQACP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc0hXKLIY8EX"

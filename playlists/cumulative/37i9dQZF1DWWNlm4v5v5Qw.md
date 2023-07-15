@@ -4,12 +4,13 @@
 
 > DMV music breaking waves\. Cover: IDK
 
-382 songs - 17 hr 30 min
+384 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 O'clock](https://open.spotify.com/track/2mj7NiRw5A9zlEw4ijsb3s) | [WillGotTheJuice](https://open.spotify.com/artist/0yObDC4trCsY4VAtr7Yr1Y) | [1 O'clock](https://open.spotify.com/album/7b3Os8g5xGdvsJj4ppSbjV) | 2:12 | 2022-09-09 | 2023-01-14 |
 | [100 \- yvngxchris Remix](https://open.spotify.com/track/3Us9J7gfkNTpHSDEj6VxUN) | [Yung Carnage](https://open.spotify.com/artist/1YBsrlD6ONDyXyJrY3gmai), [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [100 \(yvngxchris Remix\)](https://open.spotify.com/album/2ocWOiBB7qtsP6Pk38rkNl) | 2:34 | 2022-02-18 | 2022-03-18 |
+| [11:11](https://open.spotify.com/track/5paPjaVnrSIjG3jKnZHmUa) | [Al Hostile](https://open.spotify.com/artist/1eRxftrJjUxQTut4Svctfm), [dimijay](https://open.spotify.com/artist/7aOPtUsSYb9okxKPGtgVCk) | [Apple Pie](https://open.spotify.com/album/0ZYVTwQoNGsyLMYTg4nrXP) | 2:37 | 2023-07-14 |  |
 | [150](https://open.spotify.com/track/6mg0lJwQehUi2pRGKV8nXh) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh) | [150](https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr) | 1:49 | 2022-12-02 | 2023-04-16 |
 | [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 | 2022-05-20 | 2022-07-31 |
 | [1500 $ir](https://open.spotify.com/track/20kQ5m2CKltcaEnzmfuSDV) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever \(Mixtape\)](https://open.spotify.com/album/5esVu79F6yi7lCRSNUayoS) | 2:25 | 2022-05-20 | 2022-09-10 |
@@ -80,6 +81,7 @@
 | [compromise](https://open.spotify.com/track/0F1jhF5aulsNWDN7wBdxOH) | [Blest Jones](https://open.spotify.com/artist/58zckWmoqAOoqPtZggJ9OZ) | [compromise](https://open.spotify.com/album/4PGowEmqNy18CGOlUwCLZe) | 3:14 | 2022-02-04 | 2022-03-05 |
 | [Constellations](https://open.spotify.com/track/0L8bf6ph4kDnHtKRnY95aH) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Constellations](https://open.spotify.com/album/3vEWvYAC6uedBaHV9bM2NM) | 2:52 | 2022-02-18 | 2022-04-02 |
 | [Contact](https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Contact](https://open.spotify.com/album/5seomwiB0N53hjaEoLOdb4) | 2:14 | 2022-09-30 | 2023-04-29 |
+| [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 | 2023-07-14 |  |
 | [Countdown](https://open.spotify.com/track/1hU3gvQuESi3gHBPuSrOGH) | [FULMETALPARKA$](https://open.spotify.com/artist/2bmYau9D9oa1VDIiW5pBQk), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Countdown](https://open.spotify.com/album/6hGe2fz9cx4bGdgfDw8K0V) | 2:11 | 2022-07-01 | 2022-09-24 |
 | [Counter](https://open.spotify.com/track/4W4lWW8HQITbAe96R0APIh) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Counter](https://open.spotify.com/album/35MFJBhiYKKm3Vsybpsk29) | 2:26 | 2022-02-25 | 2022-06-08 |
 | [Crazy Wild Pow Wow](https://open.spotify.com/track/1TJ6nTEuXxKXdse7ZoFF8m) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Short Songs for a Fast Life](https://open.spotify.com/album/4YIWhgSRAtkzL3AI7VjGWc) | 1:50 | 2022-08-12 | 2022-09-24 |

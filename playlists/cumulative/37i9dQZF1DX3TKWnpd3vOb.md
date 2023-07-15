@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-246 songs - 15 hr 41 min
+247 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Despacio \- Bonus Track Migra](https://open.spotify.com/track/4x2HBispFiJkuu5jtIv0Py) | [El Ultimo Viaje](https://open.spotify.com/artist/6fpbLCQo7cLpMV1g397HWL) | [Despacio \(Bonus Track Migra\)](https://open.spotify.com/album/46a0OY25sTGfKXaSxQnOl1) | 6:19 | 2022-04-08 | 2022-07-28 |
 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 | 2022-04-08 | 2023-05-30 |
 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 | 2022-04-08 | 2023-04-20 |
-| [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-04-08 |  |
+| [Diabla](https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa) | [Tsunamis](https://open.spotify.com/artist/2oqOl5iVYtC7mpaqUtm5pU) | [7 Mares](https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy) | 4:18 | 2022-04-08 | 2023-07-15 |
 | [Digan Lo Que Digan](https://open.spotify.com/track/4bULkLH35pHeVl0NzlVzid) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Digan Lo Que Digan](https://open.spotify.com/album/2zmRkOB16XBx0QNXvlr469) | 2:41 | 2022-04-08 | 2023-03-03 |
 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 | 2022-04-08 |  |
 | [Discojapi](https://open.spotify.com/track/6mevK2IlIU5rmvkfqxCFWT) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Rindanse Terricolas](https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS) | 4:08 | 2022-04-08 | 2022-12-17 |
@@ -130,14 +130,14 @@
 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Vida De Perros](https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC) | 3:56 | 2022-10-14 | 2022-12-17 |
 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/6JOCmBTgT16HhWTMQheAPF) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23) | 4:00 | 2022-04-08 | 2023-03-03 |
 | [Lo Nuestro](https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Lo Nuestro](https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz) | 1:53 | 2022-10-14 | 2023-03-03 |
-| [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 | 2022-04-08 | 2023-07-13 |
+| [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 | 2022-04-08 |  |
 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 | 2022-04-08 | 2023-04-02 |
 | [Lo Que Haces](https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Uno](https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi) | 3:52 | 2022-04-08 | 2023-03-03 |
 | [Lo Que Hemos Dejado](https://open.spotify.com/track/0FbRAe9HvEug0lRIGAmCv6) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Lo Que Hemos Dejado](https://open.spotify.com/album/2pbgDYhXjZ5bI74KpVOsft) | 3:51 | 2022-04-08 | 2023-03-03 |
 | [Lo Veo Gris](https://open.spotify.com/track/0RHVYiUSPutbG3sjRjemeI) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Lo Veo Gris](https://open.spotify.com/album/4PF0nXE8q8UbDMYOlhbCsE) | 4:07 | 2022-04-08 | 2022-07-29 |
 | [Locura Espacial](https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Rindanse Terricolas](https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS) | 3:03 | 2022-04-08 | 2022-12-17 |
 | [Los Demás](https://open.spotify.com/track/3q1hA7KOkM8Xm48PKikJxM) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Chocadito](https://open.spotify.com/album/1U2hMdtzxdLE82QxEVd6c2) | 4:45 | 2022-04-08 | 2022-12-17 |
-| [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 |  |
+| [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 | 2022-04-08 | 2023-07-15 |
 | [Lugares Que Hablan](https://open.spotify.com/track/5uVEekaGoLZkacaX4foVK4) | [Angel Parra Orrego](https://open.spotify.com/artist/33XTgiMGZUjMR6SnwE2qUy) | [Travesuras](https://open.spotify.com/album/7HI1QkxJ1fsl0ELrXEN9Yo) | 1:37 | 2022-04-08 | 2022-12-17 |
 | [Luna Amarilla](https://open.spotify.com/track/4p3ztBZL2hIwDpaERqjQVB) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Luna Amarilla](https://open.spotify.com/album/6q9cTnFyVu2c0b4XvGolg4) | 2:54 | 2022-04-08 | 2023-01-26 |
 | [Madre Corazón de Átomo](https://open.spotify.com/track/3PSJCQuRCeowzPFRCVePsO) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Kaskivano](https://open.spotify.com/artist/0i36EQVtjFoow9nw3UgYCl) | [Madre Corazón de Átomo](https://open.spotify.com/album/5NIxNiU2TPC2bgjbJSyddE) | 3:52 | 2022-12-16 | 2023-03-03 |
@@ -200,6 +200,7 @@
 | [Se Nos Fue el Amor](https://open.spotify.com/track/1E9rLfNTizWr2zORB4HM6C) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [Sin Mentir](https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry) | 3:05 | 2022-04-08 | 2022-12-17 |
 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 | 2022-04-08 |  |
 | [Shina Blues](https://open.spotify.com/track/4ScFXWoMdIZUEVJZv6mlWi) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [El Inquieto Alarido del Pinganilla Subversivo](https://open.spotify.com/album/3zieYMVFYsb6sENa8IqmdL) | 5:28 | 2022-04-08 | 2023-03-03 |
+| [Si Se Me Apaga El Sol](https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Si Se Me Apaga El Sol](https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS) | 3:46 | 2023-07-14 |  |
 | [Simetría](https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Conducción](https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr) | 4:01 | 2022-04-08 |  |
 | [Sin Condiciones](https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Sin Condiciones](https://open.spotify.com/album/1ps8gChKrBIAjiX5vI2SCj) | 3:50 | 2022-04-08 | 2023-03-03 |
 | [Sociedad Capital](https://open.spotify.com/track/2ONPbjbmgkLt7c1yoW0fU5) | [Yosef Salvo](https://open.spotify.com/artist/27w1PE4zUCZPHqRXnoyTRc) | [Sociedad Capital](https://open.spotify.com/album/3Z19V0sgumnxc8phk6LAKQ) | 3:05 | 2022-04-08 | 2023-01-15 |

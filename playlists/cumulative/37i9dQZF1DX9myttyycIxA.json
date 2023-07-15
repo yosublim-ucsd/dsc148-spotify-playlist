@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Alone In December",
+        "url": "https://open.spotify.com/album/25DQdkYKZ6gA3MU3jEbUDw"
+      },
+      "artists": [
+        {
+          "name": "Hello Yello",
+          "url": "https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170708,
+      "name": "Alone In December",
+      "url": "https://open.spotify.com/track/2hHLMZd2Jwg3ytJGxpN40m"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/0RMknPzSaFRDBxhScoISSm"
       },
@@ -9547,6 +9565,24 @@
     },
     {
       "album": {
+        "name": "Kids Driving The Elevator",
+        "url": "https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO"
+      },
+      "artists": [
+        {
+          "name": "Micah Preite",
+          "url": "https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181781,
+      "name": "Kids Driving The Elevator",
+      "url": "https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI"
+    },
+    {
+      "album": {
         "name": "Goose Bumps",
         "url": "https://open.spotify.com/album/54WA4vkcrqGV7Jo7vLCevE"
       },
@@ -16926,6 +16962,24 @@
       "duration_ms": 170735,
       "name": "Under Tongues",
       "url": "https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml"
+    },
+    {
+      "album": {
+        "name": "Underwater Chateau",
+        "url": "https://open.spotify.com/album/14APasPpP40Pr8xEu3qc9m"
+      },
+      "artists": [
+        {
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191175,
+      "name": "Underwater Chateau",
+      "url": "https://open.spotify.com/track/7GuvnQXs7jgQguDfG6edw1"
     },
     {
       "album": {

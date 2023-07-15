@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Lele Blade in cover.
 
-217 songs - 10 hr 11 min
+218 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [TOP BOY ⨳ \(con GEOLIER\)](https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 2:12 | 2022-05-10 | 2023-01-06 |
 | [TOP GAMMA \(feat\. Vettosi\)](https://open.spotify.com/track/3jRMMZ9mWADGUFJCCpN8hU) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:49 | 2023-04-13 | 2023-04-28 |
 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 | 2022-05-10 |  |
+| [TRANSALP](https://open.spotify.com/track/7zZ4zM2SjQ5rIkTHgXkOas) | [Skugnizz](https://open.spotify.com/artist/2JdjbtVckoqADquM30hdSc) | [TRANSALP](https://open.spotify.com/album/1ZL6Wk21dWNHRoaqKALNxR) | 2:19 | 2023-07-14 |  |
 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 | 2022-05-10 |  |
 | [TT NGRIPPAT](https://open.spotify.com/track/3o1X6zIjTaw1qlMHtGBhWW) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [TT NGRIPPAT](https://open.spotify.com/album/6pMFcJZQVbDncGcLi6a2z6) | 2:34 | 2023-03-30 | 2023-04-28 |
 | [TU](https://open.spotify.com/track/3UqlUOFqUvP79SS5tj2LSg) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [Franco Ricciardi](https://open.spotify.com/artist/6OrkNJBcycRCzSbWAWAAyL) | [TU](https://open.spotify.com/album/2rxzfBscfDgh4Uzl6vifIr) | 3:19 | 2022-05-10 | 2022-11-11 |

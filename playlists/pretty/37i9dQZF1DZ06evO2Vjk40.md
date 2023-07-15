@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,151 likes - 45 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,428 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 30 | [Cold](https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 5:09 |
 | 31 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 |
 | 32 | [Friendship](https://open.spotify.com/track/2ZAqfeq7PMp7XA2IKhuJJ2) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 4:25 |
-| 33 | [Just Say I'm Sorry](https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:34 |
+| 33 | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/track/6EbduYTr62sSzvl36wWiFM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/album/4uoEruXjt0APvHaSqrwqPH) | 3:29 |
 | 34 | [Maggie's Song](https://open.spotify.com/track/50QWBrZFAhD6N4B0tbfET9) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:31 |
-| 35 | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/track/6EbduYTr62sSzvl36wWiFM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [BLOW \(with Chris Stapleton & Bruno Mars\)](https://open.spotify.com/album/4uoEruXjt0APvHaSqrwqPH) | 3:29 |
+| 35 | [Just Say I'm Sorry](https://open.spotify.com/track/3opqYjloPGrJDlBjFGoWtU) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:34 |
 | 36 | [Joy](https://open.spotify.com/track/6Bj34xowKpBf7s8vTKTJW9) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Blessings and Miracles](https://open.spotify.com/album/5Qf9pthYz0E2yG4RyVOq7p) | 3:46 |
 | 37 | [Either Way](https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 4:08 |
 | 38 | [I'm A Ram](https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [I'm A Ram](https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm) | 3:59 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 44 | [The Star Spangled Banner \(Live from Super Bowl LVII\)](https://open.spotify.com/track/3wX3TPwztLphgHldbTmtCn) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [The Star Spangled Banner \(Live from Super Bowl LVII\)](https://open.spotify.com/album/5oDzftAtEUmroIiDFr9yWD) | 2:13 |
 | 45 | [I Ain't Living Long Like This \- Live](https://open.spotify.com/track/6CEnKKsgWNZkTtHMgS2K7e) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Outlaw: Celebrating the Music of Waylon Jennings \(Live\)](https://open.spotify.com/album/0BhRRRjVOfXWLwKxBdNxXL) | 5:34 |
 
-Snapshot ID: `MjgxNTQzMjUsMDAwMDAwMDBjYmZlMDMwNDU2ZWE1ZTAzMDAzMTQwZDYzNjNmZjVkNA==`
+Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDBmM2FlZDQ0NDhhMmUyMTNlOGFkYTZlMzhkYzNkYzM3OQ==`

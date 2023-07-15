@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 549524,
+  "num_followers": 549629,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTJmZDE5NThjNThmODg0NGU3YjAwMTFmNDI5NTUzYjk5ZTkzODUw",
+  "snapshot_id": "MCxmYzNjMjAwOTk5MGUwM2Q5YjdjZTQ2ODk5YTgzOTFlYzY5MDkxZjll",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Looks Like Me",
-        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 184649,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Looks Like Me",
+        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "Looks Like Me",
+      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 309320,
-      "name": "If It Wasn't For The Nights",
-      "url": "https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 243186,
-      "name": "Happy & Sad",
-      "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
+      "duration_ms": 309320,
+      "name": "If It Wasn't For The Nights",
+      "url": "https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 193728,
       "name": "You Let Me Down",
       "url": "https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 243186,
+      "name": "Happy & Sad",
+      "url": "https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu"
     },
     {
       "added_at": "2023-07-07 04:01:00",

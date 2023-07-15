@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,591 likes - 64 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,651 likes - 64 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 56 | [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 |
 | 57 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 |
 | 58 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
-| 59 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
-| 60 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 |
+| 59 | [Soy Mala Fama \- En Vivo](https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [20 Años Agitando el Avispero \(En Vivo\)](https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9) | 3:18 |
+| 60 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
 | 61 | [Que Vuelvas \- En Vivo](https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Que Vuelvas \(En Vivo\)](https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD) | 1:48 |
 | 62 | [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 |
 | 63 | [Poco a Poco / La Chica Indicada / Un Sueño / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy \- En Vivo](https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 19:49 |
 | 64 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 |
 
-Snapshot ID: `MCwyNjk0Mzk2ZTdhZTlmNzEwODkzZjRjZDY2ZGNiNjMyM2Q0MWI1OTI5`
+Snapshot ID: `MCw4YWI3NjhjYTYyMjZjMTcxZjViZWE4NzBkMzM2MjFmZDdmMWFmMTc3`

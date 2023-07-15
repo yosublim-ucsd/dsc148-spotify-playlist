@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Sezairi
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,429 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,481 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 41 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
 | 42 | [Ekspektasi](https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1), [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Ekspektasi](https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M) | 4:59 |
 | 43 | [Buru\-Buru](https://open.spotify.com/track/0qvgnnPJsK2AF2B3RyVDW6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 3:42 |
-| 44 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 |
-| 45 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
-| 46 | [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 |
-| 47 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
-| 48 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
-| 49 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
+| 44 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 |
+| 45 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 |
+| 46 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
+| 47 | [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 |
+| 48 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
+| 49 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
 | 50 | [Kisah Yang Salah](https://open.spotify.com/track/5xVjOWNOODhSS1Ot1oWnHI) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Kisah Yang Salah](https://open.spotify.com/album/3WoEs19wtAmQX9kNlBANZL) | 3:54 |
 
-Snapshot ID: `MCwwMGZhNDllMDU1MzNhYmJlNThlODYzMzdmOGQ4ZmVlMjgwZjk4ZDQ5`
+Snapshot ID: `MCw0NTA0OWM3MmI2YmIxYTZjOTc0ODEyNjBlZWFiZDgwNjkwYzIyZjJm`

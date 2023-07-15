@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: FLEMMING
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,961 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,053 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Waarom](https://open.spotify.com/track/3rg3zR2N2KWWyvpGUo78f6) | [Caitlin Lewis](https://open.spotify.com/artist/3EvvEKfqpNkGpLxoszZRfg) | [Waarom](https://open.spotify.com/album/3fcUz2SzycRa0vTdhZmzkc) | 3:14 |
 | 90 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 
-Snapshot ID: `MCxiZjgyZDI1NGQ3ZWRmY2JmOTQ4NTQ2NGI4MzFkNWNmZDBhZGJlYzIy`
+Snapshot ID: `MCw2M2QxMTQ2OTI3MzNhMmY2MDM3YjU0Y2JiOGE0OWFmMjU2MGM0ZWI4`

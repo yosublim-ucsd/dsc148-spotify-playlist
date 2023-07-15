@@ -1,12 +1,12 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Blusher",
-  "num_followers": 118731,
+  "num_followers": 118745,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWRmNDFlNzlmNDFmM2NkYmE4NDVmZWQ0NjVjYmVlZTM3ODg1ZjVk",
+  "snapshot_id": "MCw2ZjI2NDNlZTRlZjFlODJhNGY5OTljNzY5YzM2MDFkNzU1YjcwMGMx",
   "tracks": [
     {
       "added_at": "2023-07-13 14:00:00",
@@ -151,6 +151,26 @@
       "duration_ms": 178079,
       "name": "Get Up Kid",
       "url": "https://open.spotify.com/track/6HQpMGnMQ1mVbTv0WA0u7r"
+    },
+    {
+      "added_at": "2023-07-13 14:00:00",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2023-07-13 14:00:00",

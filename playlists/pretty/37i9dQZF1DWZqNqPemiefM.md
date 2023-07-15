@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,948 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,979 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 49 | [Floating](https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/6b2Sqwcq4FXgRXLVsbIPdr) | 2:16 |
 | 50 | [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 |
 
-Snapshot ID: `MCxmMzU0Y2FjYjczZGYyZTQxNGIyZDY3NTkxNmMxNDk2MDhhYjZjNzc2`
+Snapshot ID: `MCw0ZjQ1OTk3NDcyMmJkNmExNzUwOGY3NzU2ZWNkOTBlNWZkYTZmNjE5`

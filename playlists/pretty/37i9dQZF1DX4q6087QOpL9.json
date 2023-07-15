@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 74648,
+  "num_followers": 74707,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmFjNWU4NmUxMjViZDc2YjllNWZlNzNhZGMwNGY4OTdjNTc4NGMw",
+  "snapshot_id": "MCxlOGE1MjFkMjUxNmFhMjY4YTUwMDllYmQwNjQxYTM0NjQwZDAzZDY3",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -767,26 +767,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
-        },
-        {
-          "name": "Hayze",
-          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Changes (feat. Haze)",
-      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/46AATm4VBOMkOoljqYBQl0"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
+      },
+      "artists": [
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        },
+        {
+          "name": "Hayze",
+          "url": "https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Changes (feat. Haze)",
+      "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Backfired",
         "url": "https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz"
       },
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
-      },
-      "artists": [
-        {
-          "name": "3 Winans Brothers",
-          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 569724,
-      "name": "Dance - Louie Vega Dance Ritual Mix",
-      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Love & Happiness (feat. India)",
         "url": "https://open.spotify.com/album/0WZBrtrJLZ5Vltdm1cvvXQ"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 259200,
       "name": "Love & Happiness (Yemaya Y Och\u00f9n) [feat. India] - Dream Sequence",
       "url": "https://open.spotify.com/track/2EeAQUFOQXqYwGWhot4B7F"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
+      },
+      "artists": [
+        {
+          "name": "3 Winans Brothers",
+          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 569724,
+      "name": "Dance - Louie Vega Dance Ritual Mix",
+      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -935,18 +935,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
+        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
+        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
       },
       "artists": [
         {
-          "name": "Roy Davis Jr.",
-          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Alana",
+          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
         }
       ],
-      "duration_ms": 342800,
-      "name": "Michael - Love From San Francisco Dub",
-      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
+      "duration_ms": 391883,
+      "name": "Love Changes (feat. Alana) - Deep Mix",
+      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -971,22 +975,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Love Changes (feat. Alana) [MK & MAW Mixes]",
-        "url": "https://open.spotify.com/album/4cmId3QzYdFI4TolxhFFSd"
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Alana",
-          "url": "https://open.spotify.com/artist/6o0afeOTvBXVvX5LpMBP7u"
+          "name": "Roy Davis Jr.",
+          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
         }
       ],
-      "duration_ms": 391883,
-      "name": "Love Changes (feat. Alana) - Deep Mix",
-      "url": "https://open.spotify.com/track/00s9Ptk5N4QUYOf4CHP6c3"
+      "duration_ms": 342800,
+      "name": "Michael - Love From San Francisco Dub",
+      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Never Saw You Coming",
         "url": "https://open.spotify.com/album/1BjYQDXDpH4oo5BUIWzHBT"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 508266,
       "name": "Never Saw You Coming - DJ Spinna Galactic Vocal Mix",
       "url": "https://open.spotify.com/track/0wCHDUIRERhG7ezinqtXbk"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+      },
+      "artists": [
+        {
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+        }
+      ],
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Find A Friend",
+        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
+      },
+      "artists": [
+        {
+          "name": "DJ John \u201cJulius\u201d Knight",
+          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
+        }
+      ],
+      "duration_ms": 409238,
+      "name": "Find A Friend",
+      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Love It",
         "url": "https://open.spotify.com/album/0KneyKV5tME1HoDFtEMUDS"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 554268,
       "name": "Love It - Phil Asher's Restless Soul Vocal Mix",
       "url": "https://open.spotify.com/track/108xPfHyjfwRv4ZJrDJdHL"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Find A Friend",
-        "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
-      },
-      "artists": [
-        {
-          "name": "DJ John \u201cJulius\u201d Knight",
-          "url": "https://open.spotify.com/artist/2PXoD4LZuPCdy1R05cpM1u"
-        }
-      ],
-      "duration_ms": 409238,
-      "name": "Find A Friend",
-      "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Track 1 Revisited - Single",
+        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 348480,
+      "name": "Track 1 Revisited - Reel to Reel Mix",
+      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 198666,
       "name": "It's Alright, I Feel It",
       "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Track 1 Revisited - Single",
-        "url": "https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 348480,
-      "name": "Track 1 Revisited - Reel to Reel Mix",
-      "url": "https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Elle",
-        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        }
-      ],
-      "duration_ms": 722920,
-      "name": "Elle (Main Version)",
-      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Mix The Vibe: Kaoz On King Street",
         "url": "https://open.spotify.com/album/4Cr31FA15aqhjtv1dVEzzd"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 409763,
       "name": "Come Home - Kerri's Mmmh Mix",
       "url": "https://open.spotify.com/track/6zhYeCpXsztywWOP05nwJu"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Elle",
+        "url": "https://open.spotify.com/album/5mneBYkCYTEPqUgYLTZP52"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        }
+      ],
+      "duration_ms": 722920,
+      "name": "Elle (Main Version)",
+      "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2119,6 +2119,26 @@
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Todd Terry's Rare Grooves Vol. VI",
+        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "INES Project",
+          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
+        }
+      ],
+      "duration_ms": 669373,
+      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
+      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2163,26 +2183,6 @@
       "duration_ms": 497280,
       "name": "Rain - Terry Hunter Rainy Daze Remix",
       "url": "https://open.spotify.com/track/6X91fIkR4u3cdB5nA74VSY"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Todd Terry's Rare Grooves Vol. VI",
-        "url": "https://open.spotify.com/album/1lrAW15Ve0rrlWz4SBpLiR"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "INES Project",
-          "url": "https://open.spotify.com/artist/3lFQPmJq30drpV89vKES8K"
-        }
-      ],
-      "duration_ms": 669373,
-      "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
-      "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2395,22 +2395,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
+        "name": "Love and Devotion",
+        "url": "https://open.spotify.com/album/4FRzsqXyeqlFjB6azOBOuF"
       },
       "artists": [
         {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Imaani",
-          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
+          "name": "Joi Cardwell",
+          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
         }
       ],
-      "duration_ms": 419400,
-      "name": "Wizeman (feat. Imaani)",
-      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
+      "duration_ms": 313893,
+      "name": "Love and Devotion-Porgy and Bess Mix",
+      "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2443,22 +2439,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Love and Devotion",
-        "url": "https://open.spotify.com/album/4FRzsqXyeqlFjB6azOBOuF"
-      },
-      "artists": [
-        {
-          "name": "Joi Cardwell",
-          "url": "https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ"
-        }
-      ],
-      "duration_ms": 313893,
-      "name": "Love and Devotion-Porgy and Bess Mix",
-      "url": "https://open.spotify.com/track/3L5nmAeO0DhM04Wju6geCh"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
       },
@@ -2475,6 +2455,26 @@
       "duration_ms": 302950,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
+      },
+      "artists": [
+        {
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
+        },
+        {
+          "name": "Imaani",
+          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
+        }
+      ],
+      "duration_ms": 419400,
+      "name": "Wizeman (feat. Imaani)",
+      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2535,6 +2535,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Dem People Go",
+        "url": "https://open.spotify.com/album/6NX2kxi7JIu9Jdw8K5bPef"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Bola Belo",
+          "url": "https://open.spotify.com/artist/4IG29194bJO2uXvnmp0vjs"
+        }
+      ],
+      "duration_ms": 402088,
+      "name": "Dem People Go - Get Out! Mix",
+      "url": "https://open.spotify.com/track/51QIC18zwmCwzzubAmVFod"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Sermon One EP (feat. Ron Carroll)",
         "url": "https://open.spotify.com/album/1PenNFTRyle8MGmDlTBTE5"
       },
@@ -2575,26 +2595,6 @@
       "duration_ms": 421506,
       "name": "Spinning Inside Your Love - DJ Spinna Remix - 2021 Remastered Version",
       "url": "https://open.spotify.com/track/3JOKodchSwl2hIdsrcJ8XB"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Dem People Go",
-        "url": "https://open.spotify.com/album/6NX2kxi7JIu9Jdw8K5bPef"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Bola Belo",
-          "url": "https://open.spotify.com/artist/4IG29194bJO2uXvnmp0vjs"
-        }
-      ],
-      "duration_ms": 402088,
-      "name": "Dem People Go - Get Out! Mix",
-      "url": "https://open.spotify.com/track/51QIC18zwmCwzzubAmVFod"
     },
     {
       "added_at": "2023-03-07 17:49:21",

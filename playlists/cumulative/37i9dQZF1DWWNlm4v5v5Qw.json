@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/0ZYVTwQoNGsyLMYTg4nrXP"
+      },
+      "artists": [
+        {
+          "name": "Al Hostile",
+          "url": "https://open.spotify.com/artist/1eRxftrJjUxQTut4Svctfm"
+        },
+        {
+          "name": "dimijay",
+          "url": "https://open.spotify.com/artist/7aOPtUsSYb9okxKPGtgVCk"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157028,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5paPjaVnrSIjG3jKnZHmUa"
+    },
+    {
+      "album": {
         "name": "150",
         "url": "https://open.spotify.com/album/3HZkYzD4vVdToVuW4AnBSr"
       },
@@ -1410,6 +1432,24 @@
       "duration_ms": 134383,
       "name": "Contact",
       "url": "https://open.spotify.com/track/5TQSK96ovPsfX7JsWGPxEQ"
+    },
+    {
+      "album": {
+        "name": "COOKIE",
+        "url": "https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK"
+      },
+      "artists": [
+        {
+          "name": "Nafets",
+          "url": "https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151959,
+      "name": "COOKIE",
+      "url": "https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP"
     },
     {
       "album": {

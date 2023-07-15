@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 69483,
+  "num_followers": 69504,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTJlMjBkMmI2YTNkM2Y0YzI4MWJiODMwNzI1NjE3ZDA4M2M1N2I1",
+  "snapshot_id": "MCwyYWIwZDQzMjJjNWYzZmVhZGZjZDBiODk1NGI1NWMzOTcxZGFiMzQx",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Syng sang",
-        "url": "https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI"
-      },
-      "artists": [
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 164490,
-      "name": "Syng sang",
-      "url": "https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
         "name": "Henda i v\u00e6ret",
         "url": "https://open.spotify.com/album/7aNSIKBQz7vO6nh490K0Hn"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 233291,
       "name": "N\u00e5r himmelen faller ned",
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
+        "name": "Syng sang",
+        "url": "https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI"
+      },
+      "artists": [
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 164490,
+      "name": "Syng sang",
+      "url": "https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Fra 4 Til 70",
+        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
+      },
+      "artists": [
+        {
+          "name": "Inger Lise Rypdal",
+          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "En Spennende Dag for Josefine",
+      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Bror",
         "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 194893,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "Fra 4 Til 70",
-        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
-      },
-      "artists": [
-        {
-          "name": "Inger Lise Rypdal",
-          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "En Spennende Dag for Josefine",
-      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
     },
     {
       "added_at": "2023-07-06 22:00:00",

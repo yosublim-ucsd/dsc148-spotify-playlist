@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 323476,
+  "num_followers": 323529,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzNjZmU0OGRlMTkyZDRlNzcwMmZjNWJkYmIyY2Y4ZDdhZGEzNzIx",
+  "snapshot_id": "MCwwNzk2YWIzN2QyY2Y5NWUwZGVlOTg1ODYyMzVhNTkzN2NiNDUxYTE4",
   "tracks": [
     {
       "added_at": "2023-05-19 21:03:14",
@@ -261,7 +261,7 @@
         }
       ],
       "duration_ms": 357266,
-      "name": "Bitter Sweet Symphony",
+      "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
     },
     {
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
+    },
+    {
+      "added_at": "2023-05-19 21:03:14",
+      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-05-19 21:03:14",
-      "album": {
-        "name": "Viaje Por Lo Eterno",
-        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
-      },
-      "artists": [
-        {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
     },
     {
       "added_at": "2023-05-19 21:03:14",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
-        "name": "Br\u00fajula",
-        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 252661,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
+      "duration_ms": 254993,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
     },
     {
       "added_at": "2023-05-19 21:03:14",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 254993,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+      "duration_ms": 252661,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
     },
     {
       "added_at": "2023-05-19 21:03:14",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-05-19 21:03:14",
       "album": {
+        "name": "Jaibol",
+        "url": "https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 257240,
+      "name": "Hey!",
+      "url": "https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp"
+    },
+    {
+      "added_at": "2023-05-19 21:03:14",
+      "album": {
         "name": "Small World",
         "url": "https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 219386,
       "name": "Sin Se\u00f1al",
       "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
-    },
-    {
-      "added_at": "2023-05-19 21:03:14",
-      "album": {
-        "name": "Jaibol",
-        "url": "https://open.spotify.com/album/1iLGWwqCD5NVbI81y5xFPM"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 257240,
-      "name": "Hey!",
-      "url": "https://open.spotify.com/track/4f3M1o9elhV6gma79EoVRp"
     },
     {
       "added_at": "2023-05-19 21:03:14",

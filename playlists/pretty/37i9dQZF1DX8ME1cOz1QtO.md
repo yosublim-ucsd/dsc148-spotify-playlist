@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,119 likes - 100 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,187 likes - 100 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 50 | [Dion Blue](https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS) | [Tim Weisberg](https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v) | [Best Of Tim Weisberg: Smile!](https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox) | 3:29 |
 | 51 | [Star Children Theme II \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/1bJ1KjsjWAAN1sq7GIviSw) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc) | 3:19 |
 | 52 | [Rubycon \- Pt\. 1 / Remastered 2018](https://open.spotify.com/track/21GAShK3ha9dEfdhQBjqOy) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 17:17 |
-| 53 | [The Third Wave \- Love In The Waves](https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:17 |
-| 54 | [Li Sun](https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr) | [Judith Tripp](https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 6:39 |
+| 53 | [Li Sun](https://open.spotify.com/track/3q7kVeMpz0lbcpBo0Qk2hr) | [Judith Tripp](https://open.spotify.com/artist/39UAWS8qdun7e7RxOOioOJ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 6:39 |
+| 54 | [The Third Wave \- Love In The Waves](https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:17 |
 | 55 | [Stained\-Glass Morning](https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 1:54 |
 | 56 | [Stepping Stars](https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Valley In The Clouds](https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S) | 3:45 |
 | 57 | [Hergest Ridge Part One \- 2010 Mix / Previously Unreleased](https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Hergest Ridge \(Deluxe Edition\)](https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG) | 19:21 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 66 | [Sunrise](https://open.spotify.com/track/3Z6b4JCIyosla3EbSHffCE) | [Klaus Schønning](https://open.spotify.com/artist/1Kjz8hvlaTQiYdTvO53bPM) | [Lydglimt](https://open.spotify.com/album/37ixvLulBM547iKlOYXna0) | 3:09 |
 | 67 | [Chi](https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Ki](https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9) | 6:58 |
 | 68 | [Living Your Ending](https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 5:32 |
-| 69 | [To the Other Side of the Sky](https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0) | [Michael Garrison](https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 4:34 |
+| 69 | [For The Beauty Of The Earth \- Instrumental](https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 2:29 |
 | 70 | [Sunrise in the Third System](https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Alpha Centauri](https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK) | 4:21 |
-| 71 | [For The Beauty Of The Earth \- Instrumental](https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 2:29 |
+| 71 | [To the Other Side of the Sky](https://open.spotify.com/track/3hH4PPHWAtkbzD9UKpkQl0) | [Michael Garrison](https://open.spotify.com/artist/0nzQKrZBzsjXGdogx6zaDU) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 4:34 |
 | 72 | [The Angels Of Comfort](https://open.spotify.com/track/6JpONRdUefjY223L1AscpJ) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Celestial Soul Portrait](https://open.spotify.com/album/019HAaxSfRFvJK3MO5Prjs) | 10:59 |
 | 73 | [Flowers of Our Childhood](https://open.spotify.com/track/71pXxbHZstxr3b6zTtgFPy) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh) | 5:08 |
 | 74 | [Zen Garden of the Soul Part I](https://open.spotify.com/track/09s4W3bYDmwotLUgozutls) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 2:21 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 96 | [In the Beginning](https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 8:01 |
 | 97 | [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |
 | 98 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
-| 99 | [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 |
+| 99 | [Part One](https://open.spotify.com/track/7CQFDhAbz7zLvtNcsl3qAB) | [Master Wilburn Burchette](https://open.spotify.com/artist/2EefjxRUX7kaLEifrs6jG1) | [Transcendental Music for Meditation](https://open.spotify.com/album/7MBKtyZEbWaoHfKbXbD8bB) | 15:10 |
 | 100 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
 
-Snapshot ID: `MCw3NGQyZTUxZWM5NWE4YjNhYmY1ODdiYmMxODg0OTM0ZDhjMjg2ZDk4`
+Snapshot ID: `MCxiYjIzOTY4YjIzYjNiOGM1ODEyMDdjMDRlNTljYjFkZWY4ZmNhODFk`

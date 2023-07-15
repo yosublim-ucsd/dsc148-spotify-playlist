@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 577163,
+  "num_followers": 577304,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTFmYzU5NzdjMmZjMWY1ODY2NDg5NzQ4YTQyNGE3M2FmOWY3ZWE0",
+  "snapshot_id": "MCxlMDUwNzY0OTg2MmJjM2ZiYjE0MWZmYjViZjQ4OTI1ODA1NjlhNjgx",
   "tracks": [
     {
       "added_at": "2023-07-05 09:20:44",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Hash Pipe",
-      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
-    },
-    {
-      "added_at": "2023-07-05 09:20:44",
-      "album": {
         "name": "Meteora",
         "url": "https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 213933,
       "name": "Somewhere I Belong",
       "url": "https://open.spotify.com/track/3agtg0x11wPvLIWkYR39nZ"
+    },
+    {
+      "added_at": "2023-07-05 09:20:44",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Hash Pipe",
+      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
     },
     {
       "added_at": "2023-07-05 09:20:44",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
-    },
-    {
-      "added_at": "2023-07-05 09:20:44",
-      "album": {
         "name": "What Separates Me From You",
         "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 202640,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
+    },
+    {
+      "added_at": "2023-07-05 09:20:44",
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
     },
     {
       "added_at": "2023-07-05 09:20:44",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 332413,
-      "name": "The Borders",
-      "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
-    },
-    {
-      "added_at": "2023-07-05 09:20:44",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219266,
       "name": "The Artist In The Ambulance",
       "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+    },
+    {
+      "added_at": "2023-07-05 09:20:44",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 332413,
+      "name": "The Borders",
+      "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
     },
     {
       "added_at": "2023-07-05 09:20:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "...Like Clockwork",
-        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 235400,
-      "name": "My God Is the Sun",
-      "url": "https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg"
-    },
-    {
-      "added_at": "2023-07-05 09:20:44",
-      "album": {
         "name": "Tyrannosaurus Hives",
         "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 120506,
       "name": "Two-Timing Touch and Broken Bones",
       "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
+    },
+    {
+      "added_at": "2023-07-05 09:20:44",
+      "album": {
+        "name": "...Like Clockwork",
+        "url": "https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 235400,
+      "name": "My God Is the Sun",
+      "url": "https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg"
     },
     {
       "added_at": "2023-07-05 09:20:44",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
-    },
-    {
-      "added_at": "2023-07-05 09:20:44",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 265706,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD"
+    },
+    {
+      "added_at": "2023-07-05 09:20:44",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
     },
     {
       "added_at": "2023-07-05 09:20:44",

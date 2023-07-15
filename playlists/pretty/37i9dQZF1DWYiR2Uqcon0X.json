@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 718221,
+  "num_followers": 718197,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjFmZDEzNGM4MDlmY2NkOWQzNzIwY2VhZWM5YmI5OTI4NzFjMGE2",
+  "snapshot_id": "MCw5MDU1YzU1NGRkNDQ0YzRhNzRkNGUwZTNiZDJiMmZkMmY5M2VjNTZm",
   "tracks": [
     {
       "added_at": "2023-02-17 05:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Dark Holler Pop",
-        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Numbered Doors",
         "url": "https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 213249,
       "name": "The Time I've Wasted",
       "url": "https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Dark Holler Pop",
+        "url": "https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Sunday Drive",
-        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Sunday Drive",
-      "url": "https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "They Are Going Away",
         "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Sunday Drive",
+        "url": "https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Sunday Drive",
+      "url": "https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Johnny Cash: Forever Words Expanded",
-        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 297746,
-      "name": "The Captain's Daughter",
-      "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Carry on, San Vicente",
         "url": "https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 262079,
       "name": "Nothing Like You",
       "url": "https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Johnny Cash: Forever Words Expanded",
+        "url": "https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "The Captain's Daughter",
+      "url": "https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "This Town Still Talks About You",
-      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Sunday Best (Acoustic)",
         "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 167535,
       "name": "Sunday Best - Acoustic",
       "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "This Town Still Talks About You",
+      "url": "https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
-      },
-      "artists": [
-        {
-          "name": "Krysta Nick",
-          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 212932,
       "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
       "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
+      },
+      "artists": [
+        {
+          "name": "Krysta Nick",
+          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
     },
     {
       "added_at": "2023-02-17 05:00:00",

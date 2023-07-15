@@ -1,28 +1,32 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 152235,
+  "num_followers": 152467,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWFjNTg4NzhkZDA0ZjIyOTc4NmU4MmVlOTNkYzFmNDkyNjNhZTc4",
+  "snapshot_id": "MCw1NzgwZmVhYjg5Yjc0NDNkN2UzODcxNGViYmVjOTE4OWY4NGYwMTJi",
   "tracks": [
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dwele",
+          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
         }
       ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+      "duration_ms": 237506,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -43,26 +47,6 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 237506,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -267,22 +251,34 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -303,6 +299,26 @@
       "duration_ms": 237573,
       "name": "Nuthin' But A \"G\" Thang",
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -351,26 +367,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Operation Stackola",
-        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
-      },
-      "artists": [
-        {
-          "name": "Luniz",
-          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
-        },
-        {
-          "name": "Michael Marshall",
-          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "I Got 5 On It",
-      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
       },
@@ -387,18 +383,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+        "name": "Operation Stackola",
+        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Luniz",
+          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
+        },
+        {
+          "name": "Michael Marshall",
+          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
         }
       ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+      "duration_ms": 253533,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -479,46 +479,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Otis",
-      "url": "https://open.spotify.com/track/6vegnfDS8DAEaCqWaPYGPy"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Who Am I (What\u2019s My Name)?",
-      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
       },
@@ -543,6 +503,46 @@
       "duration_ms": 329320,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/6vegnfDS8DAEaCqWaPYGPy"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+        "name": "Vol. 3... Life And Times Of S. Carter",
+        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Jesus Walks",
-      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+      "duration_ms": 283066,
+      "name": "Big Pimpin'",
+      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -647,22 +651,18 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Vol. 3... Life And Times Of S. Carter",
-        "url": "https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Big Pimpin'",
-      "url": "https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD"
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
     },
     {
       "added_at": "2023-03-07 08:01:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-07 08:01:20",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
-    },
-    {
-      "added_at": "2023-03-07 08:01:20",
-      "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 238466,
       "name": "Hard Knock Life (Ghetto Anthem)",
       "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
+    },
+    {
+      "added_at": "2023-03-07 08:01:20",
+      "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2023-03-07 08:01:20",

@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-233 songs - 10 hr 26 min
+234 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Please Leave](https://open.spotify.com/track/2isrUMb1HgRyruhVpecl8l) | [Ryan Morrissette](https://open.spotify.com/artist/4kXkSWe5yixpvcgzekRCO6), [David July](https://open.spotify.com/artist/3q40bLJsFjDFF8o5FE0vRJ) | [Please Leave](https://open.spotify.com/album/7FDxH7FXfdM50cEWtis4Pc) | 2:55 | 2023-06-26 |  |
 | [PULL THE TRIGGER](https://open.spotify.com/track/124xdL3i1WaIzI7RYhr5BR) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [PULL THE TRIGGER](https://open.spotify.com/album/6ckyD0kYeZWXDYrUUqP8vy) | 2:38 | 2023-06-12 | 2023-07-09 |
 | [Pumped Up Kicks](https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:59 | 2023-06-12 |  |
+| [Puppet \- RAIZHELL Remix](https://open.spotify.com/track/1j4Ag3l3X03vSgp7pIO0lj) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [Puppet \(RAIZHELL Remix\)](https://open.spotify.com/album/2NYNoRsuMAbwGvSXBhvXAB) | 2:27 | 2023-07-14 |  |
 | [Racks](https://open.spotify.com/track/3jplxbZlmchbU4SBe44YaS) | [Famous Kid Brick](https://open.spotify.com/artist/2reMcGkhB81Dwm8ywl8qB3) | [Racks](https://open.spotify.com/album/0TDfPLBghrjTnznzjxibKc) | 1:49 | 2023-06-12 |  |
 | [Racks Blue](https://open.spotify.com/track/7evoJVkktXH36rhbBw95pC) | [Lil Kizzle](https://open.spotify.com/artist/53UPF2IP4pQRQduL2oXbzN) | [Racks Blue](https://open.spotify.com/album/4kJm18IJ2j5ii0QZpWKtWz) | 1:47 | 2023-06-12 | 2023-06-26 |
 | [Raider](https://open.spotify.com/track/3cmHxxOJgpSKJiH5U0ENnU) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Raider](https://open.spotify.com/album/7ntUhBGypXjFtBoZBAJODo) | 2:25 | 2023-07-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 282549,
+  "num_followers": 282624,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTkyYjU5M2MwMWQ2MjAxYTFjOGQwYzJjOTA2YTk0MTllZjdlNTMw",
+  "snapshot_id": "MCw0ZGFmNWY0NmVhM2RhMzEzMGFmZTBhNGEyYzU1MDcyODRhZDZkYzk0",
   "tracks": [
     {
       "added_at": "2022-11-04 05:37:30",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Kanji Title",
-        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
-      },
-      "artists": [
-        {
-          "name": "TANUKI",
-          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
-        }
-      ],
-      "duration_ms": 199262,
-      "name": "Radiant Memories",
-      "url": "https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Yacht World",
         "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 128399,
       "name": "Need Somebody",
       "url": "https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Kanji Title",
+        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
+      },
+      "artists": [
+        {
+          "name": "TANUKI",
+          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
+        }
+      ],
+      "duration_ms": 199262,
+      "name": "Radiant Memories",
+      "url": "https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
       },
       "artists": [
         {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
         }
       ],
-      "duration_ms": 124363,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
-      },
-      "artists": [
-        {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Plastic",
         "url": "https://open.spotify.com/album/5ANcIfETYBjqYxTMX514o3"
       },
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Dusty Shelves",
-        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
+        "name": "Back By Popular Demand",
+        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
       },
       "artists": [
         {
-          "name": "K/92",
-          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
+          "name": "Proux",
+          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
         }
       ],
-      "duration_ms": 132485,
-      "name": "Funk Dust",
-      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
+      "duration_ms": 110313,
+      "name": "Funk Express",
+      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Back By Popular Demand",
-        "url": "https://open.spotify.com/album/01Jw4G9MFWmAOdTaBuQWX2"
+        "name": "Dusty Shelves",
+        "url": "https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf"
       },
       "artists": [
         {
-          "name": "Proux",
-          "url": "https://open.spotify.com/artist/7AKW9JOP3AkZzGDqwtbUvu"
+          "name": "K/92",
+          "url": "https://open.spotify.com/artist/2yJwfjM6VsmEVVOYkZcrxl"
         }
       ],
-      "duration_ms": 110313,
-      "name": "Funk Express",
-      "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
+      "duration_ms": 132485,
+      "name": "Funk Dust",
+      "url": "https://open.spotify.com/track/371tzdBYzISrNzCZJhzMnV"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        }
-      ],
-      "duration_ms": 232699,
-      "name": "Mode",
-      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        }
+      ],
+      "duration_ms": 232699,
+      "name": "Mode",
+      "url": "https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
+        "name": "Virtual World",
+        "url": "https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm"
+      },
+      "artists": [
+        {
+          "name": "FIBRE",
+          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Virtual World",
+      "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 210731,
       "name": "Dance Tonite",
       "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
-        "name": "Virtual World",
-        "url": "https://open.spotify.com/album/2W4B7y0LVEdF6sGQfr3ewm"
-      },
-      "artists": [
-        {
-          "name": "FIBRE",
-          "url": "https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Virtual World",
-      "url": "https://open.spotify.com/track/1A9CvBoqMRh3Dec9PPGUsu"
     },
     {
       "added_at": "2022-11-04 05:37:30",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-11-04 05:37:30",
       "album": {
-        "name": "The Sweetest Dream",
-        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
-      },
-      "artists": [
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 220055,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
-    },
-    {
-      "added_at": "2022-11-04 05:37:30",
-      "album": {
         "name": "Untold",
         "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 221687,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
+    },
+    {
+      "added_at": "2022-11-04 05:37:30",
+      "album": {
+        "name": "The Sweetest Dream",
+        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "duration_ms": 220055,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
     },
     {
       "added_at": "2022-11-04 05:37:30",

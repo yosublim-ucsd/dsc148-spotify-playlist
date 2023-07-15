@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,425 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,488 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 52 | [Street Of Dreams](https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [Street Of Dreams](https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U) | 3:21 |
 | 53 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 |
 | 54 | [A Window to Your Soul](https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 3:40 |
-| 55 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 |
-| 56 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 |
+| 55 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 |
+| 56 | [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 |
 | 57 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 |
 | 58 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 |
 | 59 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 76 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 |
 | 77 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 |
 | 78 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 |
-| 79 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
-| 80 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 |
+| 79 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 |
+| 80 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 |
 | 81 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 |
 | 82 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 |
 | 83 | [Soliloquy](https://open.spotify.com/track/0te1ho7v4bPASest2eI0q3) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [Soliloquy](https://open.spotify.com/album/1VFMQG2BAGIE3xBp1ejr34) | 2:23 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 89 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 |
 | 90 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 |
 | 91 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 |
-| 92 | [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 |
-| 93 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 |
-| 94 | [Wichita Lineman](https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Wichita Lineman](https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0) | 5:07 |
+| 92 | [Wichita Lineman](https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Wichita Lineman](https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0) | 5:07 |
+| 93 | [Tangerine](https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Tangerine](https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL) | 2:59 |
+| 94 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 |
 | 95 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 |
 | 96 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 |
 | 97 | [Coffee with My Baby](https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Winter in New York](https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 99 | [One Day We'll Meet Again](https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [One Day We'll Meet Again](https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3) | 4:00 |
 | 100 | [One More Time](https://open.spotify.com/track/1cwApuGBzxyhCPBYSX3xqk) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [One More Time](https://open.spotify.com/album/75WAs6klPeLsGuW2jAvB4x) | 3:16 |
 
-Snapshot ID: `MCwxODQ3Y2Q1MzQ3MTlkYmMzODQyZjUwMDZhYmVmOTBjMzhhMmU1ZGZj`
+Snapshot ID: `MCxiZGM5NzZlODE5YzA3YTQ0OTVjMjU4NTcxMTYyZjFjMDYyNmJiZGNl`

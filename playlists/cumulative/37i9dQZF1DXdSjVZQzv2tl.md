@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Lauana Prado, Guilherme & Benuto
+> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Wesley Safadão
 
-146 songs - 6 hr 56 min
+147 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 | 2022-01-17 | 2023-06-17 |
 | [Manda um Oi \- Ao Vivo](https://open.spotify.com/track/7DkhndGTKaqkFxxKN7XlAh) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Manda um Oi \(Ao Vivo\)](https://open.spotify.com/album/1HItTCmal7a7jPpRwnV4g3) | 2:46 | 2023-06-02 |  |
 | [Me Ame Mais](https://open.spotify.com/track/4iavXH4dDUMA8yAabnUhSI) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 3:49 | 2021-12-31 | 2022-01-17 |
-| [Meio Fio \- Ao Vivo](https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 2](https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC) | 2:33 | 2022-08-12 |  |
+| [Meio Fio \- Ao Vivo](https://open.spotify.com/track/1t5dhHyXMwdbAcI3EQRqFV) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo Em São Paulo Vol\. 2](https://open.spotify.com/album/0V3ZGohMB2SF82xhUEN8QC) | 2:33 | 2022-08-12 | 2023-07-15 |
 | [MEIO TERMO \- Ao Vivo](https://open.spotify.com/track/4zUFA8l78k4tCmoVuGtV8z) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY 2.0 \- FASE 1](https://open.spotify.com/album/4dQAevCwvaHURvvM1ddXwM) | 2:55 | 2023-06-16 |  |
 | [Melhor Ser uma Saudade](https://open.spotify.com/track/5IcPYzR2bkS4W3MabMpi4Z) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta](https://open.spotify.com/album/5QBgkxSxKSL0miMmONVo8a) | 2:38 | 2022-11-08 | 2023-05-06 |
 | [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 | 2022-02-04 | 2022-11-10 |
@@ -92,6 +92,7 @@
 | [Meus Vícios \- Ao Vivo](https://open.spotify.com/track/2PtpfX7sX870xeOfdTMyx2) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo In Goiânia Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4ASvXhH1cvPOV9ay3waCki) | 2:31 | 2022-10-14 | 2023-05-16 |
 | [Minha Cópia Atual \- Ao Vivo](https://open.spotify.com/track/4HpRywZJgzkXXYLKJ0mLiY) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 6\)](https://open.spotify.com/album/5Z5Y76DPTwvgg02i4gS6OT) | 3:03 | 2022-04-08 | 2023-02-14 |
 | [Modo Avião \- Ao Vivo](https://open.spotify.com/track/7m9Hr6qAquvk6nNFtBIlM0) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Modo Avião \(Ao Vivo\)](https://open.spotify.com/album/1DSGVugkg3B6vZsw7lcs3n) | 2:40 | 2021-12-31 | 2022-06-15 |
+| [MOLETOM](https://open.spotify.com/track/1mimc5QiUuwmVYdXkWvgOQ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [MOLETOM](https://open.spotify.com/album/4As9gJpoGbUD1ZYQx9qyqK) | 3:27 | 2023-07-14 |  |
 | [Molhando o Volante](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Molhando o Volante](https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l) | 2:42 | 2021-12-31 | 2023-04-09 |
 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2021-12-31 | 2022-03-18 |
 | [Motel Afrodite](https://open.spotify.com/track/2Rlde4R776iKtqODzVhMEM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Motel Afrodite](https://open.spotify.com/album/5NbuHCJlpaeH6g0h1ahYDj) | 2:50 | 2021-12-31 | 2022-05-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Oxlade
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,937 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,358 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 |
 | 50 | [Geto \(feat\. 1da Banton\)](https://open.spotify.com/track/1Jt78L7jNVLD3hNo674jww) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Geto \(feat\. 1da Banton\)](https://open.spotify.com/album/7perMKYhcKMnjPNqUx9Bfk) | 2:28 |
 
-Snapshot ID: `MCxhNjhjNWRjZTNmZTFhZDMyZWU3ZjMxNGFmNGI3Yjg0YmJkYzEwYWFk`
+Snapshot ID: `MCw1ZDIxYzFkMGM2ZTA0YjkyMzRlNzYwOWE1MDc1NGNiZjEzMmQ4M2Nh`

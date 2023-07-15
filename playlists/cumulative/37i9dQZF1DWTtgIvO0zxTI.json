@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 144000,
       "name": "Besayuno",
       "url": "https://open.spotify.com/track/1dBhKaM4ybPl3WcCJGVhA5"
@@ -1471,6 +1471,28 @@
     },
     {
       "album": {
+        "name": "No Es Normal (con Jay Wheeler)",
+        "url": "https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "No Es Normal (con Jay Wheeler)",
+      "url": "https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr"
+    },
+    {
+      "album": {
         "name": "No La Supero",
         "url": "https://open.spotify.com/album/1rvtmnEsnjJZRmAoq841ux"
       },
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 117000,
       "name": "ORIGEN",
       "url": "https://open.spotify.com/track/5VzmwYIbOLNJGBm76Og9RH"
@@ -1780,6 +1802,44 @@
       "duration_ms": 153000,
       "name": "Rayos, Besos, Fallos",
       "url": "https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG"
+    },
+    {
+      "album": {
+        "name": "Red Hot Chile Papers",
+        "url": "https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Motafonkas",
+          "url": "https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Frank Lucas",
+          "url": "https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230"
+        },
+        {
+          "name": "Don Cup\u00f3n",
+          "url": "https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286363,
+      "name": "Red Hot Chile Papers",
+      "url": "https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q"
     },
     {
       "album": {

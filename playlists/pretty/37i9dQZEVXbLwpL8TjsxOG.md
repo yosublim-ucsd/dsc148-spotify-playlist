@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,796 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,805 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,45 +18,45 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 | 8 | [MONEY](https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [MONEY](https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8) | 3:22 |
 | 9 | [MONEY \(Anson Lo x Dear Jane\)](https://open.spotify.com/track/54ugnbuE4eWGhdXKMAAWFV) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7), [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [MONEY \(Anson Lo x Dear Jane\)](https://open.spotify.com/album/0XAxVwj5yqRt9vnRdoR2Xg) | 3:38 |
 | 10 | [再見 寧靜海](https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [再見 寧靜海](https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV) | 4:10 |
-| 11 | [永順街39號](https://open.spotify.com/track/3b4dQtIVyVhQdbYVfrik0k) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [永順街39號](https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj) | 4:40 |
+| 11 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 12 | [抱抱無尾熊](https://open.spotify.com/track/6lfMr5SEeFdpMeIJxw5n1I) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [抱抱無尾熊](https://open.spotify.com/album/27ht56bpzBhmQfjSjgoAmI) | 3:45 |
-| 13 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
+| 13 | [永順街39號](https://open.spotify.com/track/3b4dQtIVyVhQdbYVfrik0k) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [永順街39號](https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj) | 4:40 |
 | 14 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 |
-| 15 | [地球上的最後一朵花](https://open.spotify.com/track/2vJreatDgwtXWKpkqpPUZ3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [地球上的最後一朵花](https://open.spotify.com/album/2zJ2Sf31ZtCsH2bqZbeAZp) | 3:46 |
-| 16 | [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 |
-| 17 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 |
-| 18 | [老派約會之必要](https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:43 |
-| 19 | [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 |
-| 20 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 15 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 |
+| 16 | [地球上的最後一朵花](https://open.spotify.com/track/2vJreatDgwtXWKpkqpPUZ3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [地球上的最後一朵花](https://open.spotify.com/album/2zJ2Sf31ZtCsH2bqZbeAZp) | 3:46 |
+| 17 | [老派約會之必要](https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 3:43 |
+| 18 | [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 |
+| 19 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 |
+| 20 | [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 |
 | 21 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
-| 22 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
+| 22 | [世一](https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 4:23 |
 | 23 | [記憶棉](https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [記憶棉](https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE) | 4:33 |
-| 24 | [隱形遊樂場](https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [隱形遊樂場](https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7) | 3:53 |
-| 25 | [世一](https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 4:23 |
-| 26 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 |
-| 27 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
-| 28 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
-| 29 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
+| 24 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
+| 25 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
+| 26 | [隱形遊樂場](https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [隱形遊樂場](https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7) | 3:53 |
+| 27 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 |
+| 28 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
+| 29 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
 | 30 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 31 | [到底發生過什麼事](https://open.spotify.com/track/1t5D0Y5VMTEISUpAZXoFpN) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [X](https://open.spotify.com/album/0h1Cdmn1M3EM61yxpwRqja) | 4:19 |
 | 32 | [萬一你是個好人](https://open.spotify.com/track/6lwMbAQ6RLzlXrX5Zh1rG6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [萬一你是個好人](https://open.spotify.com/album/7l4sUDR6RnR3DVrsfrmo3g) | 3:05 |
 | 33 | [國際孤獨等級](https://open.spotify.com/track/5KpWHEh32vzxkttIK3KHKI) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [國際孤獨等級](https://open.spotify.com/album/1VSvRUXx0Qq9sjwFnyfONM) | 3:13 |
 | 34 | [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 |
 | 35 | [給缺席的人唱首歌](https://open.spotify.com/track/1jPDZpQoMwgmP3CzmIiTxB) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Love & Loss](https://open.spotify.com/album/2irTqW2Js2rvHWJPxW39XO) | 3:57 |
-| 36 | [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 |
+| 36 | [花海](https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [花海](https://open.spotify.com/album/3jHdrD9gXC0XL1ZuD4NmMS) | 2:57 |
 | 37 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 |
-| 38 | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 |
-| 39 | [Distance](https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance](https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK) | 3:05 |
-| 40 | [花海](https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [花海](https://open.spotify.com/album/3jHdrD9gXC0XL1ZuD4NmMS) | 2:57 |
+| 38 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
+| 39 | [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 |
+| 40 | [Distance](https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance](https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK) | 3:05 |
 | 41 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 |
-| 42 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
-| 43 | [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 |
-| 44 | [偷情](https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [偷情](https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19) | 3:48 |
-| 45 | [Master Class](https://open.spotify.com/track/7xE3HkKaZFhtzrt2FiwNOd) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Master Class](https://open.spotify.com/album/03psvIea883UU385SIAccE) | 3:33 |
-| 46 | [I Can See You \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:33 |
-| 47 | [賽勒斯的愛](https://open.spotify.com/track/7wDHnKKyw7GSw9ihEHTXm3) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [賽勒斯的愛](https://open.spotify.com/album/5XwD4GmcpKNosw2lXoHes9) | 4:09 |
-| 48 | [Got U](https://open.spotify.com/track/2pFkBa11TZLwI4t4uzIWdi) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Got U](https://open.spotify.com/album/7uVe30iLgYZNzjExBxRVN0) | 2:52 |
-| 49 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
-| 50 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 2:34 |
+| 42 | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 |
+| 43 | [Master Class](https://open.spotify.com/track/7xE3HkKaZFhtzrt2FiwNOd) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Master Class](https://open.spotify.com/album/03psvIea883UU385SIAccE) | 3:33 |
+| 44 | [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 |
+| 45 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
+| 46 | [賽勒斯的愛](https://open.spotify.com/track/7wDHnKKyw7GSw9ihEHTXm3) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [賽勒斯的愛](https://open.spotify.com/album/5XwD4GmcpKNosw2lXoHes9) | 4:09 |
+| 47 | [偷情](https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [偷情](https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19) | 3:48 |
+| 48 | [一手造成](https://open.spotify.com/track/7D0xhG1kyWghQgAbtHXoN4) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [一手造成](https://open.spotify.com/album/3B822JL4gtdMgJVXqdz40o) | 3:38 |
+| 49 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
+| 50 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 |
 
-Snapshot ID: `NzQyNjE1MjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzQyNzAxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

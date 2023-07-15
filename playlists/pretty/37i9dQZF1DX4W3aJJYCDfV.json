@@ -1,18 +1,18 @@
 {
   "description": "Brand new music from J Hus (pictured), Billie Eilish, Disclosure and more!",
-  "num_followers": 834624,
+  "num_followers": 834787,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmIzZWFmNzFiNTBiOGVlNTQwYTFiOWM2ZjgxMjQxOTI5YmY2YWU0",
+  "snapshot_id": "MCxmZTYwNWY5YjVkMGY3ZmQzY2NjZWIzNDQwY2IwY2E1OGNkNWU3NWE2",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Militerian (feat. Naira Marley)",
-        "url": "https://open.spotify.com/album/3FPOMkhytsXFNhXo1uKgDL"
+        "name": "Beautiful and Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
       "artists": [
         {
@@ -26,7 +26,7 @@
       ],
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
-      "url": "https://open.spotify.com/track/1mNMEme7VaZNGxsBmHQJ44"
+      "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -223,6 +223,26 @@
       "duration_ms": 169700,
       "name": "Scoreboard",
       "url": "https://open.spotify.com/track/1Dx7WrUk8TFGSuxKIRTAZO"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -771,6 +791,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "What's The Point In Life",
+        "url": "https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "sustain",
         "url": "https://open.spotify.com/album/6kgCCIfkGTrRYS0UUNWfpH"
       },
@@ -825,20 +861,36 @@
       "url": "https://open.spotify.com/track/2poJFmM8C3CdjGCNZBfc77"
     },
     {
-      "added_at": "2023-07-13 23:00:00",
+      "added_at": "2023-07-14 09:45:22",
       "album": {
-        "name": "What's The Point In Life",
-        "url": "https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l"
+        "name": "Care About Me",
+        "url": "https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs"
       },
       "artists": [
         {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
         }
       ],
-      "duration_ms": 138944,
-      "name": "What's The Point In Life",
-      "url": "https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg"
+      "duration_ms": 213076,
+      "name": "Care About Me",
+      "url": "https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
+        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1031,6 +1083,22 @@
       "duration_ms": 190625,
       "name": "Move Your Body (feat. Moxie Knox)",
       "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1419,6 +1487,26 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Grandson",
+        "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "From The Hood",
+      "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Otherside",
         "url": "https://open.spotify.com/album/4SKBScjIVGKKVpysHZ0SW3"
       },
@@ -1527,6 +1615,22 @@
       "duration_ms": 211186,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/7dl4ldeLF20Tiioz3brZIe"
+      },
+      "artists": [
+        {
+          "name": "Masked Man",
+          "url": "https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5"
+        }
+      ],
+      "duration_ms": 164545,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/33zCAF2l34Bj0yAz2aaFMb"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1675,8 +1779,8 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "In Separation - EP",
-        "url": "https://open.spotify.com/album/5DCQNOT0gfsvhDY92xbDBU"
+        "name": "In Separation",
+        "url": "https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo"
       },
       "artists": [
         {
@@ -1686,7 +1790,7 @@
       ],
       "duration_ms": 182291,
       "name": "Does It Rain on You?",
-      "url": "https://open.spotify.com/track/2sfnrSito9HefVdVXCaZc5"
+      "url": "https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY"
     },
     {
       "added_at": "2023-07-13 23:00:00",

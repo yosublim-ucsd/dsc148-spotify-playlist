@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: LAYA",
+  "description": "Let the songs speak. Cover: Lehla Samia",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 183588,
       "name": "$weet n $our",
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
@@ -56,6 +56,24 @@
       "duration_ms": 132106,
       "name": "143",
       "url": "https://open.spotify.com/track/3923eUQ7hXHpceXtoqJVRO"
+    },
+    {
+      "album": {
+        "name": "1st Lady",
+        "url": "https://open.spotify.com/album/79gSwusnEUZB9tRNuiTVa5"
+      },
+      "artists": [
+        {
+          "name": "Childish Major",
+          "url": "https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192078,
+      "name": "1st Lady",
+      "url": "https://open.spotify.com/track/4KNry6US58GNebuDaiYfHD"
     },
     {
       "album": {
@@ -2351,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY"
+      },
+      "artists": [
+        {
+          "name": "Erin Kaith",
+          "url": "https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175348,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod"
+    },
+    {
+      "album": {
         "name": "ON THE ROCKS",
         "url": "https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz"
       },
@@ -2796,7 +2832,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 247466,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1BANaaZNg6PsCv5JpSuD3z"
@@ -4816,6 +4852,24 @@
       "duration_ms": 145640,
       "name": "KMS",
       "url": "https://open.spotify.com/track/4ZKPZXtB2PabDQ1Rei2ElK"
+    },
+    {
+      "album": {
+        "name": "LOVERS WAVE VOL. 1",
+        "url": "https://open.spotify.com/album/7sxvlwZt8v20dIbwxBVj1B"
+      },
+      "artists": [
+        {
+          "name": "Lehla Samia",
+          "url": "https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120255,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/585J8WOMU3jseYK8MRERrM"
     },
     {
       "album": {
@@ -7010,7 +7064,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 193026,
       "name": "recognize",
       "url": "https://open.spotify.com/track/5nnFzV03IyFJK9GHhVxpXn"
@@ -7148,7 +7202,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 194400,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2gZfjMGvp0mwR8bdiv9SBG"
@@ -8816,6 +8870,24 @@
       "duration_ms": 199540,
       "name": "Time & Space",
       "url": "https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
       "album": {

@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 191511,
       "name": "Cape Cod",
       "url": "https://open.spotify.com/track/2DnjmwnSLvMS78MW0y8czV"
@@ -3538,6 +3538,24 @@
       "duration_ms": 185697,
       "name": "Stream Of Somnolence",
       "url": "https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh"
+    },
+    {
+      "album": {
+        "name": "Sunset Sky",
+        "url": "https://open.spotify.com/album/59WTZuYhCDdgKZs5a2EawB"
+      },
+      "artists": [
+        {
+          "name": "Sanyo Green",
+          "url": "https://open.spotify.com/artist/3U92xEbJZRc7MDmXXCXiBy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189615,
+      "name": "Sunset Sky",
+      "url": "https://open.spotify.com/track/7vwmP5FaH3TNKrJ5MBXSF8"
     },
     {
       "album": {

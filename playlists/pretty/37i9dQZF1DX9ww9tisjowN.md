@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,580 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,110 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 |
 | 75 | [mango run](https://open.spotify.com/track/6Ak5Z0cZdXBGxIwBDduvHd) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 2:46 |
 
-Snapshot ID: `MCw3ZjUzMjUxM2UyZThiYWM5MzU2MzFkMGVmYzZhNzY5NTBkNzg4ZTg5`
+Snapshot ID: `MCw3ZDEwNDk4YzEzNmMzNDE2ZDZlZmIyMGQ5NWNmOTk3NDBkMjUyOThh`

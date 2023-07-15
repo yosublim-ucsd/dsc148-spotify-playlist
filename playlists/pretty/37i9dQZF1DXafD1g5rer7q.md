@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,964 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,108 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 49 | [Stop Loving You](https://open.spotify.com/track/1TRmgkGE0EdfjjAovbMpTk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Stop Loving You](https://open.spotify.com/album/7d3UAHh6dVhDFdLupDUJ7B) | 2:49 |
 | 50 | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/track/3aLWuWKHaTV4Ok7LKvXRYn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN) | [Let Me Hold You \(Turn Me On\)](https://open.spotify.com/album/2APVXYBFX7sOVQ8HLO6kG9) | 2:42 |
 
-Snapshot ID: `MCw5ZDNiMWQzN2Y5OTU4YzljZGJjMzY1ZTllMjU2MDdkZjY0MjVmZjBk`
+Snapshot ID: `MCwxOGZjYTdjYThjNTYxNzBjYTk0NWZmYTI0YTI3NDkxMmY5N2E2YjAz`

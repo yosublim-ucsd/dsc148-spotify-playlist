@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,891,069 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,891,773 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 73 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
 | 74 | [2 Die 4 \(Jax Jones Midnight Snacks Remix\)](https://open.spotify.com/track/49DiBZ3GwhSChqKE6XOkzx) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [2 Die 4 \(Jax Jones Midnight Snacks Remix\)](https://open.spotify.com/album/3dPFgCq5KuPHjBUdSoRmlX) | 2:35 |
 | 75 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 |
-| 76 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
-| 77 | [Shake That](https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL) | 2:59 |
+| 76 | [Shake That](https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL) | 2:59 |
+| 77 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 78 | [P.I.M.P\. \- HEDEGAARD Remix](https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [DARK MATTER](https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg) | 2:54 |
 | 79 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 |
 | 80 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 |
 
-Snapshot ID: `MCw1MDI0M2JhYzMwMjFjOWZmYWUwMTM2NWY3ZmIyOTdkZmJiMDdiYzEz`
+Snapshot ID: `MCw1NWQzYzZlMzg3ZjU0ZGI0ZGNkYmQzNTBmZWNjZjgwZjJhZDlmODI5`

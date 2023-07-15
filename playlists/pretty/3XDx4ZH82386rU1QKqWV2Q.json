@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!",
-  "num_followers": 947590,
+  "num_followers": 948513,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "MTk2NSwxMTYxMTVkOGU1ZmY4YjNiMWQ1YzdiNTM1M2U2YzEyYWRiNjExNjNi",
+  "snapshot_id": "MTk2NiwxNTY1MmQ4OTk0ZDBlYWNmY2QxMTU3MGZjZTgwNzU3ZTU2ZjcxZTM2",
   "tracks": [
     {
       "added_at": "2023-06-12 05:59:49",
@@ -695,6 +695,30 @@
       "duration_ms": 131368,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ"
+    },
+    {
+      "added_at": "2023-07-14 12:50:28",
+      "album": {
+        "name": "Puppet (RAIZHELL Remix)",
+        "url": "https://open.spotify.com/album/2NYNoRsuMAbwGvSXBhvXAB"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        },
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
+        },
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Puppet - RAIZHELL Remix",
+      "url": "https://open.spotify.com/track/1j4Ag3l3X03vSgp7pIO0lj"
     },
     {
       "added_at": "2023-06-12 05:59:49",

@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220558,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/7qY6JjVNBzuzT1dkmoaiWh"
@@ -1816,6 +1816,28 @@
       "duration_ms": 217332,
       "name": "Second Dinner",
       "url": "https://open.spotify.com/track/1s4dt9PEMuaZqdOIwbJXfo"
+    },
+    {
+      "album": {
+        "name": "She's Just the Type of Girl",
+        "url": "https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161652,
+      "name": "She's Just the Type of Girl",
+      "url": "https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc"
     },
     {
       "album": {
@@ -2139,6 +2161,24 @@
     },
     {
       "album": {
+        "name": "Take A Picture",
+        "url": "https://open.spotify.com/album/17JSRVLb00E5mYIdYjhVoq"
+      },
+      "artists": [
+        {
+          "name": "Shook",
+          "url": "https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149092,
+      "name": "Take A Picture",
+      "url": "https://open.spotify.com/track/4SAayBsUqR4vfVK2FX1xjd"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4ucIAgu9h7BnQJHMZ6Bb52"
       },
@@ -2340,7 +2380,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 220209,
       "name": "Toast to Life",
       "url": "https://open.spotify.com/track/4r0TXr9QGmepTa2trPcMUf"

@@ -5637,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f",
+        "url": "https://open.spotify.com/album/5FajEbPVB8XfS5TfpSy5Ui"
+      },
+      "artists": [
+        {
+          "name": "Billy Choi",
+          "url": "https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206903,
+      "name": "Sorry\u5462\u5ea6\u4fc2\u9999\u6e2f",
+      "url": "https://open.spotify.com/track/1RVoiNHphu8IfIJK8T1b2Q"
+    },
+    {
+      "album": {
         "name": "SOUL (feat. sunshine blvd.)",
         "url": "https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6"
       },

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-288 songs - 17 hr 18 min
+289 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 | 2022-08-12 | 2023-06-10 |
 | [I Should Be Loving You](https://open.spotify.com/track/3oa2Al3mRUn4eSBLgo1gkA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [I Should Be Loving You](https://open.spotify.com/album/6Cfa0XaQseVyBqqUbbFU1p) | 3:28 | 2021-12-03 | 2022-05-07 |
 | [I Think I’m Over You](https://open.spotify.com/track/189f0Iy7MlhflRfDi82QP0) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [I Think I’m Over You](https://open.spotify.com/album/0oVKDSQOr4dBRkCurmPmAA) | 3:13 | 2023-04-21 |  |
+| [I Walk This Earth All By Myself](https://open.spotify.com/track/0yjG7B98B9AtigGIbjIG8g) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [I Walk This Earth All By Myself](https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo) | 4:31 | 2023-07-14 |  |
 | [I Wonder](https://open.spotify.com/track/3W1oHe6Sfi9fycAcz9EATc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Musical Chairs Mixtape \(Vol\. 1\)](https://open.spotify.com/album/5s6mcniU1EWM3v2rR31FYA) | 4:01 | 2022-07-29 | 2022-12-03 |
 | [i...](https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [i...](https://open.spotify.com/album/7wVN5ydlkQju7GkA3OSv85) | 3:25 | 2022-02-18 |  |
 | [If You Never Loved Me](https://open.spotify.com/track/5G8T8JFhuGVG9aOPLaIzIx) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [The Ace Of You](https://open.spotify.com/album/10iaqipBlcIzyaXNuOxVaN) | 3:42 | 2021-12-03 | 2022-05-07 |

@@ -1,28 +1,32 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 396494,
+  "num_followers": 396515,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTcxMzIwZTBhNWFiNmVjZjQ2M2RlZWNhNzA0OWFmNTBmNGIxNzI3",
+  "snapshot_id": "MCwxODhhZjcyYjNmMjFhY2M3MTQ1OWJhZDI0ZjU5MmEyYWYxM2NkNTU3",
   "tracks": [
     {
-      "added_at": "2023-06-23 04:01:00",
+      "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "We Are The Party",
-        "url": "https://open.spotify.com/album/3bNYdxoL97jRVZrGmWEDwZ"
+        "name": "Let's Party (feat. Sha Sha Jones)",
+        "url": "https://open.spotify.com/album/3FMoeHPuAVuYiVwzjEwVue"
       },
       "artists": [
         {
           "name": "Kool & The Gang",
           "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        },
+        {
+          "name": "Sha Sha Jones",
+          "url": "https://open.spotify.com/artist/0w8rt6SigpH4SOUOxJxWxq"
         }
       ],
-      "duration_ms": 253303,
-      "name": "We Are The Party",
-      "url": "https://open.spotify.com/track/4hQWcL2ABDLDSL3SCAJMNg"
+      "duration_ms": 200280,
+      "name": "Let's Party",
+      "url": "https://open.spotify.com/track/2TlbhmuwUA0gEN4E9o5JRA"
     },
     {
       "added_at": "2023-06-16 04:01:00",
@@ -163,6 +167,22 @@
       "duration_ms": 240000,
       "name": "B Side Ft. Fred Wesley - Xtended Mix",
       "url": "https://open.spotify.com/track/3zylRbtWMhzHbfFazm2qeM"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "We Are The Party",
+        "url": "https://open.spotify.com/album/3bNYdxoL97jRVZrGmWEDwZ"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 253303,
+      "name": "We Are The Party",
+      "url": "https://open.spotify.com/track/4hQWcL2ABDLDSL3SCAJMNg"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1479,22 +1499,6 @@
       "duration_ms": 219596,
       "name": "Mother Funkin' Robots",
       "url": "https://open.spotify.com/track/0GjSGefxut8enOP0LFPlln"
-    },
-    {
-      "added_at": "2020-10-30 04:02:00",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/5pZAsx99H0eSljRriWU5QS"
-      },
-      "artists": [
-        {
-          "name": "Diggin' Dirt",
-          "url": "https://open.spotify.com/artist/3xgLOazt16FXyWSWJ99ViC"
-        }
-      ],
-      "duration_ms": 314326,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3Y0WMxJ7Mpb7xe2RTa1LkD"
     },
     {
       "added_at": "2020-10-30 04:02:00",

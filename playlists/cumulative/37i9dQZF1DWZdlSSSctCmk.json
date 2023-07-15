@@ -903,6 +903,32 @@
     },
     {
       "album": {
+        "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+        "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "album": {
         "name": "Final Days (Bonobo Remix)",
         "url": "https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB"
       },
@@ -1356,7 +1382,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 428234,
       "name": "Josephine - French Edit",
       "url": "https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh"
@@ -1682,7 +1708,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-15",
       "duration_ms": 329440,
       "name": "Mitamiyo",
       "url": "https://open.spotify.com/track/2q9SWGXBh3VE7ZmERLEbYS"
@@ -3030,6 +3056,36 @@
       "duration_ms": 299960,
       "name": "Weather Storm",
       "url": "https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE"
+    },
+    {
+      "album": {
+        "name": "Y U LIE Y",
+        "url": "https://open.spotify.com/album/3LyZb0Zy2Yok31oT2cODwL"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        },
+        {
+          "name": "CHOYCES",
+          "url": "https://open.spotify.com/artist/7788VslApM8XUivJAnmNFs"
+        },
+        {
+          "name": "TRUKANADA",
+          "url": "https://open.spotify.com/artist/2gYg2jSiNf0Cbp8n41JvNp"
+        },
+        {
+          "name": "KTRNA",
+          "url": "https://open.spotify.com/artist/5pKcy7BcqjgJ632BpR6wMa"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326440,
+      "name": "Y U LIE Y",
+      "url": "https://open.spotify.com/track/29dL0v4JxKE5Li9LYA5lgw"
     },
     {
       "album": {

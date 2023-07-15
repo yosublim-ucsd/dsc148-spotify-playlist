@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 757740,
+  "num_followers": 757778,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDY5MWU3ZTgzNzUwMGU2YjZmYjY1NjA1NWIwMmQ4NjFkNDUxNjJm",
+  "snapshot_id": "MCw4ODU1NzdkMDliNmVhNmQ0NTU0YzM4NTRiYmE2N2U4ZGM4ZjkyZTQ1",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -747,38 +747,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 217369,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "HEADSH\u00d6T",
         "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Overcome (feat. Frances)",
-      "url": "https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Overcome (feat. Frances)",
+      "url": "https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "TALK2MUCH",
         "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 133846,
       "name": "DREAMER",
       "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 200339,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
     },
     {
       "added_at": "2023-06-30 04:01:00",

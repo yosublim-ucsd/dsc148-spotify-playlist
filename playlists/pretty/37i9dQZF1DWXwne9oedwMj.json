@@ -1,12 +1,12 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 638296,
+  "num_followers": 637620,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGQ1ZTRkMmU5N2U3NTYwNDdhNTJjYmUzYTNkYjZkOTUxMTI3MmY5",
+  "snapshot_id": "MCw0ZGYwOTk5OTBmYWY2Y2IxZjI2ZjdkNDFkZDEwZjhiOTYyMDM1MTQ4",
   "tracks": [
     {
       "added_at": "2023-05-26 19:43:26",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-05-24 11:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
-    },
-    {
-      "added_at": "2023-05-24 11:00:00",
-      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 214857,
       "name": "La Old Skul",
       "url": "https://open.spotify.com/track/4Z8HZSApeddaRM2ovivUj4"
+    },
+    {
+      "added_at": "2023-05-24 11:00:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2023-05-24 11:00:00",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-05-24 11:00:00",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "LA COMBI VERSACE",
-      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
-    },
-    {
-      "added_at": "2023-05-24 11:00:00",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "added_at": "2023-05-24 11:00:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "LA COMBI VERSACE",
+      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
     },
     {
       "added_at": "2023-05-24 11:00:00",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-05-24 11:00:00",
       "album": {
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 204654,
+      "name": "CANDY - Remix",
+      "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
+    },
+    {
+      "added_at": "2023-05-24 11:00:00",
+      "album": {
         "name": "Kitty",
         "url": "https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 209302,
       "name": "En Bajita",
       "url": "https://open.spotify.com/track/5K9VzfSr7L34rMMJxe8ndg"
-    },
-    {
-      "added_at": "2023-05-24 11:00:00",
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 204654,
-      "name": "CANDY - Remix",
-      "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
     },
     {
       "added_at": "2023-05-24 11:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-24 11:00:00",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
+    },
+    {
+      "added_at": "2023-05-24 11:00:00",
+      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 146106,
       "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
       "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
-    },
-    {
-      "added_at": "2023-05-24 11:00:00",
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 130641,
-      "name": "M\u00eda M\u00eda",
-      "url": "https://open.spotify.com/track/5frA4yUrm67JdmgrJOjJgg"
     }
   ],
   "unique_name": "Con B de Bichota",

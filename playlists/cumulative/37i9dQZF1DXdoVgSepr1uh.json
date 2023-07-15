@@ -3188,6 +3188,28 @@
     {
       "album": {
         "name": "Sola",
+        "url": "https://open.spotify.com/album/3Lqv0aJOLqRVyRwgEEG43N"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        },
+        {
+          "name": "El Pesa 9",
+          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147027,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5JVvWAlR9N1WDHRJ4anDcZ"
+    },
+    {
+      "album": {
+        "name": "Sola",
         "url": "https://open.spotify.com/album/0ZwE05N0Ur1rI6jY5u78ZN"
       },
       "artists": [

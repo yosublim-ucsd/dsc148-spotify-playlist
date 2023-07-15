@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 407560,
+  "num_followers": 407801,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGM5NDMyNjk5OGMxYTI4N2YwYjUxZTJlZTJhNmJkZjAyN2RlOTk4",
+  "snapshot_id": "MCw1ODM0MDIwZjY5MTdkNWRlMzBhZWQ4NzYyMDJjZDIyY2RjNmVmOTU4",
   "tracks": [
     {
       "added_at": "2023-06-20 11:05:16",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Genius Loves Company",
-        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        },
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 210854,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -391,6 +371,26 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "Genius Loves Company",
+        "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        },
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 210854,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2AcDdgk7gSs1gJKcIsi6Ep"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 216453,
       "name": "Just Like Chet",
       "url": "https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/0zjOktNIgywCUwaJrIX93E"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "The Summer Wind",
-      "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 124986,
       "name": "They Can\u2019t Take That Away From Me",
       "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "The Summer Wind",
+      "url": "https://open.spotify.com/track/2YA3iikgy6ygLdA8zdeBmu"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "So in Love",
         "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
       },
@@ -1183,22 +1167,34 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
       },
       "artists": [
         {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+      "duration_ms": 237813,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
       "artists": [
         {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Kisses On The Bottom",
         "url": "https://open.spotify.com/album/5jOBxNZ2fXG1k0x8SYJ38e"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 155706,
       "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
       "url": "https://open.spotify.com/track/4YUetg3gv643KMv8X40KPO"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2bAdCQPyUANc4oxnR7ZsfI"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "The Boy Next Door (Special Edition)",
         "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 207800,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/3SOolXGudRj8IbpmEFPAj1"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "Try Your Wings",
+        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
+      },
+      "artists": [
+        {
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "True Love's Flame",
         "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 152360,
       "name": "A Place I Don\u2019t Know",
       "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "Try Your Wings",
-        "url": "https://open.spotify.com/album/2syxIUQoSkiJvwo0ftifwT"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/2IDn9H3axGov2DFWvgv8Sv"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 326733,
       "name": "Save Your Love for Me",
       "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "I've Got You Under My Skin",
         "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
       },
@@ -1971,18 +1955,18 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Always Seem to Get Things Wrong",
-        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/2S7ghQU5xIAm1hW7rMKNC0"
       },
       "artists": [
         {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 251413,
-      "name": "I'll Tell You Something",
-      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
+      "duration_ms": 178440,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/6VRvhiVLih80IWCTXY8Sxr"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1999,6 +1983,22 @@
       "duration_ms": 257680,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Always Seem to Get Things Wrong",
+        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "I'll Tell You Something",
+      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -2607,6 +2607,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "The World in You",
+        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Wright",
+          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "The World in You",
+      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "Lemons",
         "url": "https://open.spotify.com/album/3jzKOypFUMLgtgUutC0rY8"
       },
@@ -2627,22 +2643,6 @@
       "duration_ms": 249541,
       "name": "Lemons",
       "url": "https://open.spotify.com/track/0MT8gwmUQ24qxGFZ5ramXw"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "The World in You",
-        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Wright",
-          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "The World in You",
-      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
     }
   ],
   "unique_name": "Easy Jazz",

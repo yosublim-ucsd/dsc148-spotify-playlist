@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2010s.",
-  "num_followers": 38029,
+  "num_followers": 38070,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODdmZDU3YjMxYTM4MjMzNTRmZTg0MDlhN2M4ZjQ0OTlkNmM5NDdi",
+  "snapshot_id": "MCw3YmE2MzkyMjYyZWE3MjZiNDQxYzc5N2EwOGU4ZDQ5YjE0YWM1NWI0",
   "tracks": [
     {
       "added_at": "2020-05-15 11:36:11",
@@ -379,8 +379,8 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
       },
       "artists": [
         {
@@ -388,15 +388,15 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 324466,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
+      "duration_ms": 188493,
+      "name": "Tear in My Heart",
+      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
     },
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "added_at": "2021-04-09 06:31:21",
@@ -479,8 +479,8 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Tear in My Heart",
-      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
+      "duration_ms": 324466,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -551,8 +551,8 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+      "duration_ms": 182693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh"
     },
     {
       "added_at": "2020-05-15 11:36:11",
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-05-15 11:36:11",
       "album": {
-        "name": "Fitz and The Tantrums (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
-    },
-    {
-      "added_at": "2020-05-15 11:36:11",
-      "album": {
         "name": "I'm with You",
         "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 282400,
       "name": "The Adventures of Rain Dance Maggie",
       "url": "https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6"
+    },
+    {
+      "added_at": "2020-05-15 11:36:11",
+      "album": {
+        "name": "Fitz and The Tantrums (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
     },
     {
       "added_at": "2020-05-15 11:36:11",

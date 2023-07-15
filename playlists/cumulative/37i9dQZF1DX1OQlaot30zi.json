@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "5 \u00c9TOILES",
+        "url": "https://open.spotify.com/album/0V26R9IVEXerTCnQk1djnB"
+      },
+      "artists": [
+        {
+          "name": "Pikasso",
+          "url": "https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147528,
+      "name": "5 \u00c9TOILES",
+      "url": "https://open.spotify.com/track/3TrbrxpQCs6dS0CD4HpynF"
+    },
+    {
+      "album": {
         "name": "DJUNGLE UNCHAINED",
         "url": "https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO"
       },

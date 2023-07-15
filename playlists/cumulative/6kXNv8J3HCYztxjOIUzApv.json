@@ -4133,6 +4133,24 @@
     },
     {
       "album": {
+        "name": "Woo Hah!! Got You All in Check",
+        "url": "https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A"
+      },
+      "artists": [
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237629,
+      "name": "Woo Hah!! Got You All in Check",
+      "url": "https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS"
+    },
+    {
+      "album": {
         "name": "Worst Behavior",
         "url": "https://open.spotify.com/album/0AuvTqyfSRNelI2rlw5dhY"
       },

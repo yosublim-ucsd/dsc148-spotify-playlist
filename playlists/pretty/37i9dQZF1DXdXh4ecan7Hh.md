@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Jackson Dean, Josh Ross, ERNEST and 49 Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,071 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,075 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 42 | [Before You Called Me Baby \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:45 |
 | 43 | [Whiskey \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7KeNKDufYkAf3VKOumK12r) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:26 |
 | 44 | [Giving You Up \- Spotify Singles](https://open.spotify.com/track/0DNcfs2vfNvwa3o7MEDSGG) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:44 |
-| 45 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ANqk7eCLJ5FqjHiL1ln9e) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 3:20 |
-| 46 | [Hotel Key \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 4:01 |
+| 45 | [Hotel Key \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 4:01 |
+| 46 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ANqk7eCLJ5FqjHiL1ln9e) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm) | 3:20 |
 | 47 | [Elvira \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 3:33 |
 | 48 | [Blue Tacoma](https://open.spotify.com/track/4lUOnbLKhGz4ugezX8oUjl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Spotify Singles](https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx) | 3:22 |
 | 49 | [Everywhere I'm Goin' \(featuring Avenue Beat\)](https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 3:27 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 69 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
 | 70 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MCxmMWZiZmU2OGVhNmU4NWY4M2M1MzkzNjk0MjNkZWZkNmFjNjI5YzU2`
+Snapshot ID: `MCxhOWM5M2Y5ODE5NWIyNGQ5OTlhNGI5MjI4MmM1OTNlYTQzMTg2ZjBj`

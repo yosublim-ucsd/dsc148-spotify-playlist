@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-179 songs - 10 hr 50 min
+180 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [HELLP](https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM) | 3:26 | 2022-07-22 |  |
 | [HELLP](https://open.spotify.com/track/32MEaVAxTDZT7AOiI83Rfh) | [RYNO](https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [HELLP](https://open.spotify.com/album/42pLIZPY7kAZmNWFYuIlrE) | 3:26 | 2022-05-23 | 2022-07-29 |
 | [HERE](https://open.spotify.com/track/7gniWoEvKjnrBgVm8IEbnG) | [Young Kay](https://open.spotify.com/artist/11AJqyey7C0ORsBE7PL9qO), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/11dXeFyCHGmJWHsHRZbe4H) | 3:49 | 2022-05-23 | 2022-07-28 |
-| [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 | 2022-07-22 |  |
+| [HERE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG) | [Young Kay](https://open.spotify.com/artist/72F43xdiBUC3JmJ4kZbQye), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [School Rapper3 Final](https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU) | 3:49 | 2022-07-22 | 2023-07-15 |
 | [Hide And Seek \(feat.Jooyoung\)](https://open.spotify.com/track/2tlW09YJNTVs1OU0bjR4UN) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 4:12 | 2022-05-23 | 2022-07-26 |
 | [Hmmm](https://open.spotify.com/track/15bT2BHM8ZIvBNE290PSng) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 4:11 | 2022-06-03 | 2022-07-29 |
 | [home sh\*t home \(feat\. JINBO the superfreak\)](https://open.spotify.com/track/3di8ahVaBcZg9OPq1JYa85) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [JINBO](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [DARKROOM](https://open.spotify.com/album/1BDiXHZ4Neq8jwC1lTcBzE) | 3:29 | 2022-05-23 | 2023-02-10 |
@@ -174,6 +174,7 @@
 | [wish](https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:41 | 2022-07-22 |  |
 | [WooDy](https://open.spotify.com/track/73nqOCvDLeMPYLZT6fNusW) | [SANG HA](https://open.spotify.com/artist/5h7uYIa41cdONFy8pmu5Wm) | [Youth And Me](https://open.spotify.com/album/1wN2j34EImbM9vTEvQG6fk) | 1:51 | 2022-05-23 | 2022-07-29 |
 | [Words before death](https://open.spotify.com/track/1CRXNa7H7hNNduGkxvZDXI) | [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [Words before death](https://open.spotify.com/album/1nMEtGmOEcZriI6Uz6qrRC) | 3:22 | 2022-07-04 | 2022-07-18 |
+| [Writer's Block](https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [The Anecdote](https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q) | 3:38 | 2023-06-13 |  |
 | [Writer's Block](https://open.spotify.com/track/5GcokZlosL9XeWnSn0zugo) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [The Anecdote](https://open.spotify.com/album/1ZzV8Yt4fDGrbmLC7BC3yn) | 3:38 | 2022-05-23 | 2022-07-29 |
 | [X \(Butterfly\)](https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [X \(Butterfly\)](https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O) | 3:13 | 2022-05-23 |  |
 | [Y earned \(Feat\. Gaeko, SOLE\) \(Prod\. Primary, plusNONE\)](https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5) | [Rohann](https://open.spotify.com/artist/10jo9gGaXEw8lAgB3gK0c1), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM), [xs](https://open.spotify.com/artist/3ivxGWDvNZC4KSTaUgNXr8), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 3:06 | 2022-05-23 | 2023-01-23 |

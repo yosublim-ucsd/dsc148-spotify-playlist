@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Peter Cetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,475 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,649 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 64 | [Hard to Say I'm Sorry / Get Away \- 2009 Remaster](https://open.spotify.com/track/5zpYTfWIuNXCFblRIescG1) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded Edition\)](https://open.spotify.com/album/1I5t0om003Ikyhs8Ks3t8C) | 5:04 |
 | 65 | [Should We Carry On](https://open.spotify.com/track/73yhx3X96uO3jpNlAQLZwA) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 3:46 |
 | 66 | [Parked Cars](https://open.spotify.com/track/065U4wb8kPKuY3XqpIk5zg) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bowling In Paris](https://open.spotify.com/album/6jMjThGNjDvWlYKDYQVYqB) | 4:45 |
-| 67 | [Carmelia](https://open.spotify.com/track/3jbG3BH5nGIxzj9aBuTMhW) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Dan Hill \(1987\)](https://open.spotify.com/album/2iKLby0IRPdVvnAXmq3Ka7) | 3:46 |
-| 68 | [Always](https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Break Of Dawn](https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW) | 3:47 |
+| 67 | [Always](https://open.spotify.com/track/4ko4WxOdiaVEJexWRb53zZ) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Break Of Dawn](https://open.spotify.com/album/3Zr0QdJlpHUstVVy3yvBdW) | 3:47 |
+| 68 | [Carmelia](https://open.spotify.com/track/3jbG3BH5nGIxzj9aBuTMhW) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Dan Hill \(1987\)](https://open.spotify.com/album/2iKLby0IRPdVvnAXmq3Ka7) | 3:46 |
 | 69 | [Anywhere You Run To](https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 3:50 |
 | 70 | [Fool's Paradise](https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg) | [Randy Goodrum](https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0) | [Fool's Paradise](https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C) | 3:58 |
 | 71 | [All Right \- 2019 Remaster](https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page \(2019 Remaster\)](https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV) | 4:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 74 | [Free Fallin' \- Remastered](https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 5:00 |
 | 75 | [Heart \(Stop Beating In Time\)](https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [World Radio](https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx) | 4:40 |
 
-Snapshot ID: `MCw3ODY1NGFhODUwOWUyNzE3ZjdkM2Y4OTFlM2Y1ZTc0YTg5MjY3ZTM5`
+Snapshot ID: `MCxiYjNmOWQ5M2ViYTIwY2U4MmY2NzczZjc3NzEyZjQ3MjdhYjNjYTEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Stuzzi\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,130 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,162 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 13 | [WYA \(Where Ya At\)](https://open.spotify.com/track/3d1Rm43gLSaWfH0mgWeYYP) | [NOISES](https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp) | [WYA](https://open.spotify.com/album/3e0YYtHBlZ2Tw28SrWoFA3) | 3:52 |
 | 14 | [Critical](https://open.spotify.com/track/4KhjmTYdfuTN9cTsXREo7D) | [Untrue](https://open.spotify.com/artist/7rCtqohsOSxYm8eOUy9GM5) | [Critical EP](https://open.spotify.com/album/23Ydjwh3CzDduVflh90Mab) | 4:34 |
 | 15 | [Abyssal Zone](https://open.spotify.com/track/0unGG4h9P7iZcoCJrY5tgX) | [not even noticed](https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo) | [Microtransitions EP](https://open.spotify.com/album/5BbxXYvcQOAbPaBWdiZgsP) | 4:34 |
-| 16 | [Whatever It Takes](https://open.spotify.com/track/0CeEkrTdcOTDAqmiCRF6wS) | [Simon Shaw](https://open.spotify.com/artist/7rujLRJWNdY3GKR9QX1FbU) | [Whatever It Takes](https://open.spotify.com/album/3kSzHE42qeA9MXHtq1wYZD) | 5:41 |
+| 16 | [Whatever It Takes](https://open.spotify.com/track/2emjVYz9k0DiTfztKuVwDG) | [Simon Shaw](https://open.spotify.com/artist/7rujLRJWNdY3GKR9QX1FbU) | [Higher](https://open.spotify.com/album/5OSKx32HIa1NaBgIAAO6vs) | 5:41 |
 | 17 | [Encadenados](https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Encadenados](https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo) | 7:24 |
 | 18 | [Vernis VIP](https://open.spotify.com/track/688IYjf8R4S0GH9MPmFr5F) | [Ike](https://open.spotify.com/artist/7siEkein1PybvZBoWrEUsa) | [Pulsar](https://open.spotify.com/album/5bvdTnawqim6ABuqyNyUU8) | 5:39 |
 | 19 | [Lift Me Up](https://open.spotify.com/track/6WSIg7AlqKRun2XiQafz9Q) | [Sopp](https://open.spotify.com/artist/0zJbMpYvtHx9AkpXTLLPl7) | [Lift Me Up](https://open.spotify.com/album/2mDBT4l7z7iu8iEBEsiBXs) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Call Jane](https://open.spotify.com/track/2NGRFd7J0PdyDSMXvNsniW) | [Anna Amato](https://open.spotify.com/artist/244LldEKISk1ZWoBECOVcu) | [Call Jane](https://open.spotify.com/album/3SVXROaNwXao6vSnWorwgY) | 4:53 |
 | 100 | [Rapture](https://open.spotify.com/track/4xE4xQqsZILYGCnurQ0HP1) | [Shay De Castro](https://open.spotify.com/artist/0v9G2owf4WLwxKH95hc9gQ) | [Rapture](https://open.spotify.com/album/0LtLPY1kOsRJ1sDy4FGy4c) | 3:56 |
 
-Snapshot ID: `MCw4YTMwYzQ3NTlmNDFlNjczZjlhOTE4NDMxOGEzYzFmNzBlZjc3MmQ2`
+Snapshot ID: `MCwyYzliODA1Yjc5YjRiYTVlNDAwNDc3ZDQ2NTg3NDhkMjgxZjhkZjg5`

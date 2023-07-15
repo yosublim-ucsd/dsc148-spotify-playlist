@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 558993,
+  "num_followers": 559083,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2E4NzI0Nzc2ZTc1NThiNzk3ZWNmN2NhZWMwYWY2MzcyYTlkMTk5",
+  "snapshot_id": "MCw1YjkyODlhMzUzMWY3YjI2NTU2MzYzZjVlYjZhODBjZTA5MWEyZWI2",
   "tracks": [
     {
       "added_at": "2023-07-14 01:17:56",
@@ -755,18 +755,22 @@
     {
       "added_at": "2023-07-14 01:17:56",
       "album": {
-        "name": "Hari Baru",
-        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
+        "name": "Menari Dengan Bayangan",
+        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },
       "artists": [
         {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        },
+        {
+          "name": "Rara Sekar",
+          "url": "https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Dekat Di Hati",
-      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
+      "duration_ms": 373824,
+      "name": "Membasuh",
+      "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
     },
     {
       "added_at": "2023-07-14 01:17:56",
@@ -803,22 +807,18 @@
     {
       "added_at": "2023-07-14 01:17:56",
       "album": {
-        "name": "Menari Dengan Bayangan",
-        "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
+        "name": "Hari Baru",
+        "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
       "artists": [
         {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        },
-        {
-          "name": "Rara Sekar",
-          "url": "https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl"
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
         }
       ],
-      "duration_ms": 373824,
-      "name": "Membasuh",
-      "url": "https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb"
+      "duration_ms": 268866,
+      "name": "Dekat Di Hati",
+      "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
     },
     {
       "added_at": "2023-07-14 01:17:56",

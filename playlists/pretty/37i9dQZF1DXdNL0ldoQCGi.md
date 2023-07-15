@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,819 likes - 89 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,175 likes - 89 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 7 | [Posturado E Calmo](https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Another One](https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ) | 3:07 |
 | 8 | [Love, Love](https://open.spotify.com/track/3P2ubMyuL9NQOVU67TVCXA) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Matheus Alves](https://open.spotify.com/artist/1WA2YgK6RudLFgrIIPfUeR) | [Love, Love](https://open.spotify.com/album/1P6rGeHgiZkqO4H0fF4UaS) | 2:13 |
 | 9 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 |
-| 10 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
+| 10 | [Eu Vou Cair na Noite](https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mc Menor Thalis](https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn) | [Eu Vou Cair na Noite](https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW) | 2:05 |
 | 11 | [Asa Branca \(Rennan & Douth! Remix\)](https://open.spotify.com/track/0NdY6ZyUighhipcIBMImGy) | [RENNAN](https://open.spotify.com/artist/1Sq3SWhfNjw1e3gpCDTry0), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Asa Branca \(Rennan & Douth! Remix\)](https://open.spotify.com/album/33lNC0BTwLcst02mDrzqhk) | 4:23 |
 | 12 | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/track/36FtXn63kzlJjwRx66Dyox) | [Jaldo Rodrigues](https://open.spotify.com/artist/2ZtIsSrdk08ODFYVLeYZKq) | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/album/6w7uzGTzLC2hvDSSbiM1GA) | 2:02 |
 | 13 | [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 88 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 89 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw2OTFmOTFhZDFjMTk4ZjY4ZDY4ODllZDFiMTcyMTMwNzhlZmU2ODk4`
+Snapshot ID: `MCw0NDBiYjM5MmQ1YWY5OTk1NTFjNzNhMWRkNWQwMWQ5ZmE2OTVhMzM1`

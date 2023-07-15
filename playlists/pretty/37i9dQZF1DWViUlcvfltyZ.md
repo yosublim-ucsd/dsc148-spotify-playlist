@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Kuni in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,904 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,922 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Occhi rossi](https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Occhi rossi](https://open.spotify.com/album/1aM3xThqq4qdTRASt79Wye) | 2:43 |
 | 55 | [Apnea](https://open.spotify.com/track/39a6nwQYyEpjk7EMl9mA4R) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Nouvelles Aventures](https://open.spotify.com/album/7bdSGk7vhlADhwK0lT3VUF) | 4:22 |
 
-Snapshot ID: `MCxhNGMwNzE0Y2YzNTcyYzFiZTI5Nzg5ZGUzZWI4NDAyOGIyYWY2ODVh`
+Snapshot ID: `MCxkODE4MmE0N2Q3YjRiZTIwNzZhMjE5YzYyNTEwN2U2MTllYjA1YTM1`

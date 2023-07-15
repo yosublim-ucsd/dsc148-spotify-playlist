@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
+    },
+    {
+      "album": {
         "name": "Fate/strange Fake -Whispers of Dawn- Original Soundtrack EP",
         "url": "https://open.spotify.com/album/45gi8PBWr35nixLp7VqvXW"
       },
