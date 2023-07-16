@@ -2645,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Thirugo Bhoomi",
+        "url": "https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa"
+      },
+      "artists": [
+        {
+          "name": "Sai Sharan P Hiremath",
+          "url": "https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Thirugo Bhoomi",
+      "url": "https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p"
+    },
+    {
+      "album": {
         "name": "Thiz ma Gully",
         "url": "https://open.spotify.com/album/2NV0yuOkoQ8TIY71Ll7KT9"
       },

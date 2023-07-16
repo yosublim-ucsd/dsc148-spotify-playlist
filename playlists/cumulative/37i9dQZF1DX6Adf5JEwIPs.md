@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Gerardo Ortíz.
 
-3,140 songs - 6 day 21 hr 10 min
+3,141 songs - 6 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Aunque Falten Los Verdes \(En Vivo\)](https://open.spotify.com/track/2NHAieYUmelozdjze7Utqt) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Aunque Falten Los Verdes \(En Vivo\)](https://open.spotify.com/album/2kIXVhGDaLcRRerep2opMD) | 2:41 | 2022-07-22 | 2022-07-30 |
 | [Aunque No Lo Crean](https://open.spotify.com/track/4BLlDJ7HcQuoewV3n2Uw4x) | [Los Hijos De Manuel](https://open.spotify.com/artist/0XEF5np8eR2T0GPHPK1FxE) | [Aunque No Lo Crean](https://open.spotify.com/album/7ju8Ydagj2iyF1mCmmtF4I) | 3:29 | 2022-08-05 | 2022-08-13 |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/3rtsQGrB8t9kuJfOGPzh6v) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Aunque No Sea Conmigo](https://open.spotify.com/album/2jsnDnbrNMSOp61bWEf5Gu) | 3:56 | 2022-06-17 | 2022-06-25 |
+| [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 | 2023-07-14 |  |
 | [Aunque Sea Tóxico](https://open.spotify.com/track/3w0WzSP7wvCiai1EwAd6b3) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Aunque Sea Tóxico](https://open.spotify.com/album/72vfe2kH8msqpIBIHJj5jL) | 2:11 | 2022-06-24 | 2022-07-02 |
 | [Aunque Te Duela](https://open.spotify.com/track/28dvr7pIJcX53oHnNgMVDa) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Aunque Te Duela](https://open.spotify.com/album/4qaO5TCNaNLC1co8lAWCkj) | 3:48 | 2023-03-17 | 2023-03-25 |
 | [Ausencia de Mi Padre](https://open.spotify.com/track/5mJKcRurbE6CzVpQojDkEu) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Ausencia de Mi Padre](https://open.spotify.com/album/6MUphv7xJSVdYJVVqBYxlm) | 2:47 | 2023-01-06 | 2023-01-14 |

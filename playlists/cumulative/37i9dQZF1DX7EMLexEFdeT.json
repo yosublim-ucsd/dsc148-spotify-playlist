@@ -1600,6 +1600,24 @@
     {
       "album": {
         "name": "The Silicone Veil",
+        "url": "https://open.spotify.com/album/6uPqtAJoByvOAp5I8bM4mu"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256453,
+      "name": "White Foxes",
+      "url": "https://open.spotify.com/track/3LXzqwjJWhoHYIScm4JHY8"
+    },
+    {
+      "album": {
+        "name": "The Silicone Veil",
         "url": "https://open.spotify.com/album/5dI4gXLOWDJ25XuWUIznmt"
       },
       "artists": [
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 261000,
       "name": "White Foxes",
       "url": "https://open.spotify.com/track/6HcR7kgWHEPTStbJyjEEEO"

@@ -154,7 +154,7 @@
     {
       "album": {
         "name": "DJ Slugo Juke Chronicles Vol. 3",
-        "url": "https://open.spotify.com/album/0LfX29Iw8vGaiwnFgNr74G"
+        "url": "https://open.spotify.com/album/7m4Hhyd3EW6Sdy80dm4sEt"
       },
       "artists": [
         {
@@ -165,6 +165,24 @@
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186502,
+      "name": "418 (Bounce Mix)",
+      "url": "https://open.spotify.com/track/1VSosFMbqbitcpqdqcqehz"
+    },
+    {
+      "album": {
+        "name": "DJ Slugo Juke Chronicles Vol. 3",
+        "url": "https://open.spotify.com/album/0LfX29Iw8vGaiwnFgNr74G"
+      },
+      "artists": [
+        {
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        }
+      ],
+      "date_added": "2021-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
       "duration_ms": 188466,
       "name": "418 (Bounce Mix)",
       "url": "https://open.spotify.com/track/61Phwjcew5syvHc8hxL0DO"

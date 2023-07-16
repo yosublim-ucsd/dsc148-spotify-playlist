@@ -4,7 +4,7 @@
 
 > ¡La Bichota está de vuelta, baila con el afrobeat de Rels B y súbele a la nueva rola de Billie Eilish!
 
-3,729 songs - 8 day 13 hr 25 min
+3,730 songs - 8 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-07-15 | 2022-07-23 |
 | [Aunque Digan](https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:31 | 2023-07-07 | 2023-07-15 |
 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Aunque No Sea Conmigo](https://open.spotify.com/album/0SAqqwdLfhwadQIveMQDRG) | 4:11 | 2023-01-27 | 2023-02-04 |
+| [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 | 2023-07-14 |  |
 | [Aunque no te pueda ver \(feat\. Matisse\)](https://open.spotify.com/track/3GKcIgs25cXZqNXVuZxs5O) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [20 Años](https://open.spotify.com/album/14PzMXF1SjO8XGQSRBxrYL) | 4:02 | 2022-05-13 | 2022-05-20 |
 | [Aunque Te Duela](https://open.spotify.com/track/28dvr7pIJcX53oHnNgMVDa) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Aunque Te Duela](https://open.spotify.com/album/4qaO5TCNaNLC1co8lAWCkj) | 3:48 | 2023-03-17 | 2023-03-25 |
 | [Aunque Te Mueras Por Volver \- Versión Video](https://open.spotify.com/track/0ACqRwouAMqqcXT3qL0Loj) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aunque Te Mueras Por Volver \(Versión Video\)](https://open.spotify.com/album/6jGEvYlnZSB4WUImixTSRG) | 4:10 | 2022-07-22 | 2022-07-30 |

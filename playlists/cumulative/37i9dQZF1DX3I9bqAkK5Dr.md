@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-129 songs - 7 hr 46 min
+130 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 |  |
 | [Khadhhar](https://open.spotify.com/track/6BlFOA7vsaG83IMAbEgkEY) | [MC Hari](https://open.spotify.com/artist/5fAyRRV9ivuTIRFVpwzxF8) | [Khadhhar](https://open.spotify.com/album/74QC2sAPIRHcHwr6zg8b3z) | 2:43 | 2022-08-10 |  |
 | [Kilikki \- Tribute to Team Baahubali](https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve), [Noel Sean](https://open.spotify.com/artist/3J6H27J9iKe2rCvX6YoKSQ) | [Kilikki \(Tribute to Team Baahubali\)](https://open.spotify.com/album/40dSsLJICupldtKyJMMLP5) | 3:20 | 2022-07-18 | 2023-05-23 |
+| [Komali Vasudev](https://open.spotify.com/track/50jK4YEhyOGoDHwYeqZWHC) | [Ishaq vali](https://open.spotify.com/artist/7oATc2KjTVSvRVZ8YKvOGT), [Teju R](https://open.spotify.com/artist/67CmWTS4uKxctqM84CubZV) | [Komali Vasudev](https://open.spotify.com/album/3YamZq9BPe4rwfek4oG7It) | 4:52 | 2023-07-15 |  |
 | [Kshaminchu](https://open.spotify.com/track/5G89DVcOn5QTEVpMkGYy9r) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kshaminchu](https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz) | 2:19 | 2023-06-19 |  |
 | [Ku Koohu Koyila](https://open.spotify.com/track/3OwBhidXF0tDdojn0h67jg) | [Baloo Spicy](https://open.spotify.com/artist/5t1t4c1r5z1QuMaxIhVPh7) | [Ku Koohu Koyila](https://open.spotify.com/album/1nyHioOCsCpgajIZQqYwPl) | 4:34 | 2023-05-08 |  |
 | [Laire Lallaire](https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Laire Lallaire](https://open.spotify.com/album/7bYUu8JrwhW9GwCvNcwhoe) | 3:47 | 2022-07-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,409 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,443 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MCwxYjNlMWZmODJmOGQ0MWJiNWQ3N2VkY2YwMzZhZjE4YjlmZDdiNzM4`
+Snapshot ID: `MCw5YmE3YmQ4OWM5ZDAyNTAzY2ZlMDEzY2E1OWZlYmFhNWYzMDFmMmFh`

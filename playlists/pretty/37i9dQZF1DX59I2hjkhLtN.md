@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,479 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,483 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 84 | [Pista](https://open.spotify.com/track/5rKkdhPxJkvD1KME7ZgZmZ) | [Baby Creezy](https://open.spotify.com/artist/1AM4PssW6WPHrhcx1Xty57) | [Pista](https://open.spotify.com/album/3LgMjN0E4FrYAni7H1j9xY) | 2:29 |
 | 85 | [Genesis](https://open.spotify.com/track/4YoPbAFWUAQojBrSxJ51dE) | [Chek1](https://open.spotify.com/artist/3sue3eld1sfBM1Xchbj3zW), [Chulo](https://open.spotify.com/artist/11hF0a5lZflu8mIotDhRAZ) | [Genesis](https://open.spotify.com/album/1GzgxeEcTboo4Qkr1IvFgs) | 4:28 |
 | 86 | [Quem Eu Era](https://open.spotify.com/track/2Jxw4rrYO19ykEJBl7TI6b) | [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Mike da Maia](https://open.spotify.com/artist/3FRPScI2wz1e6efPRNT7ub), [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR) | [Jubileu II](https://open.spotify.com/album/2a0IljnrKASyhaz5qDDNpJ) | 2:46 |
-| 87 | [Vergonha na Cara](https://open.spotify.com/track/4PYXnIPeBcHB1c00Thduzi) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [3000Kilo](https://open.spotify.com/artist/2tpRt6aWlKJ7b7YwNSLuEx) | [Vergonha na Cara](https://open.spotify.com/album/0mh4QiHY9UpbTvCKkYvbso) | 2:19 |
+| 87 | [Vergonha na Cara](https://open.spotify.com/track/7j7PS7CwB4XX8iNApr6ehR) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [3000Kilo](https://open.spotify.com/artist/2tpRt6aWlKJ7b7YwNSLuEx) | [Vergonha na Cara](https://open.spotify.com/album/1HJEtu7mzDgYVKNXKRJYbU) | 2:19 |
 | 88 | [A quela Cena](https://open.spotify.com/track/4nO1lpTeWFy30iLbQQsuaN) | [C\-Jay Pharrell](https://open.spotify.com/artist/1PcrxA9clS0kWu7zpa74tj) | [A quela Cena](https://open.spotify.com/album/5Uqj4J9mIkjozvHWA5zYFp) | 2:56 |
 | 89 | [WuWuWu](https://open.spotify.com/track/00CPGX8hAKI8MULSFSFU6f) | [ZA](https://open.spotify.com/artist/3leovMVJPslFyWGlVOX7Xc) | [WuWuWu](https://open.spotify.com/album/0o52ggkZUMZkhKaIeI3O66) | 3:15 |
 | 90 | [No meu bairro](https://open.spotify.com/track/6BuYjqWXb48pRz9HenS1o5) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [Dabanda](https://open.spotify.com/artist/1k3SV9swAsIXA7vAbuNk6M), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [Katana Produções](https://open.spotify.com/artist/5I2uvNh5EoCts6Gs2n9Q1t) | [No meu bairro](https://open.spotify.com/album/6VcN00QHNAKkCfUxvpbh4G) | 2:40 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Não Finge](https://open.spotify.com/track/6ywwdAkZnzQPZIztmRhHQ6) | [Kenwhy](https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U) | [Não Finge](https://open.spotify.com/album/6pv4K6of9HdrdpYpmx15Hk) | 2:32 |
 | 99 | [Fumo No Spot](https://open.spotify.com/track/4BvIIeMYtthoWVMawj8zBT) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [UEST.](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5), [Rilha](https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ), [Vácuo](https://open.spotify.com/artist/7KdRBYXqkH88wCZFxixHXi), [Stone Jones](https://open.spotify.com/artist/0qs6uqmfYtn7SxWVrap6Nb) | [Fumo No Spot](https://open.spotify.com/album/1pgsnBVJwE1L4sW9SVaW64) | 3:30 |
 
-Snapshot ID: `MCw0YzczMGJjM2JjZGRmYjBmMTIxZDhlMDk4YmM1ZDRiOGNlMWI2YjI3`
+Snapshot ID: `MCxmNzdhNTkwYjVjN2RiZDU5ZjQwYjcxZTUzODU1MjEyZDc0NTg2OWMy`

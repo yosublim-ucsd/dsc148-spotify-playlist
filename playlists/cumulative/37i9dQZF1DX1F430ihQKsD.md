@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: MUNYA
 
-336 songs - 19 hr 20 min
+337 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,8 @@
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-05-14 |
 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 | 2022-03-25 | 2023-01-21 |
 | [Si j'étais toi](https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh), [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Si j'étais toi](https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r) | 2:24 | 2023-05-19 |  |
-| [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/3LjbMSSkzPjUTHh1iIBTb3) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ) | 2:44 | 2023-01-27 |  |
+| [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 2:44 | 2023-07-14 |  |
+| [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/3LjbMSSkzPjUTHh1iIBTb3) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ) | 2:44 | 2023-01-27 | 2023-07-16 |
 | [Sirens feat\. KALLITECHNIS](https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 2:51 | 2022-03-25 | 2022-06-11 |
 | [Soleil cendre](https://open.spotify.com/track/2m5p3PHZfiFLWEaeSO8Byw) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Soleil cendre](https://open.spotify.com/album/4v5b5MhX9GAaBXZjFYM65s) | 2:43 | 2022-03-25 | 2022-10-01 |
 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 | 2022-03-25 | 2023-03-04 |

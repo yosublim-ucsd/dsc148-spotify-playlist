@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi, rap e indie, per chi ha un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,155 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,167 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 20 | [Lettera \(interlude\)](https://open.spotify.com/track/6NtwXat2WQtAgRsmYpVysr) | [Yungdobro](https://open.spotify.com/artist/12MCNZ3FEHpQtCYYHIRwNI) | [Primo Amore](https://open.spotify.com/album/5PW64jViF0tYk0VWwTlMl5) | 3:36 |
 | 21 | [Paranoie](https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Io Sono](https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK) | 2:43 |
 | 22 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 |
-| 23 | [Favole](https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Favole](https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi) | 1:42 |
-| 24 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 |
+| 23 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 |
+| 24 | [Favole](https://open.spotify.com/track/03OG1l3nH7rQgJDtM6YDb8) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [Favole](https://open.spotify.com/album/4wM4GOeuTrqB90nlx4XZNi) | 1:42 |
 | 25 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
 | 26 | [Tutto o niente 2](https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Tutto o niente 2](https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d) | 2:23 |
 | 27 | [È Andata Così](https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [È Andata Così](https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B) | 3:52 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 50 | [Maggio](https://open.spotify.com/track/61cXJ5ee3dheOPNav53gR2) | [DAG](https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0) | [Maggio](https://open.spotify.com/album/6mMixmDoCL0y0yzA0Ntfcc) | 2:26 |
 | 51 | [La stella più bella di sempre](https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [La stella più bella di sempre](https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW) | 2:06 |
 | 52 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
-| 53 | [Fuori dal buio](https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7) | [Fuori dal buio](https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx) | 3:08 |
-| 54 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
+| 53 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
+| 54 | [Fuori dal buio](https://open.spotify.com/track/0w3gxWeayVvR3ATYCAX5nj) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7) | [Fuori dal buio](https://open.spotify.com/album/3qiii8vPBYSFKHungGcARx) | 3:08 |
 | 55 | [Empatia](https://open.spotify.com/track/43ciZSXCJTd4Is849vdbRC) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:52 |
 | 56 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
 | 57 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 87 | [DOVE SEI](https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [ONIRO](https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x) | 2:54 |
 | 88 | [poster](https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [poster](https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge) | 2:49 |
 | 89 | [Pagine](https://open.spotify.com/track/2qfLABUmMubADB6tRridR3) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU) | 2:24 |
-| 90 | [Marie 3 \- Principessa Paranoia](https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Marie 3 \(Principessa Paranoia\)](https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq) | 2:39 |
-| 91 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 |
+| 90 | [Non pioverà per sempre](https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Non pioverà per sempre](https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm) | 3:09 |
+| 91 | [Marie 3 \- Principessa Paranoia](https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Marie 3 \(Principessa Paranoia\)](https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq) | 2:39 |
 | 92 | [Semiminime](https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [Semiminime](https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ) | 2:09 |
 | 93 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
 | 94 | [GOODBYE](https://open.spotify.com/track/2xRrpkcxPlFEj4ze9f8t6X) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:07 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 97 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 |
 | 98 | [Ragazzi tristi](https://open.spotify.com/track/33JKVhRcTLOLAm6zxFEm7h) | [Neediz](https://open.spotify.com/artist/0cKIYS5SG83ka3FZTLlj3m), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI), [VDN](https://open.spotify.com/artist/4aINMnSbwDnkR44YPqGqHx) | [Ragazzi tristi](https://open.spotify.com/album/6jb7AMawo1munbkTdtGaBZ) | 3:16 |
 | 99 | [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 |
-| 100 | [Darkness](https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Darkness](https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7) | 2:54 |
+| 100 | [setiva](https://open.spotify.com/track/0bp7FOdAvvpZPO21CQR57W) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [setiva](https://open.spotify.com/album/5CIw8kWlLZ9kWmJlTBCWIy) | 2:17 |
 
-Snapshot ID: `MCwxZWM2M2FkOTExM2QwNjE0ZGE0OTdhZmMxOWU4ZDViNjZjODE2Y2Ix`
+Snapshot ID: `MCw4NmRmZjNhMjA3NTUwYWM4NTk5ZjNlOWI5NTUzNDFiNTE4YjQyZmJk`

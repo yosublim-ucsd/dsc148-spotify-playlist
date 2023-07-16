@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,233 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,323 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
 | 51 | [Dollar](https://open.spotify.com/track/3e483clp1e5SGvK3PSdvNK) | [B\-RED](https://open.spotify.com/artist/6gGH04KywUUbUWc6tmXTpM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [The Jordan Album](https://open.spotify.com/album/2sFUIxX1hlAxi6k3LpFzzP) | 3:20 |
 
-Snapshot ID: `MjgxNTU4ODQsMDAwMDAwMDA3NDI2MzNmYmYzNGQyNGIwZjQyYWVlNDAxN2IwZmI1ZQ==`
+Snapshot ID: `MjgxNTcxMTMsMDAwMDAwMDA3OWMyYjM1Mzk4NWZiNjQ5N2ExY2E4MjdhNzJiMjQ4OQ==`

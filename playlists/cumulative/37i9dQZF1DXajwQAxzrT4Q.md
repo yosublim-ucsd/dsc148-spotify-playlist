@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-262 songs - 10 hr 34 min
+263 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Luhh Galore](https://open.spotify.com/track/1MOcUvdRYdVMTAYuHfMILj) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/0qWRPNvv1f7Ai6KBi4zgAH) | 1:28 | 2022-02-11 | 2022-07-29 |
 | [Luhh Galore](https://open.spotify.com/track/3YHzRju4b9Pg4OMEzkdkyu) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/3kq8FNzcUcoQtXTdewpFhX) | 1:28 | 2022-07-22 |  |
 | [Magnetic \- Remix](https://open.spotify.com/track/611DTJC3NW3ojN95CUPxef) | [ByHaze](https://open.spotify.com/artist/7CF5gEatm6bZWvGFPjPU2e), [Evisule](https://open.spotify.com/artist/0hMA520wSuejLe3ilhXY2S) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3Kfgkz8I4XS2alTVzqMXab) | 3:00 | 2022-02-11 | 2022-12-31 |
+| [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 | 2023-07-10 |  |
 | [make it jump \- Jersey Club Remix](https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a) | [Rrodney](https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n), [mcvertt](https://open.spotify.com/artist/1a0jOXZS58WPtXcVVYnz09), [@Temp.Gzz](https://open.spotify.com/artist/1PZaTfLviryWyyfDgqRMQ4) | [make it jump \(Jersey Club Remix\)](https://open.spotify.com/album/0fYJzpHYpEj7SBlqkBiosY) | 3:04 | 2022-12-30 | 2023-05-27 |
 | [Midnight Thoughts](https://open.spotify.com/track/0IDuxGsdO9aKPzmLbrFO4J) | [Dj Super Will](https://open.spotify.com/artist/3Njy52VdMzOyqMnu2064uu) | [Midnight Thoughts](https://open.spotify.com/album/7qTikXPEutbJjXyHaa8aWQ) | 3:12 | 2022-02-11 | 2022-07-29 |
 | [miles \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [miles](https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO) | 2:42 | 2022-10-28 |  |
@@ -185,7 +186,7 @@
 | [Need Your Body](https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI) | [Jaeo Draftpick](https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq), [DJ Scenario](https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE) | [Need Your Body](https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi) | 2:44 | 2022-09-02 | 2023-01-20 |
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-30 |  |
 | [No Lies](https://open.spotify.com/track/7N1Fo26nFRTsqufTQ6eJQR) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Yū Novaa](https://open.spotify.com/artist/3A9QsMXZE9PQi4DRfoNBVU) | [No Lies](https://open.spotify.com/album/1WSpih9o4iO0wjuS3JKkAK) | 2:07 | 2022-12-30 | 2023-01-06 |
-| [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 |  |
+| [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 | 2023-07-16 |
 | [Nxwxrk \- Dj Sliink Remix](https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ) | [Nadus](https://open.spotify.com/artist/59myknL407PNXcExTEeUpU), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Broke City \(Deluxe\)](https://open.spotify.com/album/6WBDzqrCcXti6p8sfRh3QL) | 4:24 | 2022-02-11 | 2022-07-29 |
 | [One Way](https://open.spotify.com/track/6OKRi2g1eGm78w4xIIz76n) | [Zahsosaa](https://open.spotify.com/artist/7Kr0bEtV76UqZNRFBhmz6Y) | [One Way](https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ) | 1:54 | 2022-10-14 | 2022-12-31 |
 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 | 2022-02-11 |  |

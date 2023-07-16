@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Sefa
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,256 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,363 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 89 | [I'll be fine](https://open.spotify.com/track/2dqTlgUaIJgufoaRSCKbDa) | [Mirisz](https://open.spotify.com/artist/2uGfa8SP7ICbWj3hxaSnoH) | [I´ll be fine](https://open.spotify.com/album/06X5BvNmFim7e14jxJuL7r) | 3:17 |
 | 90 | [Satellites](https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Satellites](https://open.spotify.com/album/4CTKqkSwHk3N1nEDMnchrx) | 2:26 |
 
-Snapshot ID: `MCxiNmNjODY3N2Q4MTM2YmYwYzlkY2MyNzNkOWFiOTU3ZDYwMDk3YmMy`
+Snapshot ID: `MCw5MmE5MGVkMGQzNWQ2MjFkY2FkZWRjMjI4N2EzNjc2MzRkMjk4NWMz`

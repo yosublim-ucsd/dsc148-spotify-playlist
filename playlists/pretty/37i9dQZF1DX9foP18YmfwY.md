@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Aline Brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,800 likes - 70 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,930 likes - 70 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 47 | [Nada Te Perturbe](https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Nada Te Perturbe](https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25) | 3:45 |
 | 48 | [Acalma Minha Tempestade](https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb) | [Banda Quinta Estação \- Música Católica](https://open.spotify.com/artist/5i56yo2E5LSVIylJhTuE5l) | [Acalma Minha Tempestade](https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU) | 5:22 |
 | 49 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 |
-| 50 | [Com Tua Mão](https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Vocacional Shalom 2023](https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ) | 3:58 |
-| 51 | [Que Amor É Esse?](https://open.spotify.com/track/0r4pRsYnIIjoscIkoGe9dQ) | [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Que Amor É Esse?](https://open.spotify.com/album/1VfrXFXpdm0M0Liuc1LXK7) | 4:43 |
+| 50 | [Que Amor É Esse?](https://open.spotify.com/track/0r4pRsYnIIjoscIkoGe9dQ) | [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Que Amor É Esse?](https://open.spotify.com/album/1VfrXFXpdm0M0Liuc1LXK7) | 4:43 |
+| 51 | [Com Tua Mão](https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Entretons](https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa) | [Vocacional Shalom 2023](https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ) | 3:58 |
 | 52 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 |
 | 53 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 54 | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/track/4kwoJY1r3HEz1J6k9Oqwcn) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Maria Porta do Céu \(Maria Passa na Frente\)](https://open.spotify.com/album/0CjTATUNtQXUPAI15486Yi) | 4:45 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 62 | [Cheiro de Rosas](https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Cheiro de Rosas](https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY) | 4:39 |
 | 63 | [Somos do Céu](https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Somos do Céu](https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF) | 4:54 |
 | 64 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 |
-| 65 | [Graças Pai](https://open.spotify.com/track/6pri33zFFO8My7Y8YYEiPw) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 10](https://open.spotify.com/album/44fYiBYQ0dFCxzzcUEiMKK) | 4:22 |
-| 66 | [No Teu Nome](https://open.spotify.com/track/7KHjWGuzZ0KUEqRZh9Un46) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [No Teu Nome](https://open.spotify.com/album/5FcTozsZy3qH9KFtosylDU) | 3:57 |
+| 65 | [No Teu Nome](https://open.spotify.com/track/7KHjWGuzZ0KUEqRZh9Un46) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Reale](https://open.spotify.com/artist/5S9ALhmjD6gJ52YKXSHJu6) | [No Teu Nome](https://open.spotify.com/album/5FcTozsZy3qH9KFtosylDU) | 3:57 |
+| 66 | [Graças Pai](https://open.spotify.com/track/6pri33zFFO8My7Y8YYEiPw) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 10](https://open.spotify.com/album/44fYiBYQ0dFCxzzcUEiMKK) | 4:22 |
 | 67 | [Ele Não Perde Batalhas](https://open.spotify.com/track/5OmNg2zBWb61x2QxxPwldC) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Ele Não Perde Batalhas](https://open.spotify.com/album/4SsKBPyKq3uVm4NKzGo5J0) | 7:37 |
 | 68 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 |
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Nosso General](https://open.spotify.com/track/68TNC5h0T9ykt0zIqKVrsG) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Nosso General](https://open.spotify.com/album/4oTvhv5yHSHK3Kjqsab01T) | 3:23 |
 
-Snapshot ID: `MCw1ZGVjNjNkMjJjN2UwN2UzOGIxZTdiOWQzOGMzZDc2YTM4YzI2Mjk0`
+Snapshot ID: `MCxkNGYzZDdmOTAxNDM0ZjE0NTNhYmRiMzA3MjE5NzMxYWRkMzljNzhm`

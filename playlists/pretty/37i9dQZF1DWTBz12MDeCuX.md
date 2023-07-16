@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Miksu / Macloud, makko, t\-low
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,764 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,080 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 |
 | 100 | [Verrückt](https://open.spotify.com/track/3fdtL03cpv8g91L8ZB2xXA) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Verrückt](https://open.spotify.com/album/3V4NoETSPCqAiKSlY1ckWe) | 3:06 |
 
-Snapshot ID: `MCwyMTFkYjkzNDRhZmQ5Y2I1ODNiNDQ1MGNhNTk3MmM1YjZlNzhhNDlj`
+Snapshot ID: `MCw3NjJmYTc1MzM3ZjA1NThiNjdmZmJjOWMwYTdlZmFkMmQ4YjBlMWFh`

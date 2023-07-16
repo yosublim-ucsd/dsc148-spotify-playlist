@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 255197,
+  "num_followers": 255255,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
+  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -315,22 +315,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Old Compilation 3",
-        "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 146864,
-      "name": "thankful",
-      "url": "https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Daydream feat. Joba",
         "url": "https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ"
       },
@@ -399,22 +383,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Bet She Looks Like You",
-      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "When U Go",
         "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
       },
@@ -427,6 +395,22 @@
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Bet She Looks Like You",
+      "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -859,6 +843,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Home (feat. LEES)",
+        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Narby",
+          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
+        },
+        {
+          "name": "LEES",
+          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
+        }
+      ],
+      "duration_ms": 198776,
+      "name": "Home (feat. LEES)",
+      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Wave001",
         "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
       },
@@ -887,26 +891,6 @@
       "duration_ms": 189445,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Home (feat. LEES)",
-        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Narby",
-          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
-        },
-        {
-          "name": "LEES",
-          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
-        }
-      ],
-      "duration_ms": 198776,
-      "name": "Home (feat. LEES)",
-      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -1035,6 +1019,26 @@
       "duration_ms": 205680,
       "name": "Antasma",
       "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259423,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
     }
   ],
   "unique_name": "Mellow Mood",

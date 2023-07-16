@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: laye
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,912 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,121 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [I Want You Back](https://open.spotify.com/track/4OK4jOegT5c3nyFZyVltVb) | [alltheprettythings](https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML) | [I Want You Back](https://open.spotify.com/album/4gXcCdnXPDSbNsSrPIJ4j7) | 3:54 |
 | 50 | [Heresy](https://open.spotify.com/track/6PtxEdFjVKVdfLJNCbF5Lj) | [Boskat](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi) | [Heresy](https://open.spotify.com/album/3Z6J0qpDbx8y5gJWO25uI6) | 3:00 |
 
-Snapshot ID: `MCwzODg3NzcwOTA3MGZkZjllOGM2ZTQ0ODdjOGE1OTk1ZTA5ZThiMGUw`
+Snapshot ID: `MCxmMjI0NmIyZGY2MzU1NjY1OWFiNGMyZmFjZGRkNjI1MTAxN2UzNDk5`

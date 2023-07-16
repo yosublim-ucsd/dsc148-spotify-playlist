@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "Beautiful Nothing",
+        "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Beautiful Nothing",
+      "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
+    },
+    {
+      "album": {
         "name": "Black and White",
         "url": "https://open.spotify.com/album/53N7fKh0OoBXO3OBAFGqZW"
       },
@@ -1641,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/0SumNv7k4cSrdQHBx40I4f"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191411,
+      "name": "Discovery",
+      "url": "https://open.spotify.com/track/3rtDFSbQvjmXmyoc5Ojab7"
+    },
+    {
+      "album": {
         "name": "Do Your Worst (feat. Elle Vee)",
         "url": "https://open.spotify.com/album/5uO7IpFyX5oc7EFMLmmwmg"
       },
@@ -1940,6 +1984,28 @@
       "duration_ms": 204375,
       "name": "Dream (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/0jRa2dPRM6SRVp2UcL0G75"
+    },
+    {
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun"
     },
     {
       "album": {
@@ -4554,7 +4620,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 268800,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/5XRvpUtk1ux7Tni2RAayDB"
@@ -6928,7 +6994,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 217500,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1YUxhMsagttgRockQyd58z"
@@ -7726,7 +7792,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 129600,
       "name": "THIEF",
       "url": "https://open.spotify.com/track/0NGDchCbd7icIC5L3jtb6A"

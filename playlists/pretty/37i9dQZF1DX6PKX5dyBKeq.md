@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: J Hus
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,383 likes - 58 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,607 likes - 58 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cream \(feat\. CB\)](https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:23 |
+| 1 | [Cream \(feat\. CB\)](https://open.spotify.com/track/7viEq8U0GgZf3v5m4BON3c) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [CB](https://open.spotify.com/artist/3yKIJWQ1SY3vzCTfBWAZ74) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:23 |
 | 2 | [Pakistan](https://open.spotify.com/track/72bWarcvDzWp9aAsUWnVpq) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Pakistan](https://open.spotify.com/album/2Xjzyzg5UuBg6fGHBs1SL2) | 2:54 |
 | 3 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 |
 | 4 | [Hometown](https://open.spotify.com/track/09aJ1FZotZStzoUgJchhwf) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kush](https://open.spotify.com/artist/3zBZhGMFBeqdhCdJB60a5g), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [YF](https://open.spotify.com/artist/4qRbNvzOP9UxQIqOIbJMUb), [Kash](https://open.spotify.com/artist/1wDiHQM5CoaSnHrNP3HG5V) | [M.A.R.K](https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri) | 6:02 |
 | 5 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
-| 6 | [Comeback \(feat\. Villz\)](https://open.spotify.com/track/4O7J8AN1eE1MOfPhXM5z76) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Villz](https://open.spotify.com/artist/7EdWhwj3ewGqWR54uJsftf) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:50 |
+| 6 | [Comeback \(feat\. Villz\)](https://open.spotify.com/track/4O7J8AN1eE1MOfPhXM5z76) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Villz](https://open.spotify.com/artist/7EdWhwj3ewGqWR54uJsftf) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:50 |
 | 7 | [Money Moves \(feat\. M1llionz\)](https://open.spotify.com/track/489YFKTcNzCRp3Q1RVjlAV) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Money Moves \(feat\. M1llionz\)](https://open.spotify.com/album/1nMTHx2OuRtlmJuXHliBeh) | 2:54 |
 | 8 | [One Man](https://open.spotify.com/track/71kJnstCbvqaI9H70S9y68) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [One Man](https://open.spotify.com/album/610EHuJKkSztClP2OfxeYy) | 2:30 |
 | 9 | [DTB](https://open.spotify.com/track/4ydiRNXIuhD1ehRpUpdcLw) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [DTB](https://open.spotify.com/album/7icXXSu17oor9WIvME1txz) | 2:16 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 13 | [Outings](https://open.spotify.com/track/6hL6yqDgATebDYnao2AgLV) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Outings](https://open.spotify.com/album/6ZdcnQXEiP6JGjydmvvyaZ) | 2:45 |
 | 14 | [I’m From…](https://open.spotify.com/track/6aa03WX4KldjPmL4UkwdGo) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [I'm From...](https://open.spotify.com/album/49fFfeqMUGml2t5z63iYNX) | 3:11 |
 | 15 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 |
-| 16 | [Killy \(feat\. Popcaan\)](https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:03 |
+| 16 | [Killy \(feat\. Popcaan\)](https://open.spotify.com/track/5QVTRDQKXUI278jVYtT6lG) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:03 |
 | 17 | [Day Date](https://open.spotify.com/track/5hpVI4uROr6e4RBQJzBwB7) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Day Date](https://open.spotify.com/album/5LfkJKCmnjUktm83PrYbMq) | 3:02 |
 | 18 | [Healing](https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Healing](https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl) | 2:40 |
 | 19 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 57 | [See Me Now](https://open.spotify.com/track/4kfws6ypNQbCLZfaGjEV3S) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [See Me Now](https://open.spotify.com/album/0mkWV01iRg2jFmf0P6I6Nq) | 2:36 |
 | 58 | [Check Da Paper](https://open.spotify.com/track/7MaQClG856HBdywmH2aCon) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Check Da Paper](https://open.spotify.com/album/0xHOcX2JjKd3mHKErANPrN) | 1:50 |
 
-Snapshot ID: `MCwxMzZkMjdmOTdhNGExOTRlYzg2MTllOGFjMTJlYTRlMjgzYzI4ZWY0`
+Snapshot ID: `MCxmNDViNGEwMGI2Y2MzNDhmOWI2Y2E0ZWViNmYyNjZmMTU4ZmQxMWRi`

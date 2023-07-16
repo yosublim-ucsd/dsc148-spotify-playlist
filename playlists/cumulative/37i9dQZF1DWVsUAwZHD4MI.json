@@ -854,6 +854,28 @@
     {
       "album": {
         "name": "Nouvelle vague",
+        "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
+      },
+      "artists": [
+        {
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "In a Manner of Speaking",
+      "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB"
+    },
+    {
+      "album": {
+        "name": "Nouvelle vague",
         "url": "https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1"
       },
       "artists": [
@@ -868,7 +890,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 238000,
       "name": "In a Manner of Speaking",
       "url": "https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT"

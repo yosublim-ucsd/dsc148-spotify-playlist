@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-151 songs - 10 hr 28 min
+152 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Slow Love](https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:38 | 2020-11-05 | 2023-04-30 |
 | [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 | 2020-11-05 |  |
 | [Smile At The Mention](https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:38 | 2022-07-29 |  |
-| [Someday](https://open.spotify.com/track/5MS6qXLKnY68DMlliiwfTX) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:19 | 2021-10-01 |  |
+| [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 | 2021-10-01 |  |
+| [Someday](https://open.spotify.com/track/5MS6qXLKnY68DMlliiwfTX) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:19 | 2021-10-01 | 2023-07-16 |
 | [Something To Lose](https://open.spotify.com/track/2m1CK247MhzvfuX3DiBo00) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Something To Lose/Better Than You Want](https://open.spotify.com/album/1palVaI8ZlhKqztsGqSEB7) | 4:48 | 2020-11-05 | 2022-07-29 |
 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 | 2020-11-05 |  |
 | [Souled Out On You](https://open.spotify.com/track/4eTRBRseRwBDOlT5TeNyTH) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Souled Out On You](https://open.spotify.com/album/50BIR8Bg2W5OifAUjmRviK) | 3:33 | 2021-03-05 | 2022-07-29 |

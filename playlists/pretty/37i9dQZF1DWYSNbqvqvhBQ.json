@@ -1,12 +1,12 @@
 {
   "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Teddy Swims",
-  "num_followers": 103738,
+  "num_followers": 103763,
   "original_name": "Stay Tuned!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2M3NjE4OTczOTVhYjdmNTU0YjQzMmRhMDZkMTk3NDdjNGJiOWMw",
+  "snapshot_id": "MCxjNDVlMDY2ZjJlZjY0NTcwN2MwNjE5NDViZGYyMzQ1MGFkM2QzZmQ5",
   "tracks": [
     {
       "added_at": "2023-07-14 10:35:38",
@@ -228,12 +228,8 @@
       },
       "artists": [
         {
-          "name": "Pete Philly",
-          "url": "https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO"
-        },
-        {
-          "name": "Perquisite",
-          "url": "https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2"
+          "name": "Pete Philly & Perquisite",
+          "url": "https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3"
         }
       ],
       "duration_ms": 166680,

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9334,
+  "num_followers": 9349,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQ3YzA5MzEyMzVjZjlmZGNiMWU3NDUwYzcwZjgwYTg0NGY3YThl",
+  "snapshot_id": "MCw1NjdjZjAxNzMxZDdkMzFkNzdmZjJkYzY1MGUwZDNkMDVhODExOWMy",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:03",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "How did you (feat. Baek Yerin)",
         "url": "https://open.spotify.com/album/1QAenbdPhvPmioXem29cTV"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 249723,
       "name": "How did you (feat. Baek Yerin)",
       "url": "https://open.spotify.com/track/2mVb3RIBLffHQsauvkHBuf"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "Olive",
-        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
-      },
-      "artists": [
-        {
-          "name": "Artinb",
-          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Olive",
-      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "When It's Cold",
-        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
       "artists": [
         {
-          "name": "Bily Acoustie",
-          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
+          "name": "Artinb",
+          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
         }
       ],
-      "duration_ms": 183824,
-      "name": "When It\u2019s Cold",
-      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
+      "duration_ms": 129000,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -491,22 +475,18 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
-        "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
+        "name": "When It's Cold",
+        "url": "https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey"
       },
       "artists": [
         {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        },
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+          "name": "Bily Acoustie",
+          "url": "https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA"
         }
       ],
-      "duration_ms": 220496,
-      "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
-      "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
+      "duration_ms": 183824,
+      "name": "When It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -531,18 +511,22 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
+        "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
+        "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
       },
       "artists": [
         {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        },
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
         }
       ],
-      "duration_ms": 178373,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+      "duration_ms": 220496,
+      "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
+      "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -563,22 +547,18 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
       },
       "artists": [
         {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        },
-        {
-          "name": "Yoon Jiyoung",
-          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
         }
       ],
-      "duration_ms": 198040,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
+      "duration_ms": 178373,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -595,6 +575,26 @@
       "duration_ms": 178758,
       "name": "Don't Ever Leave Me",
       "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        },
+        {
+          "name": "Yoon Jiyoung",
+          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
         "name": "Leave like this",
         "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 153000,
       "name": "It will be all fine",
       "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
-        "name": "Hi, I am Deulre Jang",
-        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
-      },
-      "artists": [
-        {
-          "name": "deulrejang",
-          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
-        }
-      ],
-      "duration_ms": 205756,
-      "name": "People",
-      "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-07-07 15:52:03",
       "album": {
+        "name": "Hi, I am Deulre Jang",
+        "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
+      },
+      "artists": [
+        {
+          "name": "deulrejang",
+          "url": "https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM"
+        }
+      ],
+      "duration_ms": 205756,
+      "name": "People",
+      "url": "https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
         "name": "RE: CORD",
         "url": "https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 191331,
       "name": "Cheer Up - Acoustic Version",
       "url": "https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ"
-    },
-    {
-      "added_at": "2023-07-07 15:52:03",
-      "album": {
-        "name": "Mm Mm",
-        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Mm Mm - Acoustic Version",
-      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
     },
     {
       "added_at": "2023-07-07 15:52:03",
@@ -843,6 +827,22 @@
       "duration_ms": 205306,
       "name": "OceanooM\u2218\u263d",
       "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+    },
+    {
+      "added_at": "2023-07-07 15:52:03",
+      "album": {
+        "name": "Mm Mm",
+        "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Mm Mm - Acoustic Version",
+      "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

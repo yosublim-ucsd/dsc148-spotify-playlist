@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-132 songs - 7 hr 58 min
+133 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 | 2018-12-11 |  |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4jFkHxFXHC0mJVZm7QwK6C) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(The Remixes\)](https://open.spotify.com/album/6wK4nx3a3x32QVfFohfjl1) | 3:14 | 2018-12-11 | 2022-12-19 |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(Medasin Remix\)](https://open.spotify.com/album/4zeRHgIHK8iRQ7vs3t1BJF) | 3:14 | 2018-12-11 | 2022-07-29 |
+| [Fleur](https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44) | 4:19 | 2018-12-11 |  |
 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 | 2018-12-11 | 2023-06-19 |
 | [Floating By \(Mndsgn Remix\)](https://open.spotify.com/track/3ET5m4h9nZ1zMp2Sz9UAmr) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Floating By \(Mndsgn Remix\)](https://open.spotify.com/album/2KIWivp6I3lJAaYvX45FIr) | 3:57 | 2018-12-11 | 2022-11-13 |
 | [Floating By \- Mndsgn Remix](https://open.spotify.com/track/7KlnAsAp5d2liLfQnUXITM) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Floating By \(Mndsgn Remix\)](https://open.spotify.com/album/3KG1lZGWbEGUG3SvZFUUHb) | 3:57 | 2018-12-11 | 2022-07-29 |
@@ -105,7 +106,7 @@
 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 | 2018-12-11 |  |
 | [Surf](https://open.spotify.com/track/4z5yrhsjY4HdWCZ5hxEEIb) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Surf](https://open.spotify.com/album/6V91Y8wm7R34YiFIfozLqa) | 2:55 | 2018-12-11 | 2022-07-29 |
 | [Surf](https://open.spotify.com/track/63QRe0qUrhp7fR3fTyR1SI) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Surf](https://open.spotify.com/album/2CV3nKfQHHtPujj2jizzig) | 2:55 | 2018-12-11 | 2022-12-29 |
-| [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 | 2018-12-11 |  |
+| [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 | 2018-12-11 | 2023-07-16 |
 | [The Edge of Forever](https://open.spotify.com/track/0v6dmK9TWQWY6NqBG7YVpK) | [Work Drugs](https://open.spotify.com/artist/0wLfAlTh58anndtgqA0MCU) | [The Edge of Forever](https://open.spotify.com/album/7KqxTEDu8NOKcr2665Zryv) | 4:59 | 2018-12-11 | 2022-07-29 |
 | [The Falls](https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS) | [Brother Mynor](https://open.spotify.com/artist/2zTqapX1Uq3oXLkFIKG7Zq) | [Passionfruit Falls](https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l) | 1:41 | 2018-12-11 |  |
 | [They Came Along](https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [They Came Along](https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5) | 5:57 | 2018-12-11 |  |

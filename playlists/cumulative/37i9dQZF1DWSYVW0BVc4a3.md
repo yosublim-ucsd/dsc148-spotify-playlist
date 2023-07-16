@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-569 songs - 1 day 21 hr 4 min
+570 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [In Mindibu](https://open.spotify.com/track/7G82RELqYiB0EZ8F61Ht8T) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T) | [In Mindibu](https://open.spotify.com/album/6aZBtDTIcjiD50dTKWoDES) | 5:08 | 2022-08-19 | 2022-09-23 |
 | [In The Shadows](https://open.spotify.com/track/3I72hk46KJ6MFDtNBjJ99P) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 03](https://open.spotify.com/album/7JSJ48rBBgpLqPfUkxcUuE) | 8:07 | 2022-09-22 | 2023-01-27 |
 | [In The Yuma \(feat\. Aatig\) \[Four Tet Remix\]](https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [In The Yuma \(feat\. Aatig\) \[Four Tet Remix\]](https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa) | 4:49 | 2023-06-08 |  |
-| [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 | 2023-06-29 |  |
+| [In White Rooms \- 2023 Remix](https://open.spotify.com/track/0YHGkJUhWOw5OsvW3KCQBE) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [In White Rooms \(2023 Remix\)](https://open.spotify.com/album/2i8LUozW0ddEp5ldWDVfYV) | 6:11 | 2023-06-29 | 2023-07-16 |
 | [In2u](https://open.spotify.com/track/3bESZhX7qjKExVlTo5lZYt) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [In2u](https://open.spotify.com/album/6pgsvIIvooO8OfqYBNG2ud) | 3:21 | 2023-05-25 | 2023-06-23 |
 | [Incrust](https://open.spotify.com/track/4XViI4grwDAWiQkrnwTewH) | [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Incrust EP](https://open.spotify.com/album/1uDVMDsoNX0wOOgEjNDfEF) | 3:48 | 2022-12-27 | 2023-01-02 |
 | [Ingern](https://open.spotify.com/track/23WSd4TMp2ar1GRxa0WZQG) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Odd Ones V2](https://open.spotify.com/album/2DiBZCWhToju8TDXaKqrks) | 3:49 | 2022-12-08 | 2023-03-25 |
@@ -415,6 +415,7 @@
 | [Saints & Sinners](https://open.spotify.com/track/0JHHFmQhjiDO0J7ll4BQmQ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [FaCet, Vol\. 1](https://open.spotify.com/album/7eeGn6KMLa7NVWM1GdtCqU) | 6:55 | 2023-03-09 | 2023-04-09 |
 | [Same Old Road \- Booka Shade Remix](https://open.spotify.com/track/7ihoFcYU86WNE6lSxxwe32) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Same Old Road \(Booka Shade Remix\)](https://open.spotify.com/album/3hRICUjIzBu4s3Cx7MJ1IO) | 3:56 | 2022-12-22 | 2023-03-10 |
 | [Saviours](https://open.spotify.com/track/5tAlsl4G3LoIU5Dzo44JV0) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Saviours](https://open.spotify.com/album/1plr1caOwmIHriazUNB9S4) | 3:36 | 2022-09-22 | 2022-11-17 |
+| [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-07-14 |  |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-08-18 | 2022-09-24 |
 | [See Em' Dancing](https://open.spotify.com/track/1mBzumW8DcPEqqJkClUXMN) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [See Em' Dancing](https://open.spotify.com/album/6UHPW3timr7sHxY8e3tCWR) | 4:04 | 2022-08-18 | 2022-10-13 |
 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 | 2022-09-15 | 2023-05-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 21096,
+  "num_followers": 21122,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2UyOWQ2MDQyMTI0NTQwZjkxMDc0ZDZjZDZiZGMwNDk0ODNlMzE2",
+  "snapshot_id": "MCxhNjZmNTllYmZmYTVmOWJiZDZhYjgyYzcxZjczYjVlMGM1OTM0YzBk",
   "tracks": [
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
-        "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30b9\u30e9\u30f3=\u30d9\u30eb\u30bc\u30d3\u30e5\u30fc\u30c8II\u4e16 (CV.\u53e4\u5ddd \u614e)",
-          "url": "https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy"
-        }
-      ],
-      "duration_ms": 285826,
-      "name": "\u6211\u304c\u6df7\u6c8c\u306e\u30b5\u30d0\u30c8\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5",
-      "url": "https://open.spotify.com/track/2mQQ2u5b2X3DRB55NeQhV2"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
         "name": "THE IDOLM@STER SideM ST@RTING LINE-13 \u3082\u3075\u3082\u3075\u3048\u3093",
         "url": "https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 244720,
       "name": "\u3082\u3063\u3075\u30fb\u3044\u3093\u3056\u307c\u3063\u304f\u3059",
       "url": "https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 01",
+        "url": "https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30b9\u30e9\u30f3=\u30d9\u30eb\u30bc\u30d3\u30e5\u30fc\u30c8II\u4e16 (CV.\u53e4\u5ddd \u614e)",
+          "url": "https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy"
+        }
+      ],
+      "duration_ms": 285826,
+      "name": "\u6211\u304c\u6df7\u6c8c\u306e\u30b5\u30d0\u30c8\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/2mQQ2u5b2X3DRB55NeQhV2"
     },
     {
       "added_at": "2023-05-09 15:56:06",
@@ -1259,58 +1259,6 @@
     {
       "added_at": "2023-05-09 15:56:06",
       "album": {
-        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
-        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
-      },
-      "artists": [
-        {
-          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
-          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
-      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
-        "name": "ALL nOR NOTHING",
-        "url": "https://open.spotify.com/album/7LnoJObwR1wnOPSNRCmtzt"
-      },
-      "artists": [
-        {
-          "name": "Yukihiro Kamiya (CV: Sho Karino)",
-          "url": "https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1"
-        },
-        {
-          "name": "Sora Kitamura (CV: Fumiyoshi Shioya)",
-          "url": "https://open.spotify.com/artist/6O1CPJg7GuFx2XxkkhCpNI"
-        },
-        {
-          "name": "Hideo Akuno (CV: Kentaro Kumagai)",
-          "url": "https://open.spotify.com/artist/1TNtxzq8ou2b1pxhqvETd8"
-        },
-        {
-          "name": "Shoma Hanamura (CV: Yutaka Balletta)",
-          "url": "https://open.spotify.com/artist/1cOxuGlbGgRBR8q3pcDJRo"
-        },
-        {
-          "name": "Natsuki Sakaki (CV: Hiroshi Watanabe)",
-          "url": "https://open.spotify.com/artist/1ILdCr0TdH91xKLF4KNTDK"
-        },
-        {
-          "name": "Nao Okamura (CV: Shogo Yano)",
-          "url": "https://open.spotify.com/artist/4ipiPcfgnexMaLOjj8K3mG"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "ALL nOR NOTHING",
-      "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
-    },
-    {
-      "added_at": "2023-05-09 15:56:06",
-      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
       },
@@ -1323,6 +1271,38 @@
       "duration_ms": 251386,
       "name": "\u306f\u3093\u3069\u3081\u3044\u3069\u30fb\u304d\u307f\u306f\u30fc\u3068!",
       "url": "https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 08",
+        "url": "https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh"
+      },
+      "artists": [
+        {
+          "name": "\u7872 \u9053\u592b (CV.\u4f0a\u6771\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq"
+        }
+      ],
+      "duration_ms": 303266,
+      "name": "Learning Message",
+      "url": "https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s"
+    },
+    {
+      "added_at": "2023-05-09 15:56:06",
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
+        "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
+          "url": "https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
+      "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
     }
   ],
   "unique_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",

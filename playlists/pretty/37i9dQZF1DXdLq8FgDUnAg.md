@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLq8FgDUnAg.md) - [plain]
 
 > New Dutch podcasters on the horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,237 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCw5OTIwOWFlZDE0MzVmZTY4ZTZkMTYzOTVkMWNkYzMwOWRkYTMyZThk`
+Snapshot ID: `MCw4NzY0OTUxODEyOTMyMmFlNTVlNGNkNTE2YTAwODRiYTdhNGM1ZjVm`

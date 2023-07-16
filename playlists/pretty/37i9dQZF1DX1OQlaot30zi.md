@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Slings, Villabanks, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,835 likes - 77 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,859 likes - 77 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 56 | [VELENOSA](https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [VELENOSA](https://open.spotify.com/album/5uITow6TE09bajpTaySfkY) | 2:23 |
 | 57 | [Che ne sai](https://open.spotify.com/track/2iWgpDNIAKHQm4kT6TaTaQ) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:50 |
 | 58 | [KLK!](https://open.spotify.com/track/5yXmTl7gKH8nvFjb4Plhze) | [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ) | [COUNCIL ESTATE, VOL\. 2](https://open.spotify.com/album/2zE0I6noMtYf7lTEIVrbKM) | 1:47 |
-| 59 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/5EFcUEOpLfKi7XGP8hW78A), [Francesco Dolci](https://open.spotify.com/artist/6mvcTkkw0LkAHrq5NhH5D5), [Reda Stephane Marzaki](https://open.spotify.com/artist/03mBEC8tiGIGqP52K5qST6), [Daniele Cossali](https://open.spotify.com/artist/4LRYM1umt48rmYEPus2eS7), [Francesco Paolo Buttarelli](https://open.spotify.com/artist/15JIStHpOZg9OvRLCMViG2), [Leonardo Lucchini](https://open.spotify.com/artist/1jpoH6ivhcTnNuN6ZiXYy9) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
+| 59 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
 | 60 | [SLAP](https://open.spotify.com/track/5ENCQfI8WNHnkFiavKpPly) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [SLAP](https://open.spotify.com/album/5VwcpeiEgPAaaduzhNFdL0) | 2:03 |
 | 61 | [In 2 Sulla Moto](https://open.spotify.com/track/6M0grxjyfbfKvQu2Tg4cM7) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [In 2 Sulla Moto](https://open.spotify.com/album/1bSg1N33JDAwo4jHlrVhhb) | 2:30 |
 | 62 | [NA NA NA](https://open.spotify.com/track/7x0ZWLU2uIcdAXwZWIakgn) | [Flaza](https://open.spotify.com/artist/5jnf9se8FZG6U9NeP6r1fH), [Siso](https://open.spotify.com/artist/0jgtWtQQqtrgf05cRLRBWZ) | [NA NA NA](https://open.spotify.com/album/5jaDbLuhCfH1oMNdNgoTd9) | 2:29 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 76 | [ventiquattro](https://open.spotify.com/track/36V1AlJgM7twP1LNJym8Xn) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [ventiquattro](https://open.spotify.com/album/1EuqOMLU1qZiUekCMnZA1E) | 2:30 |
 | 77 | [Il numero Zero](https://open.spotify.com/track/1ljHB64HU7NO7L61cujh5o) | [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu) | [Il numero Zero](https://open.spotify.com/album/3sbmQmzLoVzXs4Nag4ayMn) | 3:00 |
 
-Snapshot ID: `MCwzYzU1NjAzYjRkNjI4NDMwYjllNjJmMDk3OTExYzgzZDE0NjU2OGEx`
+Snapshot ID: `MCxmM2M4MTYyMGU5ZDY1ZmU5ZGY0OGI1YTVlM2YzYjI4ZjczMTFiZmRl`

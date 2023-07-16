@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-309 songs - 16 hr 25 min
+310 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/track/4JB0EAT4BkLShTyTt50FmO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/album/6FPhDUfQUECZVD8vnobxjM) | 3:51 | 2022-04-15 | 2022-04-20 |
 | [Elementary](https://open.spotify.com/track/2eLnNboigfeEDPh5yoGpfa) | [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Elementary](https://open.spotify.com/album/4dZNjwzzQY3w2uMsPHhBDI) | 2:41 | 2022-04-15 | 2022-04-16 |
 | [Emergency \(feat\. Gunna & Young Thug\)](https://open.spotify.com/track/4ZkQ2t966y0fmTW6TWNwR2) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Spiral: From The Book of Saw Soundtrack](https://open.spotify.com/album/5gTisM7GUr1idB1UL3Yva6) | 2:57 | 2022-01-26 | 2022-06-13 |
-| [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-12-20 |  |
+| [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2021-12-20 | 2023-07-16 |
 | [F.N](https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:44 | 2022-06-24 |  |
 | [F.N](https://open.spotify.com/track/0UPBidRYcgJ2mjZlk08V8x) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [F.N](https://open.spotify.com/album/6Wsv1spcNRL8SMOWie5cdA) | 3:44 | 2021-12-20 | 2022-05-17 |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2021-12-20 | 2023-04-17 |
@@ -317,5 +317,6 @@
 | [YELL OH](https://open.spotify.com/track/003VDDA7J3Xb2ZFlNx7nIZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [YELL OH](https://open.spotify.com/album/2orYogfKeURqyS1hRP1vZ4) | 3:56 | 2022-04-15 | 2022-04-18 |
 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 | 2022-06-24 |  |
 | [Zero Zero](https://open.spotify.com/track/5HOFE5qOlXlIIjCGWik9ol) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Dutch From The 5th](https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b) | 3:07 | 2021-12-20 | 2022-01-15 |
+| [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2023-06-05 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

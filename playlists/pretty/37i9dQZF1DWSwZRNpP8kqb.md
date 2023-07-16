@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,775 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,796 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 65 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
 | 66 | [La Estrella Azul](https://open.spotify.com/track/3dV4z78Q0qNo4f2zjBIN5y) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF), [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Humanas Voces](https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac) | 3:09 |
 | 67 | [La Jardinera](https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz) | [Silvia Iriondo](https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7), [Carlos Aguirre & Quinteto de Guitarras](https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5) | [Pasionarias](https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m) | 3:55 |
-| 68 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 |
-| 69 | [El Tímido \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h) | [Maria Paula Godoy](https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Ambas \- Maria Paula Godoy](https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH) | 1:50 |
+| 68 | [El Tímido \(feat\. Nahuel Pennisi\)](https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h) | [Maria Paula Godoy](https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Ambas \- Maria Paula Godoy](https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH) | 1:50 |
+| 69 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 |
 | 70 | [Mba e Pa Doña Froilana](https://open.spotify.com/track/0yNZHoLmY5WsgPzUGmiMup) | [Luna Monti y Juan Quintero](https://open.spotify.com/artist/0YWHXy7l36hWrQLNhdSgBB) | [Después de Usted](https://open.spotify.com/album/6m1BrttDZNDyfErOjSTmdF) | 2:33 |
 | 71 | [La de los Humildes](https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5) | [Armando Tejada Gómez](https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c) | 4:29 |
 | 72 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [Tarareando](https://open.spotify.com/track/57xg7b2ktHnzQv3l5Vo2Oc) | [Verónica Parodi](https://open.spotify.com/artist/2gKJo1n1Do1VPhGp7SBFTn), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Lula Parodi](https://open.spotify.com/artist/5QzVgcaaezCWAOZ1snUhgo) | [Tarareando, Con los Pies Descalzos](https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk) | 4:27 |
 | 75 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
 
-Snapshot ID: `MCw4MmU4Mzc3YjM0ZWFjYTEwODU1MDY2N2E0NmUzNWMzM2YyOWYzZWJm`
+Snapshot ID: `MCwxNDNmMGY5MmViODBmNTliOGE4MGJmNzQyNTNlYzUxM2UzOWEzOGFj`

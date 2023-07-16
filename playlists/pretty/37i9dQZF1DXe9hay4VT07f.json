@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Alkaline",
-  "num_followers": 402947,
+  "num_followers": 403220,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDA4YzRkYzFmNzAxOGZmMmNiMDJjMmE2MjgxYTFiY2IxNWUwNDE5",
+  "snapshot_id": "MCxiYjY4YWI4YjI2YzI3YjlmMzAyYjgzMjVlMDAzYzBkMTAzOTdhODBl",
   "tracks": [
     {
       "added_at": "2023-05-14 20:18:19",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Verified Choppa 2",
-        "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
-      },
-      "artists": [
-        {
-          "name": "Marksman",
-          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Verified Choppa 2",
-      "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "VENT",
         "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 240000,
       "name": "Call Me If",
       "url": "https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Verified Choppa 2",
+        "url": "https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm"
+      },
+      "artists": [
+        {
+          "name": "Marksman",
+          "url": "https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Verified Choppa 2",
+      "url": "https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -851,42 +851,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Walking Trophy",
-        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
-      },
-      "artists": [
-        {
-          "name": "Tina (Hoodcelebrityy)",
-          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
-        }
-      ],
-      "duration_ms": 215112,
-      "name": "Walking Trophy",
-      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Whap Whap (feat. F.S.)",
-        "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "F.S.",
-          "url": "https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN"
-        }
-      ],
-      "duration_ms": 181115,
-      "name": "Whap Whap (feat. F.S.)",
-      "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Pon Di Gaza 2.0",
         "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
       },
@@ -903,6 +867,38 @@
       "duration_ms": 213600,
       "name": "Romping Shop (feat. Spice)",
       "url": "https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Walking Trophy",
+        "url": "https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf"
+      },
+      "artists": [
+        {
+          "name": "Tina (Hoodcelebrityy)",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
+        }
+      ],
+      "duration_ms": 215112,
+      "name": "Walking Trophy",
+      "url": "https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Brik Pan Brik",
+        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "duration_ms": 160724,
+      "name": "Brik Pan Brik",
+      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -963,22 +959,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "In The Morning (Let Your Love Come In)",
-        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
-      },
-      "artists": [
-        {
-          "name": "Egypt",
-          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
-        }
-      ],
-      "duration_ms": 134785,
-      "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
-      "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Maestro",
         "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
       },
@@ -995,6 +975,38 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "In The Morning (Let Your Love Come In)",
+        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
+      },
+      "artists": [
+        {
+          "name": "Egypt",
+          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
+        }
+      ],
+      "duration_ms": 134785,
+      "name": "In The Morning (Let Your Love Come In) - Original Radio Edit",
+      "url": "https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Good 2 Go",
+        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "Pon De River Pon De Bank",
+      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
       },
@@ -1007,22 +1019,6 @@
       "duration_ms": 171092,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Brik Pan Brik",
-        "url": "https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW"
-      },
-      "artists": [
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 160724,
-      "name": "Brik Pan Brik",
-      "url": "https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Good 2 Go",
-        "url": "https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ"
+        "name": "Whap Whap (feat. F.S.)",
+        "url": "https://open.spotify.com/album/1NR77oknzl4KJylIBuhvvu"
       },
       "artists": [
         {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "F.S.",
+          "url": "https://open.spotify.com/artist/0KR0MgITEQAm0sLRrcuExN"
         }
       ],
-      "duration_ms": 239786,
-      "name": "Pon De River Pon De Bank",
-      "url": "https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og"
+      "duration_ms": 181115,
+      "name": "Whap Whap (feat. F.S.)",
+      "url": "https://open.spotify.com/track/47MwPx7nbFUD5IGVhL38Zr"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
         "name": "Dickmatized",
         "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "Mimosas",
-      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/7IDpOUPZyWt5bLFSC1WOdR"
       },
@@ -1159,6 +1159,22 @@
       "duration_ms": 203076,
       "name": "Owner",
       "url": "https://open.spotify.com/track/0bkZbg5Z3z40tGMOqemCAX"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Roll It Gal",
+      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1183,22 +1199,6 @@
       "duration_ms": 135640,
       "name": "Drinking Rum",
       "url": "https://open.spotify.com/track/0xezj8YX96S7m4fCDwCIoJ"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Roll It Gal",
-      "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
     },
     {
       "added_at": "2023-05-14 20:18:19",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-14 20:18:19",
       "album": {
-        "name": "Strictly The Best Vol 33",
-        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Willie Bounce",
-      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
-    },
-    {
-      "added_at": "2023-05-14 20:18:19",
-      "album": {
         "name": "Fling",
         "url": "https://open.spotify.com/album/4XDwOg42iBKH7lx6dg33OC"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 168045,
       "name": "Fling",
       "url": "https://open.spotify.com/track/0Ocz4RqsoxmtwcZjWnjYlp"
+    },
+    {
+      "added_at": "2023-05-14 20:18:19",
+      "album": {
+        "name": "Strictly The Best Vol 33",
+        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Willie Bounce",
+      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
     },
     {
       "added_at": "2023-05-14 20:18:19",

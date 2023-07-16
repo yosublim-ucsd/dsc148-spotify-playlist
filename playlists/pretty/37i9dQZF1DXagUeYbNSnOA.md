@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring MAGNA\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,073 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,067 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 30 | [Dientes](https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Dientes](https://open.spotify.com/album/0Lzfz2swBfJWGJIAzZRgMV) | 4:46 |
 | 31 | [Otra vez](https://open.spotify.com/track/3Zf8qWkLGXCZk56jydscVp) | [Human Lemonade](https://open.spotify.com/artist/79fWU9PhoGDDgvlIdDM8AC) | [Your Favorite Music Lovers](https://open.spotify.com/album/5sEdFVcEBQ8NcicGefo5z2) | 4:09 |
 | 32 | [DIME SI TÚ](https://open.spotify.com/track/1dorUc2zugn8LA8MZxfpxM) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [DIME SI TÚ](https://open.spotify.com/album/4lOntJ73EbGeuubuZFN9s3) | 2:25 |
-| 33 | [Febrero](https://open.spotify.com/track/77ImvWuEm8jUMCTOWlpV4L) | [Flor Torres](https://open.spotify.com/artist/43rXMey1kWTRbnxdjaRK7s) | [Febrero](https://open.spotify.com/album/4KtnJQprl4VCxu9sMCaCaM) | 2:50 |
-| 34 | [Gotas](https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS) | [Naca](https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP), [LORA](https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ) | [Gotas](https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb) | 2:37 |
+| 33 | [Gotas](https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS) | [Naca](https://open.spotify.com/artist/0l1NW7YRNRNLXvYuRM8jTP), [LORA](https://open.spotify.com/artist/0APIUMSngXv7dSwjagZVoQ) | [Gotas](https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb) | 2:37 |
+| 34 | [Febrero](https://open.spotify.com/track/77ImvWuEm8jUMCTOWlpV4L) | [Flor Torres](https://open.spotify.com/artist/43rXMey1kWTRbnxdjaRK7s) | [Febrero](https://open.spotify.com/album/4KtnJQprl4VCxu9sMCaCaM) | 2:50 |
 | 35 | [CHORO](https://open.spotify.com/track/0se53nXXeYuX46Nn6KlXaz) | [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [CHORO](https://open.spotify.com/album/2R4OIN7RZ3gQ4RofQt0pyj) | 3:17 |
 | 36 | [Conquistando](https://open.spotify.com/track/7MmLIb4J8HhdSphtI8Zl5z) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Sev's](https://open.spotify.com/artist/08vjFBcdq8P80pLAh89LCW), [Aymí](https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS) | [Conquistando](https://open.spotify.com/album/39CiO2Ugl1PFUwQkC3kOCm) | 2:46 |
 | 37 | [BESOS](https://open.spotify.com/track/0ffo9MbsIVbCNhM4Mh8Or2) | [Yeyo](https://open.spotify.com/artist/3FFU4UmCb8jI0g0kX3ehmw), [Lowrdes](https://open.spotify.com/artist/4q8AFCeSnIBsghRIeUScc3), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [ENEMIGO DEL FIN Vol\. 1](https://open.spotify.com/album/4H5cbuE4D5177oSVxrfvlk) | 2:40 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 45 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 |
 | 46 | [VIP](https://open.spotify.com/track/5mUa1V9AT1VnB79xCfS1vw) | [Los Domblas](https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P) | [VIP](https://open.spotify.com/album/5MdKIHQ88sc6bt4ltzVZ5w) | 2:26 |
 | 47 | [Los 90's](https://open.spotify.com/track/4aT1GQFFUwTgG3lPyM0BsM) | [Alita Jugosita](https://open.spotify.com/artist/11CQZXyjJiI16TPWJmzS8Y) | [Los 90's](https://open.spotify.com/album/5BeFEFkNbndxCLF9DNc2US) | 2:09 |
-| 48 | [Solo](https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs) | [Zenith](https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4) | [Solo](https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS) | 3:53 |
-| 49 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 |
+| 48 | [Acá](https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Acá](https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc) | 3:28 |
+| 49 | [Solo](https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs) | [Zenith](https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4) | [Solo](https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS) | 3:53 |
 | 50 | [una y diez](https://open.spotify.com/track/5wuSHFYAS3kmPZBeWjts0v) | [LUANDA](https://open.spotify.com/artist/4uafDYiyPmfiBC9XJPxtsp) | [una y diez](https://open.spotify.com/album/3qUSxcib4jTzSGR2BFGRqa) | 2:39 |
 
-Snapshot ID: `MCxjODFmZjg2M2JmZmI3NDE0N2E0NDBhMWJhZGZhYzNjZmVkOTViNzZh`
+Snapshot ID: `MCw4NDU1ZjVkMTQ1YTU1NzljYTI0OTg5OGEyOTM3ZjI5Njk1YWFjNTBh`

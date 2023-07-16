@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-337 songs - 20 hr 38 min
+338 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/46GOst5FVGq47jxmMgx1VL) | [Drake McCain](https://open.spotify.com/artist/55zx7AihSM91XuqPqofoct) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/1aGIvwbPmDQTN37lt4y5cQ) | 4:25 | 2023-04-21 |  |
 | [Oh, the Deep](https://open.spotify.com/track/0nWSEbzNG6GN6AaPcLMyFn) | [Asaph](https://open.spotify.com/artist/2t40riPUnb3uogM98mgx3f) | [Oh, the Deep](https://open.spotify.com/album/2wws5SPicpYsnvCPJTB1Ce) | 4:49 | 2020-12-18 | 2022-07-27 |
 | [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 | 2023-04-07 | 2023-04-21 |
+| [Older Than The Sun](https://open.spotify.com/track/6rVsyBjajKHVt9h0LwPv0b) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Older Than The Sun](https://open.spotify.com/album/4i4Np7vgWQaZLfrP10MPey) | 3:26 | 2023-04-21 |  |
 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 | 2023-02-19 |  |
 | [Our Salvation is Bound Up Together](https://open.spotify.com/track/2aaBlsDmROA9D2BW7YdWRd) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Our Salvation is Bound Up Together](https://open.spotify.com/album/54KPD58pTk4raKt7RwXlNk) | 2:46 | 2023-02-19 |  |
 | [OVER](https://open.spotify.com/track/5vrl5DchHxFCkXWNRTZeRF) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [OVER](https://open.spotify.com/album/7lhvGgOvFyFnVkEkIlsBTk) | 2:42 | 2023-04-21 |  |
@@ -215,7 +216,7 @@
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2023-02-19 |  |
 | [Person In Christ](https://open.spotify.com/track/1pdX4gY5t6sdZdsd5lp3Z5) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Person In Christ](https://open.spotify.com/album/5TZciwCzlDz8wObaigKYBu) | 4:10 | 2020-12-18 | 2023-02-19 |
 | [Peter](https://open.spotify.com/track/0vfUIl2gKEUdX0Dupf8Yrq) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Move of Heaven](https://open.spotify.com/album/1PReZwfDFK1wIDH0Q4QbwD) | 5:39 | 2023-02-19 |  |
-| [Picking Petals](https://open.spotify.com/track/4gglchcFHrNWLhb5yJEpnp) | [Rilena](https://open.spotify.com/artist/099dIkrpVwkwEeVC79sx6d) | [Picking Petals](https://open.spotify.com/album/507DPRJuD3ZOks0lOHwaPI) | 3:55 | 2023-04-21 |  |
+| [Picking Petals](https://open.spotify.com/track/4gglchcFHrNWLhb5yJEpnp) | [Rilena](https://open.spotify.com/artist/099dIkrpVwkwEeVC79sx6d) | [Picking Petals](https://open.spotify.com/album/507DPRJuD3ZOks0lOHwaPI) | 3:55 | 2023-04-21 | 2023-07-16 |
 | [Pilgrim](https://open.spotify.com/track/1o5n9x03Na2DzkUuGB0TMo) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:57 | 2020-12-18 | 2023-02-19 |
 | [Places \(Des Endroits\)](https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i), [Mbushka](https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya) | [Places \(Des Endroits\)](https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2) | 3:32 | 2023-02-24 | 2023-02-26 |
 | [Please](https://open.spotify.com/track/1kaLtPuItQfngF9AYjbXwp) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:16 | 2023-02-24 |  |

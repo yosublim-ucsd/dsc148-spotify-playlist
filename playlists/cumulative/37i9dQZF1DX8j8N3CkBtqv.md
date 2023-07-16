@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana! Cover\- Dikshant
 
-122 songs - 6 hr 33 min
+123 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Meri Banogi Kya](https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Meri Banogi Kya](https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW) | 3:35 | 2023-04-14 | 2023-06-30 |
 | [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 | 2023-05-19 | 2023-07-15 |
 | [Mitwa](https://open.spotify.com/track/3qyMijX4qQxxEe8JS7fLj4) | [Parree Pande](https://open.spotify.com/artist/6np0ggxIOfqxNGTBb1gn5C), [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg) | [Mitwa](https://open.spotify.com/album/7plXHLUiuOLWhoeUMkksIt) | 2:46 | 2023-07-07 |  |
-| [Naya Jahaan](https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan](https://open.spotify.com/album/6a8TW1Rkvcbtc6rYP0ruOr) | 2:23 | 2023-06-16 |  |
+| [Naya Jahaan](https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan](https://open.spotify.com/album/6a8TW1Rkvcbtc6rYP0ruOr) | 2:23 | 2023-06-16 | 2023-07-16 |
 | [Nee Venda](https://open.spotify.com/track/1JMQrzzFl21dKNZhlPYCNE) | [Sanjana Devarajan](https://open.spotify.com/artist/3kWyp6jo8u9mSrg4q5dxRr) | [Nee Venda](https://open.spotify.com/album/23Qj45cx8r352ajwLVJRNf) | 2:52 | 2023-04-14 | 2023-06-24 |
 | [Nishaaniyan](https://open.spotify.com/track/1n80hIzru4Oc3834lzNJR1) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj) | [Nishaaniyan](https://open.spotify.com/album/4SAvROpQw7A12jzkkWB0Iw) | 3:22 | 2023-06-23 | 2023-07-08 |
 | [Parinda](https://open.spotify.com/track/1Uh2GbDBOv2ahTnZV3xXBT) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Parinda](https://open.spotify.com/album/6Ay5d5fr0XuggaEI1AbilJ) | 3:19 | 2023-07-07 |  |
@@ -91,6 +91,7 @@
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-19 | 2023-07-08 |
 | [Raahiya](https://open.spotify.com/track/4kn6joNgish5zSFjNMh2eW) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Raahiya](https://open.spotify.com/album/5Q1m9WyfNWGfpSXpPCXTLU) | 3:37 | 2023-05-19 | 2023-07-08 |
 | [Raat](https://open.spotify.com/track/6YiQvaBcbmkCqy7MNBPvyl) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Raat](https://open.spotify.com/album/7opIejTwAZ3yqzFkVgzY6p) | 3:56 | 2023-07-14 |  |
+| [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |
 | [Ring of Fire](https://open.spotify.com/track/4UWAREEb848f2oxm929axM) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Ring of Fire](https://open.spotify.com/album/1c9BDmWn2SXhImd0s2tyCH) | 2:28 | 2023-04-14 | 2023-05-27 |
 | [Ruby](https://open.spotify.com/track/2xDtfzoDn1oWQ7i7vZdEbq) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Ruby](https://open.spotify.com/album/11E0gGOFicB9F3MkPBNYLh) | 2:56 | 2023-06-16 |  |
 | [Ruko Na](https://open.spotify.com/track/1CZCN97RosXXOVicZzG4yY) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Ruko Na](https://open.spotify.com/album/1WfBql1CYo4QBP28RoxS3v) | 3:45 | 2023-07-14 |  |

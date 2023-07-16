@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,898 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,192 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [1999](https://open.spotify.com/track/0YvG1SZHHjzEpCMCUhB3Vf) | [Dreams on Tape](https://open.spotify.com/artist/0AFGPuSQHul71WUKnoUUhy) | [1999](https://open.spotify.com/album/0tY4FzgCmvJPgDaeyBwbNV) | 3:30 |
 | 100 | [Virgo](https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Lucky Me, Lucky Mud](https://open.spotify.com/album/3kYFCZhHZEhPGdMYj12blw) | 3:28 |
 
-Snapshot ID: `MCxiN2UzODg4MWNhMjNkNWNkZTBlOTdmMDc5YTJmYmZkODdmYmNkYWRi`
+Snapshot ID: `MCwzZmJhMmExMjE0OTkwMTEwYjA2MWRmYzJiY2Q5MTA0YjYzYzE2NTZm`

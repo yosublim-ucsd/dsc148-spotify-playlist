@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Grabbitz \\m/
 
-311 songs - 17 hr 47 min
+312 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Battle Sirens \(feat\. Knife Party\)](https://open.spotify.com/track/6PeXzqP7E9g3H0aMbBhB9L) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [The Atlas Underground](https://open.spotify.com/album/1oNUnZUmjJNjuWoGmY4caC) | 4:03 | 2022-01-07 | 2022-04-21 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-10 | 2023-03-28 |
 | [Be Your Dog \(feat\. Madge\)](https://open.spotify.com/track/4COs5XQrjymtUma8944kxo) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Be Your Dog](https://open.spotify.com/album/0lpxoa9MIyhRhGC6IUifie) | 3:10 | 2021-12-10 | 2022-06-20 |
+| [Beautiful Nothing](https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Beautiful Nothing](https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f) | 3:31 | 2023-07-14 |  |
 | [Before The Storm](https://open.spotify.com/track/3NGouqhbWEjkKJFqNTFBhM) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Before The Storm](https://open.spotify.com/album/4sUamZkyvf2eybkoNJ1hkX) | 4:53 | 2021-12-10 | 2022-07-28 |
 | [Behind Blue Eyes](https://open.spotify.com/track/1E7BFqr1XUEk9jB9PFFsQA) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Behind Blue Eyes](https://open.spotify.com/album/5P85sgKleHRMZj4qPQvubb) | 2:50 | 2022-04-01 | 2022-04-21 |
 | [Berserker](https://open.spotify.com/track/3kAvZ3KbdJTK8JqcoHBiRL) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Berserker](https://open.spotify.com/album/6mXaDdXuuISDjMEFHBjtnm) | 4:25 | 2021-12-10 | 2022-04-02 |
@@ -103,7 +104,7 @@
 | [Eyes Wide Open \- ry flora Remix](https://open.spotify.com/track/3YAo0Y2zqII53swBtcGvUJ) | [ry flora](https://open.spotify.com/artist/7uRxlnkvyppjdiZbVM9nzh), [Emblem3](https://open.spotify.com/artist/1md9aYaJ6Qt1FHypXICB5V) | [Eyes Wide Open \(ry flora Remix\)](https://open.spotify.com/album/6bO5MqXKM9qDbxPr9KoP5T) | 3:19 | 2022-01-28 | 2022-02-12 |
 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 | 2023-04-28 |  |
 | [Eyes Wide Shut](https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Eyes Wide Shut](https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm) | 3:35 | 2023-03-03 |  |
-| [Fade With Me](https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Fade With Me](https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA) | 3:34 | 2021-12-10 |  |
+| [Fade With Me](https://open.spotify.com/track/5vZiKXW3FOg6gyLREhvs2a) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Fade With Me](https://open.spotify.com/album/2eOUEwRDCp9qIgydVJWKuA) | 3:34 | 2021-12-10 | 2023-07-16 |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-24 | 2023-03-18 |
 | [Fall Down](https://open.spotify.com/track/6591V8mJSzKn29si2hx9iC) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Fall Down](https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg) | 2:46 | 2022-01-24 | 2022-06-25 |
 | [Falling](https://open.spotify.com/track/2jy15HYKNtWQ0STN9ZOw8v) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Falling](https://open.spotify.com/album/6s01oJfNMzklI98wT7YgDU) | 3:29 | 2022-06-24 | 2022-12-06 |

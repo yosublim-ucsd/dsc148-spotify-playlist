@@ -4311,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Corazon Roto (IA)",
+        "url": "https://open.spotify.com/album/2Shu8ZCieBze4qkADwajkE"
+      },
+      "artists": [
+        {
+          "name": "Angel Castilla",
+          "url": "https://open.spotify.com/artist/1IxUTCkoSofPqjd2fwLOmq"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148442,
+      "name": "Corazon Roto (IA)",
+      "url": "https://open.spotify.com/track/2fPeD6WR2tllhrmTGPUg61"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Roto",
         "url": "https://open.spotify.com/album/1Tet5B9nNy0B5pfVPRRfNQ"
       },
@@ -5088,7 +5106,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 194400,
       "name": "Desespero",
       "url": "https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN"
@@ -13384,7 +13402,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 149777,
       "name": "Multiverso (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
@@ -14636,6 +14654,24 @@
       "duration_ms": 377668,
       "name": "Ojxs de Angel",
       "url": "https://open.spotify.com/track/3msAJFHUKjVrfi5f6bihuR"
+    },
+    {
+      "album": {
+        "name": "Ojxs de angel",
+        "url": "https://open.spotify.com/album/4HPR6QrDAm26v0ZCkzP6FF"
+      },
+      "artists": [
+        {
+          "name": "Lukessj",
+          "url": "https://open.spotify.com/artist/5hhUOAwrpOg88sbcSiiXWv"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377719,
+      "name": "Ojxs de angel",
+      "url": "https://open.spotify.com/track/4FsHWkP1aP25m4lmvYos2l"
     },
     {
       "album": {

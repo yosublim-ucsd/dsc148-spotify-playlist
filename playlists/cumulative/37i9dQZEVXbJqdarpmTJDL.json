@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 194754,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw"
@@ -2306,6 +2306,32 @@
       "duration_ms": 164885,
       "name": "Aventador",
       "url": "https://open.spotify.com/track/5J9gOkJYkTTdZj8RF9UvZ4"
+    },
+    {
+      "album": {
+        "name": "AXARISTI",
+        "url": "https://open.spotify.com/album/7k1xG5RHOl5ybnCcYOkSEb"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "DJ PaCo",
+          "url": "https://open.spotify.com/artist/6YxjAAOm4MVd55JQM8ijbG"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "AXARISTI",
+      "url": "https://open.spotify.com/track/6NddoCdcG3lrzL4q30Wo5F"
     },
     {
       "album": {
@@ -4312,7 +4338,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 147288,
       "name": "CELINE",
       "url": "https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J"
@@ -17698,7 +17724,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 145841,
       "name": "Oneiro",
       "url": "https://open.spotify.com/track/7k1eAeEvBo49rHcUwRuZbU"
@@ -18736,6 +18762,28 @@
       "duration_ms": 205748,
       "name": "PELATES",
       "url": "https://open.spotify.com/track/5PsPKwp74Goyq3nvgehsiy"
+    },
+    {
+      "album": {
+        "name": "Pempth Vrady",
+        "url": "https://open.spotify.com/album/6qn15ItehHAHwk3ZSLu75h"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "Pempth Vrady",
+      "url": "https://open.spotify.com/track/43JJzQyaFjUpGkgLyUlTml"
     },
     {
       "album": {
@@ -21102,6 +21150,28 @@
       "duration_ms": 210841,
       "name": "Selini",
       "url": "https://open.spotify.com/track/4EaKNyW2lUIykej48Ph7SN"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "album": {

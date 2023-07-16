@@ -4370,7 +4370,7 @@
       ],
       "date_added": "2022-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 290400,
       "name": "NEVER SAY GOODBYE",
       "url": "https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg"
@@ -5166,6 +5166,24 @@
       "duration_ms": 261200,
       "name": "Plastic Smile",
       "url": "https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq"
+    },
+    {
+      "album": {
+        "name": "Please, please!",
+        "url": "https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6a4b\u5f69\u9999",
+          "url": "https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222700,
+      "name": "Please, please!",
+      "url": "https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G"
     },
     {
       "album": {
@@ -8748,7 +8766,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 303085,
       "name": "\u30a2\u30f3\u30c1\u30ce\u30df\u30fc",
       "url": "https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D"
@@ -13836,6 +13854,24 @@
       "duration_ms": 208920,
       "name": "\u8ca0\u3051\u30a4\u30d9\u5b9f\u6cc1\u30d7\u30ec\u30a4",
       "url": "https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB"
+    },
+    {
+      "album": {
+        "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+        "url": "https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242321,
+      "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+      "url": "https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L"
     },
     {
       "album": {

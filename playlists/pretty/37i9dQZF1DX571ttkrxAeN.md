@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,275 likes - 78 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,333 likes - 78 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 | 77 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 |
 | 78 | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/track/6vOpTasDwu8gj7IRbFXNjE) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Doremifarklı insanlarız \(akustik\)](https://open.spotify.com/album/2PjJMRedxiuCTtQgTkn2wR) | 3:41 |
 
-Snapshot ID: `MCwxZTQ5YmE3MmNjM2Q2MTJlYjAyODliODYwYTg5YzBiN2NhMDE1OWFk`
+Snapshot ID: `MCxlODk1MGRhZjVjZjNmMjM0ODIwMGU3YWY3ZTZlMjFlMDBjMDcwYjAw`

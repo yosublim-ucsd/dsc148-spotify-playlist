@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,296 likes - 79 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,338 likes - 79 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 78 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 | 79 | [Suburban Mall Jewelry](https://open.spotify.com/track/7jkyjrW4PspGKdR9YpYQJl) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Fantasy For Danger](https://open.spotify.com/album/3E2cDKt4O1oy4e329IGvPM) | 3:06 |
 
-Snapshot ID: `MCw2ZmYwNDU4NDM4ZWEzMmQwMjY0OTg0ODMyNjk1MDY4NTM3ZjFlNGZl`
+Snapshot ID: `MCxmZTRhY2FmNDliOTVkYjM0MmUyYWIwYjVhNDdmMjg5N2MyNGQ1NWZi`

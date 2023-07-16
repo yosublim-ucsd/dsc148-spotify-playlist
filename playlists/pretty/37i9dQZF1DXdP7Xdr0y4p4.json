@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 8833,
+  "num_followers": 8863,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm",
+  "snapshot_id": "MCwyNjEzYjQyMzMwMTMzYzIzYjhlY2ZlODI5NjE3YWExYjkzYjAyNTJm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Whatever The Road",
-        "url": "https://open.spotify.com/album/2ghMlC7X6dQkmIz970kP1x"
-      },
-      "artists": [
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "He Knows What He's Doing",
-      "url": "https://open.spotify.com/track/383ZB6TdF6qxpbvxJFLDVn"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5stgFFoGFOkFz9gzvLMFRl"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 193333,
       "name": "Battle Stand",
       "url": "https://open.spotify.com/track/0HupMziol0Akt3BxX4gfqZ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Whatever The Road",
+        "url": "https://open.spotify.com/album/2ghMlC7X6dQkmIz970kP1x"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "He Knows What He's Doing",
+      "url": "https://open.spotify.com/track/383ZB6TdF6qxpbvxJFLDVn"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Bigger Than Sunday",
-        "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
-      },
-      "artists": [
-        {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "A New Chapter",
         "url": "https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 198493,
       "name": "Steppin' out in Faith",
       "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Bigger Than Sunday",
+        "url": "https://open.spotify.com/album/0RgdcpTzlEU9m0WnfgsU19"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/2LqfoPg1e7dud9HJSnaVsn"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
+      },
+      "artists": [
+        {
+          "name": "Triumphant Quartet",
+          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
       },
@@ -639,38 +655,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Bring That Giant Down",
-        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
-      },
-      "artists": [
-        {
-          "name": "11th Hour",
-          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
-        }
-      ],
-      "duration_ms": 208359,
-      "name": "Bring That Giant Down",
-      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA"
-      },
-      "artists": [
-        {
-          "name": "Triumphant Quartet",
-          "url": "https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 270840,
       "name": "Favorite Song of All",
       "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Bring That Giant Down",
+        "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
+      },
+      "artists": [
+        {
+          "name": "11th Hour",
+          "url": "https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY"
+        }
+      ],
+      "duration_ms": 208359,
+      "name": "Bring That Giant Down",
+      "url": "https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Shut Him Up",
-        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Shut Him Up",
-      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The Stories We Tell",
         "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 181000,
       "name": "Good in the Good Times",
       "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Shut Him Up",
+        "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Shut Him Up",
+      "url": "https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Come and Dine",
-        "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
-      },
-      "artists": [
-        {
-          "name": "William Lee Golden and The Goldens",
-          "url": "https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX"
-        }
-      ],
-      "duration_ms": 149213,
-      "name": "Come and Dine",
-      "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Power In The Blood (We Give Thanks For The Blood)",
         "url": "https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 350715,
       "name": "Power In The Blood (We Give Thanks For The Blood)",
       "url": "https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Come and Dine",
+        "url": "https://open.spotify.com/album/7y5dsM3Tre13QHcSG1L8tC"
+      },
+      "artists": [
+        {
+          "name": "William Lee Golden and The Goldens",
+          "url": "https://open.spotify.com/artist/3DBCHVQNlapluGiMfXZDFX"
+        }
+      ],
+      "duration_ms": 149213,
+      "name": "Come and Dine",
+      "url": "https://open.spotify.com/track/6tf81aaHf2TumDPjrkPlr6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "McKamey Legacy",
-        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
-      },
-      "artists": [
-        {
-          "name": "McKamey Legacy",
-          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "God is Still Good",
-      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 220760,
       "name": "Give Me Jesus",
       "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "McKamey Legacy",
+        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
+      },
+      "artists": [
+        {
+          "name": "McKamey Legacy",
+          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "God is Still Good",
+      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "I Don't Belong",
-        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
+        "name": "Sings Greatest Country Gospel Hits",
+        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
       },
       "artists": [
         {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
         }
       ],
-      "duration_ms": 291693,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
+      "duration_ms": 157500,
+      "name": "Pass Me Not Oh Gentle Saviour",
+      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Sings Greatest Country Gospel Hits",
-        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+        "name": "I Don't Belong",
+        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
       },
       "artists": [
         {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Pass Me Not Oh Gentle Saviour",
-      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
+      "duration_ms": 291693,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
     },
     {
       "added_at": "2023-04-14 06:27:38",

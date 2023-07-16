@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Kylie Minogue",
-  "num_followers": 3417584,
+  "num_followers": 3417985,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Njg0MmUwOTg4NjgyMGNiZjNhNjMwY2JhNzg1YWU4OTlhNjU4MDc0",
+  "snapshot_id": "MCw1NjhjMWUwMGE4NTY1OGE4NjEyOGI1YjRiY2EzYjA3OGRiZTU2YzJl",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "By The End Of The Night (southstar Remix)",
-        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "By The End Of The Night - southstar Remix",
-      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "By The End Of The Night (southstar Remix)",
+        "url": "https://open.spotify.com/album/3LpSBl8LPPFkoUeY6uLrZ3"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "By The End Of The Night - southstar Remix",
+      "url": "https://open.spotify.com/track/0BJq75IdLPWnFWG0TLwoN2"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Ghost (Merk & Kremont Remix)",
-        "url": "https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Ghost - Merk & Kremont Remix",
-      "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Green Green Grass",
         "url": "https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 138000,
       "name": "Green Green Grass - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Ghost (Merk & Kremont Remix)",
+        "url": "https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Ghost - Merk & Kremont Remix",
+      "url": "https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Sweetest Pie (David Guetta Remixes)",
-        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Sweetest Pie - David Guetta Dance Remix",
-      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Sweetest Pie (David Guetta Remixes)",
+        "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Sweetest Pie - David Guetta Dance Remix",
+      "url": "https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "mine (Ty Sunderland Remix)",
-        "url": "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Ty Sunderland",
-          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "mine (Ty Sunderland Remix)",
-      "url": "https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "How Do I Say Goodbye (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/2l9HABqiwDkL7oVGAiW2mV"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 225563,
       "name": "How Do I Say Goodbye - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1ps5972g02HgOtvjE8OMfz"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "mine (Ty Sunderland Remix)",
+        "url": "https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Ty Sunderland",
+          "url": "https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI"
+        }
+      ],
+      "duration_ms": 241346,
+      "name": "mine (Ty Sunderland Remix)",
+      "url": "https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc"
     },
     {
       "added_at": "2023-06-30 04:00:00",

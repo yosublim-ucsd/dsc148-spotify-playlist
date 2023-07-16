@@ -652,10 +652,28 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 326661,
       "name": "Naa Oru Yedakodam",
       "url": "https://open.spotify.com/track/79nQElTCfuUTDLoK6JOcw4"
+    },
+    {
+      "album": {
+        "name": "Naa Oru Yedakodam",
+        "url": "https://open.spotify.com/album/5DVm0unqIS3jfN505mcGZo"
+      },
+      "artists": [
+        {
+          "name": "Gana Mani",
+          "url": "https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327319,
+      "name": "Naa Oru Yedakodam",
+      "url": "https://open.spotify.com/track/59dfn1rYXM3GAtrPr5DDnK"
     },
     {
       "album": {
@@ -708,8 +726,8 @@
           "url": "https://open.spotify.com/artist/3uOEdKZ7hTOfC0M33TYvNs"
         },
         {
-          "name": "Gaana Sakthi",
-          "url": "https://open.spotify.com/artist/0JW8eXqQUSkuDRsHDCHJUt"
+          "name": "Gana Sakthi",
+          "url": "https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh"
         },
         {
           "name": "Bennet Christopher",

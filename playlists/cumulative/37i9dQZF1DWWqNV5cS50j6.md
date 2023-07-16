@@ -4,7 +4,7 @@
 
 > Yeek & Paris Texas make anti pop.
 
-1,449 songs - 2 day 21 hr 51 min
+1,450 songs - 2 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -996,7 +996,8 @@
 | [Pretend](https://open.spotify.com/track/2ktU3yNNpfKIsG3Hn186Mq) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Pretend \[w/ Kota the Friend\]](https://open.spotify.com/album/32zuche1Ppeux5Tk7a1sOT) | 2:35 | 2022-07-22 | 2022-08-23 |
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2022-05-27 | 2022-06-18 |
 | [Pretty](https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4) | 3:44 | 2022-11-30 | 2023-02-15 |
-| [Pretty](https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/7zBY4wnOahepVJdXRqxJlv) | 1:40 | 2023-06-30 |  |
+| [Pretty](https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/7zBY4wnOahepVJdXRqxJlv) | 1:40 | 2023-06-30 | 2023-07-16 |
+| [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 | 2023-06-30 |  |
 | [PRETTY](https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [BOY](https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH) | 2:55 | 2022-07-22 | 2022-11-09 |
 | [Pretty Lies](https://open.spotify.com/track/3Nj6EiDM8LknYtZvzJGTLs) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:08 | 2022-02-22 | 2022-04-10 |
 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-10 | 2022-04-10 |

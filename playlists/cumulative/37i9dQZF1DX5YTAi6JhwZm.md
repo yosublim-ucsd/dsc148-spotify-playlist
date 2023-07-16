@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-151 songs - 12 hr 53 min
+152 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [The Good Life](https://open.spotify.com/track/4on3eMnc3jPhCUgBfG694n) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Quartet West](https://open.spotify.com/album/5TTTEyRSGqgLweE5UMS0Wu) | 4:42 | 2021-12-17 |  |
 | [The Head](https://open.spotify.com/track/0Z0qsQffWPOQ8fTbZDKnGn) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Blue Soul \[Keepnews Collection\]](https://open.spotify.com/album/1ef6tHLjRyzNHkUxuMerYa) | 4:28 | 2022-02-25 |  |
 | [The Lion's Roar \- Remastered](https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 4:54 | 2022-01-13 |  |
-| [The Magilla](https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [The Spoiler](https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS) | 6:04 | 2021-12-17 |  |
+| [The Magilla](https://open.spotify.com/track/3p8HdITAjhnyorR0CgRFDp) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Martin Freeman and Eddie Piller Present Jazz On The Corner Two](https://open.spotify.com/album/3JVyUhaPk5LeITaJ5OfNHm) | 6:04 | 2023-06-21 |  |
+| [The Magilla](https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [The Spoiler](https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS) | 6:04 | 2021-12-17 | 2023-07-16 |
 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 | 2021-12-17 |  |
 | [The Preacher](https://open.spotify.com/track/2ezZJ2KVatSh0m0ioXwtcv) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t), [The Jazz Messengers](https://open.spotify.com/artist/4oMI5jKhAOEg3T8HIY3HxI) | [BD Music & Cabu Present Art Blakey](https://open.spotify.com/album/7d7kA2hUa51ZzAwiKfZJbc) | 4:18 | 2022-02-25 |  |
 | [The Shape of Blue](https://open.spotify.com/track/11oZK9EdlMVLqVIIxkUFVx) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh) | [Stardust](https://open.spotify.com/album/2wfDE3UXThq9OPW1dCRIit) | 3:17 | 2022-06-29 |  |

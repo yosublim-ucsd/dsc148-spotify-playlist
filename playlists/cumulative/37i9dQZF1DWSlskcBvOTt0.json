@@ -347,6 +347,32 @@
     },
     {
       "album": {
+        "name": "Alone (Stephan Jolk Remix)",
+        "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "Alone - Stephan Jolk Remix",
+      "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
+    },
+    {
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -782,6 +808,32 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "album": {
+        "name": "ZEBRA",
+        "url": "https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ"
+      },
+      "artists": [
+        {
+          "name": "El Mukuka",
+          "url": "https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd"
+        },
+        {
+          "name": "Sebastien Dutch",
+          "url": "https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI"
+        },
+        {
+          "name": "Abel Chungu Musuka",
+          "url": "https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Back to the Days",
+      "url": "https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh"
     },
     {
       "album": {
@@ -1588,6 +1640,32 @@
       "duration_ms": 482046,
       "name": "Colibria",
       "url": "https://open.spotify.com/track/39myIVuK9YgrIBR6wZA2st"
+    },
+    {
+      "album": {
+        "name": "Blood Moon (Remixes)",
+        "url": "https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK"
+      },
+      "artists": [
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435653,
+      "name": "Colorblind - WhoMadeWho Remix",
+      "url": "https://open.spotify.com/track/1dZybfK5AztMba3tqDvT7O"
     },
     {
       "album": {
@@ -7116,7 +7194,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 409492,
       "name": "Shades Of Night",
       "url": "https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R"
@@ -7768,7 +7846,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 343080,
       "name": "Synthwave",
       "url": "https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG"
@@ -9270,7 +9348,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 427627,
       "name": "Yoruba",
       "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"

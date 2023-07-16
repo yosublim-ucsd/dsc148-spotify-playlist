@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,310 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,491 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 15 | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Dance My Stress Away \(with Stephen Marley\)](https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW) | 3:34 |
 | 16 | [Circus Slave](https://open.spotify.com/track/3nGPtleu2jIeCG0mxv2pRT) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [Hazel Eyes](https://open.spotify.com/album/5UW0VIeQ1cgfXJxGqddBm1) | 3:24 |
 | 17 | [Corona and Lime](https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71) | [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7), [Cisco Adler](https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW), [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Corona and Lime](https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH) | 3:19 |
-| 18 | [Press Rewind](https://open.spotify.com/track/1JOnK0BwXTDKdWbXiYQ11h) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Rewind](https://open.spotify.com/album/6hvO38m9TnmmyAerAfvpkm) | 4:34 |
+| 18 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
 | 19 | [Be Where Your Feet Are](https://open.spotify.com/track/7awndyySQdYEo3qffxtdUD) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Look For The Good \(Deluxe Edition\)](https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63) | 3:14 |
 | 20 | [Just Dance](https://open.spotify.com/track/4lWhdGthmuFgsZEzB02KZu) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [Just Dance](https://open.spotify.com/album/124WBVqswfTVktUNadJ4T2) | 2:34 |
 | 21 | [Mr Reggae](https://open.spotify.com/track/7dGsBUADSyHoD7zdkKi9Ef) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ) | 3:04 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 24 | [Roll Up](https://open.spotify.com/track/0PwduRPZZQeIyVojm5Bjtp) | [Onetox](https://open.spotify.com/artist/2q1DoxOtgpacwQwrKzJKXN) | [Roll Up](https://open.spotify.com/album/67ZFI5vuV7ToLaTMli2B3J) | 3:58 |
 | 25 | [Early In The Morning](https://open.spotify.com/track/2R9nfayl1NXhuAdEpwG2Qa) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Early In The Morning](https://open.spotify.com/album/7jBZzB6g10Uw2qwHN3hdDR) | 2:52 |
 | 26 | [Dangerous](https://open.spotify.com/track/0JgQ9e26nCa3hIElMqHcok) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Dangerous](https://open.spotify.com/album/1xkMMcFFh8gy6uWyQ5TkOT) | 3:31 |
-| 27 | [Something To Believe In](https://open.spotify.com/track/7K7qeICBpEwhkdJUcy6pMh) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 3:29 |
+| 27 | [Something To Believe In](https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 3:29 |
 | 28 | [Love Me](https://open.spotify.com/track/6HwcP1XamKZwjAmcdBN2Pk) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/3XedtVc8Dx4e5kXLK36uYB) | 4:24 |
 | 29 | [Beef](https://open.spotify.com/track/2GKBeYIdp4E6bgf08uxaMX) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Far From Forever](https://open.spotify.com/album/5Jbc8jkGvLRaCLoHERLh1n) | 3:16 |
 | 30 | [California Day](https://open.spotify.com/track/1NdZN8qp8ymkHqYnlXxS1F) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Shwayze](https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7) | [California Day](https://open.spotify.com/album/2W93NNqgJVgDKeXCCDqTuL) | 2:52 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 75 | [My Baby](https://open.spotify.com/track/784sJR2S68F1joSvINXhe0) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:56 |
 | 76 | [Rhythm in My Soul](https://open.spotify.com/track/3SUJqKZHP8ftlPoJ7CGgB9) | [Unity Pacific](https://open.spotify.com/artist/0e0rH9Exdpkq3d7ZSi9VN5) | [Into the Dread](https://open.spotify.com/album/7IycDxmkUxSa56lV6Czm9n) | 6:16 |
 
-Snapshot ID: `MCw1Njk3NWQxZjcyMTNmNmJlNTQ0YzNhYWM2NTczZDY2NjdlOTgxOWY3`
+Snapshot ID: `MCw5YjdiMDBkMzEyOTU5Y2Y3NDYxNWFhNmE0MjA0YjVjMjhhZDYzNzAw`

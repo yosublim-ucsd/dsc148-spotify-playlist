@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-109 songs - 9 hr 56 min
+110 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Valley Of Fire](https://open.spotify.com/track/3MeWtNojyZQXLG1q2KEzth) | [Jason Becker](https://open.spotify.com/artist/0A4Z1qNp3lGWa9VI66M67D), [The Magnificent 13](https://open.spotify.com/artist/3IkYSkWCsGcctOaS4g7Ill), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p), [Michael Lee Firkins](https://open.spotify.com/artist/7hDSpyE3c2yq9LUeJuY8xC), [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG), [Neal Schon](https://open.spotify.com/artist/4YLlWUd8PnnyGVKxqoebs7), [Mattias IA Eklundh](https://open.spotify.com/artist/22upwnTo7nckdSAMI8CrZa), [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV), [Jeff Loomis](https://open.spotify.com/artist/1bqlyIXRTCilCmvAr1newg), [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb), [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Ben Woods](https://open.spotify.com/artist/48aj2Mk8GfONHzoPRfEeCY) | [Triumphant Hearts](https://open.spotify.com/album/0U6OOhg42G3bM1rC3ClJ2V) | 9:04 | 2022-10-05 | 2022-10-08 |
 | [Walk In My Shadow \- Live](https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Walk In My Shadow \(Live\)](https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT) | 4:29 | 2022-08-05 |  |
 | [We're All In This Together](https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [We're All In This Together](https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw) | 7:57 | 2022-08-05 |  |
+| [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 | 2023-07-15 |  |
 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 | 2022-08-05 | 2023-01-29 |
 | [When Will I Let Her Go](https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [S.O.S\. 4: Blues For Your Soul](https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5) | 4:06 | 2023-04-02 |  |
 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 | 2022-11-04 |  |

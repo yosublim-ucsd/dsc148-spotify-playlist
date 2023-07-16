@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 89827,
+  "num_followers": 89869,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzYyM2U4YzVmMzcyZjU2YjU1YzZkZjBlODQ0ODZiMTgyMmVjZTNi",
+  "snapshot_id": "MCwxZjcwZWMyNjRmMjI5NmMyNzU4YTU5MTQ1MjkyNGZhYWI1NWRkMWYw",
   "tracks": [
     {
       "added_at": "2023-07-07 15:36:44",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
-    },
-    {
-      "added_at": "2023-07-07 15:36:44",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 217200,
       "name": "Love Scene",
       "url": "https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2"
+    },
+    {
+      "added_at": "2023-07-07 15:36:44",
+      "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2023-07-07 15:36:44",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-07-07 15:36:44",
       "album": {
+        "name": "Marigold Tapes",
+        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 209685,
+      "name": "flight",
+      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
+    },
+    {
+      "added_at": "2023-07-07 15:36:44",
+      "album": {
         "name": "m o v i e",
         "url": "https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 197550,
       "name": "m o v i e (Feat. Jade)",
       "url": "https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ"
-    },
-    {
-      "added_at": "2023-07-07 15:36:44",
-      "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 209685,
-      "name": "flight",
-      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

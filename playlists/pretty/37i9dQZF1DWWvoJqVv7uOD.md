@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,388 likes - 88 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,619 likes - 88 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 87 | [Green Green Grass](https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 2:47 |
 | 88 | [Best Friend](https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w) | 2:39 |
 
-Snapshot ID: `MCxiNDRmMWNmYjAyNDY4NjhlNWZkMmRiNTAwYjg1NmZjZWQyMDcwNTYw`
+Snapshot ID: `MCxmNmI4NGUyNWRmMWUyYWIxYTdhNjBkOTdiZjRmMjFhMTljYzA4YTg5`

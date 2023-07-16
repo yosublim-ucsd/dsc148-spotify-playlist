@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, King Von, and more\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,185 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,286 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/track/4UbFDOCUqk3e9OYz1s2Ssy) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/album/4yeBzIQ3h6gpvHYXOD5qUp) | 2:21 |
 | 49 | [too many times](https://open.spotify.com/track/4Z9evC61ZmIE8axxRJwyfR) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.1](https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu) | 3:20 |
 
-Snapshot ID: `MCxmNmQwOWZiOTM5Njc2MWI0MjFmMmNjOGI1MTUzZDI0NGRjZDQ5NzEy`
+Snapshot ID: `MCw2YjdmN2UwOWRiMjM2MzY1MDU4NGU0OTE5ZWFiOTIzNTU2NzgxMWQ3`

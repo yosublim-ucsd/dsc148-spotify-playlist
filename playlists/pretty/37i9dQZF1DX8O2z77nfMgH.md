@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: Duki, Khea, y Bizarrap
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,348 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,414 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 59 | [Me Dá Sua Mão](https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Me Dá Sua Mão](https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB) | 2:42 |
 | 60 | [JOIA RARA](https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq) | [JOIA RARA](https://open.spotify.com/album/2tJzNiUgQ6lPjPkq4HuQPN) | 2:32 |
 
-Snapshot ID: `MCxjNmY4NzczZjZjN2ZhNzliMjU2MTU1ODk3NWRhNWIyYTMzNTg4Mjk1`
+Snapshot ID: `MCxiMzg0NDA5NTc2MzUwMjc3YTc5NTgxNzMwY2ZhNDk4YTRhMDEzMzhm`

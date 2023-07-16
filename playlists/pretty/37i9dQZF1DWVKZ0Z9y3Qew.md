@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover: lophiile
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,774 likes - 58 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,784 likes - 58 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 44 | [Hot Topic](https://open.spotify.com/track/0p0zlykz8UuMoaAdDEbVT2) | [ScooterTheMenace](https://open.spotify.com/artist/4zy9I6HMQfwxA9wzWMLFGT) | [Hot Topic](https://open.spotify.com/album/2sB5H2Xpi3KGjNeTZFu1nJ) | 2:38 |
 | 45 | [High Suspicions](https://open.spotify.com/track/3WaTKodomUyZDckm0JoDp3) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [High Suspicions](https://open.spotify.com/album/4kTrQ4OL6xlTxZqRi42gOX) | 2:39 |
 | 46 | [Anything Is Possible](https://open.spotify.com/track/571mGw83l6dHEpzj7k7F0W) | [Drae Slapz](https://open.spotify.com/artist/1RKGcbu15VTqYNYMjyisNM), [MacMFBillz](https://open.spotify.com/artist/6vr2geRFyHw8j6hxkiTgWo) | [Slapz & B](https://open.spotify.com/album/2HpCKUOV6lvi7uY3nv9hWe) | 2:19 |
-| 47 | [Missing You](https://open.spotify.com/track/4oBdq2sJeULAgAx4OS0nYB) | [TBG](https://open.spotify.com/artist/2tYeKxqb14B4FAHgplnU4y), [Kam Bino](https://open.spotify.com/artist/5ii4IIoDVWOPR0wu9ytGju), [SheedBe](https://open.spotify.com/artist/7jJiqutE7HkYZRyrHKgo96) | [Missing You](https://open.spotify.com/album/6TmACmuZLlWvUtvbOa4h3t) | 2:46 |
+| 47 | [Missing You](https://open.spotify.com/track/2dEDt6JlGV3cfiJcKazott) | [TBG](https://open.spotify.com/artist/2tYeKxqb14B4FAHgplnU4y), [Kam Bino](https://open.spotify.com/artist/5ii4IIoDVWOPR0wu9ytGju), [SheedBe](https://open.spotify.com/artist/7jJiqutE7HkYZRyrHKgo96) | [Open Interviews 2](https://open.spotify.com/album/5scJTQsZO4NhUcsEdyZPZA) | 2:46 |
 | 48 | [MISSIONARY STYLE](https://open.spotify.com/track/2EtGIKUntLjfVQBxG8v3XJ) | [Maika Million](https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j) | [IM BETTER](https://open.spotify.com/album/3b1U3PnmCCk4Mz01lzCuDm) | 2:24 |
 | 49 | [Being Me](https://open.spotify.com/track/613ltZoBr5kYM5hJw9N5YC) | [Dmann](https://open.spotify.com/artist/2nCBL8gOThAAnLFlVVeVlH) | [Space Tapes](https://open.spotify.com/album/3yaBesEd3XkdIfjVJuHfVS) | 2:36 |
 | 50 | [Down Low](https://open.spotify.com/track/5rnySFqLRqDkcYEjx2Ndua) | [John Thomas](https://open.spotify.com/artist/5sBcu06yga5A7OS8FvnFDi), [PARIS The Prince](https://open.spotify.com/artist/1Sg6otE2nrIrclN2CGJmED) | [Down Low](https://open.spotify.com/album/0WQFv0f0FuWAqBUK7wnURz) | 3:51 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 57 | [CATCH N GRAB](https://open.spotify.com/track/5nhlBWdu3hmxIck79gDNx0) | [Yung JerJer](https://open.spotify.com/artist/3J2Nl3AI153jzpiSzhUAXE), [Ghoulavelii](https://open.spotify.com/artist/6nwEYQKFXGAKvwnUqZUd52) | [CATCH N GRAB](https://open.spotify.com/album/4BXnQCw0zmER3vvNa1BRk1) | 1:39 |
 | 58 | [Locked In](https://open.spotify.com/track/0HFfeKFMx9ca1ZddAyUJxl) | [Mafi D](https://open.spotify.com/artist/0TboE335UT8BpAg6aSpoAm), [Ralphy Davis](https://open.spotify.com/artist/5wY7YZCurjPiYRLP1N8GFp), [MikeJack3200](https://open.spotify.com/artist/1DsOlo169ovaAx19956vOb), [Gunna Goof](https://open.spotify.com/artist/0qd0iLsyS5tEw92XDKG3CV) | [Overlooked & Underpaid](https://open.spotify.com/album/2Bknw5GjDOG2hTNFHcsOZk) | 2:02 |
 
-Snapshot ID: `MCxjYzI4ZTVmZmYyYmNmMmVhZmI1OWI0NzM3NWQwYWM3ZDRmZjkwNTQw`
+Snapshot ID: `MCwwYjVlNjFjZTY5NjRiOGYyZTlmNDhmNzU0MTMxNGQ1ZTM2MjEwMzBl`

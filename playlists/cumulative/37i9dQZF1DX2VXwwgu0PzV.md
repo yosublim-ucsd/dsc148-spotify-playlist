@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=pzNnGaQXQB2Dgc0WgWI7dw">TBabz</a> and <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=aPTZIvCmQnq6JMkSJy5DJw">Naffymar</a>
 
-281 songs - 16 hr 42 min
+282 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Protect Me \- Remix](https://open.spotify.com/track/20th9lVZbXyTiTDbZiSUFg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Protect Me \(Remix\)](https://open.spotify.com/album/20AYZPowMzmL2D6Cuev0I9) | 2:44 | 2023-06-09 |  |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-04-07 |  |
 | [RANDOM CHAPTER](https://open.spotify.com/track/62YgrP3kKNumc3BVX3rjwD) | [Lesynem Junior](https://open.spotify.com/artist/3wXe3E8A7Lwa1W08cYDsxU), [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [RANDOM CHAPTER](https://open.spotify.com/album/63klHeWXnQ972Rz4jCtEm9) | 2:33 | 2023-07-14 |  |
-| [READY FOR JESUS](https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2) | 5:45 | 2023-04-28 |  |
+| [READY FOR JESUS](https://open.spotify.com/track/1Y16kJN8bjBYA1xyHYKltB) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/7tQF9Dq3bfWYs3DPplMpTv) | 5:45 | 2023-04-28 |  |
+| [READY FOR JESUS](https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2) | 5:45 | 2023-04-28 | 2023-07-16 |
 | [Really](https://open.spotify.com/track/6jwssBokHjWLUj5YUooU4w) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Really](https://open.spotify.com/album/3lh9QWrJ2yhH4WnSixFMkF) | 2:43 | 2023-02-10 | 2023-06-23 |
 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 | 2023-04-14 | 2023-04-15 |
 | [Redeemed](https://open.spotify.com/track/1dD7d9b5MAQmXF8VFz1Wg4) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Redeemed](https://open.spotify.com/album/2TQAEowNtL8o02td6MQRTw) | 4:03 | 2023-06-30 | 2023-07-14 |

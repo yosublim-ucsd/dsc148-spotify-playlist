@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-246 songs - 14 hr 43 min
+247 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [La Luz](https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [La Luz](https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq) | 2:35 | 2023-05-19 | 2023-06-05 |
 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 | 2022-01-20 |  |
 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 | 2022-01-20 | 2022-10-26 |
-| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 | 2023-07-15 |
+| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 |  |
 | [La Voz de Iemanya](https://open.spotify.com/track/4niTRWovfbM4093jChuCuu) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [La Voz de Iemanya](https://open.spotify.com/album/5kZeMUMDGm2b6rgBvCRpHN) | 3:37 | 2022-01-20 | 2022-07-29 |
 | [La Vuelta de Adán](https://open.spotify.com/track/61MJzxnWfquKkns6ImXYgh) | [Mirtha Defilpo](https://open.spotify.com/artist/5jN2wYqhUCltMC9RnxavSa), [Litto Nebbia](https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA) | [Canciones para Perdedores](https://open.spotify.com/album/4aKGpSwyYPNswB5InDZqvm) | 2:49 | 2022-01-20 | 2022-07-11 |
 | [Las Horas Se Destiñen](https://open.spotify.com/track/1ct4eypbDqzT2r3Xd78q04) | [Púrpura](https://open.spotify.com/artist/3htuTMjp7p0JS7sL8NhlXl) | [Púrpura](https://open.spotify.com/album/0LbklSYO5D9ECDjePxZfFd) | 3:39 | 2022-01-20 | 2022-07-22 |
@@ -170,6 +170,7 @@
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-01-20 |  |
 | [Noche](https://open.spotify.com/track/7FhOkVPspgjdVxFNIAtBag) | [Flor Gerson](https://open.spotify.com/artist/40q0uCjzcyKrvan9wU5Lph) | [Noche](https://open.spotify.com/album/6cNd46z6BQuoUKpThVciOv) | 2:48 | 2022-01-20 | 2022-07-29 |
 | [Noches de Ciudad](https://open.spotify.com/track/3Lot2xyothluxC26faCOSg) | [Carola](https://open.spotify.com/artist/1Ey58TlJpjrmq3ngRUOfGB) | [Damas Negras](https://open.spotify.com/album/6Lmr4hVy6PXQ1sBIm9qJMF) | 6:12 | 2022-01-20 | 2022-07-24 |
+| [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 | 2023-07-14 |  |
 | [Nubosidad Variable](https://open.spotify.com/track/2bIkvdwmFGpaskCWbtHgXP) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Ruta Hotel](https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi) | 2:28 | 2022-07-15 |  |
 | [Nubosidad Variable](https://open.spotify.com/track/4rQ3QbelEOeFM38QCbv0eL) | [Playa Nudista](https://open.spotify.com/artist/5z3Yr06HtJ5NUAp9wp7vn3) | [Ruta Hotel](https://open.spotify.com/album/5wxZQCsO3Lp0qJR5vIRccO) | 2:28 | 2022-01-20 | 2022-07-25 |
 | [Nunca Ire](https://open.spotify.com/track/3eKRJOQi1LIOLzmQAS2n8y) | [No Lo Soporto](https://open.spotify.com/artist/44CVweAvsyk98oKSSDa9IQ) | [Avion](https://open.spotify.com/album/6fJJ1cq1YxBRosMq1VpkiL) | 3:45 | 2022-01-20 | 2022-07-29 |
@@ -243,12 +244,12 @@
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-01-20 |  |
 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 | 2022-07-15 |  |
 | [Vamos Viendo](https://open.spotify.com/track/6BLNsWM0GsKNBYltVEIe0X) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Y Lo Dejamos Venir](https://open.spotify.com/album/3HSsECEEN0ufcFLw30nCap) | 3:48 | 2022-01-20 | 2022-08-07 |
-| [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 | 2022-01-20 |  |
+| [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 | 2022-01-20 | 2023-07-16 |
 | [Vente Conmigo](https://open.spotify.com/track/2QsSokIFxj0qkcmOkSQWxe) | [Árida](https://open.spotify.com/artist/5bmRDivRMo2IWCgKn65cpY) | [Días Salvajes](https://open.spotify.com/album/6XXJqtZ8totEVzz9g5quD3) | 3:16 | 2023-02-03 | 2023-03-18 |
 | [Vente Conmigo](https://open.spotify.com/track/4yoj0Vo01nBLb4OI73p3Ba) | [Árida](https://open.spotify.com/artist/5bmRDivRMo2IWCgKn65cpY) | [Días Salvajes](https://open.spotify.com/album/10Sor0ABQEhyfGXNjyt6ex) | 3:16 | 2022-01-20 | 2022-07-29 |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-01-20 | 2022-07-27 |
 | [Vocales](https://open.spotify.com/track/28rz2R3YZK7GlemdTM2w9V) | [HTML](https://open.spotify.com/artist/6fLgsNncx8b3vBlXqcCBM8) | [17](https://open.spotify.com/album/6Kb019ZtJLteoWccuKJfJb) | 2:36 | 2022-01-20 | 2022-09-17 |
-| [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 | 2022-01-20 |  |
+| [Volar despierto](https://open.spotify.com/track/7zMQOuTqy9Kzo6krB6neE9) | [Denise Romano](https://open.spotify.com/artist/2cHtJkqOlkQRN852cWpkxx) | [Volar despierto](https://open.spotify.com/album/3TM68qkX9UrcgTgldIv3AR) | 4:06 | 2022-01-20 | 2023-07-16 |
 | [Voy a Dejar Esta Casa Papá](https://open.spotify.com/track/7xkJSjT0eWkPNWJLJVCKel) | [Gabriela](https://open.spotify.com/artist/1Xh87BgBDuD8UpD6erCSBQ) | [Gabriela](https://open.spotify.com/album/0mMeA5hOx4NYHbh63RiPal) | 4:53 | 2022-01-20 | 2022-09-26 |
 | [Voy a Ponerme Bien](https://open.spotify.com/track/2ygIcGSO2bkGxN6aFMhNaV) | [Luciana Segovia](https://open.spotify.com/artist/1h0VgUZrsCsorbQQ7k8EQ5) | [Voy a Ponerme Bien](https://open.spotify.com/album/0lPUCCUNW4FXNSjkFWAxMH) | 2:56 | 2022-01-20 | 2022-07-29 |
 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 | 2022-01-20 | 2023-05-21 |

@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: new + viral Faye Webster.
 
-1,688 songs - 4 day 5 hr 22 min
+1,689 songs - 4 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Bad Love](https://open.spotify.com/track/3MEYOBGJlvDgG99hSKIDQH) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Bad Love](https://open.spotify.com/album/0lUqvNrhKRtU5OlPPcqXr0) | 2:30 | 2022-02-25 | 2022-07-29 |
 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 | 2022-09-02 | 2022-09-17 |
 | [Bad To Worse](https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Bad To Worse](https://open.spotify.com/album/6kKWqN15xZsA4TBNPW6Wb2) | 4:18 | 2019-05-26\* | 2019-08-13 |
-| [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-06-30 |  |
+| [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-06-30 | 2023-07-16 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2019-08-02 | 2020-05-15 |
 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 | 2019-05-31 | 2019-08-13 |
 | [Bags \- Recorded At Electric Lady Studios](https://open.spotify.com/track/3ISKxnCGKc5B9zr9CTUB3v) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 4:39 | 2023-06-02 |  |
@@ -843,6 +843,7 @@
 | [Lara \(feat\. Clairo\)](https://open.spotify.com/track/4hOIaf53AbFr6BwcaT12S1) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Lara \(feat\. Clairo\)](https://open.spotify.com/album/0aFwaHBnxbzeaHvaBVZr68) | 3:40 | 2020-01-10 | 2020-07-24 |
 | [Larabar](https://open.spotify.com/track/5wNVNjLNMX0jhefWFOqgT2) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Larabar](https://open.spotify.com/album/2HN00Up5QVROR1PGaqXEA4) | 2:55 | 2021-08-13 | 2022-04-03 |
 | [Lark](https://open.spotify.com/track/6IyPPX0nh83mzx4oZ9g7pB) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Lark](https://open.spotify.com/album/5SLUS8RN72mb0uak9ys6CU) | 6:18 | 2019-09-27 | 2019-11-09 |
+| [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-13 |  |
 | [Lately](https://open.spotify.com/track/2eozBltJ8YldbOryyWzSFc) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Lately](https://open.spotify.com/album/5jGDLc4GRBOwSW4RsFySNl) | 3:14 | 2019-06-29 | 2019-09-21 |
 | [Laurelhurst](https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Protect Our Winters](https://open.spotify.com/album/5xJLwTxrpzWtnocHOXbbF4) | 3:09 | 2021-04-05 | 2022-04-06 |
 | [Lava](https://open.spotify.com/track/5BoDFGTXZ8j5muc6Sb2jMz) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lava](https://open.spotify.com/album/3crucKpfRuUTGoQK8OunJ1) | 2:37 | 2019-05-26\* | 2019-10-25 |

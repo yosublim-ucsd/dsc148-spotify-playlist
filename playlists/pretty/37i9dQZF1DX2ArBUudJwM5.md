@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Julieta Laso.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,329 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,326 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 35 | [A Berisso](https://open.spotify.com/track/6iulOMwuf00k2yA4Hmw85h) | [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF), [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Salve](https://open.spotify.com/album/2QJdf3e2En6DGh99jd3ZlJ) | 3:18 |
 | 36 | [Che Kamba resa jajái](https://open.spotify.com/track/5bMx7A1xUxsZFI43hdMiDW) | [Flor Bobadilla Oliva](https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j), [María Fernanda Peralta](https://open.spotify.com/artist/3mhJB57GL5sFjCMGqxlZSV) | [Solita Mi Alma](https://open.spotify.com/album/1kdV4tPrdi5k9Vdxv3ZnyO) | 2:35 |
 | 37 | [Run Run Se Fue Pa'l Norte \- En Vivo](https://open.spotify.com/track/5DOwZZbuM3qLU4GzCPVXYn) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Antigüedades \(En Vivo\)](https://open.spotify.com/album/470JBBmJHQWNHuPMDENZ2B) | 5:03 |
-| 38 | [Marioneta](https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT) | [Noelia Moncada](https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC) | [Marioneta](https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz) | 3:56 |
-| 39 | [La negadora](https://open.spotify.com/track/03Ekc31yTXzIUXDLriI4UD) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Pablo Fraguela](https://open.spotify.com/artist/5xqQ8KPQ5qFXh1kJhnelT6) | [Mi ciudad y mi gente](https://open.spotify.com/album/2CHCaWAM3NDfXmY5JlAT1z) | 3:12 |
-| 40 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
+| 38 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
+| 39 | [Marioneta](https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT) | [Noelia Moncada](https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC) | [Marioneta](https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz) | 3:56 |
+| 40 | [La negadora](https://open.spotify.com/track/03Ekc31yTXzIUXDLriI4UD) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Pablo Fraguela](https://open.spotify.com/artist/5xqQ8KPQ5qFXh1kJhnelT6) | [Mi ciudad y mi gente](https://open.spotify.com/album/2CHCaWAM3NDfXmY5JlAT1z) | 3:12 |
 | 41 | [Por un Cariño](https://open.spotify.com/track/1iKrl9ukZCJK3T1FJow9Nt) | [Dolores Solá](https://open.spotify.com/artist/0cBV35Lf9cSK66peOaGhSV) | [Salto Mortal \(Canta a Gardel, Corsini y Magaldi\)](https://open.spotify.com/album/1Z2Uz1bTt09Y2HXSNY3Avb) | 4:16 |
 | 42 | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki) | [Gisela Magri](https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH), [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu) | 2:06 |
 | 43 | [La Prisionera](https://open.spotify.com/track/232PMMsYwfqDMNrKpezmdL) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Coraje](https://open.spotify.com/album/2tO7ZaLlQeCaPQQysrS3Wr) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Lo Han Visto Con Otra](https://open.spotify.com/track/5zzno7W9kmkmS4SCKkpTQ6) | [Eliana Sosa](https://open.spotify.com/artist/4NfyeRrxTA78Gcem9Md9mO) | [Sinergia Tanguera](https://open.spotify.com/album/5t4PNgNZXuIJHKzttaDUjG) | 3:59 |
 | 50 | [Se Muere de Amor](https://open.spotify.com/track/3J448k2V1yvKrL9wj40r1Z) | [Natalia Martinez](https://open.spotify.com/artist/3bp15d1mykEwAxzmnYtoyF), [El Palermo Trío](https://open.spotify.com/artist/78daqV2Z2YTNFL49Ssz2UF) | [Te Ha Dado una Cita el Tango](https://open.spotify.com/album/4yZ4ZV70jwnklcdoApDuAD) | 2:59 |
 
-Snapshot ID: `MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5`
+Snapshot ID: `MCwzMmE5NDYzOGVjYzQxN2MwMWY3Yjg2NjZhYWQwNWZjNWNkZmUwMTAy`

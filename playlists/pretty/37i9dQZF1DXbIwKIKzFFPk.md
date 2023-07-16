@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,018 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,161 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 4 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 |
 | 5 | [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 |
 | 6 | [Number One \- Bankai](https://open.spotify.com/track/1nThz7yEG2vbyI4UmInj5z) | [Shiro SAGISU](https://open.spotify.com/artist/1XlLGTvfKLH0eFSDGjrZUl), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [Number One \- Bankai](https://open.spotify.com/album/5Mw54lDeLc8jfflOUf5dKQ) | 4:36 |
-| 7 | [\*〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [\*〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 |
+| 7 | [＊〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [＊〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 |
 | 8 | [D\-tecnoLife](https://open.spotify.com/track/5Gd0Ge0KuIDF34HF0X2CYX) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [D\-tecnoLife](https://open.spotify.com/album/6ppa8cVg5a4GLPNJsyKBcr) | 3:53 |
 | 9 | [clavar la espada](https://open.spotify.com/track/4QRCdMTZegDH27rOUbOEFY) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 3:39 |
 | 10 | [一輪の花](https://open.spotify.com/track/1tlnwFt8rS8OgRl30xgUs3) | [HIGH and MIGHTY COLOR](https://open.spotify.com/artist/68vPeaQOlnY1aA3iBKCEpG) | [一輪の花](https://open.spotify.com/album/6aE2khy34s9yZo4kSGcZ0C) | 3:42 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 81 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 |
 | 82 | [La distancia para un duelo](https://open.spotify.com/track/3c391J2d1gnfL0qbjqbPA6) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:57 |
 
-Snapshot ID: `MCwwMzVjYzgyYjliMWJkYzNmMGE5MDEyODMyYTZlM2Y5YmQyZDI5M2Mz`
+Snapshot ID: `MCwzNjk2YTc0ZjY2YTU5ODNkODllM2IwMzAyYzc0NTNjNDUwMWZiNjQ0`

@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-182 songs - 10 hr 10 min
+183 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [These Walls](https://open.spotify.com/track/4Q1LDkmAOY2bs4U9A4jCOT) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/1IgdpQxKTlJur7hcQoR4Pu) | 3:13 | 2021-04-19 | 2022-09-10 |
 | [These Walls](https://open.spotify.com/track/4STGoSPoTjY7ia71t3XdOS) | [Carly Rogers](https://open.spotify.com/artist/2Wp8J5K9ohY4IY00dIpDtr) | [These Walls](https://open.spotify.com/album/5YsYLuzSXAmzuwLaDpEmp8) | 3:13 | 2021-04-19 |  |
 | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/track/3ZNl15kE12wwsqSainoMpy) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Things You Hate, Things I Love \(Acoustic\)](https://open.spotify.com/album/5gbEV03eIWJTb3gjIwDjpX) | 3:26 | 2021-04-19 |  |
-| [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 | 2021-12-03 |  |
+| [This Feeling](https://open.spotify.com/track/6qpVj3AuwobyWyDdg7TPay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 4:28 | 2021-12-03 | 2023-07-16 |
+| [This Feeling](https://open.spotify.com/track/7xM33k6Z3ADF8pEmIClcnz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:28 | 2021-12-03 |  |
 | [Til the River Takes Us Home](https://open.spotify.com/track/3EiIk1CUYBxFhDo2c38Elp) | [Sam Teskey](https://open.spotify.com/artist/5tXk98OKpmBXhjUkBsQxfZ) | [Til the River Takes Us Home](https://open.spotify.com/album/3fDaftBNXBv1wNCGUmi7Ms) | 4:21 | 2021-08-27 | 2022-08-13 |
 | [Time](https://open.spotify.com/track/34ncyljvlMvfj2yJDhPaJf) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [West on I\-10](https://open.spotify.com/album/2Xz0fS1DBBIjLRVkImPFD0) | 3:26 | 2023-04-28 |  |
 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 | 2021-04-19 | 2022-04-29 |

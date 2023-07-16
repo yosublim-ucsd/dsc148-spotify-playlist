@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 184967,
+  "num_followers": 185078,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MWE0NjgwOGJmMzY1YWZiZjNlZDQyMTNmMDE1OWM1NTdkNmI3MWQ5",
+  "snapshot_id": "MCw3MDcyM2VkNWUyMDdiZDMwNDZhN2E0NTk2MzVjMWNiOTRkNDI3MzBi",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Wired",
+        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 354053,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Hard-Wired",
         "url": "https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS"
       },
@@ -425,20 +441,44 @@
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Wired",
-        "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
+        "name": "Walk Cycle",
+        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
       },
       "artists": [
         {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
         }
       ],
-      "duration_ms": 354053,
-      "name": "Blue Wind",
-      "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
+      "duration_ms": 192013,
+      "name": "Walk Cycle",
+      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Chapter One: Shredemption",
+        "url": "https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L"
+      },
+      "artists": [
+        {
+          "name": "Owane",
+          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
+        },
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Henrik Linder",
+          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "U.T.F.F.",
+      "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -471,46 +511,6 @@
       "duration_ms": 424973,
       "name": "Face First",
       "url": "https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Chapter One: Shredemption",
-        "url": "https://open.spotify.com/album/66Rn3zHmg4iwYamxDZLn0L"
-      },
-      "artists": [
-        {
-          "name": "Owane",
-          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
-        },
-        {
-          "name": "Jack Gardiner",
-          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
-        },
-        {
-          "name": "Henrik Linder",
-          "url": "https://open.spotify.com/artist/7Eqq4gzUQVtj00rPPs99yt"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "U.T.F.F.",
-      "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Walk Cycle",
-        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Walk Cycle",
-      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
       "added_at": "2021-05-07 04:01:00",
       "album": {
         "name": "One More !!?!??",
@@ -855,6 +839,22 @@
       "duration_ms": 248174,
       "name": "One More !!?!??",
       "url": "https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
+      },
+      "artists": [
+        {
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -977,6 +977,22 @@
       "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Visions of the Emerald Beyond",
+        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
+      },
+      "artists": [
+        {
+          "name": "Mahavishnu Orchestra",
+          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+    },
+    {
       "added_at": "2023-01-13 05:01:00",
       "album": {
         "name": "VHS Fireplace Love (Live)",
@@ -999,22 +1015,6 @@
       "duration_ms": 164000,
       "name": "VHS Fireplace Love - Live",
       "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Visions of the Emerald Beyond",
-        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
-      },
-      "artists": [
-        {
-          "name": "Mahavishnu Orchestra",
-          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1261,20 +1261,20 @@
       "url": "https://open.spotify.com/track/3wJ6ua41tikVX68v07Y11V"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
+      "added_at": "2022-05-20 04:02:00",
       "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
       },
       "artists": [
         {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-04-09 04:01:00",
@@ -1293,20 +1293,20 @@
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
+      "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/0SxjpfNg8pDyOEerHOa9uC"
       },
       "artists": [
         {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
+      "duration_ms": 169000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
       "added_at": "2021-07-23 04:01:00",

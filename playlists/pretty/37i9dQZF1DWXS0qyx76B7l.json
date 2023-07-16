@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple!",
-  "num_followers": 118470,
+  "num_followers": 118589,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDVjZmY5ZjBhMmVlZWRlOWMyN2UwNWU2ODk5OWEwZDI0YmFkYTRi",
+  "snapshot_id": "MCxmODI5YTdhN2RiNmE1ZjM3NWEzMmNlMjA3ZWYzZWY3MGE2MzkzMWU4",
   "tracks": [
     {
       "added_at": "2022-01-24 23:45:18",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-01-24 23:45:18",
       "album": {
-        "name": "Rain Dogs",
-        "url": "https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Downtown Train",
-      "url": "https://open.spotify.com/track/3fPqUl4lPDUQmY0T7dKUv2"
-    },
-    {
-      "added_at": "2022-01-24 23:45:18",
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -831,6 +815,26 @@
       "duration_ms": 347866,
       "name": "City Of Blinding Lights",
       "url": "https://open.spotify.com/track/4ao9bdN6ozxdlQ9j2rGDFy"
+    },
+    {
+      "added_at": "2022-01-24 23:45:18",
+      "album": {
+        "name": "Still New York (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/35qwUQ9VvCwVgwPT7QM7yt"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Still New York (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/6EIAHyD9gIDnz2hvEynZJz"
     }
   ],
   "unique_name": "I Love NYC",

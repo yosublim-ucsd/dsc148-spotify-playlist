@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2FkNzgxNzgyMjhiYzNkZDdkMmFiYmExMTc2NjliNjU1Njk4M2Iz",
+  "snapshot_id": "MCxkZTRjMjEyNmY0MTI0NWFlNjcwMzNjNTc1MGQ3NmQzN2E1ZjhmNmFl",
   "tracks": [
     {
       "added_at": "2023-07-04 22:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Das Ende",
-        "url": "https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "Das Ende",
-      "url": "https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 237096,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Das Ende",
+        "url": "https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "Das Ende",
+      "url": "https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Wiederg\u00e4nger",
-        "url": "https://open.spotify.com/album/6UvBPfOVwfFS9Sp6L4AG7n"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 185513,
-      "name": "Wiederg\u00e4nger",
-      "url": "https://open.spotify.com/track/09eA2tcRXjPNA4ZcA0IGNu"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Flasche und Zeit",
         "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Nie nach Paris",
-        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
+        "name": "Wiederg\u00e4nger",
+        "url": "https://open.spotify.com/album/6UvBPfOVwfFS9Sp6L4AG7n"
       },
       "artists": [
         {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
         }
       ],
-      "duration_ms": 208093,
-      "name": "Nie nach Paris",
-      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
+      "duration_ms": 185513,
+      "name": "Wiederg\u00e4nger",
+      "url": "https://open.spotify.com/track/09eA2tcRXjPNA4ZcA0IGNu"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA"
+        "name": "Nie nach Paris",
+        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
       },
       "artists": [
         {
-          "name": "KUOKO",
-          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
         }
       ],
-      "duration_ms": 224270,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
+      "duration_ms": 208093,
+      "name": "Nie nach Paris",
+      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -475,6 +459,22 @@
       "duration_ms": 144346,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4GrfHweLpo4HeBrWDjvYTw"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/15FzltfVg1eFjGvSVNLUOA"
+      },
+      "artists": [
+        {
+          "name": "KUOKO",
+          "url": "https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK"
+        }
+      ],
+      "duration_ms": 224270,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
     },
     {
       "added_at": "2023-07-04 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5847,
+  "num_followers": 5851,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2RlNzgxNjBlNWQ5NTVkNmI4NzQzNzdiZDIzNjNlMzk1NGQxYzY2",
+  "snapshot_id": "MCw4ZjYyYTU4MzllZDk1YTdhZGRiNThmNzViZmY3ZTNmNDFmODY5ZmY4",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Every Chance I Get (I Want You In The Flesh)",
+        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 248004,
+      "name": "Every Chance I Get (I Want You In The Flesh)",
+      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "What Goes Around (Comes Around)",
         "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
       },
@@ -211,6 +227,42 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Well, I Done Got Over It",
+        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Well, I Done Got Over It",
+      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Death Wish Blues",
+        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 261064,
+      "name": "Rippin' And Runnin'",
+      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Bring Me Back Home Again",
         "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
       },
@@ -239,26 +291,6 @@
       "duration_ms": 247319,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Death Wish Blues",
-        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 261064,
-      "name": "Rippin' And Runnin'",
-      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -395,22 +427,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Every Chance I Get (I Want You In The Flesh)",
-        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 248004,
-      "name": "Every Chance I Get (I Want You In The Flesh)",
-      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Guadalupe Plata 2023",
         "url": "https://open.spotify.com/album/6fm7ecLkZwlyONwqPQe5CR"
       },
@@ -443,6 +459,38 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "She Moved On",
+        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
+      },
+      "artists": [
+        {
+          "name": "McKinley James",
+          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
+        }
+      ],
+      "duration_ms": 167275,
+      "name": "She Moved On",
+      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Devil Claims His Prize",
+        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 162176,
+      "name": "Devil Claims His Prize",
+      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -459,22 +507,6 @@
       "duration_ms": 214500,
       "name": "Gotta Bleed - Remix",
       "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "She Moved On",
-        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
-      },
-      "artists": [
-        {
-          "name": "McKinley James",
-          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
-        }
-      ],
-      "duration_ms": 167275,
-      "name": "She Moved On",
-      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -607,22 +639,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Guitar Kingdom",
-        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
-      },
-      "artists": [
-        {
-          "name": "Dudley Taft",
-          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "The Great Beyond",
-      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Buffalo Road",
         "url": "https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD"
       },
@@ -639,6 +655,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Guitar Kingdom",
+        "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
+      },
+      "artists": [
+        {
+          "name": "Dudley Taft",
+          "url": "https://open.spotify.com/artist/0WipTVRit8iEdvcgYS5pqJ"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "The Great Beyond",
+      "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Jam With Me",
         "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
       },
@@ -651,6 +683,22 @@
       "duration_ms": 201233,
       "name": "Jam With Me",
       "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Last Train To Nowhere",
+        "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Last Train To Nowhere",
+      "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -763,22 +811,6 @@
       "duration_ms": 197800,
       "name": "So Free",
       "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Devil Claims His Prize",
-        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 162176,
-      "name": "Devil Claims His Prize",
-      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -943,22 +975,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Well, I Done Got Over It",
-        "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Well, I Done Got Over It",
-      "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Cassanova Kirk Daniel",
         "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 204862,
       "name": "Make It Easy",
       "url": "https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Last Train To Nowhere",
-        "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Last Train To Nowhere",
-      "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
     }
   ],
   "unique_name": "Blues BBQ",

@@ -10,7 +10,6 @@
 |---|---|---|---|---|---|
 | ["4BLM\_101\_Chokkaku"](https://open.spotify.com/track/7EPpxuf35P66PG5OanwvnR) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 4:05 | 2022-10-06 |  |
 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 | 2022-10-06 |  |
-| [\*〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [\*〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 | 2022-10-06 |  |
 | [a requiem](https://open.spotify.com/track/2XoM32LdvrywWh3ORT48Fz) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 2](https://open.spotify.com/album/7mBXCZN24RI8iWDkpWooag) | 2:27 | 2022-10-06 |  |
 | [ALONES](https://open.spotify.com/track/0iy10nabE2s3PtReQqCGrY) | [Aqua Timez](https://open.spotify.com/artist/2XhA8BOHxO5NwbY6q3W8mD) | [ALONES](https://open.spotify.com/album/5naYuVLG3O0pRkknlgJ8zu) | 4:21 | 2022-10-06 |  |
 | [Always be with me in mind](https://open.spotify.com/track/1LHCYacwsOlAvYXagFZ4oZ) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH MEMORIES OF NOBODY Original Soundtrack](https://open.spotify.com/album/1MmE3q7RvR68CPYb5hdNrf) | 4:17 | 2022-10-06 | 2022-12-14 |
@@ -103,5 +102,6 @@
 | [橙](https://open.spotify.com/track/6OWJHb4xcFoDtsIPn7eUXi) | [Chatmonchy](https://open.spotify.com/artist/0GtBUVp1cWdIUKwm2GHTHc) | [橙](https://open.spotify.com/album/10HOtqMUc3B8o8p0XBgluc) | 3:22 | 2022-10-06 |  |
 | [爪先](https://open.spotify.com/track/3UYMGyBW0HUK6Hsik5Ytci) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 3:55 | 2022-10-06 |  |
 | [種をまく日々](https://open.spotify.com/track/7bcoRv64q9scHXBpwnXw7j) | [Kousuke Atari](https://open.spotify.com/artist/7b8ldacdKpE3AtFaXQu1AG) | [種をまく日々](https://open.spotify.com/album/1KPH9Dyo72FqqHuBaJqa4o) | 5:37 | 2022-10-06 |  |
+| [＊〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [＊〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 | 2022-10-06 |  |
 
 \*This playlist was first scraped on 2022-10-07. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2001,
+  "num_followers": 2013,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl",
+  "snapshot_id": "MCxhYzgxOWQ1NjFmODRhYTM1MjIwNmFiYmIzMzU3NTZkOGNmNjY5YzE3",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "El Doctor Guenaga",
-      "url": "https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 191893,
       "name": "Mam\u00e1, cu\u00eddame a Bel\u00e9n",
       "url": "https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "El Doctor Guenaga",
+      "url": "https://open.spotify.com/track/134ufBK1yvRCdB11UoRshb"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Tambuy\u00e9",
-        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
-      },
-      "artists": [
-        {
-          "name": "Tambuy\u00e9",
-          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
-        }
-      ],
-      "duration_ms": 365600,
-      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
-      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Para Todos Ustedes",
         "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 454466,
       "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
       "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tambuy\u00e9",
+        "url": "https://open.spotify.com/album/03A69ygGXUvEGLG9CGXVhl"
+      },
+      "artists": [
+        {
+          "name": "Tambuy\u00e9",
+          "url": "https://open.spotify.com/artist/6JzYUwgLsB8jSMkEmppfD8"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "La Llevo en Mis Venas / Bambul\u00e9 a Par\u00e9 / Dios M\u00edo Si Yo Pudiera / Consu\u00e9lala",
+      "url": "https://open.spotify.com/track/6t0d5BtbxBclK1ANd6Dm7K"
     },
     {
       "added_at": "2023-06-13 22:15:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,179 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,207 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 58 | [Devil's Right Hand](https://open.spotify.com/track/3NGzaY9pJjoMvP4gnnajGF) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 2:32 |
 | 59 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/7hlA8gMMz6jSp91Twsnuv3) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:56 |
 | 60 | [Wolf Like Me ft\. Shovels & Rope](https://open.spotify.com/track/3AZXq6ty10UPcTspnzHAGo) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Plays Well With Others](https://open.spotify.com/album/4aHyH0AmCxSsB0ZYKIEcuk) | 4:05 |
-| 61 | [Murder In The Red Barn](https://open.spotify.com/track/0tMVpNYTOcPulIXocDQF7i) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine](https://open.spotify.com/album/5blxyZRgkA735vO40p56MA) | 4:28 |
+| 61 | [Murder In The Red Barn \- 2023 Remaster](https://open.spotify.com/track/1UTCs77ZxgIG0qSX02JzxL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine \(2023 Remaster\)](https://open.spotify.com/album/4VNqy9FUAFCvwE6XqrtlOn) | 4:28 |
 | 62 | [Conversation with Death \(Oh Death\)](https://open.spotify.com/track/6Ya0Vj9JDA2mbpgtMC3bC3) | [Berzilla Wallin](https://open.spotify.com/artist/3tmBpG92uC0VKclngc09Am) | [Classic Mountain Songs from Smithsonian Folkways](https://open.spotify.com/album/6HLh4vFfWhpJZtQUHKJVpC) | 5:07 |
 | 63 | [The Yawning Grave](https://open.spotify.com/track/4P21W3eMiIVS9ON4ctlxnb) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:12 |
 | 64 | [Wendell Walker](https://open.spotify.com/track/5NpiojbPGLVmxiszru8FcX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Bearer of Bad News](https://open.spotify.com/album/1bKpcuXtsV2l6ybVUJMRAl) | 8:23 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 69 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 70 | [Bad Magic](https://open.spotify.com/track/7mSVXtwJgJSZ84cJSGleQX) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/3EquxHnYp0P86vS259xd0h) | 5:54 |
 
-Snapshot ID: `MCwwOWUyNWJiMDM2NDUxODVmZTQwZDQ5YTJkOWViZTYxMjA1YjA0N2Yy`
+Snapshot ID: `MCw5MTExYmM0ZmYzOTMzM2ZiODE3YzU0ZTYwYjZhYzU3MzU0NTFlNDJk`

@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 98398,
+  "num_followers": 98576,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzNlMjA2ODMxZTBhMTkxNmE2MjY2YTc1NjZlYmIzNTU2ZTc5NmNh",
+  "snapshot_id": "MCxjZDI1MDUxYzIyOWNhMDM1MTFjMjFhNmI1ODU2ZTVhMzM2M2NhYmFm",
   "tracks": [
     {
       "added_at": "2023-07-12 10:52:00",
@@ -35,6 +35,26 @@
       "duration_ms": 282500,
       "name": "Aradhya (From \"Kushi\")",
       "url": "https://open.spotify.com/track/43iLKMSX7iSgniaoMJLgUK"
+    },
+    {
+      "added_at": "2023-07-15 09:51:46",
+      "album": {
+        "name": "Jaanavule (From \"BRO\")",
+        "url": "https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "K. Pranati",
+          "url": "https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP"
+        }
+      ],
+      "duration_ms": 224477,
+      "name": "Jaanavule (From \"BRO\")",
+      "url": "https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik"
     },
     {
       "added_at": "2023-07-03 06:36:52",
@@ -156,21 +176,25 @@
       "added_at": "2023-07-14 06:02:32",
       "album": {
         "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
-        "url": "https://open.spotify.com/album/0lkqRIZH4mHJFRq1Hwrmkr"
+        "url": "https://open.spotify.com/album/0VmrK1eNQwO7hHzyZL6wWy"
       },
       "artists": [
+        {
+          "name": "Siddharth Menon",
+          "url": "https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN"
+        },
         {
           "name": "Shekar Chandra",
           "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
         },
         {
-          "name": "Siddharth Menon",
-          "url": "https://open.spotify.com/artist/78dcdLEpfdRBDxgwIfOlvN"
+          "name": "Nikesh Kumar Dasagrandhi",
+          "url": "https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd"
         }
       ],
       "duration_ms": 257075,
       "name": "Nee Kanulalo (From \"Asuragana Rudra\")",
-      "url": "https://open.spotify.com/track/3jUp9JvUCZKmaUNwChcxWC"
+      "url": "https://open.spotify.com/track/3K0XeAkD6chdjEJ51Ap83x"
     },
     {
       "added_at": "2023-05-09 06:55:53",
@@ -987,26 +1011,6 @@
       "duration_ms": 178363,
       "name": "Sridevi Chiranjeevi (From \"Waltair Veerayya\")",
       "url": "https://open.spotify.com/track/417fjHB7tqIaovwPvWskHX"
-    },
-    {
-      "added_at": "2023-02-15 08:24:07",
-      "album": {
-        "name": "Ohho Puththadi Bommaa (From \"Thika Maka Thanda\")",
-        "url": "https://open.spotify.com/album/5pwCOUhBYxI51FnT8QJtMf"
-      },
-      "artists": [
-        {
-          "name": "Suresh Bobbili",
-          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Ohho Puththadi Bommaa (From \"Thika Maka Thanda\")",
-      "url": "https://open.spotify.com/track/7sJuKLiNYnFY9jW8OoMScp"
     },
     {
       "added_at": "2023-01-19 14:38:53",

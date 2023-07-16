@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Friday\*\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,604 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,615 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 46 | [BAD DISCO](https://open.spotify.com/track/5bYouwYpoKHOaEGPMXupQO) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [BAD DISCO](https://open.spotify.com/album/2WxIzjogt9s2eDUJTRMOjO) | 2:01 |
 | 47 | [Hand in Hand](https://open.spotify.com/track/30xEhFt70FYFh2EpSYLEfU) | [Office Dog](https://open.spotify.com/artist/1Jcg0RFzOa8f1VwmdWNEr5) | [Hand in Hand](https://open.spotify.com/album/5kMHsi6DO18mTVkHfqTe5o) | 2:59 |
 | 48 | [She's Warm 2](https://open.spotify.com/track/45PrO2dgxDti0EfYAbZu6v) | [The Knews](https://open.spotify.com/artist/5uflcAEhiHsxg1HujIGKbv) | [She's Warm 2](https://open.spotify.com/album/3SMqEjn6LKAd4NXsUMja7F) | 3:41 |
-| 49 | [Morocco](https://open.spotify.com/track/5kUamKIFu7LoTihkC0WEkE) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [Swimgood](https://open.spotify.com/artist/24xfAzbGptMhkrHlYS8xsN) | [Morocco](https://open.spotify.com/album/5kOApewWeRoHcuYXP4mBKP) | 2:17 |
+| 49 | [Morocco](https://open.spotify.com/track/5kUamKIFu7LoTihkC0WEkE) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb), [SwimGood](https://open.spotify.com/artist/3dAiSwn0xbIP4Ok1L2fgKZ) | [Morocco](https://open.spotify.com/album/5kOApewWeRoHcuYXP4mBKP) | 2:17 |
 | 50 | [What If My Body Could Love Like You](https://open.spotify.com/track/3XTPdGlyfI0x4SO2Vxb1C5) | [Lisa Caruso](https://open.spotify.com/artist/36HJno2GZYrC3jPO8ACz6T) | [What If My Body Could Love Like You](https://open.spotify.com/album/5LVIKy3etAe9oXNNVAeNIq) | 3:47 |
 | 51 | [Cocopops](https://open.spotify.com/track/0tVvrV3Nzb8gqPT2UrhmCh) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [Cocopops](https://open.spotify.com/album/77xbY0sN7ugzybMfQsb21I) | 2:31 |
 | 52 | [Sight Beyond Sight](https://open.spotify.com/track/2etakEYwanc1czXQbx8V6j) | [Nelson Dialect](https://open.spotify.com/artist/0ciHGUC86265ZD8uPVEs4N), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [Mr Slipz](https://open.spotify.com/artist/0f41KWC8A6b93s0n90uNjn) | [Sight Beyond Sight](https://open.spotify.com/album/6KXQkTkH1ImNw7t3u4O8Rn) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 |
 | 100 | [Way2On](https://open.spotify.com/track/0aKdbwU0YE4q8P25kITiG6) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Way2On](https://open.spotify.com/album/5jQsohFIoNwCFjGfyMtrke) | 2:54 |
 
-Snapshot ID: `MCxlYWVjNmU3NjQ0OThmMmQwNzY4OGNkYmZhOTJlMTVlMjUzODczMjJl`
+Snapshot ID: `MCxiMDEzZDNjMzk0ZmQ4M2U0MzZkZmNhZTcwYzk3MDZkYjZlYjI5ZTU3`

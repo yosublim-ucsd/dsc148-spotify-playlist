@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: TOMORROW × TOGETHER, Jonas Brothers\(ジョナス・ブラザーズ\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,882 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,895 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 |
 | 100 | [Summer Tune](https://open.spotify.com/track/4oWNr6iIQgwG9yhLquOyUU) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Work\-life Island](https://open.spotify.com/album/7idGTwDPcl1mh9oCnVC42d) | 5:05 |
 
-Snapshot ID: `MCxmMzZlZjEzYWM5NDA2YzQwNWJmMTQ5MDkzMTU2YWJjNDYyY2JhNzc5`
+Snapshot ID: `MCxkMmUwNGY1MGQwMjdkZDdmYWRmMWQ2MjM4Y2IzMjFiZWY5OWUzYTFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,278 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,286 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 36 | [To the River](https://open.spotify.com/track/6RObl56H8PxTiLAn16VCdK) | [ALA.NI](https://open.spotify.com/artist/3BCNtA8XR8vzu0uTMdMJrF) | [You & I](https://open.spotify.com/album/7uSbBFPjRdHap3xlxiroxS) | 2:39 |
 | 37 | [New Colossus](https://open.spotify.com/track/462nbWwasi5npUIeT79CIx) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Grenades](https://open.spotify.com/album/6Nqb3BPmH4xpzjqJs14W8a) | 4:26 |
 | 38 | [Mind on Fire](https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:14 |
-| 39 | [Future People](https://open.spotify.com/track/7uuoh2lEaGcbNpbKCvzawf) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:21 |
+| 39 | [Future People](https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:21 |
 | 40 | [You Don't Own Me](https://open.spotify.com/track/1Bd7sGbg1JgKtvpmjy0WZk) | [Resistance Revival Chorus](https://open.spotify.com/artist/5GAZngXqtUrssaaExOGeT1) | [You Don't Own Me](https://open.spotify.com/album/5MD7r2LyPgi3orFYqshI6K) | 2:07 |
 | 41 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
 | 42 | [If All I Was Was Black](https://open.spotify.com/track/3urjT4HEkfpPGJWGPf8cB9) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [If All I Was Was Black](https://open.spotify.com/album/7lyJLRjQk2dC16AiMQyyUf) | 3:55 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MCwwODgyNTBjNWM0ODdmMmIyMTZhMzlkOTg4M2ZkZDNkNTlkYjg2Y2Q2`
+Snapshot ID: `MCxhZTJjMzRkNTJhNmExNjA3MTU1YzA3MmZhN2RjNGFiYmUyOGVlNzk4`

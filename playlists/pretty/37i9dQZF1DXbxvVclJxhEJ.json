@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 36797,
+  "num_followers": 36839,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQ2NWYxYzg4ZTI1NGY5YTJlMzFhNDQ2YjE1YjY3YWZiMDkxMDRh",
+  "snapshot_id": "MCw3ZGNiMjRkN2MzMzFmNjhhMDMwYjNiMDc1OGJlNzk3ZjA1ZmY3MWQ5",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -199,18 +199,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Ma Rainey",
-        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
       "artists": [
         {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
         }
       ],
-      "duration_ms": 146226,
-      "name": "Runaway Blues",
-      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+        "name": "Ma Rainey",
+        "url": "https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j"
       },
       "artists": [
         {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
         }
       ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+      "duration_ms": 146226,
+      "name": "Runaway Blues",
+      "url": "https://open.spotify.com/track/7KZ6eGK7OuLXUzTVGdc7cL"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Those Dirty Blues, Vol. 2",
-        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
-      },
-      "artists": [
-        {
-          "name": "Hattie North & Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Honey Dripper Blues",
-      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Boogie Woogie Gals",
         "url": "https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 155813,
       "name": "Boogie'n My Woogie",
       "url": "https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Those Dirty Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
+      },
+      "artists": [
+        {
+          "name": "Hattie North & Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Honey Dripper Blues",
+      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Presenting Mamie Smith",
-        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Crazy Blues (Alternate Take)",
-      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
         "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 179644,
       "name": "New That Ain't Right",
       "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Presenting Mamie Smith",
+        "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Crazy Blues (Alternate Take)",
+      "url": "https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Stationary Mama",
-        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
-      },
-      "artists": [
-        {
-          "name": "Edith Wilson",
-          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "How Come You Do Me Like You Do?",
-      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 179133,
       "name": "Tight in Chicago",
       "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Stationary Mama",
+        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
+      },
+      "artists": [
+        {
+          "name": "Edith Wilson",
+          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "How Come You Do Me Like You Do?",
+      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Fujiyama Mama",
-        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
-      },
-      "artists": [
-        {
-          "name": "Annisteen Allen",
-          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "The Bluest Blues",
-      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Classics by Lucky Millinder Orchestra",
         "url": "https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 148062,
       "name": "There's Good Blues Tonight",
       "url": "https://open.spotify.com/track/1VqlaUqWBQQPbiU3IKOlN5"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Fujiyama Mama",
+        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
+      },
+      "artists": [
+        {
+          "name": "Annisteen Allen",
+          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "The Bluest Blues",
+      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
     },
     {
       "added_at": "2023-03-03 18:11:20",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Presenting Sippie Wallace",
-        "url": "https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR"
+        "name": "Powerhouse Gospel",
+        "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
       },
       "artists": [
         {
-          "name": "Sippie Wallace",
-          "url": "https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR"
+          "name": "The Soul Satisfiers Of Philadelphia",
+          "url": "https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL"
         }
       ],
-      "duration_ms": 197893,
-      "name": "A Jealous Woman Like Me",
-      "url": "https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z"
+      "duration_ms": 156279,
+      "name": "I'm His And He's Mine",
+      "url": "https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB"
     }
   ],
   "unique_name": "Queens of the Blues",

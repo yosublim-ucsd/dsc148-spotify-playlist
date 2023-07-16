@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 518442,
+  "num_followers": 518692,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmFiM2NkNDJiYTgwZWRiNTZmYTU4YzM0YjAyYTIxM2JkZTM3MWE3",
+  "snapshot_id": "MCw0YjAyZjM5NTE1M2JiOTQwMjVlZTRjNmNmNmVjZmM5Y2VjMWZlOGQy",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Master of Reality (2014 Remaster)",
-        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 304787,
-      "name": "Sweet Leaf - 2014 Remaster",
-      "url": "https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Them Crooked Vultures",
         "url": "https://open.spotify.com/album/0Z6IBizcq7DLXpenjSHqF3"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 310376,
       "name": "No One Loves Me and Neither Do I",
       "url": "https://open.spotify.com/track/4Mxef2s34ecbB6UtSdSf9E"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Master of Reality (2014 Remaster)",
+        "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 304787,
+      "name": "Sweet Leaf - 2014 Remaster",
+      "url": "https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Tame Impala",
-        "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266920,
-      "name": "Half Full Glass Of Wine",
-      "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Blast Tyrant (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7oyuh0TWCDf6rbsG4Elsi8"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 325026,
       "name": "The Regulator",
       "url": "https://open.spotify.com/track/0ni8h8HAJNFwuL9cMWR9XN"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Tame Impala",
+        "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266920,
+      "name": "Half Full Glass Of Wine",
+      "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
       "artists": [
         {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
         }
       ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+      "duration_ms": 196853,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
-      },
-      "artists": [
-        {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 252693,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
+      },
+      "artists": [
+        {
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
-      },
-      "artists": [
-        {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
-        }
-      ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Love Like Machines",
         "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Elephant Tree",
-        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
       },
       "artists": [
         {
-          "name": "Elephant Tree",
-          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
         }
       ],
-      "duration_ms": 367879,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -919,6 +903,22 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Elephant Tree",
+        "url": "https://open.spotify.com/album/5ZMHeQOKOIC9z5GrqtWbBt"
+      },
+      "artists": [
+        {
+          "name": "Elephant Tree",
+          "url": "https://open.spotify.com/artist/79z0Z8E5uY2Fc7HO4VGerm"
+        }
+      ],
+      "duration_ms": 367879,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1GfHQDtIduaP66nrjb2leG"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Burning Village",
-        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
-      },
-      "artists": [
-        {
-          "name": "Mountain Witch",
-          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
-        }
-      ],
-      "duration_ms": 282217,
-      "name": "The Dead Won't Sleep",
-      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Tempel",
         "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 526293,
       "name": "Aquamaria",
       "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
+      },
+      "artists": [
+        {
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+        }
+      ],
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Head Smashed In",
         "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 290949,
       "name": "Heavy Low",
       "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "A Drug Problem That Never Existed",
         "url": "https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 155066,
       "name": "So High, So Low",
       "url": "https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "CVI",
-        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
-      },
-      "artists": [
-        {
-          "name": "Royal Thunder",
-          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
-        }
-      ],
-      "duration_ms": 417720,
-      "name": "Parsonz Curse",
-      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
+        "name": "CVI",
+        "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
       },
       "artists": [
         {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+          "name": "Royal Thunder",
+          "url": "https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q"
         }
       ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
+      "duration_ms": 417720,
+      "name": "Parsonz Curse",
+      "url": "https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az"
     },
     {
       "added_at": "2023-07-14 04:01:00",

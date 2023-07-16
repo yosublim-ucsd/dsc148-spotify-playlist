@@ -1,13 +1,33 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 23853,
+  "num_followers": 23898,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGY2YTBmNTMzMjMzMjE4ZDJkMmE1MTA3YWJkM2FjM2I5YzdjMmEy",
+  "snapshot_id": "MCw5ZDhhMzliNGZhZDczODkxMzEzZDU5NzBlZDBiODMxYmU3ODc4OWJk",
   "tracks": [
+    {
+      "added_at": "2023-07-07 15:53:22",
+      "album": {
+        "name": "INVITATION (Feat. Gaeko)",
+        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "INVITATION (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
+    },
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
@@ -39,26 +59,6 @@
       "duration_ms": 201510,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
-    },
-    {
-      "added_at": "2023-07-07 15:53:22",
-      "album": {
-        "name": "INVITATION (Feat. Gaeko)",
-        "url": "https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "INVITATION (Feat. Gaeko)",
-      "url": "https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK"
     },
     {
       "added_at": "2023-07-07 15:53:22",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
-      },
-      "artists": [
-        {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
-    },
-    {
-      "added_at": "2023-07-07 15:53:22",
-      "album": {
         "name": "FRAME",
         "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 184280,
       "name": "Dive Into",
       "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+    },
+    {
+      "added_at": "2023-07-07 15:53:22",
+      "album": {
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2023-07-07 15:53:22",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
-        "name": "SET",
-        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Rebound",
-      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
-    },
-    {
-      "added_at": "2023-07-07 15:53:22",
-      "album": {
         "name": "FALL IN LUST",
         "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 199026,
       "name": "FALL IN LUST",
       "url": "https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE"
+    },
+    {
+      "added_at": "2023-07-07 15:53:22",
+      "album": {
+        "name": "SET",
+        "url": "https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
     },
     {
       "added_at": "2023-07-07 15:53:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-07 15:53:22",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Kurkdjian",
-      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
-    },
-    {
-      "added_at": "2023-07-07 15:53:22",
-      "album": {
         "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
         "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 176997,
       "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
       "url": "https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z"
+    },
+    {
+      "added_at": "2023-07-07 15:53:22",
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
       "added_at": "2023-07-07 15:53:22",

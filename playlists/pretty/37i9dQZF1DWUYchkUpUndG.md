@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=3E8PqnRfQVuofi4ElYPgYg">Marizu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,065 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,205 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [My Lover](https://open.spotify.com/track/0m0zQyM823lkGBmaPJGr0t) | [Elem C](https://open.spotify.com/artist/6kvQxADMdvRXh2M44dKNbd) | [My Lover](https://open.spotify.com/album/7j6Gaxe0IxFQHR4L2f78z4) | 3:12 |
 | 100 | [Teach Me Lord](https://open.spotify.com/track/7LzTDIYTxezdrlxBO43nkj) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Teach Me Lord](https://open.spotify.com/album/0OkR1TymjDnbSlBxtpayg6) | 4:19 |
 
-Snapshot ID: `MCw4YTNjZGQ1NDk5YmEyZjMxNjAzMTUxYTYxMDRjNWIwYTlkZjMwMTVi`
+Snapshot ID: `MCwwZjNkYmM2YjVkNDIwMjgxOTk5YTExYjNhOTU3MjA2ODQxMWQ3YjE5`

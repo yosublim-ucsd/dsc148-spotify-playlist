@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 757778,
+  "num_followers": 757827,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODU1NzdkMDliNmVhNmQ0NTU0YzM4NTRiYmE2N2U4ZGM4ZjkyZTQ1",
+  "snapshot_id": "MCw2ZDY5MWU3ZTgzNzUwMGU2YjZmYjY1NjA1NWIwMmQ4NjFkNDUxNjJm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        }
-      ],
-      "duration_ms": 212242,
-      "name": "Chalk 1.3.3 [2017 Export Wav]",
-      "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 167619,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        }
+      ],
+      "duration_ms": 212242,
+      "name": "Chalk 1.3.3 [2017 Export Wav]",
+      "url": "https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
-      },
-      "artists": [
-        {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
-        }
-      ],
-      "duration_ms": 197832,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Arrived Anxious, Left Bored",
         "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 164506,
       "name": "SKY SKY 1.3 [2016 Export Wav]",
       "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "duration_ms": 197832,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Beyond The Veil (Remixes)",
-        "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        }
-      ],
-      "duration_ms": 260470,
-      "name": "Stop Thinking (feat. Lights) - MitiS Remix",
-      "url": "https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Palaces",
         "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Beyond The Veil (Remixes)",
+        "url": "https://open.spotify.com/album/2LUAu6NsTDONxt2BDxrrUj"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        }
+      ],
+      "duration_ms": 260470,
+      "name": "Stop Thinking (feat. Lights) - MitiS Remix",
+      "url": "https://open.spotify.com/track/789ENhlrwuDQAOSdJjs45Q"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Overcome (feat. Frances)",
+      "url": "https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1579,22 +1599,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+        "name": "2gether",
+        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         },
         {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Overcome (feat. Frances)",
-      "url": "https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5"
+      "duration_ms": 191074,
+      "name": "2gether",
+      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1615,26 +1635,6 @@
       "duration_ms": 155175,
       "name": "Today Tomorrow Forever (feat. fknsyd)",
       "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "2gether",
-        "url": "https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 191074,
-      "name": "2gether",
-      "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
-      },
-      "artists": [
-        {
-          "name": "Rome in Silver",
-          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
-        }
-      ],
-      "duration_ms": 183445,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Fool",
         "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 220869,
       "name": "Fool",
       "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "duration_ms": 183445,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Arpeggio EP",
+        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 223714,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "UNI(*)N",
         "url": "https://open.spotify.com/album/3TaL0VJMILKcVl1XgLkc4X"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 166530,
       "name": "Thru The Ceiling",
       "url": "https://open.spotify.com/track/7HkfeOvf3KjZUjnJGKx7fR"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Arpeggio EP",
-        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        }
-      ],
-      "duration_ms": 223714,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
     },
     {
       "added_at": "2023-06-30 04:01:00",

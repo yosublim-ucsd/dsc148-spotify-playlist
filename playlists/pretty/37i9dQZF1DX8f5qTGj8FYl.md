@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,342 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,464 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 51 | [Prospect Park West](https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ) | [Jerry McHoy](https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf) | [Prospect Park West](https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ) | 2:56 |
 | 52 | [Assassin \- The Paisley Park Session](https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Assassin \(The Paisley Park Session\)](https://open.spotify.com/album/4sj2In3VzdEOey1GlGlVhl) | 3:22 |
 | 53 | [Do You Wanna Get Down](https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj) | [The Soul Snatchers](https://open.spotify.com/artist/7DssAVUkBP2JAMLRvfrg20) | [Scratch My Itch](https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs) | 3:59 |
-| 54 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
-| 55 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
+| 54 | [Funkafized](https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0) | [Boston Horns](https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd) | [Funkafized Plus](https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f) | 4:59 |
+| 55 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 |
 | 56 | [NDUGU](https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:10 |
 | 57 | [Everybody's Inn](https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY) | [Funky Destination](https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK) | [We Are All Shining Stars](https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK) | 3:18 |
 | 58 | [Good Luck With That](https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu) | [Wolcott Curran Collective](https://open.spotify.com/artist/5iJNcFVVTSBVdgoAY52ox5) | [Good Luck With That](https://open.spotify.com/album/3oSXZcUOdRgh1jiIjCFeiK) | 4:10 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 67 | [Indoor S'mores](https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [The Fun Ones](https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH) | 4:41 |
 | 68 | [Getaway Car](https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Getaway Car](https://open.spotify.com/album/5WpaETJzHurpaWKwOkNs1J) | 3:28 |
 | 69 | [Royal Highness](https://open.spotify.com/track/42y27OIathcePEZFs5bYSk) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 5:24 |
-| 70 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 |
-| 71 | [In the Groove](https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q) | [Rock Candy Funk Party](https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ) | [The Groove Cubed](https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK) | 6:52 |
+| 70 | [In the Groove](https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q) | [Rock Candy Funk Party](https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ) | [The Groove Cubed](https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK) | 6:52 |
+| 71 | [Couple A Brownies](https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO) | [Soul Jazz Express](https://open.spotify.com/artist/477IJP2IAlgmpJL0Bc8gXh) | [Soul Jazz Express](https://open.spotify.com/album/7uPIvk4yyavHHaz2HfZqXk) | 5:17 |
 | 72 | [Bunny Hop](https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp) | [The CB3](https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl) | [Bunny Hop!](https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts) | 5:02 |
 | 73 | [N.E.G.U](https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 5:57 |
 | 74 | [Just Funkin' Around](https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:07 |
 | 75 | [Bambu](https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH) | [Chris Hazelton's Boogaloo 7](https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr) | [The Basement Beat](https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB) | 7:50 |
 | 76 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 |
-| 77 | [False Prophets](https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [False Prophets](https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO) | 5:52 |
-| 78 | [Hot Chicken](https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ) | [DLG 3](https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I) | [Hot Chicken](https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk) | 4:01 |
+| 77 | [Hot Chicken](https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ) | [DLG 3](https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I) | [Hot Chicken](https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk) | 4:01 |
+| 78 | [False Prophets](https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [False Prophets](https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO) | 5:52 |
 | 79 | [Don't Worry 'Bout What I Do](https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK) | 5:14 |
 | 80 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
 
-Snapshot ID: `MCw2MGRlYTA1ZTQ1NmI5YjgzYTQ4OGY4MzAxMmMyMDdlNzJmNGE0ODAy`
+Snapshot ID: `MCw5YThiZDVkNTFiNTQ4ZWE3MTc3YjVmZjM0OWM5ZmQxMzVjYjg5MzM1`

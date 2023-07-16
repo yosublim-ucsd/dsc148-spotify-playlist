@@ -1573,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "BAKSANA B\u0130LADER (Saz Mi Caz Mi)",
+        "url": "https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og"
+      },
+      "artists": [
+        {
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "Kuty",
+          "url": "https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176999,
+      "name": "BAKSANA B\u0130LADER - Saz Mi Caz Mi",
+      "url": "https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r"
+    },
+    {
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW"
       },
@@ -7512,7 +7534,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 179054,
       "name": "Kor",
       "url": "https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh"
@@ -11255,6 +11277,28 @@
     },
     {
       "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
         "name": "Sevmedim Deme",
         "url": "https://open.spotify.com/album/3CneQ8xSGqLpHJjrjESQO8"
       },
@@ -13984,7 +14028,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 145794,
       "name": "\u015eU AN",
       "url": "https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek"

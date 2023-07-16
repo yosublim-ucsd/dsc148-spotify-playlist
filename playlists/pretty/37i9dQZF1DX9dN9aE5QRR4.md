@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,785 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,859 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 8 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 |
 | 9 | [Baby Mama](https://open.spotify.com/track/5XD8dAkKVX2RwjYEjgGY9j) | [Yuz Boy](https://open.spotify.com/artist/0D02Za9zPwvLFkiRQoi6qH) | [Baby Mama](https://open.spotify.com/album/6onJiWfTJ5nYCg6B1ihMug) | 3:14 |
 | 10 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 |
-| 11 | [Donner](https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Donner](https://open.spotify.com/album/3dzEWGuhgrpeVQS3PiVcHe) | 3:47 |
+| 11 | [DONNER \(feat\. Slkrack\)](https://open.spotify.com/track/4M4zzOT9leOtY87UVK8sXd) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [LE SOLEIL NE S'ÉTEINT JAMAIS](https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06) | 3:47 |
 | 12 | [Célèbre](https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Célèbre](https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS) | 2:56 |
 | 13 | [No Signal](https://open.spotify.com/track/6XtAUuYIDr9gHTw2PXVBdx) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR) | [No Signal](https://open.spotify.com/album/1JQIOuQbid5RmHOfaF7iem) | 2:37 |
 | 14 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 43 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 |
 | 44 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 |
 
-Snapshot ID: `MCwxNGVlMWNjMzQwYzgxMTQyMmRjMmZhMzM3YjI5NDg5MzkxYzVhNGYy`
+Snapshot ID: `MCxhZDliMDBjMGZjYWFlYjI3MDhmZTk5OThiOGM5NjMxZmFhNmQ0Yjc2`

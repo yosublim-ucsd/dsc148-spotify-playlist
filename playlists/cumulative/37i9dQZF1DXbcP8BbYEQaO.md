@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-547 songs - 1 day 6 hr 53 min
+548 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,8 @@
 | [I Don't Know Why](https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [I Don't Know Why](https://open.spotify.com/album/5LNAH17alOHq9AwIRiymTj) | 3:27 | 2021-08-29 |  |
 | [I Don't Know You Anymore \- demo](https://open.spotify.com/track/6QSH5lHbiKxOTqc9WSdi09) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I Don't Know You Anymore \(demo\)](https://open.spotify.com/album/0oEcktTBdE01o80o1ZSFsO) | 2:57 | 2020-10-13\* | 2021-10-14 |
 | [i don't miss u](https://open.spotify.com/track/5CxgoUsj1XQjlW5b2BvOnW) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [i don't miss u](https://open.spotify.com/album/0C4Uc7mEx0bbtnLbm13erX) | 2:58 | 2020-10-13\* | 2021-12-04 |
-| [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-11-11 |  |
+| [I DON’T WANNA DO THIS ANYMORE](https://open.spotify.com/track/6FguetQoUCSHkng6Fe1ofO) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 3:31 | 2023-07-14 |  |
+| [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-11-11 | 2023-07-16 |
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-11-02 |
 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 | 2022-08-12 | 2022-09-17 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-11-18 | 2021-07-04 |

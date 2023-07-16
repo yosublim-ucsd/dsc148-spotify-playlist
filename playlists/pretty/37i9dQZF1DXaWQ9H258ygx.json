@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 59383,
+  "num_followers": 59543,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTkzMmEyZjhiMzMyZDRmOGZlNjAzOWMyZGE5NWEwNmQzM2YwZmU3",
+  "snapshot_id": "MCwyOTFkYmVjYTg2YmFlZmZiZTM2NjU2YjYzMWJkYTYzNjg2YjJkNTA0",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -727,6 +727,38 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 280600,
+      "name": "Dirty Diana",
+      "url": "https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Be Alone",
+      "url": "https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -759,38 +791,6 @@
       "duration_ms": 397666,
       "name": "So Appalled",
       "url": "https://open.spotify.com/track/6K07Ahf6V7CAQn0ikrOztl"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Be Alone",
-      "url": "https://open.spotify.com/track/7tjtWVu8RsshzPxQm8oT3y"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 280600,
-      "name": "Dirty Diana",
-      "url": "https://open.spotify.com/track/6JZYMxvcoeLD4IifJPvDux"
     },
     {
       "added_at": "2022-10-03 04:00:00",

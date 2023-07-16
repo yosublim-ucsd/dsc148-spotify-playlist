@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=t7JJXl1yQUCioA8ywXwUaA"> Psycho YP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,346 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,432 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 59 | [STAMINA](https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B) | [STAMINA](https://open.spotify.com/album/0IVPvx3l7SAbf0XmcGkgPw) | 2:32 |
 | 60 | [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 |
 | 61 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
-| 62 | [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 |
-| 63 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 |
+| 62 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 |
+| 63 | [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 |
 | 64 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 |
 | 65 | [Crown of Clay](https://open.spotify.com/track/4Zpa3krRpcTA7cPSb9vZ6l) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Crown of Clay](https://open.spotify.com/album/6GM6bkefoArXQbXYTJzRvT) | 3:25 |
 | 66 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
 | 70 | [Barawo](https://open.spotify.com/track/2gSBzguJZzHSMEP9snKgyf) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Barawo](https://open.spotify.com/album/10bd7xHvx7jhVis9sMwqAK) | 3:49 |
 
-Snapshot ID: `MCwwM2EyMGUzZDRjYjg1OGIzMjYwZGYwNDk0ZDgyNzQ2ZDJjNjM0MTQx`
+Snapshot ID: `MCwzZDY0YmNmNmYwOTEwOTdhZTEyZjY0MjVlOGZmNzYxZjcxMDJlMjc1`

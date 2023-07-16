@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: The Last Dinner Party
 
-436 songs - 1 day 0 hr 33 min
+437 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Best of It](https://open.spotify.com/track/1VFng5qzRMHVi0dw5Nqtl0) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Best of It](https://open.spotify.com/album/3y7PzZsCSGyuFt1SEqQS8v) | 2:08 | 2022-10-21 | 2022-11-22 |
 | [Bet My Blood](https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Bet My Blood](https://open.spotify.com/album/6G5IHNBlR3Ac0fSRwUgFFn) | 2:59 | 2021-05-21 | 2022-02-04 |
 | [Bet My Brains](https://open.spotify.com/track/293L4QqPp9XAyYAO32VJpp) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Bet My Brains](https://open.spotify.com/album/63UCoFVtwXykTLnEk5vMiP) | 3:53 | 2021-03-09 | 2022-01-17 |
+| [Better \- Edit](https://open.spotify.com/track/6NIrjH865NExM8juniJlLY) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Better \(Edit\)](https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7) | 3:31 | 2023-07-13 |  |
 | [Between The Rocks](https://open.spotify.com/track/2FK5khW8jinlrJOy0TWVxM) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Between The Rocks](https://open.spotify.com/album/3JDZzKj3R9MGJEncZLi5ZQ) | 3:31 | 2022-08-18 | 2023-01-19 |
 | [Big Win](https://open.spotify.com/track/2jR7NL3VzaKWtmUi10SSTQ) | [Spare Parts For Broken Hearts](https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5) | [Big Win](https://open.spotify.com/album/6X8C9Vs8SzBkbzwuzFsAUH) | 3:25 | 2021-03-09 | 2022-01-17 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-29 |  |
@@ -123,7 +124,7 @@
 | [Eight Fivers](https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Most Normal](https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0) | 2:20 | 2022-10-13 | 2023-03-03 |
 | [End of the World](https://open.spotify.com/track/3kMn5466igLcIipucTOrSt) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [End of the World](https://open.spotify.com/album/14DWK40JwAG6to2t1KpEGK) | 4:15 | 2022-10-13 | 2022-11-18 |
 | [Ethel](https://open.spotify.com/track/0Gm0CzFZ5fh9Rt7jSRIrAv) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Ethel](https://open.spotify.com/album/01HODAvgMBD2gvWPkz4G5y) | 4:29 | 2022-11-18 | 2023-02-10 |
-| [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 | 2022-10-21 |  |
+| [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/track/1uK65VcfQeZ6cPxnUm0TCv) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Everybody's Saying Thursday's The Weekend](https://open.spotify.com/album/4S0L38drU7rEOg4KzvN5lY) | 3:04 | 2022-10-21 | 2023-07-16 |
 | [Everything](https://open.spotify.com/track/6SXnYD0f96UJAtLTRWwSbK) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Everything at Once](https://open.spotify.com/album/38WlVvrvwOSJURYOKvAILE) | 4:25 | 2021-03-09 | 2022-01-17 |
 | [Exploding House](https://open.spotify.com/track/5pynE1WnRqLPCTlLbrpDyi) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 6:04 | 2021-10-29 | 2022-08-19 |
 | [Eyes Closed for the Winter](https://open.spotify.com/track/5PxLKWMLJUGD3pugHV5Gc9) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Eyes Closed for the Winter](https://open.spotify.com/album/5LFXtJVjIXrEv1R5PaloR6) | 3:06 | 2022-04-01 | 2022-08-19 |

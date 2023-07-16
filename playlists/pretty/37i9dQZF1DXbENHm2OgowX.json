@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 89670,
+  "num_followers": 90255,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWM0ZjgzMzYyZmQ1YjY1M2QzOTM4NmI2NzJiNDk1ODQzYzFjYTg1",
+  "snapshot_id": "MCw3Nzk0MDllZDU4NTQyOTY1YWE1YTQwNWZjZjk3ZTRiZjUwM2FhNGRk",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "haunted (remixes)",
+        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "haunted (florence slowed version)",
+      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Vale Reworked",
         "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 437322,
       "name": "I filled my Lungs with the Necessary Air, and yelled! - Ben Lukas Boysen Rework",
       "url": "https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "haunted (remixes)",
-        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        }
-      ],
-      "duration_ms": 153984,
-      "name": "haunted (florence slowed version)",
-      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
         }
       ],
-      "duration_ms": 291553,
-      "name": "Animism",
-      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
+      "duration_ms": 156301,
+      "name": "Locale",
+      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Arborescence",
-        "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
       "artists": [
         {
-          "name": "\u00dalfur",
-          "url": "https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi"
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
         }
       ],
-      "duration_ms": 405946,
-      "name": "T\u00f3mi\u00f0 Titrar",
-      "url": "https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol"
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Permanently Midnight",
-        "url": "https://open.spotify.com/album/6fKbc5u3JkKLYmV4ubvq5b"
+        "name": "Arborescence",
+        "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
       "artists": [
         {
-          "name": "The Gentleman Losers",
-          "url": "https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17"
+          "name": "\u00dalfur",
+          "url": "https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi"
         }
       ],
-      "duration_ms": 315284,
-      "name": "As I Came Through the Desert Thus It Was",
-      "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
+      "duration_ms": 405946,
+      "name": "T\u00f3mi\u00f0 Titrar",
+      "url": "https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol"
     }
   ],
   "unique_name": "gloomcore",

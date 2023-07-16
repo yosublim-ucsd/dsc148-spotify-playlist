@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,587 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,631 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 45 | [Depois da Chuva](https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:39 |
 | 46 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
 | 47 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
-| 48 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
+| 48 | [Efeito](https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Efeito](https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO) | 2:31 |
 | 49 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 50 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
-| 51 | [Efeito](https://open.spotify.com/track/6OEb5eXS7WyHw0SNqXXIYz) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Efeito](https://open.spotify.com/album/6e0F9bKM9LJSk5X15PFNKO) | 2:31 |
+| 51 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
 | 52 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 53 | [Já Sei](https://open.spotify.com/track/3GHRwrfJURl75cSRG06ZPR) | [Cálculo](https://open.spotify.com/artist/1MOKHbjTVCqrzy7o3Es8hI), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Já Sei](https://open.spotify.com/album/0AFHsHECJ2SflumM80dR3L) | 2:24 |
 | 54 | [Metamorfose](https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [Metamorfose](https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0) | 4:08 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 56 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
 | 57 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 58 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
-| 59 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 60 | [Silêncio](https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Silêncio](https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8) | 2:16 |
+| 59 | [Silêncio](https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Silêncio](https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8) | 2:16 |
+| 60 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 61 | [Steppa](https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Steppa](https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT) | 2:10 |
 | 62 | [Bday](https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Bday](https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5) | 3:05 |
 | 63 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
 | 64 | [Brio](https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW) | [Brio](https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY) | 2:38 |
-| 65 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
-| 66 | [Faz Tão Bem](https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Faz Tão Bem](https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO) | 2:59 |
+| 65 | [Faz Tão Bem](https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Faz Tão Bem](https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO) | 2:59 |
+| 66 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
 | 67 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
 | 68 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 |
 | 69 | [Saltamos](https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [U7](https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT) | 3:00 |
-| 70 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
-| 71 | [Maluca](https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Maluca](https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC) | 2:28 |
+| 70 | [Maluca](https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Maluca](https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC) | 2:28 |
+| 71 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
 | 72 | [Tá Pedir](https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd) | [Clenny Mendes](https://open.spotify.com/artist/28qaTTopCvGdqmcrWAKsOy) | [Tá Pedir](https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV) | 2:27 |
 | 73 | [Não Consigo](https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l) | [Kamuya](https://open.spotify.com/artist/3rv2srJPEeA1vW8vhjE2U7), [sheluvsHUGO](https://open.spotify.com/artist/4fkojJvVGvyu6oh5cutj2g) | [Não Consigo](https://open.spotify.com/album/73wkFM58mY6OoFB2hg8ve1) | 3:33 |
 | 74 | [Pick Up The Phone](https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Pick Up The Phone](https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr) | 3:35 |
 | 75 | [Madonna](https://open.spotify.com/track/7ivBImfhmqXKUIF3pR0rFk) | [Parras](https://open.spotify.com/artist/4kbPiFbjQFAshuG6rioE8u) | [Madonna](https://open.spotify.com/album/1sOcSfwkwJjWF2Bu3gL8eO) | 2:58 |
 
-Snapshot ID: `MCxkNzg3OTAxNzU4NTc2OGRlYWE0MTA1Zjk4NWQ0ZGFiNGIzNjlmYzZl`
+Snapshot ID: `MCxmMmIwZjc1YWJkODZjNDhiYWE1ZDZmYmE1NzhkYTYwMzgwY2Q2MGMy`

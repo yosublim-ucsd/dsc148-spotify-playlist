@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,365 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,469 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 8 | [Bin Tere \- Reprise](https://open.spotify.com/track/7zG4akZAie70mOCMmtoacS) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 3:40 |
 | 9 | [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:44 |
 | 10 | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/track/3TrdGeV5bEpHezExHlsguD) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/album/21bDtSHJ5mVCeNBpIRsToX) | 3:35 |
-| 11 | [Saanjha \- Unplugged](https://open.spotify.com/track/6B1htTRGKxX9LHtCEyxs8u) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Saanjha \- Unplugged](https://open.spotify.com/album/5YQ7nXn1gstjfxz913amcD) | 3:17 |
+| 11 | [Saanjha \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/5qXXxsY0eLQikM6KEp91P7) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Saanjha \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3qStuUsmAmUDiLDqbtGF8C) | 3:17 |
 | 12 | [Meri Tum Ho \(Unplugged\)](https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:33 |
 | 13 | [Tum Se Milke \(From "Tiku Weds Sheru"\)](https://open.spotify.com/track/0oUidyQb3wXPv2Krqas06V) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT), [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg) | [Tum Se Milke \(From "Tiku Weds Sheru"\)](https://open.spotify.com/album/6zTut0LkaUMTYl3jC0EQ4s) | 3:02 |
 | 14 | [Shayad \- Reprise](https://open.spotify.com/track/2L2YNB3YIletW4fUtwphDv) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr) | 4:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 50 | [Roobaroo](https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 4:42 |
 | 51 | [Tum Se Hi \(Reprise\) \(From "Sadak 2"\) \(feat\. Alia Bhatt\)](https://open.spotify.com/track/4xhxNVJ21MayyOpKUnFd7W) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Tum Se Hi \(Reprise\) \(feat\. Alia Bhatt\) \[From "Sadak 2"\]](https://open.spotify.com/album/4qXletW47OQdSrNSmLYVNs) | 4:05 |
 
-Snapshot ID: `MCxjNjNiOWI4NTQ3OWZmYmY0ZjY4YzQzZDA2NDU1NjkzMDQzYTc5NzY0`
+Snapshot ID: `MCxkOTQzYmU1NDE1NzBmNGUwZmY4OTU2NDg0NGZiYTcwMzgwMDJmOTg1`

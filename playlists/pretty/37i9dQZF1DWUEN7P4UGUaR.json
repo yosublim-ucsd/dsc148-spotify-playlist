@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 2084,
+  "num_followers": 2120,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmY0ZTc3ODdkYTI0NWUxMWQ2MGE0NThjOGJkMDI3YmM1ZDkzYmIz",
+  "snapshot_id": "MCxlMDJkMDc1ZjAwZWQ3NzM2OTQ3YzBhYjMxYTFiMjk4MmU5NWQxYmMw",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Guide Me",
-        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "Guide Me",
-      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 219168,
       "name": "W'asem",
       "url": "https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Guide Me",
+        "url": "https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 227258,
+      "name": "Guide Me",
+      "url": "https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -547,22 +547,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
+        "name": "Ghana Local Praise Medley",
+        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
       },
       "artists": [
         {
-          "name": "richieo",
-          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+          "name": "DOXA WAVE GH",
+          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
         },
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Shadrach Mensah Kwesi",
+          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
         }
       ],
-      "duration_ms": 203189,
-      "name": "GOD NEVER FAILS",
-      "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
+      "duration_ms": 566414,
+      "name": "Ghana Local Praise Medley",
+      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Ghana Local Praise Medley",
-        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
       },
       "artists": [
         {
-          "name": "DOXA WAVE GH",
-          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
         },
         {
-          "name": "Shadrach Mensah Kwesi",
-          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
         }
       ],
-      "duration_ms": 566414,
-      "name": "Ghana Local Praise Medley",
-      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+      "duration_ms": 203189,
+      "name": "GOD NEVER FAILS",
+      "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Prayer for deliverance",
-        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
-      },
-      "artists": [
-        {
-          "name": "Broda Harrison",
-          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
-        }
-      ],
-      "duration_ms": 94111,
-      "name": "Prayer for deliverance",
-      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Mensuro",
         "url": "https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK"
       },
@@ -859,22 +843,34 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+        "name": "Prayer for deliverance",
+        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
       },
       "artists": [
         {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
-        },
-        {
-          "name": "Adrian Sing",
-          "url": "https://open.spotify.com/artist/2FkQhXYXjaxh5CX7silUVv"
+          "name": "Broda Harrison",
+          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
         }
       ],
-      "duration_ms": 222791,
-      "name": "Highest Praise",
-      "url": "https://open.spotify.com/track/6Ma7cBfBwVHOKOVS6mdmue"
+      "duration_ms": 94111,
+      "name": "Prayer for deliverance",
+      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "My Alabaster",
+        "url": "https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl"
+      },
+      "artists": [
+        {
+          "name": "DenniS",
+          "url": "https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ"
+        }
+      ],
+      "duration_ms": 514302,
+      "name": "My Alabaster",
+      "url": "https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y"
     }
   ],
   "unique_name": "Aseda",

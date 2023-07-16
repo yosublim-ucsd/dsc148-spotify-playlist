@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Ryan Castro, Peso Pluma & SOG en portada.",
-  "num_followers": 134795,
+  "num_followers": 134952,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWU2NjcxNjc3MTgwZGE1NWNiMjMyMjJkYmM5Y2NkMjAwOWQ4YmFk",
+  "snapshot_id": "MCwxNmQwODMwMGVjZGNiZWUzYmY0YTExMTM0Njk3ZjVmMzc5YzkzNmQy",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/6fMVfi5TK2A5b1gMbWfjOV"
     },
     {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
+    },
+    {
       "added_at": "2023-06-30 06:00:00",
       "album": {
         "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
@@ -1443,22 +1459,6 @@
       "duration_ms": 171434,
       "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
       "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F"
     },
     {
       "added_at": "2023-06-30 06:00:00",

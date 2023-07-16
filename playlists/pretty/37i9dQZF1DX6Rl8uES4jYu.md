@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,517 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,504 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 71 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 |
 | 72 | [Mama Please Don't Worry](https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Matisyahu](https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5) | 4:03 |
 | 73 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 |
-| 74 | [Twilight](https://open.spotify.com/track/2POIx2rF49N3tea41FlqtL) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/153pOsWc9b2jb4g3fyUxUK) | 2:36 |
+| 74 | [Twilight](https://open.spotify.com/track/16IKV5rIM4hwmIhPsYOScC) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 2:36 |
 | 75 | [Don't Trip](https://open.spotify.com/track/5mJpenSgvHOjfnK1Z4fc1p) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Don't Trip](https://open.spotify.com/album/2TLJYbqaz0kygsMTDXn3et) | 3:00 |
 | 76 | [Easy](https://open.spotify.com/track/2ipglkB6dSUbv9yePOI5r9) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Who?](https://open.spotify.com/album/0B6zhl08QLXwQg2eBXofCx) | 2:58 |
 | 77 | [AM Gold \- Tobtok Remix](https://open.spotify.com/track/7Bu6XaIeytnFdLrpMEpdug) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [AM Gold \(Tobtok Remix\)](https://open.spotify.com/album/1Y7HKitOClNC69qVhPtWWD) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [Stop This Feeling](https://open.spotify.com/track/2JRQQZzxZ9X0Mlq92q0jSy) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Stop This Feeling](https://open.spotify.com/album/7xss4hIieMAnRHZgz8k6bF) | 2:58 |
 | 100 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
 
-Snapshot ID: `MCxhYTAxNzJhMmRkODdlM2QwYzg5ZDVmNTQxYmZkMmIyNjc0YmU3NTcw`
+Snapshot ID: `MCxhYjVkNGVkMGVmOGJiMDJjZTYzOTQxYTRiNGZjZmNlYWQ0ZjUyZDhi`

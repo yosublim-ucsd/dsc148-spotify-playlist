@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-104 songs - 6 hr 21 min
+105 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Rozana](https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Rozana \(From "Naam Shabana"\)](https://open.spotify.com/album/6QsWVJu3QawRgoAgUH9QX5) | 4:34 | 2023-04-05 |  |
 | [Saadi Galli Aaja](https://open.spotify.com/track/6riCsiX9csuomBYnenrtGd) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Nautanki Saala !](https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV) | 4:13 | 2022-04-11 | 2023-05-10 |
 | [Saadi Galli Aaja \(Unplugged\)](https://open.spotify.com/track/4ZKtCnRpRsHOPLcidXfWui) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Nautanki Saala !](https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV) | 3:22 | 2023-05-09 | 2023-07-15 |
-| [Saanjha \- Unplugged](https://open.spotify.com/track/6B1htTRGKxX9LHtCEyxs8u) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Saanjha \- Unplugged](https://open.spotify.com/album/5YQ7nXn1gstjfxz913amcD) | 3:17 | 2023-07-14 |  |
+| [Saanjha \(From "Zara Hatke Zara Bachke"\) \- Unplugged](https://open.spotify.com/track/5qXXxsY0eLQikM6KEp91P7) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Saanjha \(From "Zara Hatke Zara Bachke"\) \[Unplugged\]](https://open.spotify.com/album/3qStuUsmAmUDiLDqbtGF8C) | 3:17 | 2023-07-14 |  |
+| [Saanjha \- Unplugged](https://open.spotify.com/track/6B1htTRGKxX9LHtCEyxs8u) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Saanjha \- Unplugged](https://open.spotify.com/album/5YQ7nXn1gstjfxz913amcD) | 3:17 | 2023-07-14 | 2023-07-16 |
 | [Saawali Si Raat](https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:08 | 2023-06-20 |  |
 | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/track/3TrdGeV5bEpHezExHlsguD) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Alia Bhatt](https://open.spotify.com/artist/1KccfGBzQmZIU6kehTWwIo) | [Samjhawan \(Unplugged by Alia Bhatt\) \[From "Humpty Sharma Ki Dulhania"\]](https://open.spotify.com/album/21bDtSHJ5mVCeNBpIRsToX) | 3:35 | 2023-04-05 |  |
 | [Sawan Aaya Hai \(Unplugged\)](https://open.spotify.com/track/0nqpxdqlz99uWN238dzJUH) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Creature 3D](https://open.spotify.com/album/2ySTppSfuVBNq2nNN6lEqg) | 4:11 | 2023-05-09 | 2023-07-07 |

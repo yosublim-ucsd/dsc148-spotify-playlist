@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 
 > This Is Jung Kook\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,865 likes - 22 songs - 50 min 45 sec
+[Spotify](https://open.spotify.com/user/spotify) - 46,113 likes - 22 songs - 50 min 45 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 | 21 | [Left and Right \(feat\. Jung Kook of BTS\) \- Instrumental](https://open.spotify.com/track/3QRJgF8HY4zEuboEy4Q1gd) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(feat\. Jung Kook of BTS\) \[Instrumental\]](https://open.spotify.com/album/3wDWcowIrrWgpRmo2ZvFup) | 2:32 |
 | 22 | [Bye from Jung Kook](https://open.spotify.com/track/3sKpXrIdtKtgnzYTZ7jFGS) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [This Is Jung Kook audio liners](https://open.spotify.com/album/6zL1a94dCnXQ6xHiaKZF0W) | 0:10 |
 
-Snapshot ID: `MCxhNjc1Nzg3ZDhiZjcxZjNmNDFjNzMwYjQwZmZmYjhkOTM1MGFhZWFj`
+Snapshot ID: `MCxkNGQ1ZDU2ZTNhMGVkM2VjNWY3OTlkMDFlMzZjYzE2NzU2MDk3MDNl`

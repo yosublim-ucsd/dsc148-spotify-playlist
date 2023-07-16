@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó, featuring Bizarrap & Rauw Alejandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,432 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,492 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 41 | [La Que Quiero Yo](https://open.spotify.com/track/1FGfYaq4XPNoDaQiZIcb4e) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [La Que Quiero Yo](https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB) | 3:09 |
 | 42 | [LE DOY 20 MIL](https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [LE DOY 20 MIL](https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y) | 3:02 |
 | 43 | [Southwezzzt](https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Yonki](https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Southwezzzt](https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi) | 3:07 |
-| 44 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
-| 45 | [Un Cuerpazo](https://open.spotify.com/track/1Q5vuDabWdu2cEibvVHDsR) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Cuerpazo](https://open.spotify.com/album/6kWEAdQ6zbegtqDZjYIxtk) | 2:06 |
+| 44 | [Un Cuerpazo](https://open.spotify.com/track/1Q5vuDabWdu2cEibvVHDsR) | [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [Un Cuerpazo](https://open.spotify.com/album/6kWEAdQ6zbegtqDZjYIxtk) | 2:06 |
+| 45 | [Otro Trago](https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Tamoarriba](https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V) | 3:30 |
 | 46 | [Men2](https://open.spotify.com/track/3rsR6s7AkrzzUB1xEOxy25) | [La Tankeria](https://open.spotify.com/artist/46zSeracS4TMCzr21OKLiu) | [Men2](https://open.spotify.com/album/7MQyeVe7Tu5FfzmrQiCVUd) | 3:58 |
 | 47 | [De Revista \- Remix](https://open.spotify.com/track/0jEs4lbM1tLANAulsyDfjR) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [De Revista \(Remix\)](https://open.spotify.com/album/4t9Zm2EFBwVerXHe93ypW3) | 3:59 |
 | 48 | [Vete Lejos \- Prod\. by Dj Cham](https://open.spotify.com/track/1DUT0RmMziQGKyFmoPppb9) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Vete Lejos](https://open.spotify.com/album/7dCPIJNrIpEoUA1c40gt8y) | 3:41 |
 | 49 | [La Popola](https://open.spotify.com/track/54Jjni92Qtv6OOgdMYA7Q1) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh) | [La Popola](https://open.spotify.com/album/1EvrXhte5nqYQV84X1HLcG) | 2:59 |
 | 50 | [Un Inclinao \- Prod\. by Ernesto Losa, Cuban Deejays](https://open.spotify.com/track/0Cl4Uf9dFMnOeAsPnOF222) | [Bebeshito](https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS), [Cuban Deejays](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Un Inclinao \(Prod\. by Ernesto Losa, Cuban Deejays\)](https://open.spotify.com/album/4hRclDUmKnI7jBR4nDERZG) | 2:53 |
 
-Snapshot ID: `MCxlNGZmMDg5NWM2OWM3NGE2NTI0OTE0NDI4ZDZiZTZmMmE4ZTliYWUz`
+Snapshot ID: `MCw2MjY3ZmFhYjQ2NjE0YmU5MjRmYmI1ZmNkZjc0NDY1ZTY4N2ZhMGQy`

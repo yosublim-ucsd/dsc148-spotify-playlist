@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-133 songs - 7 hr 26 min
+134 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Test drive \(featuring Swastik\)](https://open.spotify.com/track/2duEvDFatZxlBpSRBXIawO) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Swastik](https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ) | [Test drive \(featuring Swastik\)](https://open.spotify.com/album/0GSfdkGxOimIL0krZlateY) | 2:57 | 2023-01-17 |  |
 | [That's OK \- 1 Min Music](https://open.spotify.com/track/6YDRZIUqzVrbgziCHMe6Vx) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [That's OK \- 1 Min Music](https://open.spotify.com/album/4Ohu6HtBYUwWLjrer2Vj1A) | 1:00 | 2022-08-05 | 2023-07-04 |
 | [Thikkane Urdoytu](https://open.spotify.com/track/4xK8kLWUlOJ5oV9ZlvCNWb) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y), [SK](https://open.spotify.com/artist/71WhhgTlR07JzWe5WCEFQU), [MG](https://open.spotify.com/artist/3ru0W3EQXHgYaasXXvjWJU), [Chandu](https://open.spotify.com/artist/0f4x73SgahH0uXasIRBcqZ) | [Thikkane Urdoytu](https://open.spotify.com/album/2p04eQXEJ97HV7KevaTavL) | 2:27 | 2022-11-02 | 2023-06-08 |
+| [Thirugo Bhoomi](https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p) | [Sai Sharan P Hiremath](https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP) | [Thirugo Bhoomi](https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa) | 3:46 | 2023-07-15 |  |
 | [Thiz ma Gully](https://open.spotify.com/track/3Lc6Ieoi0LqtcVSkEcb6GF) | [Manchal](https://open.spotify.com/artist/1nOb34gdXcsJGvCHM34geP) | [Thiz ma Gully](https://open.spotify.com/album/2NV0yuOkoQ8TIY71Ll7KT9) | 3:14 | 2023-02-01 |  |
 | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/album/7Gk6KYpt7X296a85MtW7if) | 3:01 | 2023-03-28 |  |
 | [Vadiraj](https://open.spotify.com/track/2A8xmguW2nqhZqOxmSk4Nu) | [Dj Megharaj SN](https://open.spotify.com/artist/5NC5Fp8Cbb8LIiLp6Opyks) | [Vadiraj](https://open.spotify.com/album/0ZBl9ueUQnYRh8JnR8eqbD) | 2:21 | 2023-04-03 |  |

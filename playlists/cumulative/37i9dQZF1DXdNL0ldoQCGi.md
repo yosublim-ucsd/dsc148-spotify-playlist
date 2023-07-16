@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-398 songs - 20 hr 11 min
+399 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2022-05-25 | 2022-07-29 |
 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 | 2022-05-25 | 2022-11-08 |
 | [Falta Você](https://open.spotify.com/track/14uWxelOuAUajP8fDvc0Ct) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 3:40 | 2022-08-24 | 2022-10-22 |
-| [Faz Completo Chefe](https://open.spotify.com/track/57EfwoZAjGSLofnFea2bWY) | [mc's kako](https://open.spotify.com/artist/4lS5ZQgVUl47Nn3kI9wu7V) | [Faz Completo Chefe](https://open.spotify.com/album/5UowZknT0LGEi7Ab7g8q0N) | 2:22 | 2023-07-12 |  |
+| [Faz completo chefe](https://open.spotify.com/track/2U6m5xkQRzwU1Z9FJRyPVJ) | [mc menor vt](https://open.spotify.com/artist/4L2XiRy01sO21hxRgo8qk7) | [Faz completo chefe](https://open.spotify.com/album/33hROE0H92lTqbo4j44Tmi) | 2:24 | 2023-07-13 |  |
+| [Faz Completo Chefe](https://open.spotify.com/track/57EfwoZAjGSLofnFea2bWY) | [mc's kako](https://open.spotify.com/artist/4lS5ZQgVUl47Nn3kI9wu7V) | [Faz Completo Chefe](https://open.spotify.com/album/5UowZknT0LGEi7Ab7g8q0N) | 2:22 | 2023-07-12 | 2023-07-16 |
 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 | 2023-07-12 |  |
 | [Fazendinha Sessions \#2: Vai Ser Bão Pra lá](https://open.spotify.com/track/6C1zL1nBK9fVF40mD9fvNd) | [Fazendinha Sessions](https://open.spotify.com/artist/10fWVVVG2zx5VMJPL4N8wC), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [Lucca & Mateus](https://open.spotify.com/artist/0rzo7jvDCpUVNR7rumuOrM), [Lucas Reis & Thácio](https://open.spotify.com/artist/1b3ausgCrK4oN5Apv1GAhB) | [Fazendinha Sessions \#2: Vai Ser Bão Pra lá](https://open.spotify.com/album/5qVaSgNivBuyXuvWBXyWbA) | 8:01 | 2022-09-28 | 2022-10-18 |
 | [Feat da Cachorrada](https://open.spotify.com/track/4lxrUdmIaIbCHjraWqU0uW) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs) | [Feat da Cachorrada](https://open.spotify.com/album/0ZNNNVAV35LXDDgxfG7Rxw) | 2:15 | 2023-04-17 | 2023-06-01 |

@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 244617,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/3BwJpqcYEoQqMuJVEgl0aF"
@@ -1682,6 +1682,24 @@
       "duration_ms": 244617,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/4DNisbJkFrnE940piQZZa8"
+    },
+    {
+      "album": {
+        "name": "APART",
+        "url": "https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244617,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD"
     },
     {
       "album": {
@@ -3360,6 +3378,24 @@
     {
       "album": {
         "name": "APART",
+        "url": "https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276202,
+      "name": "Unaware",
+      "url": "https://open.spotify.com/track/3DYVhEhZRy7srzasM8o2k5"
+    },
+    {
+      "album": {
+        "name": "APART",
         "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
       },
       "artists": [
@@ -3370,7 +3406,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 276202,
       "name": "Unaware",
       "url": "https://open.spotify.com/track/3R3xKezI1kvFaomppAiQqg"
@@ -3518,10 +3554,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 170050,
       "name": "Where You're At",
       "url": "https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl"
+    },
+    {
+      "album": {
+        "name": "APART",
+        "url": "https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170050,
+      "name": "Where You're At",
+      "url": "https://open.spotify.com/track/4bV7BVBRqnK8dVtjD5OMV7"
     },
     {
       "album": {

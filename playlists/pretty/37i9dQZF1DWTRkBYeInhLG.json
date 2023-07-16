@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 431641,
+  "num_followers": 431991,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjk2ZGQxOWJmYTBlYWM1YzI1OWY2NjdhZGI2OGE4OWYzZGMxNmFi",
+  "snapshot_id": "MCxmNDc4Y2U4MDIyOGM0MzgyN2E2Y2QwM2NiMjA0ZjQzMGQ4ZDZkN2Rh",
   "tracks": [
     {
       "added_at": "2023-07-06 04:42:19",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-07-06 04:42:19",
       "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+        "name": "Walk The Talk",
+        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
       },
       "artists": [
         {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+      "duration_ms": 207937,
+      "name": "Kenangan Manis",
+      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
     },
     {
       "added_at": "2023-07-06 04:42:19",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-07-06 04:42:19",
       "album": {
-        "name": "Walk The Talk",
-        "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
       },
       "artists": [
         {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
         }
       ],
-      "duration_ms": 207937,
-      "name": "Kenangan Manis",
-      "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
     },
     {
       "added_at": "2023-07-06 04:42:19",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-07-06 04:42:19",
       "album": {
+        "name": "Selaras",
+        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
+      },
+      "artists": [
+        {
+          "name": "Kunto Aji",
+          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
+        },
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 273491,
+      "name": "Selaras",
+      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
+    },
+    {
+      "added_at": "2023-07-06 04:42:19",
+      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 208104,
       "name": "Teman Bahagia",
       "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
-    },
-    {
-      "added_at": "2023-07-06 04:42:19",
-      "album": {
-        "name": "Selaras",
-        "url": "https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg"
-      },
-      "artists": [
-        {
-          "name": "Kunto Aji",
-          "url": "https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy"
-        },
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 273491,
-      "name": "Selaras",
-      "url": "https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0"
     },
     {
       "added_at": "2023-07-06 04:42:19",

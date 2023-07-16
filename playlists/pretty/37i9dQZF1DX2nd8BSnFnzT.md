@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: NX Zero
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,157 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,232 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [White Rabbit](https://open.spotify.com/track/54pB8OIuoBTo0zb7PnM562) | [Carne Doce](https://open.spotify.com/artist/01F64hXfIisZbwBf1VCwQT) | [White Rabbit](https://open.spotify.com/album/6CGbvVdgtohBklk6hpUOjr) | 2:46 |
 | 75 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
 
-Snapshot ID: `MCwxNDE3NDVkZTVkOTdmMjhjZTc1NjM3Njk3M2JjODEyNmNhMjhjZTFk`
+Snapshot ID: `MCw1ZjM4NDM5MzIzMDgzODk1MGY4ZTNmYTYwZmNjYzdkMDBlMmNhNmJj`

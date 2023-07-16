@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2?si=93ae8b53b30d4411">Townix</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,486 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,557 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 11 | [Maranata](https://open.spotify.com/track/0fq7OLFLKtE2aYKwmaUzsu) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0) | [Maranata](https://open.spotify.com/album/5zQRbiZSx9s2V3v1FMlUPT) | 5:55 |
 | 12 | [Tu Corazón](https://open.spotify.com/track/7pdTTtVAmvMHZXfy83FxDN) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [Tu Corazón](https://open.spotify.com/album/4m5ZNTwt4b1OnQkcK8H3cu) | 7:27 |
 | 13 | [Dicen \- Live](https://open.spotify.com/track/2CQRTmvjNnKrvEeR7qdcCH) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Onis Rodriguez](https://open.spotify.com/artist/0C5mMKtManUhlQdMVccfHk) | [Dicen \(Live\)](https://open.spotify.com/album/2wnbI4Mn87OxUloMg0Asjw) | 5:57 |
-| 14 | [Hermoso Momento \- Ka2sh Remix](https://open.spotify.com/track/0MwUVJukXbo9DOB607fXAy) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI), [KA2SH](https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT) | [Hermoso Momento \(Ka2sh Remix\)](https://open.spotify.com/album/0whhMYJMq6rRnGaZm9t9PZ) | 3:56 |
+| 14 | [Hermoso Momento \- KA2SH Remix](https://open.spotify.com/track/0MwUVJukXbo9DOB607fXAy) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI), [KA2SH](https://open.spotify.com/artist/3x8SyKUylsSG0RVwAvScJT) | [Hermoso Momento \(KA2SH Remix\)](https://open.spotify.com/album/0whhMYJMq6rRnGaZm9t9PZ) | 3:56 |
 | 15 | [está bien no estar bien :\):](https://open.spotify.com/track/68yI7pPM5hOXfG3ea55kQx) | [PRISMA Más Vida](https://open.spotify.com/artist/2UHFb8SvTwloYRgoPz8umM), [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [está bien no estar bien :\):](https://open.spotify.com/album/7ijMAydowsWOaOT2S3AgVB) | 3:40 |
 | 16 | [MVP](https://open.spotify.com/track/00uwU1dENamylOgeLh2ask) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [MVP](https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n) | 2:07 |
 | 17 | [SOLO ESTÁS TÚ](https://open.spotify.com/track/2v4Q8E4Y606tDgx7cFSVWx) | [Kenny Rivers](https://open.spotify.com/artist/41twdk8sw4fNv4nosACqp9), [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [SOLO ESTÁS TÚ](https://open.spotify.com/album/63MDEY3U6HxVYucgZ17evd) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [BENDICIÓN](https://open.spotify.com/track/2mv7rOWiRIyldLUjOM9sJb) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [BENDICIÓN](https://open.spotify.com/album/4hqN9VZTRLvp2vGgDV3cg3) | 1:49 |
 | 100 | [Lo Que Quieras Tú](https://open.spotify.com/track/5CGwzttKeu4ztcvN4UDjqY) | [La Feria Oficial](https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Lo Que Quieras Tú](https://open.spotify.com/album/6YG4Tk5T6PSxquhvtahCNw) | 3:01 |
 
-Snapshot ID: `MCxlYjgxMzQ1Zjg3ODY1YTY5YTc1MDcxZTJkMmE1YjQ1ZjI4MGE3ODky`
+Snapshot ID: `MCwxYWJhN2NhY2RiZGZhMzZjZmY3ZjNiYjQyOGQ1ZjFhYmZjNDgzODkw`

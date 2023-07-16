@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 455504,
+  "num_followers": 455541,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjEyOTZjMDgwZTQ3MzM4MjZmZjY3ZmJmZGRlMWY1NzA3OWU2MTM4",
+  "snapshot_id": "MCxjNTdhOWY3YTQ3OGZiMjQ4ZjMwNDRkN2M0ZWE5ZGZlNmU2YzE4OTY1",
   "tracks": [
     {
       "added_at": "2023-06-23 01:16:52",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
-      "added_at": "2022-12-07 00:43:07",
-      "album": {
-        "name": "Forest Theory",
-        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Bamboo",
-          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
-        }
-      ],
-      "duration_ms": 231648,
-      "name": "Universal Sound",
-      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
-    },
-    {
       "added_at": "2022-09-21 01:58:52",
       "album": {
         "name": "Feorm Falorx",
@@ -155,6 +139,22 @@
       "duration_ms": 193535,
       "name": "Transactional Relationship",
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
+    },
+    {
+      "added_at": "2022-12-07 00:43:07",
+      "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
       "added_at": "2023-03-03 04:17:23",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd"
     },
     {
-      "added_at": "2023-04-12 01:28:07",
-      "album": {
-        "name": "chronopolis",
-        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
-      },
-      "artists": [
-        {
-          "name": "derek muro",
-          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "realcopy",
-      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
-    },
-    {
       "added_at": "2022-01-21 20:14:08",
       "album": {
         "name": "Leave Here",
@@ -223,6 +207,22 @@
       "duration_ms": 297585,
       "name": "Leave Here",
       "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
+    },
+    {
+      "added_at": "2023-04-12 01:28:07",
+      "album": {
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
+      },
+      "artists": [
+        {
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     },
     {
       "added_at": "2022-08-03 03:12:05",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
     },
     {
-      "added_at": "2023-04-12 14:46:36",
-      "album": {
-        "name": "As Fallen Leaves",
-        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
-      },
-      "artists": [
-        {
-          "name": "Serge Geyzel",
-          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
-        }
-      ],
-      "duration_ms": 299558,
-      "name": "Don't Know What You Are Thinking",
-      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Dopamine",
@@ -307,6 +291,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2023-04-12 14:46:36",
+      "album": {
+        "name": "As Fallen Leaves",
+        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
+      },
+      "artists": [
+        {
+          "name": "Serge Geyzel",
+          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
+        }
+      ],
+      "duration_ms": 299558,
+      "name": "Don't Know What You Are Thinking",
+      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
     },
     {
       "added_at": "2022-02-25 03:39:39",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
     },
     {
-      "added_at": "2023-03-28 06:18:56",
-      "album": {
-        "name": "weirdbloom",
-        "url": "https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ"
-      },
-      "artists": [
-        {
-          "name": "Artur M Puga",
-          "url": "https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn"
-        }
-      ],
-      "duration_ms": 279816,
-      "name": "NPCs have feelings too",
-      "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
-    },
-    {
       "added_at": "2022-03-30 05:37:06",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -639,6 +623,22 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2023-03-28 06:18:56",
+      "album": {
+        "name": "weirdbloom",
+        "url": "https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ"
+      },
+      "artists": [
+        {
+          "name": "Artur M Puga",
+          "url": "https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn"
+        }
+      ],
+      "duration_ms": 279816,
+      "name": "NPCs have feelings too",
+      "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
     },
     {
       "added_at": "2022-04-29 18:24:26",

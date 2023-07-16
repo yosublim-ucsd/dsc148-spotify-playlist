@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=UrHbGviuQ8uqIqTSwc8OqQ">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,328 likes - 49 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,398 likes - 49 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 2 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
-| 3 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
+| 3 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 | 4 | [Zinyanya Zami](https://open.spotify.com/track/0B0UNUK5N6bqtMYQBGd6oD) | [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Stacy](https://open.spotify.com/artist/6nuWJJNVyTzEiwG8gWFtuX) | [Zinyanya Zami](https://open.spotify.com/album/4rfdkFgKUyyqbavnQrxcMM) | 7:34 |
 | 5 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
 | 6 | [Lepanta](https://open.spotify.com/track/1AtEgqOGijcATNpVd1IDLa) | [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Freddy Mablomo](https://open.spotify.com/artist/0VJZvHDSv4ktb31qkUEPXz) | [Lepanta](https://open.spotify.com/album/7J0C0dNRXYDAZCdCihuu3y) | 3:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [Uthando Aluboni](https://open.spotify.com/track/3d9HoMtIQEC1PktOg2ownJ) | [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc), [Charlotte Lyf](https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP) | [Uthando Aluboni](https://open.spotify.com/album/1GYtvOSYmQ2nUcWRg0zzsH) | 4:53 |
 | 49 | [4R](https://open.spotify.com/track/24pdqHZOv8KnPIs98MdyKy) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [4R](https://open.spotify.com/album/5r6a0WEtwN7Rtk1nyRop1K) | 3:16 |
 
-Snapshot ID: `MCwzYmJmNThmYzM4YWNmYjY5OWYyYWY0ODU4NGZkYTRlNzQyZjRhMzQ5`
+Snapshot ID: `MCw2OGU0OTk4ODMyYWRiZTE2MzJjZDI5MGQ5MGFjNDgxOGJjODQ1OTZi`

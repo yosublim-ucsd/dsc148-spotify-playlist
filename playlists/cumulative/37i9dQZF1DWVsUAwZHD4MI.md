@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-114 songs - 7 hr 7 min
+115 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [I Want You](https://open.spotify.com/track/1uHlk9gAbkjo5fIAa448BI) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/0JLKa77aRkFpKut3yAiu3e) | [Gaze At Me](https://open.spotify.com/album/3PlaYGAJ0bpQdoINq60Zd6) | 3:46 | 2022-11-11 | 2022-11-14 |
 | [I Want You](https://open.spotify.com/track/4ZDTSzgw2enJ0LhQdG9lzk) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [CHARLTON](https://open.spotify.com/artist/5vbr3NOvquGPeW0SMkQ4dO) | [I Want You](https://open.spotify.com/album/55QcBgtjtm2j1u1pFVAF8Q) | 3:46 | 2022-09-05 |  |
 | [Ice Cold Lady Pimp](https://open.spotify.com/track/3QP2g16UJEk45TT8jdaGHI) | [Slim Guerilla](https://open.spotify.com/artist/1Odn7pOeUdEoOZeuox6nql) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/0gQzibHYxLtoQ4xTRvrY4X) | 1:30 | 2022-09-05 | 2022-10-15 |
-| [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 | 2022-09-05 |  |
+| [In a Manner of Speaking](https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY) | 3:58 | 2022-11-11 |  |
+| [In a Manner of Speaking](https://open.spotify.com/track/4ygRdvjxDYngbgddCtXDjT) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [Nouvelle vague](https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1) | 3:58 | 2022-09-05 | 2023-07-16 |
 | [Joyride](https://open.spotify.com/track/5gqatnMPLOzT9s2oW0hTW7) | [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Joyride](https://open.spotify.com/album/2WSIg0kGzxbkFdn6Kf8JrP) | 2:46 | 2022-09-05 |  |
 | [Kepko](https://open.spotify.com/track/5VChaeq6hagzFFwDsWETyz) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Kepko](https://open.spotify.com/album/6FY063UrUu9kj8ixxjSByb) | 3:12 | 2022-11-11 |  |
 | [Lalala \(Want Somebody\) \- X\-Coast Remix](https://open.spotify.com/track/2wC5MC7ya0YtiMPi11zIgn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [TDJ002 DELUXE](https://open.spotify.com/album/6Bni8QVdMurBYVtt3625xQ) | 3:55 | 2022-09-05 |  |

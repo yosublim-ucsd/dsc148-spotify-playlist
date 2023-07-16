@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 10204,
+  "num_followers": 10224,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2IzYWU3Njc0MGRjYTQ1NDljZWJmZjNhYjY5YWM0NGZjYzliYzQ0",
+  "snapshot_id": "MCwyOGVjNjdlZmI4ODA4NDZhNGNmYmUyZmIyYWRjMDljYmVkZmVkNjAx",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -621,6 +621,38 @@
       "url": "https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6"
     },
     {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "L'\u00e9t\u00e9 suivant...",
+        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
+      },
+      "artists": [
+        {
+          "name": "Limousine",
+          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
+        }
+      ],
+      "duration_ms": 387200,
+      "name": "Autoroute",
+      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
+    },
+    {
+      "added_at": "2023-01-25 02:05:47",
+      "album": {
+        "name": "Nieve Afuera",
+        "url": "https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo"
+      },
+      "artists": [
+        {
+          "name": "Aliage",
+          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
+        }
+      ],
+      "duration_ms": 277845,
+      "name": "Nieve Afuera",
+      "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 2: The Score",
@@ -651,22 +683,6 @@
       "duration_ms": 330708,
       "name": "A Haze Of Patriotic Fervor",
       "url": "https://open.spotify.com/track/7vRplv4cDf3zUzYJk6CgVI"
-    },
-    {
-      "added_at": "2023-01-25 02:05:47",
-      "album": {
-        "name": "Nieve Afuera",
-        "url": "https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo"
-      },
-      "artists": [
-        {
-          "name": "Aliage",
-          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
-        }
-      ],
-      "duration_ms": 277845,
-      "name": "Nieve Afuera",
-      "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -705,22 +721,6 @@
       "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "L'\u00e9t\u00e9 suivant...",
-        "url": "https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM"
-      },
-      "artists": [
-        {
-          "name": "Limousine",
-          "url": "https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh"
-        }
-      ],
-      "duration_ms": 387200,
-      "name": "Autoroute",
-      "url": "https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja"
-    },
-    {
       "added_at": "2022-08-09 01:36:21",
       "album": {
         "name": "Pulse Of The Early Brain [Switched On Volume 5]",
@@ -739,6 +739,22 @@
       "duration_ms": 646683,
       "name": "Simple Headphone Mind",
       "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 173550,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -771,22 +787,6 @@
       "duration_ms": 205586,
       "name": "Ride",
       "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 173550,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Boxed In",
-        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
-      },
-      "artists": [
-        {
-          "name": "Boxed In",
-          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "All Your Love is Gone",
-      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "With Dim Light",
         "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 346883,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Boxed In",
+        "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
+      },
+      "artists": [
+        {
+          "name": "Boxed In",
+          "url": "https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "All Your Love is Gone",
+      "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -999,22 +999,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Floating Coffin",
         "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 266120,
       "name": "No Spell",
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2022-03-04 01:55:34",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
-      "added_at": "2022-03-29 02:06:14",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "NEU! 75",
@@ -1129,20 +1113,20 @@
       "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-03-29 02:06:14",
       "album": {
-        "name": "Love Comes In Waves",
-        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
       },
       "artists": [
         {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
         }
       ],
-      "duration_ms": 288575,
-      "name": "Love Comes In Waves",
-      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1163,6 +1147,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Love Comes In Waves",
+        "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 288575,
+      "name": "Love Comes In Waves",
+      "url": "https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "F\u00fcr mich",
-        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dinger",
-          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
-        }
-      ],
-      "duration_ms": 566520,
-      "name": "F\u00fcr Dich",
-      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Warrior on the Edge of Time",
         "url": "https://open.spotify.com/album/0vp16atvbB8MmXPaL8Q3A9"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 309733,
       "name": "Opa-Loka",
       "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "F\u00fcr mich",
+        "url": "https://open.spotify.com/album/54afnNMBOmsGVGXs6yi3rO"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dinger",
+          "url": "https://open.spotify.com/artist/35aFCAq2lreYMf2nrhtgfm"
+        }
+      ],
+      "duration_ms": 566520,
+      "name": "F\u00fcr Dich",
+      "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Faust IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
-      },
-      "artists": [
-        {
-          "name": "Faust",
-          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
-        }
-      ],
-      "duration_ms": 708813,
-      "name": "Krautrock - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Emperor Tomato Ketchup",
-        "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
+        "name": "Faust IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+          "name": "Faust",
+          "url": "https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7"
         }
       ],
-      "duration_ms": 245093,
-      "name": "Les Yper-Sound",
-      "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
+      "duration_ms": 708813,
+      "name": "Krautrock - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1487,6 +1471,22 @@
       "duration_ms": 396306,
       "name": "Mother Sky (from Deep End)",
       "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Emperor Tomato Ketchup",
+        "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Les Yper-Sound",
+      "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "The Power Out",
+        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 273840,
+      "name": "Only One Thing Is Needed",
+      "url": "https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO"
       },
@@ -1569,20 +1585,20 @@
       "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2021-12-07 05:18:52",
       "album": {
-        "name": "The Power Out",
-        "url": "https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7"
+        "name": "Ookii Gekkou",
+        "url": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG"
       },
       "artists": [
         {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
         }
       ],
-      "duration_ms": 273840,
-      "name": "Only One Thing Is Needed",
-      "url": "https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id"
+      "duration_ms": 172893,
+      "name": "Tub Erupt",
+      "url": "https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1599,22 +1615,6 @@
       "duration_ms": 319853,
       "name": "Yatton",
       "url": "https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh"
-    },
-    {
-      "added_at": "2021-12-07 05:18:52",
-      "album": {
-        "name": "Ookii Gekkou",
-        "url": "https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 172893,
-      "name": "Tub Erupt",
-      "url": "https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5"
     },
     {
       "added_at": "2021-07-30 14:56:06",

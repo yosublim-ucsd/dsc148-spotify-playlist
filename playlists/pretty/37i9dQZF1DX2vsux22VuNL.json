@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Hodari, Luedji Luna",
-  "num_followers": 281978,
+  "num_followers": 282009,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjk3NjdhN2EwNjAxYThjYmRjN2QzMzI4NDJlYTkyYzhmYmM0NWQ1",
+  "snapshot_id": "MCxlOGY4YzA0Zjc4YThjYTBmNGRhOGI1ZTkzMzZiOTZmNDI4MjcyYTRh",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
-      },
-      "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        }
-      ],
-      "duration_ms": 160967,
-      "name": "Ponto de Brasa",
-      "url": "https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "FOME",
         "url": "https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 169868,
       "name": "FOME",
       "url": "https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        }
+      ],
+      "duration_ms": 160967,
+      "name": "Ponto de Brasa",
+      "url": "https://open.spotify.com/track/6uMrqQArCIGXuvdp9J8ymE"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1387,30 +1387,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Existe Vida Sem Voc\u00ea",
-        "url": "https://open.spotify.com/album/4lkLl3xtFHAWQ9jJrb71A9"
-      },
-      "artists": [
-        {
-          "name": "Nith",
-          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
-        },
-        {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Catt\u00ea",
-          "url": "https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W"
-        }
-      ],
-      "duration_ms": 237712,
-      "name": "Existe Vida Sem Voc\u00ea",
-      "url": "https://open.spotify.com/track/4UDOZtOMOt9f26Ry1QiWzk"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "n\u00e3o te amo mais",
         "url": "https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj"
       },
@@ -1431,6 +1407,30 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Existe Vida Sem Voc\u00ea",
+        "url": "https://open.spotify.com/album/4lkLl3xtFHAWQ9jJrb71A9"
+      },
+      "artists": [
+        {
+          "name": "Nith",
+          "url": "https://open.spotify.com/artist/3OZbEO1ofELMzNrleV5Umb"
+        },
+        {
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Catt\u00ea",
+          "url": "https://open.spotify.com/artist/3zDcpCuml9h74aIOs8Gx2W"
+        }
+      ],
+      "duration_ms": 237712,
+      "name": "Existe Vida Sem Voc\u00ea",
+      "url": "https://open.spotify.com/track/4UDOZtOMOt9f26Ry1QiWzk"
     },
     {
       "added_at": "2023-07-14 03:00:00",

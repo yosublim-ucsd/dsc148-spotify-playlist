@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,641 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,719 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 58 | [cake & iced coffee](https://open.spotify.com/track/1sfEsPoIYEGwbAkZFfCylR) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [cake & iced coffee](https://open.spotify.com/album/5AzFxawnHgewR0EckQb25e) | 2:40 |
 | 59 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 |
 | 60 | [See You Again](https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [See You Again](https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4) | 2:43 |
-| 61 | [Express My Love](https://open.spotify.com/track/15nYVpFSB7suJusPCTEbhh) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Express My Love](https://open.spotify.com/album/6euBhT3cSXLUUwg8KZqejg) | 3:02 |
+| 61 | [Express My Love](https://open.spotify.com/track/15nYVpFSB7suJusPCTEbhh) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Express My Love](https://open.spotify.com/album/6euBhT3cSXLUUwg8KZqejg) | 3:10 |
 | 62 | [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 |
 | 63 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 |
 | 64 | [It's About You](https://open.spotify.com/track/0eGB30OSpcSGEq9NjVnqwh) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [It's About You](https://open.spotify.com/album/5NkAHtWPzUZUyWzAiSUMd4) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 |
 | 100 | [Do Si Do](https://open.spotify.com/track/0lXjag7QhbY2UQdbKKLpQR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Do Si Do](https://open.spotify.com/album/2X1iXLehHwCZsP2BXEiEGg) | 2:38 |
 
-Snapshot ID: `MCw3ZjUwMTkzYTQ0OTM5YTZkNGE2YjE3MWYxYjU1MmI5YmU0OWEzMTY4`
+Snapshot ID: `MCxiMjQ5MmFjMWZiMTFhYmEyMzc4NWJjYmYwNGEzNjg2M2JiODIxZWY1`

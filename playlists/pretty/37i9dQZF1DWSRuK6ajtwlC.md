@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. T3R Elemento & Conjunto Rienda Real en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,270 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,573 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 74 | [San Lucas](https://open.spotify.com/track/5aZubhYBTy6tWIbRZMxVbF) | [Exceso Norte](https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw) | [San Lucas](https://open.spotify.com/album/78LHb0YpQCcDNxsZ6DdN9I) | 2:48 |
 | 75 | [Yo te quiero](https://open.spotify.com/track/5eCr4lBfPoWX7dFYRvac4R) | [Contacto Norte](https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU) | [Yo te quiero](https://open.spotify.com/album/5BJrBgjDmG9ARd4ECAmYiW) | 2:47 |
 
-Snapshot ID: `MCxiZmE5NjVmODI0ZDUyZjhlMDk5NDE1YTIyOTQ1M2Y1NTI2MzU5Yjc1`
+Snapshot ID: `MCxmYTJmODY0MGIyY2JkZWZlNTkyNzExNWNjNDhmYTNkNDNiNGI0ZjY3`

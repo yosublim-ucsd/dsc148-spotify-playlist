@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-78 songs - 4 hr 49 min
+79 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Mean\-Hearted Woman](https://open.spotify.com/track/6LeQGBg3QO2lLb2OWD96O2) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [A Southern Gothic](https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n) | 3:43 | 2022-10-27 |  |
 | [Muddy Water](https://open.spotify.com/track/73HQSD2qTu24jGVAF4Utxq) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:34 | 2022-10-27 |  |
 | [Murder at the Bingo Hall](https://open.spotify.com/track/6ugyqxHWS5zpfhGXp928Ef) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Born Against](https://open.spotify.com/album/4XEgfcc6oEc9KT1T9T4dn8) | 3:21 | 2022-10-27 |  |
-| [Murder In The Red Barn](https://open.spotify.com/track/0tMVpNYTOcPulIXocDQF7i) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine](https://open.spotify.com/album/5blxyZRgkA735vO40p56MA) | 4:28 | 2022-10-27 |  |
+| [Murder In The Red Barn](https://open.spotify.com/track/0tMVpNYTOcPulIXocDQF7i) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine](https://open.spotify.com/album/5blxyZRgkA735vO40p56MA) | 4:28 | 2022-10-27 | 2023-07-16 |
+| [Murder In The Red Barn \- 2023 Remaster](https://open.spotify.com/track/1UTCs77ZxgIG0qSX02JzxL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Bone Machine \(2023 Remaster\)](https://open.spotify.com/album/4VNqy9FUAFCvwE6XqrtlOn) | 4:28 | 2022-10-27 |  |
 | [My Boy Builds Coffins \- Acoustic](https://open.spotify.com/track/58WxnqLvH1zixuhAXCBdtS) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(10th Anniversary Edition\)](https://open.spotify.com/album/58nHLzYWPr0YhsECvy7Ihw) | 2:50 | 2022-10-27 |  |
 | [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6XdY9JkV7GQ6o4pZ9qwWRe) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 0:52 | 2022-10-27 |  |
 | [Night Scented Stock \- 2018 Remaster](https://open.spotify.com/track/6ZYjCeL9704rdBdDI59gRY) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 0:52 | 2022-10-27 | 2023-03-18 |

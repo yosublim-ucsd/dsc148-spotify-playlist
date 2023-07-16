@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,175 likes - 89 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,652 likes - 89 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 11 | [Asa Branca \(Rennan & Douth! Remix\)](https://open.spotify.com/track/0NdY6ZyUighhipcIBMImGy) | [RENNAN](https://open.spotify.com/artist/1Sq3SWhfNjw1e3gpCDTry0), [Douth!](https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz), [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Asa Branca \(Rennan & Douth! Remix\)](https://open.spotify.com/album/33lNC0BTwLcst02mDrzqhk) | 4:23 |
 | 12 | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/track/36FtXn63kzlJjwRx66Dyox) | [Jaldo Rodrigues](https://open.spotify.com/artist/2ZtIsSrdk08ODFYVLeYZKq) | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/album/6w7uzGTzLC2hvDSSbiM1GA) | 2:02 |
 | 13 | [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 |
-| 14 | [Faz Completo Chefe](https://open.spotify.com/track/57EfwoZAjGSLofnFea2bWY) | [mc's kako](https://open.spotify.com/artist/4lS5ZQgVUl47Nn3kI9wu7V) | [Faz Completo Chefe](https://open.spotify.com/album/5UowZknT0LGEi7Ab7g8q0N) | 2:22 |
+| 14 | [Faz completo chefe](https://open.spotify.com/track/2U6m5xkQRzwU1Z9FJRyPVJ) | [mc menor vt](https://open.spotify.com/artist/4L2XiRy01sO21hxRgo8qk7) | [Faz completo chefe](https://open.spotify.com/album/33hROE0H92lTqbo4j44Tmi) | 2:24 |
 | 15 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 |
 | 16 | [Vai, vai muuuu](https://open.spotify.com/track/1UelJ6cu6YS2ko6RkFKZEy) | [Rick & Renner](https://open.spotify.com/artist/0ozdcqmICsOZDe7eJQVzrp) | [Coisa de Deus](https://open.spotify.com/album/3RBNlsezIpkFb9meBXieS5) | 4:29 |
 | 17 | [Macho Preferido](https://open.spotify.com/track/4D4yBfKqS2aBblJyVlpA7i) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Macho Preferido](https://open.spotify.com/album/3srxNt9v8dZbep7Ha9CWE8) | 2:11 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 88 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 89 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw0NDBiYjM5MmQ1YWY5OTk1NTFjNzNhMWRkNWQwMWQ5ZmE2OTVhMzM1`
+Snapshot ID: `MCw2OTFmOTFhZDFjMTk4ZjY4ZDY4ODllZDFiMTcyMTMwNzhlZmU2ODk4`

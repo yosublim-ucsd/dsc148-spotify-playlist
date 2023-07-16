@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: a kid named rufus
 
-874 songs - 2 day 4 hr 29 min
+875 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 | 2022-04-21 |  |
 | [Aphrodite](https://open.spotify.com/track/1SDJc7GlAZWHf7E72DUbSA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Aphrodite](https://open.spotify.com/album/4LD1Urj2qAUoyMSlXDz1QU) | 3:53 | 2022-06-02 | 2022-07-29 |
 | [Aphrodite](https://open.spotify.com/track/76HyU4x0lvucRXTXeCca0I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Shangri\-La Is Calling](https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK) | 3:53 | 2023-04-20 | 2023-07-05 |
-| [APPLE PIE](https://open.spotify.com/track/2wTQqHB7S81sdNbNmrvSyG) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Darren Ashley](https://open.spotify.com/artist/5N0Y2jMirjocizWBWJBXu3) | [APPLE PIE](https://open.spotify.com/album/5kRBx7g0FjPoZ5uO1sf5mE) | 2:21 | 2023-06-22 |  |
+| [APPLE PIE](https://open.spotify.com/track/2wTQqHB7S81sdNbNmrvSyG) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Darren Ashley](https://open.spotify.com/artist/5N0Y2jMirjocizWBWJBXu3) | [APPLE PIE](https://open.spotify.com/album/5kRBx7g0FjPoZ5uO1sf5mE) | 2:21 | 2023-06-22 | 2023-07-16 |
 | [Aquarius](https://open.spotify.com/track/498sUCKC4a01UNQuM1c6X0) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Aquarius](https://open.spotify.com/album/0L49dqQwnhvRQIuw4kZ9Rr) | 6:23 | 2023-03-02 | 2023-03-25 |
 | [Arduous to Forget You](https://open.spotify.com/track/6rd0OIT1yO9FIFbZYC8Peo) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Arduous to Forget You](https://open.spotify.com/album/4VWSd18OYYtfMyj8w3vSyU) | 4:01 | 2022-03-24 | 2022-04-15 |
 | [Around You](https://open.spotify.com/track/3zuFzgkWtyZrHHqyVQVRSx) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/1NVXBLjvAo5mkppYVzao42) | 3:42 | 2022-03-24 | 2022-05-13 |
@@ -92,7 +92,7 @@
 | [Bla Bli Blu](https://open.spotify.com/track/4xPm60nWTJvaqcBj5muISb) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Bla Bli Blu](https://open.spotify.com/album/7N20DwQyvvrcGZW2yOYZXw) | 2:57 | 2022-04-28 | 2022-06-17 |
 | [BLAZE](https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [camp](https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX) | 3:09 | 2022-03-24 | 2022-05-13 |
 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 | 2022-12-15 | 2023-03-18 |
-| [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-04-20 |  |
+| [BLOOM](https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [BLOOM](https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf) | 3:01 | 2023-04-20 | 2023-07-16 |
 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 | 2023-05-18 |  |
 | [Blue](https://open.spotify.com/track/1p98nMaX0RhzvZtGVKEITv) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Blue](https://open.spotify.com/album/1d6GzjBWh3vRP4P9iqRqvw) | 3:49 | 2022-08-04 | 2022-09-23 |
 | [Blue](https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt) | [Retlehs](https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX) | [Satyr's Satire](https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2) | 3:57 | 2022-07-28 | 2022-08-19 |
@@ -190,7 +190,7 @@
 | [Desire](https://open.spotify.com/track/3xnBJVytupb5FhfOHwjwER) | [Somethink](https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI), [Sara Dennaz](https://open.spotify.com/artist/7EWf5ShQantyDNV3dYtTst) | [Desire](https://open.spotify.com/album/1BssOlfQL1Mc4BKMzmRXDG) | 2:44 | 2023-01-19 | 2023-03-18 |
 | [Devil's Bargain](https://open.spotify.com/track/0a3IlLkvg1FaUAs4QR1Yse) | [Belly Rachel](https://open.spotify.com/artist/1ACa5a078zqkCA7kH9XtPZ) | [Devil's Bargain](https://open.spotify.com/album/5gRd0zhPpH4TUmfMTBKZNg) | 4:57 | 2023-06-08 | 2023-07-15 |
 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [Fiko Nainggolan](https://open.spotify.com/artist/0fOEDOEkZobdwo8jksF98r), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-02-09 | 2023-03-18 |
-| [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 | 2023-04-20 | 2023-07-15 |
+| [Different Shade of Blue](https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl) | 2:50 | 2023-04-20 |  |
 | [Different Shade of Blue](https://open.spotify.com/track/4TfTHd6vzdJwETRmfKK7pB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2qFwbnJz52vHxJUQCcJdAv) | 2:50 | 2022-03-24 | 2022-06-03 |
 | [Different Socks](https://open.spotify.com/track/7GbD3tRjKaqc2yvkPe23ex) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [Different Socks](https://open.spotify.com/album/6RVTdal84K19D7ERNToJTh) | 3:39 | 2023-03-31 | 2023-04-21 |
 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 | 2022-10-28 | 2023-02-03 |
@@ -696,6 +696,7 @@
 | [This Is Where I Leave You](https://open.spotify.com/track/1XdkU9HeHcHaKxLjIjP7c0) | [Danny Leone](https://open.spotify.com/artist/54TPhv2iPcuPObOzxZLQbO) | [This Is Where I Leave You](https://open.spotify.com/album/2glM5A2KXvltgXvkotGJaE) | 4:05 | 2022-05-26 | 2022-07-08 |
 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [The Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 | 2022-05-06 | 2022-06-17 |
 | [Tip Toe](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Tip Toe](https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF) | 3:44 | 2023-06-22 |  |
+| [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 | 2023-07-14 |  |
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-21 | 2022-05-13 |
 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 | 2023-06-15 |  |
 | [Told You So](https://open.spotify.com/track/44oV4Lbj57EoORRzSNWCRX) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Genesis](https://open.spotify.com/album/1uIG9MSyXNBiq3cgH6Und5) | 5:13 | 2022-06-23 | 2022-07-15 |

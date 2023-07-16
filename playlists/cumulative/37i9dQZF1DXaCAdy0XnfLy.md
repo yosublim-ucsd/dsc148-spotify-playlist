@@ -4,7 +4,7 @@
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-39 songs - 1 hr 57 min
+40 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Smack a Bitch](https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Smack a Bitch](https://open.spotify.com/album/3Ja54bCouLvrDLt3XKzMii) | 2:18 | 2023-01-27 |  |
 | [Stay](https://open.spotify.com/track/2U1DQrNwkkotZxgyW3sZVu) | [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 1:33 | 2023-01-27 |  |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2023-01-27 |  |
-| [Stay High \- Childish Gambino Version](https://open.spotify.com/track/7d9x9mJPAruRZOieauLHrF) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/1pqm2OlY6O35z5IK8FgIdX) | 3:38 | 2023-01-27 |  |
+| [Stay High](https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime \(Reimagined\)](https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP) | 3:38 | 2023-01-27 |  |
+| [Stay High \- Childish Gambino Version](https://open.spotify.com/track/7d9x9mJPAruRZOieauLHrF) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/1pqm2OlY6O35z5IK8FgIdX) | 3:38 | 2023-01-27 | 2023-07-16 |
 | [Take Care](https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:37 | 2023-01-27 |  |
 | [Trauma Baby](https://open.spotify.com/track/2QrA62LLiEVHtuuBVkxLe3) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Red Flags](https://open.spotify.com/album/7en2lHSBnO3VMNPzWz6mfI) | 2:29 | 2023-01-27 |  |
 | [What We Need](https://open.spotify.com/track/1VehDmef8S5IPN87Kqjqz9) | [Georgina Birch](https://open.spotify.com/artist/5DyYEbN8Y2iTnhSoRkwajz) | [Bloom](https://open.spotify.com/album/7zEUXsDD0SGInIGKgImUwu) | 2:52 | 2023-01-27 |  |

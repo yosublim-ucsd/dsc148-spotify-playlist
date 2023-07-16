@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Little Dragon
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,190 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,198 likes - 85 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [Black Horse](https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:42 |
 | 85 | [Seeking For Connection](https://open.spotify.com/track/02lOqWWFVJ03uEf80YDrrk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Seeking For Connection](https://open.spotify.com/album/0mhtW9uXg47fTa35fFk72C) | 2:54 |
 
-Snapshot ID: `MCxlMzMzY2UxNzUwZWFlMjY3ZWIxY2FjNzA1MzQ0NDI4OTNlZTNlODk5`
+Snapshot ID: `MCw0N2Q0N2Q0NjdlYTMyYWNiYjE4YjA3NGU5MDNmZDBiYTNlMTgyODgw`

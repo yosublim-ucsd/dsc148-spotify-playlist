@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
-  "num_followers": 5999,
+  "num_followers": 6024,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzU1YTBlNTdiOTMzNDgyNWFjMDg3YTk2ZjY3ZmEyZWRlZjczMjQz",
+  "snapshot_id": "MCxlYmQyNTg0ZWVhMzQ3YzZjNmExMDYzY2Q5YTc0ZTVhMGRmYTBmOWEx",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Sorry 4 What",
+        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 145918,
+      "name": "Why Did I",
+      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Gardner Express",
         "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 171000,
       "name": "Attachments",
       "url": "https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Sorry 4 What",
-        "url": "https://open.spotify.com/album/7MUY0WxCmHcgEEeQNjoe8a"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 145918,
-      "name": "Why Did I",
-      "url": "https://open.spotify.com/track/6NrB2hKwlyVfFY8qhKc8U6"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "EXTRA EXTRA!",
+        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "MUST BE",
+      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Examples",
         "url": "https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 156000,
       "name": "Examples",
       "url": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "EXTRA EXTRA!",
-        "url": "https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "MUST BE",
-      "url": "https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 150292,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 245093,
       "name": "Realest In the City (feat. Meek Mill & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 150292,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1255,6 +1255,30 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "All Aces",
+        "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "All Aces",
+      "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
       },
@@ -1295,26 +1319,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "All Aces",
-        "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
       },
       "artists": [
         {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
-          "name": "Byg Byrd",
-          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
-        },
-        {
-          "name": "Blamo",
-          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
         }
       ],
-      "duration_ms": 201600,
-      "name": "All Aces",
-      "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1335,22 +1351,6 @@
       "duration_ms": 208991,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
-      },
-      "artists": [
-        {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
-        }
-      ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2023-07-14 04:01:00",

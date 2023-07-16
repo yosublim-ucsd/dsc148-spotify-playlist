@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,942 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,961 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 23 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 |
 | 24 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
 | 25 | [All I Need](https://open.spotify.com/track/6o0Ty1vnnAsWV6AqdDGGGL) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [All I Need](https://open.spotify.com/album/2Tg1EnKStuC0iD2dVxbeNi) | 2:36 |
-| 26 | [Call Me](https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Tony Choc](https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE) | [Call Me](https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j) | 2:33 |
-| 27 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
+| 26 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
+| 27 | [Call Me](https://open.spotify.com/track/3tJrOPSev1xZwCmJdCQKOy) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Tony Choc](https://open.spotify.com/artist/3ElWJfZUUmEtHbgn8RymjE) | [Call Me](https://open.spotify.com/album/1p4ueJZDXqseKEyNXgta4j) | 2:33 |
 | 28 | [FENDI](https://open.spotify.com/track/0R810JwhuTEiU495n620FZ) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [FENDI](https://open.spotify.com/album/6pq5JEiCrgTAvuONw4xWWn) | 2:11 |
 | 29 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
 | 30 | [Are We Really Free](https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Are We Really Free](https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO) | 4:47 |
 
-Snapshot ID: `MCxkMWYzMjE2ZTAwMzUxYzA2NmFjMDY0YjZmZWU4ZGRlMzNlMGE2ZDlj`
+Snapshot ID: `MCw3ZDg5NjNkZWM1Y2QyZTZhNmEyNmRmNjEyMTczODZhYzQ4NWVmYTU3`

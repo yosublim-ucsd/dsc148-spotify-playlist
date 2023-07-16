@@ -4,7 +4,7 @@
 
 > Deathcore Playlist
 
-234 songs - 16 hr 18 min
+235 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [The Nothing](https://open.spotify.com/track/11icmn8TYHi841OwHXRNT8) | [The Hopewell Furnace](https://open.spotify.com/artist/4PaQxoEQP2OQMgDXRpFxNl) | [The Nothing](https://open.spotify.com/album/2X7DS8zM6JcKMUCHR3JsYu) | 5:01 | 2021-03-20 |  |
 | [The Offering](https://open.spotify.com/track/6bjtp3KWIWQ0EZO7qq7DLc) | [Ov Ruin](https://open.spotify.com/artist/6gdIQiCwQ0KlZTyE2Ldlgm), [Blake Mullens of Disembodied Tyrant](https://open.spotify.com/artist/0t9brZiLxf06bZm752I2Pj) | [The Offering](https://open.spotify.com/album/7DqtShvlb1a0umLYKtDEQB) | 4:38 | 2023-04-10 |  |
 | [The Offering](https://open.spotify.com/track/7GFn2lantoamiDeQXir7Oy) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [The Offering](https://open.spotify.com/album/10rCu3ngUJo4967zPEepKz) | 3:59 | 2020-05-04 |  |
+| [The Pale Impotent King](https://open.spotify.com/track/3ZUkvMkkGQ7SLRc92bXSZk) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [The Pale Impotent King](https://open.spotify.com/album/4rLtdk5pm73yz0I8judHsr) | 3:19 | 2023-07-15 |  |
 | [The Rot Within](https://open.spotify.com/track/0XYHZHX4evrMEPNzHnaZHF) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL), [Alex Teyen](https://open.spotify.com/artist/6BOFplMWu1WytZSucgGHVf) | [The Rot Within](https://open.spotify.com/album/1Fb70yxP3v8xGugOWiU38A) | 5:08 | 2020-05-04 |  |
 | [The Rotten King](https://open.spotify.com/track/511w9xatJL6WVsYf6xfJz6) | [A Night In Texas](https://open.spotify.com/artist/4Fsg1Qph71iuRg07o5rFAS) | [Unholy Alliance](https://open.spotify.com/album/3gynddV88ZteewEoSeqqXt) | 3:47 | 2018-09-21 |  |
 | [The Testament of the Infernal](https://open.spotify.com/track/2GfW4IL7LJ5XcFnteHuoZa) | [Wraithborn](https://open.spotify.com/artist/7nFTYdPRCFyrPaRDgrstXj) | [The Testament of the Infernal](https://open.spotify.com/album/2AcOgXzG8Tbp9EIUij70LU) | 4:54 | 2020-12-25 |  |

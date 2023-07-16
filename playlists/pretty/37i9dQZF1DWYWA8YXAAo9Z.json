@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 44641,
+  "num_followers": 44666,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4",
+  "snapshot_id": "MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -247,42 +247,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Yes I",
-        "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
-      },
-      "artists": [
-        {
-          "name": "Answer Code Request",
-          "url": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
-        },
-        {
-          "name": "Jan Wagner",
-          "url": "https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Yes I",
-      "url": "https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -311,6 +275,42 @@
       "duration_ms": 219515,
       "name": "A Minor Astronomical Event",
       "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Yes I",
+        "url": "https://open.spotify.com/album/4zrkxvozf8sXclGZVuGQMR"
+      },
+      "artists": [
+        {
+          "name": "Answer Code Request",
+          "url": "https://open.spotify.com/artist/52NOZYgYNsmv3nS0me6cqO"
+        },
+        {
+          "name": "Jan Wagner",
+          "url": "https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Yes I",
+      "url": "https://open.spotify.com/track/6S2QPyA5Lx2Y4wNxUT4HMd"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "North of Roswell",
+        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "duration_ms": 154830,
+      "name": "North of Roswell",
+      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 166001,
       "name": "Glendora",
       "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "North of Roswell",
-        "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Softwoods",
-          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
-        }
-      ],
-      "duration_ms": 154830,
-      "name": "North of Roswell",
-      "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "The Last Wave",
-        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
-      },
-      "artists": [
-        {
-          "name": "Ibukun Sunday",
-          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Last Earth",
-      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "CHU / \u8655",
         "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib"
+      },
+      "artists": [
+        {
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Last Earth",
+      "url": "https://open.spotify.com/track/553pFfksyASLhP9Px67yNv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
-      },
-      "artists": [
-        {
-          "name": "Hoavi",
-          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "full/new",
         "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 452476,
       "name": "The Hermit",
       "url": "https://open.spotify.com/track/7uP27nSIwuPhLsCV0i7fJI"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
+      },
+      "artists": [
+        {
+          "name": "Hoavi",
+          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "ABOVE_BETWEEN_BELOW",
-        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
-      },
-      "artists": [
-        {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
-        }
-      ],
-      "duration_ms": 317393,
-      "name": "BELOW",
-      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Wing Pinger",
         "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 511730,
       "name": "Wing Pinger 01",
       "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "ABOVE_BETWEEN_BELOW",
+        "url": "https://open.spotify.com/album/2sIdCMXjJHiHC4296KIZGc"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        }
+      ],
+      "duration_ms": 317393,
+      "name": "BELOW",
+      "url": "https://open.spotify.com/track/2Y0z1e8Q782CmrWFqYjjWP"
     },
     {
       "added_at": "2023-03-10 00:01:00",

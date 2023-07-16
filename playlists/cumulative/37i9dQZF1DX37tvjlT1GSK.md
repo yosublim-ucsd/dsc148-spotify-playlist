@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. El Fantasma en portada.
 
-268 songs - 14 hr 20 min
+269 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7pNp2nI4VFoEGxWQqSDL8e) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aplaca Tus Berrinches](https://open.spotify.com/album/66FijRk3dAcaEUv9gdFrjr) | 3:12 | 2022-09-23 | 2022-12-03 |
 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 | 2021-12-27 |  |
 | [Así Soy Yo](https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Así Soy Yo](https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W) | 2:54 | 2022-09-23 | 2022-11-14 |
+| [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 | 2023-07-14 |  |
 | [Aún Sigo Yo](https://open.spotify.com/track/0MszENtGxtgLfEKvIMk83P) | [Julio Yael](https://open.spotify.com/artist/1BQuC7A1Kcos9WZkOPIO4w) | [Aún Sigo Yo](https://open.spotify.com/album/7hBhWbJ6gchknTGVZ9XsJY) | 3:20 | 2022-04-01 | 2022-07-23 |
 | [Bla Bla Bla](https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Bla Bla Bla](https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5) | 2:16 | 2022-07-01 | 2022-12-03 |
 | [Blackjack](https://open.spotify.com/track/0Muqo5yTYi4gTUpwYMQvYC) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Blackjack](https://open.spotify.com/album/6Hu7oVnR7qp3ImU9LudnHH) | 3:37 | 2022-07-01 | 2023-03-07 |

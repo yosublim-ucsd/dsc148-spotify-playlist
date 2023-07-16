@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,770 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,817 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 10 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 | 11 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
 | 12 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 |
-| 13 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
+| 13 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 | 14 | [Love & Light](https://open.spotify.com/track/2tCW51NHWQmOCW2Yto4Web) | [Indian Askin](https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6) | [Love & Light](https://open.spotify.com/album/3ISa02QVkjbi6ybVOxTudV) | 3:06 |
 | 15 | [Jongetjes Uit Zuid 2.0](https://open.spotify.com/track/2Sh6QeWB7TwzZzIwauIAlx) | [Qlas & Blacka](https://open.spotify.com/artist/0ltU5V1lbLkZlgXrnCeGjx) | [Deadline](https://open.spotify.com/album/7uHzVmvjusgtUt2iPFk55t) | 2:19 |
 | 16 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [Fıstık](https://open.spotify.com/track/6NUuqQJoZQULg0kX4wo1gL) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Fıstık](https://open.spotify.com/album/5BB0Bx6pmN3YknwBkF6rAU) | 1:59 |
 | 63 | [Oh! Chuva](https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Oh! Chuva](https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU) | 2:24 |
 | 64 | [Trust](https://open.spotify.com/track/7bo3lJL39AxQjjWa6ibEyW) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Trust](https://open.spotify.com/album/4jJb6rZqOHBl8iIab4P3NI) | 3:21 |
-| 65 | [Langer Dood Dan Dat Je leeft](https://open.spotify.com/track/6Y65yoJNx0jPFt27kZpNDH) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Langer Dood Dan Dat Je Leeft](https://open.spotify.com/album/6O4It7jwS9LOFWlKLfsxmB) | 2:50 |
+| 65 | [Langer Dood Dan Dat Je Leeft](https://open.spotify.com/track/6Y65yoJNx0jPFt27kZpNDH) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Langer Dood Dan Dat Je Leeft](https://open.spotify.com/album/6O4It7jwS9LOFWlKLfsxmB) | 2:50 |
 | 66 | [Altijd & Overal](https://open.spotify.com/track/1VNJs229kxREemq2IfrTMC) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Altijd & Overal](https://open.spotify.com/album/6HfJGmzF62fpm4RmXVhNZA) | 3:09 |
 | 67 | [Laat Het Zien](https://open.spotify.com/track/4hWL98x3W5hE8phJdtuydg) | [NOAH](https://open.spotify.com/artist/79sYawfJOgDrPi0FtRsYRy) | [Laat Het Zien](https://open.spotify.com/album/6cpFpydI7lskkF6m47OCXL) | 3:20 |
 | 68 | [Sunlight](https://open.spotify.com/track/2grj6VOKUS8t1P8YMNkzRw) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Sunlight](https://open.spotify.com/album/0rsm3w0AdZ109hcOdCFb8C) | 2:46 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [Quiet \(feat\. Bram Houg\)](https://open.spotify.com/track/2pskoobUrg7ZmGmOHikt9I) | [Nghtshft](https://open.spotify.com/artist/7IuG8gEa99XWoXGsTXp3D1), [Bram Houg](https://open.spotify.com/artist/02eE2UGRq6EJDoQQT0WliG) | [Quiet \(feat\. Bram Houg\)](https://open.spotify.com/album/4eXf2tV0pVbhNTEJ3rAIPJ) | 2:27 |
 | 101 | [The Law](https://open.spotify.com/track/08IcO7cQDTF36cTd00bYMd) | [Seven](https://open.spotify.com/artist/3fOoU3NRieBjBAeoMyETuZ) | [The Law](https://open.spotify.com/album/7HSULfHH5ZyAjKw51lc9LR) | 3:40 |
 
-Snapshot ID: `MCxiYjVjNGQ0MzQ1ZDU3YWZkMjRiNzUwYzYxMjQ2OTg0NDQ5OGUxOGQw`
+Snapshot ID: `MCxkYTJjZTdmOGZmMmNjYmYyY2I4MDU5MjYyYzUwZjVmNWZkMDgxMTFh`

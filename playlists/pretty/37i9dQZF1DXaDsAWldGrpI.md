@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,147 likes - 111 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,166 likes - 111 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 110 | [Once In A Lifetime \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 7:10 |
 | 111 | [Real Good Man \- Live From Spotify NYC](https://open.spotify.com/track/0MNezJUzb1fx2gqQ8cPeLT) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Spotify Sessions](https://open.spotify.com/album/3citk3NfGLpdph8cGMiKQz) | 3:51 |
 
-Snapshot ID: `MCw2MGE0YTBhZTlhMzRlMjI2MTVhMmVhOWJhYjk0ZjkxYjM1ZmI0YTg5`
+Snapshot ID: `MCxjNTczMmQ5MzBmMDU2NGJiOGU3NmI0NDI0OTQzNGI5ODQ5OGE3NzBh`

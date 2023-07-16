@@ -322,10 +322,32 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 227369,
       "name": "Donner",
       "url": "https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN"
+    },
+    {
+      "album": {
+        "name": "LE SOLEIL NE S'\u00c9TEINT JAMAIS",
+        "url": "https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+        },
+        {
+          "name": "Slkrack",
+          "url": "https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "DONNER (feat. Slkrack)",
+      "url": "https://open.spotify.com/track/4M4zzOT9leOtY87UVK8sXd"
     },
     {
       "album": {

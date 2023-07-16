@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mira Paula.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,599 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,642 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [No Soy Malo](https://open.spotify.com/track/6JfkEKgUCvxIRTEfBxqPHI) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [No Soy Malo](https://open.spotify.com/album/1R2KzwHSHHWktYlvJiwLaW) | 4:04 |
 | 50 | [Con otra cabeza](https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV) | 2:29 |
 
-Snapshot ID: `MCwxMWVhYTcxNDU2MzM3NTNkNWE1ZWE2ZDM1YTRjYjc4NWVlNGRlMGYw`
+Snapshot ID: `MCw5OWM4NjExYmIxOGZkZGZiOTQ1NDIyZDZlNmExZGQ5NzQzMTE1MTRh`

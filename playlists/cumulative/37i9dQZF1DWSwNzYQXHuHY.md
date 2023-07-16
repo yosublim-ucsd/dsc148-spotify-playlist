@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-181 songs - 10 hr 14 min
+182 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-07-08 | 2022-08-10 |
 | [To You](https://open.spotify.com/track/6ahbBXhhqxliPL3K7qmrSa) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [To You](https://open.spotify.com/album/0q6scHkQEGEp9rCYjjyl6k) | 3:34 | 2022-07-08 | 2022-07-14 |
 | [To, Summer](https://open.spotify.com/track/5pwBvZSb3JboCWU9xxgSiT) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr), [SLAY](https://open.spotify.com/artist/40XE71rUobaWT3q5L67GKc) | [Not a fairytale](https://open.spotify.com/album/1g2VqUtlR2v6KJL8X0lSr7) | 3:18 | 2022-05-11 | 2022-07-20 |
-| [Traffic Accident](https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf) | [Dann](https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT), [MUJIN](https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH) | [Unintentional Love Story Original Televion Soundtrack Pt\. 3](https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS) | 3:21 | 2023-05-02 |  |
+| [Traffic Accident](https://open.spotify.com/track/3Nr9K1cYOCceaRArxWzoFf) | [Dann](https://open.spotify.com/artist/4ehtLyNdsw7CcJ29kmOeJT), [MUJIN](https://open.spotify.com/artist/2nR3HIgrF5irB5FLRYaluH) | [Unintentional Love Story Original Televion Soundtrack Pt\. 3](https://open.spotify.com/album/5QQ0WxXVEPNeGMgMj1anZS) | 3:21 | 2023-05-02 | 2023-07-16 |
 | [Type & Delete](https://open.spotify.com/track/0jrc18dt5N6fOJtRUIH9Dv) | [Dalzi](https://open.spotify.com/artist/3itJiDOt0vbIIMkYTy5Dp1), [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp), [LEE IN JUN](https://open.spotify.com/artist/7vNf4Mqk9uJjZNr4Qnwqf7) | [Type & Delete](https://open.spotify.com/album/4V44wdgmFu3rpWT62ernmW) | 3:50 | 2022-05-11 | 2022-07-29 |
 | [U \(feat\. ARIAZ, 시현 & ESON\)](https://open.spotify.com/track/6ezxrPOjX6mOspfdKelSfY) | [CIELOGROOVE](https://open.spotify.com/artist/39Bud6jG9IdSbnZAx9ERUd), [ARIAZ](https://open.spotify.com/artist/7F4X79mifvL5ke5KxaqYFi), [시현](https://open.spotify.com/artist/6cR7tnVNB3blGX4miHEE6t), [ESON](https://open.spotify.com/artist/0VIAKQLmpZM9Hq5ZVo1jXo) | [U](https://open.spotify.com/album/7D49Qp5tHUm2puTI7S3XOd) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [Ugly, Lovely \(feat\. INFP\)](https://open.spotify.com/track/51N5xzPBGodwhO2cKlkT32) | [Flospoon](https://open.spotify.com/artist/1AKNuWhUvKilX2soCIcKDi), [INFP](https://open.spotify.com/artist/0LaVG6zmxdXwzg9VvT88Qq) | [Ugly, Lovely](https://open.spotify.com/album/0tlHvOiBZJAwMjEktwQtF9) | 3:59 | 2022-05-11 | 2022-07-29 |
@@ -189,5 +189,6 @@
 | [사실은 The Truth Is](https://open.spotify.com/track/2EGmEj8EkRgNqvSRJHJYqJ) | [Radio Paradise](https://open.spotify.com/artist/7ClbINnpciDolca5cIxchE) | [사실은 The Truth Is](https://open.spotify.com/album/2FCBnCzlM5WTadXEKsTh28) | 4:11 | 2022-05-11 | 2022-06-09 |
 | [이 밤이 지나면](https://open.spotify.com/track/1FjCYfkEKNP3YHsKGsdE27) | [Kim Tae Woo](https://open.spotify.com/artist/5OFQZvle7HH55LvauNmUIi) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 4:45 | 2022-05-11 | 2022-07-26 |
 | [잘생기질 말던가](https://open.spotify.com/track/33mgkPtgDH20O8tC0ywqYU) | [유희](https://open.spotify.com/artist/5QN2oWtqarYnmunUb2kaCK), [클라피](https://open.spotify.com/artist/4Rkk73mzLQRRukZQaHWZDN) | [잘생기질 말던가](https://open.spotify.com/album/0iWsY3duvMCfi7GpF7XPPZ) | 3:21 | 2022-05-11 | 2022-07-26 |
+| [탕후루 Tanghulu \(Feat\. KURO\)](https://open.spotify.com/track/4iOAc8VRpvrdMs96JQ7Pyt) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [탕후루 Tanghulu \(Feat\. KURO\)](https://open.spotify.com/album/4CwpYKVkCJNFSSZBZzw2j2) | 2:41 | 2023-07-07 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

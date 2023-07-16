@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "Komali Vasudev",
+        "url": "https://open.spotify.com/album/3YamZq9BPe4rwfek4oG7It"
+      },
+      "artists": [
+        {
+          "name": "Ishaq vali",
+          "url": "https://open.spotify.com/artist/7oATc2KjTVSvRVZ8YKvOGT"
+        },
+        {
+          "name": "Teju R",
+          "url": "https://open.spotify.com/artist/67CmWTS4uKxctqM84CubZV"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292295,
+      "name": "Komali Vasudev",
+      "url": "https://open.spotify.com/track/50jK4YEhyOGoDHwYeqZWHC"
+    },
+    {
+      "album": {
         "name": "Kshaminchu",
         "url": "https://open.spotify.com/album/2nJw0xoADsiArs35oUZSiz"
       },

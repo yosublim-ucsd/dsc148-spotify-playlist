@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,009 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,050 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 | 8 | [Classic \(feat\. Swizz Beatz\)](https://open.spotify.com/track/11BJcNxOLMwQj0mgfzJRlr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [Dreams Worth More Than Money](https://open.spotify.com/album/0VTMuNJ869MDHy9X4BZof7) | 2:47 |
 | 9 | [Take Care](https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:37 |
 | 10 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 |
-| 11 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/7d9x9mJPAruRZOieauLHrF) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Stay High \(Childish Gambino Version\)](https://open.spotify.com/album/1pqm2OlY6O35z5IK8FgIdX) | 3:38 |
+| 11 | [Stay High](https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime \(Reimagined\)](https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP) | 3:38 |
 | 12 | [Mo & EZ \- 2014 Rant](https://open.spotify.com/track/17IZm1KSolzMKsTiR2jqtg) | [Sam Jay](https://open.spotify.com/artist/2Ysmf5JLNDRdhjOvoKnnNh), [Jonah Hill](https://open.spotify.com/artist/2pQ8voPNuiMTqIvAdk99sn) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 0:25 |
 | 13 | [BOSS](https://open.spotify.com/track/4F8V44j8cbjHnXjfW2HruU) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:04 |
 | 14 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 | 38 | [Famous Or Dying](https://open.spotify.com/track/5zD3p4ajDSNlAHgzVJ6oWv) | [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 0:48 |
 | 39 | [Insane](https://open.spotify.com/track/46O8iNdlQHZf7L5JsAKgvi) | [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 1:23 |
 
-Snapshot ID: `MCwwM2VhMjUxYzEzZTc4ZjRkZDczZTgxYzRlY2IzZTFiYTNiZTJjZDFm`
+Snapshot ID: `MCxkYTI3ZDE4NjI2ZTE2M2Y2MTIxMGI0Mjc0NTFhZWM1MDBiZDcyMzgy`

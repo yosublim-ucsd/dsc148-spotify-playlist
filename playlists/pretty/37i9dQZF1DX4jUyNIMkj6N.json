@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 183305,
+  "num_followers": 183415,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTYzNDk0ZjlhODAxYzY0YmIwMjEyY2E0MzM0MDZlOGU3MmJhZTdl",
+  "snapshot_id": "MCwyNGNjM2EzZjI4ZGZjNWFhOWFkZGU4ODlmMDYyYzhlYWRiZWU4ZDBl",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Pixie's Parasol",
         "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
       },
       "artists": [
         {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
         }
       ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
+      "duration_ms": 168373,
+      "name": "Alle Snakker Sant",
+      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -523,22 +539,6 @@
       "duration_ms": 189632,
       "name": "We're All the Way",
       "url": "https://open.spotify.com/track/7Liqd8sniZpyjebLC6dpuR"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Alle Snakker Sant",
-      "url": "https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
-      },
-      "artists": [
-        {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
-        }
-      ],
-      "duration_ms": 246316,
-      "name": "(It's Not About) Running",
-      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "The Ghost in Your Smile",
         "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 227760,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+      },
+      "artists": [
+        {
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+        }
+      ],
+      "duration_ms": 246316,
+      "name": "(It's Not About) Running",
+      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Early Summer Rain",
-        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
-      },
-      "artists": [
-        {
-          "name": "August Flendahl",
-          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Early Summer Rain",
-      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 140334,
       "name": "Girl",
       "url": "https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Early Summer Rain",
+        "url": "https://open.spotify.com/album/41rw0yKJcpUla5orniwd45"
+      },
+      "artists": [
+        {
+          "name": "August Flendahl",
+          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Early Summer Rain",
+      "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Joni Was Right Pt. II",
-        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 200262,
-      "name": "Bluebelle Mountain",
-      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Something Good",
         "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 225939,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Joni Was Right Pt. II",
+        "url": "https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 200262,
+      "name": "Bluebelle Mountain",
+      "url": "https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5"
     },
     {
       "added_at": "2023-07-13 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,174 likes - 38 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,196 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 9 | [Punta Mix 2019](https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA) | [Punta Mix 2019](https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7) | 5:01 |
 | 10 | [Mandele Gas](https://open.spotify.com/track/2ubBnAtgJf5aQrYt93AvV2) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5I7ThyvKHMomwWQzOog5pr) | 3:47 |
 | 11 | [Tickita Tickita](https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW) | [Los Roland's](https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc) | [15 Exitos](https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr) | 5:25 |
-| 12 | [Carolina](https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f) | 3:13 |
-| 13 | [El Amor de una Rosa](https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5) | [Grupo Kazzabe](https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 4:28 |
+| 12 | [El Amor de una Rosa](https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5) | [Grupo Kazzabe](https://open.spotify.com/artist/6eGV9h0Pnu3bmrFcLwnvTu) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 4:28 |
+| 13 | [Carolina](https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ) | [Supa G](https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB) | [Punta Vibe](https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f) | 3:13 |
 | 14 | [Punta Raton Remix](https://open.spotify.com/track/6xzNauBXbf3rfOfRbJqjtb) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/3xO2uyWrSS2Xty3Kik2BJR) | 4:08 |
 | 15 | [Pai](https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Éxitos: Las Chicas Rolands](https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud) | 3:23 |
 | 16 | [Banana](https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 6:41 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 23 | [Baila Baila](https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl) | [Garifuna Kids](https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo) | [Baila Baila](https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W) | 6:36 |
 | 24 | [Puntas Garifunas Criollas 2](https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 4](https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW) | 7:24 |
 | 25 | [Nando](https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH) | [Aurelio](https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h) | [Lándini](https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs) | 2:59 |
-| 26 | [Si Pudiera Yo](https://open.spotify.com/track/03qejDacPNFwCdVNg4HVSG) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Batalla de las Puntas, Vol\. 2](https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal) | 4:15 |
+| 26 | [Balabaa](https://open.spotify.com/track/05dtKZaWgQmxspDPqDKbfA) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Conexión Garifuna](https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689) | 2:39 |
 | 27 | [Pedazo De Mujer](https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 4:00 |
 | 28 | [El Encarguito](https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 3:43 |
 | 29 | [Quemala](https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4), [Mr Jc](https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc), [MC Productions Inc](https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA), [KD La Caracola](https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy), [Jessy Rose](https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD), [Big Nango](https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH) | [Quemala](https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg) | 2:25 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
 | 38 | [Cartel Mix](https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM), [Nuru Ellis](https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN) | [Mete Y Saca](https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm) | 6:11 |
 
-Snapshot ID: `MCxhNmMyNTYwODkxZTNiMGRlN2QwMDY5ZTYyZDYyYTUxNzk5OTVhMmEw`
+Snapshot ID: `MCxiYTY1NTVkNTcxOGVjMDZlZjk1ZTUzYzFhMGIyNDY0ZTgxMmEwMzFj`

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Os Meireles, Margem Norte",
-  "num_followers": 70659,
+  "num_followers": 70719,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODY4NTMyYmMzZGU5NzJhMWU3ZDYwM2ZjOWYzMWVkMTQxZTRjZThk",
+  "snapshot_id": "MCw2Njc2MGE3MTUxMzkzMzg5MTUwNTRjYTM1NjliZTVmN2I2NTllZTE4",
   "tracks": [
     {
       "added_at": "2023-07-14 16:55:09",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
+        "name": "Sabe Tudo",
+        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 193388,
+      "name": "Sabe Tudo",
+      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
+    },
+    {
+      "added_at": "2023-07-14 16:55:09",
+      "album": {
         "name": "SL.27.4",
         "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
-        "name": "Sabe Tudo",
-        "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 193388,
-      "name": "Sabe Tudo",
-      "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
-    },
-    {
-      "added_at": "2023-07-14 16:55:09",
-      "album": {
         "name": "Leif Bessa - Ac\u00fastico",
         "url": "https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 280235,
       "name": "Caminhada",
       "url": "https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF"
-    },
-    {
-      "added_at": "2023-07-14 16:55:09",
-      "album": {
-        "name": "Asas",
-        "url": "https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "Asas",
-      "url": "https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q"
     },
     {
       "added_at": "2023-07-14 16:55:09",
@@ -639,22 +623,38 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
-        "name": "Aprendiz",
-        "url": "https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg"
+        "name": "Asas",
+        "url": "https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC"
       },
       "artists": [
         {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Claudia Leitte",
-          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 222403,
-      "name": "Aprendiz",
-      "url": "https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q"
+      "duration_ms": 217941,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q"
+    },
+    {
+      "added_at": "2023-07-14 16:55:09",
+      "album": {
+        "name": "Apenas Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Apenas Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
     },
     {
       "added_at": "2023-07-14 16:55:09",
@@ -683,22 +683,22 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
-        "name": "Apenas Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg"
+        "name": "Aprendiz",
+        "url": "https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg"
       },
       "artists": [
         {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
         },
         {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
         }
       ],
-      "duration_ms": 266020,
-      "name": "Apenas Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV"
+      "duration_ms": 222403,
+      "name": "Aprendiz",
+      "url": "https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q"
     },
     {
       "added_at": "2023-07-14 16:55:09",
@@ -975,42 +975,6 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
-        "name": "Me Alcan\u00e7ou (Remix)",
-        "url": "https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa"
-      },
-      "artists": [
-        {
-          "name": "Heric Tolentino",
-          "url": "https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k"
-        },
-        {
-          "name": "Yann RD",
-          "url": "https://open.spotify.com/artist/4vRegmzSs4RfvmEJVWgOIL"
-        }
-      ],
-      "duration_ms": 331653,
-      "name": "Me Alcan\u00e7ou (Remix)",
-      "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
-    },
-    {
-      "added_at": "2023-07-14 16:55:09",
-      "album": {
-        "name": "Ac\u00fastico Talita Barreto",
-        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
-    },
-    {
-      "added_at": "2023-07-14 16:55:09",
-      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1031,6 +995,22 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
+        "name": "Ac\u00fastico Talita Barreto",
+        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
+    },
+    {
+      "added_at": "2023-07-14 16:55:09",
+      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2023-07-14 16:55:09",
+      "album": {
+        "name": "Me Alcan\u00e7ou (Remix)",
+        "url": "https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa"
+      },
+      "artists": [
+        {
+          "name": "Heric Tolentino",
+          "url": "https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k"
+        },
+        {
+          "name": "Yann RD",
+          "url": "https://open.spotify.com/artist/4vRegmzSs4RfvmEJVWgOIL"
+        }
+      ],
+      "duration_ms": 331653,
+      "name": "Me Alcan\u00e7ou (Remix)",
+      "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
     },
     {
       "added_at": "2023-07-14 16:55:09",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
-        "name": "Luz do Mundo",
-        "url": "https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW"
+        "name": "Planos Melhores",
+        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
       },
       "artists": [
         {
-          "name": "Idma Brito",
-          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Andressa Cordeiro",
+          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
         }
       ],
-      "duration_ms": 193793,
-      "name": "Luz do Mundo",
-      "url": "https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR"
+      "duration_ms": 184991,
+      "name": "Planos Melhores",
+      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
     },
     {
       "added_at": "2023-07-14 16:55:09",
@@ -1395,34 +1391,22 @@
     {
       "added_at": "2023-07-14 16:55:09",
       "album": {
-        "name": "Planos Melhores",
-        "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
+        "name": "Luz do Mundo",
+        "url": "https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW"
       },
       "artists": [
         {
-          "name": "Andressa Cordeiro",
-          "url": "https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF"
-        }
-      ],
-      "duration_ms": 184991,
-      "name": "Planos Melhores",
-      "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
-    },
-    {
-      "added_at": "2023-07-14 16:55:09",
-      "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
+          "name": "Idma Brito",
+          "url": "https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2"
+        },
         {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+      "duration_ms": 193793,
+      "name": "Luz do Mundo",
+      "url": "https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR"
     },
     {
       "added_at": "2023-07-14 16:55:09",
@@ -1439,6 +1423,22 @@
       "duration_ms": 215061,
       "name": "Me Leva Al\u00e9m",
       "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
+    },
+    {
+      "added_at": "2023-07-14 16:55:09",
+      "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2023-07-14 16:55:09",

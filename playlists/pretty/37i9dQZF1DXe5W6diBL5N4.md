@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: EXO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,722 likes - 546 songs - 1 day 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,910 likes - 546 songs - 1 day 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -555,4 +555,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 545 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 |
 | 546 | [LOVE YOU! \(Feat\. Tablo\)](https://open.spotify.com/track/2jhWyW4kNrVnN2wpu9jhVZ) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [LOVE YOU!](https://open.spotify.com/album/6R6OuDp9PRzfVFNsdWuI1u) | 3:05 |
 
-Snapshot ID: `MCw3MmI5N2Q2NTU0YjQ0ZTI1NmVlNzFmYzJlMDczOTU4ZmI4NTk3ODBm`
+Snapshot ID: `MCwwZWZlNTIzYjkxYzkyZTdhNTE0MTEzMTU1MzA0Mjg1NDM2Njc1NDY1`

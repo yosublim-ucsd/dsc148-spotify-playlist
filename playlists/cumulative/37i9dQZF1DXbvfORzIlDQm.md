@@ -4,7 +4,7 @@
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-76 songs - 4 hr 56 min
+77 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 | 2021-02-24 |  |
 | [Dead and Gone](https://open.spotify.com/track/1dXlL3tfVDrcYykineKTJv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 4:49 | 2021-02-24 |  |
 | [Dead and Gone](https://open.spotify.com/track/7JV6GAMwFGsVFD8ilBuAjF) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/0xLVuelF4HRJCKrrucxIx1) | 4:49 | 2021-02-24 | 2022-07-29 |
-| [Future People](https://open.spotify.com/track/7uuoh2lEaGcbNpbKCvzawf) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:21 | 2021-02-24 |  |
+| [Future People](https://open.spotify.com/track/7uuoh2lEaGcbNpbKCvzawf) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:21 | 2021-02-24 | 2023-07-16 |
 | [Future People](https://open.spotify.com/track/2g2iRWlBoOVvvW0a8pbhRK) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:21 | 2021-02-24 | 2022-11-13 |
+| [Future People](https://open.spotify.com/track/4iRiiVUx1ytFW3OEAsfKIL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:21 | 2021-02-24 |  |
 | [Future People](https://open.spotify.com/track/4zmJhhKDBdRceqXvfhvQay) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/6TWqxofcKQaZ9gHI49G36P) | 3:21 | 2021-02-24 | 2022-07-29 |
 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 | 2021-02-24 |  |
 | [Goodnight America](https://open.spotify.com/track/0UdHQ44HgM8bTdqcEHzdQn) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Goodnight America](https://open.spotify.com/album/6JU7YqHB90mst6vC7sGOEp) | 3:10 | 2021-02-24 | 2023-05-11 |

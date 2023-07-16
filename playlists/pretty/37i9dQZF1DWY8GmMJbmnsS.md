@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,371 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,483 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 49 | [I Believe In You And Me](https://open.spotify.com/track/1a6o3Lh2T6u1m3FRCf1hcB) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [One More Mountain](https://open.spotify.com/album/4Am0fajokK3jCMfhThAZll) | 4:01 |
 | 50 | [Hypnotized](https://open.spotify.com/track/4TTKacCeIq21weP36gy6AS) | [Linda Jones](https://open.spotify.com/artist/7erYZsfekXYGWvup1bnkUZ) | [The Complete Atco, Loma & Warner Bros\. Recordings](https://open.spotify.com/album/3JZq1orvyb2MxF4iFDY80t) | 2:40 |
 
-Snapshot ID: `MCw2MGY0ODQ5NTA3YTgxNzAzZWY4MmI4NTZiMzk1YzBkNTBjNGU4Njg4`
+Snapshot ID: `MCwyYTE3NDY2MGVjMjcwOTYzODRhOGI3ZDMxOTFmNTIwZDI2MjI5NTMz`

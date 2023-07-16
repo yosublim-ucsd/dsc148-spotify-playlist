@@ -4080,10 +4080,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 177028,
       "name": "Break",
       "url": "https://open.spotify.com/track/1G60WH7wGf6vgQeWjeG747"
+    },
+    {
+      "album": {
+        "name": "break",
+        "url": "https://open.spotify.com/album/4VeotdmCFZ5FlPxQyKWbxH"
+      },
+      "artists": [
+        {
+          "name": "lagosta g",
+          "url": "https://open.spotify.com/artist/1kTyWKZCjPJ8LzRRSWrPeb"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177309,
+      "name": "break",
+      "url": "https://open.spotify.com/track/2qoHowKQ89p1Z90L1ifVo3"
     },
     {
       "album": {
@@ -9118,7 +9136,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
@@ -13120,7 +13138,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 136713,
       "name": "Hurts Me",
       "url": "https://open.spotify.com/track/6xsyuFNW7fbHVrUZ4MVm2t"
@@ -14892,7 +14910,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 158133,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh"
@@ -17210,6 +17228,24 @@
       "duration_ms": 138240,
       "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
+    },
+    {
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "album": {
@@ -20254,7 +20290,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 120939,
       "name": "No Bap",
       "url": "https://open.spotify.com/track/1mSYxiYncRwdKx6cT0bQoP"
@@ -21889,6 +21925,24 @@
     },
     {
       "album": {
+        "name": "Paper Soldier",
+        "url": "https://open.spotify.com/album/4KPE86p5ej8oWmr0P0XFtI"
+      },
+      "artists": [
+        {
+          "name": "skoomy",
+          "url": "https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Paper Soldier",
+      "url": "https://open.spotify.com/track/5oYrxdkfUIKRT0bGKx3Tmd"
+    },
+    {
+      "album": {
         "name": "paper soldier",
         "url": "https://open.spotify.com/album/2VDZVm49vwmSe6d8enHDiV"
       },
@@ -21904,7 +21958,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 202001,
       "name": "paper soldier",
       "url": "https://open.spotify.com/track/2e14aFZU7cmpyYMsML0Bab"
@@ -25124,7 +25178,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"

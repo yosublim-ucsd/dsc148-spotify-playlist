@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 265244,
+  "num_followers": 265820,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjhmNTM2MTkwMzgyMDJjMTUzYTkwOTkzNTI0NjY0M2IzMjI5OWQx",
+  "snapshot_id": "MCxlZDAwMzU2YzkxNDljMjJlYTA4NzIwYTUzZjY0YTMyNWMwOGU0NjM0",
   "tracks": [
     {
       "added_at": "2023-07-13 08:15:41",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "Painter",
+        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Ocean",
+          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
+        }
+      ],
+      "duration_ms": 203428,
+      "name": "Painter",
+      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 200950,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "Painter",
-        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Ocean",
-          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
-        }
-      ],
-      "duration_ms": 203428,
-      "name": "Painter",
-      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -403,26 +403,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Enta Omry Remix 2022",
-        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
-      },
-      "artists": [
-        {
-          "name": "Hijazi",
-          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
-        },
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Enta Omry Remix 2022",
-      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Enta Omry Remix 2022",
+        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
+      },
+      "artists": [
+        {
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Enta Omry Remix 2022",
+      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 225226,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Deep Anatolia",
-        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Deep Anatolia",
-      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Deep Anatolia",
+        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Deep Anatolia",
+      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Y\u00e2r",
         "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 97636,
       "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
       "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
         "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 166416,
       "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
       "url": "https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Eternal Roots",
         "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 305005,
       "name": "Eternal Roots",
       "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "Watra",
         "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
@@ -1619,26 +1635,6 @@
       "duration_ms": 141754,
       "name": "Watra",
       "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "Ya Rayeh",
-        "url": "https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "Latif El Idrissi",
-          "url": "https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD"
-        }
-      ],
-      "duration_ms": 330150,
-      "name": "Ya Rayeh",
-      "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1659,22 +1655,6 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1711,6 +1691,26 @@
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Ya Rayeh",
+        "url": "https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "Latif El Idrissi",
+          "url": "https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD"
+        }
+      ],
+      "duration_ms": 330150,
+      "name": "Ya Rayeh",
+      "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
     },
     {
       "added_at": "2023-07-13 08:15:41",

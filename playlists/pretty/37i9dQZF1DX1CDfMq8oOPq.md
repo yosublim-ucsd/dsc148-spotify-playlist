@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,931 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,979 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Meu Fã](https://open.spotify.com/track/1Wq1ycTn3zcPcYnS4rKhYK) | [Collors Brasil](https://open.spotify.com/artist/4AjMZGrmvGRSxeDwNtFfgv), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E) | [Meu Fã](https://open.spotify.com/album/2X9GIeq7FyqHgWKfW9P4Qy) | 2:26 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCw3ZGQ0NmI2Zjg1MWQ2NTk5NTk1YjQyZmY0Mjg3MDNiODg3ZTVhODRh`
+Snapshot ID: `MCxiMTE2NzcwN2QzYzRkZjBiYTdjYzViNjhiMjgzMWM0MDQwNTk4YzA3`

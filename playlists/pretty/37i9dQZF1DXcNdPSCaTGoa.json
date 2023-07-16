@@ -1,12 +1,12 @@
 {
   "description": "Mzansi's musical wealth and heritage in one playlist.",
-  "num_followers": 38417,
+  "num_followers": 38471,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDEzY2M5MTU3NzA2ZWMyNDE1NzZlZDIyMzFmZDA3YjIzOWMyZjVm",
+  "snapshot_id": "MCxjMzJkZmFlZjNjNDQ3MjA3MGY2ZTM3YjY3MGQ5MGExNjA3Yjc0OWQ4",
   "tracks": [
     {
       "added_at": "2023-01-23 13:10:38",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
         "name": "The Ultimate Collection: Mbongeni Ngema",
         "url": "https://open.spotify.com/album/6pFattd30V5QtQimALPrdH"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+        "name": "Nkalakatha",
+        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
       },
       "artists": [
         {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+          "name": "Mandoza",
+          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
         }
       ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+      "duration_ms": 285933,
+      "name": "Nkalakatha",
+      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -283,22 +299,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Nkalakatha",
-        "url": "https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg"
-      },
-      "artists": [
-        {
-          "name": "Mandoza",
-          "url": "https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Nkalakatha",
-      "url": "https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Sister Bethina",
         "url": "https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        }
-      ],
-      "duration_ms": 394677,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Durbans Finest",
         "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 368866,
       "name": "1000 Seconds",
       "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        }
+      ],
+      "duration_ms": 394677,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Vuli Ndlela",
-      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Pluto (Remember You)",
         "url": "https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 267640,
       "name": "Pluto (Remember You) - Radio Edit",
       "url": "https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Kalawa Jazmee Classics: Bongo Maffin",
-        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
-      },
-      "artists": [
-        {
-          "name": "Bongo Maffin",
-          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
-        }
-      ],
-      "duration_ms": 320240,
-      "name": "Thathi Sgubu",
-      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Sound Revival",
         "url": "https://open.spotify.com/album/3u5wvGZJGwCMWXKVvTMUFV"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 436960,
       "name": "Lengoma",
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Kalawa Jazmee Classics: Bongo Maffin",
+        "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
+      },
+      "artists": [
+        {
+          "name": "Bongo Maffin",
+          "url": "https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ"
+        }
+      ],
+      "duration_ms": 320240,
+      "name": "Thathi Sgubu",
+      "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (That's The Way Love Is)",
-      "url": "https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Best of TK",
         "url": "https://open.spotify.com/album/2FHSrLJLlcA2XgaCrme0FI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 306786,
       "name": "How Do You Feel",
       "url": "https://open.spotify.com/track/5yDMQqSiEMacjCBOseNRk6"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Sana Luma (That's The Way Love Is)",
+      "url": "https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 283826,
-      "name": "Nomvula (After the Rain)",
-      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
+      "duration_ms": 311880,
+      "name": "Doo Be Doo",
+      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "BullDawgz First Lady",
-        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
-      },
-      "artists": [
-        {
-          "name": "Mshoza",
-          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Kortes (Kasi Luv)",
-      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "African Litany",
         "url": "https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 285853,
       "name": "Impi",
       "url": "https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "BullDawgz First Lady",
+        "url": "https://open.spotify.com/album/3D7XIokW3gRO1ZSX4stJ8g"
+      },
+      "artists": [
+        {
+          "name": "Mshoza",
+          "url": "https://open.spotify.com/artist/455ZtdycIN670IpP0Y3s44"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Kortes (Kasi Luv)",
+      "url": "https://open.spotify.com/track/1symqHZD5IP3wJtEIx1cws"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 311880,
-      "name": "Doo Be Doo",
-      "url": "https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak"
+      "duration_ms": 283826,
+      "name": "Nomvula (After the Rain)",
+      "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
     },
     {
       "added_at": "2023-01-23 13:10:38",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-23 13:10:38",
       "album": {
-        "name": "Lenyora",
-        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 341506,
-      "name": "Groovers Prayer",
-      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
-    },
-    {
-      "added_at": "2023-01-23 13:10:38",
-      "album": {
         "name": "Township Funk",
         "url": "https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 349480,
       "name": "Township Funk",
       "url": "https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20"
+    },
+    {
+      "added_at": "2023-01-23 13:10:38",
+      "album": {
+        "name": "Lenyora",
+        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 341506,
+      "name": "Groovers Prayer",
+      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
     },
     {
       "added_at": "2023-01-23 13:10:38",

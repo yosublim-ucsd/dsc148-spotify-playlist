@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,162 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,188 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 59 | [Raaz\-e\-Fitna](https://open.spotify.com/track/5XuB6NxRdUqlHl3MjP5TTu) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru) | [Raaz\-e\-Fitna](https://open.spotify.com/album/0QvkhdtDA25dZ6ULww4fZY) | 2:40 |
 | 60 | [Spicy](https://open.spotify.com/track/1APSHdEWYt0hlSlu5UcqJa) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Spicy](https://open.spotify.com/album/7C9tPnocJUdBMsZm9BGTDo) | 3:52 |
 
-Snapshot ID: `MCw5ZTY0MTJkZDBjMmJjN2U2YWFmZTZiYmRjOWMyMGQyOTExMzljNzY2`
+Snapshot ID: `MCxkZTZiMTgwYTA4Zjg5OGQ2NWUyMzhkYTQ5OTQ3YTI3MjMwNzFlNzQx`

@@ -4,7 +4,7 @@
 
 > This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 17 min
+72 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Country Girl \(In the Urban World\)](https://open.spotify.com/track/7pgPBsGjUAy5aOe6yN1uBS) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:12 | 2023-06-17 |  |
 | [Ernie's Daughter](https://open.spotify.com/track/6yepggqorn7eMEsDtmyDFk) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:48 | 2023-06-17 |  |
 | [Every Fool Has a Rainbow](https://open.spotify.com/track/1ya2GaDcFmCMnuCz6h55TB) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:40 | 2023-06-17 | 2023-07-10 |
+| [Fly By Night](https://open.spotify.com/track/0Ny0RsCWxULCaqhZrQXlkj) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Fly By Night](https://open.spotify.com/album/7p46ZLjunAHu1CFY1PGqh0) | 4:08 | 2023-07-15 |  |
 | [Flying](https://open.spotify.com/track/5ue6EPAm3RtXuALZ9hmyaq) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 4:07 | 2023-07-05 |  |
 | [Frozen Rabbit](https://open.spotify.com/track/0nZQMe6NtN9qoiYGmUhfOs) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:02 | 2023-06-17 |  |
 | [Girl in the Mall](https://open.spotify.com/track/6XTfDbMxKApnYww9YOs3r0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 4:16 | 2023-06-17 |  |
@@ -54,18 +55,18 @@
 | [Something Good](https://open.spotify.com/track/6ScIYj8MbREFPnEYX6DbxR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Something Good](https://open.spotify.com/album/1eyvu6BW5P1NDcNKepLycx) | 2:35 | 2023-06-17 |  |
 | [Spare Parts](https://open.spotify.com/track/7bVkZG3zltN9bYyFmjcJqu) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:15 | 2023-06-17 |  |
 | [Speck of Dust](https://open.spotify.com/track/12HXebA19zhK2imE3q6xTD) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 4:40 | 2023-06-25 | 2023-07-15 |
-| [Still Alive](https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2023-06-17 |  |
+| [Still Alive](https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2023-06-17 | 2023-07-16 |
 | [Strawberry Footprints](https://open.spotify.com/track/1GgjyW2LWQ7Nw5a892i8c1) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:36 | 2023-06-17 | 2023-07-03 |
 | [Sugar Town](https://open.spotify.com/track/6kqwN65FEBCatSX3z38670) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:02 | 2023-06-26 |  |
 | [Sugarloaf Hill](https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:21 | 2023-06-22 | 2023-06-28 |
 | [Summerfly](https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:12 | 2023-06-20 |  |
 | [Sweet Music Man](https://open.spotify.com/track/5rMwZbObDXMfJPQsbCmbQ8) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Call of the Bellbird, Vol\. 2](https://open.spotify.com/album/1nKJZBHfyfBbCD7uUjxhu4) | 3:39 | 2023-06-17 | 2023-07-12 |
-| [Swingtown](https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:25 | 2023-07-12 |  |
+| [Swingtown](https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:25 | 2023-07-12 | 2023-07-16 |
 | [Take Me Back](https://open.spotify.com/track/1Uaddq5yoeTw1EGaUXeVqe) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:56 | 2023-07-06 | 2023-07-09 |
 | [Tears](https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Leave On A Light \(The Songs Of Karl Broadie\)](https://open.spotify.com/album/2REprfLuELHBfhQbGRuSJp) | 4:13 | 2023-06-17 |  |
 | [That Boy Sure Can Jump a Train](https://open.spotify.com/track/2wjpcNq46nxOdhjKJwWUT9) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:40 | 2023-06-17 |  |
 | [That's What I Call Love](https://open.spotify.com/track/2kab9AsEvFdnT1OeSn1U7W) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:32 | 2023-06-17 |  |
-| [The Flood](https://open.spotify.com/track/4ZV6Kp0kdbPqxilUuJ8hDP) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:55 | 2023-06-17 | 2023-07-12 |
+| [The Flood](https://open.spotify.com/track/4ZV6Kp0kdbPqxilUuJ8hDP) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:55 | 2023-06-17 |  |
 | [This Is Life](https://open.spotify.com/track/3kFjXyELd3JVdqHS14h0t0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 4:51 | 2023-06-17 |  |
 | [Time for a Change](https://open.spotify.com/track/2KSbySbhDmJw6kROu7oSb1) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:43 | 2023-06-17 | 2023-07-14 |
 | [Too Many Secrets](https://open.spotify.com/track/55GAlB5vrAuTYDZ9ml1pcu) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:11 | 2023-06-17 |  |

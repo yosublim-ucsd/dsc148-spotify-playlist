@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-189 songs - 11 hr 24 min
+192 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [In Your Head](https://open.spotify.com/track/7CJ1Q5T9InemrShfg1mHAY) | [Shan Ako](https://open.spotify.com/artist/6e8tjWVoHdVq00RY4VetKL), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [God's Best](https://open.spotify.com/album/6qazaJgI2kR9ClXu0MsFAi) | 3:21 | 2022-05-03 |  |
 | [Insecure \- Live in Nashville](https://open.spotify.com/track/1xKTLrwGGxHhltkrDHd6N8) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Insecure \(Live In Nashville\)](https://open.spotify.com/album/3GS6nnMAWVavSdhcq7PLKS) | 3:07 | 2021-12-09 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2022-11-03 | 2022-11-13 |
-| [Is This Love](https://open.spotify.com/track/3BwJpqcYEoQqMuJVEgl0aF) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:04 | 2022-06-16 |  |
+| [Is This Love](https://open.spotify.com/track/3BwJpqcYEoQqMuJVEgl0aF) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:04 | 2022-06-16 | 2023-07-16 |
 | [Is This Love](https://open.spotify.com/track/4DNisbJkFrnE940piQZZa8) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/5F9dIlw7nEOIVpXk0sBnVg) | 4:04 | 2021-12-09 | 2022-07-29 |
+| [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 | 2023-07-10 |  |
 | [Island \- Acoustic](https://open.spotify.com/track/5Uy03aUBj5VnFlUsAqee96) | [Jessica Domingo](https://open.spotify.com/artist/3ote0zYtTM5HzVyDKEJrzR) | [Island \(Acoustic\)](https://open.spotify.com/album/5jlDQfDkKGseLn7ZAyCB9E) | 3:32 | 2021-12-09 | 2022-04-15 |
 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wrbQzavSwdzRgRCxLBewg) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/0OfmMxMJ99DQL61l89OcUE) | 4:25 | 2022-06-16 |  |
 | [It's Only Us \- Acoustic](https://open.spotify.com/track/1wuTSrQV6VRAND6HDxPECb) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [It's Only Us \(Acoustic\)](https://open.spotify.com/album/1XyQMANgAQrw0fhHFi50ll) | 4:25 | 2021-12-09 | 2022-07-29 |
@@ -185,7 +186,8 @@
 | [Trust in You](https://open.spotify.com/track/1pZjiq5wv1HLMX8RsWVVsr) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Light Will Find You](https://open.spotify.com/album/3v5s77G4gqRKHNV6iG7wv7) | 3:09 | 2022-06-16 | 2023-07-11 |
 | [Trust in You](https://open.spotify.com/track/2MUKRBgYAQC6Wyi7htkrm8) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Trust in You](https://open.spotify.com/album/7j7lLvqDSAEMLjz9aH0G68) | 3:09 | 2021-12-09 | 2022-07-29 |
 | [U Should](https://open.spotify.com/track/6L1yA61015sIz9Vd02gGHZ) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [U Should](https://open.spotify.com/album/477YeBAfUzOmqI2rPelNXP) | 4:04 | 2021-12-09 |  |
-| [Unaware](https://open.spotify.com/track/3R3xKezI1kvFaomppAiQqg) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:36 | 2022-06-16 |  |
+| [Unaware](https://open.spotify.com/track/3DYVhEhZRy7srzasM8o2k5) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:36 | 2023-07-10 |  |
+| [Unaware](https://open.spotify.com/track/3R3xKezI1kvFaomppAiQqg) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ) | 4:36 | 2022-06-16 | 2023-07-16 |
 | [Unaware](https://open.spotify.com/track/4JxbEjAkli1L1uppxive32) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 4:36 | 2021-12-09 | 2022-07-29 |
 | [Up All Night \- Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2021-12-09 | 2022-05-04 |
 | [Wait for You](https://open.spotify.com/track/0jjsLGCJmUzYRu6GKQqlR4) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Wait for You](https://open.spotify.com/album/2zdqd5mCgqHeDh6CR2PYLY) | 4:34 | 2021-12-09 | 2022-01-14 |
@@ -193,7 +195,8 @@
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2021-12-09 |  |
 | [What is Love](https://open.spotify.com/track/3NtgkbiePe3ccFyX5uOrGk) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [What is Love](https://open.spotify.com/album/5xqsx7KZjvgLJE2EcbAr9q) | 3:46 | 2021-12-09 |  |
 | [What You Did \(feat\. Ella Mai\) \- Acoustic](https://open.spotify.com/track/5KEze8FT62AJCly8UnBcq2) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [What You Did \(feat\. Ella Mai\) \[Acoustic\]](https://open.spotify.com/album/1pqagkRkaqCXdZ2cOHS5NH) | 3:27 | 2021-12-09 | 2022-05-06 |
-| [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 | 2021-12-09 |  |
+| [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 | 2021-12-09 | 2023-07-16 |
+| [Where You're At](https://open.spotify.com/track/4bV7BVBRqnK8dVtjD5OMV7) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 2:50 | 2023-07-10 |  |
 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 | 2022-04-08 |  |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2021-12-09 | 2023-04-09 |
 | [You Win](https://open.spotify.com/track/5oLHZYHAvYXmIt3AEqm2PE) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [You Win](https://open.spotify.com/album/7AWkXbVuFinaGlItRtCR0o) | 2:39 | 2021-12-09 |  |

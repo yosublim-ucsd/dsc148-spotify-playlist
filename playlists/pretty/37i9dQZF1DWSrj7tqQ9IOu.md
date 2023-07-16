@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,538 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,677 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [RDV](https://open.spotify.com/track/5rFfq3wabTZxIq9nxehZ5P) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [RDV](https://open.spotify.com/album/10Pk5LsFeQG9YYkrK9A6fa) | 2:41 |
 | 50 | [Isn't It Something](https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Isn't It Something](https://open.spotify.com/album/0xZww13tw6W4EkciFqMNrb) | 2:24 |
 
-Snapshot ID: `MCw4YTM0Yjg4MTAzNTUzYzBmZTg5N2NkMGRmNTNkYTU4ODYzMzJmMmRl`
+Snapshot ID: `MCxmZDQ4Mjg5Y2U1ZTYyNjI0ZjRiNmU1ZTVmMWYxMGUyMDdiMjgxNzAx`

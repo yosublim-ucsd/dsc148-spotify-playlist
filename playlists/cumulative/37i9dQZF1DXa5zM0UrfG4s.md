@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-306 songs - 14 hr 11 min
+307 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 | 2021-12-16 | 2022-11-14 |
 | [Håper du er lykkelig nå](https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/6d3FqU5T8ReEejG5a8lUFs) | 2:59 | 2021-12-16 | 2022-07-26 |
 | [Hæljetur](https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hæljetur](https://open.spotify.com/album/2GbMwa9XGFYyrZd5fvjIy7) | 2:25 | 2021-12-16 | 2022-07-28 |
-| [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 |  |
+| [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 | 2023-07-16 |
 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 | 2022-05-19 | 2023-06-20 |
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-13 |  |
 | [Ingen Fara, Mamma!](https://open.spotify.com/track/5pKIWdiohAHDgGUwjXJiLm) | [Truse Tarzan](https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ), [Brünost](https://open.spotify.com/artist/0iAVl7yqzaGpEM3LLVT589) | [Ingen Fara, Mamma!](https://open.spotify.com/album/1PnczWmm84V0DfpyYfdqrA) | 2:19 | 2021-12-16 | 2022-10-16 |
@@ -274,6 +274,7 @@
 | [SÅ MANGE MIL, SÅ MANGE ÅR](https://open.spotify.com/track/63rM17msKFHUTOYdaAIzO1) | [D.D.E.](https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom) | [SÅ MANGE MIL, SÅ MANGE ÅR](https://open.spotify.com/album/2V0J8L80ornBwcXCmaW2VM) | 4:19 | 2021-12-16 | 2022-07-21 |
 | [Såmmår I Bøgda](https://open.spotify.com/track/0dRDqRGD4sgaqffcUwWAaX) | [Becca](https://open.spotify.com/artist/6SDkocG9wTPzVk5RdOTKoX) | [Såmmår I Bøgda](https://open.spotify.com/album/4ElADxRyNmzmHDlNTZRAkx) | 3:20 | 2022-01-06 | 2022-04-18 |
 | [Sånn So Det Va Før](https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ) | [Vassendgutane](https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2) | [Sånn So Det Va Før](https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm) | 4:38 | 2021-12-16 |  |
+| [Sånn som jeg er](https://open.spotify.com/track/0rh49hez1RkbjhlsjLKqKg) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Sånn som jeg er](https://open.spotify.com/album/4DrXk85AbC8DoZeZLAiyPO) | 3:31 | 2023-07-13 |  |
 | [Sæla På](https://open.spotify.com/track/0uub2NHyyNfCbxbaP3sGqR) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Morten Ramm](https://open.spotify.com/artist/3T2TVhDGiaHoBpya3gCZud), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Roy Harrytassen](https://open.spotify.com/artist/08cPxKvL9dve5nkwbY69jz), [DJ Dan](https://open.spotify.com/artist/4HnCaC2Dd4EOAkFm6WHsYe) | [Sæla På](https://open.spotify.com/album/5k5wI5T9kZWKSqgYsP5hsh) | 2:59 | 2022-03-03 | 2023-03-31 |
 | [Take My Hand](https://open.spotify.com/track/4dbHMUMM1Xh33GPwXXd4OA) | [Oberg](https://open.spotify.com/artist/1g9S6C1WRQYwddKiR3Kwcv) | [Take My Hand](https://open.spotify.com/album/3895zoFFOiT4gDIqwyxwdX) | 2:41 | 2022-01-20 |  |
 | [Taksameteret Går](https://open.spotify.com/track/5f344lWVQNSFtxmqEmB2mH) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Kern](https://open.spotify.com/artist/6nEBn3J14CLLy772hudAwx) | [Taksameteret Går](https://open.spotify.com/album/2Hfbb6YB0hGpLmMkeCrVIG) | 2:13 | 2022-02-24 | 2022-05-04 |

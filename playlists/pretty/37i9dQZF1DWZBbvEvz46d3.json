@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 58500,
+  "num_followers": 58533,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTg5ZDdkNzhlN2YzMGYwYjBiYTU5ZWNkODNmODhjOGY2OWMxZjQ2",
+  "snapshot_id": "MCxjYzZlN2UzNjAwYzJkYzYzYjQzNjZjNjk1OTljZmMyZDVmMWFiMGM4",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
-      },
-      "artists": [
-        {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
-        },
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        }
-      ],
-      "duration_ms": 249046,
-      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Ania Karwan",
         "url": "https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA"
       },
@@ -835,18 +815,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
-        "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
+        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
       "artists": [
         {
-          "name": "Artur Rojek",
-          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        },
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
         }
       ],
-      "duration_ms": 216440,
-      "name": "Syreny",
-      "url": "https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS"
+      "duration_ms": 249046,
+      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -883,6 +867,22 @@
       "duration_ms": 230504,
       "name": "Kazdego dnia",
       "url": "https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Sk\u0142adam si\u0119 z ci\u0105g\u0142ych powt\u00f3rze\u0144",
+        "url": "https://open.spotify.com/album/6yxLszvctvcxmKlGmMaPY3"
+      },
+      "artists": [
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Syreny",
+      "url": "https://open.spotify.com/track/5jnPsCxNjmGFmkcWYZ8YCS"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Dla Naiwnych Marzycieli",
+        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
+      },
+      "artists": [
+        {
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "W Glowie",
+      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Nasz Film (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 195789,
       "name": "Prawda o nas",
       "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Dla Naiwnych Marzycieli",
-        "url": "https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR"
-      },
-      "artists": [
-        {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "W Glowie",
-      "url": "https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Omamy",
-        "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
-      },
-      "artists": [
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        },
-        {
-          "name": "Kuba Kara\u015b",
-          "url": "https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
-      "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Pog\u0142os Suplement",
         "url": "https://open.spotify.com/album/1D0Rh9hZnYmeVvqPrkkUyh"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Omamy",
+        "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        },
+        {
+          "name": "Kuba Kara\u015b",
+          "url": "https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
+      "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
         "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 157837,
       "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Moje piosenki edycja zwykla",
+        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 203480,
+      "name": "Znam cie na pamiec",
+      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1247,22 +1263,6 @@
       "duration_ms": 222865,
       "name": "Bezdro\u017ca (feat. Mateusz Zi\u00f3\u0142ko)",
       "url": "https://open.spotify.com/track/3uLUwh8j0KWi9kyynQ3nUI"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Moje piosenki edycja zwykla",
-        "url": "https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "Znam cie na pamiec",
-      "url": "https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5"
     },
     {
       "added_at": "2023-04-03 09:53:55",

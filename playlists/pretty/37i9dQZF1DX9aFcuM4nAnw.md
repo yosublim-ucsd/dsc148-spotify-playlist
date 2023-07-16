@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 
 > Immerse deeper into obscure alternate dimensions..\. 🦇🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,960 likes - 75 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,964 likes - 75 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 40 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 |
 | 41 | [Sick Times](https://open.spotify.com/track/1kWsVllnOYVv84DpXxoWr3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:16 |
 | 42 | [Immemorial](https://open.spotify.com/track/6N5cVdUFPXwrFdlAjlsRwA) | [Apocryphos](https://open.spotify.com/artist/64qsbZn2w42kGEHQWsjgdP), [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ), [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Onyx](https://open.spotify.com/album/6fSwC689X5NJC8hIOEOBLS) | 5:33 |
-| 43 | [Neon Dawn](https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 5:22 |
+| 43 | [Babel](https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7) | [The Word as Power](https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy) | 10:01 |
 | 44 | [A Curved Blade](https://open.spotify.com/track/4Ym6wbx5lfJpzBfMnqeGlT) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [Void](https://open.spotify.com/album/37uM7AfX8Zo0gKSLUNPHSj) | 6:03 |
-| 45 | [Babel](https://open.spotify.com/track/2cwUe02VNInFY7OstKbqsJ) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7) | [The Word as Power](https://open.spotify.com/album/5iDNqRncNguhFpsZiTZEBy) | 10:01 |
+| 45 | [Neon Dawn](https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 5:22 |
 | 46 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
 | 47 | [Vortex](https://open.spotify.com/track/5cE9YBCzeAC91L9bq7sAfi) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 4:44 |
 | 48 | [The Ruins And The Serene](https://open.spotify.com/track/4VjOSSo1o605t3tYZNFgs3) | [Kammarheit](https://open.spotify.com/artist/3uUghlgJJQPZOHB6KRrSXZ) | [Asleep And Well Hidden](https://open.spotify.com/album/1LUPlzy1smiOY2YFEA04AZ) | 7:10 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 63 | [Interior Synthesis of Polarity](https://open.spotify.com/track/1rDKcl40U9HOF6VFQoSwqU) | [Inade](https://open.spotify.com/artist/4pFSQZfXbBzabeOT7necWo) | [Delineation.Metamorphosis.Permanence.](https://open.spotify.com/album/64vjzqH3ZpsUvO8dZ9NZyr) | 5:10 |
 | 64 | [Vocerah](https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr) | [Treha Sektori](https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh) | [Endessiah](https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH) | 6:06 |
 | 65 | [Don't Forget](https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N) | [Sharp Veins](https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2) | [Die of The Waters](https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf) | 3:06 |
-| 66 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 |
-| 67 | [Woven Planet](https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV) | [Craig Padilla](https://open.spotify.com/artist/5lloFkGFSO4m4XAgOpTAg1) | [Below the Mountain](https://open.spotify.com/album/0moWiLCjBdOtMSLk9YjAb4) | 4:50 |
-| 68 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
-| 69 | [Under the Midnight Sun](https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/0Cxszkp832OLjhTQdTCEQI) | 3:42 |
+| 66 | [Woven Planet](https://open.spotify.com/track/4ijTCzm7YXnjRWCE2x3UTV) | [Craig Padilla](https://open.spotify.com/artist/5lloFkGFSO4m4XAgOpTAg1) | [Below the Mountain](https://open.spotify.com/album/0moWiLCjBdOtMSLk9YjAb4) | 4:50 |
+| 67 | [The Magi](https://open.spotify.com/track/1Ma5XYumHN0yAp5yzaWReq) | [Council of Nine](https://open.spotify.com/artist/3m9vrJ0nacuuhkK5tvqInR) | [Dakhma](https://open.spotify.com/album/2ySAn302IJRRc3PJpkuRfM) | 10:24 |
+| 68 | [Under the Midnight Sun](https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/0Cxszkp832OLjhTQdTCEQI) | 3:42 |
+| 69 | [Bathyscaphe](https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [Bathyscaphe](https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp) | 3:12 |
 | 70 | [Ambulance Chase](https://open.spotify.com/track/7mOxAfHsYo0SsmPhVKEWVD) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:58 |
 | 71 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 72 | [Flowers Of Evil](https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Flowers Of Evil](https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6) | 14:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [Witch's Will](https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy) | [Wilburn Burchette](https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 4:57 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MCw2ZGY3MjQ4ODA2MWU1NWUzMDc4MjRhZTU1N2ExOTc2ZGU0ZDY3ZWQ1`
+Snapshot ID: `MCw3NDhjODkzMDA2YzA5OWNiZGM4ZTkzYTVkZTEzZmQzM2VlZjlkNTNl`

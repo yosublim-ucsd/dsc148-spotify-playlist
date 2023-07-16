@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 129087,
+  "num_followers": 129207,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk",
+  "snapshot_id": "MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -483,58 +483,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/3TWOsWcp8STcz4jP1mgnpY"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "Dj Mike",
-          "url": "https://open.spotify.com/artist/0Fq48TUDMWLaNIKFUjnapH"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/2h9g51rIjlARNw3Mm24xby"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "Child of the King",
-        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 101406,
-      "name": "Child of the King",
-      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "CECE",
         "url": "https://open.spotify.com/album/6ird0Ix4vrqHCNZOjgkTEH"
       },
@@ -555,6 +503,58 @@
       "duration_ms": 142782,
       "name": "CECE",
       "url": "https://open.spotify.com/track/6uRfwmyU2iMK1lsMnU6Fga"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/3TWOsWcp8STcz4jP1mgnpY"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "Dj Mike",
+          "url": "https://open.spotify.com/artist/0Fq48TUDMWLaNIKFUjnapH"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/2h9g51rIjlARNw3Mm24xby"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Child of the King",
+        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 101406,
+      "name": "Child of the King",
+      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "MY HAPPY",
         "url": "https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 176629,
       "name": "MY HAPPY",
       "url": "https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "H O L O G R A P H I C",
         "url": "https://open.spotify.com/album/3xtKM1mZHeO1osPSrGZfdm"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 164886,
       "name": "Slidin'",
       "url": "https://open.spotify.com/track/3kmA58ErSrm3fwcnkJabhB"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "NEW HOLLYWOOD",
         "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
       },
@@ -1459,22 +1439,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "My Rocket",
-        "url": "https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i"
-      },
-      "artists": [
-        {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        }
-      ],
-      "duration_ms": 125256,
-      "name": "My Rocket",
-      "url": "https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Graves (Acoustic)",
         "url": "https://open.spotify.com/album/6yp8tnxFB1gXNUHpF52iqP"
       },
@@ -1491,6 +1455,42 @@
       "duration_ms": 258730,
       "name": "Graves - Acoustic",
       "url": "https://open.spotify.com/track/0yMxVz4bq58UKTRVaBt2ub"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 127007,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "My Rocket",
+        "url": "https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i"
+      },
+      "artists": [
+        {
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "My Rocket",
+      "url": "https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/1Rtsel0lkAyFrsW1fvSBj6"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        },
-        {
-          "name": "J1W",
-          "url": "https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/6UCnERki2oEkXahKsfXVHU"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Never Forget",
         "url": "https://open.spotify.com/album/3Ujum6XUWUCj2jfeO8mova"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 144000,
       "name": "SOBER!",
       "url": "https://open.spotify.com/track/5kr9X90ujv331cdOeRbnCZ"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/1Rtsel0lkAyFrsW1fvSBj6"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        },
+        {
+          "name": "J1W",
+          "url": "https://open.spotify.com/artist/1rinkeYozGduW14ex0aiuM"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/6UCnERki2oEkXahKsfXVHU"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "WINGS OF AN ANGEL",
+        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 120888,
+      "name": "butterfly vibes 2",
+      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "Church House Trap House",
         "url": "https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 116363,
       "name": "Under Construction",
       "url": "https://open.spotify.com/track/6RXQbHsV0dAIpQRrkGKq5n"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "WINGS OF AN ANGEL",
-        "url": "https://open.spotify.com/album/1zCJAhBmfNosFaEUxB4D1R"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 120888,
-      "name": "butterfly vibes 2",
-      "url": "https://open.spotify.com/track/7Hj1mJWiusjs2DvG3l0V8T"
     },
     {
       "added_at": "2023-04-28 12:30:31",

@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-531 songs - 2 day 4 hr 45 min
+533 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Latex](https://open.spotify.com/track/7Lp0NobaOnTfqcHPjVXzA6) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Latex](https://open.spotify.com/album/3kjWRIgz8s6hTVx2PmvpI9) | 7:19 | 2021-07-10 | 2022-02-26 |
 | [Lehmann Club](https://open.spotify.com/track/0VkDJuw8fCuaLFRk8L7O3w) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [SYS01LEHMANNCLUB](https://open.spotify.com/album/3QiooDugj3219S5ftxD7L4) | 4:52 | 2020-06-30 | 2021-01-30 |
 | [Liberty](https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Liberty](https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6) | 5:17 | 2023-04-21 | 2023-06-24 |
-| [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-10 |  |
+| [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-10 | 2023-07-16 |
 | [Light In The Dark](https://open.spotify.com/track/2X03gF3WRfveN5ur4xpdwR) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [Light In The Dark](https://open.spotify.com/album/4r2co3jicUbmgAKlYMIsl3) | 7:30 | 2020-05-09 | 2020-09-28 |
 | [Limitless \- Original Mix](https://open.spotify.com/track/2XjVi7PMd1WcbL6nAF2Zos) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Elements](https://open.spotify.com/album/07xr5B691So7OXpUfV0z6R) | 4:04 | 2020-04-18\* | 2020-06-06 |
 | [Liquid Night](https://open.spotify.com/track/35LDDcZp7k7QevRBQwCaMZ) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Liquid Night](https://open.spotify.com/album/0EBHgDyLonbzhJLNjbrlp6) | 6:39 | 2021-12-28 | 2022-07-09 |
@@ -332,7 +332,7 @@
 | [Nothing Can Save You, Accept Darkness](https://open.spotify.com/track/5JuwReeDuunfHJApP5y8a9) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Nothing Can Save You, Accept Darkness](https://open.spotify.com/album/2tTauDfi8T7cDA5NzP63v5) | 7:46 | 2020-09-04 | 2021-10-02 |
 | [Nothingness](https://open.spotify.com/track/09OONn3fkGVUCPjPTG7Xyp) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Nothingness EP](https://open.spotify.com/album/0y9Iy1zjNgfIMJLyLs1QPI) | 5:18 | 2020-11-21 | 2021-07-10 |
 | [Nothingness \- Original Mix](https://open.spotify.com/track/0pFes2owZmkuuYoUXWQ0pL) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Voices In My Head EP](https://open.spotify.com/album/2sngmJvA4Vz8k4GLtdwyPj) | 6:25 | 2022-03-25 | 2022-06-18 |
-| [Notre Dame \- Original Mix](https://open.spotify.com/track/2XCfdXbtoqVTXxw3vIOGTo) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Notre Dame](https://open.spotify.com/album/7HvUdTTSn9818mPuwkHIOf) | 3:43 | 2023-05-05 |  |
+| [Notre Dame \- Original Mix](https://open.spotify.com/track/2XCfdXbtoqVTXxw3vIOGTo) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Notre Dame](https://open.spotify.com/album/7HvUdTTSn9818mPuwkHIOf) | 3:43 | 2023-05-05 | 2023-07-16 |
 | [Nova](https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Nova](https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA) | 6:16 | 2020-12-05 | 2021-06-05 |
 | [Obsession](https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Obsession](https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp) | 6:22 | 2022-01-07 | 2022-08-06 |
 | [Odd Behaviour \- Original Mix](https://open.spotify.com/track/4uJIvoz7mhuvotGpdtJ9FF) | [RanchaTek](https://open.spotify.com/artist/2MUE91HRWfzKMvBIDzU5nF), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Odd Behaviour](https://open.spotify.com/album/2ql3cWeThrmeTpSdeajStN) | 6:26 | 2020-04-18\* | 2020-05-09 |
@@ -345,6 +345,7 @@
 | [Open Up \- Original Mix](https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Open Up](https://open.spotify.com/album/0f8gsdHHUzesyF8rDqUcU5) | 7:12 | 2022-01-21 | 2022-06-29 |
 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-06-09 |  |
 | [Pantagruel](https://open.spotify.com/track/0yndiHV68jSDkxxpdbzxdX) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C) | [Kydàios EP](https://open.spotify.com/album/3ByGVPeiGEBt947mFOZO4X) | 6:16 | 2020-04-18\* | 2020-08-22 |
+| [Parallel Reality](https://open.spotify.com/track/5XD4lTy3lQPvC953mXjbN6) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [Parallel Reality](https://open.spotify.com/album/6ap62gn9i9iwMhcnQMxm2f) | 3:24 | 2023-07-15 |  |
 | [Paranormal \- Original Mix](https://open.spotify.com/track/7BPw1L2hMs2quFOFw13SeI) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ) | [Paranormal EP](https://open.spotify.com/album/0SfDnkiSIMUUyMBXZwc8HQ) | 6:14 | 2020-04-29 | 2020-10-10 |
 | [Perzechella](https://open.spotify.com/track/52YiBbdDeJhVpKghqPN5ev) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [ParteNope](https://open.spotify.com/artist/7ctU2FxtLcJgkZXfaJf713) | [Babylonia](https://open.spotify.com/album/7KrDMVlL2ftiwtHN0yW2Va) | 5:11 | 2023-03-10 | 2023-05-27 |
 | [Phantasy](https://open.spotify.com/track/5uEW8Kp1dM8UbotWxieU9c) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Phantasy](https://open.spotify.com/album/2w9JaI4kPmMHweV6ComleZ) | 4:00 | 2023-01-27 | 2023-04-09 |
@@ -410,6 +411,7 @@
 | [Sentinel \- Original Mix](https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Sentinel](https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC) | 6:28 | 2022-04-22 | 2022-10-01 |
 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 | 2022-11-25 |  |
 | [Sex and the Machine](https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Sex and the Machine](https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe) | 4:00 | 2022-08-05 | 2022-10-29 |
+| [Sexuality \(My Reality\)](https://open.spotify.com/track/6K8MEkyv4cR6LPngDmsq20) | [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4) | [Fusion](https://open.spotify.com/album/55KpRN5uOM2EhyoHcQSBsI) | 6:26 | 2023-07-15 |  |
 | [Sgadi Li Mi](https://open.spotify.com/track/5uGAsQOyfMih2F9Zk8TkYH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Return To Nowhere EP](https://open.spotify.com/album/1Tm0ovE9zfWlusNCtZkkQO) | 6:24 | 2020-07-19 | 2021-06-05 |
 | [Shift](https://open.spotify.com/track/4q1Pi82KM83zz1YeueS79n) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All Things Fall](https://open.spotify.com/album/3H3MvHQObCHzt1yeEc9KGQ) | 6:52 | 2020-04-18\* | 2020-04-29 |
 | [Silence](https://open.spotify.com/track/6Rh7Z7HgjzxouMzlXMN75U) | [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg), [HLGRMS](https://open.spotify.com/artist/1EtIq8lnoAOKoVf8ryhcmQ) | [Silence](https://open.spotify.com/album/2gwA0bOrpxqNwx8zI9PzRT) | 6:23 | 2022-11-25 | 2023-03-25 |

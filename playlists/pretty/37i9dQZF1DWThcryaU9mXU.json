@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 43217,
+  "num_followers": 43285,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh",
+  "snapshot_id": "MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Driftin' Blues - Single Version",
-      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Real Gone",
         "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 262869,
       "name": "Broken & Blue (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Driftin' Blues - Single Version",
+      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
       },
       "artists": [
         {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 208732,
-      "name": "It Serves Me Right to Suffer - Remastered",
-      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
+      "duration_ms": 224840,
+      "name": "I Shall Know Him",
+      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
       "artists": [
         {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 224840,
-      "name": "I Shall Know Him",
-      "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
+      "duration_ms": 208732,
+      "name": "It Serves Me Right to Suffer - Remastered",
+      "url": "https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        }
+      ],
+      "duration_ms": 219690,
+      "name": "Blues is My Best Friend",
+      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
         "name": "Wish Someone Would Care",
         "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 375946,
       "name": "I Walk Alone",
       "url": "https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        }
-      ],
-      "duration_ms": 219690,
-      "name": "Blues is My Best Friend",
-      "url": "https://open.spotify.com/track/1lEJz2TvlpeACrffMW33K0"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Been Gone Too Long",
-        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Sundown",
-          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
-        }
-      ],
-      "duration_ms": 255946,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 329373,
       "name": "Sanctified, Holy And Hateful",
       "url": "https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Been Gone Too Long",
+        "url": "https://open.spotify.com/album/57lHz8bXu1A72WHOLbl4DO"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Sundown",
+          "url": "https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ"
+        }
+      ],
+      "duration_ms": 255946,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7GB39p4IhgmHf8z0GZtACB"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "You'll Never Find Anyone To Be A Slave Like Me - Remastered 2022",
-      "url": "https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Peepin' And Hidin'",
         "url": "https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 223477,
       "name": "What Am I Living For",
       "url": "https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "You'll Never Find Anyone To Be A Slave Like Me - Remastered 2022",
+      "url": "https://open.spotify.com/track/2CUoa5qyfnFMnViDYrSsWw"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "What do You Feel?",
-        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
-      },
-      "artists": [
-        {
-          "name": "Renato Genestra",
-          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "What do You Feel?",
-      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/4Luc0LX0LP4hH1tuqELJyV"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 250760,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4VUX1UU7Rm8itgHYQ8jU3N"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "What do You Feel?",
+        "url": "https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm"
+      },
+      "artists": [
+        {
+          "name": "Renato Genestra",
+          "url": "https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "What do You Feel?",
+      "url": "https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Get Your Lovin'",
-        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
-      },
-      "artists": [
-        {
-          "name": "Secret Formula Band",
-          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
-        }
-      ],
-      "duration_ms": 203395,
-      "name": "Get Your Lovin'",
-      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Marshall Texas Is My Home",
         "url": "https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 184760,
       "name": "Hard Living Alone",
       "url": "https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Get Your Lovin'",
+        "url": "https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR"
+      },
+      "artists": [
+        {
+          "name": "Secret Formula Band",
+          "url": "https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs"
+        }
+      ],
+      "duration_ms": 203395,
+      "name": "Get Your Lovin'",
+      "url": "https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil"
     },
     {
       "added_at": "2023-06-30 00:01:00",

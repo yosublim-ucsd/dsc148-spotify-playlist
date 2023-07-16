@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 269300,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5MRB560kWM0Zr9evG1YQ4t"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 269300,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD"
@@ -7190,6 +7190,24 @@
     {
       "album": {
         "name": "hey! - Spotify Singles",
+        "url": "https://open.spotify.com/album/1XwXxE28acZ8c4brt8CReD"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133762,
+      "name": "hey! - Spotify Singles",
+      "url": "https://open.spotify.com/track/2v8DsnCstW8WyDwrUywzhP"
+    },
+    {
+      "album": {
+        "name": "hey! - Spotify Singles",
         "url": "https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ"
       },
       "artists": [
@@ -7200,7 +7218,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 133762,
       "name": "hey! - Spotify Singles",
       "url": "https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo"
@@ -12938,10 +12956,32 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 145084,
       "name": "OMOGE WA JO",
       "url": "https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC"
+    },
+    {
+      "album": {
+        "name": "OMOGE WA JO (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "L0LA",
+          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145084,
+      "name": "OMOGE WA JO (Spotify Singles)",
+      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
     },
     {
       "album": {
@@ -16298,10 +16338,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 261605,
       "name": "Sugar Man",
       "url": "https://open.spotify.com/track/1kteLmpKLQsLDy3h8V9aOX"
+    },
+    {
+      "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261605,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: The Revivalists\n",
-  "num_followers": 468257,
+  "num_followers": 468304,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2QyMDU0N2NlOWRhY2UzMzNkZGZmYzc1MDU2OWJlYjBjNzdlM2Y1",
+  "snapshot_id": "MCw5MTliNzBlZGFlNTcwZjkwMTI5NTdiNDkyNTlhOTI0YjE2MDQ0ZTM4",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
+      },
+      "artists": [
+        {
+          "name": "Better Than Ezra",
+          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 174347,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
-      },
-      "artists": [
-        {
-          "name": "Better Than Ezra",
-          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 217463,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Spit Of You",
-        "url": "https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Spit Of You",
-      "url": "https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 241800,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Spit Of You",
+        "url": "https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Spit Of You",
+      "url": "https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "The Tipping Point",
         "url": "https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 253226,
       "name": "The Tipping Point",
       "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "What Matters Most",
-        "url": "https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
-        }
-      ],
-      "duration_ms": 215420,
-      "name": "Exhausting Lover",
-      "url": "https://open.spotify.com/track/0CddCJAM7uawhCezlJc2YK"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 229472,
       "name": "The War Inside (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0AeKE6Cz7EPw9Eld1tJ6fz"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "What Matters Most",
+        "url": "https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 215420,
+      "name": "Exhausting Lover",
+      "url": "https://open.spotify.com/track/0CddCJAM7uawhCezlJc2YK"
     },
     {
       "added_at": "2023-06-09 04:00:00",

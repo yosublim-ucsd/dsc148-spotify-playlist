@@ -5114,7 +5114,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 233673,
       "name": "Life Moves Fast",
       "url": "https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs"
@@ -6264,7 +6264,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 223636,
       "name": "Notre Dame - Original Mix",
       "url": "https://open.spotify.com/track/2XCfdXbtoqVTXxw3vIOGTo"
@@ -6496,6 +6496,24 @@
       "duration_ms": 376715,
       "name": "Pantagruel",
       "url": "https://open.spotify.com/track/0yndiHV68jSDkxxpdbzxdX"
+    },
+    {
+      "album": {
+        "name": "Parallel Reality",
+        "url": "https://open.spotify.com/album/6ap62gn9i9iwMhcnQMxm2f"
+      },
+      "artists": [
+        {
+          "name": "D72",
+          "url": "https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Parallel Reality",
+      "url": "https://open.spotify.com/track/5XD4lTy3lQPvC953mXjbN6"
     },
     {
       "album": {
@@ -7742,6 +7760,24 @@
       "duration_ms": 240123,
       "name": "Sex and the Machine",
       "url": "https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1"
+    },
+    {
+      "album": {
+        "name": "Fusion",
+        "url": "https://open.spotify.com/album/55KpRN5uOM2EhyoHcQSBsI"
+      },
+      "artists": [
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386911,
+      "name": "Sexuality (My Reality)",
+      "url": "https://open.spotify.com/track/6K8MEkyv4cR6LPngDmsq20"
     },
     {
       "album": {

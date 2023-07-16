@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 118150,
+  "num_followers": 118167,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTUyNTg1MzUyZWY5OWUxMGEwZDJhYzJhZjNmOTcwY2M0YjYxODZi",
+  "snapshot_id": "MCw2ZmVkZjcyOTQ3ZmExMTJlZDBlN2E5MThjMTZhZTRhNDdiMjdiYzEz",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Big Sur",
-        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 192909,
-      "name": "Big Sur",
-      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Obscure",
         "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 156478,
       "name": "Aerie",
       "url": "https://open.spotify.com/track/3VfnEFPZEngbEB5Qb6TeB4"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Big Sur",
+        "url": "https://open.spotify.com/album/0TMwz5HbnoA6TSgTZd8GcJ"
+      },
+      "artists": [
+        {
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
+        }
+      ],
+      "duration_ms": 192909,
+      "name": "Big Sur",
+      "url": "https://open.spotify.com/track/6XpDacIn7QF5WGz9ALX1JA"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Eladio",
+        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "duration_ms": 138100,
+      "name": "Eladio",
+      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Travellers",
         "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 236671,
       "name": "Love International Inc.",
       "url": "https://open.spotify.com/track/7AA6xlsekFaLLbSX92aeyK"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Eladio",
-        "url": "https://open.spotify.com/album/0GBfIm90An4SD6JJFgdThM"
-      },
-      "artists": [
-        {
-          "name": "Camisade",
-          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
-        }
-      ],
-      "duration_ms": 138100,
-      "name": "Eladio",
-      "url": "https://open.spotify.com/track/1OAsSJnZRQif9G66G2QCbs"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "House Shit",
-        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
-      },
-      "artists": [
-        {
-          "name": "YellowStraps",
-          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
-        }
-      ],
-      "duration_ms": 107586,
-      "name": "House Shit",
-      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Just for a Moment",
         "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 193200,
       "name": "Just for a Moment",
       "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "House Shit",
+        "url": "https://open.spotify.com/album/4G3XZqQsuKeQmfYuT5OsgD"
+      },
+      "artists": [
+        {
+          "name": "YellowStraps",
+          "url": "https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx"
+        }
+      ],
+      "duration_ms": 107586,
+      "name": "House Shit",
+      "url": "https://open.spotify.com/track/4jw0Ezk1j8xaAdKNdkgX22"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -835,30 +835,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
-        "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
+        "name": "After Midnyte",
+        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
       },
       "artists": [
         {
-          "name": "Martin Brodin",
-          "url": "https://open.spotify.com/artist/7etTPm2rH9ITrhUVUkeyPu"
-        },
-        {
-          "name": "Mikael Surdi",
-          "url": "https://open.spotify.com/artist/0MQyQjUuh0q7RRVnHRUc5P"
-        },
-        {
-          "name": "Alexandra Hamnede",
-          "url": "https://open.spotify.com/artist/5WbT9sTM2jMWXfcZzMLF36"
-        },
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
         }
       ],
-      "duration_ms": 213611,
-      "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
-      "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
+      "duration_ms": 191819,
+      "name": "Got to Fall Out",
+      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -887,18 +875,30 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "After Midnyte",
-        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+        "name": "Don't Stop the Dance (Kraak & Smaak Radio Edit)",
+        "url": "https://open.spotify.com/album/1Mbgn2dBhxJZUDP5nAaRgY"
       },
       "artists": [
         {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+          "name": "Martin Brodin",
+          "url": "https://open.spotify.com/artist/7etTPm2rH9ITrhUVUkeyPu"
+        },
+        {
+          "name": "Mikael Surdi",
+          "url": "https://open.spotify.com/artist/0MQyQjUuh0q7RRVnHRUc5P"
+        },
+        {
+          "name": "Alexandra Hamnede",
+          "url": "https://open.spotify.com/artist/5WbT9sTM2jMWXfcZzMLF36"
+        },
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
         }
       ],
-      "duration_ms": 191819,
-      "name": "Got to Fall Out",
-      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+      "duration_ms": 213611,
+      "name": "Don't Stop the Dance - Kraak & Smaak Radio Edit",
+      "url": "https://open.spotify.com/track/1zoI4kALck0KVXw8wYJEfY"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
+      },
+      "artists": [
+        {
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+        }
+      ],
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Space Logic",
         "url": "https://open.spotify.com/album/6ZIh3hjRNV4ViM9EmZ8CGF"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 211025,
       "name": "I Need You to Hear Me",
       "url": "https://open.spotify.com/track/329rKlFCy5U6H9U7AtSAvP"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "NaturHaus",
+        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        },
+        {
+          "name": "Soft Palace",
+          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
+        }
+      ],
+      "duration_ms": 239548,
+      "name": "NaturHaus",
+      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Such It Goes",
         "url": "https://open.spotify.com/album/4u2ZlIFMiHYmrAqF4QLEvn"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 317288,
       "name": "Back 2 It",
       "url": "https://open.spotify.com/track/2QBnkgX7ekkoZtlR3ZzLHO"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "NaturHaus",
-        "url": "https://open.spotify.com/album/2fdwX91CMjhwhnbNqR891k"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        },
-        {
-          "name": "Soft Palace",
-          "url": "https://open.spotify.com/artist/1KiYF9PWPsFiCBes5YbUJy"
-        }
-      ],
-      "duration_ms": 239548,
-      "name": "NaturHaus",
-      "url": "https://open.spotify.com/track/2ym03lsLfjcz4LMzHDn5Pm"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "The Island",
-        "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Wax Casting",
         "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 237947,
       "name": "Moraine",
       "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "The Island",
+        "url": "https://open.spotify.com/album/7Lq4U7ZWU1Xm7u9OKoHKU9"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2U6OKVqexxZKLwQe7purlV"
     },
     {
       "added_at": "2023-07-13 22:00:00",

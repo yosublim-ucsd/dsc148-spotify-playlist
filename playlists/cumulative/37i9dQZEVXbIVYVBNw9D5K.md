@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-713 songs - 1 day 11 hr 51 min
+715 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 | 2023-06-17 |  |
 | [Baba Yak](https://open.spotify.com/track/0JBXoHRZdgMlOUrnALDs1y) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Baba Yak](https://open.spotify.com/album/0OAVYU8t5hsj92eYATU0IZ) | 2:18 | 2021-09-05 | 2021-09-08 |
 | [Baba Yak](https://open.spotify.com/track/7usrRc80h2SFbDC5BU4Txp) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Baba Yak](https://open.spotify.com/album/44DZc6AFt0yYhm225b29HB) | 2:18 | 2021-09-08 | 2021-10-24 |
+| [BAKSANA BİLADER \- Saz Mi Caz Mi](https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [BAKSANA BİLADER \(Saz Mi Caz Mi\)](https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og) | 2:56 | 2023-07-15 |  |
 | [BANA GAYRET](https://open.spotify.com/track/0y07MvJpFBuMEtsa0bIeJj) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [22](https://open.spotify.com/album/3rLonfO60rC52gkXQzy7TW) | 2:25 | 2022-01-22 | 2022-01-29 |
 | [Bana Sorma](https://open.spotify.com/track/2QxaqKlNW0XZIjppSQJahw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bana Sorma](https://open.spotify.com/album/5qmPZh2dhkvsXrVRZCXwV7) | 2:45 | 2021-04-04 | 2021-04-15 |
 | [Bana Unutmayı Anlat](https://open.spotify.com/track/46zrFCqcWpg4FgPXx5ou3K) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj), [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bana Unutmayı Anlat](https://open.spotify.com/album/6OEGG28GEyi3krxa4SXFlc) | 3:12 | 2022-04-30 | 2022-05-22 |
@@ -392,7 +393,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-05-13 | 2021-06-27 |
 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 | 2023-06-03 |  |
 | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/track/5h1Zdr8ghV5RaWjtdfVo8w) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Konum Gizli \(feat\. Murda\)](https://open.spotify.com/album/0BmtUyUSG5Qg1DY9Vw8hw8) | 3:18 | 2022-05-17 | 2022-10-30 |
-| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 |  |
+| [Kor](https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE) | 2:59 | 2022-01-04 | 2023-07-16 |
 | [Kor](https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Kor](https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei) | 2:59 | 2021-10-10 | 2022-01-05 |
 | [Kron1k](https://open.spotify.com/track/6vLPgqdXSzEaVYx92YoFjd) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Kron1k](https://open.spotify.com/album/4Zdbg6Ir5nZJ9eN5HfipND) | 4:53 | 2021-03-27\* | 2021-04-08 |
 | [Krvn](https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 2:51 | 2021-03-27\* | 2022-04-13 |
@@ -583,6 +584,7 @@
 | [Senin Yüzünden](https://open.spotify.com/track/2xIC5DmTHaGBL83a9OUXM4) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Senin Yüzünden](https://open.spotify.com/album/7cpuTKGXRpW2SiaNTok32Y) | 2:53 | 2021-03-27\* | 2021-07-04 |
 | [Sensizlik Yarim](https://open.spotify.com/track/7C4azcFK7GaKT75dhHYgVM) | [Taylan Kaya](https://open.spotify.com/artist/10icwsz4H9wgQsw0PLklWh), [Vave](https://open.spotify.com/artist/5mQAYhwuI0mAnzxldEWw8s), [Nurhana Demet](https://open.spotify.com/artist/2tTCO6DA6HRqBimHuERCw2), [ETC Production](https://open.spotify.com/artist/0LkIrU2zt7jVVPibxEeS25) | [Sensizlik Yarim](https://open.spotify.com/album/2tyHjCmlw1LGloepW3umim) | 3:29 | 2021-12-25 | 2022-01-23 |
 | [Sevecek Sandım](https://open.spotify.com/track/7dWOeNUJfixlvUcpZD90YE) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Aşırı Doz](https://open.spotify.com/album/5wXzQs5BV3D5mrFcF1vpmq) | 2:45 | 2023-01-18 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 |  |
 | [Sevmedim Deme](https://open.spotify.com/track/4Ou1xyvjbsmXUZ0UpC59OM) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Sevmedim Deme](https://open.spotify.com/album/3CneQ8xSGqLpHJjrjESQO8) | 2:31 | 2021-06-12 | 2021-09-11 |
 | [Sevmek Yüzünden](https://open.spotify.com/track/4X25FY9QkLBlHAxKYjTY3U) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Sevmek Yüzünden](https://open.spotify.com/album/4GiU27H1hR7f9ZW8KlAHq6) | 3:39 | 2021-04-14 | 2021-05-03 |
 | [Sevmiş Gibi](https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Sevmiş Gibi](https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8) | 2:30 | 2022-08-13 | 2023-01-29 |
@@ -720,6 +722,6 @@
 | [Şahane](https://open.spotify.com/track/4DbNopoUiA7WRz36e1hRS1) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Şahane](https://open.spotify.com/album/04qJEkzjcJ3jSucaskYDSv) | 1:51 | 2022-09-03 | 2022-09-11 |
 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/77zSVMpoimPhUiDuJS2Hhd) | [Shanga](https://open.spotify.com/artist/2x80eqIoeRyIDnZnqNicSs) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/6gRcQndplkSyytP7AiIj4I) | 3:13 | 2022-11-02 | 2022-11-04 |
 | [Şimdiki Aklım](https://open.spotify.com/track/3mcvBUQFQLzklDgU1bBnaW) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Şimdiki Aklım](https://open.spotify.com/album/4MiHGZmRm4SiEJTzxJ5ceJ) | 2:52 | 2021-03-27 | 2021-04-19 |
-| [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 |  |
+| [ŞU AN](https://open.spotify.com/track/1G2ipJnWC0v0rSPPpzjoek) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [LATIN VIRGIN](https://open.spotify.com/album/0tBoIz7IZw9s9bM7lQRlqA) | 2:25 | 2023-06-06 | 2023-07-16 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest",
-  "num_followers": 115440,
+  "num_followers": 115528,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTQ5ZTBiNjIwNmExNzMxN2IxYTc0OTU0M2I4M2JmN2I4MjMzZWQy",
+  "snapshot_id": "MCwxMWFhN2ZlOGFjZTJjNmJlOTgwOWQ0MTc3MDBhN2MwMDdjMTUzYzkz",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -503,34 +503,6 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "VAI POR MIM",
-        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
-      },
-      "artists": [
-        {
-          "name": "GDM",
-          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 147645,
-      "name": "VAI POR MIM",
-      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
         "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
         "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
       },
@@ -563,6 +535,34 @@
       "duration_ms": 228571,
       "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
       "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "VAI POR MIM",
+        "url": "https://open.spotify.com/album/1KcKl235anOEDbD1cIeTbl"
+      },
+      "artists": [
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 147645,
+      "name": "VAI POR MIM",
+      "url": "https://open.spotify.com/track/0Ej7efSLeTKrUW1LfdAJBY"
     },
     {
       "added_at": "2023-07-14 03:01:00",

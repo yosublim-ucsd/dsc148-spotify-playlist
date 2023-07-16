@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=\-dsmwHzdSjubu\-tNTC6eTg">Lasmid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,181 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,213 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 |
 | 80 | [Donow](https://open.spotify.com/track/1OXaXiUjsIigLkTpqSGz8G) | [Article Wan](https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Donow](https://open.spotify.com/album/5SvcnC7O2oHbzIdBj76aGu) | 3:20 |
 
-Snapshot ID: `MCxhOTAxNjU2NWNhNmFjNzZmMjFiYjQxYTU5YjgxNzBhNGI1Y2RmOGNm`
+Snapshot ID: `MCxiNjc3MzRiMDY0Y2I0MDcyMzllMmIzMDIwYmNjODZjZDJkMjQ0MmNi`

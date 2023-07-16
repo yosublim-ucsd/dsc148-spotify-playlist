@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-773 songs - 2 day 2 hr 58 min
+775 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-02-20 |  |
 | [My Song My Days](https://open.spotify.com/track/6720Nm1PzXNnaspxfDjF2T) | [SOLIDEMO](https://open.spotify.com/artist/7ccOn9dXuj9TGDZJSLZYP2), [桜men](https://open.spotify.com/artist/09nL8Bc0RxxQ43ckGEqgqN) | [My Song My Days](https://open.spotify.com/album/6INNU3w8qiQ75rRffXHpui) | 4:36 | 2022-06-07 | 2022-07-21 |
 | [NAMELY](https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [NAMELY](https://open.spotify.com/album/37U1o22d174FbOHy59LsbK) | 4:07 | 2022-06-07 | 2022-07-27 |
-| [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-11-22 |  |
+| [NEVER SAY GOODBYE](https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Mummy\-D](https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX) | [NEVER SAY GOODBYE](https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3) | 4:50 | 2022-11-22 | 2023-07-16 |
 | [New Page](https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs) | [INTERSECTION](https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma) | [New Page](https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE) | 4:30 | 2022-06-07 |  |
 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-07 | 2022-12-24 |
 | [ninelie](https://open.spotify.com/track/6kQ9Os7x5LJ2jLHb8VWKaa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Daydream](https://open.spotify.com/album/0rzOTrywE0mNybhErlmD5e) | 4:21 | 2022-06-07 | 2022-06-28 |
@@ -286,6 +286,7 @@
 | [Pianissimo](https://open.spotify.com/track/7MO27lM6zODQ2pnj3ihSoP) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [Pianissimo](https://open.spotify.com/album/2ZQ3XFNiTj1iUV5GVgdAEg) | 3:58 | 2022-06-07 | 2022-07-27 |
 | [PINK BLOOD](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [PINK BLOOD](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) | 3:17 | 2022-06-07 | 2023-07-02 |
 | [Plastic Smile](https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/6EKzeS69OIX5zvT57wWkrd) | 4:21 | 2022-06-07 | 2022-07-28 |
+| [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 | 2023-07-07 |  |
 | [Precious My Heroes](https://open.spotify.com/track/7ushnMUNnxdnCYenITjTAB) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [宮本一粋](https://open.spotify.com/artist/4xfWvTxGsQ64S07dogtUjD) | [Precious My Heroes](https://open.spotify.com/album/6dwAUn6nNHo7Od7oCXU3mZ) | 4:49 | 2022-06-07 | 2022-06-12 |
 | [Presence](https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Presence](https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn) | 4:09 | 2022-10-04 | 2023-02-10 |
 | [Pride](https://open.spotify.com/track/1AI0jUdrMtoA2UBXf21WqG) | [Harumi](https://open.spotify.com/artist/01AnOmJCFPom13jKelxk8D) | [Pride](https://open.spotify.com/album/2bx5zIIZ0r1jd06uU4vAZh) | 4:35 | 2022-06-07 | 2022-07-14 |
@@ -478,7 +479,7 @@
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-07 | 2022-07-10 |
 | [アルケミラ](https://open.spotify.com/track/1QBkrW9kGVFGHd1eS2Hsiw) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [アルケミラ](https://open.spotify.com/album/5BgWsO3TSxunG538f6zmK6) | 3:55 | 2022-06-07 | 2022-07-23 |
 | [アレキシサイミアスペア](https://open.spotify.com/track/1pQ9MUBDpe5AVnpxha0uso) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [last aurorally](https://open.spotify.com/album/5NxTmnfjzE2DpeUUWfsn0F) | 5:25 | 2023-04-21 | 2023-06-17 |
-| [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 | 2023-02-20 |  |
+| [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 | 2023-02-20 | 2023-07-16 |
 | [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 | 2023-04-10 | 2023-04-17 |
 | [インフィニティ](https://open.spotify.com/track/3Gj9gaVfc3HHyqcIFaSa70) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [インフィニティ](https://open.spotify.com/album/5A7mNWIOtdsmE3TiDiAQvm) | 4:05 | 2022-06-07 | 2023-03-12 |
 | [インフェルノ](https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [インフェルノ](https://open.spotify.com/album/137FjNv5TRNvbW6D17bQc1) | 3:32 | 2022-06-07 |  |
@@ -753,6 +754,7 @@
 | [言えない](https://open.spotify.com/track/4Pgfcz3P83oJHdRvO0NJ0Q) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [言えない](https://open.spotify.com/album/5ApBDaAa7sZWVDN1poztE3) | 3:24 | 2022-08-11 | 2022-12-03 |
 | [誰も彼も何処も何も知らない](https://open.spotify.com/track/4HXLOgMIVNTfiuWiMBoRa4) | [ASOBI同盟](https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE) | [TVアニメ「天国大魔境」エンディングテーマ「誰も彼も何処も何も知らない」](https://open.spotify.com/album/5PHNBwNEV5PhEpMyDbtMeg) | 3:40 | 2023-04-21 |  |
 | [負けイベ実況プレイ](https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB) | [15才](https://open.spotify.com/artist/2kB1cnoc2xQmt7CUciONPZ), [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [負けイベ実況プレイ](https://open.spotify.com/album/1TGTkkNtcGIlM2q3V2gp9L) | 3:28 | 2022-06-07 | 2022-06-22 |
+| [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 | 2023-07-07 |  |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-07 |  |
 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2022-06-07 | 2022-08-12 |
 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-08-11 |  |

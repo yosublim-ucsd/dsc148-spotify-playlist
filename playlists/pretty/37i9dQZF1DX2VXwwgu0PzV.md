@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=pzNnGaQXQB2Dgc0WgWI7dw">TBabz</a> and <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=aPTZIvCmQnq6JMkSJy5DJw">Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,216 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,264 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 79 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 |
 | 80 | [Victory](https://open.spotify.com/track/03CHhDauAkuZsaCsDJ9Evf) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Victory](https://open.spotify.com/album/3jau4dbwIs9tbz4DyZ458z) | 3:14 |
 | 81 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
-| 82 | [READY FOR JESUS](https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2) | 5:45 |
+| 82 | [READY FOR JESUS](https://open.spotify.com/track/1Y16kJN8bjBYA1xyHYKltB) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/7tQF9Dq3bfWYs3DPplMpTv) | 5:45 |
 | 83 | [I Really Want You to Know](https://open.spotify.com/track/38gMEX4SPeJN5Z2FM7mcPs) | [Kelly Emuegba](https://open.spotify.com/artist/68KarBTCFcWJfNY3G91p6v) | [I Really Want You to Know](https://open.spotify.com/album/6Ogz6BdSHhCeilep6LQGp3) | 4:38 |
 | 84 | [Champions](https://open.spotify.com/track/1DFpbQyEVR2f0K95u9n6BW) | [Favblings](https://open.spotify.com/artist/0nUqiVKvYLkuqgYWLVTZSI) | [Champions & Priesthood](https://open.spotify.com/album/4zMGxjA4oQxnT9XkDcq8P1) | 2:55 |
 | 85 | [Metaphor](https://open.spotify.com/track/19QCYufQ05DfKvKGNKqfI2) | [Paul\-Daniel Paul\-Enenche](https://open.spotify.com/artist/37IbjRwNWMpYXHlPquCcWG) | [Metaphor](https://open.spotify.com/album/6xT252OXrTCbN5Cbp4RG6U) | 4:18 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 89 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 | 90 | [I worship You \- Live](https://open.spotify.com/track/1VoZNbHh09zSljru2ctHw3) | [David Ize](https://open.spotify.com/artist/3NBFUw8jrmbEZ5qaHaNUtA) | [Atmosphère \(Live\)](https://open.spotify.com/album/0NaKmq0O0k7ULRgfqJbiyR) | 4:35 |
 
-Snapshot ID: `MCw2ZWIyZWVkNjJlYzNjNzM5NjdlODJhNzA1MjE4NWJmMTEyMWIyOWE5`
+Snapshot ID: `MCwyNDlmMTZjYTRiZmI4NjgwMDFjNzI1ZWY1NDIzMmIyMjcwOTA3YjJk`

@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170549,
+      "name": "Build a Boat",
+      "url": "https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF"
+    },
+    {
+      "album": {
         "name": "Let It Snow",
         "url": "https://open.spotify.com/album/6BgmTvXhhGIYXW7EbPdtUV"
       },
@@ -5268,7 +5286,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 254706,
       "name": "We're Here Because You're Here",
       "url": "https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S"

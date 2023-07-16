@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover: lophiile
 
-583 songs - 1 day 3 hr 13 min
+584 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,8 @@
 | [Missin You](https://open.spotify.com/track/3JvASko0o2pw7JgDvIjnYv) | [Isaacjacuzzi](https://open.spotify.com/artist/1d2LiED2RoP2szpzjrU0Hd) | [Feed The Family](https://open.spotify.com/album/674wXcS5Xt6hVvzYVj5VWm) | 1:53 | 2022-05-13 | 2022-07-02 |
 | [Missing Peace](https://open.spotify.com/track/53sYcjO9k3bqwqAROL8Z7I) | [Ellis Prescott](https://open.spotify.com/artist/1CwOqKfnDEm3IkwFyABUNL), [MDSoulful](https://open.spotify.com/artist/7KfV68nnbKjZMwKkn8DqmR) | [Missing Peace](https://open.spotify.com/album/04rfAFc4GONsKxe9iSO8hv) | 4:43 | 2022-05-27 | 2022-07-02 |
 | [Missing the point](https://open.spotify.com/track/0ozxGcHKH74tV7iEeOkj8i) | [Scooty](https://open.spotify.com/artist/3XcLz8GJp4KB9zuNFVUBnD) | [Build a Bridge](https://open.spotify.com/album/6UYTWjU6CaM1mCi3O3Jism) | 5:00 | 2022-07-18 | 2022-07-30 |
-| [Missing You](https://open.spotify.com/track/4oBdq2sJeULAgAx4OS0nYB) | [TBG](https://open.spotify.com/artist/2tYeKxqb14B4FAHgplnU4y), [Kam Bino](https://open.spotify.com/artist/5ii4IIoDVWOPR0wu9ytGju), [SheedBe](https://open.spotify.com/artist/7jJiqutE7HkYZRyrHKgo96) | [Missing You](https://open.spotify.com/album/6TmACmuZLlWvUtvbOa4h3t) | 2:46 | 2023-06-23 |  |
+| [Missing You](https://open.spotify.com/track/2dEDt6JlGV3cfiJcKazott) | [TBG](https://open.spotify.com/artist/2tYeKxqb14B4FAHgplnU4y), [Kam Bino](https://open.spotify.com/artist/5ii4IIoDVWOPR0wu9ytGju), [SheedBe](https://open.spotify.com/artist/7jJiqutE7HkYZRyrHKgo96) | [Open Interviews 2](https://open.spotify.com/album/5scJTQsZO4NhUcsEdyZPZA) | 2:46 | 2023-06-27 |  |
+| [Missing You](https://open.spotify.com/track/4oBdq2sJeULAgAx4OS0nYB) | [TBG](https://open.spotify.com/artist/2tYeKxqb14B4FAHgplnU4y), [Kam Bino](https://open.spotify.com/artist/5ii4IIoDVWOPR0wu9ytGju), [SheedBe](https://open.spotify.com/artist/7jJiqutE7HkYZRyrHKgo96) | [Missing You](https://open.spotify.com/album/6TmACmuZLlWvUtvbOa4h3t) | 2:46 | 2023-06-23 | 2023-07-16 |
 | [MISSIONARY STYLE](https://open.spotify.com/track/2EtGIKUntLjfVQBxG8v3XJ) | [Maika Million](https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j) | [IM BETTER](https://open.spotify.com/album/3b1U3PnmCCk4Mz01lzCuDm) | 2:24 | 2023-06-23 |  |
 | [Mj Flow](https://open.spotify.com/track/0ivFesBqVM7BbBElD63BWc) | [Cam the Mac](https://open.spotify.com/artist/6UU4zykvRGa1da42s5vIN1) | [Mj Flow](https://open.spotify.com/album/2ifpdssaW1uPggNl2pdydg) | 2:14 | 2022-07-18 | 2022-07-23 |
 | [Moment](https://open.spotify.com/track/3zoc8Iwj6Y5jcqaDyqJR8Y) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc), [Taliwhoah](https://open.spotify.com/artist/69SXADQsOhdGkhPGslLhBT) | [Moment](https://open.spotify.com/album/76L0ie8kpk0ASBZpJD3fjm) | 3:53 | 2022-03-18 | 2022-05-14 |

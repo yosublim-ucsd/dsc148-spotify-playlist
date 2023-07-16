@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,433 likes - 97 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,468 likes - 97 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 11 | [Top](https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Rico Tonga](https://open.spotify.com/artist/5LApBZfdlukIonWGLzB3Gz) | [Top](https://open.spotify.com/album/0apZvQNi0IfninYMAfAMe7) | 2:23 |
 | 12 | [Besties](https://open.spotify.com/track/4xlq4QkyZIaaZW1Mep6RJS) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [Besties](https://open.spotify.com/album/4nLSTihr5KTvxVriiJHF4i) | 2:14 |
 | 13 | [YAPPA YAPPA](https://open.spotify.com/track/78SgARD9dvoL6P3E3WSXWA) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [YAPPA YAPPA](https://open.spotify.com/album/1pmOITLVQEkNOp5QCdB2A4) | 2:15 |
-| 14 | [Loui n Trap](https://open.spotify.com/track/48tSd85jnXAcvs9XAwIl4S) | [Hoodllandsz](https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ) | [Loui & Trap](https://open.spotify.com/album/4Oc00JjKH0zxbqIz4hJA7R) | 2:45 |
+| 14 | [Loui & Trap](https://open.spotify.com/track/48tSd85jnXAcvs9XAwIl4S) | [Hoodllandsz](https://open.spotify.com/artist/5mzjS8h7chFyWJFtA1HbcZ) | [Loui & Trap](https://open.spotify.com/album/4Oc00JjKH0zxbqIz4hJA7R) | 2:45 |
 | 15 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 |
 | 16 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 | 17 | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/track/0BNUspVwO9YxkXJBrXhR5L) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/album/1bWqSzbMajcWTUR39AHBrE) | 2:35 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 96 | [WE HERE NOW](https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [WE HERE NOW](https://open.spotify.com/album/67CEXT1GE4V9iK1jNmaNta) | 3:28 |
 | 97 | [Mamacita](https://open.spotify.com/track/1lWBBogPlnCmAGHUHzURhp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Mamacita](https://open.spotify.com/album/2lUlXB0w58lyu86R48Iy6r) | 2:49 |
 
-Snapshot ID: `MCw0NTdhMDJlNWQxZmE2NmQyN2NiMGVhYTcwZjYzOTYyYzY3NjhmN2Ni`
+Snapshot ID: `MCxhYTY1OGIxZDk5NDQ1ZWJkMDZiMGNmZjRhYTA1OWNiZWVkYjBiNDBk`

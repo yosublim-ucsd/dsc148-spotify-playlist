@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-996 songs - 2 day 4 hr 41 min
+997 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,6 +655,7 @@
 | [Partycrasher](https://open.spotify.com/track/7ewKUtjuzrTVOGgOO4SlJE) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 3:09 | 2022-07-08 | 2023-04-11 |
 | [Paul Rutt](https://open.spotify.com/track/2FOze8JMbqxeJa8JHUCTvv) | [Wilmette](https://open.spotify.com/artist/5LGLYHhrW7yPr4ubyBEJBq) | [Anxious Body](https://open.spotify.com/album/4wDSqJVJEVHlIWtz9U03rP) | 2:36 | 2022-04-01 | 2022-04-16 |
 | [Pavement](https://open.spotify.com/track/2NKcrFubVH32cUuAw1svj8) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement](https://open.spotify.com/album/6xPWCzp1YHUu5pzYsJ4bv2) | 2:56 | 2021-12-10 | 2022-07-09 |
+| [Pendulum](https://open.spotify.com/track/5v2WvShCblt55NLy82Orod) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Pendulum](https://open.spotify.com/album/0euPsI7rBBsxArzy7gvgVF) | 3:34 | 2023-07-14 |  |
 | [Pens and Needles](https://open.spotify.com/track/0iwoyFmN34X77swMt3OehL) | [Summer Heights](https://open.spotify.com/artist/2LAH4zTDmnodSIEEl6T1Ku) | [Hold Me Close EP](https://open.spotify.com/album/1BXH2YPLevzADzHj5fFTq2) | 2:46 | 2022-03-25 | 2022-06-19 |
 | [People Are Vomit](https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [People Are Vomit](https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o) | 2:52 | 2023-04-10 | 2023-07-15 |
 | [People That I Love Leave](https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [People That I Love Leave](https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU) | 2:29 | 2023-04-23 |  |
@@ -763,7 +764,7 @@
 | [Silver Lines](https://open.spotify.com/track/4RvLvzFecjuUkpzx8W84lB) | [Like Torches](https://open.spotify.com/artist/4kAf4xfU9eltkHQymh7MC7) | [Silver Lines](https://open.spotify.com/album/3Cxpt8hZVcmxwID8zzpGmy) | 3:34 | 2022-03-25 | 2022-04-21 |
 | [Sink](https://open.spotify.com/track/6pdeajVZ81tQwY8oIH6gFw) | [No Dice](https://open.spotify.com/artist/3PjQbg9IJ0y2Y2ioqnLYDv) | [About People, for People](https://open.spotify.com/album/0coMVO5X9bLkNhaqbrMgqS) | 3:04 | 2021-12-10 | 2022-07-29 |
 | [Sip](https://open.spotify.com/track/0U2ZccdS3slNAlnfvdHVhB) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Sip](https://open.spotify.com/album/04JFngJN3HmBwJPsYPvSW5) | 3:22 | 2021-12-10 | 2022-07-24 |
-| [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 | 2023-04-10 |  |
+| [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 | 2023-04-10 | 2023-07-16 |
 | [Six Feet Under](https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Six Feet Under](https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F) | 3:11 | 2023-04-10 |  |
 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 | 2021-12-10 | 2023-04-11 |
 | [Skinny Dipping](https://open.spotify.com/track/7s7xOgct7HWsNjGO3YOtqt) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/4xtHySb6XaNo8SLRgfpUSu) | 2:49 | 2021-12-10 | 2022-01-15 |

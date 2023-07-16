@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 381487,
+  "num_followers": 382019,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
+  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Encore - Live And Direct",
+        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "From Paris to Berlin",
         "url": "https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Encore - Live And Direct",
-        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "In Silico",
         "url": "https://open.spotify.com/album/6eRDE48ttoLqN2VfkEpPOJ"
       },
@@ -1217,6 +1217,22 @@
       "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
     },
     {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Belle Epoque",
+        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
+      },
+      "artists": [
+        {
+          "name": "French Affair",
+          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
+    },
+    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
@@ -1235,22 +1251,6 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Belle Epoque",
-        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
-      },
-      "artists": [
-        {
-          "name": "French Affair",
-          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Will I Ever",
-      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "See Clear Now",
         "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 170480,
       "name": "Wearing My Rolex - Radio Edit",
       "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Will I Ever",
+      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Guetta Blaster",
         "url": "https://open.spotify.com/album/2YKWh8IkQkekPgg5RIEtOn"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 219946,
       "name": "The World Is Mine",
       "url": "https://open.spotify.com/track/0TBaFEx7WENZgqLXWErD0b"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 191843,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 207066,
       "name": "Boten Anna - Radio edit",
       "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 191843,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
     },
     {
       "added_at": "2021-04-29 18:40:15",

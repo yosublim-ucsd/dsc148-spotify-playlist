@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-386 songs - 1 day 4 hr 17 min
+387 songs - 1 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 | 2021-05-07 | 2022-04-18 |
 | [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-12 |  |
 | [Meru](https://open.spotify.com/track/0g6ETeguyh9nVpvXunhCzb) | [Gil Zambrano](https://open.spotify.com/artist/0unsoQpK3DQyCnKzWcDfJ0) | [Meru](https://open.spotify.com/album/6nvbxjQkkmoKSFs31HhhHu) | 3:52 | 2021-05-07 | 2022-06-30 |
+| [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-14 |  |
 | [Midnight](https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Midnight / Equal](https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU) | 8:00 | 2022-08-26 | 2023-06-03 |
 | [Miracles](https://open.spotify.com/track/3BaywzVZGn8Z1kmVGUvmCz) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Miracles](https://open.spotify.com/album/5TUntnLcRe7YdSjrVQFOoF) | 3:03 | 2021-05-07 | 2022-05-16 |
 | [Monkey & Disorder](https://open.spotify.com/track/7JCFsXGVsFPEhzvTkdjFsf) | [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ) | [Prélude](https://open.spotify.com/album/6bbYm4X9iwpNE1BIjtuAkd) | 6:07 | 2021-05-07 | 2022-04-21 |
@@ -348,7 +349,7 @@
 | [To The Ground](https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [To The Ground](https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL) | 3:53 | 2021-05-07 | 2023-06-10 |
 | [To the Sea \- Einmusik Remix](https://open.spotify.com/track/6RCT4geaXTmDmtiwFLJv8j) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [To the Sea](https://open.spotify.com/album/5mIRtNHm2HMi6vsxIS1QGl) | 7:32 | 2021-05-07 | 2022-11-20 |
 | [To the Sea \- Einmusik Remix](https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [To the Sea](https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm) | 7:32 | 2022-07-01 |  |
-| [Too Little Too Late \- Little Late Edit](https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Too Little Too Late \(Little Late Edit\)](https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy) | 4:18 | 2022-10-14 |  |
+| [Too Little Too Late \- Little Late Edit](https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Too Little Too Late \(Little Late Edit\)](https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy) | 4:18 | 2022-10-14 | 2023-07-16 |
 | [Touch \- Dezza Remix](https://open.spotify.com/track/1at5qehGeavNrpmcHgfekA) | [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Pipa Moran](https://open.spotify.com/artist/5z88TAITDhRS122WMh0ORA), [Dezza](https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik) | [Touch](https://open.spotify.com/album/6tjU7pfLjIX3ADSMLDvuSa) | 4:04 | 2021-05-07 | 2022-07-27 |
 | [Transitory](https://open.spotify.com/track/52peIXHrnQpSuANcws9IBr) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Transitory](https://open.spotify.com/album/0NH5ptXUhDmNKKeAyqdWma) | 5:01 | 2022-07-29 | 2022-09-03 |
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2022-10-28 |  |

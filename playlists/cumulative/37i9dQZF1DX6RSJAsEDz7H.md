@@ -4,7 +4,7 @@
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-203 songs - 14 hr 5 min
+204 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [1988 \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/3tsNrLJC2Jylql6nLtSMLO) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [1988 \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/2zrSVHYz5R03nmaUGFq7eu) | 1:27 | 2021-11-17 | 2022-11-30 |
 | [1988 \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/4ZpNY4Hu3zKusyeXpCTTPj) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [1988 \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/5Qjyud5y495lJIP8BqdSOf) | 1:27 | 2021-11-17 |  |
 | [1995](https://open.spotify.com/track/28JlSdcff5nVFY8KH9cL5z) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [1995](https://open.spotify.com/album/7waD4KuSXLB8iEt1DMKurU) | 7:32 | 2021-11-17 |  |
-| [418 \(Bounce Mix\)](https://open.spotify.com/track/61Phwjcew5syvHc8hxL0DO) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [DJ Slugo Juke Chronicles Vol\. 3](https://open.spotify.com/album/0LfX29Iw8vGaiwnFgNr74G) | 3:08 | 2021-12-18 |  |
+| [418 \(Bounce Mix\)](https://open.spotify.com/track/1VSosFMbqbitcpqdqcqehz) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [DJ Slugo Juke Chronicles Vol\. 3](https://open.spotify.com/album/7m4Hhyd3EW6Sdy80dm4sEt) | 3:06 | 2021-12-18 |  |
+| [418 \(Bounce Mix\)](https://open.spotify.com/track/61Phwjcew5syvHc8hxL0DO) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [DJ Slugo Juke Chronicles Vol\. 3](https://open.spotify.com/album/0LfX29Iw8vGaiwnFgNr74G) | 3:08 | 2021-12-18 | 2023-07-16 |
 | [A Palé](https://open.spotify.com/track/23zJcKwLf5CeaKVbFhrWgF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [A Palé](https://open.spotify.com/album/6B2RRiDJFXHojfPxKja5Mx) | 2:23 | 2021-12-18 |  |
 | [A Wah!](https://open.spotify.com/track/4jlkDOIA2nYRbYB5GWmXPN) | [Kemikal](https://open.spotify.com/artist/6kWz9Z4dbJTbylNMUirRN5) | [A Wah! \- Single](https://open.spotify.com/album/3YyutCpXgN4DXh2t23JeoI) | 3:52 | 2021-11-17 |  |
 | [Addi Truth](https://open.spotify.com/track/16mH65QIZ8hnw5fBrNGvjS) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Reggae Love Songs Deluxe Edition](https://open.spotify.com/album/5Xq1pzNYcBB6ZwUZryBHlu) | 3:01 | 2021-11-17 |  |

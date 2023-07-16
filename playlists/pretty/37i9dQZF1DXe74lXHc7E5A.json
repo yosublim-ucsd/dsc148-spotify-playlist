@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Psycho YP",
-  "num_followers": 12777,
+  "num_followers": 12871,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDIxYTI2NDMxODQ4MzY1ZDQxYzljNGJmMTRiOWYwZGE0MzU4NjI3",
+  "snapshot_id": "MCwwZWY1ZjRmNGZlMjA0MmU4MTQ5ZDYzNzI1NGEwZmQ3NWQ5ZmNiZjQ5",
   "tracks": [
     {
       "added_at": "2023-07-14 00:39:12",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-07-14 00:39:12",
       "album": {
-        "name": "BUSINESS IS BUSINESS",
-        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Abracadabra (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC"
-    },
-    {
-      "added_at": "2023-07-14 00:39:12",
-      "album": {
         "name": "I Can't Lie (with Kodak Black) [Versions]",
         "url": "https://open.spotify.com/album/61ZFEiyOrBAMzrYGd9HMnR"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 186453,
       "name": "I Can't Lie (with Kodak Black)",
       "url": "https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ"
+    },
+    {
+      "added_at": "2023-07-14 00:39:12",
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Abracadabra (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC"
     },
     {
       "added_at": "2023-07-14 00:39:12",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-14 00:39:12",
       "album": {
-        "name": "FARDA",
-        "url": "https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ"
-      },
-      "artists": [
-        {
-          "name": "Kojo Funds",
-          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "FARDA",
-      "url": "https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t"
-    },
-    {
-      "added_at": "2023-07-14 00:39:12",
-      "album": {
         "name": "Vigilante Bop",
         "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-07-14 00:39:12",
+      "album": {
+        "name": "FARDA",
+        "url": "https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ"
+      },
+      "artists": [
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "FARDA",
+      "url": "https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t"
     }
   ],
   "unique_name": "Hype List",

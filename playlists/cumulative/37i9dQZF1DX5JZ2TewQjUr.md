@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Carson Leung & Ryanleeisgod
 
-602 songs - 1 day 10 hr 10 min
+603 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-09-09 |
 | [Talking to You](https://open.spotify.com/track/5zxPEIu4SAsmYYaygyxzjf) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Talking to You](https://open.spotify.com/album/0HvlM2fAW2M6nxFZ7HWKqD) | 3:19 | 2022-07-28 | 2022-11-04 |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2023-02-02 | 2023-07-14 |
+| [Tell Me](https://open.spotify.com/track/2b7oKA3KjWnZQtTRQ5m3Qp) | [Cassia Yap](https://open.spotify.com/artist/03gHMKatU9TQCfECHVmfcH) | [Tell Me](https://open.spotify.com/album/43KRHhPUNvsTUqGVGxho0x) | 3:38 | 2023-07-13 |  |
 | [tell me i'm not annoying](https://open.spotify.com/track/15sM0O9U2nAhmUKmk4LVI9) | [Jennifer Chan](https://open.spotify.com/artist/3VsN7FZqKWUitDdVDrmAmr) | [tell me i'm not annoying](https://open.spotify.com/album/3Js7JSyGr54eWFahEUK8bO) | 4:01 | 2023-07-13 |  |
 | [That's ok](https://open.spotify.com/track/3RINdYUikBUKApA7U0uiIU) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [Purple Heart](https://open.spotify.com/album/27FcEUK2T1DWv0IYOzW3JW) | 3:14 | 2022-05-26 | 2022-07-29 |
 | [The Climber](https://open.spotify.com/track/0clq9tBWpHxzp0IEl6Bmj0) | [Franklin Telescope](https://open.spotify.com/artist/7fgEhDBZy0SV0xyEOopmTL) | [Burst into Your Quirky Soul](https://open.spotify.com/album/0lj00lgAPYpYR9grRCdmeZ) | 4:24 | 2022-05-26 | 2022-07-29 |

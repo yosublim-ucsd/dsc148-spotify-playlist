@@ -1,12 +1,12 @@
 {
   "description": "Its time to travel inwards & feel the bliss!",
-  "num_followers": 56357,
+  "num_followers": 56391,
   "original_name": "Dhyanam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWY0M2RkZjM4ZGE3NzM2MDVmM2Y5MDY5YWUyODk3Nzg3YTJjODhh",
+  "snapshot_id": "MCwzNmVkYWJmZTliZDk2NjNkYjY4MGJhYWZkNGI2NDQ4YTEwZDc4NmNj",
   "tracks": [
     {
       "added_at": "2021-04-22 05:37:53",
@@ -331,6 +331,22 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
+        "name": "Jupiter Sunrise",
+        "url": "https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00c9vilo",
+          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
         "name": "Further Away",
         "url": "https://open.spotify.com/album/1kimHIU5zp5n0sR4GNajt2"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 193500,
       "name": "Sweven",
       "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
-        "name": "Jupiter Sunrise",
-        "url": "https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv"
-      },
-      "artists": [
-        {
-          "name": "Oliver \u00c9vilo",
-          "url": "https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Hanami",
-        "url": "https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609"
-      },
-      "artists": [
-        {
-          "name": "Luna's Garden",
-          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "Hanami",
-      "url": "https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Hibernation",
         "url": "https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 216678,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Hanami",
+        "url": "https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "Hanami",
+      "url": "https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Matter and Energy",
-        "url": "https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm"
-      },
-      "artists": [
-        {
-          "name": "Matter and Energy",
-          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
-        }
-      ],
-      "duration_ms": 175643,
-      "name": "Quantum",
-      "url": "https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "The Enlightened",
         "url": "https://open.spotify.com/album/5urCmlMjwzQzpi0ER6sTNE"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 167210,
       "name": "Grateful Minds",
       "url": "https://open.spotify.com/track/1nwYsdWElwCywLZiY3J1g9"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Matter and Energy",
+        "url": "https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm"
+      },
+      "artists": [
+        {
+          "name": "Matter and Energy",
+          "url": "https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0"
+        }
+      ],
+      "duration_ms": 175643,
+      "name": "Quantum",
+      "url": "https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm"
-      },
-      "artists": [
-        {
-          "name": "Intentional Vibes",
-          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
-        }
-      ],
-      "duration_ms": 216131,
-      "name": "Mindstiller",
-      "url": "https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Venu",
         "url": "https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 206400,
       "name": "Venu",
       "url": "https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm"
+      },
+      "artists": [
+        {
+          "name": "Intentional Vibes",
+          "url": "https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr"
+        }
+      ],
+      "duration_ms": 216131,
+      "name": "Mindstiller",
+      "url": "https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise",
-        "url": "https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ"
+        "name": "Indian Instrumental Music",
+        "url": "https://open.spotify.com/album/0liKecmul9RBtdG3HQGSpv"
       },
       "artists": [
         {
-          "name": "Ayurveda",
-          "url": "https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv"
+          "name": "Meditation Mantras Guru",
+          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
         }
       ],
-      "duration_ms": 181863,
-      "name": "Ayurveda",
-      "url": "https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l"
+      "duration_ms": 219000,
+      "name": "Inner Meditation",
+      "url": "https://open.spotify.com/track/3R1wr152E0xa8J2vRbIQx2"
     },
     {
       "added_at": "2021-04-22 05:37:53",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-04-22 05:37:53",
       "album": {
-        "name": "Indian Instrumental Music",
-        "url": "https://open.spotify.com/album/0liKecmul9RBtdG3HQGSpv"
-      },
-      "artists": [
-        {
-          "name": "Meditation Mantras Guru",
-          "url": "https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Inner Meditation",
-      "url": "https://open.spotify.com/track/3R1wr152E0xa8J2vRbIQx2"
-    },
-    {
-      "added_at": "2021-04-22 05:37:53",
-      "album": {
         "name": "Yoga Nidra - Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes",
         "url": "https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 314305,
       "name": "Deep Awareness",
       "url": "https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP"
+    },
+    {
+      "added_at": "2021-04-22 05:37:53",
+      "album": {
+        "name": "Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise",
+        "url": "https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ"
+      },
+      "artists": [
+        {
+          "name": "Ayurveda",
+          "url": "https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv"
+        }
+      ],
+      "duration_ms": 181863,
+      "name": "Ayurveda",
+      "url": "https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l"
     }
   ],
   "unique_name": "Dhyanam",

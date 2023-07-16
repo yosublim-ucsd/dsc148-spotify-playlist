@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Mammoth WVH
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,289 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,535 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Bad Dog](https://open.spotify.com/track/1owUcE0dWvXZz3766PsJLy) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Bad Dog](https://open.spotify.com/album/6a8l6w5G7T8xHJeJT7hRo7) | 3:29 |
 | 150 | [Pity Sex](https://open.spotify.com/track/5IbSfGOpPGcpeKn6lPaMFr) | [Off Road Minivan](https://open.spotify.com/artist/21JxgGAXZjSjBg9JRgIo9q) | [May This Keep You Safe From Harm](https://open.spotify.com/album/4QP40xoxTzTyDrDJ86MjMy) | 4:24 |
 
-Snapshot ID: `MCxiMjVjZDIzMTRkYzU0NWUwOTFlMTRiNzdlYmQzNDVlMGZlNjcyMzgx`
+Snapshot ID: `MCwzYTg4MzJiNjI0YmY0MTc1ZDVkNjljZTdkMjQ1Yjc4NWEwOWY2OTFm`

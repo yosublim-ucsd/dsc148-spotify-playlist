@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Davi Sacer, Simone",
-  "num_followers": 499505,
+  "num_followers": 499801,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWQzZDYxNjEzOGIyZTk2Y2M2YWEzYTdjNDc4MzlkMTJjNzZkZDNm",
+  "snapshot_id": "MCxkMzU1Y2YzYzljY2RjODc4ZGFkOGRkYjJjNGIzYmM4MzFiYTU1YTgx",
   "tracks": [
     {
       "added_at": "2022-12-16 17:44:59",
@@ -395,18 +395,18 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
-        "name": "Sinais de Deus",
-        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
+        "name": "Ana N\u00f3brega (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG"
       },
       "artists": [
         {
-          "name": "Raquel Mello",
-          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
         }
       ],
-      "duration_ms": 288960,
-      "name": "Quero Descer",
-      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
+      "duration_ms": 342353,
+      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM"
     },
     {
       "added_at": "2022-12-16 17:44:59",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
+        "name": "Sinais de Deus",
+        "url": "https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX"
+      },
+      "artists": [
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        }
+      ],
+      "duration_ms": 288960,
+      "name": "Quero Descer",
+      "url": "https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT"
+    },
+    {
+      "added_at": "2022-12-16 17:44:59",
+      "album": {
         "name": "O Nome de Jesus",
         "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 307741,
       "name": "O Nome de Jesus",
       "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
-    },
-    {
-      "added_at": "2022-12-16 17:44:59",
-      "album": {
-        "name": "Ana N\u00f3brega (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 342353,
-      "name": "Oh, Qu\u00e3o Lindo Esse Nome \u00c9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM"
     },
     {
       "added_at": "2022-12-16 17:44:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
-        "name": "Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
-        }
-      ],
-      "duration_ms": 289726,
-      "name": "Abra\u00e7a-Me",
-      "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
-    },
-    {
-      "added_at": "2022-12-16 17:44:59",
-      "album": {
         "name": "No Infinito Deste Amor",
         "url": "https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 580946,
       "name": "Agnus Dei",
       "url": "https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx"
+    },
+    {
+      "added_at": "2022-12-16 17:44:59",
+      "album": {
+        "name": "Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        }
+      ],
+      "duration_ms": 289726,
+      "name": "Abra\u00e7a-Me",
+      "url": "https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa"
     },
     {
       "added_at": "2022-12-16 17:44:59",
@@ -767,26 +767,6 @@
     {
       "added_at": "2022-12-16 17:44:59",
       "album": {
-        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 593773,
-      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
-    },
-    {
-      "added_at": "2022-12-16 17:44:59",
-      "album": {
         "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 448026,
       "name": "Restitui - Ao Vivo",
       "url": "https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk"
+    },
+    {
+      "added_at": "2022-12-16 17:44:59",
+      "album": {
+        "name": "Exaltado - Diante do Trono 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7sdamEVQFOMFtqtGScXZew"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 593773,
+      "name": "A Ele A Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V3HlCCSvHmKqvGSNuSL1e"
     },
     {
       "added_at": "2022-12-16 17:44:59",

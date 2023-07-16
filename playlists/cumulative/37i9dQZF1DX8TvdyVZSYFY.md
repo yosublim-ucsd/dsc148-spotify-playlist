@@ -4,7 +4,7 @@
 
 > Big hits from the world of acoustics.
 
-459 songs - 1 day 3 hr 15 min
+460 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,8 @@
 | [Please Keep Loving Me \- Acoustic](https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me \(Acoustic\)](https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX) | 3:17 | 2021-03-09 |  |
 | [Polaroid \- Acoustic](https://open.spotify.com/track/2f2gz6LZSz67HWq84Hqn2j) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Polaroid \(Acoustic\)](https://open.spotify.com/album/2DEvmVhv8FjwDXn888pSXW) | 3:37 | 2021-03-09 |  |
 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 | 2021-03-09 |  |
-| [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 | 2022-01-10 |  |
+| [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 | 2022-01-10 | 2023-07-16 |
+| [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 | 2022-01-10 |  |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Price Tag](https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX) | 3:18 | 2021-03-09 | 2022-07-29 |
 | [Pride \(In the Name of Love\)](https://open.spotify.com/track/2C1jkbtYDs3BQG4H7gAnYn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Pure..\. Acoustic](https://open.spotify.com/album/5VLrH7L6Vw0IMCwMghmTLq) | 4:07 | 2021-03-09 | 2022-07-29 |
 | [Pride, In The Name of Love](https://open.spotify.com/track/4AqE8a9kL0VScOm9AW8Lza) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Yes We Can: Voices Of A Grassroots Movement](https://open.spotify.com/album/1no58yYwy9tBu1jyHqveYu) | 4:11 | 2022-01-10 | 2022-11-13 |

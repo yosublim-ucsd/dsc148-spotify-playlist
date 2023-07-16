@@ -4,7 +4,7 @@
 
 > Check out the very own Rhythm of Madras!<br/>Cover : Asal Kolaar
 
-59 songs - 4 hr 2 min
+60 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,10 +40,11 @@
 | [Manidha](https://open.spotify.com/track/1KbhAS7n23D0C9ddIuCRoV) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Kalyani Nair](https://open.spotify.com/artist/38ICMLYuHXcYd3HrZiEdds), [Gana Balamurugan](https://open.spotify.com/artist/2tLTofyDbjGDLJ5yqiffic) | [Manidha](https://open.spotify.com/album/1QJmiNyPqkAEjLOn8c5WXB) | 3:48 | 2023-06-30 |  |
 | [Moonu Mani Biriyani](https://open.spotify.com/track/4bQu3JNlQEerOhJtCwdCcG) | [Gaana Stephen](https://open.spotify.com/artist/78Nmz8hbKDRtkZ6NUUyMe0) | [Moonu Mani Biriyani](https://open.spotify.com/album/18AsgykYiTkQfmNgzqDe4h) | 3:59 | 2022-11-05 |  |
 | [Muttakannu Muniyamma](https://open.spotify.com/track/3ybSwFM2db15GxVltElgqX) | [GANA SUDHAKAR](https://open.spotify.com/artist/3EHS6onaVedl3OXWXJmlHq), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Shruthika](https://open.spotify.com/artist/68OFF6t8p1M56tcmuamHsT) | [Muttakannu Muniyamma](https://open.spotify.com/album/6Vr7ctpI4FqTjFwq5BsGII) | 3:16 | 2023-03-31 |  |
-| [Naa Oru Yedakodam](https://open.spotify.com/track/79nQElTCfuUTDLoK6JOcw4) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69) | [Naa Oru Yedakodam](https://open.spotify.com/album/6FEQJmCZy6tdyOsFSkJhU7) | 5:26 | 2023-01-11 |  |
+| [Naa Oru Yedakodam](https://open.spotify.com/track/79nQElTCfuUTDLoK6JOcw4) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69) | [Naa Oru Yedakodam](https://open.spotify.com/album/6FEQJmCZy6tdyOsFSkJhU7) | 5:26 | 2023-01-11 | 2023-07-16 |
+| [Naa Oru Yedakodam](https://open.spotify.com/track/59dfn1rYXM3GAtrPr5DDnK) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69) | [Naa Oru Yedakodam](https://open.spotify.com/album/5DVm0unqIS3jfN505mcGZo) | 5:27 | 2023-01-11 |  |
 | [Nee Moracha Naan Moraippen](https://open.spotify.com/track/0O0PnjE8dsIJXnEUh9cs2f) | [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Gana Francis](https://open.spotify.com/artist/4266Hzvg3Laf0fNQSqNJA4) | [Nee Moracha Naan Moraippen](https://open.spotify.com/album/5cbeUAhEYfkrxy7oIFNOQy) | 4:23 | 2022-11-05 | 2023-06-28 |
 | [Oorambutu Ooru Sandaiyila](https://open.spotify.com/track/6EqiwXksjoC5Z5dhL8NmwS) | [Gaana Subash](https://open.spotify.com/artist/3uOEdKZ7hTOfC0M33TYvNs) | [Oorambutu Ooru Sandaiyila](https://open.spotify.com/album/1jU1mROzH9wWDiRdZCsy2o) | 3:36 | 2022-11-05 | 2023-07-15 |
-| [Oorambutu Ooru Sandaiyila](https://open.spotify.com/track/2ajNdMH9CNVigltOzDWANv) | [Gaana Subash](https://open.spotify.com/artist/3uOEdKZ7hTOfC0M33TYvNs), [Gaana Sakthi](https://open.spotify.com/artist/0JW8eXqQUSkuDRsHDCHJUt), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Oorambutu Ooru Sandaiyila](https://open.spotify.com/album/1TdEV9X9B1KqQutJldnQZ4) | 3:36 | 2022-11-05 |  |
+| [Oorambutu Ooru Sandaiyila](https://open.spotify.com/track/2ajNdMH9CNVigltOzDWANv) | [Gaana Subash](https://open.spotify.com/artist/3uOEdKZ7hTOfC0M33TYvNs), [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Oorambutu Ooru Sandaiyila](https://open.spotify.com/album/1TdEV9X9B1KqQutJldnQZ4) | 3:36 | 2022-11-05 |  |
 | [Pattam Puchi Di](https://open.spotify.com/track/0FpcZhd9HbQ8y6FxkYBCmm) | [Gana Punga](https://open.spotify.com/artist/6ZGihlyNGJHTmiXqwLGeD0) | [Pattam Puchi Di](https://open.spotify.com/album/6cjV80zlWsXz6qd9W9uBI0) | 4:36 | 2022-11-05 |  |
 | [Poda Thambi Pithala Kundaaa](https://open.spotify.com/track/5MtjlBnMtBDWnIbS2v78Yo) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh) | [Poda Thambi Pithala Kundaaa](https://open.spotify.com/album/4dfQ6jFaivFFjZm5fxxzhn) | 4:06 | 2023-01-11 |  |
 | [Poda Thambi Pithala Kundaaa](https://open.spotify.com/track/3cLa3VMzLbSJsfdTgwaVYt) | [Gana Sakthi](https://open.spotify.com/artist/10qDavfN9Ay52WTQ7biWgh), [Bennet Christopher](https://open.spotify.com/artist/0y0M3qVG12u7oVdSXyNaJL) | [Gana Sakthi](https://open.spotify.com/album/5teo3lRo6w00yHsmU18Mh6) | 4:06 | 2023-01-11 | 2023-05-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: MELONYX Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,739 likes - 89 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,768 likes - 89 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 88 | [Stardust](https://open.spotify.com/track/4JRLytUE8OoVFYOVb8pF2s) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Stardust](https://open.spotify.com/album/1aNEqxblgIVMhykm0TLnnS) | 5:14 |
 | 89 | [Polos \(feat\. Chris Fishman & Daryl Johns\)](https://open.spotify.com/track/36HXXPRItzl67FoS6rTz51) | [Pedro Martins](https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5), [Chris Fishman](https://open.spotify.com/artist/7th9o3DE5cL9VsgNLgfxsJ), [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Polos \(feat\. Chris Fishman & Daryl Johns\)](https://open.spotify.com/album/0RD2Gt7xiZbiZfNIKzWMV1) | 3:18 |
 
-Snapshot ID: `MCxhYWJmMGNlYzE1YzA3MjU5NjAxMTc2YWIxMTIyN2YwMGQwMzFmMjRk`
+Snapshot ID: `MCw2NzgzNzA2YTU4NTlhZDQ5OGRmMWE1YzZhNTU4Nzg1MTk4NDg4MDJi`

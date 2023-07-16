@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X?si=3KJRKHX5SnWCDegAw5lGyg\">A Mose</a> ",
-  "num_followers": 5772,
+  "num_followers": 5819,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTQxMjI1ZmQ4ODY4ZGQzOTUwMzk1YWMzZTE5ZmFmMzQ0OWU2YTZm",
+  "snapshot_id": "MCw4NjdmYWI2MDgyMmI3N2Q1NzJkOTk3NDNiZjRjM2FjZWQ4MWJhYmVj",
   "tracks": [
     {
       "added_at": "2023-06-09 00:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "Capable God",
-      "url": "https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "The Hill",
         "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "Capable God",
+      "url": "https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y"
     },
     {
       "added_at": "2023-06-09 00:01:00",
@@ -257,24 +257,20 @@
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
+      "added_at": "2023-05-26 00:01:00",
       "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2023-05-26 00:01:00",
@@ -295,18 +291,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
       },
       "artists": [
         {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 144213,
-      "name": "Wonderful - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -329,20 +329,20 @@
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
+      "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+      "duration_ms": 144213,
+      "name": "Wonderful - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
     },
     {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "My God Is Good - Double Double Remix/Live",
-      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
-    },
-    {
       "added_at": "2023-06-16 00:01:00",
       "album": {
         "name": "Jesus Oh",
@@ -471,22 +455,42 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Born of God",
-        "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        },
-        {
-          "name": "Buchi",
-          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 294053,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE"
+      "duration_ms": 148146,
+      "name": "My God Is Good - Double Double Remix/Live",
+      "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Daily",
+        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Daily",
+      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -525,28 +529,24 @@
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
     },
     {
-      "added_at": "2023-06-30 00:01:00",
+      "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Daily",
-        "url": "https://open.spotify.com/album/49Iuy7dLYlumJaMt8X2Tbj"
+        "name": "Born of God",
+        "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
         },
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Buchi",
+          "url": "https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Daily",
-      "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
+      "duration_ms": 294053,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/1aNryETX3dSY4A0M8BIqPE"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+        "name": "The Gospel of the Kingdom",
+        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
       },
       "artists": [
         {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         }
       ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
+      "duration_ms": 657059,
+      "name": "Fragrance to Fire",
+      "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "The Gospel of the Kingdom",
-        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
         }
       ],
-      "duration_ms": 657059,
-      "name": "Fragrance to Fire",
-      "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -773,6 +773,38 @@
       "url": "https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL"
     },
     {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
+      },
+      "artists": [
+        {
+          "name": "David G",
+          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
+        }
+      ],
+      "duration_ms": 215876,
+      "name": "My Trust Is in You",
+      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "You are Great",
+        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 383424,
+      "name": "You are Great",
+      "url": "https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ"
+    },
+    {
       "added_at": "2023-05-19 00:01:00",
       "album": {
         "name": "HEAVEN HAS COME",
@@ -799,38 +831,6 @@
       "duration_ms": 379207,
       "name": "He Fights For Me",
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "You are Great",
-        "url": "https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum"
-      },
-      "artists": [
-        {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
-        }
-      ],
-      "duration_ms": 383424,
-      "name": "You are Great",
-      "url": "https://open.spotify.com/track/0BoMUR3WfVuGTSZ4DUEfnZ"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
-      },
-      "artists": [
-        {
-          "name": "David G",
-          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
-        }
-      ],
-      "duration_ms": 215876,
-      "name": "My Trust Is in You",
-      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
     },
     {
       "added_at": "2023-04-20 23:59:00",

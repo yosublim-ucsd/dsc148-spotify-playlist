@@ -1,12 +1,12 @@
 {
   "description": "Tem rap nacional tem boom bap na \u00e1rea. Foto: Sain",
-  "num_followers": 42569,
+  "num_followers": 42627,
   "original_name": "Boom Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzc5ZDRlN2Y0ZDAyMWM5NDQ1MzA3YThmN2JmMGYyOWJjMDc0YWJh",
+  "snapshot_id": "MCw2NzAwNjc4YWZhZjAzOGQ5NTc2NjZiNjRlZDg4OTMzZGViOTI1NTU2",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -98,6 +98,14 @@
         {
           "name": "TOKIODK",
           "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Viktor Vercetti",
+          "url": "https://open.spotify.com/artist/3lFYHzDhY76FQXlTD9q2Wv"
+        },
+        {
+          "name": "iann guxtavo",
+          "url": "https://open.spotify.com/artist/1rCwo9ZX017N1ZxfmeBiZ3"
         }
       ],
       "duration_ms": 120000,

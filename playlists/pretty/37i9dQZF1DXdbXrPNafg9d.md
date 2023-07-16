@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Palehound
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,083 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,131 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Sleeping On My Own](https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Bunny](https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V) | 2:42 |
 | 150 | [Kimosabè](https://open.spotify.com/track/06oSt0nOjewappkOBrsFME) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K) | 4:36 |
 
-Snapshot ID: `MCwyODJlOTYzMzdmNzRkMTQ1MDg2M2I2YWY5YzkxNzllZWU0NDc4ZWM2`
+Snapshot ID: `MCw5YmM1N2RjNTc5ZGEyYjg2MGY5NzdjZDNmYTAxMDY2ZTM2NmI3M2Ni`

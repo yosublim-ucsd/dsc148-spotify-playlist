@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 73846,
+  "num_followers": 73946,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTA0MzkzYjkxMGI4ZjllZDk3NGMwNGRjNzk5M2ZjY2IwZDNjNzdl",
+  "snapshot_id": "MCxhNzFjZjUxMTNiNWMzZjkyOGIxZmU2YzJlYTgzMjU4NTBlNWU5YjEw",
   "tracks": [
     {
       "added_at": "2023-01-27 16:27:42",
@@ -99,18 +99,18 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Veriditas",
-        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
+        "name": "Ambient One",
+        "url": "https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD"
       },
       "artists": [
         {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
         }
       ],
-      "duration_ms": 155866,
-      "name": "Seeming",
-      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
+      "duration_ms": 248125,
+      "name": "Anything You Synthesize - Ambient",
+      "url": "https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Ambient One",
-        "url": "https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD"
-      },
-      "artists": [
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 248125,
-      "name": "Anything You Synthesize - Ambient",
-      "url": "https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 255335,
       "name": "I Can Almost See You",
       "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Veriditas",
+        "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Seeming",
+      "url": "https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Looking at the World Through a Window",
-        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "Looking at the World Through a Window",
-      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 304460,
       "name": "Headache",
       "url": "https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Looking at the World Through a Window",
+        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 385000,
+      "name": "Looking at the World Through a Window",
+      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 287520,
-      "name": "Nothing It Can",
-      "url": "https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Maybe They Will Sing for Us Tomorrow",
         "url": "https://open.spotify.com/album/3N4fmmPCO3Vh6QTKCiDyob"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 308906,
       "name": "Maybe They Will Sing for Us Tomorrow",
       "url": "https://open.spotify.com/track/3nWcjWALonQpDBsyRP5725"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/6jeWLcfk7qZoreG79zMf7g"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 287520,
+      "name": "Nothing It Can",
+      "url": "https://open.spotify.com/track/3OiltpO4AcqtXGUpfcYho2"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
+        "name": "Oblivion Hymns",
+        "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 403250,
+      "name": "Then the Quiet Explosion",
+      "url": "https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
         "name": "Reanimation",
         "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Passage",
-        "url": "https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw"
-      },
-      "artists": [
-        {
-          "name": "Lowercase Noises",
-          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
-        }
-      ],
-      "duration_ms": 347636,
-      "name": "Passage",
-      "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "In a Safe Place",
         "url": "https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 340840,
       "name": "Twentytwofourteen",
       "url": "https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw"
+      },
+      "artists": [
+        {
+          "name": "Lowercase Noises",
+          "url": "https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e"
+        }
+      ],
+      "duration_ms": 347636,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -451,22 +467,6 @@
       "duration_ms": 311600,
       "name": "Ho Renomo",
       "url": "https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
-        "name": "Oblivion Hymns",
-        "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 403250,
-      "name": "Then the Quiet Explosion",
-      "url": "https://open.spotify.com/track/1e0dFIlrgHaD5a2ud2AXEQ"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "The Ever Shifting Fields",
-        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
-      },
-      "artists": [
-        {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
-        }
-      ],
-      "duration_ms": 277133,
-      "name": "In Collusion with the Waves",
-      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 361760,
       "name": "A Citizen's Dream",
       "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "The Ever Shifting Fields",
+        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
+      },
+      "artists": [
+        {
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+        }
+      ],
+      "duration_ms": 277133,
+      "name": "In Collusion with the Waves",
+      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
-      },
-      "artists": [
-        {
-          "name": "The Aquaerials",
-          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
-        }
-      ],
-      "duration_ms": 364166,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Timewave Zero",
         "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 441386,
       "name": "Ea: First Movement",
       "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
+      },
+      "artists": [
+        {
+          "name": "The Aquaerials",
+          "url": "https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc"
+        }
+      ],
+      "duration_ms": 364166,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
-      },
-      "artists": [
-        {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
-        }
-      ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "The American Dollar",
         "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 199813,
       "name": "Peterson",
       "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+      },
+      "artists": [
+        {
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+        }
+      ],
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
+        "name": "Leaking Light",
+        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
+      },
+      "artists": [
+        {
+          "name": "Lachlan R. Dale",
+          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Leaking Light",
+      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
         "name": "Love is a Shelter",
         "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
-        "name": "Leaking Light",
-        "url": "https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG"
-      },
-      "artists": [
-        {
-          "name": "Lachlan R. Dale",
-          "url": "https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Leaking Light",
-      "url": "https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Astronomer",
-      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Chronos",
         "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig"
       },
       "artists": [
         {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+      "duration_ms": 230000,
+      "name": "Astronomer",
+      "url": "https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1399,6 +1383,22 @@
       "duration_ms": 236792,
       "name": "The Blurred Horizon",
       "url": "https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "Pajama Avenue",
-        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
-      },
-      "artists": [
-        {
-          "name": "Zelienople",
-          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Back To Dangerous",
-      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Screen Time",
         "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 164453,
       "name": "The Station",
       "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "Pajama Avenue",
+        "url": "https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E"
+      },
+      "artists": [
+        {
+          "name": "Zelienople",
+          "url": "https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Back To Dangerous",
+      "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "I Wonder As I Wander",
-        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
-      },
-      "artists": [
-        {
-          "name": "Deerhoof",
-          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
-        }
-      ],
-      "duration_ms": 136846,
-      "name": "I Wonder As I Wander",
-      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
-    },
-    {
-      "added_at": "2023-01-27 16:27:42",
-      "album": {
         "name": "Northwarder",
         "url": "https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 211418,
       "name": "The Biting Air, the Howling Wind",
       "url": "https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW"
+    },
+    {
+      "added_at": "2023-01-27 16:27:42",
+      "album": {
+        "name": "I Wonder As I Wander",
+        "url": "https://open.spotify.com/album/375PRwWW8KXDcpiNBJMVNg"
+      },
+      "artists": [
+        {
+          "name": "Deerhoof",
+          "url": "https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V"
+        }
+      ],
+      "duration_ms": 136846,
+      "name": "I Wonder As I Wander",
+      "url": "https://open.spotify.com/track/1WUI79LofTPndZDTs8r7dU"
     },
     {
       "added_at": "2023-01-27 16:27:42",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-01-27 16:27:42",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+        "name": "Barren",
+        "url": "https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN"
       },
       "artists": [
         {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
+      "duration_ms": 616188,
+      "name": "Barren",
+      "url": "https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE"
     }
   ],
   "unique_name": "Ambient Post-Rock",

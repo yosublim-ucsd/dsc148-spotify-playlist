@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: day one Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,053 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,084 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [for always](https://open.spotify.com/track/4YQXCrtrxGKHBhRWaOXz8O) | [esa](https://open.spotify.com/artist/32gKPyvVOMrhSCrjDm657c) | [for always](https://open.spotify.com/album/2Yw2iDBXk95ZwNSuY41T2U) | 4:31 |
 | 75 | [Close To Me](https://open.spotify.com/track/7JfUm940NkOmCqRHLptcdY) | [98alwayslate](https://open.spotify.com/artist/7gf9yX6HAWmBR1eieaZPqB) | [Close To Me](https://open.spotify.com/album/32xk9WhWfTektWCFQPM8Xo) | 2:43 |
 
-Snapshot ID: `MCxlM2FjYWI1MTMwMGE4ZDFlNjFlMTcwNWU4NTJlNjAzMTA0MzZjOTQ4`
+Snapshot ID: `MCxiZTBjMjZmZmRiYWVkMzc4Y2EwMTQ1MDRhZGUyNDczNTYwMTdkYzZl`

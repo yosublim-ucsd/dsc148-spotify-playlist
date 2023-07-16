@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,445 likes - 99 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,498 likes - 99 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 86 | [Is It Over](https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 4:30 |
 | 87 | [Always Say I Love You \(At The End Of Your Goodbyes\)](https://open.spotify.com/track/6ziHTglnnwomBLV8ZNEGRz) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [Damage Control](https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH) | 4:03 |
 | 88 | [Everybody Loves a Winner](https://open.spotify.com/track/2EUDthXhUTD7M40VSkWDq1) | [Lisa Mills](https://open.spotify.com/artist/5qjvtl7sQsjMEFadXXdEvE) | [The Triangle \(Expanded Edition\)](https://open.spotify.com/album/6ziGDbVoEO24tCewCBejrK) | 3:15 |
-| 89 | [Someday](https://open.spotify.com/track/5MS6qXLKnY68DMlliiwfTX) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:19 |
+| 89 | [Someday](https://open.spotify.com/track/41xg3SjdwFyAp0kao72944) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:19 |
 | 90 | [We're Gonna Make It](https://open.spotify.com/track/0T648GgCmHNdLhk7LxQdmM) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:23 |
 | 91 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
 | 92 | [What A Strange Time To Be Alive](https://open.spotify.com/track/0mmapJXijQcLERMo1t747B) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [What A Strange Time To Be Alive](https://open.spotify.com/album/3ffWzQw4topJ8i2UruRqtp) | 3:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 98 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
 | 99 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
 
-Snapshot ID: `MCw1MDNiNWU1NTQ5M2IxNWVhMjVlYzYyYjU5MmE3NDViZThlZWZlOGI4`
+Snapshot ID: `MCw4YWMyNzNjZDViYmQxN2UzYjRmOTVkYjM3OTQ2MzIxY2M0ODUzYjI1`

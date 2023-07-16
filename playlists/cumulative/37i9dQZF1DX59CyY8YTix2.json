@@ -239,28 +239,6 @@
     },
     {
       "album": {
-        "name": "2\u300745",
-        "url": "https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU"
-      },
-      "artists": [
-        {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "date_added": "2023-05-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221048,
-      "name": "2\u300745",
-      "url": "https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk"
-    },
-    {
-      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/0kvc1uSSfXPDOSvmahakb8"
       },
@@ -18596,6 +18574,28 @@
       "duration_ms": 269000,
       "name": "\u9b54\u6cd5\u4f7f\u3044\u306f\u4e8c\u5ea6\u6b7b\u306c",
       "url": "https://open.spotify.com/track/5Vq0AO2035rN0NmF4WkuDT"
+    },
+    {
+      "album": {
+        "name": "\uff12\u3007\uff14\uff15",
+        "url": "https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221048,
+      "name": "\uff12\u3007\uff14\uff15",
+      "url": "https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX59CyY8YTix2"

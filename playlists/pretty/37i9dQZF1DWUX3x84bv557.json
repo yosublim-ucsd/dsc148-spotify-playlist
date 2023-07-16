@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: FLEMMING",
-  "num_followers": 155053,
+  "num_followers": 155150,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2QxMTQ2OTI3MzNhMmY2MDM3YjU0Y2JiOGE0OWFmMjU2MGM0ZWI4",
+  "snapshot_id": "MCxmYjYyNTdhZDJhNzljYmI4NWRmNjBmZjIwMTgwNjRjZGUwNmU5NTk5",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Dansplaat",
+        "url": "https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE"
+      },
+      "artists": [
+        {
+          "name": "Wander",
+          "url": "https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM"
+        }
+      ],
+      "duration_ms": 161523,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Dansen Zonder Schaamte",
         "url": "https://open.spotify.com/album/3SJ0DAIJG01hw3ld6E9m2l"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 152324,
       "name": "Plaatje",
       "url": "https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Dansplaat",
-        "url": "https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE"
-      },
-      "artists": [
-        {
-          "name": "Wander",
-          "url": "https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM"
-        }
-      ],
-      "duration_ms": 161523,
-      "name": "Dansplaat",
-      "url": "https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou"
     },
     {
       "added_at": "2023-07-13 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 129657,
+  "num_followers": 129861,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTJlOTUzMGIwZmJhNGJkZDE3N2JjZjEyZjM1ZWM1ZGIzZTk5NzBm",
+  "snapshot_id": "MCxiMTZlZDhkM2YyZTFhMGJmNGYwNWE4NzQ1MGY0ZTZhZmQwNjlhZjJi",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -803,42 +803,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Nouvelle vague",
-        "url": "https://open.spotify.com/album/1fMvyxVX8gy4vQLnWFCui1"
-      },
-      "artists": [
-        {
-          "name": "Nouvelle Vague",
-          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
-        },
-        {
-          "name": "Eloisia",
-          "url": "https://open.spotify.com/artist/4s4nnSLRibMyHWqCg7J1Pu"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/6CDoP0pDTfnWUabFnZkjRF"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Constructions",
-        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
-      },
-      "artists": [
-        {
-          "name": "Sofa Surfers",
-          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
-        }
-      ],
-      "duration_ms": 308612,
-      "name": "Sofa Rockers - Richard Dorfmeister Remix",
-      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Maxinquaye",
         "url": "https://open.spotify.com/album/7qlZpMib7D0riFPQ5JHDT8"
       },
@@ -855,6 +819,22 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Constructions",
+        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        }
+      ],
+      "duration_ms": 308612,
+      "name": "Sofa Rockers - Richard Dorfmeister Remix",
+      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1007,22 +987,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "H\u00f4tel Costes",
         "url": "https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8"
       },
@@ -1035,22 +999,6 @@
       "duration_ms": 264253,
       "name": "No jive",
       "url": "https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1071,6 +1019,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Supermodified",
         "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
       },
@@ -1083,6 +1047,22 @@
       "duration_ms": 337506,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/15J6PrzKaLtvw0dBr9sq72"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1151,38 +1131,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 401333,
-      "name": "In The Bath",
-      "url": "https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Mickey Mouse Operation",
         "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
       },
@@ -1199,6 +1147,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 401333,
+      "name": "In The Bath",
+      "url": "https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Music By Cavelight",
         "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
       },
@@ -1211,6 +1175,22 @@
       "duration_ms": 306586,
       "name": "Insomniac Olympics",
       "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1267,22 +1247,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Long Distance",
-        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
-      },
-      "artists": [
-        {
-          "name": "Ivy",
-          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "Edge Of The Ocean",
-      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The Cosmic Game",
         "url": "https://open.spotify.com/album/5TXP9f2NLMzYoVOfyhAjFO"
       },
@@ -1299,6 +1263,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/2R6MZANJIreWzTd7kjtpa2"
+      },
+      "artists": [
+        {
+          "name": "Ivy",
+          "url": "https://open.spotify.com/artist/2TpNrO0G2ahji2IOR94TLA"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "Edge Of The Ocean",
+      "url": "https://open.spotify.com/track/5zjQ3gF7xeNhMh0Is6wX0b"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Foxbase Alpha",
         "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
       },
@@ -1311,22 +1291,6 @@
       "duration_ms": 261000,
       "name": "Nothing Can Stop Us",
       "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 295360,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1359,6 +1323,22 @@
       "duration_ms": 259600,
       "name": "Bittersweet Faith",
       "url": "https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1435,6 +1415,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 292106,
+      "name": "Recurring",
+      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Smokers Delight",
         "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
       },
@@ -1483,22 +1479,6 @@
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 292106,
-      "name": "Recurring",
-      "url": "https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1591,22 +1571,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Parts of the Process",
         "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
       },
@@ -1623,18 +1587,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Electric Lazyland",
-        "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
       "artists": [
         {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 352000,
-      "name": "Electric Lazyland",
-      "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1651,6 +1615,22 @@
       "duration_ms": 284693,
       "name": "Transatlantic",
       "url": "https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Electric Lazyland",
+        "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 352000,
+      "name": "Electric Lazyland",
+      "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1683,6 +1663,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Between Darkness & Wonder",
+        "url": "https://open.spotify.com/album/6upRap3KHfW2oaR1qrlf3p"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Angelica",
+      "url": "https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML"
     }
   ],
   "unique_name": "Chillout Classics",

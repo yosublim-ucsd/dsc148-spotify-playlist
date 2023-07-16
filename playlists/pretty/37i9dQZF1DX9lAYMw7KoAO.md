@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=gLb6cyBLTFu8t8OTNe2o8w">Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,796 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,078 likes - 50 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 38 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 |
 | 39 | [Stay with Me](https://open.spotify.com/track/2GjgqauRRt9iL9VgsieDT6) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Stay with Me](https://open.spotify.com/album/6RVjIyy8mtCOMHqERrnKEF) | 3:12 |
 | 40 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 |
-| 41 | [READY FOR JESUS](https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2) | 5:45 |
+| 41 | [READY FOR JESUS](https://open.spotify.com/track/1Y16kJN8bjBYA1xyHYKltB) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/7tQF9Dq3bfWYs3DPplMpTv) | 5:45 |
 | 42 | [All the way](https://open.spotify.com/track/4lvZurxRtbkepGI9yE1YRw) | [ANOWI Noah](https://open.spotify.com/artist/46F10sHrFACpiNeOrXxnSY), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [All the way](https://open.spotify.com/album/65E6vK16UeRhr3yBFU78oX) | 2:20 |
 | 43 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 |
 | 44 | [Dadi](https://open.spotify.com/track/1jsNfKk9Jv6QuGaQWFh872) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Dadi](https://open.spotify.com/album/0JGojovVFDXUzBOh4zw9p2) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Ngena Noah](https://open.spotify.com/track/2ZPtBDzHnuT7CJMVX5ILG7) | [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Gospel Africa \- A Joyous Easter Celebration With Top Gospel Stars](https://open.spotify.com/album/6idKZfHxl854ucNRHqIEoc) | 4:31 |
 | 50 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
 
-Snapshot ID: `MCwzYTllMTgwYWE3NzNmNGEzNzljNDFlYWUzM2Y1OTQwNTI1Njk3YjFk`
+Snapshot ID: `MCw3M2ZiMTYxNTMyMzBkYzc0ZmVmYmEwZGZmMzg2N2VjODc3MTNjZTk2`

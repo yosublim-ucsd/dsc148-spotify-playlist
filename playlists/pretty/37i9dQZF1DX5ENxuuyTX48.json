@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Sezairi",
-  "num_followers": 12481,
+  "num_followers": 12583,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTA0OWM3MmI2YmIxYTZjOTc0ODEyNjBlZWFiZDgwNjkwYzIyZjJm",
+  "snapshot_id": "MCwwMGZhNDllMDU1MzNhYmJlNThlODYzMzdmOGQ4ZmVlMjgwZjk4ZDQ5",
   "tracks": [
     {
       "added_at": "2023-07-13 16:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
+        "name": "Lagipula Hidup Akan Berakhir",
+        "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 266330,
+      "name": "Cincin",
+      "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
         "name": "Ekspektasi",
         "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 222500,
       "name": "Buru-Buru",
       "url": "https://open.spotify.com/track/0qvgnnPJsK2AF2B3RyVDW6"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
-        "name": "Lagipula Hidup Akan Berakhir",
-        "url": "https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX"
-      },
-      "artists": [
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 266330,
-      "name": "Cincin",
-      "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh"
     },
     {
       "added_at": "2023-07-13 16:00:00",

@@ -4,7 +4,7 @@
 
 > chill vibes ♡
 
-135 songs - 6 hr 59 min
+136 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Stay With Me \(with Justin Timberlake, Halsey, & Pharrell\)](https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1) | 3:49 | 2022-10-19 |  |
 | [Stop Playin'](https://open.spotify.com/track/7GYoEbez6qFszDiEmiuBEb) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Stop Playin'](https://open.spotify.com/album/3C2TuDRBpQCTSHHdd0TJYu) | 2:58 | 2022-11-18 |  |
 | [Strings](https://open.spotify.com/track/6rj48XPo5Gk9T7kXFYY93y) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [OTHER WAYS TO VENT](https://open.spotify.com/album/4ZMHZn1OsaFc4Gydlzw9VK) | 2:55 | 2022-11-18 |  |
-| [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2023-01-17 |  |
+| [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 | 2023-01-17 | 2023-07-16 |
+| [Sugar](https://open.spotify.com/track/5dlGXVhVA7rVK51leoEU5D) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/0pvoZXSoNL1s8Th3qzffYI) | 1:54 | 2023-01-17 |  |
 | [Supernova](https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Supernova](https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe) | 2:21 | 2022-12-17 |  |
 | [sushi for breakfast](https://open.spotify.com/track/3eDzj1evIwmfQE1zDqqmwd) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [sushi for breakfast](https://open.spotify.com/album/08AUdbT46dsaM50bapJ5GV) | 2:07 | 2022-12-17 |  |
 | [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 | 2022-10-19 |  |

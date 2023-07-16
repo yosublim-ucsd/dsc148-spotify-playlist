@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Isla de Caras.",
-  "num_followers": 151484,
+  "num_followers": 151503,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGU0OWUwYTRlYWM5MTE1YTJkNDY0YTE1MTM3NGE2ZGI0OWI2YTUy",
+  "snapshot_id": "MCwzYzQ3NjgwNzNkMzZkNzJkOWE5ZDMzZWFmY2UzNTYxZWQ2NGZiYjBm",
   "tracks": [
     {
       "added_at": "2023-07-13 23:24:54",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-07-13 23:24:54",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 164708,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
+    },
+    {
+      "added_at": "2023-07-13 23:24:54",
+      "album": {
         "name": "DAMN!",
         "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
-    },
-    {
-      "added_at": "2023-07-13 23:24:54",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 164708,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
     },
     {
       "added_at": "2023-07-13 23:24:54",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-13 23:24:54",
       "album": {
-        "name": "Recuerdos Que Torturan",
-        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "Recuerdos Que Torturan",
-      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
-    },
-    {
-      "added_at": "2023-07-13 23:24:54",
-      "album": {
         "name": "Las Manos (feat. Leo Rizzi)",
         "url": "https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 233680,
       "name": "Las Manos (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0"
+    },
+    {
+      "added_at": "2023-07-13 23:24:54",
+      "album": {
+        "name": "Recuerdos Que Torturan",
+        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 210425,
+      "name": "Recuerdos Que Torturan",
+      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
     },
     {
       "added_at": "2023-07-13 23:24:54",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-07-13 23:24:54",
       "album": {
-        "name": "Nada Mal",
-        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        },
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Nada Mal",
-      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
-    },
-    {
-      "added_at": "2023-07-13 23:24:54",
-      "album": {
         "name": "Muerta de Fr\u00edo",
         "url": "https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 258883,
       "name": "Muerta de Fr\u00edo",
       "url": "https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc"
+    },
+    {
+      "added_at": "2023-07-13 23:24:54",
+      "album": {
+        "name": "Nada Mal",
+        "url": "https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        },
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Nada Mal",
+      "url": "https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU"
     },
     {
       "added_at": "2023-07-13 23:24:54",

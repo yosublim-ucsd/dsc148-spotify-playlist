@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: ShaqIsDope
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,393 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,416 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 22 | [Real Rap B\*\*\*\* \(Poppin It\)](https://open.spotify.com/track/4UI6eZANpPyo32BiCXpIv8) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Real Rap B\*\*\*\* \(Poppin It\)](https://open.spotify.com/album/1fNapOG2OnGood7rsEpukV) | 2:14 |
 | 23 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 |
 | 24 | [Binks to Binks 8](https://open.spotify.com/track/6okSIEY9ekRiawC2aP4o7Y) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Binks to Binks 8](https://open.spotify.com/album/73RIymrZVPJH5e1pJ78rCt) | 6:06 |
-| 25 | [Ha Ha Ha \(feat\. C\-Lance\)](https://open.spotify.com/track/3bISDK9b0LxRmH0Ytp6aI7) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Ha Ha Ha \(feat\. C\-Lance\)](https://open.spotify.com/album/1N1O3kleOT7ZjnpeSMMA5z) | 3:29 |
+| 25 | [Ha Ha Ha](https://open.spotify.com/track/3bISDK9b0LxRmH0Ytp6aI7) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Ha Ha Ha](https://open.spotify.com/album/1N1O3kleOT7ZjnpeSMMA5z) | 3:29 |
 | 26 | [Take It Up \- Remix](https://open.spotify.com/track/0HpuGk2nD5BBw7QE7NnsMx) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Take It Up Remix](https://open.spotify.com/album/5nAc94a7Z9NbtzcEk88H1n) | 2:25 |
 | 27 | [Luv U Better](https://open.spotify.com/track/5mptX9ZQT0n8tUY4kPAH6R) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Luv U Better](https://open.spotify.com/album/4Lr3S155wTSEXnTmu119kN) | 2:28 |
 | 28 | [Pz Don't Trip](https://open.spotify.com/track/6w8Q0SRDEk7dtucfFbpzoq) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [Pz Don't Trip](https://open.spotify.com/album/0cgRf1y5HysQvQJs63yLDp) | 2:59 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [DISTANCE](https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [DISTANCE](https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1) | 2:28 |
 | 48 | [Ox\-Tail & Brown Rice](https://open.spotify.com/track/2qAhrM9qadSqNTpTWFnPG7) | [ILLAH](https://open.spotify.com/artist/6Zt6Okr7X69mBzITYFPAPb) | [Ox\-Tail & Brown Rice](https://open.spotify.com/album/6Bjoa6FaD0ShPQ6Qei9u0G) | 3:50 |
 
-Snapshot ID: `MCxiYmNkMDczZGRmYzg4ZWUzMmUxMjdmMDgzMTZkZWQyMzE2MzkxNjU0`
+Snapshot ID: `MCw5MjBhNzkxNWJiOTZiNjI3ZTFlNjgxOTQwOWQxODM3MWRkZmExMTc1`

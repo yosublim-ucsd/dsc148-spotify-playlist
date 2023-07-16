@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Celebrate the epic GTA series with memorable moments and hidden gems from the soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,305 likes - 138 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,318 likes - 138 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 26 | [Tumbando Fronte](https://open.spotify.com/track/4ZsK5FNbiB18MeOUbzb5jF) | [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Los Mozalbetes](https://open.spotify.com/album/3F0lExSizqQVqEesxNlZCR) | 2:51 |
 | 27 | [Dominicana](https://open.spotify.com/track/372SsSoyYYRptlgurA8PEL) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [De Chamaquito Siempre Cabezu](https://open.spotify.com/album/4XKCDArETTHoRY0lUGzSRV) | 2:25 |
 | 28 | [Mi Corazoncito](https://open.spotify.com/track/4NUaZtcR3QDhq2dMweiGtd) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 3:54 |
-| 29 | [418 \(Bounce Mix\)](https://open.spotify.com/track/61Phwjcew5syvHc8hxL0DO) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [DJ Slugo Juke Chronicles Vol\. 3](https://open.spotify.com/album/0LfX29Iw8vGaiwnFgNr74G) | 3:08 |
+| 29 | [418 \(Bounce Mix\)](https://open.spotify.com/track/1VSosFMbqbitcpqdqcqehz) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT) | [DJ Slugo Juke Chronicles Vol\. 3](https://open.spotify.com/album/7m4Hhyd3EW6Sdy80dm4sEt) | 3:06 |
 | 30 | [Algo Como Tú](https://open.spotify.com/track/360kiTBiy38oPyFj2QSaGq) | [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Lo Mejor de Lo Peor](https://open.spotify.com/album/67W9xaaMZ7iVGVF8p9bZKn) | 3:14 |
 | 31 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 32 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 137 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 | 138 | [Groove Me](https://open.spotify.com/track/7t4rA2AxpG7yAhgRwopfn2) | [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Guy](https://open.spotify.com/album/1b4uW38DLtC6GlGr39AGHc) | 4:33 |
 
-Snapshot ID: `MCxhNjQzMTg0YmQ2MGEwMzdkM2UyOWQ1MDg3ZmZhYzMxZDUxM2RjZDFm`
+Snapshot ID: `MCw0NmU0MTYyZTgzZDRmZGM5ZGFjNjRiNzIxZjM5YmYyMmE0ZjA0NTJh`

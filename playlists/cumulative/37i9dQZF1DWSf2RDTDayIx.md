@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-361 songs - 19 hr 14 min
+362 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-10-05 |  |
 | [Be My One](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 2:22 | 2022-04-08 |  |
 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 | 2022-10-28 |  |
-| [Beautiful Life](https://open.spotify.com/track/0H6Bd7IcSfYmo87CJGA2D2) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Beautiful Life](https://open.spotify.com/album/5KEo013MN3nFfw2ZsbTRfd) | 2:48 | 2023-05-12 |  |
+| [Beautiful Life](https://open.spotify.com/track/0H6Bd7IcSfYmo87CJGA2D2) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Beautiful Life](https://open.spotify.com/album/5KEo013MN3nFfw2ZsbTRfd) | 2:48 | 2023-05-12 | 2023-07-16 |
 | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/track/4XP2xY8tUYed1cceuh24Q8) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Bedroom Eyes \(feat\. Studio Killers\)](https://open.spotify.com/album/2rOw4IFkPQWBo6gG3hB7qY) | 2:58 | 2021-12-03 | 2023-05-13 |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-28 |  |
 | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx) | 3:35 | 2021-12-03 |  |
@@ -93,6 +93,7 @@
 | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/track/60n8BhJ1FWhKbhYOF0LzQr) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Dreaming \(feat\. SMBDY\)](https://open.spotify.com/album/5uURWNCgEuR1kob61OI0VJ) | 2:49 | 2021-12-03 | 2022-02-05 |
 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 | 2022-07-01 |  |
 | [Easy :\)](https://open.spotify.com/track/2jPgrYdSzHarxh2v6O6aUc) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Easy :\)](https://open.spotify.com/album/1ZyP1Zl2G7SLJDy2QHwt4h) | 3:22 | 2021-12-03 | 2022-01-08 |
+| [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-14 |  |
 | [Energy \- Mell Hall Remix](https://open.spotify.com/track/6NqiasBrPLutxWZaGKPEuf) | [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Energy \(Mell Hall Remix\)](https://open.spotify.com/album/2qZtwgTQfNVixAMFI1xNDw) | 3:53 | 2021-12-03 | 2022-01-08 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-25 |  |
 | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb) | 2:48 | 2021-12-03 | 2022-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: FLEMMING
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,053 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,150 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 14 | [Zolang Het Nog Kan](https://open.spotify.com/track/2kEEscbP2aJrhpzjXCDafF) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Zolang Het Nog Kan](https://open.spotify.com/album/2lgD74bxM5UBblLbOdmbRE) | 3:12 |
 | 15 | [Dit Is Wat Mijn Mama Zei](https://open.spotify.com/track/5QJoojtfYodIvWSfpeCcHh) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Metejoor](https://open.spotify.com/album/5i4UsOo0PWot8lF2p1JW0W) | 2:57 |
 | 16 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 |
-| 17 | [Dansen Zonder Schaamte](https://open.spotify.com/track/3nIAUXb5EHifnJfLBf3KkU) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Dansen Zonder Schaamte](https://open.spotify.com/album/3SJ0DAIJG01hw3ld6E9m2l) | 2:18 |
-| 18 | [Plaatje](https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Plaatje](https://open.spotify.com/album/68NmDfErCwLSWNbsIkHo5Q) | 2:32 |
-| 19 | [Dansplaat](https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou) | [Wander](https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM) | [Dansplaat](https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE) | 2:41 |
+| 17 | [Dansplaat](https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou) | [Wander](https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM) | [Dansplaat](https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE) | 2:41 |
+| 18 | [Dansen Zonder Schaamte](https://open.spotify.com/track/3nIAUXb5EHifnJfLBf3KkU) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Dansen Zonder Schaamte](https://open.spotify.com/album/3SJ0DAIJG01hw3ld6E9m2l) | 2:18 |
+| 19 | [Plaatje](https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Plaatje](https://open.spotify.com/album/68NmDfErCwLSWNbsIkHo5Q) | 2:32 |
 | 20 | [Hete Vuren](https://open.spotify.com/track/1oBM2lPmoio5W8VA3bF0zL) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Melissa Lopes](https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP) | [Hete Vuren](https://open.spotify.com/album/0SyMTDaEflhei96E47gcEa) | 2:27 |
 | 21 | [Alles Kwijt \- Live in Carré 2023](https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Alles Kwijt](https://open.spotify.com/album/2L1qzNA0JnpifTZMI07a9i) | 3:15 |
 | 22 | [Haast](https://open.spotify.com/track/399bjhgodMuQoMkynf8rVM) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Haast](https://open.spotify.com/album/1xXJ4D4MG5CDPqePtylf6T) | 2:44 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Waarom](https://open.spotify.com/track/3rg3zR2N2KWWyvpGUo78f6) | [Caitlin Lewis](https://open.spotify.com/artist/3EvvEKfqpNkGpLxoszZRfg) | [Waarom](https://open.spotify.com/album/3fcUz2SzycRa0vTdhZmzkc) | 3:14 |
 | 90 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 
-Snapshot ID: `MCw2M2QxMTQ2OTI3MzNhMmY2MDM3YjU0Y2JiOGE0OWFmMjU2MGM0ZWI4`
+Snapshot ID: `MCxmYjYyNTdhZDJhNzljYmI4NWRmNjBmZjIwMTgwNjRjZGUwNmU5NTk5`

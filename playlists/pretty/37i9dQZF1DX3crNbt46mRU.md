@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,432 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,451 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 22 | [Drink Water \(feat\. Jon Bellion and Fireboy DML\)](https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Drink Water](https://open.spotify.com/album/6RhREGKAQfzPO5lphsPBMG) | 2:49 |
 | 23 | [Bee\-League](https://open.spotify.com/track/3wxmj9OIYkA6KFtdDjbCOc) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [Cinnay](https://open.spotify.com/artist/1BSdQVGpP6JeDvpDUkCRFm) | [Bee\-League](https://open.spotify.com/album/59oejrlHRWpaZflHtp60Nx) | 2:52 |
 | 24 | [My Lova \(feat\. VillaBanks\)](https://open.spotify.com/track/4HM02MjJk4Mx5y2KDGBBe4) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [My Lova \(feat\. VillaBanks\)](https://open.spotify.com/album/2mvGS0owo2FHS5VrHo2sKF) | 2:28 |
-| 25 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful and Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
+| 25 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 | 26 | [Was Echtes](https://open.spotify.com/track/4HpJC2H5PkW1e5flvo8b1U) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Was Echtes](https://open.spotify.com/album/3HynSRZXmCgcUOV3pRqPaf) | 2:43 |
 | 27 | [Dumb](https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Dumb](https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz) | 2:29 |
 | 28 | [EUPHORIA](https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2) | [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [EUPHORIA](https://open.spotify.com/album/3lbRR6P1ii0y7Hwg4Fef77) | 2:18 |
 | 29 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 |
-| 30 | [5IVE ON IT](https://open.spotify.com/track/1TcPzAOy7RjHtLVV2uJgo5) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [5IVE ON IT](https://open.spotify.com/album/3FQk2c3SMkvlMVEpqD4ol7) | 2:12 |
+| 30 | [5IVE ON IT](https://open.spotify.com/track/1TcPzAOy7RjHtLVV2uJgo5) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Bawer](https://open.spotify.com/artist/0hL2YMWhS1RHJxrPDyilMg) | [5IVE ON IT](https://open.spotify.com/album/3FQk2c3SMkvlMVEpqD4ol7) | 2:12 |
 | 31 | [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 |
 | 32 | [Femmes](https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Femmes](https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u) | 2:11 |
 | 33 | [Abus Aynek](https://open.spotify.com/track/1Sne2aMf2LwLlL5oAXZfuV) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Abus Aynek](https://open.spotify.com/album/5VeB9AngVND4NjSxUq09Bc) | 2:15 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 36 | [Hurricane](https://open.spotify.com/track/26TKLD7fpqC1Gu1ImiE0PA) | [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr) | [Hurricane](https://open.spotify.com/album/5siPbOspu6H9ekoupHc3kx) | 2:34 |
 | 37 | [Deep End](https://open.spotify.com/track/68BwZl3JN46dmgwnNOTZH0) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Deep End](https://open.spotify.com/album/1z4uO3neeihouDsIUpNSK5) | 2:12 |
 | 38 | [Manifesto](https://open.spotify.com/track/6qsMMwLUKXrIRoYebBBNyn) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Venduti](https://open.spotify.com/album/0sAh6LuYBSiFz3PVSkWCbF) | 2:32 |
-| 39 | [Für immer Zuhaus‘](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 |
+| 39 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 |
 | 40 | [Bona](https://open.spotify.com/track/2HhiBxUs6rHRVsw6prFbYn) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [DJ Gimi\-O](https://open.spotify.com/artist/5lU3mLIonARnLpRtp5f77M) | [Bona](https://open.spotify.com/album/2G9QNpFItRZCbYBu9KeNOv) | 2:30 |
 | 41 | [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 |
 | 42 | [Wespennest \- Edit](https://open.spotify.com/track/4O2pqaEaHXhSXFmcy7bNLV) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Wespennest](https://open.spotify.com/album/0XkiX0O9zILe3t5Zm815lz) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Wenn das hier keine Liebe ist](https://open.spotify.com/track/1oPFgR6LruHs8FgAv9skhG) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [Wenn das hier keine Liebe ist](https://open.spotify.com/album/5Xp5C3rJsr1KaFnxaKuw3E) | 2:51 |
 | 100 | [Who's Laughing Now](https://open.spotify.com/track/4qE7V2dnOCues39TNqvRbh) | [Levina](https://open.spotify.com/artist/3AMWkkeLQXQdNw4cNwgtBB) | [Who's Laughing Now](https://open.spotify.com/album/3HAsTK185aOBgtWSYyXBh1) | 3:17 |
 
-Snapshot ID: `MCwyY2MxMDQ2MjVhNmU3NjI3MGYwZGFlZjUxZWZjZmM3MmZhNDNjMGFk`
+Snapshot ID: `MCxiZmRjMWE2ZmFjNzgyOGVhMGQ3ZTI0YjkxM2U2NTJmOGZjNzM2ZDBh`

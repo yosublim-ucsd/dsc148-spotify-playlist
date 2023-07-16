@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 174432,
+  "num_followers": 174633,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjNiYjVlYTgwNGYyMTcyMjQyYzc3MDNjMTU1YTRlMGZiMzg0MDZj",
+  "snapshot_id": "MCwwZTcyY2UwZjg1NGZkYWNmYjYxNzNiZTQ3MTYyOWMwMGI4NTdiZDgx",
   "tracks": [
     {
       "added_at": "2023-07-14 16:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
         "name": "PAGTATAG!",
         "url": "https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 223339,
       "name": "I WANT YOU",
       "url": "https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
+        "name": "kiss me thru the phone",
+        "url": "https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P"
+      },
+      "artists": [
+        {
+          "name": "CLUB BOYBND",
+          "url": "https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN"
+        }
+      ],
+      "duration_ms": 117480,
+      "name": "kiss me thru the phone",
+      "url": "https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
         "name": "LOVERs PLAYBOOK",
         "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 269242,
       "name": "THANK YOU 4 LOVIN\u2019 ME",
       "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
-        "name": "keepyousafe",
-        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
-      },
-      "artists": [
-        {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
-        }
-      ],
-      "duration_ms": 261673,
-      "name": "keepyousafe",
-      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
+        "name": "keepyousafe",
+        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
+      },
+      "artists": [
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+        }
+      ],
+      "duration_ms": 261673,
+      "name": "keepyousafe",
+      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
         "name": "The Ones We Once Loved",
         "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 273362,
       "name": "The Ones We Once Loved",
       "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
-        "name": "kiss me thru the phone",
-        "url": "https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P"
-      },
-      "artists": [
-        {
-          "name": "CLUB BOYBND",
-          "url": "https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN"
-        }
-      ],
-      "duration_ms": 117480,
-      "name": "kiss me thru the phone",
-      "url": "https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
         "name": "Everlasting Dance",
         "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 203231,
       "name": "Everlasting Dance",
       "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
+        "name": "to love in the 21st century",
+        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "the alternative",
+      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
         "name": "Xeno",
         "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 242746,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
-        "name": "to love in the 21st century",
-        "url": "https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "the alternative",
-      "url": "https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw"
+      },
+      "artists": [
+        {
+          "name": "Nadine Lustre",
+          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "duration_ms": 212054,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
         "name": "your love",
         "url": "https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 173308,
       "name": "One Last Dance (feat. Milky Day)",
       "url": "https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw"
-      },
-      "artists": [
-        {
-          "name": "Nadine Lustre",
-          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
-        },
-        {
-          "name": "WILD",
-          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
-        }
-      ],
-      "duration_ms": 212054,
-      "name": "Overgrown",
-      "url": "https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q"
     },
     {
       "added_at": "2023-07-14 16:00:00",

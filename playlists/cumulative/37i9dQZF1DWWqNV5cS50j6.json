@@ -18980,10 +18980,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 100704,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/6IVSY2DDjkH7J3TYLoQVZ7"
+    },
+    {
+      "album": {
+        "name": "love deluxe",
+        "url": "https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100714,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va"
     },
     {
       "album": {

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,850 likes - 68 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,889 likes - 68 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 |
-| 2 | [Whiskey Makes Me Stronger](https://open.spotify.com/track/0ILmJjjyRTnhE5DdnTjPUQ) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [Whiskey Makes Me Stronger](https://open.spotify.com/album/77PjKbYYS7tOz4BMDQgzIY) | 2:33 |
+| 2 | [Whiskey Makes Me Stronger](https://open.spotify.com/track/0ILmJjjyRTnhE5DdnTjPUQ) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [Whiskey Makes Me Stronger](https://open.spotify.com/album/77PjKbYYS7tOz4BMDQgzIY) | 2:34 |
 | 3 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 |
 | 4 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 |
 | 5 | [Black Cat Bone](https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Live From The Archive](https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD) | 9:50 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 67 | [I'm Not Havin' It](https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:13 |
 | 68 | [Put That Back](https://open.spotify.com/track/68c1MV92ptINojyzzheUJu) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:47 |
 
-Snapshot ID: `MCxiNmFlNjQ4ZGVkNjIxYTcxOTg2MjY1NTk2ZDgzNDAyNzYwNGM3OGI0`
+Snapshot ID: `MCw3Y2VmNGNkZDg1MmE1YTJiMDcxOWZlMDNlMjIxZjAxZTRlM2QxMzg2`

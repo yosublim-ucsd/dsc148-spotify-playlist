@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 289330,
+  "num_followers": 289651,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzk4ZTBkZjUxYTFlZDM4ODg0YjNkOWQxNjg4YzRkZGExNDVkMjFj",
+  "snapshot_id": "MCwxZWZhMDUwMDFlYjhkYzhkNGM1NWE2NzIyNmRjYjdiMGI2OWU2MTJj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -102,6 +102,10 @@
         {
           "name": "Jazztronik",
           "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        },
+        {
+          "name": "Excursions",
+          "url": "https://open.spotify.com/artist/7FODCxRhZUJPC12vufZjPB"
         }
       ],
       "duration_ms": 241369,

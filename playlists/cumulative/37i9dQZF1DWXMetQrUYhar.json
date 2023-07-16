@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 269300,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 245596,
       "name": "Good Kisser - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5eyPkSDWFQNnnkZhFfE6Yo"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 133762,
       "name": "hey! - Spotify Singles",
       "url": "https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 171821,
       "name": "Medicine - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9"
@@ -3608,10 +3608,28 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 261605,
       "name": "Sugar Man",
       "url": "https://open.spotify.com/track/1kteLmpKLQsLDy3h8V9aOX"
+    },
+    {
+      "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261605,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,106 likes - 101 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,143 likes - 101 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 56 | [If This Isn't Love](https://open.spotify.com/track/4WrFf0DMuq3LbpOf20wkVP) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 5:32 |
 | 57 | [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 |
 | 58 | [Keepin' It Real](https://open.spotify.com/track/3Nyx99YpA8OEL6XVAgU6gZ) | [Bobby Watson](https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ) | [Keepin' It Real](https://open.spotify.com/album/3P5wS8FWs63cAV2WxpD4bq) | 7:08 |
-| 59 | [The Magilla](https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [The Spoiler](https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS) | 6:04 |
+| 59 | [The Magilla](https://open.spotify.com/track/3p8HdITAjhnyorR0CgRFDp) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Martin Freeman and Eddie Piller Present Jazz On The Corner Two](https://open.spotify.com/album/3JVyUhaPk5LeITaJ5OfNHm) | 6:04 |
 | 60 | [Drum One](https://open.spotify.com/track/5jRb2jFB8ZG9qwgGQDSL3g) | [Paul Bley](https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM) | [Paul Bley](https://open.spotify.com/album/3mZcpjzbEtUsgvOswFkpqP) | 2:22 |
 | 61 | [Cannonball](https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:14 |
 | 62 | [The Critic's Choice](https://open.spotify.com/track/67cJY01l5qsL6ckW0OgyHK) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 2:19 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 100 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
 | 101 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 |
 
-Snapshot ID: `MCw3OTM0N2EzODYwMTFlYWQxNzQxZDBhOWQ1NTA5ZjVhMzJhYjAwODlj`
+Snapshot ID: `MCw2ODgwMGE2NTNhNzI0NWEzYzQzN2I2NGIzZmU0ZGUxYzQyMDRlZDEz`

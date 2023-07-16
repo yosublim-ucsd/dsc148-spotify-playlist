@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 34536,
+  "num_followers": 34708,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx",
+  "snapshot_id": "MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Blues Traveler",
-        "url": "https://open.spotify.com/album/61HjwbPeZTesnKzkB2HPoN"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 453466,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/05JpFEZhkJxHhuZOoD7uOx"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00",
         "url": "https://open.spotify.com/album/33eRh00tERv1BscbFnuUtF"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 516413,
       "name": "This Must Be the Place (Naive Melody)",
       "url": "https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Blues Traveler",
+        "url": "https://open.spotify.com/album/61HjwbPeZTesnKzkB2HPoN"
+      },
+      "artists": [
+        {
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
+        }
+      ],
+      "duration_ms": 453466,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/05JpFEZhkJxHhuZOoD7uOx"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -511,18 +511,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dose",
-        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+        "name": "Interludes For The Dead (feat. Neal Casal)",
+        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Neal Casal",
+          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
         }
       ],
-      "duration_ms": 407040,
-      "name": "Thorazine Shuffle",
-      "url": "https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI"
+      "duration_ms": 740520,
+      "name": "Gilbert's Groove (feat. Neal Casal)",
+      "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -543,22 +547,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Interludes For The Dead (feat. Neal Casal)",
-        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
       },
       "artists": [
         {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        },
-        {
-          "name": "Neal Casal",
-          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 740520,
-      "name": "Gilbert's Groove (feat. Neal Casal)",
-      "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
+      "duration_ms": 407040,
+      "name": "Thorazine Shuffle",
+      "url": "https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Waiting for Columbus (Live Version; Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 293906,
-      "name": "Fat Man In The Bathtub - Live at Lisner Auditorium, Washington, DC, 8/10/1977",
-      "url": "https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Dose",
         "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 417226,
       "name": "She Said, She Said",
       "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Waiting for Columbus (Live Version; Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TtmZyFBqydHgAk6r8mbbM"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 293906,
+      "name": "Fat Man In The Bathtub - Live at Lisner Auditorium, Washington, DC, 8/10/1977",
+      "url": "https://open.spotify.com/track/2QvMk15JHTjVH3KDoF26NH"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live at the Drive-In",
-        "url": "https://open.spotify.com/album/5QjI51hjeUOgNlDVORpdRz"
-      },
-      "artists": [
-        {
-          "name": "Spafford",
-          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
-        }
-      ],
-      "duration_ms": 779000,
-      "name": "The Reprise (Live)",
-      "url": "https://open.spotify.com/track/27cnOeOwEgcq0Jfsl9BPlD"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "51 Phantom",
         "url": "https://open.spotify.com/album/5Zxv4JiCxWqWzMepX7oGUv"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 329200,
       "name": "Ship",
       "url": "https://open.spotify.com/track/2inywferyxR6WGq7tvtQMW"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Live at the Drive-In",
+        "url": "https://open.spotify.com/album/5QjI51hjeUOgNlDVORpdRz"
+      },
+      "artists": [
+        {
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+        }
+      ],
+      "duration_ms": 779000,
+      "name": "The Reprise (Live)",
+      "url": "https://open.spotify.com/track/27cnOeOwEgcq0Jfsl9BPlD"
     },
     {
       "added_at": "2023-04-06 15:04:32",

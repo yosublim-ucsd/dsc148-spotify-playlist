@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-531 songs - 1 day 2 hr 55 min
+532 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,8 @@
 | [VAN DAMME](https://open.spotify.com/track/6FIldzpHU4A6esNMUcp0oB) | [Mog](https://open.spotify.com/artist/50hdKPHF9OGVbErf6c4Zdm) | [VAN DAMME](https://open.spotify.com/album/56Lv5egHf5veTFfEwRZpoG) | 2:46 | 2023-01-27 | 2023-04-07 |
 | [VEM CÁ](https://open.spotify.com/track/1g7U6zOh8csoqUabagx8lM) | [Divi](https://open.spotify.com/artist/5cSJHazvd6mT7yHlyeSrQ2), [TRINNI](https://open.spotify.com/artist/0wIqiATQ9OB7qeDvNb8Mtr), [ROBZI](https://open.spotify.com/artist/1rrQ8W9iGjjJJAQ6SA4Csc), [Slim G](https://open.spotify.com/artist/4NVuMgEqblB7LLKd6nY2bm) | [VEM CÁ](https://open.spotify.com/album/6t9UfbA738W8EZJknNWksT) | 3:15 | 2023-02-10 | 2023-04-21 |
 | [Vento](https://open.spotify.com/track/7sn5PxtRuPDS8HuWyWxOHr) | [Cora](https://open.spotify.com/artist/3ZC3YPJ5cPRz0CRjIcnUhB), [Jackie](https://open.spotify.com/artist/3DonXKWiwWaVZdaHuWXl4v) | [Vento](https://open.spotify.com/album/4QwnkhxCQEgVnmAvUSquRX) | 2:52 | 2022-07-07 | 2022-10-28 |
-| [Vergonha na Cara](https://open.spotify.com/track/4PYXnIPeBcHB1c00Thduzi) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [3000Kilo](https://open.spotify.com/artist/2tpRt6aWlKJ7b7YwNSLuEx) | [Vergonha na Cara](https://open.spotify.com/album/0mh4QiHY9UpbTvCKkYvbso) | 2:19 | 2023-04-27 |  |
+| [Vergonha na Cara](https://open.spotify.com/track/4PYXnIPeBcHB1c00Thduzi) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [3000Kilo](https://open.spotify.com/artist/2tpRt6aWlKJ7b7YwNSLuEx) | [Vergonha na Cara](https://open.spotify.com/album/0mh4QiHY9UpbTvCKkYvbso) | 2:19 | 2023-04-27 | 2023-07-16 |
+| [Vergonha na Cara](https://open.spotify.com/track/7j7PS7CwB4XX8iNApr6ehR) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2), [3000Kilo](https://open.spotify.com/artist/2tpRt6aWlKJ7b7YwNSLuEx) | [Vergonha na Cara](https://open.spotify.com/album/1HJEtu7mzDgYVKNXKRJYbU) | 2:19 | 2023-07-06 |  |
 | [versus gui](https://open.spotify.com/track/1ojTMI2xUl021R3qVSexiP) | [Guii](https://open.spotify.com/artist/0YCzur9vTCSmievDpR3s7h) | [Corpo & Alma](https://open.spotify.com/album/1VJWSayoxhvr7ASQHKoWqe) | 3:12 | 2022-08-01 | 2022-09-21 |
 | [Vestígios](https://open.spotify.com/track/3dRiraiBjHEAeNe6KX4pbv) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Vestígios](https://open.spotify.com/album/2xtuekWysAdNlXfP9fsu5Y) | 2:08 | 2022-10-20 | 2023-01-27 |
 | [Viagem Sick Bby](https://open.spotify.com/track/6qGRdOUuKsOx4l89fdcyit) | [DEMME](https://open.spotify.com/artist/6kFnnwnS7U9otVnD5iNFyQ) | [Viagem Sick Bby](https://open.spotify.com/album/61aLVf5utHGR8UUCxLUMIF) | 2:33 | 2022-09-01 | 2022-10-21 |

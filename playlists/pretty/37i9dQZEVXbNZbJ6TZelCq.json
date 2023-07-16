@@ -1,15 +1,51 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 30441,
+  "num_followers": 30460,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQyNzAxNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQyNzg4NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
@@ -29,23 +65,7 @@
       "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Skinny",
         "url": "https://open.spotify.com/album/5una74bZSAFh9inUlejrr3"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Emirate",
         "url": "https://open.spotify.com/album/6SupsrnE6vLLVLye1QOemc"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Meditez",
         "url": "https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm"
@@ -105,7 +125,7 @@
       "url": "https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Lalele mentolate (From \"Romina VTM\" The Movie)",
         "url": "https://open.spotify.com/album/1Vjqo2UzRkhxhgpmS0nFHp"
@@ -125,23 +145,7 @@
       "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Gipsy Style",
         "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
@@ -157,7 +161,43 @@
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Trotinete (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/5mUAT2d6j1AAVWdpapiBDg"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Trotinete - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -181,23 +221,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Slayer",
-        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
-      },
-      "artists": [
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 76460,
-      "name": "Timeout",
-      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -217,43 +241,43 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+        "name": "Slayer",
+        "url": "https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui"
       },
       "artists": [
         {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
+      "duration_ms": 76460,
+      "name": "Timeout",
+      "url": "https://open.spotify.com/track/09Ylu166NCvXW8ZY4lA39W"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Trotinete (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/5mUAT2d6j1AAVWdpapiBDg"
+        "name": "Cariceps",
+        "url": "https://open.spotify.com/album/5l1fdRvWGtwBNl0abkohxb"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Dani Mocanu",
+          "url": "https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI"
         },
         {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
         }
       ],
-      "duration_ms": 169411,
-      "name": "Trotinete - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/1cr9iS5IDEcrxNrRszr6wr"
+      "duration_ms": 146307,
+      "name": "Cariceps",
+      "url": "https://open.spotify.com/track/51E7KRgoeTzCJeilsoS2Cg"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
         "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
@@ -273,7 +297,7 @@
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Lololo",
         "url": "https://open.spotify.com/album/38Td2hVZ3hEpXv9W1Ylsp2"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/7Kc7iJU1ZPjna0890AX8J7"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Born 2 Shine",
         "url": "https://open.spotify.com/album/2cQjgTS3bz1L8K6ziXUzUY"
@@ -309,27 +333,23 @@
       "url": "https://open.spotify.com/track/043xuu25Tey8erikkqAoIT"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Colegi de apartament",
-        "url": "https://open.spotify.com/album/2FvbWAGk9ve3pwIshtDciE"
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
       },
       "artists": [
         {
-          "name": "Vescan",
-          "url": "https://open.spotify.com/artist/5V5qYIV17KGvP5vSMaoY4Y"
-        },
-        {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
         }
       ],
-      "duration_ms": 237705,
-      "name": "Colegi de apartament",
-      "url": "https://open.spotify.com/track/3NP3h1rnq4cksYTAhLrmx0"
+      "duration_ms": 97391,
+      "name": "BULIBA$HA",
+      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Hitana",
         "url": "https://open.spotify.com/album/11WSvWVNkU7HL4OYqerYnL"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/5ad1dak323elhUk1w99Bui"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Pe un pat",
         "url": "https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81"
@@ -365,47 +385,27 @@
       "url": "https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Kankun",
-        "url": "https://open.spotify.com/album/2dVXE42hlHu4O3t1FRH1K8"
+        "name": "Colegi de apartament",
+        "url": "https://open.spotify.com/album/2FvbWAGk9ve3pwIshtDciE"
       },
       "artists": [
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 202325,
-      "name": "Kankun",
-      "url": "https://open.spotify.com/track/0btRiLdhc6u5z8WUK0HTFS"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "Vescan",
+          "url": "https://open.spotify.com/artist/5V5qYIV17KGvP5vSMaoY4Y"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
         }
       ],
-      "duration_ms": 199920,
-      "name": "Too Many Nights (feat. Don Toliver & with Future)",
-      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
+      "duration_ms": 237705,
+      "name": "Colegi de apartament",
+      "url": "https://open.spotify.com/track/3NP3h1rnq4cksYTAhLrmx0"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Lasa-ma Sa Te...",
         "url": "https://open.spotify.com/album/7hkvHHn7sqggPIEln4QHak"
@@ -425,7 +425,23 @@
       "url": "https://open.spotify.com/track/5H0LWXNKJAaSnlPwDN4OeC"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "E",
+        "url": "https://open.spotify.com/album/5TCTCIsyiLAWbxtlJjkZDu"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 167852,
+      "name": "E",
+      "url": "https://open.spotify.com/track/1AjiCgTkzq2QeGw8G3gBRR"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/5j7U60K6QxaOdLtLzegk7V"
@@ -449,10 +465,10 @@
       "url": "https://open.spotify.com/track/5QBV9qdxNLdPr1fEzE6HwU"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/5TCTCIsyiLAWbxtlJjkZDu"
+        "name": "Kankun",
+        "url": "https://open.spotify.com/album/2dVXE42hlHu4O3t1FRH1K8"
       },
       "artists": [
         {
@@ -460,28 +476,36 @@
           "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 167852,
-      "name": "E",
-      "url": "https://open.spotify.com/track/1AjiCgTkzq2QeGw8G3gBRR"
+      "duration_ms": 202325,
+      "name": "Kankun",
+      "url": "https://open.spotify.com/track/0btRiLdhc6u5z8WUK0HTFS"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Alo baza baza",
-        "url": "https://open.spotify.com/album/4M1F7WWuQl9UA09xsZXuVk"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Alo baza baza",
-      "url": "https://open.spotify.com/track/1KDSdCDKLSVJNREpp7OICq"
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Miss Dior",
         "url": "https://open.spotify.com/album/1d98QAKQbTW1FgbCmEDXsJ"
@@ -505,7 +529,7 @@
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Test Drive",
         "url": "https://open.spotify.com/album/1LW6IajlZo7hz8gAveGJhx"
@@ -525,7 +549,39 @@
       "url": "https://open.spotify.com/track/1b8wUmTTj17WAEHlu9UFsl"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "VREM",
+        "url": "https://open.spotify.com/album/1xkhCX1MGv3uS1kEjGD0Q7"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "VREM",
+      "url": "https://open.spotify.com/track/6mBitYebZxZUyW8UgyI8TP"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Alo baza baza",
+        "url": "https://open.spotify.com/album/4M1F7WWuQl9UA09xsZXuVk"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Alo baza baza",
+      "url": "https://open.spotify.com/track/1KDSdCDKLSVJNREpp7OICq"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "MARATON (From \"Haita De Ac\u021biune\" The Movie)",
         "url": "https://open.spotify.com/album/5lp3Xg2wFExOHdVP05qM6L"
@@ -541,99 +597,23 @@
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "La san",
-        "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
+        "name": "Papusa Barbie",
+        "url": "https://open.spotify.com/album/04cDqu6xsMILU0XekT4GMR"
       },
       "artists": [
         {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
         }
       ],
-      "duration_ms": 207435,
-      "name": "La san",
-      "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
+      "duration_ms": 210811,
+      "name": "Papusa Barbie",
+      "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Tati, vreau",
-        "url": "https://open.spotify.com/album/7ec0ZSupalm3wKhkRg3f4X"
-      },
-      "artists": [
-        {
-          "name": "Alex Velea",
-          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
-        },
-        {
-          "name": "George Talent",
-          "url": "https://open.spotify.com/artist/5nH3X16vKLMkEFbbTcy50f"
-        }
-      ],
-      "duration_ms": 128181,
-      "name": "Tati, vreau",
-      "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "SHOTGUN",
-        "url": "https://open.spotify.com/album/7uYKZ6fWkQIKXxWAi2xA8u"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "SHOTGUN",
-      "url": "https://open.spotify.com/track/0EIUssA2gv881GM16RzSQy"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Ap\u0103 \u0219i Foc",
-        "url": "https://open.spotify.com/album/7sPz5efI6kA1Z7XlZuJrlM"
-      },
-      "artists": [
-        {
-          "name": "Bvcovia",
-          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Ap\u0103 \u0219i Foc",
-      "url": "https://open.spotify.com/track/6nIDYdHTS2o3IMlTEccCm2"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "CONTACT FATAL 2",
-        "url": "https://open.spotify.com/album/4xPeqymbeBMtRyYntgUQ8n"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "CONTACT FATAL 2",
-      "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
@@ -649,7 +629,7 @@
       "url": "https://open.spotify.com/track/5jjPoxrz3NRainOx1DtAPv"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "BULIBA$HA (Deluxe)",
         "url": "https://open.spotify.com/album/1GaeLe3nWQikPuCQn8CJZV"
@@ -669,26 +649,26 @@
       "url": "https://open.spotify.com/track/60sy8u1IoawaNCSKG0g7t9"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Te-am vazut fara inel",
-        "url": "https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI"
+        "name": "CONTACT FATAL 2",
+        "url": "https://open.spotify.com/album/4xPeqymbeBMtRyYntgUQ8n"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Te-am vazut fara inel",
-      "url": "https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5"
+      "duration_ms": 145846,
+      "name": "CONTACT FATAL 2",
+      "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
+        "name": "La san",
+        "url": "https://open.spotify.com/album/1U4yGL8pUHvWbUdEjBuA1w"
       },
       "artists": [
         {
@@ -696,28 +676,32 @@
           "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
         }
       ],
-      "duration_ms": 166788,
-      "name": "Lumea asta",
-      "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
+      "duration_ms": 207435,
+      "name": "La san",
+      "url": "https://open.spotify.com/track/4XLLdFJdwmvdtkwQuXAFut"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Papusa Barbie",
-        "url": "https://open.spotify.com/album/04cDqu6xsMILU0XekT4GMR"
+        "name": "SHOTGUN",
+        "url": "https://open.spotify.com/album/7uYKZ6fWkQIKXxWAi2xA8u"
       },
       "artists": [
         {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         }
       ],
-      "duration_ms": 210811,
-      "name": "Papusa Barbie",
-      "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
+      "duration_ms": 166285,
+      "name": "SHOTGUN",
+      "url": "https://open.spotify.com/track/0EIUssA2gv881GM16RzSQy"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Aia e",
         "url": "https://open.spotify.com/album/4s0J0btBWf0rBRV62rdp0C"
@@ -733,7 +717,27 @@
       "url": "https://open.spotify.com/track/4DtQZIcQCsZx89Ur1ouilo"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Ap\u0103 \u0219i Foc",
+        "url": "https://open.spotify.com/album/7sPz5efI6kA1Z7XlZuJrlM"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Ap\u0103 \u0219i Foc",
+      "url": "https://open.spotify.com/track/6nIDYdHTS2o3IMlTEccCm2"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Obsesia",
         "url": "https://open.spotify.com/album/5Yg5Gxcy3xnoTafvBdif6G"
@@ -753,7 +757,75 @@
       "url": "https://open.spotify.com/track/2ix7hMK7NMeHAFVsm5dlfK"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Tati, vreau",
+        "url": "https://open.spotify.com/album/7ec0ZSupalm3wKhkRg3f4X"
+      },
+      "artists": [
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        },
+        {
+          "name": "George Talent",
+          "url": "https://open.spotify.com/artist/5nH3X16vKLMkEFbbTcy50f"
+        }
+      ],
+      "duration_ms": 128181,
+      "name": "Tati, vreau",
+      "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Te-am vazut fara inel",
+        "url": "https://open.spotify.com/album/6eL6yUUCqcaRVQXINrakiI"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Te-am vazut fara inel",
+      "url": "https://open.spotify.com/track/4FG6TOqiQprPinFIAY3Zr5"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 166788,
+      "name": "Lumea asta",
+      "url": "https://open.spotify.com/track/1YvYEbR7ITXJ0Msk4ORZxY"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "SUNETE 2",
         "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
@@ -777,67 +849,7 @@
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Midnight Gems",
-        "url": "https://open.spotify.com/album/31PGZ1PdOZwjiIzVPulCJE"
-      },
-      "artists": [
-        {
-          "name": "The Motans",
-          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "\u00cen golul t\u0103u",
-      "url": "https://open.spotify.com/track/4aozcUwwPK4A8cfRti0mhI"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Sauditii",
-        "url": "https://open.spotify.com/album/4ZA7PL19wmYttxkZ5XmjOu"
-      },
-      "artists": [
-        {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Sauditii",
-      "url": "https://open.spotify.com/track/6SiHINMCAPTGwojLqIP4ah"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "Dau \u00een ei ca-n aparate",
         "url": "https://open.spotify.com/album/234xBtccCUnrssEJsWE024"
@@ -861,7 +873,7 @@
       "url": "https://open.spotify.com/track/0OTJA25ZML2VwZA1AFt7Gv"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
         "name": "ae",
         "url": "https://open.spotify.com/album/2WsF40BvTPOczOKR5OeMyr"
@@ -877,80 +889,60 @@
       "url": "https://open.spotify.com/track/2Oy2SGDK3K0rDOaiCRJWJA"
     },
     {
-      "added_at": "2023-07-14 14:53:39",
+      "added_at": "2023-07-15 09:27:42",
       "album": {
-        "name": "Banii",
-        "url": "https://open.spotify.com/album/0laauCCx2NFxyoI7Zu9U1K"
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "added_at": "2023-07-15 09:27:42",
+      "album": {
+        "name": "Buzele Cu Rosu Inchis",
+        "url": "https://open.spotify.com/album/76E3t8ST8PA6GwJNL0btpz"
       },
       "artists": [
         {
           "name": "Tzanca Uraganu",
           "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 136875,
-      "name": "Banii",
-      "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Inim\u0103 de aur (From \"Romina VTM\" The Movie)",
-        "url": "https://open.spotify.com/album/0SPpEUGu67Yf3I7tMN2nCt"
-      },
-      "artists": [
-        {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
-        },
-        {
-          "name": "Gheboas\u0103",
-          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
-        }
-      ],
-      "duration_ms": 152142,
-      "name": "Inim\u0103 de aur - From \"Romina VTM\" The Movie",
-      "url": "https://open.spotify.com/track/41Khl48VaHDozr5jQRd3xC"
-    },
-    {
-      "added_at": "2023-07-14 14:53:39",
-      "album": {
-        "name": "Centaur",
-        "url": "https://open.spotify.com/album/2CIT3DRAZdPvix0n9wYBhb"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        },
-        {
-          "name": "Bvcovia",
-          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "S\u00e2nge pe pat \u0219i pe podea",
-      "url": "https://open.spotify.com/track/0AFTEC66MiVSaRN0AobM2n"
+      "duration_ms": 202478,
+      "name": "Buzele Cu Rosu Inchis",
+      "url": "https://open.spotify.com/track/2daDEsJ0IztRdLzUSLss6f"
     }
   ],
   "unique_name": "Top 50 - Romania",

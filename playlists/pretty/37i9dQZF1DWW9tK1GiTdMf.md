@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  Simone Panetti in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,297 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,302 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 27 | [Ti Odio Ti Amo](https://open.spotify.com/track/4fl8dbgqMNVZfWqh1KWOfw) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Rhen](https://open.spotify.com/artist/3I5A4K9cZSEYMrlR0A184k) | [Ti Odio Ti Amo](https://open.spotify.com/album/6laZ3qCsoOOpomSuj2mGQd) | 2:38 |
 | 28 | [IRSB](https://open.spotify.com/track/7atwRZgIdrIKUF5LqRrRNE) | [DIRTY SÖCKS](https://open.spotify.com/artist/3xImYOasFmUbn3ngECT1fI) | [I RAGAZZI STANNO BENE](https://open.spotify.com/album/3oZ7hp7zsXsKhdPTmXjW4g) | 3:19 |
 | 29 | [Domani](https://open.spotify.com/track/70Vzc8udcTKbAdbYWaHda5) | [Yanna](https://open.spotify.com/artist/7pD6tESFPJvN3nEvIEJ9Ol) | [Domani](https://open.spotify.com/album/4e2OHnCcA3MEN444gfpwtM) | 2:25 |
-| 30 | [DISTURBO OSSESSIVO COMPULSIVO](https://open.spotify.com/track/6csZ81pslxZ2R49oqhuHMW) | [Zame](https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb), [Mr\. Ugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H), [Peri](https://open.spotify.com/artist/4EjAFy3j6t7pYae8voXN4D), [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ) | [DISTURBO OSSESSIVO COMPULSIVO](https://open.spotify.com/album/2BhLKzOBZOfhX5GqADIhQG) | 2:15 |
+| 30 | [DISTURBO OSSESSIVO COMPULSIVO](https://open.spotify.com/track/6csZ81pslxZ2R49oqhuHMW) | [Zame](https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb), [Mr\. Ugo](https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H), [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl), [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ) | [DISTURBO OSSESSIVO COMPULSIVO](https://open.spotify.com/album/2BhLKzOBZOfhX5GqADIhQG) | 2:15 |
 | 31 | [17 anni \(PANICO\)](https://open.spotify.com/track/5nlJwV1jDu4hhQdY3YsG8W) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv) | [17 anni \(PANICO\)](https://open.spotify.com/album/06CnNoCSq9iwCseD2KDGcK) | 3:01 |
 | 32 | [SESSO feat LORENZO \(TESTACODA\) Steve Sax ok.](https://open.spotify.com/track/3FFjfElRPSa221l9nqbzGu) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f), [testacoda](https://open.spotify.com/artist/4TsxiXBrsmsrPmrZdSyJRp) | [TITOLO PROVVISORIO](https://open.spotify.com/album/32dfx6NuDgeTHhqK0E8leD) | 2:46 |
 | 33 | [Labbra in 3D](https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Armonia//Silenzio](https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 74 | [a me va bene](https://open.spotify.com/track/4vZhyOMWGhnh6YQkOyt7ms) | [Maliestremi](https://open.spotify.com/artist/0S8ss5TNJnKQFzSEC1etNl) | [a me va bene](https://open.spotify.com/album/7nmHbTM2MWT4fbjEkaLvMh) | 3:07 |
 | 75 | [Storia Stupida](https://open.spotify.com/track/14cHW9AA2QhKt9lBtNi2aZ) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU), [Ardia](https://open.spotify.com/artist/71H4k0XU2SGct9RvpvmxHS) | [Storia Stupida](https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur) | 3:04 |
 
-Snapshot ID: `MCxlYzY4Yzg3MThhOWZlY2UyM2M0MTFlZTJiODg2YzdjZjg3ZjAyMjcz`
+Snapshot ID: `MCwwODY0ZjYzNjcyZDEzMjFkYzdiNWYxOTAxMDEwZGFhMWRmYmY3MzMw`

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Legallyrxx en portada.",
-  "num_followers": 100462,
+  "num_followers": 100517,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDY2YWZjMWI1ZDFlMDNmMTRkNDQ5Y2VmYzA1MmRlZTMyZWY0YmMx",
+  "snapshot_id": "MCw2YjNiNWRmMDU2NDJiMTI1ZTBmNjk2MzQyOGQ3NTM2YzNiMWJiN2M2",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "LA B\u00daSQUEDA",
-        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
-      },
-      "artists": [
-        {
-          "name": "RMAND",
-          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "X Tu Casa",
-      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 253150,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "LA B\u00daSQUEDA",
+        "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
+      },
+      "artists": [
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "duration_ms": 103520,
+      "name": "X Tu Casa",
+      "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "Nico Valdi produciendo a Juli Martorell",
-        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
-      },
-      "artists": [
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        },
-        {
-          "name": "Juli Martorell",
-          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
-        }
-      ],
-      "duration_ms": 164854,
-      "name": "Nico Valdi produciendo a Juli Martorell",
-      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Wiken",
         "url": "https://open.spotify.com/album/1ox4d9yLgy7AURDHxO5ToP"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/3wiQHn5XtL4jSnIetSCGA8"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "Nico Valdi produciendo a Juli Martorell",
+        "url": "https://open.spotify.com/album/0a3SDR3HFeSpzhCdNBZxaS"
+      },
+      "artists": [
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        },
+        {
+          "name": "Juli Martorell",
+          "url": "https://open.spotify.com/artist/4dUFF4VrbkRpQmJ9fO5fVV"
+        }
+      ],
+      "duration_ms": 164854,
+      "name": "Nico Valdi produciendo a Juli Martorell",
+      "url": "https://open.spotify.com/track/12TqKfJ54Sv6qamEwWiOa2"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "Mi Fantasma",
-        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 162391,
-      "name": "Mi Fantasma",
-      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 165562,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "Mi Fantasma",
+        "url": "https://open.spotify.com/album/3SiJHkv9exQ6WsYAecHFB1"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 162391,
+      "name": "Mi Fantasma",
+      "url": "https://open.spotify.com/track/0Ak2hIEf2BWD8H7Mw1aFmj"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "ahora A.K.A NAO",
-        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Mi Piscis",
-      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Los Dos",
         "url": "https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 172235,
       "name": "Los Dos",
       "url": "https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "ahora A.K.A NAO",
+        "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mi Piscis",
+      "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/03rgsZj8lO2W0SINSCX4DN"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 233105,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/0M2euZeRdsyHwtZT5qjQEH"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b"
+      },
+      "artists": [
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 276623,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 209746,
       "name": "Gallo Pinto",
       "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b"
-      },
-      "artists": [
-        {
-          "name": "Rap Bang Club",
-          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 276623,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "ESQUE T\u00da",
-        "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "El Santi",
-          "url": "https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "ESQUE T\u00da",
-      "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Elige Bien",
         "url": "https://open.spotify.com/album/65izBXafV2afavC0J3JX5y"
       },
@@ -1715,6 +1695,26 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
+        "name": "ESQUE T\u00da",
+        "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "El Santi",
+          "url": "https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "ESQUE T\u00da",
+      "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -1735,6 +1735,26 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "203",
+        "url": "https://open.spotify.com/album/7LinW4D3KgiYvCs7W3fxxm"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
+        }
+      ],
+      "duration_ms": 170166,
+      "name": "203",
+      "url": "https://open.spotify.com/track/5hpcJ7KpnnjIkUH5Dg2xKo"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1775,26 +1795,6 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
-        "name": "203",
-        "url": "https://open.spotify.com/album/7LinW4D3KgiYvCs7W3fxxm"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Wow Popy",
-          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
-        }
-      ],
-      "duration_ms": 170166,
-      "name": "203",
-      "url": "https://open.spotify.com/track/5hpcJ7KpnnjIkUH5Dg2xKo"
     },
     {
       "added_at": "2023-07-14 06:00:00",

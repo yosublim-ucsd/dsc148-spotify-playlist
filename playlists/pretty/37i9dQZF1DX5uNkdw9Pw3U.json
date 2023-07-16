@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 65538,
+  "num_followers": 65578,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGFiYmMwZWViMjkwNDcwN2JhNGZhZmU5ZmNjY2ZmY2Y1NWQ3ZTA2",
+  "snapshot_id": "MCxkMmM4ODc3Njc3NzYyMDM1NDEwZWIyY2IxMGRjZjEzNTliMTYwYTA1",
   "tracks": [
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
+    },
+    {
+      "added_at": "2023-07-06 22:00:00",
+      "album": {
         "name": "Seasons (with Khalid)",
         "url": "https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2023-07-06 22:00:00",
       "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
       },
       "artists": [
         {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
         }
       ],
-      "duration_ms": 227880,
-      "name": "Tamale",
-      "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-07-06 22:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 202960,
       "name": "who knew - from Grown-ish",
       "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
-    },
-    {
-      "added_at": "2023-07-06 22:00:00",
-      "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-07-06 22:00:00",

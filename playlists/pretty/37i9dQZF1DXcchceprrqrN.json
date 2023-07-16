@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 45059,
+  "num_followers": 45199,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWFkYTAxNjU4MzQ1Y2ZhZWQ1YjI1NWVjNDIwN2E0NTdlNGJiODZh",
+  "snapshot_id": "MCxmZWRkMWIyMWU5YzY5YTQwZWM3MWU2OTIxOWVkNzBmMzA5Yjc3OTYw",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Bass Drum of Death",
+        "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Crawling After You",
+      "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "UGLY",
         "url": "https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Bass Drum of Death",
-        "url": "https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Crawling After You",
-      "url": "https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o"
     },
     {
       "added_at": "2023-06-02 04:00:00",

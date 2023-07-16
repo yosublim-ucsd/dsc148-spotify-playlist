@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228226,
+  "num_followers": 228228,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
+  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "TAN CAGAU",
+        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "TAN CAGAU",
+      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "CONXSI\u00d3N",
         "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 253533,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "TAN CAGAU",
-        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "TAN CAGAU",
-      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Porche Carrera",
+        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
+      },
+      "artists": [
+        {
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Porche Carrera",
+      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "TRAPPHONE",
         "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 159547,
       "name": "P.O.V.",
       "url": "https://open.spotify.com/track/0ZoHqqfllVIYGwM7cMhJgo"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Porche Carrera",
-        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
-      },
-      "artists": [
-        {
-          "name": "DimeWest",
-          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Porche Carrera",
-      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
+      },
+      "artists": [
+        {
+          "name": "Rokero",
+          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
+        }
+      ],
+      "duration_ms": 191891,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Quiero",
         "url": "https://open.spotify.com/album/20gGKogH9MsM0IegKgrX5f"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 178529,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/4Lxsnyn9yJnkkHZKTAQynR"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3uCyplEfFNaUw9gbb7CCgf"
-      },
-      "artists": [
-        {
-          "name": "Rokero",
-          "url": "https://open.spotify.com/artist/4LnMIW4aNwegikxZkUN4ir"
-        }
-      ],
-      "duration_ms": 191891,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/7G38Wgac1qF3ekqWyUMPCz"
     },
     {
       "added_at": "2023-06-09 20:20:12",

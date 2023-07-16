@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-276 songs - 20 hr 22 min
+277 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [El Amor No Existe \- En Vivo](https://open.spotify.com/track/1zDK1iD8uUYhT3yExKFG1S) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg), [Martin "Mono" Fabio](https://open.spotify.com/artist/2sgxHeMWSuLNXYeexvDuGe) | [El Amor No Existe \(En Vivo\)](https://open.spotify.com/album/14eqmcxSOymxp0BsNF6qkf) | 2:48 | 2022-04-01 |  |
 | [El Balcón \- En Vivo](https://open.spotify.com/track/7ywbpggu1JZHDKCK153aTf) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 5:46 | 2022-04-01 | 2023-01-01 |
 | [El Bar de la Calle Rodney \- En Vivo](https://open.spotify.com/track/06Lb8SpBalxFjvFOD7MoCA) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Navegar Es Preciso \(En Vivo\)](https://open.spotify.com/album/4ocTAKR72ukLnPb93jRdLN) | 4:03 | 2022-06-10 | 2022-07-29 |
+| [El Cinturón Gris \- En Vivo](https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [El Cinturón Gris \(En Vivo\)](https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL) | 3:57 | 2023-07-14 |  |
 | [El Corazón Sobre Todo \- En Vivo](https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [En Vivo Gran Rex](https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ) | 4:10 | 2022-04-01 |  |
 | [El Juicio del Ganso \- En Vivo](https://open.spotify.com/track/3F0AqUi23yKEamhnjXTrSR) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Inventa un Mañana \(En Vivo\)](https://open.spotify.com/album/4UQ9lwuThqGMWNCS5UlSqF) | 5:25 | 2023-03-25 |  |
 | [El Mono Relojero \- En Vivo](https://open.spotify.com/track/2zn30N7Bp6KIS8FYXZN1yN) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¿ Mamá Dónde Estoy? \(En Vivo\)](https://open.spotify.com/album/1Yc367iy8r4EJKwyYjBLi0) | 6:47 | 2022-04-01 | 2022-07-20 |
@@ -222,7 +223,7 @@
 | [Sacate la Mierda \- En Vivo](https://open.spotify.com/track/63tUQEbpxDar0yjmtPB6jg) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Hoy Como Ayer \(En Vivo\)](https://open.spotify.com/album/1JYKLf6VSzu0c0V9YMKxqz) | 4:13 | 2022-04-01 | 2023-03-25 |
 | [Sacrificio y Rock and Roll](https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:31 | 2022-04-01 |  |
 | [Sasha, Sissi Y El Círculo De Baba \- En Vivo](https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:36 | 2022-04-01 |  |
-| [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 | 2022-04-01 |  |
+| [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 | 2022-04-01 | 2023-07-16 |
 | [Selva](https://open.spotify.com/track/303pHynPWt6fzRQFQwI8SL) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [La Portuaria En Vivo](https://open.spotify.com/album/3Pzh6hE7RZofmrIrFyfiDd) | 4:39 | 2022-04-01 | 2023-03-25 |
 | [Si Me Das Tu Amor \- En Vivo](https://open.spotify.com/track/3AGjOR54dS5YQBOqNZVEm4) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran \(En Vivo\)](https://open.spotify.com/album/305jNhp1fDXD4Gga5rYUPZ) | 3:39 | 2022-04-01 | 2022-07-25 |
 | [Si Supieras \- En Vivo en el Luna Park](https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:58 | 2022-04-01 |  |

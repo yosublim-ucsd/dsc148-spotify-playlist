@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 174000,
       "name": "Auu",
       "url": "https://open.spotify.com/track/43W23I8GxJset6wCOObzSH"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 129156,
       "name": "Igual",
       "url": "https://open.spotify.com/track/1rbWuptjj5QnfG3ngZiiLx"
@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "Perd\u00ed Tu Num :(",
+        "url": "https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8rfy",
+          "url": "https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162102,
+      "name": "Perd\u00ed Tu Num :(",
+      "url": "https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu"
+    },
+    {
+      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -820,6 +838,24 @@
       "duration_ms": 228073,
       "name": "Toco Madera",
       "url": "https://open.spotify.com/track/2AmkYD7acMl2rNFqX6gKY4"
+    },
+    {
+      "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "album": {

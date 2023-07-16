@@ -8734,7 +8734,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 265493,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
@@ -12508,7 +12508,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 136713,
       "name": "Hurts Me",
       "url": "https://open.spotify.com/track/6xsyuFNW7fbHVrUZ4MVm2t"
@@ -21203,6 +21203,24 @@
     },
     {
       "album": {
+        "name": "Paper Soldier",
+        "url": "https://open.spotify.com/album/4KPE86p5ej8oWmr0P0XFtI"
+      },
+      "artists": [
+        {
+          "name": "skoomy",
+          "url": "https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Paper Soldier",
+      "url": "https://open.spotify.com/track/5oYrxdkfUIKRT0bGKx3Tmd"
+    },
+    {
+      "album": {
         "name": "paper soldier",
         "url": "https://open.spotify.com/album/2VDZVm49vwmSe6d8enHDiV"
       },
@@ -21218,7 +21236,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 202001,
       "name": "paper soldier",
       "url": "https://open.spotify.com/track/2e14aFZU7cmpyYMsML0Bab"
@@ -32218,10 +32236,32 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 208917,
       "name": "Who Told You (feat. Drake)",
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/6kgaI3kHkqmRimeGQdS4Ga"
     },
     {
       "album": {

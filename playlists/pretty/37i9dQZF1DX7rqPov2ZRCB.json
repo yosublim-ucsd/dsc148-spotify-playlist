@@ -1,12 +1,12 @@
 {
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
-  "num_followers": 63574,
+  "num_followers": 63610,
   "original_name": "Merengue T\u00edpico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDc1OTM4YWYxYzdjZjg0YmUxYTM3MzA0N2E4NDVmMWVkODYzNmYz",
+  "snapshot_id": "MCw5NGQ3Y2NiZmUwM2RhMjdiNzcwMWNiNzY1YWQ1YzNkOTA2YjMwNDE3",
   "tracks": [
     {
       "added_at": "2019-09-09 17:49:24",
@@ -331,18 +331,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "From Santo Domingo: Live!",
-        "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
+        "name": "Homenaje A Tatico Henr\u00edquez",
+        "url": "https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu"
       },
       "artists": [
         {
-          "name": "El Prodigio",
-          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+          "name": "Tatico Henriquez Y Sus Muchachos",
+          "url": "https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm"
         }
       ],
-      "duration_ms": 335266,
-      "name": "El Refr\u00e1n",
-      "url": "https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH"
+      "duration_ms": 174306,
+      "name": "La Mecedora",
+      "url": "https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -379,18 +379,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Homenaje A Tatico Henr\u00edquez",
-        "url": "https://open.spotify.com/album/6wpHAV5jdgysuRBal7lYvu"
+        "name": "From Santo Domingo: Live!",
+        "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
       },
       "artists": [
         {
-          "name": "Tatico Henriquez Y Sus Muchachos",
-          "url": "https://open.spotify.com/artist/4Pva9KTs5FoQl4TuyZZ3Mm"
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
         }
       ],
-      "duration_ms": 174306,
-      "name": "La Mecedora",
-      "url": "https://open.spotify.com/track/4gud2okz9KBcDUjVGw36sD"
+      "duration_ms": 335266,
+      "name": "El Refr\u00e1n",
+      "url": "https://open.spotify.com/track/5JMVZua23rOH7Wt1rFYeSH"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -491,22 +491,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "From Santo Domingo: Live!",
-        "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
-      },
-      "artists": [
-        {
-          "name": "El Prodigio",
-          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
-        }
-      ],
-      "duration_ms": 320920,
-      "name": "La Muerte De Mart\u00edn",
-      "url": "https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "De Que Tu Priva?",
         "url": "https://open.spotify.com/album/6rdek5bHbx11piMtwzaZCm"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 269533,
       "name": "La Rubia Y Yo",
       "url": "https://open.spotify.com/track/2zLZaQsd66qHAR6HWJOOAI"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "From Santo Domingo: Live!",
+        "url": "https://open.spotify.com/album/7j6mg2CE7wd6i3R5dRkr2Z"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+        }
+      ],
+      "duration_ms": 320920,
+      "name": "La Muerte De Mart\u00edn",
+      "url": "https://open.spotify.com/track/6dRqfRIFbxbu65vsjCUXeI"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "El Prodigio Vs. Geovanny Polanco: La Batalla del Tipico - Round 2",
-        "url": "https://open.spotify.com/album/3VPf3UdypqpvsZRNQTOc9C"
-      },
-      "artists": [
-        {
-          "name": "El Prodigio",
-          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
-        }
-      ],
-      "duration_ms": 333693,
-      "name": "La cuestion",
-      "url": "https://open.spotify.com/track/1QRceT6AZos2f9gbhl9cy3"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "A Otro Nivel",
         "url": "https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 279474,
       "name": "Ya No Creo en Ti",
       "url": "https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
+        "name": "El Prodigio Vs. Geovanny Polanco: La Batalla del Tipico - Round 2",
+        "url": "https://open.spotify.com/album/3VPf3UdypqpvsZRNQTOc9C"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+        }
+      ],
+      "duration_ms": 333693,
+      "name": "La cuestion",
+      "url": "https://open.spotify.com/track/1QRceT6AZos2f9gbhl9cy3"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -703,6 +703,22 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
+        "name": "Dos X Uno",
+        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
+      },
+      "artists": [
+        {
+          "name": "El Prodigio",
+          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Ta' Buena",
+      "url": "https://open.spotify.com/track/3BgSFrdupRytjDZw2BcwHn"
+    },
+    {
+      "added_at": "2019-09-09 17:49:24",
+      "album": {
         "name": "\u00cddolo Del Pueblo",
         "url": "https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Dos X Uno",
-        "url": "https://open.spotify.com/album/6twL9pq7eh4KALCCFWm1aN"
-      },
-      "artists": [
-        {
-          "name": "El Prodigio",
-          "url": "https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Ta' Buena",
-      "url": "https://open.spotify.com/track/3BgSFrdupRytjDZw2BcwHn"
-    },
-    {
-      "added_at": "2019-09-09 17:49:24",
-      "album": {
         "name": "El Contentoso!",
         "url": "https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "60 \u00c9xitos",
-        "url": "https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX"
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
       },
       "artists": [
         {
-          "name": "Tatico Henriquez",
-          "url": "https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm"
+          "name": "Shino Aguakate",
+          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
         }
       ],
-      "duration_ms": 169000,
-      "name": "La Correa",
-      "url": "https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv"
+      "duration_ms": 250613,
+      "name": "La Batata",
+      "url": "https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa"
     },
     {
       "added_at": "2019-09-09 17:49:24",
@@ -819,18 +819,18 @@
     {
       "added_at": "2019-09-09 17:49:24",
       "album": {
-        "name": "Out of Control",
-        "url": "https://open.spotify.com/album/7MiIB4tUaj2jfu8pGOxX08"
+        "name": "La Reina del Soberano",
+        "url": "https://open.spotify.com/album/6JG72C5AvYstaw7ZWdz8xv"
       },
       "artists": [
         {
-          "name": "Shino Aguakate",
-          "url": "https://open.spotify.com/artist/6IgsDaIkGCmRK7VEpnjvKI"
+          "name": "Fefita La Grande",
+          "url": "https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA"
         }
       ],
-      "duration_ms": 250613,
-      "name": "La Batata",
-      "url": "https://open.spotify.com/track/4r2O4YsxfoclLn5AjPLdQa"
+      "duration_ms": 305773,
+      "name": "Tipico Caliente",
+      "url": "https://open.spotify.com/track/6sJmVh5brIuD3PywP0gVoE"
     }
   ],
   "unique_name": "Merengue T\u00edpico",

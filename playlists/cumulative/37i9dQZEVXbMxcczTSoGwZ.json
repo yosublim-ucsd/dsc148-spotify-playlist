@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/5A08KO5fJwvmoO4PJqTNVa"
+      },
+      "artists": [
+        {
+          "name": "Pessa",
+          "url": "https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba"
+        },
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231683,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/40eyckMRTkS5t6lIsNVJIi"
+    },
+    {
+      "album": {
         "name": "666",
         "url": "https://open.spotify.com/album/6ADjhQABlpEiPGf4QFbazp"
       },
@@ -2270,7 +2292,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 142047,
       "name": "Bikineis (feat. Cledos)",
       "url": "https://open.spotify.com/track/19tC0uC0b9azd1B8tJbwNm"
@@ -2726,6 +2748,32 @@
       "duration_ms": 199146,
       "name": "Brividi",
       "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+    },
+    {
+      "album": {
+        "name": "Bruna (feat. M\u00e4kki, Seksik\u00e4s-Suklaa)",
+        "url": "https://open.spotify.com/album/0gSuvlXJhsOttwVx88ZME0"
+      },
+      "artists": [
+        {
+          "name": "Hesa\u00c4ij\u00e4",
+          "url": "https://open.spotify.com/artist/31l5HEi8RuEjCwU46y49Hf"
+        },
+        {
+          "name": "Seksik\u00e4s-Suklaa",
+          "url": "https://open.spotify.com/artist/2o2qKwPkfo0vDnyXnfgk0W"
+        },
+        {
+          "name": "M\u00e4kki",
+          "url": "https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175998,
+      "name": "Bruna (feat. M\u00e4kki, Seksik\u00e4s-Suklaa)",
+      "url": "https://open.spotify.com/track/5DgTTH06vtP179CCkzmVbr"
     },
     {
       "album": {
@@ -6602,6 +6650,24 @@
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
+    },
+    {
+      "album": {
+        "name": "Fotogeeninen",
+        "url": "https://open.spotify.com/album/0wVCKk5YRkg9PIFRkUsroc"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147717,
+      "name": "Fotogeeninen",
+      "url": "https://open.spotify.com/track/6AMW5OL6GhP2vlfM6X1MiW"
     },
     {
       "album": {
@@ -15176,7 +15242,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 134548,
       "name": "Mama sano",
       "url": "https://open.spotify.com/track/3TIUyJEDQStx0ZweySjCC2"
@@ -17533,6 +17599,28 @@
     },
     {
       "album": {
+        "name": "M\u00e4 + S\u00e4",
+        "url": "https://open.spotify.com/album/0KamvhJfssRJURAfaMSdja"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        },
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175150,
+      "name": "M\u00e4 + S\u00e4",
+      "url": "https://open.spotify.com/track/3EqXVoA4m7ZXwwH3rbnNXx"
+    },
+    {
+      "album": {
         "name": "M\u00e4 en oo syntyny eilen",
         "url": "https://open.spotify.com/album/3ha7e2q0PrQTdHJImorDxw"
       },
@@ -18916,7 +19004,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 174526,
       "name": "OnlyFans (feat. ibe)",
       "url": "https://open.spotify.com/track/04ajBAZ4nicx6flU5D6PdB"
@@ -20475,6 +20563,24 @@
     },
     {
       "album": {
+        "name": "Puhu pahaa",
+        "url": "https://open.spotify.com/album/3g7uT2PjCsbLGKMRkPSqpS"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175937,
+      "name": "Puhu pahaa",
+      "url": "https://open.spotify.com/track/2IyeoicUQBeF4YetQTPLtq"
+    },
+    {
+      "album": {
         "name": "Totuuksia popmusiikista",
         "url": "https://open.spotify.com/album/4hdTqUTms7IPrUtqqTJCru"
       },
@@ -21074,7 +21180,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 247426,
       "name": "Reiviluola",
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
@@ -22592,7 +22698,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 200599,
       "name": "shoppaa",
       "url": "https://open.spotify.com/track/2q4XiGEHnERJ428M3LyMQA"
@@ -24702,7 +24808,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -26710,6 +26816,24 @@
       "duration_ms": 202190,
       "name": "Valot (feat. Juno, LEO & V\u00e4in\u00f6v\u00e4in\u00f6)",
       "url": "https://open.spotify.com/track/18iiaxZxjQ31VqXX8IIbYb"
+    },
+    {
+      "album": {
+        "name": "valssi",
+        "url": "https://open.spotify.com/album/1j7eLPpFHkLVRVUzixG9si"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238271,
+      "name": "valssi",
+      "url": "https://open.spotify.com/track/5GR5xvz4wPJsyRyiksg4Rx"
     },
     {
       "album": {

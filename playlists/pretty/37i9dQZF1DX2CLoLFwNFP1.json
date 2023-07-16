@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 25602,
+  "num_followers": 25657,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWQyYTJiZGRjOTcwNTQwZTNmODc5MzI3YTYxMmU0YjliMzI4MDkw",
+  "snapshot_id": "MCxlMWNhMGE4ZDU1NGYyMzE1MzdiMjJhYjcyNmM1YWFlNWQ1YjY0NDM4",
   "tracks": [
     {
       "added_at": "2023-05-29 03:38:14",
@@ -1999,6 +1999,30 @@
     {
       "added_at": "2023-05-29 03:38:14",
       "album": {
+        "name": "REBORN",
+        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Boi B",
+          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
+        }
+      ],
+      "duration_ms": 235364,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
+    },
+    {
+      "added_at": "2023-05-29 03:38:14",
+      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -2027,26 +2051,18 @@
     {
       "added_at": "2023-05-29 03:38:14",
       "album": {
-        "name": "REBORN",
-        "url": "https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq"
+        "name": "The Road Less Traveled",
+        "url": "https://open.spotify.com/album/0CgsDZhPdu4n0TMkTFcCLl"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
-          "name": "Boi B",
-          "url": "https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5"
         }
       ],
-      "duration_ms": 235364,
-      "name": "REBORN",
-      "url": "https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ"
+      "duration_ms": 193746,
+      "name": "Feng Shui (Prod. by Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/5aZPGYGzyrVyy9oYAE9dPZ"
     },
     {
       "added_at": "2023-05-29 03:38:14",
@@ -2063,22 +2079,6 @@
       "duration_ms": 226156,
       "name": "I Got This",
       "url": "https://open.spotify.com/track/5IQhpdzUUxk3WngtnrXv2P"
-    },
-    {
-      "added_at": "2023-05-29 03:38:14",
-      "album": {
-        "name": "The Road Less Traveled",
-        "url": "https://open.spotify.com/album/0CgsDZhPdu4n0TMkTFcCLl"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 193746,
-      "name": "Feng Shui (Prod. by Cha Cha Malone)",
-      "url": "https://open.spotify.com/track/5aZPGYGzyrVyy9oYAE9dPZ"
     },
     {
       "added_at": "2023-05-29 03:38:14",

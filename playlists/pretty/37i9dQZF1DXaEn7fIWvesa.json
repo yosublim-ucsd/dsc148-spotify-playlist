@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con Descemer Bueno & Gente de Zona en portada.",
-  "num_followers": 31,
+  "num_followers": 85,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDJlMGY5MWJkZGU5ZTVhMGQ0OGNhNmVjNTBmZWVlZmU5MmI4Mzk4",
+  "snapshot_id": "MCxhODU5ODRiNzZiMjExZGM3ZTU3OGJlZjU1ZDAxOTdkOTdkMzI2ZDg2",
   "tracks": [
     {
       "added_at": "2023-07-13 22:08:14",
@@ -499,30 +499,6 @@
     {
       "added_at": "2023-07-13 22:08:14",
       "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
-    },
-    {
-      "added_at": "2023-07-13 22:08:14",
-      "album": {
         "name": "Southwezzzt",
         "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 187826,
       "name": "Southwezzzt",
       "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
+    },
+    {
+      "added_at": "2023-07-13 22:08:14",
+      "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
     },
     {
       "added_at": "2023-07-13 22:08:14",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-07-13 22:08:14",
       "album": {
+        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
+        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
+      },
+      "artists": [
+        {
+          "name": "Chocolate Mc",
+          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Guachineo",
+      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
+    },
+    {
+      "added_at": "2023-07-13 22:08:14",
+      "album": {
         "name": "Habla Matador",
         "url": "https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 163551,
       "name": "Habla Matador",
       "url": "https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v"
-    },
-    {
-      "added_at": "2023-07-13 22:08:14",
-      "album": {
-        "name": "GUACHINEO (Cubaton - Cuban Reggaeton 2015 - Lo Que Mas Suena En Cuba)",
-        "url": "https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc"
-      },
-      "artists": [
-        {
-          "name": "Chocolate Mc",
-          "url": "https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Guachineo",
-      "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
     },
     {
       "added_at": "2023-07-13 22:08:14",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-07-13 22:08:14",
       "album": {
+        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
+        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
+      },
+      "artists": [
+        {
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
+        }
+      ],
+      "duration_ms": 263263,
+      "name": "Eso Es Bola",
+      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
+    },
+    {
+      "added_at": "2023-07-13 22:08:14",
+      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 178213,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
-    },
-    {
-      "added_at": "2023-07-13 22:08:14",
-      "album": {
-        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
-        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
-      },
-      "artists": [
-        {
-          "name": "Los Desiguales",
-          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
-        }
-      ],
-      "duration_ms": 263263,
-      "name": "Eso Es Bola",
-      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
     },
     {
       "added_at": "2023-07-13 22:08:14",

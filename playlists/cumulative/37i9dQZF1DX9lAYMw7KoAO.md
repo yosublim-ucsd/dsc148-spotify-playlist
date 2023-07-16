@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=gLb6cyBLTFu8t8OTNe2o8w">Sunmisola Agbebi</a>
 
-303 songs - 1 day 4 hr 4 min
+304 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Product of Grace](https://open.spotify.com/track/32HuC8zZHlhPrSxuZs6fKT) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Flavour of Africa](https://open.spotify.com/album/4D0ryhrcpymr7pnl0jhVH3) | 3:54 | 2020-12-03 | 2022-03-11 |
 | [Protect Me \- Remix](https://open.spotify.com/track/20th9lVZbXyTiTDbZiSUFg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Protect Me \(Remix\)](https://open.spotify.com/album/20AYZPowMzmL2D6Cuev0I9) | 2:44 | 2023-06-16 | 2023-06-21 |
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-04-07 |  |
-| [READY FOR JESUS](https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2) | 5:45 | 2023-06-23 |  |
+| [READY FOR JESUS](https://open.spotify.com/track/1Y16kJN8bjBYA1xyHYKltB) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/7tQF9Dq3bfWYs3DPplMpTv) | 5:45 | 2023-06-23 |  |
+| [READY FOR JESUS](https://open.spotify.com/track/42xsTd686qxfLCAVjGx1yH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Victory Dance](https://open.spotify.com/album/75cmhDMxWZ1paVsLn7jbJ2) | 5:45 | 2023-06-23 | 2023-07-16 |
 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 | 2023-04-14 | 2023-06-23 |
 | [Redeemed](https://open.spotify.com/track/1dD7d9b5MAQmXF8VFz1Wg4) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Redeemed](https://open.spotify.com/album/2TQAEowNtL8o02td6MQRTw) | 4:03 | 2023-06-30 | 2023-07-14 |
 | [Rollin'](https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Rollin'](https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN) | 3:18 | 2023-01-31 | 2023-04-21 |

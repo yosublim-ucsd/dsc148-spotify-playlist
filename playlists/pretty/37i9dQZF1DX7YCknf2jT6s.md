@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubya Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,135 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,264 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 20 | [Sal Al Malecón](https://open.spotify.com/track/4r4pcD6Q0TK5MSfhJ6W16Z) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [Sal Al Malecón](https://open.spotify.com/album/1ybjgopLYNB9XbJBKRF8JS) | 3:06 |
 | 21 | [I Can Say To You \[Feat\. Vanisha Gould\] \- Single Edit](https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [I Can Say To You \[Feat\. Vanisha Gould\]](https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC) | 3:37 |
 | 22 | [Retro Back Summer Action](https://open.spotify.com/track/6AKBzcm7FhGSBWGloW8PIr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Retro Back Summer Action](https://open.spotify.com/album/2T7ZXlKJvux74171KivHr2) | 4:18 |
-| 23 | [Something I'm Used To](https://open.spotify.com/track/2OauEKv545mlx6Rz43ZS5Z) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/153pOsWc9b2jb4g3fyUxUK) | 1:10 |
+| 23 | [Something I'm Used To](https://open.spotify.com/track/0WPOVQw06XqsWGjDF2mdTj) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 1:10 |
 | 24 | [Look To The Hills](https://open.spotify.com/track/6bfiCXTdEJBTskKdTfqzcj) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Kings Highway](https://open.spotify.com/album/6lenF7EOgaIQ9a1BQZRxac) | 4:20 |
 | 25 | [Did You Know](https://open.spotify.com/track/79boh9EDpwEBn8Lww0qWNE) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF), [MettaShiba](https://open.spotify.com/artist/1fRxTfGjdgL2dwpqyaQUdy) | [Did You Know](https://open.spotify.com/album/5NE5pwqeHNLe3w12T6Gxc3) | 3:54 |
 | 26 | [Soft Serve](https://open.spotify.com/track/3MhVV9TSWpsm7AdO0a0ZF7) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Soft Serve](https://open.spotify.com/album/0CcbsdZercsXGdQEn2VZjy) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Jib Set](https://open.spotify.com/track/3h1Pl7YeuxQcwyoa0AR4LW) | [Daniel Hersog Jazz Orchestra](https://open.spotify.com/artist/4kw8f5dfYQrxXDJbKnTYXy), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Noah Preminger](https://open.spotify.com/artist/2WUAJpHBpYwRyY17woH3f0) | [Open Spaces \(Folk Songs Reimagined\)](https://open.spotify.com/album/1GR2qWrFdhwTK0BDg77ci0) | 8:27 |
 | 100 | [Contes de la nuit](https://open.spotify.com/track/2CuMHRqxncgEAGF5qaajHh) | [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Uèle Lamore & Theo Croker](https://open.spotify.com/album/3gjvzlYi5RBpptiEZ0md6e) | 3:34 |
 
-Snapshot ID: `MCw3MTQzMTczMDRkYmYzOWQzZmQ3MjBlZjk2NTg4MmUyYzhiMTM5YTIx`
+Snapshot ID: `MCxmZmM3YjdhOTQ3ZTFmZmM2YWFhZjU5YTc5MDQ1OWQxNzBmZTM0YmZk`

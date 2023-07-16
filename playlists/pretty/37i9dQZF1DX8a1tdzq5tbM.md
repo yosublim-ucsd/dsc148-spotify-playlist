@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,378,681 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,379,297 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 15 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 |
 | 16 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:44 |
 | 17 | [Satisfaction \- Isak Original Extended](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 |
-| 18 | [Release Me](https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Dance Love Pop \(The Love Love Love Edition\)](https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA) | 4:16 |
-| 19 | [Heaven](https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Yanou](https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Heaven](https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR) | 3:53 |
+| 18 | [Heaven](https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf) | [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT), [Yanou](https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Heaven](https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR) | 3:53 |
+| 19 | [Release Me](https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Dance Love Pop \(The Love Love Love Edition\)](https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA) | 4:16 |
 | 20 | [Sun Is Up](https://open.spotify.com/track/1TtteYFQeZfSU8AmfIAOvu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am the Club Rocker](https://open.spotify.com/album/7LUW42pRwoFJV3bIFeliVJ) | 3:44 |
 | 21 | [Love Is Gone \- Fred Riester & Joachim Garraud Radio Edit Remix](https://open.spotify.com/track/2MGRnjJc7C0z3EOEWRqcMw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly), [Fred Riester](https://open.spotify.com/artist/26wzW8jdKfy5i8U7kGmGbE), [Joachim Garraud](https://open.spotify.com/artist/4EhiIwwMPecLznwn87sRw2) | [Pop Life](https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG) | 3:19 |
 | 22 | [Changed the Way You Kiss Me \- Radio Edit](https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Playing In The Shadows](https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN) | 3:15 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 119 | [Awaken \- Ron Reeser & Dan Saenz Radio Edit](https://open.spotify.com/track/6XWIwu69Yu7BwQJzDajYRY) | [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Ron Reeser](https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY), [Dan Saenz](https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8) | [Awaken \(Part 2\)](https://open.spotify.com/album/00CaQlX78h86BkRvuUnAnT) | 3:44 |
 | 120 | [Me and Myself \(Wolfgang Gartner Radio Edit\)](https://open.spotify.com/track/21fPlFtUrk3RM1ePhFlKeV) | [Bendj Feat Sushy](https://open.spotify.com/artist/6CFrLs7iVETKZ1IZCSUOgU) | [Nervous Rewind 2008](https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE) | 2:52 |
 
-Snapshot ID: `MCxlZjgzMjhmNDc3ODI5Nzk3OWE2OTU4OTlhODkyNTFkMGY4MTQxZTM2`
+Snapshot ID: `MCxhMmNiYWQzOTJiNzBmYThiNTYyZmEwODcyN2E4OGYwNjIzMjk2ZGY2`

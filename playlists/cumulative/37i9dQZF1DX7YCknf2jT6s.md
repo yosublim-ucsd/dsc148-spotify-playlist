@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Nubya Garcia
 
-991 songs - 3 day 7 hr 57 min
+992 songs - 3 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -739,7 +739,8 @@
 | [Sombra Bajo El Limero](https://open.spotify.com/track/1ETV3x7A3sYplEfLnbpfao) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Sombra Bajo El Limero](https://open.spotify.com/album/1l2pU8jmFRH9TsgF8H64UX) | 3:02 | 2022-09-02 | 2022-10-01 |
 | [Someday We'll Fly](https://open.spotify.com/track/4k98hsTy9dAhsckyUAQa0u) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Universal Language \-Self Translation\-](https://open.spotify.com/album/0P1EngtSVs7KhUBFMqSzKm) | 8:24 | 2022-03-25 | 2022-05-28 |
 | [Something Different](https://open.spotify.com/track/0XXttZ96n3vgEI7JTrFfyn) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2) | [Something Different](https://open.spotify.com/album/0L4P68fgMmbTrUeNI75yDK) | 1:37 | 2023-01-27 | 2023-04-22 |
-| [Something I'm Used To](https://open.spotify.com/track/2OauEKv545mlx6Rz43ZS5Z) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/153pOsWc9b2jb4g3fyUxUK) | 1:10 | 2023-07-07 |  |
+| [Something I'm Used To](https://open.spotify.com/track/0WPOVQw06XqsWGjDF2mdTj) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 1:10 | 2023-07-07 |  |
+| [Something I'm Used To](https://open.spotify.com/track/2OauEKv545mlx6Rz43ZS5Z) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/153pOsWc9b2jb4g3fyUxUK) | 1:10 | 2023-07-07 | 2023-07-16 |
 | [Something Tomorrow](https://open.spotify.com/track/6il16WIBZGRYEJ5sqpYoVY) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K) | [Something Tomorrow](https://open.spotify.com/album/2MDgqeWW7IJot1PPNKN2at) | 3:17 | 2022-05-06 | 2022-07-23 |
 | [Something's Going On](https://open.spotify.com/track/3bRqljHPbtPEDaM2bL1JML) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Something's Going On](https://open.spotify.com/album/6KYX5imbTj5YxXqhwa9WSl) | 5:12 | 2022-02-10 | 2022-03-18 |
 | [Song To An Old Friend](https://open.spotify.com/track/456KdVK2lZh5ngKyxvFpfg) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Song To An Old Friend](https://open.spotify.com/album/4x86WkNb7br5HVPasAkRWH) | 6:09 | 2022-10-07 | 2022-10-22 |

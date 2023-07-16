@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 248000,
       "name": "Baby a Benzo",
       "url": "https://open.spotify.com/track/2wPph50bF6qHnXgruVKHm8"
@@ -6948,7 +6948,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -11712,7 +11712,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -14669,6 +14669,28 @@
     },
     {
       "album": {
+        "name": "POTICHU",
+        "url": "https://open.spotify.com/album/76viBFmssZVVtXXr64MiIO"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103948,
+      "name": "POTICHU",
+      "url": "https://open.spotify.com/track/7JfbcSGZeECCrUcdv7v71W"
+    },
+    {
+      "album": {
         "name": "Finesa",
         "url": "https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q"
       },
@@ -15920,7 +15942,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "RUMCAJS MILOVAL MANKU",
       "url": "https://open.spotify.com/track/5zvHNxwHeLzp1bYV2srOj4"
@@ -16050,7 +16072,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 255000,
       "name": "R\u016f\u017ee",
       "url": "https://open.spotify.com/track/54H0xbH1zRSpIooA56rHva"
@@ -16502,6 +16524,28 @@
       "duration_ms": 201200,
       "name": "Setk\u00e1n\u00ed",
       "url": "https://open.spotify.com/track/3WNUWogfeyoj5iNFLsUzjO"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "album": {
@@ -18888,7 +18932,7 @@
       ],
       "date_added": "2021-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 198801,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/5op1X8TfWNUmJnwRzCQ3qL"

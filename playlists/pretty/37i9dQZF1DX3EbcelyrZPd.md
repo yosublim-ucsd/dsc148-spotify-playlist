@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Jux & Diamond Platnumz
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,735 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,869 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 |
 | 70 | [Chargie](https://open.spotify.com/track/2NiQLNa8zNji6hC0FagTDV) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Chargie](https://open.spotify.com/album/0UR1Tq0IKaA72XzuuG4lrt) | 2:44 |
 
-Snapshot ID: `MCw0ZDFiMDE2ZTIxMjgwYWU2Mzk5OWI2YjAyZjIxYjgwMWI2YTk5MmIw`
+Snapshot ID: `MCwzOGY2YmMzYmViNTY0ZDhlNmZiZjc1NDE2YWViYTc4OTBlOTRmMjdh`

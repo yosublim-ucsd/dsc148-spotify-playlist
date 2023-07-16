@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with \"uh\" on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 109318,
+  "num_followers": 109351,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTFjNzU3NTNiZDc3MWYzNDdhYTgyMDFjM2FlN2VmOTkxMTIxMmJh",
+  "snapshot_id": "MCw4NmE4MTNjNjA4ZjcyNzExOGJlZmQ3MTI1NTlhMGZmYmNlMjc2ZjVl",
   "tracks": [
     {
       "added_at": "2023-06-28 01:00:55",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/4w1loRCD8PBarpXj5v0Ugu"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
-        "name": "\u4f4e\u7a7a",
-        "url": "https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "\u4f4e\u7a7a",
-      "url": "https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc"
-    },
-    {
       "added_at": "2023-05-24 14:03:48",
       "album": {
         "name": "Calamity",
@@ -403,6 +387,22 @@
       "duration_ms": 183272,
       "name": "Calamity",
       "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "\u4f4e\u7a7a",
+        "url": "https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "\u4f4e\u7a7a",
+      "url": "https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/4IR3cnPkfz04XwJhhvD3fS"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Boy Meets the World",
-        "url": "https://open.spotify.com/album/4YHVuICEvNju4zdPen0Zkz"
-      },
-      "artists": [
-        {
-          "name": "eyeto8",
-          "url": "https://open.spotify.com/artist/15rf7Do7PBp5yWuQqttDqN"
-        }
-      ],
-      "duration_ms": 320052,
-      "name": "Sound of Time Passing",
-      "url": "https://open.spotify.com/track/47vbsKovGoXnwZIkLgRDCf"
-    },
-    {
       "added_at": "2023-04-05 14:48:06",
       "album": {
         "name": "Green-Yellow Field",
@@ -483,6 +467,22 @@
       "duration_ms": 150000,
       "name": "Green-Yellow Field",
       "url": "https://open.spotify.com/track/0ZX5GDnY4cmcLEtUmVd0GF"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Boy Meets the World",
+        "url": "https://open.spotify.com/album/4YHVuICEvNju4zdPen0Zkz"
+      },
+      "artists": [
+        {
+          "name": "eyeto8",
+          "url": "https://open.spotify.com/artist/15rf7Do7PBp5yWuQqttDqN"
+        }
+      ],
+      "duration_ms": 320052,
+      "name": "Sound of Time Passing",
+      "url": "https://open.spotify.com/track/47vbsKovGoXnwZIkLgRDCf"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
     },
     {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Supply And Demand",
+        "url": "https://open.spotify.com/album/4cd90meQCjt3s4RGjysTfC"
+      },
+      "artists": [
+        {
+          "name": "Mercury 200",
+          "url": "https://open.spotify.com/artist/6nJuuMfCnLUNZVolVeFAVJ"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Digital Requiem",
+      "url": "https://open.spotify.com/track/1YwbIMhNRGnmZus0kOMxyE"
+    },
+    {
       "added_at": "2023-04-05 14:48:06",
       "album": {
         "name": "Resonant Harmony",
@@ -535,22 +551,6 @@
       "duration_ms": 282000,
       "name": "Resonant Harmony",
       "url": "https://open.spotify.com/track/5uYZcf4f2BlM75nk5xZSD9"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Supply And Demand",
-        "url": "https://open.spotify.com/album/4cd90meQCjt3s4RGjysTfC"
-      },
-      "artists": [
-        {
-          "name": "Mercury 200",
-          "url": "https://open.spotify.com/artist/6nJuuMfCnLUNZVolVeFAVJ"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Digital Requiem",
-      "url": "https://open.spotify.com/track/1YwbIMhNRGnmZus0kOMxyE"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX"
-      },
-      "artists": [
-        {
-          "name": "Gardika Gigih",
-          "url": "https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
-    },
-    {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
         "name": "1800-PARASOL",
         "url": "https://open.spotify.com/album/7eRcIoexZgmX24i26Xv55v"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 103854,
       "name": "Jitterbug",
       "url": "https://open.spotify.com/track/34YfqnWvaGpbH4SE7zgohN"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX"
+      },
+      "artists": [
+        {
+          "name": "Gardika Gigih",
+          "url": "https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Songs for the Nervous System",
-        "url": "https://open.spotify.com/album/6IpmBV14U1lqJRUx0yuuvp"
-      },
-      "artists": [
-        {
-          "name": "AUTORHYTHM",
-          "url": "https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Doom Variations",
-      "url": "https://open.spotify.com/track/7tmTrHPf9ABDb5jxTvxNvj"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
         "name": "The Shovel is a Shovel was a Shovel",
         "url": "https://open.spotify.com/album/2hEZew1ltaTVERefi0yivB"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Telescopic",
-        "url": "https://open.spotify.com/album/0mGyotENzkz4CobvOxpklO"
+        "name": "Songs for the Nervous System",
+        "url": "https://open.spotify.com/album/6IpmBV14U1lqJRUx0yuuvp"
       },
       "artists": [
         {
-          "name": "Jace Mek",
-          "url": "https://open.spotify.com/artist/67dClEyrx8SQ6gqe7r8PR4"
+          "name": "AUTORHYTHM",
+          "url": "https://open.spotify.com/artist/0BWEJ23wABuFbWXCdA0j5k"
         }
       ],
-      "duration_ms": 267274,
-      "name": "Telescopic",
-      "url": "https://open.spotify.com/track/1flWZ6yw5R4KuFEimGusPx"
+      "duration_ms": 224400,
+      "name": "Doom Variations",
+      "url": "https://open.spotify.com/track/7tmTrHPf9ABDb5jxTvxNvj"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Tomorrows Unknown",
-        "url": "https://open.spotify.com/album/70LI1s0gEfqf7i8dSCJ4it"
+        "name": "Telescopic",
+        "url": "https://open.spotify.com/album/0mGyotENzkz4CobvOxpklO"
       },
       "artists": [
         {
-          "name": "Dreams on Tape",
-          "url": "https://open.spotify.com/artist/0AFGPuSQHul71WUKnoUUhy"
+          "name": "Jace Mek",
+          "url": "https://open.spotify.com/artist/67dClEyrx8SQ6gqe7r8PR4"
         }
       ],
-      "duration_ms": 73846,
-      "name": "Takeoff",
-      "url": "https://open.spotify.com/track/072b7ds1xZeK4XmJliEwoe"
+      "duration_ms": 267274,
+      "name": "Telescopic",
+      "url": "https://open.spotify.com/track/1flWZ6yw5R4KuFEimGusPx"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -843,6 +827,38 @@
       "duration_ms": 264266,
       "name": "Boundless Baby",
       "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Tomorrows Unknown",
+        "url": "https://open.spotify.com/album/70LI1s0gEfqf7i8dSCJ4it"
+      },
+      "artists": [
+        {
+          "name": "Dreams on Tape",
+          "url": "https://open.spotify.com/artist/0AFGPuSQHul71WUKnoUUhy"
+        }
+      ],
+      "duration_ms": 73846,
+      "name": "Takeoff",
+      "url": "https://open.spotify.com/track/072b7ds1xZeK4XmJliEwoe"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Siro Silo",
+        "url": "https://open.spotify.com/album/5Sl86p5foB6RvuCjrYuYVN"
+      },
+      "artists": [
+        {
+          "name": "Yushh",
+          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
+        }
+      ],
+      "duration_ms": 293333,
+      "name": "Siro Silo",
+      "url": "https://open.spotify.com/track/1etzoaNUN5fNQGTMeHRtXZ"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -907,22 +923,6 @@
       "duration_ms": 186893,
       "name": "Silk",
       "url": "https://open.spotify.com/track/5kHqQlsKIyOOIZcWIOSoSS"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Siro Silo",
-        "url": "https://open.spotify.com/album/5Sl86p5foB6RvuCjrYuYVN"
-      },
-      "artists": [
-        {
-          "name": "Yushh",
-          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
-        }
-      ],
-      "duration_ms": 293333,
-      "name": "Siro Silo",
-      "url": "https://open.spotify.com/track/1etzoaNUN5fNQGTMeHRtXZ"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
     },
     {
+      "added_at": "2023-06-07 04:04:27",
+      "album": {
+        "name": "Outbound 5.1",
+        "url": "https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc"
+      },
+      "artists": [
+        {
+          "name": "Julian Stetter",
+          "url": "https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj"
+        }
+      ],
+      "duration_ms": 436890,
+      "name": "Bear",
+      "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
+    },
+    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Why Not Now?",
@@ -1181,20 +1197,20 @@
       "url": "https://open.spotify.com/track/234LkCmcEYvr2uqqp2IMtV"
     },
     {
-      "added_at": "2023-06-07 04:04:27",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Outbound 5.1",
-        "url": "https://open.spotify.com/album/4AeXlrnJDR4YsA1ympQRdc"
+        "name": "Until I'm Light",
+        "url": "https://open.spotify.com/album/6EdmJejASZ2HHVOs2NFanB"
       },
       "artists": [
         {
-          "name": "Julian Stetter",
-          "url": "https://open.spotify.com/artist/5LItxzjKC2W1nRnxGflkkj"
+          "name": "Felt Out",
+          "url": "https://open.spotify.com/artist/44tHklTOiPRFr70wX7iXDd"
         }
       ],
-      "duration_ms": 436890,
-      "name": "Bear",
-      "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
+      "duration_ms": 266295,
+      "name": "Edge",
+      "url": "https://open.spotify.com/track/2lGo0f6r89vi5vGMrnT64G"
     },
     {
       "added_at": "2023-04-05 14:48:06",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Until I'm Light",
-        "url": "https://open.spotify.com/album/6EdmJejASZ2HHVOs2NFanB"
-      },
-      "artists": [
-        {
-          "name": "Felt Out",
-          "url": "https://open.spotify.com/artist/44tHklTOiPRFr70wX7iXDd"
-        }
-      ],
-      "duration_ms": 266295,
-      "name": "Edge",
-      "url": "https://open.spotify.com/track/2lGo0f6r89vi5vGMrnT64G"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
         "name": "Arcana",
         "url": "https://open.spotify.com/album/3HiVqvsGXB89FmpDrYgjVQ"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 286567,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/7jGVJ158M8zwnF19IEnLOl"
-    },
-    {
-      "added_at": "2023-04-05 14:48:06",
-      "album": {
-        "name": "The Lost Art of Alchemy",
-        "url": "https://open.spotify.com/album/1ETrcmavTPN4Scb7eOe99q"
-      },
-      "artists": [
-        {
-          "name": "Hollowheart.",
-          "url": "https://open.spotify.com/artist/1HXnnIVmRjEzAYCEFv50mm"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Hohenheim",
-      "url": "https://open.spotify.com/track/5jPcRE5WXJqu7eBIr5Fb4D"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1277,20 +1261,20 @@
       "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
+      "added_at": "2023-04-05 14:48:06",
       "album": {
-        "name": "as we once were",
-        "url": "https://open.spotify.com/album/6OAvCoDlYGxpgWMeKaHU0Q"
+        "name": "The Lost Art of Alchemy",
+        "url": "https://open.spotify.com/album/1ETrcmavTPN4Scb7eOe99q"
       },
       "artists": [
         {
-          "name": "Inflake",
-          "url": "https://open.spotify.com/artist/2ePcWiaPCxh8F6aX4TBnLs"
+          "name": "Hollowheart.",
+          "url": "https://open.spotify.com/artist/1HXnnIVmRjEzAYCEFv50mm"
         }
       ],
-      "duration_ms": 156625,
-      "name": "Soundtrack to a Life",
-      "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
+      "duration_ms": 87000,
+      "name": "Hohenheim",
+      "url": "https://open.spotify.com/track/5jPcRE5WXJqu7eBIr5Fb4D"
     },
     {
       "added_at": "2023-05-17 15:25:53",
@@ -1323,6 +1307,22 @@
       "duration_ms": 237609,
       "name": "Arsu",
       "url": "https://open.spotify.com/track/4XI2kOrj1rHEO3GBjEkObS"
+    },
+    {
+      "added_at": "2023-05-17 15:25:53",
+      "album": {
+        "name": "as we once were",
+        "url": "https://open.spotify.com/album/6OAvCoDlYGxpgWMeKaHU0Q"
+      },
+      "artists": [
+        {
+          "name": "Inflake",
+          "url": "https://open.spotify.com/artist/2ePcWiaPCxh8F6aX4TBnLs"
+        }
+      ],
+      "duration_ms": 156625,
+      "name": "Soundtrack to a Life",
+      "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
     },
     {
       "added_at": "2023-04-05 14:48:06",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
+        "name": "Passivity Trap",
+        "url": "https://open.spotify.com/album/45yOf3A1akq6MNHbcRY9ST"
+      },
+      "artists": [
+        {
+          "name": "Fiesta Soundsystem",
+          "url": "https://open.spotify.com/artist/2TlwHEsnBHNYIQsp3nDReB"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Passivity Trap",
+      "url": "https://open.spotify.com/track/0WE5WXXXF4rm3dzE7DnfFE"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
         "name": "The Rope of Taming",
         "url": "https://open.spotify.com/album/5h3ynobd8Doj4p5VwAsEpZ"
       },
@@ -1389,22 +1405,6 @@
       "url": "https://open.spotify.com/track/2IIA0q9fPM5yn5W4nRe6Xb"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Passivity Trap",
-        "url": "https://open.spotify.com/album/45yOf3A1akq6MNHbcRY9ST"
-      },
-      "artists": [
-        {
-          "name": "Fiesta Soundsystem",
-          "url": "https://open.spotify.com/artist/2TlwHEsnBHNYIQsp3nDReB"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Passivity Trap",
-      "url": "https://open.spotify.com/track/0WE5WXXXF4rm3dzE7DnfFE"
-    },
-    {
       "added_at": "2023-04-05 14:48:06",
       "album": {
         "name": "Sewn the Name",
@@ -1421,20 +1421,20 @@
       "url": "https://open.spotify.com/track/0XCo3H0hJHWpxzvCQMLGLT"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
+      "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Trama EP",
-        "url": "https://open.spotify.com/album/2GbymWEmHDAOff10l882Iq"
+        "name": "Brilla",
+        "url": "https://open.spotify.com/album/623E6rKk3eE10G41w99V3U"
       },
       "artists": [
         {
-          "name": "Tiello",
-          "url": "https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl"
+          "name": "So Beast",
+          "url": "https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE"
         }
       ],
-      "duration_ms": 328440,
-      "name": "Though",
-      "url": "https://open.spotify.com/track/2A1j7HEHpSqNXYDL0d3rps"
+      "duration_ms": 254253,
+      "name": "DARK",
+      "url": "https://open.spotify.com/track/3ErVJHF0CoceG6jNpucblR"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1453,20 +1453,20 @@
       "url": "https://open.spotify.com/track/0DvVhJBvKCRKXVPmaUUnhQ"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "Brilla",
-        "url": "https://open.spotify.com/album/623E6rKk3eE10G41w99V3U"
+        "name": "Trama EP",
+        "url": "https://open.spotify.com/album/2GbymWEmHDAOff10l882Iq"
       },
       "artists": [
         {
-          "name": "So Beast",
-          "url": "https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE"
+          "name": "Tiello",
+          "url": "https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl"
         }
       ],
-      "duration_ms": 254253,
-      "name": "DARK",
-      "url": "https://open.spotify.com/track/3ErVJHF0CoceG6jNpucblR"
+      "duration_ms": 328440,
+      "name": "Though",
+      "url": "https://open.spotify.com/track/2A1j7HEHpSqNXYDL0d3rps"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/06WxpNhlcee8LxTzumrR2B"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "Onwards",
-        "url": "https://open.spotify.com/album/376lSzakQ49opuRjoAhLig"
-      },
-      "artists": [
-        {
-          "name": "Nu Shaydz",
-          "url": "https://open.spotify.com/artist/01z2FdyqeO53hdivv1qWIm"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "New Challenges",
-      "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
-    },
-    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "All The Sad And Loving People",
@@ -1547,6 +1531,22 @@
       "duration_ms": 342608,
       "name": "All The Sad And Loving People - Single Version",
       "url": "https://open.spotify.com/track/1DHKUxf15ms7MEXfAmbzAx"
+    },
+    {
+      "added_at": "2023-05-17 15:25:53",
+      "album": {
+        "name": "Onwards",
+        "url": "https://open.spotify.com/album/376lSzakQ49opuRjoAhLig"
+      },
+      "artists": [
+        {
+          "name": "Nu Shaydz",
+          "url": "https://open.spotify.com/artist/01z2FdyqeO53hdivv1qWIm"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "New Challenges",
+      "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
     },
     {
       "added_at": "2023-05-24 14:03:48",

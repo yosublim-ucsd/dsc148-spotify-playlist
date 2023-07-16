@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites Cover: Dan Tyminski
 
-448 songs - 1 day 2 hr 58 min
+449 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,8 @@
 | [Heartbreak Train](https://open.spotify.com/track/205hhygYfVJ4gUXu54lUyQ) | [Caroline Owens](https://open.spotify.com/artist/5cz6yza4UO8jUweDYxKakE) | [Heartbreak Train](https://open.spotify.com/album/3eUKVLMOhOOLvyvffz7vY0) | 2:40 | 2023-03-03 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 | 2023-03-31 | 2023-05-16 |
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-08-26 | 2023-04-06 |
-| [Hey Brother](https://open.spotify.com/track/1PJyFJkbpzost4QjRaa01J) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Hey Brother](https://open.spotify.com/album/6rtyoioVowLfAh1PvoKtdU) | 4:22 | 2023-04-21 |  |
+| [Hey Brother](https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [God Fearing Heathen](https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu) | 4:22 | 2023-07-14 |  |
+| [Hey Brother](https://open.spotify.com/track/1PJyFJkbpzost4QjRaa01J) | [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Hey Brother](https://open.spotify.com/album/6rtyoioVowLfAh1PvoKtdU) | 4:22 | 2023-04-21 | 2023-07-16 |
 | [Heyday](https://open.spotify.com/track/1VjEPwSwv5sfnnXQYEmb8d) | [Lonesome River Band](https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU) | [Heyday](https://open.spotify.com/album/1Eu92OK3vZNOGIqyTS1Xl2) | 3:08 | 2022-07-22 | 2022-07-29 |
 | [High Lonesome Sound](https://open.spotify.com/track/2sxZLyHEvNGXcNbVpOUOXF) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Tall Fiddler](https://open.spotify.com/album/1fo7fjWxKNcQ5FPX43oJFX) | 3:36 | 2021-12-17 | 2022-07-29 |
 | [Highway of Love](https://open.spotify.com/track/0Zn4LyOByD6hUVoIBdGvfO) | [Dalton Harper](https://open.spotify.com/artist/3U4vzhdX7prKmPTNNv6jet) | [Highway of Love](https://open.spotify.com/album/6cW3x9AoHibtZFc1tGBwe5) | 2:31 | 2023-03-31 | 2023-04-22 |

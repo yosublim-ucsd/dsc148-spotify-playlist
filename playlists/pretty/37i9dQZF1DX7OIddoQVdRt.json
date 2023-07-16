@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: The hosts of this year's <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards</a> , <a href=\"https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7\">Tasha Cobbs Leonard</a>  and <a href=\"https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a\">Jonathan McReynolds</a>",
-  "num_followers": 623460,
+  "num_followers": 623577,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mjk0YTY0NmY2NGI4OTVlNzc5NmRhYWIwMjU0ZmM1MGI5ZGUzOTMx",
+  "snapshot_id": "MCxjM2JiY2M2YWY0YTgzODMyNTJkNTM5NmEyMDQ0MmYyYjE0ZmUwMGFi",
   "tracks": [
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
+        "name": "WOW Gospel 2016",
+        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Already Getting Better",
+      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
         "name": "Movin' On",
         "url": "https://open.spotify.com/album/3VMVyCKspZA2gbmzNol02g"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 228340,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/4qduSkpBMLjxLseOLN28kv"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
-        "name": "WOW Gospel 2016",
-        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Already Getting Better",
-      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
     },
     {
       "added_at": "2023-07-13 07:23:22",

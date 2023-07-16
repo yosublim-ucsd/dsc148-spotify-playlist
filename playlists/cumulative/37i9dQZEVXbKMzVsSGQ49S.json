@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/7yvLky67SVpg4gpg3XTO4T"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159007,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/7n4nWn7WrXkLtjkeK8s2ix"
+    },
+    {
+      "album": {
         "name": "All My Life (feat. J. Cole)",
         "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -4224,7 +4242,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -12086,7 +12104,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 166635,
       "name": "Jump",
       "url": "https://open.spotify.com/track/287wLomHWpbllx9eIcVIWz"
@@ -17625,6 +17643,24 @@
     },
     {
       "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -18234,6 +18270,24 @@
       "duration_ms": 117797,
       "name": "Playa Shii (feat. Birnir)",
       "url": "https://open.spotify.com/track/5hpRJlBRsbSkI8yTS76Hr6"
+    },
+    {
+      "album": {
+        "name": "PLAYAR EKKI DJ\u00d6FULINN",
+        "url": "https://open.spotify.com/album/6nc2KT1dk6Unl7aqfoq0po"
+      },
+      "artists": [
+        {
+          "name": "Natan Berg",
+          "url": "https://open.spotify.com/artist/3MFSybOV5Ia5yWSBM1aPXx"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "PLAYAR EKKI DJ\u00d6FULINN",
+      "url": "https://open.spotify.com/track/0CGlijvpXFHyuUOwJp5h1x"
     },
     {
       "album": {
@@ -20376,6 +20430,28 @@
       "duration_ms": 179439,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "album": {
@@ -23958,7 +24034,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 221954,
       "name": "Tracing Sidewalks",
       "url": "https://open.spotify.com/track/4kG8gi2HdIEYV5zpgYAmXb"
@@ -24086,7 +24162,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 123820,
       "name": "Triple Cross",
       "url": "https://open.spotify.com/track/2GhB6rXqqjyq9HAmFm5DId"
@@ -24964,7 +25040,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -25514,6 +25590,24 @@
       "duration_ms": 179426,
       "name": "What Else Can I Do?",
       "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "album": {
@@ -27100,6 +27194,32 @@
       "duration_ms": 181000,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM"
+    },
+    {
+      "album": {
+        "name": "\u00cd Dalinn",
+        "url": "https://open.spotify.com/album/2VM3aFcpV3ZXfElaNMmMYX"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        },
+        {
+          "name": "asgeirorri",
+          "url": "https://open.spotify.com/artist/0vIprEENwQ2MWbAQmlY1cZ"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161571,
+      "name": "\u00cd Dalinn",
+      "url": "https://open.spotify.com/track/00bwkIr9LCVypQSBvVX2H0"
     },
     {
       "album": {

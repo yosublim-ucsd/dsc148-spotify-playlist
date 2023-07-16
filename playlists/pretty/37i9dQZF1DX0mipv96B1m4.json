@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 664,
+  "num_followers": 666,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjEyMWNjN2I2NDQ3ZWZlNzE4Zjc3YjdiMTFmNWM1NzIwNGUyNGYx",
+  "snapshot_id": "MCxhM2IzZjk3ZGIyYmRlMjEzOGFiMWE3OGJiMzQ2ZDU0NTgzZTZkYjM0",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
     },
     {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Tupaate",
+        "url": "https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "Wakikuba",
+      "url": "https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ"
+    },
+    {
       "added_at": "2022-05-27 05:48:37",
       "album": {
         "name": "Star Gal",
@@ -339,22 +355,6 @@
       "duration_ms": 218823,
       "name": "Edoboozi Lyo",
       "url": "https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Tupaate",
-        "url": "https://open.spotify.com/album/620WTwKmwqIKJkIIVlqsyg"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165250,
-      "name": "Wakikuba",
-      "url": "https://open.spotify.com/track/5IOi5igNjfgKPDkwYTUJXZ"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -649,6 +649,22 @@
       "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
     },
     {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "We Can",
@@ -695,22 +711,6 @@
       "duration_ms": 282215,
       "name": "DanceHall",
       "url": "https://open.spotify.com/track/6P8VucWdTtvHu5VOp5RW1k"
-    },
-    {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        }
-      ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2022-07-29 06:06:22",
@@ -823,22 +823,26 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
+        "name": "Nothing to Something",
+        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
       },
       "artists": [
         {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
         },
         {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        },
+        {
+          "name": "Sumi Crazy",
+          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
         }
       ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
+      "duration_ms": 218400,
+      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
+      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
     },
     {
       "added_at": "2022-03-31 17:42:20",
@@ -867,62 +871,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nothing to Something",
-        "url": "https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv"
+        "name": "Misege",
+        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
       },
       "artists": [
         {
-          "name": "DJ Shiru",
-          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+          "name": "Dax Vibez",
+          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
         },
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        },
-        {
-          "name": "Sumi Crazy",
-          "url": "https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB"
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Wi Di Best (feat. Bebe Cool & Sumi Crazy)",
-      "url": "https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Kiriza Rmx",
-        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Kiriza Rmx",
-      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
-    },
-    {
-      "added_at": "2022-08-19 12:56:03",
-      "album": {
-        "name": "Boss Lady",
-        "url": "https://open.spotify.com/album/0oVXkcJZptVuTZZRFaEbqI"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 178808,
-      "name": "Boss Lady",
-      "url": "https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG"
+      "duration_ms": 188235,
+      "name": "Misege",
+      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     },
     {
       "added_at": "2023-01-20 05:09:22",
@@ -945,6 +909,42 @@
       "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
+      "added_at": "2022-08-19 12:56:03",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/0oVXkcJZptVuTZZRFaEbqI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178808,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/7prPv7oczw7wVWxO1hQZMG"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Kiriza Rmx",
+        "url": "https://open.spotify.com/album/5WLHEoba9VjkYusf0zaE0F"
+      },
+      "artists": [
+        {
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Kiriza Rmx",
+      "url": "https://open.spotify.com/track/28oAFUkMiaRwLDz9LNza1f"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Bakuwe",
@@ -965,20 +965,28 @@
       "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
+      "added_at": "2023-01-20 05:09:22",
       "album": {
-        "name": "Randomly",
-        "url": "https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e"
+        "name": "Marijuana",
+        "url": "https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg"
       },
       "artists": [
         {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+          "name": "DJ Shiru",
+          "url": "https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho"
+        },
+        {
+          "name": "Bruno K",
+          "url": "https://open.spotify.com/artist/0DToGxUXxyiGk3sAbwwCtD"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
         }
       ],
-      "duration_ms": 163846,
-      "name": "Randomly",
-      "url": "https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1"
+      "duration_ms": 219718,
+      "name": "Marijuana",
+      "url": "https://open.spotify.com/track/3KknqI9ODWVO7IeUGf2nuR"
     }
   ],
   "unique_name": "Kidandali Parte",

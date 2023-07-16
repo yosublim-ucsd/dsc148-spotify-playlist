@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,097 likes - 174 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,218 likes - 174 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 15 | [Gringo Che](https://open.spotify.com/track/59kMIeaoC2tJcVqMmrUt0x) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [The Nude Party](https://open.spotify.com/album/7eL0YCyfl9aaNuzt3gn23Q) | 3:46 |
 | 16 | [Welcome To Jamrock](https://open.spotify.com/track/0alTdGNJ19j0K34NzLAyaw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 3:33 |
 | 17 | [Abandoned Mansion](https://open.spotify.com/track/5jx534PdMJacYZ2PZ5unAP) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Abandoned Mansion](https://open.spotify.com/album/298WNanMReraImGBQRGxio) | 5:22 |
-| 18 | [Destroy The Empire](https://open.spotify.com/track/6V5aJTWbHRs7clhcQ4em0f) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/0tZCmPAsUZYi71wZWg8suA) | 3:24 |
+| 18 | [Destroy The Empire](https://open.spotify.com/track/6BvgJ5rz1awa1zL2ySnVfk) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:24 |
 | 19 | [No Cup No Broke](https://open.spotify.com/track/6GxVxdukFe3VciIN5gT2yc) | [African Brothers](https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92) | 2:22 |
 | 20 | [More Mess on My Thing](https://open.spotify.com/track/3a1Ska1dAtx4KE4b86eumQ) | [The Poets Of Rhythm](https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR) | [Practice What You Preach](https://open.spotify.com/album/0e3CsfgtzbhR5ofqRDnAlT) | 4:12 |
 | 21 | [Sunday Morning](https://open.spotify.com/track/7rFu5IhLj50r2tNM2d2cat) | [Amanaz](https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt) | [Africa](https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3) | 4:59 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCxmOTM4ZWEyMmQ5ZjYxNjg3OGIwMTRmYjUzNjIyMTYwNDQzYzRhNGY1`
+Snapshot ID: `MCw4Mzc1MWFhZDZiNzgzZjZkY2NhNTQ0ZmNlOWU0MDAxNWQzYTNkODRm`

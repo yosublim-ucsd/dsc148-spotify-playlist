@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1727399,
+  "num_followers": 1728535,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjBiNTlmMGUyMWViOTcxMTk5OWJiODhmYWY3NGY1MGIzODllYzgy",
+  "snapshot_id": "MCw4MGQzNDNkZDc3ZWQyYzE3MzEyMzBmZGFkNTc5MmI3ZTBmNjM0NWI1",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Introduction To Mayhem",
-        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+        "name": "Animosity",
+        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
       },
       "artists": [
         {
-          "name": "Primer 55",
-          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
+      "duration_ms": 218933,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
     },
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Animosity",
-        "url": "https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1"
+        "name": "Introduction To Mayhem",
+        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
       },
       "artists": [
         {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+          "name": "Primer 55",
+          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
         }
       ],
-      "duration_ms": 218933,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr"
+      "duration_ms": 182200,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
     }
   ],
   "unique_name": "Nu Metal Era",

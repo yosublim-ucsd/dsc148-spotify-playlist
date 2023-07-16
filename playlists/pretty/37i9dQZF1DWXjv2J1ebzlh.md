@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,347 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,408 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,7 +293,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 283 | [Liberté](https://open.spotify.com/track/3xDGfSKSaR3mOCxPa0WUHq) | [Yelli Yelli](https://open.spotify.com/artist/6e3ytmaREMxtwZKOScingh) | [La violence est mécanique](https://open.spotify.com/album/4a0Y6JtfjkWHUsxcGlOkXM) | 3:45 |
 | 284 | [Bak Şu Adama Aşık Oldu](https://open.spotify.com/track/377XKUiU2s0Y6jVDSypffA) | [Ayla Algan](https://open.spotify.com/artist/4hqP91hNWDZJxPKaw68KbN) | [En İyileriyle Ayla Algan](https://open.spotify.com/album/4qkdOeUAMPC2lEbNz3IYdF) | 3:09 |
 | 285 | [Qui C'Est Celui\-La \- Partido Alto](https://open.spotify.com/track/2ssvhHib70zuzp3PBWoNnL) | [Pierre Vassiliu](https://open.spotify.com/artist/49NlklXdh2UFIW4VUu4fPx) | [Qui C'Est Celui\-La](https://open.spotify.com/album/0lOjw1NmPKzLz8on5WnU65) | 4:35 |
-| 286 | [El Benson](https://open.spotify.com/track/6wo4ZoZ5UWFRUHUPcDJdGu) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/0tZCmPAsUZYi71wZWg8suA) | 4:29 |
+| 286 | [El Benson](https://open.spotify.com/track/0W16rC9z9YGHFe9ZULahO7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 4:29 |
 | 287 | [Marujita](https://open.spotify.com/track/3xPy9WHjC7soRkMMNmQogk) | [Los Zetas](https://open.spotify.com/artist/1ULmD9m65jvggHtW7C5TUN) | [Marujita](https://open.spotify.com/album/7iykEg40tJXTNf6c055kWb) | 2:44 |
 | 288 | [Dam Dam](https://open.spotify.com/track/0HbXK1840TFQDp1VXPwD1M) | [Aris San](https://open.spotify.com/artist/6nSwMSz1vsa5qaCjHsEd96) | [דם דם](https://open.spotify.com/album/0syIKwFdsgcPttq7H1wMEJ) | 5:45 |
 | 289 | [Filhos De Zambi](https://open.spotify.com/track/1YeaM0uY1W2cbmT8SPZQrU) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Filhos de Zambi / Meu Caso Com Você](https://open.spotify.com/album/2SJB6TGiolSOOOuRZBEIYN) | 3:02 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw2ZmJkNDQzODk0M2MxYTljMWEyZjZhODBlNzA0ZTQ4ZGIyN2ZlMDA5`
+Snapshot ID: `MCxiMjM0YjA4NzAyZjRjZWZhN2JlZGM0MWNhZGY3YTkxNGE0ODY2YzA5`

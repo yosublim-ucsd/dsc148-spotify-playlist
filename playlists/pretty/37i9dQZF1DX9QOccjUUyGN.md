@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: PK, IGOR, OIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,372 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,382 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 3 | [24hrs](https://open.spotify.com/track/105k1aiq6HKSONlNFOzYIA) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [24hrs](https://open.spotify.com/album/3OMsGLHvXjhj19gSULJzKQ) | 2:57 |
 | 4 | [Lugar Nenhum](https://open.spotify.com/track/4Q0aSrMlOWdRS1mwRu9WB8) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o) | [Percalços](https://open.spotify.com/album/54JPLtLadzyPbneflbb6hK) | 3:12 |
 | 5 | [Pra Você Ficar](https://open.spotify.com/track/61JLcgwqCPklv7QOsmqrvR) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Pra Você Ficar](https://open.spotify.com/album/5dRk25j5gv9HNkqzfDF2CG) | 2:37 |
-| 6 | [Sob Efeito \(A Cone Voltou\)](https://open.spotify.com/track/3OLrrDfRsEYVq2IjXNlPXB) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Sob Efeito \(A Cone Voltou\)](https://open.spotify.com/album/5c9xhUOGnoSNFtJnOQ5hkZ) | 2:22 |
+| 6 | [Sob Efeito](https://open.spotify.com/track/3OLrrDfRsEYVq2IjXNlPXB) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Sob Efeito](https://open.spotify.com/album/5c9xhUOGnoSNFtJnOQ5hkZ) | 2:22 |
 | 7 | [Tralha](https://open.spotify.com/track/3vGu6lSFE4WV73WhNQKf8s) | [Dom](https://open.spotify.com/artist/4xTYyi8DMAejeE8L10qS1O), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Tralha](https://open.spotify.com/album/5cl7faAxfMtCel455G1GeY) | 2:15 |
 | 8 | [FUMANDO MACONHA](https://open.spotify.com/track/4orAZgUtG6vw63fqdTXjE6) | [A Banca 021](https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9) | [MEGAZORD](https://open.spotify.com/album/5BDdi82TqnlfNM74cFV0s0) | 1:43 |
 | 9 | [NOITE PAULISTA](https://open.spotify.com/track/2vcT8OFI7FfzrI4OGQaxT1) | [Mirim](https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6), [Pedrin](https://open.spotify.com/artist/0RrC6lsh0pUpjYSWhBjZ66), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf) | [AGL](https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu) | [Mazzan](https://open.spotify.com/artist/4Z0ol0b5b8tpxDZpT2BMyL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/1r8JVPiGk7fR69p96xjeBG) | 3:15 |
 | 75 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |
 
-Snapshot ID: `MCw1ZTkzNTZjZDA2ZDlhY2JiMzkxMmZiZjU0NWJjNDliNDA3Yjg4MjE4`
+Snapshot ID: `MCw0MjIyMTRhMDhhOTEwYzJhZGViYWE0NDc5YjE1NmRlOWI5NWQzYTY2`

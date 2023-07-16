@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xLYXWDEy9Z.md) - [plain]
 
 > <a href="spotify:artist:4Z99ysbztLlZqmYK3urV7w ">Paige</a> has been blurring the lines between Deep House and Melodic Techno, and his latest mix brings exactly that.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612 likes - 12 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 614 likes - 12 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xLYXWDEy9Z.md) - [plain]
 | 11 | [Hands That Feed \- Mixed](https://open.spotify.com/track/7f5VzFz4QVZrvPSEDUbJN5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Hands That Feed \(Mixed\)](https://open.spotify.com/album/43U3SbuF0wFsM6h4lvI2Pc) | 6:40 |
 | 12 | [Behind Your Sunshine \- Facundo Mohrr Remix \- Mixed](https://open.spotify.com/track/6rRHL7F2VttqwcUy74Qp9o) | [CANCCI](https://open.spotify.com/artist/5TaCW5DMvQfTGPaLICe9Kh), [Albuquerque](https://open.spotify.com/artist/7npq1RotbnBCKCudTHPtD0), [Facundo Mohrr](https://open.spotify.com/artist/5oX3Dbh7rf6ZSNnMdt9giF) | [Behind Your Sunshine \- Facundo Mohrr Remix \(Mixed\)](https://open.spotify.com/album/1M9kPkj4bw9HxT6yE1aaxM) | 6:47 |
 
-Snapshot ID: `MCxlZTA5YmVhYzgxMGNjNDIxM2EzZWQ1ODU3ODg2NzM5ZDUyZmQxMjhl`
+Snapshot ID: `MCxmMWY3YTM2ODlmZTgxZjU2ZmZhZWUwNjFkYTg4NTE5YjA0ZTdjYTJi`

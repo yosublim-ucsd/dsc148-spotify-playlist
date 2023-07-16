@@ -4,7 +4,7 @@
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-45 songs - 2 hr 11 min
+46 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Crois\-moi \(feat\. Ninho\)](https://open.spotify.com/track/69I4Eynuxdj6LEmpvG56u6) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Architecte](https://open.spotify.com/album/0QOCs2S4yp3M47sNZGCUqY) | 3:03 | 2023-05-31 |  |
 | [Célèbre](https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [Célèbre](https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS) | 2:56 | 2023-05-31 |  |
 | [DES BARZ !](https://open.spotify.com/track/5EG3vHQxQAAF1MKIF4sq9w) | [Randy](https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX) | [DES BARZ !](https://open.spotify.com/album/1SgPLfU87tfaYHcNUGGTQ5) | 1:51 | 2023-05-31 |  |
-| [Donner](https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Donner](https://open.spotify.com/album/3dzEWGuhgrpeVQS3PiVcHe) | 3:47 | 2023-06-28 |  |
+| [Donner](https://open.spotify.com/track/7mxliPI4zN8R3nHP8daeAN) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Donner](https://open.spotify.com/album/3dzEWGuhgrpeVQS3PiVcHe) | 3:47 | 2023-06-28 | 2023-07-16 |
+| [DONNER \(feat\. Slkrack\)](https://open.spotify.com/track/4M4zzOT9leOtY87UVK8sXd) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR), [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [LE SOLEIL NE S'ÉTEINT JAMAIS](https://open.spotify.com/album/3NUhwHq408l2Vm5quZyp06) | 3:47 | 2023-06-28 |  |
 | [East London \(Nouvelle École\)](https://open.spotify.com/track/3GqyusQYjxssmHll5MLfQU) | [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [East London \(Nouvelle École\)](https://open.spotify.com/album/73eKX4McFo7e9al5CaSEzU) | 2:38 | 2023-05-31 |  |
 | [Ego\-Tripes](https://open.spotify.com/track/59z8cSxWytXyQT4Kk0atTD) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [SUMUD](https://open.spotify.com/album/1BSjnP0tKK8AoM7vj91sQY) | 2:28 | 2023-05-31 |  |
 | [ELLA Y YO](https://open.spotify.com/track/70yKcPk3HV4jl4l5C41DKB) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [ELLA Y YO](https://open.spotify.com/album/13vfSSY4H7K9BWfE01LdIK) | 1:49 | 2023-05-31 |  |

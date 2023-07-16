@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Marsha Zulkarnain
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,997 likes - 84 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,998 likes - 84 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 83 | [Sorry](https://open.spotify.com/track/0Qlc8PYzoEvzWPY0DOHozj) | [The May's](https://open.spotify.com/artist/75YJQ6dsydnRHv1RgcmaCy) | [Sorry](https://open.spotify.com/album/4o9aBCWDuAYRSmgG9mvAep) | 4:28 |
 | 84 | [Highs and Lows](https://open.spotify.com/track/2Q5qRbxufeBJ8TbY5xY9U6) | [Gilbert Fouk](https://open.spotify.com/artist/5plvSfQH5yfQVTKTjuyDVT) | [Highs and Lows](https://open.spotify.com/album/4lUg8VEPq630uMtYRkskmr) | 3:36 |
 
-Snapshot ID: `MCwwZjIwMjc3ZjU5MGQxODZmMTJmNGI4ZjRjZjIyZDliZTk3YzlmNTUz`
+Snapshot ID: `MCw0ODdiZTJkMDE5NGQ4NjQ5ZmI2OGUyMGJmNmI2ZGY4NzdlMWQxYTQ1`

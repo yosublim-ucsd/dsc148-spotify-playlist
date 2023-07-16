@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. Cover: a kid named rufus",
-  "num_followers": 73153,
+  "num_followers": 73262,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWM0MTk4MWNjNmM0M2U0NzFhNTI2N2Q3Mjk0ZWI0MzAwODM0Nzgy",
+  "snapshot_id": "MCxiNzU1YjA3YTgzZTk3ZDc2YjE0N2ViNTM4NjllNzBkOTM5MzY4YTA5",
   "tracks": [
     {
       "added_at": "2023-07-14 02:43:10",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "\u74e6\u5408",
-        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
-      },
-      "artists": [
-        {
-          "name": "No Party For Cao Dong",
-          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "\u5e8a",
-      "url": "https://open.spotify.com/track/7iNnvOWQSTQPLn5WPu0gdU"
-    },
-    {
-      "added_at": "2023-07-14 02:43:10",
-      "album": {
         "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
         "url": "https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 221688,
       "name": "\u0e23\u0e1a\u0e01\u0e27\u0e19",
       "url": "https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy"
+    },
+    {
+      "added_at": "2023-07-14 02:43:10",
+      "album": {
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
+      },
+      "artists": [
+        {
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
+        }
+      ],
+      "duration_ms": 232480,
+      "name": "\u5e8a",
+      "url": "https://open.spotify.com/track/7iNnvOWQSTQPLn5WPu0gdU"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
-        "url": "https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk"
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
         }
       ],
-      "duration_ms": 290909,
-      "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
-      "url": "https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9"
+      "duration_ms": 186506,
+      "name": "\u7f38",
+      "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "\u74e6\u5408",
-        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
+        "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk"
       },
       "artists": [
         {
-          "name": "No Party For Cao Dong",
-          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
         }
       ],
-      "duration_ms": 186506,
-      "name": "\u7f38",
-      "url": "https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu"
+      "duration_ms": 290909,
+      "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -1007,6 +1007,22 @@
       "duration_ms": 265316,
       "name": "Kami Khawatir, Kawan",
       "url": "https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN"
+    },
+    {
+      "added_at": "2023-07-14 02:43:10",
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
+        "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Hee",
+          "url": "https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Our Beloved Summer",
+      "url": "https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 11",
-        "url": "https://open.spotify.com/album/460wwJJ7kVYYue0MfHTsVD"
+        "name": "\u74e6\u5408",
+        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
       "artists": [
         {
-          "name": "Kim Kyung Hee",
-          "url": "https://open.spotify.com/artist/35CFI6iSFTyM0scQKBu8eE"
+          "name": "No Party For Cao Dong",
+          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Our Beloved Summer",
-      "url": "https://open.spotify.com/track/6Nw6XxOGVgKPOgi8LidyPq"
+      "duration_ms": 142266,
+      "name": "\u4f46",
+      "url": "https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -1079,38 +1095,6 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "Bee and The Whales",
-        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
-      },
-      "artists": [
-        {
-          "name": "Galileo Galilei",
-          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
-        }
-      ],
-      "duration_ms": 207624,
-      "name": "\u6b7b\u3093\u3067\u304f\u308c",
-      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
-    },
-    {
-      "added_at": "2023-07-14 02:43:10",
-      "album": {
-        "name": "\u74e6\u5408",
-        "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
-      },
-      "artists": [
-        {
-          "name": "No Party For Cao Dong",
-          "url": "https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp"
-        }
-      ],
-      "duration_ms": 142266,
-      "name": "\u4f46",
-      "url": "https://open.spotify.com/track/54hpc7UxPBdpcsC7xFKEWB"
-    },
-    {
-      "added_at": "2023-07-14 02:43:10",
-      "album": {
         "name": "Tsuki (\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c)",
         "url": "https://open.spotify.com/album/4rEDnBmCvEm0YksuClGr1x"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 216986,
       "name": "Tsuki - \u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/5ykMYZvOASxQrj756r9UXx"
+    },
+    {
+      "added_at": "2023-07-14 02:43:10",
+      "album": {
+        "name": "Bee and The Whales",
+        "url": "https://open.spotify.com/album/3KmWWl1gxY0qT5TWF92wgs"
+      },
+      "artists": [
+        {
+          "name": "Galileo Galilei",
+          "url": "https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ"
+        }
+      ],
+      "duration_ms": 207624,
+      "name": "\u6b7b\u3093\u3067\u304f\u308c",
+      "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
+        "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0"
+      },
+      "artists": [
+        {
+          "name": "The White Hair Cut",
+          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn"
+    },
+    {
+      "added_at": "2023-07-14 02:43:10",
+      "album": {
         "name": "Highteen",
         "url": "https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 129440,
       "name": "Sober Song",
       "url": "https://open.spotify.com/track/6QiE9xVHfGT1s3ilFo2lVu"
-    },
-    {
-      "added_at": "2023-07-14 02:43:10",
-      "album": {
-        "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/4StH50jOP7uCCIsQ6tijX0"
-      },
-      "artists": [
-        {
-          "name": "The White Hair Cut",
-          "url": "https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "\u0e44\u0e14\u0e49\u0e40\u0e27\u0e25\u0e32\u0e41\u0e22\u0e01\u0e22\u0e49\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/51Y5u1uButVdKnAmjtJ9Gn"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -1531,8 +1531,8 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/7GxLP2buR6YwnG561fGyDf"
+        "name": "Different Shade of Blue",
+        "url": "https://open.spotify.com/album/2orjH3lEX3NtFwZyVpitGl"
       },
       "artists": [
         {
@@ -1540,9 +1540,29 @@
           "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
         }
       ],
-      "duration_ms": 181000,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
+      "duration_ms": 170000,
+      "name": "Different Shade of Blue",
+      "url": "https://open.spotify.com/track/2WGLRqSoF5wytphWekR3hH"
+    },
+    {
+      "added_at": "2023-07-14 02:43:10",
+      "album": {
+        "name": "tired",
+        "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
+      },
+      "artists": [
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        },
+        {
+          "name": "asheu",
+          "url": "https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3"
+        }
+      ],
+      "duration_ms": 144793,
+      "name": "tired",
+      "url": "https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -1583,26 +1603,6 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "ANGRY ANGRY",
-        "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        },
-        {
-          "name": "Jaguar Jonze",
-          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
-        }
-      ],
-      "duration_ms": 136866,
-      "name": "ANGRY ANGRY",
-      "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
-    },
-    {
-      "added_at": "2023-07-14 02:43:10",
-      "album": {
         "name": "WATER COMES OUT OF MY EYES",
         "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
       },
@@ -1623,18 +1623,22 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "small town",
-        "url": "https://open.spotify.com/album/7wpAZr1j2jJaH7GtP3SemX"
+        "name": "ANGRY ANGRY",
+        "url": "https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe"
       },
       "artists": [
         {
-          "name": "Clara Benin",
-          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
         }
       ],
-      "duration_ms": 205486,
-      "name": "small town",
-      "url": "https://open.spotify.com/track/1uP1wSZet6v3DHJhO4vstB"
+      "duration_ms": 136866,
+      "name": "ANGRY ANGRY",
+      "url": "https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR"
     },
     {
       "added_at": "2023-07-14 02:43:10",
@@ -1659,22 +1663,18 @@
     {
       "added_at": "2023-07-14 02:43:10",
       "album": {
-        "name": "APPLE PIE",
-        "url": "https://open.spotify.com/album/5kRBx7g0FjPoZ5uO1sf5mE"
+        "name": "small town",
+        "url": "https://open.spotify.com/album/7wpAZr1j2jJaH7GtP3SemX"
       },
       "artists": [
         {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        },
-        {
-          "name": "Darren Ashley",
-          "url": "https://open.spotify.com/artist/5N0Y2jMirjocizWBWJBXu3"
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
         }
       ],
-      "duration_ms": 141000,
-      "name": "APPLE PIE",
-      "url": "https://open.spotify.com/track/2wTQqHB7S81sdNbNmrvSyG"
+      "duration_ms": 205486,
+      "name": "small town",
+      "url": "https://open.spotify.com/track/1uP1wSZet6v3DHJhO4vstB"
     },
     {
       "added_at": "2023-07-14 02:43:10",

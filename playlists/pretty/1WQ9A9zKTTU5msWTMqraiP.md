@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 
 > Deathcore Playlist
 
-[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 234 songs - 16 hr 18 min
+[Hafitz](https://open.spotify.com/user/7wxw9ydcqjc4ta495h73jpcjf) - 18 likes - 235 songs - 16 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,5 +242,6 @@ pretty - [cumulative](/playlists/cumulative/1WQ9A9zKTTU5msWTMqraiP.md) - [plain]
 | 232 | [The Great Dreamer](https://open.spotify.com/track/2BE4KjLlAcjjIrMNJczkgQ) | [Monarch of Avarice](https://open.spotify.com/artist/1dXmFXfniQWab6OKCf6Lsa) | [The Great Dreamer](https://open.spotify.com/album/6xj1XVh1yzlGyB2sGeNkDT) | 5:15 |
 | 233 | [Manipulation by Design](https://open.spotify.com/track/3CkVsVlGS5QTY9vU41VonS) | [Diamonds to Dust](https://open.spotify.com/artist/4WbfBwFGplcvXdfPp23SjD) | [Amidst the Hallowed and the Vanquished](https://open.spotify.com/album/33x1LsDvM0ythOdkb1NWY1) | 5:35 |
 | 234 | [Cursed To Be Here](https://open.spotify.com/track/004Z7L39vusAlI6TgkSS8f) | [Miserys End](https://open.spotify.com/artist/68O6BSGjQ7gM1gNpLGxsAO), [Jeremy St\-Denis from Waste](https://open.spotify.com/artist/4jMy6VlfG3fSoqmWYnMxxW) | [Cursed To Be Here](https://open.spotify.com/album/5Ny41rdK2b2VrzbwbBS1BR) | 3:42 |
+| 235 | [The Pale Impotent King](https://open.spotify.com/track/3ZUkvMkkGQ7SLRc92bXSZk) | [Our Common Collapse](https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb) | [The Pale Impotent King](https://open.spotify.com/album/4rLtdk5pm73yz0I8judHsr) | 3:19 |
 
-Snapshot ID: `MzQxLDljZmExNjVmNTdiMjhjYWQ2ZWViOGM0MGU3MzYyYzUxMjAwNGZlNjc=`
+Snapshot ID: `MzQyLDIzNjQzZGE2ZWZmNDdmN2VkNmI0ZTQzNTZjODZhY2YyZTYzNjhkMWQ=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Bentley Robles
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,408 likes - 111 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,439 likes - 111 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 110 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
 | 111 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCxmZDQ1NmJlNmI3YTFmMzY3MWM1ZTE0Y2JlMmM1ZGU5YjNkNjQ0Yzcy`
+Snapshot ID: `MCw0ZWI2N2M3MDBkOTlkODU5OWU0YmEzMmU0N2QyYmQxMzY0NzAyZDBh`

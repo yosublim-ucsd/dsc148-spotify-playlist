@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Maikel Delacalle
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,486 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,517 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 5 | [DOS PRIMAVERAS](https://open.spotify.com/track/15WUEbZiVlMktscw1mse4X) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 2:55 |
 | 6 | [MENEITO](https://open.spotify.com/track/4xXhSiRr4K81p9QcaS10ZK) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [MEZCALITO](https://open.spotify.com/album/4ISpZEncgpdpFy648i9CKk) | 3:18 |
 | 7 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
-| 8 | [EL MAR](https://open.spotify.com/track/4vMkJrF4sWijILPyBYsMrJ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [Crismo La Vision](https://open.spotify.com/artist/0ZkkpiRzMu897lFRSUsdl3) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:36 |
+| 8 | [EL MAR](https://open.spotify.com/track/4vMkJrF4sWijILPyBYsMrJ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [CRISMOLAVISION](https://open.spotify.com/artist/71HXixL2Y1cpqt7QaaTHfM) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:36 |
 | 9 | [LUNA AZUL EN TOKYO](https://open.spotify.com/track/08vNqL9YzqkeCC6O2mbytK) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:37 |
 | 10 | [Extrañándote](https://open.spotify.com/track/0ELfGFiH4qwVP3u6KWJVGj) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 3:05 |
 | 11 | [Run](https://open.spotify.com/track/76poUArBkxrtsBzqXcaAnc) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mustang 65'](https://open.spotify.com/album/42EHvFRsQtspIer2baInn7) | 2:43 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Exclusivos](https://open.spotify.com/track/34gWBtM3kKSd3VPx1x9qy1) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Capitulaciones](https://open.spotify.com/album/3S4DjtnPJlQVD2ChDjF3xx) | 2:40 |
 | 200 | [La Putivuelta](https://open.spotify.com/track/2oxdVeloBJzEM8LueRI1WR) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Capitulaciones](https://open.spotify.com/album/3S4DjtnPJlQVD2ChDjF3xx) | 2:27 |
 
-Snapshot ID: `MCxkMWQxNGEwMmUyM2RmNDEyOTBkNzZlZTcyYjk0MjM5NjI5MDViYTQ3`
+Snapshot ID: `MCw4ZmI4MzI3YjlkOTkwMDdmNmU5ZWNkMjJhMTExMTBlMmY0MjYxZDA4`

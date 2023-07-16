@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 137984,
+  "num_followers": 138007,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My",
+  "snapshot_id": "MCxkNDJjMDc1MDQyYmE1ZTJkZmEwMTJkNjFkMWY0MDM5ZTU2ODg3YjQz",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "My Pony",
-        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "My Pony",
-      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/5HzqkCHI7AFVhTjvozMnXj"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 250264,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0OyM0Z2wdidouJdqQKT4e7"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1031,26 +1031,6 @@
       "duration_ms": 189000,
       "name": "Physical - Alok Remix",
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1155,6 +1135,26 @@
       "duration_ms": 155864,
       "name": "Epic - Garmiani Remix",
       "url": "https://open.spotify.com/track/4D5uw4lzpyBIwA54NmjFND"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "Al Pacino",
+        "url": "https://open.spotify.com/album/0EboXRRulZiilaIDuptS9j"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Krunk!",
+          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+        }
+      ],
+      "duration_ms": 221579,
+      "name": "Al Pacino",
+      "url": "https://open.spotify.com/track/5ykdEvOIec7UjP2N4Vcuyv"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "In Your Eyes (feat. Alida) [KREAM Remix]",
         "url": "https://open.spotify.com/album/4opn0PjzGOFZTGUKFj0JUR"
       },
@@ -1479,22 +1499,18 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Al Pacino",
-        "url": "https://open.spotify.com/album/0EboXRRulZiilaIDuptS9j"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Krunk!",
-          "url": "https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa"
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
         }
       ],
-      "duration_ms": 221579,
-      "name": "Al Pacino",
-      "url": "https://open.spotify.com/track/5ykdEvOIec7UjP2N4Vcuyv"
+      "duration_ms": 173215,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1515,22 +1531,6 @@
       "duration_ms": 202003,
       "name": "Kong 2.0",
       "url": "https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7"
-      },
-      "artists": [
-        {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        }
-      ],
-      "duration_ms": 173215,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
-        "name": "Nothing To Do",
-        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
-      },
-      "artists": [
-        {
-          "name": "Bancali",
-          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Nothing To Do",
-      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
@@ -1599,6 +1583,46 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG"
+      },
+      "artists": [
+        {
+          "name": "Bancali",
+          "url": "https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
+        "name": "Morenito",
+        "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
+      },
+      "artists": [
+        {
+          "name": "Chile",
+          "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
+        },
+        {
+          "name": "Mystic Natives",
+          "url": "https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY"
+        },
+        {
+          "name": "Aynes",
+          "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1627,30 +1651,6 @@
       "duration_ms": 167113,
       "name": "Shock (feat. Kabasaki)",
       "url": "https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Morenito",
-        "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
-      },
-      "artists": [
-        {
-          "name": "Chile",
-          "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
-        },
-        {
-          "name": "Mystic Natives",
-          "url": "https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY"
-        },
-        {
-          "name": "Aynes",
-          "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "Morenito",
-      "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
     },
     {
       "added_at": "2023-05-15 15:50:08",

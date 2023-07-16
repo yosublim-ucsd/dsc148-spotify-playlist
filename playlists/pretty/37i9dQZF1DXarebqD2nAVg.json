@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 430584,
+  "num_followers": 430772,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGVmNGI2MzkzNWUxMDQ2YzY0MDU3ZDM2YjZkOGMyNDEyN2E1YWVm",
+  "snapshot_id": "MCw1YWVmMGY2NDNmNDgyMjQxZjI4YzM0MmU5ZTU2YWIyZWMwOTgzOWIz",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j"
+      },
+      "artists": [
+        {
+          "name": "bsd.u",
+          "url": "https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn"
+        }
+      ],
+      "duration_ms": 108078,
+      "name": "French Inhale",
+      "url": "https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "444",
-        "url": "https://open.spotify.com/album/6ysKMhCDF0XZrluHYfAP5j"
-      },
-      "artists": [
-        {
-          "name": "bsd.u",
-          "url": "https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn"
-        }
-      ],
-      "duration_ms": 108078,
-      "name": "French Inhale",
-      "url": "https://open.spotify.com/track/6EwJCXOR1QfurR0WpsLnS6"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
-      },
-      "artists": [
-        {
-          "name": "[bsd.u]",
-          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
-        }
-      ],
-      "duration_ms": 96092,
-      "name": "memories of you",
-      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "$orries",
         "url": "https://open.spotify.com/album/4UC6UTIy5LGAxiRNrEh1of"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 214857,
       "name": "$orries",
       "url": "https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ"
+      },
+      "artists": [
+        {
+          "name": "[bsd.u]",
+          "url": "https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk"
+        }
+      ],
+      "duration_ms": 96092,
+      "name": "memories of you",
+      "url": "https://open.spotify.com/track/2QFhfDVwjfucc9UxQOHOkN"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Corals",
+        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
+      },
+      "artists": [
+        {
+          "name": "Fujitsu",
+          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Snow Rose",
         "url": "https://open.spotify.com/album/3RQQK5575LOEB9MS6UgNt9"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 191707,
       "name": "Anything Like Her (feat. Tiffi)",
       "url": "https://open.spotify.com/track/1naqrWNoxyi6PEXz3NOXW0"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Corals",
-        "url": "https://open.spotify.com/album/1o5iflLRe5yh0B8o9gbbF4"
-      },
-      "artists": [
-        {
-          "name": "Fujitsu",
-          "url": "https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/7JVfIv0ymBzxJNGuWpHbWZ"
     },
     {
       "added_at": "2023-02-16 22:50:07",

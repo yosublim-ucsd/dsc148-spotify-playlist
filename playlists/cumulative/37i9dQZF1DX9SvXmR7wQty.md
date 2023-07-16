@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Loud, Ya Cetidon
 
-1,952 songs - 4 day 8 hr 21 min
+1,953 songs - 4 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,7 +546,7 @@
 | [Enfant de](https://open.spotify.com/track/6z8hRlJeWY33LvjpOQxIkr) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Enfant de](https://open.spotify.com/album/0jgDWVC9Wp7XaAd0Zxm9oR) | 2:54 | 2023-01-06 | 2023-01-21 |
 | [Enfantôme \- Radio edit](https://open.spotify.com/track/49PUrNvfMIGLKQlWeuyhoH) | [Feu la nuit](https://open.spotify.com/artist/68zfHjuBHS2StJIhmlr0iZ) | [Feu la nuit](https://open.spotify.com/album/6sSau2uCJFQd9ShExnfxXB) | 2:46 | 2022-10-28 | 2022-11-12 |
 | [Engraisser](https://open.spotify.com/track/4juWJ3WkeBGlYCH9kepq5L) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Engraisser](https://open.spotify.com/album/5WFqnJsLAbsMClpIP02MII) | 3:03 | 2023-03-31 | 2023-04-09 |
-| [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 |  |
+| [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 | 2023-06-30 | 2023-07-16 |
 | [Ensemble](https://open.spotify.com/track/5OMUo67LDz7JxLmMLZc2c3) | [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1), [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC) | [Sacrifices](https://open.spotify.com/album/3vvxyLnpm3jmgFGQegkrP9) | 2:47 | 2022-02-04 | 2022-02-12 |
 | [ensemble v.s\. tout le monde](https://open.spotify.com/track/4Tbe3vpdrpBrqXmLcPlFSa) | [White Migz](https://open.spotify.com/artist/2HLKLDXuuQlYM5YxZ21rN8) | [sauvons la planète!](https://open.spotify.com/album/0z3LKy6VCV6ebFE4CxRrbJ) | 1:44 | 2022-01-28 | 2022-02-05 |
 | [Entraînement](https://open.spotify.com/track/0Gy0tiXcLQV8vUvBFNMD86) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Entraînement](https://open.spotify.com/album/6GgPeChCZx7cIGevn1V7OE) | 4:11 | 2023-06-09 | 2023-06-11 |
@@ -609,6 +609,7 @@
 | [Feel Good \- Version Française](https://open.spotify.com/track/740x2wsOM0avrDXBraTxDP) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations](https://open.spotify.com/album/2ZNOL1KznYYIwPEq4DIykD) | 2:49 | 2022-08-26 | 2022-09-10 |
 | [Feeling](https://open.spotify.com/track/5calkLSWjQko2da689PKYo) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Feeling](https://open.spotify.com/album/5CJDFONNgIvOVkScKK16FJ) | 2:32 | 2023-02-10 | 2023-02-25 |
 | [Femme\-Lady](https://open.spotify.com/track/2oEL7zcZ6W2auzcj0BGwsp) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Femme\-Lady](https://open.spotify.com/album/4CHbXHghoxgeaav8crDiEc) | 3:33 | 2022-04-22 | 2022-05-07 |
+| [Femmes](https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Femmes](https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u) | 2:11 | 2023-07-14 |  |
 | [Fermer les yeux](https://open.spotify.com/track/0xs9ReaxZUWqp7rO4Ys4cx) | [MCM](https://open.spotify.com/artist/0lp5ESFVVH1DGSwb2LtnfD) | [Fermer les yeux](https://open.spotify.com/album/3jNarx37j97nl8l2vOxEg5) | 3:02 | 2022-09-16 | 2022-09-24 |
 | [Fermer les yeux \(jamais plus\)](https://open.spotify.com/track/0hASKi517BdacJN3wMePzY) | [Eric Goulet](https://open.spotify.com/artist/6BjnB0sYfF3CW2kufrvPK8) | [Fermer les yeux \(jamais plus\)](https://open.spotify.com/album/6mrOG4dEnAzskIBLtAQDS2) | 3:14 | 2022-10-07 | 2022-10-15 |
 | [Feu](https://open.spotify.com/track/5Od9GgFwJUgowAfsyMcOgA) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Feu](https://open.spotify.com/album/2fGR2DEe5Ms1GwsXV0YZpg) | 2:53 | 2022-03-11 | 2022-03-26 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: kiingkess\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,088 likes - 124 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,092 likes - 124 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [chocolate covered landmines](https://open.spotify.com/track/2dtUJ7EorIFb1voalKPop6) | [kiingkess](https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr) | [chocolate covered landmines](https://open.spotify.com/album/76VVXVgm5icLb8GTN4gEX9) | 2:10 |
-| 2 | [You Do](https://open.spotify.com/track/5pBWYIbsibbrIaNkH6jBxy) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [You Do](https://open.spotify.com/album/3yEfnEFkXjqgehp2zauRVR) | 3:07 |
+| 2 | [You Do](https://open.spotify.com/track/5pBWYIbsibbrIaNkH6jBxy) | [Mardiana](https://open.spotify.com/artist/3svIMmaQEnyipJfbbW6dyH) | [YOU DO](https://open.spotify.com/album/3yEfnEFkXjqgehp2zauRVR) | 3:07 |
 | 3 | [sorry, who?](https://open.spotify.com/track/2bZlaC2IM0e5SMepreCJ3T) | [San](https://open.spotify.com/artist/1sXBSErP4YHppqJiapvCbF) | [sorry, who?](https://open.spotify.com/album/0Qa7bQA9TpN6VMYvde2cvC) | 3:16 |
 | 4 | [Why Do We?](https://open.spotify.com/track/25Y6E3qOsifSWA0whsTdXw) | [Shahrizal](https://open.spotify.com/artist/1QG9pJRvxU3zU3DBWlxhXe) | [Why Do We?](https://open.spotify.com/album/01a4DWE7bKOIUYsC74BL5U) | 2:43 |
 | 5 | [THUNDER N’ LIGHTNING ⛈️](https://open.spotify.com/track/0MyDQQ7v5WMb7PaQ0boFkL) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [THUNDER N’ LIGHTNING ⛈️](https://open.spotify.com/album/41M8bkeuc5nEh3PrqtyRp5) | 3:41 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 123 | [triple text](https://open.spotify.com/track/6tat7ww7O0FkBtScJ4BS7t) | [Maya Ashllee](https://open.spotify.com/artist/5Pwn6N9dS2ZIP3debpjOK0) | [triple text](https://open.spotify.com/album/1BoY6vDnumSbKuK4wwCI1u) | 1:48 |
 | 124 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 |
 
-Snapshot ID: `MCxiNGI5NjY3Y2M5NWQ1YTBmNTVmYzEyYjU5MTdhNmQ2ZGQwYmZkZjhl`
+Snapshot ID: `MCxjNzY1ZDk5Y2QxYjkxYTgyOTRiMTI3MDg3ZDQwM2ExMjUyYTI5NzEy`

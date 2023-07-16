@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-158 songs - 14 hr 11 min
+159 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Gigolo \- 12" Version](https://open.spotify.com/track/6VrvvrY32NT1QGtFTAve8J) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [In And Out Of Love \(Bonus Track Version\)](https://open.spotify.com/album/0ri0mljqik390Lk9FRRfAr) | 7:23 | 2021-09-01 | 2022-07-26 |
 | [Gonna Make You Mine](https://open.spotify.com/track/3x59bNHg2OwyaeHChaixaP) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo) | [Zagora](https://open.spotify.com/album/2ev6ZbefgaoveKnaVGJ6oD) | 4:30 | 2021-09-01 | 2023-03-07 |
 | [Groovin' You](https://open.spotify.com/track/2I3SyLikESUH36WyEr1FZW) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 4:53 | 2021-09-01 | 2022-07-16 |
-| [Gymnastics \- Original Mix](https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Tears](https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv) | 4:50 | 2021-09-01 |  |
+| [Gymnastics \- Original Mix](https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Tears](https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv) | 4:50 | 2021-09-01 | 2023-07-16 |
 | [Haven't You Heard](https://open.spotify.com/track/0rgGwEybYIQvqHf5qEkFOB) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY) | 6:45 | 2021-09-01 | 2022-07-29 |
 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 | 2021-09-01 |  |
 | [High Times](https://open.spotify.com/track/4ZQF49Okowc4dUMme8xA3Y) | [Marcus Marr](https://open.spotify.com/artist/6l5dAUNRhHnRSPPmRJSKQr) | [Familiar Five](https://open.spotify.com/album/2HEPncsJHAbOXnWyj178oE) | 7:21 | 2021-09-01 | 2022-06-04 |
@@ -74,6 +74,7 @@
 | [Jupiter](https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 3:11 | 2021-09-01 |  |
 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 | 2021-09-01 |  |
 | [Latin Class](https://open.spotify.com/track/2JzyM6FIS8M6hN5YwRndgk) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [People Are All That We Have](https://open.spotify.com/album/05ymzuHJPM2fbhnExw0K4N) | 4:43 | 2021-09-01 | 2022-07-29 |
+| [Let's Break It Down](https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Let's Break It Down](https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL) | 3:10 | 2023-07-14 |  |
 | [Life Is Bitter & Sweet](https://open.spotify.com/track/3Sy9BBaXSxMHuMSdxlGlDv) | [Next Evidence](https://open.spotify.com/artist/54shj3FK8b7QjT9LpJwhTE), [Karl The Voice](https://open.spotify.com/artist/041ZObcTgCXaXtYikjQmE2) | [Takin' off EP](https://open.spotify.com/album/17GBPshe3FNurh05nw2mw3) | 6:59 | 2021-09-01 | 2022-07-24 |
 | [Like A Fool](https://open.spotify.com/track/511InmWye3UrDWkcE4SmT4) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/3zzkk0n26DWgqVuQkefg0J) | 5:05 | 2021-09-01 | 2022-07-29 |
 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 | 2021-09-01 |  |

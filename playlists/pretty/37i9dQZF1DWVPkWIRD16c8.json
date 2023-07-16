@@ -1,12 +1,12 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 81668,
+  "num_followers": 81999,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjEyZjNjMzA4NmYwMmUzOWIwMDAxMzQ2M2NhY2VhZGZjMDg0ZmMy",
+  "snapshot_id": "MCw5MmJjYjA4MWE1YjlmMGY3ZjViODBkMGEzYzhlMTY2YWU4OGUzNzg0",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "God Knows (Must Be Love) - Radio Edit",
+        "url": "https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "God Knows (Must Be Love) - Radio Edit",
+      "url": "https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "God Only Knows (Timbaland Remix)",
         "url": "https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 231400,
       "name": "Song In My Soul (feat. Hollyn)",
       "url": "https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "God Knows (Must Be Love) - Radio Edit",
-        "url": "https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ripp",
-          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "God Knows (Must Be Love) - Radio Edit",
-      "url": "https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+        "name": "Chrysaline",
+        "url": "https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA"
       },
       "artists": [
         {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
         }
       ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+      "duration_ms": 309354,
+      "name": "Closer Than a Brother",
+      "url": "https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4"
     }
   ],
   "unique_name": "Christian Road Trip",

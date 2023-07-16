@@ -1,12 +1,12 @@
 {
   "description": "The newest Hip-Hop, refreshed weekly. Cover: ShaqIsDope",
-  "num_followers": 3393,
+  "num_followers": 3416,
   "original_name": "All New Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmNkMDczZGRmYzg4ZWUzMmUxMjdmMDgzMTZkZWQyMzE2MzkxNjU0",
+  "snapshot_id": "MCw5MjBhNzkxNWJiOTZiNjI3ZTFlNjgxOTQwOWQxODM3MWRkZmExMTc1",
   "tracks": [
     {
       "added_at": "2023-07-14 13:39:18",
@@ -475,21 +475,17 @@
     {
       "added_at": "2023-07-14 13:39:18",
       "album": {
-        "name": "Ha Ha Ha (feat. C-Lance)",
+        "name": "Ha Ha Ha",
         "url": "https://open.spotify.com/album/1N1O3kleOT7ZjnpeSMMA5z"
       },
       "artists": [
         {
           "name": "Merkules",
           "url": "https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg"
-        },
-        {
-          "name": "C-Lance",
-          "url": "https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA"
         }
       ],
       "duration_ms": 209119,
-      "name": "Ha Ha Ha (feat. C-Lance)",
+      "name": "Ha Ha Ha",
       "url": "https://open.spotify.com/track/3bISDK9b0LxRmH0Ytp6aI7"
     },
     {

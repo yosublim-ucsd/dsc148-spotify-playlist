@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,879 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,964 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [You & I \- Emily Nash Remix](https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy), [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [You & I \(Emily Nash Remix\)](https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz) | 2:52 |
 | 50 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 |
 
-Snapshot ID: `MCxmMTMzYmRlYWMwOTU2MzdmNDkwMWE0MGE2YzdjOGMzNzVhYmE3NDk5`
+Snapshot ID: `MCwyZDI4NDlkNDA1MGE3NDZlNDAwNDYzYjM4YmJkM2FkM2UyZjFlZjU5`

@@ -3193,6 +3193,36 @@
     },
     {
       "album": {
+        "name": "Beethoven: Violin Concerto, Op. 61; Violin Romances, Op. 40 & Op.50",
+        "url": "https://open.spotify.com/album/7Cu0CSnE3TbHpVNz2p9gFO"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393333,
+      "name": "Violin Romance No. 1 In G Major, Op. 40",
+      "url": "https://open.spotify.com/track/0T7K3VnOeKjrJeisfJZLra"
+    },
+    {
+      "album": {
         "name": "Beethoven: Classical Academia",
         "url": "https://open.spotify.com/album/5SRPJgMihJ3XNL9BevUiBv"
       },
@@ -3246,7 +3276,7 @@
       ],
       "date_added": "2020-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 394640,
       "name": "Violin Romance No. 1 In G Major, Op. 40",
       "url": "https://open.spotify.com/track/6PvNbpPdHtKi4b2i3VXp17"

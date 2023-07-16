@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: MUNYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,817 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,848 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 41 | [Jamais t'oublier](https://open.spotify.com/track/5HFSJasw0zgSnpOMb51HNG) | [Valse Fréquence](https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC) | [Jamais t'oublier](https://open.spotify.com/album/46SrVUO6R7ET0Y0H7IQQVr) | 4:04 |
 | 42 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
 | 43 | [Douce répétition](https://open.spotify.com/track/0HMF4ha6tszLkLCDy6IZZ8) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Teinte](https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS) | 3:00 |
-| 44 | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/3LjbMSSkzPjUTHh1iIBTb3) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ) | 2:44 |
+| 44 | [Si tu comprends pas maintenant \(tu comprendras peut\-être jamais\)](https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Sprint!](https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq) | 2:44 |
 | 45 | [please don't sugarcoat it](https://open.spotify.com/track/5nDjaNSWWxMDzgDTpEiCM1) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [please don't sugarcoat it](https://open.spotify.com/album/1UCcTE8i06JrjJjKYbIsWb) | 2:25 |
 | 46 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 |
 | 47 | [Charlie](https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Charlie](https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Janet Planet](https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Empty Seats](https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw) | 3:21 |
 | 100 | [Looking for Your Love](https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/0nJFWlwfiAbiXhyQizaJT9) | 4:34 |
 
-Snapshot ID: `MCw5MjAzOGEzMjQxYjEzOTY5NzMxY2NhNDdhOTNkM2E0NWI4YjRiNTdi`
+Snapshot ID: `MCxlYWQzMDY0NjljOGRjYWE1MzZiOGUyY2U0ZDAyZjI0OWJlZTM0MmFl`

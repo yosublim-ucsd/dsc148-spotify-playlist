@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Niky Savage in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,491 likes - 54 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,528 likes - 54 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 43 | [Modus Operandi](https://open.spotify.com/track/14Dep7nFNka7vSw00d8pVp) | [Harmann](https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw) | [Modus Operandi](https://open.spotify.com/album/4ytcYFGwDv09QxwjiTZwxG) | 3:31 |
 | 44 | [CRÈME DE LA CRÈME](https://open.spotify.com/track/7p5Ncm0MT5ERi8achBZtdn) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Vuem](https://open.spotify.com/artist/2GjnVCgb9y5iv2A4TvJOxK), [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF) | [CRÈME DE LA CRÈME](https://open.spotify.com/album/5dlf92nPLOto9dcb9gKGKe) | 3:25 |
 | 45 | [Nueva Obsesión \(160\)](https://open.spotify.com/track/0h3RNZ9dUAVrlqxJpDSdxs) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [Nueva Obsesión \(160\)](https://open.spotify.com/album/6WBkDIDZxkIOo3juYr9zKT) | 3:03 |
-| 46 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W), [PhilG](https://open.spotify.com/artist/2asDlsjpu5fEraiS3nWGPE), [Vaglie](https://open.spotify.com/artist/5EFcUEOpLfKi7XGP8hW78A), [Francesco Dolci](https://open.spotify.com/artist/6mvcTkkw0LkAHrq5NhH5D5), [Reda Stephane Marzaki](https://open.spotify.com/artist/03mBEC8tiGIGqP52K5qST6), [Daniele Cossali](https://open.spotify.com/artist/4LRYM1umt48rmYEPus2eS7), [Francesco Paolo Buttarelli](https://open.spotify.com/artist/15JIStHpOZg9OvRLCMViG2), [Leonardo Lucchini](https://open.spotify.com/artist/1jpoH6ivhcTnNuN6ZiXYy9) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
+| 46 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
 | 47 | [SLAP](https://open.spotify.com/track/5ENCQfI8WNHnkFiavKpPly) | [R1MKA](https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc) | [SLAP](https://open.spotify.com/album/5VwcpeiEgPAaaduzhNFdL0) | 2:03 |
 | 48 | [SCEICCO](https://open.spotify.com/track/2BEJ7Z4Suob9ZFKMsY01Ln) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [SCEICCO](https://open.spotify.com/album/1TOcWdGxbf3OUUjB8eMXO4) | 2:34 |
 | 49 | [Festa delle Streghe](https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu) | [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Love Storii](https://open.spotify.com/album/6LbQhCuZ2ge0zbW6CiXD8V) | 2:40 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 53 | [Calamite](https://open.spotify.com/track/452JD9BvCZ0IiKk5QWQZrt) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Calamite](https://open.spotify.com/album/4p6p15HUl0tDkJXei3yqTy) | 2:36 |
 | 54 | [Il mio mestiere](https://open.spotify.com/track/0M8OyJXJdKSULM0gSubhUZ) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [GREZZO 4](https://open.spotify.com/album/2sNjVoJDdwgsKmhxX44rJJ) | 2:21 |
 
-Snapshot ID: `MCxmNWI3ZDEwY2UxMmQwN2M0MGFiZjJhZjI4ZDUwMjdmNTkzNWM1ZDcz`
+Snapshot ID: `MCxkYTVmNTQ5ZWRhZWYwOTFmMzUxMDE2MmE4YmM0YjY4NGIyNzc1ZWZk`

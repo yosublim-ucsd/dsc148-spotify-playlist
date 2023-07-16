@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: The HU",
-  "num_followers": 325758,
+  "num_followers": 325969,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2EzMWIwMWRmZDI3YTFhN2I5ZmQ2YzY4Y2JiYzRhODg0ZjRkMzdk",
+  "snapshot_id": "MCw0NDVhYTNlOGY2NDE4ODZjMzU2MWRjNjc2ZjM5ODJmMDI1YzMwZDNk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
         "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 221103,
       "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Vaxis II: A Window of the Waking Mind",
-        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 228834,
-      "name": "The Liars Club",
-      "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
         "url": "https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 200920,
       "name": "How To Ruin Everything (Patience) [feat. Ice Nine Kills]",
       "url": "https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Vaxis II: A Window of the Waking Mind",
+        "url": "https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 228834,
+      "name": "The Liars Club",
+      "url": "https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1"
     },
     {
       "added_at": "2023-06-30 04:00:00",

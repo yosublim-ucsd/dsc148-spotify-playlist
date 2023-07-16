@@ -4,7 +4,7 @@
 
 > Did you hear that?
 
-98 songs - 6 hr 25 min
+99 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,8 +95,9 @@
 | [Werewolf](https://open.spotify.com/track/04pMx29snydsnkCQJZaQtV) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [You Are Free](https://open.spotify.com/album/1ILPBTSa7KJCPIs39Bp11d) | 4:05 | 2022-09-23 |  |
 | [What's A Girl To Do?](https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Fur and Gold](https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN) | 2:58 | 2022-09-23 |  |
 | [Which Witch](https://open.spotify.com/track/5yiBLMSH9DCRmBtws6wKY3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/0Om2TWqroaCLQamQME3bD2) | 4:19 | 2022-09-23 |  |
+| [White Foxes](https://open.spotify.com/track/3LXzqwjJWhoHYIScm4JHY8) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/6uPqtAJoByvOAp5I8bM4mu) | 4:16 | 2022-09-23 |  |
 | [White Foxes](https://open.spotify.com/track/5OU6ugivZfNo8IBAm9yc7A) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/5dI4gXLOWDJ25XuWUIznmt) | 4:16 | 2022-09-23 | 2022-11-14 |
-| [White Foxes](https://open.spotify.com/track/6HcR7kgWHEPTStbJyjEEEO) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/1EZyuV7Oo23PeUdKxZkq9t) | 4:21 | 2022-09-23 |  |
+| [White Foxes](https://open.spotify.com/track/6HcR7kgWHEPTStbJyjEEEO) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [The Silicone Veil](https://open.spotify.com/album/1EZyuV7Oo23PeUdKxZkq9t) | 4:21 | 2022-09-23 | 2023-07-16 |
 | [Widow's Peak](https://open.spotify.com/track/60Q9G9OhXkfe5Hfla12kd0) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Widow's Peak](https://open.spotify.com/album/0FyLW7baFYzM7hOWKt8zXF) | 3:51 | 2022-09-23 | 2022-11-13 |
 | [Widow's Peak](https://open.spotify.com/track/70rmykCzXyK5F4Xzh3xLww) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/3Jb4Qyb0nmKWW7JXhZQ3wA) | 3:51 | 2022-09-23 | 2023-04-29 |
 | [Widow's Peak](https://open.spotify.com/track/7HZXCvX14bnNOW0o8AbAmA) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [Old Rockhounds Never Die](https://open.spotify.com/album/32Qe8dNUwWqPzsXn9efgz8) | 3:51 | 2022-09-23 |  |

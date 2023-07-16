@@ -7114,7 +7114,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 107671,
       "name": "Ava",
       "url": "https://open.spotify.com/track/3Fa2LOckLbjsv8UIidDiPD"
@@ -12346,7 +12346,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 120116,
       "name": "Boat To Kuta",
       "url": "https://open.spotify.com/track/3rsroYFwrmuftYD4qFXyWJ"
@@ -16246,7 +16246,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 146129,
       "name": "carpool lane",
       "url": "https://open.spotify.com/track/4Yr6oYb6llf2yvjJXiDgdb"
@@ -19722,7 +19722,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 124234,
       "name": "Coffe grounds",
       "url": "https://open.spotify.com/track/7mXOjrQm3DrSACUa5TE3Qh"
@@ -46444,7 +46444,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 146866,
       "name": "ILY Eeve",
       "url": "https://open.spotify.com/track/3tSkSs0h0zeC6mtvmXz0Uu"
@@ -71733,6 +71733,24 @@
     },
     {
       "album": {
+        "name": "One More Please",
+        "url": "https://open.spotify.com/album/1ov50Fpj1ygRM74H0gYf8r"
+      },
+      "artists": [
+        {
+          "name": "JAY VANILLA",
+          "url": "https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101123,
+      "name": "One More Please",
+      "url": "https://open.spotify.com/track/3qaHTHr8jGU57R6z0NAmxI"
+    },
+    {
+      "album": {
         "name": "One Note",
         "url": "https://open.spotify.com/album/60aV4ADkVy4fOUAJyDjzjl"
       },
@@ -80258,7 +80276,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 154933,
       "name": "remember",
       "url": "https://open.spotify.com/track/7rq0nUasILVx92yHEzRr4E"
@@ -87376,7 +87394,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 143773,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/611sqq1ogKBrXyK4qq9get"

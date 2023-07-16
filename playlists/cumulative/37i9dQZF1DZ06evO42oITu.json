@@ -945,6 +945,36 @@
     },
     {
       "album": {
+        "name": "Moon River / How Could We Know",
+        "url": "https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        },
+        {
+          "name": "Simon Climie",
+          "url": "https://open.spotify.com/artist/3HISkAiDX0gaSSUDZej38A"
+        },
+        {
+          "name": "Daniel Santiago",
+          "url": "https://open.spotify.com/artist/7xk2FyMhjJrRvT8MNuBrUi"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259127,
+      "name": "How Could We Know (feat. Simon Climie & Daniel Santiago)",
+      "url": "https://open.spotify.com/track/3pG0Hh8ANhVjFmFOe0yd5x"
+    },
+    {
+      "album": {
         "name": "Reptile",
         "url": "https://open.spotify.com/album/3lIVRVNgrOxfmjUAY2yfwW"
       },

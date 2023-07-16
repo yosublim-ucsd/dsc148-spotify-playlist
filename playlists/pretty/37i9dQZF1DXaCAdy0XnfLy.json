@@ -1,12 +1,12 @@
 {
   "description": "Opposites attract...families don't. Listen to music from and inspired by You People, now streaming on Netflix. ",
-  "num_followers": 30009,
+  "num_followers": 30050,
   "original_name": "You People Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2VhMjUxYzEzZTc4ZjRkZDczZTgxYzRlY2IzZTFiYTNiZTJjZDFm",
+  "snapshot_id": "MCxkYTI3ZDE4NjI2ZTE2M2Y2MTIxMGI0Mjc0NTFhZWM1MDBiZDcyMzgy",
   "tracks": [
     {
       "added_at": "2023-01-27 05:00:00",
@@ -199,22 +199,22 @@
     {
       "added_at": "2023-01-27 05:00:00",
       "album": {
-        "name": "Stay High (Childish Gambino Version)",
-        "url": "https://open.spotify.com/album/1pqm2OlY6O35z5IK8FgIdX"
+        "name": "Jaime (Reimagined)",
+        "url": "https://open.spotify.com/album/4WF6ivKo1khvBsGHJODucP"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        },
-        {
           "name": "Childish Gambino",
           "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
         }
       ],
       "duration_ms": 218400,
-      "name": "Stay High - Childish Gambino Version",
-      "url": "https://open.spotify.com/track/7d9x9mJPAruRZOieauLHrF"
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/25Olcsu6q4zxwASmTuUA8R"
     },
     {
       "added_at": "2023-01-27 05:00:00",

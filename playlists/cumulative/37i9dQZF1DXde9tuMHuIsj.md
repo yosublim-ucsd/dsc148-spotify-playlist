@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Chris Jedi, YOVNGCHIMI & Dei V
 
-268 songs - 15 hr 31 min
+269 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [24/7](https://open.spotify.com/track/62Y7rHyh2Xl5j3976T4tMD) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Bendecido](https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV) | 3:19 | 2022-03-18 | 2022-05-04 |
 | [2seater](https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [2seater](https://open.spotify.com/album/4AwJRkBFfYW4gtR4hD00A0) | 2:41 | 2022-06-03 | 2023-07-01 |
 | [60 Barras](https://open.spotify.com/track/6NtEyIBt9KpNF1a1Om367P) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Cerrando Capítulo](https://open.spotify.com/album/7ApSyjSHH676GOW6G3PVOR) | 3:07 | 2022-05-03 | 2023-02-11 |
-| [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 | 2023-02-10 |  |
+| [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 | 2023-02-10 | 2023-07-16 |
 | [737](https://open.spotify.com/track/6zT237u8Kb2VTtwBVTPpbe) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [737](https://open.spotify.com/album/41MmYyl9Jel3tu3Y6h7ULF) | 2:52 | 2022-04-01 | 2022-04-16 |
 | [7D](https://open.spotify.com/track/3n9kzmIGnkYf3WCxC2cO1I) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [7D](https://open.spotify.com/album/4bXNe2eKEqpRiYm12mG8bS) | 3:56 | 2022-09-16 | 2023-07-01 |
 | [Adentro](https://open.spotify.com/track/4kG3m7rHjUJUJjhphH2m99) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Adentro](https://open.spotify.com/album/5InIWV3przLuEIDwlbtxyU) | 2:12 | 2022-12-02 | 2023-02-11 |
@@ -214,6 +214,7 @@
 | [Quien Va a Frontiar](https://open.spotify.com/track/3ilZY9fbri982eVkRywGrK) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Quien Va a Frontiar](https://open.spotify.com/album/148Yvodb2BSJVVUzFBy8xf) | 2:54 | 2023-01-19 | 2023-03-11 |
 | [Quien Va a Frontiar \- Remix](https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Va a Frontiar \(Remix\)](https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8) | 5:17 | 2023-02-17 | 2023-07-01 |
 | [Racks On Me](https://open.spotify.com/track/5viIroXdYNhDJaSfF5YrLp) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Racks On Me](https://open.spotify.com/album/13OSN9Iyn7wUwXPikyCHkc) | 3:03 | 2022-07-22 | 2023-05-20 |
+| [Remember Me](https://open.spotify.com/track/7LknbZPcWVDMb6VLDI01MY) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Remember Me](https://open.spotify.com/album/6VMu4SHIfGS4OPHruUvvKw) | 2:50 | 2023-07-14 |  |
 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 | 2023-02-17 |  |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-07-22 | 2023-02-18 |
 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-15 |  |

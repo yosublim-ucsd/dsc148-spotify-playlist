@@ -3981,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "The Pale Impotent King",
+        "url": "https://open.spotify.com/album/4rLtdk5pm73yz0I8judHsr"
+      },
+      "artists": [
+        {
+          "name": "Our Common Collapse",
+          "url": "https://open.spotify.com/artist/4VTXcebcyltPt1ezdBBMQb"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "The Pale Impotent King",
+      "url": "https://open.spotify.com/track/3ZUkvMkkGQ7SLRc92bXSZk"
+    },
+    {
+      "album": {
         "name": "The Rot Within",
         "url": "https://open.spotify.com/album/1Fb70yxP3v8xGugOWiU38A"
       },

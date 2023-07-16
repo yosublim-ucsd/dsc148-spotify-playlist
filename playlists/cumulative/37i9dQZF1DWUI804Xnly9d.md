@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-135 songs - 7 hr 31 min
+136 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,9 +105,10 @@
 | [Parwaah](https://open.spotify.com/track/5CeWyGt9oMtsBBOLtYRTl5) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Parwaah](https://open.spotify.com/album/0bxsenYWUkYi3nEDuPefhd) | 4:22 | 2023-05-17 | 2023-06-24 |
 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 | 2023-05-17 |  |
 | [Pehli Baarish \- Acoustic](https://open.spotify.com/track/3nH2qforxZ3ZWtCOne2m0F) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish \(Acoustic\)](https://open.spotify.com/album/5In5fUCXEXXNtaNfjsMscl) | 2:26 | 2023-06-30 |  |
-| [Pyaar Tera](https://open.spotify.com/track/454wwgqDwt9GsAMPQO2SVf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2ZVdtecXaxrPhNTNoRwuzf) | 3:24 | 2023-06-02 |  |
+| [Pyaar Tera](https://open.spotify.com/track/454wwgqDwt9GsAMPQO2SVf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2ZVdtecXaxrPhNTNoRwuzf) | 3:24 | 2023-06-02 | 2023-07-16 |
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-17 | 2023-07-15 |
 | [Raat](https://open.spotify.com/track/4RtUdmzHtkdTYQ0Td5GGYc) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Raat](https://open.spotify.com/album/5g2ACwI9NwMQj9vZhansXs) | 3:13 | 2023-05-17 | 2023-06-09 |
+| [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |
 | [Raaz](https://open.spotify.com/track/5ogvk1sG1Qg08j2DYDiyp9) | [Yash Joshi](https://open.spotify.com/artist/6hP4cbviLwKKjoIe01qGNu), [Amogh Agarwal](https://open.spotify.com/artist/2MaX9AAWNy1TdrQQXOyqqY) | [Raaz](https://open.spotify.com/album/0yCdEgqwvcCQrhpPr7lVsT) | 3:49 | 2023-05-17 | 2023-05-24 |
 | [Rahnuma](https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW) | [Stefan Packianathan](https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa), [Saurabh Shetye](https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN) | [Rahnuma](https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM) | 3:46 | 2023-06-09 |  |
 | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/track/5vctTLIZIVCs4DIBdZG56l) | [Anurag Kale](https://open.spotify.com/artist/6QI0w03kPAgMBCKI4OIakr), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Reh Gayi Yaadein \(Feat\. Akanksha Bhandari\)](https://open.spotify.com/album/1wUVSvP0Kay5ANLWpqO9PG) | 3:10 | 2023-05-17 | 2023-06-13 |

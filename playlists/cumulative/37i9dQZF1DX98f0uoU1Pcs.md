@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-509 songs - 1 day 3 hr 27 min
+510 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,8 +387,9 @@
 | [Searching for You](https://open.spotify.com/track/2GUHbp8MTMsnPbpaEJdyXf) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Weird Nightmare](https://open.spotify.com/album/7vGjC7xBodi7rDb7pnwX4L) | 3:03 | 2022-07-08 | 2023-02-14 |
 | [Searching for You](https://open.spotify.com/track/7xtOiQ4dkFpXIh2iRoVZDV) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Searching for You](https://open.spotify.com/album/2ty9GQB9HHy5oAwHuCR5b0) | 3:03 | 2022-03-11 | 2022-07-29 |
 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 | 2022-07-08 | 2023-04-15 |
+| [Security](https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 3:47 | 2023-07-14 |  |
 | [Security](https://open.spotify.com/track/310b6rhKJa6lFBNccqQeCl) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/4poJkjWruWqqGsumQggoQB) | 3:47 | 2021-10-07 | 2022-01-08 |
-| [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-01-07 |  |
+| [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-01-07 | 2023-07-16 |
 | [See Me](https://open.spotify.com/track/0zZh4WQlQQYlzoImqXL223) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [See Me](https://open.spotify.com/album/5Fosih0U8AZ0GhzuQQPH7l) | 3:36 | 2022-09-30 | 2023-06-17 |
 | [See\-Thru](https://open.spotify.com/track/634FJRZsXbx849oSoClH4f) | [LURK](https://open.spotify.com/artist/3HUD6tXPRpqbXIBqJMdNCR) | [See\-Thru](https://open.spotify.com/album/7uTklcQmIae5yinB8Tnjw6) | 3:06 | 2021-10-07 | 2022-02-12 |
 | [Self Portrait](https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Self Portrait](https://open.spotify.com/album/4sgqq74AvRlNIbc8baLcV2) | 3:32 | 2022-09-09 |  |

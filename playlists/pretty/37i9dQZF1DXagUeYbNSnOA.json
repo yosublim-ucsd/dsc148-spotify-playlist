@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring MAGNA. Updates every Wednesday.",
-  "num_followers": 171073,
+  "num_followers": 171067,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODFmZjg2M2JmZmI3NDE0N2E0NDBhMWJhZGZhYzNjZmVkOTViNzZh",
+  "snapshot_id": "MCw4NDU1ZjVkMTQ1YTU1NzljYTI0OTg5OGEyOTM3ZjI5Njk1YWFjNTBh",
   "tracks": [
     {
       "added_at": "2023-07-12 18:07:26",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-07-12 18:07:26",
       "album": {
-        "name": "Febrero",
-        "url": "https://open.spotify.com/album/4KtnJQprl4VCxu9sMCaCaM"
-      },
-      "artists": [
-        {
-          "name": "Flor Torres",
-          "url": "https://open.spotify.com/artist/43rXMey1kWTRbnxdjaRK7s"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Febrero",
-      "url": "https://open.spotify.com/track/77ImvWuEm8jUMCTOWlpV4L"
-    },
-    {
-      "added_at": "2023-07-12 18:07:26",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/5kzVxzJX5p6Yflod0Pg3nb"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 157408,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3OVgfQZvZRxETPq0KHCJxS"
+    },
+    {
+      "added_at": "2023-07-12 18:07:26",
+      "album": {
+        "name": "Febrero",
+        "url": "https://open.spotify.com/album/4KtnJQprl4VCxu9sMCaCaM"
+      },
+      "artists": [
+        {
+          "name": "Flor Torres",
+          "url": "https://open.spotify.com/artist/43rXMey1kWTRbnxdjaRK7s"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Febrero",
+      "url": "https://open.spotify.com/track/77ImvWuEm8jUMCTOWlpV4L"
     },
     {
       "added_at": "2023-07-12 18:07:26",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-12 18:07:26",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS"
-      },
-      "artists": [
-        {
-          "name": "Zenith",
-          "url": "https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4"
-        }
-      ],
-      "duration_ms": 233043,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs"
-    },
-    {
-      "added_at": "2023-07-12 18:07:26",
-      "album": {
         "name": "Ac\u00e1",
         "url": "https://open.spotify.com/album/0JAPiLvbiKZXadjqPt4ijc"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 208893,
       "name": "Ac\u00e1",
       "url": "https://open.spotify.com/track/70ydeB3WG4Tv3oGJ8PpTpF"
+    },
+    {
+      "added_at": "2023-07-12 18:07:26",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS"
+      },
+      "artists": [
+        {
+          "name": "Zenith",
+          "url": "https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4"
+        }
+      ],
+      "duration_ms": 233043,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs"
     },
     {
       "added_at": "2023-07-12 18:07:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Residente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,749 likes - 118 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,899 likes - 118 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 117 | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/track/0TiZ8GSp9bYyZRTA5h6biu) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Pregúntale A Tu Papá Por Mi](https://open.spotify.com/album/13W1KYMSvDSWOWOXYClSxO) | 5:28 |
 | 118 | [Las Horas Pasan](https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Las Horas Pasan](https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi) | 3:30 |
 
-Snapshot ID: `MCxkMDc3Yzk0OTI4MzM0ZGZlMjM2ZWFhZjRlYjNjMzgwN2M3MzE1Yzhl`
+Snapshot ID: `MCxmZTljMDZkYTUxYzQwNWNlM2YzZTFhMDZiYTFmYjY5OGJhZjA1ZWI5`

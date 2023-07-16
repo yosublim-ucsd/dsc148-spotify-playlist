@@ -10068,10 +10068,32 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-16",
       "duration_ms": 139420,
       "name": "Vergonha na Cara",
       "url": "https://open.spotify.com/track/4PYXnIPeBcHB1c00Thduzi"
+    },
+    {
+      "album": {
+        "name": "Vergonha na Cara",
+        "url": "https://open.spotify.com/album/1HJEtu7mzDgYVKNXKRJYbU"
+      },
+      "artists": [
+        {
+          "name": "$heka",
+          "url": "https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2"
+        },
+        {
+          "name": "3000Kilo",
+          "url": "https://open.spotify.com/artist/2tpRt6aWlKJ7b7YwNSLuEx"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139728,
+      "name": "Vergonha na Cara",
+      "url": "https://open.spotify.com/track/7j7PS7CwB4XX8iNApr6ehR"
     },
     {
       "album": {

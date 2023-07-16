@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Bukis en portada. ",
-  "num_followers": 342276,
+  "num_followers": 342599,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWMyOTljNzZiMzA1YmM3M2UzYzc5NzRjODIzNDFjMWExZDY4MGY5",
+  "snapshot_id": "MCw2OTIxZTI3YzQ2NjY1YmM0NTA5Y2NkYmM0YTk1NjdmYTViYTAxNjBm",
   "tracks": [
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Bronco Amigo",
-        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/6nte0u7VUdEGSNJHOOLtRm"
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        },
+        {
+          "name": "Kris Melody",
+          "url": "https://open.spotify.com/artist/1Ll8UUDAEVALfi1fxdkeOK"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Amigo Bronco",
-      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
+      "duration_ms": 231720,
+      "name": "Por Muchas Razones Te Quiero",
+      "url": "https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq"
     },
     {
       "added_at": "2022-03-17 00:19:47",
@@ -1255,22 +1259,18 @@
     {
       "added_at": "2022-03-17 00:19:47",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq"
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        },
-        {
-          "name": "Kris Melody",
-          "url": "https://open.spotify.com/artist/1Ll8UUDAEVALfi1fxdkeOK"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/6nte0u7VUdEGSNJHOOLtRm"
         }
       ],
-      "duration_ms": 231720,
-      "name": "Por Muchas Razones Te Quiero",
-      "url": "https://open.spotify.com/track/4y1mBgVKdjWODLPjHtaAqq"
+      "duration_ms": 232760,
+      "name": "Amigo Bronco",
+      "url": "https://open.spotify.com/track/4g29cIui50ZZcFc6478yWV"
     },
     {
       "added_at": "2022-03-17 00:19:47",

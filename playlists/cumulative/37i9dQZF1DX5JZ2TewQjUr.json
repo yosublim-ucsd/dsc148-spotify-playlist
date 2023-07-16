@@ -6129,6 +6129,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/43KRHhPUNvsTUqGVGxho0x"
+      },
+      "artists": [
+        {
+          "name": "Cassia Yap",
+          "url": "https://open.spotify.com/artist/03gHMKatU9TQCfECHVmfcH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218289,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2b7oKA3KjWnZQtTRQ5m3Qp"
+    },
+    {
+      "album": {
         "name": "tell me i'm not annoying",
         "url": "https://open.spotify.com/album/3Js7JSyGr54eWFahEUK8bO"
       },

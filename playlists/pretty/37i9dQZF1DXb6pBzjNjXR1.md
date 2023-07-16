@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,806 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,833 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 15 | [Time](https://open.spotify.com/track/0bfJ3scDEzCsaZnAl0eAWY) | [Mr Norble Guy](https://open.spotify.com/artist/651fy57YJX5IKTZuMWxdFw), [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Time](https://open.spotify.com/album/7ihvlKMzYLFVl92rlcjY3L) | 7:08 |
 | 16 | [Sfede](https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Sfede](https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93) | 5:57 |
 | 17 | [iFu](https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [iFu](https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f) | 5:59 |
-| 18 | [Shweleza](https://open.spotify.com/track/4LwtsCTbkaunXAWHSyoo6t) | [TorQue MuziQ](https://open.spotify.com/artist/0HqonievAxtEE7MdDWZt72), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Le Sax](https://open.spotify.com/artist/3UswjRA2ZH17GfwdLjWwWm) | [Shweleza](https://open.spotify.com/album/1e17QmapD7ZKhng4GjHER3) | 5:58 |
+| 18 | [Shweleza](https://open.spotify.com/track/4LwtsCTbkaunXAWHSyoo6t) | [TorQue MuziQ](https://open.spotify.com/artist/3cGcpSU6lBKEV2kMFJb0zK), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Tee Jay](https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ), [Le Sax](https://open.spotify.com/artist/3UswjRA2ZH17GfwdLjWwWm) | [Shweleza](https://open.spotify.com/album/1e17QmapD7ZKhng4GjHER3) | 5:58 |
 | 19 | [Maasai People](https://open.spotify.com/track/0L4oSGeTlpiZTzxIqhS4uT) | [Jabzz Dimitri](https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c) | [Maasai People](https://open.spotify.com/album/340QILNvniBYbNO2cMOKsT) | 6:40 |
 | 20 | [Kwa Mama](https://open.spotify.com/track/0WGUkcTM1u5ssKcdqFtCJn) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Kwa Mama](https://open.spotify.com/album/6lJltP4TFQ2psn9do99SxC) | 6:30 |
 | 21 | [Voices In My Head](https://open.spotify.com/track/5v2sgCmUwMQIhhVdD5Hush) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Kaytee En Glent](https://open.spotify.com/artist/0GG652aubA3MxmKMEiwKss) | [Voices In My Head](https://open.spotify.com/album/29oPX8QLAVCFpY6Ftgy4cu) | 8:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 49 | [Angimazi Ubabalo](https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Terrance Motsepe](https://open.spotify.com/artist/3TRjJTgBK1Mfb9exYwiq4C), [Eltonnick](https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G) | [Angimazi Ubabalo](https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP) | 7:39 |
 | 50 | [Clarity \- Shredded Mix](https://open.spotify.com/track/5oAaNT8wiuSjHoGLIbJnRU) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Clarity \(Shredded Mix\)](https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S) | 5:41 |
 
-Snapshot ID: `MCxjMWRiYjU4NzZhYTVmYzZmYWMwYjIzN2VjNDhkMWFhZWVhMzU1MzZm`
+Snapshot ID: `MCxkMTVkMzZjMWRlN2E0ZjM4NzQzNDIzMmNjODBhYjgxYzdlYzEwNWM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,718 likes - 60 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,776 likes - 60 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 17 | [River of Tears \- Live](https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider \(Live\)](https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6) | 8:59 |
 | 18 | [Key To The Highway \- Live](https://open.spotify.com/track/7zX9fAnniTOdTsSV8eipxM) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Roadsongs](https://open.spotify.com/album/31hfJ2wHUoRjqwNdZXU6u3) | 6:22 |
 | 19 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 |
-| 20 | [The Sweetest Honey \(Live\)](https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Live from the 805](https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f) | 3:47 |
-| 21 | [Tell Her You Belong To Me \- Live](https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Front And Center: Live From New York](https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8) | 6:36 |
+| 20 | [Tell Her You Belong To Me \- Live](https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Front And Center: Live From New York](https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8) | 6:36 |
+| 21 | [The Sweetest Honey \(Live\)](https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Live from the 805](https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f) | 3:47 |
 | 22 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 |
 | 23 | [Things Are Changin' \- Live](https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 6:09 |
 | 24 | [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
 | 60 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 
-Snapshot ID: `MCxmYzU4MjgwNDgyZWYzN2VjZjhlOTEzZWVmZmFkM2E1MzUwNGY0OTI0`
+Snapshot ID: `MCxiMDZkMTg4OWQwNWZkMDk2Njg5NTczMTVmZGViZTViNzc3NTlhMGY0`
