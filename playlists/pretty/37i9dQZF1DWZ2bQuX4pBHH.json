@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 225189,
+  "num_followers": 225283,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWIwZmMyYjg2YWE1N2U3NDBiZDY4OTk2NDQ0MDVkMWUyOGRmNWNm",
+  "snapshot_id": "MCxjMjM2YjJlNDUxOTg5NzZmNzg5OWI4ZDVjZDJmODJmM2NlOTZjYWQ0",
   "tracks": [
     {
       "added_at": "2023-07-11 05:45:34",
@@ -747,22 +747,22 @@
     {
       "added_at": "2023-07-11 05:45:34",
       "album": {
-        "name": "Deewana (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL"
+        "name": "Rab Ne Bana Di Jodi (Original)",
+        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
       },
       "artists": [
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         },
         {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+          "name": "Labh Janjua",
+          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
         }
       ],
-      "duration_ms": 415476,
-      "name": "Aisi Deewangi",
-      "url": "https://open.spotify.com/track/10nnCsc6unlme3bImINZV3"
+      "duration_ms": 261015,
+      "name": "Dance Pe Chance",
+      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
     },
     {
       "added_at": "2023-07-11 05:45:34",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-07-11 05:45:34",
       "album": {
-        "name": "Rab Ne Bana Di Jodi (Original)",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
-      },
-      "artists": [
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Labh Janjua",
-          "url": "https://open.spotify.com/artist/3DWbhNPz642SpTneSTHJv7"
-        }
-      ],
-      "duration_ms": 261015,
-      "name": "Dance Pe Chance",
-      "url": "https://open.spotify.com/track/5EqggGHTuqiUfruO2gMHhI"
-    },
-    {
-      "added_at": "2023-07-11 05:45:34",
-      "album": {
         "name": "Baazigar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
       },
@@ -855,6 +835,30 @@
       "duration_ms": 453653,
       "name": "Ae Mere Humsafar",
       "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
+    },
+    {
+      "added_at": "2023-07-11 05:45:34",
+      "album": {
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Anuradha",
+          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
+        },
+        {
+          "name": "Anupama",
+          "url": "https://open.spotify.com/artist/1mMKKbLFrIqfOzLqFuGBRt"
+        }
+      ],
+      "duration_ms": 405706,
+      "name": "Dil Se Re",
+      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
     },
     {
       "added_at": "2023-07-11 05:45:34",
@@ -903,26 +907,22 @@
     {
       "added_at": "2023-07-11 05:45:34",
       "album": {
-        "name": "Dil Se (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
+        "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
         },
         {
-          "name": "Anuradha",
-          "url": "https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY"
-        },
-        {
-          "name": "Anupama",
-          "url": "https://open.spotify.com/artist/1mMKKbLFrIqfOzLqFuGBRt"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 405706,
-      "name": "Dil Se Re",
-      "url": "https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j"
+      "duration_ms": 240613,
+      "name": "Phir Bhi Dil Hai Hindustani",
+      "url": "https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0"
     },
     {
       "added_at": "2023-07-11 05:45:34",
@@ -947,22 +947,22 @@
     {
       "added_at": "2023-07-11 05:45:34",
       "album": {
-        "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
+        "name": "Dil Se (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
       },
       "artists": [
         {
-          "name": "Jatin-Lalit",
-          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
-        },
-        {
           "name": "Udit Narayan",
           "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
         }
       ],
-      "duration_ms": 240613,
-      "name": "Phir Bhi Dil Hai Hindustani",
-      "url": "https://open.spotify.com/track/1WX7IIJnUgpDaweRefaih0"
+      "duration_ms": 349493,
+      "name": "Ae Ajnabi",
+      "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
     },
     {
       "added_at": "2023-07-11 05:45:34",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2023-07-11 05:45:34",
       "album": {
-        "name": "Dil Se (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Ae Ajnabi",
-      "url": "https://open.spotify.com/track/1usJKPPaZ3J5XZFai2x98X"
-    },
-    {
-      "added_at": "2023-07-11 05:45:34",
-      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
       },
@@ -1047,22 +1027,6 @@
       "duration_ms": 338593,
       "name": "Mere Naam Tu",
       "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
-    },
-    {
-      "added_at": "2023-07-11 05:45:34",
-      "album": {
-        "name": "Deewana (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL"
-      },
-      "artists": [
-        {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
-        }
-      ],
-      "duration_ms": 383375,
-      "name": "Koi Na Koi Chahiye",
-      "url": "https://open.spotify.com/track/3VKlfDnmnTVQUliUCIy6rP"
     },
     {
       "added_at": "2023-07-11 05:45:34",
@@ -1087,6 +1051,30 @@
       "duration_ms": 368480,
       "name": "Aaj Ki Raat",
       "url": "https://open.spotify.com/track/4bPF3oy4JsKK1UeMMn7Byf"
+    },
+    {
+      "added_at": "2023-07-11 05:45:34",
+      "album": {
+        "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
+      },
+      "artists": [
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 303733,
+      "name": "Aur Kya",
+      "url": "https://open.spotify.com/track/3p2n1UTPBc5RdQY9X94Xpg"
     },
     {
       "added_at": "2023-07-11 05:45:34",
@@ -1143,6 +1131,34 @@
       "duration_ms": 389386,
       "name": "Kitaben Bahut Si",
       "url": "https://open.spotify.com/track/69yvE5MyvJtMCx75cPl583"
+    },
+    {
+      "added_at": "2023-07-11 05:45:34",
+      "album": {
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+      },
+      "artists": [
+        {
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "duration_ms": 343066,
+      "name": "Yeh Hum Aa Gaye Hain Kahaan",
+      "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

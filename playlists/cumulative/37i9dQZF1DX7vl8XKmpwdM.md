@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Leo
 
-105 songs - 6 hr 17 min
+106 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [](https://open.spotify.com/track/5MbszOoRyTOwOIJEOIZn6v) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 0:00 | 2021-12-01 | 2023-03-29 |
 | [](https://open.spotify.com/track/7H7ktpLPBvpJ0A2pwUy4hB) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5hZOtTKT6VNJRgTDE28Hje) | 0:00 | 2022-12-09 | 2023-03-29 |
 | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/track/4381FmKZc1uT2zzhBiknH7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/album/61DkChDkz3MoWGypHYVdCP) | 4:19 | 2022-04-22 |  |
+| [Adhirudha \- From "Mark Antony"](https://open.spotify.com/track/4u7dTTr6SApQiy7eBWARZI) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Adhirudha \(From "Mark Antony"\)](https://open.spotify.com/album/7zJ5qxeFanSZgXeZoD820s) | 4:00 | 2023-07-16 |  |
 | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vineeth Sreenivasan](https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Adipoli \(From "Think Originals"\)](https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy) | 2:52 | 2021-12-01 |  |
 | [Akdi Pakdi \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/track/6NGhHNsNBccDjXCrLhBBgz) | [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Sunil Kashyap](https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Akdi Pakdi \(Tamil\) \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/3TyO0ZiBeUnaGiyGzHsvek) | 3:50 | 2022-07-11 | 2022-10-12 |
 | [Ammadi](https://open.spotify.com/track/7oktIeahxdxDxLiZE3qYkh) | [Pravin Mani](https://open.spotify.com/artist/2ccgDZHHVlcOssv1y8AkOc) | [Ammadi](https://open.spotify.com/album/0bf0E8d15xhl2aXPbCmItD) | 4:04 | 2023-01-09 | 2023-02-07 |

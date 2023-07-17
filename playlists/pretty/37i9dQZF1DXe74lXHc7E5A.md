@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Psycho YP
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,871 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,967 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [Vigilante Bop](https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u) | [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Vigilante Bop](https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG) | 3:00 |
 | 60 | [FARDA](https://open.spotify.com/track/5CAri3YPxIQAPO2cvl0x9t) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [FARDA](https://open.spotify.com/album/41RFpDDBV3XIWfUN8JLCEJ) | 2:45 |
 
-Snapshot ID: `MCwwZWY1ZjRmNGZlMjA0MmU4MTQ5ZDYzNzI1NGEwZmQ3NWQ5ZmNiZjQ5`
+Snapshot ID: `MCwwNDIxYTI2NDMxODQ4MzY1ZDQxYzljNGJmMTRiOWYwZGE0MzU4NjI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 146 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359 likes - 147 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 142 | [Still Awake](https://open.spotify.com/track/5gS1VUzCGb7KMzVZDRMiqq) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 3:57 |
 | 143 | [Way Down Below](https://open.spotify.com/track/0UrIJFk0tHRu4YAH9Ffz1a) | [Fire & the Romance](https://open.spotify.com/artist/5vunfmmHBwkBMz5VyXo2W1) | [Adaptations](https://open.spotify.com/album/3Kcrj9eoNPkoeGzA3CQre5) | 3:11 |
 | 144 | [12:42](https://open.spotify.com/track/0iCTvP2t04THoF9JyqDq82) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 2:26 |
-| 145 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
-| 146 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
+| 145 | [True Love](https://open.spotify.com/track/2cfLC8bOBaD5NpPIJkA5GL) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [True Love](https://open.spotify.com/album/7vTClo3CilIXBe6rSgTViP) | 2:33 |
+| 146 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
+| 147 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgxNTY0NDAsMDAwMDAwMDBiYWJlZmQ4Y2U3Y2FiNTBjYmFiNGI1Njk5N2E4OGZmZg==`
+Snapshot ID: `MjgxNTkzMjAsMDAwMDAwMDBkOWM2YmNiY2ZkNWJjNmVmYWIxMTk5ZDg1MWJjMWRiMw==`

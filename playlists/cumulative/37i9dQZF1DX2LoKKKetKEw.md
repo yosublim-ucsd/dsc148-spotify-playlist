@@ -4,13 +4,14 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-136 songs - 6 hr 57 min
+137 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 LIFE](https://open.spotify.com/track/2SvnClSTgb5SJyWQsnyTvW) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [4 LIFE](https://open.spotify.com/album/7ubmV8TXI56XsmwLgVkPeG) | 2:48 | 2023-05-19 | 2023-05-24 |
 | [Abba](https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Forever](https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7) | 3:08 | 2022-12-16 |  |
 | [Afurum Gi Nanya](https://open.spotify.com/track/55hhlxMF4pUKCzQzSaOSai) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Tryphena](https://open.spotify.com/artist/2YLax85sS5OfWUlg8lbcub) | [Afurum Gi Nanya](https://open.spotify.com/album/5MoKsBnpO108u2NAtwXTae) | 2:19 | 2023-05-19 |  |
+| [Agba](https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Agba](https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG) | 3:24 | 2023-05-19 |  |
 | [Ah Ya Ya](https://open.spotify.com/track/2up5Sc4s1sh7HhY5VkeAoI) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Minister Jayclef](https://open.spotify.com/artist/5vTmwsLqMwMpzyeBuq2P8r), [Cee Sharp](https://open.spotify.com/artist/4klUyv1VdiNhMDlWXoZpSN), [Speedy Nasara](https://open.spotify.com/artist/2JHbMnU4IideoZKilIIeVE) | [Ah Ya Ya](https://open.spotify.com/album/3vzzQKuIn0WV58V4DKYZnN) | 3:42 | 2023-05-19 | 2023-07-12 |
 | [Akorede](https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp) | [TB1](https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG), [Kelly Lyon](https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Akorede](https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE) | 4:00 | 2022-07-30 |  |
 | [Amplify](https://open.spotify.com/track/3Yst8fBmKcLK7OEPeXB7tm) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Amplify](https://open.spotify.com/album/0Yl6Q9gjUT7EMvuU8oK5GG) | 3:11 | 2023-05-19 |  |
@@ -65,7 +66,7 @@
 | [Joy in Chaos](https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Joy in Chaos](https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp) | 1:10 | 2023-05-19 |  |
 | [Keep You](https://open.spotify.com/track/0d733SKP4dbMEKzevQycYc) | [Michael Oyo](https://open.spotify.com/artist/4bA59rTPAmclKHXJMz06wB), [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Keep You](https://open.spotify.com/album/0BjlOi4RHUtpOGVfSdQ9Qh) | 2:51 | 2022-07-30 |  |
 | [King](https://open.spotify.com/track/3taZaAT7ZjTKqmZv4ahX5B) | [Martin Toe](https://open.spotify.com/artist/3qQlOGleEEh9SPVX0Jx5JK) | [King](https://open.spotify.com/album/1mlJct71ayzMOAS7oTiaqW) | 2:25 | 2022-12-16 | 2023-02-25 |
-| [Kulosa Gospel Cover \- Remix](https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k) | [elnazor Obi](https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7) | [Kulosa Gospel Cover \(Remix\)](https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO) | 1:17 | 2023-05-19 |  |
+| [Kulosa Gospel Cover \- Remix](https://open.spotify.com/track/68P1UKOPTMt5iQloTD571k) | [elnazor Obi](https://open.spotify.com/artist/2JLGAnT20pYCjVCLFPDLT7) | [Kulosa Gospel Cover \(Remix\)](https://open.spotify.com/album/28A4C03hGLqeNH23gCCIdO) | 1:17 | 2023-05-19 | 2023-07-17 |
 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 | 2022-07-30 |  |
 | [Legacy \- Remix](https://open.spotify.com/track/0Zbcsc8fJEeabelPgUzx8T) | [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Legacy \(Remix\)](https://open.spotify.com/album/2h0tdeNppdVe1PajAQZX7M) | 2:59 | 2023-05-19 |  |
 | [Light](https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0) | [Light](https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC) | 2:18 | 2022-08-16 |  |

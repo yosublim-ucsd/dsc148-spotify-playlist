@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 610582,
+  "num_followers": 610660,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjM4ZDNjN2UzOWY3NjA3MjdmODkzZWRmNzRlZTM2YjNlMzg1NTc3",
+  "snapshot_id": "MCw0MGJhZWFjOTRlNjMxMTYwYWY2ZThkNzdiMWU1NTkzMTE2ZjU3M2Yw",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:51",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Zeiten \u00e4ndern dich",
-        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Alles wird gut",
-      "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
         "name": "Am Wasser gebaut",
         "url": "https://open.spotify.com/album/6ec57lo5LGm04XzzSOr0Wg"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 241666,
       "name": "An Tagen wie diesen",
       "url": "https://open.spotify.com/track/1rbnDRx6VuKAGS36CmiyQD"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "Zeiten \u00e4ndern dich",
+        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "Alles wird gut",
+      "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -307,22 +307,18 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Heavy Metal Payback",
-        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 270426,
-      "name": "F\u00fcr immer jung",
-      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -359,34 +355,22 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+        "name": "Heavy Metal Payback",
+        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
-    },
-    {
-      "added_at": "2023-07-13 12:12:51",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
-      },
-      "artists": [
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+      "duration_ms": 270426,
+      "name": "F\u00fcr immer jung",
+      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -407,6 +391,22 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+    },
+    {
+      "added_at": "2023-07-13 12:12:51",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "NWA",
-        "url": "https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS"
+        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
+        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
       },
       "artists": [
         {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        },
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Panamera Flow (feat. Bushido)",
-      "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
+      "duration_ms": 320040,
+      "name": "Da draussen",
+      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
     },
     {
       "added_at": "2023-07-13 12:12:51",
@@ -891,18 +887,22 @@
     {
       "added_at": "2023-07-13 12:12:51",
       "album": {
-        "name": "Fettes Brot l\u00e4sst gr\u00fcssen",
-        "url": "https://open.spotify.com/album/0Mbt27Q40cXFkhbTMQW5QL"
+        "name": "NWA",
+        "url": "https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 320040,
-      "name": "Da draussen",
-      "url": "https://open.spotify.com/track/3pw3W5nRx5MDmWOd9sawYA"
+      "duration_ms": 257079,
+      "name": "Panamera Flow (feat. Bushido)",
+      "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

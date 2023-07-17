@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 462895,
+  "num_followers": 463400,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzFhODIzNWVkNTQ1OGJhOWQ1ZTFmODRiZThlZjY3ODIzYzQwZTIy",
+  "snapshot_id": "MCw5YWQzNmI1MjBhYTk2MGZhMmE4ZjVlYmY4YWI2M2IxZmRiYjQ5MTcw",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Infinito Particular",
+        "url": "https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Vilarejo",
+      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Melhor Agora",
         "url": "https://open.spotify.com/album/71GFZXdtEJiLy3KH4GfLOi"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 152376,
       "name": "TE AMO (em caixa alta)",
       "url": "https://open.spotify.com/track/2rvcLxmsRZG3jQQPyW3yvu"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Infinito Particular",
-        "url": "https://open.spotify.com/album/4vJUBwgIaG2AD5rP32O730"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Vilarejo",
-      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "O Que Voc\u00ea Quer Saber de Verdade",
+        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Depois",
+      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "O Que Voc\u00ea Quer Saber de Verdade",
-        "url": "https://open.spotify.com/album/0NW6Z4aNFiaj2pN83d1fyg"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Depois",
-      "url": "https://open.spotify.com/track/2yeI0FRWd1sqGpHEUc5DFm"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Lado de C\u00e1",
+        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
+      },
+      "artists": [
+        {
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+        }
+      ],
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 171907,
       "name": "deixa fluir",
       "url": "https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Lado de C\u00e1",
-        "url": "https://open.spotify.com/album/460NT2szPxhkTDvNNqab4d"
-      },
-      "artists": [
-        {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
     },
     {
       "added_at": "2023-06-23 03:00:00",

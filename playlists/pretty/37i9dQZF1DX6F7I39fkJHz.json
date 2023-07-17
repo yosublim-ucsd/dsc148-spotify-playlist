@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas del party featuring AKRIILA.",
-  "num_followers": 28941,
+  "num_followers": 28961,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGY0YWY0ZWQ3OThiNGZlOTk2NDc3YzM1ZGRhY2IyYmYwMWI0NzA5",
+  "snapshot_id": "MCw4YzhjODJlYWE1NzFiODc4NDc2ZThhYTQwMDJlYjhiYTk2MTYzM2Vj",
   "tracks": [
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "besitos, cu\u00eddate",
+        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 173427,
+      "name": "narcisa",
+      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Ser\u00e1 Mi Culpa?",
         "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 261527,
       "name": "ACTIVA",
       "url": "https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "besitos, cu\u00eddate",
-        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 173427,
-      "name": "narcisa",
-      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
     },
     {
       "added_at": "2023-07-07 03:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-07-07 03:00:00",
       "album": {
+        "name": "Te cargo la 9",
+        "url": "https://open.spotify.com/album/4vhWwdEMvazQMJbrgXsQpp"
+      },
+      "artists": [
+        {
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
+        }
+      ],
+      "duration_ms": 157422,
+      "name": "Te cargo la 9",
+      "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"
+    },
+    {
+      "added_at": "2023-07-07 03:00:00",
+      "album": {
         "name": "Fina",
         "url": "https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 191739,
       "name": "Fina",
       "url": "https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ"
-    },
-    {
-      "added_at": "2023-07-07 03:00:00",
-      "album": {
-        "name": "Te cargo la 9",
-        "url": "https://open.spotify.com/album/4vhWwdEMvazQMJbrgXsQpp"
-      },
-      "artists": [
-        {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        }
-      ],
-      "duration_ms": 157422,
-      "name": "Te cargo la 9",
-      "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"
     },
     {
       "added_at": "2023-07-07 03:00:00",

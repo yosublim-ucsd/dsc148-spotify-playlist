@@ -4,7 +4,7 @@
 
 > Latin tunes to get your beast mode on!
 
-365 songs - 20 hr 41 min
+366 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-29 | 2023-05-09 |
 | [Gladiador \- Remix](https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:17 | 2023-03-17 | 2023-04-01 |
 | [Glizzy Walk 2.5](https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Glizzy Walk 2.5](https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK) | 3:44 | 2022-07-18 | 2023-05-09 |
+| [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 | 2023-06-09 |  |
 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 | 2022-05-16 | 2023-06-28 |
 | [GOTA GOTA](https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [GOTA GOTA](https://open.spotify.com/album/2ua6Bo808O7PYttNeBNYD1) | 3:50 | 2021-12-21 | 2022-08-13 |
 | [Guerrero \(feat\. Luar La L\)](https://open.spotify.com/track/2DI7dvTUDVB50Kfvu6LA9E) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 5:57 | 2021-12-21 | 2022-07-14 |
@@ -318,7 +319,7 @@
 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 | 2021-12-21 | 2023-03-18 |
 | [Te Cura](https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Te Cura \(FAST X Soundtrack\)](https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP) | 2:30 | 2023-05-26 |  |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2023-05-08 |  |
-| [Te Gusta](https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:20 | 2023-05-08 |  |
+| [Te Gusta](https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:20 | 2023-05-08 | 2023-07-17 |
 | [Te Lo Advertí](https://open.spotify.com/track/2Hk7DcM1Jsyo2bT7FuwZDq) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Young Golden](https://open.spotify.com/album/58LsYPRKwfhVdUCjJRvMWX) | 2:26 | 2022-01-04 | 2022-07-19 |
 | [Te Veo Bailar \(feat\. Brray & Alejandro Armes\)](https://open.spotify.com/track/3CerlljsJSVaRrzESJQVWU) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Baby Rasta & Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi) | [Te Veo Bailar \(feat\. Brray & Alejandro Armes\)](https://open.spotify.com/album/3EXhIXQ22Kh8Up5lB1MSoX) | 5:25 | 2022-07-18 | 2023-05-09 |
 | [Temporal](https://open.spotify.com/track/4k40DjgzGdOCk4s6dleAF1) | [Dglo73](https://open.spotify.com/artist/5oN16nxjhWp5SNJoo5lraf) | [Magic](https://open.spotify.com/album/6KrFrHat4saT2DBNqtuPSo) | 2:57 | 2021-12-21 | 2022-07-19 |

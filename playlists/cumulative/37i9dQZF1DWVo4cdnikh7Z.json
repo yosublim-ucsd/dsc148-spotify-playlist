@@ -465,6 +465,32 @@
     },
     {
       "album": {
+        "name": "Adhirudha (From \"Mark Antony\")",
+        "url": "https://open.spotify.com/album/7zJ5qxeFanSZgXeZoD820s"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "T. Rajendar",
+          "url": "https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240764,
+      "name": "Adhirudha - From \"Mark Antony\"",
+      "url": "https://open.spotify.com/track/4u7dTTr6SApQiy7eBWARZI"
+    },
+    {
+      "album": {
         "name": "Kathar Basha Endra Muthuramalingam (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/409xlLSh3I9M80WrNnMswA"
       },

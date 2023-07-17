@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites Cover: Dan Tyminski",
-  "num_followers": 123178,
+  "num_followers": 123225,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmM1MDU3MmQ4YmE4YjZjMGRjMThkNzFiYmEzMzFjMGQxOTBjMWFk",
+  "snapshot_id": "MCw3YTVmY2EwNWJjMTljMWFhZmQ1ODU5YTg5YmYzYzUwMDBjOTAzMjYw",
   "tracks": [
     {
       "added_at": "2023-07-14 18:00:58",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
         "name": "Hazard & Fate",
         "url": "https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 285306,
       "name": "Engine Trouble",
       "url": "https://open.spotify.com/track/3J2SefFgx68fw3RI2x2OLx"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
         "name": "God Fearing Heathen",
         "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 262407,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Ink, Dust & Luck",
-        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
         }
       ],
-      "duration_ms": 190789,
-      "name": "Don't Make Me Get up and Go",
-      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
+        "name": "Ink, Dust & Luck",
+        "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
       },
       "artists": [
         {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
+      "duration_ms": 190789,
+      "name": "Don't Make Me Get up and Go",
+      "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
+        "name": "Family Reunion",
+        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
         }
       ],
-      "duration_ms": 139893,
-      "name": "Super Moon",
-      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+      "duration_ms": 162697,
+      "name": "Dry Town",
+      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1419,18 +1419,34 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Family Reunion",
-        "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb"
       },
       "artists": [
         {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+      "duration_ms": 139893,
+      "name": "Super Moon",
+      "url": "https://open.spotify.com/track/7a87b0XfUmeTYBrrjX50AH"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
+        "name": "Laws Of Gravity",
+        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 275973,
+      "name": "1901: A Canyon Odyssey",
+      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Laws Of Gravity",
-        "url": "https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "1901: A Canyon Odyssey",
-      "url": "https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
         "name": "North of Despair",
         "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
       },
@@ -1483,6 +1483,46 @@
       "duration_ms": 216229,
       "name": "Lies & Money",
       "url": "https://open.spotify.com/track/1e3OLCYKGvvWpTB7KsUPj3"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
+        "name": "Live the Dream",
+        "url": "https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        },
+        {
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "Live the Dream",
+      "url": "https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
+        "name": "Fare Thee Well",
+        "url": "https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya"
+      },
+      "artists": [
+        {
+          "name": "Lindley Creek",
+          "url": "https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1523,46 +1563,6 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Fare Thee Well",
-        "url": "https://open.spotify.com/album/1czCHSqWNLh8BVLjJHJzya"
-      },
-      "artists": [
-        {
-          "name": "Lindley Creek",
-          "url": "https://open.spotify.com/artist/6vIP2iHsvSVIJmdICjQxeB"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/5tknxbByvLw6Ocas5Zt37L"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
-        "name": "Live the Dream",
-        "url": "https://open.spotify.com/album/0TxDZ0xlSYgwtS0Erao5iS"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        },
-        {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "Live the Dream",
-      "url": "https://open.spotify.com/track/2f64sXdXeIZHKHtAdYcZ2p"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
-        "name": "Spirit to the Sea",
-        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
-      },
-      "artists": [
-        {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
         "name": "Ain\u2019t Through Honky Tonkin\u2019 Yet",
         "url": "https://open.spotify.com/album/3sSHGWiYpEhC0W2MvWISop"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 165600,
       "name": "Running Out Of Hope, Arkansas",
       "url": "https://open.spotify.com/track/36I4TdV7yZNZJVOz1WQZpf"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
+        "name": "Spirit to the Sea",
+        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
+      },
+      "artists": [
+        {
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Maybelle",
+      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 190634,
       "name": "Run To Heaven",
       "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Maybelle",
-      "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
     },
     {
       "added_at": "2023-07-14 18:00:58",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-07-14 18:00:58",
       "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+    },
+    {
+      "added_at": "2023-07-14 18:00:58",
+      "album": {
         "name": "Travelers Rest",
         "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 219826,
       "name": "The Trappings",
       "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
-    },
-    {
-      "added_at": "2023-07-14 18:00:58",
-      "album": {
-        "name": "Twisted Pine",
-        "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
-      },
-      "artists": [
-        {
-          "name": "Twisted Pine",
-          "url": "https://open.spotify.com/artist/1hS8I57cnaheZpt7Tdn6ps"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "When I Called Your Name",
-      "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
     }
   ],
   "unique_name": "Grass Roots",

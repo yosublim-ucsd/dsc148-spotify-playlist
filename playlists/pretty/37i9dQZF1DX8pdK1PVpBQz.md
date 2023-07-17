@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Friday\*\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,615 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,622 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 |
 | 100 | [Way2On](https://open.spotify.com/track/0aKdbwU0YE4q8P25kITiG6) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Way2On](https://open.spotify.com/album/5jQsohFIoNwCFjGfyMtrke) | 2:54 |
 
-Snapshot ID: `MCxiMDEzZDNjMzk0ZmQ4M2U0MzZkZmNhZTcwYzk3MDZkYjZlYjI5ZTU3`
+Snapshot ID: `MCxlYWVjNmU3NjQ0OThmMmQwNzY4OGNkYmZhOTJlMTVlMjUzODczMjJl`

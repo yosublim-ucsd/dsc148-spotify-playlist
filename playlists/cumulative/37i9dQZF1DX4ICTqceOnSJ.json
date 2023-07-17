@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 219825,
       "name": "722",
       "url": "https://open.spotify.com/track/2ib0FnnI0zXtaEl97Ne4KL"
@@ -418,6 +418,24 @@
       "duration_ms": 181134,
       "name": "Ca\u00f1a Brava",
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
+    },
+    {
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX"
     },
     {
       "album": {
@@ -1065,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "DEKKOLETERA 3",
+        "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132788,
+      "name": "La Que Yo Amo",
+      "url": "https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50"
+    },
+    {
+      "album": {
         "name": "Las converse",
         "url": "https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU"
       },
@@ -1668,7 +1704,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 224378,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8"

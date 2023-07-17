@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,468 likes - 97 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,485 likes - 97 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 96 | [WE HERE NOW](https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [WE HERE NOW](https://open.spotify.com/album/67CEXT1GE4V9iK1jNmaNta) | 3:28 |
 | 97 | [Mamacita](https://open.spotify.com/track/1lWBBogPlnCmAGHUHzURhp) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Mamacita](https://open.spotify.com/album/2lUlXB0w58lyu86R48Iy6r) | 2:49 |
 
-Snapshot ID: `MCxhYTY1OGIxZDk5NDQ1ZWJkMDZiMGNmZjRhYTA1OWNiZWVkYjBiNDBk`
+Snapshot ID: `MCw0NTdhMDJlNWQxZmE2NmQyN2NiMGVhYTcwZjYzOTYyYzY3NjhmN2Ni`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 100 LIVE @ Way Out West 2023: Dizzy, Jelassi, Mohelá m.fl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,395 likes - 85 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,407 likes - 85 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [Beautiful Girls](https://open.spotify.com/track/4ZZrPyvJOeeZwSt3lmuMx7) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Adrijana](https://open.spotify.com/artist/0bOSgUryDiUCvVbJUjM3y5), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Beautiful Girls](https://open.spotify.com/album/58E43MVPI20xqgGfisLy2F) | 1:49 |
 | 85 | [PARANOIA](https://open.spotify.com/track/43DbkHDgzf9kvGi8eXxfS1) | [Mazzo](https://open.spotify.com/artist/4cPM4H1MtqNzsuNdkRJ6Qx), [RUNI](https://open.spotify.com/artist/4hmrUcRgiNbJn6tcXMzqEN), [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [PARANOIA](https://open.spotify.com/album/68NNwLH3DHcTNFUmitcX2p) | 2:32 |
 
-Snapshot ID: `MCxmYzMzMzI5ODM4ZGU3NjhjZGJkY2ZlZDcwOWJhOWYwZTVmYTg2ZjU1`
+Snapshot ID: `MCw3ZjA1MGYxYzEyZmVkMWNiNzVkMTk4N2RjYjkwMTRmYTAzYjJjNTVm`

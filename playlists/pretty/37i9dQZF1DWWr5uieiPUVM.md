@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap só dá o play e aumenta! Foto: Mc Poze do Rodo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,200,267 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,205 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Tropa do Mais Novo](https://open.spotify.com/track/1Afqu53uuGNHKXyCfNIqhW) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Tropa do Mais Novo](https://open.spotify.com/album/1HDwGbuDmbuu8WJG81cCMV) | 3:21 |
 | 50 | [FOGO E GASOLINA](https://open.spotify.com/track/52EYWdjiulHaehpexuowyh) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [Red](https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:01 |
 
-Snapshot ID: `MCw3MjZjMDBmMGQyOThjNmE0ODY1NGJmZjI4ZWVkOWI1MjFmNDQ4MmZl`
+Snapshot ID: `MCxmMTZjZWRiMjBkYzVmMzc4MTgxYTMwMmE5OWY4ZGIyZmU0NWMwNDE5`

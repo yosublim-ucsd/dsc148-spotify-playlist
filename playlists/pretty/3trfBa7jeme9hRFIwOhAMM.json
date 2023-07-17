@@ -1,12 +1,12 @@
 {
   "description": "bringing you all things house!! follow me on tour <a href=\"http://www.instagram.com/curbi\">here</a> and don't forget to <a href=\"https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT\">follow my artist profile</a>..",
-  "num_followers": 4014,
+  "num_followers": 4016,
   "original_name": "ALL THINGS HOUSE - CURBI PRESENTS",
   "owner": {
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTA3NSxlMDY1NGM2MjAzNGFkNDI2NmNjMjllOGQ5YWNlMjhkYmZjMWQzMjMw",
+  "snapshot_id": "MTA3NixkMWNlNGQ3NzdmMGZlZDhmNjRjYmU4ZDhmNDBlZjk2Njg1NmFhOTc4",
   "tracks": [
     {
       "added_at": "2023-07-13 22:03:49",
@@ -783,6 +783,30 @@
       "duration_ms": 199755,
       "name": "Seeing Is Believing",
       "url": "https://open.spotify.com/track/3TqmTtE8bP2deIzx7ASnus"
+    },
+    {
+      "added_at": "2023-07-16 18:30:14",
+      "album": {
+        "name": "Valentino",
+        "url": "https://open.spotify.com/album/3nv8s2zUw6Mm6Odie3CGkW"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Jack August",
+          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "Valentino",
+      "url": "https://open.spotify.com/track/5gpspXTVqjqoIlcIBZ6ZE5"
     }
   ],
   "unique_name": "ALL THINGS HOUSE - CURBI PRESENTS",

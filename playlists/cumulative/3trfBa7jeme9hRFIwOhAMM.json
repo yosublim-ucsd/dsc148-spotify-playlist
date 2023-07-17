@@ -1075,6 +1075,32 @@
     },
     {
       "album": {
+        "name": "Valentino",
+        "url": "https://open.spotify.com/album/3nv8s2zUw6Mm6Odie3CGkW"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Jack August",
+          "url": "https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "Valentino",
+      "url": "https://open.spotify.com/track/5gpspXTVqjqoIlcIBZ6ZE5"
+    },
+    {
+      "album": {
         "name": "Venezuela",
         "url": "https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy"
       },

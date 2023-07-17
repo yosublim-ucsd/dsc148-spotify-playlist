@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Ilsey
 
-399 songs - 22 hr 49 min
+400 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Fewer Ghosts \- Acoustic](https://open.spotify.com/track/2VvX7hcWG9Ecd1olc2SQAm) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Fewer Ghosts \(Acoustic\)](https://open.spotify.com/album/0Vj0lONqrLMKEwlTMNtLhC) | 3:43 | 2021-11-19 | 2022-07-29 |
 | [Fine](https://open.spotify.com/track/5haQ3V1o1cAiI53ZghAxqM) | [Kaley Rutledge](https://open.spotify.com/artist/59PtqO4zhEmXT6pXVVYXaT) | [Tender Heart](https://open.spotify.com/album/4soYlSiTnufYSeb5CBtyrl) | 2:49 | 2021-11-19 | 2022-01-17 |
 | [Fingers Crossed](https://open.spotify.com/track/00vGldARjYnPv2LPGUQHSC) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pure Acoustic 2022](https://open.spotify.com/album/4DCIc6AsRGKdKLh2bDfQr0) | 2:55 | 2022-08-12 | 2022-11-13 |
-| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-07-15 |  |
+| [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-07-15 | 2023-07-17 |
+| [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 | 2023-07-14 |  |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2022-07-28 |
 | [Five N' Dime](https://open.spotify.com/track/5F6pKHfkoVRNTNyQKOgw5v) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Final Thoughts](https://open.spotify.com/album/0PHkrjK9UIgFRM186LuR1q) | 2:53 | 2021-11-19 | 2022-03-26 |
 | [Forest](https://open.spotify.com/track/7vEdB5iMHeDapfu9kzqquJ) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:15 | 2021-11-19 | 2022-06-09 |

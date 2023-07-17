@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-653 songs - 1 day 13 hr 45 min
+654 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2021-07-13 | 2021-07-25 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-07-25 | 2022-04-06 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-02-12 | 2022-02-16 |
-| [Still With You](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Still With You](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) | 3:59 | 2023-07-04 |  |
+| [Still With You](https://open.spotify.com/track/0eFMbKCRw8KByXyWBw8WO7) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Still With You](https://open.spotify.com/album/0i3baFZqWSrjjgTWrhKunB) | 3:59 | 2023-07-04 | 2023-07-17 |
 | [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 | 2022-06-07 | 2023-05-16 |
 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 | 2021-11-28 | 2021-12-03 |
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-22 |
@@ -554,6 +554,7 @@
 | [الغسالة](https://open.spotify.com/track/7JAPo0o6KfpKdZiGLoRCNh) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [الغسالة](https://open.spotify.com/album/5EZeKNiANiLwqcOEYnxSoD) | 2:51 | 2021-03-27\* | 2022-03-07 |
 | [اللقطة](https://open.spotify.com/track/4Ht0DV8ksHsEwyPEKLjcMV) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اللقطة](https://open.spotify.com/album/51UtZEtJiI0rN7n5jXFV8G) | 4:21 | 2022-04-06 | 2022-04-08 |
 | [الهيبه](https://open.spotify.com/track/3QHbkF2cobEOZ80I0J7fHw) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الهيبه](https://open.spotify.com/album/4dG3G6U35VluXgkkPyZjbL) | 2:44 | 2023-06-29 | 2023-07-01 |
+| [الوقت فات \- من مسلسل ريفو](https://open.spotify.com/track/6LxVAX1ALMSpn0jX00LK13) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 2:59 | 2023-07-16 |  |
 | [انا في حاجه هتجنني](https://open.spotify.com/track/326wv1lze9tMWa8u4XUdaW) | [7l2olo](https://open.spotify.com/artist/6ZgtIJDAZHRNfnkSZI1oJt), [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx), [Ali Adora](https://open.spotify.com/artist/1YBCglSx16gpk34ayxU5Dp) | [انا في حاجه هتجنني](https://open.spotify.com/album/4Qi3pkAcgvhIu8zoRT5IwS) | 4:44 | 2021-03-27 | 2021-06-10 |
 | [انا نجم](https://open.spotify.com/track/7Ki9SDxWpUU8aXIX2gq2C2) | [Various Artists](https://open.spotify.com/artist/2mv12nN6hV35GVNKdvyEM9) | [مسلسل ريڤو](https://open.spotify.com/album/6xCkZUQJBH9pEQ1cLO0rGs) | 4:05 | 2022-07-26 | 2022-08-26 |
 | [انا نجم \- من مسلسل ريفو](https://open.spotify.com/track/5VOgXIIDg9cyQ3VMXgH3a3) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 4:05 | 2022-08-25 | 2022-09-25 |

@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-127 songs - 5 hr 50 min
+128 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 | 2023-01-13 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-01-12 |  |
 | [New Levels](https://open.spotify.com/track/0IEhsMbSmiwiDzDENW3LK5) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [New Levels](https://open.spotify.com/album/2uiimsW2bYwFebpQTfY33m) | 3:52 | 2023-01-12 |  |
+| [Newport](https://open.spotify.com/track/1Ieov0BFr2R6L4AwtApqTW) | [Larry Dee](https://open.spotify.com/artist/71FCXGwLKwJQVGkffEzj64) | [Newport](https://open.spotify.com/album/4vT6tlGmNSkDBZ1gglfNvn) | 2:34 | 2023-06-20 |  |
 | [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 | 2023-01-12 |  |
 | [Nightlife](https://open.spotify.com/track/7rFYeoifHq9wYNSL7nQpAj) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nightlife](https://open.spotify.com/album/4IeJl3nyIh15rF6AaaHhFP) | 2:03 | 2023-01-12 |  |
 | [no rain today](https://open.spotify.com/track/0EJ4R1FWyczgGsdlIKgjyX) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [no rain today](https://open.spotify.com/album/0m36fSjMw8zlqjdJH2VQYg) | 1:24 | 2023-01-12 | 2023-06-25 |
@@ -87,7 +88,7 @@
 | [Nostalgia](https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1) | [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Nostalgia](https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg) | 2:25 | 2023-01-12 |  |
 | [November Mist](https://open.spotify.com/track/1EbeTYCIUUApmpeDMwrqUD) | [LeVirya](https://open.spotify.com/artist/2ZTkcW4qIScKWuYhZlzopf), [gHSTS & gUITARS](https://open.spotify.com/artist/34DHE51D7CmCNvHp9nFTJy) | [November Mist](https://open.spotify.com/album/6wj3M8lH58h6ggzPvMjy7b) | 2:36 | 2023-01-12 | 2023-01-18 |
 | [Obrigado](https://open.spotify.com/track/5TgSbnEEKjhHBNcpMNXsiE) | [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Jonah Brooks](https://open.spotify.com/artist/38Zp3DIfdT9K3kd65Unxfl) | [Obrigado](https://open.spotify.com/album/6iaonLGSDcCXwz4pv7BhXl) | 2:28 | 2023-02-23 |  |
-| [Offshore](https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Offshore](https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke) | 2:57 | 2023-01-12 |  |
+| [Offshore](https://open.spotify.com/track/4PzbSfedeciLUTHQ4e2xNo) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Offshore](https://open.spotify.com/album/6EbvFpsiICmHXYTHlHslke) | 2:57 | 2023-01-12 | 2023-07-17 |
 | [Orange Dawn](https://open.spotify.com/track/5h849dbRZVoyMM4hwKG2Om) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Orange Dawn](https://open.spotify.com/album/32XqONQww8kzR6E6Of9xXe) | 2:01 | 2023-01-12 |  |
 | [Orilla Del Mar](https://open.spotify.com/track/4sshFtDRFl9ZxlxnJg2IWk) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Orilla Del Mar](https://open.spotify.com/album/6qjFjgMpi6nHlYAWx80XRl) | 2:38 | 2023-01-12 |  |
 | [Passenger](https://open.spotify.com/track/4a1xFaCJZT4HTeu2cW49Wa) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Passenger](https://open.spotify.com/album/4HOcowkkQ2CMEVj13FQdPF) | 2:35 | 2023-02-02 |  |

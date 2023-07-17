@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjUwMTMyZTJhZDI2YWM1ZTgxNTRiZGNjNWY0YTUxOWM3NWU0MGYx",
+  "snapshot_id": "MCw3NTZhMmQyY2JmMGNjNDYwMDk3Njk0M2E4Nzc0N2M0NjEwNDA3ZjQ4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "The Sex EP",
         "url": "https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6WpZwkzyjINc6wDghg8Gzv"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Blackphemy",
-        "url": "https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW"
-      },
-      "artists": [
-        {
-          "name": "Yb.",
-          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
-        }
-      ],
-      "duration_ms": 204771,
-      "name": "Blackphemy",
-      "url": "https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "can you see me?",
         "url": "https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 197994,
       "name": "can you see me?",
       "url": "https://open.spotify.com/track/0PqyrHOwAMA43it710rAor"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Blackphemy",
+        "url": "https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "duration_ms": 204771,
+      "name": "Blackphemy",
+      "url": "https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE"
-      },
-      "artists": [
-        {
-          "name": "Sofia Portanet",
-          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
-        }
-      ],
-      "duration_ms": 158097,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
         "name": "Nada de M\u00ed Vale Dinero",
         "url": "https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/26xokh7EVsB98XiXSgXwnE"
+      },
+      "artists": [
+        {
+          "name": "Sofia Portanet",
+          "url": "https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ"
+        }
+      ],
+      "duration_ms": 158097,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/7poQxcGYOFFeAQanCTm9Fw"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
         "name": "Seashell Cassette",
         "url": "https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 162782,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/6y5kt39E6zh272WSGReg3p"
-    },
-    {
-      "added_at": "2022-11-30 13:45:00",
-      "album": {
-        "name": "Enjoy Your Stay",
-        "url": "https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk"
-      },
-      "artists": [
-        {
-          "name": "Hotel Fiction",
-          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
-        }
-      ],
-      "duration_ms": 190079,
-      "name": "Allure",
-      "url": "https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -951,22 +935,18 @@
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Se Eu Acordar",
-        "url": "https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2"
+        "name": "Enjoy Your Stay",
+        "url": "https://open.spotify.com/album/7risOzpak6f9nkd7ByXMmk"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o N\u00e3o",
-          "url": "https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC"
-        },
-        {
-          "name": "Lil Noon",
-          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
+          "name": "Hotel Fiction",
+          "url": "https://open.spotify.com/artist/3k9WgzHiUobiS8ge4dQX9R"
         }
       ],
-      "duration_ms": 150540,
-      "name": "Se Eu Acordar",
-      "url": "https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5"
+      "duration_ms": 190079,
+      "name": "Allure",
+      "url": "https://open.spotify.com/track/1dQIKkKKDDXNf83GuUmVpp"
     },
     {
       "added_at": "2022-11-30 13:45:00",
@@ -983,6 +963,26 @@
       "duration_ms": 257437,
       "name": "I Won't Bite",
       "url": "https://open.spotify.com/track/2xz8YcWZwMR3Dcds2QqFeJ"
+    },
+    {
+      "added_at": "2022-11-30 13:45:00",
+      "album": {
+        "name": "Se Eu Acordar",
+        "url": "https://open.spotify.com/album/0ivJ8dbksjJ3cP81AVaPE2"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o N\u00e3o",
+          "url": "https://open.spotify.com/artist/5iOD5ECeTZmhUOiIoIPiHC"
+        },
+        {
+          "name": "Lil Noon",
+          "url": "https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs"
+        }
+      ],
+      "duration_ms": 150540,
+      "name": "Se Eu Acordar",
+      "url": "https://open.spotify.com/track/6W5NgyZX9fv8GdXTvEh4R5"
     },
     {
       "added_at": "2022-11-30 13:45:00",

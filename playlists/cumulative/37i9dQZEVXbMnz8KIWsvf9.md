@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-648 songs - 1 day 14 hr 6 min
+649 songs - 1 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,10 +537,11 @@
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/album/5xP13jAUjzH2TBjxaj5stu) | 3:39 | 2021-03-27\* | 2021-05-03 |
 | [ฟีโรโมน](https://open.spotify.com/track/03Pc18Z9L1n2LcyBb6SKZ1) | [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [2TFLOW](https://open.spotify.com/artist/5gPpLgNHI1brQiqNmgN5bd) | [ฟีโรโมน](https://open.spotify.com/album/0dpdzEeWNDE626rNHpKiuH) | 3:40 | 2022-02-01 | 2022-07-03 |
 | [มีปัญหาปรึกษาดาว](https://open.spotify.com/track/4YxaxRxi8lFZdAWS9nCmAn) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [มีปัญหาปรึกษาดาว](https://open.spotify.com/album/2Xt4DOcKSz4DZfB1cKsZAo) | 3:58 | 2021-04-30 | 2021-09-10 |
+| [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 | 2023-07-16 |  |
 | [ยิ่งใกล้ยิ่งเก็บ](https://open.spotify.com/track/1GcLstNhtKD1c60tPGxYcH) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M), [feat\. AUTTA](https://open.spotify.com/artist/4rVLBFI2QUVzXq4h4jzUFj) | [ยิ่งใกล้ยิ่งเก็บ \(feat\. AUTTA\)](https://open.spotify.com/album/3yeiECYxzfsMV77YsDVDnY) | 3:39 | 2021-05-03 | 2021-07-22 |
 | [ยิ้มทั้งน้ำตา](https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ้มทั้งน้ำตา](https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd) | 4:45 | 2023-03-10 |  |
 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2023-06-25 | 2023-07-12 |
-| [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-02-11 |  |
+| [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2023-02-11 | 2023-07-17 |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2022-10-01 | 2023-06-10 |
 | [รักแรก \(First Love\) \- เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 | 2023-05-19 |  |
 | [รู้กันแค่นี้ \- mint](https://open.spotify.com/track/6ck9dK5Wh0lZvvBsX49HZD) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [รู้กันแค่นี้ \(mint\)](https://open.spotify.com/album/3qyFShIWhPpf4lgxZ1EaWE) | 3:36 | 2023-02-16 | 2023-05-06 |

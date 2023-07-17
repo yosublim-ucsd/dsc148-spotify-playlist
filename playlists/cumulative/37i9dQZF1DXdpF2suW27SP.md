@@ -4,7 +4,7 @@
 
 > Mizzy Miles entra na zona.
 
-321 songs - 17 hr 29 min
+322 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Dona](https://open.spotify.com/track/3ItaN5uDoA1Muk8S5vpbdZ) | [NGA](https://open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s) | [Dona](https://open.spotify.com/album/3JwAOwKIEzZ9nFxaRcg9Oo) | 4:05 | 2022-08-11 | 2022-09-02 |
 | [DONDE](https://open.spotify.com/track/4EiZlZ37Q8EnQIU7e2aD2y) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [DONDE](https://open.spotify.com/album/1YR6A1jw2N2B9WlvqIMjfu) | 3:31 | 2022-12-02 |  |
 | [Dormi No Carro](https://open.spotify.com/track/45v2Tp3itHwoAD5CoCErgc) | [Russa](https://open.spotify.com/artist/0xvJ9qU06BFpjboJHMulTm) | [Dormi No Carro](https://open.spotify.com/album/0jiBatlpuclG0BU2C1Ancy) | 2:41 | 2022-12-09 | 2023-01-13 |
-| [Drill Clássico](https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:24 | 2023-07-13 |  |
+| [Drill Clássico](https://open.spotify.com/track/0kDR6qXUeXyYqeIVdZDVmI) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/5ycFLdPQSqXthLoVmb15GV) | 2:24 | 2023-07-13 |  |
+| [Drill Clássico](https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:24 | 2023-07-13 | 2023-07-17 |
 | [Drill Clássico](https://open.spotify.com/track/7c7vruftDkTBDv59lHW7VZ) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/11tgu5DZT4iYWYpOuiXIwF) | 2:24 | 2023-07-06 | 2023-07-14 |
 | [Drunk in Love](https://open.spotify.com/track/2fmGyS46jsnGAkwAKjLev7) | [Jvst Fly](https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa) | [Drunk in Love](https://open.spotify.com/album/69P2QzizEduJz9I5GQhmvB) | 2:44 | 2023-06-01 | 2023-07-07 |
 | [ELA QUERIA MAIS](https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 2:15 | 2023-04-06 | 2023-07-07 |

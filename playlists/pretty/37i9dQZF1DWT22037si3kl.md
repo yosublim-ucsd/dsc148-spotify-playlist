@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,536 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,674 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 50 | [Volvo sem placa](https://open.spotify.com/track/4QiAwMtRTvSdup6BtOgDYJ) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52) | [Volvo sem placa](https://open.spotify.com/album/1SfbniI5nihS2tv51SvZ6z) | 2:48 |
 
-Snapshot ID: `MCxmNmY2NWU2ZTFjZWY0YTBmNmQ3OTY5MDlhZmViOTFmYjVlZWIxZTM0`
+Snapshot ID: `MCxhYTZiMDYyODY1YThjODhjZTUzMmM1MmI0NzhjMDIzZTVjZjk2MDlj`

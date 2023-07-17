@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 83256,
+  "num_followers": 83285,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2ZlYjVkNDJhMjYzMmZhZWFhZTBhYjg1MGE1OWM4ZGJkZjQ3NDcx",
+  "snapshot_id": "MCxlYzI1ZjQ4ODFlZDNmNWJhZjFlYTZlYmVlYmI0ZTg5Y2EzN2ViNGUw",
   "tracks": [
     {
       "added_at": "2023-04-06 00:51:46",
@@ -787,22 +787,18 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Dos Infieles",
-        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
+        "name": "Pirata",
+        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
       },
       "artists": [
         {
-          "name": "Lumila",
-          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
-        },
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
         }
       ],
-      "duration_ms": 224573,
-      "name": "Dos Infieles",
-      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
+      "duration_ms": 170192,
+      "name": "Pirata",
+      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Pirata",
-        "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
+        "name": "Dos Infieles",
+        "url": "https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f"
       },
       "artists": [
         {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+          "name": "Lumila",
+          "url": "https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz"
+        },
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 170192,
-      "name": "Pirata",
-      "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
+      "duration_ms": 224573,
+      "name": "Dos Infieles",
+      "url": "https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K"
     },
     {
       "added_at": "2023-04-06 00:51:46",

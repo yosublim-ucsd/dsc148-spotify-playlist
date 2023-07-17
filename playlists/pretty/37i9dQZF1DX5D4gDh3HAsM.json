@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 510090,
+  "num_followers": 510052,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
+  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Just Me This Year",
+        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
+    },
+    {
       "added_at": "2021-11-12 15:48:58",
       "album": {
         "name": "Christmas Greetings",
@@ -279,22 +295,6 @@
       "duration_ms": 183412,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Just Me This Year",
-        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 187005,
-      "name": "Just Me This Year",
-      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas With The Puppini Sisters",
-        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
-      },
-      "artists": [
-        {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
         "name": "A Dave Brubeck Christmas",
         "url": "https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 212400,
       "name": "To Us Is Given",
       "url": "https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "Christmas With The Puppini Sisters",
+        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
+      },
+      "artists": [
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 200516,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
         "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 299040,
       "name": "A Nightingale Sang In Berkeley Square (duet with Gloria Estefan)",
       "url": "https://open.spotify.com/track/3MO6GyDQQ8WGVAJ2uHorbP"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "A Legendary Christmas",
-        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 200516,
-      "name": "Christmas Time Is Here",
-      "url": "https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 154080,
       "name": "Little Jack Frost Get Lost",
       "url": "https://open.spotify.com/track/4lrk2zmv9kbETfl4xKDcL9"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
     },
     {
       "added_at": "2021-11-12 15:48:58",

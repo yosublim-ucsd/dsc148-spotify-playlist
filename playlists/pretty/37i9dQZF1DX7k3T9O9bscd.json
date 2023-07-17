@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. L.A Priest on cover.",
-  "num_followers": 372457,
+  "num_followers": 372658,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmZkZmZjZDA4NmU2MDA1MDBjZWEyYWE1YjYxYzBjMjc5YTI2MjMz",
+  "snapshot_id": "MCwzYzI5YjNjZGJkNGE5NmVjZDA2NGI0M2M0YzZkMjk0ZjNiMDdiNzJj",
   "tracks": [
     {
       "added_at": "2023-07-14 01:25:54",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "D\u00e9j\u00e0vu",
-        "url": "https://open.spotify.com/album/2priXi39uori5UwmnwA6oO"
-      },
-      "artists": [
-        {
-          "name": "Matty",
-          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "I'll Gladly Place Myself Below You",
-      "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "D\u00e9j\u00e0vu",
+        "url": "https://open.spotify.com/album/2priXi39uori5UwmnwA6oO"
+      },
+      "artists": [
+        {
+          "name": "Matty",
+          "url": "https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "I'll Gladly Place Myself Below You",
+      "url": "https://open.spotify.com/track/4FSL3oH2RpoazyJRY2qGfx"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Snake Chain",
-        "url": "https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql"
-      },
-      "artists": [
-        {
-          "name": "Shake Chain",
-          "url": "https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Mike",
-      "url": "https://open.spotify.com/track/47t2i7V3eYY8CqRKGjnK4O"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Rose City Band",
         "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
@@ -807,22 +791,6 @@
       "duration_ms": 394323,
       "name": "Rivers of Mind",
       "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
-        "name": "everything's worth it",
-        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
-      },
-      "artists": [
-        {
-          "name": "iogi",
-          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
-        }
-      ],
-      "duration_ms": 219524,
-      "name": "you\\me\\everyone",
-      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -843,6 +811,22 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
+        "name": "everything's worth it",
+        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "duration_ms": 219524,
+      "name": "you\\me\\everyone",
+      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
         "name": "Fuckin Whatever",
         "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 213211,
       "name": "Trash",
       "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Snake Chain",
+        "url": "https://open.spotify.com/album/5hWVND0W7e2bWiZHwBqxql"
+      },
+      "artists": [
+        {
+          "name": "Shake Chain",
+          "url": "https://open.spotify.com/artist/6akq3yIgLS5DRCXLweoMCN"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Mike",
+      "url": "https://open.spotify.com/track/47t2i7V3eYY8CqRKGjnK4O"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
+        "name": "Bud Spencer Blues Explosion",
+        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Hey Boy Hey Girl - Cover Version",
+      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
         "name": "Time Bazaar",
         "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 593386,
       "name": "Illusory Motion",
       "url": "https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
-        "name": "Bud Spencer Blues Explosion",
-        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Hey Boy Hey Girl - Cover Version",
-      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Reap the Storm",
-        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
-      },
-      "artists": [
-        {
-          "name": "Wucan",
-          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
-        }
-      ],
-      "duration_ms": 325015,
-      "name": "The Rat Catcher",
-      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Sancocho Stereo",
         "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 273000,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Reap the Storm",
+        "url": "https://open.spotify.com/album/2cjYFCwK1QT5gt90rGsEMS"
+      },
+      "artists": [
+        {
+          "name": "Wucan",
+          "url": "https://open.spotify.com/artist/7FsZ5HKdtDFJ1xmK6NICBO"
+        }
+      ],
+      "duration_ms": 325015,
+      "name": "The Rat Catcher",
+      "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Hippie Hourrah!",
-        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 306453,
-      "name": "Fant\u00f4me",
-      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Hyper Super Mega",
         "url": "https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 240468,
       "name": "Forever End",
       "url": "https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Hippie Hourrah!",
+        "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 306453,
+      "name": "Fant\u00f4me",
+      "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "The Exorcist GBG",
-        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
-      },
-      "artists": [
-        {
-          "name": "The Exorcist GBG",
-          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
-        }
-      ],
-      "duration_ms": 174803,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Victor's Belt",
-        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
+        "name": "The Exorcist GBG",
+        "url": "https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu"
       },
       "artists": [
         {
-          "name": "Jaialai",
-          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
+          "name": "The Exorcist GBG",
+          "url": "https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV"
         }
       ],
-      "duration_ms": 192386,
-      "name": "Victor's Belt",
-      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
+      "duration_ms": 174803,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1467,6 +1451,22 @@
       "duration_ms": 541122,
       "name": "New Hope For The New Year",
       "url": "https://open.spotify.com/track/1nvN1xiHviRrs1m3V3guLY"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Victor's Belt",
+        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
+      },
+      "artists": [
+        {
+          "name": "Jaialai",
+          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Victor's Belt",
+      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
     },
     {
       "added_at": "2023-07-14 01:25:54",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-14 01:25:54",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2023-07-14 01:25:54",
-      "album": {
         "name": "Youth Accomplished",
         "url": "https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 225750,
       "name": "Youth Accomplished",
       "url": "https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL"
+    },
+    {
+      "added_at": "2023-07-14 01:25:54",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2023-07-14 01:25:54",

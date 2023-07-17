@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-564 songs - 1 day 17 hr 1 min
+565 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Bayne Lay Yihedal](https://open.spotify.com/track/5ib4uV4lUJyFKXF6vfxmrk) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Bayne Lay Yihedal](https://open.spotify.com/album/59oXTvqVLMfbexfncNivia) | 5:09 | 2021-10-06 | 2022-07-27 |
 | [BC](https://open.spotify.com/track/28dZT1QGQRoK7HnO0pk8yd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 7:30 | 2023-04-05 | 2023-06-20 |
 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-04-05 | 2023-04-30 |
-| [Ben Bene La](https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Voiciii](https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH) | 4:48 | 2021-10-06 |  |
+| [Ben Bene La](https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Voiciii](https://open.spotify.com/album/5kf5N7odrE990aRCyW3PEH) | 4:48 | 2021-10-06 | 2023-07-17 |
 | [Bersinar Bersamamu](https://open.spotify.com/track/6pAUpp3urzftoj3O5wrw4q) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Adinda](https://open.spotify.com/artist/2c3wCnUuiH1cRgcUxpIrKB) | [Bersinar Bersamamu](https://open.spotify.com/album/0Ap2bqkmabssfNlAJt7k3s) | 4:42 | 2022-04-01 | 2022-10-01 |
 | [Bessa](https://open.spotify.com/track/1GClY6s7tBT9BnSWU1231A) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [kokon](https://open.spotify.com/album/2zckcXgFYNW53mXVfKlwLK) | 3:39 | 2023-05-22 |  |
 | [Better Days \(Kumba\)](https://open.spotify.com/track/2HPB1X4LrvvHxoNgMQGB8S) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO), [Gilbert K](https://open.spotify.com/artist/4806BUBQra8PgZMWXpYDO9), [Waina](https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i) | [Better Days](https://open.spotify.com/album/0Nxl08hPtWD64wmJ4QDtKz) | 6:33 | 2022-08-13 | 2022-09-04 |
@@ -167,6 +167,7 @@
 | [Entazerni \(Habibi Funk 019\)](https://open.spotify.com/track/1sWsh2rdhAzVCJmfNhGg82) | [Ferkat Al Ard](https://open.spotify.com/artist/1Rf1hYrWaOiHIL2u8VJxfW) | [Entazerni \(Habibi Funk 019\)](https://open.spotify.com/album/2WNVojV0IBBmkQ459RFi8U) | 4:16 | 2022-05-24 | 2022-06-04 |
 | [Erkilet Güzeli](https://open.spotify.com/track/7wEdkA4uKUws64Sn147SkC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT), [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kisasa Kisas b/w Erkilet Güzeli](https://open.spotify.com/album/629MwG1lyg2eWBzTlc3fja) | 3:07 | 2021-10-06 | 2022-04-20 |
 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 | 2023-04-14 | 2023-07-16 |
+| [Esperar pra Ver](https://open.spotify.com/track/0AiCAbg6Xb4uGk9bB5L1jw) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/5KZ592h7LSigAzhRtsRwue) | 2:07 | 2021-10-06 |  |
 | [Esperar pra Ver](https://open.spotify.com/track/2M6H4fqf5olMjqzwwBzkEf) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Mr Bongo Record Club, Vol\. 1](https://open.spotify.com/album/54FBJ6Mge0mw3czvirto1r) | 2:07 | 2021-10-06 | 2023-07-03 |
 | [Esperar Pra Ver](https://open.spotify.com/track/2gRtzGOxEsPaFLMEXGXYxy) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Beach Diggin’, Vol\. 1](https://open.spotify.com/album/2K2RVDtArhuNOc4HHDQ4oQ) | 2:08 | 2021-10-06 | 2022-07-29 |
 | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/track/6GMd54cabubG2fdz438cmF) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD), [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Et ta mère \(Solar Remix\) \[feat\. Reyna Tropical\]](https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx) | 3:40 | 2021-10-06 | 2022-06-07 |

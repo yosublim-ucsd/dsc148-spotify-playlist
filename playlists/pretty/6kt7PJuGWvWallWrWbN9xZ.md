@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 
 > these equations aren&\#x27;t adding up.
 
-[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 193 songs - 11 hr 20 min
+[Johnny Le](https://open.spotify.com/user/12158668258) - 1 like - 194 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,5 +201,6 @@ pretty - [cumulative](/playlists/cumulative/6kt7PJuGWvWallWrWbN9xZ.md) - [plain]
 | 191 | [pacman](https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [medicated insomnia](https://open.spotify.com/album/5bihxDFhue1Lsz12BoKU3Z) | 1:33 |
 | 192 | [So Beautiful](https://open.spotify.com/track/6syar8JKCt3R9ZBl11zmgI) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:07 |
 | 193 | [could you love me while i hate myself](https://open.spotify.com/track/7uo2L5FAja3pWIBa3HJVeC) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [scared of everything](https://open.spotify.com/album/6qf1Qjmib5fOTb18Ju6uA9) | 1:00 |
+| 194 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 |
 
-Snapshot ID: `Mjk1LDRjM2NiZjE4NzYyZjFhNTVjMjM1Mjk2YWQ3ZmE0N2MxNmQ3ZjJlNTI=`
+Snapshot ID: `Mjk2LDMxOTc4YjYxMzFhZGRhYTVkMjVkNDVjNjAyNTVkMmNiZTk0OWM0NmM=`

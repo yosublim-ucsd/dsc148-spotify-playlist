@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ツチヤカレン
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,336 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,358 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Iria](https://open.spotify.com/track/5dzjLYKpR8NzKVAyJY4FRZ) | [nulut](https://open.spotify.com/artist/1NWep4Y5u3meUn7TcsHVm9) | [Iria](https://open.spotify.com/album/6cWPUrFmaXLUwHs9h509ww) | 2:37 |
 | 80 | [SOMEDAY](https://open.spotify.com/track/6n1K7EX4HfI2wVZbXb6OI8) | [西野恵未](https://open.spotify.com/artist/24RkBHI4XkYt7o3nFrV6Em) | [SOMEDAY](https://open.spotify.com/album/1cPGk0PsWCNVswCePmo7Iy) | 3:41 |
 
-Snapshot ID: `MCxjMTQ0ZTU2ODBhZWQyOWFhYmU3MTlmYjJjOTVmZDdjYjU5ZDRiMGUw`
+Snapshot ID: `MCxkNDIyZDg2MWZkM2Y4MjhhYzQ5MzUyMzUxMWZjZWYzZWQ4NTFkNGYz`

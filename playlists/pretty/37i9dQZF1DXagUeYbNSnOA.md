@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring MAGNA\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,067 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,066 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 39 | [nada es 4 life](https://open.spotify.com/track/1RxCrKmIJcsjWzscUOqYy1) | [CONDY](https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3) | [PuDo HaBeR SidO](https://open.spotify.com/album/7q7kVUveKdto6uhyf8nbrZ) | 2:14 |
 | 40 | [Con la gata y tus mentiras](https://open.spotify.com/track/2jykCNG4QLzJGGawOcen0T) | [Faculimón](https://open.spotify.com/artist/1WGwOKN6ey1Q11JjpIZdDa), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Con la gata y tus mentiras](https://open.spotify.com/album/3jprgQy8G0ERjgQronO3cX) | 3:45 |
 | 41 | [Sin Equipaje](https://open.spotify.com/track/1D5k79Go7qwvOEuMKPdzBz) | [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [Sin Equipaje](https://open.spotify.com/album/2DakiSbV5vQqJB0Jk0t4Iy) | 4:36 |
-| 42 | [Profundo](https://open.spotify.com/track/6S9C8Tv8SjtVf1oJ7ycaR9) | [Pacifika](https://open.spotify.com/artist/1THKuFOwUsISl3YdpVx5ke) | [Profundo](https://open.spotify.com/album/1VWwiIDL7IuGhwsnaCUYnj) | 4:45 |
-| 43 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 |
+| 42 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 |
+| 43 | [Profundo](https://open.spotify.com/track/6S9C8Tv8SjtVf1oJ7ycaR9) | [Pacifika](https://open.spotify.com/artist/1THKuFOwUsISl3YdpVx5ke) | [Profundo](https://open.spotify.com/album/1VWwiIDL7IuGhwsnaCUYnj) | 4:45 |
 | 44 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 |
 | 45 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 |
 | 46 | [VIP](https://open.spotify.com/track/5mUa1V9AT1VnB79xCfS1vw) | [Los Domblas](https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P) | [VIP](https://open.spotify.com/album/5MdKIHQ88sc6bt4ltzVZ5w) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Solo](https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs) | [Zenith](https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4) | [Solo](https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS) | 3:53 |
 | 50 | [una y diez](https://open.spotify.com/track/5wuSHFYAS3kmPZBeWjts0v) | [LUANDA](https://open.spotify.com/artist/4uafDYiyPmfiBC9XJPxtsp) | [una y diez](https://open.spotify.com/album/3qUSxcib4jTzSGR2BFGRqa) | 2:39 |
 
-Snapshot ID: `MCw4NDU1ZjVkMTQ1YTU1NzljYTI0OTg5OGEyOTM3ZjI5Njk1YWFjNTBh`
+Snapshot ID: `MCxjODFmZjg2M2JmZmI3NDE0N2E0NDBhMWJhZGZhYzNjZmVkOTViNzZh`

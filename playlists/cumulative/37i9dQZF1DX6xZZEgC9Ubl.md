@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-821 songs - 1 day 13 hr 14 min
+822 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Flower Ghoul](https://open.spotify.com/track/3ovha0ritsxTs7pTND84qJ) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Flower Ghoul](https://open.spotify.com/album/0RqHblTAIH8QJlNi3LapPw) | 2:33 | 2021-08-14 | 2022-04-20 |
 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 | 2020-12-13\* |  |
 | [Forever](https://open.spotify.com/track/7uHRKSQ9WIlBBuBY7BHcbq) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever](https://open.spotify.com/album/6eCvWduBT4UJSYpseMSnXO) | 1:48 | 2021-01-15 | 2021-02-13 |
-| [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-04-01 |  |
+| [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-04-01 | 2023-07-17 |
 | [France](https://open.spotify.com/track/7xJJNE9vdaX9Klohsgwvig) | [Memoria XI](https://open.spotify.com/artist/7qIHY5nwyAyxsM0U1e1UzN) | [France](https://open.spotify.com/album/5Poz3oowMoLtWzMraDFzZ8) | 2:41 | 2021-05-08 | 2022-07-28 |
 | [freak](https://open.spotify.com/track/3Tq98MvUH8kxeygv1kurtt) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [die sometime](https://open.spotify.com/album/6E66jNtlc0OkUFcXwILWUM) | 2:25 | 2021-05-22 | 2022-07-14 |
 | [FREE BRITNEY SPEARS](https://open.spotify.com/track/1XVRUY7nqoWZAznpoNkSse) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [FREE BRITNEY SPEARS](https://open.spotify.com/album/5gOmiUpgGFJ5Z7WN5LfhE9) | 1:57 | 2021-03-14 | 2021-03-26 |
@@ -752,6 +752,7 @@
 | [UNKNOWN](https://open.spotify.com/track/0Z8h8JgHnvyYXY0VLT0YXH) | [prettyboys](https://open.spotify.com/artist/2gEcnCymek6QgS9DfQF3UZ) | [UNKNOWN](https://open.spotify.com/album/3indV6cCInris0c4k2cWpy) | 3:32 | 2021-10-29 | 2022-04-17 |
 | [Up Up and Away](https://open.spotify.com/track/5MzAdOahVsGuDw40wOcZmJ) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Epochs](https://open.spotify.com/album/4F5BxxBPbLidRGBYdMsGug) | 3:34 | 2020-12-18 | 2021-04-24 |
 | [Upset](https://open.spotify.com/track/54WI3cLupfyM0BN9Jshsta) | [CHRIS RAIN](https://open.spotify.com/artist/2xVJqCdxc81K24QaW0je4y) | [Upset](https://open.spotify.com/album/0gp185gn4jfzQIZkoKGDOk) | 2:32 | 2023-02-10 | 2023-03-18 |
+| [Used and Abused](https://open.spotify.com/track/4Pm6w77iE9ZVfhfVlpZEZm) | [BraveSquid](https://open.spotify.com/artist/1hKnOXGQPqbLPJrzlUSmOX) | [Used and Abused](https://open.spotify.com/album/1w0MBnT1F7aOiiA7i04gmB) | 3:53 | 2023-06-30 |  |
 | [USED2KNOW](https://open.spotify.com/track/1AypGrF9hgXuCpvt2b8BEY) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [WITH OR WITHOUT YOU](https://open.spotify.com/album/34SV634wGtLESb5QalBf32) | 2:33 | 2022-01-28 | 2022-07-29 |
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-17 |  |
 | [VACANT](https://open.spotify.com/track/2CxTUwmFIMzGfkxVLVQiFJ) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [THE WALLS HAVE EYES](https://open.spotify.com/album/4dFW8b4h1IIKr5Un1NaNSI) | 2:41 | 2023-02-17 | 2023-06-10 |

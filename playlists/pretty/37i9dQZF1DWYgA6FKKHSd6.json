@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 214111,
+  "num_followers": 214149,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzY2NmY4YTM2Njg5ZDE4YTI5NTkzNDcyMjA5N2FhYzUwNzViYzBj",
+  "snapshot_id": "MCwwZTZiZjIzZmRkMGU5MDVmNmU1YmFjM2I1YjE2MDFmMjdhNWM2MzRj",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Backyard Brew",
@@ -811,6 +795,22 @@
       "duration_ms": 254376,
       "name": "Backyard Brew",
       "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Cachaca",
-      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Breakin' thru",
         "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 270968,
       "name": "Breakin' thru",
       "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Cachaca",
+      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "As the Days Go by...",
+        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+      },
+      "artists": [
+        {
+          "name": "Alfonzo Blackwell",
+          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+        }
+      ],
+      "duration_ms": 309827,
+      "name": "As the Days Go by...",
+      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Dave Koz And Friends Summer Horns",
         "url": "https://open.spotify.com/album/3yh9UkYQLK0ZlFBdeEcPmF"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 243653,
       "name": "Always There",
       "url": "https://open.spotify.com/track/3piYbySL0X1f4ZYfwuIWm2"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "As the Days Go by...",
-        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
-      },
-      "artists": [
-        {
-          "name": "Alfonzo Blackwell",
-          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
-        }
-      ],
-      "duration_ms": 309827,
-      "name": "As the Days Go by...",
-      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1281,6 +1281,22 @@
       "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Human Nature",
@@ -1309,20 +1325,20 @@
       "url": "https://open.spotify.com/track/4vMb0VIg2w6qcrfaqRjcYB"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+        "name": "Pride And Joy",
+        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
         }
       ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+      "duration_ms": 248146,
+      "name": "American Garden",
+      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1343,22 +1359,6 @@
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pride And Joy",
-        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
-      },
-      "artists": [
-        {
-          "name": "Phillip Doc Martin",
-          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "American Garden",
-      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Prime Time",
-        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Prime Time",
-      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Feelin'",
         "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 238887,
       "name": "Summer Feelin'",
       "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 243986,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "City Life",
         "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 294346,
       "name": "City Life",
       "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Breakin' thru",
-        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 237005,
-      "name": "Dare 2 Dream",
-      "url": "https://open.spotify.com/track/6YD15Hzv3d1oEE6eiw9CJV"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Pulling Off The Covers",
         "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Breakin' thru",
+        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 237005,
+      "name": "Dare 2 Dream",
+      "url": "https://open.spotify.com/track/6YD15Hzv3d1oEE6eiw9CJV"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 304600,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
+    },
+    {
+      "added_at": "2021-10-08 04:02:00",
+      "album": {
+        "name": "No Shade",
+        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Norris",
+          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
+        }
+      ],
+      "duration_ms": 248472,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -1661,22 +1677,6 @@
       "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
     },
     {
-      "added_at": "2021-10-08 04:02:00",
-      "album": {
-        "name": "No Shade",
-        "url": "https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Norris",
-          "url": "https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G"
-        }
-      ],
-      "duration_ms": 248472,
-      "name": "No Shade",
-      "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Moment of Truth",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV"
+        "name": "Carnival Fever",
+        "url": "https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A"
       },
       "artists": [
         {
-          "name": "Randy Scott",
-          "url": "https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw"
+          "name": "Elan Trotman",
+          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
         }
       ],
-      "duration_ms": 217022,
-      "name": "You're My Joy",
-      "url": "https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL"
+      "duration_ms": 263083,
+      "name": "Carnival Fever",
+      "url": "https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ"
     },
     {
       "added_at": "2022-06-17 04:02:00",

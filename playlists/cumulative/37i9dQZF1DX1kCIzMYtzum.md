@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-462 songs - 1 day 0 hr 8 min
+463 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [I’ll Take You High](https://open.spotify.com/track/4wkUa6PiswVtAwak37I1zC) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I’ll Take You High](https://open.spotify.com/album/3XapOB6DvwWEvaLH91I5Ex) | 2:52 | 2022-03-18 | 2022-04-15 |
 | [I’m Blue \(with T\-Pain\)](https://open.spotify.com/track/5IztgoHg3NQGep7SjbI5W7) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I’m Blue \(with T\-Pain\)](https://open.spotify.com/album/7EzEjcZPL1ZrnxGFERqKuQ) | 3:02 | 2022-07-15 | 2023-02-10 |
 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 | 2022-03-18 | 2022-04-19 |
-| [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju) | 3:13 | 2022-11-29 |  |
+| [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/track/19awxNpyrGWGkM6wT6ULEi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Journey \(Take Me Where You Wanna\)](https://open.spotify.com/album/5bJKqcAVWifLUvDeJJOCju) | 3:13 | 2022-11-29 | 2023-07-17 |
 | [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-04-21 |  |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-17 | 2023-02-18 |
 | [Kong](https://open.spotify.com/track/4GTZNsnEwRCG2l0H2nTKiA) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Kong](https://open.spotify.com/album/3bBQi7fx59FjnpFBWOxgPq) | 2:13 | 2022-03-18 | 2022-04-06 |
@@ -368,6 +368,7 @@
 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 | 2022-11-29 |  |
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2021-06-02 | 2023-01-04 |
 | [Silver Lining](https://open.spotify.com/track/6D9pncRlZZoq4oc1tzAC1y) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Silver Lining](https://open.spotify.com/album/21WYCgAsF27UnSt3O9fIP0) | 2:57 | 2021-06-02 | 2022-07-29 |
+| [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-14 |  |
 | [So Good](https://open.spotify.com/track/4LajgncdHI6ZdhkoS16gjX) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [So Good](https://open.spotify.com/album/3YIhzVAZTUKLIFDr2WwnOz) | 3:40 | 2022-03-18 | 2022-04-14 |
 | [So Good To Me](https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [So Good To Me](https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38) | 3:36 | 2022-04-15 | 2022-07-29 |
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2022-07-28 |

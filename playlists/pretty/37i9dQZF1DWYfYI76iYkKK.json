@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 120953,
+  "num_followers": 120986,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDI3ODdkZDI5ZjI5NzNkZTQ4ZDhmZDE5YmQ0ZTcyNDk4OGY4NTVm",
+  "snapshot_id": "MCw4ODBlYTUyMTMyYjAxMjk1OWY5MjI2YTE4YzI3M2ZkZTcxNjU0YzVh",
   "tracks": [
     {
       "added_at": "2023-07-13 16:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "\u91cd\u62fe_\u5feb\u6a02",
-        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
-      },
-      "artists": [
-        {
-          "name": "JJ Lin",
-          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-        }
-      ],
-      "duration_ms": 249417,
-      "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
-      "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
         "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
         "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 200287,
       "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
       "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
+        "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
+        "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "duration_ms": 205371,
+      "name": "\u6b63\u60f3\u8457\u4f60\u5462",
+      "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
     },
     {
       "added_at": "2023-07-13 16:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "\u623f\u9593\u88e1\u7684\u5927\u8c61",
-        "url": "https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG"
+        "name": "\u91cd\u62fe_\u5feb\u6a02",
+        "url": "https://open.spotify.com/album/3KEUzl4MC7mw0tNypb2WUm"
       },
       "artists": [
         {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
         }
       ],
-      "duration_ms": 205371,
-      "name": "\u6b63\u60f3\u8457\u4f60\u5462",
-      "url": "https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry"
+      "duration_ms": 249417,
+      "name": "\u5982\u679c\u6211\u9084\u5269\u4e00\u4ef6\u4e8b\u60c5\u53ef\u4ee5\u505a",
+      "url": "https://open.spotify.com/track/1yF0TL45iq2OPUnnZJONMa"
     },
     {
       "added_at": "2023-07-13 16:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "Wordless Groans",
-        "url": "https://open.spotify.com/album/0pL2KHp15cmfVn9ZWa8ZLW"
-      },
-      "artists": [
-        {
-          "name": "Yoga Lin",
-          "url": "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
-        }
-      ],
-      "duration_ms": 299863,
-      "name": "Wordless Groans",
-      "url": "https://open.spotify.com/track/2cUgbDiOEk6OnxYRJKoGwk"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
         "name": "\u8f7b\u8f7b(\u300a\u957f\u98ce\u6e21\u300b\u5f71\u89c6\u5267\u4e3b\u9898\u66f2)",
         "url": "https://open.spotify.com/album/2ow2a2CTBCZpDQANUuMabi"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 256489,
       "name": "\u8f7b\u8f7b(\u300a\u957f\u98ce\u6e21\u300b\u5f71\u89c6\u5267\u4e3b\u9898\u66f2)",
       "url": "https://open.spotify.com/track/6tExCmPVJ7zc8PPwmz2b8p"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
+        "name": "Wordless Groans",
+        "url": "https://open.spotify.com/album/0pL2KHp15cmfVn9ZWa8ZLW"
+      },
+      "artists": [
+        {
+          "name": "Yoga Lin",
+          "url": "https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2"
+        }
+      ],
+      "duration_ms": 299863,
+      "name": "Wordless Groans",
+      "url": "https://open.spotify.com/track/2cUgbDiOEk6OnxYRJKoGwk"
     },
     {
       "added_at": "2023-07-13 16:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "\u9858\u611b\u5805\u5b9a",
-        "url": "https://open.spotify.com/album/7LVFAv2zqxP3VVSdtB9NRQ"
-      },
-      "artists": [
-        {
-          "name": "Kit Chan",
-          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "\u9858\u611b\u5805\u5b9a",
-      "url": "https://open.spotify.com/track/0fThwop1oDrMPA67KzkGe4"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
         "name": "\u9752\u7a7a\u672a\u4f86",
         "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
+        "name": "\u9858\u611b\u5805\u5b9a",
+        "url": "https://open.spotify.com/album/7LVFAv2zqxP3VVSdtB9NRQ"
+      },
+      "artists": [
+        {
+          "name": "Kit Chan",
+          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "\u9858\u611b\u5805\u5b9a",
+      "url": "https://open.spotify.com/track/0fThwop1oDrMPA67KzkGe4"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
-        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
-      },
-      "artists": [
-        {
-          "name": "Evan Yo",
-          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
-        }
-      ],
-      "duration_ms": 266286,
-      "name": "\u5047\u7537\u53cb",
-      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
+        "name": "\u6211\u548c\u6211\u7684\u5e03\u62c9\u59c6\u65af",
+        "url": "https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI"
+      },
+      "artists": [
+        {
+          "name": "Evan Yo",
+          "url": "https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV"
+        }
+      ],
+      "duration_ms": 266286,
+      "name": "\u5047\u7537\u53cb",
+      "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
     },
     {
       "added_at": "2023-07-13 16:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "\u6084\u6084\u544a\u8a34\u4f60",
-        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
-      },
-      "artists": [
-        {
-          "name": "Christine Fan",
-          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "\u6084\u6084\u544a\u8a34\u4f60",
-      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
+        "name": "\u6084\u6084\u544a\u8a34\u4f60",
+        "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
+      },
+      "artists": [
+        {
+          "name": "Christine Fan",
+          "url": "https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "\u6084\u6084\u544a\u8a34\u4f60",
+      "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
     },
     {
       "added_at": "2023-07-13 16:00:00",

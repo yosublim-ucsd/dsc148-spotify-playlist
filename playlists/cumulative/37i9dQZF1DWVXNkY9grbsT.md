@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-335 songs - 1 day 4 hr 13 min
+336 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [All the Mornings in the World](https://open.spotify.com/track/2wcSdJ641eGA6ruzjIKwM2) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB) | 6:41 | 2021-12-26 | 2023-02-03 |
 | [All the Mornings in the World](https://open.spotify.com/track/67S6sKois8qE4nQ5nBPLM2) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl) | 6:41 | 2023-01-20 |  |
 | [All Things Burn](https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 5:41 | 2021-12-26 | 2023-06-28 |
+| [All Things Burn](https://open.spotify.com/track/2NVRwrkHjiwfB1EIDLH3p7) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:41 | 2023-07-13 |  |
 | [Amos](https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk) | [Daniel Imhof](https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS) | [Amos](https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG) | 8:03 | 2023-04-07 |  |
 | [Amygdala](https://open.spotify.com/track/4Di1dq49uG26tIHEsAxaQy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Amygdala](https://open.spotify.com/album/1MuIg8soW5Fhfg9i1BT6wZ) | 5:19 | 2022-03-04 |  |
 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 | 2022-03-25 |  |
@@ -169,7 +170,7 @@
 | [Långt under noll](https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0) | [Snufmumriko](https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn) | [Radio Mnemosyne](https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y) | 6:22 | 2022-03-04 |  |
 | [Machine Disappearing \- Eye Measure Remix](https://open.spotify.com/track/2VwtJgiqNvMws0Bn9Sp9QV) | [Emma\-Kate Matthews](https://open.spotify.com/artist/7c1RaCOuUPr4T9BbnScZJW), [Eye Measure](https://open.spotify.com/artist/2y8kpIIazLJlVJ4kTUJu4O) | [Machine Disappearing \(Eye Measure Remix\)](https://open.spotify.com/album/03mZdNFFRVeTYtdFWhUhgd) | 3:30 | 2021-12-26 | 2023-01-15 |
 | [Magnolia](https://open.spotify.com/track/6JXvHo8tnOEOJPJpFCcDmB) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [Alto Aria](https://open.spotify.com/artist/2fKzX6tkABWKK5MnXizpSR) | [Magnolia](https://open.spotify.com/album/5Pe3WSpP2eSJHgy3yNMpRj) | 4:44 | 2021-12-26 |  |
-| [Malady of duration](https://open.spotify.com/track/2RRDNHGUKYOqgsAJcVWRIT) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Silvercoat the throng](https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM) | 4:43 | 2021-12-26 |  |
+| [Malady of duration](https://open.spotify.com/track/2RRDNHGUKYOqgsAJcVWRIT) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Silvercoat the throng](https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM) | 4:43 | 2021-12-26 | 2023-07-17 |
 | [Many Gods, Many Angels](https://open.spotify.com/track/0KxY7ZWz8XLCiKaKsellzs) | [Lee Gamble](https://open.spotify.com/artist/7rAD9Ws0ihREeDmgPS2ZL8) | [In A Paraventral Scale EP](https://open.spotify.com/album/5HWtPvipgZKIvRPPc1Glgw) | 3:55 | 2021-12-26 | 2022-01-12 |
 | [MD 2](https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Past and Future Tense](https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR) | 3:44 | 2022-08-05 |  |
 | [Meet Me At Sachas](https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 2:06 | 2021-12-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t?si=a06bc68c84284445">Pink Sweat$</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,280 likes - 120 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,282 likes - 120 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 52 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
 | 53 | [Is It A Crime?](https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Is It A Crime? EP](https://open.spotify.com/album/3kxoRW2ZtrlfMOmiBrvSq7) | 2:22 |
 | 54 | [DO BAD](https://open.spotify.com/track/56yqjeadB7CbECmSXWIXKw) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [DO BAD](https://open.spotify.com/album/4jZ3g9IaxnPQEaiBmlHzZh) | 3:59 |
-| 55 | [Joy In The Morning](https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning](https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp) | 3:53 |
+| 55 | [Joy In The Morning \- Remix](https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning \(Remix\)](https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp) | 3:53 |
 | 56 | [Right My Wrongs](https://open.spotify.com/track/0kAy9nius3LMRVcE3W0I9J) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 2:20 |
 | 57 | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Dominique Sanders](https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/album/6ipIcbUQYfajQa4GWZn5tL) | 3:46 |
 | 58 | [Nasty](https://open.spotify.com/track/4Oh1oqgpwae7V9aiSmfZr3) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [TJOnline](https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [i was mature for my age, but i was still a child](https://open.spotify.com/album/0xJEL0q2jaHqIOamFxE7yq) | 3:30 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 120 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 
-Snapshot ID: `MCxmNTgwN2EyMmYxNjRkYzA3ZTRiZjcxNjg4MTQ2NjJjM2FkNmM5ZTky`
+Snapshot ID: `MCw3YjNjMDEwMzUyM2E5OTZhODYyNTQ4MmZkNzRjMTI5ZmExZGIzZDlk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,785 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,839 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 49 | [Bae](https://open.spotify.com/track/4ipVKbNInIxdSy7q7IzJsb) | [Elm Tree Circle](https://open.spotify.com/artist/0exWPi1dCLZq8QlHCLTZh4) | [Bae](https://open.spotify.com/album/7nklb4pTharrigbkpKw6Td) | 2:28 |
 | 50 | [My Mind is Eating Me Alive](https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:38 |
 
-Snapshot ID: `MCxmMGQwOTM1ZGU0YzY1ZmI2MjdkY2E2Y2Q4MjA5M2QzZTIyODhkODIz`
+Snapshot ID: `MCxkOGI4NzJkMjNiOTc0ODIyOWYwMDkzZjgwZjQ0NDY4NDgzZTM0Mjc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Blake Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,991 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,085 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 80 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 81 | [Carolina Rolling By](https://open.spotify.com/track/3KPbfMIQy43Wc9XbhmaIFy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Carolina Rolling By](https://open.spotify.com/album/09vc762pu9mS1mnKBIK9Sj) | 4:55 |
 | 82 | [Saturn Returning](https://open.spotify.com/track/0y6DngD7Bw9BMnAHAksK3K) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Saturn Returning](https://open.spotify.com/album/5E9UzV7YXUl3q92jy2aEwA) | 2:47 |
-| 83 | [Marvel Room \(feat\. Bon Iver\)](https://open.spotify.com/track/0RolGZOTW6ygV5BaZNc3sK) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Marvel Room](https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv) | 3:04 |
+| 83 | [Marvel Room \(feat\. Bon Iver\)](https://open.spotify.com/track/4AIcVoMMyutcuiSPVvSS5n) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Extract](https://open.spotify.com/album/4UgWkdVxX9m5DtdELwJUbI) | 3:04 |
 | 84 | [Til the Day I Die](https://open.spotify.com/track/4DWerKpi6EkGiCBo1M7O6w) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Strange Weather](https://open.spotify.com/album/7aHwTEU8eEbVHZa2gJQArj) | 3:11 |
 | 85 | [Stuck In A Room](https://open.spotify.com/track/7qK6GYLSuy28Vz0wPZzVCB) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Stuck In A Room](https://open.spotify.com/album/1Hus5kgGEybS8diRKiKWVb) | 2:11 |
 | 86 | [Sheep Song](https://open.spotify.com/track/12c743o30lNiAysRaNu29y) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Sheep Song](https://open.spotify.com/album/0ETbfyLtecs5wGYVpGdo77) | 3:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Sweet Rainbow](https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Come Back To Me](https://open.spotify.com/album/561eKNmfenwaF1fZsVayMv) | 4:06 |
 | 150 | [That's on You, That's on Me](https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [That's On You, That's On Me](https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0) | 3:09 |
 
-Snapshot ID: `MCxlMDhlNjA0OWEzNDM0Nzc5MGU2MDcyMDRlYmQzNWU2YThiMTAyNzky`
+Snapshot ID: `MCxjY2E5MWUwZGQyNmY1OTc5MzZlZTkyMWE2YThkNmFhMjg4OWIzMmQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 52874,
+  "num_followers": 52898,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2M2YjE3MDU4YTFjOGMxYjM5ZTA3NjIzN2JlOTNiNmQ3NGRmNDY1",
+  "snapshot_id": "MCw4NmM2MTM3NWE2Y2Y0MjEyOWY5Nzc3NDNiMTM0OGNmMmY2ZjQ1MmJl",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -887,18 +887,26 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "The Bigger Picture",
-        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
       "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 252728,
-      "name": "The Bigger Picture",
-      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
+      "duration_ms": 257428,
+      "name": "Hats Off (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1051,26 +1059,18 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+        "name": "The Bigger Picture",
+        "url": "https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75"
       },
       "artists": [
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 257428,
-      "name": "Hats Off (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
+      "duration_ms": 252728,
+      "name": "The Bigger Picture",
+      "url": "https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1"
     },
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
-        "name": "Baller",
-        "url": "https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
         "name": "Teca",
         "url": "https://open.spotify.com/album/7xBdmaoynBoXOm6dI4skKt"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 201698,
       "name": "Teca",
       "url": "https://open.spotify.com/track/47hR4k0HXKligeRvMiQAbQ"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
+        "name": "Baller",
+        "url": "https://open.spotify.com/album/14SnS8EHJaWtt5GZAfD0ZK"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Baller",
+      "url": "https://open.spotify.com/track/2X8aYVxIBCblvI3N4JpvUx"
     },
     {
       "added_at": "2021-11-12 16:22:17",

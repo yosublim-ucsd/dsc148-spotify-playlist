@@ -4,7 +4,7 @@
 
 > these equations aren&\#x27;t adding up.
 
-202 songs - 11 hr 50 min
+203 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [I Love You 3000 II](https://open.spotify.com/track/3witRpHWHqArlnt6GTlH2Y) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Head In The Clouds II](https://open.spotify.com/album/7bOpX6Ilc9UCFmH9uGyUDy) | 3:29 | 2022-08-26 |  |
 | [I Need U](https://open.spotify.com/track/7dlNGfd6Fq8xcFb4K6Glws) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:30 | 2022-08-26 |  |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2022-09-23 |  |
+| [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-07-15 |  |
 | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/track/2lNb0SzyOEHizMxlpT9HM6) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [IF I DON'T TEXT YOU FIRST](https://open.spotify.com/album/3qLQdJWPOyV49WdLfuyVDV) | 2:13 | 2023-06-07 |  |
 | [IF NOT FOR YOU](https://open.spotify.com/track/5UdJ8CYTtVk5zzqhbPMA18) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:14 | 2023-01-20 |  |
 | [Ignorance](https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:38 | 2023-01-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621,623 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,693 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 34 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 |
 | 35 | [LESSONS](https://open.spotify.com/track/3L8RoBe74IvH9jZkjjPrmc) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [LESSONS](https://open.spotify.com/album/4gC7fICQukO8POmM2lWpOS) | 2:41 |
 | 36 | [Questions](https://open.spotify.com/track/1vB79KSHk7mAMufH8AHniQ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:14 |
-| 37 | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S) | 2:57 |
+| 37 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
 | 38 | [Buckle Up Freestyle](https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:01 |
-| 39 | [Soft Landing](https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt) | [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO) | [Maps](https://open.spotify.com/album/3VoX4iyvy7et6Qt47e2XwS) | 2:53 |
-| 40 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 |
-| 41 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
+| 39 | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S) | 2:57 |
+| 40 | [Dangerous Daringer](https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Dangerous Daringer](https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI) | 4:09 |
+| 41 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 |
 | 42 | [PENSION](https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [PENSION](https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro) | 3:17 |
 | 43 | [Since Elementary](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Since Elementary](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 |
 | 44 | [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Brick By Brick \(feat\. Blu\)](https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [To See A Sunset \(Deluxe\)](https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW) | 3:00 |
 | 50 | [What It Came Wit](https://open.spotify.com/track/7j9toA31XRMOsgA5x7m5UN) | [P.Gutter](https://open.spotify.com/artist/32YCpkE0HALpF82ZcJxUeX), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [What It Came Wit](https://open.spotify.com/album/3Bv54tILGqaNq5xxyrwFbT) | 3:18 |
 
-Snapshot ID: `MCxmYzJhZWY5NjBjYjQ5NjBjMGMwMTQ3ZDgxNzYzOWQwMzMwYzFhNjc1`
+Snapshot ID: `MCxiM2ViZjQwOWZkMDFhOWExYjQ0MGQ5MjY2NmY2MjAyNWZlYjA1Yjk2`

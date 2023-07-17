@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-570 songs - 1 day 21 hr 7 min
+571 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [002](https://open.spotify.com/track/4meP4E8qkRv9oRB06qIsJb) | [Backhaus](https://open.spotify.com/artist/0aASg4vlkQrxqm4HxrjgXW), [KASPERG](https://open.spotify.com/artist/1KCbJUJMBMWPE0n3jskSz8), [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Nfs Underground](https://open.spotify.com/album/1NpicqiYoLiAvCQlCQHvqM) | 3:30 | 2023-01-19 | 2023-03-10 |
 | [2M3 2U](https://open.spotify.com/track/11wmWBDltWMVsHDIDRWVCc) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [2M3 2U](https://open.spotify.com/album/7FbsgChFR0S7Ju8MwMXkCs) | 4:07 | 2022-11-17 | 2023-03-19 |
 | [A Dedication](https://open.spotify.com/track/7BijkGObSbahOwYpriNHPh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Inside Out](https://open.spotify.com/album/5VSjUsRU41obhoHo0ghMO0) | 3:47 | 2022-08-18 | 2022-09-24 |
-| [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-08-18 |  |
+| [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-08-18 | 2023-07-17 |
 | [Acidation](https://open.spotify.com/track/7yGdO5rlZepMVKl43PgnDS) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [ID ID](https://open.spotify.com/artist/5NF2J9XTpy7Riu5A5LQiHQ) | [Lose It All](https://open.spotify.com/album/5ise97oZJGKaDIIDWeGer0) | 4:35 | 2023-04-06 | 2023-04-14 |
 | [Acumulee](https://open.spotify.com/track/3Zros7lzYTaBOZTwV9Ex3u) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Four to the Floor 14](https://open.spotify.com/album/0CwCIOyY2ThLbis0aVnjMm) | 10:48 | 2023-01-19 | 2023-01-27 |
 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 | 2022-12-01 | 2023-06-11 |
@@ -493,6 +493,7 @@
 | [The Muze](https://open.spotify.com/track/5XyTlJId7s85wGD4uESdR6) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [The Muze](https://open.spotify.com/album/7zWaxBsAwtyRjAKkwTnzWo) | 3:43 | 2023-04-27 | 2023-07-15 |
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-04-13 |  |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-08 |  |
+| [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 |  |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2023-06-29 |  |
 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 | 2022-10-27 |  |
 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. George Rhoads & RENEE en portada.",
-  "num_followers": 55378,
+  "num_followers": 55387,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2FmNTMxOGYzZGFjMWM3YWJlODE2N2NiYzdkMmNjM2I2YTlhNzk5",
+  "snapshot_id": "MCw4OWI1YzA2Mzg0MzAxMDE3NDA3ZTJhZDI4ZGYzZTE1MWY4MjJmMTU5",
   "tracks": [
     {
       "added_at": "2023-07-07 06:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Te Cre\u00ed",
+        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 237953,
+      "name": "Te Cre\u00ed",
+      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Desde la Cima",
         "url": "https://open.spotify.com/album/5Wdk5FbYQLeXB7EGUbo1X5"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 164062,
       "name": "LA 5 12",
       "url": "https://open.spotify.com/track/7nlYhsjPaMlRzjH1iCJ9P2"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Te Cre\u00ed",
-        "url": "https://open.spotify.com/album/0yNjMJrt4BgcK3VTp4HUHT"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 237953,
-      "name": "Te Cre\u00ed",
-      "url": "https://open.spotify.com/track/4lO8cuxrYtgMGe15RJpm0f"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Los Billetes Ponen La Edad \"JRE\"",
-        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
-      },
-      "artists": [
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Billetes Y Armas",
-      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 162037,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6eXDTV3H1nhC6YgNnaE67g"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Los Billetes Ponen La Edad \"JRE\"",
+        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Billetes Y Armas",
+      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "\u00daltimo Chance",
+        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "\u00daltimo Chance",
+      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Vivir Sin Ti ( Version Acustica )",
         "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 172813,
       "name": "Vivir Sin Ti ( Version Acustica )",
       "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "\u00daltimo Chance",
-        "url": "https://open.spotify.com/album/19WB0aWyAK7a4rfQ6XcmgG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "\u00daltimo Chance",
-      "url": "https://open.spotify.com/track/1nFyCntHHgelFWP733CykV"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Dir\u00e9",
-        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Dir\u00e9",
-      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "El Coquito",
         "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 175080,
       "name": "El Coquito",
       "url": "https://open.spotify.com/track/4MzJKGlUvVp9UFgLCkHQf8"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Dir\u00e9",
+        "url": "https://open.spotify.com/album/4QY1LkigIlmlEato54hQxe"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Dir\u00e9",
+      "url": "https://open.spotify.com/track/69ITm1oTZq5xmdPou7oj2r"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Traigo Un Equip\u00f3n",
-        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 163824,
-      "name": "Traigo Un Equip\u00f3n",
-      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "El Sello Adixion",
         "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 176720,
       "name": "El Sello Adixion",
       "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Traigo Un Equip\u00f3n",
+        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 163824,
+      "name": "Traigo Un Equip\u00f3n",
+      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Los Medios Suenan",
-        "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 149549,
-      "name": "Los Medios Suenan",
-      "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "AS\u00cd ME ENAMOR\u00c9",
         "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 164096,
       "name": "\u00bfY que pensabas?",
       "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Los Medios Suenan",
+        "url": "https://open.spotify.com/album/25fSEdtDsDfk7BdhvqKF1x"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 149549,
+      "name": "Los Medios Suenan",
+      "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
+      },
+      "artists": [
+        {
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+        }
+      ],
+      "duration_ms": 158953,
+      "name": "7 D\u00edas",
+      "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 203250,
       "name": "No Me Rebajo",
       "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "7 Dias",
-        "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
-      },
-      "artists": [
-        {
-          "name": "Everardo",
-          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
-        }
-      ],
-      "duration_ms": 158953,
-      "name": "7 D\u00edas",
-      "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
     },
     {
       "added_at": "2023-06-23 06:00:00",

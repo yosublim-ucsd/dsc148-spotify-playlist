@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-529 songs - 1 day 5 hr 19 min
+530 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-31 |  |
 | [Front 2 Back](https://open.spotify.com/track/4XpLpyBFPYzwfIHDGqsKiM) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Kenneth G](https://open.spotify.com/artist/3qqvCq7mFIy9UfaXoj5w1w) | [Front 2 Back](https://open.spotify.com/album/6G7EF7pkQ3slh9i2020cY7) | 3:34 | 2022-11-18 | 2023-02-25 |
 | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/track/2NNOhqpefQ8OKfibeox8El) | [FOMO](https://open.spotify.com/artist/6K4rA9ocjtIaTOEVZ4N6dX), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Front To Back \(feat\. DLMT\)](https://open.spotify.com/album/2gPIAG5O5NinWCtB4yuSSR) | 3:31 | 2023-01-06 | 2023-04-29 |
-| [Fuck Right Off](https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Fuck Right Off](https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv) | 2:39 | 2023-02-24 |  |
+| [Fuck Right Off](https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Fuck Right Off](https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv) | 2:39 | 2023-02-24 | 2023-07-17 |
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2022-01-14 | 2022-04-02 |
 | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/track/6QvldZZ10eYgKamaWfG52b) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Fuck Your Sunshine \(Adventure Club Remix\)](https://open.spotify.com/album/6icWyduCnRXtFYlEBPgavf) | 3:44 | 2022-10-07 |  |
 | [Funk Accelerator](https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Funk Accelerator](https://open.spotify.com/album/72t6Fxyx5KRt0SaZ801jOl) | 3:52 | 2022-04-15 | 2022-05-07 |
@@ -527,6 +527,7 @@
 | [WTF](https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [House Call](https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA) | [WTF](https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E) | 2:18 | 2022-06-24 | 2022-09-24 |
 | [XTC](https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [XTC](https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g) | 3:04 | 2023-06-05 |  |
 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 | 2022-09-02 | 2022-11-26 |
+| [You Are My Guide](https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [You Are My Guide](https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn) | 3:34 | 2023-07-14 |  |
 | [You Be Mine](https://open.spotify.com/track/4FaEnMfs9lzN35MGbrOJer) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [You Be Mine](https://open.spotify.com/album/0faUGEYeWddhu5M2bPEaGs) | 2:38 | 2022-08-26 | 2022-12-10 |
 | [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-26 |  |
 | [Your Body](https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Your Body](https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP) | 2:45 | 2022-01-14 | 2022-04-16 |

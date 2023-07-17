@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Dani J
 
-284 songs - 16 hr 53 min
+285 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-28 |  |
 | [Empanterado](https://open.spotify.com/track/3WJcglgyyovIHwV2iy7TcQ) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4) | [Empanterado](https://open.spotify.com/album/7cLjUB3j1TPzClNXVlHjEI) | 6:44 | 2022-07-19 | 2023-01-14 |
 | [En la Mia \(Remix\)](https://open.spotify.com/track/7hcKHEkfNuru9xvzeoSJoP) | [Yamil](https://open.spotify.com/artist/6OYqTSrG3PF4kR552cXqGk), [El Amolao](https://open.spotify.com/artist/39kGrfO5bLCQ348SpNgJXR), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [En la Mia \(Remix\)](https://open.spotify.com/album/6ZdYn07TnjiipyYA8iblyu) | 3:38 | 2023-04-07 | 2023-04-15 |
+| [En Otra](https://open.spotify.com/track/26XTUfkLRnLR1W2XbjM9pf) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [En Otra](https://open.spotify.com/album/2LfZrUypchm1xCe73gDMsU) | 2:11 | 2023-07-14 |  |
 | [Encaprichao](https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Encaprichao](https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz) | 2:09 | 2023-01-20 | 2023-04-27 |
 | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/track/1B4d6OYKzXWtBjysNQclfz) | [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/album/3W2UFR03gjYhAljpYcgPak) | 3:23 | 2022-01-01 | 2022-01-29 |
 | [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 | 2022-09-09 | 2023-04-22 |
@@ -223,7 +224,7 @@
 | [Republica Dominicana](https://open.spotify.com/track/02IdYXYJ0G9vgs9DVmONFX) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Republica Dominicana](https://open.spotify.com/album/69Fk1rIWzvwImYuXN6CcUQ) | 4:36 | 2023-01-27 | 2023-02-25 |
 | [Resistirá](https://open.spotify.com/track/7knEsle2mCnypBafCdrWx8) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Resistirá](https://open.spotify.com/album/4VmevPcZ6QXfiKira0aBE7) | 3:45 | 2022-06-29 | 2023-01-14 |
 | [Resistiré \- Salsa](https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Resistiré \(Salsa\)](https://open.spotify.com/album/4uJZ8kVOQW8T1ehTZqltfy) | 4:48 | 2022-01-01 | 2022-03-26 |
-| [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 | 2023-04-28 |  |
+| [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 | 2023-04-28 | 2023-07-17 |
 | [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 | 2023-05-12 | 2023-05-27 |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/5c5iWSKvsgGj74RF0ofhsX) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 3:19 | 2022-06-29 | 2022-07-20 |
 | [Se Va a Beber](https://open.spotify.com/track/7nthB8BE4K8aTYJcw1M1iV) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Se Va a Beber](https://open.spotify.com/album/5aZmDgnv8aUx5B2Ir7VYYT) | 3:39 | 2022-01-28 | 2022-06-30 |

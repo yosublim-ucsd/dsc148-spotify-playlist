@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 255255,
+  "num_followers": 255311,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
+  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -991,6 +991,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        },
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 259423,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "They Came Along",
         "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 205680,
       "name": "Antasma",
       "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        },
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 259423,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
     }
   ],
   "unique_name": "Mellow Mood",

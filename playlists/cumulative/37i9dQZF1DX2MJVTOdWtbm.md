@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-315 songs - 16 hr 38 min
+316 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Ten Cuidao'](https://open.spotify.com/track/0FPMwL6lPQP5dYZr4fVKvp) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Ten Cuidao'](https://open.spotify.com/album/13ixtSvxnOOCjcsA19x28i) | 2:54 | 2023-05-12 | 2023-06-18 |
 | [tenemos que hablar](https://open.spotify.com/track/7k0yRWiVy5KiPRMX7hlVcI) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [tenemos que hablar](https://open.spotify.com/album/3t2asu3cz8C608hqCZwbir) | 3:25 | 2022-02-11 | 2022-05-17 |
 | [The Distance](https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [The Distance](https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d) | 3:22 | 2022-03-25 | 2022-05-06 |
-| [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-05-12 |  |
+| [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-05-12 | 2023-07-17 |
 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 | 2022-08-05 | 2023-05-13 |
 | [Tira La Puerta](https://open.spotify.com/track/0RyZbvuv6h5AeKXi1AYvJs) | [Claire Delić](https://open.spotify.com/artist/5I5LlQHGqDoz2RGXph2llc) | [Tira La Puerta](https://open.spotify.com/album/31vwz8em3IHKspVCw9hC3x) | 2:34 | 2022-02-11 | 2022-07-28 |
 | [todavía dueles](https://open.spotify.com/track/7n9xkY2W8QEQyBBuR2aLdB) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todavía dueles](https://open.spotify.com/album/6BjsUk9eHecrsCmPiSCf3g) | 2:54 | 2023-06-13 |  |
@@ -303,6 +303,7 @@
 | [Típico](https://open.spotify.com/track/4azwCtiM7Gt2xWHmp0sPeY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:07 | 2022-09-06 | 2023-05-13 |
 | [Tírame Un Hello \- Remix](https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tírame Un Hello \(Remix\)](https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx) | 2:49 | 2023-05-12 |  |
 | [Tóxico](https://open.spotify.com/track/2L2fv02jz6It9vWAyWiccb) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tóxico](https://open.spotify.com/album/61HvOB4NvnJOcfP1T4vbXb) | 2:33 | 2023-06-30 | 2023-07-06 |
+| [Tú Allá y Yo Acá \- Live Session](https://open.spotify.com/track/7wAybTs5t6QHLGViU5ZtYk) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Tú Allá y Yo Acá \(Live Session\)](https://open.spotify.com/album/05e8JBi4u19yBCuEEobbm9) | 3:02 | 2023-07-14 |  |
 | [Túnel](https://open.spotify.com/track/3zPyX7VeRX2t7K9oTPlS4K) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Túnel](https://open.spotify.com/album/1F1agzWdqeKxLwEuqyvki7) | 3:44 | 2022-02-11 | 2022-03-05 |
 | [Uh Huh](https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Uh Huh](https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf) | 2:43 | 2022-09-06 | 2023-05-08 |
 | [un niño](https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/2JVdfTCrsfqvlCo43jkelD) | 3:05 | 2022-02-11 | 2022-09-07 |

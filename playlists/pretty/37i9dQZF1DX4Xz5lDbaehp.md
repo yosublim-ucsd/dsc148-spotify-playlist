@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 22 | [Blessed](https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi) | [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Blessed](https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia) | 3:57 |
 | 23 | [Low Era \- Edit](https://open.spotify.com/track/5RuSAk0rjCUXmZPGDxZf0w) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Low Era](https://open.spotify.com/album/1TBlTbuSKgZ0YBY0AoU7yQ) | 3:38 |
 | 24 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
-| 25 | [PINE](https://open.spotify.com/track/6ugOSYzHQ7NbX02iMqXIZi) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:30 |
+| 25 | [PINE](https://open.spotify.com/track/5BoEmTtWANvxEVLRJvncIZ) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/3BL9rMkgTK20yLu3zaeJGM) | 3:30 |
 | 26 | [I'm Not In Love](https://open.spotify.com/track/7gEw6TDaj60NOibnidPBix) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [I'm Not In Love](https://open.spotify.com/album/6nqKQaJR7WETXh4s176M3K) | 1:37 |
 | 27 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 |
 | 28 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Xz5lDbaehp.md) - [plain]
 | 125 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 |
 | 126 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 |
 
-Snapshot ID: `MCxmZGM1NTdhNjM1YzZjZWU1NjA4MWNmOWFjZTA3ZWVhZTRkMDg2MTkw`
+Snapshot ID: `MCw2ZGZmNWUzMzZhM2NkZTZkMTEzOTFjODRjY2U0ODM2MDU2MzAwOWEx`

@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
@@ -388,6 +388,32 @@
       "duration_ms": 387099,
       "name": "Ithlati",
       "url": "https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt"
+    },
+    {
+      "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La"
+      },
+      "artists": [
+        {
+          "name": "Aabhas Joshi",
+          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
+        },
+        {
+          "name": "Aabhas - Shreyas",
+          "url": "https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4"
+        },
+        {
+          "name": "Indie Routes",
+          "url": "https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249827,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK"
     },
     {
       "album": {

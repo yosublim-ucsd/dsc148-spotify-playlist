@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 79852,
+  "num_followers": 79877,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2IzZjZhODIyYmM5YjM0MTlhNmQ4MGQ4MDBiYzRiOGZiMWQwZjA0",
+  "snapshot_id": "MCxlMDA5ZjM2M2NmYTVkM2JhMDgyZjBiNjM0ZmRmNTI2MjZhYjZkNmRl",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 146727,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Can you (Galcher Lustwerk Remix)",
-        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 219216,
-      "name": "Can you",
-      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1231,18 +1199,34 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Apollo 8",
-        "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
+        "name": "Can you (Galcher Lustwerk Remix)",
+        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
       "artists": [
         {
-          "name": "Alann8h",
-          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
         }
       ],
-      "duration_ms": 173008,
-      "name": "Rings of Saturn",
-      "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
+      "duration_ms": 219216,
+      "name": "Can you",
+      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 146727,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 124861,
       "name": "What if I jump from a Bridge?",
       "url": "https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Apollo 8",
+        "url": "https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df"
+      },
+      "artists": [
+        {
+          "name": "Alann8h",
+          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
+        }
+      ],
+      "duration_ms": 173008,
+      "name": "Rings of Saturn",
+      "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
     },
     {
       "added_at": "2023-07-14 04:00:00",

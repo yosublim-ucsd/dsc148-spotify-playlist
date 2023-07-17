@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=UrHbGviuQ8uqIqTSwc8OqQ">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,398 likes - 49 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,439 likes - 49 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [Uthando Aluboni](https://open.spotify.com/track/3d9HoMtIQEC1PktOg2ownJ) | [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc), [Charlotte Lyf](https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP) | [Uthando Aluboni](https://open.spotify.com/album/1GYtvOSYmQ2nUcWRg0zzsH) | 4:53 |
 | 49 | [4R](https://open.spotify.com/track/24pdqHZOv8KnPIs98MdyKy) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [4R](https://open.spotify.com/album/5r6a0WEtwN7Rtk1nyRop1K) | 3:16 |
 
-Snapshot ID: `MCw2OGU0OTk4ODMyYWRiZTE2MzJjZDI5MGQ5MGFjNDgxOGJjODQ1OTZi`
+Snapshot ID: `MCwzYmJmNThmYzM4YWNmYjY5OWYyYWY0ODU4NGZkYTRlNzQyZjRhMzQ5`

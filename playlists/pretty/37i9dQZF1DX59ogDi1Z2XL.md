@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Haviah Mighty
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,427 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,441 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 14 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 |
 | 15 | [who?](https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [who?](https://open.spotify.com/album/4pGFupinAniBUGQbNEeFuW) | 2:29 |
 | 16 | [Ha Ha Ha](https://open.spotify.com/track/3bISDK9b0LxRmH0Ytp6aI7) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Ha Ha Ha](https://open.spotify.com/album/1N1O3kleOT7ZjnpeSMMA5z) | 3:29 |
-| 17 | [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:35 |
+| 17 | [Hurts Me](https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Hurts Me](https://open.spotify.com/album/5fMG2nwVGN3fBofLm9CB0x) | 2:20 |
 | 18 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 | 19 | [Blocks](https://open.spotify.com/track/3TP94Rbk59KNBDCSOsNfOw) | [Jmak Beatz](https://open.spotify.com/artist/6bgIg27xhR1qZVMGRHJ0hc), [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB) | [Blocks](https://open.spotify.com/album/2LKb2vaqZhX24RTWZCvuVy) | 2:53 |
 | 20 | [Sliding Again](https://open.spotify.com/track/70e7WmKuK4qBhC6677pP82) | [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR), [S WID \-IT](https://open.spotify.com/artist/4gtQUXdRhUsOfv9fbc5MfF), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Sliding Again](https://open.spotify.com/album/3PKVjyYyhIfMGBqezdTneu) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 | 100 | [Govy](https://open.spotify.com/track/7bjMaavKbuW9r98SWIQZ7i) | [Dr\. Bushman](https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7) | [Canvas](https://open.spotify.com/album/1KBfkj5rVWY4PZ4q2yW4lC) | 1:58 |
 
-Snapshot ID: `MCxlZTIxYWI3Y2YxNjc5NDIzZmRhZTM2N2VjZGY5YjA0M2U4MGY0OTY1`
+Snapshot ID: `MCxlOWFmMmRhOTdmNjExNzY2MmI5MDc5YWU3MzcwNzdlNGNjZTNhODBk`

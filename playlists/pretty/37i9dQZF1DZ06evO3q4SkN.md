@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 34 songs - 51 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 36 songs - 55 min 8 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,13 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 24 | [Wolf Watcher](https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:24 |
 | 25 | [Dan and Sammy](https://open.spotify.com/track/4bAXGp1XEo83RqLYe46jw9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 0:44 |
 | 26 | [Cowboy Frank](https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 |
-| 27 | [Royal Jet](https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:06 |
+| 27 | [George At The Derby](https://open.spotify.com/track/5ZCeqaKFr6SxRauiXkShF8) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:25 |
 | 28 | [Whatever The Question](https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:18 |
 | 29 | [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 |
-| 30 | [No Such Thing as Magic](https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:05 |
-| 31 | [Arriving to Ginny's Farm](https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:24 |
-| 32 | [Zoe's Snow Globes](https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:21 |
-| 33 | [The Landscape Medley](https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:59 |
-| 34 | [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 |
+| 30 | [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 |
+| 31 | [No Such Thing as Magic](https://open.spotify.com/track/07oBBXUsZcP6r3nUNiAVmJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:05 |
+| 32 | [Summer Passes Into Autumn](https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:01 |
+| 33 | [Mother To Mother](https://open.spotify.com/track/0PCLZXHh7EiqzaL5kwYoPX) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:42 |
+| 34 | [Cowboys Don't Quit](https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:19 |
+| 35 | [Arriving to Ginny's Farm](https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:24 |
+| 36 | [The Landscape Medley](https://open.spotify.com/track/77lrvWszzUzZ8B5CjSptb9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:59 |
 
-Snapshot ID: `MjgxNTcxMTMsMDAwMDAwMDA5MTk5MmFkNDYzOTMwNGI3ZjY2NjI4YzQ0MWNmNjRhOQ==`
+Snapshot ID: `MjgxNTg1MDAsMDAwMDAwMDA1YjFjYzA5NzI2YzA4MzlhMzE3OWQzMTZhYWI0YWM2YQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Jacob Collier
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,687 likes - 104 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,693 likes - 104 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 103 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
 | 104 | [How Can I Tell You](https://open.spotify.com/track/4sL0BcbJA5ZzdfUDUKbP1l) | [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [How Can I Tell You](https://open.spotify.com/album/4S6x2aR5CD5qNf3tnt0J1g) | 4:11 |
 
-Snapshot ID: `MCxmOWRiYWRiOWVkMjNmNTRmNDNmMGI3ZTExZDZlMGEzNTJlNjY3NDM0`
+Snapshot ID: `MCxkNjQyODgwMGZjNGNmMGQ4YWNkY2UxOTYwMzA1Mjk1YzI2N2Q1MjU2`

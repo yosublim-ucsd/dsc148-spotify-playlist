@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring Peggy Gou.",
-  "num_followers": 1841924,
+  "num_followers": 1842319,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDM4MzBiYTlhNGY2NDZlYzgyNzkzYzE2YjkyZTcxMjQyZDk5ZjQy",
+  "snapshot_id": "MCw3YzM5N2YyYzQ1ZjZjNmQ2YzMwZDhmMGE4NTNkNTU4YjU4YWU3OTU3",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "I See Colors",
         "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
@@ -1155,18 +1171,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
         }
       ],
-      "duration_ms": 175833,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1195,46 +1215,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Saturday Love",
-        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Dino DZ",
-          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Saturday Love",
-      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Feel Like Makin' Love (feat. Roberta Flack)",
         "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
       },
@@ -1259,22 +1239,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "This Is The Sound",
-        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
+        "name": "Saturday Love",
+        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
       },
       "artists": [
         {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "Dino DZ",
+          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
         }
       ],
-      "duration_ms": 192401,
-      "name": "This Is The Sound",
-      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
+      "duration_ms": 141120,
+      "name": "Saturday Love",
+      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1295,6 +1275,26 @@
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "This Is The Sound",
+        "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 192401,
+      "name": "This Is The Sound",
+      "url": "https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Gotta Let You Go",
         "url": "https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND"
       },
@@ -1351,26 +1371,6 @@
       "duration_ms": 167097,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Capoeira Mata Um (Zum Zum Zum)",
+        "url": "https://open.spotify.com/album/5lQLZNV76a34Md7qojyO2s"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 172175,
+      "name": "Capoeira Mata Um (Zum Zum Zum)",
+      "url": "https://open.spotify.com/track/7rriLHw4KHgWQnKY5vR2fw"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Light Places",
         "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 185625,
       "name": "Rock The Casbah",
       "url": "https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Capoeira Mata Um (Zum Zum Zum)",
-        "url": "https://open.spotify.com/album/5lQLZNV76a34Md7qojyO2s"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        }
-      ],
-      "duration_ms": 172175,
-      "name": "Capoeira Mata Um (Zum Zum Zum)",
-      "url": "https://open.spotify.com/track/7rriLHw4KHgWQnKY5vR2fw"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Dummy \u2013 Chris Lake Remix",
+        "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "Dummy \u2013 Chris Lake Remix",
+      "url": "https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 217500,
       "name": "Work",
       "url": "https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Dummy \u2013 Chris Lake Remix",
-        "url": "https://open.spotify.com/album/6XqbzujsQpFewramig6kUM"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Dummy \u2013 Chris Lake Remix",
-      "url": "https://open.spotify.com/track/0SmyaVrzL7j3R9k3pkJgUh"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 274677,
+      "name": "Sun Showers",
+      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -2003,6 +2019,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "I NEED U (feat. ZOI)",
         "url": "https://open.spotify.com/album/2GVYMyhah9zP1XoqJQ6nIx"
       },
@@ -2051,26 +2087,6 @@
       "duration_ms": 170624,
       "name": "Lost",
       "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -2211,22 +2227,6 @@
       "duration_ms": 163680,
       "name": "Vision Of Paradise - Riva Starr Remix",
       "url": "https://open.spotify.com/track/6gkLCCmeMLCH9EyoQeJKeG"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 274677,
-      "name": "Sun Showers",
-      "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
     },
     {
       "added_at": "2023-07-14 04:01:00",

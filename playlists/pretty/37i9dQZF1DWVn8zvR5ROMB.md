@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Mickey Guyton, Kane Brown, Dan + Shay and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,947 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,132 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 34 | [Different Kind of Blue](https://open.spotify.com/track/7bpAdXNMxxKHqOAvCIdHOd) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Different Kind of Blue](https://open.spotify.com/album/4iC3AGxB0FRl8X7oSlVL4A) | 3:29 |
 | 35 | [Been Missing You](https://open.spotify.com/track/5MqDjpqTN0SilCStaEPqlj) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 3:03 |
 | 36 | [Run Away With You](https://open.spotify.com/track/6cSLSszDmQW5MeLW03UTUY) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [Run Away With You](https://open.spotify.com/album/6LJ0y34cDfajVG12rpha6Z) | 2:45 |
-| 37 | [Talk Me Out of Him](https://open.spotify.com/track/4j3McwLtIkgNhRECt9iMVI) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF), [Paul Ebersold](https://open.spotify.com/artist/6yEVpxO8LbJro4QjAPIJbT) | [Talk Me Out of Him](https://open.spotify.com/album/4t1KM4lUIclCpxnSdIWFbp) | 3:39 |
+| 37 | [Talk Me Out of Him](https://open.spotify.com/track/4j3McwLtIkgNhRECt9iMVI) | [Erin Gibney](https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF) | [Talk Me Out of Him](https://open.spotify.com/album/4t1KM4lUIclCpxnSdIWFbp) | 3:39 |
 | 38 | [Streets Of Gold](https://open.spotify.com/track/24ciRTAK6QCU55RxvoPdsv) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Streets Of Gold](https://open.spotify.com/album/7bO6xzVPFa6Ul5qTIlmPfM) | 3:00 |
 | 39 | [She Don't Even Know It Yet](https://open.spotify.com/track/6QZ0EqTkgH5KzSIL2ZPO5b) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [She Don't Even Know It Yet](https://open.spotify.com/album/5oE1P3vVte54lPItqetACP) | 3:04 |
 | 40 | [Settle For A Drink](https://open.spotify.com/track/1Fc2DYFDozcoHe5f3uw7U3) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Dirt Roads Downtown](https://open.spotify.com/album/1CjIXqlMqW8Vb9082oKhyl) | 3:06 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 75 | [I've Been Prayin'](https://open.spotify.com/track/4oldEeb01wrjmo8LjcKedD) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [I've Been Prayin'](https://open.spotify.com/album/367MNg3uWgVibIA9rGyQH6) | 3:45 |
 | 76 | [Always a Girl](https://open.spotify.com/track/5sBvqQEsxQwTfw2Zopn98y) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [Always a Girl](https://open.spotify.com/album/5basJuQxjMhwFmeM17ydvz) | 3:10 |
 
-Snapshot ID: `MCw2OTMxMzI0MTU0Mjg4NTI2OWI3MjY5OWM5ODRjMDI1OTFmZjk4YmVi`
+Snapshot ID: `MCwxMTNiZjMzZmI3YjNkZmY0ZmQ2OTQ1NjEyNWMxYjM0ZTA4YjcxNjJh`

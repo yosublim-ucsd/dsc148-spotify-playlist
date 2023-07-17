@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: SOLE, Sung Si Kyung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,574 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,614 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 |
 | 50 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 
-Snapshot ID: `MCw3OWFlMzljNjE0YWYyMDk4MTMyNjAwZGI1M2YwZWU2OTg3YWU4NTMw`
+Snapshot ID: `MCxmYjM1YTdlY2ZjMzkzZDcxYzhmODM5N2UzMjBjZDdlZTQ2YzgxNzgy`

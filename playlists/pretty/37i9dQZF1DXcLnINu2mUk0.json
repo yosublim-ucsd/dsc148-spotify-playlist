@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 35631,
+  "num_followers": 35683,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmIwZjc1YWJkODZjNDhiYWE1ZDZmYmE1NzhkYTYwMzgwY2Q2MGMy",
+  "snapshot_id": "MCxkNzg3OTAxNzU4NTc2OGRlYWE0MTA1Zjk4NWQ0ZGFiNGIzNjlmYzZl",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -955,18 +955,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Metamorfose",
-        "url": "https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0"
+        "name": "Situation",
+        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
       },
       "artists": [
         {
-          "name": "Mirai",
-          "url": "https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC"
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Hernani",
+          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
         }
       ],
-      "duration_ms": 248275,
-      "name": "Metamorfose",
-      "url": "https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5"
+      "duration_ms": 245258,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Situation",
-        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
+        "name": "Metamorfose",
+        "url": "https://open.spotify.com/album/5337rIquzsN1rjSAaFcoi0"
       },
       "artists": [
         {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        },
-        {
-          "name": "Hernani",
-          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
+          "name": "Mirai",
+          "url": "https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC"
         }
       ],
-      "duration_ms": 245258,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
+      "duration_ms": 248275,
+      "name": "Metamorfose",
+      "url": "https://open.spotify.com/track/1eaJlerutVc6qyl5Q857Y5"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1131,6 +1131,38 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Faz T\u00e3o Bem",
+        "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
+      },
+      "artists": [
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Faz T\u00e3o Bem",
+      "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 178443,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Brio",
         "url": "https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY"
       },
@@ -1151,22 +1183,6 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Faz T\u00e3o Bem",
-        "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
-      },
-      "artists": [
-        {
-          "name": "MeLodee",
-          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Faz T\u00e3o Bem",
-      "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
         "name": "Teus Olhos",
         "url": "https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 200412,
       "name": "Teus Olhos",
       "url": "https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Crime Scene",
-        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 178443,
-      "name": "Crime Scene",
-      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Pick Up The Phone",
+        "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "duration_ms": 215730,
+      "name": "Pick Up The Phone",
+      "url": "https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "T\u00e1 Pedir",
         "url": "https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 213333,
       "name": "N\u00e3o Consigo",
       "url": "https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Pick Up The Phone",
-        "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
-      },
-      "artists": [
-        {
-          "name": "DIGGA",
-          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
-        }
-      ],
-      "duration_ms": 215730,
-      "name": "Pick Up The Phone",
-      "url": "https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ"
     },
     {
       "added_at": "2023-07-13 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 63365,
+  "num_followers": 63402,
   "original_name": "\u8fd4\u5bb6\u8f15\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTc0ZTIwYTI1M2M5YjcyOWVjNDJiYWVkNWZlOWMzYjk2NGZlZGJi",
+  "snapshot_id": "MCwwNDU5MjAxNGFhZThlYzJhYjY4ZjI5N2YyMTY1YzczMTUwNmRlYmEx",
   "tracks": [
     {
       "added_at": "2023-07-10 04:34:41",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
-        "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 322266,
-      "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
-    },
-    {
-      "added_at": "2023-07-10 04:34:41",
-      "album": {
         "name": "\u6211\u597d\u55ce? - \u592a\u967d\u5982\u5e38\u5347\u8d77",
         "url": "https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+    },
+    {
+      "added_at": "2023-07-10 04:34:41",
+      "album": {
+        "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 (\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 322266,
+      "name": "\u4f60\u4e0d\u5c6c\u65bc\u6211 - \u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u5f71\u96c6\u7248\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
     },
     {
       "added_at": "2023-07-10 04:34:41",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
-        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
-    },
-    {
-      "added_at": "2023-07-10 04:34:41",
-      "album": {
         "name": "\u6251\u706b",
         "url": "https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 236269,
       "name": "\u6251\u706b",
       "url": "https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR"
+    },
+    {
+      "added_at": "2023-07-10 04:34:41",
+      "album": {
+        "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c (\u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "\u96e2\u958b\u4f60\u4ee5\u5f8c - \u96fb\u5f71\u300a\u4f60\u7684\u5a5a\u79ae\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe"
     },
     {
       "added_at": "2023-07-10 04:34:41",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
+        "name": "\u5916\u4eba",
+        "url": "https://open.spotify.com/album/3VhUOCklnq89LUhH6Vy0S7"
+      },
+      "artists": [
+        {
+          "name": "\u856d\u79c9\u6cbb",
+          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+        },
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "\u5916\u4eba (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
+      "url": "https://open.spotify.com/track/04njycgeVX1cj4dlYrgZLS"
+    },
+    {
+      "added_at": "2023-07-10 04:34:41",
+      "album": {
         "name": "\u4e91\u4e0e\u6d77",
         "url": "https://open.spotify.com/album/6tIjwebyviEJm1hwPgntT3"
       },
@@ -655,22 +675,6 @@
       "duration_ms": 247132,
       "name": "\u8def\u904e\u4eba\u9593",
       "url": "https://open.spotify.com/track/03UChw9aTMMe4VtF2rSEXe"
-    },
-    {
-      "added_at": "2023-07-10 04:34:41",
-      "album": {
-        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
-        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 331341,
-      "name": "\u53d7\u5920",
-      "url": "https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74"
     },
     {
       "added_at": "2023-07-10 04:34:41",
@@ -727,22 +731,18 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
-        "name": "\u5916\u4eba",
-        "url": "https://open.spotify.com/album/3VhUOCklnq89LUhH6Vy0S7"
+        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
+        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
       },
       "artists": [
         {
-          "name": "\u856d\u79c9\u6cbb",
-          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
-        },
-        {
-          "name": "Mayday",
-          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 275500,
-      "name": "\u5916\u4eba (\u8afe\u4e9e\u65b9\u821f 10\u9031\u5e74\u9032\u5316)",
-      "url": "https://open.spotify.com/track/04njycgeVX1cj4dlYrgZLS"
+      "duration_ms": 331341,
+      "name": "\u53d7\u5920",
+      "url": "https://open.spotify.com/track/5JLLWtgBLRxpd4MRkGAm74"
     },
     {
       "added_at": "2023-07-10 04:34:41",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
-        "name": "\u6211\u5011\u7684\u6545\u4e8b\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
-        "url": "https://open.spotify.com/album/3hlTPZP9pJQEjMWgXrNvzz"
+        "name": "\u6070\u4f3c\u4f60\u7684\u6eab\u67d4",
+        "url": "https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66"
       },
       "artists": [
         {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+          "name": "EggPlantEgg",
+          "url": "https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg"
         }
       ],
-      "duration_ms": 242368,
-      "name": "\u6211\u5011\u7684\u6545\u4e8b\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/0hTkUhG5l8NMAXADxdyBWS"
+      "duration_ms": 317486,
+      "name": "\u6070\u4f3c\u4f60\u7684\u6eab\u67d4",
+      "url": "https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj"
     },
     {
       "added_at": "2023-07-10 04:34:41",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
-        "name": "\u6070\u4f3c\u4f60\u7684\u6eab\u67d4",
-        "url": "https://open.spotify.com/album/5T8kukxNxN2tEucny5xt66"
+        "name": "\u6211\u5011\u7684\u6545\u4e8b\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
+        "url": "https://open.spotify.com/album/3hlTPZP9pJQEjMWgXrNvzz"
       },
       "artists": [
         {
-          "name": "EggPlantEgg",
-          "url": "https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg"
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
         }
       ],
-      "duration_ms": 317486,
-      "name": "\u6070\u4f3c\u4f60\u7684\u6eab\u67d4",
-      "url": "https://open.spotify.com/track/1a0qZKszfpB8tJRFLXMqpj"
+      "duration_ms": 242368,
+      "name": "\u6211\u5011\u7684\u6545\u4e8b\u300a\u5730\u7344\u91cc\u9577\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/0hTkUhG5l8NMAXADxdyBWS"
     },
     {
       "added_at": "2023-07-10 04:34:41",
@@ -1143,38 +1143,6 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
-        "name": "\u4f60\u5920\u4e86",
-        "url": "https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ"
-      },
-      "artists": [
-        {
-          "name": "Vicky Chen",
-          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
-        }
-      ],
-      "duration_ms": 201363,
-      "name": "\u4f60\u5920\u4e86",
-      "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
-    },
-    {
-      "added_at": "2023-07-10 04:34:41",
-      "album": {
-        "name": "\u8655\u8655\u907a\u61be",
-        "url": "https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 250614,
-      "name": "\u8655\u8655\u907a\u61be",
-      "url": "https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER"
-    },
-    {
-      "added_at": "2023-07-10 04:34:41",
-      "album": {
         "name": "\u611b\u60c5\u600e\u9ebc\u4e86\u55ce",
         "url": "https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40"
       },
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2023-07-10 04:34:41",
       "album": {
+        "name": "\u4f60\u5920\u4e86",
+        "url": "https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "duration_ms": 201363,
+      "name": "\u4f60\u5920\u4e86",
+      "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
+    },
+    {
+      "added_at": "2023-07-10 04:34:41",
+      "album": {
         "name": "\u6f6e\u5149",
         "url": "https://open.spotify.com/album/2rxrXojvyNnKmZY3UAOVla"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 214010,
       "name": "\u6f6e\u5149(\u300a\u9006\u6c34\u5bd2\u300b\u4e94\u5468\u5e74\u63a8\u5ee3\u66f2)",
       "url": "https://open.spotify.com/track/3LsHqNi3DK2i8K8RBkK7GQ"
+    },
+    {
+      "added_at": "2023-07-10 04:34:41",
+      "album": {
+        "name": "\u8655\u8655\u907a\u61be",
+        "url": "https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "duration_ms": 250614,
+      "name": "\u8655\u8655\u907a\u61be",
+      "url": "https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER"
     },
     {
       "added_at": "2023-07-10 04:34:41",

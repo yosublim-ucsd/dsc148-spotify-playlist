@@ -1,12 +1,12 @@
 {
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: <a href=\"https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc?si=Z60fJzqIQUagMSa0N4xfNA\">Ramy Sabry </a>",
-  "num_followers": 102894,
+  "num_followers": 102971,
   "original_name": "Fresh Arabic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzBlOWFiZGY4NjdmMmE2OWY3MDE1YzJkMGZhZGIzYWFlMTBmMmVm",
+  "snapshot_id": "MCw3MTBjODU3NThkN2Y1N2YyMDkzZDI2NTg3ZDJiYmE0MWFkNGYwMGQ4",
   "tracks": [
     {
       "added_at": "2023-07-14 22:21:11",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-07-14 22:21:11",
       "album": {
-        "name": "Qalbi",
-        "url": "https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L"
-      },
-      "artists": [
-        {
-          "name": "Yasser Abd Alwahab",
-          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
-        },
-        {
-          "name": "Zaid Al Habeb",
-          "url": "https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Qalbi",
-      "url": "https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7"
-    },
-    {
-      "added_at": "2023-07-14 22:21:11",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 205333,
       "name": "Follow",
       "url": "https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl"
+    },
+    {
+      "added_at": "2023-07-14 22:21:11",
+      "album": {
+        "name": "Qalbi",
+        "url": "https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        },
+        {
+          "name": "Zaid Al Habeb",
+          "url": "https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Qalbi",
+      "url": "https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7"
     },
     {
       "added_at": "2023-07-14 22:21:11",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-14 22:21:11",
       "album": {
-        "name": "\u0648\u0633\u0637 \u0627\u0644\u0648\u0634\u0648\u0634 (\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0628\u0646\u0648\u0646)",
-        "url": "https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 269664,
-      "name": "\u0648\u0633\u0637 \u0627\u0644\u0648\u0634\u0648\u0634 - \u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0628\u0646\u0648\u0646",
-      "url": "https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs"
-    },
-    {
-      "added_at": "2023-07-14 22:21:11",
-      "album": {
         "name": "Wala Bghiti",
         "url": "https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2023-07-14 22:21:11",
       "album": {
-        "name": "Ayesh Fel Dabab",
-        "url": "https://open.spotify.com/album/3X3PqXNxJ5giXq2HIcngnH"
+        "name": "\u0648\u0633\u0637 \u0627\u0644\u0648\u0634\u0648\u0634 (\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0628\u0646\u0648\u0646)",
+        "url": "https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx"
       },
       "artists": [
         {
-          "name": "Nabil",
-          "url": "https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD"
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
         }
       ],
-      "duration_ms": 196389,
-      "name": "Ayesh Fel Dabab",
-      "url": "https://open.spotify.com/track/0VgIjzbIUIBSl1UIA59722"
+      "duration_ms": 269664,
+      "name": "\u0648\u0633\u0637 \u0627\u0644\u0648\u0634\u0648\u0634 - \u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0628\u0646\u0648\u0646",
+      "url": "https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs"
     },
     {
       "added_at": "2023-07-14 22:21:11",
@@ -579,6 +563,22 @@
       "duration_ms": 247093,
       "name": "Beat \u0628\u062a\u0645\u0627\u064a\u0644 \u0639\u0644\u0649 \u0627\u0644",
       "url": "https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N"
+    },
+    {
+      "added_at": "2023-07-14 22:21:11",
+      "album": {
+        "name": "Ayesh Fel Dabab",
+        "url": "https://open.spotify.com/album/3X3PqXNxJ5giXq2HIcngnH"
+      },
+      "artists": [
+        {
+          "name": "Nabil",
+          "url": "https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD"
+        }
+      ],
+      "duration_ms": 196389,
+      "name": "Ayesh Fel Dabab",
+      "url": "https://open.spotify.com/track/0VgIjzbIUIBSl1UIA59722"
     },
     {
       "added_at": "2023-07-14 22:21:11",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-07-14 22:21:11",
       "album": {
+        "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
+        "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
+      },
+      "artists": [
+        {
+          "name": "Haytham Shaker",
+          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
+        }
+      ],
+      "duration_ms": 294428,
+      "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
+      "url": "https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91"
+    },
+    {
+      "added_at": "2023-07-14 22:21:11",
+      "album": {
         "name": "Ensan 2ali",
         "url": "https://open.spotify.com/album/7gm6nGEXUhSOKdQbm6cG2M"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 168791,
       "name": "Aam Faker Fiya",
       "url": "https://open.spotify.com/track/03QwVOvP2mrb870634I6yi"
-    },
-    {
-      "added_at": "2023-07-14 22:21:11",
-      "album": {
-        "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
-        "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
-      },
-      "artists": [
-        {
-          "name": "Haytham Shaker",
-          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
-        }
-      ],
-      "duration_ms": 294428,
-      "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
-      "url": "https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91"
     },
     {
       "added_at": "2023-07-14 22:21:11",

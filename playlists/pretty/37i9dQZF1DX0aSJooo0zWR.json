@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 185078,
+  "num_followers": 185184,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDcyM2VkNWUyMDdiZDMwNDZhN2E0NTk2MzVjMWNiOTRkNDI3MzBi",
+  "snapshot_id": "MCw2MWE0NjgwOGJmMzY1YWZiZjNlZDQyMTNmMDE1OWM1NTdkNmI3MWQ5",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Brecker Bros",
+        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
+      },
+      "artists": [
+        {
+          "name": "The Brecker Brothers",
+          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
+        }
+      ],
+      "duration_ms": 350506,
+      "name": "Some Skunk Funk",
+      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
+    },
+    {
       "added_at": "2023-02-17 05:01:00",
       "album": {
         "name": "Projekt 13",
@@ -359,22 +375,6 @@
       "duration_ms": 251490,
       "name": "Projekt 13",
       "url": "https://open.spotify.com/track/2eYwlXQ2kN1uq3qbcCVh9l"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Brecker Bros",
-        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
-      },
-      "artists": [
-        {
-          "name": "The Brecker Brothers",
-          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
-        }
-      ],
-      "duration_ms": 350506,
-      "name": "Some Skunk Funk",
-      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -409,6 +409,22 @@
       "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Walk Cycle",
+        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
+      },
+      "artists": [
+        {
+          "name": "The JuJu Exchange",
+          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Walk Cycle",
+      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Wired",
@@ -439,22 +455,6 @@
       "duration_ms": 243000,
       "name": "Hard-Wired",
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Walk Cycle",
-        "url": "https://open.spotify.com/album/0oC0UOFHqqtS6rmrxP6oe2"
-      },
-      "artists": [
-        {
-          "name": "The JuJu Exchange",
-          "url": "https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Walk Cycle",
-      "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -993,30 +993,6 @@
       "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
     },
     {
-      "added_at": "2023-01-13 05:01:00",
-      "album": {
-        "name": "VHS Fireplace Love (Live)",
-        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        },
-        {
-          "name": "SmokeFace",
-          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
-        },
-        {
-          "name": "Gabe Jones",
-          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "VHS Fireplace Love - Live",
-      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
-    },
-    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1047,6 +1023,30 @@
       "duration_ms": 579060,
       "name": "1 Year After",
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
+    },
+    {
+      "added_at": "2023-01-13 05:01:00",
+      "album": {
+        "name": "VHS Fireplace Love (Live)",
+        "url": "https://open.spotify.com/album/782eFYpgnjKKfcIFD3nYXy"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "SmokeFace",
+          "url": "https://open.spotify.com/artist/3e8YuixYOV4VcrAFhH49Vf"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "VHS Fireplace Love - Live",
+      "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1145,6 +1145,22 @@
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "From The Top",
+        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "duration_ms": 281946,
+      "name": "From The Top",
+      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Now You See It ... (Now You Don't)",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
-      },
-      "artists": [
-        {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
-        }
-      ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Gimme 5",
         "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 235106,
       "name": "Gimme 5",
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+      },
+      "artists": [
+        {
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+        }
+      ],
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
       "added_at": "2022-02-11 19:11:35",
@@ -1309,6 +1325,22 @@
       "url": "https://open.spotify.com/track/7pZ48MAPRThhNxPthsNeE1"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Big Fun (2022 Remaster)",
+        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1707435,
+      "name": "Go Ahead John (2022 Remaster)",
+      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1351,22 +1383,6 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Big Fun (2022 Remaster)",
-        "url": "https://open.spotify.com/album/66ubx5B6Q0Vgl7vbvGWP9h"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 1707435,
-      "name": "Go Ahead John (2022 Remaster)",
-      "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -1463,42 +1479,6 @@
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sokoband",
-        "url": "https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb"
-      },
-      "artists": [
-        {
-          "name": "Sokoband",
-          "url": "https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL"
-        },
-        {
-          "name": "Michael Sokolowski",
-          "url": "https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB"
-        },
-        {
-          "name": "Houston Ross",
-          "url": "https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd"
-        },
-        {
-          "name": "Nir Z",
-          "url": "https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ"
-        },
-        {
-          "name": "Steve Kimock",
-          "url": "https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j"
-        },
-        {
-          "name": "Tim Reynolds",
-          "url": "https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R"
-        }
-      ],
-      "duration_ms": 466053,
-      "name": "Jiriki",
-      "url": "https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ"
     }
   ],
   "unique_name": "Fusion Fest",

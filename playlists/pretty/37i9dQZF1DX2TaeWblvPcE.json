@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6939,
+  "num_followers": 6950,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3",
+  "snapshot_id": "MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
+        "name": "Kan Mingtian",
+        "url": "https://open.spotify.com/album/2q76etsUC6RX93q0UvDWyF"
       },
       "artists": [
         {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+          "name": "Onisan Lost Piano",
+          "url": "https://open.spotify.com/artist/2aEzybNq7HnpioCV1d4WHs"
         }
       ],
-      "duration_ms": 262720,
-      "name": "Moonchild Ballad - Instrumental",
-      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
+      "duration_ms": 231960,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3KrpjcRBEbJ4qm6ngom95b"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Kan Mingtian",
-        "url": "https://open.spotify.com/album/2q76etsUC6RX93q0UvDWyF"
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
       },
       "artists": [
         {
-          "name": "Onisan Lost Piano",
-          "url": "https://open.spotify.com/artist/2aEzybNq7HnpioCV1d4WHs"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 231960,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3KrpjcRBEbJ4qm6ngom95b"
+      "duration_ms": 262720,
+      "name": "Moonchild Ballad - Instrumental",
+      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+      },
+      "artists": [
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Puzzle - Instrumental",
+      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 251483,
       "name": "A Poem For Poetry - Instrumental",
       "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
-      },
-      "artists": [
-        {
-          "name": "YONGZOO",
-          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Puzzle - Instrumental",
-      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "K-pop Reimaginings",
-        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
-      },
-      "artists": [
-        {
-          "name": "postmoderndisco",
-          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
-        }
-      ],
-      "duration_ms": 274917,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "K-POP PIANO BEST",
         "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 314345,
       "name": "LOVE SCENARIO - Piano Version",
       "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "duration_ms": 274917,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "KPOP Piano Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 229415,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "MAP OF THE SOUL: 7 Piano Collection",
         "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 217680,
       "name": "Black Swan",
       "url": "https://open.spotify.com/track/19KkK8hM5JzQBSqjQilIhb"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
     },
     {
       "added_at": "2022-11-02 13:40:53",

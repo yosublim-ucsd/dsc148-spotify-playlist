@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Hot Summer",
+        "url": "https://open.spotify.com/album/6BEHK0e0rknUYbDUIFv4Sl"
+      },
+      "artists": [
+        {
+          "name": "DJ Durel",
+          "url": "https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231481,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/3fEpuoSr8ufvyRR7s2jB3U"
+    },
+    {
+      "album": {
         "name": "Culture III (Deluxe)",
         "url": "https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2"
       },
@@ -832,7 +854,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 239826,
       "name": "Seize The Block",
       "url": "https://open.spotify.com/track/0WQJIDidlJOv2C2PyvDUv5"

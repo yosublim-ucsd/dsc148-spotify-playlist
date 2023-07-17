@@ -1,12 +1,12 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 345709,
+  "num_followers": 345702,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzk0OTRkMGE5ZDhiMTUyOGYxZTBmMjdjODBmZWIzNmFkNzJlYTVm",
+  "snapshot_id": "MCw5Y2M4ODQzNzUwNDUwNGI4YzExMmRlYzc4MDU2OGU2N2ExMmRkMmI4",
   "tracks": [
     {
       "added_at": "2023-01-17 01:33:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Paradinha",
-        "url": "https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 141316,
-      "name": "Paradinha",
-      "url": "https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Paradinha",
+        "url": "https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 141316,
+      "name": "Paradinha",
+      "url": "https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Malemol\u00eancia",
-        "url": "https://open.spotify.com/album/0xcjQ2Z5aqmL2tp3RSYy8K"
-      },
-      "artists": [
-        {
-          "name": "Dynho Alves",
-          "url": "https://open.spotify.com/artist/1BRkfP0amngMbqJ4aV3KKp"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Malemol\u00eancia",
-      "url": "https://open.spotify.com/track/0ZTr6t4E5UurJE9oRYocbk"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Ra\u00e7a Negra e Amigos II (Ao Vivo)",
         "url": "https://open.spotify.com/album/0hSUBFqEpxTYTXyYfVncOw"
       },
@@ -739,22 +723,38 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Bonita, Lindinha e Sagaz",
-        "url": "https://open.spotify.com/album/5QOnAQEYvj9z2ooInaE4Tx"
+        "name": "Malemol\u00eancia",
+        "url": "https://open.spotify.com/album/0xcjQ2Z5aqmL2tp3RSYy8K"
       },
       "artists": [
         {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+          "name": "Dynho Alves",
+          "url": "https://open.spotify.com/artist/1BRkfP0amngMbqJ4aV3KKp"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Bonita, Lindinha e Sagaz",
-      "url": "https://open.spotify.com/track/3ZjpeqP47CBSMUTc6IVhEM"
+      "duration_ms": 135053,
+      "name": "Malemol\u00eancia",
+      "url": "https://open.spotify.com/track/0ZTr6t4E5UurJE9oRYocbk"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 146276,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
+        "name": "Bonita, Lindinha e Sagaz",
+        "url": "https://open.spotify.com/album/5QOnAQEYvj9z2ooInaE4Tx"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
         },
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         }
       ],
-      "duration_ms": 146276,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
+      "duration_ms": 155076,
+      "name": "Bonita, Lindinha e Sagaz",
+      "url": "https://open.spotify.com/track/3ZjpeqP47CBSMUTc6IVhEM"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "12 Horas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 240048,
+      "name": "12 Horas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Jogo do Amor",
         "url": "https://open.spotify.com/album/4njG3ASiYdSUc60uDTvDDS"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "12 Horas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ook1jniY6KP7rr7xmgpcW"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "12 Horas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7B826fTyDa3DkjnKpOgXFo"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Coladinha em Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 173136,
-      "name": "Disk Me",
-      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
         "name": "Xperience Na Praia (ao Vivo)",
         "url": "https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 245653,
       "name": "Inquilina - Ao Vivo",
       "url": "https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 173136,
+      "name": "Disk Me",
+      "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
       "added_at": "2023-01-17 01:33:36",

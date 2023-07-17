@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65281,
+  "num_followers": 65289,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDM2NDVmMmVmMmEyNjlkMmRjNzljNzAzYzMzZjJhMGYwODBlYjI2",
+  "snapshot_id": "MCwxNzEwMmExYTQ4Y2NjN2MxY2MwNzQ5ZWY5NzhlMTYyMGE0MjM5Yzlm",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Saade, Vol. 1",
+        "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 179786,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Saade, Vol. 1",
-        "url": "https://open.spotify.com/album/3ZaKROktb3ejok1owIknk7"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/64WR5TPXZZ2wsWYA3enKfK"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Essential",
-        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Je t'adore - Eurovision Mix",
-      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "No Boundaries",
         "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 166893,
       "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
       "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Je t'adore - Eurovision Mix",
+      "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
     },
     {
       "added_at": "2023-05-05 17:20:54",

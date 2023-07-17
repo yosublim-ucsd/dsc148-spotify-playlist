@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 656707,
+  "num_followers": 656961,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjlhZjJlODJmNzBkOWQ0NGNjNjhkOGFmNTk5MzYxZDU1NmIxZDhm",
+  "snapshot_id": "MCw3ODBlYTRlZjhiZjQ3MTRlNTA0Y2NlZDQ1MzZjMTY3MTIwNGRmMzY1",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Llego La Salsa",
         "url": "https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 278871,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/4YOz0Fl5q0cXanSCUtsW13"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 286693,
-      "name": "Cuando Parar\u00e1 La Lluvia",
-      "url": "https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 277706,
       "name": "Me Mata La Soledad",
       "url": "https://open.spotify.com/track/3EKsRQDRXgXHmNxQZ76MFc"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "Cuando Parar\u00e1 La Lluvia",
+      "url": "https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 305440,
+      "name": "Juguete De Nadie",
+      "url": "https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Intensamente Con Canciones de Juan Gabriel",
         "url": "https://open.spotify.com/album/3OrTxdDP1E286UALbB9T0D"
       },
@@ -1147,38 +1163,6 @@
       "duration_ms": 239363,
       "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/27dI6gpXKW1EYl0L7JHsJb"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        }
-      ],
-      "duration_ms": 302733,
-      "name": "Voy A Conquistar Tu Amor",
-      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 305440,
-      "name": "Juguete De Nadie",
-      "url": "https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 302733,
+      "name": "Voy A Conquistar Tu Amor",
+      "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
         "name": "Muy Agradecido",
         "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
       },
@@ -1291,26 +1291,6 @@
       "duration_ms": 315026,
       "name": "Invierno En Primavera",
       "url": "https://open.spotify.com/track/1Ta3rORfRZyTPcqCHsZXGF"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
-        "name": "Salsa Legends",
-        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
-        },
-        {
-          "name": "Ray Sepulveda",
-          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
-        }
-      ],
-      "duration_ms": 358493,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1391,6 +1371,26 @@
       "duration_ms": 326040,
       "name": "Dile A El",
       "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Salsa Legends",
+        "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        },
+        {
+          "name": "Ray Sepulveda",
+          "url": "https://open.spotify.com/artist/7FszsCzE5zryW0pO8Bc5f7"
+        }
+      ],
+      "duration_ms": 358493,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Sus Exitos",
-        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
-      },
-      "artists": [
-        {
-          "name": "Orlando Collado",
-          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "Llorando",
-      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Con Amor Se Gana",
         "url": "https://open.spotify.com/album/3MaqSrmpWmDkg3kFo7nhbV"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 275133,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/6JeEtAKTZj4hz7KqxmhJpU"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Sus Exitos",
+        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
+      },
+      "artists": [
+        {
+          "name": "Orlando Collado",
+          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "Llorando",
+      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
     },
     {
       "added_at": "2023-03-17 00:48:14",

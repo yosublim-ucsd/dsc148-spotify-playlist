@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Chayanne",
-  "num_followers": 598057,
+  "num_followers": 598126,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5M2ZkMWRhOWNhMmM1ZDk4YTE4NGZhZTRiMTE0YWM1ODIwZWM4OWIx",
+  "snapshot_id": "MCxjZjQyNWU0YTA1NzI2YjRlNzFiYWYxNzBlNDAyYzVhODk5OWYwNTAx",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -895,22 +895,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Dividimos",
-        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
+        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
+        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Flow La Movie",
-          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
         }
       ],
-      "duration_ms": 280916,
-      "name": "Dividimos (Bachata Version)",
-      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
+      "duration_ms": 216666,
+      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
+      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Pegao / Me Miro y La Mire (TikTok Hit)",
-        "url": "https://open.spotify.com/album/2owNg3nikzMzLuQy9n0Jqz"
+        "name": "Dividimos",
+        "url": "https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Flow La Movie",
+          "url": "https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f"
         }
       ],
-      "duration_ms": 216666,
-      "name": "Pegao / Me Miro y La Mire - TikTok Hit",
-      "url": "https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk"
+      "duration_ms": 280916,
+      "name": "Dividimos (Bachata Version)",
+      "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "La Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Tuki Tuki",
         "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "La Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/4ZxjpNp7yCTxcbnkeyj0i6"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Los Recuerdos",
+        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Los Recuerdos",
+      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
         "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 298906,
       "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
       "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Los Recuerdos",
-        "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Los Recuerdos",
-      "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
     },
     {
       "added_at": "2023-07-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Billie Eilish, Post Malone, PinkPantheress, Disclosure and more! cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,313 likes - 83 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,343 likes - 83 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 |
 | 83 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 
-Snapshot ID: `MCw0NmFkMzI3NzIzZDgyYzJlYTliZmU3Nzk2YzI1OGVlYTViNmU2OTZm`
+Snapshot ID: `MCw5NGQyNGY5YzBlM2Q3ZWI3NTE3YWVjYzQ3OGFjMWQ2MDlhNjVhYTgw`

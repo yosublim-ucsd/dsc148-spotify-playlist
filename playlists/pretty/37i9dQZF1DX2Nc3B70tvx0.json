@@ -1,12 +1,12 @@
 {
   "description": "Newsworthy indie of 2023: new + viral Faye Webster. ",
-  "num_followers": 2223350,
+  "num_followers": 2223244,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjYxMjRkYTg5NmFkMmM1OTkyMThjMjdiMzU5ZThlOTE3MWMzYjcw",
+  "snapshot_id": "MCw5ZTMzMzA1NjU4MTEzNjQwOWY4ODhjNjE5MjMyYWIyNzg5YWU1NTdi",
   "tracks": [
     {
       "added_at": "2023-07-07 00:52:15",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "Minari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 98560,
+      "name": "Jacob and the Stone",
+      "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Minari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
-      },
-      "artists": [
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 98560,
-      "name": "Jacob and the Stone",
-      "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
     },
     {
       "added_at": "2023-07-13 00:37:25",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Remember Me? EP from Mp",
-        "url": "https://open.spotify.com/album/2wb8GfeGtwL1sKPzHs0ffA"
-      },
-      "artists": [
-        {
-          "name": "Macabre Plaza",
-          "url": "https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t"
-        }
-      ],
-      "duration_ms": 61340,
-      "name": "Middle of Nowhere",
-      "url": "https://open.spotify.com/track/52Td1R2HmvP5gevSgUaifx"
-    },
-    {
       "added_at": "2023-07-13 22:53:19",
       "album": {
         "name": "Sunburn",
@@ -771,6 +755,22 @@
       "duration_ms": 126232,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/6OrCWnvAja4n5IYdzchJlH"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Remember Me? EP from Mp",
+        "url": "https://open.spotify.com/album/2wb8GfeGtwL1sKPzHs0ffA"
+      },
+      "artists": [
+        {
+          "name": "Macabre Plaza",
+          "url": "https://open.spotify.com/artist/7r8EHfxHZHU16sUV3BEH1t"
+        }
+      ],
+      "duration_ms": 61340,
+      "name": "Middle of Nowhere",
+      "url": "https://open.spotify.com/track/52Td1R2HmvP5gevSgUaifx"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "Red Wine Supernova",
+        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Red Wine Supernova",
+      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "After Midnight (feat. Clairo)",
         "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 188000,
       "name": "After Midnight (feat. Clairo)",
       "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Red Wine Supernova",
-        "url": "https://open.spotify.com/album/4FAby8ROZDZhSoOvsFBGIn"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Red Wine Supernova",
-      "url": "https://open.spotify.com/track/0eEXpE2WgW5cjuZVAuvuev"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Sunshine Baby",
-        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Sunshine Baby",
-      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "One That Got Away",
         "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "Sunshine Baby",
+        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
       },
@@ -987,6 +987,22 @@
       "duration_ms": 145093,
       "name": "Dummy",
       "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "Alone in the Mountains",
+        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 196707,
+      "name": "Alone in the Mountains",
+      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "Lake Missoula (feat. Mt. Joy)",
         "url": "https://open.spotify.com/album/6TmjKa40zMkgLDvePjukuZ"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 204819,
       "name": "Lake Missoula (feat. Mt. Joy)",
       "url": "https://open.spotify.com/track/1sfDyeBfzNeABw4afi4e5A"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
     },
     {
       "added_at": "2023-07-13 00:37:25",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Amoeba - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Amoeba - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1393,6 +1393,22 @@
       "url": "https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT"
     },
     {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
       "added_at": "2023-07-13 00:37:25",
       "album": {
         "name": "In the End It Always Does",
@@ -1411,22 +1427,6 @@
       "duration_ms": 227706,
       "name": "Morning Pages",
       "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Space Heavy",
-        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
-      },
-      "artists": [
-        {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
-        }
-      ],
-      "duration_ms": 239910,
-      "name": "Flimsier",
-      "url": "https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "\u00c1TTA",
         "url": "https://open.spotify.com/album/0PhjFcIDPt9cBRfYSJou3v"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 313040,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Space Heavy",
+        "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 239910,
+      "name": "Flimsier",
+      "url": "https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 162678,
-      "name": "Sleeping On My Own",
-      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "green house",
         "url": "https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 117000,
       "name": "green house",
       "url": "https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 162678,
+      "name": "Sleeping On My Own",
+      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
     },
     {
       "added_at": "2023-07-07 00:52:15",
@@ -1649,26 +1649,6 @@
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
     },
     {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
-        "name": "Spitting Off the Edge of the World (Lush Version)",
-        "url": "https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 263571,
-      "name": "Spitting Off the Edge of the World - Lush Version",
-      "url": "https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3"
-    },
-    {
       "added_at": "2023-07-13 22:53:19",
       "album": {
         "name": "Shelter",
@@ -1687,26 +1667,6 @@
     {
       "added_at": "2023-07-07 00:52:15",
       "album": {
-        "name": "Every Day's A Lesson In Humility",
-        "url": "https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        },
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 216189,
-      "name": "Every Day's A Lesson In Humility",
-      "url": "https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf"
-    },
-    {
-      "added_at": "2023-07-07 00:52:15",
-      "album": {
         "name": "Everything Is Boring",
         "url": "https://open.spotify.com/album/3IVFpVQvospcyELiYdMlvX"
       },
@@ -1719,6 +1679,42 @@
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
+    },
+    {
+      "added_at": "2023-07-13 22:53:19",
+      "album": {
+        "name": "Time Will Wait For No One",
+        "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Empty Mansions",
+      "url": "https://open.spotify.com/track/5GdSPrFUgE6bGpyVYxxqyK"
+    },
+    {
+      "added_at": "2023-07-07 00:52:15",
+      "album": {
+        "name": "Spitting Off the Edge of the World (Lush Version)",
+        "url": "https://open.spotify.com/album/59XfuTU6jkZ1yVrgqes1VH"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 263571,
+      "name": "Spitting Off the Edge of the World - Lush Version",
+      "url": "https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3"
     }
   ],
   "unique_name": "Front Page Indie",

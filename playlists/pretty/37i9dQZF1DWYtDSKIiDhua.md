@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: tanny ng
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,474 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,557 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 84 | [Impala](https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [APPETITE FOR DISASTER](https://open.spotify.com/album/2xKVOKhRSFgKTrwhTPGoZe) | 3:07 |
 | 85 | [Remedy](https://open.spotify.com/track/6Oa0nJwDOkclkCQsiZh6ge) | [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES) | [Daydream](https://open.spotify.com/album/2oMoazj0HGsegjfPDyfrvh) | 3:31 |
 
-Snapshot ID: `MCxmMWVkY2UwNjU3NDkzNTY1YzJjMjU0ZWRhMzNjZWFkMjU0NzgyOTlj`
+Snapshot ID: `MCxmMWQ0YTVjOTQ0ZjM5NjY3NzBkMDU0YTk5NjBmYzc3YmZjMjI0OGNj`

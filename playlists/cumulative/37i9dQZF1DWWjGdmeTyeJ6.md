@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Wynne\. Artwork by Isu Kim\. Updates every Wednesday.
 
-4,474 songs - 10 day 4 hr 23 min
+4,475 songs - 10 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4151,7 +4151,8 @@
 | [Unseen](https://open.spotify.com/track/35w8wgWeqY7SuORIxySxrl) | [Zorza](https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr) | [Unseen](https://open.spotify.com/album/0FRl1ZOXWv8AnkGkVAUwlm) | 3:04 | 2023-03-29 | 2023-04-06 |
 | [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 | 2022-03-16 | 2022-03-24 |
 | [Untether](https://open.spotify.com/track/3KIrZ8boA8FThn6DxI5bxM) | [Poodle](https://open.spotify.com/artist/0Kj8Cf3RBbddDtytdh863p) | [Interiors](https://open.spotify.com/album/3SyexOlRH2pPKDUk3AyC00) | 2:49 | 2022-03-02 | 2022-03-10 |
-| [Untether](https://open.spotify.com/track/6csk8gaygoDrtvqCJ5YSod) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [Untether](https://open.spotify.com/album/7uhN8KfytUsoQM7MGnU0cH) | 2:45 | 2023-07-12 |  |
+| [Untether](https://open.spotify.com/track/2uPwR9ofmljZIs0OVubvaB) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [Untether](https://open.spotify.com/album/1Zw0CTVx2B5VS5w88mgIV4) | 2:45 | 2023-07-12 |  |
+| [Untether](https://open.spotify.com/track/6csk8gaygoDrtvqCJ5YSod) | [Sophie Truax](https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk) | [Untether](https://open.spotify.com/album/7uhN8KfytUsoQM7MGnU0cH) | 2:45 | 2023-07-12 | 2023-07-17 |
 | [Until The Bitter End](https://open.spotify.com/track/2kqGTMB4nmoxi61F15Eleq) | [Pincey](https://open.spotify.com/artist/06m44jnKVlVd6Y42y8kmVB) | [The Bitter End](https://open.spotify.com/album/2hbOcES22Vi8mEh1UqzkXi) | 3:34 | 2022-07-20 | 2022-07-28 |
 | [Until The Morning](https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Until The Morning](https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf) | 2:58 | 2023-04-26 | 2023-05-04 |
 | [untitled](https://open.spotify.com/track/0MZBimVC8wLPHkrID6wzp4) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [untitled](https://open.spotify.com/album/4QNGzsk6uUIdihK9KD3AJq) | 4:01 | 2023-05-17 | 2023-05-24 |

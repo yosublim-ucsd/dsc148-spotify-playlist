@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 583989,
+  "num_followers": 584186,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm",
+  "snapshot_id": "MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0",
   "tracks": [
     {
       "added_at": "2023-06-30 15:00:00",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 276157,
-      "name": "Nation",
-      "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Voices Above",
         "url": "https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 196451,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/525ORJiAr0Gt29UjF1hpJU"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 276157,
+      "name": "Nation",
+      "url": "https://open.spotify.com/track/7u6e2bismSIAH1fyUvj3Ru"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Laufen",
         "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 257709,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Inner Child (Patrice B\u00e4umel Remix)",
         "url": "https://open.spotify.com/album/4AVJ3orR0WTENQDm3mn67f"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 253195,
       "name": "Inner Child - Patrice B\u00e4umel Remix",
       "url": "https://open.spotify.com/track/6oFYHUfDjBTGvR5M3RzSUE"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Cold Shoulder (Helsloot Remix)",
-        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
-      },
-      "artists": [
-        {
-          "name": "Words of Ni\u014d",
-          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Cold Shoulder - Helsloot Remix",
-      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 219440,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Cold Shoulder (Helsloot Remix)",
+        "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
+      },
+      "artists": [
+        {
+          "name": "Words of Ni\u014d",
+          "url": "https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Cold Shoulder - Helsloot Remix",
+      "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
     },
     {
       "added_at": "2023-06-30 15:00:00",

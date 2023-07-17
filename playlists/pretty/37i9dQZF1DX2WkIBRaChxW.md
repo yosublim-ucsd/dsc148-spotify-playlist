@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring Idman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,522 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,528 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Creepin' \(feat\. 21 Savage\) \- Remix](https://open.spotify.com/track/5Ee4IyhPaOVRMc15fUOeG9) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Creepin' \(Remix\)](https://open.spotify.com/album/3P2UkOkqWp8ucd1EOnVAH7) | 3:52 |
 | 75 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 
-Snapshot ID: `MCxhMTc1ODk5NjU1NGYyMGZiMjQ5ZDM1OGM1YThiNjBjMTU5YWI2NjU4`
+Snapshot ID: `MCw4Y2M0MjUwOWY3ZTQ2YzJlZTk4YjZhNjU1NGM2ZjQ4ZGIwMzZjMTAx`

@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 145052,
+  "num_followers": 145128,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzc2NWM2OTRmY2Y3OWMzZTI4ZWVkMDA2OThhOTJjODM1MTE1MDZi",
+  "snapshot_id": "MCxiYzEwNjE1YTg4MzgzNzRmNTcwOTQ1N2MyZmI5OGRiZTkzYmVkOWJm",
   "tracks": [
     {
       "added_at": "2023-07-11 15:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
       "artists": [
         {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
         }
       ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "New Romantic (feat. Maki Nomiya)",
-        "url": "https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "Maki Nomiya",
-          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
-        }
-      ],
-      "duration_ms": 193017,
-      "name": "New Romantic (feat. Maki Nomiya)",
-      "url": "https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
         "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
       },
@@ -1311,6 +1291,22 @@
       "duration_ms": 235325,
       "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
       "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "TRANSIT IN SUMMER",
+        "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
+      },
+      "artists": [
+        {
+          "name": "GOOD BYE APRIL",
+          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+        }
+      ],
+      "duration_ms": 265471,
+      "name": "TRANSIT IN SUMMER",
+      "url": "https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1331,18 +1327,22 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "TRANSIT IN SUMMER",
-        "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
+        "name": "New Romantic (feat. Maki Nomiya)",
+        "url": "https://open.spotify.com/album/7lh5knxxP0iCLqqe8sL0Vx"
       },
       "artists": [
         {
-          "name": "GOOD BYE APRIL",
-          "url": "https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38"
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Maki Nomiya",
+          "url": "https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj"
         }
       ],
-      "duration_ms": 265471,
-      "name": "TRANSIT IN SUMMER",
-      "url": "https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ"
+      "duration_ms": 193017,
+      "name": "New Romantic (feat. Maki Nomiya)",
+      "url": "https://open.spotify.com/track/3QcM6ch2eQqWJgjtpIZvm7"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1383,62 +1383,6 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "RA MU - Night Tempo presents The Showa Groove",
-        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        },
-        {
-          "name": "RA MU",
-          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
-        }
-      ],
-      "duration_ms": 302721,
-      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
-      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
-        "name": "FANCITY",
-        "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
-      },
-      "artists": [
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        },
-        {
-          "name": "Soulflex",
-          "url": "https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS"
-        }
-      ],
-      "duration_ms": 242143,
-      "name": "FANCITY",
-      "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
-        "name": "PRISMATICS",
-        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "FANTASY",
-      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
-    },
-    {
-      "added_at": "2023-07-11 15:00:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0omU25qz419rVoQj8b2ePf"
       },
@@ -1471,6 +1415,42 @@
       "duration_ms": 226779,
       "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "PRISMATICS",
+        "url": "https://open.spotify.com/album/5YMCQehUKpGaQINzMYbIrt"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "FANTASY",
+      "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
+        "name": "FANCITY",
+        "url": "https://open.spotify.com/album/0N8RNhddtJnfB6ZxMfnCoj"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        },
+        {
+          "name": "Soulflex",
+          "url": "https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS"
+        }
+      ],
+      "duration_ms": 242143,
+      "name": "FANCITY",
+      "url": "https://open.spotify.com/track/7cOKzEqICjz5E0DtjXpU0K"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1523,6 +1503,26 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
+        "name": "RA MU - Night Tempo presents The Showa Groove",
+        "url": "https://open.spotify.com/album/5RfPeFBeSWOoTWdt4c0McX"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "RA MU",
+          "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
+        }
+      ],
+      "duration_ms": 302721,
+      "name": "Aoyama Killer Story (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/08Q3YDJYVho2ImOhGc2AY5"
+    },
+    {
+      "added_at": "2023-07-11 15:00:00",
+      "album": {
         "name": "\u5f37\u304f\u511a\u3044\u8005\u305f\u3061",
         "url": "https://open.spotify.com/album/4nirXTonRjgnjwfc9vCg6J"
       },
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "Inherit The Life II",
-        "url": "https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4"
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
       },
       "artists": [
         {
-          "name": "\u89d2\u677e \u654f\u751f",
-          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 268880,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc"
+      "duration_ms": 272657,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "FLYME",
-        "url": "https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5"
+        "name": "Inherit The Life II",
+        "url": "https://open.spotify.com/album/4m8N9WoRsk1JJ58neXOFC4"
       },
       "artists": [
         {
-          "name": "dawgss",
-          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+          "name": "\u89d2\u677e \u654f\u751f",
+          "url": "https://open.spotify.com/artist/3sQKcUtvMwpzlc7j0wSkxJ"
         }
       ],
-      "duration_ms": 221937,
-      "name": "FLYME",
-      "url": "https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN"
+      "duration_ms": 268880,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3ZwaCmECVfLO0H2kSXERcc"
     },
     {
       "added_at": "2023-07-11 15:00:00",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2023-07-11 15:00:00",
       "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i"
+        "name": "FLYME",
+        "url": "https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "dawgss",
+          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
         }
       ],
-      "duration_ms": 272657,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc"
+      "duration_ms": 221937,
+      "name": "FLYME",
+      "url": "https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN"
     },
     {
       "added_at": "2023-07-11 15:00:00",

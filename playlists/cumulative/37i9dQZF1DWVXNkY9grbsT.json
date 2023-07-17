@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "How Do You Live",
+        "url": "https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341805,
+      "name": "All Things Burn",
+      "url": "https://open.spotify.com/track/2NVRwrkHjiwfB1EIDLH3p7"
+    },
+    {
+      "album": {
         "name": "Amos",
         "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
       },
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 283584,
       "name": "Malady of duration",
       "url": "https://open.spotify.com/track/2RRDNHGUKYOqgsAJcVWRIT"

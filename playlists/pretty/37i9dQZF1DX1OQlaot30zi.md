@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Slings, Villabanks, Niky Savage e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,859 likes - 77 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,874 likes - 77 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 76 | [ventiquattro](https://open.spotify.com/track/36V1AlJgM7twP1LNJym8Xn) | [blame](https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8) | [ventiquattro](https://open.spotify.com/album/1EuqOMLU1qZiUekCMnZA1E) | 2:30 |
 | 77 | [Il numero Zero](https://open.spotify.com/track/1ljHB64HU7NO7L61cujh5o) | [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu) | [Il numero Zero](https://open.spotify.com/album/3sbmQmzLoVzXs4Nag4ayMn) | 3:00 |
 
-Snapshot ID: `MCxmM2M4MTYyMGU5ZDY1ZmU5ZGY0OGI1YTVlM2YzYjI4ZjczMTFiZmRl`
+Snapshot ID: `MCwzYzU1NjAzYjRkNjI4NDMwYjllNjJmMDk3OTExYzgzZDE0NjU2OGEx`

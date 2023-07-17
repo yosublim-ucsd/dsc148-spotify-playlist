@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Sena Mc",
-  "num_followers": 31293,
+  "num_followers": 31292,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzRmY2QyMWRiN2JkZWJiYjhmODIwYjY1NDRlNjk2YTdlOTM5N2Nh",
+  "snapshot_id": "MCxiMjk3YTgwNTdkMTNlYzNlZmJkMzY5NGE0YzIyZTFkOWVkNGNmOTg5",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Versos Fortes",
-        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
-      },
-      "artists": [
-        {
-          "name": "Blecaute",
-          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 134893,
-      "name": "Versos Fortes",
-      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 229766,
       "name": "Gl\u00f3ria",
       "url": "https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "Versos Fortes",
+        "url": "https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb"
+      },
+      "artists": [
+        {
+          "name": "Blecaute",
+          "url": "https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Versos Fortes",
+      "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
     },
     {
       "added_at": "2023-07-14 03:01:00",

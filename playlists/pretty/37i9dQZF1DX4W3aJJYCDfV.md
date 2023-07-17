@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from J Hus \(pictured\), Billie Eilish, Disclosure and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,847 likes - 130 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,867 likes - 130 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [Faro Break](https://open.spotify.com/track/6UnbJeTAmgAimrDAZiDjQ6) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [Faro Break](https://open.spotify.com/album/6OcxQNhA0oEVXUl8ipyhXt) | 5:36 |
 | 130 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 |
 
-Snapshot ID: `MCxiM2FkMTU1ODlhY2ZiOWZkYWY1YWNiMzA2NzU4YjA2NTc2NTI2ZDZl`
+Snapshot ID: `MCxmZTYwNWY5YjVkMGY3ZmQzY2NjZWIzNDQwY2IwY2E1OGNkNWU3NWE2`

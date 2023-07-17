@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 5984,
+  "num_followers": 5982,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
+  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -443,6 +443,26 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        }
+      ],
+      "duration_ms": 337537,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "A Can\u00e7\u00e3o de Natal",
         "url": "https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 345735,
       "name": "Medley de Natal: Num Ber\u00e7o de Palha / Noite de Paz",
       "url": "https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
-      },
-      "artists": [
-        {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        },
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        }
-      ],
-      "duration_ms": 337537,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "#TBT",
-        "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
-      },
-      "artists": [
-        {
-          "name": "7MUS",
-          "url": "https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8"
-        },
-        {
-          "name": "Vitrine UNASP",
-          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
-        }
-      ],
-      "duration_ms": 212175,
-      "name": "A Hist\u00f3ria de Cristo",
-      "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "O Primeiro Natal",
         "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 278000,
       "name": "O Primeiro Natal",
       "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "#TBT",
+        "url": "https://open.spotify.com/album/53aePMus3r7215h43aChgx"
+      },
+      "artists": [
+        {
+          "name": "7MUS",
+          "url": "https://open.spotify.com/artist/33yLLoQo58B1Sq7eTfXIU8"
+        },
+        {
+          "name": "Vitrine UNASP",
+          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
+        }
+      ],
+      "duration_ms": 212175,
+      "name": "A Hist\u00f3ria de Cristo",
+      "url": "https://open.spotify.com/track/4sZZlZEn7UPPnhx9eymssz"
     },
     {
       "added_at": "2022-12-09 06:26:14",

@@ -4,7 +4,7 @@
 
 > We hear you.
 
-601 songs - 1 day 5 hr 41 min
+602 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2 Hurt Me](https://open.spotify.com/track/2IpSgH91f8BVfoKSIVhCxu) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [2 Hurt Me](https://open.spotify.com/album/28I6rRHavLzqvdJb9GCQqA) | 2:51 | 2021-04-02 | 2022-04-17 |
 | [28](https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [CESSATION](https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa) | 3:36 | 2022-11-11 | 2022-11-16 |
 | [5](https://open.spotify.com/track/2uhsLVdlg8eRs62cg0Ilm7) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [5](https://open.spotify.com/album/7IsOTogU20hEtMwA7qZ9l8) | 4:03 | 2021-04-02 | 2022-04-19 |
-| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2023-04-26 |  |
+| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2023-04-26 | 2023-07-17 |
 | [A Song About Being Sad](https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 2:16 | 2021-04-02 | 2022-04-20 |
 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 | 2021-04-02 | 2023-05-06 |
 | [a world of chaos \(feat\. Rxseboy, Jomie & Ivri\)](https://open.spotify.com/track/2JcMKZhCd5RwcwRbEG58wu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [poems of the past](https://open.spotify.com/album/5pAEEkvjNXOVFUazjKJgps) | 2:42 | 2021-04-02 | 2022-04-21 |
@@ -106,6 +106,7 @@
 | [Dead and Cold](https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/48ydOppyPEiQuWz8MbGLuU) | 1:29 | 2022-07-15 | 2022-12-24 |
 | [Dead and Cold](https://open.spotify.com/track/1A43TfohQt3H6K5zg28ExD) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Dead and Cold](https://open.spotify.com/album/4LtNfDv6yfcLlGesOnGK2A) | 1:29 | 2021-04-02 | 2022-06-23 |
 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 | 2021-04-02 | 2022-04-15 |
+| [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 | 2023-07-07 |  |
 | [Demons and Monsters](https://open.spotify.com/track/6pgSQuEY2hJhRkC4YpZfJQ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Demons and Monsters](https://open.spotify.com/album/7ppPbLDYHP6zPdUTwHQQ2g) | 3:17 | 2021-04-02 | 2022-05-30 |
 | [Demons and Monsters](https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Demons and Monsters](https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3) | 3:17 | 2022-07-15 | 2023-04-27 |
 | [Dialtone \(ft\. Quiet Luke\)](https://open.spotify.com/track/68RAS0hR8AkvWlhbDCPOpG) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Someone Will Be There For You](https://open.spotify.com/album/62H9eBjEbABHdejt9USJuX) | 3:02 | 2022-05-20 | 2022-07-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 1737,
+  "num_followers": 1773,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTc3YzJlNmU1YWE4MDA4MzY1MGY5NzJiMmNlMTY1ODJjOTgyYWJj",
+  "snapshot_id": "MCw2YTdjNWQ2NDczZWZkNTIwMzViMjhkNWIyZTA5ZjBkODRmNjVkYzhk",
   "tracks": [
     {
       "added_at": "2023-07-07 18:28:55",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
+      },
+      "artists": [
+        {
+          "name": "Calma Carmona",
+          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 225000,
       "name": "Problema",
       "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
-        "name": "Vibra",
-        "url": "https://open.spotify.com/album/6CEienBDgxTIWPx5VxJV3g"
-      },
-      "artists": [
-        {
-          "name": "Calma Carmona",
-          "url": "https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Vibra",
-      "url": "https://open.spotify.com/track/41dHSGLC4FJl8iQFU60PEp"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -531,6 +531,38 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
         "name": "Duo Deleite",
         "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
@@ -559,22 +591,6 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
-      },
-      "artists": [
-        {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
         "name": "Me Saben a Miel",
         "url": "https://open.spotify.com/album/3vXjrJIzXJUNCdwTXLlebb"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
         "name": "Letra Pa' tu Coco",
         "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+        "name": "Mares\u00eda",
+        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
       },
       "artists": [
         {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
         }
       ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+      "duration_ms": 211169,
+      "name": "Mares\u00eda",
+      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "La Rareza",
-        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
-      },
-      "artists": [
-        {
-          "name": "Los Rarxs",
-          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Tu Nunca Has Sentido",
-      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
         "name": "El Hijo de Borik\u00e9n",
         "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 257091,
       "name": "Flow Criollo",
       "url": "https://open.spotify.com/track/2WwDoD3AIsGmftk5vUFuM5"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
+        "name": "La Rareza",
+        "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
+      },
+      "artists": [
+        {
+          "name": "Los Rarxs",
+          "url": "https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Tu Nunca Has Sentido",
+      "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
     },
     {
       "added_at": "2023-07-07 18:28:55",

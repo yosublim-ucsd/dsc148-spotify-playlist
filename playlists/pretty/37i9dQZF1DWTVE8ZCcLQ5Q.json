@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421510,
+  "num_followers": 421505,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzZjOWJjMjkyNTcyYmU4NWMzNDQ2NmYzMGI5ZGRkZWY0NmQwNmYz",
+  "snapshot_id": "MCxjODZlZjFjZmQ0YmVjNWMwMjAzZmU4N2IxYzg0ZGI2NzJiOTFlMTM4",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Favelinha",
+        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 102958,
+      "name": "Favelinha",
+      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Me liga",
         "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 150857,
       "name": "Me liga",
       "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Favelinha",
-        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 102958,
-      "name": "Favelinha",
-      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
       "added_at": "2023-07-12 21:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist for hot new updates\. Cover: Nicky Jam, Maluma &amp; The Chainsmokers
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,443 likes - 60 songs - 3 hr 17 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,438 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-144 songs - 13 hr 54 min
+145 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Far And Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/track/7hUfeFl3SpwWli75e0VA1j) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Far and Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/album/39Opdt7XBmjgKFfbdlH8De) | 6:13 | 2021-08-06 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Reflections](https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR) | 7:10 | 2022-09-02 | 2022-11-06 |
 | [Friction](https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:00 | 2021-02-12 |  |
+| [From The Top](https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [From The Top](https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU) | 4:41 | 2023-07-14 |  |
 | [Fuel City](https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Empire Central](https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA) | 4:52 | 2022-09-30 |  |
 | [Funkdombe \- edit](https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU) | [Hector Bingert](https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Funkdombe \- edit](https://open.spotify.com/album/283Munji1hx8ykXv5sY57R) | 3:50 | 2022-04-08 |  |
 | [Galaxias \(Radio Edit\)](https://open.spotify.com/track/4u8xcocvv2wQ1EN44UYzlt) | [Niño Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Galaxias](https://open.spotify.com/album/30utofoN4gEgd6ulk1qXEP) | 3:56 | 2022-10-07 |  |
@@ -70,7 +71,7 @@
 | [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 | 2021-04-09 | 2023-06-28 |
 | [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 | 2022-08-12 | 2022-10-26 |
 | [jiriki](https://open.spotify.com/track/63vIR3Bp9BiTuXqUTC64UM) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL) | [Sokoband](https://open.spotify.com/album/5NNkK4LPAccGITR29de0Zv) | 7:46 | 2021-02-12 | 2022-07-29 |
-| [Jiriki](https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL), [Michael Sokolowski](https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB), [Houston Ross](https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd), [Nir Z](https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ), [Steve Kimock](https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j), [Tim Reynolds](https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R) | [Sokoband](https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb) | 7:46 | 2021-02-12 |  |
+| [Jiriki](https://open.spotify.com/track/1sNuGiLGslnsJH0OqkTFyQ) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL), [Michael Sokolowski](https://open.spotify.com/artist/2CBMmC4HvGyoyXupTdRuNB), [Houston Ross](https://open.spotify.com/artist/5aplJ2wkOSmrr8ivOkvpGd), [Nir Z](https://open.spotify.com/artist/2qpwI9vixGXXmBQSpRhkgQ), [Steve Kimock](https://open.spotify.com/artist/24FikupxPEJvKoYu4MT92j), [Tim Reynolds](https://open.spotify.com/artist/7rvkQK7ZqO34sKsWEXjz3R) | [Sokoband](https://open.spotify.com/album/4yuh8xTs6GnhTLrjZ99hKb) | 7:46 | 2021-02-12 | 2023-07-17 |
 | [JosHUA!](https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE) | [Tangible Jazz Dreams](https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN) | [Meltdown](https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI) | 7:03 | 2022-04-01 |  |
 | [K4Y](https://open.spotify.com/track/6lHAH1CHfFDO2vjahZNqFJ) | [Daniel Weiss](https://open.spotify.com/artist/1C1dIy1LMvY2twCVueCoCP), [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo) | [K4Y](https://open.spotify.com/album/705VGnP2jRgbmW1cHKDhcD) | 8:29 | 2021-02-12 | 2022-07-29 |
 | [Keisha Billip](https://open.spotify.com/track/0CUs0BnOHeHz5BZGJRlvVY) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Ugh](https://open.spotify.com/album/7iNL3YVUTgEATEd1dU5s1q) | 4:22 | 2021-02-12 | 2023-04-30 |

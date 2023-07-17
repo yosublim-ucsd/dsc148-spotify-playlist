@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 4788,
+  "num_followers": 4810,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
+  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Sea Island",
-        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 405573,
-      "name": "Angle of List",
-      "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Fire Light",
         "url": "https://open.spotify.com/album/2fj4Z9IkqS9SK3lOeeHrY3"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 249758,
       "name": "Sunrise on the Mississippi",
       "url": "https://open.spotify.com/track/5CUVMOya16zes7XHR8Kja7"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Sea Island",
+        "url": "https://open.spotify.com/album/2GLSvGxliKx2LbRAKK7Led"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 405573,
+      "name": "Angle of List",
+      "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "In Arboreal Whispering",
         "url": "https://open.spotify.com/album/7hHtQmDjx7srb9fyMueT4s"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 249159,
       "name": "Intransigence",
       "url": "https://open.spotify.com/track/4eMOIEdYGXThAxGb7SdNZd"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
       },
       "artists": [
         {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
         }
       ],
-      "duration_ms": 207993,
-      "name": "Hanging Glass Structure",
-      "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
+      "duration_ms": 422613,
+      "name": "Convex",
+      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -887,18 +883,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
       "artists": [
         {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
         }
       ],
-      "duration_ms": 422613,
-      "name": "Convex",
-      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
+      "duration_ms": 207993,
+      "name": "Hanging Glass Structure",
+      "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 292333,
       "name": "Narkopop 1",
       "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 249700,
-      "name": "Narkopop 4",
-      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Distant and Spirals",
         "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
       },
@@ -1171,38 +1155,6 @@
       "duration_ms": 404210,
       "name": "Distant",
       "url": "https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Music For Installations",
-        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 483566,
-      "name": "Kites I",
-      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Loom Dream",
-        "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
-      },
-      "artists": [
-        {
-          "name": "Leif",
-          "url": "https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D"
-        }
-      ],
-      "duration_ms": 455925,
-      "name": "Mimosa",
-      "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1259,6 +1211,54 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Music For Installations",
+        "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 483566,
+      "name": "Kites I",
+      "url": "https://open.spotify.com/track/51Wa3SEDS3FQHxtvcCter8"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 249700,
+      "name": "Narkopop 4",
+      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Loom Dream",
+        "url": "https://open.spotify.com/album/0eW3b50zPiSOrK0SiG8ZEh"
+      },
+      "artists": [
+        {
+          "name": "Leif",
+          "url": "https://open.spotify.com/artist/381PGxyzR9qLrFbprEp46D"
+        }
+      ],
+      "duration_ms": 455925,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/04eX5ipbl4MG4RybvDmTBW"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "The Best Driving Music in the World Ever",
         "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
@@ -1271,6 +1271,38 @@
       "duration_ms": 250341,
       "name": "We Search for the Lights",
       "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "Equal Ourselves",
+      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Nightmare Ending",
+        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 429986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1295,22 +1327,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Equal Ourselves",
-      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "LUX 1",
         "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 212839,
       "name": "LUX 1.4",
       "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Nightmare Ending",
-        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 429986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Vantaa",
-        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
-      },
-      "artists": [
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 490500,
-      "name": "Luotasi",
-      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Living With Yourself",
         "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 202000,
       "name": "Two Different People",
       "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Vantaa",
+        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 490500,
+      "name": "Luotasi",
+      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
     },
     {
       "added_at": "2023-06-07 15:21:34",

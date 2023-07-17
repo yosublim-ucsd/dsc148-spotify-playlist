@@ -1,12 +1,12 @@
 {
   "description": "Snuggling in for the evening with a nice soundtrack",
-  "num_followers": 111986,
+  "num_followers": 112067,
   "original_name": "Mellow Evening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmUxZDdmZWUxZDExZDE3Nzg5NDI3OTAxZDY3NDg4YWFjMTc0Yzhk",
+  "snapshot_id": "MCw3NGI2Mjk4ZjJkMjNiMDcwZDYwMDFmMGY4OGJkYzdmNDVkZDE5OWE2",
   "tracks": [
     {
       "added_at": "2023-06-30 13:08:04",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2023-06-30 13:08:04",
       "album": {
-        "name": "Heartbeat Changes",
-        "url": "https://open.spotify.com/album/5Rhr4ga3sBtnFcX7dVDh8Q"
+        "name": "Midnight River (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx"
       },
       "artists": [
         {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 200066,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4yZSlqXWEeZ7M2eUiGi7dQ"
+      "duration_ms": 184242,
+      "name": "Midnight River (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
     }
   ],
   "unique_name": "Mellow Evening",

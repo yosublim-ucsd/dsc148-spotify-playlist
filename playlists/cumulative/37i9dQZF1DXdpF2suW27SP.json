@@ -1990,7 +1990,7 @@
     {
       "album": {
         "name": "Tina Dance Mixtape (Sabor 2000)",
-        "url": "https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB"
+        "url": "https://open.spotify.com/album/5ycFLdPQSqXthLoVmb15GV"
       },
       "artists": [
         {
@@ -2001,6 +2001,24 @@
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Drill Cl\u00e1ssico",
+      "url": "https://open.spotify.com/track/0kDR6qXUeXyYqeIVdZDVmI"
+    },
+    {
+      "album": {
+        "name": "Tina Dance Mixtape (Sabor 2000)",
+        "url": "https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB"
+      },
+      "artists": [
+        {
+          "name": "Chico da Tina",
+          "url": "https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
       "duration_ms": 144000,
       "name": "Drill Cl\u00e1ssico",
       "url": "https://open.spotify.com/track/4If6p0UoEWdp9Sh5V907xN"

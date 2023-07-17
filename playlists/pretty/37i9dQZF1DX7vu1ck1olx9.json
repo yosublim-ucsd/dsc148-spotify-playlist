@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 57757,
+  "num_followers": 57793,
   "original_name": "Lo-Fi Cool Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWU0NzA1MjQ3NjY1Yjg1ZjhmNmFlMjAzODBmNTg3OTE4MjA0NDgz",
+  "snapshot_id": "MCwyODAwZjYyYWQyYzU0YmMzNzM2Yzk5ZTY4YTM0ZmNkMWEyZGVlOWRh",
   "tracks": [
     {
       "added_at": "2020-11-12 22:28:34",
@@ -359,6 +359,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "Boardwalk Bumps 3",
+        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 121097,
+      "name": "Good Evening",
+      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "It's Ok",
         "url": "https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 168297,
       "name": "It's Ok",
       "url": "https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "Boardwalk Bumps 3",
-        "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 121097,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX"
     },
     {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Heart Ache",
+        "url": "https://open.spotify.com/album/1oeoiDkblHaCEdZi6GA7AS"
+      },
+      "artists": [
+        {
+          "name": "GurtyBeats",
+          "url": "https://open.spotify.com/artist/5uho8NPQ2MAnDKEVhBdsJ8"
+        }
+      ],
+      "duration_ms": 127080,
+      "name": "Heart Ache",
+      "url": "https://open.spotify.com/track/1fUtnylny4kCekSRCTYqnl"
+    },
+    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Sunset Cruise",
@@ -659,22 +675,6 @@
       "duration_ms": 144000,
       "name": "Sunset Cruise",
       "url": "https://open.spotify.com/track/4PDx95A1EalEnhMRHS7mdL"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "Heart Ache",
-        "url": "https://open.spotify.com/album/1oeoiDkblHaCEdZi6GA7AS"
-      },
-      "artists": [
-        {
-          "name": "GurtyBeats",
-          "url": "https://open.spotify.com/artist/5uho8NPQ2MAnDKEVhBdsJ8"
-        }
-      ],
-      "duration_ms": 127080,
-      "name": "Heart Ache",
-      "url": "https://open.spotify.com/track/1fUtnylny4kCekSRCTYqnl"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -825,26 +825,6 @@
       "url": "https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Close Distance (Deluxe)",
-        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "K, Le Maestro",
-          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Solst\u00e5nd - Bonus Track",
-      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
-    },
-    {
       "added_at": "2020-11-12 22:28:34",
       "album": {
         "name": "Collabs, Vol 2",
@@ -867,6 +847,26 @@
       "duration_ms": 104945,
       "name": "Sandcastle",
       "url": "https://open.spotify.com/track/4uzI5lrZY5XD9D8QpUVESB"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Close Distance (Deluxe)",
+        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "K, Le Maestro",
+          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Solst\u00e5nd - Bonus Track",
+      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
     },
     {
       "added_at": "2021-02-12 05:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/56A7kmD6LKvf6BXwCSYcDn"
-      },
-      "artists": [
-        {
-          "name": "Kudasaibeats",
-          "url": "https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2"
-        }
-      ],
-      "duration_ms": 172307,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Devine",
         "url": "https://open.spotify.com/album/52KSCzrUXBM0seRkCbgtCS"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 122758,
       "name": "Devine",
       "url": "https://open.spotify.com/track/2UAZ0GqmyRh5O3A17FOlOy"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/56A7kmD6LKvf6BXwCSYcDn"
+      },
+      "artists": [
+        {
+          "name": "Kudasaibeats",
+          "url": "https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
-      },
-      "artists": [
-        {
-          "name": "Yestalgia",
-          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
-        }
-      ],
-      "duration_ms": 143376,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "keep on",
         "url": "https://open.spotify.com/album/0b86iKkcVMOttxQ99GwXMa"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 140000,
       "name": "keep on",
       "url": "https://open.spotify.com/track/33cmTU5f3QszwFl8s8Lua9"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/5I7FDqBtCVnYrHzbjuz47W"
+      },
+      "artists": [
+        {
+          "name": "Yestalgia",
+          "url": "https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl"
+        }
+      ],
+      "duration_ms": 143376,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2MBjMlXQSI53TwDLWqbUQT"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
+        "name": "Chillhop Essentials Winter 2017",
+        "url": "https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl"
       },
       "artists": [
         {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+          "name": "B-Side",
+          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
         }
       ],
-      "duration_ms": 78120,
-      "name": "makeuseofthetime",
-      "url": "https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35"
+      "duration_ms": 190710,
+      "name": "Dignity",
+      "url": "https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Chillhop Essentials Winter 2017",
-        "url": "https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl"
+        "name": "1988",
+        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
       },
       "artists": [
         {
-          "name": "B-Side",
-          "url": "https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O"
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
         }
       ],
-      "duration_ms": 190710,
-      "name": "Dignity",
-      "url": "https://open.spotify.com/track/3KdWOfRqIwRzDxuhw1vKzW"
+      "duration_ms": 78120,
+      "name": "makeuseofthetime",
+      "url": "https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "Safehouse",
+        "url": "https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        }
+      ],
+      "duration_ms": 159982,
+      "name": "Safehouse",
+      "url": "https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Collabs, Vol 2",
         "url": "https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 101663,
       "name": "Soul Finding",
       "url": "https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "Safehouse",
-        "url": "https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q"
-      },
-      "artists": [
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        },
-        {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
-        }
-      ],
-      "duration_ms": 159982,
-      "name": "Safehouse",
-      "url": "https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T"
     },
     {
       "added_at": "2020-11-12 22:28:34",

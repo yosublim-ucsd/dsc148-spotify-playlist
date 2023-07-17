@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,531 likes - 116 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,596 likes - 116 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 53 | [My Fall](https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Plus Ultra](https://open.spotify.com/album/5eumtOVtRhgElgJK5mW7Kk) | 3:14 |
 | 54 | [Good Guy](https://open.spotify.com/track/1mSlZW1iN1faQz67l35sRb) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Good Guy](https://open.spotify.com/album/7EJVNNWNSijp1720iMRlUi) | 2:55 |
 | 55 | [Tuff Luck](https://open.spotify.com/track/1otWE0vpz7LDL0TH9qUMYx) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Tuff Luck](https://open.spotify.com/album/0EZ2P9Jnb1EyqL2EE3WSL9) | 2:15 |
-| 56 | [Hot Ghee](https://open.spotify.com/track/7LjukeeqaeWESbiVJ26Wd4) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Hot Ghee](https://open.spotify.com/album/0qyyECaJgUaV73J9Cczszh) | 3:44 |
+| 56 | [Hot Ghee](https://open.spotify.com/track/7y6xvtRLOMbJzc8g27N01p) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Rajan](https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0) | 3:44 |
 | 57 | [Enjoyer](https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Enjoyer](https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW) | 3:36 |
 | 58 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 |
 | 59 | [Dying Plant](https://open.spotify.com/track/5pl2bLHJA6CPDvVAWcVcG4) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Look Alive!](https://open.spotify.com/album/1w0j1VEeFATnYcF9Vvh9UQ) | 3:06 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 115 | [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 |
 | 116 | [Downtown Side](https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn) | [Grocer](https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa) | [Downtown Side](https://open.spotify.com/album/6e4SRIycocguic8fluMqNe) | 3:41 |
 
-Snapshot ID: `MCwxNjMyY2I3ZGU5OWYxZWY3MWRmNjQyM2ZlMGQwZjM2NzY3ZTliZjc4`
+Snapshot ID: `MCw5MjQ2MTU5NTdkZjM3NTkzZmJjNGE2ZDE2ZjVjNDNlZDY3MGRmNzAz`

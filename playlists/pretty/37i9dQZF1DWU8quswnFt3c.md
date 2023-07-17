@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: CLAUDIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,501 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,472 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 17 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 |
 | 18 | [CANIJO](https://open.spotify.com/track/0tHzUXLKk7p0wzMZMMEl8y) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [CANIJO](https://open.spotify.com/album/4KeCreoUpLYm5XXICKwntN) | 2:21 |
 | 19 | [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 |
-| 20 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 |
-| 21 | [Overgrown](https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Overgrown](https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw) | 3:32 |
+| 20 | [Overgrown](https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Overgrown](https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw) | 3:32 |
+| 21 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 |
 | 22 | [Forever Young](https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH) | [Forever Young](https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb) | 2:58 |
 | 23 | [Dil Khanjar](https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Dil Khanjar](https://open.spotify.com/album/0XnagSUuTh5EqmVykyKgEM) | 3:09 |
 | 24 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 |
 | 25 | [Rusalochki](https://open.spotify.com/track/6WeqrRcqYXqSK7j6Fxb2WS) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [Rusalochki](https://open.spotify.com/album/3AOGSJXXtLWl3L9xqcfbll) | 3:18 |
-| 26 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
-| 27 | [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 |
+| 26 | [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 |
+| 27 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
 | 28 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 29 | [Why Her Not Me](https://open.spotify.com/track/6xsoOjRcLB8gvjtmsQrIyq) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:50 |
 | 30 | [Gerade aus](https://open.spotify.com/track/6RXYuVDMvzJlK9Doe4HHxV) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Gerade aus](https://open.spotify.com/album/353KwFNHIOFqN4WlsCTJFc) | 2:11 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [Changer](https://open.spotify.com/track/5reuS90U6IugxXu6kmZNI0) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Changer](https://open.spotify.com/album/5NnTyMnwFkYpkr0AwaCkgd) | 3:09 |
 | 41 | [Not too close](https://open.spotify.com/track/0nxzAU4rSpC2jq81Y1BVMR) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Not Too Close](https://open.spotify.com/album/10rZQbljaRWfcvclDiX7rZ) | 2:55 |
 | 42 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 |
-| 43 | [Bobo](https://open.spotify.com/track/6ZSvjIq5LqK5NGCFgeFOwX) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bobo](https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa) | 2:17 |
-| 44 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
-| 45 | [PEREMOHA](https://open.spotify.com/track/7BMub0LBIUHXXIjPaxdWp0) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [PEREMOHA](https://open.spotify.com/album/5rVK0feEfRTEqqOQF03jiW) | 3:49 |
+| 43 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
+| 44 | [PEREMOHA](https://open.spotify.com/track/7BMub0LBIUHXXIjPaxdWp0) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [PEREMOHA](https://open.spotify.com/album/5rVK0feEfRTEqqOQF03jiW) | 3:49 |
+| 45 | [Bobo](https://open.spotify.com/track/6ZSvjIq5LqK5NGCFgeFOwX) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bobo](https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa) | 2:17 |
 | 46 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 |
 | 47 | [Alf Rooh \- ألف روح](https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Alf Rooh \(ألف روح\)](https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE) | 2:58 |
 | 48 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [Baddie In The Passenger Seat](https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa) | [Farah Sakhi](https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi) | [Baddie In The Passenger Seat](https://open.spotify.com/album/2FfDtG01GbJKRGfG4aGwph) | 2:50 |
 | 75 | [Brilla](https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Brilla](https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ) | 3:54 |
 
-Snapshot ID: `MCxkN2VhYWZkNDBjMDE4ZDA5N2Y2OGI5MTZlOWE1NjZmODBiMjExZDhl`
+Snapshot ID: `MCw5YWY3ZGRlNjU1MGY3MmE4ODhhNmMzZmI5NGFkYmJiMjFkNjFhNDBj`

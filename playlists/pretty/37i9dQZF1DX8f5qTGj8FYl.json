@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 344464,
+  "num_followers": 344579,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YThiZDVkNTFiNTQ4ZWE3MTc3YjVmZjM0OWM5ZmQxMzVjYjg5MzM1",
+  "snapshot_id": "MCw2MGRlYTA1ZTQ1NmI5YjgzYTQ4OGY4MzAxMmMyMDdlNzJmNGE0ODAy",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -151,6 +151,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Dallas",
+        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
+      },
+      "artists": [
+        {
+          "name": "L'\u00e9clair",
+          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+        }
+      ],
+      "duration_ms": 214387,
+      "name": "Dallas",
+      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "The Joy of Music, The Job of Real Estate",
         "url": "https://open.spotify.com/album/0woDg8EWf32yL9I5bhrGSD"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 177968,
       "name": "Test Drive (Instrumental)",
       "url": "https://open.spotify.com/track/5Ubw1kLPN7soW6f2jpOUfx"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Dallas",
-        "url": "https://open.spotify.com/album/5vH49ZbRg8Y8Yq52r7RiFg"
-      },
-      "artists": [
-        {
-          "name": "L'\u00e9clair",
-          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
-        }
-      ],
-      "duration_ms": 214387,
-      "name": "Dallas",
-      "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
+      },
+      "artists": [
+        {
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Mt. Crushmore",
         "url": "https://open.spotify.com/album/42HcN7hOBcnRPNgy0NMwey"
       },
@@ -287,30 +303,6 @@
       "duration_ms": 186066,
       "name": "116th St.",
       "url": "https://open.spotify.com/track/3dyjYQhI5KTC82l0VUa6Qs"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Hill Climber",
-        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        },
-        {
-          "name": "Vulf",
-          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
-        },
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "It Gets Funkier IV",
-      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -335,18 +327,26 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
+        "name": "Hill Climber",
+        "url": "https://open.spotify.com/album/2cZ4rjMOn8zz1ToKSBQVWa"
       },
       "artists": [
         {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        },
+        {
+          "name": "Vulf",
+          "url": "https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
         }
       ],
-      "duration_ms": 217053,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ"
+      "duration_ms": 196162,
+      "name": "It Gets Funkier IV",
+      "url": "https://open.spotify.com/track/2eNKE4PW5uL0pIfGNw01SV"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Smooth Move",
-        "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 316107,
-      "name": "Smooth Move",
-      "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Tej b/w Short Shrift",
         "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 328433,
       "name": "Tej",
       "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Smooth Move",
+        "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 316107,
+      "name": "Smooth Move",
+      "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
-      },
-      "artists": [
-        {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Fox",
         "url": "https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 357480,
       "name": "Down Frenchmen St",
       "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+      },
+      "artists": [
+        {
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Uh Yeah!",
+        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
+      },
+      "artists": [
+        {
+          "name": "Funk Off",
+          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Living Off",
+      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Strawberry Mansion",
         "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Uh Yeah!",
-        "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
-      },
-      "artists": [
-        {
-          "name": "Funk Off",
-          "url": "https://open.spotify.com/artist/7lis4nJqfPm4jTXZdfAJDy"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Living Off",
-      "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Canoga Madness",
         "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 261426,
       "name": "Chemical Plant Zone",
       "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Funkedemia",
-        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
-      },
-      "artists": [
-        {
-          "name": "Mac James",
-          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
-        }
-      ],
-      "duration_ms": 133381,
-      "name": "Funkedemia",
-      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -1167,6 +1151,22 @@
       "duration_ms": 281805,
       "name": "Indoor S'mores",
       "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkedemia",
+        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
+      },
+      "artists": [
+        {
+          "name": "Mac James",
+          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
+        }
+      ],
+      "duration_ms": 133381,
+      "name": "Funkedemia",
+      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
     },
     {
       "added_at": "2021-05-28 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Basement Beat",
-        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
-      },
-      "artists": [
-        {
-          "name": "Chris Hazelton's Boogaloo 7",
-          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
-        }
-      ],
-      "duration_ms": 470371,
-      "name": "Bambu",
-      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 238706,
       "name": "West Coast Jam",
       "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Basement Beat",
+        "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
+      },
+      "artists": [
+        {
+          "name": "Chris Hazelton's Boogaloo 7",
+          "url": "https://open.spotify.com/artist/74IYxnwsZ1xNeGIDDujtWr"
+        }
+      ],
+      "duration_ms": 470371,
+      "name": "Bambu",
+      "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
       "added_at": "2020-11-13 05:02:00",

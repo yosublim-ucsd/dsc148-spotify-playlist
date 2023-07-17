@@ -929,6 +929,28 @@
     },
     {
       "album": {
+        "name": "Automotivo Bibi Fogosa",
+        "url": "https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2"
+      },
+      "artists": [
+        {
+          "name": "Bibi Babydoll",
+          "url": "https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV"
+        },
+        {
+          "name": "Dj Brunin XM",
+          "url": "https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Automotivo Bibi Fogosa",
+      "url": "https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN"
+    },
+    {
+      "album": {
         "name": "AY\u041e\u0419",
         "url": "https://open.spotify.com/album/42LzQaGa6yM1RnEi8Ua3bQ"
       },
@@ -1454,7 +1476,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
@@ -12166,7 +12188,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 142080,
       "name": "\u0411\u043e\u043b\u0435\u044e \u0442\u043e\u0431\u043e\u0439",
       "url": "https://open.spotify.com/track/6MLjjIIoTsUAw4v2CZe1ah"
@@ -15812,7 +15834,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 132258,
       "name": "\u041a\u041e\u0417\u0410\u0426\u042c\u041a\u041e\u041c\u0423_\u0420\u041e\u0414\u0423",
       "url": "https://open.spotify.com/track/6NePBUCeIGqfnIQag5crC0"
@@ -20301,6 +20323,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0430\u043d\u0446\u0443\u0439",
+        "url": "https://open.spotify.com/album/1FTeeco4G2Wo5FzbrCnQGx"
+      },
+      "artists": [
+        {
+          "name": "Lover",
+          "url": "https://open.spotify.com/artist/5DjhJbN67qRS7P1fmSf0zp"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145718,
+      "name": "\u0422\u0430\u043d\u0446\u0443\u0439",
+      "url": "https://open.spotify.com/track/7gLAsZ9ZLXPzwhXefnvKcg"
+    },
+    {
+      "album": {
         "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u043b\u0435\u0442\u043e (\u0427\u0430\u0441\u0442\u044c 2)",
         "url": "https://open.spotify.com/album/2M4NZgAyOBu1o8X2sauXPh"
       },
@@ -21056,7 +21096,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 156428,
       "name": "\u0424\u0430\u0439\u043d\u0430 (feat. Skofka)",
       "url": "https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH"

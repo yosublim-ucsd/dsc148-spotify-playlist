@@ -10642,7 +10642,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 127999,
       "name": "FAZ O VUK VUK",
       "url": "https://open.spotify.com/track/0O1R33t4N7YkcwPBJl8HyM"
@@ -20972,6 +20972,24 @@
       "duration_ms": 194884,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"
+    },
+    {
+      "album": {
+        "name": "Orquestra Maldita",
+        "url": "https://open.spotify.com/album/3vrQH2IPnx36leo1TExy5E"
+      },
+      "artists": [
+        {
+          "name": "TRASHXRL",
+          "url": "https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119736,
+      "name": "Orquestra Maldita",
+      "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
     },
     {
       "album": {

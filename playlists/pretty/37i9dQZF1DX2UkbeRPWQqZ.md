@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,339 likes - 185 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,343 likes - 185 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 184 | [Tell Me That Fairytale](https://open.spotify.com/track/7vd7YEldyMe1of5Wc2PLBQ) | [Mia O’Reilly](https://open.spotify.com/artist/73DTyr2tWDvEQQfoQUQUEc) | [Tell Me That Fairytale](https://open.spotify.com/album/2eUgSKZJ3FbJwdWn9VVHoj) | 3:24 |
 | 185 | [Yankee Doodle](https://open.spotify.com/track/4mRfFgVV4ipWTYk8Fn4qFD) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [Yankee Doodle](https://open.spotify.com/album/5eIHWL3lZNBTMQxZhDOk0L) | 2:00 |
 
-Snapshot ID: `MCxjNjBkNjFjMzI1NTU3YjE1ZWEyMTJlODFjOGU5OWZjM2NkMmVlYTkx`
+Snapshot ID: `MCw3MGUyYTM5MTI3YjM3MGEyNjFiMzA4MWM2NTMyOTczYjFhMGY0OTI3`

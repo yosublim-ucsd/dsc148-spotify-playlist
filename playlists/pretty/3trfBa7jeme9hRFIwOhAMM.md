@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,014 likes - 41 songs - 2 hr 3 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,016 likes - 42 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 39 | [Goodbye](https://open.spotify.com/track/4kyrrxyoVBgaad4N14zk8P) | [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Brieuc](https://open.spotify.com/artist/7d7HOtUUHD4P5aZaeYTQf4), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Goodbye](https://open.spotify.com/album/4anHTuGfiQAybiDedPoJ5a) | 2:26 |
 | 40 | [Vertigo](https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Vertigo](https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr) | 2:47 |
 | 41 | [Seeing Is Believing](https://open.spotify.com/track/3TqmTtE8bP2deIzx7ASnus) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Seeing Is Believing](https://open.spotify.com/album/0zDXBcTRIuKIh7WE8uKSbg) | 3:19 |
+| 42 | [Valentino](https://open.spotify.com/track/5gpspXTVqjqoIlcIBZ6ZE5) | [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Jack August](https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry) | [Valentino](https://open.spotify.com/album/3nv8s2zUw6Mm6Odie3CGkW) | 2:41 |
 
-Snapshot ID: `MTA3NSxlMDY1NGM2MjAzNGFkNDI2NmNjMjllOGQ5YWNlMjhkYmZjMWQzMjMw`
+Snapshot ID: `MTA3NixkMWNlNGQ3NzdmMGZlZDhmNjRjYmU4ZDhmNDBlZjk2Njg1NmFhOTc4`

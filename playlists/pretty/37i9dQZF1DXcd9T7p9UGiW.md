@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr?si=YwdnOCzqT0\-5fcgtAs3FpA"> J Hus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,823 likes - 86 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,927 likes - 86 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 85 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 86 | [You Will Know \- Afro Mix](https://open.spotify.com/track/1qgVvEPuunWx1AK0rB1Dnh) | [Nobby Singh](https://open.spotify.com/artist/6uwgbF1ioLsU15PZCDZCeP), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [You Will Know \(Afro Mix\)](https://open.spotify.com/album/1lPbIPyuETuvSrKUYwB22W) | 3:40 |
 
-Snapshot ID: `MCwwNjI4NjBmMWVmZjI2Nzk1YWIyZGMwMTJmMTkwOTczYmE5MzMwNWY1`
+Snapshot ID: `MCxhNDkwNTUzOTVjNzllYTFjMjhlMGU0ZDIxZjg3YjQ0ZDAyMDFhNzQz`

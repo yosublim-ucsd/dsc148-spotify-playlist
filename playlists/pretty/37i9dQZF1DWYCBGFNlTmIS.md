@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,183 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,184 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 82 | [香港地 \- Feat\. 陳奐仁, 胡蓓蔚 & Mc仁](https://open.spotify.com/track/6QfDCfZ3kePoSgEfhISvZ0) | [Edison Chen](https://open.spotify.com/artist/4MOwSSUjmrhS3TIM4YBYmx) | [Please Steal This Album](https://open.spotify.com/album/68dGk8yeRM4lmOrHqnvf9R) | 4:15 |
 | 83 | [一生所愛 \- 電影"西遊記大結局之仙履奇緣"插曲](https://open.spotify.com/track/4krPnkTGeaDkEKkAb85YIE) | [Lowell Lo](https://open.spotify.com/artist/0PBs3xfhn0PA6irWFrknJ4) | [Beyond Imagination](https://open.spotify.com/album/5rdnC7yDMfbE0GZlXIJUMu) | 4:13 |
 | 84 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
-| 85 | [鐵塔凌雲](https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [真經典 \- 許冠傑](https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal) | 3:02 |
+| 85 | [鐵塔凌雲](https://open.spotify.com/track/3tMwHTdHyJBBiw5GGUITci) | [許冠傑](https://open.spotify.com/artist/6CyXmG5ggXnHnviOBJsnn8) | [寶麗金88極品音色系列 \- 許冠傑](https://open.spotify.com/album/0tWdkdfyXeS8uaej0tFvgO) | 3:04 |
 
-Snapshot ID: `MCwyNDEyZTAyY2E4Y2Y5OThmNmVhNjk3OGY1NDY5MTcyNDc0ZTU3MzFm`
+Snapshot ID: `MCw0ZTkxY2RmN2FhYjZmMzA4MDg1ZDk3MWJjODJjM2Q0YzU2M2E5MjNk`

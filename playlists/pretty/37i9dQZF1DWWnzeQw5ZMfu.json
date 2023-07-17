@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 57968,
+  "num_followers": 58032,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTRjZDgwZTIzNDAwMDRmNDNjZjc4MDYwYmU0ZmJlNTc4NjgyNzI0",
+  "snapshot_id": "MCxlMWM3OGE4MGMwYTdlMjVjYWVkN2M0NGMxN2FmMDE1MDQ0ODRhNjU2",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
-        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 312800,
-      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
-      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+        "name": "Jason Mraz's Beautiful Mess: Live on Earth",
+        "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         }
       ],
-      "duration_ms": 226849,
-      "name": "7 rings - live",
-      "url": "https://open.spotify.com/track/6va6SjWz457IOZidBppAhz"
+      "duration_ms": 312800,
+      "name": "I'm Yours - Live at the Charter One Pavilion, Chicago, IL, 8/13/2009",
+      "url": "https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -499,6 +483,22 @@
       "duration_ms": 209720,
       "name": "Against All Odds (Take a Look at Me Now) - Live from the Serious Tour 1990; 2019 Remaster",
       "url": "https://open.spotify.com/track/61N8sBOfE9iM0uRhInFnKN"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 226849,
+      "name": "7 rings - live",
+      "url": "https://open.spotify.com/track/6va6SjWz457IOZidBppAhz"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 362216,
+      "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
+      "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "k bye for now (swt live)",
         "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 393146,
       "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
       "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 362216,
-      "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
-      "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 389728,
-      "name": "thank u, next - live",
-      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Live 1976 - 1998: Tonight's the Night",
         "url": "https://open.spotify.com/album/6427BkrSWr5rVBOEWcYILd"
       },
@@ -723,22 +707,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Serious Hits...Live! (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 336573,
-      "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
-      "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Chasing Time: The Bedlam Sessions",
         "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 288146,
       "name": "Goodbye My Lover - Live in Ireland",
       "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 389728,
+      "name": "thank u, next - live",
+      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Serious Hits...Live! (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 336573,
+      "name": "Another Day in Paradise (Live from the Serious Tour 1990) - Remastered",
+      "url": "https://open.spotify.com/track/7bj48SzqJPtfoR5W01C1lT"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 410280,
-      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
-      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+      "duration_ms": 410280,
+      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
+      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Havana (Live)",
-        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+        "name": "x (Wembley Edition)",
+        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 248572,
-      "name": "Havana - Live",
-      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
+      "duration_ms": 195967,
+      "name": "Parting Glass - Live at Wembley Stadium",
+      "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1219,6 +1203,22 @@
       "duration_ms": 376853,
       "name": "I Want to Know What Love Is - Live",
       "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Havana (Live)",
+        "url": "https://open.spotify.com/album/3wvFkCzNFudTm0GvT0rNH6"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 248572,
+      "name": "Havana - Live",
+      "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "x (Wembley Edition)",
-        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
+        "name": "Live in Dortmund",
+        "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
         }
       ],
-      "duration_ms": 195967,
-      "name": "Parting Glass - Live at Wembley Stadium",
-      "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
+      "duration_ms": 246146,
+      "name": "The Lady In Red - Live",
+      "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live in Dortmund",
-        "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
       "artists": [
         {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 246146,
-      "name": "The Lady In Red - Live",
-      "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Spotify Sessions (Live From Spotify NYC)",
-        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Ghost - Live From Spotify NYC",
-      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012",
         "url": "https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+        "name": "Spotify Sessions (Live From Spotify NYC)",
+        "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
+      "duration_ms": 160400,
+      "name": "Ghost - Live From Spotify NYC",
+      "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1443,6 +1427,22 @@
       "duration_ms": 314240,
       "name": "Back For Good - Progress Tour Live / 2011",
       "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 248394,
+      "name": "The A Team - Live and in Session",
+      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Lost - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 270840,
-      "name": "Animals - Live In Manchester",
-      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Older (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Lost - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
+      "duration_ms": 270840,
+      "name": "Animals - Live In Manchester",
+      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+        "name": "Live: Sacred & Profane",
+        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
         }
       ],
-      "duration_ms": 262533,
-      "name": "Maps - Live In Manchester",
-      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
+      "duration_ms": 367493,
+      "name": "Take My Breath Away - Live",
+      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
     }
   ],
   "unique_name": "Pop Live",

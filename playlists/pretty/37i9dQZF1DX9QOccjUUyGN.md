@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: PK, IGOR, OIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,382 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,380 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 29 | [Fashion](https://open.spotify.com/track/3kxYfCiaVv0UPBMXuhsPCX) | [Greg BBX](https://open.spotify.com/artist/0fanaB7FSXdOetP97ucUMJ) | [Fashion](https://open.spotify.com/album/1Bx4P1sloYdu2ZNZ0brlmZ) | 3:19 |
 | 30 | [1937/2022](https://open.spotify.com/track/2wCAAyKaa4K8nfyQdCXOV7) | [HIMURA](https://open.spotify.com/artist/7pNWQt0TqGVKlbSaYDhBi6) | [Vozes Pela Igualdade de Gênero](https://open.spotify.com/album/3jBBlCi1TykyZID1PwVAP0) | 2:40 |
 | 31 | [Tapa](https://open.spotify.com/track/0XpPQ7JSk7wclx0DgOPko8) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Tapa](https://open.spotify.com/album/0fcGngjNMRvlVtXzKRw011) | 2:36 |
-| 32 | [TEMPESTADE](https://open.spotify.com/track/3TZGXZR6KHM60DNopOEgLl) | [Sanza](https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m), [Dumas](https://open.spotify.com/artist/7im9aPeA9TyOYTDVQFQmFs), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt), [GAUD](https://open.spotify.com/artist/3FAOMbLcVdpwUZFkjErzBt) | [TEMPESTADE](https://open.spotify.com/album/5lUsHZqJN7vGd8AKohAgEu) | 3:07 |
+| 32 | [TEMPESTADE](https://open.spotify.com/track/3TZGXZR6KHM60DNopOEgLl) | [Sanza](https://open.spotify.com/artist/1pZd0nOX7NMmayahF3Xalx), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m), [Dumas](https://open.spotify.com/artist/2tvSJaPwUVWy86RWnlZGs1), [Sanak](https://open.spotify.com/artist/4gtGDgSatYQc0li6HIc3dt), [GAUD](https://open.spotify.com/artist/3FAOMbLcVdpwUZFkjErzBt) | [TEMPESTADE](https://open.spotify.com/album/5lUsHZqJN7vGd8AKohAgEu) | 3:07 |
 | 33 | [Dentro da GLA](https://open.spotify.com/track/2VifbPsraFPdqSZbQNUCOm) | [Jall](https://open.spotify.com/artist/04svf3dGgcwEVgJ0MlV0M2), [Pedro Avelar](https://open.spotify.com/artist/00x3pkNVK3oes0pMRKMr9z), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Dentro da GLA](https://open.spotify.com/album/17RZw57GQNWHcI0KwmvHTP) | 2:15 |
 | 34 | [Motor](https://open.spotify.com/track/2NeCzvtURdGehud3qHsvaF) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Motor](https://open.spotify.com/album/50mSvzbbn5zyjS9bwTKU5N) | 2:38 |
 | 35 | [Hora Errada](https://open.spotify.com/track/6ubWrh2GuyKMpQrzOynRjD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Dos Prédios Deluxe](https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu) | [Mazzan](https://open.spotify.com/artist/4Z0ol0b5b8tpxDZpT2BMyL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/1r8JVPiGk7fR69p96xjeBG) | 3:15 |
 | 75 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |
 
-Snapshot ID: `MCw0MjIyMTRhMDhhOTEwYzJhZGViYWE0NDc5YjE1NmRlOWI5NWQzYTY2`
+Snapshot ID: `MCw1ZTkzNTZjZDA2ZDlhY2JiMzkxMmZiZjU0NWJjNDliNDA3Yjg4MjE4`

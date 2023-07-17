@@ -4,14 +4,15 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7jxyICEEsUhq8zyP6jPGzM">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-43 songs - 1 hr 59 min
+44 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1%](https://open.spotify.com/track/3U1sLMV37PoS7i5aApZXIx) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:41 | 2022-05-25 |  |
 | [100 SMSjes](https://open.spotify.com/track/3XavwzRdhEfcaKctZoGYIm) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Echte Meisjes Huilen Niet \(Als Ik Haar Was\)](https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I) | 2:31 | 2023-07-13 |  |
 | [100 SMSjes](https://open.spotify.com/track/4MA4LxSsJRbj4axg1uTi2n) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [100 SMSjes](https://open.spotify.com/album/1HmekW64bQZwKdjXqxhSmG) | 2:31 | 2022-05-25 | 2023-07-14 |
-| [100 Vragen \(feat\. Philly Moré\)](https://open.spotify.com/track/0Px30JH5M6rcKaAemQEAmV) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT) | [100 Vragen \(feat\. Philly Moré\)](https://open.spotify.com/album/2mOezDvjuKh4SZAoLJxrM9) | 2:58 | 2022-05-25 |  |
+| [100 Vragen \(feat\. Philly Moré\)](https://open.spotify.com/track/0Px30JH5M6rcKaAemQEAmV) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT) | [100 Vragen \(feat\. Philly Moré\)](https://open.spotify.com/album/2mOezDvjuKh4SZAoLJxrM9) | 2:58 | 2022-05-25 | 2023-07-17 |
+| [100 Vragen \(feat\. Philly Moré\)](https://open.spotify.com/track/21bjqjI1bftvfyJHZMd0Al) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Philly Moré](https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:58 | 2023-07-16 |  |
 | [501](https://open.spotify.com/track/2pAH3VEtFved36wEMIn51X) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:07 | 2022-05-25 |  |
 | [Addicted](https://open.spotify.com/track/3ngW4Y9sxBoK8abawMEZ9C) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Addicted](https://open.spotify.com/album/0nOUrDieoBSKrXdK43me9u) | 2:36 | 2022-05-25 |  |
 | [Babyboy](https://open.spotify.com/track/7xnpYakvJ9lnaragKULefR) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [Kids Top 100 2015](https://open.spotify.com/album/1WcWgv7JX6LLYJEZVYVEmh) | 3:20 | 2022-05-25 | 2023-05-16 |

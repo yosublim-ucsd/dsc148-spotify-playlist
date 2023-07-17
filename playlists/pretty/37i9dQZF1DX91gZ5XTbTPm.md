@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,663 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,700 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 49 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 |
 | 50 | [PRESSURE](https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [PRESSURE](https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7) | 4:19 |
 
-Snapshot ID: `MCw5MjU0YjI3OWNkNjM5YjliOGQ3NzNkY2EzN2JkMTM0OGYxNGNjNzRi`
+Snapshot ID: `MCwxNmUxZmZjY2MyMTE4NmI0ZWE0Zjc5NGUxNjA0YTM3MzI5MWE4MDg4`

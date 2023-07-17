@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 149424,
+  "num_followers": 149447,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw",
+  "snapshot_id": "MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "American White Trash",
-        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
+        "name": "If She Ain't Country (Remix)",
+        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
       },
       "artists": [
         {
-          "name": "Cypress Spring",
-          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
+          "name": "Justin Champagne",
+          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 167392,
-      "name": "White Trash",
-      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
+      "duration_ms": 176989,
+      "name": "If She Ain't Country - Remix",
+      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -767,22 +771,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "If She Ain't Country (Remix)",
-        "url": "https://open.spotify.com/album/5ZZBcZVe34bzjqVqnJX2hr"
+        "name": "American White Trash",
+        "url": "https://open.spotify.com/album/4qr6adlfQSmnuEksitsIYd"
       },
       "artists": [
         {
-          "name": "Justin Champagne",
-          "url": "https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Cypress Spring",
+          "url": "https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC"
         }
       ],
-      "duration_ms": 176989,
-      "name": "If She Ain't Country - Remix",
-      "url": "https://open.spotify.com/track/0eVdLQ7Mt1DQg9P1oMeSN0"
+      "duration_ms": 167392,
+      "name": "White Trash",
+      "url": "https://open.spotify.com/track/4PQywXtsoLDSJQJe8WpIqv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Trucks Gone Wild",
-        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
+        "name": "Fast Cars",
+        "url": "https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY"
       },
       "artists": [
         {
-          "name": "Bezz Believe",
-          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
-        },
-        {
-          "name": "Bubba Sparxxx",
-          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+          "name": "Diego Fresh",
+          "url": "https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O"
         }
       ],
-      "duration_ms": 101052,
-      "name": "Trucks Gone Wild",
-      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
+      "duration_ms": 166675,
+      "name": "Fast Cars",
+      "url": "https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fast Cars",
-        "url": "https://open.spotify.com/album/4vFzA8CoLZWgDaj3FWmyxY"
+        "name": "Trucks Gone Wild",
+        "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
       },
       "artists": [
         {
-          "name": "Diego Fresh",
-          "url": "https://open.spotify.com/artist/7BH61c7MYacKsCgzOA9y5O"
+          "name": "Bezz Believe",
+          "url": "https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq"
+        },
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
         }
       ],
-      "duration_ms": 166675,
-      "name": "Fast Cars",
-      "url": "https://open.spotify.com/track/7xKFutSJuPZ1Vt4kGk444H"
+      "duration_ms": 101052,
+      "name": "Trucks Gone Wild",
+      "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
     },
     {
       "added_at": "2023-05-19 04:00:00",

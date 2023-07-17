@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 12006,
+  "num_followers": 12017,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDhjMjU3NGMzZmRmYzA0YTM0MDQyMGUyYmQ4ZGEyMzJiYTM2ZGZl",
+  "snapshot_id": "MCw1MGYzODhmYWZkZDE1MDI1OTg1ZWVkNGU4OWJmY2Q4NWYzZjhmMjMy",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:59",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Seasonal Hiatus",
-        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 218706,
-      "name": "One Moment",
-      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Errr Day",
         "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 204533,
       "name": "Errr Day",
       "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Seasonal Hiatus",
+        "url": "https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "One Moment",
+      "url": "https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 169930,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Pit a Pat",
-      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT"
+        "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
       },
       "artists": [
         {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
         }
       ],
-      "duration_ms": 169930,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq"
+      "duration_ms": 212093,
+      "name": "Pit a Pat",
+      "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Way U Are (feat. BIG Naughty)",
-        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
-      },
-      "artists": [
-        {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Way U Are (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "with you (feat. g0nny)",
         "url": "https://open.spotify.com/album/38jEKpk2q846icctNoaDKk"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 179306,
       "name": "with you (feat. g0nny)",
       "url": "https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Way U Are (feat. BIG Naughty)",
+        "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Way U Are (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
     },
     {
       "added_at": "2023-07-07 15:52:59",

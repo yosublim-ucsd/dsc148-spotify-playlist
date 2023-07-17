@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 29784,
+  "num_followers": 29794,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDk4NzQxM2MwOWE3YTgzYTQ4NzJlMzU1ZGJhNDI4M2NmOTNlNzRm",
+  "snapshot_id": "MCxiMTIxODNkZmMwZmI3OWEwYjYwYmJmNmY4ZDQ3YmQwNmQzYzc4ZTU2",
   "tracks": [
     {
       "added_at": "2023-06-09 12:35:28",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+      },
+      "artists": [
+        {
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+        }
+      ],
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
         "name": "Comme Un Seul Narcisse",
         "url": "https://open.spotify.com/album/7lOB1lg0Iu810pZhvJCmk4"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 261565,
       "name": "ME",
       "url": "https://open.spotify.com/track/2d7FoK7amJiLOk6S0IT8AS"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
-      },
-      "artists": [
-        {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
-        }
-      ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "Sleepstep. Sonar Poems for my sleepless friends",
         "url": "https://open.spotify.com/album/5ovHVxNuBJgiX94yZBQJQI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 61909,
       "name": "Intro - Space Privet for Cosmonauts",
       "url": "https://open.spotify.com/track/2Mm9hlYzCgXyBcoDL4s4uO"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "Eyes Set Against The Sun",
-        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
-      },
-      "artists": [
-        {
-          "name": "Mira Calix",
-          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
-        }
-      ],
-      "duration_ms": 78373,
-      "name": "A Cereus Night",
-      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
-    },
-    {
-      "added_at": "2023-06-09 12:35:28",
-      "album": {
         "name": "Keep the Ocean Inside",
         "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 291026,
       "name": "Divining (naming of the Lost)",
       "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
+    },
+    {
+      "added_at": "2023-06-09 12:35:28",
+      "album": {
+        "name": "Eyes Set Against The Sun",
+        "url": "https://open.spotify.com/album/4IsaWRJswfh4mhXd4LBheN"
+      },
+      "artists": [
+        {
+          "name": "Mira Calix",
+          "url": "https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq"
+        }
+      ],
+      "duration_ms": 78373,
+      "name": "A Cereus Night",
+      "url": "https://open.spotify.com/track/2xYxy6oYLHpa89b2E5bzxU"
     },
     {
       "added_at": "2023-06-09 12:35:28",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2023-06-09 12:35:28",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Es el Sol para Ellos Sino Algo Que Produce Sombras?",
-        "url": "https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz"
+        "name": "Headflush",
+        "url": "https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj"
       },
       "artists": [
         {
-          "name": "Hannah Lee",
-          "url": "https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy"
-        },
-        {
-          "name": "El Le\u00f3n Pardo",
-          "url": "https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu"
+          "name": "Leila Bordreuil",
+          "url": "https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35"
         }
       ],
-      "duration_ms": 1792000,
-      "name": "Sino Algo Que Produce Sombras?",
-      "url": "https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6"
+      "duration_ms": 557973,
+      "name": "Sleep Cycle",
+      "url": "https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ"
     }
   ],
   "unique_name": "EQUAL Ambient",

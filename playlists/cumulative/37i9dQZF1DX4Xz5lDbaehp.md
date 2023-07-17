@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-171 songs - 8 hr 51 min
+172 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,8 @@
 | [Parallel Parking](https://open.spotify.com/track/4njf8PZi95E9ISlQVXXPyl) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Parallel Parking](https://open.spotify.com/album/1a1fIXE8ZFG5LPswnSC3ih) | 1:58 | 2021-12-01 |  |
 | [PINCH ME](https://open.spotify.com/track/14QUJhbXCWO90NfZ0mXnGG) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/3rOQe9CrRDdKdLHLzH4BNI) | 2:59 | 2021-12-01 |  |
 | [PINCH ME](https://open.spotify.com/track/6uogFVMnfQbyA93hxEZhd1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HOW DID WE GET HERE?](https://open.spotify.com/album/41U30ytGycUBqa4qrICXrn) | 2:59 | 2021-12-01 | 2022-10-22 |
-| [PINE](https://open.spotify.com/track/6ugOSYzHQ7NbX02iMqXIZi) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:30 | 2021-12-01 |  |
+| [PINE](https://open.spotify.com/track/5BoEmTtWANvxEVLRJvncIZ) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/3BL9rMkgTK20yLu3zaeJGM) | 3:30 | 2021-12-01 |  |
+| [PINE](https://open.spotify.com/track/6ugOSYzHQ7NbX02iMqXIZi) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:30 | 2021-12-01 | 2023-07-17 |
 | [Pink Slips](https://open.spotify.com/track/3YmZVcLHWCjMlHfLaM7nTf) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Pink Slips](https://open.spotify.com/album/0HSukgQ6gAyNJmTfXJAeVW) | 3:12 | 2021-12-01 |  |
 | [Pissed in the Morning](https://open.spotify.com/track/37MEdkEWiuRRxzKmzzgaHb) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [We're more than friends, but less than lovers.](https://open.spotify.com/album/4PWlGW7L9xO1LMF89Rhtnu) | 2:29 | 2021-12-01 |  |
 | [Pissed in the Morning](https://open.spotify.com/track/3cKgffGir3V6y0iGR75KHT) | [Ricky James](https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC) | [Pissed in the Morning](https://open.spotify.com/album/0Pprw9uYAGNPm9Y1Wh6Q1F) | 2:29 | 2021-12-01 | 2023-01-27 |

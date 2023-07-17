@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 91314,
+  "num_followers": 91396,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDc5ZWQ2MDMyNDlhZTgxYTkxMGZkMDEzNTY3ZGEyYTg4ZDcxNWQz",
+  "snapshot_id": "MCxjMzQ1OGQ5YWY1NDkyYzQ5YjJhM2RlNmI0OTQxMmRhMTFlNmQyMGM0",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -559,6 +559,22 @@
     {
       "added_at": "2019-06-28 16:54:51",
       "album": {
+        "name": "The Best Of The Black President 2",
+        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 793200,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
         "name": "Ivory Music Classics, Vol. 2",
         "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "The Best Of The Black President 2",
-        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 793200,
-      "name": "Expensive Shit",
-      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
     },
     {
       "added_at": "2019-06-28 16:54:51",

@@ -76972,7 +76972,7 @@
     {
       "album": {
         "name": "Untether",
-        "url": "https://open.spotify.com/album/7uhN8KfytUsoQM7MGnU0cH"
+        "url": "https://open.spotify.com/album/1Zw0CTVx2B5VS5w88mgIV4"
       },
       "artists": [
         {
@@ -76983,6 +76983,24 @@
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165705,
+      "name": "Untether",
+      "url": "https://open.spotify.com/track/2uPwR9ofmljZIs0OVubvaB"
+    },
+    {
+      "album": {
+        "name": "Untether",
+        "url": "https://open.spotify.com/album/7uhN8KfytUsoQM7MGnU0cH"
+      },
+      "artists": [
+        {
+          "name": "Sophie Truax",
+          "url": "https://open.spotify.com/artist/5yM4OHXlRyyq28o76xejrk"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
       "duration_ms": 165705,
       "name": "Untether",
       "url": "https://open.spotify.com/track/6csk8gaygoDrtvqCJ5YSod"

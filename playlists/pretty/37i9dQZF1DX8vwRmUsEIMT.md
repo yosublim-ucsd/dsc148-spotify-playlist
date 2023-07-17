@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,249 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,248 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 81 | [Move It](https://open.spotify.com/track/2wfsZraYJMgUE8Rg6JuzqM) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Move It](https://open.spotify.com/album/3GCMoYx54rVyRSxQFqntuR) | 2:26 |
 | 82 | [I've Been In Love](https://open.spotify.com/track/0lvOUYM0NzbzOI856TUHMM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [I've Been In Love](https://open.spotify.com/album/0F3os1tiKfDFdJLUo2K1DQ) | 2:49 |
 
-Snapshot ID: `MCxiYzQ2NDkzMjAwMjM5ZmRmZDljNDNmZDJiNWU4NGViOTU0NzEyYTNh`
+Snapshot ID: `MCw1OTk5YjFkN2FiODZlYWYxNWNiMzEzNGI3OGRjZTIwMDM2ZWE4ZjRh`

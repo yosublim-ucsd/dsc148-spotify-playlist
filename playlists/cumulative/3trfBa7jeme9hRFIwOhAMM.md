@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-57 songs - 2 hr 49 min
+58 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Thunder](https://open.spotify.com/track/70CJtBiTylBip3aTb7wPB6) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [Hiddeki](https://open.spotify.com/artist/5DvozQySFVUBsIFMU2H3HH) | [Thunder](https://open.spotify.com/album/1IKvd2fFqkHUTjBE4oY8Kq) | 3:01 | 2023-06-30 |  |
 | [Tuesday \- PAJANE Remix / Radio Edit](https://open.spotify.com/track/3IMIk50AEhubMni5KFw7WE) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Danelle Sandoval](https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Tuesday \(PAJANE Remix\)](https://open.spotify.com/album/0TyCsxvEJeYCN72NYF4tC1) | 2:35 | 2023-07-14 |  |
 | [Uncontrollable](https://open.spotify.com/track/0C2UfwJjLLNnUftt9bZdgn) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Zadquiel](https://open.spotify.com/artist/5hFK4GrVDIi7EOTO4QJG5o) | [Uncontrollable / Haters EP](https://open.spotify.com/album/5grwqKWg5XsvFKqsuqZP49) | 3:06 | 2023-06-26 |  |
+| [Valentino](https://open.spotify.com/track/5gpspXTVqjqoIlcIBZ6ZE5) | [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3), [Jack August](https://open.spotify.com/artist/2qAHim7arWxVIhri5JpBry) | [Valentino](https://open.spotify.com/album/3nv8s2zUw6Mm6Odie3CGkW) | 2:41 | 2023-07-16 |  |
 | [Venezuela](https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [Venezuela](https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy) | 2:32 | 2023-06-26 |  |
 | [Vertigo](https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Vertigo](https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr) | 2:47 | 2023-06-26 |  |
 | [VIP Business](https://open.spotify.com/track/6vSmzEaYNo36DyoNNq0L8M) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [VIP Business](https://open.spotify.com/album/6AO4umf1xPVZ9TE1VoO4SC) | 3:00 | 2023-06-26 |  |

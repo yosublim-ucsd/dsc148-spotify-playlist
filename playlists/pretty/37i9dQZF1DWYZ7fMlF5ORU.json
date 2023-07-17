@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: J\u00e9ssica Augusto",
-  "num_followers": 140044,
+  "num_followers": 140118,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzllYmFjNDQxMmQzZTgwYWM0NDVhNDdmN2NmMzlkMTM5NDVhNjlm",
+  "snapshot_id": "MCxhNTBjMGQ5ZjVkODRhYWZhODQ2M2EwN2Q2YTRhODY1N2UzMWE3NjUw",
   "tracks": [
     {
       "added_at": "2023-07-14 19:33:55",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-07-14 19:33:55",
       "album": {
+        "name": "Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
+      },
+      "artists": [
+        {
+          "name": "Juninho Black",
+          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
+        }
+      ],
+      "duration_ms": 240520,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE"
+    },
+    {
+      "added_at": "2023-07-14 19:33:55",
+      "album": {
         "name": "Nossa Gente (Ao Vivo Em Balne\u00e1rio Cambori\u00fa, Santa Catarina / 2020)",
         "url": "https://open.spotify.com/album/0AhbaBsyYzznGVHfC3Bm7Y"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 249535,
       "name": "Nossa Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/5QGURHzwT0j0Fmom11dPhk"
-    },
-    {
-      "added_at": "2023-07-14 19:33:55",
-      "album": {
-        "name": "Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
-      },
-      "artists": [
-        {
-          "name": "Juninho Black",
-          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE"
     },
     {
       "added_at": "2023-07-14 19:33:55",
@@ -655,22 +655,18 @@
     {
       "added_at": "2023-07-14 19:33:55",
       "album": {
-        "name": "Frequ\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma"
+        "name": "Templo Soul",
+        "url": "https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd"
       },
       "artists": [
         {
-          "name": "Felipe Vilela",
-          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
-        },
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
         }
       ],
-      "duration_ms": 255050,
-      "name": "Frequ\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9"
+      "duration_ms": 237493,
+      "name": "Caixa D'\u00e1gua",
+      "url": "https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm"
     },
     {
       "added_at": "2023-07-14 19:33:55",
@@ -695,18 +691,22 @@
     {
       "added_at": "2023-07-14 19:33:55",
       "album": {
-        "name": "Templo Soul",
-        "url": "https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd"
+        "name": "Frequ\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma"
       },
       "artists": [
         {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+          "name": "Felipe Vilela",
+          "url": "https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 237493,
-      "name": "Caixa D'\u00e1gua",
-      "url": "https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm"
+      "duration_ms": 255050,
+      "name": "Frequ\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9"
     },
     {
       "added_at": "2023-07-14 19:33:55",

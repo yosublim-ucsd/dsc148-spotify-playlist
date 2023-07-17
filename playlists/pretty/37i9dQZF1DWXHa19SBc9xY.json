@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 68963,
+  "num_followers": 69072,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzBkNjI4ODc0MjdjZWRhNGNkYjI1ODJlZDkxMzA0NGI1ZmU5MjU0",
+  "snapshot_id": "MCxmODE4ODE0NWYzNTliYWU0N2ZmMGFiOGY2MjNmYjgxMzcyNjI4ZGVl",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -871,18 +871,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Lua Vai, Lua Vem",
-        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
       "artists": [
         {
-          "name": "Tha\u00efs Morell",
-          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
         }
       ],
-      "duration_ms": 216721,
-      "name": "Lua Vai, Lua Vem",
-      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -903,22 +907,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+        "name": "Lua Vai, Lua Vem",
+        "url": "https://open.spotify.com/album/4XxMT3mZQTZlr1T8lGwQaX"
       },
       "artists": [
         {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+          "name": "Tha\u00efs Morell",
+          "url": "https://open.spotify.com/artist/1ESEFcOYV9ooFj3Hf0KgqB"
         }
       ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
+      "duration_ms": 216721,
+      "name": "Lua Vai, Lua Vem",
+      "url": "https://open.spotify.com/track/6E8h5omaLR37mlc8MgqnmS"
     },
     {
       "added_at": "2023-06-23 03:00:00",

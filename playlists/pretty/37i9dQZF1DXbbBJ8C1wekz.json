@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 117254,
+  "num_followers": 117316,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWNkZDgzOGQwYTdmNmQwOThjNGUwZDYwYjM5NGE3MzU0ZmRkNWFi",
+  "snapshot_id": "MCxjYTcxZWRlMDA5ZTFlODMyNTc0NWZkOTI3NTk2ZDQxOTBkY2Q1Mjll",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "LONGE DEMAIS",
-        "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "LONGE DEMAIS",
-      "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
         "name": "237",
         "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 228012,
       "name": "S\u00f3 Quando Ela Me Quer",
       "url": "https://open.spotify.com/track/70D4ZYmLC8Kxxw4rGthU0Q"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "LONGE DEMAIS",
+        "url": "https://open.spotify.com/album/388OrmfCf6uH9hlLRxovk0"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "LONGE DEMAIS",
+      "url": "https://open.spotify.com/track/7GojLrZd9lFGVWawPwj4t0"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 134634,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
         "name": "Gatinha",
         "url": "https://open.spotify.com/album/7cG0tGPI9KcNO7v6So6UFW"
       },
@@ -1303,26 +1327,30 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
+        "name": "T\u00e1 com o Papato (feat. BIN)",
+        "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
       "artists": [
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         }
       ],
-      "duration_ms": 134634,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
+      "duration_ms": 213333,
+      "name": "T\u00e1 com o Papato (feat. BIN)",
+      "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1351,34 +1379,6 @@
       "duration_ms": 212581,
       "name": "Oclin e Evoque",
       "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "T\u00e1 com o Papato (feat. BIN)",
-        "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "T\u00e1 com o Papato (feat. BIN)",
-      "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1971,6 +1971,34 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
+        "name": "Xeque-Mate (feat. Paiva Prod)",
+        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Xeque-Mate (feat. Paiva Prod)",
+      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
         "name": "NU",
         "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
       },
@@ -2003,34 +2031,6 @@
       "duration_ms": 168152,
       "name": "Espanha",
       "url": "https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "Xeque-Mate (feat. Paiva Prod)",
-        "url": "https://open.spotify.com/album/5z6BDql4k4zPWOAUjI73Ns"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Xeque-Mate (feat. Paiva Prod)",
-      "url": "https://open.spotify.com/track/3grsMTKtSZt93yuC76W2U9"
     },
     {
       "added_at": "2023-07-14 03:01:00",

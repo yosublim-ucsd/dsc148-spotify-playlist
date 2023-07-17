@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: dNam; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,640 likes - 101 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,649 likes - 101 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 97 | [Chân Ái Có Còn Không](https://open.spotify.com/track/3s0YC7XbG6mBLIBvG1YEli) | [Ella Mia](https://open.spotify.com/artist/28XyLxwHxob5leILgkHPEN) | [Chân Ái Có Còn Không](https://open.spotify.com/album/4cRSMt12H6jwV7MhElsXOC) | 3:55 |
 | 98 | [Lil Shawty \- From "Let's Take A Trip"](https://open.spotify.com/track/2ohRxCOgengjaE1TrkBhdC) | [TYO Ly](https://open.spotify.com/artist/3bveixcJY92EATYi3XHMnz), [Sol7](https://open.spotify.com/artist/4hksJgKaus2VEhQO2Umee9), [Mai Ngô](https://open.spotify.com/artist/3XIEdFeFLXEt0dovJX3uYu) | [Lil Shawty \(From "Let's Take A Trip"\)](https://open.spotify.com/album/21CA90YKj2Cn96CdnletR6) | 4:05 |
 | 99 | [LÀVÌE](https://open.spotify.com/track/2OQBoS90TEqZ63KzO0JsTJ) | [Groovie Lã Thắng](https://open.spotify.com/artist/1yx4rYyjUYupI7Ji1YvXRh), [diveincarter](https://open.spotify.com/artist/5ukDSedG7lWBu4ZNOe3t56), [Zury](https://open.spotify.com/artist/6trcC12iSMcsT5qalkoDZt) | [LÀVÌE](https://open.spotify.com/album/6CfSyek9spiCELBuezf6j4) | 3:27 |
-| 100 | [Những Lời Khó Nghe](https://open.spotify.com/track/6VOMkO618XxYqH0id27YQI) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [FloD](https://open.spotify.com/artist/2FrbyuLDccHs4nNPJUM35V), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Những Lời Khó Nghe](https://open.spotify.com/album/6dvf0x8MiG242QdQMtKlQj) | 3:04 |
+| 100 | [Những Lời Khó Nghe](https://open.spotify.com/track/6VOMkO618XxYqH0id27YQI) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Flo D](https://open.spotify.com/artist/25cLQ8alZJssXY06KE3SZP), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Những Lời Khó Nghe](https://open.spotify.com/album/6dvf0x8MiG242QdQMtKlQj) | 3:04 |
 | 101 | [Do Em Sai](https://open.spotify.com/track/44d3ALKvoOfRDuvLwPjg0R) | [Di Di](https://open.spotify.com/artist/2GFbIax8VZLFzOIUBSMaBg), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Long.C](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI) | [Do Em Sai](https://open.spotify.com/album/6jcTdVxIjAELzRd1SLyEMM) | 3:18 |
 
-Snapshot ID: `MCxmYTE3NWIzYmY0ZWU1NTFmM2Y2N2NlZGQyMzdkNmMxODc1ZWVlYjgz`
+Snapshot ID: `MCxhZTI0MjA4NWQ2OTE0NmEyZGE2NzEyMjhlMGVkYWQ1MTVjYTdlNjli`

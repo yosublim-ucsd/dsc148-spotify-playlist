@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 69062,
+  "num_followers": 69045,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0",
+  "snapshot_id": "MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Sunset Traveler",
-        "url": "https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 104260,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 173429,
       "name": "Timshel",
       "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Sunset Traveler",
+        "url": "https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 104260,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV"
     },
     {
       "added_at": "2022-12-02 19:02:37",

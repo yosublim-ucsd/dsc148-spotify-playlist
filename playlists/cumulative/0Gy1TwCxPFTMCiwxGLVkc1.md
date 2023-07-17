@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-121 songs - 4 hr 57 min
+122 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Just Gotta Be You \(feat\. Bob\)](https://open.spotify.com/track/4XZLWhFiv9gOomdxVsAIDN) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Bob](https://open.spotify.com/artist/2vBJ4hpLhhrIGEBvMHZCp3) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 3:15 | 2022-10-25 | 2023-02-06 |
 | [Kamp Koral Theme Song](https://open.spotify.com/track/3El6eET5uDrQ3ZjzntQ1ZI) | [Kamp Koral Cast](https://open.spotify.com/artist/3CHnJAHuxVudOER2h5bVJ8) | [Kamp Koral \(Music from the Series\)](https://open.spotify.com/album/28VeN5zqeirjSLONzhnwte) | 0:29 | 2023-06-11 |  |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2022-10-25 |  |
-| [Let's Go Amigos \- Remix](https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu), [El Rey](https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR) | [Nick Jr\. Fun Fiesta!](https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0) | 1:49 | 2022-10-25 |  |
+| [Let's Go Amigos \- Remix](https://open.spotify.com/track/33qJ5h1VI9g2IbP4gzoPwl) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu), [El Rey](https://open.spotify.com/artist/6QAsWcn4mpE6GysHBUmTNR) | [Nick Jr\. Fun Fiesta!](https://open.spotify.com/album/4gctUTZuUT12hCliqviAa0) | 1:49 | 2022-10-25 | 2023-07-17 |
 | [Like Like You](https://open.spotify.com/track/51xnULBdyOqq3liDY8grhV) | [Danger Force](https://open.spotify.com/artist/5jco0Od4vChi5xTq1EZDRn) | [Fightin' Crimes, Spittin' Rhymes](https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3) | 1:07 | 2022-10-25 | 2023-06-12 |
 | [Long Drives](https://open.spotify.com/track/7mAjxsLZpqcrj47Jjwsqsp) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/1pE8qLshBkWUMzpO3WYt2l) | 2:39 | 2022-05-27 | 2022-10-26 |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-27 | 2022-10-26 |
@@ -94,6 +94,7 @@
 | [Room 13](https://open.spotify.com/track/6eR73pF06smxeq6LtfTAOD) | [Nickelodeon](https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65), [Lilou](https://open.spotify.com/artist/61g7c2T0RXuYhlmcp2IsTM) | [Room 13](https://open.spotify.com/album/74rFiJryNQCCJk2P8lOVQs) | 2:32 | 2022-10-25 |  |
 | [Rubble & Crew Theme Song](https://open.spotify.com/track/4wQQXYAmFsS6xPDUf9FbnT) | [Rubble & Crew](https://open.spotify.com/artist/5dTEmJBPdvOyfo7QjYsEai) | [Rubble & Crew Theme Song](https://open.spotify.com/album/2CLHf95bUTLq6QIvKJR07U) | 0:32 | 2023-06-11 | 2023-06-20 |
 | [Second Time Around](https://open.spotify.com/track/1dSQU6IM6rOWc68kZa8Q7V) | [Rugrats](https://open.spotify.com/artist/14ymXegICyobgkDom5wbIy) | [Rugrats \(Music from Season 1\)](https://open.spotify.com/album/5fSobETSlUXgg9DaAdELE3) | 1:57 | 2023-06-11 |  |
+| [Shark Shake \- Remix](https://open.spotify.com/track/2x08dNhDkyIVDIvOY5rpkI) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC) | [Nick Jr\. The Remixes Vol\. 3: Spring Into Dance](https://open.spotify.com/album/6Z85HV4DIoiGgNzrFAxSmL) | 2:25 | 2023-07-16 |  |
 | [Shine On Me](https://open.spotify.com/track/7rFt04VwtHIJYsMtZIvzR0) | [The Really Loud House](https://open.spotify.com/artist/4GQWweaax2iFP1JIAyKY3R) | [The Really Loud House](https://open.spotify.com/album/2R5S0SC8YJI5z2Ml5MvUfP) | 1:16 | 2023-07-09 |  |
 | [Snowflake Drop](https://open.spotify.com/track/3GlSbCm2GfBzkvDqACsEXJ) | [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Face](https://open.spotify.com/artist/7xMgxFpLIU8jswCgwGYolN) | [Winter Wonder Jams](https://open.spotify.com/album/3Q01tBSLwBMS6LSABcplxd) | 0:48 | 2022-11-14 | 2023-07-04 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2022-05-27 | 2022-10-26 |

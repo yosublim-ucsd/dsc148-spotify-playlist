@@ -3740,10 +3740,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 224480,
       "name": "Hot Ghee",
       "url": "https://open.spotify.com/track/7LjukeeqaeWESbiVJ26Wd4"
+    },
+    {
+      "album": {
+        "name": "Rajan",
+        "url": "https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0"
+      },
+      "artists": [
+        {
+          "name": "Night Beats",
+          "url": "https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Hot Ghee",
+      "url": "https://open.spotify.com/track/7y6xvtRLOMbJzc8g27N01p"
     },
     {
       "album": {

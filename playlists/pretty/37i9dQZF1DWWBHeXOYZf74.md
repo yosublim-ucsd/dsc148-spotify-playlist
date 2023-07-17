@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Jamila Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,163 likes - 106 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,161 likes - 106 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 105 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 |
 | 106 | [Gabo's Last Resort](https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Gabo's Last Resort / Hyakutake](https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV) | 3:48 |
 
-Snapshot ID: `MCxlZWI2OTg1MGU0OGE3Yzc0OTkxNDViODEzOGZjYzk1OTNiNzQxNjQ1`
+Snapshot ID: `MCw3MmI4ODRjYTQ0NzA3YjVhMTcyZTdiNDBmNjBhNjVkMDMzYzI0MWY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,580 likes - 75 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,582 likes - 75 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 |
 | 75 | [Tình Thắm Duyên Quê \(feat\. Tuấn Hải\)](https://open.spotify.com/track/08rPtjcJX0PAqCkjaYnVtf) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Tuấn Hải](https://open.spotify.com/artist/4B7hhylN1PiEpEMQ00RsBp) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:33 |
 
-Snapshot ID: `MCw1YTI1MTExOTFmYzcxNDNhOTU2ODNjYWQ5ODBjM2NkOWMxMTI4ZmY4`
+Snapshot ID: `MCwyNmJhZjUxMzU3OTBhNzAxNzVhYjQ4Y2FjNGNlNTAzYjNkNDYwYThl`

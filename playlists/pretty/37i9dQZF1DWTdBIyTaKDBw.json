@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 47510,
+  "num_followers": 47545,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDU2NjJmN2NjZjU3NTA0YmMwMTc4ZGUzZmQ3NzViNTlhNzc2NDc4",
+  "snapshot_id": "MCw4ODY4MDczZGI3ZjE4N2Q0NjZlYWFjMTZhNGE1Y2I2ZTY2ZTMyN2Zj",
   "tracks": [
     {
       "added_at": "2023-07-07 15:54:03",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-07-07 15:54:03",
       "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2023-07-07 15:54:03",
+      "album": {
         "name": "\uc774\ub978 \uaca8\uc6b8",
         "url": "https://open.spotify.com/album/5rR1JjdxLhu5AagkC7u1Tu"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 172500,
       "name": "\uc774\ub978 \uaca8\uc6b8(Feat. Gist, \uae30\uc6d0(Giwon))",
       "url": "https://open.spotify.com/track/0lRyIfhsqlRYULXPBL848R"
-    },
-    {
-      "added_at": "2023-07-07 15:54:03",
-      "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2023-07-07 15:54:03",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-07-07 15:54:03",
       "album": {
-        "name": "Thinking of you",
-        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
-      },
-      "artists": [
-        {
-          "name": "Brunch recipe",
-          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
-        },
-        {
-          "name": "Lee Yu Bin",
-          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
-        }
-      ],
-      "duration_ms": 193514,
-      "name": "Thinking of you (Feat. Lee Yu Bin)",
-      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
-    },
-    {
-      "added_at": "2023-07-07 15:54:03",
-      "album": {
         "name": "LISH",
         "url": "https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 224778,
       "name": "I don't want (feat.So Jung of LADIES\u2019 CODE)",
       "url": "https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos"
+    },
+    {
+      "added_at": "2023-07-07 15:54:03",
+      "album": {
+        "name": "Thinking of you",
+        "url": "https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA"
+      },
+      "artists": [
+        {
+          "name": "Brunch recipe",
+          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
+        },
+        {
+          "name": "Lee Yu Bin",
+          "url": "https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub"
+        }
+      ],
+      "duration_ms": 193514,
+      "name": "Thinking of you (Feat. Lee Yu Bin)",
+      "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
     },
     {
       "added_at": "2023-07-07 15:54:03",

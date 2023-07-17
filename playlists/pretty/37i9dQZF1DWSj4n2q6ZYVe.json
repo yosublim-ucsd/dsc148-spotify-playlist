@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 382019,
+  "num_followers": 382413,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
+  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -135,22 +135,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Pitbull Starring In Rebelution",
         "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 237600,
       "name": "Hotel Room Service",
       "url": "https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -755,26 +755,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
-        "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
-      },
-      "artists": [
-        {
-          "name": "LMC",
-          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
-        },
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
-      "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 212413,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
+        "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
+      },
+      "artists": [
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
+      "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Push The Beat For This Jam (The Second Chapter)",
+        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "For Lack of a Better Name (The Extended Mixes)",
         "url": "https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 205053,
       "name": "Adagio For Strings - Radio Edit",
       "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Push The Beat For This Jam (The Second Chapter)",
-        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1039,6 +1039,42 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Encore - Live And Direct",
+        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "It Just Won't Do",
+        "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
+      },
+      "artists": [
+        {
+          "name": "Tim Deluxe",
+          "url": "https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0"
+        },
+        {
+          "name": "Sam Obernik",
+          "url": "https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "It Just Won't Do - Radio Edit",
+      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Hold Your Colour",
         "url": "https://open.spotify.com/album/5wHNla8BT8KcqMhAbvqoPU"
       },
@@ -1067,26 +1103,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "It Just Won't Do",
-        "url": "https://open.spotify.com/album/7eJ3wq74Uk6JuNlil9CFEd"
-      },
-      "artists": [
-        {
-          "name": "Tim Deluxe",
-          "url": "https://open.spotify.com/artist/7mEVrXcsq3PjsKT3BXnhp0"
-        },
-        {
-          "name": "Sam Obernik",
-          "url": "https://open.spotify.com/artist/0ZHSfpEoLBzYzQXYEhWSvJ"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "It Just Won't Do - Radio Edit",
-      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "La Roux",
         "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 248626,
       "name": "In For The Kill",
       "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Encore - Live And Direct",
-        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "See Clear Now",
-        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
-      },
-      "artists": [
-        {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Wearing My Rolex - Radio Edit",
-      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Who Needs Guitars Anyway?",
         "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 194072,
       "name": "Will I Ever",
       "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "See Clear Now",
+        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
+      },
+      "artists": [
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Wearing My Rolex - Radio Edit",
+      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Feel the Beat",
-      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "The Stadium Techno Experience",
         "url": "https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 212466,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Feel the Beat",
+      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Mind The Gap",
+        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 186320,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/03oK265y87YNXHIQSOAWOp"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Mind The Gap",
-        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1687,30 +1687,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Chris Willis",
-          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
-        },
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
-      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1751,18 +1739,30 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
       "artists": [
         {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
         }
       ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
+      "duration_ms": 188000,
+      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
+      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
     },
     {
       "added_at": "2021-04-29 18:40:15",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del norte\u00f1o en vivo. Remmy Valenzuela en portada.",
-  "num_followers": 32121,
+  "num_followers": 32194,
   "original_name": "Norte\u00f1o en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjE3M2VmMjc5OGNkNzBiMzliNTBiY2QyOTE1NjA4YmQ1MjVkNThj",
+  "snapshot_id": "MCxiMWU5NTVhN2ZlN2YwMWRmMjFjZDgyN2E1ZjJkNGE4YTZmMmY2Zjlm",
   "tracks": [
     {
       "added_at": "2023-06-09 19:49:25",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
         "name": "Recordando los Inicios (En Vivo)",
         "url": "https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 249624,
       "name": "La Miche",
       "url": "https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
+        "name": "Videos En Vivo Desde El Rancho El Pinolillo",
+        "url": "https://open.spotify.com/album/2J5VFfHfdh2ROSnnGX4QiY"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Profugos De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
         }
       ],
-      "duration_ms": 209195,
-      "name": "El Palomito - En Vivo",
-      "url": "https://open.spotify.com/track/0tpXFcqhDDntEDMPwGMOXE"
+      "duration_ms": 192738,
+      "name": "La Celda De Un Loco - En Vivo",
+      "url": "https://open.spotify.com/track/3llMXLV7hFkXxf3qXvqmdg"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "Videos En Vivo Desde El Rancho El Pinolillo",
-        "url": "https://open.spotify.com/album/2J5VFfHfdh2ROSnnGX4QiY"
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
       },
       "artists": [
         {
-          "name": "Profugos De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 192738,
-      "name": "La Celda De Un Loco - En Vivo",
-      "url": "https://open.spotify.com/track/3llMXLV7hFkXxf3qXvqmdg"
+      "duration_ms": 209195,
+      "name": "El Palomito - En Vivo",
+      "url": "https://open.spotify.com/track/0tpXFcqhDDntEDMPwGMOXE"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 208842,
-      "name": "Prenda Querida - En Vivo",
-      "url": "https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy"
-    },
-    {
-      "added_at": "2023-06-09 19:49:25",
-      "album": {
         "name": "Emilio Garra y la Sangre Nueva, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6AxBFBz1lPoyTMr44xUm7k"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 165421,
       "name": "Escuela de Rancho - En Vivo",
       "url": "https://open.spotify.com/track/70VNfnMiQ9huA5J8o8nmjB"
+    },
+    {
+      "added_at": "2023-06-09 19:49:25",
+      "album": {
+        "name": "En Vivo Desde la Fogata",
+        "url": "https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Un Desenga\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0"
     },
     {
       "added_at": "2023-06-09 19:49:25",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-06-09 19:49:25",
       "album": {
-        "name": "En Vivo Desde la Fogata",
-        "url": "https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk"
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 200568,
-      "name": "Un Desenga\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0"
+      "duration_ms": 208842,
+      "name": "Prenda Querida - En Vivo",
+      "url": "https://open.spotify.com/track/4S5jpsXo0KGT73gMqGEWzy"
     },
     {
       "added_at": "2023-06-09 19:49:25",

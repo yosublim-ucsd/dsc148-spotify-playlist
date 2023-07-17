@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: lil joujou, Hades66 & Chen
 
-669 songs - 1 day 12 hr 3 min
+670 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Donde Sea](https://open.spotify.com/track/5fIGXqlpDPMEXTWZaRxx4U) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 2:29 | 2022-12-02 | 2023-02-25 |
 | [Down](https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Down](https://open.spotify.com/album/4d2O4fr026apliDVapi0j0) | 2:44 | 2023-04-09 | 2023-07-02 |
 | [Doxxis](https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Doxxis](https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p) | 3:06 | 2022-10-28 | 2023-02-11 |
-| [Drip](https://open.spotify.com/track/4BlhUMEFASlDYn3Iqc3RoC) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Drip](https://open.spotify.com/album/1B61voXZn8vZdgH8nMPI7z) | 2:59 | 2023-05-19 |  |
+| [Drip](https://open.spotify.com/track/4BlhUMEFASlDYn3Iqc3RoC) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Drip](https://open.spotify.com/album/1B61voXZn8vZdgH8nMPI7z) | 2:59 | 2023-05-19 | 2023-07-17 |
 | [Drippin](https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Drippin](https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA) | 3:38 | 2023-02-17 | 2023-04-09 |
 | [Drugz Education](https://open.spotify.com/track/6ktSVyVGBWnIjIXTlS8FX8) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Drugz Education](https://open.spotify.com/album/3ihpKL9ZDwPmZ3tUAbjZhg) | 3:13 | 2023-04-14 | 2023-05-27 |
 | [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 | 2023-05-26 |  |
@@ -384,6 +384,7 @@
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-03-10 | 2023-04-09 |
 | [Missionsuicida](https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Missionsuicida](https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ) | 1:28 | 2023-04-21 | 2023-05-13 |
 | [MMM](https://open.spotify.com/track/2lv9KJdfFVZN9voT6zwSEj) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [MMM](https://open.spotify.com/album/0G3vkCth2P8SOIytPw1e5P) | 3:31 | 2022-10-28 | 2023-01-28 |
+| [MODALES](https://open.spotify.com/track/5PYuzbJbFcBGDCZHYQbWmW) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [MODALES](https://open.spotify.com/album/6ztdnZVn7G6ZKSKjEWBvba) | 2:52 | 2023-07-14 |  |
 | [MODO FLY](https://open.spotify.com/track/2KaUNmiAAnTTODP7SB6Dcq) | [Flaco Quintero](https://open.spotify.com/artist/71cdb6dW7ugcxidfvSW3T1), [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [MODO FLY](https://open.spotify.com/album/2z59R7oOrLq7NHNZrQtimy) | 3:20 | 2022-10-14 | 2022-12-10 |
 | [Mojadero](https://open.spotify.com/track/6CuLgRNyiHtWcRCqFeZA8i) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Mojadero](https://open.spotify.com/album/7ptOOr9s01AaepOVD7ACOl) | 2:39 | 2022-07-12 | 2022-10-08 |
 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB) | 4:12 | 2022-03-29 | 2022-06-04 |

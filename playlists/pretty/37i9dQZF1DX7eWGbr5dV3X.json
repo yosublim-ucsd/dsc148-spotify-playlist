@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8536,
+  "num_followers": 8533,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmY0OGVlNGU0MTEzNGM0YjJkNmZjYjFkN2VkMWQ4ZDM2ZjdlOWZm",
+  "snapshot_id": "MCwzODllNWFmMThjZmIxZDNjM2U3NzRlZGIwMzBhYWIxZDFlNDQ0ZmJl",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -635,22 +635,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Round and Round (Bright Light Bright Light Remix)",
-        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
+        "name": "Cry, Baby",
+        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
       },
       "artists": [
         {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
-        },
-        {
-          "name": "Bright Light Bright Light",
-          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Round and Round (Bright Light Bright Light Remix)",
-      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Cry, Baby",
-        "url": "https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw"
+        "name": "Round and Round (Bright Light Bright Light Remix)",
+        "url": "https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD"
       },
       "artists": [
         {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+        },
+        {
+          "name": "Bright Light Bright Light",
+          "url": "https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb"
         }
       ],
-      "duration_ms": 235630,
-      "name": "Could I Break Your Heart",
-      "url": "https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe"
+      "duration_ms": 216842,
+      "name": "Round and Round (Bright Light Bright Light Remix)",
+      "url": "https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC"
     },
     {
       "added_at": "2023-06-30 23:59:00",

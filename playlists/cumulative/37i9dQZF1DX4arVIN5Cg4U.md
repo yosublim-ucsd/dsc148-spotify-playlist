@@ -4,7 +4,7 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-93 songs - 7 hr 2 min
+94 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/1p3pNDVO8n9UyNpnNY0qyx) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Blow Your Head \- Diplo Presents: Dubstep](https://open.spotify.com/album/4L07DEQ2oZzbNGRd5AHjzH) | 4:26 | 2020-10-03 | 2022-07-25 |
 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/2bVqnNylWgywBVsUHYBs3R) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Hold On](https://open.spotify.com/album/5cwM3hSW2juHIYuX3GWrqY) | 4:27 | 2020-10-03 | 2023-07-10 |
 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/2u6tZMWwhgnRggKHvRWINP) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Hold On](https://open.spotify.com/album/3Q7Mi2wjS7jbAd4wkQ7Wjy) | 4:27 | 2020-10-03 | 2023-06-23 |
+| [Hold On \- Sub Focus Remix](https://open.spotify.com/track/4D1YzHNXLlBLlLlatzlyj0) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [O.M.G.!](https://open.spotify.com/album/07BD9T4zyqIl3bIbSrwgmw) | 4:27 | 2020-10-03 |  |
 | [I Can't Stop](https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Lines in Wax](https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr) | 5:03 | 2020-10-03 |  |
 | [I Need Air \(feat\. Angela Hunte\)](https://open.spotify.com/track/5je1EimWTwYw2p8XVym99q) | [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL), [Angela Hunte](https://open.spotify.com/artist/7rEqtNYXSDePQHdZNiLN6L) | [Magnetic Man](https://open.spotify.com/album/1xlyG4VH7qEx1tNVXDtcmr) | 4:16 | 2020-10-03 |  |
 | [I Wait](https://open.spotify.com/track/7vzyc7ezmFEmvdeoS8DeZu) | [Digital Mystikz](https://open.spotify.com/artist/4ESIM5V4xT2Ce0ZWPhxIEY) | [Box Of Dub: Dubstep And Future Dub](https://open.spotify.com/album/79lOQ3ektrxE8PtKDH5uYS) | 5:19 | 2020-10-03 | 2022-07-24 |
@@ -87,7 +88,7 @@
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 | 2020-10-03 |  |
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/5q8oybjZelukF4h0CzSUN9) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites \(Deluxe Tour Edition\)](https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL) | 4:03 | 2020-10-03 | 2022-07-29 |
 | [Sepia](https://open.spotify.com/track/4vpvkDPQfCVPDS64hBtUbl) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Altar \- EP](https://open.spotify.com/album/1pxXH6HjtVHsZuR0Atlqor) | 3:04 | 2020-10-03 | 2022-07-29 |
-| [Slasherr](https://open.spotify.com/track/52SPa846gRMhjujh054UFr) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Triadzz / Slasherr](https://open.spotify.com/album/1OKId2zwMoVaZzngQHVyyb) | 3:38 | 2020-10-03 |  |
+| [Slasherr](https://open.spotify.com/track/52SPa846gRMhjujh054UFr) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Triadzz / Slasherr](https://open.spotify.com/album/1OKId2zwMoVaZzngQHVyyb) | 3:38 | 2020-10-03 | 2023-07-17 |
 | [Smack My Bitch Up \(Noisia Remix\)](https://open.spotify.com/track/1fW2WEriUSWAdiOx0sxuK0) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/2NkwB9shQioKcbNhPf2EbP) | 5:53 | 2020-10-03 | 2022-07-29 |
 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 | 2020-10-03 |  |
 | [Starry Eyed \- Jakwob Remix](https://open.spotify.com/track/055TcMyKhz8NV8XzTTeKGu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [James Jacob](https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71) | [Generation Dubstep](https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH) | 4:36 | 2020-10-03 | 2022-07-24 |

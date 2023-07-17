@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Kim Dracula
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,789 likes - 65 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,959 likes - 65 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 64 | [Tebe](https://open.spotify.com/track/4wIxaBqlmvyJFzn7x7trU7) | [Calligram](https://open.spotify.com/artist/5WtqFR0WBjrFtmr2HjUFA1) | [Position \| Momentum](https://open.spotify.com/album/3AGugJky5RmIm6juv2JoeH) | 4:19 |
 | 65 | [Paramnesia](https://open.spotify.com/track/2wKyodAts1z5RNx5kdDWMX) | [Somnuri](https://open.spotify.com/artist/0lTd1p9wnZHsZvZJgrgqvN) | [Paramnesia](https://open.spotify.com/album/0rGIf8IJzORsC6oQJBojz7) | 3:38 |
 
-Snapshot ID: `MCxiYjQ1YWVlZDAwMzgzNDBlYjExYThmNGFkNjY0OTM0OTg2ZmM5MWI0`
+Snapshot ID: `MCxlNzVjOGMyNzI3ZTg4YTNmYTQwMGM2MjJmYzdmYzM0YmFlYjJiMzAy`

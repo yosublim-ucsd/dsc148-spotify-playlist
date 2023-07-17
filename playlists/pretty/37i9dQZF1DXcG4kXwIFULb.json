@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 129861,
+  "num_followers": 130035,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTZlZDhkM2YyZTFhMGJmNGYwNWE4NzQ1MGY0ZTZhZmQwNjlhZjJi",
+  "snapshot_id": "MCw5ZTJlOTUzMGIwZmJhNGJkZDE3N2JjZjEyZjM1ZWM1ZGIzZTk5NzBm",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "A New Stereophonic Sound Spectacular",
+        "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
+      },
+      "artists": [
+        {
+          "name": "Hooverphonic",
+          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "2 Wicky",
+      "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "A New Stereophonic Sound Spectacular",
-        "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
-      },
-      "artists": [
-        {
-          "name": "Hooverphonic",
-          "url": "https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "2 Wicky",
-      "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
-      },
-      "artists": [
-        {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
-        }
-      ],
-      "duration_ms": 328265,
-      "name": "Relaxin' with cherry",
-      "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Mickey Mouse Operation",
         "url": "https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 227866,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+      },
+      "artists": [
+        {
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+        }
+      ],
+      "duration_ms": 328265,
+      "name": "Relaxin' with cherry",
+      "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Journey Into Abstract Hip Hop",
-        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
-      },
-      "artists": [
-        {
-          "name": "Gasoline",
-          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
-        }
-      ],
-      "duration_ms": 242466,
-      "name": "The Hardest",
-      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Parts of the Process",
         "url": "https://open.spotify.com/album/1oq0L9KwQnhQm91bNNhaFd"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 265293,
       "name": "Part of the Process",
       "url": "https://open.spotify.com/track/6OK27eVNONtsnJcF0n6a4C"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Journey Into Abstract Hip Hop",
+        "url": "https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1"
+      },
+      "artists": [
+        {
+          "name": "Gasoline",
+          "url": "https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp"
+        }
+      ],
+      "duration_ms": 242466,
+      "name": "The Hardest",
+      "url": "https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Between Darkness & Wonder",
-        "url": "https://open.spotify.com/album/6upRap3KHfW2oaR1qrlf3p"
+        "name": "Walking Wounded (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5"
       },
       "artists": [
         {
-          "name": "Lamb",
-          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/6CS1jZPGvrmLr3x9yQQDML"
+      "duration_ms": 257720,
+      "name": "Before Today - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5IDD5YsXUUZbM4Hty8RnOT"
     }
   ],
   "unique_name": "Chillout Classics",

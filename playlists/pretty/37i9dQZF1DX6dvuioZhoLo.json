@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 280128,
+  "num_followers": 280219,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmMzZjYwM2I0YmU3NDI5MDQ2MTI0NTQ3MDU5YmUxMWFhOTg0Yzhm",
+  "snapshot_id": "MCwxNTQ2ZjAzMzkwZTI2YTZkYmFhM2U0MmU4MTIyODk1MmMzNGM5MDZk",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Pony",
-        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 207938,
-      "name": "Take You Back (The Iron Hoof Cattle Call)",
-      "url": "https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 207938,
+      "name": "Take You Back (The Iron Hoof Cattle Call)",
+      "url": "https://open.spotify.com/track/6F6bUsLOJMoaTUky7LftrP"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 310893,
-      "name": "Love Don\u2019t",
-      "url": "https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy"
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+      "duration_ms": 310893,
+      "name": "Love Don\u2019t",
+      "url": "https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Companion",
-      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Sidelong",
         "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 201426,
       "name": "Fuck Up",
       "url": "https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "Companion",
+      "url": "https://open.spotify.com/track/3XrXvjH1dMaSzNz5uOKdTS"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
-      },
-      "artists": [
-        {
-          "name": "Lasers Lasers Birmingham",
-          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Golden Eagle",
         "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 208826,
       "name": "No One Has the Answers",
       "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
+      },
+      "artists": [
+        {
+          "name": "Lasers Lasers Birmingham",
+          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "I've Got a Way",
+        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Dirty Old Town",
+      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "The Secret Sisters",
         "url": "https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 143160,
       "name": "My Heart Skips A Beat",
       "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Field Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
       },
       "artists": [
         {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Diamond Joe",
-      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+      "duration_ms": 274333,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "I've Got a Way",
-        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
+        "name": "Field Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
       "artists": [
         {
-          "name": "Kelsey Waldon",
-          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
         }
       ],
-      "duration_ms": 161013,
-      "name": "Dirty Old Town",
-      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
+      "duration_ms": 156000,
+      "name": "Diamond Joe",
+      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
     }
   ],
   "unique_name": "Vintage Vibes",

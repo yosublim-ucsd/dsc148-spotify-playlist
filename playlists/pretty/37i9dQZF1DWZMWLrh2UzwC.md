@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,560 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,577 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 81 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 |
 | 82 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
 
-Snapshot ID: `MCxmNzM0YjExYTk3MmEyZTM0MTgxZGUxMTJkNzA1NDY3YTJkZDc2Yzhl`
+Snapshot ID: `MCxhNzZhZjQ2NmQ2ZWI2ODBmYzMzMTg5OGUzODVkYmI1M2UzMGJhOWNk`

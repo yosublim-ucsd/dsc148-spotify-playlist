@@ -4,7 +4,7 @@
 
 > Where Sitar meets Guitar\. Cover \- Shakti
 
-56 songs - 4 hr 38 min
+57 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,11 @@
 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 | 2023-05-11 |  |
 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 | 2023-05-11 |  |
 | [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 | 2023-05-11 | 2023-06-29 |
-| [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2023-05-11 |  |
+| [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 | 2023-05-11 | 2023-07-17 |
 | [Holi Re Rasiya](https://open.spotify.com/track/6KJnxgN0lVgv9npvMBje3P) | [Mahan](https://open.spotify.com/artist/4DLHoVmcTLu8Ir0oycZvCi), [Maithili Thakur](https://open.spotify.com/artist/4l5GJirMP9yceDJOAqvuQY), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Ravi Kishan](https://open.spotify.com/artist/4RuzOqiZ3TbTKX30MleR1z), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Holi Re Rasiya](https://open.spotify.com/album/4bU4zFI8HVRIsnI7CDNs3C) | 3:43 | 2023-05-11 |  |
 | [Iss Tan Dhan \- From the Album Tu Hai](https://open.spotify.com/track/1wwB9jPkl91wkFRwLTA5rW) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy), [Vikku Vinayakram](https://open.spotify.com/artist/5xA5y17B4ipntbaVqifsoR) | [Iss Tan Dhan](https://open.spotify.com/album/1WiWIKDEXmUF6X4iCqfOZ8) | 10:14 | 2023-05-11 | 2023-07-05 |
 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 | 2023-05-11 |  |
+| [Jogiya](https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK) | [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Aabhas \- Shreyas](https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4), [Indie Routes](https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu) | [Jogiya](https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La) | 4:09 | 2023-05-29 |  |
 | [Justaju: The Essence of Love](https://open.spotify.com/track/617AQXp7dNlAQnJPPQNyUV) | [Raahein Gharana](https://open.spotify.com/artist/1DilhiF5W5TuadHjgoYnMR) | [Justaju: The Essence of Love](https://open.spotify.com/album/5hDfb1r3Xm1hdmEX49WE45) | 5:02 | 2023-05-29 |  |
 | [Kaa Karoon Sajni \- Thumri Jazz](https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Kaa Karoon Sajni \(Thumri Jazz\)](https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH) | 3:43 | 2023-05-11 |  |
 | [Kahaani](https://open.spotify.com/track/144TS04R5kwzBqaM805g9E) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Anirban Chowdhury](https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w) | [Kahaani](https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah) | 4:03 | 2023-05-11 |  |

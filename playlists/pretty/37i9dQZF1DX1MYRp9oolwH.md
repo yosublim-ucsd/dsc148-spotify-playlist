@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,576 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,734 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Aradhya \(From "Kushi"\)](https://open.spotify.com/track/43iLKMSX7iSgniaoMJLgUK) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\)](https://open.spotify.com/album/6QHLsHtaDPNeGcN4ujmEpT) | 4:42 |
+| 1 | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo) | 4:42 |
 | 2 | [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg) | 3:44 |
 | 3 | [Holare Hola](https://open.spotify.com/track/0a9bofyF3tSrYRCu2uVVkI) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [J.V\. Sudhanshu](https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq), [Sony Komanduri](https://open.spotify.com/artist/6wjRMnOpf2jN6VsNn3SkPW), [Shree Mani](https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh) | [Samajavaragamana](https://open.spotify.com/album/0vYWeWvhip93WkwleOx566) | 4:37 |
 | 4 | [Priya Mithunam \(Telugu\)](https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Adipurush \(TELUGU\)](https://open.spotify.com/album/0zRFnm1hqjtY0c7ozMK2Lh) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 | 50 | [Nannaya Raasina](https://open.spotify.com/track/3tDLHXVoUrRqcHXkzqMz4r) | [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [18 Pages](https://open.spotify.com/album/3kimSSf3JVYLCxmewc22ra) | 4:37 |
 
-Snapshot ID: `MCxjZDI1MDUxYzIyOWNhMDM1MTFjMjFhNmI1ODU2ZTVhMzM2M2NhYmFm`
+Snapshot ID: `MCw2Y2M3OGU5MGI5ZTFlMGQ2YTViZjM0MGRkYTJiMmViMWEyYmNjMzgw`

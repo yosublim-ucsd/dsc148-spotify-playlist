@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13617,
+  "num_followers": 13616,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBiYzVjMjc5NzkwNGU1YjlhMGRkMjUzY2MxMTIwNGEwZDc5MzNi",
+  "snapshot_id": "MCwyZjc4YzYyYWIwZjE0ZmMwYmM0OGM3MjA0MjczZDk0NDc4NzE5YjQ1",
   "tracks": [
     {
       "added_at": "2023-06-22 07:18:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 214301,
-      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
-      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 300506,
       "name": "Here I'll Stay",
       "url": "https://open.spotify.com/track/7lrJtpPP3OFQXfYWbvSAa3"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 214301,
+      "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
+      "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+        "name": "Essential Standards",
+        "url": "https://open.spotify.com/album/0AvwcTbn5qkcniAQtQnkR7"
       },
       "artists": [
         {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
         }
       ],
-      "duration_ms": 247149,
-      "name": "When the Sun Comes Out",
-      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
+      "duration_ms": 224226,
+      "name": "Look For The Silver Lining",
+      "url": "https://open.spotify.com/track/5UMb3v7N65qkSNZVxtIaAI"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -843,22 +847,18 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Essential Standards",
-        "url": "https://open.spotify.com/album/0AvwcTbn5qkcniAQtQnkR7"
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
       "artists": [
         {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        },
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
         }
       ],
-      "duration_ms": 224226,
-      "name": "Look For The Silver Lining",
-      "url": "https://open.spotify.com/track/5UMb3v7N65qkSNZVxtIaAI"
+      "duration_ms": 247149,
+      "name": "When the Sun Comes Out",
+      "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
-      },
-      "artists": [
-        {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
-        }
-      ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 240651,
       "name": "Who Needs Paris",
       "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+      },
+      "artists": [
+        {
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+        }
+      ],
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -995,6 +995,30 @@
       "duration_ms": 262573,
       "name": "I Will Wait for You",
       "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Cad\u00eancia Verde e Amarela",
+        "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
+      },
+      "artists": [
+        {
+          "name": "Morten Ankarfeldt",
+          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
+        },
+        {
+          "name": "Edu Neves",
+          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
+        },
+        {
+          "name": "Caio Marcio Santos",
+          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Cad\u00eancia",
+      "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1047,30 +1071,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Cad\u00eancia Verde e Amarela",
-        "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
-      },
-      "artists": [
-        {
-          "name": "Morten Ankarfeldt",
-          "url": "https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU"
-        },
-        {
-          "name": "Edu Neves",
-          "url": "https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY"
-        },
-        {
-          "name": "Caio Marcio Santos",
-          "url": "https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Cad\u00eancia",
-      "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 203813,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Come What May",
         "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 193000,
       "name": "My Shining Hour",
       "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Broadway By Day",
-        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
-      },
-      "artists": [
-        {
-          "name": "Spencer Day",
-          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "Getting To Know You",
-      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "The Cole Porter Mix",
         "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 219653,
       "name": "You're The Top",
       "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+      },
+      "artists": [
+        {
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "Getting To Know You",
+      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Happyfeet",
-        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 400980,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 174573,
       "name": "Avril au Portugal",
       "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Happyfeet",
+        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 400980,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
     },
     {
       "added_at": "2023-06-22 07:18:24",

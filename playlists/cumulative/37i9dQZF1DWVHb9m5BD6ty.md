@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-122 songs - 6 hr 22 min
+123 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Where u at](https://open.spotify.com/track/6AzixJy7LmBcO7LMITZoZU) | [Monjola](https://open.spotify.com/artist/1hwy1qY69O1tCOAm7MYeq6), [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Where u at](https://open.spotify.com/album/5eyGQAUmVDHe478xR5539L) | 3:14 | 2022-03-17 |  |
 | [Where You Are](https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Where You Are](https://open.spotify.com/album/3bv9unehQKvqOAChCAZcoD) | 3:37 | 2022-03-17 |  |
 | [Who You Are](https://open.spotify.com/track/6mkvEG10ftOIKrMZHVRMiY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Who You Are](https://open.spotify.com/album/6k28C6Pa6xkoueu3A5Kecz) | 3:25 | 2021-10-26 | 2022-03-17 |
-| [With U](https://open.spotify.com/track/75DHJ9Szi2lYMDZMADrPhn) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [With U](https://open.spotify.com/album/6Hvgq9wKGVM4R7rqVzGhTL) | 2:55 | 2022-03-17 |  |
+| [With U](https://open.spotify.com/track/5owRVvmrXR6EQznf6CeII9) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [With U](https://open.spotify.com/album/1LijYgVaO2mbhKoNyAB6CP) | 2:55 | 2022-03-17 |  |
+| [With U](https://open.spotify.com/track/75DHJ9Szi2lYMDZMADrPhn) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [With U](https://open.spotify.com/album/6Hvgq9wKGVM4R7rqVzGhTL) | 2:55 | 2022-03-17 | 2023-07-17 |
 | [Wollan](https://open.spotify.com/track/6kMHnJZ8QgRR0NV4LmdNpA) | [Bermuda Music](https://open.spotify.com/artist/4nZPsE22Q1maa358GzSLZD), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Wollan](https://open.spotify.com/album/0GIweXN9DpKbSos21PvMfs) | 3:34 | 2021-10-26 | 2022-03-17 |
 | [Woman](https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0) | 4:29 | 2021-10-26 | 2022-03-17 |
 | [WW2](https://open.spotify.com/track/51ryhYwXfP7vv3A9RORmQ9) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [WW2](https://open.spotify.com/album/3dvyDylacbSogoCzyIJn52) | 3:21 | 2021-10-26 | 2022-03-17 |

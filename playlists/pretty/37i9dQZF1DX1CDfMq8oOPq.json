@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Ebony",
-  "num_followers": 37979,
+  "num_followers": 38009,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTE2NzcwN2QzYzRkZjBiYTdjYzViNjhiMjgzMWM0MDQwNTk4YzA3",
+  "snapshot_id": "MCw3ZGQ0NmI2Zjg1MWQ2NTk5NTk1YjQyZmY0Mjg3MDNiODg3ZTVhODRh",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Preta Patr\u00edcia",
-        "url": "https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX"
-      },
-      "artists": [
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        }
-      ],
-      "duration_ms": 254756,
-      "name": "Preta Patr\u00edcia",
-      "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
         "name": "Quest\u00e3o de Honra",
         "url": "https://open.spotify.com/album/3UTlP3nvWPMsQvSDlsLSxJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 161109,
       "name": "Quest\u00e3o de Honra",
       "url": "https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "Preta Patr\u00edcia",
+        "url": "https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        }
+      ],
+      "duration_ms": 254756,
+      "name": "Preta Patr\u00edcia",
+      "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -999,30 +999,6 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Betty Boop",
-        "url": "https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK"
-      },
-      "artists": [
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "HERvolution",
-          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
-        }
-      ],
-      "duration_ms": 110421,
-      "name": "Betty Boop",
-      "url": "https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
         "name": "Fiz Minha Unha",
         "url": "https://open.spotify.com/album/55IqlpNBxtJPpfGbWHOayn"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 146666,
       "name": "Fiz Minha Unha",
       "url": "https://open.spotify.com/track/5IYtUJ9foHzJi2CzzARkIe"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "Betty Boop",
+        "url": "https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+        }
+      ],
+      "duration_ms": 110421,
+      "name": "Betty Boop",
+      "url": "https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt"
     },
     {
       "added_at": "2023-07-14 03:01:00",

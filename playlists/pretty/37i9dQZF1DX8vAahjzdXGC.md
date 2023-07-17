@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Rizky Febian
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,211 likes - 114 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,249 likes - 114 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 113 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 |
 | 114 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
 
-Snapshot ID: `MCw2YzFkYTk5M2E3ZjQ5ZjA2M2NiN2I1MjM3OTI0N2I4ZGVlYzI4N2Zh`
+Snapshot ID: `MCw0MDk4NGMyMTRhYTBhNmEyMDM5OWZhOTBjMjAxZTJiYjI2ZDY4OTQz`

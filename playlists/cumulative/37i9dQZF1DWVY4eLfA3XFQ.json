@@ -2487,6 +2487,24 @@
     },
     {
       "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/06ylSMA5HfHGtXAkGrC1Hf"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/6seHytVZJPtJyH5X6QUKqJ"
+    },
+    {
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY"
       },
@@ -5862,7 +5880,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 298586,
       "name": "Ella Quiere",
       "url": "https://open.spotify.com/track/7ml7QQpmWBmgiwsffWq976"
@@ -17841,6 +17859,28 @@
     },
     {
       "album": {
+        "name": "Se Acabo",
+        "url": "https://open.spotify.com/album/15NLsvEYlYOTzsce83xXjp"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Se Acabo",
+      "url": "https://open.spotify.com/track/3bST0KX0eCc7mtavsH0q7W"
+    },
+    {
+      "album": {
         "name": "Se Va",
         "url": "https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S"
       },
@@ -18108,7 +18148,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 163034,
       "name": "Sex Drugs Cash",
       "url": "https://open.spotify.com/track/52O7aS1nro497WlKJNmYWM"

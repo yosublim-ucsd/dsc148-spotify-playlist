@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,563 likes - 100 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,754 likes - 100 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 42 | [Behold Our God](https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Risen](https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz) | 5:23 |
 | 43 | [Oceans \(Where Feet May FaiI\)](https://open.spotify.com/track/18q8W11QNDEfhYIxwypTQK) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Campfire II: Simplicity](https://open.spotify.com/album/6M534LEjzYqHmV0afXaHZm) | 4:43 |
 | 44 | [All Hail King Jesus](https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 8:17 |
-| 45 | [Called Me Higher](https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [The Longing EP No\. 3](https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I) | 5:55 |
-| 46 | [Nothing but the Blood of Jesus](https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Yours Alone](https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI) | 3:27 |
+| 45 | [Nothing but the Blood of Jesus](https://open.spotify.com/track/7tNCnbltD6bemXgTuh8JPk) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [Yours Alone](https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI) | 3:27 |
+| 46 | [Called Me Higher](https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [The Longing EP No\. 3](https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I) | 5:55 |
 | 47 | [Come Thou Fount Of Every Blessing](https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 3:44 |
 | 48 | [Sticks & Stones](https://open.spotify.com/track/236Joyhsvc06vmBkKjCFwf) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 4:05 |
 | 49 | [Resurrecting \(Studio Version\)](https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Resurrecting \- EP](https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [You Are My All In All](https://open.spotify.com/track/28WU7koB2YsCtoTfsGwOb9) | [Brooke Griffith](https://open.spotify.com/artist/4fnlaDM9xpbXlqwiZhS4un) | [Even So Come: A Worship Album](https://open.spotify.com/album/5xc8W0sOrOt2FvVS0uyztz) | 5:18 |
 | 100 | [Be Still My Soul](https://open.spotify.com/track/6pnT1MuK6JLYW9HY5fKxVw) | [Jadon Lavik](https://open.spotify.com/artist/4LIG4IMVuzGJjAhMxXtll1) | [Roots Run Deeper](https://open.spotify.com/album/6Pcu1C4dXMinzA7AoQa83v) | 4:42 |
 
-Snapshot ID: `MCw3ZDhhMWIxYjg3ZDhlZGEwZDJkN2U3M2UyYjk0MDRjMGU3M2I5ZTZl`
+Snapshot ID: `MCwyOWVlMzYwZGM0ZGNmODlhODUwZjZlNWYwNTkwN2E4Zjk4MWQwMDkw`

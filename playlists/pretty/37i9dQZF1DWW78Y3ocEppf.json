@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Lehla Samia",
-  "num_followers": 42097,
+  "num_followers": 42113,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzYyMGI1MWZlZDRhZDc2NjA3Njc1NThkYTA2YjJjZjE2NzFkNDI5",
+  "snapshot_id": "MCwwMGU5ZGEwNzFjNTA3NjNlMWM4MDM3ODhiYzllOTVkZTA5YWJlYTk3",
   "tracks": [
     {
       "added_at": "2023-07-14 17:29:23",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Archives & Lullabies",
-        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 211384,
-      "name": "Nurture",
-      "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "1(800)HIT-EAZY: Line 2",
         "url": "https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ"
       },
@@ -925,20 +909,20 @@
       "url": "https://open.spotify.com/track/2nLjAYDLBip0W3HbCOiS7Z"
     },
     {
-      "added_at": "2023-06-16 05:24:07",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "it's not you, it's me",
-        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+        "name": "Archives & Lullabies",
+        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
       },
       "artists": [
         {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 120493,
-      "name": "cascade road",
-      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
+      "duration_ms": 211384,
+      "name": "Nurture",
+      "url": "https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -955,6 +939,22 @@
       "duration_ms": 189200,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
+    },
+    {
+      "added_at": "2023-06-16 05:24:07",
+      "album": {
+        "name": "it's not you, it's me",
+        "url": "https://open.spotify.com/album/0Xc13E53Ifo7EnSzCz2w4j"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "cascade road",
+      "url": "https://open.spotify.com/track/0tkJrvooVHw5r7MrUaCWjh"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1081,26 +1081,6 @@
       "url": "https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Indecisive (feat. Eric Bellinger)",
-        "url": "https://open.spotify.com/album/6BoP06yDsAaqNqiQwBbkcp"
-      },
-      "artists": [
-        {
-          "name": "Nieman J",
-          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 219259,
-      "name": "Indecisive (feat. Eric Bellinger)",
-      "url": "https://open.spotify.com/track/4LjbpDmui3Br0VDsL1oRuH"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Obsession (feat. Muni Long) [Remix]",
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
+        "name": "Indecisive (feat. Eric Bellinger)",
+        "url": "https://open.spotify.com/album/6BoP06yDsAaqNqiQwBbkcp"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 219259,
+      "name": "Indecisive (feat. Eric Bellinger)",
+      "url": "https://open.spotify.com/track/4LjbpDmui3Br0VDsL1oRuH"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
         "name": "Runner Up",
         "url": "https://open.spotify.com/album/4XjO7PZoSXkaAQ5rbDVOMg"
       },
@@ -1183,6 +1183,26 @@
       "duration_ms": 172275,
       "name": "Runner Up",
       "url": "https://open.spotify.com/track/7H3gmddv7d0bP846jgHu62"
+    },
+    {
+      "added_at": "2022-10-14 05:33:57",
+      "album": {
+        "name": "Love Jones (feat. Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 183589,
+      "name": "Love Jones (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1207,26 +1227,6 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
-    },
-    {
-      "added_at": "2022-10-14 05:33:57",
-      "album": {
-        "name": "Love Jones (feat. Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/6aMTYX9iwVfJjqZWypJj8I"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 183589,
-      "name": "Love Jones (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1X2Ec2pLTtapRlpECgnGdN"
     },
     {
       "added_at": "2023-01-06 05:00:00",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Pray for a Beautiful Sky",
+        "url": "https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M"
+      },
+      "artists": [
+        {
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Thug Passion",
+      "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -1315,22 +1331,6 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Pray for a Beautiful Sky",
-        "url": "https://open.spotify.com/album/59FSCIole7NgODXaYCJN1M"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Thug Passion",
-      "url": "https://open.spotify.com/track/0p2Rhf58T7JgvwYqF0DXl1"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "S(EX)",
-        "url": "https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 225406,
-      "name": "S(EX)",
-      "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
-    },
-    {
       "added_at": "2023-06-16 05:24:07",
       "album": {
         "name": "Man on Fire",
@@ -1431,6 +1415,22 @@
       "duration_ms": 144000,
       "name": "Man on Fire",
       "url": "https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "S(EX)",
+        "url": "https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 225406,
+      "name": "S(EX)",
+      "url": "https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1505,6 +1505,22 @@
       "url": "https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo"
     },
     {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
+      },
+      "artists": [
+        {
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
+        }
+      ],
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Would You",
@@ -1523,22 +1539,6 @@
       "duration_ms": 192240,
       "name": "Would You",
       "url": "https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/4V4hP1FCrFDuDOx7s5KKtY"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
-      },
-      "artists": [
-        {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
-        }
-      ],
-      "duration_ms": 143903,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "FOREVER",
@@ -1643,6 +1627,22 @@
       "duration_ms": 240048,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4tgqTwEENoVMhIOk8y9eGa"
+      },
+      "artists": [
+        {
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+        }
+      ],
+      "duration_ms": 143903,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2AQoGOVd3PT40O7xZ2Qojq"
     },
     {
       "added_at": "2023-05-05 04:18:58",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/5dPXwjX9VgldfSkl5IFnYy"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Dreams 2 Reality",
-        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 170937,
-      "name": "Divide",
-      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
-    },
-    {
       "added_at": "2022-12-09 05:00:00",
       "album": {
         "name": "Cold Toronto",
@@ -1691,6 +1675,22 @@
       "duration_ms": 157808,
       "name": "Fell Asleep",
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+    },
+    {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 170937,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1725,20 +1725,24 @@
       "url": "https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK"
     },
     {
-      "added_at": "2023-06-16 06:01:57",
+      "added_at": "2022-09-30 04:04:59",
       "album": {
-        "name": "DO BAD",
-        "url": "https://open.spotify.com/album/4jZ3g9IaxnPQEaiBmlHzZh"
+        "name": "Smoke, Drink, Break Up (feat. Wale)",
+        "url": "https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx"
       },
       "artists": [
         {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
+          "name": "Nelccia",
+          "url": "https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 239230,
-      "name": "DO BAD",
-      "url": "https://open.spotify.com/track/56yqjeadB7CbECmSXWIXKw"
+      "duration_ms": 131542,
+      "name": "Smoke, Drink, Break Up (feat. Wale)",
+      "url": "https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3"
     }
   ],
   "unique_name": "Some Kinda Way",

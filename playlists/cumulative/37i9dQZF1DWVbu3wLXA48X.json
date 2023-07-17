@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Little Dragon",
+  "description": "Current indie tunes from Asia and around the world. Cover: grentperez",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -328,6 +328,24 @@
       "duration_ms": 241661,
       "name": "A day in the water",
       "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
+    },
+    {
+      "album": {
+        "name": "Supermodels",
+        "url": "https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165916,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
     },
     {
       "album": {
@@ -1643,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "Better (Edit)",
+        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Better - Edit",
+      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
+    },
+    {
+      "album": {
         "name": "Better in the Shade",
         "url": "https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG"
       },
@@ -1809,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Black Fins",
+        "url": "https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262727,
+      "name": "Black Fins",
+      "url": "https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN"
+    },
+    {
+      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
       },
@@ -1820,7 +1874,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 222656,
       "name": "Black Horse",
       "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
@@ -5025,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176869,
+      "name": "Eye On The Bat",
+      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+    },
+    {
+      "album": {
         "name": "Oldies & Goldies",
         "url": "https://open.spotify.com/album/0n4sAkLa48ycqcY8mpLfVt"
       },
@@ -5650,7 +5722,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 239910,
       "name": "Flimsier",
       "url": "https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI"
@@ -6036,7 +6108,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
@@ -7474,7 +7546,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 253240,
       "name": "Hollywood Bowl",
       "url": "https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz"
@@ -8894,7 +8966,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 237434,
       "name": "kisses",
       "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
@@ -10296,7 +10368,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 248135,
       "name": "Midwest",
       "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
@@ -11562,7 +11634,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 234480,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/0ieKIqWeTx3EA9v6I3eBHb"
@@ -12428,7 +12500,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 170595,
       "name": "PARA PARA",
       "url": "https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN"
@@ -13821,6 +13893,24 @@
     },
     {
       "album": {
+        "name": "whatever works",
+        "url": "https://open.spotify.com/album/63x6ehILu5223aljaHfeiK"
+      },
+      "artists": [
+        {
+          "name": "a kid named rufus",
+          "url": "https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208665,
+      "name": "running away from whatever you call paradise",
+      "url": "https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW"
+    },
+    {
+      "album": {
         "name": "Posture and Attitude",
         "url": "https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe"
       },
@@ -14272,7 +14362,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 174285,
       "name": "Seeking For Connection",
       "url": "https://open.spotify.com/track/02lOqWWFVJ03uEf80YDrrk"
@@ -15083,6 +15173,28 @@
     },
     {
       "album": {
+        "name": "Something Changed (Water From Your Eyes Interpolation)",
+        "url": "https://open.spotify.com/album/4HJm5HpEQ6Jg8KHvnsj2q3"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        },
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275352,
+      "name": "Something Changed - Water From Your Eyes Interpolation",
+      "url": "https://open.spotify.com/track/2rf3akXQqFEu41Ca3bJyNV"
+    },
+    {
+      "album": {
         "name": "The Night is Clear",
         "url": "https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm"
       },
@@ -15268,7 +15380,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 263571,
       "name": "Spitting Off the Edge of the World - Lush Version",
       "url": "https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3"
@@ -16187,6 +16299,24 @@
     },
     {
       "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "album": {
         "name": "Teenager",
         "url": "https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ"
       },
@@ -16906,6 +17036,24 @@
       "duration_ms": 189517,
       "name": "Thunder Fever",
       "url": "https://open.spotify.com/track/22uorZHWp6U89kCJugaqiR"
+    },
+    {
+      "album": {
+        "name": "Tied Up!",
+        "url": "https://open.spotify.com/album/4n3Z6bRWaewBbgKOjx8NZD"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Tied Up!",
+      "url": "https://open.spotify.com/track/37ZUrbtzezZPvuDPsbjWAd"
     },
     {
       "album": {
@@ -18377,6 +18525,28 @@
     },
     {
       "album": {
+        "name": "When We Were Younger (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234736,
+      "name": "When We Were Younger (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
+    },
+    {
+      "album": {
         "name": "Expert In A Dying Field",
         "url": "https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U"
       },
@@ -18780,6 +18950,24 @@
       "duration_ms": 171346,
       "name": "Won't You Stay",
       "url": "https://open.spotify.com/track/1bgchbkTDEsWjdzena7Ng2"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7LEdcUn6HppJWJ1CpAgeE9"
+      },
+      "artists": [
+        {
+          "name": "KHAi",
+          "url": "https://open.spotify.com/artist/3CrHBVFqfWQ329LbxGeyj1"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259642,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/6oYY9Y4OrcZQqk47DDcQCv"
     },
     {
       "album": {

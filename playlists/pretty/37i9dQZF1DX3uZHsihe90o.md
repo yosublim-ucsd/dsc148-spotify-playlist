@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,403 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,455 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 24 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 |
 | 25 | [Every Day is a Dance](https://open.spotify.com/track/0ToVKgF95Q5YB0nsc0FRg7) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 2:29 |
 | 26 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 |
-| 27 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
-| 28 | [Hello](https://open.spotify.com/track/4J3YXDyesmkN4q6Diy9qDV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/2kaRIwMtwtGJOvoOLPCrDo) | 2:37 |
+| 27 | [Hello](https://open.spotify.com/track/4J3YXDyesmkN4q6Diy9qDV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/2kaRIwMtwtGJOvoOLPCrDo) | 2:37 |
+| 28 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
 | 29 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 |
-| 30 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
+| 30 | [Honey Oh Be](https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [I Love You the Most](https://open.spotify.com/album/4K0SW8yURGgwbiRAoff90u) | 1:53 |
 | 31 | [The Bullfrog Opera](https://open.spotify.com/track/2sBt9lzwuND9cCKCjMUAOe) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:01 |
-| 32 | [Honey Oh Be](https://open.spotify.com/track/1ivFuOe2bsoWMF2XdvlAZ8) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [I Love You the Most](https://open.spotify.com/album/4K0SW8yURGgwbiRAoff90u) | 1:53 |
+| 32 | [Erie Canal](https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Rocket Ship Beach](https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ) | 2:40 |
 | 33 | [The Crawdad Song](https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:31 |
 | 34 | [In the Kitchen](https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:08 |
 | 35 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 45 | [Big Rock Candy Mountain](https://open.spotify.com/track/3xZ0xSnBXCCnhANkmbg4YT) | [Maggie Griffin](https://open.spotify.com/artist/5TWIJoMCdZwMwGfBu3itIi) | [Country for Kids Volume 1 : I Like Folk Songs](https://open.spotify.com/album/6DTys0pk985arZ3te1NsBM) | 1:25 |
 | 46 | [Glue](https://open.spotify.com/track/1OnQCrHqov2hDGd0WFh6VV) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Glue](https://open.spotify.com/album/0CrN2sQKKHa2IvNJybDCID) | 2:18 |
 | 47 | [Family Time](https://open.spotify.com/track/1GLfy1ihm081aOruK0uZU0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 4:20 |
-| 48 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
-| 49 | [Home on the Range](https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:35 |
+| 48 | [Home on the Range](https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c) | [Roy Rogers](https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM) | [Presenting Roy Rogers](https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm) | 2:35 |
+| 49 | [The Riddle Song](https://open.spotify.com/track/7MjYIqk3plWn2CHz9SFozd) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Songs for Little Pickers](https://open.spotify.com/album/0Eyu2WvgKzBzggj2PRumrc) | 2:41 |
 | 50 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 |
 | 51 | [My Country Tis of Thee](https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd) | 1:42 |
 | 52 | [The Farmer in the Dell](https://open.spotify.com/track/04obgfgMddJpPnv8xeEfgR) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [50 Great Nursery Rhymes](https://open.spotify.com/album/2wA20u6TpgFEzHdeUOa9L7) | 2:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uZHsihe90o.md) - [plain]
 | 69 | [Good Day](https://open.spotify.com/track/4JKmixZkyW8l3Ua6dFzS51) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez) | [Good Day](https://open.spotify.com/album/6XDLhJRyyQN3ZLfmex2J7o) | 3:19 |
 | 70 | [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 |
 
-Snapshot ID: `MCwyZGJlYmE1MjYxZGZmYTAxODNlNmZmMDQ0OTg0NGFlNGExODBmN2Y1`
+Snapshot ID: `MCw5YzMzYWMzODNhYmM1YWRiNTQxNDk4MGZhNjg3ZGViYmFhYzBmOTA4`

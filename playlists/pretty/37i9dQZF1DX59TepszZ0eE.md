@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz?si=9hLt7nr6SYiMzYnQrXbkgA">Lusanda Spiritual Group</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,195 likes - 82 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,348 likes - 82 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 81 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 |
 | 82 | [You Are \- Live](https://open.spotify.com/track/6Ez80l5EUlu2DrjsNdxLTo) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [You Are \(Live\)](https://open.spotify.com/album/7dw3lt5NxWooPoTPJBi1es) | 6:37 |
 
-Snapshot ID: `MCxjOTlkMTZlYTdhMmQ4Mzg4NDNiMWFjYTkwODg3OWYwMTcwMzhkZTQx`
+Snapshot ID: `MCw4ZWU1NDRiNmZjOTZlNTVmZjJhYzY3OWYyYTUyOTFiNWVjMDJkYTFh`

@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 299286,
+  "num_followers": 299465,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjViNzcwODM2OTE2NTQ4ZjljNzJkMjQ1N2NhYzNlYTI0NzNlNzRj",
+  "snapshot_id": "MCw5MzQ2Y2Q3ZTBhNGRhOTZkNTg2OGNhYjk2MDE4ZGQzNDA4MTMyODY0",
   "tracks": [
     {
       "added_at": "2023-07-10 13:33:23",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-07-10 13:33:23",
       "album": {
-        "name": "Cerrando Puntos Suspensivos",
-        "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Kilombo",
-          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Sinmigo",
-      "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
-    },
-    {
-      "added_at": "2023-07-10 13:33:23",
-      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
+    },
+    {
+      "added_at": "2023-07-10 13:33:23",
+      "album": {
+        "name": "Cerrando Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Kilombo",
+          "url": "https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Sinmigo",
+      "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
     },
     {
       "added_at": "2023-07-10 13:33:23",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-07-10 13:33:23",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
-    },
-    {
-      "added_at": "2023-07-10 13:33:23",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2023-07-10 13:33:23",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2023-07-10 13:33:23",
+      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 170906,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
-    },
-    {
-      "added_at": "2023-07-10 13:33:23",
-      "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        }
-      ],
-      "duration_ms": 241937,
-      "name": "Un D\u00eda de Estos",
-      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2023-07-10 13:33:23",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2023-07-10 13:33:23",
       "album": {
-        "name": "B\u00e1sico",
-        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
       "artists": [
         {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
         }
       ],
-      "duration_ms": 237600,
-      "name": "Lucha de gigantes - Live",
-      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+      "duration_ms": 241937,
+      "name": "Un D\u00eda de Estos",
+      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2023-07-10 13:33:23",
@@ -1483,6 +1467,22 @@
       "duration_ms": 231706,
       "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
       "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
+    },
+    {
+      "added_at": "2023-07-10 13:33:23",
+      "album": {
+        "name": "B\u00e1sico",
+        "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Lucha de gigantes - Live",
+      "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
     },
     {
       "added_at": "2023-07-10 13:33:23",

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Melodic Cityscape](https://open.spotify.com/track/31oMMrmvdxq4B7WYyBIp5T) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [A Melodic Cityscape](https://open.spotify.com/album/3QWXYpilgJTImx4GDfb1cQ) | 2:05 | 2023-06-20 |  |
+| [A Melodic Cityscape](https://open.spotify.com/track/31oMMrmvdxq4B7WYyBIp5T) | [Wide Noises](https://open.spotify.com/artist/7eKxML2Je6bPrWXH80s8as) | [A Melodic Cityscape](https://open.spotify.com/album/3QWXYpilgJTImx4GDfb1cQ) | 2:05 | 2023-06-20 | 2023-07-17 |
 | [A Song of the Wild](https://open.spotify.com/track/3ta4hndWzkHWKJedkjhrFb) | [Outdoor Sound Makers](https://open.spotify.com/artist/1ZvH1asTCMDD0RgCUNOpVM) | [A Song of the Wild](https://open.spotify.com/album/1kuqYcePXJxsmzTZ7ODtkM) | 2:14 | 2023-06-20 |  |
 | [American Crow In Rain](https://open.spotify.com/track/4JoECPt0bCLkrwSuvo9mkH) | [TAIOWA](https://open.spotify.com/artist/1Ch86YPeCu9LppuzxgpMF6) | [Morning Rain](https://open.spotify.com/album/1Bx8g7l4OILWFLnkYb4fvF) | 3:08 | 2021-11-11 |  |
 | [Aves del bosque y lluvia](https://open.spotify.com/track/1spz2ba2kDuHL6HrPZC6Cn) | [Sonidos Del Bosques](https://open.spotify.com/artist/38vgVJont1qwYekn4nTaRZ) | [Ruido del bosque](https://open.spotify.com/album/5Ov50QwFnpulEHH0M7C8Js) | 2:30 | 2021-11-11 |  |
@@ -60,7 +60,7 @@
 | [Heavy Rain](https://open.spotify.com/track/2TELIKNRpPNkMSnuSq1XNj) | [The Rain Factory](https://open.spotify.com/artist/49vl57hBAlm48azTd4iCsN) | [Sleep Rain](https://open.spotify.com/album/17xuXcpMcRLHGbUb7AsUrs) | 3:30 | 2021-11-11 |  |
 | [Hummingbird Song](https://open.spotify.com/track/7r79M5K5fyQtCaHV42XyKa) | [Al Watts](https://open.spotify.com/artist/3rO74EVuCb94fxyCJk1aYx) | [Hummingbird Song](https://open.spotify.com/album/1fwsA7tNImY1FXpDgTxFFZ) | 2:38 | 2021-11-11 |  |
 | [In Harmony with the Rain](https://open.spotify.com/track/5KIFUG7h4FZGEDvAvLTbqX) | [Island Nature Sounds](https://open.spotify.com/artist/6uUdEOkdbmk16c33lfs9XI) | [Forest Rain](https://open.spotify.com/album/1Yo5Dg0KY1Ic4fDOPKYR6s) | 2:54 | 2021-11-11 |  |
-| [Intense Rain & Bird Chirping](https://open.spotify.com/track/4ASnUaTj0YzEdaSIlCt836) | [True World Sounds](https://open.spotify.com/artist/7mVD7jiuXi6IjoqUYheL4c) | [Intense Rain & Bird Chirping](https://open.spotify.com/album/7FAGDSgG6pyg9jGWtPdvo4) | 2:24 | 2021-11-11 | 2023-07-16 |
+| [Intense Rain & Bird Chirping](https://open.spotify.com/track/4ASnUaTj0YzEdaSIlCt836) | [True World Sounds](https://open.spotify.com/artist/7mVD7jiuXi6IjoqUYheL4c) | [Intense Rain & Bird Chirping](https://open.spotify.com/album/7FAGDSgG6pyg9jGWtPdvo4) | 2:24 | 2021-11-11 |  |
 | [Jungle Rain & Birds](https://open.spotify.com/track/6f1Xrs3WGd8UE8tGF3Gh20) | [Pure Nature Noises](https://open.spotify.com/artist/0rr1c1cUGaS1C9spij8eUr) | [Rainy Forest & Bird Sounds](https://open.spotify.com/album/0VZMstdc1LIkO6P3VHj1Mg) | 2:13 | 2021-11-11 |  |
 | [Jungle Wasteland](https://open.spotify.com/track/5uXeQrLdjkB1Uqb0Or1lem) | [Talia Jones](https://open.spotify.com/artist/3UVCy86aCGcOjbofqiVA2b) | [Raindrops Of Birds](https://open.spotify.com/album/1Kquvvc71ZmmOzEGIuyNsQ) | 2:24 | 2021-11-11 |  |
 | [Light Rain](https://open.spotify.com/track/7tNdcQPVXvHKDywFLDlOfa) | [Mell Green](https://open.spotify.com/artist/0mDIlJmQo8555BMKf6V7GJ) | [Light Rain](https://open.spotify.com/album/33fiUxCaehMkxrxeTKdZ2x) | 2:26 | 2021-11-11 |  |

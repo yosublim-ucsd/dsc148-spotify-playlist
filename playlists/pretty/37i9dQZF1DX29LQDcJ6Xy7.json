@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 287180,
+  "num_followers": 287288,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzVlMTQ2OGFjMjU3NmM5YTQwNTI4Yjk3MjQxMmI4NGQxOWQyY2Rl",
+  "snapshot_id": "MCxjODI1YTkyYmFkZGIxOTU0MzJhMTg5ZTVhNWNlOWRkZTllYjYyMzI5",
   "tracks": [
     {
       "added_at": "2023-07-14 02:37:32",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "Emigrate",
-        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
-      },
-      "artists": [
-        {
-          "name": "Emigrate",
-          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
-        }
-      ],
-      "duration_ms": 257493,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Killing Joke",
         "url": "https://open.spotify.com/album/16MILExMR5RIvzTIII2YnH"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 415160,
       "name": "The Death & Resurrection Show",
       "url": "https://open.spotify.com/track/1YhZbKOU47hnRb2q8LOHKH"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "Emigrate",
+        "url": "https://open.spotify.com/album/6F84H4YaytAQkJk6cvP0ri"
+      },
+      "artists": [
+        {
+          "name": "Emigrate",
+          "url": "https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1"
+        }
+      ],
+      "duration_ms": 257493,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3GwzYHGrRn7wMfRtvbjg2U"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
+        "name": "Industrial Machine Musick",
+        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
+      },
+      "artists": [
+        {
+          "name": "Die Krupps",
+          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "To The Hilt",
+      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 344918,
       "name": "Hatred Will Prevail - Monolith Remix",
       "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
-        "name": "Industrial Machine Musick",
-        "url": "https://open.spotify.com/album/6XQU3XSwp8ZUHaFkBa4daf"
-      },
-      "artists": [
-        {
-          "name": "Die Krupps",
-          "url": "https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "To The Hilt",
-      "url": "https://open.spotify.com/track/5H8EzvO3WV2jtoYrowmwVd"
     },
     {
       "added_at": "2023-07-14 02:37:32",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-14 02:37:32",
       "album": {
-        "name": "FullBlackHabit",
-        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
-      },
-      "artists": [
-        {
-          "name": "16Volt",
-          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Suffering You",
-      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
-    },
-    {
-      "added_at": "2023-07-14 02:37:32",
-      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 380885,
       "name": "My Disintegration",
       "url": "https://open.spotify.com/track/3oCfEnZRME0pGNUyzzhkeM"
+    },
+    {
+      "added_at": "2023-07-14 02:37:32",
+      "album": {
+        "name": "FullBlackHabit",
+        "url": "https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9"
+      },
+      "artists": [
+        {
+          "name": "16Volt",
+          "url": "https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Suffering You",
+      "url": "https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH"
     },
     {
       "added_at": "2023-07-14 02:37:32",

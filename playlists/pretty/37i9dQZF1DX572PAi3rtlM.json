@@ -1,29 +1,13 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 31866,
+  "num_followers": 31937,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWZjMDYwYTg5YzA1ODgxYmIzMzQ4OWFiZDRmNWYzOTEyNTZiMzQx",
+  "snapshot_id": "MCw1YWNhYTk2NTM3MjM2ODI2ZWNlZjc0MTczNTA5ZTczNDdlNDkzNTk4",
   "tracks": [
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
-        "name": "Walk Dance Talk Sing",
-        "url": "https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 305649,
-      "name": "Like A Fool",
-      "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
-    },
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 215000,
       "name": "Feel Like Makin' Love (feat. Roberta Flack)",
       "url": "https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
+        "name": "Walk Dance Talk Sing",
+        "url": "https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 305649,
+      "name": "Like A Fool",
+      "url": "https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
+        "name": "Let's Break It Down",
+        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Let's Break It Down",
+      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
         "name": "Graceland - The Remixes",
         "url": "https://open.spotify.com/album/34ORSj2qrkkwUUwQJMcV1d"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 135865,
       "name": "The Spirit",
       "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
-        "name": "Let's Break It Down",
-        "url": "https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Let's Break It Down",
-      "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
-        "name": "Mandar All Day 001",
-        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
-      },
-      "artists": [
-        {
-          "name": "Leo Pol",
-          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
-        }
-      ],
-      "duration_ms": 278110,
-      "name": "Chantal",
-      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
-    },
-    {
-      "added_at": "2023-07-14 16:00:00",
-      "album": {
         "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
         "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
-        "name": "Mars 500",
-        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
+        "name": "Mandar All Day 001",
+        "url": "https://open.spotify.com/album/126odPOxNrKJyRPNjVeFFk"
       },
       "artists": [
         {
-          "name": "CHLOE (Th\u00e9venin)",
-          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+          "name": "Leo Pol",
+          "url": "https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz"
         }
       ],
-      "duration_ms": 412257,
-      "name": "Mars 500",
-      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
+      "duration_ms": 278110,
+      "name": "Chantal",
+      "url": "https://open.spotify.com/track/1BQXo70tMkB3Fk0bSnFe5a"
     },
     {
       "added_at": "2023-07-14 16:00:00",
@@ -703,6 +687,22 @@
       "duration_ms": 380149,
       "name": "Morning Shift",
       "url": "https://open.spotify.com/track/3zleqNZf1vJabDXJKfAE9G"
+    },
+    {
+      "added_at": "2023-07-14 16:00:00",
+      "album": {
+        "name": "Mars 500",
+        "url": "https://open.spotify.com/album/1SpaFoMnBN9NSEQLLEOf56"
+      },
+      "artists": [
+        {
+          "name": "CHLOE (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        }
+      ],
+      "duration_ms": 412257,
+      "name": "Mars 500",
+      "url": "https://open.spotify.com/track/1W3qMFgSzMHyqkefFr9MuM"
     },
     {
       "added_at": "2023-07-14 16:00:00",

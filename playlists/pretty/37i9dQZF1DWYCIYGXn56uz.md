@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: wax
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,682 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,712 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Non Piove Più](https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non Piove Più](https://open.spotify.com/album/4z92PMJqC8PYduMcJu0Os3) | 3:10 |
 | 55 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCwzZWUyNTM0ZmZjMDJhYjY1N2IwYTY4ODNmYWJlM2Y1OTJiNGFiOTE2`
+Snapshot ID: `MCxjZWQwOGVkZGQxYjkzZWZjZjRjNzI3OTMzNzQ1OTVhMDI5NWM3ZTc2`

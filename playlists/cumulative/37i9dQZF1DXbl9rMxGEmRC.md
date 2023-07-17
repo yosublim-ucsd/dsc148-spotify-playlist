@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-443 songs - 1 day 14 hr 4 min
+444 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Exalted Traitors](https://open.spotify.com/track/4CBJvSuoaeetDRZ72G4HjH) | [AMONGST THE ASHES](https://open.spotify.com/artist/7zqcHo6jbneyrYZkp7fgBJ) | [Exalted Traitors](https://open.spotify.com/album/4Q8o683g7mYbEeJzcaqcQ5) | 5:09 | 2022-05-13 | 2022-07-14 |
 | [Existence of Awe](https://open.spotify.com/track/5kICTvuUW9hrDpEktp78fL) | [Downfall Of Gaia](https://open.spotify.com/artist/2ZBAmlpAv7mVb9ZqUuHLSg) | [Existence of Awe](https://open.spotify.com/album/2tcsisxp6rKvWppxliNwp1) | 5:30 | 2023-02-23 | 2023-03-29 |
 | [Faces From Beyond](https://open.spotify.com/track/5pMGhbV6EDt9kxxzGZm086) | [Atrocity](https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX) | [Faces From Beyond](https://open.spotify.com/album/07tI8UIDXurBgET99kFZmk) | 5:02 | 2022-12-02 | 2023-01-27 |
+| [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-14 |  |
 | [Fall of the Loyal Warrior](https://open.spotify.com/track/2VzjmWhX01y3E2hsV732x6) | [Asinhell](https://open.spotify.com/artist/0LDCMz2as9KQgSlX3KJNYx) | [Fall of the Loyal Warrior](https://open.spotify.com/album/0TdZV5R3wsfN1VkhhU3Jxm) | 4:01 | 2023-07-03 |  |
 | [Fandens Trall](https://open.spotify.com/track/03UIzw1IUBXjTEOqx3oh1f) | [Kampfar](https://open.spotify.com/artist/35nZyw3d7OIbhGeqBEPIYQ) | [Fandens Trall](https://open.spotify.com/album/5qTYxrGgEKprOaz4js9b0m) | 5:24 | 2022-05-06 | 2022-07-28 |
 | [FANTASY](https://open.spotify.com/track/7AWdmCY0VJ2EB40OFQlJyN) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FANTASY](https://open.spotify.com/album/37QrhJ98DzJnbc9FKdffBn) | 2:10 | 2022-04-08 | 2022-04-15 |
@@ -261,7 +262,7 @@
 | [Mournful Glow](https://open.spotify.com/track/4dWlYMm90NXNyRBe8duLXv) | [Mithridatum](https://open.spotify.com/artist/2ukVC6m4tSCgaCXqWuEwNQ) | [Harrowing](https://open.spotify.com/album/4u6tkLpzgHn5IBJRRHL0XB) | 7:48 | 2023-02-23 | 2023-04-01 |
 | [Mourning Palace](https://open.spotify.com/track/4UNTWZ8xNGgHOWXixIt5UP) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/6EZbLDXHjeW5LHGmEqChmQ) | 5:10 | 2022-07-13 | 2022-07-29 |
 | [Mourning Palace](https://open.spotify.com/track/2t0DnOIEpkbJqDc6h1IKnw) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Enthrone Darkness Triumphant](https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9) | 5:13 | 2022-07-13 |  |
-| [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 |  |
+| [My Darkest Years](https://open.spotify.com/track/2iyYwiQrbo6aYnGjzaf1J3) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [My Darkest Years](https://open.spotify.com/album/1zoIzsHNfakAikbXHIMpMD) | 4:56 | 2023-02-10 | 2023-07-17 |
 | [Myr](https://open.spotify.com/track/45zV1C4nVWMRz7yLcQ5Rmo) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Noregs Vaapen](https://open.spotify.com/album/2FgD3CoDJYPtEKbtKY5e6Y) | 5:33 | 2022-07-13 | 2022-07-29 |
 | [Mysterium Tremendum](https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX) | [Hideous Divinity](https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH) | [Mysterium Tremendum](https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4) | 4:38 | 2023-03-10 | 2023-04-30 |
 | [Nauseating Oblivion](https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Nauseating Oblivion](https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a) | 3:15 | 2021-12-17 | 2022-07-29 |

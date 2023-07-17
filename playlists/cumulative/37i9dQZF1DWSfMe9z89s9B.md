@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Jamila Woods
 
-894 songs - 2 day 0 hr 20 min
+895 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Gold \(feat\. Sampa the Great & 18YOMAN\)](https://open.spotify.com/track/4qMjKHonb3kzSgPEDFnYiH) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [18YOMAN](https://open.spotify.com/artist/1kkusjDKjb6nnVqRkc27sO) | [Gold \(feat\. Sampa the Great & 18YOMAN\)](https://open.spotify.com/album/1i5sOU9cquAvVK2ODcOX4S) | 3:12 | 2021-06-25 | 2022-01-23 |
 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 | 2021-04-02 | 2023-03-04 |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-03-19 | 2022-04-26 |
+| [Gone \(Abebe Bikila\)](https://open.spotify.com/track/7FAudIc6pJYU91ELpQ655R) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Gone \(Abebe Bikila\)](https://open.spotify.com/album/18nylQsLYIMdHvNXgfPVuO) | 2:19 | 2023-07-14 |  |
 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 | 2022-12-09 | 2023-02-11 |
 | [Gonna Go](https://open.spotify.com/track/4PZXDDm2BVEccltAEGHuJp) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Gonna Go](https://open.spotify.com/album/5v2xkxpLUFXjOkFBS5uHjv) | 2:57 | 2023-02-17 | 2023-04-15 |
 | [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 | 2023-01-13 | 2023-06-09 |
@@ -673,7 +674,7 @@
 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 | 2022-05-20 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2022-11-11 |  |
 | [Send My Love](https://open.spotify.com/track/7C9Az8GQN1KC8UB3SVh2qr) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Send My Love](https://open.spotify.com/album/4gmsZ9xHzrC5Xxto8DjySB) | 4:04 | 2022-04-01 | 2022-04-14 |
-| [Sent from Above](https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 3:07 | 2022-12-09 |  |
+| [Sent from Above](https://open.spotify.com/track/5dVS5WKUYJnNk3iAj7nsLU) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 3:07 | 2022-12-09 | 2023-07-17 |
 | [Set Me Free](https://open.spotify.com/track/3nIxjTk1iIhNL6XYd7xU7x) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Set Me Free](https://open.spotify.com/album/4r80mwTXQjLnmiWty5ehNk) | 2:54 | 2022-12-02 | 2023-02-11 |
 | [Seventeen](https://open.spotify.com/track/3YwkASwnUSlrB4H6kPveVl) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [You Made A Big Mistake](https://open.spotify.com/album/3qaYBPGN5AdXS5nt0gPraS) | 3:10 | 2023-06-09 | 2023-06-17 |
 | [Shadows](https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Shadows](https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0) | 4:45 | 2022-04-01 | 2022-04-09 |

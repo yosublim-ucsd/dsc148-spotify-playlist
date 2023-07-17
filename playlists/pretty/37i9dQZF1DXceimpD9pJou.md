@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2?si=93ae8b53b30d4411">Townix</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,557 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,625 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [BENDICIÓN](https://open.spotify.com/track/2mv7rOWiRIyldLUjOM9sJb) | [WHATUPRG](https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7) | [BENDICIÓN](https://open.spotify.com/album/4hqN9VZTRLvp2vGgDV3cg3) | 1:49 |
 | 100 | [Lo Que Quieras Tú](https://open.spotify.com/track/5CGwzttKeu4ztcvN4UDjqY) | [La Feria Oficial](https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Lo Que Quieras Tú](https://open.spotify.com/album/6YG4Tk5T6PSxquhvtahCNw) | 3:01 |
 
-Snapshot ID: `MCwxYWJhN2NhY2RiZGZhMzZjZmY3ZjNiYjQyOGQ1ZjFhYmZjNDgzODkw`
+Snapshot ID: `MCxlYjgxMzQ1Zjg3ODY1YTY5YTc1MDcxZTJkMmE1YjQ1ZjI4MGE3ODky`

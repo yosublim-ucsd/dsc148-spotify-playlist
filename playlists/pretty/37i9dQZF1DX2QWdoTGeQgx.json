@@ -1,12 +1,12 @@
 {
   "description": "Chill out. ",
-  "num_followers": 46344,
+  "num_followers": 46361,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWZiNDc1NDAxNDkxYmQwNDM5MmIzMGMxYjliZWQyNjg1NDE4ZjJj",
+  "snapshot_id": "MCxmMTUzYzdlMzBiYmVkMWMxMTkxYzBlNjlmMDMzZDExN2RjNDRiODQx",
   "tracks": [
     {
       "added_at": "2023-04-20 15:55:01",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "Shortcut To Heaven",
         "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 184343,
       "name": "Shortcut To Heaven",
       "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
+        "name": "van gogh",
+        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 173540,
+      "name": "van gogh",
+      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "move",
         "url": "https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "van gogh",
-        "url": "https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi"
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
         }
       ],
-      "duration_ms": 173540,
-      "name": "van gogh",
-      "url": "https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7"
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "my only",
-        "url": "https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu"
-      },
-      "artists": [
-        {
-          "name": "yedira",
-          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
-        },
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
-        }
-      ],
-      "duration_ms": 173841,
-      "name": "my only",
-      "url": "https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "It's You (feat. Kaleb J)",
         "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 269712,
       "name": "It's You (feat. Kaleb J)",
       "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "my only",
+        "url": "https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        }
+      ],
+      "duration_ms": 173841,
+      "name": "my only",
+      "url": "https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 230060,
-      "name": "A Day That Feels Better",
-      "url": "https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "oh to be in love",
         "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 222167,
       "name": "Bad Haircut (feat. JVKE)",
       "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 230060,
+      "name": "A Day That Feels Better",
+      "url": "https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD"
     },
     {
       "added_at": "2023-04-20 15:55:01",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-04-20 15:55:01",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
-      },
-      "artists": [
-        {
-          "name": "JAIE",
-          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
-        },
-        {
-          "name": "NYK",
-          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
-    },
-    {
-      "added_at": "2023-04-20 15:55:01",
-      "album": {
         "name": "bad together",
         "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 170909,
       "name": "bad together",
       "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
+    },
+    {
+      "added_at": "2023-04-20 15:55:01",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/5NiFZPXmZQOndW22qF6QP4"
+      },
+      "artists": [
+        {
+          "name": "JAIE",
+          "url": "https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds"
+        },
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2fVCdsocTsk2pK523chtmt"
     },
     {
       "added_at": "2023-04-20 15:55:01",

@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 41814,
+  "num_followers": 41861,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDgwNWQ0MDQ5MmNkZGI3NTczMjI0MTQ5YjlmY2FlNzA0ODJmNGQ5",
+  "snapshot_id": "MCw5NzYzNTBmMTg0YzVjMmM3OWE0ZTlhODk4MGFmMmVkNDI4MDJjNTI1",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 192306,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 194666,
       "name": "Estoy Enamorado de Ti",
       "url": "https://open.spotify.com/track/6RxC3waOdRWE7GbNEuZ2Qa"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192306,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/09z65EpYqmylHKjwRG6aEa"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 1",
-        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Un Gato en la Oscuridad - Un Gato en Blu",
-      "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 183866,
       "name": "Lucia",
       "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Pra Sempre Em Espanhol - Vol. 1",
+        "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Un Gato en la Oscuridad - Un Gato en Blu",
+      "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
-      },
-      "artists": [
-        {
-          "name": "Basilio",
-          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Cisne Cuello Negro",
-      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 231146,
       "name": "Paloma Negra",
       "url": "https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/2wbgFbyfAty8Wgt7aUzMO7"
+      },
+      "artists": [
+        {
+          "name": "Basilio",
+          "url": "https://open.spotify.com/artist/6h8tckbGautdVT00tAzTNX"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Cisne Cuello Negro",
+      "url": "https://open.spotify.com/track/5YjxeOP6VKBnSvQYcPjDDj"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Grandes Rom\u00e1nticas, Vol. 1",
-        "url": "https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO"
-      },
-      "artists": [
-        {
-          "name": "Jeanette",
-          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "\u00bfPor Qu\u00e9 Te Vas?",
-      "url": "https://open.spotify.com/track/4t2B8FYH9KkQ16Zw0JQinj"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 207453,
       "name": "Por un Amor",
       "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Grandes Rom\u00e1nticas, Vol. 1",
+        "url": "https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO"
+      },
+      "artists": [
+        {
+          "name": "Jeanette",
+          "url": "https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "\u00bfPor Qu\u00e9 Te Vas?",
+      "url": "https://open.spotify.com/track/4t2B8FYH9KkQ16Zw0JQinj"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
         "name": "La Mas Completa Coleccion",
         "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "Reina de la Canci\u00f3n Latina",
-        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Busamba",
-      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "15 Grandes Exitos Vol. I - A Peticion Del Publico",
         "url": "https://open.spotify.com/album/3gg0VgB89SEzsLefAstENY"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 206666,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/0ecVvDcJjKSDjLqsfXcjfR"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
+      },
+      "artists": [
+        {
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Busamba",
+      "url": "https://open.spotify.com/track/4nML9FWK97HBdm03T7lfWa"
     },
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1139,22 +1155,6 @@
       "duration_ms": 435640,
       "name": "Anacaona - Live",
       "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
-        "name": "Joyas Rancheras Al Estilo",
-        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/0wbx33SdWGqHdO24CjHlWf"
     },
     {
       "added_at": "2023-02-17 20:59:31",

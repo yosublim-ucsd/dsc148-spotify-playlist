@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 
 > Get your bassface on with these classic Dubstep tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,187 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,319 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 14 | [Bass Cannon](https://open.spotify.com/track/4u3a1nylBxY8siO7Os4t22) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Bass Cannon](https://open.spotify.com/album/2cmBRFSeVDZVTSPyQG9AoF) | 5:09 |
 | 15 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 |
 | 16 | [In For The Kill \- Skream's Let's Get Ravey Remix](https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [La Roux \(Gold Edition\)](https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA) | 5:01 |
-| 17 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 |
+| 17 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 |
 | 18 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 |
 | 19 | [Centipede](https://open.spotify.com/track/0u2AIKDVafHwCFQ9LDnqxH) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [Rage Valley](https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X) | 4:06 |
 | 20 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 |
-| 21 | [Still Getting It](https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo) | [Foreign Beggars](https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Harder They Fall EP](https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6) | 4:00 |
+| 21 | [Smack My Bitch Up \- Noisia Remix](https://open.spotify.com/track/5NlW1Be0WYIOFp1gx1b7Kf) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/3knGLri9I3X3oO24mDNdkG) | 5:53 |
 | 22 | [Perfect Stranger \(feat\. Magnetic Man\)](https://open.spotify.com/track/6ZqBQWfrmYqk5F9yi9S36O) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Magnetic Man](https://open.spotify.com/artist/40ttEBZPhAHbXH6aUg4GkL) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:13 |
 | 23 | [Eastern Jam](https://open.spotify.com/track/4WygV70LzaCA8FgOcpN1w4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:56 |
 | 24 | [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4arVIN5Cg4U.md) - [plain]
 | 36 | [Where's My Money \- Caspa Remix](https://open.spotify.com/track/3p3LVZ7hDnIaiIMVXpBOp1) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Where's My Money \(Caspa Remix\) / Tron](https://open.spotify.com/album/0og95zcha0fmiJCMgTfjAV) | 4:58 |
 | 37 | [Decisions](https://open.spotify.com/track/2E3wYUlW72BCDsGn5YNgCC) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Decisions \- EP](https://open.spotify.com/album/6VjR9AEeFdSqpIjBkQieqR) | 3:13 |
 | 38 | [Japan \- Original Mix](https://open.spotify.com/track/7b4n7QwjEo69szisxNK4By) | [Plastician](https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC) | [Beg To Differ](https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT) | 4:08 |
-| 39 | [Slasherr](https://open.spotify.com/track/52SPa846gRMhjujh054UFr) | [Rustie](https://open.spotify.com/artist/6YGu0Rv2120wkc4AXZSGgl) | [Triadzz / Slasherr](https://open.spotify.com/album/1OKId2zwMoVaZzngQHVyyb) | 3:38 |
+| 39 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/4D1YzHNXLlBLlLlatzlyj0) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [O.M.G.!](https://open.spotify.com/album/07BD9T4zyqIl3bIbSrwgmw) | 4:27 |
 | 40 | [Hold Me](https://open.spotify.com/track/1tdDgdYqi3v9kCesCLb9GA) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Overkill / Hold Me](https://open.spotify.com/album/6EKQ1n9SIQnyi6VKZXU7Tl) | 5:36 |
 
-Snapshot ID: `MCwxZTc4YzIwOGRhYTM3ZDUxYzA4YzAxZWVjZDhlOThlM2Q3NGJjYTNh`
+Snapshot ID: `MCwyM2RjY2IyNGVkOTA3N2ZjOWYxZjI4ZTExZGVlMjNjM2E1MDNhMjc5`

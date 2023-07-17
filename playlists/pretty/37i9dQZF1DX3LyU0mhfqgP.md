@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MNEK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,891 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,759 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [1st bite](https://open.spotify.com/track/6wi608n3NbkEa9CAObGS49) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [i had this dream that you were my sister](https://open.spotify.com/album/18BLcbWC20YW2O3kRTxBwB) | 2:24 |
 | 50 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 |
 
-Snapshot ID: `MCxhZDFmZmMzOTIxOTVlNTFkYmI4Y2FlZjlhMmQ5MTg4NWUyNzM0NjM5`
+Snapshot ID: `MCxlZWIxNWIxM2Y5NmE0OWRiODU0OTA3OThhYjgxN2I0ZjJkOGNhNTcy`

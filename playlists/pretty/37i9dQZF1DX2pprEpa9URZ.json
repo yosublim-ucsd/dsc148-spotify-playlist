@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 724744,
+  "num_followers": 724835,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh",
+  "snapshot_id": "MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5",
   "tracks": [
     {
       "added_at": "2023-06-30 15:15:56",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Luv Machine",
         "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 371814,
       "name": "Luv Machine",
       "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -711,26 +711,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Nterini (Sparrow & Barbossa Remix)",
-        "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        },
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        }
-      ],
-      "duration_ms": 363765,
-      "name": "Nterini - Sparrow & Barbossa Remix",
-      "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "The Deep South",
         "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 383775,
       "name": "Pastorcita",
       "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Nterini (Sparrow & Barbossa Remix)",
+        "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "duration_ms": 363765,
+      "name": "Nterini - Sparrow & Barbossa Remix",
+      "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Ay vora",
         "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 273142,
       "name": "Ay vora",
       "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Kanasi",
         "url": "https://open.spotify.com/album/01lYRkmYe19HKCTPOcrIs1"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 387898,
       "name": "Kanasi",
       "url": "https://open.spotify.com/track/01Fg7rZ2Zlitgplt3TCjQH"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "15 Years of Akbal Music, Pt. 2",
-        "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
-      },
-      "artists": [
-        {
-          "name": "Niko Schwind",
-          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
-        },
-        {
-          "name": "Robbie Akbal",
-          "url": "https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H"
-        },
-        {
-          "name": "Ay Sarita",
-          "url": "https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS"
-        }
-      ],
-      "duration_ms": 464237,
-      "name": "Caminando de Noche",
-      "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
@@ -1303,6 +1279,22 @@
       "duration_ms": 401815,
       "name": "Wawanko",
       "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1327,6 +1319,30 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "15 Years of Akbal Music, Pt. 2",
+        "url": "https://open.spotify.com/album/1y2JST2SwbJcG2MCrxvwlT"
+      },
+      "artists": [
+        {
+          "name": "Niko Schwind",
+          "url": "https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM"
+        },
+        {
+          "name": "Robbie Akbal",
+          "url": "https://open.spotify.com/artist/3LvGzX9zs4GCx44NhOWN1H"
+        },
+        {
+          "name": "Ay Sarita",
+          "url": "https://open.spotify.com/artist/5HifrXbZ6BSp7ATd2S8OxS"
+        }
+      ],
+      "duration_ms": 464237,
+      "name": "Caminando de Noche",
+      "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Jendayi EP",
         "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 391511,
       "name": "Jendayi",
       "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Ramirez",
-        "url": "https://open.spotify.com/album/32QAMGdVrsSzRAKmlwSVac"
+        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
+        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
       "artists": [
         {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        },
+        {
+          "name": "Everything Counts",
+          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Ramirez",
-      "url": "https://open.spotify.com/track/0Wo0PUu0ALT89TWL2kTQzn"
+      "duration_ms": 451375,
+      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
+      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
     }
   ],
   "unique_name": "Org\u00e1nica",

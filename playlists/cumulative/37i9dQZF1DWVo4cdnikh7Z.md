@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : LEO
 
-765 songs - 1 day 23 hr 25 min
+766 songs - 1 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Adheeraa](https://open.spotify.com/track/5SXwKl2nWY1No4wZ0FJDHN) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Cobra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QlbnAP1xU0GMwpjchHLA3) | 4:19 | 2022-07-12 | 2023-01-11 |
 | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/track/4381FmKZc1uT2zzhBiknH7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vagu Mazan](https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV), [Thoughtsfornow](https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG) | [Adheeraa \(From "Cobra"\)](https://open.spotify.com/album/61DkChDkz3MoWGypHYVdCP) | 4:19 | 2022-04-22 | 2022-07-13 |
 | [Adhiradi Mass \(From "Tamil Rockerz"\)](https://open.spotify.com/track/1vqj8P48H4Abfat97wlHm7) | [Vikas Badisa](https://open.spotify.com/artist/0qAOzzMkqTFgv6sZtBAzQf), [Hyde Karty](https://open.spotify.com/artist/5diOq1Qfzspw7pN99vd8bH) | [Adhiradi Mass \(From "Tamil Rockerz"\)](https://open.spotify.com/album/2VvIoS8glbZfKXMwZ8wfts) | 1:42 | 2022-08-23 | 2022-09-09 |
+| [Adhirudha \- From "Mark Antony"](https://open.spotify.com/track/4u7dTTr6SApQiy7eBWARZI) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Adhirudha \(From "Mark Antony"\)](https://open.spotify.com/album/7zJ5qxeFanSZgXeZoD820s) | 4:00 | 2023-07-16 |  |
 | [Adi Kalli Kadey](https://open.spotify.com/track/5fFRgxD8ndZBwDKYp3nRz2) | [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [G\. V\. Prakash Kumar](https://open.spotify.com/artist/5a9VcQbsQIQBaIrkCoTsTn), [Thanikodi](https://open.spotify.com/artist/5bJJsAANXfaeZwznMlQSko) | [Kathar Basha Endra Muthuramalingam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/409xlLSh3I9M80WrNnMswA) | 2:01 | 2023-05-25 | 2023-07-04 |
 | [Adi Kattazhagu Karuvaachi \- From "Kalvan"](https://open.spotify.com/track/0E00EuJ1GOMPiRQ7CJiuet) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Maya Mahalingam](https://open.spotify.com/artist/3ZRvRF3pX8jt0mCMA9YLMg), [Ekadesi](https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c) | [Adi Kattazhagu Karuvaachi \(From "Kalvan"\)](https://open.spotify.com/album/4s2oSXBhlQxlg7XZBiYYT3) | 3:28 | 2023-03-06 | 2023-07-04 |
 | [Adikira Pondaati \(From "Glassmates"\)](https://open.spotify.com/track/1Ju3Mz3nKAYKXkqwRdDYrb) | [Prithivy](https://open.spotify.com/artist/4GveDaKZ4DWn1iswEDuIHP), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [V.M\. Mahalingam](https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u) | [Adikira Pondaati \(From "Glassmates"\)](https://open.spotify.com/album/7LobAgxYcPB9ZwVvTj9hV6) | 3:24 | 2023-07-06 | 2023-07-08 |

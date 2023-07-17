@@ -1,12 +1,12 @@
 {
   "description": "-8 LUFS if you can. Ft. mykel online",
-  "num_followers": 21360,
+  "num_followers": 21430,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDlkNTcyMGFmMzlhNDdkODU1NmE4NzNlYTlmODRlYzI5MTZkZTMy",
+  "snapshot_id": "MCwwNDM0ZDNmNTVlOWY1NTAxOTFjOTFlZmE2MmU3MmMxMDBjMzVhNGQw",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/54jXnRNyDwbxJyGXiYUJDv"
-      },
-      "artists": [
-        {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
-        },
-        {
-          "name": "reefuh",
-          "url": "https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn"
-        }
-      ],
-      "duration_ms": 142290,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "talk2nice",
         "url": "https://open.spotify.com/album/1EgHKi9fTehaUCLffBMyfw"
       },
@@ -609,20 +589,24 @@
       "url": "https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "update failed",
-        "url": "https://open.spotify.com/album/3Ga4jF853bRTfUMjKq7QjW"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/54jXnRNyDwbxJyGXiYUJDv"
       },
       "artists": [
         {
-          "name": "heylog",
-          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        },
+        {
+          "name": "reefuh",
+          "url": "https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn"
         }
       ],
-      "duration_ms": 226736,
-      "name": "update failed",
-      "url": "https://open.spotify.com/track/0Fn5lBgRWCxZUM1NI5Qvp7"
+      "duration_ms": 142290,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/6VadjsKC8hvS4E6FQGUKIc"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -649,20 +633,20 @@
       "url": "https://open.spotify.com/track/0Uk24ctvr2GyVZ3aC3vGgA"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "draugr",
-        "url": "https://open.spotify.com/album/1qjHzeZTSh58Embu8NuSrf"
+        "name": "update failed",
+        "url": "https://open.spotify.com/album/3Ga4jF853bRTfUMjKq7QjW"
       },
       "artists": [
         {
-          "name": "Numl6ck",
-          "url": "https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx"
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
         }
       ],
-      "duration_ms": 117394,
-      "name": "draugr",
-      "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
+      "duration_ms": 226736,
+      "name": "update failed",
+      "url": "https://open.spotify.com/track/0Fn5lBgRWCxZUM1NI5Qvp7"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -681,6 +665,22 @@
       "url": "https://open.spotify.com/track/1OCSVSRG9udIgyZQGTnRgq"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "draugr",
+        "url": "https://open.spotify.com/album/1qjHzeZTSh58Embu8NuSrf"
+      },
+      "artists": [
+        {
+          "name": "Numl6ck",
+          "url": "https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx"
+        }
+      ],
+      "duration_ms": 117394,
+      "name": "draugr",
+      "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
+    },
+    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "battle",
@@ -695,22 +695,6 @@
       "duration_ms": 77300,
       "name": "battle",
       "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "repeat",
-        "url": "https://open.spotify.com/album/0Zryy6U8gekzpPwrciTF5f"
-      },
-      "artists": [
-        {
-          "name": "heylog",
-          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "repeat",
-      "url": "https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -743,6 +727,22 @@
       "duration_ms": 167272,
       "name": "HOLD",
       "url": "https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "repeat",
+        "url": "https://open.spotify.com/album/0Zryy6U8gekzpPwrciTF5f"
+      },
+      "artists": [
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "repeat",
+      "url": "https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -921,22 +921,6 @@
       "url": "https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS"
     },
     {
-      "added_at": "2023-05-19 12:36:59",
-      "album": {
-        "name": "i wna be like you",
-        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
-      },
-      "artists": [
-        {
-          "name": "kurffew",
-          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "i wna be like you",
-      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "fuzz",
@@ -951,6 +935,22 @@
       "duration_ms": 166266,
       "name": "fuzz",
       "url": "https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG"
+    },
+    {
+      "added_at": "2023-05-19 12:36:59",
+      "album": {
+        "name": "i wna be like you",
+        "url": "https://open.spotify.com/album/7cfBvGGjF74yPKTVNtpXLe"
+      },
+      "artists": [
+        {
+          "name": "kurffew",
+          "url": "https://open.spotify.com/artist/7rxyD0KDWwZ86aQNWfkJhz"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "i wna be like you",
+      "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
     },
     {
       "added_at": "2023-05-19 12:36:59",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Sierra Echo X-Ray",
+        "url": "https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        }
+      ],
+      "duration_ms": 132187,
+      "name": "Sierra Echo X-Ray",
+      "url": "https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG"
+    },
+    {
       "added_at": "2023-03-17 05:00:00",
       "album": {
         "name": "WISH I NEVER KNEW YOU",
@@ -1005,20 +1021,20 @@
       "url": "https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Sierra Echo X-Ray",
-        "url": "https://open.spotify.com/album/0qTRuR0gfRdiViqE7gk3QQ"
+        "name": "Disturb The Norm",
+        "url": "https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA"
       },
       "artists": [
         {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
         }
       ],
-      "duration_ms": 132187,
-      "name": "Sierra Echo X-Ray",
-      "url": "https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG"
+      "duration_ms": 123795,
+      "name": "Tantrum (Pace Yourself)",
+      "url": "https://open.spotify.com/track/4DKZwMaxlfZv4APVu0i8eM"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 185714,
       "name": "gnaw",
       "url": "https://open.spotify.com/track/2tDo8TqJfrQGwtUHxRXP7A"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Disturb The Norm",
-        "url": "https://open.spotify.com/album/578IaPD6aBApvHPtU3JKZA"
-      },
-      "artists": [
-        {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
-        }
-      ],
-      "duration_ms": 123795,
-      "name": "Tantrum (Pace Yourself)",
-      "url": "https://open.spotify.com/track/4DKZwMaxlfZv4APVu0i8eM"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1173,26 +1173,6 @@
       "url": "https://open.spotify.com/track/1ihqfU2ejlabQ1nV5XWcXj"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "TM2TB",
-        "url": "https://open.spotify.com/album/5DnpgZxfgasXEuoZQ6Hirv"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
-        }
-      ],
-      "duration_ms": 109090,
-      "name": "TM2TB",
-      "url": "https://open.spotify.com/track/5e5auPZ8BxQHdNKqu2FsWe"
-    },
-    {
       "added_at": "2023-05-19 12:36:59",
       "album": {
         "name": "Gossip Team",
@@ -1211,6 +1191,26 @@
       "duration_ms": 193000,
       "name": "newlyweds",
       "url": "https://open.spotify.com/track/0qxeW8peAWYm9iF6bvE7tq"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "TM2TB",
+        "url": "https://open.spotify.com/album/5DnpgZxfgasXEuoZQ6Hirv"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 109090,
+      "name": "TM2TB",
+      "url": "https://open.spotify.com/track/5e5auPZ8BxQHdNKqu2FsWe"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/44WqG6hr6gOyUkGtbHeKF5"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "post spring self destruction",
+        "url": "https://open.spotify.com/album/3CoriDOCAUysBZPAbghdXo"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "kill you",
+      "url": "https://open.spotify.com/track/2P6F5d9X6V1ArHg5DJoWVG"
+    },
+    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "LADY",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "post spring self destruction",
-        "url": "https://open.spotify.com/album/3CoriDOCAUysBZPAbghdXo"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "kill you",
-      "url": "https://open.spotify.com/track/2P6F5d9X6V1ArHg5DJoWVG"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "tapestry",
         "url": "https://open.spotify.com/album/2fMVVhslVVXLmEtbScbKQq"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "insides",
-        "url": "https://open.spotify.com/album/5i5EMKDhvD2WusDRiRQJu7"
-      },
-      "artists": [
-        {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "insides",
-      "url": "https://open.spotify.com/track/52dEwKfcbFB1d0Qxnm1RGY"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Nothin",
         "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 167112,
       "name": "Nothin",
       "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "insides",
+        "url": "https://open.spotify.com/album/5i5EMKDhvD2WusDRiRQJu7"
+      },
+      "artists": [
+        {
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "insides",
+      "url": "https://open.spotify.com/track/52dEwKfcbFB1d0Qxnm1RGY"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1377,20 +1377,24 @@
       "url": "https://open.spotify.com/track/5D0F0NUf3nhgAZPiVIdwRq"
     },
     {
-      "added_at": "2023-03-15 19:57:27",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "losemymind",
-        "url": "https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu"
+        "name": "Gossip Team",
+        "url": "https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM"
       },
       "artists": [
         {
-          "name": "4cf",
-          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
         }
       ],
-      "duration_ms": 147586,
-      "name": "losemymind",
-      "url": "https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs"
+      "duration_ms": 183414,
+      "name": "wow!",
+      "url": "https://open.spotify.com/track/5SF29ZGgnigCJvpzdIZkJU"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1413,24 +1417,20 @@
       "url": "https://open.spotify.com/track/0y3yMEAlP3S11L4oSuR3uq"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-03-15 19:57:27",
       "album": {
-        "name": "Gossip Team",
-        "url": "https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM"
+        "name": "the world is ending and i can't stop crying over these frog boots",
+        "url": "https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7"
       },
       "artists": [
         {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        },
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
         }
       ],
-      "duration_ms": 183414,
-      "name": "wow!",
-      "url": "https://open.spotify.com/track/5SF29ZGgnigCJvpzdIZkJU"
+      "duration_ms": 157674,
+      "name": "the world is ending and i can't stop crying over these frog boots",
+      "url": "https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1455,34 +1455,18 @@
     {
       "added_at": "2023-03-15 19:57:27",
       "album": {
-        "name": "the world is ending and i can't stop crying over these frog boots",
-        "url": "https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7"
+        "name": "losemymind",
+        "url": "https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu"
       },
       "artists": [
         {
-          "name": "Vaeo",
-          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+          "name": "4cf",
+          "url": "https://open.spotify.com/artist/5F8W0OumEjkf9TpqrzvnTL"
         }
       ],
-      "duration_ms": 157674,
-      "name": "the world is ending and i can't stop crying over these frog boots",
-      "url": "https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "bestfriends girl",
-        "url": "https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE"
-      },
-      "artists": [
-        {
-          "name": "adan diaz",
-          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
-        }
-      ],
-      "duration_ms": 151519,
-      "name": "bestfriends girl",
-      "url": "https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0"
+      "duration_ms": 147586,
+      "name": "losemymind",
+      "url": "https://open.spotify.com/track/3UCS6qOeXaVjtj2n7D5vZs"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -1499,6 +1483,22 @@
       "duration_ms": 114582,
       "name": "catherine never broke again",
       "url": "https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "bestfriends girl",
+        "url": "https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE"
+      },
+      "artists": [
+        {
+          "name": "adan diaz",
+          "url": "https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP"
+        }
+      ],
+      "duration_ms": 151519,
+      "name": "bestfriends girl",
+      "url": "https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1677,22 +1677,6 @@
       "url": "https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Fortune Cookie",
-        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 141782,
-      "name": "Vexed",
-      "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "No One But You",
@@ -1711,6 +1695,22 @@
       "duration_ms": 250168,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/7kiM75ze8pvLiutHPstEnO"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 141782,
+      "name": "Vexed",
+      "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
     },
     {
       "added_at": "2023-06-23 04:00:00",

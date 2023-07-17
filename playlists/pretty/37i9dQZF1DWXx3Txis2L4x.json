@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 577598,
+  "num_followers": 577819,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTFmYzU5NzdjMmZjMWY1ODY2NDg5NzQ4YTQyNGE3M2FmOWY3ZWE0",
+  "snapshot_id": "MCxlMDUwNzY0OTg2MmJjM2ZiYjE0MWZmYjViZjQ4OTI1ODA1NjlhNjgx",
   "tracks": [
     {
       "added_at": "2023-07-05 09:20:44",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "Good Morning Revival",
-        "url": "https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
-    },
-    {
-      "added_at": "2023-07-05 09:20:44",
-      "album": {
         "name": "Lullabies To Paralyze",
         "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 174026,
       "name": "Little Sister",
       "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+    },
+    {
+      "added_at": "2023-07-05 09:20:44",
+      "album": {
+        "name": "Good Morning Revival",
+        "url": "https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 195680,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
     },
     {
       "added_at": "2023-07-05 09:20:44",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "SUCKAPUNCH",
-        "url": "https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 225786,
-      "name": "Beautiful Way",
-      "url": "https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9"
-    },
-    {
-      "added_at": "2023-07-05 09:20:44",
-      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2023-07-05 09:20:44",
       "album": {
-        "name": "Figure Eight",
-        "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t"
       },
       "artists": [
         {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
         }
       ],
-      "duration_ms": 201556,
-      "name": "Figure Eight",
-      "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
+      "duration_ms": 225786,
+      "name": "Beautiful Way",
+      "url": "https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9"
     },
     {
       "added_at": "2023-07-05 09:20:44",
@@ -967,6 +951,22 @@
       "duration_ms": 213106,
       "name": "Genocide",
       "url": "https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX"
+    },
+    {
+      "added_at": "2023-07-05 09:20:44",
+      "album": {
+        "name": "Figure Eight",
+        "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "duration_ms": 201556,
+      "name": "Figure Eight",
+      "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
     },
     {
       "added_at": "2023-07-05 09:20:44",

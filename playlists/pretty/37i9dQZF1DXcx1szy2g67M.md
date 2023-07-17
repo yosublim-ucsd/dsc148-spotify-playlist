@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Zo klinkt de zomer van 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,453 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,032 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [Weekends](https://open.spotify.com/track/6Ds7oySA4gvkLMMrUxLidj) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:20 |
 | 100 | [Body Talk](https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [I](https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo) | 2:19 |
 
-Snapshot ID: `MCw4OTM1MjJhOTc4NmM3MWZjNWZjMTFhM2JlN2Y0ODEzNTdjMjRjZGRj`
+Snapshot ID: `MCw1OWY1MzQxNzgzNTc5Zjk4OTdiMGMxNjE0OTg4MmQyMTkyZTMxZjg3`

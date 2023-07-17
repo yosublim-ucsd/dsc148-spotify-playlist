@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 35724,
+  "num_followers": 35916,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTU2OGQyOTFiNWU3NTA3NDhiN2YzOGFjNTU5YTAwYjU5NGYwMmIz",
+  "snapshot_id": "MCxhMjBlOTE0MzQ3MGRmMmFhMWFlMWE0MDViZjM2NDlkODQ0OGZmNjVi",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
     },
     {
       "added_at": "2023-02-09 23:00:00",

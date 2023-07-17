@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/taylorrooks/">Taylor Rooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,162 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,163 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 39 | [Time For Me](https://open.spotify.com/track/6972gesJzavKyykRcriN0A) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:59 |
 | 40 | [CHERRY SORBET \(ft\. Sevyn Streeter\)](https://open.spotify.com/track/2uuGKdQMVCQIVrcLrybN7f) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [CHERRY SORBET \(ft\. Sevyn Streeter\)](https://open.spotify.com/album/3xRFXmzSh28yDeIlHVMruh) | 3:06 |
 
-Snapshot ID: `MCw3NGJlMDE0MTc4ZjJjOTYxMGE0Zjk2ZWEwNmZiZDUyNzk2N2I2Mzkx`
+Snapshot ID: `MCwxNmFhZTU0MGU2ZjUxYWY5M2UxZTQ0MjAyNzBkMWEwZjI5NzNjZjI2`

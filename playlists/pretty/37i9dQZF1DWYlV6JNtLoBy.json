@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1546,
+  "num_followers": 1574,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2UzMGI2MzYyYzJkZWNjMzNlZGQ3MGEwM2RiN2M5YTNkNDMwNjdi",
+  "snapshot_id": "MCw2ZjRkZGI3NDI1MzIyNDVjNTA2MjNjNDgyOGFmM2JjZTZjZmZlOTY0",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -761,20 +761,24 @@
       "url": "https://open.spotify.com/track/1Rjd4KCqOmUnrHtuorPgxD"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Mwema",
-        "url": "https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX"
+        "name": "Praise Him",
+        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
       },
       "artists": [
         {
-          "name": "Mercy Masika",
-          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
         }
       ],
-      "duration_ms": 232646,
-      "name": "Mwema",
-      "url": "https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy"
+      "duration_ms": 324808,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -795,6 +799,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Mwema",
+        "url": "https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX"
+      },
+      "artists": [
+        {
+          "name": "Mercy Masika",
+          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
+        }
+      ],
+      "duration_ms": 232646,
+      "name": "Mwema",
+      "url": "https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Nikumbushe Wema Wako",
         "url": "https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 439588,
       "name": "Nikumbushe Wema Wako",
       "url": "https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT"
-    },
-    {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Praise Him",
-        "url": "https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW"
-        }
-      ],
-      "duration_ms": 324808,
-      "name": "Praise Him",
-      "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
     },
     {
       "added_at": "2023-04-06 20:59:00",

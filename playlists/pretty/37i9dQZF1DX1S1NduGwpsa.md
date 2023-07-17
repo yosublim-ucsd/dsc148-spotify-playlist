@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Gabi Hartman
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,799 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,894 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 |
 | 50 | [Old Devil Moon](https://open.spotify.com/track/1U5TcgQFBoAei2b82uQCOe) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:19 |
 
-Snapshot ID: `MCw0MWQxMzZhZTZiYjc2YWNmYzlmYTAxNjI3MzM3MTJkYWFjZTMzMjcw`
+Snapshot ID: `MCxmNDExNWRiMmNhYjk5NzgwMDYyZmFjODA2MDVmMDI1NTg1ZTBiYzhl`

@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-245 songs - 14 hr 47 min
+246 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 | 2021-12-10 |  |
 | [Paradise](https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Paradise](https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s) | 4:10 | 2021-12-10 |  |
 | [Press Remix](https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Remix](https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM) | 3:40 | 2023-06-07 |  |
-| [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 | 2023-05-19 |  |
+| [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 | 2023-05-19 | 2023-07-17 |
 | [Press Rewind](https://open.spotify.com/track/2kudB8qSGMmUa5wjVZ7IeX) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Press Rewind](https://open.spotify.com/album/1MrH6gRBoOQ92EVboSgsiy) | 4:34 | 2021-12-10 | 2022-07-29 |
 | [Press Rewind](https://open.spotify.com/track/6dBaJ2qH6aPUpt3zMToSGq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/2DD5DNaMlATeJozoi2aWI9) | 4:34 | 2023-05-19 | 2023-06-12 |
 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 | 2022-07-06 |  |
@@ -199,6 +199,7 @@
 | [Some Say the Ocean](https://open.spotify.com/track/4HjlaIg0PufGB2nDlb8T4d) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK) | [Some Say the Ocean](https://open.spotify.com/album/6AQGebTVJIyQocK20zK6Fd) | 4:06 | 2023-04-17 |  |
 | [Something to Believe In](https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [One Lovely Day](https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax) | 3:41 | 2022-07-06 |  |
 | [Something To Believe In](https://open.spotify.com/track/0UHYr05v9I6rljiBfeZP1F) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Something To Believe In](https://open.spotify.com/album/0vZ52duMCADKJjjOPCA0QO) | 3:28 | 2021-12-10 | 2022-07-29 |
+| [Something To Believe In](https://open.spotify.com/track/7kMnqTDJm3aPibKgz46eLe) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 3:29 | 2023-05-19 |  |
 | [Song to the Sun](https://open.spotify.com/track/2OiyH3bmcaYd66ZxhOR1oP) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Pacific Vibration](https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4) | 3:49 | 2022-08-05 |  |
 | [Song to the Sun](https://open.spotify.com/track/5geotWRSYIMLZHSxGwWcvK) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Song to the Sun](https://open.spotify.com/album/0UOyi7zOftKlGMd8gDkj6m) | 3:49 | 2022-06-21 | 2022-09-15 |
 | [Sounds of Summer \(with Slightly Stoopid\)](https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Sounds Of Summer \(with Slightly Stoopid\)](https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm) | 3:41 | 2021-12-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Lauren Spencer Smith deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,831 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,847 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Forever Me](https://open.spotify.com/track/6APUqJb53AuWGcSapZGSDB) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [Forever Me](https://open.spotify.com/album/0wUbDWBAisWlhtiVGQE4KP) | 2:42 |
 | 100 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 |
 
-Snapshot ID: `MCwzNTcyNzIxYThmNGYzNTE1NWY0MDVlYzZhYzI1YTNjNGJjMmQ5MTBm`
+Snapshot ID: `MCxiMWE3MWI2MmRhMTE3NGJhYWZhNGUzOGExNDlkNjlmMWNjYjFlODll`

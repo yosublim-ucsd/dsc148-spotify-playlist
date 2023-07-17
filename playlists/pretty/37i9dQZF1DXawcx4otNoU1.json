@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 494681,
+  "num_followers": 494835,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzllMTY2NDdiYjQ1Yzg4YWQ2MTFhYTc3YWIxYThlNGQ3ZGMyZDM5",
+  "snapshot_id": "MCw4YjlkMThjOWZlNDYxNTRmODEzNjhhNDQ4MWEwZjFlYWU2Y2EzNWY3",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Can You Take It",
-        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
-      },
-      "artists": [
-        {
-          "name": "A\u00e1yanna",
-          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
-        }
-      ],
-      "duration_ms": 181783,
-      "name": "Can You Take It",
-      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 141757,
       "name": "Honey (with Muni Long)",
       "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Can You Take It",
+        "url": "https://open.spotify.com/album/1yytMQgi7xHVil98HEX1FG"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        }
+      ],
+      "duration_ms": 181783,
+      "name": "Can You Take It",
+      "url": "https://open.spotify.com/track/0sUY0DLOrt3pNWCkvotmYS"
     },
     {
       "added_at": "2023-04-21 11:59:42",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Put D'Angelo On",
-        "url": "https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s"
-      },
-      "artists": [
-        {
-          "name": "Bailey Wiley",
-          "url": "https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO"
-        },
-        {
-          "name": "Noah Slee",
-          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
-        }
-      ],
-      "duration_ms": 187438,
-      "name": "Put D'Angelo On",
-      "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Animals",
         "url": "https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1"
       },
@@ -2487,6 +2467,26 @@
       "duration_ms": 236478,
       "name": "Song For A Friend",
       "url": "https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Put D'Angelo On",
+        "url": "https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s"
+      },
+      "artists": [
+        {
+          "name": "Bailey Wiley",
+          "url": "https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        }
+      ],
+      "duration_ms": 187438,
+      "name": "Put D'Angelo On",
+      "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
     },
     {
       "added_at": "2023-02-10 11:00:00",

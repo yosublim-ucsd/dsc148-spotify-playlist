@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,610 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,786 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 48 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
 | 49 | [Sun & Moon \- Blastoyz Remix](https://open.spotify.com/track/4co3il6gimSyfEgN9MV4cl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Sun & Moon \(Blastoyz Remix\)](https://open.spotify.com/album/7ySVLJX79BVx2eCAu0oUQG) | 3:31 |
 | 50 | [Poison \- Darma Remix](https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Darma](https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:08 |
-| 51 | [Altaria](https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Altaria](https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc) | 2:47 |
-| 52 | [I Want Your Soul](https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz) | [Naturalize](https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022) | [I Want Your Soul](https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx) | 7:00 |
+| 51 | [I Want Your Soul](https://open.spotify.com/track/1jRBWD3P86rcJi2AAONZdz) | [Naturalize](https://open.spotify.com/artist/0fzvJQrOtf2nhtgNCRZ022) | [I Want Your Soul](https://open.spotify.com/album/4wXLChVEExhDz4PQ37V8yx) | 7:00 |
+| 52 | [Altaria](https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Altaria](https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc) | 2:47 |
 | 53 | [I'm A Mess](https://open.spotify.com/track/6eibj2ctKHTZfQX9H1ILYn) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [3Form](https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs) | [I'm A Mess](https://open.spotify.com/album/6aZtBNIWLZJ2JI8FvKUwaK) | 3:12 |
 | 54 | [You & I](https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [You & I](https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R) | 5:28 |
 | 55 | [Bansuri](https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Bansuri](https://open.spotify.com/album/0rf8VJA0Omu4xXgwwUslir) | 7:30 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 67 | [Crash & Burn](https://open.spotify.com/track/2BaYYrCKr6Uv8Vs1TD0xHS) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Crash & Burn](https://open.spotify.com/album/2bF58OdXln8I3ZqpAxGDjS) | 3:08 |
 | 68 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 | 69 | [Gotcha](https://open.spotify.com/track/2JqYDo6wWxZ0TszJ2FXnzg) | [Cosmonet](https://open.spotify.com/artist/29fIOE8ckNq96NbZlktZ7a) | [Gotcha](https://open.spotify.com/album/4tx4U1vNTaDZNRAhifW4Vv) | 6:39 |
-| 70 | [The Call](https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09) | [Mr\. Nobody](https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm) | [The Call](https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8) | 5:05 |
-| 71 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
+| 70 | [Carmen](https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR) | [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3), [Invisible Reality](https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An) | [Carmen](https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF) | 4:03 |
+| 71 | [The Call](https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09) | [Mr\. Nobody](https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm) | [The Call](https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8) | 5:05 |
 | 72 | [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 |
 | 73 | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Ravid Kahalani](https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s) | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc) | 2:25 |
 | 74 | [Stuck In My Head](https://open.spotify.com/track/3sHDHHKbdQPADaejmZp1oP) | [Trip\-Tamine](https://open.spotify.com/artist/0ap0HvoHVGPmbqVxjWGEtT), [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Brandon Hombre](https://open.spotify.com/artist/6qkkXjwUwpMqFSL98y95aU) | [Stuck In My Head](https://open.spotify.com/album/3vwqJGTYfGsZ0XQh4vdMTx) | 4:30 |
 | 75 | [We Are One](https://open.spotify.com/track/6D5Ueh4E9uj7H67UV6FBJO) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK) | [We Are One](https://open.spotify.com/album/3fldSmcRWqzfoe3QjmwmN6) | 6:00 |
 
-Snapshot ID: `MCwwOTdiYjgxNTFkNjQ2NzcxNjVhMDJkMmNjMGFhZGM2OTQyMjJkNzJl`
+Snapshot ID: `MCw1ODM3OGQ4ZTIyZTRkZWE4MmM1ZWZlZmEyOGFhMTllZGZkNDQ2ZTU5`

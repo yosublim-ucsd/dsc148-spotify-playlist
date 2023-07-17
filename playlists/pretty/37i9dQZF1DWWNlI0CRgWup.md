@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Johnny Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,099 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,114 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 37 | [Docteur](https://open.spotify.com/track/0WoXJsM5EKwhYURKx3p1p2) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [La fin de la nuit](https://open.spotify.com/album/61B9Jgp1u9U46CUNIFOJfb) | 2:57 |
 | 38 | [Alcool Alcool](https://open.spotify.com/track/6wriPlx1qGGI7yOrtSGNvY) | [Gargäntua](https://open.spotify.com/artist/1ScFJG5ccOnTPPUin8cPFu) | [Immoral & Illégal](https://open.spotify.com/album/0KKgZIUwkhKV82olpr3QIU) | 3:53 |
 
-Snapshot ID: `MCw2NzNkYzM1ZjVmNTNlMWI0MmEyNWRlNGFkN2RhNjExMjdkODA0NWZj`
+Snapshot ID: `MCxhN2FiNjBkZjA0MmFmY2UxODkwOTdkNzQzNzU0MTA4ZDFiOTg2Zjhl`

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 22161,
+  "num_followers": 22196,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjQwYTk0MTg4ZDBiZTA1N2UyOTY5YzQ0ZmE1ZmUzZDU0MjY4YTkx",
+  "snapshot_id": "MCxkMjc0NzhlOTg1MTIwZWVlZjMwZDhjZmZjOTdhZjc5ZWMwNWRlYWY0",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -367,6 +367,38 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Okay Alright",
+        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
+      },
+      "artists": [
+        {
+          "name": "Alan Nieves",
+          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
+        }
+      ],
+      "duration_ms": 368034,
+      "name": "Okay Alright",
+      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "You Can Forever Be",
         "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
       },
@@ -395,38 +427,6 @@
       "duration_ms": 376875,
       "name": "You Can Forever Be",
       "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Okay Alright",
-        "url": "https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv"
-      },
-      "artists": [
-        {
-          "name": "Alan Nieves",
-          "url": "https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG"
-        }
-      ],
-      "duration_ms": 368034,
-      "name": "Okay Alright",
-      "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Bring It Back",
+        "url": "https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 341872,
+      "name": "Bring It Back",
+      "url": "https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Sete (Carlita Remix)",
         "url": "https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Bring It Back",
-        "url": "https://open.spotify.com/album/2hQ4dYGyQeKXSQbQRTB61k"
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
       },
       "artists": [
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 341872,
-      "name": "Bring It Back",
-      "url": "https://open.spotify.com/track/1EQ2D7HRLZDz2aPSibkACT"
+      "duration_ms": 336504,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -623,22 +639,6 @@
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/4Quui2la1NwpqLDXUgi5tm"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 336504,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Atomic Sun",
+        "url": "https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Atomic Sun",
+      "url": "https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "TAKE ME HIGH",
         "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 220531,
       "name": "TAKE ME HIGH",
       "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "XVII",
-        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
-      },
-      "artists": [
-        {
-          "name": "Amotik",
-          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
-        }
-      ],
-      "duration_ms": 394565,
-      "name": "Narangi",
-      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "XVII",
+        "url": "https://open.spotify.com/album/3EECMU6VHbibJD1MjaJMBQ"
+      },
+      "artists": [
+        {
+          "name": "Amotik",
+          "url": "https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO"
+        }
+      ],
+      "duration_ms": 394565,
+      "name": "Narangi",
+      "url": "https://open.spotify.com/track/2lzX1kCo8XQJ40B5cZyN9b"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
       },
@@ -815,6 +831,26 @@
       "duration_ms": 204384,
       "name": "Gozar",
       "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Escaping It (feat. Tania Foster)",
+        "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Escaping It (feat. Tania Foster)",
+      "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -871,22 +907,6 @@
       "duration_ms": 154550,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/0aIY7EW39FmWoMugq4zGr0"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Atomic Sun",
-        "url": "https://open.spotify.com/album/47PZf2XprwEz8SzCBLJ3s5"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Atomic Sun",
-      "url": "https://open.spotify.com/track/6jqREERLrJj5FAcTVVQInp"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -991,22 +1011,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Strung Up",
-        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
-      },
-      "artists": [
-        {
-          "name": "Sorley",
-          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Strung Up",
-      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "YAP EP",
         "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Escaping It (feat. Tania Foster)",
-        "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
+        "name": "Strung Up",
+        "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
       },
       "artists": [
         {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Tania Foster",
-          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+          "name": "Sorley",
+          "url": "https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj"
         }
       ],
-      "duration_ms": 192656,
-      "name": "Escaping It (feat. Tania Foster)",
-      "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
+      "duration_ms": 200625,
+      "name": "Strung Up",
+      "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Clapped",
-        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
-      },
-      "artists": [
-        {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "Clapped",
-      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "No Bueno",
         "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 350125,
       "name": "No Bueno",
       "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Clapped",
+        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "Clapped",
+      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
-      },
-      "artists": [
-        {
-          "name": "The Shooters",
-          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
-        }
-      ],
-      "duration_ms": 178609,
-      "name": "La Serenata",
-      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 221818,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR"
+      },
+      "artists": [
+        {
+          "name": "The Shooters",
+          "url": "https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y"
+        }
+      ],
+      "duration_ms": 178609,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
     },
     {
       "added_at": "2023-07-14 04:01:00",

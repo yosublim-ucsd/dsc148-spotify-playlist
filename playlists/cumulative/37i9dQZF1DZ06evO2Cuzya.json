@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-17",
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 255697,
       "name": "Full machine",
       "url": "https://open.spotify.com/track/6hPippCCh6sNjUbZBYU0LW"
@@ -380,6 +380,24 @@
       "duration_ms": 160506,
       "name": "minor",
       "url": "https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc"
+    },
+    {
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350836,
+      "name": "Right now",
+      "url": "https://open.spotify.com/track/5qCZTDYRqMENitupuEaILd"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Turnpike Troubadours",
-  "num_followers": 410023,
+  "num_followers": 410136,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzVjNTczMTEzODRhNTQ4ZTFiZTk1ZmNlZjM4MmU1YTg2MjdkN2M3",
+  "snapshot_id": "MCwxOGFmZTNmNDQ5Yjg5NjM4MzUwOTVjMTVjZWQzOWFmZGVhMzkzODhh",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "'Til I See You Again",
-        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
-      },
-      "artists": [
-        {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
-        }
-      ],
-      "duration_ms": 211515,
-      "name": "'Til I See You Again",
-      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Tennessee Drinkin'",
-        "url": "https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 187906,
       "name": "Neon You",
       "url": "https://open.spotify.com/track/1IuV2JJG9u3fqL5GYT3FEM"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Tennessee Drinkin'",
+        "url": "https://open.spotify.com/album/3eo8jtVasYNEcqSt48p1UY"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2nUSe14xSG9IrZsmzZrqn3"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
+      },
+      "artists": [
+        {
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
+        }
+      ],
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
     },
     {
       "added_at": "2023-07-14 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Legallyrxx en portada.",
-  "num_followers": 100517,
+  "num_followers": 100580,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjNiNWRmMDU2NDJiMTI1ZTBmNjk2MzQyOGQ3NTM2YzNiMWJiN2M2",
+  "snapshot_id": "MCw4NDY2YWZjMWI1ZDFlMDNmMTRkNDQ5Y2VmYzA1MmRlZTMyZWY0YmMx",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
-      },
-      "artists": [
-        {
-          "name": "Aldo Carpes",
-          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
-        }
-      ],
-      "duration_ms": 203639,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Isla Mater",
         "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 191428,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d"
+      },
+      "artists": [
+        {
+          "name": "Aldo Carpes",
+          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
+        }
+      ],
+      "duration_ms": 203639,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "EST\u00c1 CABR\u00d3N",
-        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
+        "name": "amable",
+        "url": "https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec"
       },
       "artists": [
         {
-          "name": "Juan Fe Pulido",
-          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
-        },
-        {
-          "name": "Belmar",
-          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 184585,
-      "name": "EST\u00c1 CABR\u00d3N",
-      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
+      "duration_ms": 198890,
+      "name": "amable",
+      "url": "https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "amable",
-        "url": "https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec"
+        "name": "EST\u00c1 CABR\u00d3N",
+        "url": "https://open.spotify.com/album/65BLPWnC704r35AXW5j5cl"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "Juan Fe Pulido",
+          "url": "https://open.spotify.com/artist/2DtRrh7GKTiW1X6XZ09uw8"
+        },
+        {
+          "name": "Belmar",
+          "url": "https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af"
         }
       ],
-      "duration_ms": 198890,
-      "name": "amable",
-      "url": "https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT"
+      "duration_ms": 184585,
+      "name": "EST\u00c1 CABR\u00d3N",
+      "url": "https://open.spotify.com/track/16IWSpLVWetjwwkYdNPkVB"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1511,6 +1511,26 @@
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b"
+      },
+      "artists": [
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 276623,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1551,42 +1571,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b"
-      },
-      "artists": [
-        {
-          "name": "Rap Bang Club",
-          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 276623,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Gallo Pinto",
         "url": "https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Dir\u00eda",
-        "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
       },
       "artists": [
         {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 168804,
-      "name": "Qui\u00e9n Dir\u00eda",
-      "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1639,6 +1623,22 @@
       "duration_ms": 215777,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/45GH9XOvr1OR5znGgqXyxW"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Dir\u00eda",
+        "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+        }
+      ],
+      "duration_ms": 168804,
+      "name": "Qui\u00e9n Dir\u00eda",
+      "url": "https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "ESQUE T\u00da",
-        "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
-      },
-      "artists": [
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "El Santi",
-          "url": "https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "ESQUE T\u00da",
-      "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 170166,
       "name": "203",
       "url": "https://open.spotify.com/track/5hpcJ7KpnnjIkUH5Dg2xKo"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
+        "name": "ESQUE T\u00da",
+        "url": "https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "El Santi",
+          "url": "https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "ESQUE T\u00da",
+      "url": "https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8"
     },
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
+        "name": "Let Me Down Slow",
+        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Let Me Down Slow",
+      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "added_at": "2023-07-14 06:00:00",
+      "album": {
         "name": "Mabiland Hotline: Cobuz & Bustta",
         "url": "https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 169090,
       "name": "Mabiland Hotline: Cobuz & Bustta",
       "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"
-    },
-    {
-      "added_at": "2023-07-14 06:00:00",
-      "album": {
-        "name": "Let Me Down Slow",
-        "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Let Me Down Slow",
-      "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
     }
   ],
   "unique_name": "R&B Latino",

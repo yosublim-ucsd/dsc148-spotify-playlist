@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG?si=mLn5w4yJTKSWv\-tW5T4p4w">Riley Clemmons</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,067 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,207 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 60 | [In Surrender](https://open.spotify.com/track/6klXBxgQT8g4jsG1vzSMfw) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [In Surrender](https://open.spotify.com/album/096jTx1VevoVEXnlVxh18N) | 4:36 |
 | 61 | [Son Of The Living God \- Live](https://open.spotify.com/track/3YdIYiH4cEVphXWWGeIuSB) | [SANCTUARY Worship](https://open.spotify.com/artist/6Z3OFQNHCSFAwBNK51qKBz), [Breona Lawrence](https://open.spotify.com/artist/7JZIPmI6XxeDJiHiiT1aME), [Emoni Wiggins](https://open.spotify.com/artist/56G2W0QzY4V2xDMzyaMtwj), [Lindsay Lynette Boyko](https://open.spotify.com/artist/0DwUdiQITtm1P3MJZ0Ow7O) | [The Sanctuary: Atlanta \(Live\)](https://open.spotify.com/album/4udXKiyBX5ThjK1OnCWfX7) | 7:52 |
 | 62 | [Resound \- Live](https://open.spotify.com/track/3o0WhNw5BJU5eoVcInExRL) | [Day Three Music](https://open.spotify.com/artist/7iQCW7VpjTEPRFmCEKsLwD), [Caroline Ore](https://open.spotify.com/artist/2r2aYXk87JPaLtX4lqUptZ), [Dami Saheed](https://open.spotify.com/artist/3DFxPSwLy2mY9k5etVeeMh) | [See You \(Live in London\)](https://open.spotify.com/album/0tkOnukYL4gPWhScE8IIMK) | 5:53 |
-| 63 | [Joy In The Morning](https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning](https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp) | 3:53 |
+| 63 | [Joy In The Morning \- Remix](https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning \(Remix\)](https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp) | 3:53 |
 | 64 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 |
 | 65 | [MOUNTAINS](https://open.spotify.com/track/17OacgPhzAMKNLAkjaCxRD) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [Dreams Don't Have Deadlines](https://open.spotify.com/album/7qiaDWqCWiYjCSwJEcjW45) | 2:39 |
 | 66 | [MVP](https://open.spotify.com/track/00uwU1dENamylOgeLh2ask) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [MVP](https://open.spotify.com/album/0nDku2WGHlH96oLtvN3Z4n) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Making More](https://open.spotify.com/track/5X5FulFbzGLspiz1l4CPNh) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Making More](https://open.spotify.com/album/2UEM8q7L2UtmI2SeXzgYYu) | 2:05 |
 | 100 | [My Worship](https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [My Worship](https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v) | 3:21 |
 
-Snapshot ID: `MCw1Nzc5ODA4ODgwM2EyOGEwMGYwMDI1NzQ5MGRiMGVkYmY3MjVjZjU0`
+Snapshot ID: `MCw5ODA0YjUxNGFiOWEwNzhjNjVlODYxMmM0NTdkOTM5OGY4NWYwYTBi`

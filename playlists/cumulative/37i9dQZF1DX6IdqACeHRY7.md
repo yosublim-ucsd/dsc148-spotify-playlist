@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-377 songs - 21 hr 56 min
+378 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [smugryger](https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [smugryger](https://open.spotify.com/album/6asmVS16E8HIedmaS0QAOz) | 2:43 | 2023-05-03 |  |
 | [Snow \- again](https://open.spotify.com/track/7KRLNO3lSXL58cFAKjXOKN) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Snow \(again\)](https://open.spotify.com/album/3mFJt5AcrxNC7W6BQole1K) | 1:57 | 2021-05-22 | 2021-05-27 |
 | [Somebody Loved](https://open.spotify.com/track/1wflx5YklLYToaIbXkrZSq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/4T7n2myY9sAcGSJD2v0IAf) | 2:33 | 2023-01-05 | 2023-06-15 |
+| [Somebody Loved](https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL) | 2:33 | 2023-06-29 |  |
 | [Somebody Special \(Acoustic Version\)](https://open.spotify.com/track/63kiarBm46OJ1zK4vhzRmQ) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Somebody Special \(acoustic Version\)](https://open.spotify.com/album/7lxdYTgp1QQ2t7IhWnf7wY) | 3:38 | 2021-01-15 | 2022-07-29 |
 | [somendrøm \- A COLORS SHOW](https://open.spotify.com/track/1Sbpc8Aeo5zxbqiI9MtW5A) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [somendrøm \- A COLORS SHOW](https://open.spotify.com/album/06VO0idi3jszGg9JAN1cO8) | 3:58 | 2021-12-09 | 2022-07-27 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2020-10-06\* |  |
@@ -379,7 +380,7 @@
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-05-09 | 2023-06-16 |
 | [You Sigh](https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 2:58 | 2023-05-03 |  |
 | [You Sigh](https://open.spotify.com/track/7hMKqhlMqxF7ULZiUMN5AH) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/3NtzK9fBj8mNVig62dWWDK) | 2:58 | 2021-05-24 | 2021-05-28 |
-| [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 | 2023-01-09 |  |
+| [you up?](https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Things I Can't Take With Me](https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ) | 1:14 | 2023-01-09 | 2023-07-17 |
 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 | 2020-10-20 | 2022-07-29 |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-11-07 | 2023-01-06 |
 | [Your Side Of The Bed \- Acoustic](https://open.spotify.com/track/1GSJcqJJByUb7EIpz345u6) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Your Side Of The Bed \(Acoustic\)](https://open.spotify.com/album/2g8aSOoi6opbo3jLOaXZcr) | 3:22 | 2020-10-20 | 2021-10-10 |

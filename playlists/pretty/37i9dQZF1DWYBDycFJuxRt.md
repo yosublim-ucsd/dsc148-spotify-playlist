@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: w.o.d\. \*👉 <a href="https://spice.eplus.jp/articles/320162?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,171 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,180 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Bside](https://open.spotify.com/track/3t6xEF2uLTz86xQFl0Zbwv) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [Bside](https://open.spotify.com/album/7Mv2WPzoGjjuqkoWkwDlqc) | 2:34 |
 | 80 | [ご飯が食べられる古書堂で](https://open.spotify.com/track/7sHfaoO52dMFs8DftYSbXK) | [色々な十字架](https://open.spotify.com/artist/2gWCmHa50Meizr9Mo2sgZ0) | [少し大きい声](https://open.spotify.com/album/7593C6TczoKA5vlxP63MCF) | 4:38 |
 
-Snapshot ID: `MCwwYWYzOTU2M2ZjMjlmYjZhZGU3NTY0YTZhMzcwZTMxMDZhY2Y4MDA1`
+Snapshot ID: `MCwxOTA2YTU1N2I5ZTMyYTgzMzY4YzY1MzFjM2Y5YzAxZWZkYTBhMDRk`

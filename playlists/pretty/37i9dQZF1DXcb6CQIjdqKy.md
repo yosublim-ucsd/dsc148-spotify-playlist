@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=425c759e419f4aeb">Phil Wickham</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561,659 likes - 102 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,561,990 likes - 102 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 18 | [Church Pew](https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c) | 3:59 |
 | 19 | [Carry Me](https://open.spotify.com/track/3RCAjJWDwqFbYu1FkjXdF5) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [ABLE](https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5) | 3:49 |
 | 20 | [Grace To Grace \(Staring Out Into The Old City\) \- Live](https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 6:05 |
-| 21 | [Joy In The Morning](https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning](https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp) | 3:53 |
+| 21 | [Joy In The Morning \- Remix](https://open.spotify.com/track/0edWLFpD77Xw6wt0hJOswX) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning \(Remix\)](https://open.spotify.com/album/7Ach1ESfO3xhhhs8bOBcZp) | 3:53 |
 | 22 | [Look Around](https://open.spotify.com/track/45MwQxfmmHhYFGQuyPOpt3) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 7:21 |
 | 23 | [Lookin' For You \- Live](https://open.spotify.com/track/1jh5km6hF7X6XzpiWXIx2s) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Austin City Limits Live at the Moody Theater](https://open.spotify.com/album/5RxeM2ESYr0Nuv7MTCy309) | 3:54 |
 | 24 | [Seventh Of June](https://open.spotify.com/track/1Rd5AMfjl25DHBODI12WD1) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Seventh Of June](https://open.spotify.com/album/6bgmSXKh5OuNUix5ATrIuu) | 3:57 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 101 | [I Don't Wanna Live Like This](https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [The Consequence Of Being Alive](https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7) | 2:57 |
 | 102 | [Fingerprints](https://open.spotify.com/track/5JaUGYbQIackRPTU8VuGFf) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:37 |
 
-Snapshot ID: `MCxmZjcyOGFiNWFkY2JhMmQ3ZmVkYmY0OTVjN2QxOTc5MmQ4Y2FiMTk3`
+Snapshot ID: `MCxjOWJkYWFhZDQyNmE3YjBiMDUyN2I5OThkYzRiNjM5MDUzOGI1ZTZi`

@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 59 | [Kilimanjaro](https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Kilimanjaro](https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk) | 3:27 |
 | 60 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 |
 | 61 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 |
-| 62 | [Curious](https://open.spotify.com/track/6APT6IH8fpzcnnPiI76XBH) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Curious](https://open.spotify.com/album/1hjSD6LF98EBRSQrL3Py88) | 3:38 |
-| 63 | [Tiger Style](https://open.spotify.com/track/2vDpTwmngMfXaLIbDFtNfi) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/2XV8XjeCKE2aMXKBeTRhHJ) | 2:13 |
+| 62 | [Tiger Style](https://open.spotify.com/track/2vDpTwmngMfXaLIbDFtNfi) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Tiger Style](https://open.spotify.com/album/2XV8XjeCKE2aMXKBeTRhHJ) | 2:13 |
+| 63 | [Curious](https://open.spotify.com/track/6APT6IH8fpzcnnPiI76XBH) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Curious](https://open.spotify.com/album/1hjSD6LF98EBRSQrL3Py88) | 3:38 |
 | 64 | [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 |
 | 65 | [Good Time All The Time](https://open.spotify.com/track/7x1cMCQz8gCNkTqOU7TB7R) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Good Time All The Time](https://open.spotify.com/album/2lX0SIWgqbbHJOLjArC57h) | 3:12 |
 | 66 | [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 70 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 |
 | 71 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 |
 | 72 | [Stay \- Piano ver.](https://open.spotify.com/track/1yT4l2NRZubuYRYT1lVD9a) | [Mizki](https://open.spotify.com/artist/5zJpeKLSuVa7kulMcgRGcE) | [Stay \(Piano ver.\)](https://open.spotify.com/album/4u9KIaeMZgkgi9LZSqVaVD) | 3:20 |
-| 73 | [A LITTLE LONGER](https://open.spotify.com/track/4pBJPDDnP8OIlxpNOkJrJK) | [raLf.mp3](https://open.spotify.com/artist/0HJPhLLVDLqQsK80UeWyh7) | [2MNY 2B NoTICED](https://open.spotify.com/album/788LcoNQqE019iOEG2HX3P) | 3:19 |
+| 73 | [A LITTLE LONGER](https://open.spotify.com/track/4pBJPDDnP8OIlxpNOkJrJK) | [raLf.mp3](https://open.spotify.com/artist/0HJPhLLVDLqQsK80UeWyh7) | [2MNY2BNOTICED](https://open.spotify.com/album/788LcoNQqE019iOEG2HX3P) | 3:19 |
 | 74 | [Get It Right](https://open.spotify.com/track/3Thw5feG3I2MP5TrToBcPU) | [HANNIE](https://open.spotify.com/artist/7vp58vF08Hg9TbDrYH2nAh) | [Get It Right](https://open.spotify.com/album/54oz9xG2H5FgYci2I8RQnK) | 2:54 |
 | 75 | [Feels Like Home](https://open.spotify.com/track/0Y1HzOAyIj8O6N3lnKmi2l) | [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Feels Like Home](https://open.spotify.com/album/31QEjfkSaLZPHpchsT997H) | 4:07 |
 | 76 | [American Spirits](https://open.spotify.com/track/2Aza8RDhzkcY8Ee27HsGdq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/4oroUN99tUCHorAFBW3QFN) | 2:45 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 84 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 85 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `MjgxNTY0NTAsMDAwMDAwMDAyODRjMzdjZDViNjM4NjNjYzNlOGI3NjcxYjE2MTY3ZA==`
+Snapshot ID: `MjgxNTkzMzAsMDAwMDAwMDBmNmRiNWJmZWEzZTZiYzliYmRiNTllNmIzOWUyMTI5Yw==`

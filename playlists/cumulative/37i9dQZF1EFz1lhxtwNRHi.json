@@ -2859,6 +2859,28 @@
     },
     {
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7vTClo3CilIXBe6rSgTViP"
+      },
+      "artists": [
+        {
+          "name": "teddy<3",
+          "url": "https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW"
+        },
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153141,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/2cfLC8bOBaD5NpPIJkA5GL"
+    },
+    {
+      "album": {
         "name": "LillyAnna",
         "url": "https://open.spotify.com/album/436Kjb6F1b6t7a1T0VKZBp"
       },

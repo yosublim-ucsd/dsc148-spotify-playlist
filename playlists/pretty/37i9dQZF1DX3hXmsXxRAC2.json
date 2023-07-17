@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 315433,
+  "num_followers": 315470,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWU3MTVlMzExMTFkNDNhZDgwMTViYjdiYmJhMWZmNDA5ZjE0YzRh",
+  "snapshot_id": "MCxiMTdjYjBhOTZkMjZlNmNiMTU5YjdjYmQwYjU1NWNkMDUxYmE3YzMx",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Ya No Insistas Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 204056,
-      "name": "Ya No Insistas Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Buenos D\u00edas Se\u00f1or Sol",
         "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 218120,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/7LHfwnID8ytzF5KsGr02MJ"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Ya No Insistas Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 204056,
+      "name": "Ya No Insistas Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Interpretan \u00c9xitos De Juan Gabriel",
         "url": "https://open.spotify.com/album/3xsgGHVMU3MN7m33I3ZUWM"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 191973,
       "name": "Dejame Vivir",
       "url": "https://open.spotify.com/track/6tElKIYCnCP3ZJ6Rq0hcVK"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Non-Stop: Mexico to Jamaica",
         "url": "https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 189666,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
     },
     {
       "added_at": "2023-05-05 18:26:22",

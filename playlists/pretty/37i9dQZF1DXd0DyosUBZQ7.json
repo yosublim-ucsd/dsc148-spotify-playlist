@@ -1,12 +1,12 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 496865,
+  "num_followers": 497306,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDE2MDdlZTA5MGQ4ZTAyMzc1OTQxNGNjYjBjZGZjYzVmNjBjYTBh",
+  "snapshot_id": "MCxmNmNhMjk1MDA2ZDBlMjExZDBlMmRmMDdiM2Q1NGVmOGFiMDQwN2Vi",
   "tracks": [
     {
       "added_at": "2023-06-16 18:02:29",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-16 18:02:29",
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
-    },
-    {
-      "added_at": "2023-06-16 18:02:29",
-      "album": {
         "name": "Swing When You're Winning",
         "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 170493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl"
+    },
+    {
+      "added_at": "2023-06-16 18:02:29",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
     },
     {
       "added_at": "2023-06-16 18:02:29",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-16 18:02:29",
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 246410,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5"
-    },
-    {
-      "added_at": "2023-06-16 18:02:29",
-      "album": {
         "name": "Gotta Get Thru This",
         "url": "https://open.spotify.com/album/2EdZjwEgBXjtdkwkZ73fFA"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 257160,
       "name": "If You're Not The One",
       "url": "https://open.spotify.com/track/4gJoAvFpDvaeqm2EKYGmhb"
+    },
+    {
+      "added_at": "2023-06-16 18:02:29",
+      "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 246410,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/3c9LVPh3MpeFoaAL5DBDK5"
     }
   ],
   "unique_name": "00s Love Songs",

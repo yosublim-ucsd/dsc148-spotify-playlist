@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 101861,
+  "num_followers": 101867,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjYzNWRlOTgzMzc0MDFhZThlMzdlMTMxMWUxNTkxYTk3NTZiNzFk",
+  "snapshot_id": "MCw5ZjgxYzhiZGFlNzdiOGMwYTFmODEzNzY5YTE0M2ZiMGM1YzUxOGNh",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Tampoco Poco",
         "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 180534,
       "name": "Tampoco Poco",
       "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "No Te Quedes Solo",
-        "url": "https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U"
+        "name": "Puedo Con Esto",
+        "url": "https://open.spotify.com/album/2svKHFpTBEyAkDJmL2lUDu"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Plastilina",
+          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
         }
       ],
-      "duration_ms": 210611,
-      "name": "No Te Quedes Solo",
-      "url": "https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP"
+      "duration_ms": 226379,
+      "name": "Puedo Con Esto",
+      "url": "https://open.spotify.com/track/65Kp0ECXOXVcDD8kjj2HyT"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1679,18 +1679,38 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Puedo Con Esto",
-        "url": "https://open.spotify.com/album/2svKHFpTBEyAkDJmL2lUDu"
+        "name": "No Te Quedes Solo",
+        "url": "https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U"
       },
       "artists": [
         {
-          "name": "Plastilina",
-          "url": "https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 226379,
-      "name": "Puedo Con Esto",
-      "url": "https://open.spotify.com/track/65Kp0ECXOXVcDD8kjj2HyT"
+      "duration_ms": 210611,
+      "name": "No Te Quedes Solo",
+      "url": "https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        },
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6XzNlsxA4RMUWgYC0GP5aq"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1711,30 +1731,6 @@
       "duration_ms": 239446,
       "name": "Matem\u00e1tica",
       "url": "https://open.spotify.com/track/0YUFXbHYoRMYBVSq2jaVcZ"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Tu Vereda",
-        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Ivan C. Bakmas",
-          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
-        },
-        {
-          "name": "Fer Moreno",
-          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
-        }
-      ],
-      "duration_ms": 147198,
-      "name": "Tu Vereda",
-      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
     }
   ],
   "unique_name": "Amor Indie",

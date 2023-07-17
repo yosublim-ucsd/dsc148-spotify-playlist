@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: 中村佳穂\(Kaho Nakamura\)
 
-639 songs - 1 day 15 hr 53 min
+640 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bicycle](https://open.spotify.com/track/4X4Zm9TYHMN7mFaQtnRrXt) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/1pNtvTDPYsE2ctu1roiejj) | 2:51 | 2023-06-21 | 2023-06-28 |
 | [Bicycle](https://open.spotify.com/track/4fJPOJLLB1nkpXe1LZfK4Q) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [Bicycle](https://open.spotify.com/album/6cSE4mh7DxjjcSyy7iGtgs) | 2:51 | 2023-06-20 | 2023-06-22 |
 | [Bleachers](https://open.spotify.com/track/1Iw0F6t71sem5PWGhPnKoN) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Hotel Insomnia](https://open.spotify.com/album/5gUvrb0y7rmxfjnhhGDZKh) | 2:14 | 2023-01-12 | 2023-03-01 |
-| [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-04 |  |
+| [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-04-04 | 2023-07-17 |
 | [Bones](https://open.spotify.com/track/1cPjAAWfHK6X6Z1aCIvRKu) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/2TS85JeTN0ufeIKtMDzYtW) | 3:59 | 2023-01-31 | 2023-02-02 |
 | [Bones](https://open.spotify.com/track/2KpBeEYWN5dnpZdgJ8ZiUO) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Bones](https://open.spotify.com/album/1xgcfc5ogp9i9jRapwNnea) | 3:59 | 2023-01-31 | 2023-03-15 |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 |  |
@@ -458,6 +458,7 @@
 | [なんとなく春](https://open.spotify.com/track/7hf7GFoyVHIavtkfXTywO3) | [ソウルベイベーズ](https://open.spotify.com/artist/5jM5C2nC9xsabSYXHylpw2) | [なんとなく春](https://open.spotify.com/album/4Dqx9HZFfEJnfBJkrJoJkR) | 4:49 | 2023-03-21 | 2023-03-23 |
 | [ぬくもりはたしかに](https://open.spotify.com/track/5qrpYQOcdXx5R4BVAf76If) | [スーパーノア](https://open.spotify.com/artist/54Eb2c0kXE5lvyL3W1LmZ7) | [ぬくもりはたしかに](https://open.spotify.com/album/5HZHsN1e731jgWEFzfBzXI) | 6:27 | 2023-01-12 | 2023-02-03 |
 | [ねがいごと](https://open.spotify.com/track/38AYKLW593mK4eDD7JMrd2) | [toronto](https://open.spotify.com/artist/6WNSwXtvWiQfX8585ExQNR) | [こころとあたまをつなぐ](https://open.spotify.com/album/5835qjBe2RDQdJjvQU5sS3) | 5:18 | 2023-02-21 | 2023-03-08 |
+| [のらりつらり](https://open.spotify.com/track/5dLM5ldUXKicvwLz3b1CdV) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [のらりつらり](https://open.spotify.com/album/55M8zj4SdtQwVUxDqn7d6h) | 3:25 | 2023-07-11 |  |
 | [はないちもんめ](https://open.spotify.com/track/3B0CYwIqIweKjxxtLCGpoO) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI) | [はないちもんめ](https://open.spotify.com/album/50okAeLnE7yfoOSCsHSDZV) | 3:08 | 2023-06-13 | 2023-06-21 |
 | [はるのうた](https://open.spotify.com/track/4riu1LebCr8xXjzQ5xBrPw) | [雨先案内人](https://open.spotify.com/artist/1LZhc9gTEbgA3X6e08EerJ) | [はるのうた](https://open.spotify.com/album/18jrsiF8GoY7MRhjpquue7) | 4:29 | 2023-02-07 | 2023-02-09 |
 | [ふたりの傷跡](https://open.spotify.com/track/1hu5dJ6w20i7N8z4o6himl) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [ふたりの傷跡](https://open.spotify.com/album/2Op0O3DZ1OAyjenq6eNF3M) | 5:04 | 2023-01-12 | 2023-01-18 |

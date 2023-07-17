@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,817 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,840 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [Quiet \(feat\. Bram Houg\)](https://open.spotify.com/track/2pskoobUrg7ZmGmOHikt9I) | [Nghtshft](https://open.spotify.com/artist/7IuG8gEa99XWoXGsTXp3D1), [Bram Houg](https://open.spotify.com/artist/02eE2UGRq6EJDoQQT0WliG) | [Quiet \(feat\. Bram Houg\)](https://open.spotify.com/album/4eXf2tV0pVbhNTEJ3rAIPJ) | 2:27 |
 | 101 | [The Law](https://open.spotify.com/track/08IcO7cQDTF36cTd00bYMd) | [Seven](https://open.spotify.com/artist/3fOoU3NRieBjBAeoMyETuZ) | [The Law](https://open.spotify.com/album/7HSULfHH5ZyAjKw51lc9LR) | 3:40 |
 
-Snapshot ID: `MCxkYTJjZTdmOGZmMmNjYmYyY2I4MDU5MjYyYzUwZjVmNWZkMDgxMTFh`
+Snapshot ID: `MCxiYjVjNGQ0MzQ1ZDU3YWZkMjRiNzUwYzYxMjQ2OTg0NDQ5OGUxOGQw`

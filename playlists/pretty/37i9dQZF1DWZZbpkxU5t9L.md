@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: MY FIRST STORY
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,953 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,009 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 54 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
 | 55 | [夏恋センセイション](https://open.spotify.com/track/5McCZ1isTVJg3Wr5WBVoI3) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [CHOSYOKU](https://open.spotify.com/album/4oal4axj41REAu9bIHvsXF) | 2:18 |
 
-Snapshot ID: `MCwyMGMyZWIzZTllOGJhZDE5ZTdlYjRkNmNmZTIyNmMzODUxNGFhNGY1`
+Snapshot ID: `MCw5OTE5YTY2ODFlMTE4NGZiMTQ2OTc0NzFjOGZlZTczZGE4ZDEyMTcz`

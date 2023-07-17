@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 63537,
+  "num_followers": 63543,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzA2MmFmMTAzMjU5MjNhYzVlYjQ4ZjI4ZWUyOGI1YmVjOTAwNTVh",
+  "snapshot_id": "MCw1MzQ4NDdhYmU5N2NkMzYzYTYwMzhlMGQ4NWJkZWFiYzQ1ODBkYjFj",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/6eDMElxeeKXs4DHTb0dGP0"
     },
     {
-      "added_at": "2022-06-07 14:45:28",
-      "album": {
-        "name": "Trem-Bala",
-        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        }
-      ],
-      "duration_ms": 180319,
-      "name": "Trem-Bala",
-      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
-    },
-    {
       "added_at": "2021-08-18 22:14:03",
       "album": {
         "name": "Chico Buarque",
@@ -867,6 +851,22 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+    },
+    {
+      "added_at": "2022-06-07 14:45:28",
+      "album": {
+        "name": "Trem-Bala",
+        "url": "https://open.spotify.com/album/5LsQsZiCiIsviDVngEurIF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        }
+      ],
+      "duration_ms": 180319,
+      "name": "Trem-Bala",
+      "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -983,22 +983,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Tim Maia 1971",
-        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 244178,
-      "name": "Voc\u00ea",
-      "url": "https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Realce",
         "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 226640,
       "name": "Toda Menina Baiana",
       "url": "https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Tim Maia 1971",
+        "url": "https://open.spotify.com/album/1crN3RnAw8N6BztzuEAo8A"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 244178,
+      "name": "Voc\u00ea",
+      "url": "https://open.spotify.com/track/5c12DVTlsyFbxmysLw0Vll"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Brazil Classics 4: The Best of Tom Z\u00e9",
-        "url": "https://open.spotify.com/album/5EatIo50si8CoN3ARke59W"
-      },
-      "artists": [
-        {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Vai (Menina Amanh\u00e3 de Manh\u00e3)",
-      "url": "https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico 2",
         "url": "https://open.spotify.com/album/0oCdYFyqznjyMorvtESrNV"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 178066,
       "name": "L\u00e1 vem o sol",
       "url": "https://open.spotify.com/track/74o1pFywinH2eEPxbbaLqc"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Brazil Classics 4: The Best of Tom Z\u00e9",
+        "url": "https://open.spotify.com/album/5EatIo50si8CoN3ARke59W"
+      },
+      "artists": [
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "Vai (Menina Amanh\u00e3 de Manh\u00e3)",
+      "url": "https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ"
     },
     {
       "added_at": "2022-06-07 14:45:28",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Bicho",
-        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "O Le\u00e3ozinho - Remixed Original Album",
-      "url": "https://open.spotify.com/track/0by19mYM0du6rkzugAogN9"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Meus Momentos",
         "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 179120,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Bicho",
+        "url": "https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "O Le\u00e3ozinho - Remixed Original Album",
+      "url": "https://open.spotify.com/track/0by19mYM0du6rkzugAogN9"
     },
     {
       "added_at": "2022-06-07 14:45:28",

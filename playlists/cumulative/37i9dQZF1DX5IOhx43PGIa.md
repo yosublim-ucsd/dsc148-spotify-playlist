@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.
 
-494 songs - 1 day 1 hr 36 min
+496 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Day By Day](https://open.spotify.com/track/7t6NSZQArTCYimaQmfwS0S) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7qeL0K9UlZMlfo7GS6127i) | 3:07 | 2022-10-07 | 2022-10-13 |
 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 | 2022-08-19 | 2022-09-10 |
 | [Daylight](https://open.spotify.com/track/4uiv2t9iLd5nSdtB7GS7dN) | [Hairuo](https://open.spotify.com/artist/6Fvx2mF6BxSJy4IzISzZOI) | [Daylight](https://open.spotify.com/album/6vsNYqMvrHtdr9Eb7AxPfE) | 4:14 | 2022-05-27 | 2022-07-29 |
+| [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 |  |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-07-22 | 2022-11-11 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2022-05-27 | 2022-07-29 |
 | [Desire](https://open.spotify.com/track/2VT7wOadDYKMeDLsys9vzF) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [Desire](https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ) | 4:53 | 2022-07-22 | 2022-08-30 |
@@ -245,7 +246,7 @@
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-05-27 | 2022-08-27 |
 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y) | 3:13 | 2022-05-27 | 2022-06-04 |
 | [Kira Kira](https://open.spotify.com/track/2lQsaY9KsbtE8oij9Db9eB) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Kira Kira](https://open.spotify.com/album/0AfOR652wvcBCWzxwh5OWz) | 2:48 | 2022-05-27 | 2022-07-21 |
-| [kitchen light](https://open.spotify.com/track/3y2SDMSFemKDSF9q8xbmm1) | [Maggery](https://open.spotify.com/artist/452UwbEF3N7LK6Zd3bkTzw), [Isaac Solo](https://open.spotify.com/artist/0DqFap2UZBZYFYKEDYMEPa) | [kitchen light](https://open.spotify.com/album/34omlcFfOvMIgIOvLnStQo) | 2:17 | 2022-09-16 |  |
+| [kitchen light](https://open.spotify.com/track/3y2SDMSFemKDSF9q8xbmm1) | [Maggery](https://open.spotify.com/artist/452UwbEF3N7LK6Zd3bkTzw), [Isaac Solo](https://open.spotify.com/artist/0DqFap2UZBZYFYKEDYMEPa) | [kitchen light](https://open.spotify.com/album/34omlcFfOvMIgIOvLnStQo) | 2:17 | 2022-09-16 | 2023-07-17 |
 | [KITTY WITH A KNIFE](https://open.spotify.com/track/4EBnJYRKV44yoJPn6Vy1vh) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [KITTY WITH A KNIFE](https://open.spotify.com/album/0KkwsxdgQw8eXEZ24LPQ5D) | 3:17 | 2022-05-27 | 2022-07-28 |
 | [kodak](https://open.spotify.com/track/4DCa5XDAMffNCB3SN79YhB) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [kodak](https://open.spotify.com/album/3IKAESdzFil1Ka7GNQdbTJ) | 3:41 | 2022-05-27 | 2022-07-29 |
 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 | 2022-09-23 | 2022-10-08 |
@@ -284,7 +285,7 @@
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-09-23 | 2022-10-08 |
 | [Manike Mage Hithe](https://open.spotify.com/track/5JO2usoem1CW1pLL1kLj9E) | [Chamath Sangeeth](https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c) | [Manike Mage Hithe](https://open.spotify.com/album/0CuAXOxHwlGy4l8cyUD3bs) | 2:42 | 2023-07-14 |  |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2022-06-10 | 2022-06-22 |
-| [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-22 |  |
+| [MCQUEEN](https://open.spotify.com/track/7uCtaXvAbJ89VlyWvL7qlM) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [MCQUEEN](https://open.spotify.com/album/3yyyEi7BGK3IAqQRLU5IXc) | 2:39 | 2022-07-22 | 2023-07-17 |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/0v0iiy4gktlrDWb6P0w1Xx) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Me & Mrs\. Wong](https://open.spotify.com/album/416QmA6TRGNkxjKp4i9b8b) | 3:50 | 2022-05-27 | 2022-07-29 |
 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 | 2022-07-22 | 2023-04-09 |
 | [Menanti](https://open.spotify.com/track/6ML4LAPC9WmSyoorNSkSOD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Menanti](https://open.spotify.com/album/7lnZheJKj0Fwy0DkC0WzBE) | 3:05 | 2023-04-29 | 2023-06-10 |
@@ -429,6 +430,7 @@
 | [That XX \- Spotify Singles](https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [That XX \- Spotify Singles](https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo) | 4:49 | 2022-05-27 | 2023-04-05 |
 | [THAT'S ON YOU!](https://open.spotify.com/track/7mV2INVLXxfqjtEn4zPDel) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [THAT'S ON YOU!](https://open.spotify.com/album/7ECsSAJ3NOEfPu9MyDcjDK) | 2:39 | 2022-05-27 | 2022-07-29 |
 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 | 2023-06-30 |  |
+| [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 | 2023-07-14 |  |
 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2022-10-07 |  |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2022-05-27 | 2022-10-14 |
 | [the library](https://open.spotify.com/track/40O9HoPBYDJTxpYHzwx0TP) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [the library](https://open.spotify.com/album/05yszD7M2EhsDzKt4011lG) | 3:02 | 2022-05-27 | 2022-07-27 |

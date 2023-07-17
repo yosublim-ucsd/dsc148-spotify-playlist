@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Janeth Valenzuela en portada.",
-  "num_followers": 90831,
+  "num_followers": 90900,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2RjNmViZjQ3ZWIwZTdkZWJkNjFmNjJhY2QxNGE5ZTEzMmVlNDIw",
+  "snapshot_id": "MCw0YTE5YjhiMjkwMjgyZjQ4NGEyNTFkZGU5OTJkYmE2NTBmYzJiMzI2",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "No Me Amenaces",
+        "url": "https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 174671,
+      "name": "No Me Amenaces",
+      "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 153946,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "No Me Amenaces",
-        "url": "https://open.spotify.com/album/5PTXa366m9IeBC8bqo9HMh"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 174671,
-      "name": "No Me Amenaces",
-      "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Sola Con Mi Soledad",
-      "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "\u00cdntimamente",
         "url": "https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 186750,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Sola Con Mi Soledad",
+      "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "En Vivo: Irene del Rosario",
-        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
-      },
-      "artists": [
-        {
-          "name": "Irene del Rosario",
-          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
-        }
-      ],
-      "duration_ms": 214414,
-      "name": "No Puedo Olvidarlo",
-      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 No Vienes?",
         "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 215346,
       "name": "\u00bfPor Qu\u00e9 No Vienes?",
       "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "En Vivo: Irene del Rosario",
+        "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "duration_ms": 214414,
+      "name": "No Puedo Olvidarlo",
+      "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Cerrada Al Amor",
-        "url": "https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 204761,
-      "name": "Cerrada Al Amor",
-      "url": "https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Cinco Razones",
         "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 220427,
       "name": "Lo Mal Que Me Trataste",
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Cerrada Al Amor",
+        "url": "https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Cerrada Al Amor",
+      "url": "https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 240648,
-      "name": "Hasta El D\u00eda De Hoy - En Vivo",
-      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "No Se Vayan Con La Finta (En Vivo)",
         "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 193840,
       "name": "La Primera Piedra (En Vivo)",
       "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 240648,
+      "name": "Hasta El D\u00eda De Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Uno de los Buenos",
-        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
       },
       "artists": [
         {
@@ -1504,25 +1504,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 176768,
-      "name": "Uno de los Buenos",
-      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1539,6 +1523,22 @@
       "duration_ms": 175770,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+        "name": "Uno de los Buenos",
+        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
       },
       "artists": [
         {
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+      "duration_ms": 176768,
+      "name": "Uno de los Buenos",
+      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1603,22 +1603,6 @@
       "duration_ms": 223556,
       "name": "Prieta Linda",
       "url": "https://open.spotify.com/track/2kBqOvaNAhvchI7l1ouNGd"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "La Misma Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Ovarios",
-      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1643,6 +1627,22 @@
       "duration_ms": 210040,
       "name": "Pedacito de M\u00ed",
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Ovarios",
+      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
     },
     {
       "added_at": "2023-06-30 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20870,
+  "num_followers": 20879,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
+  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Mango Negro",
         "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 272513,
       "name": "IR",
       "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 185920,
       "name": "El equilibrio",
       "url": "https://open.spotify.com/track/13LiYjx7tgdqjMxAt3pgtG"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Cristales",
-        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
-      },
-      "artists": [
-        {
-          "name": "HOLOGRAMMA",
-          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
-        }
-      ],
-      "duration_ms": 225362,
-      "name": "Cristales",
-      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 200869,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "duration_ms": 225362,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Verte antes de fin de a\u00f1o",
         "url": "https://open.spotify.com/album/4nH0HJOHsqJOldNMvIw8nC"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 216506,
       "name": "Cuando quieres jugar conmigo",
       "url": "https://open.spotify.com/track/6XVE5aiEJtV14YNiGLJiYz"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 258946,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Too Bad",
         "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
+        "name": "En Transmisi\u00f3n Perpetua",
+        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
       },
       "artists": [
         {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+          "name": "Cometa Sucre",
+          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
         }
       ],
-      "duration_ms": 258946,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
+      "duration_ms": 259000,
+      "name": "Caminos Extran\u0303os",
+      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 198826,
       "name": "Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/5xeU3C13U7d8d6HOIhT8e4"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "En Transmisi\u00f3n Perpetua",
-        "url": "https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe"
-      },
-      "artists": [
-        {
-          "name": "Cometa Sucre",
-          "url": "https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Caminos Extran\u0303os",
-      "url": "https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
-      },
-      "artists": [
-        {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "My America Is Not Your America",
         "url": "https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 306321,
       "name": "My America Is Not Your America",
       "url": "https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+      },
+      "artists": [
+        {
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Se Parece A",
-        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 228574,
-      "name": "Alguien Detra\u0301s de Mi",
-      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Fantas\u00eda Moral",
         "url": "https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 305940,
       "name": "Semana Sata\u0301n",
       "url": "https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Se Parece A",
+        "url": "https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 228574,
+      "name": "Alguien Detra\u0301s de Mi",
+      "url": "https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ"
     },
     {
       "added_at": "2020-12-01 05:03:00",

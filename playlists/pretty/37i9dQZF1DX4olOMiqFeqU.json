@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2423577,
+  "num_followers": 2423951,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzI3MjNhM2RkNjY1NTc1OWM1MzNjM2UwNGRkYjU0NTI1ZDlmYTVj",
+  "snapshot_id": "MCxjZDhiNzM4MzJhZjQ3YTQzOWI5NTU5ZmE3OTVmNjBmMDM2N2EwZmQz",
   "tracks": [
     {
       "added_at": "2023-04-03 07:21:01",
@@ -463,18 +463,22 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Versions & Beyond",
-        "url": "https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ"
+        "name": "Ang Wakas (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
       "artists": [
         {
-          "name": "MYMP",
-          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
         }
       ],
-      "duration_ms": 253013,
-      "name": "Tell Me Where It Hurts",
-      "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
+      "duration_ms": 304000,
+      "name": "Ang Wakas (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -495,22 +499,18 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Ang Wakas (feat. Trisha Macapagal)",
-        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
+        "name": "Versions & Beyond",
+        "url": "https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ"
       },
       "artists": [
         {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        },
-        {
-          "name": "Trisha Macapagal",
-          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+          "name": "MYMP",
+          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Ang Wakas (feat. Trisha Macapagal)",
-      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
+      "duration_ms": 253013,
+      "name": "Tell Me Where It Hurts",
+      "url": "https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3"
     },
     {
       "added_at": "2023-04-03 07:21:01",

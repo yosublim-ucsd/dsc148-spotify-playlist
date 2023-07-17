@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Kaleena Zanders, Anabel Englund
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,696 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,495 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 64 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 | 65 | [That's Not What My Friends Say](https://open.spotify.com/track/21qvsxlG1BCkUlsdzfxu05) | [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [That's Not What My Friends Say](https://open.spotify.com/album/3Hc1CUGdJNXXD1NQeEpBgy) | 2:47 |
 
-Snapshot ID: `MCw3MDU0YTEyODIwN2M0NzkwMGExMDY0MDcyYTFiNDljYzFhOGYzNDcy`
+Snapshot ID: `MCxkYTA2YjVmNmFhMzU5NGI5YzE1OTMxOGMxNjQzYzY1N2ZkNTQxN2Fi`

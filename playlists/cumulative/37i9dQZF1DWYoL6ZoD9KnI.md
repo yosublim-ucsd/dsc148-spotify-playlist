@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-66 songs - 4 hr 33 min
+67 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [リンネ \- ORIGINAL](https://open.spotify.com/track/6L7qAI9DS27eoEEseNB1Y2) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:21 | 2022-11-22 |  |
 | [ワンダーランドと羊の歌 \- ORIGINAL](https://open.spotify.com/track/4ZLyjxANuZ87aP9dJqRaik) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 4:47 | 2022-11-22 |  |
 | [優しい人](https://open.spotify.com/track/7EoBmpSFygVuCCGkXA3wei) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 3:28 | 2022-11-22 |  |
+| [地球儀](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-16 |  |
 | [恋と病熱](https://open.spotify.com/track/05fuWARtOqZgc1mzjf5l0C) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 4:22 | 2022-11-22 |  |
 | [恥ずかしくってしょうがねえ](https://open.spotify.com/track/64DQr4CorFeWFZMRiKswZv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/1T6osuQ4vFziPrA10uXOfs) | 3:41 | 2022-11-22 |  |
 | [愛麗絲\(正式表記はAliceの中国語簡体字表記となります。\)](https://open.spotify.com/track/7APmRLL4QCEd7TmAfz2onj) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:09 | 2022-11-22 |  |

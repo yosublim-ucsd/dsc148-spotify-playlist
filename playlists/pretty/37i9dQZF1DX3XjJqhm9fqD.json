@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 78883,
+  "num_followers": 78914,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDFlMzJjNGMyMmZhYTU1YWYwY2MzMjM5YWMzOGJmZTczNDM0NjZi",
+  "snapshot_id": "MCw3NWJhNzg1OTI3ZjUxOWZkNTUzNzY1NjcwZTM4NmNkNjk5N2EzOWUy",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Show Me Love (feat. Meer Colon)",
-        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
+        "name": "Anthology, Vol. IV",
+        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
       "artists": [
         {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "Meer Colon",
-          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
+          "name": "Tabou Combo",
+          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
         }
       ],
-      "duration_ms": 168510,
-      "name": "Show Me Love (feat. Meer Colon)",
-      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+      "duration_ms": 526373,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1199,34 +1195,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Anthology, Vol. IV",
-        "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
+        "name": "Show Me Love (feat. Meer Colon)",
+        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
       },
       "artists": [
         {
-          "name": "Tabou Combo",
-          "url": "https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh"
-        }
-      ],
-      "duration_ms": 526373,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
-      },
-      "artists": [
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
         {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+          "name": "Meer Colon",
+          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+      "duration_ms": 168510,
+      "name": "Show Me Love (feat. Meer Colon)",
+      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1243,6 +1227,22 @@
       "duration_ms": 226560,
       "name": "Dekonekte",
       "url": "https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "On va pas baisser les bras",
         "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 195692,
       "name": "On va pas baisser les bras",
       "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Foli",
-        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
-      },
-      "artists": [
-        {
-          "name": "Prophete",
-          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Foli",
-      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Down With the Gouyad (Remix)",
         "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 291157,
       "name": "Down With the Gouyad (Remix)",
       "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Foli",
+        "url": "https://open.spotify.com/album/4efO7q3PXElITADlJKjjNm"
+      },
+      "artists": [
+        {
+          "name": "Prophete",
+          "url": "https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Foli",
+      "url": "https://open.spotify.com/track/4Xn39gVpKmaf9wtjrGq7ol"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "LAKAY",
+        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
+      },
+      "artists": [
+        {
+          "name": "Jeff Pierre",
+          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
+        },
+        {
+          "name": "AlCol",
+          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "LAKAY",
+      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Miscalculated",
         "url": "https://open.spotify.com/album/1beccBq6D639FKHHNTnPeH"
       },
@@ -1523,38 +1543,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "LAKAY",
-        "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
+        "name": "Trip Tropikal",
+        "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
       },
       "artists": [
         {
-          "name": "Jeff Pierre",
-          "url": "https://open.spotify.com/artist/451USWFleFeAiEKc3sRvmt"
+          "name": "ManitoNation",
+          "url": "https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3"
         },
         {
-          "name": "AlCol",
-          "url": "https://open.spotify.com/artist/0yTm9Wc7dtY1N5GbRKllyR"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "LAKAY",
-      "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Can't Catch Me",
-        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
-      },
-      "artists": [
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot"
+        },
         {
-          "name": "Jessie Woo",
-          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
+          "name": "Kabysh",
+          "url": "https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD"
         }
       ],
-      "duration_ms": 229991,
-      "name": "Can't Catch Me",
-      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+      "duration_ms": 252000,
+      "name": "Na Va W\u00e8 Yo",
+      "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1579,26 +1587,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Trip Tropikal",
-        "url": "https://open.spotify.com/album/6ZzjN4s7XnjEbl75AsKFcn"
+        "name": "Can't Catch Me",
+        "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
       "artists": [
         {
-          "name": "ManitoNation",
-          "url": "https://open.spotify.com/artist/1QkGRbRqamey07IpztT9v3"
-        },
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/0iP0A87vUxBPLi7Wdrjeot"
-        },
-        {
-          "name": "Kabysh",
-          "url": "https://open.spotify.com/artist/3RW8JTuMBokuKGDPZ1xDWD"
+          "name": "Jessie Woo",
+          "url": "https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Na Va W\u00e8 Yo",
-      "url": "https://open.spotify.com/track/1aEHivhKcjk3DHig271xzA"
+      "duration_ms": 229991,
+      "name": "Can't Catch Me",
+      "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
-      },
-      "artists": [
-        {
-          "name": "NEVRMIND",
-          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
-        }
-      ],
-      "duration_ms": 153473,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Sol\u00e8y Midi",
         "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 229205,
       "name": "Sol\u00e8y Midi",
       "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK"
+      },
+      "artists": [
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "duration_ms": 153473,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1883,22 +1883,26 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Stupid Love",
-        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
+        "name": "Fanm d'Ayiti",
+        "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
       },
       "artists": [
         {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "BlecksFlex",
-          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        },
+        {
+          "name": "Spektral Quartet",
+          "url": "https://open.spotify.com/artist/2s8HBhXmdcVH5UHQzANkjb"
         }
       ],
-      "duration_ms": 164607,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
+      "duration_ms": 400666,
+      "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
+      "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
     }
   ],
   "unique_name": "Haitian Heat",

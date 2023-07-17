@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,002 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,014 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 39 | [I Love Nature \- Original Demo](https://open.spotify.com/track/7BVmOq6ejw9IH0PSYtVGAl) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 2:43 |
 | 40 | [Rule of thumb](https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd) | 2:44 |
 
-Snapshot ID: `MCxiY2Y0ZjFkYTUxMzI2MTY2YzYwZTJjYzZmZTU3NGZhNzRjMjBhMjI3`
+Snapshot ID: `MCw4MDFhN2JkZDZjODkwMDE4MDk4ZDY0M2M2YzY0ODQ4MmVhNmM4ODM1`

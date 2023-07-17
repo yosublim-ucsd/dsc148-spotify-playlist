@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,451 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,461 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Wenn das hier keine Liebe ist](https://open.spotify.com/track/1oPFgR6LruHs8FgAv9skhG) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [Wenn das hier keine Liebe ist](https://open.spotify.com/album/5Xp5C3rJsr1KaFnxaKuw3E) | 2:51 |
 | 100 | [Who's Laughing Now](https://open.spotify.com/track/4qE7V2dnOCues39TNqvRbh) | [Levina](https://open.spotify.com/artist/3AMWkkeLQXQdNw4cNwgtBB) | [Who's Laughing Now](https://open.spotify.com/album/3HAsTK185aOBgtWSYyXBh1) | 3:17 |
 
-Snapshot ID: `MCxiZmRjMWE2ZmFjNzgyOGVhMGQ3ZTI0YjkxM2U2NTJmOGZjNzM2ZDBh`
+Snapshot ID: `MCwyY2MxMDQ2MjVhNmU3NjI3MGYwZGFlZjUxZWZjZmM3MmZhNDNjMGFk`

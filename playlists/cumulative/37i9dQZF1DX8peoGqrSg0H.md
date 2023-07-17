@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: NuNew
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-356 songs - 21 hr 28 min
+357 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
+| [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 |  |
 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-15 | 2023-06-16 |
 | [Everytime](https://open.spotify.com/track/5PYOHo2Nbd6bQI1RovNJLN) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Everytime](https://open.spotify.com/album/5w8irJm7unlKJ6gIzlTaLe) | 3:04 | 2022-10-13 | 2022-11-04 |
 | [FIRE BOY](https://open.spotify.com/track/14XYtNNyCUGtG9quMgazIS) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [FIRE BOY](https://open.spotify.com/album/1bQ6GFjwrIxJngL72GQ5ux) | 2:49 | 2022-11-03 |  |
@@ -84,7 +85,7 @@
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2022-05-26 | 2022-07-23 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-25 |  |
 | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/track/4LJlTY8XrrrcNpfdExSF5C) | [MINDCLAZZ](https://open.spotify.com/artist/03QoOnekzBDpx7QbLatRwz) | [ก็ฉันน่ะแอบชอบ \(For a while\)](https://open.spotify.com/album/0qCrf2o0g0OMdYRC2fmexj) | 4:14 | 2022-06-02 | 2022-06-10 |
-| [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-06-30 |  |
+| [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-06-30 | 2023-07-17 |
 | [ก่อนที่เธอจะลืมฝัน](https://open.spotify.com/track/7434PIB7QneUWJSKjHhNXH) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ก่อนที่เธอจะลืมฝัน \(Lucid\)](https://open.spotify.com/album/3ERquWsXSCsvB7g1LGTrIp) | 4:16 | 2023-06-22 |  |
 | [ก๊อก ก๊อก](https://open.spotify.com/track/5apV16Mj5WQ3OW2qPxMuu4) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ก๊อก ก๊อก](https://open.spotify.com/album/6Bq2DNYOVC2UhJ8OetxqEf) | 3:06 | 2022-10-26 | 2022-11-12 |
 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [TON THANASIT](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 | 2022-08-31 | 2022-09-24 |

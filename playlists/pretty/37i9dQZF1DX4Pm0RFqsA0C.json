@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 3968,
+  "num_followers": 3969,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmI2MmZmMzhhNzBlMDU0YjllNDcxYjExZjU1YTFlZjBiMzk3MjU1",
+  "snapshot_id": "MCxiNjFlMTU1MjFiOGUxY2UxODI2MzY1OWEwMjEwZGFmODU3YjRlM2Q3",
   "tracks": [
     {
       "added_at": "2021-02-01 12:18:54",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Rhythm Light Beat Black",
-        "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
+        "name": "We Hate All Kinds of Violence... - The 1st Album",
+        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
       },
       "artists": [
         {
-          "name": "DEUX",
-          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 271490,
-      "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
+      "duration_ms": 264600,
+      "name": "Descent of Warriors",
+      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -623,18 +623,18 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+        "name": "Rhythm Light Beat Black",
+        "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
       },
       "artists": [
         {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+          "name": "DEUX",
+          "url": "https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA"
         }
       ],
-      "duration_ms": 264600,
-      "name": "Descent of Warriors",
-      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
+      "duration_ms": 271490,
+      "name": "\uc5ec\ub984 \uc548\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/0haGSQ43x5QhbloDnTxVZA"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
+        "name": "Second Birth",
+        "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
+      },
+      "artists": [
+        {
+          "name": "UP",
+          "url": "https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN"
+        }
+      ],
+      "duration_ms": 240430,
+      "name": "\ubfcc\uc694\ubfcc\uc694",
+      "url": "https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
         "name": "2008 Concert, Monologue",
         "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "Choose My Life-U - The 5th Album",
         "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
       },
@@ -1187,18 +1187,34 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "Second Birth",
-        "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
       },
       "artists": [
         {
-          "name": "UP",
-          "url": "https://open.spotify.com/artist/1gjzJCtXM9MERO7IyUNLUN"
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 240430,
-      "name": "\ubfcc\uc694\ubfcc\uc694",
-      "url": "https://open.spotify.com/track/4FyJtlsvCNO8uS58aqI354"
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\ud64d\uacbd\ubbfc Vol. 3",
+        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
+      },
+      "artists": [
+        {
+          "name": "Hong Kyung-min",
+          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Shaky Friendship - Euru Remix Version",
+      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1231,22 +1247,6 @@
       "duration_ms": 261250,
       "name": "\ube44\uc758 \ub7a9\uc18c\ub514",
       "url": "https://open.spotify.com/track/0zXc1HfRIwrf7j2vcvDAjN"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
-        "name": "\ud64d\uacbd\ubbfc Vol. 3",
-        "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
-      },
-      "artists": [
-        {
-          "name": "Hong Kyung-min",
-          "url": "https://open.spotify.com/artist/6CeGrlHkhTuqMVLDQRQ4qy"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Shaky Friendship - Euru Remix Version",
-      "url": "https://open.spotify.com/track/2XfDYBZioldmlLDb2EfWPC"
     },
     {
       "added_at": "2021-02-01 12:18:54",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-02-01 12:18:54",
       "album": {
-        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
-        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Chul",
-          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
-        }
-      ],
-      "duration_ms": 272848,
-      "name": "\ub3d9\ub124",
-      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
-    },
-    {
-      "added_at": "2021-02-01 12:18:54",
-      "album": {
         "name": "\ud64d\uacbd\ubbfc Vol. 3",
         "url": "https://open.spotify.com/album/0LGwglKMxT0zZ97bzAzjMU"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 212195,
       "name": "SWEETY",
       "url": "https://open.spotify.com/track/2WOcdPaRHZp20PwaGOk602"
+    },
+    {
+      "added_at": "2021-02-01 12:18:54",
+      "album": {
+        "name": "\uae40\ud604\ucca0 1\uc9d1 \uc624\ub79c\ub9cc\uc5d0/\ub3d9\ub124",
+        "url": "https://open.spotify.com/album/1cdhF1Mi82sHEttpJiOkNh"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Chul",
+          "url": "https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb"
+        }
+      ],
+      "duration_ms": 272848,
+      "name": "\ub3d9\ub124",
+      "url": "https://open.spotify.com/track/5YKTjm1NVqGAFsuuzKHNG8"
     },
     {
       "added_at": "2021-02-01 12:18:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,279 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,441 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 | 49 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 | 50 | [I Can Make You Feel Good](https://open.spotify.com/track/6bIt8A7azEBA69eSSBM841) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [A Night To Remember](https://open.spotify.com/album/6TCux89IlNjNcGDGjlRKvY) | 4:16 |
 
-Snapshot ID: `MCxiN2E4MDY1YTQyZTBkMDAzZDMzZmRjNGRlYjFhZjZhMGM4NmIzYWFi`
+Snapshot ID: `MCw4MTkxMjM4NjhjYzE5YWY1MGYwYWEwMTQyYmI3ZjU4ZGI3NjY5YzRh`

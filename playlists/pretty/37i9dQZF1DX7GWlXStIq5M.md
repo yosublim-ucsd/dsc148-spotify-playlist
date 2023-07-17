@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Juliette
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,610 likes - 79 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,760 likes - 79 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 78 | [Tão Bem](https://open.spotify.com/track/3i6wNOdHuDFCQQQqOFcxgE) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Tão Bem](https://open.spotify.com/album/1UPd4OTIhpg6IkBosxQFEu) | 2:34 |
 | 79 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
 
-Snapshot ID: `MCxiODI1ZGE2NWY0NDBiNGUzNTcxODAwZGJlOTQxZmMxODhmNmYyNjFj`
+Snapshot ID: `MCwzNzBmZDkwOTNhNDQwNTJjNDA5YzBjZjY2YzBiNTZmYWYxMzQ1NGJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=OIg\_mIumQY\-yAohjU8OJ\_A">sGawD </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,393 likes - 74 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,458 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 73 | [Counterfeit](https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 |
 | 74 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 |
 
-Snapshot ID: `MCxhZjE1ZjhjZmFhNGI4OTNhYjZlOWU4M2EyMDM4MzlkNmYzNWFjM2Mw`
+Snapshot ID: `MCwyYzhkN2Y4ZDFjZTNkZDViNTI2MjVjYWEyYjhmMTU1NDA2YjE1ZmMw`

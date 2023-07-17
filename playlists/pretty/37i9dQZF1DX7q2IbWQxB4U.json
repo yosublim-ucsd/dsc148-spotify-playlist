@@ -1,12 +1,12 @@
 {
   "description": "De la cuna pa'l mundo. Celebrando la cultura y m\u00fasica de Puerto Rico con los sonidos de la Casa.",
-  "num_followers": 3301,
+  "num_followers": 3325,
   "original_name": "Casa Spotify Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjM2NGYyYWNmOTlkYjMzMjIyNmU2ZDU5ODg3MTRkYTkxY2I4Y2Jj",
+  "snapshot_id": "MCxjZDc1M2RmNWYzZmVlN2U2Mzc1YWZkNzdjNTgyNDUzNmJiNGZlZTVi",
   "tracks": [
     {
       "added_at": "2023-06-27 18:03:27",
@@ -919,6 +919,26 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
+        "name": "El 6EI66EI6",
+        "url": "https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Slick La Mina",
+          "url": "https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n"
+        }
+      ],
+      "duration_ms": 115324,
+      "name": "TrapTelly",
+      "url": "https://open.spotify.com/track/5L9u1w2MgYKkStdDoqjw0T"
+    },
+    {
+      "added_at": "2023-06-27 18:03:27",
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -939,22 +959,6 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
-    },
-    {
-      "added_at": "2023-06-27 18:03:27",
-      "album": {
         "name": "En Su Nota",
         "url": "https://open.spotify.com/album/6WUoryCcrqbeteyb9jlfvX"
       },
@@ -971,22 +975,18 @@
     {
       "added_at": "2023-06-27 18:03:27",
       "album": {
-        "name": "El 6EI66EI6",
-        "url": "https://open.spotify.com/album/2Zrv60HlQOOTHJXxTtQpiB"
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
       "artists": [
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        },
-        {
-          "name": "Slick La Mina",
-          "url": "https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 115324,
-      "name": "TrapTelly",
-      "url": "https://open.spotify.com/track/5L9u1w2MgYKkStdDoqjw0T"
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
     },
     {
       "added_at": "2023-06-27 18:03:27",

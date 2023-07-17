@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-94 songs - 6 hr 11 min
+95 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [那邊見](https://open.spotify.com/track/7sFMX70IkeDA7O9zM6qd9l) | [Swing](https://open.spotify.com/artist/6LdLJ6nh1qFyveuaXwxdXQ) | [Swing 到盡](https://open.spotify.com/album/1ynk9pR2lVVN0yOi8i8Rr6) | 4:13 | 2022-01-13 |  |
 | [鐵塔凌雲](https://open.spotify.com/track/4uoXk5wvUcL9TOZVDxWTnq) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [難忘許冠傑Sam Hui 30年](https://open.spotify.com/album/1nG8714ZVyfUjNJYBdAZ79) | 3:00 | 2022-11-04 | 2022-11-14 |
 | [鐵塔凌雲](https://open.spotify.com/track/6Gfx0HhDiSHf9yZjOyDGQD) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [鬼馬雙星](https://open.spotify.com/album/0YcznUqb6s6kRPmuTp6MVN) | 3:02 | 2022-01-13 | 2022-07-29 |
-| [鐵塔凌雲](https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [真經典 \- 許冠傑](https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal) | 3:02 | 2022-01-13 |  |
+| [鐵塔凌雲](https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [真經典 \- 許冠傑](https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal) | 3:02 | 2022-01-13 | 2023-07-17 |
+| [鐵塔凌雲](https://open.spotify.com/track/3tMwHTdHyJBBiw5GGUITci) | [許冠傑](https://open.spotify.com/artist/6CyXmG5ggXnHnviOBJsnn8) | [寶麗金88極品音色系列 \- 許冠傑](https://open.spotify.com/album/0tWdkdfyXeS8uaej0tFvgO) | 3:04 | 2022-12-22 |  |
 | [離原](https://open.spotify.com/track/0wJq0895oQEq63hBUWUO1B) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:40 | 2022-01-13 |  |
 | [離開, 是為了回來](https://open.spotify.com/track/7tjBSD63FgLBT3EtFvH3Lh) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [遊樂](https://open.spotify.com/album/5Ydyl1o47u4z0efeDOR2cz) | 3:57 | 2022-01-13 |  |
 | [離開是為了回來 \(Leaving Is for Coming Back\)](https://open.spotify.com/track/472quLRMJ7dv03LSbV3WGC) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [遊樂 \(Travelogue One\)](https://open.spotify.com/album/22ads6jK2PIjA6leBW8tlk) | 3:57 | 2022-01-13 | 2022-07-29 |

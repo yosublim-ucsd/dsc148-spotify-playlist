@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Lele Blade in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,863 likes - 52 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,945 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 51 | [Malessere](https://open.spotify.com/track/6eGAGBUZTFUIdkwErazQ77) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ) | [Malessere](https://open.spotify.com/album/0I7gMWxRXgP273yDVq08sQ) | 2:27 |
 | 52 | [NUNN’È COSA](https://open.spotify.com/track/3cUb1152ZSVWm421ksV7VH) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [NUNN’È COSA](https://open.spotify.com/album/6GJZfbAYH8ZwpYv8FocESH) | 2:28 |
 
-Snapshot ID: `MCw2ODgyMzIzMDUyZWU1MTlkNjAyOGZmN2Y2NzUzMzU0NjZmODUzMzQ1`
+Snapshot ID: `MCxmNDM2OTUwNjJiODJiM2RmMjAzYTkzZWZmOGQyYjFlNzk5ZWFkZDIx`

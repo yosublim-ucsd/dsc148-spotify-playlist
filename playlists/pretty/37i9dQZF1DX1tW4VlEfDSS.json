@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 345039,
+  "num_followers": 345080,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDBiNmQ1NjAwOGQyNjQ4NmZmMjhhZjRhYTdkOTdlYTIzMzEyNTc3",
+  "snapshot_id": "MCxlMWE0MGE2ZjdmMzZhZDUxYjIzZGViOWRjZTU5NzI2MjM0ZDZmMzMx",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "50//50",
-        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "duration_ms": 129059,
-      "name": "50//50 - Edit",
-      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Got Time For Me (with Channel Tres)",
         "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 179034,
       "name": "Got Time For Me (with Channel Tres)",
       "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "50//50",
+        "url": "https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "duration_ms": 129059,
+      "name": "50//50 - Edit",
+      "url": "https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -395,6 +395,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        },
+        {
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+        }
+      ],
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        },
-        {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
-        }
-      ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Off My Mind",
+        "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "SAM WHITE",
+          "url": "https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
         "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 149760,
       "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
       "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Off My Mind",
-        "url": "https://open.spotify.com/album/2wfCtn1trmG5Vtq5emR0jc"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "SAM WHITE",
-          "url": "https://open.spotify.com/artist/1YPTXq9n1T2Zlw3dLR3Zdf"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/2S2uzei41Epnb1TndFTS9l"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Forever Man (How Many Times) [Earth n Days Remix]",
-        "url": "https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9"
-      },
-      "artists": [
-        {
-          "name": "Beatchuggers",
-          "url": "https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR"
-        },
-        {
-          "name": "Earth n Days",
-          "url": "https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Forever Man (How Many Times) - Earth n Days Remix",
-      "url": "https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Voodoo Babe",
         "url": "https://open.spotify.com/album/1lYsNEVEUxuXEAPFE07mAL"
       },
@@ -831,22 +811,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Angels By My Side (feat. Pauline Taylor)",
-        "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
+        "name": "Forever Man (How Many Times) [Earth n Days Remix]",
+        "url": "https://open.spotify.com/album/3yyp1dD6yJWpGdekqpIcC9"
       },
       "artists": [
         {
-          "name": "Sophie Lloyd",
-          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
+          "name": "Beatchuggers",
+          "url": "https://open.spotify.com/artist/036bcSagihiHvS91LAxiAR"
         },
         {
-          "name": "Pauline Taylor",
-          "url": "https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1"
+          "name": "Earth n Days",
+          "url": "https://open.spotify.com/artist/1DIvkVGJmk8Luy53ChhCjj"
         }
       ],
-      "duration_ms": 217606,
-      "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
-      "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
+      "duration_ms": 181533,
+      "name": "Forever Man (How Many Times) - Earth n Days Remix",
+      "url": "https://open.spotify.com/track/0r5vc5j9eWQv6f0JAns0Ii"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -871,6 +851,26 @@
       "duration_ms": 215243,
       "name": "Love the Way (Happiness)",
       "url": "https://open.spotify.com/track/1okhlrAG0YsKTx9PpPprXv"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Angels By My Side (feat. Pauline Taylor)",
+        "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
+        },
+        {
+          "name": "Pauline Taylor",
+          "url": "https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1"
+        }
+      ],
+      "duration_ms": 217606,
+      "name": "Angels By My Side (feat. Pauline Taylor) - 7\" Version",
+      "url": "https://open.spotify.com/track/4Sjb4zaYIzn254xG2lC1Y9"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "You Ain't Love (feat. Teni Tinks)",
-        "url": "https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Teni Tinks",
-          "url": "https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs"
-        }
-      ],
-      "duration_ms": 271475,
-      "name": "You Ain't Love (feat. Teni Tinks)",
-      "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "I Discover",
         "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "You Ain't Love (feat. Teni Tinks)",
+        "url": "https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Teni Tinks",
+          "url": "https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "You Ain't Love (feat. Teni Tinks)",
+      "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
     },
     {
       "added_at": "2023-07-14 04:01:00",

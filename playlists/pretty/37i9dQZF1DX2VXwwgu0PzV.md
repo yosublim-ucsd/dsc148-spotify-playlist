@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=pzNnGaQXQB2Dgc0WgWI7dw">TBabz</a> and <a href="https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=aPTZIvCmQnq6JMkSJy5DJw">Naffymar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,264 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,328 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 89 | [Clear the Hold Up](https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [Clear the Hold Up](https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0) | 3:37 |
 | 90 | [I worship You \- Live](https://open.spotify.com/track/1VoZNbHh09zSljru2ctHw3) | [David Ize](https://open.spotify.com/artist/3NBFUw8jrmbEZ5qaHaNUtA) | [Atmosphère \(Live\)](https://open.spotify.com/album/0NaKmq0O0k7ULRgfqJbiyR) | 4:35 |
 
-Snapshot ID: `MCwyNDlmMTZjYTRiZmI4NjgwMDFjNzI1ZWY1NDIzMmIyMjcwOTA3YjJk`
+Snapshot ID: `MCw2ZWIyZWVkNjJlYzNjNzM5NjdlODJhNzA1MjE4NWJmMTEyMWIyOWE5`

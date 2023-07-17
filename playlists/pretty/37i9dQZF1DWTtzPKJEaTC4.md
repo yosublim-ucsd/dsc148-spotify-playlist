@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:2i1CPudyCUjL50Wqjv8AMI">Alfa Mist</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,135 likes - 30 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,148 likes - 30 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 29 | [Wrangel](https://open.spotify.com/track/6ich630va9p5hMVU2DPC2J) | [Benedikt Jahnel Trio](https://open.spotify.com/artist/7HcGEwGFOZo1xqYa3SJ6m3) | [Equilibrium](https://open.spotify.com/album/0jdPF0XNaprry2aipeMyGD) | 9:01 |
 | 30 | [Effi \- Remastered](https://open.spotify.com/track/0nIeaEyPJIixP1B73MTXpf) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Patterns](https://open.spotify.com/album/1y2UHjMwM818jzPqRzw9cd) | 7:10 |
 
-Snapshot ID: `MCxmMjNmZGVlNjYyZjRmODlkNjQ1NTJhMTY5NDY4YzJhZDMzN2Q0NGZh`
+Snapshot ID: `MCwxMDFhYjVmZDEzMjhjYmIwYjI3YjAzZTM1NjM0NTZmNzU4MTdlZjhh`

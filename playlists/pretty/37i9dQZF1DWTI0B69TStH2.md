@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: 12 kamieni \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,717 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,716 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [OKRĘGOWA LIGA](https://open.spotify.com/track/4LgXhmmnBgLLfJTshO2bkc) | [jedrek hibob](https://open.spotify.com/artist/1i5fkWgEqFHqaky1WjQWsL), [Kubagm](https://open.spotify.com/artist/6xZ7Mujs7IGYuVcYxnIr3w) | [OKRĘGOWA LIGA](https://open.spotify.com/album/4w3ozahC0sFJFY2d6xzQAe) | 2:54 |
 | 100 | [Rozbitek](https://open.spotify.com/track/0zikAPODAQuKMYsQ4unaNz) | [Lochy I Smoki](https://open.spotify.com/artist/6SGL2glOJ2tDR1gs6Xrdru) | [Powiedz, że wystarczam](https://open.spotify.com/album/0PefBnEhr7G8tyKA1R3i0B) | 3:22 |
 
-Snapshot ID: `MCw3NjFkZGVlNDc3YmQwNGJlNTMyMjYyODIyMmZhYzRhNzk3MDU3MzQ4`
+Snapshot ID: `MCxjOWU4MjEwMTIzNWUyNGJlODAwMDI5OWE1N2RlZWI5MTkzMjNlNTFl`

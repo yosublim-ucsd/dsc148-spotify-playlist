@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest",
-  "num_followers": 115528,
+  "num_followers": 115604,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWFhN2ZlOGFjZTJjNmJlOTgwOWQ0MTc3MDBhN2MwMDdjMTUzYzkz",
+  "snapshot_id": "MCw3OTQ5ZTBiNjIwNmExNzMxN2IxYTc0OTU0M2I4M2JmN2I4MjMzZWQy",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1063,42 +1063,6 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Essa Minha Vida Bandida",
-        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "THEU$",
-          "url": "https://open.spotify.com/artist/7hag2h6w83JU7eapAQcoLI"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Twerk",
-      "url": "https://open.spotify.com/track/0jFEunmpCB3mRsi8E6aWKT"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
       },
@@ -1131,6 +1095,42 @@
       "duration_ms": 213333,
       "name": "Lancei os Trajes",
       "url": "https://open.spotify.com/track/1kxrDZEDihuelR3QlKJH7g"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "Essa Minha Vida Bandida",
+        "url": "https://open.spotify.com/album/3vdEEeAQYc0HPzetJ488cH"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "THEU$",
+          "url": "https://open.spotify.com/artist/7hag2h6w83JU7eapAQcoLI"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/0jFEunmpCB3mRsi8E6aWKT"
     },
     {
       "added_at": "2023-07-14 03:01:00",
