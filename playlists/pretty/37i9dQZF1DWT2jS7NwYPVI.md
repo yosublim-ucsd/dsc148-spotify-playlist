@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Hello Yello
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,275 likes - 104 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,711 likes - 104 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 103 | [Rorschach](https://open.spotify.com/track/0p1Uo9bQhK4uUfLCVhaKQf) | [Secondhand Sound](https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw) | [Rorschach](https://open.spotify.com/album/4fuNiaOlWl5i9QoL4X6C7N) | 3:55 |
 | 104 | [PALM TREES](https://open.spotify.com/track/3eom1RhFm2AXH8PN3VWSru) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [I SAW POLICE CAR COLLECTIVE AND THEY WERE FUCKING SICK](https://open.spotify.com/album/2HbiDoLLh6AVctl9BxG7kd) | 2:45 |
 
-Snapshot ID: `MCwzNTk4MWQyMTE4ZDViMDY5YTQ4M2M5NDk3NWI5Nzc3ZmEzNGU5ZTIz`
+Snapshot ID: `MCwxOGYyNzdhMjc0MmYxZjc1Y2NmNmVkNTg4MmRkZDk5NmM5MGJmZGRi`

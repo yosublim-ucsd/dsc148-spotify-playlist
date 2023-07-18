@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141545,
+  "num_followers": 141544,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTM2NGVlYmZhNGY2ZDhkY2UxYzAwY2EzOWMzMmMyOTZlNzNhMjY3",
+  "snapshot_id": "MCw5NmU4NWE5NTAzMzk0ZmUzM2RmOTIxNTY0NTVkOGU3YzEwY2U5YzIx",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -175,6 +175,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "My Feet Can't Fail Me Now",
+      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "New Orleans Jazz Collection - French Quarter Favorites",
         "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
       },
@@ -209,38 +225,6 @@
       "url": "https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC"
     },
     {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Do Watcha Wanna",
-        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 335506,
-      "name": "I Feel Like Funkin' It Up - Extended Mix",
-      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 278440,
-      "name": "My Feet Can't Fail Me Now",
-      "url": "https://open.spotify.com/track/5EvUkN9QWfDbSLE4Ybfs0u"
-    },
-    {
       "added_at": "2021-10-08 04:02:00",
       "album": {
         "name": "Chasing Birds (Preservation Hall Jazz Band Re-Version)",
@@ -255,6 +239,22 @@
       "duration_ms": 218702,
       "name": "Chasing Birds - Preservation Hall Jazz Band Re-Version",
       "url": "https://open.spotify.com/track/4ca03o6ZZsFA0LB620kpKI"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Do Watcha Wanna",
+        "url": "https://open.spotify.com/album/3ibeQt7lch2EG33mJIMPVi"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 335506,
+      "name": "I Feel Like Funkin' It Up - Extended Mix",
+      "url": "https://open.spotify.com/track/3fztESFsyoyq54YThjlOS1"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -439,6 +439,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
+        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Lord, Lord, Lord",
+      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "My Feet Can't Fail Me Now",
         "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
       },
@@ -471,38 +487,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Complete Columbia Session 1946",
-        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "The Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
-        "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
-      },
-      "artists": [
-        {
-          "name": "Leroy Jones",
-          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Lord, Lord, Lord",
-      "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Our New Orleans (Expanded Edition)",
         "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 220080,
       "name": "Canal Street Blues",
       "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Best of New Orleans (Mardi Gras Indians)",
-        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
-      },
-      "artists": [
-        {
-          "name": "The Wild Magnolias",
-          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Handa Wanda",
-      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Rebirth For Life",
         "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 349666,
       "name": "Tubaluba",
       "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Best of New Orleans (Mardi Gras Indians)",
+        "url": "https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8"
+      },
+      "artists": [
+        {
+          "name": "The Wild Magnolias",
+          "url": "https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Handa Wanda",
+      "url": "https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -759,58 +759,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Shout - The Complete Victor Recordings, Vol. 2",
-        "url": "https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY"
-      },
-      "artists": [
-        {
-          "name": "King Oliver",
-          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
-        },
-        {
-          "name": "King Oliver Orchestra",
-          "url": "https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Don't You Think I Love You",
-      "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Swing Out",
-        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're Gonna Lose Your Gal",
-      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Here Come da Great Olympia Band",
-        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
-      },
-      "artists": [
-        {
-          "name": "Dejan's Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
-        }
-      ],
-      "duration_ms": 385040,
-      "name": "I Gotta Woman - Bonus Track",
-      "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "The Luis Russell Story",
         "url": "https://open.spotify.com/album/7GZbePzYbEdPEKYC2NmFYQ"
       },
@@ -843,6 +791,58 @@
       "duration_ms": 187333,
       "name": "Saratoga Drag",
       "url": "https://open.spotify.com/track/5moLaoBxP6c8mAOw0IthLv"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New Orleans Shout - The Complete Victor Recordings, Vol. 2",
+        "url": "https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY"
+      },
+      "artists": [
+        {
+          "name": "King Oliver",
+          "url": "https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ"
+        },
+        {
+          "name": "King Oliver Orchestra",
+          "url": "https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM"
+        }
+      ],
+      "duration_ms": 168440,
+      "name": "Don't You Think I Love You",
+      "url": "https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Here Come da Great Olympia Band",
+        "url": "https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17"
+      },
+      "artists": [
+        {
+          "name": "Dejan's Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk"
+        }
+      ],
+      "duration_ms": 385040,
+      "name": "I Gotta Woman - Bonus Track",
+      "url": "https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J"
     },
     {
       "added_at": "2021-04-26 16:53:52",

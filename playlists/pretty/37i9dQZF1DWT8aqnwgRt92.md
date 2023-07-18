@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,951 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,662 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [スターチス](https://open.spotify.com/track/3WpkBKPICz2m3cxZaaVA19) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [スターチス](https://open.spotify.com/album/398wuzoQbshuwpTcTQdZSC) | 4:03 |
 | 85 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 |
 
-Snapshot ID: `MCwzNGRiYWQ2OGRhZjkwOTc3OWEzMjlmN2M4MTNlMmMyYmVhY2NkMGMw`
+Snapshot ID: `MCxjNTI3M2NiMGVkMTg0NTZhYjgzMGE5NmJkZDU4ZThjMmI1MTkyOGQw`

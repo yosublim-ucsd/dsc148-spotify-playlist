@@ -1,12 +1,12 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 120189,
+  "num_followers": 120295,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ4NjNkNjY2YWI1OGIzMzkwODlkYzY4OGMyMDZlNjhkZWIxYTFm",
+  "snapshot_id": "MCxlNTE2N2I4MjcyMDM2MTFlOWUzNWE5ODZhMjY1N2E5ZWYzYmVhNzA2",
   "tracks": [
     {
       "added_at": "2021-10-27 14:20:30",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/0n7S1BxSt6BoM0iXixxi63"
     },
     {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Twoism",
+        "url": "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 92773,
+      "name": "Melissa Juice",
+      "url": "https://open.spotify.com/track/4KJE8soq80zLzaoDmDjqkb"
+    },
+    {
       "added_at": "2022-09-03 03:48:48",
       "album": {
         "name": "Sunset Mission",
@@ -119,22 +135,6 @@
       "duration_ms": 146160,
       "name": "The First I love You",
       "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Twoism",
-        "url": "https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 92773,
-      "name": "Melissa Juice",
-      "url": "https://open.spotify.com/track/4KJE8soq80zLzaoDmDjqkb"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "The Last Panthers",
         "url": "https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB"
       },
@@ -303,6 +287,38 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 535266,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Music for an Empty Metropolis",
         "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
       },
@@ -315,6 +331,22 @@
       "duration_ms": 278095,
       "name": "Acid Rain on Broken Rooftops",
       "url": "https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "The Beach At Redpoint",
+      "url": "https://open.spotify.com/track/7FKPc0Xx4r3SJR1IwrQfxF"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -351,38 +383,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 535266,
-      "name": "#5",
-      "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "The Beach At Redpoint",
-      "url": "https://open.spotify.com/track/7FKPc0Xx4r3SJR1IwrQfxF"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Dark Island",
         "url": "https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Black Mill Tapes (10th Anniversary Box)",
-        "url": "https://open.spotify.com/album/3GWTJtbuaUpSPK9IQSUMSw"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 110680,
-      "name": "Theme Number Sixty Eight",
-      "url": "https://open.spotify.com/track/3j42kvMTc7rDaxrt0vFMwt"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Traces of Time",
         "url": "https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 716373,
       "name": "Valley of the Birds",
       "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Black Mill Tapes (10th Anniversary Box)",
+        "url": "https://open.spotify.com/album/3GWTJtbuaUpSPK9IQSUMSw"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 110680,
+      "name": "Theme Number Sixty Eight",
+      "url": "https://open.spotify.com/track/3j42kvMTc7rDaxrt0vFMwt"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/1jmfCG7E5dzJgzwhZ0ISyR"
     },
     {
+      "added_at": "2022-09-19 17:55:47",
+      "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
       "added_at": "2022-03-11 06:00:33",
       "album": {
         "name": "Hypernormality",
@@ -481,22 +497,6 @@
       "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
     },
     {
-      "added_at": "2022-09-19 17:55:47",
-      "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Tower of Silence",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "L'illustration Musicale",
-        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
-      },
-      "artists": [
-        {
-          "name": "King Of Woolworths",
-          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
-        }
-      ],
-      "duration_ms": 370800,
-      "name": "Delia Derbyshire",
-      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
-    },
-    {
       "added_at": "2022-05-24 01:06:30",
       "album": {
         "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
@@ -543,6 +527,22 @@
       "duration_ms": 265200,
       "name": "Exile on \u00c6r\u00f8",
       "url": "https://open.spotify.com/track/2awlBl0GJRO38r7LCmvSbH"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "L'illustration Musicale",
+        "url": "https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1"
+      },
+      "artists": [
+        {
+          "name": "King Of Woolworths",
+          "url": "https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd"
+        }
+      ],
+      "duration_ms": 370800,
+      "name": "Delia Derbyshire",
+      "url": "https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
     },
     {
+      "added_at": "2022-09-03 03:46:33",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
       "added_at": "2022-02-25 03:58:22",
       "album": {
         "name": "Director",
@@ -689,20 +705,20 @@
       "url": "https://open.spotify.com/track/1M64YME6COGGJ4q1zstbcH"
     },
     {
-      "added_at": "2022-09-03 03:46:33",
+      "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+        "name": "Dark Island",
+        "url": "https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ"
       },
       "artists": [
         {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
         }
       ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+      "duration_ms": 208706,
+      "name": "Peepshow",
+      "url": "https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s"
     },
     {
       "added_at": "2022-08-22 21:35:06",
@@ -719,22 +735,6 @@
       "duration_ms": 101380,
       "name": "Flux",
       "url": "https://open.spotify.com/track/1FBZeHlILzJFN2YGKk0yPS"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Dark Island",
-        "url": "https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ"
-      },
-      "artists": [
-        {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Peepshow",
-      "url": "https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s"
     },
     {
       "added_at": "2022-09-26 22:27:43",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Sleep Games",
-        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 309334,
-      "name": "The Black Mill Video Tape",
-      "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Seeing Through Sound (Pentimento Volume Two)",
         "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Sleep Games",
+        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 309334,
+      "name": "The Black Mill Video Tape",
+      "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Lost Themes III: Alive After Death",
         "url": "https://open.spotify.com/album/2GYD5j8wa4kEhlmN5GGiUT"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 237373,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/66S2XAQ2hPYoeZh62yHfUB"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Berberian Sound Studio",
-        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Teresa, Lark of Ascension",
-      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1043,6 +1027,22 @@
       "duration_ms": 96597,
       "name": "First Day",
       "url": "https://open.spotify.com/track/4jqVZEFZJPpSdnwPKPAdg3"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Berberian Sound Studio",
+        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Teresa, Lark of Ascension",
+      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1129,20 +1129,20 @@
       "url": "https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B"
     },
     {
-      "added_at": "2023-02-27 18:31:54",
+      "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
+        "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
+        "url": "https://open.spotify.com/album/6LjY0vS5SEQfk8hjdWhCVV"
       },
       "artists": [
         {
-          "name": "A. M.",
-          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
+          "name": "Broadcast And The Focus Group",
+          "url": "https://open.spotify.com/artist/7eYaQFJFmY2XYlZyf8SZhv"
         }
       ],
-      "duration_ms": 313600,
-      "name": "Francis K.",
-      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
+      "duration_ms": 271853,
+      "name": "the be colony",
+      "url": "https://open.spotify.com/track/4Eqp1Eo7niTd574CMKpJGr"
     },
     {
       "added_at": "2022-03-11 05:43:05",
@@ -1161,20 +1161,20 @@
       "url": "https://open.spotify.com/track/14zU712whThn4ZtSmz8vil"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2023-02-27 18:31:54",
       "album": {
-        "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
-        "url": "https://open.spotify.com/album/6LjY0vS5SEQfk8hjdWhCVV"
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/4qbGp9cj61TMzAeFAtEUj8"
       },
       "artists": [
         {
-          "name": "Broadcast And The Focus Group",
-          "url": "https://open.spotify.com/artist/7eYaQFJFmY2XYlZyf8SZhv"
+          "name": "A. M.",
+          "url": "https://open.spotify.com/artist/2GetULOyoPrlJ6DentO2Wa"
         }
       ],
-      "duration_ms": 271853,
-      "name": "the be colony",
-      "url": "https://open.spotify.com/track/4Eqp1Eo7niTd574CMKpJGr"
+      "duration_ms": 313600,
+      "name": "Francis K.",
+      "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Flowers Of Evil",
-        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 848256,
-      "name": "Flowers Of Evil",
-      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Perception Report 2",
         "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 254955,
       "name": "Dance of the Mince Pie Martians",
       "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Flowers Of Evil",
+        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 848256,
+      "name": "Flowers Of Evil",
+      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
+        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+      },
+      "artists": [
+        {
+          "name": "Wilburn Burchette",
+          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "Witch's Will",
+      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Sound-Dust (Expanded Edition)",
         "url": "https://open.spotify.com/album/19UJ41n18Bej71oLEj14xO"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
-        "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
       },
       "artists": [
         {
-          "name": "Wilburn Burchette",
-          "url": "https://open.spotify.com/artist/5V2gmjVAI4RLvfCNAXf9rZ"
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
         }
       ],
-      "duration_ms": 297440,
-      "name": "Witch's Will",
-      "url": "https://open.spotify.com/track/2y5fGTCA30VoH783YvhUWy"
+      "duration_ms": 185773,
+      "name": "Flight of the Raven",
+      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1307,22 +1323,6 @@
       "duration_ms": 197021,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/3AljM5qQOlyk5NApH8pWJn"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Flight of the Raven",
-      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
     },
     {
-      "added_at": "2022-03-11 06:35:59",
-      "album": {
-        "name": "The Silver Threshold",
-        "url": "https://open.spotify.com/album/3cdeHLyaCj9g136FUcya4y"
-      },
-      "artists": [
-        {
-          "name": "hackedepicciotto",
-          "url": "https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s"
-        }
-      ],
-      "duration_ms": 256402,
-      "name": "The Silver Threshold",
-      "url": "https://open.spotify.com/track/1RO1HR3Icfo8JOCeywSIf5"
-    },
-    {
       "added_at": "2022-06-08 02:20:31",
       "album": {
         "name": "Umbra",
@@ -1507,6 +1491,22 @@
       "duration_ms": 437634,
       "name": "Umbra",
       "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
+    },
+    {
+      "added_at": "2022-03-11 06:35:59",
+      "album": {
+        "name": "The Silver Threshold",
+        "url": "https://open.spotify.com/album/3cdeHLyaCj9g136FUcya4y"
+      },
+      "artists": [
+        {
+          "name": "hackedepicciotto",
+          "url": "https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s"
+        }
+      ],
+      "duration_ms": 256402,
+      "name": "The Silver Threshold",
+      "url": "https://open.spotify.com/track/1RO1HR3Icfo8JOCeywSIf5"
     },
     {
       "added_at": "2022-04-06 03:05:40",

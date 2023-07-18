@@ -1245,6 +1245,36 @@
     },
     {
       "album": {
+        "name": "Raatan Kaaliyan",
+        "url": "https://open.spotify.com/album/5CRx2e8PTzPDpF6LeVYVdq"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        },
+        {
+          "name": "Gautam G Sharma",
+          "url": "https://open.spotify.com/artist/1fgDaY2EEkhZQ8Di5W2iVw"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224211,
+      "name": "Raatan Kaaliyan",
+      "url": "https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr"
+    },
+    {
+      "album": {
         "name": "Riha",
         "url": "https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6"
       },
@@ -1636,7 +1666,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 161052,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/2HbzLM4zea2POE8Zd1mSNq"

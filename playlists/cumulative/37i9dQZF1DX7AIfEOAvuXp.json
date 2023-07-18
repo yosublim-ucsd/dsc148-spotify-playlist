@@ -232,10 +232,28 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 211865,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu"
+    },
+    {
+      "album": {
+        "name": "HUES.",
+        "url": "https://open.spotify.com/album/3BL9rMkgTK20yLu3zaeJGM"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211865,
+      "name": "AMBER",
+      "url": "https://open.spotify.com/track/3Gxu9gAd5rXsnSS0rUpRAs"
     },
     {
       "album": {

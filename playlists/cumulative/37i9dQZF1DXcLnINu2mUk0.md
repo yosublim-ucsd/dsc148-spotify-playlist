@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-370 songs - 20 hr 14 min
+371 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Foca Em Mim](https://open.spotify.com/track/5zgjyGU0J3b4aLbRLE2VGV) | [Aciara](https://open.spotify.com/artist/2YTyLANKeASYcBm1wJadNI), [South](https://open.spotify.com/artist/4iIARK2uospivls7spnIw9) | [Foca Em Mim](https://open.spotify.com/album/5xFLHYHkTdRraM87Y4QhHb) | 2:56 | 2023-06-29 | 2023-07-14 |
 | [Forever Na Street](https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Forever Na Street](https://open.spotify.com/album/0SYbOWZfcjV2Eqwq1XtMZk) | 2:33 | 2023-03-30 | 2023-04-21 |
 | [Foste um Vício](https://open.spotify.com/track/205EI5BcZGUAmr2CDLT8Au) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Foste um Vício](https://open.spotify.com/album/0YRohggaep7lzKfXr1xfxs) | 3:21 | 2022-09-22 | 2022-10-14 |
+| [Free to B](https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Free to B](https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO) | 2:26 | 2023-07-13 |  |
 | [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 | 2023-03-25 |
 | [Friend Zone](https://open.spotify.com/track/04trkiJDGMLe2c2Ghop3f2) | [Hugo Casaca](https://open.spotify.com/artist/0Y8q7atymYLh7p9k4qiYe1), [Soulwave](https://open.spotify.com/artist/7BmVNqv2Zb3bRjzb4qMAr8) | [Friend Zone](https://open.spotify.com/album/5msGs054ES4Jonpc7zHjnf) | 3:04 | 2022-09-29 | 2022-10-28 |
 | [Fundo](https://open.spotify.com/track/70RoY8wdFdF3rrnkHooxp1) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9), [Naife](https://open.spotify.com/artist/7KTQQgroIAmGaopulh98Bi) | [GANA](https://open.spotify.com/album/6xCXH2MTm96fgygr5GHUz1) | 3:24 | 2023-02-17 | 2023-03-11 |
@@ -191,7 +192,7 @@
 | [Lá Fora](https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Lá Fora](https://open.spotify.com/album/4RBovD9AuQkPGJ8Tpz9Bpg) | 3:06 | 2022-10-06 | 2022-12-02 |
 | [Lágrima na Mão](https://open.spotify.com/track/1JuohEccDVgCrOEtHZhq4M) | [TAY](https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu) | [Lágrima na Mão](https://open.spotify.com/album/5JpFm0EZf3mL0IllJQraku) | 3:15 | 2023-06-08 | 2023-06-30 |
 | [Lágrimas](https://open.spotify.com/track/7wsSukiPVBZB8A46OlP4qI) | [Cairo](https://open.spotify.com/artist/0nXf2L3BVlS9gQmYE5N1iP) | [Lágrimas](https://open.spotify.com/album/2VQpN650zWtGI2R0q5VUhf) | 3:03 | 2023-06-01 | 2023-06-30 |
-| [Madonna](https://open.spotify.com/track/7ivBImfhmqXKUIF3pR0rFk) | [Parras](https://open.spotify.com/artist/4kbPiFbjQFAshuG6rioE8u) | [Madonna](https://open.spotify.com/album/1sOcSfwkwJjWF2Bu3gL8eO) | 2:58 | 2023-07-13 |  |
+| [Madonna](https://open.spotify.com/track/7ivBImfhmqXKUIF3pR0rFk) | [Parras](https://open.spotify.com/artist/4kbPiFbjQFAshuG6rioE8u) | [Madonna](https://open.spotify.com/album/1sOcSfwkwJjWF2Bu3gL8eO) | 2:58 | 2023-07-13 | 2023-07-18 |
 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 | 2022-11-11 |  |
 | [MAIS ALTO](https://open.spotify.com/track/5BGlwfNhojchI4UT19QYoZ) | [CHLOE](https://open.spotify.com/artist/2sohJUFgwhJEjrbm4QzSfW), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1) | [BAGAGEM](https://open.spotify.com/album/2XPfsQ1uOAIOMVSmAOwVnz) | 3:38 | 2023-04-13 | 2023-05-12 |
 | [Mais ninguém](https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI) | [Mr\. Soulja](https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Mais ninguém](https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy) | 2:59 | 2023-06-29 | 2023-07-07 |

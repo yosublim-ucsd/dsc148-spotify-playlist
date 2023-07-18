@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,461 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,474 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 45 | [Rover](https://open.spotify.com/track/49ah9MYzgtvDnUXYWJeLvF) | [Devon](https://open.spotify.com/artist/2X22f1pZWsWSp7qgbdGov8), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [CAZ](https://open.spotify.com/artist/5OjHWP4OXww7mFaOyLMxfp) | [Rover](https://open.spotify.com/album/3NB6h1vNm9vdiJkGr1aO7l) | 2:37 |
 | 46 | [E\-Scooter Anthem](https://open.spotify.com/track/0bY6xd2EgJXjr7pykF0j8P) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [kramsen](https://open.spotify.com/artist/6Ojw0OqYGSEKtYi609ZsTT), [Asterio](https://open.spotify.com/artist/3xK2PuwaZkeXlAjDtK6ght) | [E\-Scooter Anthem](https://open.spotify.com/album/3JdIfeyyro5LqTcyhK0trx) | 2:49 |
 | 47 | [Turn Your Phone Off](https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Turn Your Phone Off](https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL) | 2:56 |
-| 48 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 48 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 49 | [Wenn es kurz weh tat](https://open.spotify.com/track/47uXR85AB6h56Nh2o9JIjY) | [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA) | [B\-Seiten aus B](https://open.spotify.com/album/5pj7cLzrZZc9lDQzcmcg2Y) | 2:34 |
 | 50 | [Brugg](https://open.spotify.com/track/1kngg32FvKaW5R6ooQD4Vi) | [EMM](https://open.spotify.com/artist/5Krys0EWa2Jy2pg7zqTwLO), [Naomi Austero](https://open.spotify.com/artist/1QQR5QuCyGjdy5zDPqtIGp) | [Botox fürs Herz 3](https://open.spotify.com/album/6Tj53g2xhpuItTwNq7oWlu) | 3:07 |
 | 51 | [City Lights](https://open.spotify.com/track/1AoU4GtlL4k1z80T5vhxXQ) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [City Lights](https://open.spotify.com/album/5rNW9fOHIviIy0XKBNaOLz) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Wenn das hier keine Liebe ist](https://open.spotify.com/track/1oPFgR6LruHs8FgAv9skhG) | [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [Wenn das hier keine Liebe ist](https://open.spotify.com/album/5Xp5C3rJsr1KaFnxaKuw3E) | 2:51 |
 | 100 | [Who's Laughing Now](https://open.spotify.com/track/4qE7V2dnOCues39TNqvRbh) | [Levina](https://open.spotify.com/artist/3AMWkkeLQXQdNw4cNwgtBB) | [Who's Laughing Now](https://open.spotify.com/album/3HAsTK185aOBgtWSYyXBh1) | 3:17 |
 
-Snapshot ID: `MCwyY2MxMDQ2MjVhNmU3NjI3MGYwZGFlZjUxZWZjZmM3MmZhNDNjMGFk`
+Snapshot ID: `MCxiZmRjMWE2ZmFjNzgyOGVhMGQ3ZTI0YjkxM2U2NTJmOGZjNzM2ZDBh`

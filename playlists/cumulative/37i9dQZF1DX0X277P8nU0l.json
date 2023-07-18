@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 238226,
       "name": "Just For Me",
       "url": "https://open.spotify.com/track/0Kjt9OTYDgTPTyiLRSkWp9"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-04",
+      "date_removed": null,
       "duration_ms": 262079,
       "name": "J\u00daJ\u00da",
       "url": "https://open.spotify.com/track/2fvzuOmOYZJWSXFur49qQn"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 194200,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/08DHfDUaD0UH7INX02dbYf"
@@ -1212,6 +1212,24 @@
       "duration_ms": 233101,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/7ocg33uDEQMpymbOnmWsQc"
+    },
+    {
+      "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
     },
     {
       "album": {
@@ -1952,7 +1970,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 161396,
       "name": "Stockholmsvy",
       "url": "https://open.spotify.com/track/3BeaiIXko9QV8689eWB6yd"
@@ -2236,6 +2254,24 @@
       "duration_ms": 161091,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK"
+    },
+    {
+      "album": {
+        "name": "False Lights From the Land EP",
+        "url": "https://open.spotify.com/album/2eswYuox4Rj1UKy40yUGDp"
+      },
+      "artists": [
+        {
+          "name": "Richard Hawley",
+          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "There's a Storm a Comin'",
+      "url": "https://open.spotify.com/track/4tNTYxKPa8yWpoxpBEueIF"
     },
     {
       "album": {

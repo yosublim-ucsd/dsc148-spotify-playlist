@@ -2,7 +2,7 @@
 
 ### [Written By Johnny Kosich \(of Beach Noise\)](https://open.spotify.com/playlist/37i9dQZF1EFyBQlHaB2TvT)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0njz7kVgsyV8CUeZi2nbf4">Johnny Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68LkD9fctywmdQCAfFQ8X2">Johnny Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 14 songs - 50 min 54 sec
 

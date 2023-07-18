@@ -1,15 +1,15 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2582,
+  "num_followers": 2587,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGRiNzRlNzI4M2ZhNjZiMzlkMjI0ZDgyMWMxZDRhZjE2MWExZDY0",
+  "snapshot_id": "MCxkYzc4ZTQxNGE2NjBlNmIxMzVjOThlM2FkOTcxMTJhODFiMjkzZGM3",
   "tracks": [
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7iKDsPfLT0d5mu2htfMKBZ"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "IN LIFE",
         "url": "https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "And July",
         "url": "https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Like Water - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
@@ -149,7 +133,23 @@
       "url": "https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "FLOWER ROAD",
         "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "surf.",
         "url": "https://open.spotify.com/album/4Npp7OOIPSZYl0t82P6mjv"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/0pqEMHCA4VXzoaVQq7uskF"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "EXIT : E",
         "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/7000FosyVc1UpvN2Sckidx"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Love Alarm CLAP! CLAP! CLAP! OST",
         "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Seoul Check-in OST Part 5",
         "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/7MYf8wY7RdOgT7fPxJKIR8"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/2YCvTWWmtS0wEokWvt7GYW"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/2cgOdhrHYAx9ggmeMcyVqp"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/67eJLGtHOUmoNXRYnkedwG"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "ETERNITY",
         "url": "https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "To us (feat. wave to earth & WAVY)",
         "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "MERRY GO ROUND",
         "url": "https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "\ube59\uadf8\ub808",
         "url": "https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/1gtabUo4ov467fUjf2514i"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "sleeplessness",
         "url": "https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "EVERYD4Y",
         "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
@@ -533,7 +533,23 @@
       "url": "https://open.spotify.com/track/7t3pwGJjc4FNbgRzbVLWlJ"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 254661,
+      "name": "365",
+      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
@@ -553,39 +569,7 @@
       "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 254661,
-      "name": "365",
-      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
@@ -601,7 +585,23 @@
       "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/5DFMm7GU1BWf5zokCD9qSi"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "BAD BLOOD - The 4th Mini Album",
         "url": "https://open.spotify.com/album/5c4Hq6RUECnCJi4zEVV5ta"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/5FOrl5XXBgdhEodenHXNFG"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Spring to Spring",
         "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
@@ -649,71 +649,7 @@
       "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
-        "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
-      },
-      "artists": [
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
-        }
-      ],
-      "duration_ms": 161334,
-      "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
-      "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "Your Voice Makes Me Dream",
-        "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
-      },
-      "artists": [
-        {
-          "name": "Dinner Coat",
-          "url": "https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Your Voice Makes Me Dream",
-      "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "Cobalt Blue",
-        "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
-      },
-      "artists": [
-        {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        }
-      ],
-      "duration_ms": 201003,
-      "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
-      "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
@@ -729,7 +665,71 @@
       "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
+        "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
+      },
+      "artists": [
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "duration_ms": 161334,
+      "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
+      "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Your Voice Makes Me Dream",
+        "url": "https://open.spotify.com/album/3SGS1Q2ohr21a7Vq8G0C0n"
+      },
+      "artists": [
+        {
+          "name": "Dinner Coat",
+          "url": "https://open.spotify.com/artist/0NBzQhDqLwWJbfuQhNmgiV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Your Voice Makes Me Dream",
+      "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/7LNZEGjzSYIwdyYIim6M3x"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "duration_ms": 201003,
+      "name": "\ud750\ub974\ub294 \uc2dc\uac04 \uc18d\uc5d0 \uc6b0\ub9ac\ub294 \uc544\ub984\ub2e4\uc6cc What A Beautiful Night",
+      "url": "https://open.spotify.com/track/3zDJ728eY8S3PGNFpNZX71"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "I Love You Enough to Die Now",
         "url": "https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
@@ -813,7 +813,23 @@
       "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
-      "added_at": "2023-07-07 15:58:04",
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "HEY RAIN",
+      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
       "album": {
         "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
@@ -827,22 +843,6 @@
       "duration_ms": 218902,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
-    },
-    {
-      "added_at": "2023-07-07 15:58:04",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Go Your Way",
-      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 247093,
       "name": "Beat \u0628\u062a\u0645\u0627\u064a\u0644 \u0639\u0644\u0649 \u0627\u0644",
       "url": "https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 216656,
       "name": "Habaytak Bel Thalata",
       "url": "https://open.spotify.com/track/7suFLDWMo2NTYS4DvDuXtD"
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 220588,
       "name": "W Nefdal Norkos",
       "url": "https://open.spotify.com/track/31bpBRmlNCe4XFvci7EXNW"
@@ -2460,6 +2460,24 @@
       "duration_ms": 252857,
       "name": "Wahshany Ayamak",
       "url": "https://open.spotify.com/track/3c87CyEFhWPyHoXxvbSBEx"
+    },
+    {
+      "album": {
+        "name": "Wahshteeny",
+        "url": "https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Wahshteeny",
+      "url": "https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj"
     },
     {
       "album": {

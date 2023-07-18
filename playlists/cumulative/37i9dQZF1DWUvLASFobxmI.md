@@ -2,9 +2,9 @@
 
 ### [Norteño 2023](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
 
-> Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Marca Registrada en portada.
+> Bravías, románticas y rancheras, las mejores canciones norteñas\. Pesado en portada.
 
-347 songs - 18 hr 46 min
+348 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 | 2022-07-01 | 2023-07-01 |
 | [La Siembra](https://open.spotify.com/track/14VOqso0CLZIowdMAWT4nH) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Para Valientes, Vol.1](https://open.spotify.com/album/7mGVKM49bCCwGshz1kEOLl) | 3:54 | 2022-09-19 | 2022-12-03 |
 | [La Super Duty](https://open.spotify.com/track/2U6hZWEJN6FOUulmUEXPhP) | [Grupo Nuevo Equipo](https://open.spotify.com/artist/3FBG6TxCmYEDgwXai20GAl) | [La Super Duty](https://open.spotify.com/album/2ipSrZQYtUijVXiM3CWzNx) | 2:42 | 2023-01-13 | 2023-01-21 |
-| [La Ultima Canción](https://open.spotify.com/track/40QbpnCjM25cEGJru7ArK0) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [La Ultima Canción](https://open.spotify.com/album/2pWF1MS6hGsfs7bl5A0Yax) | 3:01 | 2023-01-27 |  |
+| [La Ultima Canción](https://open.spotify.com/track/40QbpnCjM25cEGJru7ArK0) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [La Ultima Canción](https://open.spotify.com/album/2pWF1MS6hGsfs7bl5A0Yax) | 3:01 | 2023-01-27 | 2023-07-18 |
 | [La Vecinita \- En Vivo](https://open.spotify.com/track/2TCR46usOuBC1YMLAjZfiS) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [La Vecinita \(En Vivo\)](https://open.spotify.com/album/12jkVkOJVftWbyiN7JfqIk) | 4:21 | 2023-03-10 | 2023-04-15 |
 | [La Vieja Escuela](https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F) | [4 de a Caballo](https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Vieja Escuela](https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz) | 3:11 | 2022-07-01 | 2022-08-06 |
 | [La Vitoliza \- En Vivo](https://open.spotify.com/track/78XH3FhZuGedHP5vmH1z9K) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [La Vitoliza \(En Vivo\)](https://open.spotify.com/album/0yOUmmISiNvYFN79OA58Tz) | 2:59 | 2023-06-16 |  |
@@ -235,6 +235,7 @@
 | [Ni Volviendo a Nacer](https://open.spotify.com/track/1mQ20WIB5sGmvqaiHm5mw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Ni Volviendo a Nacer](https://open.spotify.com/album/4iIj1mXav2SUNKXS0yR57W) | 2:46 | 2022-08-29 | 2023-02-10 |
 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 | 2022-06-10 |  |
 | [No Digas No](https://open.spotify.com/track/16358eKjCVFsvHs7fy0UCC) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [No Digas No](https://open.spotify.com/album/1AUg2PEpmCRm9G82UH0NGb) | 3:19 | 2022-10-03 | 2022-12-10 |
+| [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 | 2023-07-17 |  |
 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 | 2022-04-15 | 2022-12-10 |
 | [No Estoy Dañado](https://open.spotify.com/track/6Q2P6QZtLvrWE63ggVqfDL) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [No Estoy Dañado](https://open.spotify.com/album/05wpjEhLTNLTE0wFPj5nuj) | 2:56 | 2023-06-30 |  |
 | [No Fue Por Suerte \(En Vivo\)](https://open.spotify.com/track/6ei8QQ1AVmz1pPXayot3P7) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [No Fue Por Suerte \(En Vivo\)](https://open.spotify.com/album/5jLl1BrU3HkKqrdQFrdvk5) | 3:06 | 2023-01-20 | 2023-01-28 |

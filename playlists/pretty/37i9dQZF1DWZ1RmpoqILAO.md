@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: boygenius
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,164 likes - 111 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,356 likes - 111 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 110 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 111 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 
-Snapshot ID: `MCwxMDkzOTMzYzBiMzUxYzkwYTQ4OGRhZjhiODA1MWY1MjMzN2I0YzBm`
+Snapshot ID: `MCw3Yjg3NGRlMWU2Y2Y2MTBkNjgyZDcyNDc1OTMzMDdlMjIxN2Q0YTE1`

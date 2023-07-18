@@ -2,7 +2,7 @@
 
 ### [Written By Secret Code](https://open.spotify.com/playlist/37i9dQZF1EFKmVW6fwfVy7)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4xM35ABybAg3jkLchXkqbD">Secret Code</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5iBiIuZrYOSsUgC0CpwOx3">Secret Code</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 24 songs - 1 hr 26 min
 

@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 66609,
+  "num_followers": 66681,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmEzM2JiMjc0ZjA0N2YxMTZjZDg1ZTNhZjMwZWRmYTYyNTM0MWIy",
+  "snapshot_id": "MCw1MjBmNWFmNzE0NWQ0MWE0OTlhMDgyNzY4M2NlYmM3ZWRhYWY5NTI2",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+        "name": "Live in London and More ..",
+        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
+      "duration_ms": 320093,
+      "name": "That's What I Believe",
+      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -319,6 +319,22 @@
       "duration_ms": 506429,
       "name": "In Spite Of Me - Live",
       "url": "https://open.spotify.com/track/5JTcaitH5HSzkqFG4nX7Dk"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/1QXhzptk3KMnO8xewGePhu"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Live in London and More ..",
-        "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 320093,
-      "name": "That's What I Believe",
-      "url": "https://open.spotify.com/track/6sX8nB5PoeXEXjQGKvHR1N"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
       },
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "The Essential John P. Kee",
-        "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
-      },
-      "artists": [
-        {
-          "name": "The New Life Community Choir",
-          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "I Do Worship (feat. John P. Kee) - Live",
-      "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -459,18 +439,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Setlist: The Very Best Of Kirk Franklin Live",
-        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+        "name": "The Essential John P. Kee",
+        "url": "https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "The New Life Community Choir",
+          "url": "https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
         }
       ],
-      "duration_ms": 347106,
-      "name": "Why We Sing",
-      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
+      "duration_ms": 326493,
+      "name": "I Do Worship (feat. John P. Kee) - Live",
+      "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -491,6 +475,22 @@
       "duration_ms": 292466,
       "name": "I Won't Let Go - Live",
       "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "Setlist: The Very Best Of Kirk Franklin Live",
+        "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 347106,
+      "name": "Why We Sing",
+      "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+        }
+      ],
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Setlist: The Very Best Of Kirk Franklin Live",
         "url": "https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU"
       },
@@ -619,22 +639,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Sessions - EP",
-        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
+        "name": "The Cry: A Live Worship Experience",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Chantae Cann",
-          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
         }
       ],
-      "duration_ms": 249176,
-      "name": "Maintain (feat. Chantae Cann) (Live)",
-      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
+      "duration_ms": 246173,
+      "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -683,22 +699,6 @@
       "duration_ms": 281973,
       "name": "Never Seen The Righteous - Live",
       "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "The Cry: A Live Worship Experience",
-        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
-      "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "He Is",
-      "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
         "name": "Kirk Franklin Presents Songs For The Storm, Volume 1",
         "url": "https://open.spotify.com/album/4HyeSvKpXXTgQjXa1RVIIz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 518906,
       "name": "He'll Take The Pain Away",
       "url": "https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/3Ainh78D6AeVHW9TvIbYvT"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "He Is",
+      "url": "https://open.spotify.com/track/7qFOUqL4zWEXKSTzV1VMjr"
     },
     {
       "added_at": "2023-02-18 05:28:04",

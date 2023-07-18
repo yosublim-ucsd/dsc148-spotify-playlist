@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 水曜日のカンパネラ
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,202 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,236 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [hard mode girlfriend](https://open.spotify.com/track/1Dxo7jerA15Dczk58oS5uc) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [hard mode girlfriend](https://open.spotify.com/album/0HPObdx9IraNMx2gl9RC7u) | 2:24 |
 | 50 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 |
 
-Snapshot ID: `MCxlNDFhMzMxZWI1MDI3MWI3YjkzODIwZDYzMjBhOWMyMTc4ZDdlNzQ3`
+Snapshot ID: `MCxkMzdkM2Y1YzQ4YzY2ZWI4ZWQzM2M1NDQ1YTQxNGFmMzA3YTI4ZjZi`

@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228233,
+  "num_followers": 228218,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
+  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -59,6 +59,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Hunnids",
+        "url": "https://open.spotify.com/album/70g688iMJIZOSBtmDoh5Os"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/2mzrEvfWPMGbmcNbnoux1C"
+        }
+      ],
+      "duration_ms": 173292,
+      "name": "Hunnids",
+      "url": "https://open.spotify.com/track/6ccheZDyfp4DNm71GMba9n"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Donde CRJ (Remix)",
         "url": "https://open.spotify.com/album/4m0EGRYRzekBkg9pVRNrKN"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 256768,
       "name": "Donde CRJ - Remix",
       "url": "https://open.spotify.com/track/63RgY9Eph41dal0MYH4d6V"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Hunnids",
-        "url": "https://open.spotify.com/album/70g688iMJIZOSBtmDoh5Os"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/2mzrEvfWPMGbmcNbnoux1C"
-        }
-      ],
-      "duration_ms": 173292,
-      "name": "Hunnids",
-      "url": "https://open.spotify.com/track/6ccheZDyfp4DNm71GMba9n"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -255,6 +255,34 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "On Fleek",
+        "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 277217,
+      "name": "On Fleek",
+      "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "1% (Remix)",
         "url": "https://open.spotify.com/album/7vnBMKz5X3ZopYiwP1EgcW"
       },
@@ -299,34 +327,6 @@
       "duration_ms": 240300,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/7xlnIcw4lE6BMATPQXnqHf"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "On Fleek",
-        "url": "https://open.spotify.com/album/5gbiHT2MGOPDFB5itrI2mG"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 277217,
-      "name": "On Fleek",
-      "url": "https://open.spotify.com/track/6plOBNhg7WOoCdtLGAGp43"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Gucci Prada",
+        "url": "https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK"
+      },
+      "artists": [
+        {
+          "name": "Green Cookie",
+          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 183352,
+      "name": "Gucci Prada",
+      "url": "https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB"
       },
@@ -539,22 +559,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Gucci Prada",
-        "url": "https://open.spotify.com/album/5PhmFSll4LVvCaQFWOD8lK"
+        "name": "Porche Carrera",
+        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
       "artists": [
         {
-          "name": "Green Cookie",
-          "url": "https://open.spotify.com/artist/3eOWhN0q9wQ90g8NcmfZbV"
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
         },
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 183352,
-      "name": "Gucci Prada",
-      "url": "https://open.spotify.com/track/1DpyhxXcebRC3STmwMBXH3"
+      "duration_ms": 188737,
+      "name": "Porche Carrera",
+      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -587,26 +607,6 @@
       "duration_ms": 170933,
       "name": "SHISHI",
       "url": "https://open.spotify.com/track/3PuU3xioX7MZ68D3UMpHW9"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Porche Carrera",
-        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
-      },
-      "artists": [
-        {
-          "name": "DimeWest",
-          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Porche Carrera",
-      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Lealtad x Dinero",
-        "url": "https://open.spotify.com/album/2hdaowYq1S3yEd31yGOIsp"
-      },
-      "artists": [
-        {
-          "name": "Producto Sin Corte",
-          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 223836,
-      "name": "Lealtad x Dinero",
-      "url": "https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "M\u00e1s Grande",
         "url": "https://open.spotify.com/album/6yqqKz2qpRV5jFLwkvVDmX"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 219000,
       "name": "M\u00e1s Grande",
       "url": "https://open.spotify.com/track/4TLEFzZg6L6iYBCIi0T2tU"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Lealtad x Dinero",
+        "url": "https://open.spotify.com/album/2hdaowYq1S3yEd31yGOIsp"
+      },
+      "artists": [
+        {
+          "name": "Producto Sin Corte",
+          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 223836,
+      "name": "Lealtad x Dinero",
+      "url": "https://open.spotify.com/track/6EMCdTDkc4jGqXy4AN4vsw"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -835,34 +835,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "TRIPLE H (REMIX)",
-        "url": "https://open.spotify.com/album/6DJhpdquLwZrRQKLAXzOmI"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 285986,
-      "name": "TRIPLE H - REMIX",
-      "url": "https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Palestina",
         "url": "https://open.spotify.com/album/13bCDRubXQLlDLmZGIzPH4"
       },
@@ -887,6 +859,34 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/6yJx4eaItMhSP8SWK8lit3"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "TRIPLE H (REMIX)",
+        "url": "https://open.spotify.com/album/6DJhpdquLwZrRQKLAXzOmI"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "TRIPLE H - REMIX",
+      "url": "https://open.spotify.com/track/308zx3494Sp10C1eBTK3Y6"
     },
     {
       "added_at": "2023-06-09 20:20:12",

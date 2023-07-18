@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,497 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,612 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Hammerhead \- Live At Hellfest 2022](https://open.spotify.com/track/2IAVsnPYeZV1jf7EjttJNN) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6YGXlFehYvg5MuzMPfgkdp) | 5:37 |
 | 50 | [I Choose](https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 3:54 |
 
-Snapshot ID: `MjgxNTg1MDAsMDAwMDAwMDAzYTc0OTNhYTlhN2ZkZTY0ZDNjMmUxNDViZDBlYzhjNg==`
+Snapshot ID: `MjgxNTk5MTksMDAwMDAwMDAzZmUzMzc4OTc1MDdmNDUzMTU1MjMxODU3NjhkOGVkYg==`

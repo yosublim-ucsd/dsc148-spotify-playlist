@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,994 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,172 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Fahrradstraße](https://open.spotify.com/track/5Vd4NMyFkvegiddZh4njgX) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Fahrradstraße](https://open.spotify.com/album/2QNh6PLdTY5r9c3q2cEo1l) | 2:24 |
 | 75 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
 
-Snapshot ID: `MCwxZDgyYzliZjk5NDU2ZTBmYWQ1NTcxNGE0MWNkZjI4MWRlYWY3NmFi`
+Snapshot ID: `MCwwMjJkN2E1YjI0NWY0YmU2MTlmYjAzZWNkMGNmZGI0YTRhMzRjNmFj`

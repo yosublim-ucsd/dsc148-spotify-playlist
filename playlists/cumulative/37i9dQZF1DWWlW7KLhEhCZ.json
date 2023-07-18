@@ -15277,6 +15277,32 @@
     },
     {
       "album": {
+        "name": "Tava Escrito",
+        "url": "https://open.spotify.com/album/2lc1MuuCaYQ3D0DHP3qK8O"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Limas",
+          "url": "https://open.spotify.com/artist/2wCuCtSHCIcTfwa0kQA0Pf"
+        },
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Nitro Di",
+          "url": "https://open.spotify.com/artist/4WKIMkuZv5Ab2jlWU9Drrh"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Tava Escrito",
+      "url": "https://open.spotify.com/track/5kKxINTPSxO6JEpIRCzG0K"
+    },
+    {
+      "album": {
         "name": "Tchutchuquinha Kong",
         "url": "https://open.spotify.com/album/4q7DWvKjxufl1KLJTcPoD7"
       },

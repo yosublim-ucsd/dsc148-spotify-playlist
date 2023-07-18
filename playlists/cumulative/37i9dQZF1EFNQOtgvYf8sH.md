@@ -2,7 +2,7 @@
 
 ### [Written By Matt Schaeffer \(of Beach Noise\)](https://open.spotify.com/playlist/37i9dQZF1EFNQOtgvYf8sH)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MiOkjWuzeTvNopvojXYDa">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13MnpMBzJn80fGK6518dNJ">Matt Schaeffer \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 16 songs - 56 min 19 sec
 

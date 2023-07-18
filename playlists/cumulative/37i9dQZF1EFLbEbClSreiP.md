@@ -2,7 +2,7 @@
 
 ### [Written By Ines Dunn](https://open.spotify.com/playlist/37i9dQZF1EFLbEbClSreiP)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4PKFKPVOmeaE8aQbr1xK8s">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 16 songs - 47 min 48 sec
 

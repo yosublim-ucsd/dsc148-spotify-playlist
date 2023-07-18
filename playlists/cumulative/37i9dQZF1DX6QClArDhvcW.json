@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "A Windy Day",
+        "url": "https://open.spotify.com/album/65zoWC6D40O9FxYubNQct4"
+      },
+      "artists": [
+        {
+          "name": "Astair\u00e9",
+          "url": "https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150659,
+      "name": "A Windy Day",
+      "url": "https://open.spotify.com/track/6lUvhXf7KvRMPxpN9PYyvv"
+    },
+    {
+      "album": {
         "name": "Above and Beyond",
         "url": "https://open.spotify.com/album/5yYaNuuxG6grkT4TJl8NBO"
       },
@@ -306,6 +324,24 @@
       "duration_ms": 132846,
       "name": "April Showers Bring May Flowers",
       "url": "https://open.spotify.com/track/63Uhb25NexyeGnl60pDnbY"
+    },
+    {
+      "album": {
+        "name": "at your pace",
+        "url": "https://open.spotify.com/album/23HAZTrV4RBIsSm8H7B1Lp"
+      },
+      "artists": [
+        {
+          "name": "Tofu Sunae",
+          "url": "https://open.spotify.com/artist/1Q049I4R7Yua2JHakqjJjn"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121411,
+      "name": "at your pace",
+      "url": "https://open.spotify.com/track/2PoVtcjYl5siHm6PR2y0dv"
     },
     {
       "album": {
@@ -998,6 +1034,24 @@
       "duration_ms": 152589,
       "name": "Colors Reborn",
       "url": "https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR"
+    },
+    {
+      "album": {
+        "name": "Colorwheel",
+        "url": "https://open.spotify.com/album/2KXPL1wrUNCnrQBjhRtFVX"
+      },
+      "artists": [
+        {
+          "name": "Flobama",
+          "url": "https://open.spotify.com/artist/4X5jJIOeOV9sa9r5PO0qBd"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136394,
+      "name": "Colorwheel",
+      "url": "https://open.spotify.com/track/7KY22TrfxXkDuqfUWkbnuX"
     },
     {
       "album": {
@@ -2355,6 +2409,32 @@
     },
     {
       "album": {
+        "name": "Here's to the Memories",
+        "url": "https://open.spotify.com/album/0qRPxxJD8vOIGszpUShJIW"
+      },
+      "artists": [
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "Felty",
+          "url": "https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117812,
+      "name": "Honey Bbq",
+      "url": "https://open.spotify.com/track/4KpCRMpMRibhr2YYUgJHbR"
+    },
+    {
+      "album": {
         "name": "Hot Shot",
         "url": "https://open.spotify.com/album/2rO7x2YIhfAjxhbWsESVxG"
       },
@@ -2646,6 +2726,24 @@
       "duration_ms": 147063,
       "name": "in the blink of an eye",
       "url": "https://open.spotify.com/track/5MBfOXuYBd43bQseqvL2yo"
+    },
+    {
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/1RY9NbBgLH23EQ15LI08lu"
+      },
+      "artists": [
+        {
+          "name": "bripp",
+          "url": "https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/0DiDjssgoqdmowJ73cjaw7"
     },
     {
       "album": {
@@ -4851,6 +4949,24 @@
     },
     {
       "album": {
+        "name": "Shiny Ride",
+        "url": "https://open.spotify.com/album/6W3rYjJskLeqz0ivUQIy41"
+      },
+      "artists": [
+        {
+          "name": "Walter Stewart",
+          "url": "https://open.spotify.com/artist/3vfsss4OqjEykpWXeDnSCp"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159021,
+      "name": "Shiny Ride",
+      "url": "https://open.spotify.com/track/0hSBApHBC9nAnyal5ahlcB"
+    },
+    {
+      "album": {
         "name": "Magic City",
         "url": "https://open.spotify.com/album/4v2xg0Vq1c9JHDwTygsHdN"
       },
@@ -5115,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/57g0zB6s8srKzgTgd2ZxoT"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126324,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/4X543s7hsHy2EVXZkCmZ5h"
+    },
+    {
+      "album": {
         "name": "Something To Sing About",
         "url": "https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG"
       },
@@ -5202,6 +5336,24 @@
       "duration_ms": 129655,
       "name": "Spiralled",
       "url": "https://open.spotify.com/track/5B9WTReTZl8sY7f89lxlpq"
+    },
+    {
+      "album": {
+        "name": "Spring Drinks",
+        "url": "https://open.spotify.com/album/3v4qgekRr64A3Haoq839rk"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146289,
+      "name": "Spring Drinks",
+      "url": "https://open.spotify.com/track/0La0wFhjcC4kHh6ZKVW8Ok"
     },
     {
       "album": {
@@ -5798,6 +5950,24 @@
       "duration_ms": 124800,
       "name": "Thumbs Up",
       "url": "https://open.spotify.com/track/7vbSwdXKiVcbhgdhZ9r3O4"
+    },
+    {
+      "album": {
+        "name": "time together",
+        "url": "https://open.spotify.com/album/71RaloNOmG7PpjGvn8rmQR"
+      },
+      "artists": [
+        {
+          "name": "Peach Lotus",
+          "url": "https://open.spotify.com/artist/7KlRU1JqR54t1nQE9dHpN8"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132272,
+      "name": "time together",
+      "url": "https://open.spotify.com/track/5S3M80eLbQYjf53A4hXiZi"
     },
     {
       "album": {
@@ -6756,6 +6926,24 @@
       "duration_ms": 125625,
       "name": "You Mon Amour",
       "url": "https://open.spotify.com/track/1vFb56Lp6HTIQiD478AxBT"
+    },
+    {
+      "album": {
+        "name": "Zzz",
+        "url": "https://open.spotify.com/album/6pN80mrAR2NNrGECgSVtOm"
+      },
+      "artists": [
+        {
+          "name": "G O L",
+          "url": "https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Zzz",
+      "url": "https://open.spotify.com/track/57ZIaQ4dKo9CD3MRKzG7c7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6QClArDhvcW"

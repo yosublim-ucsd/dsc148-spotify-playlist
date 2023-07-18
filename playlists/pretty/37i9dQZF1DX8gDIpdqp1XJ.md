@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,257 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,252 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 17 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 |
 | 18 | [Gay Days \- Bonus Track](https://open.spotify.com/track/0ooYPyv6xa8EZYbigLcsAo) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Gay Days](https://open.spotify.com/album/5lQfWYN9oYdYFMakRSk8UA) | 3:30 |
 | 19 | [Sunshine](https://open.spotify.com/track/16LiikrNSmBq35Fp7s9PjJ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 3:41 |
-| 20 | [Nightmare](https://open.spotify.com/track/2CE5le5OywYFxSdvUnEk97) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Nightmare](https://open.spotify.com/album/3Ob1IzWFDzFvIBeIm1LoBC) | 4:21 |
+| 20 | [Nightmare](https://open.spotify.com/track/1GA1km6y1Zq2ulRA1NV8tr) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Rajan](https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0) | 4:21 |
 | 21 | [St\. Leville](https://open.spotify.com/track/7GywQZS0rFVomHhGEp04lm) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [St\. Leville](https://open.spotify.com/album/1knVOymkpCydLlTpGyXMt8) | 3:08 |
 | 22 | [Moonrise](https://open.spotify.com/track/29HXW4rqqYATHgg1DTH8yy) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Perfect Kindness](https://open.spotify.com/album/1896DU6uAAKYHYCMq6yoKi) | 4:18 |
 | 23 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 |
 | 100 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 |
 
-Snapshot ID: `MCwwMDI3NDgxYjg4MGRhYTAzNDVlNDViYWNjMzExZjM2YWIyODIxODlk`
+Snapshot ID: `MCxlZjE5YjkxNWU5ZjMwODk3ODU1YWJlZTA1N2YyNDkzOGNlZTIzYTEz`

@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 43325,
+  "num_followers": 43381,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh",
+  "snapshot_id": "MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Still Frame Replay",
-        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 464453,
-      "name": "The Memory of Our Love",
-      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
         "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 385600,
       "name": "Lonesome In My Bedroom",
       "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Still Frame Replay",
+        "url": "https://open.spotify.com/album/4ljIiZCCE6HGhOLeHtc7Gu"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "duration_ms": 464453,
+      "name": "The Memory of Our Love",
+      "url": "https://open.spotify.com/track/2jXrwWE32uQJBi50xCvE9c"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Nothing But the Blues (Live)",
-        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 430106,
-      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
-      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 183120,
       "name": "Lonesome Road Blues",
       "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Nothing But the Blues (Live)",
+        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 430106,
+      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
+      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
-      },
-      "artists": [
-        {
-          "name": "Walter Trout",
-          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Iron Man",
         "url": "https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 412920,
       "name": "Icepick Through My Heart",
       "url": "https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout",
+          "url": "https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Waiting For The Dawn",
+      "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "The Essential Blue Archive: Why Should I Cry",
-        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Johnson",
-          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Friendless Blues",
-      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 329373,
       "name": "Sanctified, Holy And Hateful",
       "url": "https://open.spotify.com/track/2M3KYbPJPfKOCWN75MZZXa"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "The Essential Blue Archive: Why Should I Cry",
+        "url": "https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Johnson",
+          "url": "https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Friendless Blues",
+      "url": "https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "Pickin' the Blues",
-        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
-      },
-      "artists": [
-        {
-          "name": "Pee Wee Crayton",
-          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
-        }
-      ],
-      "duration_ms": 205870,
-      "name": "Mistreated so Bad",
-      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Slow Burning Love",
         "url": "https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 191129,
       "name": "Slow Burning Love",
       "url": "https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "Pickin' the Blues",
+        "url": "https://open.spotify.com/album/1pIKvPtOlT1VBX6zacGVdW"
+      },
+      "artists": [
+        {
+          "name": "Pee Wee Crayton",
+          "url": "https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA"
+        }
+      ],
+      "duration_ms": 205870,
+      "name": "Mistreated so Bad",
+      "url": "https://open.spotify.com/track/1michdIDza3qEbLGXrA5dz"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-06-30 00:01:00",
       "album": {
-        "name": "My Kind Of Blues",
-        "url": "https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Hold That Train",
-      "url": "https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE"
-    },
-    {
-      "added_at": "2023-06-30 00:01:00",
-      "album": {
         "name": "Wrong Kind of Lovin",
         "url": "https://open.spotify.com/album/5tdreJCS1nWRB72dF43IcX"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 320133,
       "name": "Wrong Kind of Lovin",
       "url": "https://open.spotify.com/track/1X7Dw4CtOV3nJcmPvrX2af"
+    },
+    {
+      "added_at": "2023-06-30 00:01:00",
+      "album": {
+        "name": "My Kind Of Blues",
+        "url": "https://open.spotify.com/album/6nnI1qK92ewOpEerMB9Lhw"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Hold That Train",
+      "url": "https://open.spotify.com/track/0YnoAn9FBUopgdwEOTsGlE"
     },
     {
       "added_at": "2023-06-30 00:01:00",

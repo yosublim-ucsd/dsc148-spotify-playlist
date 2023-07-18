@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-182 songs - 10 hr 17 min
+183 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Blossom](https://open.spotify.com/track/3lJNiQ0brN72WzIovnx5Ed) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C) | [Seoul Vibes Pt.19](https://open.spotify.com/album/69pBAUK07wgu9anA6MKBQ5) | 3:16 | 2022-05-11 | 2022-06-09 |
 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 | 2022-10-04 |  |
 | [bunny\-401](https://open.spotify.com/track/3dmOvkHWMP2rSGFd6L5e2j) | [19 \(NANA\)](https://open.spotify.com/artist/78jvgJzB3suwIRLJTuRrX7) | [bunny\-401](https://open.spotify.com/album/48X684tziz7ATO8xzPDTSa) | 3:18 | 2022-07-08 | 2022-07-26 |
-| [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 | 2022-07-08 |  |
+| [busy guy](https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu) | 3:45 | 2022-07-08 | 2023-07-18 |
 | [busy guy](https://open.spotify.com/track/3OifMsSbPyon2tgApzijMH) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [DA DA!](https://open.spotify.com/album/3pILaXxI4YxGQm3ZfGJyjb) | 3:45 | 2022-05-11 | 2022-07-29 |
 | [Call you mine](https://open.spotify.com/track/3mdYZDdSHtqAn8BRyPoV9S) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [Choi Hope](https://open.spotify.com/artist/6FWcUggZthGZx0HKGwN4UK), [MALPH](https://open.spotify.com/artist/0QKuBpHft2jm6uTjxyYmII) | [Merry Merry Seoul Pt.2](https://open.spotify.com/album/1iTheWZlBIwF3RoyG13xUP) | 2:52 | 2022-07-04 | 2022-07-12 |
 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 | 2022-05-11 |  |
@@ -177,6 +177,7 @@
 | [Where Is Dream](https://open.spotify.com/track/73qCPgwpFwAe9L2Qt0Drh1) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [START\-UP \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu) | 3:03 | 2023-05-31 |  |
 | [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 | 2023-05-02 |  |
 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 | 2022-05-11 |  |
+| [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 | 2023-07-17 |  |
 | [will you and me fall in love \(feat\. Gawon\)](https://open.spotify.com/track/1NR4zjXtuxMvwGIh8i5XqC) | [Espresso](https://open.spotify.com/artist/6MqxpdnAX09GQsbhc0bvrZ), [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [will you and me fall in love](https://open.spotify.com/album/2TdJT39j1H1JJv2VFPiVbG) | 2:38 | 2022-06-20 | 2022-07-28 |
 | [You](https://open.spotify.com/track/1cOdLIVkanabBExcxmdDXe) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD) | [You \(Jeong Yu Jin x Some Playlist\)](https://open.spotify.com/album/2Ns5zPirVQo9tTDsj9O0iQ) | 3:45 | 2022-06-13 | 2022-07-24 |
 | [You'll Know 알았음 해](https://open.spotify.com/track/6bnKU0VzYlUDUeBcna1a0O) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Eternal Moment 영원의 순간](https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36) | 4:09 | 2022-06-09 | 2022-07-24 |

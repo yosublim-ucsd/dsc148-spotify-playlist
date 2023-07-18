@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,739 songs - 3 day 22 hr 5 min
+1,740 songs - 3 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-02-22 | 2022-03-02 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-22 | 2022-06-15 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-26 | 2022-05-23 |
-| [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-07-05 | 2023-07-11 |
+| [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-07-05 |  |
 | [Ascensionism](https://open.spotify.com/track/2Z1eWq9VOXkCzUmcU6uoNe) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 7:08 | 2023-06-13 | 2023-06-21 |
 | [Así Lo Quiso Dios](https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:25 | 2023-05-24 | 2023-06-14 |
 | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/track/1nJOtOQJqzHaxh8kzuudxR) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9) | [Attack of the Killer Beast \(Phonk\)](https://open.spotify.com/album/2Co4pvEvpsBHIGXufGc3p3) | 2:16 | 2023-02-15 | 2023-03-15 |
@@ -1181,11 +1181,12 @@
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-29 | 2022-03-31 |
 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 | 2022-03-15 | 2022-03-23 |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-04-10 | 2023-05-10 |
-| [pretend](https://open.spotify.com/track/4MWVpH7IGyrRrsoBb9JDi5) | [Alex G Offline](https://open.spotify.com/artist/13UvTLo4dLIqInGJVttRtS) | [pretend](https://open.spotify.com/album/174daNnkp4NS1ipXkkl2Nj) | 5:59 | 2023-07-11 |  |
+| [pretend](https://open.spotify.com/track/4MWVpH7IGyrRrsoBb9JDi5) | [Alex G Offline](https://open.spotify.com/artist/13UvTLo4dLIqInGJVttRtS) | [pretend](https://open.spotify.com/album/174daNnkp4NS1ipXkkl2Nj) | 5:59 | 2023-07-11 | 2023-07-18 |
 | [Pretend](https://open.spotify.com/track/2kcpSxuTS6RHbZ5HC7sVYm) | [alex g online](https://open.spotify.com/artist/2Hf4ZWDcObyKhpPgJaw0Dw) | [High](https://open.spotify.com/album/38xsyH13ogtn6Wn9FCy9Ti) | 6:02 | 2023-06-15 | 2023-06-17 |
 | [Pretend](https://open.spotify.com/track/0BeJV3E7onQUX91A5odaAb) | [Clayas](https://open.spotify.com/artist/2vDlCEPgK49pj8gsvZQn2b) | [Pretend](https://open.spotify.com/album/40moV3TlzkoNytzd2LppTx) | 5:59 | 2023-06-26 | 2023-07-08 |
 | [Pretend](https://open.spotify.com/track/6XNxESeLt2OwpVUNLtubSA) | [Clayas](https://open.spotify.com/artist/2vDlCEPgK49pj8gsvZQn2b) | [Pretend](https://open.spotify.com/album/3ZxO4jteSb7VjLH0c6hhpL) | 5:59 | 2023-07-07 | 2023-07-11 |
 | [Pretend](https://open.spotify.com/track/1hOnhCNpvBTML6vieRGaio) | [ghostee](https://open.spotify.com/artist/4dDmw5njVAtwyZIDfH8fXC) | [Pretend](https://open.spotify.com/album/0ER5E6hjyn6VwavJBNLIxw) | 5:59 | 2023-06-19 | 2023-06-21 |
+| [Pretend](https://open.spotify.com/track/1g7v7ysXfWsxnTbZA3tMML) | [Kenteph](https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC) | [Pretend](https://open.spotify.com/album/0WXdj9lx3yrFwfXWmxpdpa) | 5:59 | 2023-07-17 |  |
 | [Pretend](https://open.spotify.com/track/7KWrFyN747qVJsIlhOTLJD) | [Kenteph](https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC) | [Pretend](https://open.spotify.com/album/5Pnc2Z0OqDZDW0vZiFNLMR) | 5:59 | 2023-06-22 | 2023-06-27 |
 | [Pretend](https://open.spotify.com/track/7eKdGD7PCY5ScYeLOAlXw6) | [michi](https://open.spotify.com/artist/6R09GKJdeYrjF8zqv9ZbZk) | [Pretend](https://open.spotify.com/album/36RFUBnk29raCZA0s1WrYa) | 5:59 | 2023-07-10 | 2023-07-12 |
 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 | 2022-11-10 | 2023-02-20 |
@@ -1430,7 +1431,7 @@
 | [Tabula Rasa \(feat\. Armand Hammer\)](https://open.spotify.com/track/5Qb5Crn9sefQ27M2lKahPM) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 4:11 | 2022-01-18 | 2022-01-23 |
 | [Take Da Charge](https://open.spotify.com/track/49WtpskFw9z1AsDPwf9knU) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/2Qe9ZQZgDrXcGv1QuNUCkb) | 3:06 | 2023-01-31 | 2023-02-09 |
 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 | 2023-07-04 |  |
-| [Take Me Back To Eden](https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 8:20 | 2023-06-13 |  |
+| [Take Me Back To Eden](https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 8:20 | 2023-06-13 | 2023-07-18 |
 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/77Oww6V7jooOd7aNEMnFJ3) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [TOP GUN/SOUNDTRACK](https://open.spotify.com/album/0aAtSw6p6dKW33Azdc0Ihq) | 4:11 | 2022-06-05 | 2022-06-22 |
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2022-09-27 | 2022-10-05 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-09-20 | 2022-09-26 |

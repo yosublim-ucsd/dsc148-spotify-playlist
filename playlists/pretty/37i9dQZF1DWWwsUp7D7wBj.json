@@ -1,12 +1,12 @@
 {
   "description": "Todo lo que es cultura pop. Tiraera Season \ud83d\udd25\ud83c\uddf5\ud83c\uddf7",
-  "num_followers": 10592,
+  "num_followers": 10604,
   "original_name": "cultura.now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzNmYjljYjg3NjQ5YzRlMWE4NzE0MTdjOWFkYjVkYTkxOGZmZjA4",
+  "snapshot_id": "MCw1MDQ4Y2E0NjkwOTk2Zjc1NmQ3Zjc0NmVmN2IyYmU4MDBjYjQwMTI0",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -23,6 +23,42 @@
       "duration_ms": 541931,
       "name": "Bajo y Bater\u00eda",
       "url": "https://open.spotify.com/track/6AvBuucxeCrRJjxNVWKayz"
+    },
+    {
+      "added_at": "2023-07-17 17:27:34",
+      "album": {
+        "name": "#B2B",
+        "url": "https://open.spotify.com/album/4SXhzfcLwMl2sTSOkGBx5t"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 196395,
+      "name": "#B2B",
+      "url": "https://open.spotify.com/track/4Jp9fqZoO1CVctAPJB29eC"
+    },
+    {
+      "added_at": "2023-07-17 17:27:34",
+      "album": {
+        "name": "No Eres Rapero",
+        "url": "https://open.spotify.com/album/6OBEOXqY6rJLtarTzYoBIP"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Oldtape",
+          "url": "https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "No Eres Rapero",
+      "url": "https://open.spotify.com/track/0PvQddVhVgnLK2FHiTQh8l"
     },
     {
       "added_at": "2023-07-13 16:07:09",

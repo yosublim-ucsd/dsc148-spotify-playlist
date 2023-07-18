@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,185 likes - 217 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,234 likes - 217 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 216 | [Adam's Song](https://open.spotify.com/track/5J5YyGh055rlYQMq298bz9) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Angst](https://open.spotify.com/album/1VoaFBLj3xWmGXzARjTpQT) | 2:26 |
 | 217 | [Yep](https://open.spotify.com/track/5RDKGEIYh4Q4G7Qs0lnaoZ) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Yep](https://open.spotify.com/album/0DtVgJeRg9ZbbFSjWKfis0) | 3:03 |
 
-Snapshot ID: `MCw1OGFkYjEwOGYwNjRmMTUxZDMwZjU2MTcxZWVhNjcwZjkzMjg0NzVj`
+Snapshot ID: `MCxkODE2OTY4NTJlMmFhZTQ5OGQ1ZTc5MDM1NGE3MzM4YjEzOTc5NjFl`

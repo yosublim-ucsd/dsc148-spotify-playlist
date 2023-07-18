@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Dubdogz x Crazy Donkey x Brando
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,678 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,680 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 67 | [Bad Boy Sound](https://open.spotify.com/track/2HBgPTVKANqdFYXISTYNnG) | [Gellero](https://open.spotify.com/artist/58jPAfXWaSoySAn8cL1U37), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc), [Bashment Yc](https://open.spotify.com/artist/4TJKZVZaype5bnSZYy66Q4) | [Bad Boy Sound](https://open.spotify.com/album/18WX8020TlfZXIoNSjkVKU) | 2:16 |
 | 68 | [We Go So Far \(Don’t Stop Believin'\)](https://open.spotify.com/track/1sbcMH8P8zhtaESyGSNqGo) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Narcyz](https://open.spotify.com/artist/6bXKU7upMry4vNzi4jvgjq), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [We Go So Far \(Don’t Stop Believin'\)](https://open.spotify.com/album/4iqR1gG0R7QdH8TWKCCyrK) | 3:47 |
 
-Snapshot ID: `MCxhY2MxYmEwMjE2OTYxN2Y1NTI0OWRjODM2NmYxYzViMjlmMTc4NWRl`
+Snapshot ID: `MCwxNDllNjNmZDllNjhlNmY5NzgwOGEyNTA4YzFhMDlkZTY4YmFlNGM0`

@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 113562,
+  "num_followers": 113721,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWRmN2ZmNDE0NzE4M2QwYzM3NWQ3MzdhNmE4NDdjOWEyOTgwZmVm",
+  "snapshot_id": "MCxmNjdiNDcwOTU1YWRlZDA0NTRjZDdlYmZiMmQ1OWFjMWUzNGQ3ZDA4",
   "tracks": [
     {
       "added_at": "2023-04-28 19:03:48",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Se Eu Cair",
-        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 335597,
-      "name": "Se Eu Cair",
-      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "comigo",
         "url": "https://open.spotify.com/album/3fx98vrazoPSCNfiDtjQUn"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 293018,
       "name": "comigo",
       "url": "https://open.spotify.com/track/7eAm1mBCgg8iC9UIrxCe1U"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Se Eu Cair",
+        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 335597,
+      "name": "Se Eu Cair",
+      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -255,54 +255,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
-      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
       },
@@ -327,18 +279,18 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "C\u00e2nticos I",
-        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
+        "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+        "url": "https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 266653,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
+      "duration_ms": 193453,
+      "name": "Primeira Can\u00e7\u00e3o (M\u00fasica dos Passarinhos)",
+      "url": "https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -355,6 +307,70 @@
       "duration_ms": 153717,
       "name": "S\u00f3 Tenho a Ti",
       "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "C\u00e2nticos I",
+        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 266653,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
+      },
+      "artists": [
+        {
+          "name": "Jeferson Pillar",
+          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
+        }
+      ],
+      "duration_ms": 248398,
+      "name": "Reina",
+      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -379,22 +395,6 @@
       "duration_ms": 301704,
       "name": "Al\u00e9m do Que Se V\u00ea",
       "url": "https://open.spotify.com/track/0x8YDLkajRloMiTP8UO9uM"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK"
-      },
-      "artists": [
-        {
-          "name": "Jeferson Pillar",
-          "url": "https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ"
-        }
-      ],
-      "duration_ms": 248398,
-      "name": "Reina",
-      "url": "https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Cuide",
-        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Cuide",
-      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Todos Um",
         "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 141537,
       "name": "Qual \u00c9 O Pensamento",
       "url": "https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Cuide",
+        "url": "https://open.spotify.com/album/78ArfVJaIJCEe5Vvh1sCNt"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Cuide",
+      "url": "https://open.spotify.com/track/0eiMgFRAe823eFAnqXLD35"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Abra\u00e7o",
-        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Abra\u00e7o",
-      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Dear God (Acoustic)",
         "url": "https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Abra\u00e7o",
+        "url": "https://open.spotify.com/album/5zaifallEnusWXIpU2mMEX"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Abra\u00e7o",
+      "url": "https://open.spotify.com/track/7y4puTp3k9X5jUxxlko0Pd"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "S\u00f3 Penso Em Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 360223,
       "name": "S\u00f3 Penso Em Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "III (Studio Sessions)",
+        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 352173,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "III (Studio Sessions)",
-        "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 352173,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Tua Presen\u00e7a Vale Mais",
         "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Mais Perto Quero Estar",
-        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 201282,
-      "name": "Mais Perto Quero Estar",
-      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
         "name": "Clarear",
         "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 318750,
       "name": "Clarear",
       "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
+        "name": "Mais Perto Quero Estar",
+        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 201282,
+      "name": "Mais Perto Quero Estar",
+      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
+        "name": "Do Meu Interior",
+        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 159629,
+      "name": "Sobre Viver",
+      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
+    },
+    {
+      "added_at": "2023-04-28 19:03:48",
+      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 282932,
       "name": "Asas",
       "url": "https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb"
-    },
-    {
-      "added_at": "2023-04-28 19:03:48",
-      "album": {
-        "name": "Do Meu Interior",
-        "url": "https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 159629,
-      "name": "Sobre Viver",
-      "url": "https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Soul Hymns (Live Sessions)",
-        "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
+        "name": "Tributo A Iehovah (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
       },
       "artists": [
         {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         },
         {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
         }
       ],
-      "duration_ms": 321536,
-      "name": "Captured - Live Session",
-      "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
+      "duration_ms": 367530,
+      "name": "Tributo A Iehovah - Ao Vivo",
+      "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
     },
     {
       "added_at": "2023-04-28 19:03:48",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2023-04-28 19:03:48",
       "album": {
-        "name": "Tributo A Iehovah (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4d6pzEk3gFbP4tJJFKrS62"
+        "name": "Soul Hymns (Live Sessions)",
+        "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
         },
         {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
         }
       ],
-      "duration_ms": 367530,
-      "name": "Tributo A Iehovah - Ao Vivo",
-      "url": "https://open.spotify.com/track/5cLo2Ovt9oCWq8mucuHfDi"
+      "duration_ms": 321536,
+      "name": "Captured - Live Session",
+      "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
     },
     {
       "added_at": "2023-04-28 19:03:48",

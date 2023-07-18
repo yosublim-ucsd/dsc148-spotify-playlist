@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: DEKKO
 
-80 songs - 4 hr 27 min
+81 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [BAD BITCH](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [BAD BITCH](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 | 2023-03-31 |  |
 | [badwine](https://open.spotify.com/track/2qfyOSgCVt8mdVVxxhp4tI) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [badwine](https://open.spotify.com/album/0DBQL19G6VKFlLXWlltmfl) | 2:19 | 2023-03-31 |  |
 | [Buena y Mala \- Live](https://open.spotify.com/track/5scqx0LxO4DTxTR2QGzY2w) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Unicornio Live](https://open.spotify.com/album/4YFjevudkflyJDBjtJQjj3) | 3:05 | 2023-03-31 | 2023-04-15 |
-| [Bulevar](https://open.spotify.com/track/3T49TbWYQfLbYCbiQbedhH) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bulevar](https://open.spotify.com/album/1Vsqbt6CSeyutKxuqksYiw) | 4:03 | 2023-07-14 |  |
+| [Bulevar](https://open.spotify.com/track/3T49TbWYQfLbYCbiQbedhH) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bulevar](https://open.spotify.com/album/1Vsqbt6CSeyutKxuqksYiw) | 4:03 | 2023-07-14 | 2023-07-18 |
+| [Bulevar](https://open.spotify.com/track/7hQi6VmEgGLG462YpieKDG) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bulevar](https://open.spotify.com/album/2tetV749OHQRffqTclca7Y) | 4:03 | 2023-07-14 |  |
 | [C.Funktastic](https://open.spotify.com/track/5b6CPprnxzCEVGzCJawrp0) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [C.Funktastic](https://open.spotify.com/album/7B4bUYQKNMhSwMYtEmjtXB) | 2:29 | 2023-03-31 | 2023-04-22 |
 | [Callaita](https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Callaita](https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7) | 4:10 | 2023-03-31 |  |
 | [CAPROVO](https://open.spotify.com/track/24QuWCLSXgVzv0oDXC03CC) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS), [Modblack](https://open.spotify.com/artist/3I4F2sRhhXJLoUgnfnZKil) | [CAPROVO](https://open.spotify.com/album/053olGLgVl2r4IpZ5PeuUt) | 2:48 | 2023-03-31 | 2023-06-24 |

@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Revenant (Original Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Lonely night",
+      "url": "https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk"
+    },
+    {
+      "album": {
         "name": "Secret Boutique Pt.1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5Amnmsg8nIVFSmLpfYXi1C"
       },

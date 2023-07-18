@@ -2,7 +2,7 @@
 
 ### [The Summer I Turned Pretty Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DWVEaynofUD86)
 
-> It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season coming soon to Prime Video.
+> It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
 109 songs - 6 hr 10 min
 

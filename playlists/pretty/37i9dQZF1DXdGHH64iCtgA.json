@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 64161,
+  "num_followers": 64208,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTJjMTU2ZDM3OTQ2NzQ1MzAzOWU5YWUwNjUwYmRiMjU0YzdjNTkx",
+  "snapshot_id": "MCw2YmZmNTdjNThiYTEyMDNjYjBmYTAyZTJkZDc3NDFlZjc0ZTAyOTg0",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Controller",
-        "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 208460,
-      "name": "Controller",
-      "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Caution",
         "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 155758,
       "name": "Caution",
       "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Controller",
+        "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 208460,
+      "name": "Controller",
+      "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Euphories",
-        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
-      },
-      "artists": [
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Suricate",
-      "url": "https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191537,
       "name": "Lights Up",
       "url": "https://open.spotify.com/track/68fRXTgDg5V2p2wzHCPh9n"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Euphories",
+        "url": "https://open.spotify.com/album/7qRGZrr36qgz0hhJKgvIvg"
+      },
+      "artists": [
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Suricate",
+      "url": "https://open.spotify.com/track/2t21BOjWID8CUXCup4XXZ1"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Woodpecker",
+        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
+      },
+      "artists": [
+        {
+          "name": "Castelle",
+          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Pick Up (Even Shorter Version)",
         "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 149051,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Woodpecker",
-        "url": "https://open.spotify.com/album/0JygTmxFm484atUuryZF2F"
-      },
-      "artists": [
-        {
-          "name": "Castelle",
-          "url": "https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
-      },
-      "artists": [
-        {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "Bara Nova",
-          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
-        }
-      ],
-      "duration_ms": 334586,
-      "name": "My Lullaby for You",
-      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Family Portrait",
         "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
       },
@@ -1175,6 +1155,42 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "Musique, Vol. 1",
+        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 413600,
+      "name": "Musique",
+      "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Cyberpunk 2077: Radio, Vol. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "Bara Nova",
+          "url": "https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf"
+        }
+      ],
+      "duration_ms": 334586,
+      "name": "My Lullaby for You",
+      "url": "https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Sharevari",
         "url": "https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 351306,
       "name": "Sharevari",
       "url": "https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Musique, Vol. 1",
-        "url": "https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 413600,
-      "name": "Musique",
-      "url": "https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S"
     },
     {
       "added_at": "2023-07-07 04:00:00",

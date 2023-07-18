@@ -1,15 +1,15 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 41781,
+  "num_followers": 41812,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNTg1MDAsMDAwMDAwMDAwODVjNmQ3NjQzNDQ5ZWViYWRmNDNmOTk1ZTRmMTJkNg==",
+  "snapshot_id": "MjgxNTk5MTksMDAwMDAwMDAzMzBkOTM4NzMxMGFmNTdjOTI2OTdjZmM0ODI3OWUyNg==",
   "tracks": [
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Burning Spider",
         "url": "https://open.spotify.com/album/7fstnHfNoKfBJQpvY5VuEk"
@@ -61,10 +61,10 @@
       "url": "https://open.spotify.com/track/3Ui7cdWASapLaUp2RHym7q"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
       },
       "artists": [
         {
@@ -72,12 +72,12 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 171600,
-      "name": "I Love The Life I Live (I Live The Life I Love)",
-      "url": "https://open.spotify.com/track/2aZ8nrq3RIXEXUviAwzyLV"
+      "duration_ms": 173040,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
@@ -109,87 +109,7 @@
       "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 165106,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "The Blues Had a Baby and They Named It Rock and Roll",
-      "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "You Can't Lose What You Ain't Never Had",
-      "url": "https://open.spotify.com/track/3R8jEWbqIexfbDteE3jlOz"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "Electric Mud",
-        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Tom Cat",
-      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
@@ -205,7 +125,23 @@
       "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "King Of The Electric Blues",
         "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
@@ -216,12 +152,44 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+      "duration_ms": 214733,
+      "name": "The Blues Had a Baby and They Named It Rock and Roll",
+      "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "You Can't Lose What You Ain't Never Had",
+      "url": "https://open.spotify.com/track/3R8jEWbqIexfbDteE3jlOz"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "Electric Mud",
+        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Tom Cat",
+      "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -245,7 +213,23 @@
       "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
@@ -261,7 +245,7 @@
       "url": "https://open.spotify.com/track/5tDx3DmAvMfB5dPHiTbtse"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Voodoo Blues",
         "url": "https://open.spotify.com/album/5IbFDbi2vYfzmgrOaxaelo"
@@ -277,23 +261,7 @@
       "url": "https://open.spotify.com/track/43usRpZqz4BqLrgKEpzaIQ"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Champagne & Reefer",
-      "url": "https://open.spotify.com/track/7kqGCWwUTnwisFFz5d37gE"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -317,7 +285,23 @@
       "url": "https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Champagne & Reefer",
+      "url": "https://open.spotify.com/track/7kqGCWwUTnwisFFz5d37gE"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
@@ -333,10 +317,10 @@
       "url": "https://open.spotify.com/track/6dezNfNYhgD22o5fs5ATZp"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
-        "name": "After The Rain",
-        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
       "artists": [
         {
@@ -344,28 +328,12 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 290026,
-      "name": "Rollin' And Tumblin'",
-      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
+      "duration_ms": 174567,
+      "name": "Forty Days And Forty Nights",
+      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 183120,
-      "name": "Lonesome Road Blues",
-      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -389,7 +357,39 @@
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "After The Rain",
+        "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 290026,
+      "name": "Rollin' And Tumblin'",
+      "url": "https://open.spotify.com/track/61jqhIAyuxQarayIki3Ko4"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183120,
+      "name": "Lonesome Road Blues",
+      "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Hard Again",
         "url": "https://open.spotify.com/album/11pwCi0JWNahMuu9ViIx3Q"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
@@ -425,23 +425,7 @@
       "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "Mean Old Frisco Blues",
-      "url": "https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -465,7 +449,23 @@
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "Mean Old Frisco Blues",
+      "url": "https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
@@ -481,7 +481,27 @@
       "url": "https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "The Last Waltz (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 400666,
+      "name": "Mannish Boy (feat. Muddy Waters) - Concert Version",
+      "url": "https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -505,27 +525,7 @@
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "The Last Waltz (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
-      },
-      "artists": [
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 400666,
-      "name": "Mannish Boy (feat. Muddy Waters) - Concert Version",
-      "url": "https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Breakin' It Up, Breakin' It Down",
         "url": "https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2BOmAaz4fIMMFTGwT05NvS"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
@@ -569,23 +569,7 @@
       "url": "https://open.spotify.com/track/5OFRzy4ReR0W5tZw0O6KHG"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
-        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
-      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
@@ -601,7 +585,23 @@
       "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Louisiana Blues",
+      "url": "https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/2k0UVEOVlCMv3p9MX2jOtv"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Breakin' It Up, Breakin' It Down",
         "url": "https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/5dpxVXiKhjGehNkEvII5vS"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Live At The Checkerboard Lounge",
         "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Electric Mud",
         "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/493ZYZqnZZR6rKBOwjw3R2"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "The Super, Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
@@ -753,55 +753,7 @@
       "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "Can't Get No Grindin'",
-        "url": "https://open.spotify.com/album/4lpsTbPd0zSyBewg5cPfwZ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 166280,
-      "name": "Can't Get No Grindin' (What's The Matter With The Meal)",
-      "url": "https://open.spotify.com/track/3AKs9gBENThKxpSPAGEWgA"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "You Shook Me",
-      "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
-      "album": {
-        "name": "Electric Mud",
-        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "She's Alright",
-      "url": "https://open.spotify.com/track/7mkH6cbNwZZtGNUmqhEG1r"
-    },
-    {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
@@ -821,7 +773,55 @@
       "url": "https://open.spotify.com/track/56itvurydIT3dgXua4a3zr"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "Can't Get No Grindin'",
+        "url": "https://open.spotify.com/album/4lpsTbPd0zSyBewg5cPfwZ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 166280,
+      "name": "Can't Get No Grindin' (What's The Matter With The Meal)",
+      "url": "https://open.spotify.com/track/3AKs9gBENThKxpSPAGEWgA"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "Electric Mud",
+        "url": "https://open.spotify.com/album/7cDLEVoIhkfKqaiKAPp7vL"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "She's Alright",
+      "url": "https://open.spotify.com/track/7mkH6cbNwZZtGNUmqhEG1r"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"
+    },
+    {
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "After The Rain",
         "url": "https://open.spotify.com/album/0EPqCz0qUIjjdxU010PP2Q"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/5tBKlkwkliIP05FAMqx5MM"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Muddy \"Mississippi\" Waters Live (Legacy Edition)",
         "url": "https://open.spotify.com/album/7Dy6z1nWHNIF2IKCARP9QN"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/1qCQ8n7quH6mWOhnAJm08E"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Live At The Checkerboard Lounge",
         "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
@@ -869,23 +869,27 @@
       "url": "https://open.spotify.com/track/3RcQoZDJPRqYnxJ7Eho21N"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
-        "name": "His Best 1947 To 1956 - The Chess 50th Anniversary Collection (Reissue)",
-        "url": "https://open.spotify.com/album/6kAxjSLxwWTwCfZHCouR7f"
+        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
       "artists": [
         {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 151866,
-      "name": "Sugar Sweet - 1955 Single Version",
-      "url": "https://open.spotify.com/track/2B798YhMw1dGsFTWDe4X9o"
+      "duration_ms": 277080,
+      "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
         "name": "Rare And Unissued",
         "url": "https://open.spotify.com/album/5P3KyLQoVmGHxtYa5ac2am"
@@ -905,24 +909,28 @@
       "url": "https://open.spotify.com/track/6LHxUGOL9wmHvYCPmqEeUV"
     },
     {
-      "added_at": "2023-07-16 12:20:32",
+      "added_at": "2023-07-17 11:59:37",
       "album": {
-        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
-        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
+        "name": "Super Blues",
+        "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
       "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
         {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         },
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 277080,
-      "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
+      "duration_ms": 368706,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/2RIHkpn49Tykr79C3dPRdB"
     }
   ],
   "unique_name": "This Is Muddy Waters",

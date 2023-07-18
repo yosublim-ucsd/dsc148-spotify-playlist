@@ -2,7 +2,7 @@
 
 ### [Written By Charlene Meulenberg](https://open.spotify.com/playlist/37i9dQZF1EFIT9yLhyYuHE)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wCJ7LHeFGJxtYRwCxFHOA">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 59 songs - 3 hr 6 min
 

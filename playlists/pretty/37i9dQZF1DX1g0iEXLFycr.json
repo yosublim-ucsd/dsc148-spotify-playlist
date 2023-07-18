@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1079807,
+  "num_followers": 1079802,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjA5NTU0YjMyZjY2MjVkODQ4ODRmYTY1ZGEzZWUxYzI5ZjY1ZjJl",
+  "snapshot_id": "MCwyMGRiNzI0NTQ1MDUwNTgzYWY3NzFmOTM2OGQ4OTVlYWZmOWFjZTQ1",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "duration_ms": 235850,
+      "name": "Sunchyme",
+      "url": "https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
         "name": "Between You and Me",
         "url": "https://open.spotify.com/album/1ZwqV0aR3jirvbjp96bLQn"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 211440,
       "name": "Between You and Me",
       "url": "https://open.spotify.com/track/1k0HaXwqnev6ITPjYqvtxF"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/5uHL9eW2VsoCIdnxNJJkcK"
-      },
-      "artists": [
-        {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
-        }
-      ],
-      "duration_ms": 235850,
-      "name": "Sunchyme",
-      "url": "https://open.spotify.com/track/5tQQCJaNdtafROf7M6hXax"
     },
     {
       "added_at": "2020-08-27 16:10:25",

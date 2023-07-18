@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Adam Brand",
+        "url": "https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "Come From The Heart",
+      "url": "https://open.spotify.com/track/3aYp3oei3e5VRi20YAj34K"
+    },
+    {
+      "album": {
         "name": "You're A Revhead",
         "url": "https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 183280,
       "name": "We're Makin' Up",
       "url": "https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN"

@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف :حاتم العراقي
 
-240 songs - 14 hr 1 min
+241 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Faqadat Alnaas](https://open.spotify.com/track/7iWqQCX3MhmwapUzPoqmdj) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Faqadat Alnaas](https://open.spotify.com/album/19GaPl9gfEK41QlrENJVOD) | 3:08 | 2021-12-23 | 2022-02-11 |
 | [Feal Madey](https://open.spotify.com/track/6cSa8DLoUgXAIsQnqqad8H) | [Tayseer Al Safeer](https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa) | [Feal Madey](https://open.spotify.com/album/58QqYgmn1ZWQvkpAsWF7zn) | 3:02 | 2022-01-21 | 2022-06-07 |
 | [Fouq Elhad](https://open.spotify.com/track/0y5G2hTZujYnVyaiTCj0Fl) | [Abdallah Al Bader](https://open.spotify.com/artist/6giOGFNMPXlwcHcjT3TUeC), [Deyaa Al Maialy](https://open.spotify.com/artist/5gq0eVYiBb6VoqpxImQLNj) | [Fouq Elhad](https://open.spotify.com/album/3aIlJNpOXScScBjD0I9TGW) | 2:55 | 2021-12-23 | 2022-02-18 |
+| [Ghadr El Bashar](https://open.spotify.com/track/7I8ZzWtrCKMN7EUiVDNz5P) | [Muhannad Khalaf](https://open.spotify.com/artist/7dhc5bHorRHHPuM5SvCKIt) | [Ghadr El Bashar](https://open.spotify.com/album/5B8d4bRxb2Knr6cbVct3Py) | 3:42 | 2023-07-17 |  |
 | [Ghannili Ya Hussain](https://open.spotify.com/track/2Izws8auHSM9MZwyyXit4a) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Ghannili Ya Hussain](https://open.spotify.com/album/636COZGHEOYKsqB3vxh5YX) | 4:23 | 2023-05-10 |  |
 | [Gher Any](https://open.spotify.com/track/0az73QKySqn6l23TWoljUt) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Gher Any](https://open.spotify.com/album/5HkpOu0MwwMcQdo6DUA5CQ) | 3:42 | 2022-06-07 | 2023-02-01 |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-01-01 | 2022-05-14 |

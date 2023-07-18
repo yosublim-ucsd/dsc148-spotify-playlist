@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: 2Rare
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,379,816 likes - 99 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,380,242 likes - 99 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 98 | [FOLD](https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FOLD](https://open.spotify.com/album/1iCT7O5zAGYGyoi3EpfoVa) | 3:07 |
 | 99 | [F&F](https://open.spotify.com/track/2RtPfdY7tlSCH1lObqppYx) | [Coults](https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ) | [COULTURE](https://open.spotify.com/album/65rfeH5KpPd6DvQgt3v3gi) | 2:01 |
 
-Snapshot ID: `MCwyYjFiMzRkNjFjMTM3MjNiYjc3Mzc0NTkxYTUxNDlmZDY1M2VlZGM5`
+Snapshot ID: `MCw4YzBjMmFlNDI1MjM3YjU2YTc0ZmVmMjVmOTgyODg5YmViNmE0Yjk0`

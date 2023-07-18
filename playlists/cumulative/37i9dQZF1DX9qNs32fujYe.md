@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Avenged Sevenfold
 
-733 songs - 2 day 6 hr 29 min
+735 songs - 2 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-10-07 |  |
 | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:14 | 2022-07-08 |  |
 | [Die by the Blade](https://open.spotify.com/track/7G0n4t8Ul5r0BpS2lw5hYT) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Die by the Blade](https://open.spotify.com/album/3cWywjglsOprND0106Mv1s) | 3:14 | 2021-12-17 | 2022-07-29 |
+| [Digital Bullets \(feat\. Chris Motionless\)](https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [The Call of the Void](https://open.spotify.com/album/6v472xKTGoBedRClrXfY45) | 3:58 | 2023-07-17 |  |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2022-07-13 | 2023-03-11 |
 | [Disruptor](https://open.spotify.com/track/3NGhrDLVlVVB3fQuz447ZB) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Disruptor](https://open.spotify.com/album/3OnY2TmDRbFwKbAG49xe0s) | 3:45 | 2021-12-17 | 2022-04-21 |
 | [Divine Nemesis](https://open.spotify.com/track/33mubIMnq79O2EsZXBrZjs) | [Nightmare](https://open.spotify.com/artist/3gSYde7QNAYJhvZnRtSCG5) | [Divine Nemesis](https://open.spotify.com/album/4CdhUtwqlfvDPLXN6P89Uf) | 5:25 | 2021-12-17 | 2022-07-28 |
@@ -320,7 +321,7 @@
 | [Into The Storm](https://open.spotify.com/track/0FcbEF2c45mID7o7IJ0qM6) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Into The Storm](https://open.spotify.com/album/7GcDYQFIVJ6W3IkzIfFiia) | 5:02 | 2021-12-17 | 2022-07-29 |
 | [Into the Void](https://open.spotify.com/track/62AlQhD90S7973EkbBT0Xj) | [Knights of the Realm](https://open.spotify.com/artist/7drZpVrfcqFcFdX3of49Uo) | [Knights of the Realm](https://open.spotify.com/album/4vqFFMxNsElDirSMoJjwoG) | 4:32 | 2022-03-22 | 2022-04-01 |
 | [Invaders](https://open.spotify.com/track/4bKdrTctrZRcfsY2nSv1Kc) | [Civil War](https://open.spotify.com/artist/6lGzC0JJCotCU9QZ2Lgi8T) | [Invaders](https://open.spotify.com/album/3BEw4TA7gQa6rmOAYOmkkN) | 4:32 | 2022-04-08 | 2022-04-20 |
-| [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-13 |  |
+| [IOU](https://open.spotify.com/track/3nqpRRpUhwfo6BqibVqeuj) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [IOU](https://open.spotify.com/album/2vNZBW15QXrMe4ohiuDjZV) | 4:27 | 2022-05-13 | 2023-07-18 |
 | [It’s Electric](https://open.spotify.com/track/7mvQXgyVwWr9fYMVDoCMkY) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [It’s Electric](https://open.spotify.com/album/1OkYZGeYAH4wbHRcTrkQrS) | 3:18 | 2021-12-17 | 2022-07-29 |
 | [Jenseits der Welt](https://open.spotify.com/track/5CrW7UPOqpdZYHSPZN4UyE) | [Unzucht](https://open.spotify.com/artist/2hfInImCCmb7zXIuCE15IN) | [Jenseits der Welt](https://open.spotify.com/album/5oVBjXFAwdU5WUiu3Rwo6S) | 4:32 | 2021-12-17 | 2022-07-26 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 |  |
@@ -474,7 +475,7 @@
 | [Psycho Thrilling](https://open.spotify.com/track/3gG5yO8ptCHsgt29dsDAlC) | [Sister](https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ) | [Vengeance Ignited](https://open.spotify.com/album/04EItnaCegM8FMxusl1zUu) | 3:42 | 2021-12-17 | 2022-07-27 |
 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 | 2022-08-19 |  |
 | [Punish You](https://open.spotify.com/track/4HCkjZPT5io0NGlyaSIZpT) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Punish You](https://open.spotify.com/album/0LSHUY7MYlV7NKCs8rPD9V) | 4:21 | 2021-12-17 | 2022-07-29 |
-| [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 | 2022-08-19 |  |
+| [Punishment](https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Urban Discipline](https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws) | 4:44 | 2022-08-19 | 2023-07-18 |
 | [Push](https://open.spotify.com/track/4xD8Pb5UGURJwnn9vi2Igu) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Killing the Dragon](https://open.spotify.com/album/2de1fHKLJ3o6bDkCjIwcJ6) | 4:08 | 2021-12-17 | 2022-08-20 |
 | [Pushing the Tides](https://open.spotify.com/track/2JIbpxyklwMF01YPqJG7uq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Pushing the Tides](https://open.spotify.com/album/4JK64E5sqKLT2appa0WxwO) | 3:29 | 2021-12-17 | 2022-04-21 |
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-02-25 |  |
@@ -721,6 +722,7 @@
 | [Wilting in the Light](https://open.spotify.com/track/1IjscceUQ8pX5SpQYubrXp) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [You Will Be the Death of Me](https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO) | 3:48 | 2022-07-08 | 2023-01-20 |
 | [Wilting in the Light](https://open.spotify.com/track/6Gp1w9ybjPC9NPXZccMJ01) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [Wilting in the Light](https://open.spotify.com/album/6GQq37rTLA6XoBazvLvzRX) | 3:48 | 2021-12-17 | 2022-07-22 |
 | [Wings of Fire](https://open.spotify.com/track/6OWQLU8zkE7ph047jVwt1i) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Blood on Blood](https://open.spotify.com/album/1OLRjNNIkMhGXRsAa3VSDD) | 3:59 | 2021-12-17 | 2022-07-29 |
+| [Wings of Light](https://open.spotify.com/track/69Tm9WdAS2Y74e99YBfZOE) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 4:06 | 2023-07-17 |  |
 | [Wings of Steel](https://open.spotify.com/track/01PlEMEsHPNmGEzUGYXo7y) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [Wings of Steel](https://open.spotify.com/album/5X16ADkFIiyA3cJsQbMXAy) | 4:33 | 2021-12-17 | 2022-07-27 |
 | [Wings of the Storm](https://open.spotify.com/track/0oPS4seBoSMmz0M1OnL0l1) | [Axel Rudi Pell](https://open.spotify.com/artist/7dWw3TXxNe2aEhng9vVRNl) | [Wings of the Storm](https://open.spotify.com/album/5zqUnkGcb5vHjRlNN8oAUl) | 5:47 | 2021-12-17 | 2022-04-19 |
 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-19 |  |

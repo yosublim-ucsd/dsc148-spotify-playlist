@@ -1,13 +1,29 @@
 {
-  "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 125578,
+  "description": "Jazz voices of today. Cover: Laufey",
+  "num_followers": 125684,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDdkZTBmYWU2ZDdkYTEyMWQzMjQ3ZDJiZjAzYmEyMjNmMGM1NTAz",
+  "snapshot_id": "MCw2ZGRlNDM5YzA0ZGFiZTM3NDlmNDAwMWQ5NmExYWZmZGE2NDliZDYy",
   "tracks": [
+    {
+      "added_at": "2023-06-16 04:01:00",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
+    },
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 293973,
       "name": "Chicago Blues",
       "url": "https://open.spotify.com/track/26gSq8ynYSkBTo637il67o"
-    },
-    {
-      "added_at": "2023-06-16 04:01:00",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
     },
     {
       "added_at": "2023-07-14 04:01:00",

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6335\)
+## Playlists \(6342\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -273,8 +273,8 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [90's Workout](/playlists/pretty/37i9dQZF1DXdMm3yYbD7IO.md)
 - [909 Classics](/playlists/pretty/37i9dQZF1DX6qMmUY0JUQO.md)
 - [90s](/playlists/pretty/6wsFITBT08NA12LlCG9h3Q.md)
+- [90s ALTERNATIVE ROCK](/playlists/pretty/20LKsiDZd4ALrlihncFcFa.md)
 - [90s Acoustic](/playlists/pretty/37i9dQZF1DXb9LIXaj5WhL.md)
-- [90s Alternative Rock](/playlists/pretty/20LKsiDZd4ALrlihncFcFa.md)
 - [90s Arabic Hits](/playlists/pretty/37i9dQZF1DXaHuo0R6jTxZ.md)
 - [90s Ballads](/playlists/pretty/37i9dQZF1DX7L1VcqQ1quZ.md)
 - [90s Country](/playlists/pretty/37i9dQZF1DWVpjAJGB70vU.md)
@@ -3075,6 +3075,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Most Favoured](/playlists/pretty/37i9dQZF1DX8Dcuy1LwIn0.md)
 - [Most Listened To British Dads on Spotify](/playlists/pretty/1k9jG0FUp7BcrAF1MZSabO.md)
 - [Most Necessary](/playlists/pretty/37i9dQZF1DX2RxBh64BHjQ.md)
+- [Most Streamed Rap Songs on Spotify](/playlists/pretty/37i9dQZF1DX58gKmCfKS2T.md)
 - [Mother Funk](/playlists/pretty/37i9dQZF1DXcyPBAlQvdpJ.md)
 - [Mother Nature](/playlists/pretty/37i9dQZF1DX4If4OqUyC8k.md)
 - [Mother's Day](/playlists/pretty/37i9dQZF1DWSoTL04mwiZp.md)
@@ -4284,7 +4285,12 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Spotify Singles: Love Edition](/playlists/pretty/37i9dQZF1DWSGaZLGlN26y.md)
 - [Spotify Singles: Pride](/playlists/pretty/37i9dQZF1DXcaEXdyjLdxm.md)
 - [Spotify Singles: Stripped](/playlists/pretty/37i9dQZF1DXdFhiq9L31be.md)
+- [Spotlight: Ali Sethi](/playlists/pretty/37i9dQZF1DX3O4vKCZh3eW.md)
+- [Spotlight: Irfan Junejo](/playlists/pretty/37i9dQZF1DX00f0qPaetn4.md)
+- [Spotlight: King](/playlists/pretty/37i9dQZF1DXaYwFO76kSqM.md)
+- [Spotlight: Sunanda Sharma](/playlists/pretty/37i9dQZF1DWWIzfHd9Z9wo.md)
 - [Spotlight: The Juggernaut](/playlists/pretty/37i9dQZF1DWWxJ7o7YYYQA.md)
+- [Spotlight: Xefer](/playlists/pretty/37i9dQZF1DWXNHqtpcpjgB.md)
 - [Spread the Gospel](/playlists/pretty/37i9dQZF1DX7OIddoQVdRt.md)
 - [Spring Break](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md)
 - [Spring Garden](/playlists/pretty/6YMK6nqc1jS11fGraCU1o2.md)
@@ -5208,6 +5214,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is SHINee](/playlists/pretty/37i9dQZF1DX8To4GlhTfpA.md)
 - [This Is SMTOWN](/playlists/pretty/37i9dQZF1DWWRPNrrjHe9m.md)
 - [This Is SPYAIR](/playlists/pretty/37i9dQZF1DZ06evO4iOisK.md)
+- [This Is STUDIO GHIBLI \-スタジオジブリ\-](/playlists/pretty/37i9dQZF1DX7GTqMQDhOum.md)
 - [This Is SUBSHIFT](/playlists/pretty/37i9dQZF1DZ06evO3LZ0T8.md)
 - [This Is SUNMI](/playlists/pretty/37i9dQZF1DX5wTRh9H8LSC.md)
 - [This Is SUPER JUNIOR](/playlists/pretty/37i9dQZF1DX7h06zz0VktL.md)

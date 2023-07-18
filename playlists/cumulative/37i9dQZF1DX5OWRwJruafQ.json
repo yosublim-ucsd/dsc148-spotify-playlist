@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Hathyar (From \"Tufang\")",
+        "url": "https://open.spotify.com/album/5zXOlnv7LlCLlipzHBdSPk"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Hathyar - From \"Tufang\"",
+      "url": "https://open.spotify.com/track/1JpUj7FtR1pGM2OAZdSeK3"
+    },
+    {
+      "album": {
         "name": "Highway To Hell",
         "url": "https://open.spotify.com/album/0NEzC57EkJUAeXmVZC2mjD"
       },

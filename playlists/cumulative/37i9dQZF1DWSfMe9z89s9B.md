@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Jamila Woods
 
-895 songs - 2 day 0 hr 22 min
+896 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 | 2022-05-27 | 2022-07-16 |
 | [Come Home To God](https://open.spotify.com/track/68hSEF4xKfksoiuzwNSfZn) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 3:19 | 2023-06-09 |  |
 | [come thru](https://open.spotify.com/track/3kZLfFEvFmuRhpVM7Nyfq0) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [come thru](https://open.spotify.com/album/64tGtfAUug6pBCPyn8jHyy) | 2:12 | 2022-04-01 | 2022-04-15 |
-| [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-20 |  |
+| [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-20 | 2023-07-18 |
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-06-10 | 2022-07-27 |
 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 |  |
 | [Confused](https://open.spotify.com/track/7ocp0iNDImb4PzHnjYTQi0) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Confused](https://open.spotify.com/album/5BRM2xQqW2bTL6qZR6qF7Q) | 2:06 | 2022-04-01 | 2022-04-05 |
@@ -707,6 +707,7 @@
 | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse) | 3:44 | 2022-08-26 | 2022-09-10 |
 | [Soakin \(feat\. Gwen Bunn\)](https://open.spotify.com/track/7epN5VB7jzztkow06wBzzP) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Birds & Bees](https://open.spotify.com/album/1HAbHnM7A3saeFtPaoAtAN) | 4:00 | 2021-11-05 | 2022-01-07 |
 | [Soapbox Soliloquy](https://open.spotify.com/track/6dJUlR8q2fSvHx3ERI4pwg) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Soapbox Soliloquy](https://open.spotify.com/album/4MZP2b4YjP1EMYI67PPN57) | 3:38 | 2023-05-26 | 2023-07-15 |
+| [SOBER](https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [SOBER](https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy) | 2:35 | 2023-07-14 |  |
 | [Solid](https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Solid](https://open.spotify.com/album/2Cc42kwECFHrRY0LRFB63q) | 3:39 | 2021-03-19 | 2022-01-23 |
 | [Solo Dolo](https://open.spotify.com/track/15wIFzox6G1pDNIk1SKGP9) | [Amen](https://open.spotify.com/artist/59XyIoBpA5iKQ8KmjJj554) | [Solo Dolo](https://open.spotify.com/album/1mCzUg46aUlZuJfNvsM6XI) | 3:01 | 2021-06-18 | 2021-12-29 |
 | [SONIC BOOM](https://open.spotify.com/track/6VZd1Xv8BR4sZYubjLOIhR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [SONIC BOOM](https://open.spotify.com/album/6UDg27sesCLOc8fB6I9nBy) | 2:43 | 2022-07-15 | 2022-07-23 |

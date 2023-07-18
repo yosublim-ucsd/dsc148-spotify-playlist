@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zouqan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,091 likes - 72 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,101 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 71 | [Living It Up](https://open.spotify.com/track/1VZIWLNwInxGFn65GGekQY) | [Kumail Jaffery](https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3) | [Living It Up](https://open.spotify.com/album/7CT6HNNVYRi1pGND64w0EC) | 2:51 |
 | 72 | [NO COMPROMISE](https://open.spotify.com/track/4gAXMF6e9bIhaftYiwESh7) | [Kh44ki](https://open.spotify.com/artist/0kIqArPHBqFq0pf69pVd4x), [Shehroz](https://open.spotify.com/artist/3TqqstbDuFqLxPwFcLutOE) | [NO COMPROMISE](https://open.spotify.com/album/38orATJMm4YHp3NIZQMbNV) | 2:28 |
 
-Snapshot ID: `MCw1MzA0MTFiZjRiODMzNmU4NjhmYWZmN2IwODllYmVjZGNjYjYzYzRj`
+Snapshot ID: `MCw3MjNiMDgyOTYwYjFiMDNhOTU0OTkzYTBlMzM0Mjk2ZGEyNTk5MjM3`

@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 1773,
+  "num_followers": 1791,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTdjNWQ2NDczZWZkNTIwMzViMjhkNWIyZTA5ZjBkODRmNjVkYzhk",
+  "snapshot_id": "MCw4ZTc3YzJlNmU1YWE4MDA4MzY1MGY5NzJiMmNlMTY1ODJjOTgyYWJj",
   "tracks": [
     {
       "added_at": "2023-07-07 18:28:55",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
+        "name": "Solo Un Eco",
+        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 285117,
+      "name": "Solo Un Eco",
+      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -79,22 +95,6 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Solo Un Eco",
-        "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 285117,
-      "name": "Solo Un Eco",
-      "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
         "name": "CINEMA",
         "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
       },
@@ -107,22 +107,6 @@
       "duration_ms": 167386,
       "name": "Un Mill\u00f3n",
       "url": "https://open.spotify.com/track/5dFG12OQz10CbUFZIYH0gv"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Babysita </3",
-      "url": "https://open.spotify.com/track/0TzPApPjiPWXv98qSCrgbp"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -159,22 +143,6 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },
@@ -203,6 +171,38 @@
       "duration_ms": 234041,
       "name": "Tu Mundo",
       "url": "https://open.spotify.com/track/0ta2Bhn387N48wKGJ2lwoT"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/6GaB5hqbxFqUbKUcOlGT5h"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Babysita </3",
+      "url": "https://open.spotify.com/track/0TzPApPjiPWXv98qSCrgbp"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
+        "name": "Miss Universos",
+        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+      },
+      "artists": [
+        {
+          "name": "Los W\u00e1lters",
+          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Desastre Comunal",
+      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
         "name": "Maldita Cach\u00e1",
         "url": "https://open.spotify.com/album/3nunl1URnEHRPjZU854vYo"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Miss Universos",
-        "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
+        "name": "Letra Pa' tu Coco",
+        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
       },
       "artists": [
         {
-          "name": "Los W\u00e1lters",
-          "url": "https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY"
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
         }
       ],
-      "duration_ms": 185920,
-      "name": "Desastre Comunal",
-      "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+      "duration_ms": 212453,
+      "name": "Live This One",
+      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -607,22 +623,6 @@
       "duration_ms": 223703,
       "name": "Me Saben a Miel",
       "url": "https://open.spotify.com/track/4Ju1mQFxj2kRBAzzv0WaVh"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
-        "name": "Letra Pa' tu Coco",
-        "url": "https://open.spotify.com/album/4aHOFAEKBT88XWFWesHZCE"
-      },
-      "artists": [
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 212453,
-      "name": "Live This One",
-      "url": "https://open.spotify.com/track/6J5lM8LW7QmSwcRkv4D7Tw"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
+        "name": "Perd\u00ed Tu Num :(",
+        "url": "https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8rfy",
+          "url": "https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr"
+        }
+      ],
+      "duration_ms": 162102,
+      "name": "Perd\u00ed Tu Num :(",
+      "url": "https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
         "name": "Liberado",
         "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 199308,
       "name": "Aguadilla",
       "url": "https://open.spotify.com/track/22tVNm19WbKR7F8tLZcaIg"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
-        "name": "Perd\u00ed Tu Num :(",
-        "url": "https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8rfy",
-          "url": "https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr"
-        }
-      ],
-      "duration_ms": 162102,
-      "name": "Perd\u00ed Tu Num :(",
-      "url": "https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu"
     }
   ],
   "unique_name": "Indie Boricua",

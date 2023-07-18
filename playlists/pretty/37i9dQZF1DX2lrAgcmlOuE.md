@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lrAgcmlOuE.md) - [plain]
 
 > The superstar DJ & Producer <a href="spotify:artist:6BrvowZBreEkXzJQMpL174">Hardwell</a> delivers a headlining mix to get us pumping through summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,370 likes - 14 songs - 59 min 52 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,388 likes - 14 songs - 59 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lrAgcmlOuE.md) - [plain]
 | 13 | [Dreaming \- Mixed](https://open.spotify.com/track/4aisBWmi2wJeb2OZl3zpV9) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming \(Mixed\)](https://open.spotify.com/album/3TQUdOCRQkLw7vizXZ4P0S) | 2:59 |
 | 14 | [Eyes Wide Shut \- Mixed](https://open.spotify.com/track/7CA0vPBKpOC1V0VtKYr7fl) | [GIFTBACK](https://open.spotify.com/artist/5xq3ihm7aONcolMTWXKltB), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Eyes Wide Shut \(Mixed\)](https://open.spotify.com/album/5nMQh9nqZxpO5yQ0mkfON3) | 3:18 |
 
-Snapshot ID: `MCxjMzAwNWY5NTMxY2M3YmJiMzVlMTI2YzA1ODVjMGRiOWRkNjViN2E0`
+Snapshot ID: `MCxmMGU4MWFlYjEyNzMyZWU1NGJkN2E0YzEyZDk1ZDdiNTU0ZGRhNWEw`

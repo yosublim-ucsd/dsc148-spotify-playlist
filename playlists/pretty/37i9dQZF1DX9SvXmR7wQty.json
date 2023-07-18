@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Loud, Ya Cetidon",
-  "num_followers": 37196,
+  "num_followers": 37199,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTM1NzExMmIyMDlkZmU3MDc1OGNiNDRhNDUzOGI3OTYwMmNiZWYw",
+  "snapshot_id": "MCxmZTZmOWUzNTYzNjQ5M2I1YjZmNmRhY2MyMWI5YjVkODE0NDJkMGU2",
   "tracks": [
     {
       "added_at": "2023-07-14 15:47:31",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
+        "name": "Pardonne-moi",
+        "url": "https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Pardonne-moi",
+      "url": "https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
         "name": "NI",
         "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
@@ -227,18 +243,22 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
-        "name": "Pardonne-moi",
-        "url": "https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9"
+        "name": "Ouvert tout l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Sadek",
+          "url": "https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 187037,
-      "name": "Pardonne-moi",
-      "url": "https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY"
+      "duration_ms": 178266,
+      "name": "TP",
+      "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
     },
     {
       "added_at": "2023-07-14 15:47:31",
@@ -259,26 +279,6 @@
       "duration_ms": 188786,
       "name": "Mon BB",
       "url": "https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
-        "name": "Ouvert tout l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
-      },
-      "artists": [
-        {
-          "name": "Sadek",
-          "url": "https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "TP",
-      "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
     },
     {
       "added_at": "2023-07-14 15:47:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 195659,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
         "name": "Derni\u00e8re fois",
         "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 198698,
       "name": "Derni\u00e8re fois",
       "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
       "added_at": "2023-07-14 15:47:31",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
+        "name": "25 G",
+        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "25 G",
+      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
         "name": "Derni\u00e8re danse",
         "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
-        "name": "25 G",
-        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "25 G",
-      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
         "name": "M\u00e9t\u00e9o",
         "url": "https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
-        "name": "Eyes Contact",
-        "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
-      },
-      "artists": [
-        {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
-        }
-      ],
-      "duration_ms": 138109,
-      "name": "Eyes Contact",
-      "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
         "name": "Roly",
         "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
       },
@@ -635,6 +619,38 @@
       "duration_ms": 225996,
       "name": "Roly",
       "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
+        "name": "Freestyle LVL UP 3",
+        "url": "https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 200976,
+      "name": "Freestyle LVL UP 3",
+      "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
+        "name": "Eyes Contact",
+        "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        }
+      ],
+      "duration_ms": 138109,
+      "name": "Eyes Contact",
+      "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
     },
     {
       "added_at": "2023-07-14 15:47:31",
@@ -683,22 +699,6 @@
       "duration_ms": 214041,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
-        "name": "Freestyle LVL UP 3",
-        "url": "https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 200976,
-      "name": "Freestyle LVL UP 3",
-      "url": "https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd"
     },
     {
       "added_at": "2023-07-14 15:47:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
+        "name": "Femmes",
+        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 131399,
+      "name": "Femmes",
+      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
         "name": "VIDA LOCA",
         "url": "https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 181714,
       "name": "Et si ?",
       "url": "https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
-        "name": "Femmes",
-        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 131399,
-      "name": "Femmes",
-      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
     },
     {
       "added_at": "2023-07-14 15:47:31",

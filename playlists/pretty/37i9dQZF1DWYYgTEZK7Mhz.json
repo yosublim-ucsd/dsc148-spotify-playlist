@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 16611,
+  "num_followers": 16687,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2U5NzZkN2QwODM3Zjc2MWViMTVhNzMwYmM4NjY5YzgzYTU0NzJi",
+  "snapshot_id": "MCw4YmY2ZDljMzRjZDc4MTU2NDhiMDlkN2EwNGNmYjFlODczNjQzZmU1",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Il Meglio",
+        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
+      },
+      "artists": [
+        {
+          "name": "Mario Tessuto",
+          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Lisa dagli occhi blu",
+      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 149493,
       "name": "Abbronzatissima",
       "url": "https://open.spotify.com/track/5pBoclEiiZgUyZMXgR3jJ7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Il Meglio",
-        "url": "https://open.spotify.com/album/6i07oLcpCIodSkJgPBZdUU"
-      },
-      "artists": [
-        {
-          "name": "Mario Tessuto",
-          "url": "https://open.spotify.com/artist/1xaJH9NMuR3721EGoHgTFi"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Lisa dagli occhi blu",
-      "url": "https://open.spotify.com/track/72dcYqzC2rNikkqgK0e06Y"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Rocco: Zijn Story In 21 Liedjes",
-        "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
-      },
-      "artists": [
-        {
-          "name": "Rocco Granata",
-          "url": "https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "Marina",
-      "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Gianni Morandi",
         "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 152000,
       "name": "Andavo A Cento All'Ora",
       "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Rocco: Zijn Story In 21 Liedjes",
+        "url": "https://open.spotify.com/album/0rD6ZFWRpMdZqAnvcIv66g"
+      },
+      "artists": [
+        {
+          "name": "Rocco Granata",
+          "url": "https://open.spotify.com/artist/2VhQDTCxA5WBYclo7t7UcI"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "Marina",
+      "url": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Le Sue Piu' Belle Canzoni",
-        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
-      },
-      "artists": [
-        {
-          "name": "Umberto Rosario Balsamo",
-          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Balla",
-      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Legata a un granello di sabbia (Remastered)",
         "url": "https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 245822,
       "name": "Legata a un granello di sabbia - Remastered",
       "url": "https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Le Sue Piu' Belle Canzoni",
+        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
+      },
+      "artists": [
+        {
+          "name": "Umberto Rosario Balsamo",
+          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Balla",
+      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -771,22 +771,18 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+        "name": "Le pi\u00f9 belle canzoni di Milva",
+        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
       },
       "artists": [
         {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+          "name": "Milva",
+          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
         }
       ],
-      "duration_ms": 159312,
-      "name": "Pinne fucile ed occhiali",
-      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
+      "duration_ms": 180453,
+      "name": "Il mare nel cassetto",
+      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -807,18 +803,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Le pi\u00f9 belle canzoni di Milva",
-        "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
       "artists": [
         {
-          "name": "Milva",
-          "url": "https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N"
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Il mare nel cassetto",
-      "url": "https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK"
+      "duration_ms": 159312,
+      "name": "Pinne fucile ed occhiali",
+      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     }
   ],
   "unique_name": "Sapore di Sale",

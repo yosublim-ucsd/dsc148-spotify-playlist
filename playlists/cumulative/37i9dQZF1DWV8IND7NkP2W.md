@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-620 songs - 1 day 4 hr 2 min
+621 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,8 @@
 | [Sunday Burger](https://open.spotify.com/track/1wqj078Th6WnoIQrPjIZE0) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [OLD WAYS WON'T OPEN NEW DOOR](https://open.spotify.com/album/3Sa35KpRmVffMhH4b73h0J) | 2:12 | 2022-01-13 | 2022-06-11 |
 | [sunrise](https://open.spotify.com/track/2k61tAqGJe9nZXbmsrmGxp) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [sunrise](https://open.spotify.com/album/2WSSsVSgLA4dtUeDKlmz4l) | 2:56 | 2023-01-19 | 2023-01-21 |
 | [sunrise](https://open.spotify.com/track/3syEFU3GcxSZUhwAJzBfTh) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [sunrise](https://open.spotify.com/album/5Zm3mPMM6RbSeCL9S48CeC) | 2:56 | 2023-01-19 | 2023-04-12 |
-| [SUNSHOWER](https://open.spotify.com/track/2Hzc0G0PGKvBeNkA0TBlDb) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [SUNSHOWER](https://open.spotify.com/album/0aaYXHwj0CoNUuRgJ223Zn) | 2:41 | 2023-06-13 |  |
+| [SUNSHOWER](https://open.spotify.com/track/1UBW6L4Kg42c0FNL8nTIGp) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [MIDNIGHTINDICA](https://open.spotify.com/album/5Pi2OXnK98IqCrNbFhL7Yd) | 2:41 | 2023-07-13 |  |
+| [SUNSHOWER](https://open.spotify.com/track/2Hzc0G0PGKvBeNkA0TBlDb) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [SUNSHOWER](https://open.spotify.com/album/0aaYXHwj0CoNUuRgJ223Zn) | 2:41 | 2023-06-13 | 2023-07-18 |
 | [sweet smoke](https://open.spotify.com/track/444O4OVp9DSfS5PwzOeueM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [SWEET SMOKE](https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97) | 1:54 | 2021-12-23 | 2022-01-10 |
 | [Sweet Spare](https://open.spotify.com/track/16os4JPoRQcwdzIKo9pdHo) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Sweet Spare](https://open.spotify.com/album/6fOmtJfu7XciZl8g2SRSJi) | 3:16 | 2021-12-23 | 2022-07-16 |
 | [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 |  |

@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: La T y La M
 
-135 songs - 7 hr 22 min
+136 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2023-05-26 |  |
 | [El Mamado del Auto](https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk) | [Los Dragones](https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt) | [Salvaje](https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP) | 3:31 | 2023-05-26 |  |
 | [El Manual](https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [El Manual](https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw) | 2:08 | 2023-05-26 |  |
+| [El Marginal](https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3) | 3:09 | 2023-07-17 |  |
 | [El Mas Piola](https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Piola](https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml) | 3:37 | 2023-05-26 |  |
 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH) | 2:09 | 2023-05-26 |  |
 | [EL PRESO](https://open.spotify.com/track/30ifw7I5iQXqhuF87LtcAd) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [EL PRESO](https://open.spotify.com/album/3UiqD2eUHBYfHrRTUlv9JE) | 4:30 | 2023-06-30 | 2023-07-08 |
@@ -71,7 +72,7 @@
 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 | 2023-05-26 |  |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 |  |
 | [Lejos de Ti](https://open.spotify.com/track/5pvUrWYANWIKQYz89fwFJ1) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [Close de Ort!](https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f) | 4:35 | 2023-05-26 |  |
-| [Leña para el Carbon](https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Los del Momento](https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i) | 2:34 | 2023-05-26 |  |
+| [Leña para el Carbon](https://open.spotify.com/track/7FNsfEyNOXiK6hzZ1kK5aA) | [El Jarra](https://open.spotify.com/artist/3o42Mj5a6vwbelxOjuWq9e) | [Los del Momento](https://open.spotify.com/album/6G8N46ftkHtaeznBBUzJ7i) | 2:34 | 2023-05-26 | 2023-07-18 |
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-05-26 |  |
 | [Llegamos los Pibes Chorros](https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Solo Le Pido a Dios](https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY) | 3:49 | 2023-06-09 |  |
 | [LOGI](https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [LOGI](https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA) | 3:54 | 2023-05-26 |  |

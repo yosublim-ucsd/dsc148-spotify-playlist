@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-1,468 songs - 3 day 3 hr 51 min
+1,469 songs - 3 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,7 +543,7 @@
 | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0) | 4:54 | 2022-11-22 | 2022-11-26 |
 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 | 2022-05-17 | 2022-05-24 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-04-07 | 2022-04-13 |
-| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-11 |  |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-11 | 2023-07-18 |
 | [Fuma do Kunk Amor o Tetel Você que Pagou](https://open.spotify.com/track/5xQv8Cff2wvivGwU2hEGcl) | [DJ KN DE VILA VELHA](https://open.spotify.com/artist/603VnhQ48nW8ip2g2GtcOt), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ), [terra do kn](https://open.spotify.com/artist/18cTITUJb0UzHhiLnRPZRf) | [Fuma do Kunk Amor o Tetel Você que Pagou](https://open.spotify.com/album/2KklEwgbQCJctBnCAEVzXh) | 3:58 | 2023-05-30 | 2023-07-09 |
 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 | 2023-03-28 | 2023-04-01 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-06-28 | 2022-07-06 |
@@ -1289,6 +1289,7 @@
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/6i2EwqPMXGpqvvlzvNdzqQ) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH) | [O Rei do Lambadão](https://open.spotify.com/album/4N3qXnzt4ZDCjdmvxGyBwd) | 3:33 | 2022-07-06 | 2022-07-28 |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2) | 3:22 | 2022-08-09 | 2022-09-09 |
 | [Tem Cabaré Essa Noite](https://open.spotify.com/track/677KBsV3TouvfOk4czlRzc) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe), [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH) | [Tem Cabaré Essa Noite](https://open.spotify.com/album/52BzGjZdplumzayfhwd5iy) | 4:04 | 2022-07-13 | 2022-07-21 |
+| [Tenta acreditar](https://open.spotify.com/track/20hgA0b2k5RUCgORJmu92T) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:53 | 2023-07-17 |  |
 | [Termina Comigo Antes](https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Termina Comigo Antes](https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq) | 3:07 | 2022-04-26 | 2022-05-23 |
 | [Terra Prometida](https://open.spotify.com/track/2HNTWEJx0FtU6UQfT01VR1) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Zack Vox](https://open.spotify.com/artist/0y7p9FFFrFIHUfSgaeF9hR), [Marcin](https://open.spotify.com/artist/7aqyet29QYmprf0i3n9kqU), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Terra Prometida](https://open.spotify.com/album/3JQ0qcFa7gDWy2MULfJ1RY) | 3:13 | 2022-02-22 | 2022-03-16 |
 | [Teu Amigo Cuidou](https://open.spotify.com/track/1bm9fDxVpuWlxoxoLPru7a) | [Banda Kenner](https://open.spotify.com/artist/4EGMHFeFIhk1uUKdO9pk1Q) | [Março, Vol\. 03](https://open.spotify.com/album/1mGOpyCqvYkg10OctD6Xdy) | 3:47 | 2022-05-01 | 2022-05-15 |

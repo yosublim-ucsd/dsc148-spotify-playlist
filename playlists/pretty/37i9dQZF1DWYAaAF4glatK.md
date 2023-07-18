@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La playlist de ton été 2023 ! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,425 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,774 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 |
 | 50 | [Crying At The Discotheque](https://open.spotify.com/track/4yDWvUA2Y9PWGov1948c9M) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [Dance Therapy](https://open.spotify.com/artist/3UDGcXWgpqS9j7PMCVtmA0) | [Crying At The Discotheque](https://open.spotify.com/album/772rf0b3nTGIbrXmIMfaVE) | 2:31 |
 
-Snapshot ID: `MCxlY2JmNDViY2M5NzVlOTFiM2U1ZmE0NzAxZWYyOWMxNGNmYTI4MTky`
+Snapshot ID: `MCwxNmQ3MjcyODkzMjcwNjRhNDkzMjVlNjIxYjgzMTBmYzkyYjAwODQy`

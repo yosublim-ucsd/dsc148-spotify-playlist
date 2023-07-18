@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Peggy Gou.
 
-646 songs - 1 day 15 hr 34 min
+647 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,7 @@
 | [The Calling](https://open.spotify.com/track/4ANmPUsA3LAvOSP8xen6Vt) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Calling](https://open.spotify.com/album/0Zq4pT3WEPhlGjaerScLLY) | 3:17 | 2022-05-27 | 2023-05-13 |
 | [The Chant](https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [The Chant](https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb) | 3:06 | 2021-04-03 | 2022-07-23 |
 | [The Darkness That You Fear \- The Blessed Madonna Remix](https://open.spotify.com/track/35FGcyIC9Pai3BxcJJYTNk) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [The Darkness That You Fear \(The Blessed Madonna Remix\)](https://open.spotify.com/album/79eRDC0vTIE3cdBJ2YEUYW) | 6:19 | 2021-06-27 | 2022-04-21 |
-| [The Function](https://open.spotify.com/track/6LmyUEqf0CKS0cEsL5Hlvo) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Sage Armstrong](https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH) | [The Function](https://open.spotify.com/album/4oWN5dvjdwaoCJj7JWkbqV) | 2:50 | 2023-07-07 |  |
+| [The Function](https://open.spotify.com/track/6LmyUEqf0CKS0cEsL5Hlvo) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Sage Armstrong](https://open.spotify.com/artist/1cfwUSXEE2axXJGQfnfVFH) | [The Function](https://open.spotify.com/album/4oWN5dvjdwaoCJj7JWkbqV) | 2:50 | 2023-07-07 | 2023-07-18 |
 | [The Hymn](https://open.spotify.com/track/6SoGQrTkJ8YyC5UBeahOJh) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [The Hymn](https://open.spotify.com/album/6Vg5gS8vNJ2a9QalAwIOSE) | 3:20 | 2021-08-14 | 2022-07-28 |
 | [The Judge](https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [The Judge](https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9) | 3:40 | 2022-05-20 | 2022-08-07 |
 | [The Music](https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [The Music](https://open.spotify.com/album/4msQOmIlkiNfRYacIgk0fj) | 2:26 | 2021-05-15 | 2022-09-10 |
@@ -649,6 +649,7 @@
 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 | 2021-03-27\* | 2021-05-03 |
 | [Your Body](https://open.spotify.com/track/697HW34FLNURvRAbSieICv) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Your Body](https://open.spotify.com/album/6mHS5vgGYalErBmxhX3TXx) | 3:27 | 2021-06-27 | 2022-12-16 |
 | [Your Love](https://open.spotify.com/track/4xULQ1OH1Rm5EpMhuEWULl) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Your Love](https://open.spotify.com/album/4G7AnMXZWjAHwPUjmRCWx6) | 2:45 | 2021-03-27\* | 2021-04-03 |
+| [Your Love \(feat\. House Gospel Choir\) \(Edit\)](https://open.spotify.com/track/60JeXqcZ2yBJiedeM1Xv4i) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [Your Love \(feat\. House Gospel Choir\)](https://open.spotify.com/album/4fo8hmUbqDIW5UbzfkhTs2) | 4:18 | 2023-07-14 |  |
 | [Your Mind Is Dirty](https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Your Mind Is Dirty](https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR) | 3:18 | 2023-05-19 |  |
 | [Your Time Is Up](https://open.spotify.com/track/1SEBehSYYCuADY6kf3CHlP) | [Will Saul](https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Your Time Is Up](https://open.spotify.com/album/1mdWoDfUJKc826S55ivBjL) | 3:13 | 2021-03-27\* | 2021-04-10 |
 | [Yurican Soul](https://open.spotify.com/track/3wWRDze2BT30T2fEaSB5nQ) | [Monki](https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe) | [Yurican Soul](https://open.spotify.com/album/4BctqbnS16FdzjMKu1bmvJ) | 4:04 | 2021-04-24 | 2021-06-12 |

@@ -1277,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Business (feat. Naza)",
+        "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170435,
+      "name": "Business (feat. Naza)",
+      "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "album": {
         "name": "Butta My Bread",
         "url": "https://open.spotify.com/album/7nJP3Rmr7nBGQ3OlrAvlb8"
       },
@@ -2582,7 +2604,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 317178,
       "name": "Forever Yena 2.0",
       "url": "https://open.spotify.com/track/0GdL8auv7mZFQVoSe04wFw"
@@ -2604,6 +2626,50 @@
       "duration_ms": 194890,
       "name": "Foto's",
       "url": "https://open.spotify.com/track/2CXPWDTeBy24Oimfkt9W5f"
+    },
+    {
+      "album": {
+        "name": "FOU DE TOi",
+        "url": "https://open.spotify.com/album/2L0LHGMMygz3CEAirJ1I3x"
+      },
+      "artists": [
+        {
+          "name": "ELEMENT Ele\u00e9eH",
+          "url": "https://open.spotify.com/artist/1YtfiLJ8nbB9hKlD4QpPMU"
+        },
+        {
+          "name": "Ross Kana",
+          "url": "https://open.spotify.com/artist/20k1olYrrwKk6vYxqdTBIE"
+        },
+        {
+          "name": "Bruce Melodie",
+          "url": "https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237812,
+      "name": "FOU DE TOi",
+      "url": "https://open.spotify.com/track/7DhruOVt2cgzOzwNLwM18E"
+    },
+    {
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
       "album": {
@@ -2860,7 +2926,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
@@ -3140,6 +3206,24 @@
       "duration_ms": 264473,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q"
+    },
+    {
+      "album": {
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/2ue26FOfSdSpiV47IOknYk"
+      },
+      "artists": [
+        {
+          "name": "Banzy Banero",
+          "url": "https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174485,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/1UcrPc3sarXiVaoYelfLbU"
     },
     {
       "album": {
@@ -3616,7 +3700,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 231106,
       "name": "jersey luv",
       "url": "https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd"
@@ -4361,6 +4445,24 @@
     },
     {
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Lonely At The Top",
+      "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
+    },
+    {
+      "album": {
         "name": "AURORA",
         "url": "https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo"
       },
@@ -4554,7 +4656,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 582000,
       "name": "Majina Yote Jehovah",
       "url": "https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn"
@@ -4572,7 +4674,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 248986,
       "name": "Makeba",
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
@@ -5276,7 +5378,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 326517,
       "name": "Nduduzo",
       "url": "https://open.spotify.com/track/6AftuPSU1HMrN1FgOBAe6Y"
@@ -6064,7 +6166,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 119361,
       "name": "One Margarita (Margarita Song)",
       "url": "https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD"
@@ -6735,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "The Foggie Pound 3",
+        "url": "https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr"
+      },
+      "artists": [
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "Psalm 62",
+      "url": "https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp"
+    },
+    {
+      "album": {
         "name": "Puff Puff Pass",
         "url": "https://open.spotify.com/album/3Kn0IGNPhsQnO3PZCNPVYo"
       },
@@ -6812,6 +6932,24 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
+    },
+    {
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147363,
+      "name": "reason",
+      "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
     },
     {
       "album": {
@@ -7114,7 +7252,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 331377,
       "name": "Sgudi Snyc",
       "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
@@ -7470,7 +7608,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema & Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
@@ -7805,6 +7943,24 @@
     },
     {
       "album": {
+        "name": "Tajiri",
+        "url": "https://open.spotify.com/album/3NfSoXOGS1wtJAXgM1Mjwd"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175752,
+      "name": "Tajiri",
+      "url": "https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo"
       },
@@ -8045,6 +8201,28 @@
     },
     {
       "album": {
+        "name": "Tiyane",
+        "url": "https://open.spotify.com/album/1hlpZgznuMLhKWOtNCccr1"
+      },
+      "artists": [
+        {
+          "name": "Sgiva Record",
+          "url": "https://open.spotify.com/artist/4Tv78lkkoL9diOgzWtksYM"
+        },
+        {
+          "name": "KaMza SA",
+          "url": "https://open.spotify.com/artist/59MiXFq10VstXZffo8rGZO"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279060,
+      "name": "Tiyane",
+      "url": "https://open.spotify.com/track/6OatDIpVerrrSAC5TvE2sn"
+    },
+    {
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -8108,7 +8286,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
@@ -8688,7 +8866,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 773605,
       "name": "We Behold(Qavah Anthem)",
       "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
@@ -8906,6 +9084,24 @@
       "duration_ms": 163200,
       "name": "WHY YOU LYING",
       "url": "https://open.spotify.com/track/4CovAhJPgxESUpzN00NIEz"
+    },
+    {
+      "album": {
+        "name": "Wild Out",
+        "url": "https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Wild Out",
+      "url": "https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5"
     },
     {
       "album": {
@@ -9232,10 +9428,28 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 157076,
       "name": "YESHUA - dance cruise",
       "url": "https://open.spotify.com/track/7EcN5i7MLSXOslwoeSWz7c"
+    },
+    {
+      "album": {
+        "name": "Yet",
+        "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
+      },
+      "artists": [
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302042,
+      "name": "Yet",
+      "url": "https://open.spotify.com/track/6I2GrwoJw23AKpqpE14KFq"
     },
     {
       "album": {
@@ -9272,6 +9486,24 @@
       "duration_ms": 292670,
       "name": "You Dey Whine Me",
       "url": "https://open.spotify.com/track/25vNBVOMMArCIP4jgaUOli"
+    },
+    {
+      "album": {
+        "name": "Make It A Double",
+        "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120015,
+      "name": "You Wish",
+      "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
     },
     {
       "album": {

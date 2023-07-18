@@ -4,7 +4,7 @@
 
 > The highest quality alternative blend ft\. Local Natives
 
-787 songs - 2 day 0 hr 1 min
+788 songs - 2 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,8 +753,9 @@
 | [Waking Up in Los Angeles](https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Waking Up in Los Angeles](https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5) | 4:01 | 2022-11-18 | 2023-06-24 |
 | [Warning Signs](https://open.spotify.com/track/4Ip0oLPBQq9jbzEuR1foRV) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Things Are Great](https://open.spotify.com/album/3hWOJ8Xj5yVqcHWtjkMQ3q) | 4:20 | 2022-05-20 | 2022-09-17 |
 | [Wash, Rinse, Repeat](https://open.spotify.com/track/5JeLSgtuw8BoCHVcCfD6s9) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat](https://open.spotify.com/album/5GzV9TLzuzZC0OcYy7pPJH) | 2:51 | 2022-02-11 | 2022-05-28 |
-| [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/1KoXCDxNahXOl7Tvtm9rlF) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Marvel Room](https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv) | 4:54 | 2023-06-09 |  |
+| [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/1KoXCDxNahXOl7Tvtm9rlF) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Marvel Room](https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv) | 4:54 | 2023-06-09 | 2023-07-18 |
 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 | 2023-05-12 | 2023-06-12 |
+| [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/71gtKNqIjM01p7njYpNYpW) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Extract](https://open.spotify.com/album/4UgWkdVxX9m5DtdELwJUbI) | 4:54 | 2023-07-07 |  |
 | [Wasted Days \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Wasted Days](https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf) | 4:31 | 2021-12-10 | 2022-02-19 |
 | [Wasted On You](https://open.spotify.com/track/4noOryuWV7YvgdDGvSRNqU) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wasted On You](https://open.spotify.com/album/5RAH5Q2N6QrzXaLbyU8OtJ) | 3:36 | 2022-11-18 | 2023-01-14 |
 | [Watch And See](https://open.spotify.com/track/6e6Qmot0NxoSLUsEswyXzF) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Watch And See](https://open.spotify.com/album/3HFisd0fW84uP7DAXYXASn) | 4:17 | 2022-07-15 | 2022-11-19 |

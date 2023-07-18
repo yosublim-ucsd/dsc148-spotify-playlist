@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 197541,
+  "num_followers": 197749,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTRlNmVlZDE2OTU0M2U4ZmY5MGVlYjQyYjNmODg0YzMwNWY3NWQw",
+  "snapshot_id": "MCxjZGY2NGI1NGU1MWQ1MWUxNTgwMDkzMWE3MDkyOGFjZjNhMjA5Yzkz",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -233,6 +233,22 @@
       "url": "https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN"
     },
     {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "In Utero - 20th Anniversary Remaster",
@@ -279,22 +295,6 @@
       "duration_ms": 212733,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
-    },
-    {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 260026,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Californication",
-        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/3CeYdUfGPCjKMDYyI1PpCh"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Dear Agony",
         "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 258253,
       "name": "Dear Agony",
       "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3CeYdUfGPCjKMDYyI1PpCh"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "From Death To Destiny",
+        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 242593,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "A War You Cannot Win",
         "url": "https://open.spotify.com/album/2OhPQMXOtJ00nrffxY9B3W"
       },
@@ -615,6 +631,22 @@
       "duration_ms": 277346,
       "name": "What If I Was Nothing",
       "url": "https://open.spotify.com/track/28urem2KpSOkljclEk8X8G"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 181837,
+      "name": "mars",
+      "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -637,22 +669,6 @@
       "url": "https://open.spotify.com/track/20Kau1BL5IUaPo4l488D57"
     },
     {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 181837,
-      "name": "mars",
-      "url": "https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY"
-    },
-    {
       "added_at": "2023-02-16 19:56:13",
       "album": {
         "name": "mainstream sellout (life in pink deluxe)",
@@ -667,22 +683,6 @@
       "duration_ms": 174833,
       "name": "last november",
       "url": "https://open.spotify.com/track/7AbpTqNbxpqWQjKcSOpYvq"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "From Death To Destiny",
-        "url": "https://open.spotify.com/album/3xsYrjxckl6DZiyiPr5U3D"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 242593,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/44sLQYgTQgGD5vCaijG8s2"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 281807,
-      "name": "Crooked Path",
-      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 240206,
       "name": "love song",
       "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 281807,
+      "name": "Crooked Path",
+      "url": "https://open.spotify.com/track/2oDbxBYY3kt7mFzIXJrGMv"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/4hmtCJAsVnaV3g6qkCsJ5b"
     },
     {
+      "added_at": "2023-02-16 19:56:13",
+      "album": {
+        "name": "Hell Finds You Everywhere",
+        "url": "https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "All I Have Left To Give",
+      "url": "https://open.spotify.com/track/1z2gI6qgTWb836QzsUQIyB"
+    },
+    {
       "added_at": "2022-08-25 23:00:00",
       "album": {
         "name": "Seize the Power",
@@ -1263,22 +1279,6 @@
       "duration_ms": 228847,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/23Z6JttaqkoqxqbAWArFqO"
-    },
-    {
-      "added_at": "2023-02-16 19:56:13",
-      "album": {
-        "name": "Hell Finds You Everywhere",
-        "url": "https://open.spotify.com/album/4MF4pjJyipArWvVHiPSSVl"
-      },
-      "artists": [
-        {
-          "name": "Thousand Below",
-          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "All I Have Left To Give",
-      "url": "https://open.spotify.com/track/1z2gI6qgTWb836QzsUQIyB"
     },
     {
       "added_at": "2022-08-25 23:00:00",

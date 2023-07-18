@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=lWYQvAmoTiCg3s5VX84gJA"> Nyashinski </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,282 likes - 83 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,353 likes - 83 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 82 | [TAKE IT SLOW](https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [LOVE LETTERS](https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3) | 2:58 |
 | 83 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 |
 
-Snapshot ID: `MCxkODk1NzI5MzgzNzMwY2MzNTA4ZWMwNmFlNzU2ZjMwNzEyZDU3ZDM2`
+Snapshot ID: `MCxmYzMxOGRjYmIyNmNkOTk5ZjFkZDQzZTM5NGUyNGRlZDQ2MTFlNmQ4`

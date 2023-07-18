@@ -1643,6 +1643,28 @@
     },
     {
       "album": {
+        "name": "I Love You Always Forever (Nora's Version)",
+        "url": "https://open.spotify.com/album/7pH3cy1xaXNxrOdinVKUuj"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        },
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196229,
+      "name": "I Love You Always Forever (Nora's Version)",
+      "url": "https://open.spotify.com/track/4eMaX3oR9aD0JTwZOrNQ9Y"
+    },
+    {
+      "album": {
         "name": "i loved a boy",
         "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
       },
@@ -1882,7 +1904,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 260133,
       "name": "Kids (with Robbie Williams)",
       "url": "https://open.spotify.com/track/0E6LsKGri2bpBhVmHDW0kK"

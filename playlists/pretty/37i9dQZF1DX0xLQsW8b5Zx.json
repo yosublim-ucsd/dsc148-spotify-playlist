@@ -1,12 +1,12 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 527798,
+  "num_followers": 527835,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWNmNTNkMDAxYjU0NjE0MDNjNTFjZGE4N2RlNjU0ZThiODE5MDAx",
+  "snapshot_id": "MCw0MDE3YjM4MjYyYzUzZGUxNmJlMWMxMDYyYTkwZjlmNGZmMTI0YTRm",
   "tracks": [
     {
       "added_at": "2023-07-07 00:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-07-07 00:00:00",
       "album": {
-        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
-        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Whole Lot of Shakin' Going On",
-      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
     },
     {
       "added_at": "2023-07-07 00:00:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-07-07 00:00:00",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+        "name": "The Essential Jerry Lee Lewis [The Sun Sessions]",
+        "url": "https://open.spotify.com/album/6OaajpAGeNsPJFkjyQvqHf"
       },
       "artists": [
         {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
         }
       ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+      "duration_ms": 172400,
+      "name": "Whole Lot of Shakin' Going On",
+      "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
     },
     {
       "added_at": "2023-07-07 00:00:00",
@@ -255,6 +255,22 @@
       "duration_ms": 141413,
       "name": "Teddy Boy Flick Knife Rock'n'Roll",
       "url": "https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4"
+    },
+    {
+      "added_at": "2023-07-07 00:00:00",
+      "album": {
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "added_at": "2023-07-07 00:00:00",
@@ -307,22 +323,6 @@
     {
       "added_at": "2023-07-07 00:00:00",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
-    },
-    {
-      "added_at": "2023-07-07 00:00:00",
-      "album": {
         "name": "Ideas of Love",
         "url": "https://open.spotify.com/album/20REkK3lmFtR8F77ls05XH"
       },
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-07-07 00:00:00",
       "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
+    },
+    {
+      "added_at": "2023-07-07 00:00:00",
+      "album": {
         "name": "Signs & Signifiers",
         "url": "https://open.spotify.com/album/3j260hiD8MJJBO0gbF6BTQ"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 151493,
       "name": "North Side Gal",
       "url": "https://open.spotify.com/track/5WLS5Fz6pW8AUwio6BGJJ2"
-    },
-    {
-      "added_at": "2023-07-07 00:00:00",
-      "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
       "added_at": "2023-07-07 00:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-07 00:00:00",
       "album": {
-        "name": "Our Brand",
-        "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
-      },
-      "artists": [
-        {
-          "name": "Hillbilly Hellcats",
-          "url": "https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "Rockabilly Rebel",
-      "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
-    },
-    {
-      "added_at": "2023-07-07 00:00:00",
-      "album": {
         "name": "Blue Jean Bop",
         "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 142560,
       "name": "Bluejean Bop",
       "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
+    },
+    {
+      "added_at": "2023-07-07 00:00:00",
+      "album": {
+        "name": "Our Brand",
+        "url": "https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz"
+      },
+      "artists": [
+        {
+          "name": "Hillbilly Hellcats",
+          "url": "https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "Rockabilly Rebel",
+      "url": "https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT"
     },
     {
       "added_at": "2023-07-07 00:00:00",

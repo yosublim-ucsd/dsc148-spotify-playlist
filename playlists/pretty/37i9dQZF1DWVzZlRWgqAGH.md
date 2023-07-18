@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Forest Claudette
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,603 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,819 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Closer](https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:21 |
 | 100 | [Gold](https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 2:46 |
 
-Snapshot ID: `MCxiYmE0MGI2MzA4ZTA0NGM1ZmFlMDFmMDljYWM4MTgyNGZiZDc4MDkz`
+Snapshot ID: `MCw5NzczMmNjODg5OWU1ZjVkYjYzOGI5ZGRjNjg4ZmM2MzM4MDc3NTBi`

@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Free to B",
+        "url": "https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO"
+      },
+      "artists": [
+        {
+          "name": "James dos Reis",
+          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Free to B",
+      "url": "https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz"
+    },
+    {
+      "album": {
         "name": "Friend Zone",
         "url": "https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23"
       },
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 178313,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/7ivBImfhmqXKUIF3pR0rFk"

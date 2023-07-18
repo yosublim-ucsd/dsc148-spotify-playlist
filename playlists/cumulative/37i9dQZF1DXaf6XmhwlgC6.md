@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-214 songs - 11 hr 20 min
+216 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,11 +29,12 @@
 | [Breathing](https://open.spotify.com/track/7LPdoYQCujtPwfMOAI4h9q) | [Mimber](https://open.spotify.com/artist/4L3x3vTCpJgWtpD1wd4L01) | [Breathing](https://open.spotify.com/album/4KdYsQwYvGk9bvZA8gonPI) | 2:16 | 2023-05-05 |  |
 | [Buckle Up](https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [authenticity](https://open.spotify.com/album/0CdkSTJwCTIJRd2BgbPyct) | 3:11 | 2022-06-24 |  |
 | [cape](https://open.spotify.com/track/0nQcoFAJSCbM9SVztsWvMG) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb), [Michi Oskah](https://open.spotify.com/artist/1UYXB0UUV3eR6KPVq0NZ5j) | [cape](https://open.spotify.com/album/3lQAHh6wD34MlWVKuPgO1A) | 1:51 | 2022-11-22 |  |
+| [Catching Waves](https://open.spotify.com/track/2Ve7o5o5UAWfzIMnX6iYv1) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Catching Waves](https://open.spotify.com/album/6CGhH64XoGVsXX4PJUCwpQ) | 2:26 | 2023-07-17 |  |
 | [Change Of Tides](https://open.spotify.com/track/1RsZcsLDGwVpkhgeoL75gE) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Change Of Tides](https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53) | 2:58 | 2022-03-30 |  |
 | [city limits](https://open.spotify.com/track/65VQ9IRzhXz2siw9H2okBF) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [city limits](https://open.spotify.com/album/7H4edaVn1YUAZHyuhvAjP7) | 3:03 | 2022-12-02 |  |
 | [Clandestine](https://open.spotify.com/track/5sGxDzINFxlLXnj6zpDsQZ) | [obelebo](https://open.spotify.com/artist/0qsb0PqyATXSQMdaUAxIAZ) | [Clandestine](https://open.spotify.com/album/4SArWhZxLUXZ1bGxoPfz4k) | 2:20 | 2023-04-06 |  |
 | [Closer \- Guitar Version](https://open.spotify.com/track/2pYhZxuukmLVFWl60oUoMl) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Closer](https://open.spotify.com/album/19IVvjmtTA1K9U0i3aMkoa) | 2:18 | 2023-03-03 |  |
-| [Cocao](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Cocao](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:44 | 2022-12-19 |  |
+| [Cocao](https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Cocao](https://open.spotify.com/album/33xzZgkDcDw9IsET9d4co9) | 2:44 | 2022-12-19 | 2023-07-18 |
 | [Color](https://open.spotify.com/track/6n9iLk8H2DmAm7FOXxEanZ) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Color](https://open.spotify.com/album/1fribFnHnifTybR7IZAc0e) | 2:50 | 2022-12-09 |  |
 | [Create Light](https://open.spotify.com/track/1XXNDjnr5iwz5YAZeuS8rg) | [Sundance Darling](https://open.spotify.com/artist/7MRQbUPfaklI0EgLzZSEYP) | [Create Light](https://open.spotify.com/album/2LN3NAxmy8xwhoNBnZXrvw) | 2:35 | 2023-05-05 |  |
 | [Dakota](https://open.spotify.com/track/7pR7yPgbYcipmTUHT5g68p) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dakota](https://open.spotify.com/album/5bbSb8KsPnMFKrdbDIz6dL) | 2:10 | 2022-03-30 |  |
@@ -105,6 +106,7 @@
 | [Malibu Breeze](https://open.spotify.com/track/6MfGgThfFD2ryXzQSuCZAl) | [Aura Onda](https://open.spotify.com/artist/04O0lEQuqzTzjlhJ9Rfhgx) | [Malibu Breeze](https://open.spotify.com/album/1qo5KKvrpqByTon4bFGohz) | 2:24 | 2023-02-24 |  |
 | [marble](https://open.spotify.com/track/6RU0RohTCtw7UDMAsahgts) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb) | [never ending circles \(guitar improv vol\. 2\)](https://open.spotify.com/album/4Dq8UgXa84gDAqLurUVcMW) | 1:29 | 2023-02-24 |  |
 | [Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?](https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 4:03 | 2022-05-19 |  |
+| [Melancholy In Dalarna](https://open.spotify.com/track/7HYeJNRzkuSUUbRitQLkxu) | [Cherries & Daydreams](https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA) | [Melancholy In Dalarna](https://open.spotify.com/album/3jVSpCD0oyW6YltWt1px3W) | 2:07 | 2023-07-17 |  |
 | [Mending a Secret](https://open.spotify.com/track/5b5isnIY653i8qEmopWVej) | [Steve Jansen](https://open.spotify.com/artist/5o1OTSNeI8tu3s54avv6Ba) | [Tender Extinction](https://open.spotify.com/album/5rtQaDi9nnrfAwQCxDgoZj) | 5:03 | 2022-03-30 |  |
 | [Milky Way](https://open.spotify.com/track/6NcweAlijfIK0HL0um4vGb) | [Sounds of Ellinia](https://open.spotify.com/artist/0o4rbXNv8YoDHK2nSnlJxr) | [Time Defined](https://open.spotify.com/album/32QUK26XzeT5WoaMGU5ZkF) | 2:50 | 2022-12-19 |  |
 | [Mind games](https://open.spotify.com/track/6OXrNh8asCu28gqFyTSw3Z) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Mind games](https://open.spotify.com/album/3LRCWo4BAlXhTnbc2FFpbk) | 2:10 | 2022-11-18 |  |
@@ -203,7 +205,7 @@
 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 | 2022-03-30 | 2023-05-06 |
 | [Undo and Redo](https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [Undo and Redo](https://open.spotify.com/album/3vO7qy5LePhyBPg5zIN4V0) | 2:38 | 2022-09-14 |  |
 | [Unity](https://open.spotify.com/track/2RpAmVKOwP601ultZ5PxEQ) | [Polar Limit](https://open.spotify.com/artist/1dFspa71geptAfzlSL73eK) | [Unity](https://open.spotify.com/album/3b67T3JG33Y2fiOv1uHLf4) | 2:52 | 2023-01-27 |  |
-| [Up to Pizmo](https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed: : Context](https://open.spotify.com/album/2L7Xv6PUY3LZFjvCYJjQyd) | 6:20 | 2022-07-15 |  |
+| [Up to Pizmo](https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed: : Context](https://open.spotify.com/album/2L7Xv6PUY3LZFjvCYJjQyd) | 6:20 | 2022-07-15 | 2023-07-18 |
 | [Up to Pizmo](https://open.spotify.com/track/2v2fB67bubipR2zP5zOO20) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed:: Content](https://open.spotify.com/album/7h1WlPlMEcgicPHkkUzmkV) | 6:21 | 2022-03-30 | 2022-07-29 |
 | [Variation](https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Variation](https://open.spotify.com/album/4H5WDOqJRlOEwE05jFsxZs) | 3:31 | 2022-03-30 |  |
 | [Vast Ocean View](https://open.spotify.com/track/5fIDb2LhOLbGAHEwdlVKLo) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Morning Shore \(Eon Isle\)](https://open.spotify.com/album/6PFxPZcgZfVXzqAaoPUHef) | 3:26 | 2022-09-20 |  |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/20LKsiDZd4ALrlihncFcFa.md) - cumulative - [plain](/playlists/plain/20LKsiDZd4ALrlihncFcFa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/20LKsiDZd4ALrlihncFcFa)
 
-### [90s Alternative Rock](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
+### [90s ALTERNATIVE ROCK](https://open.spotify.com/playlist/20LKsiDZd4ALrlihncFcFa)
 
 > 1990s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus \| system of a down \| wheatus
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cinder Well \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,818 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,841 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Whiplash](https://open.spotify.com/track/1P46DYGK9HcpohUwwWP6Co) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Whiplash](https://open.spotify.com/album/59cVvw6WZjjSOjnu01SXYj) | 2:47 |
 | 100 | [Altar](https://open.spotify.com/track/1ZWAUuIKdEbe9VkcVpITJt) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Earthling on the Road to Self Love](https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr) | 5:18 |
 
-Snapshot ID: `MCxhNDhlOGIyZWZlZjUwZjQxZDJmYmU0MzlkMWFjNjdjNzVkMzIzM2Vj`
+Snapshot ID: `MCwwMTZhNWZjOTJjNWM4YmE1YWE0NmY3MzA5NTFiNDlhYWY4NDE2MjM5`

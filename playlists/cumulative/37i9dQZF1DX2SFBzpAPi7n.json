@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: TOMYO(\ud1a0\ubbf8\uc694)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: KARDI) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -6568,7 +6568,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 201125,
       "name": "shootamoviewithu",
       "url": "https://open.spotify.com/track/3sP256v3klKnTETcRXuIwq"
@@ -6670,6 +6670,24 @@
       "duration_ms": 195918,
       "name": "SITCOM",
       "url": "https://open.spotify.com/track/0jnrL4VAV0x3Jk4PlzkuLa"
+    },
+    {
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2MDBTnagwI5RTtCqvLDdqr"
+      },
+      "artists": [
+        {
+          "name": "KARDI",
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176511,
+      "name": "Skybound",
+      "url": "https://open.spotify.com/track/0eKamTuaPWwfx50HcGc1RD"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: TOMYO\(토미요\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: KARDI\) \(핫한 국내 록 음악을 만나보세요!\)
 
-504 songs - 1 day 6 hr 59 min
+505 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,12 +360,13 @@
 | [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 | 2023-01-26 | 2023-04-27 |
 | [Shoot Me](https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth, Part\. 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 2:55 | 2022-04-22 | 2023-06-08 |
 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 | 2023-06-01 |  |
-| [shootamoviewithu](https://open.spotify.com/track/3sP256v3klKnTETcRXuIwq) | [TOMYO](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [shootamoviewithu](https://open.spotify.com/album/1pX2UnSqVlnu1EMebplZPy) | 3:21 | 2023-07-11 |  |
+| [shootamoviewithu](https://open.spotify.com/track/3sP256v3klKnTETcRXuIwq) | [TOMYO](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [shootamoviewithu](https://open.spotify.com/album/1pX2UnSqVlnu1EMebplZPy) | 3:21 | 2023-07-11 | 2023-07-18 |
 | [Shooting Star](https://open.spotify.com/track/134KU6G8TmOm0OQnJfmgO9) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Sh\*\*ting Stars \(Original Television Soundtrack\)](https://open.spotify.com/album/6gcG8b4AJKxxHnaB5G5tVj) | 3:27 | 2022-06-18 | 2022-07-02 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-22 | 2023-03-04 |
 | [Simply](https://open.spotify.com/track/3IvsJEIrYbhS92dmycyDmN) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [her](https://open.spotify.com/album/1tIaKSfXa0tAFU5KYv45qP) | 3:39 | 2022-04-12 | 2022-07-29 |
 | [Singing the Night \(With Jinjunwang, woochanmi\)](https://open.spotify.com/track/5vsd3VTGm8VSR52y3ZvAkW) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Jinjunwang](https://open.spotify.com/artist/2ZF8BPqVBSjgtJZvUUDa5i), [우찬미](https://open.spotify.com/artist/75ZHFjuHsBVGuNnfgKBJAq) | [Singing the Night \(With Jinjunwang, woochanmi\)](https://open.spotify.com/album/1c8aYeuCBcpqns2321Xfpa) | 2:51 | 2022-05-11 | 2022-07-13 |
 | [SITCOM](https://open.spotify.com/track/0jnrL4VAV0x3Jk4PlzkuLa) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [SITCOM](https://open.spotify.com/album/74io9lr0VPPNF52vAdOKQU) | 3:15 | 2022-05-11 | 2022-06-07 |
+| [Skybound](https://open.spotify.com/track/0eKamTuaPWwfx50HcGc1RD) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [Inside Out](https://open.spotify.com/album/2MDBTnagwI5RTtCqvLDdqr) | 2:56 | 2023-07-17 |  |
 | [Slainte!](https://open.spotify.com/track/5OvS0h5GTsVkyovheeb6g8) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [PLAYLIST SEASON2 \(Original Soundtrack\)](https://open.spotify.com/album/1LCTXXqbcyoffo0HpBA7co) | 3:38 | 2022-12-22 | 2023-01-11 |
 | [sleep walking](https://open.spotify.com/track/03WwZjnTBrw9Vohm16So6Q) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [sleep walking](https://open.spotify.com/album/05YBRBySSq1YJfBhc1Lk4M) | 3:47 | 2023-01-16 | 2023-01-27 |
 | [sleeplessness](https://open.spotify.com/track/7Aj6yoN6BX7BafsE2OujOl) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [sleeplessness](https://open.spotify.com/album/0eKAV5tZGM68bnXsPV1dcC) | 4:53 | 2022-04-22 | 2022-07-24 |

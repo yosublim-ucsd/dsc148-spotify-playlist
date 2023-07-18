@@ -2,7 +2,7 @@
 
 ### [Vocal Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2kt7dB63bU1)
 
-> Jazz voices of today\. Cover: Samara Joy
+> Jazz voices of today\. Cover: Laufey
 
 625 songs - 1 day 19 hr 55 min
 

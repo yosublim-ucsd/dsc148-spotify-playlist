@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 164080,
       "name": "Human (Rag'N'Bone Man) - sped up",
       "url": "https://open.spotify.com/track/13EQrjyT5a3NtVbWzwbbdF"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 117054,
       "name": "Lights Out - Sped Up",
       "url": "https://open.spotify.com/track/1DEoq8dafVkZBboDpI4fxu"
@@ -3155,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Normalize (Sped Up)",
+        "url": "https://open.spotify.com/album/1JV5hnHBXauEcbCIMYIyua"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231425,
+      "name": "Normalize - Sped Up",
+      "url": "https://open.spotify.com/track/6OPMHp5KfL6U13nM02f1oa"
+    },
+    {
+      "album": {
         "name": "Not OK - Alt versions",
         "url": "https://open.spotify.com/album/0pJ4FQw91Jqceokv6lHtZw"
       },
@@ -3469,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "Psycho Dreams (Sped Up)",
+        "url": "https://open.spotify.com/album/3mLQegxjqs7kk2tgSh6gJP"
+      },
+      "artists": [
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
+        },
+        {
+          "name": "ENCASSATOR",
+          "url": "https://open.spotify.com/artist/3XCfdFic107Iv8zMzyRTJt"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123333,
+      "name": "Psycho Dreams (Sped Up)",
+      "url": "https://open.spotify.com/track/4rhFCNBhQwQmrNzN6WcPTQ"
+    },
+    {
+      "album": {
         "name": "reaLitie biTes (Nightcore Mix)",
         "url": "https://open.spotify.com/album/3FDJomAQ0DopwMB36WNIEp"
       },
@@ -3506,7 +3546,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 179438,
       "name": "Red Ruby Da Sleeze - Sped Up",
       "url": "https://open.spotify.com/track/5J1vxba3jtIW9s8fQdf0rh"
@@ -3532,7 +3572,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 154146,
       "name": "Remember - Acoustic / Sped Up",
       "url": "https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ"
@@ -4150,7 +4190,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 113265,
       "name": "Tap Tap (Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4zl9o7s6CUZ80IrEJx6Pqs"

@@ -4,10 +4,11 @@
 
 > Todo lo que es cultura pop\. Tiraera Season 🔥🇵🇷
 
-158 songs - 10 hr 14 min
+160 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#B2B](https://open.spotify.com/track/4Jp9fqZoO1CVctAPJB29eC) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [\#B2B](https://open.spotify.com/album/4SXhzfcLwMl2sTSOkGBx5t) | 3:16 | 2023-07-17 |  |
 | [\#RenéRenuncia](https://open.spotify.com/track/2Eq9sOF4dfdaAlPNMdIRwZ) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [\#RenéRenuncia](https://open.spotify.com/album/2xWE2Nusu9UjAvrdfaPnWa) | 5:53 | 2023-07-13 |  |
 | [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 | 2023-03-16 | 2023-03-31 |
 | [2/Catorce](https://open.spotify.com/track/78QcVmzxS0wIwuC2rpAauI) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:25 | 2023-03-30 | 2023-04-21 |
@@ -113,6 +114,7 @@
 | [Mxfix G5](https://open.spotify.com/track/6RvdPXkp63MIt9oNFJBRIz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Mxfix G5](https://open.spotify.com/album/6i7nZXIeKaSBLXl5b3UirN) | 2:34 | 2023-06-20 | 2023-06-30 |
 | [NFT](https://open.spotify.com/track/1h25Q0oNB0xWAlgtJjK9qN) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [NFT](https://open.spotify.com/album/0Mf0qNScRTO4BZuyN4TsqQ) | 7:06 | 2023-07-14 |  |
 | [Niña Bonita](https://open.spotify.com/track/1xGC65nTKUKVzdpkMa2h67) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Niña Bonita](https://open.spotify.com/album/0hwRPsmQlENjWhGp1JZdCT) | 2:04 | 2023-04-20 | 2023-06-21 |
+| [No Eres Rapero](https://open.spotify.com/track/0PvQddVhVgnLK2FHiTQh8l) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Oldtape](https://open.spotify.com/artist/2rMNgpqzircdgLQo0thnOf) | [No Eres Rapero](https://open.spotify.com/album/6OBEOXqY6rJLtarTzYoBIP) | 3:17 | 2023-07-17 |  |
 | [No Hay Navidad Pa Nadie](https://open.spotify.com/track/0UMAIOqDQrXCVlAIQDB4Cc) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [No Hay Navidad Pa Nadie](https://open.spotify.com/album/43Pn3713vRJwxwt1H1I4Dz) | 9:33 | 2023-07-13 |  |
 | [No Me Doy Por Vencido](https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Palabras Del Silencio \(Edición Aniversario \- Un Año Despues\)](https://open.spotify.com/album/5gCxcHCAA50nboku1ks180) | 3:59 | 2023-03-16 | 2023-03-31 |
 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 | 2023-03-16 | 2023-03-31 |

@@ -4,7 +4,7 @@
 
 > The best indie tracks for just hanging out.
 
-654 songs - 1 day 15 hr 26 min
+655 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [All I've Got](https://open.spotify.com/track/4rQQWZIMGLNa1SUXWKfJZc) | [Modern Nomad](https://open.spotify.com/artist/7E6IRcJWeVNtfMGV3hAqAG) | [All I've Got](https://open.spotify.com/album/3HpG7gCkYGKyxUoLI9Ocav) | 2:54 | 2020-10-05\* | 2020-10-16 |
 | [All My Dogs](https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK) | [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [Child](https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e) | 2:52 | 2021-03-31 | 2022-04-18 |
 | [All My Love](https://open.spotify.com/track/3AdiSOZxa72xdHN6sGvYeu) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5DteD9lXKQ1jjeTQ04YIXK) | 2:45 | 2022-03-07 | 2022-07-29 |
-| [All My Love](https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi) | 2:45 | 2023-04-21 |  |
+| [All My Love](https://open.spotify.com/track/7zDl54zA8lMPe0g9Ezvnap) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [All My Love](https://open.spotify.com/album/5kh7hZnVTP2Dc8C4Q3BbKi) | 2:45 | 2023-04-21 | 2023-07-18 |
 | [All Of Our Yesterdays](https://open.spotify.com/track/3hPFmyctDusOxzqdpB72EJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [All Of Our Yesterdays](https://open.spotify.com/album/0HMR7TYWFVKQiJau7JdzF3) | 4:03 | 2020-10-05\* | 2022-04-19 |
 | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/track/6phFpARTp2T9rcNR3uRXoe) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [All Of The Little Things \(feat\. Ramirez\)](https://open.spotify.com/album/0y77caNV2gV2gGjG9cOUfT) | 4:19 | 2021-08-27 | 2022-04-15 |
 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 | 2020-10-05\* | 2022-04-19 |
@@ -592,6 +592,7 @@
 | [To Me](https://open.spotify.com/track/3vYnAbDJWPzatOBtNYgoZW) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/4TqioMediFf2UaseMoxGgK) | 5:14 | 2020-10-16 | 2022-04-21 |
 | [To the Moon](https://open.spotify.com/track/02WFT9dNg31Skl02dPT1ei) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/5T9fiTYrP7eZ6d47VR86Y8) | 2:50 | 2022-10-07 | 2023-06-21 |
 | [To the Moon](https://open.spotify.com/track/65AABj5XsDcxGT92w3jK0o) | [Junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/3avIyAieDcOnJHxLzitY1z) | 2:50 | 2020-10-05\* | 2022-05-07 |
+| [To the Moon](https://open.spotify.com/track/7KTeCmYOof8NML28Lc9dWo) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [To the Moon](https://open.spotify.com/album/3y8er1lVrR5Y9i6AwXNRcT) | 2:50 | 2023-07-07 |  |
 | [Today \(with Tirzah\)](https://open.spotify.com/track/7vqbA9MfCnSFMTT0cikF8b) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [R.Y.C](https://open.spotify.com/album/49XdLHYoA83A2JpKbJykSP) | 3:20 | 2022-06-01 | 2022-07-27 |
 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 | 2020-10-05\* | 2022-05-31 |
 | [Tomorrow](https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Tomorrow](https://open.spotify.com/album/7wwxAL7OA0AvhWjl87OBKb) | 1:59 | 2022-06-01 |  |

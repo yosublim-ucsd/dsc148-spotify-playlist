@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Ruïnosa y las Strippers de Rahola en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,156 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,173 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Sirena](https://open.spotify.com/track/5BBd8yKqLYJhBdX4YNqcCf) | [Abominables](https://open.spotify.com/artist/6ElfvyeHfdy1g7lbshtn0f) | [Sirena](https://open.spotify.com/album/6aBJtWEYOxLlAOYRZnD53S) | 3:27 |
 | 50 | [Mismos Errores, Distinta Manera de Actuar...](https://open.spotify.com/track/62ipShWTSSjQQIFgb7NiHk) | [Toro de Oro](https://open.spotify.com/artist/3QjfhrTadkfAmuSPaGcTnh) | [Dos Años y Medio](https://open.spotify.com/album/6dFDTQUiVNhX1JSd8yPRi1) | 2:53 |
 
-Snapshot ID: `MCw4YjA0OTRiZmVhOTEzZWQ3Y2JkOTljMTQ4OTAwZGJiMDEzODJjMTk0`
+Snapshot ID: `MCw5YjdiNWMyZTM3NmI2ZTBlZTZiZjdmZWVjMzRmNjU0MGJkNzM3YTc4`

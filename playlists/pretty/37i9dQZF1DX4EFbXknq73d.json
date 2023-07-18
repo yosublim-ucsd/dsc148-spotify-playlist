@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 34837,
+  "num_followers": 34957,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx",
+  "snapshot_id": "MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "End Of The World Party (Just In Case)",
-        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
+        "name": "Blues for Allah (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
       },
       "artists": [
         {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 299066,
-      "name": "Shine It",
-      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
+      "duration_ms": 274942,
+      "name": "Franklin's Tower - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Garcia",
-        "url": "https://open.spotify.com/album/5Z3Vmde0ICQM0OnIBYNx2U"
+        "name": "End Of The World Party (Just In Case)",
+        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
       },
       "artists": [
         {
-          "name": "Jerry Garcia",
-          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
         }
       ],
-      "duration_ms": 352964,
-      "name": "Sugaree",
-      "url": "https://open.spotify.com/track/4XoYeolVYTiddO9wZLXLgl"
+      "duration_ms": 299066,
+      "name": "Shine It",
+      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -155,8 +155,24 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Blues for Allah (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
+        "name": "Garcia",
+        "url": "https://open.spotify.com/album/5Z3Vmde0ICQM0OnIBYNx2U"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        }
+      ],
+      "duration_ms": 352964,
+      "name": "Sugaree",
+      "url": "https://open.spotify.com/track/4XoYeolVYTiddO9wZLXLgl"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Wake of the Flood (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
       },
       "artists": [
         {
@@ -164,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 274942,
-      "name": "Franklin's Tower - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
+      "duration_ms": 320502,
+      "name": "Eyes of the World - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -251,18 +267,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Wake of the Flood (2013 Remaster)",
-        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+        "name": "Free Somehow",
+        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
       },
       "artists": [
         {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
         }
       ],
-      "duration_ms": 320502,
-      "name": "Eyes of the World - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt"
+      "duration_ms": 226466,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -279,6 +295,22 @@
       "duration_ms": 516413,
       "name": "This Must Be the Place (Naive Melody)",
       "url": "https://open.spotify.com/track/6xleIePy9XfIOV8ksoKlKx"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 277866,
+      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
+      "url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -327,38 +359,6 @@
       "duration_ms": 399800,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7v3DiMXmwZvViit6quKMEN"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 277866,
-      "name": "Brown Eyed Women - Live in Denmark, 1972; 2001 Remaster",
-      "url": "https://open.spotify.com/track/4RUQVUxaRMwDnsUwW80xz4"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Free Somehow",
-        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 430626,
-      "name": "Tennessee Jed - 2001 Remaster",
-      "url": "https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Sweet Oblivious Antidote",
         "url": "https://open.spotify.com/album/5iXbVRBasAzAaEUxR8dAef"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live From The Fox Oakland",
-        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 650746,
-      "name": "Keep On Growing - Live",
-      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
+      "duration_ms": 430626,
+      "name": "Tennessee Jed - 2001 Remaster",
+      "url": "https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "A Picture of Nectar",
-        "url": "https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF"
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
       },
       "artists": [
         {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 431333,
-      "name": "Stash",
-      "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -559,6 +543,22 @@
       "duration_ms": 407040,
       "name": "Thorazine Shuffle",
       "url": "https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Ace",
+        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
+      },
+      "artists": [
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Greatest Story Ever Told",
+      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Ace",
-        "url": "https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT"
-      },
-      "artists": [
-        {
-          "name": "Bob Weir",
-          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Greatest Story Ever Told",
-      "url": "https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "At Fillmore East",
         "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 1159912,
       "name": "You Don't Love Me - Live At Fillmore East, March 12, 1971",
       "url": "https://open.spotify.com/track/04hwplKxASneVsFWzbSpCX"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "A Picture of Nectar",
+        "url": "https://open.spotify.com/album/7A1l4RxB2pUxv6kU6ynUSF"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 431333,
+      "name": "Stash",
+      "url": "https://open.spotify.com/track/0M7qIbIfd9IQy68DibTqQ9"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
-        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
-      },
-      "artists": [
-        {
-          "name": "Phil Lesh & Communion",
-          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
-        }
-      ],
-      "duration_ms": 1020206,
-      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
-      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live From The Fall",
         "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 281960,
       "name": "Regarding Steven",
       "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "Phil Lesh & Communion",
+          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
+        }
+      ],
+      "duration_ms": 1020206,
+      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
+      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Friday Afternoon In The Universe",
-        "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 379560,
-      "name": "The Lover",
-      "url": "https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Trouble No More: 50th Anniversary Collection",
         "url": "https://open.spotify.com/album/1hfrh3FDeg6m6opGR1PrT6"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 550240,
       "name": "Back Where It All Begins",
       "url": "https://open.spotify.com/track/1me0KBXfvJ53y9f8KfIdjF"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Friday Afternoon In The Universe",
+        "url": "https://open.spotify.com/album/6zx2fC13A8qkgwEhCZaRN4"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 379560,
+      "name": "The Lover",
+      "url": "https://open.spotify.com/track/26IapGXdI0m8nhHs8dRg8X"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Pigeons Playing Ping Pong (Live Session, Los Angeles, CA, 2020)",
+        "url": "https://open.spotify.com/album/74Hvnb2MiG3FMQa3x6nnwW"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        },
+        {
+          "name": "Jam in the Van",
+          "url": "https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa"
+        }
+      ],
+      "duration_ms": 402666,
+      "name": "Dawn A New Day - Jam in the Van Live Session",
+      "url": "https://open.spotify.com/track/3X5FLVPnSTGhnWNnqIwtq0"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "GarciaLive Volume 13: September 16th, 1989 Poplar Creek Music Theatre",
         "url": "https://open.spotify.com/album/2IdUG7HdcLqDZ9uqvVErb9"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 665397,
       "name": "Dear Prudence - Live",
       "url": "https://open.spotify.com/track/0rcgCac3uojjlX5DS13rTM"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Pigeons Playing Ping Pong (Live Session, Los Angeles, CA, 2020)",
-        "url": "https://open.spotify.com/album/74Hvnb2MiG3FMQa3x6nnwW"
-      },
-      "artists": [
-        {
-          "name": "Pigeons Playing Ping Pong",
-          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
-        },
-        {
-          "name": "Jam in the Van",
-          "url": "https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa"
-        }
-      ],
-      "duration_ms": 402666,
-      "name": "Dawn A New Day - Jam in the Van Live Session",
-      "url": "https://open.spotify.com/track/3X5FLVPnSTGhnWNnqIwtq0"
     },
     {
       "added_at": "2023-04-06 15:04:32",

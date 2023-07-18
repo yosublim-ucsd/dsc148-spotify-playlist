@@ -2,7 +2,7 @@
 
 ### [Written By Lucas Kastrup](https://open.spotify.com/playlist/37i9dQZF1EFFFC1lIRMlcB)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5lVAE3z1LZ69DXE3Hd6MpL">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 49 songs - 3 hr 13 min
 

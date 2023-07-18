@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with \"uh\" on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 109387,
+  "num_followers": 109429,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTFjNzU3NTNiZDc3MWYzNDdhYTgyMDFjM2FlN2VmOTkxMTIxMmJh",
+  "snapshot_id": "MCw4NmE4MTNjNjA4ZjcyNzExOGJlZmQ3MTI1NTlhMGZmYmNlMjc2ZjVl",
   "tracks": [
     {
       "added_at": "2023-06-28 01:00:55",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-06-07 04:04:27",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
-      "added_at": "2023-06-07 04:04:27",
-      "album": {
         "name": "Cicada Lullaby",
         "url": "https://open.spotify.com/album/3cRBLw9qVfwjz6jwNGkKDb"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 219546,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5LGOOykNx9oLF5mxysIyYa"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "As Fallen Leaves",
+        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
+      },
+      "artists": [
+        {
+          "name": "Serge Geyzel",
+          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
+        }
+      ],
+      "duration_ms": 299558,
+      "name": "Don't Know What You Are Thinking",
+      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -261,20 +261,20 @@
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-06-07 04:04:27",
       "album": {
-        "name": "As Fallen Leaves",
-        "url": "https://open.spotify.com/album/3j57qjUjjPTUhA0MGI1hE3"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
       "artists": [
         {
-          "name": "Serge Geyzel",
-          "url": "https://open.spotify.com/artist/3cuKKSsrO12TKYfvBAKjiy"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 299558,
-      "name": "Don't Know What You Are Thinking",
-      "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -373,22 +373,6 @@
       "url": "https://open.spotify.com/track/4w1loRCD8PBarpXj5v0Ugu"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
-      "album": {
-        "name": "Calamity",
-        "url": "https://open.spotify.com/album/1GH3RIvPE8FIv5cd1baSlY"
-      },
-      "artists": [
-        {
-          "name": "MeSo",
-          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
-        }
-      ],
-      "duration_ms": 183272,
-      "name": "Calamity",
-      "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
-    },
-    {
       "added_at": "2023-04-12 14:55:04",
       "album": {
         "name": "\u4f4e\u7a7a",
@@ -403,6 +387,22 @@
       "duration_ms": 234461,
       "name": "\u4f4e\u7a7a",
       "url": "https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc"
+    },
+    {
+      "added_at": "2023-05-24 14:03:48",
+      "album": {
+        "name": "Calamity",
+        "url": "https://open.spotify.com/album/1GH3RIvPE8FIv5cd1baSlY"
+      },
+      "artists": [
+        {
+          "name": "MeSo",
+          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
+        }
+      ],
+      "duration_ms": 183272,
+      "name": "Calamity",
+      "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -485,6 +485,22 @@
       "url": "https://open.spotify.com/track/47vbsKovGoXnwZIkLgRDCf"
     },
     {
+      "added_at": "2023-05-24 14:03:48",
+      "album": {
+        "name": "\u00d6ga for \u00d6ga",
+        "url": "https://open.spotify.com/album/2GlsG8Fp2byD9t4Nx3Xxw9"
+      },
+      "artists": [
+        {
+          "name": "Loopsel",
+          "url": "https://open.spotify.com/artist/3raMYGlRDfP5hIO5TPIIg3"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
+    },
+    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Supply And Demand",
@@ -501,20 +517,20 @@
       "url": "https://open.spotify.com/track/1YwbIMhNRGnmZus0kOMxyE"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "\u00d6ga for \u00d6ga",
-        "url": "https://open.spotify.com/album/2GlsG8Fp2byD9t4Nx3Xxw9"
+        "name": "Weird backwards path",
+        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
       },
       "artists": [
         {
-          "name": "Loopsel",
-          "url": "https://open.spotify.com/artist/3raMYGlRDfP5hIO5TPIIg3"
+          "name": "Tek lintowe",
+          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
         }
       ],
-      "duration_ms": 187453,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
+      "duration_ms": 142584,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/6l67hHSaUL7hvBUv8HqwuA"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -551,22 +567,6 @@
       "duration_ms": 282000,
       "name": "Resonant Harmony",
       "url": "https://open.spotify.com/track/5uYZcf4f2BlM75nk5xZSD9"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Weird backwards path",
-        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
-      },
-      "artists": [
-        {
-          "name": "Tek lintowe",
-          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/6l67hHSaUL7hvBUv8HqwuA"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -653,52 +653,20 @@
       "url": "https://open.spotify.com/track/04yjZ1cCkeyBs0WAXVwbTF"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Love Conductor",
-        "url": "https://open.spotify.com/album/3RJaUwLebeaKGW5F82WM1S"
+        "name": "Last Life on Earth",
+        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
       },
       "artists": [
         {
-          "name": "His Electro Blue Voice",
-          "url": "https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P"
+          "name": "Dimming",
+          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Odd Vapors",
-      "url": "https://open.spotify.com/track/3aaXPp8wg0Nezf5V45VBOo"
-    },
-    {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
-        "name": "1800-PARASOL",
-        "url": "https://open.spotify.com/album/7eRcIoexZgmX24i26Xv55v"
-      },
-      "artists": [
-        {
-          "name": "Parasol",
-          "url": "https://open.spotify.com/artist/3tywWXsWJSKYn89uZbqaYw"
-        }
-      ],
-      "duration_ms": 103854,
-      "name": "Jitterbug",
-      "url": "https://open.spotify.com/track/34YfqnWvaGpbH4SE7zgohN"
-    },
-    {
-      "added_at": "2023-04-05 14:48:06",
-      "album": {
-        "name": "The 22nd Floor (Live at Maison de la Radio et de la Musique, Paris)",
-        "url": "https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0"
-      },
-      "artists": [
-        {
-          "name": "Joseph Schiano di Lombo",
-          "url": "https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC"
-        }
-      ],
-      "duration_ms": 205655,
-      "name": "Var. 4: Synthesizer - Live at Maison de la Radio et de la Musique, Paris",
-      "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
+      "duration_ms": 264266,
+      "name": "Boundless Baby",
+      "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -733,36 +701,52 @@
       "url": "https://open.spotify.com/track/0HUEBcBp620kPLyjuoiXcg"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
+      "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Last Life on Earth",
-        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
+        "name": "1800-PARASOL",
+        "url": "https://open.spotify.com/album/7eRcIoexZgmX24i26Xv55v"
       },
       "artists": [
         {
-          "name": "Dimming",
-          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
+          "name": "Parasol",
+          "url": "https://open.spotify.com/artist/3tywWXsWJSKYn89uZbqaYw"
         }
       ],
-      "duration_ms": 264266,
-      "name": "Boundless Baby",
-      "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
+      "duration_ms": 103854,
+      "name": "Jitterbug",
+      "url": "https://open.spotify.com/track/34YfqnWvaGpbH4SE7zgohN"
     },
     {
       "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX"
+        "name": "Love Conductor",
+        "url": "https://open.spotify.com/album/3RJaUwLebeaKGW5F82WM1S"
       },
       "artists": [
         {
-          "name": "Gardika Gigih",
-          "url": "https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK"
+          "name": "His Electro Blue Voice",
+          "url": "https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P"
         }
       ],
-      "duration_ms": 181960,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
+      "duration_ms": 190800,
+      "name": "Odd Vapors",
+      "url": "https://open.spotify.com/track/3aaXPp8wg0Nezf5V45VBOo"
+    },
+    {
+      "added_at": "2023-04-05 14:48:06",
+      "album": {
+        "name": "The 22nd Floor (Live at Maison de la Radio et de la Musique, Paris)",
+        "url": "https://open.spotify.com/album/3rPfu91ovZnR5M5JLpztA0"
+      },
+      "artists": [
+        {
+          "name": "Joseph Schiano di Lombo",
+          "url": "https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC"
+        }
+      ],
+      "duration_ms": 205655,
+      "name": "Var. 4: Synthesizer - Live at Maison de la Radio et de la Musique, Paris",
+      "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-04-12 14:55:04",
       "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX"
+      },
+      "artists": [
+        {
+          "name": "Gardika Gigih",
+          "url": "https://open.spotify.com/artist/0o6rbDGIxDEw5vzGKyxdcK"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
         "name": "Flood City Trax",
         "url": "https://open.spotify.com/album/5bW9n1xGlGshlj7iQvH7nT"
       },
@@ -795,38 +795,6 @@
       "duration_ms": 263896,
       "name": "FCD (Floaty Cloud Dream)",
       "url": "https://open.spotify.com/track/1F7frrqHbCzsyvmA1s9Rb1"
-    },
-    {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
-        "name": "Penetraci\u00f3n",
-        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
-      },
-      "artists": [
-        {
-          "name": "Isabel Do Diego",
-          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Penetraci\u00f3n",
-      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Telescopic",
-        "url": "https://open.spotify.com/album/0mGyotENzkz4CobvOxpklO"
-      },
-      "artists": [
-        {
-          "name": "Jace Mek",
-          "url": "https://open.spotify.com/artist/67dClEyrx8SQ6gqe7r8PR4"
-        }
-      ],
-      "duration_ms": 267274,
-      "name": "Telescopic",
-      "url": "https://open.spotify.com/track/1flWZ6yw5R4KuFEimGusPx"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -845,20 +813,20 @@
       "url": "https://open.spotify.com/track/1etzoaNUN5fNQGTMeHRtXZ"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
+      "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Dishwasher_",
-        "url": "https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM"
+        "name": "Penetraci\u00f3n",
+        "url": "https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc"
       },
       "artists": [
         {
-          "name": "Dishwasher_",
-          "url": "https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa"
+          "name": "Isabel Do Diego",
+          "url": "https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ"
         }
       ],
-      "duration_ms": 242253,
-      "name": "Walvis",
-      "url": "https://open.spotify.com/track/4p839l48UwEOpvgAxo1ueo"
+      "duration_ms": 199000,
+      "name": "Penetraci\u00f3n",
+      "url": "https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -875,6 +843,38 @@
       "duration_ms": 238434,
       "name": "Encounter",
       "url": "https://open.spotify.com/track/2B5GG4yCNY46uszAA8xGyB"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Dishwasher_",
+        "url": "https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM"
+      },
+      "artists": [
+        {
+          "name": "Dishwasher_",
+          "url": "https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Walvis",
+      "url": "https://open.spotify.com/track/4p839l48UwEOpvgAxo1ueo"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Telescopic",
+        "url": "https://open.spotify.com/album/0mGyotENzkz4CobvOxpklO"
+      },
+      "artists": [
+        {
+          "name": "Jace Mek",
+          "url": "https://open.spotify.com/artist/67dClEyrx8SQ6gqe7r8PR4"
+        }
+      ],
+      "duration_ms": 267274,
+      "name": "Telescopic",
+      "url": "https://open.spotify.com/track/1flWZ6yw5R4KuFEimGusPx"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -973,22 +973,6 @@
       "url": "https://open.spotify.com/track/3x6dDdGOKJaVmydP3RZV2E"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
-        "name": "Catch The Wave",
-        "url": "https://open.spotify.com/album/2CxNHUHV4b6Isq3vuwlx5Y"
-      },
-      "artists": [
-        {
-          "name": "Halo Maud",
-          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
-        }
-      ],
-      "duration_ms": 117917,
-      "name": "After The Wave",
-      "url": "https://open.spotify.com/track/7HVSxP6bAKmQgwfYK23QR4"
-    },
-    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Spells",
@@ -1003,6 +987,22 @@
       "duration_ms": 237042,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/75FDoDgKy5ikwr4sMfwKKy"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "Catch The Wave",
+        "url": "https://open.spotify.com/album/2CxNHUHV4b6Isq3vuwlx5Y"
+      },
+      "artists": [
+        {
+          "name": "Halo Maud",
+          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+        }
+      ],
+      "duration_ms": 117917,
+      "name": "After The Wave",
+      "url": "https://open.spotify.com/track/7HVSxP6bAKmQgwfYK23QR4"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
+        "name": "Passivity Trap",
+        "url": "https://open.spotify.com/album/45yOf3A1akq6MNHbcRY9ST"
+      },
+      "artists": [
+        {
+          "name": "Fiesta Soundsystem",
+          "url": "https://open.spotify.com/artist/2TlwHEsnBHNYIQsp3nDReB"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Passivity Trap",
+      "url": "https://open.spotify.com/track/0WE5WXXXF4rm3dzE7DnfFE"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
         "name": "Broken to Echoes",
         "url": "https://open.spotify.com/album/5uYNxqBCgg7QTsjQr1ek1E"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 144000,
       "name": "For Dissolving",
       "url": "https://open.spotify.com/track/6g9OGsqOmImspzSSSMtJjy"
-    },
-    {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "tromba d'aria",
-        "url": "https://open.spotify.com/album/1f51X3eaY2UgbOPirSMYlV"
-      },
-      "artists": [
-        {
-          "name": "Pa Blo",
-          "url": "https://open.spotify.com/artist/3W82aqFFhcY4UMvSa2xEHX"
-        }
-      ],
-      "duration_ms": 115844,
-      "name": "plusadea",
-      "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1181,20 +1181,20 @@
       "url": "https://open.spotify.com/track/2lGo0f6r89vi5vGMrnT64G"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
+      "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "Why Not Now?",
-        "url": "https://open.spotify.com/album/5VHQktFi54ke3UySlkyrzH"
+        "name": "tromba d'aria",
+        "url": "https://open.spotify.com/album/1f51X3eaY2UgbOPirSMYlV"
       },
       "artists": [
         {
-          "name": "Cindy",
-          "url": "https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N"
+          "name": "Pa Blo",
+          "url": "https://open.spotify.com/artist/3W82aqFFhcY4UMvSa2xEHX"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Standard Candle #3",
-      "url": "https://open.spotify.com/track/234LkCmcEYvr2uqqp2IMtV"
+      "duration_ms": 115844,
+      "name": "plusadea",
+      "url": "https://open.spotify.com/track/3qxG1irZ76FC4Qs0koRt1k"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -1213,6 +1213,22 @@
       "url": "https://open.spotify.com/track/00Kq9F35KrFQ99KoT32b8V"
     },
     {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Why Not Now?",
+        "url": "https://open.spotify.com/album/5VHQktFi54ke3UySlkyrzH"
+      },
+      "artists": [
+        {
+          "name": "Cindy",
+          "url": "https://open.spotify.com/artist/5C8xxfvMhwwxeSz4LZm41N"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Standard Candle #3",
+      "url": "https://open.spotify.com/track/234LkCmcEYvr2uqqp2IMtV"
+    },
+    {
       "added_at": "2023-04-05 14:48:06",
       "album": {
         "name": "Momentum EP",
@@ -1227,22 +1243,6 @@
       "duration_ms": 249756,
       "name": "Ghuya",
       "url": "https://open.spotify.com/track/1TB9uBVmmbe3p23pkWvuXe"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Passivity Trap",
-        "url": "https://open.spotify.com/album/45yOf3A1akq6MNHbcRY9ST"
-      },
-      "artists": [
-        {
-          "name": "Fiesta Soundsystem",
-          "url": "https://open.spotify.com/artist/2TlwHEsnBHNYIQsp3nDReB"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Passivity Trap",
-      "url": "https://open.spotify.com/track/0WE5WXXXF4rm3dzE7DnfFE"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "Lone Memory",
-        "url": "https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno"
-      },
-      "artists": [
-        {
-          "name": "C O N T X T",
-          "url": "https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW"
-        }
-      ],
-      "duration_ms": 279375,
-      "name": "Eternal Whisper",
-      "url": "https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI"
-    },
-    {
       "added_at": "2023-04-05 14:48:06",
       "album": {
         "name": "The Lost Art of Alchemy",
@@ -1323,6 +1307,22 @@
       "duration_ms": 87000,
       "name": "Hohenheim",
       "url": "https://open.spotify.com/track/5jPcRE5WXJqu7eBIr5Fb4D"
+    },
+    {
+      "added_at": "2023-05-17 15:25:53",
+      "album": {
+        "name": "Lone Memory",
+        "url": "https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno"
+      },
+      "artists": [
+        {
+          "name": "C O N T X T",
+          "url": "https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW"
+        }
+      ],
+      "duration_ms": 279375,
+      "name": "Eternal Whisper",
+      "url": "https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI"
     },
     {
       "added_at": "2023-05-17 15:25:53",

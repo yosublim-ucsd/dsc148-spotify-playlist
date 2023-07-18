@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 269111,
       "name": "10",
       "url": "https://open.spotify.com/track/2VwEWsVMBWaFPPSEXFK3Qi"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/1lfErXcHIp6Ail8bFuONMF"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 157531,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
@@ -6684,7 +6684,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
@@ -8384,6 +8384,28 @@
       "duration_ms": 224062,
       "name": "High speed",
       "url": "https://open.spotify.com/track/0lh2ff6BeCP2L05kDUkEjo"
+    },
+    {
+      "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6"
+      },
+      "artists": [
+        {
+          "name": "Prinz",
+          "url": "https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9"
+        },
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124791,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W"
     },
     {
       "album": {
@@ -11026,7 +11048,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 187690,
       "name": "Leto",
       "url": "https://open.spotify.com/track/1SaZ1Kiooxf7UQLePR1nqb"
@@ -11096,7 +11118,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 134518,
       "name": "Life Of Diego",
       "url": "https://open.spotify.com/track/1kQzOvd0NqIQBLlDTN7ki9"
@@ -11234,6 +11256,24 @@
       "duration_ms": 169946,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
+    },
+    {
+      "album": {
+        "name": "listen! (sped up)",
+        "url": "https://open.spotify.com/album/6IkOB88aFkkxIJT8u46SYF"
+      },
+      "artists": [
+        {
+          "name": "hako",
+          "url": "https://open.spotify.com/artist/71UHb0juSLfDoktgvCELin"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88605,
+      "name": "listen!",
+      "url": "https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu"
     },
     {
       "album": {
@@ -13207,6 +13247,32 @@
     },
     {
       "album": {
+        "name": "MTG - PISTA TOMA",
+        "url": "https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0"
+      },
+      "artists": [
+        {
+          "name": "RXDXVIL",
+          "url": "https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz"
+        },
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "John Bis.T",
+          "url": "https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136062,
+      "name": "MTG - PISTA TOMA",
+      "url": "https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W"
+    },
+    {
+      "album": {
         "name": "MTG - REBOLA NO MEU C4RALHO",
         "url": "https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p"
       },
@@ -13660,6 +13726,24 @@
       "duration_ms": 180226,
       "name": "Nad r\u00e1nom",
       "url": "https://open.spotify.com/track/7tYLoT749YA0w6z82g9HpM"
+    },
+    {
+      "album": {
+        "name": "Nevhodn\u00fd",
+        "url": "https://open.spotify.com/album/2tv5c5Kl8yd6uP45ZMhUqU"
+      },
+      "artists": [
+        {
+          "name": "Napoleon",
+          "url": "https://open.spotify.com/artist/3YUnklgOsExoprhSRVha5p"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184033,
+      "name": "Nalej mi - Mixtape",
+      "url": "https://open.spotify.com/track/5qDOORaaVKFTfLJzlhOcdb"
     },
     {
       "album": {
@@ -15414,7 +15498,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-10",
+      "date_removed": null,
       "duration_ms": 125861,
       "name": "party addict",
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
@@ -16308,7 +16392,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 359769,
       "name": "pretend",
       "url": "https://open.spotify.com/track/4MWVpH7IGyrRrsoBb9JDi5"
@@ -16330,6 +16414,24 @@
       "duration_ms": 359774,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/0BeJV3E7onQUX91A5odaAb"
+    },
+    {
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/0WXdj9lx3yrFwfXWmxpdpa"
+      },
+      "artists": [
+        {
+          "name": "Kenteph",
+          "url": "https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359774,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/1g7v7ysXfWsxnTbZA3tMML"
     },
     {
       "album": {
@@ -16926,7 +17028,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 97846,
       "name": "REI DO BRASIL",
       "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
@@ -18722,7 +18824,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 100779,
       "name": "SMASH",
       "url": "https://open.spotify.com/track/44xpUt2Ybry3wI3kf9W6bj"
@@ -18758,7 +18860,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 144000,
       "name": "Smash!",
       "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
@@ -18972,6 +19074,28 @@
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
+    },
+    {
+      "album": {
+        "name": "SO TIRED",
+        "url": "https://open.spotify.com/album/688ytwDXOttov235i5WAk8"
+      },
+      "artists": [
+        {
+          "name": "NUEKI",
+          "url": "https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB"
+        },
+        {
+          "name": "TOLCHONOV",
+          "url": "https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172548,
+      "name": "SO TIRED",
+      "url": "https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"
     },
     {
       "album": {
@@ -21842,7 +21966,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 120827,
       "name": "Valeriya",
       "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"

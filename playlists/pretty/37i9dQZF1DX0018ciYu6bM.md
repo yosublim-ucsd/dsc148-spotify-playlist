@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 
 > Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. Cover: KISS OF LIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,310 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,849 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0018ciYu6bM.md) - [plain]
 | 89 | [OVERDRIVE](https://open.spotify.com/track/5pGRo6KdVdD4LCg6A6awQT) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:55 |
 | 90 | [Don′t Call Me](https://open.spotify.com/track/2JZcu16wgcucoYRBWD41zQ) | [NINE to SIX](https://open.spotify.com/artist/2L2CWqf3JTM6IuEDS1vnHz) | [NINE to SIX 1st Single Album ′GOOD TO YOU′](https://open.spotify.com/album/1xKvkkPctHHnzZr8qKq6xC) | 3:03 |
 
-Snapshot ID: `MCw2NzdkNTAyM2FhYTIwMjJlYjBjMWI5MGNiMjU1Yjg4ODQ3YWQ0MzBk`
+Snapshot ID: `MCxlOTdlYjAzNDU4OTYyY2U0ZWFmYzQ3ZmFkMDM0ZGNkNDljYzhlZThi`

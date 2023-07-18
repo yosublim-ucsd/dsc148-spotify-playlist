@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPfGQQdiNNNO.md) - [plain]
 
 ### [Written By Jake Kosich \(of Beach Noise\)](https://open.spotify.com/playlist/37i9dQZF1EFPfGQQdiNNNO)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6h6gbHw9ynyJ9YZrzV2BE0">Jake Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6jCxdxp9ZKUXa9kaAVlnx4">Jake Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 [Spotify](https://open.spotify.com/user/spotify) - 201 likes - 11 songs - 42 min 25 sec
 
@@ -20,4 +20,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPfGQQdiNNNO.md) - [plain]
 | 10 | [The Love Intro](https://open.spotify.com/track/3hjCUYBBJUCB9nyBNRIVj8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:38 |
 | 11 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 
-Snapshot ID: `MjgxNTkzNDAsMDAwMDAwMDA2MGY1YTllM2U4NmYyNGU1Nzk2ODQ3ODdiYjQxNDc5ZQ==`
+Snapshot ID: `MjgxNjA4MTAsMDAwMDAwMDAxMmI4MWViZmQzNTVkN2EyN2ExNTg1N2E2NGQzYjMxOA==`

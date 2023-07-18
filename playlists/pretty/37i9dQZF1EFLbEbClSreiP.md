@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 
 ### [Written By Ines Dunn](https://open.spotify.com/playlist/37i9dQZF1EFLbEbClSreiP)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4PKFKPVOmeaE8aQbr1xK8s">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/78m3qQF3Q7KRGIsXzQkREU">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348 likes - 15 songs - 44 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 15 songs - 44 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 14 | [Girlfriend](https://open.spotify.com/track/4919ZVUjIFlBuyXPbPjUf6) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Girlfriend](https://open.spotify.com/album/4DtmFBaa1fZOYK1vRQQVrd) | 2:35 |
 | 15 | [by the end of the night](https://open.spotify.com/track/0yrGcbCjEwowGuETML0NOT) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/5N7c9Ii7LTUFs7lwHx8JKT) | 2:58 |
 
-Snapshot ID: `MjgxNTkzNDAsMDAwMDAwMDAwNjc2NDIwNjVmNGZkNWIzNGJkY2Q1OTBmYjJkZDZlYg==`
+Snapshot ID: `MjgxNjA4MTAsMDAwMDAwMDBlZmYxYTA0MzI3ZGE0MTA3ZWI2YTM3MDE2MjJlN2I1Nw==`

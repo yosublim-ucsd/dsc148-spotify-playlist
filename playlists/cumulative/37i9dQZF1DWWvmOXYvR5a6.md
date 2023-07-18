@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Dynamic Duo\(다이나믹 듀오\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-629 songs - 1 day 10 hr 10 min
+630 songs - 1 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Day or Night](https://open.spotify.com/track/1xp8Dh7UcXKJqUEoumnIB4) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [COMFY](https://open.spotify.com/album/0W4CJSly8XGaY4Bqlzudcf) | 3:34 | 2022-04-01 | 2022-07-02 |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 | 2022-07-24 |  |
 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/5bS39ndbAoNiX8dGELCHg5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:14 | 2022-04-01 | 2022-07-28 |
-| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 |  |
+| [Deep Sea \(Feat\. BE'O\)](https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [BE'O \(비오\)](https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:19 | 2023-01-19 | 2023-07-18 |
 | [Dessert shop \(Feat\. h3hyeon\)](https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 2:52 | 2022-04-01 | 2023-07-16 |
 | [DIE FOR YOU](https://open.spotify.com/track/1LyFyW3IJLiBROvsRfTY1l) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [EMOTIONAL BAGGAGE](https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP) | 3:46 | 2022-04-01 | 2022-05-28 |
 | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC) | [SGBOYZ \(Jay Park, Don Mills, Loco, Nucksal\)](https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw) | [Dingo X SGBOYZ \- ? \(Prod\. GRAY\)](https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL) | 4:16 | 2022-04-01 | 2022-07-29 |
@@ -236,6 +236,7 @@
 | [Have A Little Fun](https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:20 | 2022-07-24 |  |
 | [HAWAII \- Remaster](https://open.spotify.com/track/00BUYjfn30RNGvEESffAvs) | [YELLA](https://open.spotify.com/artist/3mY5lOpRpnHu90zikCYuCw) | [21 Colorful \(Remaster\)](https://open.spotify.com/album/53h1Vmb7UNXFVLTVLfo0sP) | 3:19 | 2022-07-14 | 2022-07-18 |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2022-04-21 | 2022-07-28 |
+| [HIT N" RUN](https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA) | [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Joyrider's Avenue](https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn) | 2:52 | 2023-07-17 |  |
 | [Hitchhike me \(Feat\. Sik\-K\)](https://open.spotify.com/track/1V4hA20IMYlJ383HwyYKFZ) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:43 | 2022-05-11 | 2022-07-05 |
 | [home dance](https://open.spotify.com/track/4Qa5wyZdRc6rFy4nrg89i3) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [wallflower](https://open.spotify.com/album/1vp1KDamSYYyWjhbGzk0vF) | 3:04 | 2022-04-01 | 2022-07-29 |
 | [home dance](https://open.spotify.com/track/4tfvHVPqR2gzh2IHP1tqkk) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc) | [wallflower](https://open.spotify.com/album/79xZzg0lSKSYwwYZCb8xt6) | 3:04 | 2022-08-04 | 2022-08-11 |

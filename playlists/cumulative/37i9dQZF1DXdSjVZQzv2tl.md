@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Wesley Safadão
 
-147 songs - 6 hr 59 min
+148 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Amava Nada \- Ao Vivo](https://open.spotify.com/track/60JP0KEMPE9uOw5NGGfPpW) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Rolê Diferenciado, Temp\. \#3 \(Ao Vivo\)](https://open.spotify.com/album/78SmFsr14MytkxzvCRIAHJ) | 3:05 | 2022-02-11 | 2022-07-30 |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2021-12-31 | 2022-12-29 |
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Cola Aqui, Pt\. 3 \(Ao Vivo\)](https://open.spotify.com/album/4TBovTffAvKSHeHn5ppnai) | 2:51 | 2022-03-25 | 2022-07-29 |
-| [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/48LEhRW4gLMCVSYFEZvt8b) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Assume a Gente \(Ao Vivo\)](https://open.spotify.com/album/2Uf3XivKw12Ic7J3YMwSXy) | 2:51 | 2022-07-22 |  |
+| [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/48LEhRW4gLMCVSYFEZvt8b) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Assume a Gente \(Ao Vivo\)](https://open.spotify.com/album/2Uf3XivKw12Ic7J3YMwSXy) | 2:51 | 2022-07-22 | 2023-07-18 |
 | [Assunto Delicado \- Ao Vivo](https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Assunto Delicado \(Ao Vivo\)](https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT) | 3:00 | 2022-08-26 |  |
 | [Até Falar Chega \(feat\. Matheus & Kauan\) \- Ao Vivo](https://open.spotify.com/track/0uoNRN1bvHcsGrrTa44Mj7) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 3:28 | 2021-12-31 | 2022-04-07 |
 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 | 2022-08-22 |  |
@@ -130,6 +130,7 @@
 | [Saudade da Minha Vida \- Ao Vivo](https://open.spotify.com/track/51FFbyL0PjkYtjXJQP0JoP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Saudade da Minha Vida \(Ao Vivo\)](https://open.spotify.com/album/12cggEPGtw4AamOwbk6Got) | 3:14 | 2023-02-16 |  |
 | [Se Ele Soubesse \- Ao Vivo Em Goiânia](https://open.spotify.com/track/2zDwJnP9n9yCUyfiLIwkDM) | [Guilherme & Santiago](https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Se Ele Soubesse \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/3IzxCfPuWv3r8fQ1IpDY5a) | 2:50 | 2023-02-15 |  |
 | [Seu Brilho Sumiu \- Ao Vivo](https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:48 | 2023-03-09 |  |
+| [Solteiro Forçado \- Boiadeira Internacional](https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Solteiro Forçado \(Boiadeira Internacional\)](https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i) | 3:14 | 2023-07-17 |  |
 | [Solteiro Frustrado \- Ao Vivo](https://open.spotify.com/track/4QqkNyWHUACzoT6isznHWS) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Solteiro Frustrado \(Ao Vivo\)](https://open.spotify.com/album/0zspJVASlzrBFFPbiazk46) | 3:00 | 2023-07-07 |  |
 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 | 2023-01-27 |  |
 | [Sorte \- Ao Vivo](https://open.spotify.com/track/2SwE42tEBphHOejzZ9rKRa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Sorte \(Ao Vivo\)](https://open.spotify.com/album/1KOI7qxsWY35YPZALo2oTA) | 3:06 | 2021-12-31 | 2022-05-20 |

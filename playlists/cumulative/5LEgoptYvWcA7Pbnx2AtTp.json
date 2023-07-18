@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Dead Man's Party",
+        "url": "https://open.spotify.com/album/44Q1H1q6nSnUnjjGPoxAJb"
+      },
+      "artists": [
+        {
+          "name": "Oingo Boingo",
+          "url": "https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368760,
+      "name": "Weird Science",
+      "url": "https://open.spotify.com/track/03AhYPRQeOqG2j54Tdg94E"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

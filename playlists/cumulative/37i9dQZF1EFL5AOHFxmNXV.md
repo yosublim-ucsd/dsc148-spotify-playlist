@@ -2,7 +2,7 @@
 
 ### [Written By PartyNextDoor](https://open.spotify.com/playlist/37i9dQZF1EFL5AOHFxmNXV)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4NBBBsLXhwQU9yzfd7ICS5">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6tNq3vprcBeO8S36v06ylj">PartyNextDoor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 136 songs - 8 hr 37 min
 

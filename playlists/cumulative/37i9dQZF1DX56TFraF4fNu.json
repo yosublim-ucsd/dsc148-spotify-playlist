@@ -298,10 +298,36 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 243433,
       "name": "Bulevar",
       "url": "https://open.spotify.com/track/3T49TbWYQfLbYCbiQbedhH"
+    },
+    {
+      "album": {
+        "name": "Bulevar",
+        "url": "https://open.spotify.com/album/2tetV749OHQRffqTclca7Y"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243433,
+      "name": "Bulevar",
+      "url": "https://open.spotify.com/track/7hQi6VmEgGLG462YpieKDG"
     },
     {
       "album": {

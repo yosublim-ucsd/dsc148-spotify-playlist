@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "ANYWHERE (Feat. Huh)",
+        "url": "https://open.spotify.com/album/14fRptjW1ytSaP5USPXNDR"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        },
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "ANYWHERE (Feat. Huh)",
+      "url": "https://open.spotify.com/track/6XCypJVJa6FhFadgaGoON3"
+    },
+    {
+      "album": {
         "name": "Are we done?",
         "url": "https://open.spotify.com/album/524LwEcjDKf0Ki5nNNz5r5"
       },
@@ -1704,6 +1726,24 @@
       "duration_ms": 232120,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/3bCDoZgeNf9s6Zmf9iz51h"
+    },
+    {
+      "album": {
+        "name": "Blooming Today",
+        "url": "https://open.spotify.com/album/4TMYHDS6hlg3VtFOu96lNT"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Blooming Today",
+      "url": "https://open.spotify.com/track/7bFLEPt1ZpePXATqdRWbZu"
     },
     {
       "album": {
@@ -4467,6 +4507,24 @@
     },
     {
       "album": {
+        "name": "Rinza Noodle House (Original Television Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/4CavyFVmLF2o8iZL0TkgND"
+      },
+      "artists": [
+        {
+          "name": "Jang HeeWon",
+          "url": "https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Flower(Long For You)",
+      "url": "https://open.spotify.com/track/2lsZoElIkFgYukTEgZQrZd"
+    },
+    {
+      "album": {
         "name": "Flowing Stars",
         "url": "https://open.spotify.com/album/5Rc2FJYoM29NlMerMWj7AY"
       },
@@ -4518,6 +4576,24 @@
       "duration_ms": 212173,
       "name": "Foolish Love",
       "url": "https://open.spotify.com/track/7I7TTfKcDDAeSf6HPgbdPT"
+    },
+    {
+      "album": {
+        "name": "Beginning is the First Kiss (Original Television Soundtrack), Pt.5",
+        "url": "https://open.spotify.com/album/3DXEGzNiQ0rq9BlRNHy1bZ"
+      },
+      "artists": [
+        {
+          "name": "Ulala Session",
+          "url": "https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260653,
+      "name": "For My Love(2023)",
+      "url": "https://open.spotify.com/track/3V8fMqqEnhsUuG77YXQMeY"
     },
     {
       "album": {
@@ -5460,7 +5536,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 233629,
       "name": "How are you",
       "url": "https://open.spotify.com/track/6nAnmHOOX6IklfCiRqJPgG"
@@ -5886,7 +5962,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 226120,
       "name": "I feel",
       "url": "https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN"
@@ -5944,6 +6020,24 @@
       "duration_ms": 256906,
       "name": "I got lucky",
       "url": "https://open.spotify.com/track/2xqZgDhbEzNIQGEz8HdrkJ"
+    },
+    {
+      "album": {
+        "name": "I Guess I Loved You",
+        "url": "https://open.spotify.com/album/7j2yKTyHYeptq0D9e4ydNQ"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "I Guess I Loved You",
+      "url": "https://open.spotify.com/track/1xhWTGxEJgay2ZjMsaGObi"
     },
     {
       "album": {
@@ -6074,10 +6168,32 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 262356,
       "name": "I love you even if it hurts",
       "url": "https://open.spotify.com/track/05xlBRlrtrvcpEjoTP9cdR"
+    },
+    {
+      "album": {
+        "name": "Patek on Wine",
+        "url": "https://open.spotify.com/album/5iAaMl0I0jGIToPEKXABgf"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/6XDfsMWnfJd46j3f0orVHF"
     },
     {
       "album": {
@@ -8326,7 +8442,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 169640,
       "name": "like wind",
       "url": "https://open.spotify.com/track/22s6kCFuBnnggy3Cio3JPh"
@@ -9151,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/1UyAxLJHTTbz6JXX3kFzn1"
+      },
+      "artists": [
+        {
+          "name": "Hwang Inhyeock",
+          "url": "https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238132,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/60XDBmcTUepDSF6CvCsUJQ"
+    },
+    {
+      "album": {
         "name": "May I love you",
         "url": "https://open.spotify.com/album/6DEUPpKn8fR1m5sY0Yfwzv"
       },
@@ -9270,7 +9404,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 200886,
       "name": "me in longing",
       "url": "https://open.spotify.com/track/3UwMPI8S3VNRSByUz12N01"
@@ -9584,7 +9718,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 237178,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0R9NMsHkddNlBsiPRCu5IZ"
@@ -10831,6 +10965,24 @@
     },
     {
       "album": {
+        "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+        "url": "https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo"
+      },
+      "artists": [
+        {
+          "name": "Lee Hong Ki (FTISLAND)",
+          "url": "https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256933,
+      "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+      "url": "https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d"
+    },
+    {
+      "album": {
         "name": "MSG WANNABE 1st Album",
         "url": "https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C"
       },
@@ -11156,7 +11308,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 213600,
       "name": "Please look at me",
       "url": "https://open.spotify.com/track/7oIsG96tN4l7v7i9VIBSyx"
@@ -11196,6 +11348,24 @@
       "duration_ms": 221136,
       "name": "POWER OF LOVE",
       "url": "https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP"
+    },
+    {
+      "album": {
+        "name": "Presentiment",
+        "url": "https://open.spotify.com/album/39szLv79bxbtePUKOPAqZD"
+      },
+      "artists": [
+        {
+          "name": "Son June Hyuk",
+          "url": "https://open.spotify.com/artist/1FK7wpPPGDbPiPiM5lx5Re"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228497,
+      "name": "Presentiment",
+      "url": "https://open.spotify.com/track/73vxAVH2iJfEofp8gKfh55"
     },
     {
       "album": {
@@ -12008,7 +12178,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 180320,
       "name": "Sign of Zodiac",
       "url": "https://open.spotify.com/track/04SClG4e6ebrEzgBIdffUY"
@@ -12326,6 +12496,24 @@
       "duration_ms": 225908,
       "name": "Somehow",
       "url": "https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF"
+    },
+    {
+      "album": {
+        "name": "Something Like That",
+        "url": "https://open.spotify.com/album/0r5sHBZo7gzcEnbmA3s8AF"
+      },
+      "artists": [
+        {
+          "name": "Song Pu Reum",
+          "url": "https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/2Yg4KA2rOakUT7D82XSLVc"
     },
     {
       "album": {
@@ -12925,6 +13113,24 @@
     },
     {
       "album": {
+        "name": "Romantic Doctor 3 OST Part.4",
+        "url": "https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Still You",
+      "url": "https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC"
+    },
+    {
+      "album": {
         "name": "Stupid Love",
         "url": "https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ"
       },
@@ -13192,6 +13398,24 @@
       "duration_ms": 231640,
       "name": "TEARS (WEBTOON 'Discovery of Love' X HWANG CHI YEUL)",
       "url": "https://open.spotify.com/track/0pRpX95wMdfhszOe7QkVYx"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/4WN0yV8RTPqax95MC1tTFZ"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/47OCkZGAMZnx64y7R3ch6W"
     },
     {
       "album": {
@@ -14964,7 +15188,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 215613,
       "name": "We haven't broken up yet",
       "url": "https://open.spotify.com/track/6gEFr1UkQ1vd4MCkcKB5On"
@@ -15596,7 +15820,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 218864,
       "name": "Why didn't you tell me earlier?",
       "url": "https://open.spotify.com/track/1B3oAgDPCftYycpRyoAYNt"
@@ -16072,7 +16296,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 298000,
       "name": "words that are different from the heart",
       "url": "https://open.spotify.com/track/1S52pWa40LCmavUzsMHSlw"
@@ -17094,6 +17318,24 @@
       "duration_ms": 264461,
       "name": "\uc5b4\ub514\uc120\uac00 \ub098\ucc98\ub7fc \uc774 \ub178\ub7a0 \ub4e3\uace0 \uc788\uc744 \ub108\uc5d0\uac8c",
       "url": "https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD"
+    },
+    {
+      "album": {
+        "name": "A movie just between us",
+        "url": "https://open.spotify.com/album/61Anwyk3urEQ5RNz8NE7Te"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "\uc6b0\ub9ac \ub458\ub9cc\uc758 \uc601\ud654\uac00",
+      "url": "https://open.spotify.com/track/4WznValRfibE40XCfrR64W"
     },
     {
       "album": {

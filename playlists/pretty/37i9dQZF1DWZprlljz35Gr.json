@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 8143,
+  "num_followers": 8154,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDc3NTYyMzFjMjVjMjQ4ODYwNTFmZjljNzg0NDJlZjk4MDc4YTI2",
+  "snapshot_id": "MCwyN2JkMDQxNTQ2YWM4MWI4YTVlNjM2MDIyYzQwZjk2ZTZkY2Y1Y2Jk",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Moonshine Crossroads",
         "url": "https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 211706,
       "name": "Honeybee Blues",
       "url": "https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Prehistoric Rhythm",
-        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
-      },
-      "artists": [
-        {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
-        }
-      ],
-      "duration_ms": 224510,
-      "name": "Sunroof Diesel Blues",
-      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Human (Deluxe)",
         "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
       },
@@ -469,24 +453,20 @@
       "url": "https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix"
+        "name": "Prehistoric Rhythm",
+        "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
       },
       "artists": [
         {
-          "name": "Moontricks",
-          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
-        },
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+          "name": "MY BABY",
+          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
         }
       ],
-      "duration_ms": 225609,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ"
+      "duration_ms": 224510,
+      "name": "Sunroof Diesel Blues",
+      "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -523,6 +503,26 @@
       "duration_ms": 236288,
       "name": "Stick Em Up",
       "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix"
+      },
+      "artists": [
+        {
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        },
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+        }
+      ],
+      "duration_ms": 225609,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Prehistoric Rhythm",
         "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 199040,
       "name": "FaiBless",
       "url": "https://open.spotify.com/track/0B7b7hgIRnthz1vbeLGxy4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Victim",
-        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
-      },
-      "artists": [
-        {
-          "name": "Mblue",
-          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Victim",
-      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Return",
@@ -851,6 +835,22 @@
       "duration_ms": 321375,
       "name": "Ride On",
       "url": "https://open.spotify.com/track/4sEDI5vsiNsdefE0K93181"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Victim",
+        "url": "https://open.spotify.com/album/2DQffRbld5NnGdhiMhVwJ9"
+      },
+      "artists": [
+        {
+          "name": "Mblue",
+          "url": "https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/6ZyGzHdjqt4bqvWBwlYuaD"
     }
   ],
   "unique_name": "Bluestronica",

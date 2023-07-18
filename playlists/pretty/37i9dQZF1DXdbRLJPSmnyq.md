@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: imase
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,431 likes - 90 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,805 likes - 90 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 89 | [24\-25](https://open.spotify.com/track/0oRe0ce8jFqL0S1Rl0Hawc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [24\-25](https://open.spotify.com/album/4OHOfP920jaUMNcPT7Nxnh) | 3:56 |
 | 90 | [不便な可愛げ feat\. アイナ・ジ・エンド\(BiSH\)](https://open.spotify.com/track/114GDozk3l0sNgKwzdGszX) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [不便な可愛げ feat\. アイナ・ジ・エンド\(BiSH\)](https://open.spotify.com/album/1tt5B8cBMEUCXdnuaKASDB) | 4:03 |
 
-Snapshot ID: `MCwwZTdiMjc1MjdjODRlOGQ0ZjgwZDk4MmJjODVlMDRjYTExY2Q2YThh`
+Snapshot ID: `MCwzNjY0YjhkZGM2NTZlMThmMjM0NjRiNTJhYThhNjE3NDgwNTY0N2Fh`

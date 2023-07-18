@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Slowdive on cover.",
-  "num_followers": 87432,
+  "num_followers": 87715,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2UzODg4MWNhMjNkNWNkZTBlOTdmMDc5YTJmYmZkODdmYmNkYWRi",
+  "snapshot_id": "MCw2ZDYzMjQ1YjQxNWQyOGRlNDQwNTk5MmFjNDViZGI2Mjg2NGFlMGUx",
   "tracks": [
     {
       "added_at": "2023-06-20 17:08:59",
@@ -311,6 +311,22 @@
       "duration_ms": 154777,
       "name": "COME WITH ME",
       "url": "https://open.spotify.com/track/53g6YzbgpyPFbQ4AISk1Yu"
+    },
+    {
+      "added_at": "2023-07-17 18:56:29",
+      "album": {
+        "name": "The Skin And The Glove",
+        "url": "https://open.spotify.com/album/4cS5ytj8t6O9hYJHQPi9QQ"
+      },
+      "artists": [
+        {
+          "name": "Drab Majesty",
+          "url": "https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO"
+        }
+      ],
+      "duration_ms": 362523,
+      "name": "The Skin And The Glove",
+      "url": "https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 150251,
       "name": "idk how to luv",
       "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "honeybee table at the butterfly feast",
-        "url": "https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB"
-      },
-      "artists": [
-        {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "death wish",
-      "url": "https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW"
     },
     {
       "added_at": "2023-03-13 22:23:31",

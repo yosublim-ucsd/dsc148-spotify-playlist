@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Blake Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,085 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,195 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 141 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 |
 | 142 | [Darkness](https://open.spotify.com/track/3itjSLPhEeuCV05xkkesrj) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Darkness](https://open.spotify.com/album/3gXaPXe0YwGAWP4atoOWBy) | 3:35 |
 | 143 | [Hallelujah Anyway](https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Hallelujah Anyway](https://open.spotify.com/album/6iG1EIMbUXhXTpb99kcHhi) | 3:33 |
-| 144 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/1KoXCDxNahXOl7Tvtm9rlF) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Marvel Room](https://open.spotify.com/album/7a9QTgppwUrjlIf8GFTwjv) | 4:54 |
+| 144 | [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/71gtKNqIjM01p7njYpNYpW) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Extract](https://open.spotify.com/album/4UgWkdVxX9m5DtdELwJUbI) | 4:54 |
 | 145 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
 | 146 | [Never Enough](https://open.spotify.com/track/61pV8ZfMOiEcOUfqV5VVkh) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Never Enough](https://open.spotify.com/album/08YPWfyPUp5p0vGYcpXBtO) | 2:30 |
 | 147 | [Corner](https://open.spotify.com/track/3b5vsDkWRVQvxTqMeTvf9p) | [The Arcadian Wild](https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY) | [Corner](https://open.spotify.com/album/5MMRLY7XRYrnmedJZ8c3ya) | 4:28 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Sweet Rainbow](https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Come Back To Me](https://open.spotify.com/album/561eKNmfenwaF1fZsVayMv) | 4:06 |
 | 150 | [That's on You, That's on Me](https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [That's On You, That's On Me](https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0) | 3:09 |
 
-Snapshot ID: `MCxjY2E5MWUwZGQyNmY1OTc5MzZlZTkyMWE2YThkNmFhMjg4OWIzMmQ2`
+Snapshot ID: `MCxlMDhlNjA0OWEzNDM0Nzc5MGU2MDcyMDRlYmQzNWU2YThiMTAyNzky`

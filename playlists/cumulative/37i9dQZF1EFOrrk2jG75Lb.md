@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EFOrrk2jG75Lb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFOrrk2jG75Lb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFOrrk2jG75Lb)
 
-### [Written By Gloria Trevi ](https://open.spotify.com/playlist/37i9dQZF1EFOrrk2jG75Lb)
+### [Written By Gloria Trevi](https://open.spotify.com/playlist/37i9dQZF1EFOrrk2jG75Lb)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5ZhOMhIvZkv2S7fBPcxQ1t">Gloria Trevi </a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt">Gloria Trevi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 52 songs - 3 hr 8 min
 

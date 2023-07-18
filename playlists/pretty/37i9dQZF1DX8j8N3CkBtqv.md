@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Dikshant
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,295 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,316 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Ruby](https://open.spotify.com/track/2xDtfzoDn1oWQ7i7vZdEbq) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Ruby](https://open.spotify.com/album/11E0gGOFicB9F3MkPBNYLh) | 2:56 |
 | 50 | [Azaad Hai](https://open.spotify.com/track/1wPiRQPePFdSpoXyhC8p95) | [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [Azaad Hai](https://open.spotify.com/album/0kqvMYBbHOGlzr1R0uf60q) | 3:12 |
 
-Snapshot ID: `MCw4YTYxYWU4ZTM3NzIxM2FkNGE5NTZmN2Y3Nzc2NWU3ZmRlY2I4YTdh`
+Snapshot ID: `MCxmOWRmNGYzOTgxODRhMjEyYjU3YmE4YzU1YTU5OGQ4M2NlMWVlMGIw`

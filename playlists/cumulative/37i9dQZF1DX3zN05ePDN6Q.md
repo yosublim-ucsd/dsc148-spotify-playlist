@@ -4,7 +4,7 @@
 
 > Tem rap nacional tem boom bap na área\. Foto: Sain
 
-293 songs - 16 hr 13 min
+294 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Depressão Freestyle](https://open.spotify.com/track/1yeYXm6mMGgo2EVmZ1w39r) | [Bruno Darko](https://open.spotify.com/artist/27jhhOC9dxRGWFhfgVuIjJ), [Neutro](https://open.spotify.com/artist/4IQcaVLkIDtZJlM8cGYuuw) | [Depressão Freestyle](https://open.spotify.com/album/3RHQIpHYgJa7vxbuoqUZQs) | 1:13 | 2022-05-20 | 2022-05-28 |
 | [Desavento](https://open.spotify.com/track/2S44kcVUvjd8xy2ndatosj) | [Ingles](https://open.spotify.com/artist/1mSXy5a5NV0P1k0ZcZgAPI), [Valada](https://open.spotify.com/artist/54pqoIRMifMNNc69yNzToB) | [Desavento](https://open.spotify.com/album/56ZIX9QNRoqVY1Nb02yDXY) | 3:13 | 2022-07-01 |  |
 | [Dia A Dia](https://open.spotify.com/track/2zAcSAXCFcKDTtqHTm73rX) | [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg) | [Bom Dia Com Oxalá](https://open.spotify.com/album/1gJzBSWADdEW41kScdH3nF) | 3:26 | 2023-04-07 | 2023-05-27 |
-| [Dia Após o Outro](https://open.spotify.com/track/0tj7KQyNPnx58VOLiNVfFy) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Dia Após o Outro](https://open.spotify.com/album/1s1ZD1u3NYCgANoMwubQPG) | 2:52 | 2023-06-23 |  |
+| [Dia Após o Outro](https://open.spotify.com/track/0tj7KQyNPnx58VOLiNVfFy) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Dia Após o Outro](https://open.spotify.com/album/1s1ZD1u3NYCgANoMwubQPG) | 2:52 | 2023-06-23 | 2023-07-18 |
 | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/track/7mAo5yR1WdnLwBMxJ8pBGC) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Diamantes São Lapidados na Minha Área](https://open.spotify.com/album/6fFZz6sTLJe51S3w7IPxpg) | 2:54 | 2022-03-25 |  |
 | [Dizzabafo](https://open.spotify.com/track/792Kwq7leRnzTZ2ZhG6xw6) | [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizzabafo](https://open.spotify.com/album/5WaspzNsol7Zq7j1lUluH3) | 3:42 | 2022-09-30 | 2023-03-18 |
 | [DoisTrês](https://open.spotify.com/track/4lzVUQejvUYA83Lom4n80l) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [DoisTrês](https://open.spotify.com/album/5cWPvWsFqD8RbkgdDWi5m4) | 1:15 | 2023-01-06 |  |
@@ -198,6 +198,7 @@
 | [Petshop](https://open.spotify.com/track/1sovkyA4I6HUKf2xJj2duy) | [Pete Mcee](https://open.spotify.com/artist/7hYxiVrQD6owMinIaG9QuB), [djbK12](https://open.spotify.com/artist/5UzbvxUWOxf6VKlBP6Ut2J) | [Petshop](https://open.spotify.com/album/6xStv7ugskt1Q1qeOO3Htz) | 2:14 | 2022-03-18 | 2022-04-29 |
 | [Peço a Deus](https://open.spotify.com/track/2thlmv989cLRDXosWzzkhG) | [Mvuricix](https://open.spotify.com/artist/6vgOaoN77IO18d1Q77mEHO) | [Peço a Deus](https://open.spotify.com/album/5XjEFpSExw4gY6WPFlg2lq) | 4:59 | 2022-03-18 | 2022-04-29 |
 | [Pierrot e Colombina](https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Pierrot e Colombina](https://open.spotify.com/album/3zDetmF1o7NQ3S5W3Y93uC) | 3:59 | 2022-05-06 |  |
+| [Posse](https://open.spotify.com/track/6uNwBWfI3DOTqAmSEtE4lV) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1) | [Posse](https://open.spotify.com/album/3G6NCnvebsJcjmEt2FC6ni) | 3:13 | 2023-07-17 |  |
 | [Pouco em Pouco](https://open.spotify.com/track/4Z4GfIEdPVOOl5aivhbZYm) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Pouco em Pouco](https://open.spotify.com/album/0wMaRz79qiu2J8q2oEIajK) | 2:36 | 2022-03-18 | 2022-09-10 |
 | [Pra Berlin](https://open.spotify.com/track/0sRzOlD788V7vTonwx5m4S) | [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc) | [Pra Berlin](https://open.spotify.com/album/66ulRuBs3zeUDIfW4HNICQ) | 5:18 | 2022-09-23 | 2022-11-12 |
 | [Prestígio & Fama](https://open.spotify.com/track/4uBffm1N7lkpuAU0MD9CfI) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Lessa Gustavo](https://open.spotify.com/artist/1Fxj29J2wowDAzBFPzaTDQ), [OFAV](https://open.spotify.com/artist/6ZB105dVT2TPEnx5EAUyHN), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP) | [Radar de um Filme Sujo](https://open.spotify.com/album/4Y2u8ELnYkJq1YUanWJ8De) | 2:33 | 2022-03-18 | 2022-04-09 |

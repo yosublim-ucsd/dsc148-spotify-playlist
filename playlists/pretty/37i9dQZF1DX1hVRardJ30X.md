@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: NATHY PELUSO
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,874 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,964 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 52 | [Tekilita](https://open.spotify.com/track/29rTfQfR9eCeUQBOKmItHi) | [La Mau](https://open.spotify.com/artist/30vVl9dBGYBlAfcAezg6ao) | [Tekilita](https://open.spotify.com/album/48SVM7vV370WBLydnkvVSK) | 2:16 |
 | 53 | [Tragos](https://open.spotify.com/track/28Kg5mB38fipYwzhyUnNeH) | [Nesty D](https://open.spotify.com/artist/4gu2v0saKToZy4NElInn8X) | [Tragos](https://open.spotify.com/album/0feBdbt4JgUrY5P4D2xxFx) | 3:20 |
 
-Snapshot ID: `MCw0ZmRkNjRkZmE0ODA5MTdhN2EwZWRiNzk5OTgwN2QxY2JlYmI0ODVi`
+Snapshot ID: `MCxhMDRlNTNkMGRiYTYzYWI3NjU1NTU1NjY1MzFlZGE0M2I5MjIxOGZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Wesley Safadão, Maiara e Maraisa, Vulgo FK, Pocah, Mc Poze do Rodo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,893,726 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,894,060 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Pegando Fogo](https://open.spotify.com/track/10Orbautnm3B3s2ZrrpNo5) | [Nicolas MC](https://open.spotify.com/artist/54RmoswVCYzdIRzEtK9RaJ), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Pegando Fogo](https://open.spotify.com/album/3ZA0Hxslnwo1RTjYKHE8uu) | 3:24 |
 | 100 | [Último Pedido](https://open.spotify.com/track/5AwQQUANNawRfAiUtGXb65) | [Jhotapê](https://open.spotify.com/artist/342eDFVyRz2U8v4Div5ueZ) | [Último Pedido](https://open.spotify.com/album/2XMniz5Sl4yPjxephGeORU) | 2:31 |
 
-Snapshot ID: `MCw0NGRiNDMyNDc3YWEwMmExYTUwM2FhYmQwNGI4NmU0ZjdiNDRjZTFi`
+Snapshot ID: `MCxlNjgxOGE0YjhiNDI0YjdmODI1NjliOWU3NzM0NjZkMmQzNjg5MTlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Dominic Fike along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,341 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,469 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 64 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 |
 | 65 | [Oh No Darling!](https://open.spotify.com/track/3TMp13jKf5DDxmVfs4HGbt) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Ascension](https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1) | 3:23 |
 
-Snapshot ID: `MCxiNDdjNmJiYmI2M2Y0ZWFlNTk4YzA5MzEyMDQ3OGYxMDQ5NDMxMTQx`
+Snapshot ID: `MCxjNGEzNTRiNGQxZDk3ZWMzMTk1OWZmNzMzNzE4NTYyOTU1ZjA2ZWVl`

@@ -2,7 +2,7 @@
 
 ### [Written By Ink](https://open.spotify.com/playlist/37i9dQZF1EFFNsuSPMFRwX)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2VhD3nIxhifASqPJzWRjCj">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 31 songs - 1 hr 52 min
 

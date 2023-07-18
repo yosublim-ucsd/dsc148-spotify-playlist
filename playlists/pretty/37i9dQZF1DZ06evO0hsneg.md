@@ -8,11 +8,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vaselina \(feat\. euro\)](https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:37 |
-| 2 | [I AM ME](https://open.spotify.com/track/5Ga159MBI3o7b8cgSEpVWz) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I AM ME](https://open.spotify.com/album/2lnvGKz1MPILzM3G3aHw8c) | 3:38 |
+| 1 | [I AM ME](https://open.spotify.com/track/5Ga159MBI3o7b8cgSEpVWz) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I AM ME](https://open.spotify.com/album/2lnvGKz1MPILzM3G3aHw8c) | 3:38 |
+| 2 | [Vaselina \(feat\. euro\)](https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:37 |
 | 3 | [Kawaii 808](https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Crisis Era](https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [The Holy Bassgod EP](https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA) | 2:46 |
-| 4 | [No Tinder](https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [No Tinder](https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove) | 4:14 |
-| 5 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 |
+| 4 | [Onto The Next](https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Onto The Next](https://open.spotify.com/album/6OrrDmeud8LX3rJLJvBEpe) | 3:34 |
+| 5 | [No Tinder](https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [No Tinder](https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove) | 4:14 |
 | 6 | [CA$HMERE](https://open.spotify.com/track/4x8HoxdUX78UiFkiVWsygM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [CA$HMERE](https://open.spotify.com/album/65bC4fvUPoWqSIPqwW3uLo) | 3:34 |
 | 7 | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Ain't No MF \(feat\. pH\-1\)](https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm) | 2:29 |
 | 8 | [Foreign](https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 3:42 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 37 | [whats ur problem](https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 | 38 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `MjgxNTg1MDAsMDAwMDAwMDBiMzI4ZThjMGM2ZGExZTY2YzVmOTAyZTgxYWUyOGJiMQ==`
+Snapshot ID: `MjgxNTk5MTksMDAwMDAwMDA3YmMxZDJlYzE1OTEyNTIzODY2MDNhNmZiMWU2OGE5NA==`

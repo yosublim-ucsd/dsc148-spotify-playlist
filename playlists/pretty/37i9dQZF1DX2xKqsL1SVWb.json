@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Agris en portada.",
-  "num_followers": 96509,
+  "num_followers": 96513,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTljNTFjYzMzNGNlMjM1NWMwYWQ4ZDM3NWE4MDZmY2IwYjc5NzBl",
+  "snapshot_id": "MCwzZTdhMjg0NzY4YzBjNTM4NTVhMTVkZDNkZDcwZDk1MjRiNmFhM2Jh",
   "tracks": [
     {
       "added_at": "2023-07-07 16:56:50",
@@ -295,6 +295,26 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "Est\u00e1 Da\u00f1ada (Remix)",
+        "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "Est\u00e1 Da\u00f1ada - Remix",
+      "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "Hasta el Fin Del Mundo",
         "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
@@ -327,26 +347,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Est\u00e1 Da\u00f1ada (Remix)",
-        "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 239840,
-      "name": "Est\u00e1 Da\u00f1ada - Remix",
-      "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "TE EXTRA\u00d1O Y LO SIENTO...",
-        "url": "https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 229060,
-      "name": "TE EXTRA\u00d1O Y LO SIENTO...",
-      "url": "https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -411,6 +395,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "TE EXTRA\u00d1O Y LO SIENTO...",
+        "url": "https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 229060,
+      "name": "TE EXTRA\u00d1O Y LO SIENTO...",
+      "url": "https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "Giallo",
         "url": "https://open.spotify.com/album/4WV1PuDBMdzqXiWVWG0ovo"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 240880,
       "name": "Quince Mil D\u00edas",
       "url": "https://open.spotify.com/track/0xJDZoUeyeOBlj9jtqhyum"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -475,6 +459,22 @@
       "duration_ms": 134470,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -531,22 +531,6 @@
       "duration_ms": 206440,
       "name": "De Verdad",
       "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -619,6 +603,22 @@
       "duration_ms": 159333,
       "name": "Es Tan Bonita",
       "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 185889,
-      "name": "Contigo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 178000,
       "name": "Cu\u00e1nto Tiempo sin Verte",
       "url": "https://open.spotify.com/track/0mGQOqZlkZg5gYvIe1oAW2"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "contigo va a estar bien",
+        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 185889,
+      "name": "Contigo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Pasado y Olvido",
-        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 255155,
-      "name": "Pasado y Olvido",
-      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Hierbas Para la Tristeza",
         "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 166112,
       "name": "Hierbas",
       "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Clandestina - Spotify Singles",
+      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl"
+        "name": "Pasado y Olvido",
+        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
         }
       ],
-      "duration_ms": 209746,
-      "name": "Clandestina - Spotify Singles",
-      "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
+      "duration_ms": 255155,
+      "name": "Pasado y Olvido",
+      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "Tan Bien Que Estaba",
+        "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Tan Bien Que Estaba",
+      "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
@@ -911,6 +927,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "Te Rendiste en Mi",
         "url": "https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK"
       },
@@ -923,22 +955,6 @@
       "duration_ms": 148353,
       "name": "Te Rendiste en Mi",
       "url": "https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "Tan Bien Que Estaba",
-        "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
-      },
-      "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Tan Bien Que Estaba",
-      "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -979,22 +995,6 @@
       "duration_ms": 227070,
       "name": "Sobre el Mar",
       "url": "https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Al Amor",
-        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
-        }
-      ],
-      "duration_ms": 208177,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 218657,
       "name": "Te hab\u00eda contao",
       "url": "https://open.spotify.com/track/00pEWo382r8gERWquqG1wS"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Al Amor",
+        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 208177,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "duration_ms": 186748,
+      "name": "Que no me encuentre",
+      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 258234,
       "name": "Dulce Veneno - Sigues Aqu\u00ed",
       "url": "https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 186748,
-      "name": "Que no me encuentre",
-      "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "El Fin",
-        "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
-      },
-      "artists": [
-        {
-          "name": "Karla Cruise",
-          "url": "https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "El Fin",
-      "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "La Triste Historia de un Cazafantasmas Retirado",
         "url": "https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 214500,
       "name": "La Triste Historia de un Cazafantasmas Retirado",
       "url": "https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Arena Blanca",
+      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
     }
   ],
   "unique_name": "madera y miel",

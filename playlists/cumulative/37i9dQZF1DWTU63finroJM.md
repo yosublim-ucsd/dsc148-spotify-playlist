@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,059 songs - 2 day 11 hr 7 min
+1,060 songs - 2 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [After School Sad Session](https://open.spotify.com/track/6TXFjtfLV3HvMna0mSoGEL) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [After School Sad Session](https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ) | 2:25 | 2023-05-30 |  |
 | [Afterglow](https://open.spotify.com/track/4HqdrhdEZPxzEIdZKVBLdX) | [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [Afterglow](https://open.spotify.com/album/6Ji3Fl8vFaadhk1ZBHUBkI) | 3:01 | 2022-02-03 | 2022-12-15 |
 | [AFTERPARTY](https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [AFTERPARTY](https://open.spotify.com/album/5DQx0TobK6zTBz6RLcgMmS) | 3:13 | 2023-04-12 | 2023-07-08 |
-| [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 |  |
+| [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-20 | 2023-07-18 |
 | [Ahora y Siempre](https://open.spotify.com/track/4iaNmAvcZ6sPGvgZ6vQQdx) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora y Siempre](https://open.spotify.com/album/5ccfQbQo3Z5G4p1Pi49jpD) | 2:29 | 2022-06-27 | 2022-08-02 |
 | [AI BIET](https://open.spotify.com/track/7oakQhQtktqkdRCY7au6xQ) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [AI BIET](https://open.spotify.com/album/3nkdUxsbC7jn2A7j27sHY2) | 2:57 | 2022-03-24 | 2022-06-20 |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2022-09-30 | 2023-05-31 |
@@ -705,6 +705,7 @@
 | [Respuesta Cero](https://open.spotify.com/track/07piZvs54drv7466oPLTt0) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [BlueFire](https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n) | [Respuesta Cero](https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk) | 3:23 | 2022-06-27 | 2022-08-02 |
 | [Rest](https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Rest](https://open.spotify.com/album/6GIs1YEU99gkhIyLttwcK9) | 4:37 | 2022-03-24 | 2022-12-15 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-07-07 |  |
+| [Ribéry](https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Ribéry](https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q) | 2:54 | 2023-07-17 |  |
 | [Rich](https://open.spotify.com/track/2xRvSUwY1fZmcOKshehMLn) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC), [G22](https://open.spotify.com/artist/5xRZqaqEy9SX8GrmtXoSGT) | [Rich](https://open.spotify.com/album/6lEf40SnNDQRuC2a6myp5O) | 3:27 | 2022-03-24 | 2022-08-02 |
 | [Rich Girl](https://open.spotify.com/track/1BCBzCwhOZ3MEfOybVmoRs) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Rich Girl](https://open.spotify.com/album/5invgj6RjVaDwh3Odvaj3v) | 4:04 | 2022-03-24 | 2023-01-28 |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2022-02-03 | 2022-08-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 434819,
+  "num_followers": 435316,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDVjNmFiODMwZGFmNGU4ZjQ5Yjc4ODIzZjZlNjY3NGM3ZWRmZDI4",
+  "snapshot_id": "MCw5YTk2NzQ5NmQ3NzdmZDc5ZWE0MjYwNWUyZjY5YWZiMDU2NTdmY2Zi",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -167,6 +167,26 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Forever Faithless - The Greatest Hits",
         "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 208933,
       "name": "Nessaja",
       "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        },
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Encore Une Fois - Future Breeze Edit",
-      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -295,6 +295,34 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        },
+        {
+          "name": "Sister Bliss",
+          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
+        },
+        {
+          "name": "Goetz",
+          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
+        }
+      ],
+      "duration_ms": 518221,
+      "name": "Insomnia - Monster Mix",
+      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
       },
@@ -331,34 +359,6 @@
       "duration_ms": 234160,
       "name": "Beachball - Vocal Radio Edit",
       "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Rollo Armstrong",
-          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
-        },
-        {
-          "name": "Sister Bliss",
-          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
-        },
-        {
-          "name": "Goetz",
-          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
-        }
-      ],
-      "duration_ms": 518221,
-      "name": "Insomnia - Monster Mix",
-      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Magik Six (Live in Amsterdam)",
         "url": "https://open.spotify.com/album/1zBJu5maXZeKtN2Sj571Rp"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 231306,
       "name": "Silence - Airscape Remix Edit",
       "url": "https://open.spotify.com/track/3HyU67HfMANQxFg34kHfco"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
     },
     {
       "added_at": "2023-03-10 22:36:17",

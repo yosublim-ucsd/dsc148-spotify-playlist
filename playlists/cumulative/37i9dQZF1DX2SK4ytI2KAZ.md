@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-465 songs - 1 day 1 hr 55 min
+466 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Alright \(frick it!\)](https://open.spotify.com/track/0guJsHG67oNPEtZCIHfMxm) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/3eJySaHVIrzzPGrVKTNccc) | 2:44 | 2021-03-10 | 2022-07-27 |
 | [Always Get This Way](https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Always Get This Way](https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0) | 2:54 | 2023-03-24 | 2023-07-01 |
 | [AMERICAN GODS](https://open.spotify.com/track/2S9VWK6M5pOtHRJP2K5Ane) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [AMERICAN GODS](https://open.spotify.com/album/2KDJHMGPsLoBguzPbdwypF) | 3:23 | 2022-03-11 | 2022-04-20 |
-| [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-11 |  |
+| [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-11 | 2023-07-18 |
 | [Apple Crumble](https://open.spotify.com/track/6a3e0ES98H65XIXuJ3Af8A) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Apple Crumble](https://open.spotify.com/album/6NfvwbhWAfoIn88gazTnVB) | 3:09 | 2021-11-19 | 2022-11-13 |
 | [Apple Pie](https://open.spotify.com/track/1FmrgKa0scdSOUDkw4nbUg) | [Midi Matilda](https://open.spotify.com/artist/1vXoKc82szC0njIdv8vVgO) | [Apple Pie](https://open.spotify.com/album/3oKP9rzFwOmqjogzDn2CuP) | 3:39 | 2021-03-10 | 2022-04-19 |
 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 | 2022-03-11 | 2022-04-21 |
@@ -211,6 +211,7 @@
 | [Is It Real](https://open.spotify.com/track/6S1x6w8CThgLiozbAOZ4zo) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Is It Real](https://open.spotify.com/album/6QqmdQrlD26WKB00Jvvp5b) | 3:05 | 2022-03-11 | 2022-04-20 |
 | [Is It Real](https://open.spotify.com/track/6c0stxBesEYDLixpJvTbNT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:05 | 2022-07-29 | 2022-08-01 |
 | [Jaded](https://open.spotify.com/track/0IKJEqLLo2dBIkx73tObbC) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Jaded](https://open.spotify.com/album/2S1w1CeYjPVhWd4PcvinEp) | 2:49 | 2022-10-07 | 2023-01-25 |
+| [Jaded](https://open.spotify.com/track/1UlzV1f5t8mFKMG2JwGBKZ) | [Betcha](https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh) | [Jaded](https://open.spotify.com/album/42lN1I6cvcBIo9h4VxyTHE) | 2:49 | 2023-06-30 |  |
 | [Jump Out The Window](https://open.spotify.com/track/7Iz0L7uevtSSUMtmOOMSUk) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Shooter Jennings](https://open.spotify.com/artist/0F6yRPhUj9fUzWn0z3ysyr) | [Jump Out The Window](https://open.spotify.com/album/4xHcu0JaCYcKsF0OQtyNPl) | 4:09 | 2022-03-04 | 2022-05-05 |
 | [Jump with Me](https://open.spotify.com/track/2bhasjavv1tokxnpvTcqoC) | [STAL](https://open.spotify.com/artist/0tmG4q8xPVP7NJV481rXi3) | [Fresh Blood EP](https://open.spotify.com/album/6OA14Qqowqalvd9PFoE31P) | 3:17 | 2022-01-21 | 2022-06-19 |
 | [Just A Little While](https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC) | 2:42 | 2022-01-04 | 2022-07-29 |

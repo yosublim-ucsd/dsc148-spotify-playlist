@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: CLAUDIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,472 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,432 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 31 | [Alles Vergeven](https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alles Vergeven](https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg) | 2:49 |
 | 32 | [玫瑰少年 \- From THE FIRST TAKE](https://open.spotify.com/track/4UOZ3duqmEfMKXqvkZeboh) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [玫瑰少年 \- From THE FIRST TAKE](https://open.spotify.com/album/5o0kzdpGdsavvzBjhQTdkH) | 3:15 |
 | 33 | [God give me a car](https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [God give me a car](https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST) | 2:56 |
-| 34 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
-| 35 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
+| 34 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
+| 35 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 36 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 |
 | 37 | [Amok](https://open.spotify.com/track/41fl1aHm371uXzcWVQEBJr) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz) | [Amok](https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr) | 4:42 |
 | 38 | [WICKED GYAL](https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [WICKED GYAL](https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb) | 3:33 |
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 53 | [Cud](https://open.spotify.com/track/4vmXjFgX0Q8zSylt7abQ3y) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:21 |
 | 54 | [Good Luck in Chicago](https://open.spotify.com/track/4mn98j9Ep10XpG9zjbkgQk) | [Juliet](https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP) | [Good Luck in Chicago](https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0) | 3:56 |
 | 55 | [No Problem](https://open.spotify.com/track/5U4GsYIJtI495ulVPGqPfE) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7) | [No problem](https://open.spotify.com/album/3XlMqFZVcQqlseAiJ5cXrt) | 2:43 |
-| 56 | [Mortel](https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:47 |
-| 57 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
+| 56 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
+| 57 | [Mortel](https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:47 |
 | 58 | [Doppio nodo \(feat\. Fred De Palma & Emis Killa\)](https://open.spotify.com/track/3INOCg3ju4OhKWRYd2BxT9) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Doppio nodo](https://open.spotify.com/album/2PoUtrAkX4j8gOgvajY2Ww) | 3:02 |
 | 59 | [Dame Tiempo](https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [Dame Tiempo](https://open.spotify.com/album/4DV5dX49qFimq6JM1xPL8Q) | 3:25 |
-| 60 | [Günah Keçisi](https://open.spotify.com/track/4V3daPACwtk8SsaruDUpNw) | [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Günah Keçisi](https://open.spotify.com/album/3HegniVm8mkM6YhkXHE5H3) | 4:41 |
-| 61 | [4 Myself](https://open.spotify.com/track/3hz7TSr45o3hRqS9Ytmj4c) | [AC Bonifacio](https://open.spotify.com/artist/7jAivDaYgMBbooE4fykUPb) | [4 Myself](https://open.spotify.com/album/6OpOb5oXp9L2uVZEUP6Pbx) | 3:04 |
+| 60 | [4 Myself](https://open.spotify.com/track/3hz7TSr45o3hRqS9Ytmj4c) | [AC Bonifacio](https://open.spotify.com/artist/7jAivDaYgMBbooE4fykUPb) | [4 Myself](https://open.spotify.com/album/6OpOb5oXp9L2uVZEUP6Pbx) | 3:04 |
+| 61 | [Günah Keçisi](https://open.spotify.com/track/4V3daPACwtk8SsaruDUpNw) | [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Günah Keçisi](https://open.spotify.com/album/3HegniVm8mkM6YhkXHE5H3) | 4:41 |
 | 62 | [Lugar I](https://open.spotify.com/track/3vr8cHRHlN4mUD6zgy5rJd) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 3:00 |
 | 63 | [Béke](https://open.spotify.com/track/0iyBUe05749MyNgIEexPz1) | [Nági](https://open.spotify.com/artist/7f4sTDZpNPgr2nF0iIVal0), [Betti](https://open.spotify.com/artist/4EJ5HKJcRtrRL1Kgax9Syo) | [Béke](https://open.spotify.com/album/4ESkJhJcYqanENHq7udhiY) | 2:49 |
 | 64 | [Canción de Amor](https://open.spotify.com/track/3H8ZKu3GK8zonRkeSkt5hZ) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [Baddie In The Passenger Seat](https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa) | [Farah Sakhi](https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi) | [Baddie In The Passenger Seat](https://open.spotify.com/album/2FfDtG01GbJKRGfG4aGwph) | 2:50 |
 | 75 | [Brilla](https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Brilla](https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ) | 3:54 |
 
-Snapshot ID: `MCw5YWY3ZGRlNjU1MGY3MmE4ODhhNmMzZmI5NGFkYmJiMjFkNjFhNDBj`
+Snapshot ID: `MCxkN2VhYWZkNDBjMDE4ZDA5N2Y2OGI5MTZlOWE1NjZmODBiMjExZDhl`

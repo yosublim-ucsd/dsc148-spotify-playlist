@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 757896,
+  "num_followers": 757955,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODU1NzdkMDliNmVhNmQ0NTU0YzM4NTRiYmE2N2U4ZGM4ZjkyZTQ1",
+  "snapshot_id": "MCw2ZDY5MWU3ZTgzNzUwMGU2YjZmYjY1NjA1NWIwMmQ4NjFkNDUxNjJm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Out Of Options (feat. midwxst)",
-        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Out Of Options (feat. midwxst)",
-      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 157036,
       "name": "HEADSH\u00d6T",
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -827,6 +827,30 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 226978,
+      "name": "Empty Room - Cabu Remix",
+      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "I like u (ELIO Remix)",
         "url": "https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY"
       },
@@ -843,26 +867,6 @@
       "duration_ms": 152557,
       "name": "I like u (ELIO Remix)",
       "url": "https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Drugs",
-        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 241979,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -891,26 +895,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
+        "name": "Drugs",
+        "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         },
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        },
-        {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
         }
       ],
-      "duration_ms": 226978,
-      "name": "Empty Room - Cabu Remix",
-      "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
+      "duration_ms": 241979,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/38N9pTBZ1OgC8WGkcuZQha"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Quest For Fire",
-        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Joker",
-          "url": "https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP"
-        },
-        {
-          "name": "Sleepnet",
-          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
-        }
-      ],
-      "duration_ms": 185571,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/29tRu5BqKiUDAoWLKIO3RN"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "JUNGLE",
         "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
@@ -1075,6 +1051,30 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Quest For Fire",
+        "url": "https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP"
+        },
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        }
+      ],
+      "duration_ms": 185571,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/29tRu5BqKiUDAoWLKIO3RN"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 197832,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164506,
-      "name": "SKY SKY 1.3 [2016 Export Wav]",
-      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "SKY SKY 1.3 [2016 Export Wav]",
+      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 231803,
-      "name": "I Can't Tell (feat. LAUREL)",
-      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 231803,
+      "name": "I Can't Tell (feat. LAUREL)",
+      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Electric Feel",
+        "url": "https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 192729,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -1351,38 +1367,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Electric Feel",
-        "url": "https://open.spotify.com/album/5zUYLWWuq9y0rzN7XyyGVz"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 192729,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Feeble Games",
-        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Feeble Games",
-      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Thirst (Hex Cougar Remix)",
         "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Feeble Games",
+        "url": "https://open.spotify.com/album/4znRSwR5zTBwYuHPxtwMxo"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 182323,
+      "name": "Feeble Games",
+      "url": "https://open.spotify.com/track/4PZFQgPQy4bNmEztzaPzUQ"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2147,18 +2147,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/6KFMKCIu6X2rwPt8z29cp9"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
       },
       "artists": [
         {
           "name": "Tisoki",
           "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
         }
       ],
-      "duration_ms": 185777,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/3lur6dt8Y6z7BaiFQ9ymaN"
+      "duration_ms": 169003,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2287,6 +2291,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6KFMKCIu6X2rwPt8z29cp9"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3lur6dt8Y6z7BaiFQ9ymaN"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
         "url": "https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar"
       },
@@ -2299,26 +2319,6 @@
       "duration_ms": 292527,
       "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
       "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        }
-      ],
-      "duration_ms": 169003,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2351,6 +2351,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "CHAMELEON",
+        "url": "https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i"
+      },
+      "artists": [
+        {
+          "name": "Saint Sinner",
+          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+        },
+        {
+          "name": "ATYYA",
+          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "CHAMELEON",
+      "url": "https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Pillow Talk",
         "url": "https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR"
       },
@@ -2375,42 +2395,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "CHAMELEON",
-        "url": "https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i"
-      },
-      "artists": [
-        {
-          "name": "Saint Sinner",
-          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
-        },
-        {
-          "name": "ATYYA",
-          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "CHAMELEON",
-      "url": "https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 284444,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 209500,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 284444,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
     }
   ],
   "unique_name": "creamy",

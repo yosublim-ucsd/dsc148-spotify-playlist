@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Liquid Stella",
-  "num_followers": 20696,
+  "num_followers": 20720,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjYzNjBjOTkyYTliZjRlNzRhNjI4NTA2ZDFiMWQwMTVlM2ZhMGQz",
+  "snapshot_id": "MCwyMzljZDAxZmNkYWJmYzZmYWNiZGI4MjhjMWY4YTQyNDE4MzU3ZDI4",
   "tracks": [
     {
       "added_at": "2023-07-04 15:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "POLY LIFE MULTI SOUL",
-        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 128028,
-      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
-      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "Asian Dreamer",
         "url": "https://open.spotify.com/album/2brs79CBxiApvCNRM880RA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 292666,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/4IjS1LeleZKxuHPrVqq33j"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 236785,
+      "name": "\u591c\u9593\u822a\u8def - Album Mix",
+      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
+        "name": "POLY LIFE MULTI SOUL",
+        "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
         }
       ],
-      "duration_ms": 236785,
-      "name": "\u591c\u9593\u822a\u8def - Album Mix",
-      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
+      "duration_ms": 128028,
+      "name": "\u591c\u306b\u306a\u308b\u3068\u9bad\u306f",
+      "url": "https://open.spotify.com/track/5GXm9bflCSMH3ADala8uIU"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
-        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
-      },
-      "artists": [
-        {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Blue Eyed Monster",
-      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/14bAA1BAUwfw6N2bFvtP4x"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 294560,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/3A0idGLImgS8V6oxkBA0d4"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af OUTSIDE",
+        "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
+      },
+      "artists": [
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Blue Eyed Monster",
+      "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+        "name": "an anxious object",
+        "url": "https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5"
       },
       "artists": [
         {
-          "name": "ADAM at",
-          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+          "name": "mouse on the keys",
+          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
         }
       ],
-      "duration_ms": 247893,
-      "name": "Moonlight Syndrome",
-      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
+      "duration_ms": 263035,
+      "name": "seiren",
+      "url": "https://open.spotify.com/track/0f1hKtgruSDYQ52wvS9YeR"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -627,6 +627,22 @@
       "duration_ms": 247800,
       "name": "Spartacus",
       "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Moonlight Syndrome",
+      "url": "https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh"
     },
     {
       "added_at": "2023-07-04 15:00:00",
@@ -679,22 +695,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "an anxious object",
-        "url": "https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5"
-      },
-      "artists": [
-        {
-          "name": "mouse on the keys",
-          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
-        }
-      ],
-      "duration_ms": 263035,
-      "name": "seiren",
-      "url": "https://open.spotify.com/track/0f1hKtgruSDYQ52wvS9YeR"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "NEW",
         "url": "https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "Living Message",
-        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Blood is thicker than water",
-      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "story",
         "url": "https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2023-07-04 15:00:00",
       "album": {
-        "name": "VISTA",
-        "url": "https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS"
-      },
-      "artists": [
-        {
-          "name": "toconoma",
-          "url": "https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS"
-        }
-      ],
-      "duration_ms": 376200,
-      "name": "DeLorean",
-      "url": "https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh"
-    },
-    {
-      "added_at": "2023-07-04 15:00:00",
-      "album": {
         "name": "Susanna",
         "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 195106,
       "name": "On My Way Home",
       "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "Living Message",
+        "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 211253,
+      "name": "Blood is thicker than water",
+      "url": "https://open.spotify.com/track/75EKP06FTKQt0lzKQrRf1z"
+    },
+    {
+      "added_at": "2023-07-04 15:00:00",
+      "album": {
+        "name": "VISTA",
+        "url": "https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS"
+      },
+      "artists": [
+        {
+          "name": "toconoma",
+          "url": "https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS"
+        }
+      ],
+      "duration_ms": 376200,
+      "name": "DeLorean",
+      "url": "https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh"
     },
     {
       "added_at": "2023-07-04 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: The Alchemist",
-  "num_followers": 1621693,
+  "num_followers": 1621785,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2ViZjQwOWZkMDFhOWExYjQ0MGQ5MjY2NmY2MjAyNWZlYjA1Yjk2",
+  "snapshot_id": "MCxmYzJhZWY5NjBjYjQ5NjBjMGMwMTQ3ZDgxNzYzOWQwMzMwYzFhNjc1",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "SentRock",
+        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "SentRock",
+      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Don't Let The Devil [Feat. thankugoodsir]",
         "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
       },
@@ -587,22 +603,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "SentRock",
-        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "SentRock",
-      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "F65",
         "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
       },
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 141542,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Round Trip",
         "url": "https://open.spotify.com/album/0PQ4npF4hXGSfNnwkxmEQ9"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 194289,
       "name": "Life & Times",
       "url": "https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 141542,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4LGBOpladriYPl7B8g6xME"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "LESSONS",
-        "url": "https://open.spotify.com/album/4gC7fICQukO8POmM2lWpOS"
+        "name": "Dangerous Daringer",
+        "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
       },
       "artists": [
         {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         }
       ],
-      "duration_ms": 161250,
-      "name": "LESSONS",
-      "url": "https://open.spotify.com/track/3L8RoBe74IvH9jZkjjPrmc"
+      "duration_ms": 249266,
+      "name": "Dangerous Daringer",
+      "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -735,18 +739,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+        "name": "LESSONS",
+        "url": "https://open.spotify.com/album/4gC7fICQukO8POmM2lWpOS"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
         }
       ],
-      "duration_ms": 121789,
-      "name": "Buckle Up Freestyle",
-      "url": "https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG"
+      "duration_ms": 161250,
+      "name": "LESSONS",
+      "url": "https://open.spotify.com/track/3L8RoBe74IvH9jZkjjPrmc"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -775,26 +779,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Dangerous Daringer",
-        "url": "https://open.spotify.com/album/23XUd1b01eLd9v4IczWdvI"
-      },
-      "artists": [
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "Dangerous Daringer",
-      "url": "https://open.spotify.com/track/1w2xoRbbcADDTkGnYzVUwK"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "LALO (feat. 38 Spesh)",
         "url": "https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "PENSION",
-        "url": "https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro"
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
       },
       "artists": [
         {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 197460,
-      "name": "PENSION",
-      "url": "https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT"
+      "duration_ms": 121789,
+      "name": "Buckle Up Freestyle",
+      "url": "https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "PENSION",
+        "url": "https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 197460,
+      "name": "PENSION",
+      "url": "https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "To See A Sunset (Deluxe)",
         "url": "https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW"
       },
@@ -984,12 +984,12 @@
           "url": "https://open.spotify.com/artist/32YCpkE0HALpF82ZcJxUeX"
         },
         {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
           "name": "DJ Drama",
           "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
         }
       ],
       "duration_ms": 198183,

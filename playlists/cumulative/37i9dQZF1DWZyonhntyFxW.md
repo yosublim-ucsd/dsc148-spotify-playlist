@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo?si=PWJjdqZgTbKUjDdKpRdIMA">دبل زوكش  </a>
 
-202 songs - 10 hr 20 min
+203 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [7een Maysara \(Molowave\)](https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [7een Maysara \(Molowave\)](https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN) | 3:12 | 2022-05-25 | 2022-12-30 |
 | [8/8/G](https://open.spotify.com/track/6TfJ80yPJz0EtiwrLPOlt7) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [8/8/G](https://open.spotify.com/album/7LZjoxWmG9iqEzXUQCkXsG) | 2:56 | 2022-05-10 | 2022-06-29 |
 | [Abales](https://open.spotify.com/track/6miyWg7etuBnEU4opRcR1d) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Abales](https://open.spotify.com/album/7rqsUMg3760eEoY4yGNFpY) | 3:11 | 2022-09-27 | 2022-10-11 |
-| [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/album/57IuOz58Aic9351GUeol4V) | 2:47 | 2023-02-10 |  |
+| [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/track/0AhFYI98xsHPTqjWXwbrdV) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Abo El Anwar X Ahmed Santa X Lil baba \- GG \| See you at @INSOMNIAEGYPT](https://open.spotify.com/album/57IuOz58Aic9351GUeol4V) | 2:47 | 2023-02-10 | 2023-07-18 |
 | [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 | 2023-06-23 |  |
 | [Adriana Lima](https://open.spotify.com/track/615yIBsABjpxbMLVXqYQgt) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Adriana Lima](https://open.spotify.com/album/11nWr65Cj1cRZ79eeRJICS) | 3:01 | 2022-05-10 | 2022-07-07 |
 | [AFREQYA W AMREKA](https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:17 | 2023-05-11 |  |
@@ -203,6 +203,7 @@
 | [كلمه قبل ما أموت](https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [كلمه قبل ما أموت](https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe) | 3:16 | 2023-03-14 |  |
 | [متجلونش](https://open.spotify.com/track/0PpZciRgZhn05B7vbXlh5p) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0PaVKXIWKsJancVULPtreG) | [متجلونش](https://open.spotify.com/album/7FJGKTt0Fi2Ht4B1ts4SrL) | 3:09 | 2022-05-10 | 2022-12-04 |
 | [متجلونش](https://open.spotify.com/track/3BryCsgMtODlRpRIzsa4wF) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [متجلونش](https://open.spotify.com/album/26ZLUpGMZDZUEet4BTeE9U) | 3:09 | 2022-11-28 | 2023-02-21 |
+| [مرزمن](https://open.spotify.com/track/3cAy5RMw6iT1Nxit3Z3Q9b) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [مرزمن](https://open.spotify.com/album/3FL28N3jiv212RwqZlB5gO) | 2:55 | 2023-07-17 |  |
 | [مش شايفك](https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg) | 3:01 | 2022-07-28 | 2022-12-05 |
 | [مش شايفك](https://open.spotify.com/track/6sauc8XwEVUeYCa9IQIPgq) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Rafiek](https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA) | [مش شايفك](https://open.spotify.com/album/7Hr0AmspLfPsPCsXlKyNjl) | 3:01 | 2022-11-28 |  |
 | [مفيش مانع](https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [مفيش مانع](https://open.spotify.com/album/6OVfW5ln6vTI1reXFHaiGd) | 3:40 | 2023-02-23 |  |

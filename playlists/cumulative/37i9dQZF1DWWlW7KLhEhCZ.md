@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Shaodree
 
-720 songs - 1 day 9 hr 9 min
+721 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Tapa e Beijo](https://open.spotify.com/track/2W5GRfs9BFD5ZSraINV2wU) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP) | [Tapa e Beijo](https://open.spotify.com/album/7BDdskj0lckubMwri7LZZ7) | 2:47 | 2022-09-23 | 2022-10-01 |
 | [TATTOO NA CARA](https://open.spotify.com/track/4ke9xQw26WuGhrypXm5R7C) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [TATTOO NA CARA](https://open.spotify.com/album/5OaLYkm6vsgpxwkYbHLIRz) | 2:18 | 2022-06-10 | 2022-06-25 |
 | [Taurus](https://open.spotify.com/track/3NVce7zEDm51daL3Vwtt98) | [BEA](https://open.spotify.com/artist/0ACyBTX0D5AoHx6LDE61xM), [Aimar](https://open.spotify.com/artist/6A8rC2RnuqMKJom5roADWy) | [Taurus](https://open.spotify.com/album/0BRcxHRCCUBf5kJoiES9eG) | 2:43 | 2022-08-05 | 2022-10-08 |
+| [Tava Escrito](https://open.spotify.com/track/5kKxINTPSxO6JEpIRCzG0K) | [Yasmin Limas](https://open.spotify.com/artist/2wCuCtSHCIcTfwa0kQA0Pf), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [Nitro Di](https://open.spotify.com/artist/4WKIMkuZv5Ab2jlWU9Drrh) | [Tava Escrito](https://open.spotify.com/album/2lc1MuuCaYQ3D0DHP3qK8O) | 3:01 | 2023-07-17 |  |
 | [Tchutchuquinha Kong](https://open.spotify.com/track/7CZBbVaJJYUK1IDyvJh6od) | [somynem.grin](https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Tchutchuquinha Kong](https://open.spotify.com/album/4q7DWvKjxufl1KLJTcPoD7) | 2:07 | 2022-05-13 | 2022-05-20 |
 | [Tempo Difícil](https://open.spotify.com/track/5YhLdd9ElG5lR5XmLb2JlX) | [NIVIMC](https://open.spotify.com/artist/7zQspfuKBpbLV8tYn8LLDY), [Vt no beat](https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7) | [Tempo Difícil](https://open.spotify.com/album/4ThNzIaPPiJU2BRjGMsVcB) | 2:43 | 2023-06-23 | 2023-07-01 |
 | [Temporada de Caça](https://open.spotify.com/track/65duEkF6sBPxo0zG77ENlz) | [OTREC](https://open.spotify.com/artist/0NVlq59CwrJgq5STyCg9v2), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [2 ROCK](https://open.spotify.com/artist/0WV8tOTMcbyYdsuxLc3X4I), [Jota Jhou](https://open.spotify.com/artist/2Ta4hxpO4XitUrusNydGfL) | [Temporada de Caça](https://open.spotify.com/album/62RIZvlT0pzTsVgn6TfPmX) | 3:16 | 2023-01-20 | 2023-02-04 |

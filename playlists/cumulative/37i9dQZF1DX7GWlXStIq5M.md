@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Juliette
 
-462 songs - 1 day 0 hr 15 min
+463 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Deixa Fluir](https://open.spotify.com/track/1wOew8I9GjHsC9FtOPtZ7c) | [John Bianchi](https://open.spotify.com/artist/05hwMm996CzWNUUqiaLO7P) | [Clube dos Corações Partidos](https://open.spotify.com/album/6AVbmvq2Xau0692kLrF3be) | 2:41 | 2023-05-05 | 2023-06-17 |
 | [Deixa Pra Lá](https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ) | [Verdan](https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y) | [Deixa Pra Lá](https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt) | 2:32 | 2023-02-14 | 2023-03-11 |
 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 | 2023-06-09 |  |
+| [Dejavú](https://open.spotify.com/track/1JnXc8ukcmbP2BRVRhmMaM) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Groove](https://open.spotify.com/album/0DcG4lvdZOGH4EGZJvftBM) | 2:46 | 2023-07-17 |  |
 | [Delírio](https://open.spotify.com/track/0STBOQDvrVgXjWKShtMNjz) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [Delírio](https://open.spotify.com/album/0Ls98DkVeMpWPRQGuwUn7K) | 2:48 | 2023-06-23 | 2023-07-15 |
 | [Delírio](https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Delírio](https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN) | 2:42 | 2023-03-17 |  |
 | [DEPRIMIDA](https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [DEPRIMIDA](https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp) | 2:35 | 2023-02-14 | 2023-03-14 |

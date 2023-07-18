@@ -1,29 +1,13 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 190859,
+  "num_followers": 190944,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTdhZjQ3MDA4NDcwYzM3NDIxNzQ1ZDRhNjI3OWNkM2Q0YTQ1ZjM0",
+  "snapshot_id": "MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1",
   "tracks": [
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Something's Gotta Give",
-        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Gotta Go",
-      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
-    },
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 197226,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/58U3KUbCdpTEoZtGNnQBOa"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Something's Gotta Give",
+        "url": "https://open.spotify.com/album/41VrNLnQFFvhhga4iURHNQ"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/4cMbAP64BETo4dBW8GUwYD"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -107,6 +107,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Warriors (Tour Edition)",
+        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "For My Family",
+      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Slip",
         "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Warriors (Tour Edition)",
-        "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
-      },
-      "artists": [
-        {
-          "name": "Agnostic Front",
-          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "For My Family",
-      "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "The Current Will Carry Us",
         "url": "https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU"
       },
@@ -167,6 +167,22 @@
       "duration_ms": 236746,
       "name": "The Disconnect",
       "url": "https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 165720,
+      "name": "Scratch the Surface",
+      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -199,22 +215,6 @@
       "duration_ms": 206093,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Scratch the Surface",
-      "url": "https://open.spotify.com/track/6yzoLxsBLiEqyB7zpAcJnX"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -427,22 +427,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Silence Is Betrayal",
-        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
-      },
-      "artists": [
-        {
-          "name": "First Blood",
-          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
-        }
-      ],
-      "duration_ms": 53168,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 170213,
       "name": "I Know Why",
       "url": "https://open.spotify.com/track/2rVBgcN49HJaYttxOzTogJ"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Silence Is Betrayal",
+        "url": "https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv"
+      },
+      "artists": [
+        {
+          "name": "First Blood",
+          "url": "https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0"
+        }
+      ],
+      "duration_ms": 53168,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -747,6 +747,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Gomorrah's Season Ends",
+        "url": "https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k"
+      },
+      "artists": [
+        {
+          "name": "Earth Crisis",
+          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Gomorrah's Season Ends",
+      "url": "https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Get It Away",
         "url": "https://open.spotify.com/album/29y7PVZ4B9iCMhyUHbbKPZ"
       },
@@ -763,6 +779,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "River Runs Red [Top Shelf Edition]",
+        "url": "https://open.spotify.com/album/4CEF4KxtSwbw1FeufmRDbi"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "duration_ms": 114680,
+      "name": "River Runs Red",
+      "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "Bulldog Edition",
         "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
       },
@@ -775,38 +807,6 @@
       "duration_ms": 144413,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "H2O",
-        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
-      },
-      "artists": [
-        {
-          "name": "H2O",
-          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/1lqzyOQ3QRX0lNXHk5kzGp"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Gomorrah's Season Ends",
-        "url": "https://open.spotify.com/album/05mqPyEEjTfvM3TDWkt11k"
-      },
-      "artists": [
-        {
-          "name": "Earth Crisis",
-          "url": "https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Gomorrah's Season Ends",
-      "url": "https://open.spotify.com/track/3FUkmuhMgkxwvYuV8lvGwU"
     }
   ],
   "unique_name": "Classic Hardcore",

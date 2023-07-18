@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Picture Parlour \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,535 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,565 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Selfish](https://open.spotify.com/track/3KnU4XGpDjK2EMXEloIKXh) | [King Nun](https://open.spotify.com/artist/0FHPAcPoHtExxmF68aEChO) | [Selfish](https://open.spotify.com/album/5NQ6J9PlFtOh2LUrgTPugO) | 2:22 |
 | 100 | [the pull](https://open.spotify.com/track/1HW1lMXqKHwZmI2QBQXvvm) | [sweetmess](https://open.spotify.com/artist/0L8V5cpwTPyobEfBD2mN65) | [everything's fine](https://open.spotify.com/album/0FqOaZSAg4Ighf7Qk82aBN) | 4:15 |
 
-Snapshot ID: `MCw1MDRmYjE2ZDNjMzBkYzhlYjQyYjY0ODdmYjMyNjM0M2ExOWMxODZi`
+Snapshot ID: `MCxhMDM1M2Y5YzUyMzUyNDdmOGEyNDA0YjBmZjkyZGU1OTc0MzlmMTAy`

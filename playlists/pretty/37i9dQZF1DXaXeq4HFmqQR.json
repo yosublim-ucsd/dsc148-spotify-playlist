@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Aura BAE.\nDales PLAY, dales POWER.",
-  "num_followers": 12254,
+  "num_followers": 12316,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTZjN2IyZjY1MTZlMWU3NjhkODk4OWRkMzY4NzZhMDZkOWYyMjBm",
+  "snapshot_id": "MCwzOTMwNTIwZDMzYjQyYmIzMDgwY2YzZjI3MDViZmYyOGFiNjljMzVk",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel"
       },
@@ -167,38 +183,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Divina",
-        "url": "https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe"
-      },
-      "artists": [
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Divina",
-      "url": "https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Fina",
         "url": "https://open.spotify.com/album/10xSdbSkFRJue9XF7qrugV"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 191739,
       "name": "Fina",
       "url": "https://open.spotify.com/track/6c7V9AS4H7wObV2lAT6iwJ"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Divina",
+        "url": "https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Divina",
+      "url": "https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "EXARTE PA TRA",
-        "url": "https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "EXARTE PA TRA",
-      "url": "https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/2yb8vQapyQHxDj4t5JlaCw"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv"
+        "name": "EXARTE PA TRA",
+        "url": "https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7"
       },
       "artists": [
         {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 196967,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/2ZsaELRssZxDlUYcGu7tTK"
+      "duration_ms": 132413,
+      "name": "EXARTE PA TRA",
+      "url": "https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -367,6 +351,22 @@
       "duration_ms": 98000,
       "name": "Purga",
       "url": "https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 196967,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/2ZsaELRssZxDlUYcGu7tTK"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -443,38 +443,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Unu",
-        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 200988,
-      "name": "Unu",
-      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Chucky",
         "url": "https://open.spotify.com/album/0aSiYjQzNvFBPaferPAlvR"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 208010,
       "name": "Chucky",
       "url": "https://open.spotify.com/track/0RSCcsA7LCN5emaGOotAWY"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC"
+      },
+      "artists": [
+        {
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -551,6 +535,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Unu",
+        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 200988,
+      "name": "Unu",
+      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "Estoy de Paso",
         "url": "https://open.spotify.com/album/3z6uSFdyLskALr1p6vDozV"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Madre Santa",
+        "url": "https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G"
+      },
+      "artists": [
+        {
+          "name": "Sarazul",
+          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Madre Santa",
+      "url": "https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "KEIKEI",
         "url": "https://open.spotify.com/album/1r8joyTxLUu1MaTbg84zED"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 106954,
       "name": "KEIKEI",
       "url": "https://open.spotify.com/track/14WU2Do99uBtErqgFvnI7t"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Madre Santa",
-        "url": "https://open.spotify.com/album/6quvoCZrrQZ5UMOI8a708G"
-      },
-      "artists": [
-        {
-          "name": "Sarazul",
-          "url": "https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Madre Santa",
-      "url": "https://open.spotify.com/track/0X7sHKrJQzOUpnYXCM7vv8"
     },
     {
       "added_at": "2023-07-05 03:00:00",

@@ -1405,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Belleville",
+        "url": "https://open.spotify.com/album/0PIYouYL6Sa5biJCRyXfc2"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        },
+        {
+          "name": "Coby Sey",
+          "url": "https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145281,
+      "name": "Belleville",
+      "url": "https://open.spotify.com/track/4TrfcCaLh5cBP7Rc2X1c1p"
+    },
+    {
+      "album": {
         "name": "The Mountain Will Fall",
         "url": "https://open.spotify.com/album/2OW3iDsmS98lTqgta5Zv0O"
       },
@@ -1478,7 +1500,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 240742,
       "name": "Big Hammer",
       "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
@@ -2890,6 +2912,24 @@
       "duration_ms": 138461,
       "name": "Days In Rain",
       "url": "https://open.spotify.com/track/4r6x5ETmKCkKzA3cs9jmox"
+    },
+    {
+      "album": {
+        "name": "Decision",
+        "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262682,
+      "name": "Decision",
+      "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
     },
     {
       "album": {
@@ -4398,7 +4438,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 268160,
       "name": "Everything All at Once",
       "url": "https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj"
@@ -8090,7 +8130,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 711026,
       "name": "Luminous Beings",
       "url": "https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3"
@@ -9031,6 +9071,32 @@
     },
     {
       "album": {
+        "name": "Nest of Giants",
+        "url": "https://open.spotify.com/album/2r8KQa48qb51Dmsd6HFmh7"
+      },
+      "artists": [
+        {
+          "name": "Moonfish",
+          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        },
+        {
+          "name": "Riccardo Chiaberta",
+          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156123,
+      "name": "Nest of Giants",
+      "url": "https://open.spotify.com/track/6pd7pIrouxyluNYOq9mIa8"
+    },
+    {
+      "album": {
         "name": "1987",
         "url": "https://open.spotify.com/album/1mWQKczLANctDIiOKYc4IM"
       },
@@ -9640,7 +9706,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 199226,
       "name": "One Step Forward",
       "url": "https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj"
@@ -12542,6 +12608,32 @@
       "duration_ms": 335600,
       "name": "Still Think",
       "url": "https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm"
+    },
+    {
+      "album": {
+        "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
+        "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
+      },
+      "artists": [
+        {
+          "name": "Will Wiesenfeld",
+          "url": "https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm"
+        },
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        },
+        {
+          "name": "Geotic",
+          "url": "https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151548,
+      "name": "Storm / Mom",
+      "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
     },
     {
       "album": {

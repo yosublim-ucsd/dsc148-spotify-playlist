@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 ### [Vocal Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2kt7dB63bU1)
 
-> Jazz voices of today\. Cover: Samara Joy
+> Jazz voices of today\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,578 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,684 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 |
-| 2 | [Chicago Blues](https://open.spotify.com/track/26gSq8ynYSkBTo637il67o) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Chicago Blues](https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH) | 4:53 |
-| 3 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
+| 1 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 |
+| 2 | [I Am What I Am](https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [I Am What I Am](https://open.spotify.com/album/6O07IvI0wU3MpzSRn3s4Xv) | 5:32 |
+| 3 | [Chicago Blues](https://open.spotify.com/track/26gSq8ynYSkBTo637il67o) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Chicago Blues](https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH) | 4:53 |
 | 4 | [Body of Mine](https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Body of Mine](https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE) | 3:31 |
 | 5 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 |
 | 6 | [In the Wee Small Hours of the Morning \(feat\. Jacob Collier\)](https://open.spotify.com/track/7xSWHCMlpRJHCGakzH8TYc) | [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [In the Wee Small Hours of the Morning \(feat\. Jacob Collier\)](https://open.spotify.com/album/0TXFSxrFzaxgwn5Fke3WWq) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Brighter Sun](https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Brighter Sun](https://open.spotify.com/album/1Jz0RNEbIiIBJdwTPEKw1N) | 4:06 |
 | 100 | [Waiting for the Sun to Rise](https://open.spotify.com/track/7ghUJN5yFKgcuSsY0TxRT1) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [Waiting For The Sun To Rise](https://open.spotify.com/album/5E0CarVimmc8TWcIgcqZ4f) | 4:38 |
 
-Snapshot ID: `MCw2NDdkZTBmYWU2ZDdkYTEyMWQzMjQ3ZDJiZjAzYmEyMjNmMGM1NTAz`
+Snapshot ID: `MCw2ZGRlNDM5YzA0ZGFiZTM3NDlmNDAwMWQ5NmExYWZmZGE2NDliZDYy`

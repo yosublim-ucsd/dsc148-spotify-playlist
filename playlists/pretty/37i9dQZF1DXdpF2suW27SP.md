@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Mizzy Miles entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,104 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,151 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 24 | [Clima](https://open.spotify.com/track/1FTuNyIwUs3srXdMIS1Lql) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Clima](https://open.spotify.com/album/15axyA5TYLSMDDsUS64xIH) | 2:51 |
 | 25 | [DIAMANTE](https://open.spotify.com/track/76bOmc0QLVwP62Sd2ypcdZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [ANTI$$OCIAL](https://open.spotify.com/album/1IZA9xdjA6eL5M9sOfCvyI) | 3:24 |
 | 26 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 |
-| 27 | [Viana Gaia](https://open.spotify.com/track/02kK1yOMVo3fpgLNddPwOw) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [David Bruno](https://open.spotify.com/artist/4LOV7E9ZHPnxIDeFWtA6N9) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:15 |
+| 27 | [Viana Gaia](https://open.spotify.com/track/6CrtvGDQ0Nww9AfX2RR8fN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [David Bruno](https://open.spotify.com/artist/4LOV7E9ZHPnxIDeFWtA6N9) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/5ycFLdPQSqXthLoVmb15GV) | 2:15 |
 | 28 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
 | 29 | [ANTI\-ANTES](https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [CASTANHO](https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU) | 3:48 |
 | 30 | [SORRI](https://open.spotify.com/track/5Wd4hP9BI7tfkTRTJiCdXy) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk) | [SORRI](https://open.spotify.com/album/5t69fwn3eGFpCat0zwUSLc) | 3:34 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 70 | [NASTY](https://open.spotify.com/track/09882XP1lt5VQwc2I9i9Pf) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NASTY](https://open.spotify.com/album/5z6BbFaxfgfEJDXDT3ps4Q) | 3:07 |
 | 71 | [Atchim](https://open.spotify.com/track/1mGAJomfAhEh9IB9wYkM0m) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Gangarve](https://open.spotify.com/artist/2dR365jM2xaIPHR4rkK0LJ), [Baqui](https://open.spotify.com/artist/58C760a9ilHpAsmFLH5aSA), [Páchá](https://open.spotify.com/artist/4gkJgT80RY71b2GoeTs5cQ), [Pachico](https://open.spotify.com/artist/1u0n71JZdqdwXOxM99ft6x) | [Atchim](https://open.spotify.com/album/3L0CDub1di9n57CKPZMCzy) | 2:42 |
 | 72 | [Louca Life](https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Louca Life](https://open.spotify.com/album/27Xe1TLkI2sxs5e2nYCwCZ) | 2:25 |
-| 73 | [Chega](https://open.spotify.com/track/63uZ8PEoOPPCG5zR75AjaL) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/12sviYcaMWsIv1psyn63LB) | 2:28 |
+| 73 | [Chega](https://open.spotify.com/track/1psUaDt0q79nmCYQFjrPfx) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [Tina Dance Mixtape \(Sabor 2000\)](https://open.spotify.com/album/5ycFLdPQSqXthLoVmb15GV) | 2:28 |
 | 74 | [Paper](https://open.spotify.com/track/2eSHRVgM4kA1KcEzfSQaeA) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Paper](https://open.spotify.com/album/1idwx450GZN7DYPcB5KcQA) | 3:12 |
 
-Snapshot ID: `MCxmMTQ4OTJjYmFlODBiYTk3MzQxNjk5MTZjMTdlNTFiYTEyZTNlMGQz`
+Snapshot ID: `MCw1YWMxYWI5Y2ViNmVjMzI4YjFhOTQ4NGMxNWJmODZmOTg5NDJlYTQ3`

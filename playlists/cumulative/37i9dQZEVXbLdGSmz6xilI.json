@@ -923,6 +923,36 @@
     },
     {
       "album": {
+        "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 8",
+        "url": "https://open.spotify.com/album/6t6MpiPsDCgZutjx2BQF5Z"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "Dick",
+          "url": "https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh"
+        },
+        {
+          "name": "Dt",
+          "url": "https://open.spotify.com/artist/1xh3ZJ0qM7sioP1D6yFS2T"
+        },
+        {
+          "name": "UMIE",
+          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223783,
+      "name": "Anh L\u00e0 Ai? (feat. Dick, DT & UMIE)",
+      "url": "https://open.spotify.com/track/6IUEwlNgVnT5CYeBuq6DTH"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t V\u1ea1n N\u0103m",
         "url": "https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN"
       },
@@ -1224,6 +1254,32 @@
       "duration_ms": 226160,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
+    },
+    {
+      "album": {
+        "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 8",
+        "url": "https://open.spotify.com/album/6t6MpiPsDCgZutjx2BQF5Z"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "Captain",
+          "url": "https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5"
+        },
+        {
+          "name": "UMIE",
+          "url": "https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178252,
+      "name": "Baby G\u1ecdi Cho Anh (feat. CAPTAIN & UMIE)",
+      "url": "https://open.spotify.com/track/4pE1DzYULn6pgud2WcqNs3"
     },
     {
       "album": {
@@ -2892,7 +2948,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 185320,
       "name": "Cream Soda",
       "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
@@ -11368,6 +11424,10 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "date_added": "2023-07-15",
@@ -11394,7 +11454,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 184240,
       "name": "Seven (feat. Latto) (Instrumental)",
       "url": "https://open.spotify.com/track/2D9mO7arRSeHAEHNVAacaA"

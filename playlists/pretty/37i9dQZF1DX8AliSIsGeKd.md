@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Monkey Safari
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,651 likes - 88 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,777 likes - 88 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [ARCO](https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug) | [DAVID AUGUST](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [ARCO](https://open.spotify.com/album/2AKxzmw5yfZSNJvIwLidWY) | 4:55 |
 | 88 | [Sun](https://open.spotify.com/track/3gJ3bAKKfTSLDfRhAxxjKS) | [Rework](https://open.spotify.com/artist/626m9wrDRLw3o3quwRrafu) | [Sun](https://open.spotify.com/album/15t9R810ZFQPsBG2wESkqu) | 3:40 |
 
-Snapshot ID: `MCw5NmZjYjQ1Yjc4NmQ2NWY2ZTFjMDg4ZTI1YjU2ZDU3MzgzMTA2ZjY0`
+Snapshot ID: `MCxlMzg0MjVmM2UxYjQxYzkxYTgzM2VhZmU3YWFlYjdkYzg1NTUxNGFk`

@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 141333,
       "name": "031 (Feat. Hash Swan)",
       "url": "https://open.spotify.com/track/3mxjYI7asL45mOaBmMDqK5"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-04",
+      "date_removed": null,
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
@@ -1180,6 +1180,24 @@
       "duration_ms": 330480,
       "name": "Ape Freestyle - Spotify Singles",
       "url": "https://open.spotify.com/track/5yV2rps3tcEwxhuYZRJ38k"
+    },
+    {
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136973,
+      "name": "Apocalypse Prod. PEEJAY",
+      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
     },
     {
       "album": {
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 198676,
       "name": "Burn Up (Feat. Dynamicduo) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/6tQEQqw6LInoszJ1k19v8k"
@@ -2926,7 +2944,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 182848,
       "name": "By accident (Feat. Mesani, Nucksal)",
       "url": "https://open.spotify.com/track/0AJ42CWDhQyyVDA5DWHCVx"
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 224000,
       "name": "Catch (Feat. Hwa Sa)",
       "url": "https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ"
@@ -3440,7 +3458,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 249706,
       "name": "Chosen 1",
       "url": "https://open.spotify.com/track/65TacPD6oZ2KKxWJf2yPlh"
@@ -4444,7 +4462,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 218375,
       "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
@@ -4598,7 +4616,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 171709,
       "name": "Did It Myself",
       "url": "https://open.spotify.com/track/014UbcvltWdvq1h6oNL17Y"
@@ -6192,7 +6210,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 260359,
       "name": "Flick (Feat. BE\u2032O, HAON) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/18FgZS3SkPGifWyVGYO9Gh"
@@ -8622,7 +8640,7 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
@@ -10416,7 +10434,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 184146,
       "name": "LALALA Remix (Feat. Jay Park, Paul Blanco)",
       "url": "https://open.spotify.com/track/1Dd6lOJeKgJVeWSZQPtkVF"
@@ -11038,6 +11056,28 @@
       "duration_ms": 290455,
       "name": "Line No3 maebong station",
       "url": "https://open.spotify.com/track/3oDNKxY583pu08FJw8tst5"
+    },
+    {
+      "album": {
+        "name": "LIT (feat. BOBBY)",
+        "url": "https://open.spotify.com/album/06Kux4mVhR6qVleGRq02QL"
+      },
+      "artists": [
+        {
+          "name": "Ash-B",
+          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148080,
+      "name": "LIT (feat. BOBBY)",
+      "url": "https://open.spotify.com/track/3qLnIquoiaNWYrCH5fIusV"
     },
     {
       "album": {
@@ -12070,7 +12110,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 219529,
       "name": "Members Only (Feat. Deepflow, Owen)",
       "url": "https://open.spotify.com/track/6HynuJZz3ZhnaQDdftdqH7"
@@ -12754,7 +12794,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 206591,
       "name": "Motor Show",
       "url": "https://open.spotify.com/track/3IOMwFPdDEz9pRhp57M9Me"
@@ -13148,7 +13188,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 227346,
       "name": "Name Tag (Feat. Sik-K, Coogie) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4Q1mkQI9zKjEPsbI19hpsN"
@@ -13298,7 +13338,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 147426,
       "name": "New thing (Prod. ZICO) (Feat. Homies)",
       "url": "https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR"
@@ -15040,7 +15080,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 209757,
       "name": "PPAK (Feat. Paloalto, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/3lnn14odZPgqyNooN6jQBa"
@@ -16352,7 +16392,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 211538,
       "name": "Rule Breaker (Feat. Coogie)",
       "url": "https://open.spotify.com/track/3XSWacmwEyiaqeyt8FpIhI"
@@ -17898,7 +17938,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 170323,
       "name": "SUN GOES DOWN (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/1pzMTqvKABFaYYde4coFSg"
@@ -19188,7 +19228,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 162418,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/71IxXvEt2HWbLQ590hyWo3"
@@ -19756,7 +19796,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 250600,
       "name": "Vroom (Feat. lIlBOI, Swings) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/5a3aBxwQjcZfT1Qswlc1cK"
@@ -20000,7 +20040,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 164062,
       "name": "Watch Out (Feat. sokodomo)",
       "url": "https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD"
@@ -20022,7 +20062,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 146893,
       "name": "Water (Feat. Keith Ape)",
       "url": "https://open.spotify.com/track/22f7zcdk27ikvUQNc9vT6r"
@@ -20890,6 +20930,32 @@
       "duration_ms": 204986,
       "name": "Work Hard",
       "url": "https://open.spotify.com/track/4DSwdZO1sw3etkTI8moYqc"
+    },
+    {
+      "album": {
+        "name": "WORK HARD PLAY HARD",
+        "url": "https://open.spotify.com/album/6Efi04Cj81zpJVsPxpWDul"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "GOLDBUUDA",
+          "url": "https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "WORK HARD PLAY HARD",
+      "url": "https://open.spotify.com/track/7m4Ney6RDEtKQf6n52F1qA"
     },
     {
       "album": {

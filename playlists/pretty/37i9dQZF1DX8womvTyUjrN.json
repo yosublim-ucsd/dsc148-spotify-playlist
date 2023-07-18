@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: 3AM",
-  "num_followers": 281980,
+  "num_followers": 282026,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDg4MmZlZmNmMGZkYzc0M2U0NzJjOTA5NDZmMWQzMWY2N2ViNGIx",
+  "snapshot_id": "MCw1OWU3MzEyMjQ3MWU3MDMxOGIwNGZjNDVkOTkwZDgxZjY3MmI4YzJj",
   "tracks": [
     {
       "added_at": "2023-07-14 14:52:11",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-07-14 14:52:11",
       "album": {
-        "name": "Guerrero.mp3",
-        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 238665,
-      "name": "Guerrero.mp3",
-      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
-    },
-    {
-      "added_at": "2023-07-14 14:52:11",
-      "album": {
         "name": "SEROTONINA",
         "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
       },
@@ -439,22 +423,18 @@
     {
       "added_at": "2023-07-14 14:52:11",
       "album": {
-        "name": "Emeyc\u00e9",
-        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+        "name": "Guerrero.mp3",
+        "url": "https://open.spotify.com/album/3uc7ga2MobwRoS020sRZ4E"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 176222,
-      "name": "Emeyc\u00e9",
-      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+      "duration_ms": 238665,
+      "name": "Guerrero.mp3",
+      "url": "https://open.spotify.com/track/7AxKYTuOktAVkEFGS9Szjd"
     },
     {
       "added_at": "2023-07-14 14:52:11",
@@ -471,6 +451,26 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2023-07-14 14:52:11",
+      "album": {
+        "name": "Emeyc\u00e9",
+        "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 176222,
+      "name": "Emeyc\u00e9",
+      "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
     },
     {
       "added_at": "2023-07-14 14:52:11",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-07-14 14:52:11",
       "album": {
-        "name": "MUCHO TXT",
-        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 149777,
-      "name": "Multiverso (feat. Jay Wheeler)",
-      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
-    },
-    {
-      "added_at": "2023-07-14 14:52:11",
-      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 187677,
       "name": "Jamaica",
       "url": "https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76"
+    },
+    {
+      "added_at": "2023-07-14 14:52:11",
+      "album": {
+        "name": "MUCHO TXT",
+        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 149777,
+      "name": "Multiverso (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
     },
     {
       "added_at": "2023-07-14 14:52:11",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-07-14 14:52:11",
       "album": {
+        "name": "Beber x Beber",
+        "url": "https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Gemeliers",
+          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
+        }
+      ],
+      "duration_ms": 144225,
+      "name": "Beber x Beber",
+      "url": "https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE"
+    },
+    {
+      "added_at": "2023-07-14 14:52:11",
+      "album": {
         "name": "5 estrellas",
         "url": "https://open.spotify.com/album/1XMOWi216RSztbI7MXOwcV"
       },
@@ -823,26 +843,6 @@
     {
       "added_at": "2023-07-14 14:52:11",
       "album": {
-        "name": "Beber x Beber",
-        "url": "https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Gemeliers",
-          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
-        }
-      ],
-      "duration_ms": 144225,
-      "name": "Beber x Beber",
-      "url": "https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE"
-    },
-    {
-      "added_at": "2023-07-14 14:52:11",
-      "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 172685,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
+    },
+    {
+      "added_at": "2023-07-14 14:52:11",
+      "album": {
+        "name": "Disculpa Amiga",
+        "url": "https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 168286,
+      "name": "Disculpa Amiga",
+      "url": "https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL"
     },
     {
       "added_at": "2023-07-14 14:52:11",
@@ -879,22 +895,6 @@
     {
       "added_at": "2023-07-14 14:52:11",
       "album": {
-        "name": "Disculpa Amiga",
-        "url": "https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 168286,
-      "name": "Disculpa Amiga",
-      "url": "https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL"
-    },
-    {
-      "added_at": "2023-07-14 14:52:11",
-      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
       },
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-07-14 14:52:11",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu"
       },
       "artists": [
         {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 91371,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+      "duration_ms": 172066,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32"
     }
   ],
   "unique_name": "el nuevo pop",

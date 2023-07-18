@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:3yQMCDmPQPJlf6xJMzcnZL">Chow Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,663 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,736 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 |
-| 2 | [NICKI](https://open.spotify.com/track/4kdiy9oiZajRzKoBzguzjR) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [NICKI](https://open.spotify.com/album/7uybnwSlLUWrnrq5Z5LvCH) | 1:24 |
-| 3 | [Even Angels Cry](https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO) | [PETROS](https://open.spotify.com/artist/2kRc6Pdf9Jt1fJgrAysiOm) | [Even Angels Cry](https://open.spotify.com/album/1enh91yqFweTpPqDUP7I1g) | 1:58 |
+| 1 | [Even Angels Cry](https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO) | [PETROS](https://open.spotify.com/artist/2kRc6Pdf9Jt1fJgrAysiOm) | [Even Angels Cry](https://open.spotify.com/album/1enh91yqFweTpPqDUP7I1g) | 1:58 |
+| 2 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 |
+| 3 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 |
 | 4 | [Na Na Na](https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Na Na Na](https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0) | 1:40 |
-| 5 | [Making Love](https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H) | [Treety](https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL) | [Making Love](https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9) | 2:58 |
-| 6 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 |
+| 5 | [NICKI](https://open.spotify.com/track/4kdiy9oiZajRzKoBzguzjR) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [NICKI](https://open.spotify.com/album/7uybnwSlLUWrnrq5Z5LvCH) | 1:24 |
+| 6 | [Making Love](https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H) | [Treety](https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL) | [Making Love](https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9) | 2:58 |
 | 7 | [Do Better](https://open.spotify.com/track/6NvG7IfuZE0VB6p3E0IgsT) | [K Johns](https://open.spotify.com/artist/6L2SimIiHWBvStvaviof7o) | [Do Better](https://open.spotify.com/album/2Lk7apoa2RBoebEcWCMWsc) | 2:35 |
 | 8 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
 | 9 | [24/7](https://open.spotify.com/track/7G0WYG7DTL30E8we3aZsLn) | [Yung Brae](https://open.spotify.com/artist/3RaIiLVVG60WwHZ34IDipA) | [24/7](https://open.spotify.com/album/2DqlX19dq3SAyuaBB9iRwk) | 2:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Didn't They Know](https://open.spotify.com/track/6Xdc8szFsACleon5lP6rBI) | [A7 Celeb](https://open.spotify.com/artist/7nJcO36kKeP8wjrpJLLBd7), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Didn't They Know](https://open.spotify.com/album/1y9FfvkOU2YHOJ5TdVMNsT) | 3:56 |
 | 75 | [Know Me](https://open.spotify.com/track/4NFED5LmGWoE2s8DLLJdfC) | [Lucas Home](https://open.spotify.com/artist/1FfDs6OihC3kY6Vfs1p0oa) | [Know Me](https://open.spotify.com/album/1Biwvw8IsdXoNxNmu8mVZ0) | 3:14 |
 
-Snapshot ID: `MCxjN2E3MGYxOGNjZjhlZDA3MDlmNTk4ZDBhMzkxZjhmNjkwNzc5ZjZi`
+Snapshot ID: `MCxjMjkyZmYzYmMzODIyMGQwYzcxNDEyMmM5Y2JiOTgwODUxNjgyZDY5`

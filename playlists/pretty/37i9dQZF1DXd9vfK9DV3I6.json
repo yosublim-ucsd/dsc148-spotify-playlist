@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 266315,
+  "num_followers": 266716,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjhmNTM2MTkwMzgyMDJjMTUzYTkwOTkzNTI0NjY0M2IzMjI5OWQx",
+  "snapshot_id": "MCxlZDAwMzU2YzkxNDljMjJlYTA4NzIwYTUzZjY0YTMyNWMwOGU0NjM0",
   "tracks": [
     {
       "added_at": "2023-07-13 08:15:41",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "Schhh",
+        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 185689,
+      "name": "Schhh",
+      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -427,26 +447,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Enta Omry Remix 2022",
-        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
-      },
-      "artists": [
-        {
-          "name": "Hijazi",
-          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
-        },
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Enta Omry Remix 2022",
-      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Dripping",
         "url": "https://open.spotify.com/album/62lsuElEt64tDV7ZGxlFvo"
       },
@@ -467,22 +467,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Schhh",
-        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+        "name": "Enta Omry Remix 2022",
+        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
       "artists": [
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
         },
         {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
         }
       ],
-      "duration_ms": 185689,
-      "name": "Schhh",
-      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
+      "duration_ms": 278546,
+      "name": "Enta Omry Remix 2022",
+      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "Dle Yaman (116 Deep Mix)",
+        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
+      },
+      "artists": [
+        {
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
+        }
+      ],
+      "duration_ms": 438674,
+      "name": "Dle Yaman (116 Deep Mix)",
+      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "My Name Is Tokyo",
         "url": "https://open.spotify.com/album/46xD9eLKb1BeoIvB6vkw7v"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 172216,
       "name": "My Name Is Tokyo",
       "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "Dle Yaman (116 Deep Mix)",
-        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
-      },
-      "artists": [
-        {
-          "name": "Hraach",
-          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
-        }
-      ],
-      "duration_ms": 438674,
-      "name": "Dle Yaman (116 Deep Mix)",
-      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Bangladesh",
-        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
-      },
-      "artists": [
-        {
-          "name": "Esotique",
-          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
-        },
-        {
-          "name": "Sandra N.",
-          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
-        }
-      ],
-      "duration_ms": 147806,
-      "name": "Bangladesh",
-      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Escuro",
         "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 410526,
       "name": "Euphrates",
       "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Bangladesh",
+        "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
+      },
+      "artists": [
+        {
+          "name": "Esotique",
+          "url": "https://open.spotify.com/artist/5s8gdykqfA3923GVtrtSUF"
+        },
+        {
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
+        }
+      ],
+      "duration_ms": 147806,
+      "name": "Bangladesh",
+      "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
       },
       "artists": [
         {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "Sonia Noor",
-          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
         }
       ],
-      "duration_ms": 224262,
-      "name": "Mra ou Mermora",
-      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
       "artists": [
         {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Sonia Noor",
+          "url": "https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX"
         }
       ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+      "duration_ms": 224262,
+      "name": "Mra ou Mermora",
+      "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Angelic",
-        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Ikonnya",
-          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
-        }
-      ],
-      "duration_ms": 269378,
-      "name": "Angelic",
-      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Yasameen",
         "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 344000,
       "name": "Yasameen",
       "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Angelic",
+        "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Ikonnya",
+          "url": "https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1"
+        }
+      ],
+      "duration_ms": 269378,
+      "name": "Angelic",
+      "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1591,18 +1607,34 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+        "name": "Watra",
+        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
       "artists": [
         {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
         }
       ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+      "duration_ms": 141754,
+      "name": "Watra",
+      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1627,22 +1659,6 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Watra",
-        "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "Watra",
-      "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
         "name": "Moulayiten",
         "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
@@ -1659,42 +1675,6 @@
       "duration_ms": 297593,
       "name": "Moulayiten",
       "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1719,22 +1699,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "Ya Rayeh",
-        "url": "https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM"
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
       "artists": [
         {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
         },
         {
-          "name": "Latif El Idrissi",
-          "url": "https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD"
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
         }
       ],
-      "duration_ms": 330150,
-      "name": "Ya Rayeh",
-      "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1755,6 +1735,26 @@
       "duration_ms": 178909,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
+        "name": "Ya Rayeh",
+        "url": "https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "Latif El Idrissi",
+          "url": "https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD"
+        }
+      ],
+      "duration_ms": 330150,
+      "name": "Ya Rayeh",
+      "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
+        "name": "O.M.M.A",
+        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
+      },
+      "artists": [
+        {
+          "name": "Camil Kanouni",
+          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Oud Love",
+      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
+    },
+    {
+      "added_at": "2023-07-13 08:15:41",
+      "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 237215,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/4UzqxyDxCMbT5BvbmHT3yR"
-    },
-    {
-      "added_at": "2023-07-13 08:15:41",
-      "album": {
-        "name": "O.M.M.A",
-        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
-      },
-      "artists": [
-        {
-          "name": "Camil Kanouni",
-          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Oud Love",
-      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
     },
     {
       "added_at": "2023-07-13 08:15:41",
@@ -1943,22 +1943,18 @@
     {
       "added_at": "2023-07-13 08:15:41",
       "album": {
-        "name": "CEWRESAMIN",
-        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
       },
       "artists": [
         {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Cewresamin",
-      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     }
   ],
   "unique_name": "mosaic",

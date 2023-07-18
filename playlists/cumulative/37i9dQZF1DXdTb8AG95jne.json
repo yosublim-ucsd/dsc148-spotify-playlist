@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Jeon Jin Hee(\uc804\uc9c4\ud76c)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Ahn Heesu(\uc548\ud76c\uc218)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 169142,
       "name": "(The Cherry Trees)",
       "url": "https://open.spotify.com/track/2e5HDpsJrpt0GwWME1tR9p"
@@ -1074,6 +1074,24 @@
       "duration_ms": 187773,
       "name": "BLACK",
       "url": "https://open.spotify.com/track/5a4R9Amz7u9d6UHrAG2dda"
+    },
+    {
+      "album": {
+        "name": "Blinded",
+        "url": "https://open.spotify.com/album/5kM1pxqGfFhXBqbtFRjaTb"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/3k5xWgRecbkY5XzhpjIJ65"
     },
     {
       "album": {
@@ -4197,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Be Trapped In A Picture",
+        "url": "https://open.spotify.com/album/6fhEPy3mHzSdp87i48Yono"
+      },
+      "artists": [
+        {
+          "name": "Ahn Heesu",
+          "url": "https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "I'll Eat Up Your Darkness",
+      "url": "https://open.spotify.com/track/4NKa7tW2N6mCdQSJKCP2hF"
+    },
+    {
+      "album": {
         "name": "I'm Homeless",
         "url": "https://open.spotify.com/album/1JAyIVuV1OccG70eLBkWkc"
       },
@@ -5016,7 +5052,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
@@ -8673,6 +8709,24 @@
     },
     {
       "album": {
+        "name": "SUM",
+        "url": "https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf"
+      },
+      "artists": [
+        {
+          "name": "\uc704\ub304\uc2a4 Wedance",
+          "url": "https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324640,
+      "name": "SUM",
+      "url": "https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
       },
@@ -8984,6 +9038,24 @@
       "duration_ms": 241626,
       "name": "That Night",
       "url": "https://open.spotify.com/track/2vRmqij0eJYLtJou6WBBpC"
+    },
+    {
+      "album": {
+        "name": "That you came to me",
+        "url": "https://open.spotify.com/album/16WDt0NESttjZfkHLdLPDd"
+      },
+      "artists": [
+        {
+          "name": "Asahi",
+          "url": "https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "That you came to me",
+      "url": "https://open.spotify.com/track/48Dk5wZQNXMmxqE8B2Glt4"
     },
     {
       "album": {
@@ -10608,7 +10680,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 361426,
       "name": "Youth",
       "url": "https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3"
@@ -10752,7 +10824,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 285000,
       "name": "\ub5a0\ub0a0\uae4c Should We Leave",
       "url": "https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm"

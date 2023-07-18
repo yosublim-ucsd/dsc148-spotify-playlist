@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,762 likes - 180 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,908 likes - 180 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 179 | [ego talkin'](https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:54 |
 | 180 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 
-Snapshot ID: `MCw5MjcyZDU1OTIwNGE3YzIzM2I1MTBjZTMwZWQyZmNjYTA1YmNkOGU0`
+Snapshot ID: `MCxhOWI2NTg0YjFiYTVlMzg1NTY5NGU4MzUyNTQzMjlkMjc0ODk2Yzcz`

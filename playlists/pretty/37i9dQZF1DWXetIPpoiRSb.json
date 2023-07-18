@@ -1,12 +1,12 @@
 {
   "description": "The freshest pop sounds. Cover: Rene\u00e9 Rapp",
-  "num_followers": 200265,
+  "num_followers": 200301,
   "original_name": "New Pop Revolution",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGI2OTIwZTA0MDc3NmI4YzA0YmZmZDhkZDFkNDdjZGI1ZjcwMzky",
+  "snapshot_id": "MCxhYzJmYTk5MzI1MzYwYzFjZGZkOTY0MDk1ZDdmZjc1NTlhZTQyODE3",
   "tracks": [
     {
       "added_at": "2023-07-14 08:00:00",
@@ -186,6 +186,10 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "duration_ms": 184400,

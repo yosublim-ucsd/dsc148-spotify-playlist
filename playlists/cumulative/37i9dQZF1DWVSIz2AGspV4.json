@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Ghadr El Bashar",
+        "url": "https://open.spotify.com/album/5B8d4bRxb2Knr6cbVct3Py"
+      },
+      "artists": [
+        {
+          "name": "Muhannad Khalaf",
+          "url": "https://open.spotify.com/artist/7dhc5bHorRHHPuM5SvCKIt"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Ghadr El Bashar",
+      "url": "https://open.spotify.com/track/7I8ZzWtrCKMN7EUiVDNz5P"
+    },
+    {
+      "album": {
         "name": "Ghannili Ya Hussain",
         "url": "https://open.spotify.com/album/636COZGHEOYKsqB3vxh5YX"
       },

@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "I'm glad I waited",
+        "url": "https://open.spotify.com/album/51DBWkJfpGcqLC5CxvYCKZ"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "I'm glad I waited",
+      "url": "https://open.spotify.com/track/3pBE270KLKUjGo5aVF1ecd"
+    },
+    {
+      "album": {
         "name": "The King's Affection OST Part.3",
         "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
@@ -3094,6 +3112,24 @@
       "duration_ms": 269421,
       "name": "Island",
       "url": "https://open.spotify.com/track/3owarI3zuA4HiGWZCVE817"
+    },
+    {
+      "album": {
+        "name": "It is Rainy Day",
+        "url": "https://open.spotify.com/album/71JWbLA01F6b2PXUnPGYwj"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "It is Rainy Day",
+      "url": "https://open.spotify.com/track/6xhq4jRcL9ueAru7ErbyA5"
     },
     {
       "album": {
@@ -3642,7 +3678,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 216635,
       "name": "love is everything (Feat. U-Rim)",
       "url": "https://open.spotify.com/track/68twHXbWeVxgidIyw4C8hO"
@@ -4614,7 +4650,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 282853,
       "name": "Ode To The Stars",
       "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
@@ -4752,6 +4788,24 @@
       "duration_ms": 233773,
       "name": "Only Longing Grows",
       "url": "https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh"
+    },
+    {
+      "album": {
+        "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+        "url": "https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo"
+      },
+      "artists": [
+        {
+          "name": "Lee Hong Ki (FTISLAND)",
+          "url": "https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256933,
+      "name": "Only One Person (My love X Lee Hong Ki (FTISLAND))",
+      "url": "https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d"
     },
     {
       "album": {
@@ -5558,7 +5612,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > On Fleek: Adj\. 1\) a state of completeness and flawlessness \[see: <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\]\. Cover: Victoria Monét
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 348,435 likes - 182 songs - 9 hr 0 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 348,422 likes - 182 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-842 songs - 2 day 7 hr 18 min
+843 songs - 2 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,7 +515,8 @@
 | [New Year's Resolution](https://open.spotify.com/track/3X2aIg3mFmJnUeDFRtd0WM) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 3:19 | 2023-03-06 | 2023-07-01 |
 | [newdemo](https://open.spotify.com/track/2p0EW6JGHvU5doxEmlnIKG) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [newdemo](https://open.spotify.com/album/2SvGM1v0URvrkHRMHRZywA) | 3:29 | 2022-07-22 | 2022-07-30 |
 | [Night Shift](https://open.spotify.com/track/43nkcJpErKDS857w3AXk9d) | [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq) | [Night Shift](https://open.spotify.com/album/2e2qtOSdoQS3h3bcuSdQd7) | 3:18 | 2021-07-19 | 2022-04-21 |
-| [Nightmare](https://open.spotify.com/track/2CE5le5OywYFxSdvUnEk97) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Nightmare](https://open.spotify.com/album/3Ob1IzWFDzFvIBeIm1LoBC) | 4:21 | 2023-06-16 |  |
+| [Nightmare](https://open.spotify.com/track/1GA1km6y1Zq2ulRA1NV8tr) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Rajan](https://open.spotify.com/album/0Xpiosb3si75dyOvQ6avF0) | 4:21 | 2023-06-16 |  |
+| [Nightmare](https://open.spotify.com/track/2CE5le5OywYFxSdvUnEk97) | [Night Beats](https://open.spotify.com/artist/07dZirN9KFAGIHeBvSDfuO) | [Nightmare](https://open.spotify.com/album/3Ob1IzWFDzFvIBeIm1LoBC) | 4:21 | 2023-06-16 | 2023-07-18 |
 | [Nightsift](https://open.spotify.com/track/2zxT7iTshvhM9K3439Ka7Y) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Freewave Lucifer f<ck f^ck f>ck](https://open.spotify.com/album/3b98O4yCJhkj5iiGNYLe0p) | 4:40 | 2022-07-29 | 2022-08-30 |
 | [Nina](https://open.spotify.com/track/5eBWesgt493JjABBVdj8pr) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Nina](https://open.spotify.com/album/6LJHaWfBkwMApu8poG0WYc) | 3:20 | 2021-04-02 | 2022-04-20 |
 | [Ninfa de la villa](https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Ninfa de la villa](https://open.spotify.com/album/25c9ZAKyYYpeS8ZfUKMeZ2) | 3:09 | 2021-06-25 | 2022-04-19 |

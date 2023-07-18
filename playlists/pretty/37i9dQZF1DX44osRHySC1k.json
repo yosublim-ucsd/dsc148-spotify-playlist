@@ -1,12 +1,12 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 51393,
+  "num_followers": 51406,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGIxNGJhZmFiNjZiZGZkMTIzNDYyMTIyMGI2YWE0NjcxMTg4MzJi",
+  "snapshot_id": "MCwzN2E1NzY2ZDY1ZGJlOGYzMzdkODVlMTViYWMxYzlkMTMzNTc3ODg5",
   "tracks": [
     {
       "added_at": "2021-06-24 10:58:44",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Atmospheres",
-        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Trust the Universe",
         "url": "https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 169000,
       "name": "Trust the Universe",
       "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
+      },
+      "artists": [
+        {
+          "name": "Mingmei Hsueh",
+          "url": "https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq"
+        }
+      ],
+      "duration_ms": 130624,
+      "name": "Can You Feel The Love Tonight",
+      "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -139,18 +139,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA"
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
       "artists": [
         {
-          "name": "Mingmei Hsueh",
-          "url": "https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq"
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 130624,
-      "name": "Can You Feel The Love Tonight",
-      "url": "https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz"
+      "duration_ms": 354973,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dream Dependence",
-        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
-      },
-      "artists": [
-        {
-          "name": "Viclo",
-          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
-        }
-      ],
-      "duration_ms": 155459,
-      "name": "Dream dependence",
-      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 119080,
       "name": "The Great Plains Hymn",
       "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Dream Dependence",
+        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
+      },
+      "artists": [
+        {
+          "name": "Viclo",
+          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
+        }
+      ],
+      "duration_ms": 155459,
+      "name": "Dream dependence",
+      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "After The Silence",
         "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+        "name": "unspoken",
+        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
       },
       "artists": [
         {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+          "name": "Rosetta Arroyo",
+          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
         }
       ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
+      "duration_ms": 159000,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -911,22 +927,6 @@
       "duration_ms": 130688,
       "name": "Symphony Of Heaven",
       "url": "https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "unspoken",
-        "url": "https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Arroyo",
-          "url": "https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "anywhere",
-      "url": "https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "A Missing Piece",
-        "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
-      },
-      "artists": [
-        {
-          "name": "Vincent Sparro",
-          "url": "https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99"
-        }
-      ],
-      "duration_ms": 125656,
-      "name": "A Missing Piece",
-      "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Flowing Strings",
         "url": "https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 278797,
       "name": "Buenas Noches",
       "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "A Missing Piece",
+        "url": "https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv"
+      },
+      "artists": [
+        {
+          "name": "Vincent Sparro",
+          "url": "https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99"
+        }
+      ],
+      "duration_ms": 125656,
+      "name": "A Missing Piece",
+      "url": "https://open.spotify.com/track/4fr2dY1gNyl1J8nz5GUWTs"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Wave After Wave EP",
+        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
+      },
+      "artists": [
+        {
+          "name": "The Only Star In The Sky",
+          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Wave After Wave EP",
-        "url": "https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2"
-      },
-      "artists": [
-        {
-          "name": "The Only Star In The Sky",
-          "url": "https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/0Xn2rEgAEJ82XKXLttBNEv"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Heavenly Walk",
-        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
-      },
-      "artists": [
-        {
-          "name": "Minisol",
-          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
-        }
-      ],
-      "duration_ms": 284513,
-      "name": "Heavenly Walk",
-      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 258973,
       "name": "Priya (Beloved)",
       "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Heavenly Walk",
+        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
+      },
+      "artists": [
+        {
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
+        }
+      ],
+      "duration_ms": 284513,
+      "name": "Heavenly Walk",
+      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
       },
       "artists": [
         {
-          "name": "T. Landley",
-          "url": "https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 131605,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
+      "duration_ms": 239428,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
       },
       "artists": [
         {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+          "name": "T. Landley",
+          "url": "https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW"
         }
       ],
-      "duration_ms": 239428,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0"
+      "duration_ms": 131605,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga",
-        "url": "https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8"
-      },
-      "artists": [
-        {
-          "name": "Sleep n Love",
-          "url": "https://open.spotify.com/artist/4lAObIqbk5Qpsb7j0avEvC"
-        }
-      ],
-      "duration_ms": 374879,
-      "name": "Sonno Profondo",
-      "url": "https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "New Romantic Classical Piano and Violin Duets",
         "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 272730,
       "name": "Rain",
       "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Destinazione Pianoforte New Age: Musica Relax Piano Collection, Musica Rilassante per Studio & Concentrazione, Meditazione, Dormire Bene & Yoga",
+        "url": "https://open.spotify.com/album/0Fi6h7AcurDKDQaMi5xjA8"
+      },
+      "artists": [
+        {
+          "name": "Sleep n Love",
+          "url": "https://open.spotify.com/artist/4lAObIqbk5Qpsb7j0avEvC"
+        }
+      ],
+      "duration_ms": 374879,
+      "name": "Sonno Profondo",
+      "url": "https://open.spotify.com/track/6blql3Gpo3LwVmEXTXqUJM"
     }
   ],
   "unique_name": "Nidra",

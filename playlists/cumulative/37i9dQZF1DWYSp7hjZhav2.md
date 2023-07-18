@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-112 songs - 10 hr 50 min
+115 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Disarm \- Recondite Remix](https://open.spotify.com/track/6n7hJ3lXbbtd4yMcGRAoDo) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Disarm \(Recondite Remix\)](https://open.spotify.com/album/65YISo8tvlUFxsym1ocwY4) | 6:06 | 2022-10-05 |  |
 | [Dreamcatcher](https://open.spotify.com/track/6ZSB0FEjUrG7sziGbkJea2) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Fred Lenix](https://open.spotify.com/artist/59dW0kJuMkQquLbBomht2S) | [Dreamcatcher](https://open.spotify.com/album/3fjsQVB2BQ9yGDe35IpmuQ) | 4:59 | 2023-02-15 |  |
 | [Eclettico](https://open.spotify.com/track/4gT1E6EjayB7grJBCk49Dn) | [Ivan Masa](https://open.spotify.com/artist/67Gv7dwcRa7EjGDf1zWaHR) | [Year 000.000.001 \(Vol.IV\)](https://open.spotify.com/album/4qUsHn1OQJohSZQNC91QAI) | 6:48 | 2023-03-23 |  |
+| [Equilibrium](https://open.spotify.com/track/5LxPUORcjvRUK3D6X45n7A) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:36 | 2023-07-17 |  |
 | [Estera](https://open.spotify.com/track/0HhiJrRsrK1o11pZli16pH) | [Joone](https://open.spotify.com/artist/1cwiFXVpO0awE541K7EZEV) | [Liberator](https://open.spotify.com/album/63qZOHZGH28mY9HCYFYuks) | 6:39 | 2022-10-05 |  |
 | [Eternity](https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Eternity](https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw) | 3:06 | 2023-02-15 |  |
 | [Everyday \- Jennifer Cardini Remix](https://open.spotify.com/track/02awIGJCgPAMs4xLWTfcdf) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [Everyday \(Jennifer Cardini Remix\)](https://open.spotify.com/album/29tchebjLMABWzP2jKWa0j) | 7:20 | 2023-06-08 |  |
@@ -72,6 +73,8 @@
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-10-05 | 2023-02-16 |
 | [Leaving Earth](https://open.spotify.com/track/6koq1DWY1e6JVFy7wQgYCo) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Ki Bae](https://open.spotify.com/artist/1t636zbkoWqKePDarVVk21) | [Leaving Earth](https://open.spotify.com/album/751Dn5vH2f5uLyjUB5cYje) | 5:03 | 2022-10-05 |  |
 | [Madeleine](https://open.spotify.com/track/53ibRjjP5fWlD4yPp1OmKm) | [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW) | [Madeleine](https://open.spotify.com/album/3ONjtYzmF10Upmn4RshaG3) | 9:01 | 2022-10-05 |  |
+| [Manifesto](https://open.spotify.com/track/3EquvUexPKfu02fbsZAbli) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:42 | 2023-07-17 |  |
+| [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-17 |  |
 | [Mind Control](https://open.spotify.com/track/1UopEDdYwbavBAvlY1gA6b) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF) | 5:07 | 2023-03-23 | 2023-07-03 |
 | [Mind Control](https://open.spotify.com/track/4HSLPlVJBKKD0e6v3wrMNJ) | [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Mind Control](https://open.spotify.com/album/7kcV8TW3tkiXJhlwJStE39) | 5:07 | 2023-06-08 |  |
 | [Monomono](https://open.spotify.com/track/2eS5Q1hbmRM3cNOSplrQuY) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Monomono](https://open.spotify.com/album/7sYaH5Eu79f8NRR8ikBtYZ) | 6:19 | 2022-10-05 |  |

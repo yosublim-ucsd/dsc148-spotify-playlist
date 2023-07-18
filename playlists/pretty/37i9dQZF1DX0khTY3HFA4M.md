@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,552 likes - 542 songs - 21 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,694 likes - 542 songs - 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -551,4 +551,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 541 | [Jumping Stairs](https://open.spotify.com/track/4hwavFxjOXAFhVxzkLdrXm) | [Casper Loe](https://open.spotify.com/artist/6sgFsC4m16h2OMCFptzH6S) | [Jumping Stairs](https://open.spotify.com/album/6dFhFCZMrfLxxKW3q7PpVW) | 1:54 |
 | 542 | [Leafy Greens](https://open.spotify.com/track/03Ax0kOLlmuTKA1ay5DOeU) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Leafy Greens](https://open.spotify.com/album/2gyBZBz0kU5JX8ku3WkHt5) | 3:30 |
 
-Snapshot ID: `MCxjNGU0YWVjODYzNjk3MDRlMzE5MTIyMzU0Y2JjZjQ4MTY0ZjZkNmMw`
+Snapshot ID: `MCxmMWVlM2JmYmNmMjJjNzAwZTI5OTVlMTk0MzdkNWM1ZWMwNjMyNzlh`

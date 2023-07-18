@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week!  Cover: Troye Sivan",
-  "num_followers": 362567,
+  "num_followers": 362587,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjBmODg0NzU0NWZlNGUzNDhlMTQyNzNjYTU3YzIzZTdhZGQ1OWE2",
+  "snapshot_id": "MCxhZDQ4MmY0OTE2NmQ5YTE0MjhlMmVkODgwMTEyN2EwMjQzZWQwZWM5",
   "tracks": [
     {
       "added_at": "2023-07-13 14:00:00",
@@ -314,6 +314,10 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "duration_ms": 184400,

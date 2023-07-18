@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 
 > Listen to all her biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551,480 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551,827 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7FZ2VBjaeT.md) - [plain]
 | 50 | [Joanne \(Where Do You Think You're Goin'?\) \- Piano Version](https://open.spotify.com/track/1j8jHKgAQ7QD52Wd5uuLNZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Where Do You Think You're Goin'?\) \[Piano Version\]](https://open.spotify.com/album/5jqcNriHl28rS3LlmoP1fg) | 4:39 |
 | 51 | [Anything Goes](https://open.spotify.com/track/3Cq4BUlxDg4ulj7XnN2COP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 2:03 |
 
-Snapshot ID: `MCw5OTMyZDYxMGEyMThhNGNjNGJlZDlmMjRlYzI5ZWUyZTgzOWE0MzNl`
+Snapshot ID: `MCxiMjA0NTYyYjZhYmE4NjI0NzM0M2I3YjgzNmFmMzJhYjE5YzIyNjVl`

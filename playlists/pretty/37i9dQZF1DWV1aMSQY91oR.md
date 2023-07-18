@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: ShaqIsDope
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,435 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,470 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [DISTANCE](https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [DISTANCE](https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1) | 2:28 |
 | 48 | [Ox\-Tail & Brown Rice](https://open.spotify.com/track/2qAhrM9qadSqNTpTWFnPG7) | [ILLAH](https://open.spotify.com/artist/6Zt6Okr7X69mBzITYFPAPb) | [Ox\-Tail & Brown Rice](https://open.spotify.com/album/6Bjoa6FaD0ShPQ6Qei9u0G) | 3:50 |
 
-Snapshot ID: `MCxiYmNkMDczZGRmYzg4ZWUzMmUxMjdmMDgzMTZkZWQyMzE2MzkxNjU0`
+Snapshot ID: `MCw5MjBhNzkxNWJiOTZiNjI3ZTFlNjgxOTQwOWQxODM3MWRkZmExMTc1`

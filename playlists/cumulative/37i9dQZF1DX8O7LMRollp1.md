@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-18 songs - 1 hr 2 min
+19 songs - 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Hourglass](https://open.spotify.com/track/05jVN01JWfs3kYqPTnkwlr) | [YEIN](https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY), [Masterclass](https://open.spotify.com/artist/6HQH7Sl870jIhC9CPBjbS4) | [Ms\. Ma, Nemesis Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6VvA9thMlfNhlAo6Yfe7CA) | 3:46 | 2023-07-05 |  |
 | [irony of choice](https://open.spotify.com/track/0n818xv8jNlkAwf9NBv8v9) | [Se Rin Jung](https://open.spotify.com/artist/4vKfrDcWqtPpqqWmzH26wO) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 2:42 | 2023-07-05 |  |
 | [Let me be](https://open.spotify.com/track/5HMicsistMNaVU269x6ZzY) | [Baek Z Young](https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o) | [Penthouse3 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5j9ToR3tEoiBKBhqHSPTp0) | 4:27 | 2023-07-05 |  |
+| [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 | 2023-07-17 |  |
 | [Masquerade](https://open.spotify.com/track/3qzIiJxXlWD8rkeuFtG5YO) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Amnmsg8nIVFSmLpfYXi1C) | 3:59 | 2023-07-05 |  |
 | [My Memory](https://open.spotify.com/track/12b7eFXKrN0YpCZUrowr2L) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Ms\. Ma, Nemesis Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/1VNrFFuQolqocGmkywk4ER) | 3:13 | 2023-07-05 |  |
 | [Nothing](https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Secret Mother, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH) | 4:24 | 2023-07-05 |  |

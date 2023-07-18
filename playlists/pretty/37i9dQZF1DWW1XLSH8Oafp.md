@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring PinkPantheress & Destroy Lonely
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,980 likes - 147 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,170 likes - 147 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 146 | [Fool](https://open.spotify.com/track/5JbT1O4xgaupqbsd2mwZKY) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Fool](https://open.spotify.com/album/2rSsXi6ei1jVv7rSIndXyO) | 2:41 |
 | 147 | [Voyage en Europe \- TDJ Remix](https://open.spotify.com/track/5hWKNmayPtKecMxIVTf4oN) | [Roland Cristal](https://open.spotify.com/artist/3JOPSnZYkyyM9pS1Dpswbf), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Voyage en Europe \(TDJ Remix\)](https://open.spotify.com/album/5yHeP0TNLzLbAODgCPjKON) | 4:11 |
 
-Snapshot ID: `MCw5NTQ1OTc1ODM2YmJiODBjMGZkZTFjNjg2ZThjOThjMTRhZjhmMWVi`
+Snapshot ID: `MCxhNWY2ZjRkZGEzMjA0ZDg4NjhjYWVjMmQwOGE3NTU0ZDVlNDU1NDY5`

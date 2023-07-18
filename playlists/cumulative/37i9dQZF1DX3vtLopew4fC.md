@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: BAMBII
 
-938 songs - 2 day 1 hr 15 min
+940 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 | 2022-01-05 | 2022-02-03 |
 | [Big Up](https://open.spotify.com/track/1YMT7ST4JVE3Tuff7I6sDF) | [SANDRINETTE](https://open.spotify.com/artist/7z4YAQFbwPOpbxElGCDdPL) | [Big Up](https://open.spotify.com/album/2aFTZn0kPYXZgfX0dYnrZP) | 3:09 | 2022-06-01 | 2022-07-07 |
 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 | 2022-05-04 | 2022-06-01 |
+| [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-17 |  |
 | [Bitches In The Bathroom](https://open.spotify.com/track/1I6kjA6CsQP7kwI1LCj6WA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bitches In The Bathroom](https://open.spotify.com/album/1elbtwTB9KibNv16C9QUp4) | 2:59 | 2022-01-05 | 2022-02-03 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-08 | 2022-04-07 |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2022-11-30 | 2023-01-05 |
@@ -794,7 +795,7 @@
 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 3:34 | 2021-12-08 | 2022-01-06 |
 | [Take It Back](https://open.spotify.com/track/5TbZ3iiuoIhLGFvq2IoIwD) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [Take It Back / Go for Joy](https://open.spotify.com/album/6ugxotUGjEP4GPucJYJNcA) | 4:33 | 2022-11-09 | 2022-12-01 |
 | [Take It Like a Man](https://open.spotify.com/track/4tUzsCOYbYhyj0x064W37G) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Milestone](https://open.spotify.com/album/1WZzoVlzSUTxrfa5ApTHw9) | 4:02 | 2022-09-07 | 2022-10-06 |
-| [TAKE ME OUT!](https://open.spotify.com/track/6uHIw4YGR5uxaJ47D2KgWx) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/5NeBrRO4DmwwfGWCRQvGQj) | 3:03 | 2023-07-05 |  |
+| [TAKE ME OUT!](https://open.spotify.com/track/6uHIw4YGR5uxaJ47D2KgWx) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [I Might Start Smoking](https://open.spotify.com/album/5NeBrRO4DmwwfGWCRQvGQj) | 3:03 | 2023-07-05 | 2023-07-18 |
 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-04-05 | 2023-05-04 |
 | [Talk Luv](https://open.spotify.com/track/40rBLdeF1oAdGnX54xAddv) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Talk Luv](https://open.spotify.com/album/33vKJjr5IBomO5PhKQcVAX) | 2:44 | 2021-12-08 | 2022-01-06 |
 | [Talking to Yourself](https://open.spotify.com/track/06sSzWzwwfFsye2btA4mcf) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/45iDZ9IhhSCk1oth97aMx4) | 2:53 | 2022-10-05 | 2022-10-24 |
@@ -869,6 +870,7 @@
 | [Uncall It](https://open.spotify.com/track/6dJC1unKk2kWnaA5goiXly) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/5JdqxFr49wq2SnOCObPYA4) | 2:36 | 2022-07-06 | 2022-08-04 |
 | [Undefeated](https://open.spotify.com/track/3FyM4pilFg0bDWYSuJ1WCu) | [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Undefeated](https://open.spotify.com/album/0m2p8fU5SUampJHBYTuodi) | 2:07 | 2023-02-01 | 2023-03-02 |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-06-07 | 2023-07-06 |
+| [unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-07-17 |  |
 | [Unica](https://open.spotify.com/track/4VNRDuzDJGxNLtLBU816E0) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Amor Hardcore](https://open.spotify.com/album/3HAyLU5CetaZN8mRfI3aAv) | 2:45 | 2022-11-09 | 2022-12-01 |
 | [Unpredictable](https://open.spotify.com/track/0Zgb43gj2uE9whLC3rft8R) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Keshia Chanté](https://open.spotify.com/album/2TOZYKbE9i6wz3w2kucTbY) | 3:35 | 2022-02-02 | 2022-03-09 |
 | [Upside Down](https://open.spotify.com/track/04lQG1hx18U10hXVjLlb8F) | [Laurence Doire](https://open.spotify.com/artist/4Mr23qlXx7ipqBIhmfFXBy) | [Upside Down](https://open.spotify.com/album/40QqBvApKW2BEn80v1zYzf) | 3:03 | 2022-09-07 | 2022-10-06 |

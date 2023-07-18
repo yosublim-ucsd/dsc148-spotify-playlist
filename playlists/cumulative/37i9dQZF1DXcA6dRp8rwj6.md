@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DDG\)
 
-1,401 songs - 2 day 23 hr 15 min
+1,403 songs - 2 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [ADDI](https://open.spotify.com/track/5B8bajmEkgnMLmglqy467U) | [Harvinth Skin](https://open.spotify.com/artist/6qgKUwOGSU1iHNktLOON00), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [ADDI](https://open.spotify.com/album/22oBrfio9f3NVPVaSQiB1w) | 2:28 | 2022-03-31 | 2022-04-29 |
 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 1:35 | 2023-03-05 | 2023-05-19 |
 | [Adventure Time](https://open.spotify.com/track/4QHXOP6YFZ4934kO1ATaEk) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Adventure Time](https://open.spotify.com/album/1T41lXlauMiWEQWGCTqEtD) | 2:49 | 2023-03-30 | 2023-04-14 |
+| [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 | 2023-07-17 |  |
 | [Again](https://open.spotify.com/track/1qMiwEmeArAqKvGZzuMHEB) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:42 | 2023-03-02 | 2023-04-07 |
 | [AHHH HA](https://open.spotify.com/track/54VFhe501kUbDYj2OrueMp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [AHHH HA](https://open.spotify.com/album/5dWP4Mjmhw4qja8IAksNGi) | 3:06 | 2022-02-24 | 2022-03-18 |
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2023-03-23 | 2023-05-05 |
@@ -998,6 +999,7 @@
 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 | 2023-06-15 | 2023-07-14 |
 | [Richer Than I Ever Been](https://open.spotify.com/track/6APhSotnV8vcCFG87XiYfo) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Richer Than I Ever Been](https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ) | 2:52 | 2022-01-20 | 2022-01-28 |
 | [Rick Owens Dunk](https://open.spotify.com/track/5DfG9N6zx28vxXwGs7WK4p) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [JIGG](https://open.spotify.com/artist/7FaaVgMxA6RqO7viZwFaQp) | [Hit Different](https://open.spotify.com/album/4H5P7cJyGe0Sw0gSHtjuMm) | 1:40 | 2023-05-25 | 2023-07-07 |
+| [Ride Wit Us](https://open.spotify.com/track/4i824m9G5yejHptSlZVrf2) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [Ride Wit Us](https://open.spotify.com/album/19vZiJf7aU6xyNGET5ZuUg) | 3:56 | 2023-07-17 |  |
 | [Ridin' With The Moonlight](https://open.spotify.com/track/2EEj4xqP1kOOxN2xK4cQ4i) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [DU4LI7Y](https://open.spotify.com/album/4kAZzYkAxND103ygB4tZ3a) | 2:45 | 2022-07-28 | 2022-09-02 |
 | [Right Dere](https://open.spotify.com/track/43BFBqFmzGhifDFDnXrPmX) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Right Dere](https://open.spotify.com/album/1ocmMcLbV8RBtwVEijAgER) | 2:57 | 2023-01-27 | 2023-03-18 |
 | [Right Hand](https://open.spotify.com/track/5XdXywHigZe8sw23TttgDm) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Right Hand](https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq) | 2:45 | 2023-03-02 | 2023-04-07 |

@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Farina y Sean Paul.
 
-629 songs - 1 day 10 hr 0 min
+630 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-21 | 2022-12-01 |
 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 | 2022-01-07 | 2022-02-12 |
 | [Buenos Días](https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Buenos Días](https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv) | 3:19 | 2022-01-14 | 2022-08-12 |
-| [Bulevar](https://open.spotify.com/track/3T49TbWYQfLbYCbiQbedhH) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bulevar](https://open.spotify.com/album/1Vsqbt6CSeyutKxuqksYiw) | 4:03 | 2023-07-14 |  |
+| [Bulevar](https://open.spotify.com/track/3T49TbWYQfLbYCbiQbedhH) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bulevar](https://open.spotify.com/album/1Vsqbt6CSeyutKxuqksYiw) | 4:03 | 2023-07-14 | 2023-07-18 |
+| [Bulevar](https://open.spotify.com/track/7hQi6VmEgGLG462YpieKDG) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Bulevar](https://open.spotify.com/album/2tetV749OHQRffqTclca7Y) | 4:03 | 2023-07-14 |  |
 | [Burda de Feliz](https://open.spotify.com/track/6cfTMCrEtr5OiGv381P2JT) | [Gustavo Elis](https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4), [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [Burda de Feliz](https://open.spotify.com/album/2IfV4cHSjgoQfkF79VQWw6) | 3:54 | 2022-09-30 | 2022-10-05 |
 | [Buscando](https://open.spotify.com/track/1yo6sjSqUM9gpegFiIp1zX) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Homemade](https://open.spotify.com/album/6RKBUIheoFaR5cTb1AcAdF) | 3:49 | 2022-03-04 | 2022-05-07 |
 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 | 2022-07-15 | 2022-11-12 |

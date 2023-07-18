@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-413 songs - 20 hr 44 min
+414 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [In My Head](https://open.spotify.com/track/3AxC396pvo1dPRFB7fw1us) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [In My Head](https://open.spotify.com/album/0qv11cftdlXWujDCJE53EM) | 2:55 | 2022-03-23 | 2023-05-23 |
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-04-30 | 2022-07-18 |
 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 | 2022-03-23 |  |
-| [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-12-16 |  |
+| [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-12-16 | 2023-07-18 |
 | [It Could Be Worse](https://open.spotify.com/track/1pn9N05evZd09npQBnsC31) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [It Could Be Worse](https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw) | 2:24 | 2022-02-04 |  |
 | [It's Not a Game](https://open.spotify.com/track/4ZldPUIhCbTdvGsMHN7Ubk) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [It's Not a Game](https://open.spotify.com/album/4w112nlXlKhCRxMqCICFF3) | 2:54 | 2022-02-04 | 2023-06-16 |
 | [Jesus Called My Name](https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:20 | 2022-11-04 |  |
@@ -348,6 +348,7 @@
 | [Stuff Back](https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [Church](https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW) | [Stuff Back](https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC) | 3:13 | 2022-10-01 |  |
 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 | 2022-05-28 | 2022-08-07 |
 | [Sunrise](https://open.spotify.com/track/6FWaqHayQ1ZGMGRUz7O9A5) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Sunrise](https://open.spotify.com/album/4wnD11CkTt6s3D0U4EHbvv) | 3:28 | 2022-02-04 |  |
+| [Sunrise 2 Sunset](https://open.spotify.com/track/7EJOV089sJE935qHobWmxA) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [We Outside](https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw) | 3:42 | 2022-12-16 |  |
 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Surrounded \(Fight My Battles\)](https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0) | 3:00 | 2022-10-01 |  |
 | [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 | 2022-08-06 |  |
 | [Swerving \(Zoom Zoom Zoom\)](https://open.spotify.com/track/42TUYGp23KyMqpkWhMlfEj) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Swerving \(Zoom Zoom Zoom\)](https://open.spotify.com/album/1AiLlDAN3CVkzRaYVhGnkr) | 2:42 | 2022-09-03 | 2022-10-02 |

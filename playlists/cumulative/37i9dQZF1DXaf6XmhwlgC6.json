@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Catching Waves",
+        "url": "https://open.spotify.com/album/6CGhH64XoGVsXX4PJUCwpQ"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146020,
+      "name": "Catching Waves",
+      "url": "https://open.spotify.com/track/2Ve7o5o5UAWfzIMnX6iYv1"
+    },
+    {
+      "album": {
         "name": "Change Of Tides",
         "url": "https://open.spotify.com/album/0ioaA2clUxqGSROCF1vo53"
       },
@@ -478,7 +496,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 164168,
       "name": "Cocao",
       "url": "https://open.spotify.com/track/61D1IYM5aOGg1XS6pVNQQx"
@@ -1768,6 +1786,24 @@
       "duration_ms": 243987,
       "name": "Maybe This is the Year for the Maple Leafs, Or Will I Just Be Disappointed Again?",
       "url": "https://open.spotify.com/track/1cNr7ghW0xOmwqQzQSSWP2"
+    },
+    {
+      "album": {
+        "name": "Melancholy In Dalarna",
+        "url": "https://open.spotify.com/album/3jVSpCD0oyW6YltWt1px3W"
+      },
+      "artists": [
+        {
+          "name": "Cherries & Daydreams",
+          "url": "https://open.spotify.com/artist/0ONdCbjGiaB27gxgkVIXOA"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127624,
+      "name": "Melancholy In Dalarna",
+      "url": "https://open.spotify.com/track/7HYeJNRzkuSUUbRitQLkxu"
     },
     {
       "album": {
@@ -3582,7 +3618,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 380333,
       "name": "Up to Pizmo",
       "url": "https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC"

@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127240,
+  "num_followers": 127242,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMxNixlMWUxODVlZDAzMDE4OTgxOTg4YzdlN2MyMzgxZWEwNzY2ZTRlZWJk",
+  "snapshot_id": "NDMxOCwwZDc2NTA4ZmM0YjU2MmU0MWI2MWZiNDVmMDQyNDRmZmJiOTZiOTZm",
   "tracks": [
+    {
+      "added_at": "2023-07-17 19:13:04",
+      "album": {
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/0keuvwVV0uuUmaMZX9C6o6"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        }
+      ],
+      "duration_ms": 267562,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/3azfPD8DGtZRjcYNjPA8HR"
+    },
+    {
+      "added_at": "2023-07-17 19:08:14",
+      "album": {
+        "name": "Someone You Can Count On (The Remixes)",
+        "url": "https://open.spotify.com/album/0QWKmiHrLOhsSp2r8vx40l"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        }
+      ],
+      "duration_ms": 258206,
+      "name": "CRY - Borgore Remix",
+      "url": "https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0"
+    },
     {
       "added_at": "2023-07-13 18:51:59",
       "album": {

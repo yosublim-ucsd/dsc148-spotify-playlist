@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-136 songs - 7 hr 34 min
+137 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Kajal](https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Madari](https://open.spotify.com/album/44VVN1lOB0mYZFEMDv5yX8) | 2:41 | 2023-06-09 |  |
 | [Karen Kya](https://open.spotify.com/track/0ufrMgjMiBMuu7TnAnJSdZ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Dr Akhtar Shumaar](https://open.spotify.com/artist/4ojgUUCvN7XHnSfWfwhjKe) | [Karen Kya](https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd) | 3:26 | 2023-05-17 |  |
 | [Kasoor \- Acoustic](https://open.spotify.com/track/117gRrOjnRkMCgWxNtDNSv) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Shehron Ke Raaz](https://open.spotify.com/album/0OU05VmEgCYZE5JxpD07BZ) | 3:33 | 2023-05-17 |  |
+| [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 | 2023-07-17 |  |
 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 | 2023-06-06 | 2023-07-15 |
 | [Khala](https://open.spotify.com/track/5XgB4ThkJOi2dWT1GRSQZ6) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khala](https://open.spotify.com/album/4d2PsSkEjUENjTiZTJHw9W) | 2:09 | 2023-05-17 |  |
 | [Khamoshiyan](https://open.spotify.com/track/5RNfzomY9DGKDbWg6Su06Q) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sushant Shankar](https://open.spotify.com/artist/37k8JbB4Ua1Gy8x7MY9xUx) | [Khamoshiyan](https://open.spotify.com/album/10iAmqk2jZP9mzbYlT5xsn) | 3:22 | 2023-06-28 |  |
@@ -78,7 +79,7 @@
 | [Khwaish](https://open.spotify.com/track/6wC3qTwNrty90JM9WXP0K6) | [Arshit](https://open.spotify.com/artist/224EYKBELbeX1n7R5fxnjP), [Luvdeep Saini Aka LDS](https://open.spotify.com/artist/09IBw62SGjjIOhl47qfnHs), [Sahil Randhawa](https://open.spotify.com/artist/47BLm9E1Q3mqdmzmqOvoU9) | [Khwaish](https://open.spotify.com/album/0QKrdsQcRuGXhqUIeIGfFs) | 3:46 | 2023-06-02 | 2023-07-08 |
 | [Kivein Mukhade](https://open.spotify.com/track/7FFfdpjbckpKidr7AoLLPE) | [Harjot K Dhillon](https://open.spotify.com/artist/0OR1HFAannTqpzRH4Efq5Z) | [Kivein Mukhade](https://open.spotify.com/album/7dK1nmyjIuvBb1OZEpZlL8) | 2:21 | 2023-07-07 |  |
 | [Kuch Kam](https://open.spotify.com/track/3sHxLZsqf3wGMMm80O0mWM) | [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Kuch Kam](https://open.spotify.com/album/2bC8qwPlpC8CO1YpppXczb) | 2:32 | 2023-05-17 | 2023-07-13 |
-| [Kya Bataya](https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Kya Bataya](https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt) | 3:34 | 2023-07-07 |  |
+| [Kya Bataya](https://open.spotify.com/track/0IRw2VTYgLk4HxyEpuyRcY) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT) | [Kya Bataya](https://open.spotify.com/album/3WAWqQ41mCyBGusm4Fhrzt) | 3:34 | 2023-07-07 | 2023-07-18 |
 | [Kya Pata](https://open.spotify.com/track/53yFr6IXLXpj9JwtC0Pb1G) | [Naheed](https://open.spotify.com/artist/43z0UwKntpjMtivlmq0BkI), [Shriram Iyer](https://open.spotify.com/artist/1WcPYpjOVLe5qfBXhrLbBw) | [Kya Pata](https://open.spotify.com/album/0BIKCUslpeLuu5GDho6UYc) | 2:30 | 2023-05-17 | 2023-06-23 |
 | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/track/2rjCLFdX8n9xLoMZgdMMxt) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Kya Tum Naraaz Ho? \(Raw\)](https://open.spotify.com/album/6jN4E5miEwdQBUqU0HP0Dg) | 3:32 | 2023-05-17 | 2023-06-03 |
 | [Kyon Alag Huye](https://open.spotify.com/track/4sN3JE7LNUd5fM99QedzXY) | [Govinda Sarkar](https://open.spotify.com/artist/1hc9vww0TKHeWZOMkxC8kd) | [Kyon Alag Huye](https://open.spotify.com/album/7oPkwM4rULtTPoNIMHBAdT) | 1:21 | 2023-05-17 | 2023-05-27 |

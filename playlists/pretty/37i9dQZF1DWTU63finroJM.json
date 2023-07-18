@@ -1,44 +1,28 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 52895,
+  "num_followers": 52925,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDAzNzgzZTcyNjNiODQzN2MyNzk5MmY5MjQwMDlmOTZiMjMxY2Fk",
+  "snapshot_id": "MCwwMDg1YzJhMDQ5MDNhNGIxMDRhMDI2ZDhhY2I1OWYzY2NjZmUzNTUz",
   "tracks": [
     {
-      "added_at": "2023-05-30 12:45:30",
+      "added_at": "2023-04-17 14:05:23",
       "album": {
-        "name": "Somebody's Pleasure",
-        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+        "name": "Memory Springs",
+        "url": "https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN"
       },
       "artists": [
         {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
         }
       ],
-      "duration_ms": 223957,
-      "name": "Somebody's Pleasure",
-      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
-    },
-    {
-      "added_at": "2023-06-29 06:25:56",
-      "album": {
-        "name": "BURNA FONE",
-        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "BURNA FONE",
-      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
+      "duration_ms": 127059,
+      "name": "Potent",
+      "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe"
     },
     {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Somebody's Pleasure",
+        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 223957,
+      "name": "Somebody's Pleasure",
+      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
       "added_at": "2023-04-17 14:05:23",
       "album": {
         "name": "GAR\u00c7ON",
@@ -105,6 +105,22 @@
       "url": "https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd"
     },
     {
+      "added_at": "2023-06-29 06:25:56",
+      "album": {
+        "name": "BURNA FONE",
+        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "BURNA FONE",
+      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
+    },
+    {
       "added_at": "2023-02-17 09:49:00",
       "album": {
         "name": "Sability",
@@ -121,20 +137,20 @@
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
     },
     {
-      "added_at": "2023-02-17 09:49:00",
+      "added_at": "2023-05-04 10:15:19",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+        "name": "OLE",
+        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
         }
       ],
-      "duration_ms": 171428,
-      "name": "AHORA QU\u00c9",
-      "url": "https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU"
+      "duration_ms": 151932,
+      "name": "OLE",
+      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     },
     {
       "added_at": "2023-03-07 05:59:03",
@@ -153,6 +169,22 @@
       "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
     },
     {
+      "added_at": "2023-07-17 12:09:23",
+      "album": {
+        "name": "Rib\u00e9ry",
+        "url": "https://open.spotify.com/album/0qTO7678yKV6K6fdeFIb1Q"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Rib\u00e9ry",
+      "url": "https://open.spotify.com/track/4LSO1o2dTqJedirEoyBNP0"
+    },
+    {
       "added_at": "2023-07-13 12:32:20",
       "album": {
         "name": "Si Te Soy Sincera",
@@ -167,22 +199,6 @@
       "duration_ms": 159835,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
-    },
-    {
-      "added_at": "2023-05-04 10:15:19",
-      "album": {
-        "name": "OLE",
-        "url": "https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy"
-      },
-      "artists": [
-        {
-          "name": "Baaba J",
-          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
-        }
-      ],
-      "duration_ms": 151932,
-      "name": "OLE",
-      "url": "https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF"
     },
     {
       "added_at": "2023-07-07 07:23:00",
@@ -203,6 +219,26 @@
       "duration_ms": 187118,
       "name": "somebody's daughter",
       "url": "https://open.spotify.com/track/2J6rRsmKn1TpGOfQagoRVr"
+    },
+    {
+      "added_at": "2023-04-12 07:52:33",
+      "album": {
+        "name": "Jack e Lacrime",
+        "url": "https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 158083,
+      "name": "Jack e Lacrime",
+      "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -237,6 +273,22 @@
       "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
+      "added_at": "2023-04-17 14:05:23",
+      "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "Gaffe aux autres",
+      "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
+    },
+    {
       "added_at": "2023-05-30 12:45:30",
       "album": {
         "name": "Right Person, Wrong Time",
@@ -253,22 +305,6 @@
       "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
     },
     {
-      "added_at": "2023-04-17 14:05:23",
-      "album": {
-        "name": "Memory Springs",
-        "url": "https://open.spotify.com/album/1u8cMnEdxcystiFOb8DRWN"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 127059,
-      "name": "Potent",
-      "url": "https://open.spotify.com/track/4WjD33BNF24KCZkMWlLvlV"
-    },
-    {
       "added_at": "2023-02-17 09:49:00",
       "album": {
         "name": "Safe",
@@ -283,6 +319,26 @@
       "duration_ms": 210000,
       "name": "Safe",
       "url": "https://open.spotify.com/track/1ZK2qvM0yDoj7sonoEWiG5"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        },
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
+      "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -349,26 +405,6 @@
       "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
     },
     {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        },
-        {
-          "name": "Zom Marie",
-          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e01\u0e47\u0e44\u0e21\u0e48\u0e40\u0e2d\u0e32",
-      "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
-    },
-    {
       "added_at": "2023-06-09 08:10:55",
       "album": {
         "name": "Walk Away",
@@ -399,22 +435,6 @@
       "duration_ms": 182000,
       "name": "RESTO IN CHILL",
       "url": "https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3"
-    },
-    {
-      "added_at": "2023-04-17 14:05:23",
-      "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/3qqBBlv9kDT4rDE1J3RvHR"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 177196,
-      "name": "Gaffe aux autres",
-      "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
     },
     {
       "added_at": "2023-07-13 12:32:20",
@@ -743,26 +763,6 @@
       "duration_ms": 217077,
       "name": "Pas d'ici",
       "url": "https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b"
-    },
-    {
-      "added_at": "2023-04-12 07:52:33",
-      "album": {
-        "name": "Jack e Lacrime",
-        "url": "https://open.spotify.com/album/7cau5ANQLaau3sH4tqH8Qw"
-      },
-      "artists": [
-        {
-          "name": "piazzabologna",
-          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
-        },
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 158083,
-      "name": "Jack e Lacrime",
-      "url": "https://open.spotify.com/track/2aSDEaup7MlEAr8uVVOo48"
     },
     {
       "added_at": "2023-05-30 12:45:30",

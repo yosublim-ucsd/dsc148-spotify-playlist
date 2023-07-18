@@ -2139,6 +2139,28 @@
     },
     {
       "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/0DcG4lvdZOGH4EGZJvftBM"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Dejav\u00fa",
+      "url": "https://open.spotify.com/track/1JnXc8ukcmbP2BRVRhmMaM"
+    },
+    {
+      "album": {
         "name": "Del\u00edrio",
         "url": "https://open.spotify.com/album/0Ls98DkVeMpWPRQGuwUn7K"
       },

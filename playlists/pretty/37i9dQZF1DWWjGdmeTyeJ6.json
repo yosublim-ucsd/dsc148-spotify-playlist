@@ -1,12 +1,12 @@
 {
   "description": "The <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels. Cover: Wynne. Artwork by Isu Kim. Updates every Wednesday.",
-  "num_followers": 1158434,
+  "num_followers": 1158432,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzM0NDY0MmQyOThhYzNjOGVlMzE0ZWE1Yzg4ODYyZmY2NmZkZWJk",
+  "snapshot_id": "MCw1ZTg1ZmY3ZDJjYjYwZDhlNGNmNjExZDJjNmZkZGJkNDMwODAyOTQ0",
   "tracks": [
     {
       "added_at": "2023-07-12 14:38:11",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Making Love",
-        "url": "https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9"
-      },
-      "artists": [
-        {
-          "name": "Treety",
-          "url": "https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL"
-        }
-      ],
-      "duration_ms": 178824,
-      "name": "Making Love",
-      "url": "https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2DqlX19dq3SAyuaBB9iRwk"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 144000,
       "name": "24/7",
       "url": "https://open.spotify.com/track/7G0WYG7DTL30E8we3aZsLn"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Making Love",
+        "url": "https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9"
+      },
+      "artists": [
+        {
+          "name": "Treety",
+          "url": "https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL"
+        }
+      ],
+      "duration_ms": 178824,
+      "name": "Making Love",
+      "url": "https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Cut Me Loose",
-        "url": "https://open.spotify.com/album/0cgxRe7Q9izoY03BpvkFYA"
-      },
-      "artists": [
-        {
-          "name": "MINOE",
-          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
-        }
-      ],
-      "duration_ms": 183809,
-      "name": "Cut Me Loose",
-      "url": "https://open.spotify.com/track/7mLvwSjBFZxBGj7x4LYrIR"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "BRAIN ROT",
         "url": "https://open.spotify.com/album/21sQ40GI6ZWTAEsTLmOGxC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 96000,
       "name": "BRAIN ROT",
       "url": "https://open.spotify.com/track/2vD9qmvNiwfxJj7mtoWPMI"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Cut Me Loose",
+        "url": "https://open.spotify.com/album/0cgxRe7Q9izoY03BpvkFYA"
+      },
+      "artists": [
+        {
+          "name": "MINOE",
+          "url": "https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi"
+        }
+      ],
+      "duration_ms": 183809,
+      "name": "Cut Me Loose",
+      "url": "https://open.spotify.com/track/7mLvwSjBFZxBGj7x4LYrIR"
     },
     {
       "added_at": "2023-07-12 16:08:41",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/4etA7GWlxEexBZCaAoQXkn"
-      },
-      "artists": [
-        {
-          "name": "Bryan Frazier",
-          "url": "https://open.spotify.com/artist/4XGE8POlT42DvWQzgs4rid"
-        }
-      ],
-      "duration_ms": 187850,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/1fyq71RVFO9SbLB6esGQVO"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/3UQfF38JAnid5DG2maFfZ1"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 158730,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/6wnhSopdkyLrhGsRjGZYMP"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/4etA7GWlxEexBZCaAoQXkn"
+      },
+      "artists": [
+        {
+          "name": "Bryan Frazier",
+          "url": "https://open.spotify.com/artist/4XGE8POlT42DvWQzgs4rid"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/1fyq71RVFO9SbLB6esGQVO"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Cadence",
-        "url": "https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG"
-      },
-      "artists": [
-        {
-          "name": "Cinder Well",
-          "url": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV"
-        }
-      ],
-      "duration_ms": 281795,
-      "name": "Two Heads, Grey Mare",
-      "url": "https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "Spiral City",
         "url": "https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 149106,
       "name": "Spiral City",
       "url": "https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Cadence",
+        "url": "https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG"
+      },
+      "artists": [
+        {
+          "name": "Cinder Well",
+          "url": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV"
+        }
+      ],
+      "duration_ms": 281795,
+      "name": "Two Heads, Grey Mare",
+      "url": "https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh"
     },
     {
       "added_at": "2023-07-12 16:08:41",
@@ -601,6 +601,22 @@
       "url": "https://open.spotify.com/track/2sz5fxSw17HpplBSJA7N3v"
     },
     {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Disbeliever",
+        "url": "https://open.spotify.com/album/4UebeIXE1sooIsskUa1uBC"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 171419,
+      "name": "How Does It Feel?",
+      "url": "https://open.spotify.com/track/4y22WiXJifTcRYCZ4UoIoo"
+    },
+    {
       "added_at": "2023-07-13 17:08:18",
       "album": {
         "name": "Terciopelo",
@@ -635,18 +651,34 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Disbeliever",
-        "url": "https://open.spotify.com/album/4UebeIXE1sooIsskUa1uBC"
+        "name": "LOSIN U",
+        "url": "https://open.spotify.com/album/21oZxwIF29zWOUxQ4iNTEB"
       },
       "artists": [
         {
-          "name": "Danny Dwyer",
-          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+          "name": "CLAVIS 7EVEN",
+          "url": "https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF"
         }
       ],
-      "duration_ms": 171419,
-      "name": "How Does It Feel?",
-      "url": "https://open.spotify.com/track/4y22WiXJifTcRYCZ4UoIoo"
+      "duration_ms": 219275,
+      "name": "LOSIN U",
+      "url": "https://open.spotify.com/track/3Yev5ppYhApRb0qiaN3N1J"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "I Don't Wanna Fall In Love",
+        "url": "https://open.spotify.com/album/0E4YU6XuLZmKwOU5s91oMR"
+      },
+      "artists": [
+        {
+          "name": "Bacavi",
+          "url": "https://open.spotify.com/artist/7mRPKukfheKbpoHKRS7kkd"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "I Don't Wanna Fall In Love",
+      "url": "https://open.spotify.com/track/3R0cqnFMP1wKQ7xTgCXJpW"
     },
     {
       "added_at": "2023-07-13 17:08:18",
@@ -667,22 +699,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "I Don't Wanna Fall In Love",
-        "url": "https://open.spotify.com/album/0E4YU6XuLZmKwOU5s91oMR"
-      },
-      "artists": [
-        {
-          "name": "Bacavi",
-          "url": "https://open.spotify.com/artist/7mRPKukfheKbpoHKRS7kkd"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "I Don't Wanna Fall In Love",
-      "url": "https://open.spotify.com/track/3R0cqnFMP1wKQ7xTgCXJpW"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "You!",
         "url": "https://open.spotify.com/album/7JadB3utzpjZJLojJdFw8z"
       },
@@ -695,38 +711,6 @@
       "duration_ms": 203575,
       "name": "You!",
       "url": "https://open.spotify.com/track/1OHfWdoYdRkvoEpEj4IKWj"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
-        "name": "LOSIN U",
-        "url": "https://open.spotify.com/album/21oZxwIF29zWOUxQ4iNTEB"
-      },
-      "artists": [
-        {
-          "name": "CLAVIS 7EVEN",
-          "url": "https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF"
-        }
-      ],
-      "duration_ms": 219275,
-      "name": "LOSIN U",
-      "url": "https://open.spotify.com/track/3Yev5ppYhApRb0qiaN3N1J"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
-        "name": "Do I Like Him (Or Is He Just Ignoring Me)",
-        "url": "https://open.spotify.com/album/6khUm9j87QALJiWd0SGypu"
-      },
-      "artists": [
-        {
-          "name": "Kate Grahn",
-          "url": "https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv"
-        }
-      ],
-      "duration_ms": 183913,
-      "name": "Do I Like Him (Or Is He Just Ignoring Me)",
-      "url": "https://open.spotify.com/track/3j9Zfip4jCNxTM3UFGEzXp"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "The Butterfly Stitches EP",
-        "url": "https://open.spotify.com/album/0HKrO3TnUHumUtl1hfeyfP"
+        "name": "Do I Like Him (Or Is He Just Ignoring Me)",
+        "url": "https://open.spotify.com/album/6khUm9j87QALJiWd0SGypu"
       },
       "artists": [
         {
-          "name": "Saytr Play",
-          "url": "https://open.spotify.com/artist/169EIOeeLOUF8KPn0hAvzG"
+          "name": "Kate Grahn",
+          "url": "https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv"
         }
       ],
-      "duration_ms": 190171,
-      "name": "Butterfly Stitches",
-      "url": "https://open.spotify.com/track/1OzILONaG8Y8TnWdZsuI5I"
+      "duration_ms": 183913,
+      "name": "Do I Like Him (Or Is He Just Ignoring Me)",
+      "url": "https://open.spotify.com/track/3j9Zfip4jCNxTM3UFGEzXp"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -775,6 +759,22 @@
       "duration_ms": 176833,
       "name": "bent",
       "url": "https://open.spotify.com/track/63wjDtMrtXEeZnHAccVyTE"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "The Butterfly Stitches EP",
+        "url": "https://open.spotify.com/album/0HKrO3TnUHumUtl1hfeyfP"
+      },
+      "artists": [
+        {
+          "name": "Saytr Play",
+          "url": "https://open.spotify.com/artist/169EIOeeLOUF8KPn0hAvzG"
+        }
+      ],
+      "duration_ms": 190171,
+      "name": "Butterfly Stitches",
+      "url": "https://open.spotify.com/track/1OzILONaG8Y8TnWdZsuI5I"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -807,6 +807,22 @@
       "duration_ms": 187666,
       "name": "Find Your Place",
       "url": "https://open.spotify.com/track/3X5Ouq28n3lllZuuhXUhlc"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Sleep It Off",
+        "url": "https://open.spotify.com/album/5p8BzYpUnJ8OMVmzJIsSn5"
+      },
+      "artists": [
+        {
+          "name": "Domani",
+          "url": "https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq"
+        }
+      ],
+      "duration_ms": 202031,
+      "name": "Sleep It Off",
+      "url": "https://open.spotify.com/track/6PZ3Ylsj9D8Jy85hxduUI6"
     },
     {
       "added_at": "2023-07-13 17:08:18",
@@ -845,38 +861,6 @@
       "url": "https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP"
     },
     {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
-        "name": "Moves & Grooves EP",
-        "url": "https://open.spotify.com/album/4AqOJadLoqYYDoGAtxXmJP"
-      },
-      "artists": [
-        {
-          "name": "Danny Snowden",
-          "url": "https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Moves & Grooves",
-      "url": "https://open.spotify.com/track/3MoAlHofIPAnHZCEducdzK"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
-        "name": "Sleep It Off",
-        "url": "https://open.spotify.com/album/5p8BzYpUnJ8OMVmzJIsSn5"
-      },
-      "artists": [
-        {
-          "name": "Domani",
-          "url": "https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq"
-        }
-      ],
-      "duration_ms": 202031,
-      "name": "Sleep It Off",
-      "url": "https://open.spotify.com/track/6PZ3Ylsj9D8Jy85hxduUI6"
-    },
-    {
       "added_at": "2023-07-12 16:08:41",
       "album": {
         "name": "Radial Gate",
@@ -891,6 +875,22 @@
       "duration_ms": 194863,
       "name": "Centurion",
       "url": "https://open.spotify.com/track/7fiJNhbMnYNv9jbFFaPQ0l"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Moves & Grooves EP",
+        "url": "https://open.spotify.com/album/4AqOJadLoqYYDoGAtxXmJP"
+      },
+      "artists": [
+        {
+          "name": "Danny Snowden",
+          "url": "https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Moves & Grooves",
+      "url": "https://open.spotify.com/track/3MoAlHofIPAnHZCEducdzK"
     },
     {
       "added_at": "2023-07-13 17:08:18",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
+        "name": "Wasted Energy",
+        "url": "https://open.spotify.com/album/3WrNUhMDOrmBIXI02PtQz3"
+      },
+      "artists": [
+        {
+          "name": "Abz Winter",
+          "url": "https://open.spotify.com/artist/4epvQMiFlOCecjYryYeeW9"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Wasted Energy",
+      "url": "https://open.spotify.com/track/5tLgWOnyeo8YoZpHVOLQcE"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/0yxzynoJU2oS2piqELOsEa"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 204590,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/3NDB4oAYoM5kd50COEOTUR"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
-        "name": "Wasted Energy",
-        "url": "https://open.spotify.com/album/3WrNUhMDOrmBIXI02PtQz3"
-      },
-      "artists": [
-        {
-          "name": "Abz Winter",
-          "url": "https://open.spotify.com/artist/4epvQMiFlOCecjYryYeeW9"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Wasted Energy",
-      "url": "https://open.spotify.com/track/5tLgWOnyeo8YoZpHVOLQcE"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Best Behavior",
-        "url": "https://open.spotify.com/album/0QFql8iqvQH595dyNLMf7G"
-      },
-      "artists": [
-        {
-          "name": "Ivers",
-          "url": "https://open.spotify.com/artist/6Va33rzjjnsRblW4ALpXmW"
-        }
-      ],
-      "duration_ms": 187293,
-      "name": "Best Behavior",
-      "url": "https://open.spotify.com/track/3ITPk8fTQYcNqY4rB3z9hO"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "57+5",
         "url": "https://open.spotify.com/album/5Rt8OWoJOjLu1HQLVYfqSM"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 96014,
       "name": "57+5",
       "url": "https://open.spotify.com/track/4S8EYF8GtXW8U9RAFbkfoV"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Best Behavior",
+        "url": "https://open.spotify.com/album/0QFql8iqvQH595dyNLMf7G"
+      },
+      "artists": [
+        {
+          "name": "Ivers",
+          "url": "https://open.spotify.com/artist/6Va33rzjjnsRblW4ALpXmW"
+        }
+      ],
+      "duration_ms": 187293,
+      "name": "Best Behavior",
+      "url": "https://open.spotify.com/track/3ITPk8fTQYcNqY4rB3z9hO"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Sola [Parte 2]",
-        "url": "https://open.spotify.com/album/7o5qcfnq48X93Q3xCtNOMt"
-      },
-      "artists": [
-        {
-          "name": "Kathy Palma",
-          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Sola [Parte 2]",
-      "url": "https://open.spotify.com/track/6JNwgS1IqIX1igkbWjkpVe"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "Summa Song",
         "url": "https://open.spotify.com/album/5W1OQqSK6nEKh1iHjkmfkU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 190758,
       "name": "Keep Trying Keep Trying",
       "url": "https://open.spotify.com/track/0npQ9M834NvoujebLePqOn"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Sola [Parte 2]",
+        "url": "https://open.spotify.com/album/7o5qcfnq48X93Q3xCtNOMt"
+      },
+      "artists": [
+        {
+          "name": "Kathy Palma",
+          "url": "https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Sola [Parte 2]",
+      "url": "https://open.spotify.com/track/6JNwgS1IqIX1igkbWjkpVe"
     },
     {
       "added_at": "2023-07-12 14:38:11",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-07-12 14:38:11",
       "album": {
-        "name": "Lvl Up",
-        "url": "https://open.spotify.com/album/37igg8BKQ3Ud3eYJmWnSmf"
-      },
-      "artists": [
-        {
-          "name": "Ish Akanour",
-          "url": "https://open.spotify.com/artist/69JgwhIi9mUCrs93Vgkxv2"
-        }
-      ],
-      "duration_ms": 144516,
-      "name": "Lvl Up",
-      "url": "https://open.spotify.com/track/1Dy9svL4Bz12Tx9a0vv1xv"
-    },
-    {
-      "added_at": "2023-07-12 14:38:11",
-      "album": {
         "name": "Desperate Living",
         "url": "https://open.spotify.com/album/5Pa4YtA3sMi0h99wRNriYo"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 225882,
       "name": "Desperate Living",
       "url": "https://open.spotify.com/track/60BitwtcqHJA4ZYuBX1f92"
+    },
+    {
+      "added_at": "2023-07-12 14:38:11",
+      "album": {
+        "name": "Lvl Up",
+        "url": "https://open.spotify.com/album/37igg8BKQ3Ud3eYJmWnSmf"
+      },
+      "artists": [
+        {
+          "name": "Ish Akanour",
+          "url": "https://open.spotify.com/artist/69JgwhIi9mUCrs93Vgkxv2"
+        }
+      ],
+      "duration_ms": 144516,
+      "name": "Lvl Up",
+      "url": "https://open.spotify.com/track/1Dy9svL4Bz12Tx9a0vv1xv"
     },
     {
       "added_at": "2023-07-12 14:38:11",

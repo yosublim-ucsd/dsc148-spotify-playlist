@@ -2,7 +2,7 @@
 
 ### [Written By Jake Kosich \(of Beach Noise\)](https://open.spotify.com/playlist/37i9dQZF1EFPfGQQdiNNNO)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6h6gbHw9ynyJ9YZrzV2BE0">Jake Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6jCxdxp9ZKUXa9kaAVlnx4">Jake Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 12 songs - 45 min 59 sec
 

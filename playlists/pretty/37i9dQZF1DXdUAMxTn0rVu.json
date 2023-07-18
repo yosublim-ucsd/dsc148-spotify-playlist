@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Dilated Peoples",
-  "num_followers": 407794,
+  "num_followers": 408096,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2FlYWQ3ZTFiMmM5MGMzMWNmMzYxNzAwNWNlMzQwYTg1ODI1MjEw",
+  "snapshot_id": "MCwwMDI4NjEzZDk2ZTM5YTZkYmQzNjBkOTNlNjk3MDViOWQyNDM0ZDdh",
   "tracks": [
     {
       "added_at": "2023-07-10 23:45:52",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
         "name": "J5 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 321293,
       "name": "Concrete Schoolyard",
       "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "Acid Raindrops",
-        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
-      },
-      "artists": [
-        {
-          "name": "People Under The Stairs",
-          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
-        }
-      ],
-      "duration_ms": 264152,
-      "name": "Acid Raindrops",
-      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+        "name": "Acid Raindrops",
+        "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
       },
       "artists": [
         {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+          "name": "People Under The Stairs",
+          "url": "https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+      "duration_ms": 264152,
+      "name": "Acid Raindrops",
+      "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -299,6 +299,26 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
         "name": "Expansion Team",
         "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 218293,
       "name": "Design in Malice",
       "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "Hi-Teknology",
-        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
-      },
-      "artists": [
-        {
-          "name": "Hi-Tek",
-          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
-        }
-      ],
-      "duration_ms": 274826,
-      "name": "The Sun God",
-      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
         "name": "Mos Def & Talib Kweli Are Black Star",
         "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+        "name": "Hi-Teknology",
+        "url": "https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "Hi-Tek",
+          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+      "duration_ms": 274826,
+      "name": "The Sun God",
+      "url": "https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -691,6 +675,38 @@
       "duration_ms": 245493,
       "name": "Much More (feat. Yummy)",
       "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "A Long Hot Summer",
+        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Good Ol Love",
+      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -723,22 +739,6 @@
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
       },
       "artists": [
         {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
         }
       ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
+      "duration_ms": 241533,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 233493,
       "name": "100% Dundee",
       "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2023-07-10 23:45:52",

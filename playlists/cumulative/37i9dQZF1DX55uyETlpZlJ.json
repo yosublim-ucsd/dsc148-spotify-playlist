@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 237329,
       "name": "Careless",
       "url": "https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh"
@@ -1147,6 +1147,28 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        },
+        {
+          "name": "Manu Rao",
+          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85772,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK"
+    },
+    {
+      "album": {
         "name": "Khayali",
         "url": "https://open.spotify.com/album/6QNuYLe3fEVm43H8ADzTTU"
       },
@@ -1286,7 +1308,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 177600,
       "name": "Mallige Hoova",
       "url": "https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS"
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 244528,
       "name": "Naguve",
       "url": "https://open.spotify.com/track/4mN6OOFm6AZuaFOQkZmwZD"
@@ -1612,7 +1634,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 217046,
       "name": "Nanna Hrudaya",
       "url": "https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1"
@@ -2265,6 +2287,28 @@
     },
     {
       "album": {
+        "name": "QUICK FIX",
+        "url": "https://open.spotify.com/album/7e9S5JfIKYhjglqdcb1XGP"
+      },
+      "artists": [
+        {
+          "name": "Shastra",
+          "url": "https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34"
+        },
+        {
+          "name": "NUMB-URGH",
+          "url": "https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126101,
+      "name": "QUICK FIX",
+      "url": "https://open.spotify.com/track/3k6XUW5YqaTYhnvnakgubB"
+    },
+    {
+      "album": {
         "name": "Rain Chant",
         "url": "https://open.spotify.com/album/6KcfWe3ii5Mo0LnMiUjHD7"
       },
@@ -2298,7 +2342,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 103196,
       "name": "Ranasagar",
       "url": "https://open.spotify.com/track/4sQQVsnzryMPIiBBSMSQFk"
@@ -2451,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "Sangaathiye",
+        "url": "https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM"
+      },
+      "artists": [
+        {
+          "name": "Satvik C S",
+          "url": "https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217936,
+      "name": "Sangaathiye",
+      "url": "https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk"
+    },
+    {
+      "album": {
         "name": "She is my X",
         "url": "https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX"
       },
@@ -2462,7 +2524,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 171999,
       "name": "She is my X",
       "url": "https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X"

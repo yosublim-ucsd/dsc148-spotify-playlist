@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 982,848 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 982,987 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 3 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 4 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 | 5 | [Close To The Edge](https://open.spotify.com/track/5cKXWL2gO6VUwMey396Uqu) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Close To The Edge](https://open.spotify.com/album/0l1BGa8KszhTBMsXBpxPK2) | 2:48 |
-| 6 | [Hiding On The Moon](https://open.spotify.com/track/5tgY2SlsTLGMETzl2tIem4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [Hiding On The Moon](https://open.spotify.com/album/0j8BOGYANd6au3xvdmQka0) | 3:53 |
-| 7 | [Out of the Ashes](https://open.spotify.com/track/5pdfwA4RJCEp7GpCJlu2pi) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Spark of Light](https://open.spotify.com/album/16lQiSe7q4wKDTicJp7jLI) | 4:16 |
+| 6 | [Alright](https://open.spotify.com/track/7D0JW4Y6E1qwxbb6qJOoRl) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Alright](https://open.spotify.com/album/3uWW618L8QiHs3ta7yQTI7) | 2:54 |
+| 7 | [Hiding On The Moon](https://open.spotify.com/track/5tgY2SlsTLGMETzl2tIem4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [Hiding On The Moon](https://open.spotify.com/album/0j8BOGYANd6au3xvdmQka0) | 3:53 |
 | 8 | [Wide Open](https://open.spotify.com/track/5TUpyqeMd2q1rC2xDHN1JE) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Wide Open](https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x) | 3:09 |
 | 9 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 |
 | 10 | [Motorbike](https://open.spotify.com/track/4eQkOn4sXPbxyTTqkLfplU) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Motorbike](https://open.spotify.com/album/6HkKKesPG4HKw3J8mQhR9Z) | 3:21 |
-| 11 | [Alright](https://open.spotify.com/track/7D0JW4Y6E1qwxbb6qJOoRl) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Alright](https://open.spotify.com/album/3uWW618L8QiHs3ta7yQTI7) | 2:54 |
-| 12 | [Another Half](https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Another Half](https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy) | 2:28 |
-| 13 | [i'm sorry](https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i'm sorry](https://open.spotify.com/album/2W3tnfj8SznmHGJueCtfrG) | 3:13 |
+| 11 | [Another Half](https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Another Half](https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy) | 2:28 |
+| 12 | [i'm sorry](https://open.spotify.com/track/0PjId4Gfc96mYOl675FsfU) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i'm sorry](https://open.spotify.com/album/2W3tnfj8SznmHGJueCtfrG) | 3:13 |
+| 13 | [Out of the Ashes](https://open.spotify.com/track/5pdfwA4RJCEp7GpCJlu2pi) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Spark of Light](https://open.spotify.com/album/16lQiSe7q4wKDTicJp7jLI) | 4:16 |
 | 14 | [No California](https://open.spotify.com/track/1w21mLzlkcpKReMjbbUwpa) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [No California](https://open.spotify.com/album/3MTWOgFgOmAQbqw49MKbaq) | 3:35 |
 | 15 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
 | 16 | [If You Think You've Seen It All](https://open.spotify.com/track/10q5sJ4yF1BWYGsiso3x14) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Normal](https://open.spotify.com/track/7j6r88KZPacrIqtTGO9jMG) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:51 |
 | 100 | [Another Heart](https://open.spotify.com/track/7hiX2B01zsQxzQn7Sc6UNV) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Another Heart](https://open.spotify.com/album/5LEkV58Pa82xSZsvBw3Acu) | 3:41 |
 
-Snapshot ID: `MCw2ZGVjMjY4MzVmOWU3NTI3NzEwNDBmMDgyMzlmZDNhMWUwNmIxYWIx`
+Snapshot ID: `MCxkNGFmNmMwMGQ2MGM1NzZmNjRkNzViOGQ4OTc1ODE5NzRhZTM3MWE3`

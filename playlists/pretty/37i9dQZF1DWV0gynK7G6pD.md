@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Sphinx Virtuosi
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,353 likes - 53 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,417 likes - 53 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 52 | [Příhody Lišky Bystroušky, JW I/9, Act I \(Arr\. for Voices, Choir & Chamber Orchestra by Fabrice Bollon\): Mělas dělat podlivá mně](https://open.spotify.com/track/3wcm1GswisrMtYn6MndSnW) | [Leoš Janáček](https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp), [Katerina Hebelková](https://open.spotify.com/artist/3zTB3vEcgndJJYYii9JgkX), [Devony Smith](https://open.spotify.com/artist/78f9x8iG5vVOMBH9Nlux4v), [Janina Staub](https://open.spotify.com/artist/3t78pegYRVi68fBiJb1J4Z), [Samantha Gaul](https://open.spotify.com/artist/1xLMs4oERjkRTaBFLmAPUU), [Anja Jung](https://open.spotify.com/artist/3gDClZmXv3RAD5BzKQbkFE), [Michael Borth](https://open.spotify.com/artist/2gOAY1difp4TwQq1FXWkuf), [The Lily's Project](https://open.spotify.com/artist/64NuDAZHw7imYM7RbPdUSl), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ), [Kyoung\-Eun Lee](https://open.spotify.com/artist/6awghpoIalEgNlFQVZdFcB), [Margarete Nüßlein](https://open.spotify.com/artist/2Ouqlzd9kghVmrZLHd6zOv), [Christiane Klier](https://open.spotify.com/artist/0hzDRL3liek5roNuDymHEP), [Jelena Milovic](https://open.spotify.com/artist/2QFPoCaWygm7V5o6bimiX9) | [Janácek & Fabrice Bollon: Works](https://open.spotify.com/album/1Q8sNhY1gDbkEQNsULGeOS) | 4:56 |
 | 53 | [O Give Thanks Unto the Lord](https://open.spotify.com/track/2koJqkmU4ioKL8WYMkegBO) | [James MacMillan](https://open.spotify.com/artist/5eSXFv3Ll2MEHf0eSAYJGu), [Choir of St\. John's College, Cambridge](https://open.spotify.com/artist/1fwwl0jxv972y7OpKpL6Ax), [Andrew Nethsingha](https://open.spotify.com/artist/1cjPVlZolZrXVZRMTtGuhx) | [O Give Thanks Unto the Lord](https://open.spotify.com/album/0OTeWiS8mPw4s8FMMlXtGh) | 6:19 |
 
-Snapshot ID: `MCwxMDY4YTM4ODBmNDQzZjU5NzllYTQ5N2FiM2UyZjcwZTZjM2Q5Yjk2`
+Snapshot ID: `MCwyYmZlZTAyNmE2NzAzYWY4MzFjYTYxZmNiOTY2YWQyZWFiMzVjYmM5`

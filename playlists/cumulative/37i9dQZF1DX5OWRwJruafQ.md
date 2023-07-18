@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-165 songs - 8 hr 1 min
+166 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Good Luck](https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Good Luck](https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N) | 3:31 | 2023-03-29 |  |
 | [Gucci di Sole](https://open.spotify.com/track/6RVmuLStrBGHGJ0CJhRh0U) | [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Gucci di Sole](https://open.spotify.com/album/2pl506txbaVonUeAtziLVt) | 2:48 | 2023-03-29 |  |
 | [Hard Knock Life](https://open.spotify.com/track/3uWoeP4NbQMnObVhxa4t0J) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Hard Knock Life](https://open.spotify.com/album/5w7kjwK7VYpUAsZn6TYtjO) | 3:19 | 2023-05-05 | 2023-05-27 |
+| [Hathyar \- From "Tufang"](https://open.spotify.com/track/1JpUj7FtR1pGM2OAZdSeK3) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Hathyar \(From "Tufang"\)](https://open.spotify.com/album/5zXOlnv7LlCLlipzHBdSPk) | 2:24 | 2023-07-17 |  |
 | [Highway To Hell](https://open.spotify.com/track/5f7N1TQ2N1Hf9Q4OUXLphX) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Highway To Hell](https://open.spotify.com/album/0NEzC57EkJUAeXmVZC2mjD) | 3:12 | 2023-03-29 | 2023-04-21 |
 | [Hold On](https://open.spotify.com/track/1rtqV8vLqY6bvFw1Mna6rs) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:02 | 2023-03-29 | 2023-07-15 |
 | [Hood Famous](https://open.spotify.com/track/5iVYMQKl3OZi0ULxeKAkho) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Relentless](https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ) | 2:56 | 2023-03-29 |  |

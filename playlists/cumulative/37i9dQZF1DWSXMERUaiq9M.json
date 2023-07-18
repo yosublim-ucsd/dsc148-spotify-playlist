@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 351283,
       "name": "Addicted To Bass",
       "url": "https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 302805,
       "name": "Cannot Compute",
       "url": "https://open.spotify.com/track/59HNP4y9kc2GnnG8LeHmg5"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 370615,
       "name": "Flow My Tears",
       "url": "https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 280010,
       "name": "Ich bin ready - DJ Gigola Version",
       "url": "https://open.spotify.com/track/2vVC5wEtP5klz59i8HO2j9"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 173810,
       "name": "LOVE 4 LIFE",
       "url": "https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa"
@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/0QCuHHMLxX7UOUUnpxJB3i"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 350896,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4GIvkMOZpVLXdruLT5ZAhv"
@@ -2254,7 +2272,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-18",
       "duration_ms": 215225,
       "name": "Sweet Disposition - Mashd N Kutcher Remix",
       "url": "https://open.spotify.com/track/3uPsJSn7gDfThRFLGXo81u"

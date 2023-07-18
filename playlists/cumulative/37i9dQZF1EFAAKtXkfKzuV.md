@@ -2,7 +2,7 @@
 
 ### [Written By Stevie Bashir](https://open.spotify.com/playlist/37i9dQZF1EFAAKtXkfKzuV)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14SS3GdnxBunBFDX8zr3gc">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 52 songs - 2 hr 27 min
 

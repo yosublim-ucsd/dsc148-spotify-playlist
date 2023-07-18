@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: jev.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,280 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,285 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Your Melody](https://open.spotify.com/track/6J1EaYbbmuV1G3IDyL7oPL) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Your Melody](https://open.spotify.com/album/2oZuZh1ZlbSr6ZVxnRsm6m) | 3:19 |
 | 50 | [Money Up](https://open.spotify.com/track/5dj2jy1T2LhSi9z5s1ntSb) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Tout vient d'en haut](https://open.spotify.com/album/6puUijNg2lAxC93OZr1QB0) | 3:17 |
 
-Snapshot ID: `MCxmNDFhZTc1NTE1NWFkZGIyYmE0ZjM5MGJhZmU3MzExYWIzNDU2ZGQ4`
+Snapshot ID: `MCxhYjU2MmViMzcyMTU0ZjUzZDZiYzcxNWZlZmU1YzZlYjZhNjdlMDBj`

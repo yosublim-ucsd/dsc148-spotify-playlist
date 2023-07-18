@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Pablito Calavera y Cartel de Santa en la casa.
 
-392 songs - 23 hr 12 min
+393 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [La Boca del Lobo](https://open.spotify.com/track/0dsLlJcjO9zmJI7Pc2LEnH) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [Ñengo El Quetzal](https://open.spotify.com/artist/0wl0MWuc23Gt1xWBH10t2t) | [Águila de los 90'S, Vol\. 2](https://open.spotify.com/album/7jhkCbRaFSIrleSk7HacZy) | 4:25 | 2023-01-13 | 2023-02-11 |
 | [La Botella](https://open.spotify.com/track/2zTggRQD6tFBxToCtSIW2n) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [La Botella](https://open.spotify.com/album/1Hjt4oBEetl0vu7TipOi2q) | 3:24 | 2022-01-28 | 2022-03-05 |
 | [La Canija](https://open.spotify.com/track/5gB8fsuZuaoxfOJv7FTzcz) | [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Los Muchachos](https://open.spotify.com/album/2ZW9ek5ZpRflEPKDUX70AB) | 2:55 | 2023-03-31 | 2023-04-09 |
+| [La Cara de Loco](https://open.spotify.com/track/5NxgaP46I5vi1aJZW4oIsZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 2:47 | 2023-07-17 |  |
 | [La Familia](https://open.spotify.com/track/7MrOL3OjCSmYj39yTcvOtB) | [Dyablo](https://open.spotify.com/artist/7eU5CvFPPiqSqnKiNmZNy7) | [La Familia](https://open.spotify.com/album/6R14nQggTNlye4LJjTHoWx) | 2:50 | 2023-05-26 |  |
 | [La Familia \(Episodio 3\)](https://open.spotify.com/track/3My1xeYZKWoxQ1BL5FTBHK) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [La Familia \(Episodio 3\)](https://open.spotify.com/album/0L4OmODB4Q6fAzRHPgvjNz) | 2:39 | 2023-03-10 | 2023-05-20 |
 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 | 2023-05-29 | 2023-07-15 |
@@ -309,7 +310,7 @@
 | [Salud](https://open.spotify.com/track/1RCDMFUnR7soxZT8LFLs9A) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Salud](https://open.spotify.com/album/22VLS3WuZWBbqJMYFUMTVt) | 3:27 | 2022-01-28 | 2022-05-29 |
 | [Salí Del Barrio](https://open.spotify.com/track/2I6PoaMR4PT0K6udXeJRfF) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Salí Del Barrio](https://open.spotify.com/album/1Kk7LCLjtZVTpu1Pd5f8aA) | 3:06 | 2022-01-28 | 2022-04-21 |
 | [Sangre De Mi Sangre](https://open.spotify.com/track/5JVrEEGdlpNj82dDrV12PB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Ruff](https://open.spotify.com/artist/4rF9gN69rubLGEHTFbVbh0) | [Mi Canción](https://open.spotify.com/album/3x4ZBWiVL9qgN7ROqSb3Em) | 3:44 | 2022-01-28 | 2022-03-12 |
-| [Sangre Fría](https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz) | [Shainy](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Sangre Fría](https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w) | 3:44 | 2023-03-31 |  |
+| [Sangre Fría](https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz) | [Shainy](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Sangre Fría](https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w) | 3:44 | 2023-03-31 | 2023-07-18 |
 | [Santo Grial](https://open.spotify.com/track/2Yf1mFq3vuZKGKwolRVqsJ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 3:09 | 2022-08-25 |  |
 | [Se Fue](https://open.spotify.com/track/2Dldi4E3sf021OxN7tL40L) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q) | [Se Fue](https://open.spotify.com/album/5MXmmttCieaObXjTBpUfXt) | 3:09 | 2022-01-28 | 2022-05-07 |
 | [Se Fue la Luz](https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Fue la Luz](https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK) | 3:45 | 2022-11-04 |  |

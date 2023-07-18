@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422212,
+  "num_followers": 422219,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTNkMWJjNmQ4ZGU5OGNjYzY1M2ExMGZmYjk1YjJkMmU3NGVhYzk5",
+  "snapshot_id": "MCwwY2M0NTMyZmNhMzhhMGZkMDBlN2M0ZmU5MDdkZWVlNmZlYmFkNzIy",
   "tracks": [
+    {
+      "added_at": "2023-07-17 19:37:42",
+      "album": {
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
+      },
+      "artists": [
+        {
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
+        }
+      ],
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
+    },
     {
       "added_at": "2023-07-16 05:00:00",
       "album": {
@@ -875,26 +891,6 @@
       "duration_ms": 230982,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS"
-    },
-    {
-      "added_at": "2023-06-25 03:00:00",
-      "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK"
-      },
-      "artists": [
-        {
-          "name": "Xavier Martinex",
-          "url": "https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY"
-        },
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 188507,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",
